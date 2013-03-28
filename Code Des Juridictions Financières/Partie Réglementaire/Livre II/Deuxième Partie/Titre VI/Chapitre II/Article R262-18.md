@@ -24,8 +24,9 @@ dans les fonctions de comptable public.
 
 Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin
 de jugement ou d'ordonnance, les rapports concernant les demandes d'inscription
-d'office d'une dépense obligatoire en application des articles LO 263-5 et LO
-263-21 et de décision sur la compétence.
+d'office d'une dépense obligatoire en application de l'article 208-3 de la loi
+organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et à
+l'article LO 263-21 et de décision sur la compétence.
 
 Il présente ses conclusions écrites sur ces rapports.
 

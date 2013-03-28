@@ -1,10 +1,17 @@
 Article D144-5
 ----
-Les arrêts de la Cour des comptes concernant les personnes déclarées comptables
-de fait sont notifiés par le secrétaire général de la Cour par lettre
-recommandée avec avis de réception ; le directeur départemental ou, le cas
-échéant, régional des finances publiques des créances spéciales du Trésor reçoit
-ampliation desdits arrêts.
+La déclaration mentionnée au quatrième alinéa de l'article L. 111-8 est
+délibérée par la chambre compétente de la Cour des comptes ou, le cas échéant,
+par la section compétente. Elle précise la raison sociale de l'organisme et la
+période contrôlée. Elle comporte une brève synthèse du rapport et indique
+expressément que les dépenses engagées ne sont pas conformes aux objectifs
+poursuivis par l'appel à la générosité publique ou que les dépenses financées
+par les dons ouvrant droit à un avantage fiscal ne sont pas conformes aux
+objectifs de l'organisme.
 
-En cas de besoin, la notification des arrêts est faite suivant les procédures
-prévues aux articles D. 144-2 et D. 144-4.
+Elle est transmise par le premier président aux autorités mentionnées au
+quatrième alinéa de l'article L. 111-8, ainsi que le rapport auquel elle est
+annexée.
+
+Elle est alors affichée à la Cour des comptes et mise en ligne sur le site
+internet des juridictions financières.

@@ -1,7 +1,7 @@
 Article R271-1
 ----
 La Cour des comptes, en vue d'établir son rapport public annuel dans les
-conditions prévues aux articles L. 136-1 à L. 136-5, reçoit communication des
+conditions prévues aux articles L. 143-6 à L. 143-10, reçoit communication des
 observations de la chambre territoriale des comptes susceptibles de faire
 l'objet d'une insertion ou d'une mention au rapport public.
 
@@ -15,4 +15,4 @@ Le premier président de la Cour des comptes fixe, après avis du procureur
 général et après consultation du Conseil supérieur des chambres régionales des
 comptes, les modalités d'élaboration et de transmission des observations de la
 chambre territoriale à la Cour des comptes, sans préjudice des dispositions
-prévues par l'article R. 136-3.
+prévues par l'article R. 143-7.

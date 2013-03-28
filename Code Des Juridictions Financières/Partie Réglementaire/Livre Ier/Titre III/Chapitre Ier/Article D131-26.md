@@ -15,7 +15,7 @@ gestions antérieures à la gestion évoquée.
 
 Les décisions d'apurement administratif prises par les comptables supérieurs
 peuvent faire l'objet de réformation par la Cour des comptes sur réquisition du
-ministère public dans les conditions fixées à l'article R. 141-12.
+ministère public dans les conditions fixées à l'article R. 142-4.
 
 La Cour juge les gestions de fait afférentes aux comptes ressortissant à
 l'apurement administratif des comptables supérieurs. Dans ce cas, les comptes du

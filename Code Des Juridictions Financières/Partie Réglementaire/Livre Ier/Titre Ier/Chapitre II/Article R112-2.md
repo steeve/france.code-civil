@@ -1,4 +1,4 @@
 Article R112-2
 ----
-Le procureur général, qui exerce le ministère public, est assisté d'un premier
-avocat général, d'avocats généraux et de chargés de mission.
+Le procureur général, qui exerce le ministère public, est assisté par un premier
+avocat général et des avocats généraux ainsi que par des chargés de mission.

@@ -11,5 +11,4 @@ Il assure les échanges d'informations entre la Cour des comptes et les autorit�
 judiciaires et autres autorités chargées d'un pouvoir de sanction.
 
 Il oriente et coordonne, s'il y a lieu par recommandations écrites, l'action des
-commissaires du Gouvernement près les chambres régionales et territoriales des
-comptes.
+procureurs financiers près les chambres régionales et territoriales des comptes.

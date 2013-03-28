@@ -17,5 +17,5 @@ dans le jugement ou l'ordonnance attaqué ainsi que de toutes pièces qu'il esti
 nécessaires à l'établissement de son rapport. Ces pièces sont versées au
 dossier.
 
-IV.-Les règles mentionnées aux articles R. 141-12 à R. 141-21 s'appliquent à
+IV.-Les règles mentionnées aux articles R. 142-4 à R. 142-13 s'appliquent à
 l'appel.

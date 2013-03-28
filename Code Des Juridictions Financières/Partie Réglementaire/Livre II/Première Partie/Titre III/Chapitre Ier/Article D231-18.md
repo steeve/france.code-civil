@@ -1,7 +1,6 @@
 Article D231-18
 ----
-Le seuil de 3 500 habitants, prévu à l'article L. 211-2, est apprécié tous les
-cinq exercices sur la base du dernier résultat du recensement de la population
-publié et, le cas échéant, des arrêtés ministériels homologuant les résultats
-des recensements complémentaires, dans les conditions fixées par les articles R.
-2151-2 à R. 2151-7 du code général des collectivités territoriales.
+Les seuils de 3 500,5 000 et 10 000 habitants, prévus aux 1° et 2° de l'article
+L. 211-2, s'apprécient tous les cinq exercices à partir de l'exercice 2013 la
+population légale en vigueur, dans les conditions fixées par l'article R. 2151-2
+du code général des collectivités territoriales.

@@ -5,7 +5,7 @@ Le préfet qui saisit la chambre régionale des comptes d'une convention relativ
 joint à cette saisine, outre le texte intégral de l'acte, tous documents et
 renseignements utiles à son examen et relatifs à sa passation.
 
-Les dispositions des articles R. 242-1, R. 263-13 et R. 263-41 du code des
+Les dispositions des articles R. 244-1, R. 263-13 et R. 263-41 du code des
 juridictions financières ainsi que celles des articles R. 1612-8, R. 1612-12 et
 R. 1612-13, relatives au contrôle des actes budgétaires, sont applicables.
 

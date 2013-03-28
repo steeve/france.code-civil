@@ -16,4 +16,4 @@ comptable.
 Dans le deuxième cas, leurs arrêtés fixent le montant du débet à titre
 conservatoire. La comptabilité et tous documents nécessaires sont transmis à la
 Cour. Le jugement de l'affaire obéit aux règles prévues par les articles R.
-141-12 à R. 141-21.
+142-4 à R. 142-13.

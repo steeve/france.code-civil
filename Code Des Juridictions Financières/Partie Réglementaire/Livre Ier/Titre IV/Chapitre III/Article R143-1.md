@@ -1,28 +1,45 @@
 Article R143-1
 ----
-I. - Le comptable, ou ses ayants droit, peut demander la révision d'un arrêt ou
-d'une ordonnance en produisant des justifications recouvrées depuis cet arrêt ou
-cette ordonnance.
+La Cour des comptes fait connaître ses observations :
 
-La requête en révision est adressée au premier président par lettre recommandée
-avec avis de réception. Elle doit comporter l'exposé des faits et moyens
-invoqués par le requérant et être accompagnée d'une copie de l'arrêt ou de
-l'ordonnance attaqué et des justifications sur lesquelles elle se fonde.
+Par le rapport public annuel et les rapports publics thématiques établis en
+application de l'article L. 143-6 ;
 
-II. - La Cour des comptes peut procéder à la révision d'un arrêt ou d'une
-ordonnance, pour cause d'erreur, omission, faux ou double emploi, d'office ou
-sur réquisition du procureur général. Cette réquisition peut être prise de sa
-propre initiative ou à la demande du ministre chargé du budget, des ministres
-intéressés, ainsi que des représentants des collectivités et établissements
-concernés.
+Par les rapports établis et les avis formulés en application des dispositions
+prévues aux 2°, 3°, 4°, 5° et 6° de l'article 58 de la loi organique n° 2001-692
+du 1er août 2001 et aux articles LO 132-2-1, LO 132-3, L. 132-4 du présent code
+;
 
-III. - Le président de la formation de jugement compétente, ou le magistrat
-délégué à cet effet, désigne un magistrat chargé d'instruire la demande de
-révision. Celle-ci est notifiée aux autres parties, qui disposent d'un délai de
-quinze jours pour produire un mémoire.
+Par les rapports particuliers établis en application du deuxième alinéa de
+l'article L. 143-3 ;
 
-Le rapport est communiqué au ministère public, qui présente ses conclusions.
+Par référés du premier président aux ministres.
 
-La formation de jugement compétente statue sur la révision d'un arrêt ou d'une
-ordonnance, après audience publique, par un arrêt unique sur la recevabilité du
-recours et, s'il y a lieu, sur le fond de l'affaire.
+Les observations de la Cour peuvent également être transmises par des
+communications du procureur général aux autorités compétentes.
+
+Certaines observations de la Cour des comptes peuvent faire l'objet de lettres
+d'un président de chambre ou de formation interchambres aux autorités
+compétentes.
+
+Les rapports particuliers mentionnés ci-dessus sont transmis par le premier
+président au Premier ministre, aux ministres concernés ainsi qu'aux dirigeants
+de l'organisme contrôlé.
+
+Les communications de la Cour des comptes mentionnées à l'article L. 143-1 sont
+rendues publiques par le premier président.
+
+Lorsque la Cour des comptes envisage de rendre publique une communication, le
+premier président en informe les destinataires ainsi que toute personne mise en
+cause et les invite à lui faire part de leurs réponses dans un délai d'un mois
+ou, pour les référés, dans le délai fixé à l'article L. 143-5. Ces réponses
+engagent la seule responsabilité de leurs auteurs.
+
+La publication de la communication, accompagnée des réponses adressées au
+premier président, ne peut intervenir qu'à l'expiration du délai de réponse
+applicable.
+
+Les communications faites aux ministres ou aux autorités administratives en
+application des articles R. 241-24, R. 262-79 et R. 272-67 sont, le cas échéant,
+simultanément transmises par la Cour pour information aux collectivités et
+établissements publics locaux concernés.

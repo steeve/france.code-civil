@@ -14,5 +14,5 @@ A l'expiration du délai d'un mois précité et après avoir procédé éventuel
 aux auditions, la Cour statue définitivement.
 
 Les conclusions arrêtées par la Cour sont consignées dans le rapport particulier
-prévu par l'article L. 135-3, sous réserve des dispositions législatives et
+prévu par l'article L. 143-3, sous réserve des dispositions législatives et
 réglementaires applicables en matière de secret.

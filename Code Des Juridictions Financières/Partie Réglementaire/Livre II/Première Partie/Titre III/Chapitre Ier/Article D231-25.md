@@ -9,5 +9,5 @@ Cet arrêté est accompagné du ou des comptes de gestion apurés et des répons
 apportées par le comptable aux observations et injonctions de l'autorité
 compétente de l'Etat.
 
-Le jugement de l'affaire obéit aux règles prévues par les articles R. 241-34 à
-R. 241-43.
+Le jugement de l'affaire obéit aux règles prévues par les articles R. 242-3 à R.
+242-12.

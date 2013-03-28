@@ -1,6 +1,10 @@
 Article R142-4
 ----
-Lorsque la Cour des comptes est saisie par le ministre chargé du budget, en
-application des dispositions du IV de l'article 1378 octies du code général des
-impôts, l'avis est rendu par la chambre compétente et transmis au ministre
-chargé du budget par le premier président.
+Lorsqu'une instance a été ouverte dans les conditions prévues au III de
+l'article L. 142-1, le réquisitoire du ministère public et le nom du ou des
+magistrats chargés de l'instruction sont notifiés à chacun des comptables et
+autres personnes mis en cause, ainsi qu'à l'ordonnateur en fonctions.
+
+Les comptables et autres personnes mis en cause, ainsi que l'ordonnateur en
+fonctions, ont accès au dossier constitué des pièces sur lesquelles le
+réquisitoire est fondé.

@@ -1,7 +1,7 @@
 Article D254-6
 ----
-Les articles D. 246-1 à D. 246-8 sont applicables dans les conditions suivantes
-:
+Les articles D. 242-32 à D. 242-39 sont applicables dans les conditions
+suivantes :
 
 1° Les références aux chambres régionales des comptes ou à la chambre régionale
 des comptes sont respectivement remplacées par des références aux chambres

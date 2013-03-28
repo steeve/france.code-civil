@@ -1,11 +1,11 @@
 Article R143-3
 ----
-Les comptables ou leurs ayants droit, le ministre chargé du budget, les autres
-ministres pour ce qui concerne leur département, les représentants légaux des
-collectivités et des établissements publics intéressés, les ordonnateurs
-intéressés et le procureur général près la Cour des comptes peuvent demander au
-Conseil d'Etat la cassation pour vice de forme, incompétence ou violation de la
-loi des arrêts et des ordonnances rendus par la Cour des comptes.
+Si, à l'occasion de ses contrôles, la Cour des comptes découvre des faits de
+nature à motiver l'ouverture d'une action pénale, elle en informe le procureur
+général près la Cour des comptes, qui saisit le garde des sceaux, ministre de la
+justice, et avise le ministre intéressé ainsi que le ministre chargé des
+finances.
 
-Le pourvoi doit, à peine d'irrecevabilité, être introduit dans un délai de deux
-mois à compter de la notification de l'arrêt ou de l'ordonnance.
+Elle saisit le procureur général, ministère public près la Cour de discipline
+budgétaire et financière, des faits de nature à motiver l'intervention de cette
+juridiction.

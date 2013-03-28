@@ -1,7 +1,8 @@
 Article R263-6
 ----
 Les propositions de la chambre territoriale des comptes, formulées conformément
-à l'article LO 263-4 et tendant au rétablissement de l'équilibre budgétaire,
+à l'article 208-2 de la loi organique n° 99-209 du 19 mars 1999 relative à la
+Nouvelle-Calédonie et tendant au rétablissement de l'équilibre budgétaire,
 portent sur des mesures dont la réalisation relève de la seule responsabilité de
 la collectivité concernée.
 

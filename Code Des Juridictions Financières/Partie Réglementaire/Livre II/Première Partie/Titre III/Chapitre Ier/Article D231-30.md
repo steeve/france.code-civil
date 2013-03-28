@@ -22,7 +22,7 @@ département ou la région et le procureur financier près la chambre régionale
 comptes peuvent encore demander à la chambre régionale des comptes de réformer
 les arrêtés des directeurs départementaux ou, le cas échéant, régionaux des
 finances publiques pour cause d'erreur, omission, faux ou double emploi selon la
-procédure prévue au II de l'article R. 243-13. Le procureur financier près la
+procédure prévue au II de l'article R. 242-26. Le procureur financier près la
 chambre régionale des comptes peut également demander hors délai la réformation
 des arrêtés pris sur les comptes du comptable patent lorsqu'une gestion de fait
 a été déférée à la chambre régionale des comptes conformément aux dispositions

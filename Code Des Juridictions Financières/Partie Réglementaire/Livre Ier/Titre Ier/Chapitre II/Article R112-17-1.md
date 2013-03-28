@@ -7,7 +7,7 @@ la limite d'âge et aux modalités de recrutement de certains fonctionnaires
 civils de l'Etat, des conseillers maîtres, des conseillers maîtres en service
 extraordinaire et des présidents de chambre régionale et territoriale des
 comptes ayant le grade de conseiller maître. Les conseillers référendaires et
-les auditeurs y ont accès sans voix délibérative.
+les auditeurs y ont accès avec voix consultative.
 
 II. ― La chambre du conseil en formation plénière est saisie des projets du
 rapport public annuel prévu à l'article L. 143-6, des rapports prévus aux

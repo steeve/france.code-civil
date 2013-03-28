@@ -4,5 +4,5 @@ Lorsqu'ils ont accompli leur période de mobilité en exerçant des fonctions da
 l'administration préfectorale ou dans un secrétariat général pour les affaires
 régionales ou auprès d'une collectivité territoriale ou d'un organisme soumis au
 contrôle des chambres régionales des comptes, les magistrats ne peuvent être
-avant cinq ans affectés à la chambre régionale des comptes dans le ressort de
+avant trois ans affectés à la chambre régionale des comptes dans le ressort de
 laquelle ils ont exercé ces fonctions.

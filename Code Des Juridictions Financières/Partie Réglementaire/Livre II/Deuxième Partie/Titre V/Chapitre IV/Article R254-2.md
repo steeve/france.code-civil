@@ -1,3 +1,3 @@
 Article R254-2
 ----
-Les articles R. 241-32 à R. 241-43 sont applicables.
+Les articles R. 242-1 à R. 242-12 sont applicables.

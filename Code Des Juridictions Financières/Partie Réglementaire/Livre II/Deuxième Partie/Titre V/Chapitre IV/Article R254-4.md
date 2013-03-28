@@ -1,7 +1,7 @@
 Article R254-4
 ----
-Les articles R. 243-1 à R. 243-13 sont applicables dans les conditions suivantes
-:
+Les articles R. 242-14 à R. 242-26 sont applicables dans les conditions
+suivantes :
 
 1° Les références aux chambres régionales ou à la chambre régionale des comptes
 sont respectivement remplacées par des références aux chambres territoriales des
