@@ -1,11 +1,5 @@
 Article 103
 ----
-La retenue de garantie est remboursée un mois au plus tard après l'expiration du
-délai de garantie.
-
-En cas de retard de remboursement, des intérêts moratoires sont versés selon les
-modalités définies par le décret mentionné à l'article 98.
-
 Les établissements ayant accordé leur caution ou leur garantie à première
 demande sont libérés un mois au plus tard après l'expiration du délai de
 garantie.

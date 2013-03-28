@@ -18,13 +18,9 @@ attestant que le pli a été refusé ou n'a pas été réclamé.
 Le pouvoir adjudicateur ou la personne désignée par lui dans le marché adresse
 sans délai au titulaire une copie des factures produites par le sous-traitant.
 
-Le pouvoir adjudicateur procède au paiement du sous-traitant dans le délai prévu
-par l'article 98. Ce délai court à compter de la réception par le pouvoir
-adjudicateur de l'accord, total ou partiel, du titulaire sur le paiement
-demandé, ou de l'expiration du délai mentionné au deuxième alinéa si, pendant ce
-délai, le titulaire n'a notifié aucun accord ni aucun refus, ou encore de la
-réception par le pouvoir adjudicateur de l'avis postal mentionné au troisième
-alinéa.
+Le pouvoir adjudicateur procède au paiement du sous-traitant conformément aux
+dispositions du titre IV de la loi n° 2013-100 du 28 janvier 2013 susmentionnée
+et de son décret d'application.
 
 Le pouvoir adjudicateur informe le titulaire des paiements qu'il effectue au
 sous-traitant.
