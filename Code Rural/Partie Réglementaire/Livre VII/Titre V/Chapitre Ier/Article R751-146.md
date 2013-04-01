@@ -7,5 +7,5 @@ qui ont révisé ce taux.
 
 Il constate que, par suite des conséquences de l'accident du travail ou de la
 maladie professionnelle, une aggravation de l'état de la victime oblige celle-ci
-à avoir recours à l'assistance d'une tierce personne pour effectuer les actes
-ordinaires de la vie.
+à avoir recours à l'assistance d'une tierce personne pour effectuer des actes
+ordinaires de la vie dont il précise, le cas échéant, le nombre et la nature.

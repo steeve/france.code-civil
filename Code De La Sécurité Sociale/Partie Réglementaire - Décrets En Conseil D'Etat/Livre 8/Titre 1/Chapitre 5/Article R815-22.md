@@ -22,7 +22,8 @@ pensions militaires d'invalidité et des victimes de la guerre ;
 
 5° La majoration spéciale prévue par l'article L. 52-2 du même code ;
 
-6° Les majorations accordées aux personnes dont l'état de santé nécessite l'aide
+6° La prestation complémentaire pour recours à tierce personne et les
+majorations accordées aux personnes dont l'état de santé nécessite l'aide
 constante d'une tierce personne, lorsqu'elles sont allouées à ce titre en
 application de l'article L. 18 du même code ou en application des législations
 des accidents du travail, des assurances sociales et de l'aide sociale ;

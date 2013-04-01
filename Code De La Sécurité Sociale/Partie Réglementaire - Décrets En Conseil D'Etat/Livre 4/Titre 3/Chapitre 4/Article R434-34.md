@@ -10,8 +10,3 @@ ou d'épargne ouvert au nom du titulaire ou de son représentant dûment mandat�
 
 Les dates de paiement sont fixées par un arrêté du ministre chargé de la
 sécurité sociale.
-
-En cas d'hospitalisation de l'assuré, la majoration pour aide d'une tierce
-personne est versée jusqu'au dernier jour du mois civil suivant celui au cours
-duquel il a été hospitalisé ; au-delà de cette période, son service est
-suspendu.

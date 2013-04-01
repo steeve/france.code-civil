@@ -8,9 +8,9 @@ la maladie, le lien de cause à effet existant entre celui-ci et l'incapacité
 permanente ou le décès de la victime et fixe éventuellement le taux de cette
 incapacité.
 
-Il constate, le cas échéant, le droit de la victime à la majoration pour
-assistance d'une tierce personne prévue au troisième alinéa de l'article L.
-434-2 du code de la sécurité sociale.
+Il constate, le cas échéant, le droit de la victime à la prestation
+complémentaire pour recours à tierce personne prévue au troisième alinéa de
+l'article L. 434-2 du code de la sécurité sociale.
 
 En outre, dans le cas prévu au troisième alinéa de l'article L. 751-42, le
 directeur général de la Caisse des dépôts et consignations fixe, par la même

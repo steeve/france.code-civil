@@ -15,4 +15,5 @@ prévu à l'article 19 de la loi du 9 avril 1898 ;
 2°) une aggravation de l'état de la victime s'est produite à une date qu'il
 détermine, postérieurement à l'expiration dudit délai, et que cette aggravation
 oblige la victime à avoir recours à l'assistance d'une tierce personne pour
-effectuer les actes ordinaires de la vie.
+effectuer des actes ordinaires de la vie dont il précise, le cas échéant, le
+nombre et la nature.

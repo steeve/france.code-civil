@@ -12,7 +12,8 @@ par les articles L. 541-1 et L. 755-20 ;
 du présent code et par l'article L. 351-5 du code de la construction et de
 l'habitation ;
 
-4° Les majorations pour tierce personne ainsi que la prestation de compensation
+4° La prestation complémentaire pour recours à tierce personne et les
+majorations pour tierce personne ainsi que la prestation de compensation
 mentionnée à l'article L. 245-1 du code de l'action sociale et des familles,
 l'allocation compensatrice prévue au chapitre V du titre IV du livre II du même
 code dans sa rédaction antérieure à la loi n° 2005-102 du 11 février 2005 pour
