@@ -11,7 +11,8 @@ suffrages.
 Si les deux listes en cause ont le même nombre de suffrages, le siège est
 attribué au plus âgé des deux candidats susceptibles d'être proclamés élus.
 
-II. ― Les membres du conseil d'administration de la caisse provinciale des
-professions libérales sont élus ainsi que leurs suppléants au scrutin uninominal
-ou plurinominal dans le cadre de circonscriptions regroupant une ou plusieurs
-régions conformément au tableau figurant en annexe 3 du présent chapitre.
+II. ― Les membres du conseil d'administration de la caisse de base des
+professions libérales de France métropolitaine sont élus ainsi que leurs
+suppléants au scrutin uninominal ou plurinominal dans le cadre de
+circonscriptions regroupant une ou plusieurs régions conformément au tableau
+figurant en annexe 3 du présent chapitre.

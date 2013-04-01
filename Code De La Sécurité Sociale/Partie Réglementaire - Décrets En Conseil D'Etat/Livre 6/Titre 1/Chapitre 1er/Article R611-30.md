@@ -10,7 +10,7 @@ invalidité-décès des artisans, des industriels et commerçants ;
 
 ― les assurés volontaires.
 
-II. ― Sont électeurs aux conseils d'administration des caisses de base du groupe
+II. ― Sont électeurs au conseil d'administration de la caisse de base du groupe
 des professions libérales les assurés bénéficiaires des prestations maladies et
 maternité.
 

@@ -10,8 +10,8 @@ représentant par caisse de base et de deux représentants au-delà de 150 000
 ressortissants conformément au tableau constituant l'annexe 1 du présent
 chapitre ;
 
-2° Huit représentants des caisses de base du groupe des professions libérales
-élus par leurs conseils d'administration réunis.
+2° Huit représentants de la caisse de base des professions libérales de France
+métropolitaine élus par son conseil d'administration.
 
 Siègent également au conseil avec voix consultative :
 
