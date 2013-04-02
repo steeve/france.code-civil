@@ -18,9 +18,10 @@ de consommateurs ;
 3° Onze représentants de l'Etat ou de ses établissements publics ;
 
 4° Un représentant du personnel de l'agence de l'eau élu par ce personnel sur
-proposition des organisations syndicales habilitées à désigner des représentants
-au comité technique de l'agence. Un suppléant est désigné selon les mêmes
-modalités.
+proposition des organisations syndicales habilitées à présenter des candidats à
+l'élection du comité technique de l'établissement. Un suppléant est désigné
+selon les mêmes modalités. Le représentant du personnel et son suppléant sont
+élus pour une durée de six ans.
 
 II.-Les représentants des collectivités territoriales sont élus au scrutin de
 liste à un tour sans adjonction ni suppression de noms et sans modification de

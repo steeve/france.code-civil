@@ -44,8 +44,8 @@ consommateurs, proposés par ce collège ;
 milieu aquatique, proposé par cette fédération ;
 
 7° Deux représentants du personnel, élus par le personnel de l'établissement sur
-des listes présentées par les organisations syndicales habilitées à désigner des
-représentants au comité technique de l'établissement.
+des listes présentées par les organisations syndicales habilitées à présenter
+des candidats à l'élection du comité technique de l'établissement.
 
 II.-Les membres du conseil d'administration qui ne représentent pas l'Etat ou
 qui ne siègent pas en raison des fonctions qu'ils occupent sont nommés par

@@ -39,8 +39,8 @@ représentant les organisations d'usagers du littoral ;
 d'espaces naturels littoraux, désignés par l'Association des maires de France ;
 
 16° Un représentant du personnel élu par le personnel du conservatoire sur des
-listes présentées par les organisations syndicales habilitées à désigner des
-représentants au comité technique paritaire central du conservatoire.
+listes présentées par les organisations syndicales habilitées à présenter des
+candidats à l'élection du comité technique du Conservatoire.
 
 II. - Siègent au conseil d'administration avec voix consultative le directeur du
 conservatoire, le contrôleur financier, l'agent comptable et le président du
