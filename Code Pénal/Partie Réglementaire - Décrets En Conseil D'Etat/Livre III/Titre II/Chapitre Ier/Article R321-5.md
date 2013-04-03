@@ -6,6 +6,6 @@ Le registre comporte également :
 en cas d'échange, d'acquisition à titre gratuit ou de dépôt en vue de la vente,
 une estimation de la valeur vénale de chaque objet ou lot d'objets ;
 
-2° Le cas échéant, l'indication du classement ou de l'inscription de l'objet en
-application de la loi du 31 décembre 1913 sur les monuments historiques,
-lorsqu'il en est donné connaissance au revendeur d'objets mobiliers.
+2° Le cas échéant, l'indication de la mesure de protection de l'objet mobilier
+en application des dispositions du code du patrimoine, lorsqu'il en est donné
+connaissance au revendeur d'objets mobiliers.
