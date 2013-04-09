@@ -8,7 +8,3 @@ six mois.
 La décision est notifiée au demandeur et publiée au recueil des actes
 administratifs du département. Une copie en est adressée au maire de la commune
 d'implantation qui procède à son affichage en mairie.
-
-Si l'installation est destinée à accueillir des déchets d'amiante liés à des
-matériaux inertes, l'arrêté est publié au fichier immobilier de la situation des
-immeubles aux frais du demandeur.

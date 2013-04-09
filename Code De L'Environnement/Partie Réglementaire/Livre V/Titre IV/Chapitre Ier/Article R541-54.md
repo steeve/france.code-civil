@@ -1,6 +1,6 @@
 Article R541-54
 ----
-L'activité de collecte de transport par route de déchets classés dans la
+L'activité de collecte ou de transport par route de déchets classés dans la
 catégorie des marchandises dangereuses en application de l'accord européen
 relatif au transport international des marchandises dangereuses par route est
 soumise à autorisation.

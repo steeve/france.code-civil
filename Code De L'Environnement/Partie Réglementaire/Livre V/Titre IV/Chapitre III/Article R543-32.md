@@ -12,12 +12,22 @@ peuvent comprendre la substitution, c'est-à-dire toutes les opérations par
 lesquelles les PCB sont remplacés par des liquides appropriés ne contenant pas
 de substances mentionnées à l'article R. 543-17.
 
-S'agissant des transformateurs, l'objectif de la décontamination est de ramener
-le niveau de substances mentionnées à l'article R. 543-17 à moins de 500 ppm en
-masse et si possible à moins de 50 ppm en masse. Le liquide de remplacement ne
-contenant pas de substances mentionnées à l'article R. 543-17 doit présenter
-sensiblement moins de risque pour l'environnement et la santé et le remplacement
-du liquide ne doit pas compromettre l'élimination ultérieure de ces substances.
+S'agissant des appareils, la décontamination permet de ramener la teneur cumulée
+en substances citées à l'article R. 543-17 à une valeur inférieure à 50 ppm en
+masse.
+
+Sont considérés comme appareils n'ayant subi qu'une décontamination partielle
+ceux ayant été décontaminés jusqu'à ce que leur teneur cumulée en PCB soit
+ramenée à une valeur comprise entre 50 et 500 ppm en masse.
+
+Entre le sixième mois et le douzième mois après la remise en service de
+l'appareil décontaminé, le détenteur est tenu de réaliser une analyse de la
+teneur cumulée en PCB pour s'assurer que celle-ci est inférieure à 50 ppm en
+masse. Pour les détenteurs de plus de 150 appareils ayant un plan particulier,
+cette analyse peut être remplacée par un suivi après dépollution de cette teneur
+dans le cadre du système de contrôle de qualité de l'opérateur de la dépollution
+garantissant une teneur cumulée en PCB inférieure à 50 ppm en masse.
 
 Les appareils décontaminés, ayant contenu des PCB, sont étiquetés par leur
-détenteur, conformément aux dispositions du tableau de l'article R. 543-28.
+détenteur. Le contenu et les modalités de l'étiquetage sont définis par arrêté
+du ministre chargé de l'environnement.

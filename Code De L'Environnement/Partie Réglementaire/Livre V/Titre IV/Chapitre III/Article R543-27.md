@@ -1,8 +1,12 @@
 Article R543-27
 ----
-L'inventaire national des appareils répertoriés réalisé par l'Agence de
-l'environnement et de la maîtrise de l'énergie (ADEME) sur la base des
-déclarations prévues à l'article R. 543-26 transmises par les préfets et par le
-ministre de la défense est tenu à jour par cette agence afin que l'évolution du
-parc des appareils contenant des PCB puisse faire l'objet d'un suivi régulier,
-conformément aux dispositions du plan national prévu à l'article R. 543-30.
+Les détenteurs d'un appareil dont le volume de fluide contenant ou susceptible
+de contenir des PCB est supérieur à 5 dm³ sont tenus d'en faire la déclaration à
+l'inventaire des appareils contenant des PCB. Les détenteurs tiennent à jour les
+informations les concernant.
+
+Dans le cas des condensateurs électriques, le seuil de 5 dm³ est défini comme la
+somme des volumes contenus par les différents éléments d'une unité complète.
+
+Le contenu et les modalités de la déclaration sont fixés par arrêté du ministre
+chargé de l'environnement.

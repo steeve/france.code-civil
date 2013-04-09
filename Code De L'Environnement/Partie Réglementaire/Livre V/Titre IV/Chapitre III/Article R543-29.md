@@ -1,12 +1,10 @@
 Article R543-29
 ----
-Par dérogation aux dispositions de l'article R. 543-26, les détenteurs
-d'appareils contenant entre 500 ppm et 50 ppm en masse de liquide de substances
-énumérées à l'article R. 543-17 ne sont tenus de porter sur leur déclaration que
-les seules mentions suivantes :
+Les appareils dont le volume de fluide contenant ou susceptible de contenir des
+PCB est supérieur à 5 dm³ sont étiquetés.
 
-1° Nom et adresse du détenteur ;
+Un étiquetage doit également figurer sur les portes des locaux où se trouve
+l'appareil.
 
-2° Emplacement et description de l'appareil ;
-
-3° Date de la déclaration.
+Le contenu et les modalités de l'étiquetage sont définis par arrêté du ministre
+chargé de l'environnement.

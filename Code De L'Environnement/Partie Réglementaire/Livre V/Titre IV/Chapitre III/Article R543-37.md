@@ -1,23 +1,20 @@
 Article R543-37
 ----
-Le cahier des charges prévu à l'article R. 543-34 comporte ceux des éléments
-suivants qui ne figurent pas dans l'arrêté d'autorisation délivré au titre de
-l'article L. 512-1 :
+Le cahier des charges prévu à l'article R. 543-34 comporte notamment les
+éléments suivants :
 
 1° La description de l'activité de traitement pour lequel l'agrément est
 délivré, en distinguant :
 
-a) La destruction des molécules de PCB ;
+a) La décontamination des appareils contenant des PCB ;
 
-b) La décontamination des appareils contenant des PCB ;
+b) La substitution du fluide PCB des appareils ;
 
-c) La substitution du fluide PCB des appareils ;
+c) La décontamination des autres objets et matériaux contenant des PCB ;
 
-d) La décontamination des autres objets et matériaux contenant des PCB ;
+d) La décontamination des fluides contenant des PCB ;
 
-e) La décontamination des fluides contenant des PCB ;
-
-f) La régénération des fluides à base de PCB ;
+e) La régénération des fluides à base de PCB ;
 
 2° La liste des déchets contenant des PCB admissibles dans l'installation ;
 
@@ -51,5 +48,5 @@ liées au traitement pour lequel l'entreprise est agréée à une entreprise agr
 pour effectuer le traitement nécessaire à leur élimination ou autorisée dans un
 autre Etat membre de la Communauté européenne ;
 
-11° L'obligation d'afficher en permanence et de façon visible dans les locaux de
+11° L'obligation d'afficher en permanence et de façon visible dans
 l'installation l'arrêté d'agrément.
