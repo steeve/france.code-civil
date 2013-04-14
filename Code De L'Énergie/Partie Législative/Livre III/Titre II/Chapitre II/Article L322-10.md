@@ -4,7 +4,7 @@ Par dérogation à l'article L. 322-8, un gestionnaire de réseau de distributio
 issu de la séparation juridique imposée à une entreprise locale de distribution
 par l'article L. 111-57 a la responsabilité de l'exploitation, de la maintenance
 et, sous réserve des prérogatives reconnues aux collectivités territoriales et
-leurs établissements publics de coopération par le sixième alinéa du I de
+leurs établissements publics de coopération par le septième alinéa du I de
 l'article L. 2224-31 du code général des collectivités territoriales, du
 développement du réseau de distribution, dans le but d'en assurer la sécurité,
 la fiabilité et l'efficacité dans la zone qu'il couvre. Il est également chargé

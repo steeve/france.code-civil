@@ -13,8 +13,8 @@ fournisseur ;
 
 3° La description des produits et des services proposés ;
 
-4° Les prix de ces produits et services à la date d'effet du contrat ainsi que,
-le cas échéant, les conditions d'évolution de ces prix ;
+4° Les prix de ces produits et services à la date de l'offre ainsi que, le cas
+échéant, les conditions d'évolution de ces prix ;
 
 5° La mention du caractère réglementé ou non des prix proposés et de la
 possibilité pour une personne ayant renoncé aux tarifs réglementés de vente pour

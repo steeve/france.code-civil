@@ -36,4 +36,7 @@ loi n° 2010-788 du 12 juillet 2010 précitée. La délivrance de l'autorisation
 d'exploiter est subordonnée à l'éloignement des installations d'une distance de
 500 mètres par rapport aux constructions à usage d'habitation, aux immeubles
 habités et aux zones destinées à l'habitation définies dans les documents
-d'urbanisme en vigueur à la date de publication de la même loi.
+d'urbanisme en vigueur à la date de publication de la même loi. L'autorisation
+d'exploiter tient compte des parties du territoire régional favorables au
+développement de l'énergie éolienne définies par le schéma régional éolien
+mentionné au 3° du I de l'article L. 222-1, si ce schéma existe.

@@ -1,10 +1,12 @@
 Article L134-27
 ----
 Lorsque l'intéressé ne se conforme pas dans les délais fixés à cette mise en
-demeure, le comité peut prononcer à son encontre, en fonction de la gravité du
-manquement : 1° Soit une interdiction temporaire d'accès aux réseaux, ouvrages
-et installations mentionnés à l'article L. 134-19 pour une durée n'excédant pas
-un an ; 2° Soit, si le manquement n'est pas constitutif d'une infraction pénale,
+demeure ou en cas de manquement constaté dans les conditions prévues à l'article
+L. 135-12, et après l'envoi d'une notification des griefs à l'intéressé, le
+comité peut prononcer à son encontre, en fonction de la gravité du manquement :
+1° Soit une interdiction temporaire d'accès aux réseaux, ouvrages et
+installations mentionnés à l'article L. 134-19 pour une durée n'excédant pas un
+an ; 2° Soit, si le manquement n'est pas constitutif d'une infraction pénale,
 une sanction pécuniaire, dont le montant est proportionné à la gravité du
 manquement, à la situation de l'intéressé, à l'ampleur du dommage et aux
 avantages qui en sont tirés. Ce montant ne peut excéder 3 % du chiffre

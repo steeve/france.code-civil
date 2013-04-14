@@ -1,6 +1,6 @@
 Article L322-12
 ----
-Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31
+Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31
 du code général des collectivités territoriales, les gestionnaires des réseaux
 publics de distribution d'électricité conçoivent et exploitent ces réseaux de
 façon à assurer une desserte en électricité d'une qualité régulière, définie et

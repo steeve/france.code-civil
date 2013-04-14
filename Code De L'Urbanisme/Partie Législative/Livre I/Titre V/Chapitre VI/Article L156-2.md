@@ -1,7 +1,37 @@
 Article L156-2
 ----
-Les dispositions des paragraphes II et III de l'article L. 146-4 ne sont pas
-applicables. Les dispositions suivantes leur sont substituées.
+Pour leur application dans les communes mentionnées à l'article L. 156-1, les I
+à III de l'article L. 146-4 sont remplacés par quinze alinéas ainsi rédigés :
+
+" L'extension de l'urbanisation doit se réaliser soit en continuité avec les
+agglomérations et villages existants, soit en hameaux nouveaux intégrés à
+l'environnement.
+
+" Par dérogation au deuxième alinéa, les constructions ou installations liées
+aux activités agricoles ou forestières qui sont incompatibles avec le voisinage
+des zones habitées peuvent être autorisées, en dehors des espaces proches du
+rivage, avec l'accord du représentant de l'Etat dans le département après avis
+de la commission départementale compétente en matière de nature, de paysages et
+de sites. Cet accord est refusé si les constructions ou installations sont de
+nature à porter atteinte à l'environnement ou aux paysages.
+
+" Le deuxième alinéa ne fait pas obstacle à la réalisation de travaux de mise
+aux normes des exploitations agricoles, à condition que les effluents d'origine
+animale ne soient pas accrus.
+
+" Par dérogation au deuxième alinéa, l'implantation des ouvrages nécessaires à
+la production d'électricité à partir de l'énergie mécanique du vent qui sont
+incompatibles avec le voisinage des zones habitées peut être autorisée par
+arrêté du représentant de l'Etat dans la région, en dehors des espaces proches
+du rivage, après avis de la commission départementale compétente en matière de
+nature, de paysages et de sites et des ministres chargés de l'urbanisme, de
+l'environnement et de l'énergie. En l'absence de réponse dans un délai de deux
+mois, les avis sont réputés favorables.
+
+" Cette autorisation est refusée si les constructions ou installations sont de
+nature à porter atteinte à l'environnement ou aux sites et paysages remarquables
+ou si elles sont incompatibles avec l'exercice d'une activité agricole,
+pastorale ou forestière. "
 
 Dans les espaces proches du rivage :
 

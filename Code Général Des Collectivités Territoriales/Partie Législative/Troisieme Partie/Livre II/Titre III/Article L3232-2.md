@@ -1,6 +1,6 @@
 Article L3232-2
 ----
-Les aides financières mentionnées au septième alinéa de l'article L. 2224-31
+Les aides financières mentionnées au huitième alinéa de l'article L. 2224-31
 sont réparties par département.
 
 Le département règle, sur la base des propositions présentées par les

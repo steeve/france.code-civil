@@ -10,7 +10,8 @@ décision prise par la Commission de régulation de l'énergie ou à une règle
 d'imputation, à un périmètre ou à un principe approuvés par elle en application
 des dispositions de la section 6 du chapitre Ier du titre Ier du livre Ier, ou
 aux règles et obligations mentionnées au deuxième alinéa de l'article L. 134-25,
-le comité met l'auteur de l'abus, de l'entrave ou du manquement en demeure de se
+le président du comité désigne le membre du comité chargé de mettre, le cas
+échéant, l'auteur de l'abus, de l'entrave ou du manquement en demeure de se
 conformer à ces dispositions législatives ou réglementaires ou à ces décisions
 ou règles et obligations dans un délai déterminé. Il peut rendre publique cette
 mise en demeure. Est regardé comme un abus du droit d'accès régulé à

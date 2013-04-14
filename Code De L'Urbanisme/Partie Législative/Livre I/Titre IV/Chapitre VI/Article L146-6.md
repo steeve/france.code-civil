@@ -21,6 +21,17 @@ modalités de réalisation de ces aménagements qui incluent, selon leur importa
 et leur incidence sur l'environnement, soit une enquête publique, soit une mise
 à disposition du public préalablement à leur autorisation.
 
+Peuvent être également autorisées les canalisations du réseau public de
+transport ou de distribution d'électricité visant à promouvoir l'utilisation des
+énergies renouvelables. Les techniques utilisées pour la réalisation de ces
+ouvrages sont souterraines et toujours celles de moindre impact environnemental.
+L'approbation des projets de construction des ouvrages, mentionnée au 1° de
+l'article L. 323-11 du code de l'énergie, est refusée si les canalisations sont
+de nature à porter atteinte à l'environnement ou aux sites et paysages
+remarquables. Leur réalisation est soumise à enquête publique réalisée
+conformément au chapitre III du titre II du livre Ier du code de
+l'environnement.
+
 En outre, la réalisation de travaux ayant pour objet la conservation ou la
 protection de ces espaces et milieux peut être admise, après enquête publique
 réalisée conformément au chapitre III du titre II du livre Ier du code de

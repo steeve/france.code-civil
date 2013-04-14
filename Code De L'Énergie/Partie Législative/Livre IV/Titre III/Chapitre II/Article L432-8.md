@@ -1,6 +1,6 @@
 Article L432-8
 ----
-Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31
+Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31
 du code général des collectivités territoriales, un gestionnaire de réseau de
 distribution de gaz naturel est notamment chargé, dans le cadre des cahiers des
 charges de concession et des règlements de service des régies mentionnés au I du
