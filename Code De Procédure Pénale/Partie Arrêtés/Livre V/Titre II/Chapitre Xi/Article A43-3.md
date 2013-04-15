@@ -39,7 +39,7 @@ Quartier des mineurs de la maison d'arrêt de Fleury-Mérogis (Essonne) ;
 
 Quartier des mineurs de la maison d'arrêt de Grasse (Alpes-Maritimes) ;
 
-Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère)
+Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère) ;
 
 Quartier des mineurs du centre pénitentiaire du Havre (Seine-Maritime) ;
 
@@ -78,13 +78,15 @@ Quartier des mineurs de la maison d'arrêt de Reims (Marne) ;
 
 Quartier des mineurs du centre pénitentiaire de Remire-Montjoly (Guyane) ;
 
-Quartier des mineurs de la maison d'arrêt de Riom (Puy-de-Dôme) ; (alinéa en
-vigueur le 20 août 2012).
+Quartier des mineurs de la maison d'arrêt de Riom (Puy-de-Dôme) ;
 
 Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
 
 Quartier des mineurs du quartier maison d'arrêt du centre pénitentiaire de
 Saint-Denis (Réunion) ;
+
+Quartier des mineurs du centre pénitentiaire de Saint-Pierre (collectivité
+territoriale de Saint-Pierre-et-Miquelon).
 
 Quartier des mineurs du centre de semi-liberté de Souffelweyersheim (Bas-Rhin) ;
 
