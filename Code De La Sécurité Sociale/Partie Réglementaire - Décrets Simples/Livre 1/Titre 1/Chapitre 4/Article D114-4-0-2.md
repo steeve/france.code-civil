@@ -49,7 +49,7 @@ représentant ;
 
 5° Six représentants de l'Etat :
 
-a) Le directeur général du Centre d'analyse stratégique ;
+a) Le Commissaire général à la stratégie et à la prospective ;
 
 b) Le directeur général de l'administration et de la fonction publique ;
 

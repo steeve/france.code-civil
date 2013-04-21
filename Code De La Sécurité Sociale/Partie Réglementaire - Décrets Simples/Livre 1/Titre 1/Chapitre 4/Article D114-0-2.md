@@ -1,6 +1,6 @@
 Article D114-0-2
 ----
-I. - Le Haut Conseil est composé de quarante-neuf membres répartis comme suit :
+I.-Le Haut Conseil est composé de quarante-neuf membres répartis comme suit :
 
 1° Dix-huit membres représentant les organisations professionnelles et
 syndicales :
@@ -71,15 +71,15 @@ h) Le directeur général de la compétitivité, de l'industrie et des services 
 6° Le président du Haut Conseil pour l'avenir de l'assurance maladie, le
 président du Conseil d'orientation des retraites, le président délégué du Haut
 Conseil de la famille, le président du Conseil d'orientation pour l'emploi, le
-directeur général du Centre d'analyse stratégique ;
+Commissaire général à la stratégie et à la prospective ;
 
 7° Douze personnalités qualifiées désignées par le Premier ministre en raison de
 leur compétence ou de leur expérience dans les domaines relevant des
 attributions du Haut Conseil.
 
-II. - Le président et le vice-président du Haut Conseil sont désignés par le
+II.-Le président et le vice-président du Haut Conseil sont désignés par le
 Premier ministre parmi les membres mentionnés au 7° du I.
 
-III. - Les désignations prévues au 2° du I sont renouvelées après chaque
-élection générale en ce qui concerne les députés et après chaque renouvellement
-triennal du Sénat en ce qui concerne les sénateurs.
+III.-Les désignations prévues au 2° du I sont renouvelées après chaque élection
+générale en ce qui concerne les députés et après chaque renouvellement triennal
+du Sénat en ce qui concerne les sénateurs.

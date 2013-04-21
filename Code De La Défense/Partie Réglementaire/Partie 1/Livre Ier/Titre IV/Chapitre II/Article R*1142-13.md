@@ -26,7 +26,7 @@ des ministres chargés de l'équipement, des transports et de l'industrie, de
 l'agriculture, des postes et communications électroniques et, en tant que de
 besoin, de ceux d'autres départements ministériels ;
 
-c) Du représentant du directeur général du centre d'analyse stratégique ;
+c) Du représentant du Commissaire général à la stratégie et à la prospective ;
 
 d) Du représentant du secrétaire général de la défense et de la sécurité
 nationale.

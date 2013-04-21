@@ -10,7 +10,7 @@ Le représentant du secrétaire d'Etat auprès du ministre de l'intérieur (DOM-
 
 Le représentant du ministre dont relève l'activité à encourager ;
 
-Le directeur général du Centre d'analyse stratégique ;
+Le Commissaire général à la stratégie et à la prospective ;
 
 L'inspecteur général des finances chargé de la division des départements
 d'outre-mer ;

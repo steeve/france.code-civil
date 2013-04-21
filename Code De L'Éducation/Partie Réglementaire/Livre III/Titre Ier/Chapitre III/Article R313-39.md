@@ -25,7 +25,8 @@ professionnelle des adultes ou son représentant ;
 b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du
 code du travail ou son représentant ;
 
-c) Le directeur général du Centre d'analyse stratégique ou son représentant ;
+c) Le Commissaire général à la stratégie et à la prospective ou son représentant
+;
 
 d) Le directeur de l'Office national d'information sur les enseignements et les
 professions ou son représentant ;
