@@ -21,14 +21,6 @@ compensés par un organisme coordonnateur agréé qui leur reverse la fraction
 équivalente de la contribution financière qu'il reçoit des personnes mentionnées
 au premier alinéa.
 
-Pendant une période transitoire courant à compter du 1er janvier 2006 et
-jusqu'au 13 février 2013 , les personnes mentionnées au premier alinéa ainsi que
-leurs acheteurs font apparaître, en sus du prix hors taxe, en pied de factures
-de vente de tout nouvel équipement électrique et électronique ménager, les coûts
-unitaires supportés pour l'élimination des déchets collectés sélectivement issus
-des équipements électriques et électroniques ménagers mis sur le marché avant le
-13 août 2005.
-
 Le traitement des déchets d'équipements électriques et électroniques ménagers
 issus des collectes sélectives et de la reprise gratuite par les distributeurs,
 lors de la vente d'un équipement électrique et électronique ménager, des
@@ -38,9 +30,17 @@ des systèmes auxquels ces personnes contribuent financièrement de manière
 proportionnée et qui sont agréés ou approuvés par arrêtés conjoints des
 ministres chargés de l'économie, de l'industrie, de l'écologie et des
 collectivités territoriales. Un décret en Conseil d'Etat détermine la sanction
-applicable en cas d'infraction aux dispositions du présent article.
+applicable en cas d'infraction aux dispositions du présent alinéa.
 
-Ces coûts unitaires n'excédent pas les coûts réellement supportés et ne peuvent
-faire l'objet de réfaction. Les acheteurs répercutent à l'identique ces coûts
-unitaires jusqu'au consommateur final et l'informent par tout moyen prévu à
-l'article L. 113-3 du code de la consommation.
+Jusqu'au 1er janvier 2020, les personnes mentionnées au premier alinéa du
+présent article ainsi que leurs acheteurs successifs font apparaître, jusqu'au
+consommateur final, sur les factures de vente de tout nouvel équipement
+électrique et électronique ménager, en sus du prix unitaire du produit, le coût
+unitaire supporté pour la gestion des déchets collectés sélectivement issus des
+équipements électriques et électroniques ménagers mis sur le marché avant le 13
+août 2005.
+
+Ce coût unitaire est strictement égal au coût de la gestion desdits déchets. Il
+ne peut faire l'objet de réfaction. Les acheteurs répercutent à l'identique ce
+coût jusqu'au client final. Ce dernier en est informé sur le lieu de vente ou en
+cas de vente à distance, par tout procédé approprié.
