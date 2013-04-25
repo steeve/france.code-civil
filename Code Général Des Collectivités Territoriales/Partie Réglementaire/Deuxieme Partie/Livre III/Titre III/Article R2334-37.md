@@ -1,8 +1,21 @@
 Article R2334-37
 ----
-Pour l'application du quatrième alinéa de l'article L. 2334-40, l'enveloppe de
-chaque département est égale à la somme à l'échelle de son territoire des
-produits de l'indice synthétique de ressources et de charges, mentionné au II de
-l'article R. 2334-36, par la population de chaque commune éligible dans le
-département. Chaque produit est toutefois plafonné à un million d'euros par
-commune éligible.
+Pour l'application des quatrième, cinquième et sixième alinéas de l'article L.
+2334-40, le montant des crédits revenant à chaque département est égal à la
+somme des deux montants suivants :
+
+1° La somme des attributions calculées en application du cinquième alinéa de
+l'article L. 2334-40 pour chaque commune éligible du département classée parmi
+les cent premières du classement mentionné au deuxième alinéa de l'article L.
+2334-40 ; l'attribution de chaque commune est calculée en fonction du produit de
+sa population, telle que définie à l'article L. 2334-2, par l'indice synthétique
+défini au II de l'article R. 2334-36, sans que ce montant puisse excéder deux
+millions d'euros ;
+
+2° La somme des attributions calculées en application du sixième alinéa de
+l'article L. 2334-40 pour chaque commune éligible du département classée parmi
+les cinquante premières du classement mentionné au deuxième alinéa de l'article
+L. 2334-40 ; l'attribution de chaque commune est calculée en fonction du produit
+de sa population, telle que définie à l'article L. 2334-2, par l'indice
+synthétique défini au II de l'article R. 2334-36, sans que ce montant puisse
+excéder un million d'euros.

@@ -1,6 +1,8 @@
 Article R1614-46
 ----
-Lorsque le document d'urbanisme est élaboré, modifié ou révisé par un
-établissement public de coopération intercommunale, celui-ci reçoit une dotation
-égale à la somme des dotations que recevrait chacune des communes membres qui
-sont concernées par le document d'urbanisme.
+Les établissements publics de coopération intercommunale compétents sont
+directement bénéficiaires du concours particulier en lieu et place de leurs
+communes membres.
+
+Le montant ainsi alloué ne peut être supérieur à la somme des dotations que
+recevrait chacune des communes membres.

@@ -1,7 +1,12 @@
 Article R2336-3
 ----
-Pour l'application de l'article L. 2336-3, les attributions de compensation
-mentionnées au 4° du I de cet article prises en compte sont celles constatées au
-15 février de l'année de répartition au compte prévu pour l'imputation des
-attributions de compensation dans les comptes de gestion des communes au titre
-de l'année précédant l'année de répartition.
+Les prélèvements individuels calculés pour chaque commune et chaque
+établissement public de coopération intercommunale à fiscalité propre
+conformément à l'article L. 2336-3 sont effectués à compter de la date de
+notification des contributions au fonds dans les conditions suivantes :
+
+1° Si le montant de la contribution individuelle est inférieur à 10 000 euros,
+le prélèvement est réalisé en une fois avant le 30 novembre ;
+
+2° Si le montant de la contribution est supérieur à 10 000 euros, les
+prélèvements sont réalisés mensuellement.

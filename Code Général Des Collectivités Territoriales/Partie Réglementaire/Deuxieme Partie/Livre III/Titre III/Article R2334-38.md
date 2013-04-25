@@ -1,9 +1,9 @@
 Article R2334-38
 ----
-I.-Pour l'application des cinquième et sixième alinéas de l'article L. 2334-40,
-chaque convention signée entre le représentant de l'Etat dans le département et
-la commune ou l'établissement public de coopération intercommunale précise
-l'objet et le montant des dépenses pouvant donner lieu à subvention, le taux de
+I.-Pour l'application du septième alinéa de l'article L. 2334-40, chaque
+convention signée entre le représentant de l'Etat dans le département et la
+commune ou l'établissement public de coopération intercommunale précise l'objet
+et le montant des dépenses pouvant donner lieu à subvention, le taux de
 subvention qui leur est appliqué ainsi que le montant total des subventions
 accordées. Cette convention peut aussi préciser un calendrier prévisionnel de
 réalisation des projets.

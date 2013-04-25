@@ -1,6 +1,6 @@
 Article R2334-36
 ----
-I.-Pour l'application du deuxième alinéa de l'article L. 2334-41, le classement
+I.-Pour l'application du deuxième alinéa de l'article L. 2334-40, le classement
 des communes potentiellement bénéficiaires de la dotation de développement
 urbain s'applique aux communes de métropole qui remplissent les trois conditions
 suivantes :
@@ -9,10 +9,10 @@ suivantes :
 sociale au titre de l'exercice précédent ;
 
 2° La commune présente une proportion de population située en zone urbaine
-sensible supérieure à 20 % de la population totale de la commune, selon le
-recensement des populations en zone urbaine sensible ; ce critère est apprécié
-en fonction des données connues au 1er janvier de l'année précédant la
-répartition ;
+sensible supérieure à 20 % de la population totale de la commune, ou une
+proportion de population située en zone franche urbaine supérieure à 20 % de la
+population totale de la commune. Ces critères sont appréciés en fonction des
+données connues au 1er janvier de l'année précédant la répartition ;
 
 3° Au 1er janvier de l'année précédant la répartition, il existe sur le
 territoire communal au moins une convention pluriannuelle conclue avec l'Agence
