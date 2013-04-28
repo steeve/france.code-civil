@@ -24,12 +24,11 @@ Il est associé à l'élaboration de la doctrine d'emploi des moyens appartenant
 l'armée de l'air susceptibles d'être mis à sa disposition, ainsi qu'à leur
 entraînement.
 
-Il est responsable, devant le ministre de la défense, de l'organisation et de la
-réglementation de la circulation opérationnelle militaire et de la circulation
-d'essais et de réception, qui constituent la circulation aérienne militaire.
-Dans les cas prévus à l'article L. 1111-2, sur décision du Premier ministre,
-cette responsabilité peut être étendue au contrôle de tout trafic aérien dans
-l'espace national.
+Dans les cas prévus à l'article L. 1111-2, sur décision du Premier ministre, la
+responsabilité de l'organisation et de la réglementation de la circulation
+aérienne militaire est confiée au commandant de la défense aérienne. Dans les
+mêmes conditions, cette responsabilité peut être étendue au contrôle de tout
+trafic aérien dans l'espace national.
 
 Il représente le ministre de la défense à la commission interministérielle de la
 défense aérienne et préside le groupe mixte de défense aérienne.
