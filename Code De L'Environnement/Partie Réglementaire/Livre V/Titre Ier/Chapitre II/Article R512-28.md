@@ -7,10 +7,10 @@ articles L. 211-1, L. 220-1 et L. 511-1.
 Ces prescriptions tiennent compte notamment, d'une part, de l'efficacité des
 meilleures techniques disponibles et de leur économie, d'autre part, de la
 qualité, de la vocation et de l'utilisation des milieux environnants ainsi que
-de la gestion équilibrée de la ressource en eau. Pour les installations
-mentionnées au b du 4° du II de l'article R. 512-8, ces prescriptions
+de la gestion équilibrée de la ressource en eau. Pour les installations définies
+par arrêté du ministre chargé des installations classées, ces prescriptions
 comprennent des valeurs limites d'émissions fondées sur les meilleures
-techniques disponibles, au sens de la directive 2008/1/CE du 15 janvier 2008
+techniques disponibles, au sens de la directive 2008/1/ CE du 15 janvier 2008
 relative à la prévention et à la réduction intégrées de la pollution, sans
 prescrire l'utilisation d'une technique ou d'une technologie spécifique, en
 prenant en considération les caractéristiques techniques de l'installation
@@ -36,3 +36,11 @@ installations classées et du service chargé de la police des eaux. Lorsque les
 installations relèvent des dispositions de l'article L. 229-5, l'arrêté fixe les
 prescriptions en matière de déclaration et de quantification des émissions de
 gaz à effet de serre.
+
+Pour les installations relevant des dispositions de l'article L. 229-5, l'arrêté
+ne comporte pas de valeur limite d'émission pour les émissions directes d'un gaz
+à effet de serre mentionné à l'article R. 229-5 à moins que cela ne soit
+nécessaire pour éviter toute pollution locale significative.
+
+L'alinéa précédent ne s'applique pas aux installations qui sont exclues du
+système d'échange de quotas d'émission de gaz à effet de serre.

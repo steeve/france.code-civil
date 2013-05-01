@@ -22,6 +22,10 @@ dans les documents de planification en vigueur ;
 sol ou du sous-sol, accompagnées, le cas échéant, des dispositions proposées par
 l'exploitant pour mettre en œuvre des servitudes ou des restrictions d'usage.
 
+Pour les installations visées à la section 8 du chapitre V du présent titre, le
+mémoire contient en outre l'évaluation et les propositions de mesures
+mentionnées à l'article R. 515-75.
+
 II. ― Au vu notamment du mémoire de réhabilitation, le préfet détermine, s'il y
 a lieu, par arrêté pris dans les formes prévues à l'article R. 512-31, les
 travaux et les mesures de surveillance nécessaires. Ces prescriptions sont
