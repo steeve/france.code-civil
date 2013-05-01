@@ -27,6 +27,7 @@ comportement du dioxyde de carbone dans le site de stockage ;
 
 e) Les éléments exigés par l'article R. 512-75.
 
-L'exploitant adresse également au préfet le bilan de fonctionnement prévu à
-l'article R. 512-45 dont le contenu et les modalités sont fixés par arrêté du
-ministre chargé des installations classées.
+L'exploitant adresse également au préfet un bilan de l'impact sur
+l'environnement de l'exploitation du site. La fréquence, le contenu et les
+modalités de ce bilan sont fixés par arrêté du ministre chargé des installations
+classées.

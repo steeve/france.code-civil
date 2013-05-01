@@ -11,7 +11,7 @@ commission consultative départementale compétente ;
 
 3° Le fait d'exploiter une installation soumise à autorisation sans satisfaire
 aux règles générales et prescriptions techniques prévues à l'article L. 512-5 et
-aux articles R. 512-28 à R. 512-31, R. 512-45 et R. 512-75 ;
+aux articles R. 512-28 à R. 512-31, R. 512-46 et au I de l'article R. 515-71 ;
 
 3° bis Le fait d'exploiter une installation soumise à enregistrement sans
 satisfaire aux prescriptions générales ou particulières prévues par les articles
