@@ -2,6 +2,10 @@ Article R711-28
 ----
 Le bureau du groupement comprend un président, un secrétaire et un trésorier.
 
+Pour tenir compte des particularités locales, des missions du groupement
+interconsulaire et du nombre de chambres le constituant, l'autorité de tutelle
+peut autoriser l'augmentation du nombre de membres du bureau.
+
 En cas de vacance, le bureau est complété.
 
 Le bureau prépare, pour les soumettre à l'assemblée générale, les projets de

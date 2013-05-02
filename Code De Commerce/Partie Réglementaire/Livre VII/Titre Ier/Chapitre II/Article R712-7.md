@@ -39,13 +39,5 @@ inférieur à un seuil fixé par arrêté du ministre chargé de la tutelle des
 chambres de commerce et d'industrie et du ministre des finances ne sont pas
 soumises à approbation.
 
-L'approbation des actes mentionnés au 2° est valable pour un délai d'un an à
-compter de la date de réponse implicite ou explicite. A l'expiration de ce
-délai, si l'emprunt, le crédit-bail ou l'émission d'obligation n'ont pas été
-contractés, l'autorisation doit être renouvelée. Exceptionnellement,
-l'autorisation peut prévoir la mobilisation échelonnée sur plus d'un an, d'un
-emprunt, par tranches successives, pour financer une opération d'investissement
-sur plusieurs années.
-
 Les établissements publics du réseau communiquent sans délai à l'autorité de
 tutelle toutes les pièces constitutives d'actes de gestion qu'elle demande.

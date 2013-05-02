@@ -13,4 +13,4 @@ du jour. Les décisions sont prises à la majorité des membres présents ou
 représentés, à l'exception des décisions prises à la majorité qualifiée en
 application des articles R. 711-58, R. 712-14 et R. 712-26, ou de dispositions
 du règlement intérieur de l'assemblée des chambres françaises de commerce et
-d'industrie prises en application du dernier alinéa de l'article R. 711-68.
+d'industrie prises en application du septième alinéa de l'article R. 711-68.

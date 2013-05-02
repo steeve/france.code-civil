@@ -15,10 +15,10 @@ Un trésorier adjoint.
 Chaque titulaire de l'un des postes précités est élu par l'assemblée générale,
 séparément à cette qualité par un vote distinct ;
 
-Quatre à huit autres membres, élus à l'occasion de l'assemblée générale
-suivante, convoquée à une date qui ne peut être postérieure au 31 mars de
-l'année considérée, sur une liste proposée par le président, tenant compte, dans
-des conditions définies par le règlement intérieur de l'assemblée des chambres
+Trois à huit autres membres, élus à l'occasion de l'assemblée générale suivante,
+convoquée à une date qui ne peut être postérieure au 31 mars de l'année
+considérée, sur une liste proposée par le président, tenant compte, dans des
+conditions définies par le règlement intérieur de l'assemblée des chambres
 françaises de commerce et d'industrie, de la taille et de la diversité des
 établissements du réseau. Le bureau ainsi complété doit au moins comprendre un
 président de chambre de commerce et d'industrie métropolitaine telle que définie

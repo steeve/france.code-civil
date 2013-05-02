@@ -18,8 +18,9 @@ la chambre ;
 leur signature à d'autres membres élus et, le cas échéant, au directeur général
 ou, sur sa proposition, à d'autres agents permanents de la chambre ;
 
-4° Les conditions dans lesquelles le directeur général de la chambre de commerce
-et d'industrie territoriale est habilité à représenter son président.
+4° Les conditions dans lesquelles les membres élus, le directeur général ou, sur
+sa proposition, les autres agents permanents de l'établissement sont habilités à
+représenter le président.
 
 Les dispositions prévues au 2° ci-dessus ne peuvent pas être modifiées dans
 l'année d'un renouvellement.
@@ -35,3 +36,6 @@ Les règlements intérieurs des chambres de commerce et d'industrie de région
 prévoient les conditions dans lesquelles une mission peut être confiée au
 président d'une délégation d'une chambre de la circonscription, lui-même non
 membre de la chambre régionale.
+
+Le règlement intérieur est adopté par l'assemblée générale de chaque
+établissement de réseau dans les conditions prévues à l'article R. 711-71.

@@ -3,8 +3,8 @@ Article R712-24
 Les ressources du groupement interconsulaire proviennent des contributions des
 chambres de commerce et d'industrie territoriales et de région participantes, de
 subventions et de recettes diverses. Les modalités de calcul et de répartition
-des contributions des chambres de commerce et d'industrie territoriales sont
-arrêtées par le préfet, sur proposition du groupement.
+des contributions des chambres de commerce et d'industrie territoriales et de
+région sont arrêtées par le préfet, sur proposition du groupement.
 
 Les chambres de commerce et d'industrie territoriales et les chambres de
 commerce et d'industrie de région constituant le groupement interconsulaire

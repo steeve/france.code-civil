@@ -10,8 +10,8 @@ d'industrie de région propose une répartition de ce produit, dans des délais
 permettant notamment aux chambres territoriales rattachées de soumettre au vote
 de leur assemblée générale un budget primitif avant la date fixée à l'article R.
 712-14. Cette répartition prend notamment en compte la rémunération des
-fonctions assurées au bénéfice des chambres territoriales en application du 5°
-de l'article L. 711-8, sur le fondement d'un tableau récapitulant les dépenses
+fonctions assurées au bénéfice des chambres territoriales en application du 6°
+de l'article L. 711-8 sur le fondement d'un tableau récapitulant les dépenses
 engagées par grandes catégories.
 
 Elle est portée, pour avis à la commission des finances de la chambre de région,

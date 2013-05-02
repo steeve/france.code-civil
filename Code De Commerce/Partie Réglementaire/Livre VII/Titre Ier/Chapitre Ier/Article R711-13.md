@@ -11,8 +11,11 @@ Paris-Ile-de-France, délégation du trésorier de cette chambre.
 
 Le président et les deux vice-présidents élus en application de l'alinéa
 précédent représentent les trois catégories professionnelles mentionnées à
-l'article L. 713-11.
+l'article L. 713-11. Le président et les vice-présidents ne peuvent cumuler leur
+fonction avec celle de trésorier ou de trésorier adjoint, conformément aux
+dispositions de l'article R. 712-13.
 
 L'autorité de tutelle peut autoriser l'augmentation du nombre de membres du
-bureau. Cette augmentation est de droit pour l'application de l'article R.
-711-21.
+bureau dans la limite de trois membres au plus, pour tenir compte des
+particularités locales (1). Cette augmentation est de droit pour l'application
+de l'article R. 711-21.

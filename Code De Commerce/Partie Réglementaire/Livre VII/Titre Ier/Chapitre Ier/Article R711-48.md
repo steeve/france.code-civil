@@ -8,6 +8,10 @@ région sont de droit vice-présidents de la chambre de région et, à ce titre,
 membres de droit du bureau. Il en est de même des présidents des chambres de
 commerce et d'industrie départementales d'Ile-de-France.
 
+Pour tenir compte de particularités locales, l'autorité de tutelle peut
+autoriser l'augmentation du nombre de membres du bureau dans la limite de trois
+membres au plus.
+
 Tous les membres élus de la chambre peuvent présenter leur candidature au poste
 de président. Le président et les vice-présidents représentent les trois
 catégories professionnelles mentionnées à l'article L. 713-11. Si cette
@@ -16,6 +20,10 @@ vice-présidents.
 
 L'un des vice-présidents est élu premier vice-président de la chambre de
 commerce et d'industrie de région.
+
+La fonction de président et de vice-président ne peut être cumulée avec celle de
+trésorier, ou de trésorier adjoint, conformément aux dispositions de l'article
+R. 712-13, ou de secrétaire.
 
 Le suppléant à la chambre de commerce et d'industrie de région dont le titulaire
 est membre du bureau ne le remplace pas de droit au bureau lorsque le siège

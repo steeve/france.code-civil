@@ -1,15 +1,15 @@
 Article R711-46
 ----
-Toute chambre de commerce et d'industrie territoriale peut faire partie d'une
-chambre de commerce et d'industrie de région dont la circonscription est
-limitrophe de la sienne, pour participer à une de ses activités spécifiques,
-sous réserve de lui verser une cotisation à cet effet et d'y être autorisée par
-son autorité de tutelle.
+Toute chambre de commerce et d'industrie territoriale ou de région peut faire
+partie d'une chambre de commerce et d'industrie de région dont la
+circonscription est limitrophe de la sienne, pour participer à une de ses
+activités spécifiques, sous réserve de lui verser une cotisation à cet effet et
+d'y être autorisée par son autorité de tutelle.
 
-Cette chambre de commerce et d'industrie territoriale, qui est représentée par
-un de ses membres élus, n'a toutefois pas voix délibérative pour l'élection du
-bureau de la chambre de commerce et d'industrie de région ni pour le vote de son
-budget.
+Cette chambre de commerce et d'industrie territoriale ou de région, qui est
+représentée par un de ses membres élus, n'a toutefois pas voix délibérative pour
+l'élection du bureau de la chambre de commerce et d'industrie de région ni pour
+le vote de son budget.
 
 En application du III de l'article L. 713-12, une chambre de commerce et
 d'industrie territoriale assise sur deux régions peut être représentée à

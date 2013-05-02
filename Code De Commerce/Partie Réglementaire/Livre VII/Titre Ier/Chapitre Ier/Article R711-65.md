@@ -1,6 +1,6 @@
 Article R711-65
 ----
-Le comité directeur se réunit sur convocation du président au moins neuf fois
+Le comité directeur se réunit sur convocation du président au moins sept fois
 par an.
 
 Il se saisit de toutes les questions entrant dans la compétence de l'assemblée.
