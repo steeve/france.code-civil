@@ -37,7 +37,7 @@ support ne soit pas supérieure à 250 euros si le support ne peut pas être
 rechargé ou, si le support peut être rechargé, pour autant qu'une limite de 2
 500 euros soit fixée pour le montant total des opérations sur une année civile.
 Toutefois, dès qu'une demande de remboursement porte sur un montant unitaire ou
-sur un montant global d'au moins 2 500 euros au cours de la même année civile,
+sur un montant global d'au moins 1 000 euros au cours de la même année civile,
 les personnes mentionnées à l'article L. 561-2 sont tenues de respecter les
 obligations prévues aux articles L. 561-5 et L. 561-6 ;
 

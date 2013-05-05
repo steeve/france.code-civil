@@ -21,7 +21,8 @@ opérations de crédit mentionnées aux articles L. 312-2, L. 313-15 ou L. 314-1
 code de la consommation ;
 
 2° Les personnes dont le rôle se limite, contre rémunération ou à titre gratuit,
-à indiquer un établissement de crédit, un établissement de paiement ou un
+à indiquer un établissement de crédit, un établissement de paiement, un
+établissement de monnaie électronique qui fournit des services de paiement ou un
 intermédiaire en opérations de banque et en services de paiement à des personnes
 intéressées à la conclusion d'une opération de banque ou d'un service de
 paiement, sans remise de documents autres que publicitaires se rapportant à

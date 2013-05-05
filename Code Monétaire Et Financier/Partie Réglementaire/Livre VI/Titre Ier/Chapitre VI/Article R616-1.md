@@ -5,4 +5,5 @@ financier, du comité consultatif de la législation et de la réglementation
 financières, de l'Autorité de contrôle prudentiel ainsi que les agents de la
 Banque de France et les personnes chargés d'effectuer les contrôles sur pièces
 et sur place ne peuvent exercer aucune fonction rétribuée dans un établissement
-de crédit, un établissement de paiement ou une entreprise d'investissement.
+de crédit, un établissement de monnaie électronique, un établissement de
+paiement ou une entreprise d'investissement.

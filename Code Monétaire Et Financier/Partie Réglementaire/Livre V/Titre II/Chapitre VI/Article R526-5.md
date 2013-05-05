@@ -1,9 +1,9 @@
-Article R522-3
+Article R526-5
 ----
 Lorsque l'Autorité de contrôle prudentiel ouvre une procédure disciplinaire à
-l'encontre d'un établissement de paiement d'un autre Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
-opérant sur le territoire de la République française, elle communique à
+l'encontre d'un établissement de monnaie électronique d'un autre Etat membre de
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen opérant sur le territoire de la République française, elle communique à
 l'autorité compétente de l'Etat membre d'origine de l'établissement en cause la
 lettre mentionnée à l'article R. 612-36.
 
@@ -20,11 +20,11 @@ l'article R. 612-39.
 
 Avant de suivre la procédure prévue aux alinéas précédents, l'Autorité de
 contrôle prudentiel peut prendre, en cas d'urgence, toute mesure conservatoire
-propre à assurer la protection des intérêts des utilisateurs de services de
-paiement.
+propre à assurer la protection des intérêts des détenteurs de monnaie
+électronique.
 
 En cas d'infraction à des dispositions d'intérêt général au sens des deuxième et
 troisième alinéas de l'article L. 511-24, l'Autorité de contrôle prudentiel
-peut, en application de l'article L. 613-33-2 et sans suivre la procédure prévue
+peut, en application de l'article L. 613-33-3 et sans suivre la procédure prévue
 aux alinéas précédents, prononcer l'une des sanctions disciplinaires énumérées à
 l'article L. 612-39.

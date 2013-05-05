@@ -1,9 +1,10 @@
 Article R613-11
 ----
-Le représentant de l'établissement de crédit, de l'établissement de paiement ou
-de l'entreprise d'investissement doit adresser ses observations au président de
-l'Autorité de contrôle prudentiel dans un délai fixé par la lettre mentionnée à
-l'article R. 613-10. Ce délai ne peut être inférieur à trois jours.
+Le représentant de l'établissement de crédit, de l'établissement de monnaie
+électronique, de l'établissement de paiement ou de l'entreprise d'investissement
+doit adresser ses observations au président de l'Autorité de contrôle prudentiel
+dans un délai fixé par la lettre mentionnée à l'article R. 613-10. Ce délai ne
+peut être inférieur à trois jours.
 
 Le représentant de l'établissement ou de l'entreprise est convoqué, selon les
 modalités prévues au 3° du I de l'article R. 612-34, pour être entendu par

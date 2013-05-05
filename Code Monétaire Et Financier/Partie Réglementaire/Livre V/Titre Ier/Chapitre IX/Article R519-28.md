@@ -24,7 +24,8 @@ Toutefois, lorsque l'intermédiaire mentionné à l'article R. 519-27 ci-dessus 
 fournit au client qu'une aide pour des travaux préparatoires à la réalisation
 d'une opération de banque ou d'un service de paiement, à l'exclusion de toute
 autre forme d'intermédiation, et sans percevoir à ce titre de rémunération d'un
-établissement de crédit ou d'un établissement de paiement, il peut, par
+établissement de crédit, d'un établissement de paiement ou d'un établissement de
+monnaie électronique qui fournit des services de paiement, il peut, par
 dérogation au premier alinéa, limiter son analyse aux contrats pour lesquels il
 a été sollicité par le client. Dans ce cas, il n'est pas soumis aux dispositions
 du présent article, à l'exception de l'obligation de fournir de manière

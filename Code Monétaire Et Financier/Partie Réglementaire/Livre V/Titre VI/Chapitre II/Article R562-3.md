@@ -1,17 +1,18 @@
 Article R562-3
 ----
-I.-Les personnes mentionnées aux 1, 1 bis, 5 et 6 de l'article L. 561-2 qui
-reçoivent l'ordre d'un client, autre qu'une personne relevant des mêmes
-catégories de cet article, d'exécuter pour son compte un virement hors de France
-de fonds ou d'instruments financiers au profit d'une personne, d'un organisme ou
-d'une entité faisant l'objet d'une mesure de gel, suspendent l'exécution de cet
-ordre et informent sans délai le ministre chargé de l'économie.
+I. - Les personnes mentionnées aux 1, 1° bis, 1° ter, 5 et 6 de l'article L.
+561-2 qui reçoivent l'ordre d'un client, autre qu'une personne relevant des
+mêmes catégories de cet article, d'exécuter pour son compte un virement hors de
+France de fonds ou d'instruments financiers au profit d'une personne, d'un
+organisme ou d'une entité faisant l'objet d'une mesure de gel, suspendent
+l'exécution de cet ordre et informent sans délai le ministre chargé de
+l'économie.
 
 Les fonds ou instruments financiers dont le virement a été suspendu sont gelés,
 sauf si le ministre chargé de l'économie en autorise la restitution au client.
 
-II.-Les personnes mentionnées aux 1, 1 bis, 5 et 6 de l'article L. 561-2 qui
-reçoivent de l'étranger un ordre de virement de fonds ou d'instruments
+II. - Les personnes mentionnées aux 1, 1° bis, 1° ter, 5 et 6 de l'article L.
+561-2 qui reçoivent de l'étranger un ordre de virement de fonds ou d'instruments
 financiers d'une personne, d'un organisme ou d'une entité faisant l'objet d'une
 mesure de gel au profit d'un client, autre qu'une personne relevant des mêmes
 catégories de cet article, suspendent l'exécution de cet ordre et informent sans

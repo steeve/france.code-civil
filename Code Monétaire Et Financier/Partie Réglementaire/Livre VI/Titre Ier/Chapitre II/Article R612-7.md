@@ -4,9 +4,9 @@ I.-En application du 1° du II de l'article L. 612-14, le collège peut délégu
 compétence au président ou, en cas d'absence ou d'empêchement de celui-ci, au
 vice-président ou à un autre de ses membres, pour prendre les décisions à
 caractère individuel relevant de sa compétence, à l'exception de celles
-mentionnées aux articles L. 511-41-3, L. 522-15-1, L. 612-30, L. 612-32 à L.
-612-34 et au premier alinéa de l'article L. 612-38 du code monétaire et
-financier ainsi qu'à l'article L. 334-1 du code des assurances.
+mentionnées aux articles L. 511-41-3, L. 522-15-1, L. 526-29, L. 612-30, L.
+612-32 à L. 612-34 et au premier alinéa de l'article L. 612-38 du code monétaire
+et financier ainsi qu'à l'article L. 334-1 du code des assurances.
 
 En vertu du cinquième alinéa de l'article L. 612-15, le collège peut également
 donner compétence au secrétaire général, sauf en matière d'agréments ou de
