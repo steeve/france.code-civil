@@ -8,8 +8,7 @@ délai est prorogé jusqu'au premier jour ouvrable suivant.
 Elles doivent comporter un nombre de noms égal à celui des membres à élire dans
 le collège concerné, auxquels s'ajoutent un nom supplémentaire pour le collège
 mentionné au 5 a de l'article R. 511-6 et deux noms supplémentaires pour les
-autres collèges. Chaque liste de candidats comporte au moins un candidat de
-chaque sexe par tranche de trois candidats.
+autres collèges.
 
 Les listes des candidats à l'élection au titre du collège des chefs
 d'exploitation et assimilés défini au 1° de l'article R. 511-6 doivent préciser
