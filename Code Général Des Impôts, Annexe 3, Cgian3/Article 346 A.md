@@ -3,9 +3,7 @@ Article 346 A
 La désignation des membres de la commission intercommunale des impôts directs
 intervient dans les deux mois à compter de l'installation de l'organe délibérant
 de l'établissement public de coopération intercommunale suivant le
-renouvellement général des conseils municipaux. Toutefois, pour la première
-année au titre de laquelle la commission exerce ses compétences, la nomination
-des membres de la commission intervient avant le 1er janvier de cette année.
+renouvellement général des conseils municipaux.
 
 A défaut de liste de présentation des contribuables prévue au 2 de l'article
 1650 A du code général des impôts, les membres de la commission sont désignés
