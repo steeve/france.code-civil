@@ -6,10 +6,17 @@ culturel et professionnel, sous réserve qu'ils remplissent les conditions
 requises pour exercer leur droit de vote par le décret prévu à l'article L.
 719-2.
 
-Les représentants des étudiants sont élus par et parmi les membres étudiants du
-conseil d'administration, du conseil scientifique et du conseil des études et de
-la vie universitaire des établissements publics à caractère scientifique,
-culturel et professionnel.
+Les représentants des étudiants sont élus parmi les membres étudiants titulaires
+et suppléants des conseils d'administration, conseils scientifiques et conseils
+des études et de la vie universitaire, ou des organes en tenant lieu, des
+établissements publics à caractère scientifique, culturel et professionnel. Ils
+sont élus par de grands électeurs désignés parmi les mêmes membres étudiants des
+conseils précités.
+
+Un arrêté du ministre chargé de l'enseignement supérieur détermine les
+catégories d'établissements en fonction des effectifs des étudiants
+régulièrement inscrits et les modalités de désignation des grands électeurs au
+sein de chaque catégorie d'établissements.
 
 Nul ne dispose de plus d'une voix.
 
