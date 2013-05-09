@@ -12,3 +12,9 @@ deux mois sur l'importance significative de cette succursale après avoir examin
 les avis et les réserves exprimés par l'autre autorité auprès de laquelle la
 demande a été formulée. Sa décision est motivée. Elle est notifiée à cette autre
 autorité.
+
+Si, dans les deux mois de sa demande, l'autorité compétente de l'Etat membre
+concerné a saisi l'Autorité bancaire européenne, l'Autorité de contrôle
+prudentiel suspend sa décision dans l'attente d'une décision de l'Autorité
+bancaire européenne. L'Autorité de contrôle prudentiel prend sa décision en
+conformité avec la décision de l'Autorité bancaire européenne.

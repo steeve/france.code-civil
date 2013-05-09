@@ -17,9 +17,10 @@ systèmes auxquels la personne concernée participe et la Banque de France, ains
 que, lorsqu'il s'agit d'un système de règlement et de livraison d'instruments
 financiers, l'Autorité des marchés financiers.
 
-II.-L'Autorité de contrôle prudentiel informe, dans les mêmes conditions, les
-autorités désignées à cette fin par les Etats membres de la Communauté
-européenne des mesures mentionnées au 1° et au 2° du I prises à l'encontre d'un
+II.-L'Autorité de contrôle prudentiel informe, dans les mêmes conditions, le
+Comité européen du risque systémique, les autorités désignées à cette fin par
+les Etats membres de l'Union européenne et l'Autorité européenne des marchés
+financiers des mesures mentionnées au 1° et au 2° du I prises à l'encontre d'un
 établissement de crédit, d'une entreprise d'investissement ou d'un adhérent
 d'une chambre de compensation qui participe à un système de règlement
 interbancaire ou de règlement et de livraison d'instruments financiers, qui a

@@ -1,15 +1,9 @@
 Article R612-20
 ----
 I.-1° L'Autorité de contrôle prudentiel dresse chaque année les listes, arrêtées
-au 1er janvier, des personnes mentionnées au I de l'article L. 612-2. Ces listes
-précisent le cas échéant l'activité, le service ou la branche pour lesquels ces
-personnes sont agréées.
-
-Pour les prestataires de services d'investissement exerçant en France et
-autorisés à y fournir des services d'investissement et pour les établissements
-teneurs de compte-conservateur, l'Autorité établit la liste après communication
-par l'Autorité des marchés financiers des agréments que cette dernière a
-délivrés.
+au 1er janvier, des personnes mentionnées au I de l'article L. 612-2 et celle
+des conglomérats financiers. Ces listes précisent le cas échéant l'activité, le
+service ou la branche pour lesquels ces personnes sont agréées.
 
 2° L'Autorité est destinataire des informations données par les autorités
 compétentes des autres Etats parties à l'accord sur l'Espace économique européen
@@ -17,8 +11,7 @@ sur des personnes mentionnées au 1 qui exercent leur activité en France en lib
 établissement ou en libre prestation de services conformément aux dispositions
 du présent code ou du code des assurances. Elle en établit la liste.
 
-3° L'Autorité communique les listes mentionnées aux 1 et 2 à l'Autorité des
-marchés financiers.
+3° (Abrogé)
 
 4° L'Autorité établit et met à jour régulièrement la liste des succursales et
 celle des agents des établissements de paiement et des établissements de monnaie

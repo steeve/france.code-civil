@@ -6,9 +6,9 @@ d'autorisation en application du premier et du troisième alinéas de l'article 
 la réception du dossier complet de demande.
 
 L'Autorité de contrôle prudentiel transmet, dans les meilleurs délais, la
-demande aux autres autorités compétentes intéressées des Etats membres de la
-Communauté européenne ou parties à l'accord sur l'Espace économique européen, et
-se concerte avec elles en vue de parvenir à une décision faisant l'objet d'un
+demande aux autres autorités compétentes intéressées des Etats membres de
+l'Union européenne ou parties à l'accord sur l'Espace économique européen, et se
+concerte avec elles en vue de parvenir à une décision faisant l'objet d'un
 accord de leur part.
 
 Dans le cas où un tel accord n'a pu être obtenu, elle tient compte dans la

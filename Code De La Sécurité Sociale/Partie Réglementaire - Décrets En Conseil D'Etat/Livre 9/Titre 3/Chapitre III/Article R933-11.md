@@ -19,7 +19,11 @@ de fonds propres ;
 risques sont adaptés à l'organisation du conglomérat financier et sur les
 mesures mises en place au sein de chaque entité, en vue de s'assurer que les
 risques puissent être mesurés, surveillés et maîtrisés au niveau du conglomérat,
-sont cohérentes.
+sont cohérentes ;
+
+4° Des procédures permettant de participer à la réalisation et, le cas échéant,
+au développement de mécanismes et de plans de sauvetage appropriés. Ces
+procédures sont mises à jour au moins une fois par an.
 
 III. - Les dispositifs de contrôle interne mis en place doivent permettre :
 
