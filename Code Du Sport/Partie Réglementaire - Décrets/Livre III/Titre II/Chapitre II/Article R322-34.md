@@ -1,6 +1,6 @@
 Article R322-34
 ----
-Après avoir rempli les obligations définies aux articles R. 322-33 et R. 322-34,
+Après avoir rempli les obligations définies aux articles R. 322-32 et R. 322-33,
 le fabricant, son mandataire établi sur le territoire de l'un des Etats membres
 de la Communauté européenne ou, à défaut, tout responsable de la mise sur le
 marché appose le marquage " CE ", conformément aux dispositions de l'annexe

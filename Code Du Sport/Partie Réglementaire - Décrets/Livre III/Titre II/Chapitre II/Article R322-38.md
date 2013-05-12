@@ -18,7 +18,7 @@ documents prévus aux articles R. 322-32 et R. 322-33 ;
 
 4° Pour tout responsable de la mise à disposition d'un EPI-SL d'occasion, de ne
 pas être en mesure de présenter aux agents chargés du contrôle les justificatifs
-de la mise en œuvre de l'article R. 332-37.
+de la mise en œuvre de l'article R. 322-37.
 
 II.-La récidive des contraventions prévues au I est réprimée conformément aux
 articles 132-11 et 132-15 du code pénal.
