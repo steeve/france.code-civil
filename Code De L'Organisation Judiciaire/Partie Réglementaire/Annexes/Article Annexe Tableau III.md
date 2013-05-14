@@ -68,8 +68,10 @@ Amiens
 
 Amiens.
 
-Cour d'appel d'Angers Maine-et-Loire
+Cour d'appel d'Angers
 
+
+Maine-et-Loire
 
 Angers
 
@@ -125,6 +127,13 @@ Cour d'appel de Caen Calvados
 Caen
 
 Hérouville-Saint-Clair.
+
+
+Manche
+
+Coutances.
+
+Saint-Lô.
 
 Cour d'appel de Cayenne
 
