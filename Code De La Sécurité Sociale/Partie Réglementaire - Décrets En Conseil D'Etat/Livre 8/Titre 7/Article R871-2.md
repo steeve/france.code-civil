@@ -16,13 +16,7 @@ l'article L. 162-5-3 ;
 d'assurance maladie pour les frais d'analyses ou de laboratoires prescrits par
 le médecin traitant mentionné à l'article L. 162-5-3 ;
 
-4° De l'intégralité des dépassements d'honoraires des médecins exerçant une
-spécialité chirurgicale, obstétricale ou d'anesthésie-réanimation encadrés dans
-les conditions prévues à l'article 36 de la convention signée le 26 juillet 2011
-en application de l'article L. 162-5 du code de la sécurité sociale, dans sa
-rédaction issue de l'arrêté pris en application du I de l'article 56 de la loi
-n° 2011-1906 du 21 décembre 2011 de financement de la sécurité sociale pour
-2012.
+4° Abrogé.
 
 Le cas échéant, les taux de prise en charge minimale définis aux 1° à 3° sont
 réduits afin que la prise en charge de la participation des assurés ou de leurs
