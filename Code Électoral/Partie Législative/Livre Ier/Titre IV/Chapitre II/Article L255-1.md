@@ -1,8 +1,9 @@
 Article L255-1
 ----
-En cas de fusion de communes, chacune des anciennes communes, sur sa demande,
-constituera de plein droit, par dérogation aux dispositions des articles L. 254
-et L. 255, une section électorale élisant au moins un conseiller.
+En cas de fusion de communes, chacune des anciennes communes comprises dans une
+commune de 20 000 habitants ou plus, sur sa demande, constituera de plein droit,
+par dérogation aux dispositions des articles L. 254 et L. 255, une section
+électorale élisant au moins un conseiller.
 
 Par dérogation aux dispositions de l'article L. 254, le nombre de conseillers
 est proportionnel à la population dans les sections électorales qui

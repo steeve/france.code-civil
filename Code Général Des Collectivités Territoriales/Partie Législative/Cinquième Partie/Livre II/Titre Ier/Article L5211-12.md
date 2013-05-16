@@ -14,7 +14,7 @@ l'exercice effectif des fonctions de président et les indemnités maximales pou
 l'exercice effectif des fonctions de vice-président, correspondant soit au
 nombre maximal de vice-présidents qui résulterait de l'application des deuxième
 et troisième alinéas de l'article L. 5211-10 à l'organe délibérant qui
-comporterait un nombre de délégués déterminé en application des III à VI de
+comporterait un nombre de membres déterminé en application des III à VI de
 l'article L. 5211-6-1, soit au nombre existant de vice-présidences effectivement
 exercées, si celui-ci est inférieur.
 
@@ -48,6 +48,6 @@ cotisations sociales obligatoires.
 Lorsqu'en application des dispositions de l'alinéa précédent, le montant total
 de rémunération et d'indemnité de fonction d'un membre d'un organe délibérant
 d'établissement public de coopération intercommunale fait l'objet d'un
-écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
-délibération nominative de l'organe délibérant de l'établissement public de
-coopération intercommunale ou de l'organisme concerné.
+écrêtement, la part écrêtée est reversée au budget de la personne publique au
+sein de laquelle le membre d'un organe délibérant d'établissement public de
+coopération intercommunale exerce le plus récemment un mandat ou une fonction.

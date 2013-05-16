@@ -2,7 +2,7 @@ Article L2122-10
 ----
 Le maire et les adjoints sont élus pour la même durée que le conseil municipal.
 
-Toutefois, dans les communes de 3 500 habitants et plus, le mandat du maire et
+Toutefois, dans les communes de 1 000 habitants et plus, le mandat du maire et
 des adjoints prend fin de plein droit lorsque la juridiction administrative, par
 une décision devenue définitive, a rectifié les résultats de l'élection des
 conseillers municipaux de telle sorte que la majorité des sièges a été attribuée

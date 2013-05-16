@@ -1,6 +1,7 @@
 Article L257
 ----
-Les bulletins sont valables bien qu'ils portent plus ou moins de noms qu'il n'y
-a de conseillers à élire.
+Sont valables les bulletins déposés dans l'urne comportant plus ou moins de noms
+qu'il n'y a de conseillers à élire.
 
-Les derniers noms inscrits au-delà de ce nombre ne sont pas comptés.
+Les derniers noms inscrits au-delà de ce nombre ainsi que les noms des personnes
+qui n'étaient pas candidates ne sont pas décomptés.

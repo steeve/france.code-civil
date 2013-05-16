@@ -12,5 +12,6 @@ plafond s'entend déduction faite des cotisations sociales obligatoires.
 
 Lorsqu'en application des dispositions du premier alinéa le montant total de
 rémunération et d'indemnité de fonction d'un conseiller municipal fait l'objet
-d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
-délibération nominative du conseil municipal ou de l'organisme concerné.
+d'un écrêtement, la part écrêtée est reversée au budget de la personne publique
+au sein de laquelle le conseiller municipal exerce le plus récemment un mandat
+ou une fonction.

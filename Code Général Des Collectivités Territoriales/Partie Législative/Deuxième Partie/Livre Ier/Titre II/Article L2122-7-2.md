@@ -1,6 +1,6 @@
 Article L2122-7-2
 ----
-Dans les communes de 3 500 habitants et plus, les adjoints sont élus au scrutin
+Dans les communes de 1 000 habitants et plus, les adjoints sont élus au scrutin
 de liste à la majorité absolue, sans panachage ni vote préférentiel. Sur chacune
 des listes, l'écart entre le nombre des candidats de chaque sexe ne peut être
 supérieur à un.

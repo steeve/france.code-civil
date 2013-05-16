@@ -10,8 +10,3 @@ proposition de transformation du comité du syndicat d'agglomération nouvelle e
 le projet d'extension du périmètre arrêté par le ou les représentants de l'Etat
 dans le ou les départements concernés font l'objet de la même notification aux
 communes membres du syndicat.
-
-L'extension du périmètre entraîne une nouvelle répartition entre toutes les
-communes des sièges au conseil du nouvel établissement, dans les conditions qui
-lui sont applicables, ainsi qu'une nouvelle élection de l'ensemble des délégués
-des communes.

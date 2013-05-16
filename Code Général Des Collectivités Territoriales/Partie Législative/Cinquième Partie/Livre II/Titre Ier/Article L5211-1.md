@@ -16,8 +16,8 @@ contraire.
 L'article L. 2121-22-1 s'applique aux établissements publics de coopération
 intercommunale regroupant une population de 50 000 habitants ou plus.
 
-Pour l'application de l'article L. 2121-4, la démission d'un membre de 1'organe
+Pour l'application de l'article L. 2121-4, la démission d'un membre de l'organe
 délibérant des établissements publics de coopération intercommunale est adressée
 au président. La démission est définitive dès sa réception par le président, qui
-en informe immédiatement le maire de la commune dont le délégué démissionnaire
-est issu, en vue de son remplacement.
+en informe immédiatement le maire de la commune dont le membre démissionnaire
+est issu.

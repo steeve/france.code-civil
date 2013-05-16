@@ -1,8 +1,6 @@
 Article L256
 ----
-Pour toutes les communes de 2 500 habitants et au-dessus, les candidatures
-isolées sont interdites et les bulletins distribués aux électeurs doivent
-comporter autant de noms qu'il y a de sièges à pourvoir.
-
-Les électeurs conservent le droit de déposer dans l'urne des bulletins dont la
-liste est incomplète.
+Le jour du scrutin, sont affichés dans chaque bureau de vote le nombre de
+conseillers municipaux à élire par la circonscription électorale, ainsi que les
+noms et prénoms des personnes candidates dans les conditions prévues à la
+section 1 bis du présent chapitre.

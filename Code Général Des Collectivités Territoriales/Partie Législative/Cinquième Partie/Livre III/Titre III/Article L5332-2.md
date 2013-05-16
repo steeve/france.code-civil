@@ -1,17 +1,12 @@
 Article L5332-2
 ----
-Chaque syndicat est administré par un comité composé de membres élus par les
-conseils municipaux des communes constituant l'agglomération nouvelle. La
-répartition des sièges entre les communes est fixée par la décision institutive.
-Toutefois, chaque commune est représentée par deux délégués au moins et aucune
-ne peut disposer de la majorité absolue, à moins que le syndicat ne soit composé
-que de deux communes. La répartition tient compte notamment de la population de
-chacune des communes.
+Le syndicat d'agglomération nouvelle est administré par un comité composé de
+conseillers communautaires dont l'effectif et la répartition sont déterminés par
+application des règles prévues pour les communautés de communes aux articles L.
+5211-6-1 et L. 5211-6-2 du présent code.
 
-La décision institutive fixe également les conditions de population municipale,
-telle qu'elle résulte du dernier recensement général ou complémentaire, ouvrant
-droit pour les communes membres de l'agglomération nouvelle à l'augmentation du
-nombre de leurs délégués au sein du comité.
+Les conseillers communautaires membres du comité du syndicat d'agglomération
+nouvelle sont désignés en application du titre V du livre Ier du code électoral.
 
 Le comité du syndicat est installé dans le délai d'un mois à compter de la
 création du syndicat d'agglomération nouvelle.

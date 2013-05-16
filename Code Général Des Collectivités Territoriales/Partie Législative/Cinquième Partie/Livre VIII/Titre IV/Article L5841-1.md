@@ -25,3 +25,7 @@ chambre territoriale des comptes " ;
 
 6° Les mots : " décret en Conseil d'Etat " sont remplacés par le mot : " décret
 " sauf à l'article L. 5216-9.
+
+7° Les mots : "conseiller communautaire" et "conseillers communautaires" sont
+remplacés, respectivement, par les mots : "délégué des communes" et "délégués
+des communes".

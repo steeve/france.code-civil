@@ -3,7 +3,7 @@ Article L284
 Les conseils municipaux élisent parmi leurs membres dans les communes de moins
 de 9 000 habitants :
 
-- un délégué pour les conseils municipaux de neuf et onze membres ;
+- un délégué pour les conseils municipaux de sept et onze membres ;
 
 - trois délégués pour les conseils municipaux de quinze membres ;
 

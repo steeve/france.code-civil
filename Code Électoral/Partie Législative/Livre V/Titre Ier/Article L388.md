@@ -1,10 +1,10 @@
 Article L388
 ----
 Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction
-en vigueur à la date de promulgation de la loi n° 2011-412 du 14 avril 2011
-portant simplification de dispositions du code électoral et relative à la
-transparence financière de la vie politique, à l'exception des articles L. 15,
-L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection :
+à la date d'entrée en vigueur de la loi n° 2013-403 du 17 mai 2013 relative à
+l'élection des conseillers départementaux, des conseillers municipaux et des
+conseillers communautaires, et modifiant le calendrier électoral, à l'exception
+des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection :
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles
 Wallis et Futuna ;

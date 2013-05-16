@@ -11,6 +11,5 @@ compter de la date à laquelle le conseil municipal a été consulté.
 
 Le délai étant écoulé et les formalités observées, le préfet se prononce sur
 chaque projet. Les sectionnements ainsi opérés subsistent jusqu'à une nouvelle
-décision. Le tableau de ces opérations est dressé chaque année par le préfet au
-cours du dernier trimestre. Ce tableau sert pour les élections intégrales qui
-doivent avoir lieu dans l'année.
+décision. Ce tableau sert pour les élections intégrales qui doivent avoir lieu
+dans l'année.

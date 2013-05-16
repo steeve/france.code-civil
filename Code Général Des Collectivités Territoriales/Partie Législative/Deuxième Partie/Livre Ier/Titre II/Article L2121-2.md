@@ -11,7 +11,7 @@ NOMBRE DES MEMBRES du conseil municipal
 
 De moins de 100 habitants
 
-9
+7
 
 
 De 100 à 499 habitants

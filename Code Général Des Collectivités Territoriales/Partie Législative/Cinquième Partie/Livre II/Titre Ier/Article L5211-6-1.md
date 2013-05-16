@@ -1,7 +1,7 @@
 Article L5211-6-1
 ----
-I. - Sans préjudice des dispositions de l'article L. 5212-7, le nombre et la
-répartition des délégués sont établis :
+I. - Le nombre et la répartition des sièges de conseiller communautaire sont
+établis :
 
 - soit, dans les communautés de communes et les communautés d'agglomération, par
 accord des deux tiers au moins des conseils municipaux des communes intéressées
@@ -28,14 +28,17 @@ essentiellement démographique ;
 2° L'attribution d'un siège à chaque commune membre de l'établissement public de
 coopération intercommunale assure la représentation de l'ensemble des communes.
 
-III. - Chaque organe délibérant est composé de délégués dont le nombre est
-établi à partir du tableau ci-dessous.
+III. - Chaque organe délibérant est composé de conseillers communautaires dont
+le nombre est établi à partir du tableau ci-dessous.
 
 POPULATION MUNICIPALE DE L'ÉTABLISSEMENT public de coopération intercommunale à
 fiscalité propre
 
 
-NOMBRE de sièges
+NOMBRE
+
+de sièges
+
 
 De moins de 3 500 habitants
 
@@ -136,11 +139,11 @@ du présent IV se voient attribuer un siège, au-delà de l'effectif fixé par l
 tableau du III ;
 
 3° Si, après application des modalités prévues aux 1° et 2° du présent IV, une
-commune obtient plus de la moitié des sièges du conseil :
+commune obtient plus de la moitié des sièges de l'organe délibérant :
 
-- seul un nombre de sièges portant le nombre total de ses délégués à la moitié
-des sièges du conseil, arrondie à l'entier inférieur, lui est finalement
-attribué ;
+- seul un nombre de sièges portant le nombre total de ses conseillers
+communautaires à la moitié des sièges de l'organe délibérant, arrondie à
+l'entier inférieur, lui est finalement attribué ;
 
 - les sièges qui, par application de l'alinéa précédent, se trouvent non
 attribués sont ensuite répartis entre les autres communes suivant la règle de la

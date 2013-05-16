@@ -1,6 +1,6 @@
 Article L2122-9
 ----
-Dans les communes de 3 500 habitants et plus, lorsqu'il y a lieu de procéder à
+Dans les communes de 1 000 habitants et plus, lorsqu'il y a lieu de procéder à
 l'élection d'un nouveau maire, le conseil municipal est réputé complet si les
 seules vacances qui existent en son sein sont la conséquence :
 

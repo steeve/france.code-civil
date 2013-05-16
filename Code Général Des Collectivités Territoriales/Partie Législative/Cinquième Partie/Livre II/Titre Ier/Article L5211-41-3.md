@@ -157,13 +157,13 @@ IV.-Le nombre et la répartition des membres de l'organe délibérant du nouvel
 5211-6-1.
 
 Jusqu'au prochain renouvellement général des conseils municipaux suivant la
-création du nouvel établissement, les délégués des communes sont désignés dans
-les conditions prévues au 1° de l'article L. 5211-6-2.
+création du nouvel établissement, les membres sont désignés dans les conditions
+prévues au 1° de l'article L. 5211-6-2.
 
-V.-Le mandat des délégués en fonction avant la fusion des établissements publics
+V.-Le mandat des membres en fonction avant la fusion des établissements publics
 de coopération intercommunale est prorogé jusqu'à l'installation du nouvel
 organe délibérant au plus tard le vendredi de la quatrième semaine suivant la
 fusion. La présidence de l'établissement issu de la fusion est, à titre
 transitoire, assurée par le plus âgé des présidents des établissements publics
-ayant fusionné. Les pouvoirs de l'assemblée des délégués et du président sont
-limités aux actes d'administration conservatoire et urgente.
+ayant fusionné. Les pouvoirs des membres et du président sont limités aux actes
+d'administration conservatoire et urgente.

@@ -13,7 +13,7 @@ membre dispose d'un délai de trois mois à compter de la notification au maire 
 la délibération de l'organe délibérant de l'établissement public de coopération
 intercommunale pour se prononcer sur la transformation proposée.A défaut de
 délibération dans ce délai, sa décision est réputée favorable. Sans préjudice
-des dispositions de l'article L. 5217-1, la transformation est alors prononcée
+des dispositions de l'article L. 5217-2, la transformation est alors prononcée
 par arrêté du représentant de l'Etat dans le département lorsque les communes
 appartiennent au même département et par arrêté conjoint des représentants de
 l'Etat dans les départements concernés dans le cas contraire.
@@ -26,7 +26,6 @@ transformation est issue.L'ensemble des personnels de l'établissement transform
 est réputé relever du nouvel établissement dans les conditions de statut et
 d'emploi qui sont les siennes.
 
-Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10, les
-délégués des communes à l'organe délibérant de l'ancien établissement conservent
-leur mandat, pour la durée de celui-ci restant à courir, à l'organe délibérant
-du nouvel établissement.
+Les conseillers communautaires composant l'organe délibérant de l'ancien
+établissement conservent leur mandat, pour la durée de celui-ci restant à
+courir, au sein de l'organe délibérant du nouvel établissement.

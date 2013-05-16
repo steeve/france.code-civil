@@ -35,11 +35,10 @@ d'agglomération nouvelle dans toutes les délibérations et tous les actes de c
 dernier à la date de l'arrêté de transformation. L'ensemble des personnels du
 syndicat d'agglomération nouvelle est réputé relever de la communauté
 d'agglomération dans les conditions de statut et d'emploi qui sont les siennes.
-Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10, les
-délégués des communes au comité du syndicat d'agglomération nouvelle ou au
-conseil de la communauté d'agglomération nouvelle conservent leur mandat, pour
-la durée de celui-ci restant à courir, à l'organe délibérant de la communauté
-d'agglomération.
+Les conseillers communautaires composant le comité du syndicat d'agglomération
+nouvelle ou au conseil de la communauté d'agglomération nouvelle conservent leur
+mandat, pour la durée de celui-ci restant à courir, au sein de l'organe
+délibérant de la communauté d'agglomération.
 
 En cas de rejet de la proposition du comité du syndicat d'agglomération
 nouvelle, le syndicat d'agglomération nouvelle continue d'être régi par les

@@ -2,14 +2,13 @@ Article L238
 ----
 Nul ne peut être membre de plusieurs conseils municipaux.
 
-Un délai de dix jours, à partir de la proclamation du résultat du scrutin, est
-accordé au conseiller municipal élu dans plusieurs communes pour faire sa
-déclaration d'option. Cette déclaration est adressée aux préfets des
-départements intéressés.
+Toute personne qui s'est portée candidate et a été élue dans plusieurs
+circonscriptions électorales municipales le même jour perd de plein droit ses
+mandats de conseiller municipal.
 
-Si, dans ce délai, le conseiller élu n'a pas fait connaître son option, il fait
-partie de droit du conseil de la commune où le nombre des électeurs est le moins
-élevé.
+Tout membre d'un conseil municipal élu postérieurement conseiller dans une autre
+circonscription électorale municipale cesse d'appartenir au premier conseil
+municipal.
 
 Dans les communes de plus de 500 habitants, le nombre des ascendants et
 descendants, frères et soeurs, qui peuvent être simultanément membres du même

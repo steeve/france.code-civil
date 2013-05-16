@@ -13,5 +13,6 @@ faite des cotisations sociales obligatoires.
 
 Lorsqu'en application des dispositions de l'alinéa précédent, le montant total
 de rémunération et d'indemnité de fonction d'un conseiller régional fait l'objet
-d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
-délibération nominative du conseil régional ou de l'organisme concerné.
+d'un écrêtement, la part écrêtée est reversée au budget de la personne publique
+au sein de laquelle le conseiller régional exerce le plus récemment un mandat ou
+une fonction.
