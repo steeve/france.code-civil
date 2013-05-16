@@ -14,5 +14,5 @@ Dans le cadre de leurs missions, les médecins du travail, les médecins des
 infirmeries des établissements publics locaux d'enseignement et des services de
 médecine préventive et de promotion de la santé dans les établissements
 d'enseignement supérieur, les médecins des services de protection maternelle et
-infantile et des autres services de santé dépendant des conseils généraux ou des
-communes participent à la mise en oeuvre de la politique vaccinale.
+infantile et des autres services de santé dépendant des conseils départementaux
+ou des communes participent à la mise en oeuvre de la politique vaccinale.

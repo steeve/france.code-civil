@@ -1,8 +1,8 @@
 Article L212-6
 ----
 La commission locale de l'eau soumet le projet de schéma d'aménagement et de
-gestion des eaux à l'avis des conseils généraux, des conseils régionaux, des
-chambres consulaires, des communes, de leurs groupements compétents et, s'il
+gestion des eaux à l'avis des conseils départementaux, des conseils régionaux,
+des chambres consulaires, des communes, de leurs groupements compétents et, s'il
 existe, de l'établissement public territorial de bassin ainsi que du comité de
 bassin intéressés. Hormis celui du comité de bassin, ces avis sont réputés
 favorables s'ils n'interviennent pas dans un délai de quatre mois.

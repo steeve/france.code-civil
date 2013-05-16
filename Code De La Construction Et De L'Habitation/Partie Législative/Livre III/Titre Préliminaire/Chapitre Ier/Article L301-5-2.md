@@ -8,26 +8,27 @@ mentionnées à l'article L. 321-4 par délégation de l'Agence nationale de
 l'habitat.
 
 Hors du périmètre des établissements publics de coopération intercommunale ayant
-conclu une convention en application de l'article L. 301-5-1 du présent code, du
-VI de l'article L. 5219-1 ou du II de l'article L. 5217-2 du code général des
+conclu une convention en application de l'article L. 301-5-1, du présent code,
+du VI de l'article L. 5219-1 ou du II de l'article L. 5217-2 du code général des
 collectivités territoriales, et pour le département du Rhône, hors du périmètre
 de la métropole de Lyon si celle-ci a conclu une convention en application de
-l'article L. 3641-5 du même code, la convention conclue par le département
+l'article L. 3641-5 du même code la convention conclue par le département
 définit les conditions de mise en place d'un dispositif d'observation de
-l'habitat et précise, en application du plan local d'action pour le logement et
-l'hébergement des personnes défavorisées et en tenant compte des programmes
-locaux de l'habitat et des actions de rénovation urbaine au sens de la loi n°
-2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la
-rénovation urbaine, les objectifs poursuivis et les actions à mettre en oeuvre
-en matière de réalisation, de réhabilitation et démolition de logements locatifs
-sociaux, notamment pour les personnes mentionnées au II de l'article L. 301-1,
-et de places d'hébergement destinées à accueillir les personnes et les familles
-visées au deuxième alinéa de l'article 2 de la loi n° 90-449 du 31 mai 1990
-visant à la mise en oeuvre du droit au logement, ainsi qu'en matière de
-rénovation de l'habitat privé, notamment dans le cadre d'opérations programmées
-d'amélioration de l'habitat. Elle définit les objectifs en matière de lutte
-contre l'habitat indigne et arrête, le cas échéant, les actions nécessaires à sa
-résorption. Ces objectifs et actions sont détaillés par zones géographiques.
+l'habitat et précise, en application du plan départemental d'action pour le
+logement et l'hébergement des personnes défavorisées et en tenant compte des
+programmes locaux de l'habitat et des actions de rénovation urbaine au sens de
+la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la
+ville et la rénovation urbaine, les objectifs poursuivis et les actions à mettre
+en oeuvre en matière de réalisation, de réhabilitation et démolition de
+logements locatifs sociaux, notamment pour les personnes mentionnées au II de
+l'article L. 301-1, et de places d'hébergement destinées à accueillir les
+personnes et les familles visées au deuxième alinéa de l'article 2 de la loi n°
+90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, ainsi
+qu'en matière de rénovation de l'habitat privé, notamment dans le cadre
+d'opérations programmées d'amélioration de l'habitat. Elle définit les objectifs
+en matière de lutte contre l'habitat indigne et arrête, le cas échéant, les
+actions nécessaires à sa résorption. Ces objectifs et actions sont détaillés par
+zones géographiques.
 
 La convention fixe, d'une part, dans la limite des dotations ouvertes en loi de
 finances, le montant des droits à engagement alloués au département et, d'autre
@@ -48,14 +49,15 @@ l'échéancier de versement des crédits, des engagements constatés les années
 précédentes et des engagements prévisionnels de l'année considérée.
 
 Les décisions d'attribution des aides en faveur de l'habitat privé sont prises
-par le président du conseil général, par délégation de l'Agence nationale de
-l'habitat, dans la limite des droits à engagement correspondants, dans le cadre
-d'un programme d'action fixé après avis d'une commission locale d'amélioration
-de l'habitat. Elles donnent lieu à paiement par l'Agence nationale de l'habitat,
-dans des conditions fixées par la convention prévue à l'article L. 321-1-1.
-Toutefois, lorsque le département demande à assurer le paiement direct des aides
-à leurs bénéficiaires, la convention précitée en prévoit les conditions et
-notamment les modalités de versement des crédits par l'agence au département.
+par le président du conseil départemental , par délégation de l'Agence nationale
+de l'habitat, dans la limite des droits à engagement correspondants, dans le
+cadre d'un programme d'action fixé après avis d'une commission locale
+d'amélioration de l'habitat. Elles donnent lieu à paiement par l'Agence
+nationale de l'habitat, dans des conditions fixées par la convention prévue à
+l'article L. 321-1-1. Toutefois, lorsque le département demande à assurer le
+paiement direct des aides à leurs bénéficiaires, la convention précitée en
+prévoit les conditions et notamment les modalités de versement des crédits par
+l'agence au département.
 
 La convention fixe, en accord avec la Caisse des dépôts et consignations,
 l'enveloppe de prêts que cet établissement peut affecter aux opérations définies
@@ -69,8 +71,8 @@ situation du marché du logement.
 
 La convention prévoit les conditions dans lesquelles les conventions mentionnées
 à l'article L. 353-2 ainsi que les décisions favorables mentionnées au 3° de
-l'article L. 351-2 sont signées par le président du conseil général au nom de
-l'Etat.
+l'article L. 351-2 sont signées par le président du conseil départemental au nom
+de l'Etat.
 
 Elle peut adapter, pour des secteurs géographiques déterminés, dans des limites
 fixées par décret en Conseil d'Etat, les plafonds de ressources mentionnés à
@@ -80,11 +82,11 @@ Elle définit les conditions dans lesquelles une évaluation sera effectuée au
 terme de son application.
 
 Lorsqu'un établissement public de coopération intercommunale signe avec l'Etat
-une convention régie par l'article L. 301-5-1 du présent code, du VI de
+une convention régie par l'article L. 301-5-1, du présent code, du VI de
 l'article L. 5219-1 ou du II de l'article L. 5217-2 du code général des
 collectivités territoriales, ou, pour le département du Rhône, lorsque la
 métropole de Lyon signe avec l'Etat une convention régie par l'article L. 3641-5
-du même code, alors qu'une convention régie par le présent article est en cours
+du même code alors qu'une convention régie par le présent article est en cours
 d'exécution, cette convention fait l'objet d'un avenant pour en retrancher, à
 compter du 1er janvier de l'année suivante, les dispositions concernant
 l'établissement public.

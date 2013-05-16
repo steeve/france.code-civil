@@ -1,6 +1,6 @@
 Article L211-2
 ----
-Les préfets peuvent, après avis des conseils généraux, déterminer par des
+Les préfets peuvent, après avis des conseils départementaux, déterminer par des
 arrêtés les conditions sous lesquelles les chèvres peuvent être conduites et
 tenues au pâturage.
 

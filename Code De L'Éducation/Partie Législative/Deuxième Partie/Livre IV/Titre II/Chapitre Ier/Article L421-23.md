@@ -10,7 +10,7 @@ statut, sont administrés par la collectivité dont ils dépendent statutairemen
 et sont placés sous l'autorité du chef d'établissement.
 
 II.-Pour l'exercice des compétences incombant à la collectivité de rattachement,
-le président du conseil général ou régional s'adresse directement au chef
+le président du conseil départemental ou régional s'adresse directement au chef
 d'établissement.
 
 Il lui fait connaître les objectifs fixés par la collectivité de rattachement et
@@ -26,6 +26,6 @@ collectivité compétente. Un décret détermine les conditions de fixation des
 tarifs de restauration scolaire et d'évolution de ceux-ci en fonction du coût,
 du mode de production des repas et des prestations servies.
 
-Une convention passée entre l'établissement et, selon le cas, le conseil général
-ou le conseil régional précise les modalités d'exercice de leurs compétences
-respectives.
+Une convention passée entre l'établissement et, selon le cas, le conseil
+départemental ou le conseil régional précise les modalités d'exercice de leurs
+compétences respectives.

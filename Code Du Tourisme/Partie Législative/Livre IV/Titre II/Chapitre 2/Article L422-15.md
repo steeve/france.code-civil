@@ -23,9 +23,9 @@ d'Etat.
 
 Art. L. 3333-5 du code général des collectivités territoriales.
 
-La taxe départementale est instituée par délibération du conseil général, qui en
-fixe le taux dans la limite de 2 % des recettes brutes provenant de la vente des
-titres de transport.
+La taxe départementale est instituée par délibération du conseil départemental ,
+qui en fixe le taux dans la limite de 2 % des recettes brutes provenant de la
+vente des titres de transport.
 
 Art. L. 3333-6 du code général des collectivités territoriales.
 

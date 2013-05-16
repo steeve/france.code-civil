@@ -12,5 +12,5 @@ articles L. 52-3, L. 56, L. 57, L. 57-1, L. 58, L. 65 (quatrième alinéa), L.
 3° Livre VI : L. 451, L. 477, L. 504 et L. 531.
 
 Pour l'application de ces dispositions, il y a lieu de lire : " parti ou
-groupement habilité à participer à la campagne " au lieu de : " candidat " ou "
-liste de candidats ".
+groupement habilité à participer à la campagne " au lieu de : " candidat ", "
+binôme de candidats " ou " liste de candidats ".

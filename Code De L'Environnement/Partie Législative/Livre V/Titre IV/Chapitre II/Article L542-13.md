@@ -18,8 +18,8 @@ prévue à l'article L. 542-10-1.
 
 Il peut être doté de la personnalité juridique avec un statut d'association. Il
 est présidé par un de ses membres, élu national ou local, nommé par décision
-conjointe des présidents des conseils généraux des départements sur lesquels
-s'étend le périmètre du laboratoire.
+conjointe des présidents des conseils départementaux des départements sur
+lesquels s'étend le périmètre du laboratoire.
 
 Le comité se réunit au moins deux fois par an. Il est informé des objectifs du
 programme, de la nature des travaux et des résultats obtenus. Il peut saisir la

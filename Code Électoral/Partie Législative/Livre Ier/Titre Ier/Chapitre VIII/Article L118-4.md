@@ -10,4 +10,5 @@ les élections. Toutefois, elle n'a pas d'effet sur les mandats acquis
 antérieurement à la date de la décision.
 
 Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il
-annule son élection.
+annule son élection. En cas de scrutin binominal, il annule l'élection du binôme
+auquel ce candidat appartient.

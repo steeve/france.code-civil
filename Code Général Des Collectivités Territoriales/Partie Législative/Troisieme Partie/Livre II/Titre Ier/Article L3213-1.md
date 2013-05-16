@@ -1,6 +1,6 @@
 Article L3213-1
 ----
-Le conseil général statue sur les objets suivants :
+Le conseil départemental statue sur les objets suivants :
 
 1° Acquisition, aliénation et échange des propriétés départementales mobilières
 ou immobilières ;

@@ -5,7 +5,7 @@ spéciaux sont réservés par l'autorité municipale pour l'apposition des affic
 électorales.
 
 Dans chacun de ces emplacements, une surface égale est attribuée à chaque
-candidat ou à chaque liste de candidats.
+candidat, chaque binôme de candidats ou à chaque liste de candidats.
 
 Pendant les six mois précédant le premier jour du mois d'une élection et jusqu'à
 la date du tour de scrutin où celle-ci est acquise, tout affichage relatif à

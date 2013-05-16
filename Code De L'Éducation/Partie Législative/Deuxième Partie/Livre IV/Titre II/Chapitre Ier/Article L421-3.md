@@ -15,4 +15,4 @@ fonctionnement du service public.
 
 Le chef d'établissement expose, dans les meilleurs délais, au conseil
 d'administration les décisions prises et en rend compte à l'autorité académique,
-au maire, au président du conseil général ou du conseil régional.
+au maire, au président du conseil départemental ou du conseil régional.

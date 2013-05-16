@@ -1,6 +1,6 @@
 Article L3444-2
 ----
-Les conseils généraux des départements d'outre-mer peuvent présenter des
+Les conseils départementaux des départements d'outre-mer peuvent présenter des
 propositions de modification des dispositions législatives ou réglementaires en
 vigueur, ainsi que toutes propositions législatives ou réglementaires concernant
 le développement économique, social et culturel de ces départements.

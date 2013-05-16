@@ -3,9 +3,10 @@ Article L124-3
 Les projets d'échanges amiables d'immeubles ruraux répondant aux conditions
 définies ci-dessous peuvent être adressés à la commission départementale
 d'aménagement foncier qui, si elle en reconnaît l'utilité au regard des
-objectifs poursuivis par l'aménagement foncier, les transmet au conseil général.
-Si celui-ci approuve l'opération, le président du conseil général la rend
-exécutoire dans les conditions prévues à l'article L. 121-21.
+objectifs poursuivis par l'aménagement foncier, les transmet au conseil
+départemental . Si celui-ci approuve l'opération, le président du conseil
+départemental la rend exécutoire dans les conditions prévues à l'article L.
+121-21.
 
 Les immeubles échangés doivent être situés soit dans le même canton, soit dans
 un canton et dans une commune limitrophe de celui-ci. En dehors de ces limites,

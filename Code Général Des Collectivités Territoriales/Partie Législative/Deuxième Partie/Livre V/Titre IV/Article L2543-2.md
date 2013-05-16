@@ -10,5 +10,5 @@ Les dispositions du premier alinéa sont applicables :
 de se placer sous ce régime ;
 
 2° Dans les communes qui, par décret pris sur la demande de leur conseil
-municipal et après avis du conseil général, ont été autorisées à se placer sous
-ce régime.
+municipal et après avis du conseil départemental , ont été autorisées à se
+placer sous ce régime.

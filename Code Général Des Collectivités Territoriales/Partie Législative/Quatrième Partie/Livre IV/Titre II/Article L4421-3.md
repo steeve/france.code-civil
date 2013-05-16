@@ -4,8 +4,8 @@ Une conférence de coordination des collectivités territoriales est créée en
 Corse.
 
 Elle est composée du président du conseil exécutif de Corse, du président de
-l'Assemblée de Corse et des présidents des conseils généraux, membres de droit.
-En tant que de besoin, des maires et des présidents de groupements de
+l'Assemblée de Corse et des présidents des conseils départementaux, membres de
+droit. En tant que de besoin, des maires et des présidents de groupements de
 collectivités territoriales peuvent y participer. Des personnes qualifiées
 peuvent y être entendues.
 

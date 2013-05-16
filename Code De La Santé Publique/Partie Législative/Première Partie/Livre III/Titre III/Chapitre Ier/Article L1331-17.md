@@ -31,6 +31,6 @@ municipal ne s'est pas engagé à y déférer, ou si, dans les trois mois, il n'
 pris aucune mesure en vue de l'exécution des travaux, un décret en Conseil
 d'Etat ordonne ces travaux et détermine les conditions d'exécution.
 
-Le conseil général statue, dans les conditions prévues par les articles L.
+Le conseil départemental statue, dans les conditions prévues par les articles L.
 3215-1 et L. 3215-2 du code général des collectivités territoriales, sur la
 participation du département aux dépenses des travaux ci-dessus spécifiés.

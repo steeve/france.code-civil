@@ -9,5 +9,5 @@ intercommunale, propriétaire de la voie, et organisée conformément aux
 dispositions du code de l'expropriation pour cause d'utilité publique.
 
 Il est approuvé par le représentant de l'Etat dans le département, le conseil
-général ou le conseil municipal, selon qu'il s'agit d'une route nationale, d'une
-route départementale ou d'une voie communale.
+départemental ou le conseil municipal, selon qu'il s'agit d'une route nationale,
+d'une route départementale ou d'une voie communale.

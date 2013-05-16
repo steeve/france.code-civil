@@ -4,6 +4,10 @@ Les dépenses exposées par des candidats ayant agi séparément avant de figure
 sur une même liste sont totalisées et décomptées comme faites au profit de cette
 liste lorsqu'elle a été constituée avant le premier tour.
 
+Les dépenses exposées par des candidats ayant agi séparément avant d'être réunis
+au sein d'un même binôme sont totalisées et décomptées comme faites au profit de
+ce binôme.
+
 Lorsqu'il est établi une nouvelle liste en vue du second tour de scrutin, les
 dépenses visées à l'article L. 52-12 sont totalisées et décomptées à compter du
 premier tour de scrutin au profit de la liste à laquelle appartenait le candidat

@@ -172,7 +172,7 @@ le 31 janvier suivant l'exercice auquel ils se rapportent.
 
 Art. L1612-12.-L'arrêté des comptes de la collectivité territoriale est
 constitué par le vote de l'organe délibérant sur le compte administratif
-présenté selon le cas par le maire, le président du conseil général ou le
+présenté selon le cas par le maire, le président du conseil départemental ou le
 président du conseil régional après transmission, au plus tard le 1er juin de
 l'année suivant l'exercice, du compte de gestion établi par le comptable de la
 collectivité territoriale. Le vote de l'organe délibérant arrêtant les comptes
@@ -183,13 +183,13 @@ contre son adoption.
 
 Lorsque le compte administratif fait l'objet d'un rejet par l'assemblée
 délibérante, le projet de compte administratif joint à la délibération de rejet
-tel que présenté selon le cas par le maire, le président du conseil général ou
-le président du conseil régional, s'il est conforme au compte de gestion établi
-par le comptable, après avis rendu sous un mois par la chambre régionale des
-comptes, saisie sans délai par le représentant de l'Etat, est substitué au
-compte administratif pour la mise en oeuvre des dispositions prévues aux
-articles L. 1424-35, L. 2531-13 et L. 4434-9 et pour la liquidation des
-attributions au titre du Fonds de compensation pour la taxe sur la valeur
+tel que présenté selon le cas par le maire, le président du conseil
+départemental ou le président du conseil régional, s'il est conforme au compte
+de gestion établi par le comptable, après avis rendu sous un mois par la chambre
+régionale des comptes, saisie sans délai par le représentant de l'Etat, est
+substitué au compte administratif pour la mise en oeuvre des dispositions
+prévues aux articles L. 1424-35, L. 2531-13 et L. 4434-9 et pour la liquidation
+des attributions au titre du Fonds de compensation pour la taxe sur la valeur
 ajoutée prévue à l'article L. 1615-6.
 
 Art. L. 1612-13.-Le compte administratif est transmis au représentant de l'Etat
@@ -254,9 +254,9 @@ de fer français dans la limite de la part de la compensation visée au quatriè
 alinéa de l'article L. 1614-8-1.
 
 Art. L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire,
-le président du conseil général ou le président du conseil régional suivant le
-cas, dans le mois suivant la mise en demeure qui lui en a été faite par le
-représentant de l'Etat dans le département, celui-ci y procède d'office.
+le président du conseil départemental ou le président du conseil régional
+suivant le cas, dans le mois suivant la mise en demeure qui lui en a été faite
+par le représentant de l'Etat dans le département, celui-ci y procède d'office.
 
 Le délai prévu à l'alinéa précédent est porté à deux mois si la dépense est
 égale ou supérieure à 5 % de la section de fonctionnement du budget primitif.

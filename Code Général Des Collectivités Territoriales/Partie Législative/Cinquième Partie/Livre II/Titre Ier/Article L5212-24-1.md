@@ -7,7 +7,7 @@ suivant le trimestre concerné, accompagnée du paiement de la taxe, selon les
 mêmes modalités, périodicité et délai que ceux prévus audit article.
 
 Les redevables sont également tenus d'adresser, selon le cas, au président du
-syndicat intercommunal ou du conseil général une copie de la déclaration
+syndicat intercommunal ou du conseil départemental une copie de la déclaration
 mentionnée à l'alinéa précédent dans un délai de deux mois suivant le trimestre
 concerné.
 

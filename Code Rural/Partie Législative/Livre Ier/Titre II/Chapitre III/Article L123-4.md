@@ -9,7 +9,7 @@ maintenues ou créées.
 Lorsque des terrains visés aux articles L. 123-2 et L. 123-3 ou situés dans les
 zones urbanisées ou d'urbanisation future identifiées par les documents
 d'urbanisme visés à l'article L. 121-1 et ne bénéficiant pas des éléments de
-viabilité mentionnés à l' article L. 322-3 du code de l'expropriation pour cause
+viabilité mentionnés à l'article L. 322-3 du code de l'expropriation pour cause
 d'utilité publique sont attribués à la commune en vue de la réalisation des
 projets communaux ou intercommunaux visés à l'article L. 123-27 du présent code,
 il peut être attribué au propriétaire une valeur d'échange tenant compte de la
@@ -81,7 +81,7 @@ parcelles en agriculture conventionnelle ou en conversion ou qui, en
 contrepartie d'apport de parcelles en conversion, reçoivent des parcelles en
 agriculture conventionnelle ou à un stade de conversion différent. Les
 conditions de paiement de cette soulte sont fixées par la délibération du
-conseil général ordonnant l'opération d'aménagement foncier.
+conseil départemental ordonnant l'opération d'aménagement foncier.
 
 Exceptionnellement, une soulte en nature peut être attribuée avec l'accord des
 propriétaires intéressés.

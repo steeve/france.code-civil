@@ -11,7 +11,8 @@ et l'exploitation du laboratoire ou du centre de stockage ;
 2° De mener, dans les limites de son département, des actions d'aménagement du
 territoire et de développement économique, particulièrement dans la zone de
 proximité du laboratoire souterrain ou du centre de stockage dont le périmètre
-est défini par décret pris après consultation des conseils généraux concernés ;
+est défini par décret pris après consultation des conseils départementaux
+concernés ;
 
 3° De soutenir des actions de formation ainsi que des actions en faveur du
 développement, de la valorisation et de la diffusion de connaissances

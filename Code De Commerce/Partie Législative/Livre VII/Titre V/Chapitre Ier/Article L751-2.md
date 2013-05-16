@@ -13,9 +13,9 @@ c) Le président du syndicat mixte ou de l'établissement public de coopération
 intercommunale mentionné à l'article L. 122-4 du code de l'urbanisme chargé du
 schéma de cohérence territoriale dans le périmètre duquel est située la commune
 d'implantation ou son représentant ou, à défaut, le maire de la commune la plus
-peuplée de l'arrondissement ou, à défaut, un membre du conseil général ;
+peuplée de l'arrondissement ou, à défaut, un membre du conseil départemental ;
 
-d) Le président du conseil général ou son représentant ;
+d) Le président du conseil départemental ou son représentant ;
 
 e) Le président du conseil régional ou son représentant ;
 

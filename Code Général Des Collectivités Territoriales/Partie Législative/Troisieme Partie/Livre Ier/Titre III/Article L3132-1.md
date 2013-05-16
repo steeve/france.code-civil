@@ -9,8 +9,8 @@ administratif, il en informe sans délai l'autorité départementale et lui
 communique toutes précisions sur les illégalités invoquées à l'encontre de
 l'acte concerné.
 
-Sur demande du président du conseil général, le représentant de l'Etat dans le
-département l'informe de son intention de ne pas déférer au tribunal
+Sur demande du président du conseil départemental, le représentant de l'Etat
+dans le département l'informe de son intention de ne pas déférer au tribunal
 administratif un acte des autorités départementales qui lui a été transmis en
 application des articles L. 3131-1 à L. 3131-6.
 

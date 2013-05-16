@@ -25,11 +25,11 @@ cette association ;
 5° Les organismes bénéficiant de l'agrément prévu à l'article L. 365-2.
 
 Le représentant de l'Etat dans la région communique chaque année aux
-représentants de l'Etat dans le département, aux conseils généraux ayant conclu
-la convention visée à l'article L. 301-5-2 et aux établissements publics de
-coopération intercommunale ayant conclu la convention visée à l'article L.
+représentants de l'Etat dans le département, aux conseils départementaux ayant
+conclu la convention visée à l'article L. 301-5-2 et aux établissements publics
+de coopération intercommunale ayant conclu la convention visée à l'article L.
 301-5-1 les informations du répertoire relatives à chaque logement situé sur
-leur territoire.A leur demande, les communes, les établissements publics de
+leur territoire. A leur demande, les communes, les établissements publics de
 coopération intercommunale compétents en matière de programme local de l'habitat
 et les départements obtiennent, auprès du représentant de l'Etat dans la région,
 communication des informations du répertoire relatives à chaque logement situé

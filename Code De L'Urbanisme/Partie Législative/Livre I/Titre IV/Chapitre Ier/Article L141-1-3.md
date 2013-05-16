@@ -12,11 +12,11 @@ nécessaire.
 
 Dans la négative ou à défaut de réponse dans ce délai, le représentant de l'Etat
 dans la région peut engager et arrêter la révision ou la modification du schéma
-après avis du conseil régional, des conseils généraux et organes délibérants des
-communautés d'agglomération concernés de la région. Il en est de même si
-l'intention exprimée de la région de procéder à la révision ou à la modification
-n'est pas suivie, dans un délai de vingt-quatre mois à compter de la
-notification de la demande initiale du représentant de l'Etat dans la région,
+après avis du conseil régional, des conseils départementaux et organes
+délibérants des communautés d'agglomération concernés de la région. Il en est de
+même si l'intention exprimée de la région de procéder à la révision ou à la
+modification n'est pas suivie, dans un délai de vingt-quatre mois à compter de
+la notification de la demande initiale du représentant de l'Etat dans la région,
 d'une délibération approuvant le projet correspondant.
 
 La révision ou la modification est approuvée par décret en Conseil d'Etat, après

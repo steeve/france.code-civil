@@ -1,10 +1,10 @@
 Article L132-3
 ----
-Le conseil général fixe le statut, les principes d'organisation et la
+Le conseil départemental fixe le statut, les principes d'organisation et la
 composition du comité départemental du tourisme.
 
-Il comprend notamment des délégués du conseil général ainsi que des membres
-représentant :
+Il comprend notamment des délégués du conseil départemental ainsi que des
+membres représentant :
 
 1° Les organismes consulaires et, le cas échéant, les comités d'expansion
 économique ;

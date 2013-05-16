@@ -23,21 +23,22 @@ exploitants concernés. La participation des intéressés, qui peut aller jusqu'
 la prise en charge de la totalité des frais engagés, est calculée sur les bases
 de répartition fixées par le département. Elle est recouvrée par le département
 après le transfert de propriété, dans les délais et, éventuellement, selon
-l'échéancier fixés par délibération du conseil général et versée au fonds de
-concours qui en aura fait l'avance. Les modalités de cette participation font
+l'échéancier fixés par délibération du conseil départemental et versée au fonds
+de concours qui en aura fait l'avance. Les modalités de cette participation font
 l'objet d'une consultation préalable des propriétaires intéressés organisée par
-le conseil général dans des conditions fixées par décret en Conseil d'Etat. Le
-conseil général peut confier à l'association foncière d'aménagement agricole et
-forestier l'exécution, sous son contrôle, du recouvrement de ces participations,
-dans les conditions prévues pour le recouvrement des créances du département. Au
-moment de la consultation, l'exploitant peut se substituer au propriétaire pour
-prendre en charge la participation ou la totalité des frais
-engagés.L'aménagement foncier est alors assimilé aux travaux d'amélioration
-exécutés par le preneur. Aucune participation des intéressés ne peut être exigée
-lorsque l'aménagement foncier est réalisé en application de l'article L. 123-24.
-Les résultats de la consultation accompagnent les propositions de la commission
-communale ou intercommunale mentionnées à l'article L. 121-14.
+le conseil départemental dans des conditions fixées par décret en Conseil
+d'Etat. Le conseil départemental peut confier à l'association foncière
+d'aménagement agricole et forestier l'exécution, sous son contrôle, du
+recouvrement de ces participations, dans les conditions prévues pour le
+recouvrement des créances du département. Au moment de la consultation,
+l'exploitant peut se substituer au propriétaire pour prendre en charge la
+participation ou la totalité des frais engagés. L'aménagement foncier est alors
+assimilé aux travaux d'amélioration exécutés par le preneur. Aucune
+participation des intéressés ne peut être exigée lorsque l'aménagement foncier
+est réalisé en application de l'article L. 123-24. Les résultats de la
+consultation accompagnent les propositions de la commission communale ou
+intercommunale mentionnées à l'article L. 121-14.
 
 Dans les communes mentionnées à l'alinéa précédent, la consultation préalable
-n'est pas requise lorsque le conseil général décide de ne pas demander de
+n'est pas requise lorsque le conseil départemental décide de ne pas demander de
 participation financière aux propriétaires.

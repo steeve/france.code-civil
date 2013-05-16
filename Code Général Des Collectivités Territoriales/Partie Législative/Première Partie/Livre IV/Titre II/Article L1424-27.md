@@ -1,10 +1,10 @@
 Article L1424-27
 ----
-Le conseil d'administration est présidé par le président du conseil général ou
-l'un des membres du conseil d'administration désigné par le président du conseil
-général après le renouvellement des représentants du département et celui des
-représentants des communes et des établissements publics de coopération
-intercommunale.
+Le conseil d'administration est présidé par le président du conseil
+départemental ou l'un des membres du conseil d'administration désigné par le
+président du conseil départemental après le renouvellement des représentants du
+département et celui des représentants des communes et des établissements
+publics de coopération intercommunale.
 
 Le bureau du conseil d'administration est composé du président, de trois
 vice-présidents et, le cas échéant, d'un membre supplémentaire.
@@ -29,6 +29,6 @@ compte administratif en application des dispositions des articles L. 1612-1 à L
 Les indemnités maximales votées par le conseil d'administration du service
 d'incendie et de secours pour l'exercice effectif des fonctions de président et
 de vice-président sont déterminées par référence au barème prévu, en fonction de
-la population du département, pour les indemnités des conseillers généraux par
-l'article L. 3123-16 dans la limite de 50 % pour le président et de 25 % pour
-chacun des vice-présidents.
+la population du département, pour les indemnités des conseillers départementaux
+par l'article L. 3123-16 dans la limite de 50 % pour le président et de 25 %
+pour chacun des vice-présidents.

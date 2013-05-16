@@ -4,7 +4,7 @@ Le conseil régional fixe le statut, les principes d'organisation et la
 composition du comité régional du tourisme.
 
 Le comité comprend notamment des délégués du conseil régional, un ou plusieurs
-délégués de chaque conseil général, ainsi que des membres représentant :
+délégués de chaque conseil départemental , ainsi que des membres représentant :
 
 1° Les organismes consulaires ;
 

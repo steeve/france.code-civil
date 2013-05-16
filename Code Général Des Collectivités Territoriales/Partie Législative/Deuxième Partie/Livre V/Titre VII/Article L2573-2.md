@@ -5,8 +5,9 @@ L. 2112-2 à L. 2112-5-1 et les articles L. 2112-7 à L. 2112-12 sont applicable
 aux communes de la Polynésie française sous réserve des adaptations prévues aux
 II, III et IV.
 
-II.-Pour l'application de l'article L. 2111-1, les mots : " du conseil général "
-sont remplacés par les mots : " de l'assemblée de la Polynésie française ".
+II.-Pour l'application de l'article L. 2111-1, les mots : " du conseil
+départemental " sont remplacés par les mots : " de l'assemblée de la Polynésie
+française ".
 
 III.-Pour l'application du premier alinéa de l'article L. 2112-1, après les mots
 : " dans le département ", la fin de la phrase est supprimée.

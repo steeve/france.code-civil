@@ -13,7 +13,7 @@ autoriser ce dernier à lui assurer un hébergement exceptionnel ou périodique 
 condition que ce service soit spécifiquement habilité à cet effet. Chaque fois
 qu'il héberge le mineur en vertu de cette autorisation, le service en informe
 sans délai ses parents ou ses représentants légaux ainsi que le juge des enfants
-et le président du conseil général. Le juge est saisi de tout désaccord
+et le président du conseil départemental. Le juge est saisi de tout désaccord
 concernant cet hébergement.
 
 Le juge peut aussi subordonner le maintien de l'enfant dans son milieu à des

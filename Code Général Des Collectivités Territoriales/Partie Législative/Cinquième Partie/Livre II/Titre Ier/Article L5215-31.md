@@ -6,7 +6,7 @@ voies entre l'Etat, le département et la communauté urbaine.
 
 Les classements et déclassements correspondants interviennent après enquête
 publique réalisée conformément au code de l'expropriation pour cause d'utilité
-publique et consultation du conseil de communauté et du conseil général.
+publique et consultation du conseil de communauté et du conseil départemental .
 
 Ils sont prononcés soit par arrêté conjoint du ministre de l'intérieur et du
 ministre chargé de l'équipement, soit par arrêté du ministre de l'intérieur,

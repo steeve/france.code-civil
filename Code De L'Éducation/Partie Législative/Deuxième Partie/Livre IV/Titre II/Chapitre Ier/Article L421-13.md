@@ -35,7 +35,8 @@ sont pas applicables.
 Le budget de l'établissement est exécuté en équilibre réel.
 
 IV.-Pour l'application des dispositions du présent article et des articles L.
-421-11 et L. 421-12 du présent code, le conseil général ou le conseil régional
-peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de
-celles relatives à la fixation du montant de la participation de la collectivité
-de rattachement prévue au a de l'article L. 421-11 du présent code.
+421-11 et L. 421-12 du présent code, le conseil départemental ou le conseil
+régional peut déléguer tout ou partie de ses attributions à son bureau, à
+l'exception de celles relatives à la fixation du montant de la participation de
+la collectivité de rattachement prévue au a de l'article L. 421-11 du présent
+code.

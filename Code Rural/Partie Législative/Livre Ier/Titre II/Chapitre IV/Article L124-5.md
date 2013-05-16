@@ -1,6 +1,6 @@
 Article L124-5
 ----
-Lorsque le conseil général a ordonné une opération d'échanges et cessions
+Lorsque le conseil départemental a ordonné une opération d'échanges et cessions
 d'immeubles ruraux et a fixé le périmètre correspondant, la commission communale
 ou intercommunale d'aménagement foncier prescrit une enquête publique réalisée
 conformément au code de l'expropriation pour cause d'utilité publique destinée à

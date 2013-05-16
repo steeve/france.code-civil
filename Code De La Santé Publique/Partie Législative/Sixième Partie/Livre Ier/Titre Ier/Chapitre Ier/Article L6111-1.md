@@ -11,7 +11,8 @@ hébergement relevant du code de l'action sociale et des familles.
 Ils participent à la coordination des soins en relation avec les membres des
 professions de santé exerçant en pratique de ville et les établissements et
 services médico-sociaux, dans le cadre défini par l'agence régionale de santé en
-concertation avec les conseils généraux pour les compétences qui les concernent.
+concertation avec les conseils départementaux pour les compétences qui les
+concernent.
 
 Ils participent à la mise en œuvre de la politique de santé publique et des
 dispositifs de vigilance destinés à garantir la sécurité sanitaire.

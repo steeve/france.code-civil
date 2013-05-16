@@ -8,7 +8,7 @@ compétente et valent autorisation au titre de cette législation.
 Lorsqu'un aménagement foncier agricole et forestier ou une opération d'échanges
 et cessions de parcelles dans le cadre d'un périmètre d'aménagement foncier a
 été décidé dans les conditions prévues à l'article L. 121-14, le président du
-conseil général ordonne le dépôt en mairie du plan du nouveau parcellaire,
+conseil départemental ordonne le dépôt en mairie du plan du nouveau parcellaire,
 constate la clôture des opérations à la date de ce dépôt et ordonne, le cas
 échéant, l'exécution des travaux connexes.
 

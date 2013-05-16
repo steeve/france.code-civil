@@ -1,6 +1,6 @@
 Article L3123-20-2
 ----
-Les membres du conseil général sont affiliés au régime général de sécurité
+Les membres du conseil départemental sont affiliés au régime général de sécurité
 sociale dans les conditions définies à l'article L. 382-31 du code de la
 sécurité sociale.
 

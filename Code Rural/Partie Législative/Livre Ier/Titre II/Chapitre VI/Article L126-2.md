@@ -2,7 +2,7 @@ Article L126-2
 ----
 Dans les zones ou périmètres où des plantations et semis d'essences forestières
 ou la reconstitution après coupe rase sont interdits ou réglementés, en
-application de l'article L. 126-1, le conseil général peut imposer aux
+application de l'article L. 126-1, le conseil départemental peut imposer aux
 propriétaires de terrains qui ne font pas l'objet d'une occupation agricole ou
 pastorale et dont l'enfrichement ou le boisement spontané risque de porter
 atteinte à la sécurité de constructions ou de voiries ouvertes à la circulation

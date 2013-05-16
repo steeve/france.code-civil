@@ -7,5 +7,5 @@ police de la navigation et à la police de la conservation du domaine public
 maritime et fluvial. Elles peuvent également, lorsque le bénéficiaire de
 l'autorisation est une collectivité territoriale, être constatées par des
 fonctionnaires et agents de ces collectivités, assermentés et commissionnés à
-cet effet par le président du conseil régional, le président du conseil général
-ou le maire, selon le cas.
+cet effet par le président du conseil régional, le président du conseil
+départemental ou le maire, selon le cas.

@@ -1,14 +1,15 @@
 Article L142-3
 ----
 Pour la mise en oeuvre de la politique prévue à l'article L. 142-1, le conseil
-général peut créer des zones de préemption dans les conditions ci-après
+départemental peut créer des zones de préemption dans les conditions ci-après
 définies.
 
 Dans les communes dotées d'un plan d'occupation des sols rendu public ou d'un
 plan local d'urbanisme approuvé, les zones de préemption sont créées avec
 l'accord du conseil municipal. En l'absence d'un tel document, et à défaut
 d'accord des communes concernées, ces zones ne peuvent être créées par le
-conseil général qu'avec l'accord du représentant de l'Etat dans le département.
+conseil départemental qu'avec l'accord du représentant de l'Etat dans le
+département.
 
 A l'intérieur de ces zones, le département dispose d'un droit de préemption sur
 tout terrain ou ensemble de droits sociaux donnant vocation à l'attribution en
@@ -77,7 +78,7 @@ droits indivis sur un immeuble ou une partie d'immeuble bâti ou non bâti ainsi
 qu'à la cession de la majorité des parts d'une société civile immobilière
 lorsque le patrimoine de cette société est constitué par une unité foncière,
 bâtie ou non, sur la totalité ou certaines parties des zones de préemption
-créées par le conseil général ou le conservatoire. L'exercice par le
+créées par le conseil départemental ou le conservatoire. L'exercice par le
 conservatoire du droit de préemption sur des cessions de parts de société civile
 immobilière est subordonné à la production par la société civile immobilière
 d'un état de sa situation sociale et financière et à une délibération motivée du

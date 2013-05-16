@@ -17,7 +17,7 @@ présidents des organes délibérants de ces établissements ;
 élus à la représentation proportionnelle à la plus forte moyenne par le collège
 des présidents de chacune de ces catégories de syndicats ;
 
-4° 10 % par des représentants du conseil général, élus par celui-ci à la
+4° 10 % par des représentants du conseil départemental, élus par celui-ci à la
 représentation proportionnelle à la plus forte moyenne ;
 
 5° 5 % par des représentants du conseil régional dans la circonscription

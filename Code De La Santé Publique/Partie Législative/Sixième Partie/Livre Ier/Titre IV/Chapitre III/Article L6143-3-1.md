@@ -2,19 +2,20 @@ Article L6143-3-1
 ----
 Par décision motivée et pour une durée n'excédant pas douze mois, le directeur
 général de l'agence régionale de santé place l'établissement public de santé
-sous administration provisoire soit de conseillers généraux des établissements
-de santé désignés dans les conditions prévues à l'article L. 6141-7-2, soit
-d'inspecteurs du corps de l'inspection générale des affaires sociales ou de
-l'inspection générale des finances, soit de personnels de direction des
-établissements mentionnés aux 1° et 7° de l'article 2 de la loi n° 86-33 du 9
-janvier 1986 portant dispositions statutaires relatives à la fonction publique
-hospitalière, soit de toutes autres personnalités qualifiées, désignés par le
-ministre chargé de la santé, en cas de manquement grave portant atteinte à la
-sécurité des patients ou lorsque, après qu'il a mis en œuvre la procédure prévue
-à l'article L. 6143-3, l'établissement ne présente pas de plan de redressement
-dans le délai requis, refuse de signer l'avenant au contrat pluriannuel
-d'objectifs et de moyens ou n'exécute pas le plan de redressement, ou lorsque le
-plan de redressement ne permet pas de redresser la situation de l'établissement.
+sous administration provisoire soit de conseillers départementaux des
+établissements de santé désignés dans les conditions prévues à l'article L.
+6141-7-2, soit d'inspecteurs du corps de l'inspection générale des affaires
+sociales ou de l'inspection générale des finances, soit de personnels de
+direction des établissements mentionnés aux 1° et 7° de l'article 2 de la loi n°
+86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
+publique hospitalière, soit de toutes autres personnalités qualifiées, désignés
+par le ministre chargé de la santé, en cas de manquement grave portant atteinte
+à la sécurité des patients ou lorsque, après qu'il a mis en œuvre la procédure
+prévue à l'article L. 6143-3, l'établissement ne présente pas de plan de
+redressement dans le délai requis, refuse de signer l'avenant au contrat
+pluriannuel d'objectifs et de moyens ou n'exécute pas le plan de redressement,
+ou lorsque le plan de redressement ne permet pas de redresser la situation de
+l'établissement.
 
 Le directeur général de l'agence peut au préalable saisir la chambre régionale
 des comptes en vue de recueillir son avis sur la situation financière de

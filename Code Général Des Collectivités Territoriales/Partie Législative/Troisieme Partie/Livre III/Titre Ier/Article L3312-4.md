@@ -1,6 +1,6 @@
 Article L3312-4
 ----
-I. - Les dotations budgétaires affectées aux dépenses d'investissement peuvent
+I.-Les dotations budgétaires affectées aux dépenses d'investissement peuvent
 comprendre des autorisations de programme et des crédits de paiement.
 
 Les autorisations de programme constituent la limite supérieure des dépenses qui
@@ -15,8 +15,8 @@ dans le cadre des autorisations de programme correspondantes.
 L'équilibre budgétaire de la section d'investissement s'apprécie en tenant
 compte des seuls crédits de paiement.
 
-II. - Si le conseil général le décide, les dotations affectées aux dépenses de
-fonctionnement comprennent des autorisations d'engagement et des crédits de
+II.-Si le conseil départemental le décide, les dotations affectées aux dépenses
+de fonctionnement comprennent des autorisations d'engagement et des crédits de
 paiement.
 
 La faculté prévue au premier alinéa du présent II est réservée aux seules
@@ -38,9 +38,9 @@ dans le cadre des autorisations d'engagement correspondantes.
 L'équilibre budgétaire de la section de fonctionnement s'apprécie en tenant
 compte des seuls crédits de paiement.
 
-III. - Les modalités de gestion des autorisations de programme, des
-autorisations d'engagement et des crédits de paiement y afférents sont précisées
-dans le règlement budgétaire et financier du département.
+III.-Les modalités de gestion des autorisations de programme, des autorisations
+d'engagement et des crédits de paiement y afférents sont précisées dans le
+règlement budgétaire et financier du département.
 
 La situation des autorisations d'engagement et de programme, ainsi que des
 crédits de paiement y afférents donne lieu à un état joint aux documents

@@ -54,3 +54,6 @@ plafond des dépenses.
 Par dérogation aux dispositions du deuxième alinéa, en Guadeloupe, en Guyane, en
 Martinique et à La Réunion, le compte de campagne peut également être déposé à
 la préfecture ou la sous-préfecture.
+
+Pour l'application du présent article, en cas de scrutin binominal, le candidat
+s'entend du binôme de candidats.

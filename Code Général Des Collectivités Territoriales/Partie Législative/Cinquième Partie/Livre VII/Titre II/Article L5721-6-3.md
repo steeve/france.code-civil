@@ -15,6 +15,6 @@ La commission départementale de la coopération intercommunale est consultée e
 formation restreinte composée du quart des membres élus par le collège visé au
 1° de l'article L. 5211-43, dont deux membres issus des conseils municipaux des
 communes de moins de 2 000 habitants, du quart des membres élus par le collège
-visé au 2° de l'article L. 5211-43, d'un représentant du conseil général lorsque
-le département est membre du syndicat et d'un représentant du conseil régional
-lorsque la région est membre du syndicat.
+visé au 2° de l'article L. 5211-43, d'un représentant du conseil départemental
+lorsque le département est membre du syndicat et d'un représentant du conseil
+régional lorsque la région est membre du syndicat.

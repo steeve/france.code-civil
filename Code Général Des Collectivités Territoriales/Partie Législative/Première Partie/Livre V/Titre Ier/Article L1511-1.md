@@ -24,9 +24,9 @@ sociales.
 En cas d'atteinte à l'équilibre économique de tout ou partie de la région, le
 président du conseil régional, de sa propre initiative ou saisi par le
 représentant de l'Etat dans la région, organise une concertation avec les
-présidents des conseils généraux, les maires et les présidents des groupements
-de collectivités territoriales intéressés, et inscrit la question à l'ordre du
-jour de la prochaine réunion du conseil régional ou de la commission permanente.
-Les avis et propositions des présidents de conseil général, des maires et des
-présidents des groupements de collectivités territoriales intéressés sont
-communiqués au cours de ce débat.
+présidents des conseils départementaux, les maires et les présidents des
+groupements de collectivités territoriales intéressés, et inscrit la question à
+l'ordre du jour de la prochaine réunion du conseil régional ou de la commission
+permanente. Les avis et propositions des présidents de conseil départemental ,
+des maires et des présidents des groupements de collectivités territoriales
+intéressés sont communiqués au cours de ce débat.

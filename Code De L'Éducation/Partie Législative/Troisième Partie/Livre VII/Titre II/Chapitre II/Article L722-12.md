@@ -10,8 +10,8 @@ Les dépenses prises en compte sont celles qui ont été supportées au titre du
 dernier exercice budgétaire clos.
 
 Ce montant est arrêté par accord entre le représentant de l'Etat dans le
-département et le président du conseil général, pour chaque année, avant le 30
-avril de l'année précédente.
+département et le président du conseil départemental , pour chaque année, avant
+le 30 avril de l'année précédente.
 
 En cas de désaccord, ce montant est fixé par arrêté du ministre de l'intérieur
 et du ministre chargé de l'enseignement supérieur.

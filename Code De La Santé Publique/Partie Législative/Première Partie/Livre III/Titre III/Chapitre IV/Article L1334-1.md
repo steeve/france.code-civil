@@ -6,9 +6,9 @@ connaissance, sous pli confidentiel, du médecin de l'agence régionale de sant�
 désigné par le directeur général de l'agence. Le médecin de l'agence en informe
 le médecin responsable du service départemental de la protection maternelle et
 infantile. Par convention entre le directeur général de l'agence régionale de
-santé et le président du conseil général, le médecin responsable du service
-départemental de la protection maternelle et infantile peut être chargé de
-recueillir la déclaration du médecin dépistant.
+santé et le président du conseil départemental, le médecin responsable du
+service départemental de la protection maternelle et infantile peut être chargé
+de recueillir la déclaration du médecin dépistant.
 
 Le médecin recevant la déclaration informe le directeur général de l'agence
 régionale de santé de l'existence d'un cas de saturnisme dans les immeubles ou

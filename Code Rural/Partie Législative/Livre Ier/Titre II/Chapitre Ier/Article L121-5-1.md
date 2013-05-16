@@ -18,14 +18,14 @@ sur le territoire d'une commune limitrophe ainsi qu'un suppléant, désignés pa
 la chambre d'agriculture ;
 
 3° Une personne qualifiée en matière de faune, de flore et de protection de la
-nature et des paysages désignée par le président du conseil général ;
+nature et des paysages désignée par le président du conseil départemental ;
 
-4° Un fonctionnaire désigné par le président du conseil général ;
+4° Un fonctionnaire désigné par le président du conseil départemental ;
 
 5° Un délégué du directeur départemental des finances publiques ;
 
-6° Un représentant du président du conseil général désigné par le président de
-cette assemblée ;
+6° Un représentant du président du conseil départemental désigné par le
+président de cette assemblée ;
 
 7° Quatre propriétaires forestiers de la commune désignés par la chambre
 d'agriculture sur proposition du Centre national de la propriété forestière,
@@ -34,8 +34,8 @@ propriétaires forestiers de la commune désignés par le conseil municipal qui
 désigne en outre quatre suppléants.
 
 A défaut de désignation d'un exploitant par la chambre d'agriculture dans un
-délai de trois mois après sa saisine, le président du conseil général procède à
-sa désignation.
+délai de trois mois après sa saisine, le président du conseil départemental
+procède à sa désignation.
 
 La commission peut appeler à titre consultatif toute personne dont il lui paraît
 utile de provoquer l'avis.
@@ -61,15 +61,15 @@ désignés par lui ;
 prévues pour la commission communale ;
 
 3° Une personne qualifiée en matière de faune, de flore et de protection de la
-nature et des paysages désignée par le président du conseil général sur
+nature et des paysages désignée par le président du conseil départemental sur
 proposition du président de la chambre d'agriculture ;
 
-4° Un fonctionnaire désigné par le président du conseil général ;
+4° Un fonctionnaire désigné par le président du conseil départemental ;
 
 5° Un délégué du directeur départemental des finances publiques ;
 
-6° Un représentant du président du conseil général désigné par le président de
-cette assemblée ;
+6° Un représentant du président du conseil départemental désigné par le
+président de cette assemblée ;
 
 7° Quatre propriétaires forestiers de chaque commune désignés par la chambre
 d'agriculture sur proposition du centre national de la propriété forestière,

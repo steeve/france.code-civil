@@ -7,10 +7,10 @@ l'accès aux soins de premier recours. Les territoires de santé peuvent être
 infrarégionaux, régionaux ou interrégionaux. Ils sont définis après avis du
 représentant de l'Etat dans la région, d'une part, de la conférence régionale de
 la santé et de l'autonomie, d'autre part et, en ce qui concerne les activités
-relevant de leurs compétences, des présidents des conseils généraux de la
+relevant de leurs compétences, des présidents des conseils départementaux de la
 région.
 
 Les territoires interrégionaux sont définis conjointement par les agences
 régionales concernées, après avis du représentant de l'Etat dans chaque région
 et, en ce qui concerne les activités relevant de leurs compétences, des
-présidents des conseils généraux compétents sur ces territoires.
+présidents des conseils départementaux compétents sur ces territoires.

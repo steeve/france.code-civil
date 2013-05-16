@@ -1,11 +1,11 @@
 Article L142-11
 ----
 A compter de la décision du département de percevoir la taxe départementale
-d'aménagement, le président du conseil général peut, par arrêté pris sur
-proposition du conseil général, après délibération des communes concernées et en
-l'absence de plan local d'urbanisme opposable, déterminer les bois, forêts et
-parcs, qu'ils relèvent ou non du régime forestier, enclos ou non, attenants ou
-non à des habitations, dont la préservation est nécessaire et auxquels est
+d'aménagement, le président du conseil départemental peut, par arrêté pris sur
+proposition du conseil départemental, après délibération des communes concernées
+et en l'absence de plan local d'urbanisme opposable, déterminer les bois, forêts
+et parcs, qu'ils relèvent ou non du régime forestier, enclos ou non, attenants
+ou non à des habitations, dont la préservation est nécessaire et auxquels est
 applicable le régime des espaces boisés classés défini par l'article L. 130-1 et
 les textes pris pour son application.
 

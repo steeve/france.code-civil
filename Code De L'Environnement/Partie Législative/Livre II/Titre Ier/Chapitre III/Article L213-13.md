@@ -49,10 +49,10 @@ d'administration.
 Un représentant du personnel siège au conseil d'administration avec voix
 consultative.
 
-La présidence de l'office est assurée par le président du conseil général.
+La présidence de l'office est assurée par le président du conseil départemental.
 
 Le directeur de l'office est nommé, après avis du préfet, par arrêté du
-président du conseil général.
+président du conseil départemental.
 
 Le préfet exerce les fonctions de commissaire du Gouvernement auprès de
 l'office.
@@ -62,7 +62,7 @@ législatives et réglementaires applicables à la fonction publique territorial
 
 IV.-Les ressources de l'office se composent :
 
-1° De redevances visées à l'article L. 213-14 (1) ;
+1° De redevances visées à l'article L. 213-14 ;
 
 2° De redevances pour services rendus ;
 

@@ -21,9 +21,9 @@ justifiant pas de l'exercice habituel de la profession depuis un nombre d'année
 déterminé, l'autorité administrative compétente de l'Etat peut, par arrêté,
 rendre obligatoires les dispositions de l'accord relatives à ces domaines à
 l'ensemble de la profession, dans la ou les communes intéressées, après
-consultation de leurs conseils municipaux et, le cas échéant, du conseil général
-intéressé.
+consultation de leurs conseils municipaux et, le cas échéant, du conseil
+départemental intéressé.
 
 A défaut d'accord, l'autorité administrative compétente de l'Etat peut arrêter
 ces dispositions, après consultation des organisations professionnelles, des
-conseils généraux et des conseils municipaux intéressés.
+conseils départementaux et des conseils municipaux intéressés.

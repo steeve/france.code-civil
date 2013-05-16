@@ -1,7 +1,7 @@
 Article L312-4
 ----
-Les départements peuvent, sur délibération du conseil général, prise dans les
-conditions prévues à l'article 46 de la loi du 10 août 1871, acquérir des
+Les départements peuvent, sur délibération du conseil départemental , prise dans
+les conditions prévues à l'article 46 de la loi du 10 août 1871, acquérir des
 actions ou obligations ou recevoir des actions d'apport des sociétés d'économie
 mixte dont les statuts sont conformes à des statuts types et ayant pour objet la
 construction d'immeubles à usage principal d'habitation n'excédant pas les

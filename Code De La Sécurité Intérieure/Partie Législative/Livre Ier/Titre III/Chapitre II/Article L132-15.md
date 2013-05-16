@@ -1,7 +1,7 @@
 Article L132-15
 ----
-Le conseil général concourt aux actions de prévention de la délinquance dans le
-cadre de l'exercice de ses compétences d'action sociale. Il statue sur
+Le conseil départemental concourt aux actions de prévention de la délinquance
+dans le cadre de l'exercice de ses compétences d'action sociale. Il statue sur
 l'organisation et le financement des services et des actions sanitaires et
 sociaux qui relèvent de sa compétence, notamment des actions qui concourent à la
 politique de prévention de la délinquance. Pour la mise en œuvre des actions de

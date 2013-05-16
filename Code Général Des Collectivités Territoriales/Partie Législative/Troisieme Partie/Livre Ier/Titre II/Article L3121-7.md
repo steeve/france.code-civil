@@ -1,3 +1,3 @@
 Article L3121-7
 ----
-Le conseil général a son siège à l'hôtel du département.
+Le conseil départemental a son siège à l'hôtel du département.

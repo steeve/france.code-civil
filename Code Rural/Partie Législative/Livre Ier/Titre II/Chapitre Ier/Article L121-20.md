@@ -1,6 +1,6 @@
 Article L121-20
 ----
-A dater de la délibération du conseil général ou, en cas d'application de
+A dater de la délibération du conseil départemental ou, en cas d'application de
 l'article L. 123-24, de la décision de son président fixant le périmètre de
 l'opération d'aménagement foncier, tout projet de mutation de propriété entre
 vifs doit être sans délai porté à la connaissance de la commission communale ou

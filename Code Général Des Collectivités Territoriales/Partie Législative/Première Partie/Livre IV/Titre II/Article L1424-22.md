@@ -9,5 +9,5 @@ compétentes.
 
 Sa décision est notifiée au maire de la commune ou au président de
 l'établissement public de coopération intercommunale ou au président du conseil
-général et au président du conseil d'administration du service départemental
-d'incendie et de secours concernés dans un délai d'un mois.
+départemental et au président du conseil d'administration du service
+départemental d'incendie et de secours concernés dans un délai d'un mois.

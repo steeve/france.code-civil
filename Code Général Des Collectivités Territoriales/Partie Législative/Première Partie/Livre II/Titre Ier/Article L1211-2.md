@@ -9,10 +9,11 @@ Le comité des finances locales comprend :
 -deux présidents de conseils régionaux élus par le collège des présidents de
 conseils régionaux ;
 
--quatre présidents de conseils généraux élus par le collège des présidents de
-conseils généraux dont un au moins pour les départements éligibles à la dotation
-de fonctionnement minimale définie à la sous-section 4 de la section 1 du
-chapitre IV du titre III du livre III de la troisième partie du présent code ;
+-quatre présidents de conseils départementaux élus par le collège des présidents
+de conseils départementaux dont un au moins pour les départements éligibles à la
+dotation de fonctionnement minimale définie à la sous-section 4 de la section 1
+du chapitre IV du titre III du livre III de la troisième partie du présent code
+;
 
 -sept présidents d'établissements publics de coopération intercommunale élus par
 le collège des présidents d'établissements publics de coopération

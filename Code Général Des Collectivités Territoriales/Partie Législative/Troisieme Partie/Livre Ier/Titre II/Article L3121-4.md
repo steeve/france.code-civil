@@ -1,8 +1,8 @@
 Article L3121-4
 ----
-Tout membre d'un conseil général qui, sans excuse valable, a refusé de remplir
-une des fonctions qui lui sont dévolues par les lois est déclaré démissionnaire
-par le tribunal administratif.
+Tout membre d'un conseil départemental qui, sans excuse valable, a refusé de
+remplir une des fonctions qui lui sont dévolues par les lois est déclaré
+démissionnaire par le tribunal administratif.
 
 Le refus résulte soit d'une déclaration expresse adressée à qui de droit ou
 rendue publique par son auteur, soit de l'abstention persistante après

@@ -9,6 +9,6 @@ applicable en la matière sous le contrôle scientifique et technique de l'Etat.
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article, et notamment les conditions dans lesquelles les conservateurs
 d'archives, appartenant au personnel scientifique de l'Etat, mis à disposition
-du président du conseil général ou régional ou, en Corse, du président du
+du président du conseil départemental ou régional ou, en Corse, du président du
 conseil exécutif, peuvent assurer le contrôle scientifique et technique prévu à
 l'alinéa précédent.

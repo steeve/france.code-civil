@@ -8,6 +8,6 @@ En outre, une conférence d'harmonisation des investissements se réunit au moin
 deux fois par an pour échanger des informations sur les programmes
 d'investissement de l'Etat, de la région et des départements. Participent à ces
 réunions le président du conseil régional, le représentant de l'Etat dans la
-région, les présidents de conseils généraux et les représentants de l'Etat dans
-les départements. L'ordre du jour des réunions est fixé conjointement par les
-membres de la conférence.
+région, les présidents de conseils départementaux et les représentants de l'Etat
+dans les départements. L'ordre du jour des réunions est fixé conjointement par
+les membres de la conférence.

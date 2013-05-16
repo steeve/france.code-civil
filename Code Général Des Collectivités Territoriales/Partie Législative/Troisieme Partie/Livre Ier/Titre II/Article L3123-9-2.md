@@ -1,11 +1,10 @@
 Article L3123-9-2
 ----
-A l'occasion du renouvellement général du conseil général ou du renouvellement
-d'une série sortante, tout président de conseil général ou tout vice-président
-ayant reçu délégation de celui-ci qui, pour l'exercice de son mandat, avait
-cessé d'exercer son activité professionnelle perçoit, sur sa demande, une
-allocation différentielle de fin de mandat s'il se trouve dans l'une des
-situations suivantes :
+A l'occasion du renouvellement général du conseil départemental, tout président
+de conseil départemental ou tout vice-président ayant reçu délégation de
+celui-ci qui, pour l'exercice de son mandat, avait cessé d'exercer son activité
+professionnelle perçoit, sur sa demande, une allocation différentielle de fin de
+mandat s'il se trouve dans l'une des situations suivantes :
 
 -être inscrit à l'institution mentionnée à l'article L. 5312-1 du code du
 travail conformément aux dispositions de l'article L. 5411-1 du même code ;

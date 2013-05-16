@@ -4,7 +4,8 @@ La commission consultative départementale mentionnée à l'article L1424-20
 comprend, outre les quatre représentants des sapeurs-pompiers qui siègent au
 conseil d'administration du service départemental d'incendie et de secours :
 
-1° Quatre représentants du département élus par le conseil général en son sein ;
+1° Quatre représentants du département élus par le conseil départemental en son
+sein ;
 
 2° Quatre représentants des communes et des établissements publics de
 coopération intercommunale élus par le collège des maires et présidents

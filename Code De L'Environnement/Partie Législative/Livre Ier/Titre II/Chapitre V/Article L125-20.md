@@ -2,8 +2,9 @@ Article L125-20
 ----
 I. ― La commission locale d'information comprend :
 
-1° Des membres des conseils généraux, des conseils municipaux ou des assemblées
-délibérantes des groupements de communes et des conseils régionaux intéressés ;
+1° Des membres des conseils départementaux, des conseils municipaux ou des
+assemblées délibérantes des groupements de communes et des conseils régionaux
+intéressés ;
 
 2° Des membres du Parlement élus dans le département ;
 

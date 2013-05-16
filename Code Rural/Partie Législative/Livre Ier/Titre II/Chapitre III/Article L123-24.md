@@ -14,11 +14,11 @@ de constitution de réserves foncières.
 
 Lorsque les besoins de cohérence de l'aménagement rural d'un territoire le
 justifient et lorsque la commission communale ou intercommunale d'aménagement
-foncier lui en a fait la proposition, le conseil général peut décider, avec
-l'accord du maître d'ouvrage, d'étendre le périmètre d'aménagement foncier
+foncier lui en a fait la proposition, le conseil départemental peut décider,
+avec l'accord du maître d'ouvrage, d'étendre le périmètre d'aménagement foncier
 au-delà du périmètre perturbé par l'ouvrage. Lorsque le maître d'ouvrage est
 l'Etat ou un de ses établissements publics ou concessionnaires, l'accord est
 donné par le préfet du département.
 
-Le président du conseil général conduit et met en oeuvre la procédure
+Le président du conseil départemental conduit et met en oeuvre la procédure
 d'aménagement foncier mentionnée au premier alinéa.

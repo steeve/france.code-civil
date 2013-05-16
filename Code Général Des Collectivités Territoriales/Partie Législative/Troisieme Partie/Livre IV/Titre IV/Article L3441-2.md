@@ -1,6 +1,6 @@
 Article L3441-2
 ----
-Le conseil général de chaque département d'outre-mer peut adresser au
+Le conseil départemental de chaque département d'outre-mer peut adresser au
 Gouvernement des propositions en vue de la conclusion d'engagements
 internationaux concernant la coopération régionale entre la République française
 et, selon le cas, les Etats de la Caraïbe, les Etats voisins de la Guyane et les

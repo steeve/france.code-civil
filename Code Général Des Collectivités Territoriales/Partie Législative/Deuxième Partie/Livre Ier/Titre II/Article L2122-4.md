@@ -5,7 +5,7 @@ secret. Nul ne peut être élu maire s'il n'est âgé de dix-huit ans révolus.
 
 Les fonctions de maire sont incompatibles avec l'exercice d'une des fonctions
 électives suivantes : président d'un conseil régional, président d'un conseil
-général.
+départemental .
 
 Les fonctions de maire sont également incompatibles avec celles de membre de la
 Commission européenne, membre du directoire de la Banque centrale européenne ou

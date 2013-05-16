@@ -1,10 +1,10 @@
 Article L1424-35
 ----
 La contribution du département au budget du service départemental d'incendie et
-de secours est fixée, chaque année, par une délibération du conseil général au
-vu du rapport sur l'évolution des ressources et des charges prévisibles du
-service au cours de l'année à venir, adopté par le conseil d'administration de
-celui-ci.
+de secours est fixée, chaque année, par une délibération du conseil
+départemental au vu du rapport sur l'évolution des ressources et des charges
+prévisibles du service au cours de l'année à venir, adopté par le conseil
+d'administration de celui-ci.
 
 Les relations entre le département et le service départemental d'incendie et de
 secours et, notamment, la contribution du département, font l'objet d'une

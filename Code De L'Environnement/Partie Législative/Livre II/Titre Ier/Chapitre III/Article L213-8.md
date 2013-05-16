@@ -4,8 +4,8 @@ Dans chaque bassin ou groupement de bassins hydrographiques visé à l'article L
 212-1, il est créé un comité de bassin constitué :
 
 1° Pour 40 %, d'un premier collège composé de représentants des conseils
-généraux et régionaux et, majoritairement, de représentants des communes ou de
-leurs groupements compétents dans le domaine de l'eau ;
+départementaux et régionaux et, majoritairement, de représentants des communes
+ou de leurs groupements compétents dans le domaine de l'eau ;
 
 2° Pour 40 %, d'un deuxième collège composé de représentants des usagers de
 l'eau et des milieux aquatiques, des organisations socioprofessionnelles, des

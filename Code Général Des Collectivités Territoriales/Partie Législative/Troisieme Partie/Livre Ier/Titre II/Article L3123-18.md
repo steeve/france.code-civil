@@ -1,7 +1,7 @@
 Article L3123-18
 ----
-Le conseiller général titulaire d'autres mandats électoraux ou qui siège à ce
-titre au conseil d'administration d'un établissement public local, du centre
+Le conseiller départemental titulaire d'autres mandats électoraux ou qui siège à
+ce titre au conseil d'administration d'un établissement public local, du centre
 national de la fonction publique territoriale, au conseil d'administration ou au
 conseil de surveillance d'une société d'économie mixte locale ou qui préside une
 telle société ne peut percevoir, pour l'ensemble de ses fonctions, un montant
@@ -12,6 +12,7 @@ relative à l'indemnité des membres du Parlement. Ce plafond s'entend déductio
 faite des cotisations sociales obligatoires.
 
 Lorsqu'en application des dispositions de l'alinéa précédent, le montant total
-de rémunération et d'indemnité de fonction d'un conseiller général fait l'objet
-d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
-délibération nominative du conseil général ou de l'organisme concerné.
+de rémunération et d'indemnité de fonction d'un conseiller départemental fait
+l'objet d'un écrêtement, la part écrêtée est reversée au budget de la personne
+publique au sein de laquelle le conseiller départemental exerce le plus
+récemment un mandat ou une fonction.

@@ -29,17 +29,17 @@ II.-Pour le calcul, en 2000, de la diminution de la dotation forfaitaire prévue
 au premier alinéa du I, la participation de la commune aux dépenses d'aide
 sociale du département au titre de 1999 et appelée au cours de cet exercice est
 fixée, avant le 30 octobre 1999, par arrêté du préfet pris après avis du
-président du conseil général.
+président du conseil départemental .
 
 Un ajustement de la diminution de la dotation forfaitaire est opéré en 2001 sur
-la base d'un arrêté du préfet pris après avis du président du conseil général
-fixant, avant le 30 octobre 2000, le montant définitif de la participation de la
-commune aux dépenses d'aide sociale du département au titre de 1999.L'abattement
-visé au deuxième alinéa du I est appliqué à la diminution de la dotation
-forfaitaire opérée sur la base de ce montant.
+la base d'un arrêté du préfet pris après avis du président du conseil
+départemental fixant, avant le 30 octobre 2000, le montant définitif de la
+participation de la commune aux dépenses d'aide sociale du département au titre
+de 1999. L'abattement visé au deuxième alinéa du I est appliqué à la diminution
+de la dotation forfaitaire opérée sur la base de ce montant.
 
 Pour la mise en oeuvre des deux précédents alinéas, le président du conseil
-général transmet au préfet, avant le 30 septembre 1999, le montant de la
+départemental transmet au préfet, avant le 30 septembre 1999, le montant de la
 participation appelée pour chaque commune au titre de 1999 et, avant le 30
 septembre 2000, le montant définitif de cette participation.
 
@@ -53,7 +53,7 @@ ci-dessus est insuffisant, le complément est prélevé sur le montant de
 l'attribution de compensation versée par le groupement à la commune.
 
 A compter de 2001, le montant du prélèvement visé à l'alinéa précédent évolue
-comme la dotation forfaitaire.A compter de 2004, le montant du prélèvement est
+comme la dotation forfaitaire. A compter de 2004, le montant du prélèvement est
 calculé conformément aux dispositions du dernier alinéa de l'article L. 2334-7.
 
 Il est créé, à compter de 2000, un fonds qui dispose en ressources du

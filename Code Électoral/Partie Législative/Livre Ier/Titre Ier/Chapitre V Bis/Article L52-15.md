@@ -25,4 +25,5 @@ Dans tous les cas où un dépassement du plafond des dépenses électorales a é
 constaté par une décision définitive, la commission fixe alors une somme égale
 au montant du dépassement que le candidat est tenu de verser au Trésor public.
 Cette somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et
-au domaine.
+au domaine. En cas de scrutin binominal, les deux candidats présentés au sein
+d'un même binôme sont tenus solidairement au règlement de la créance.

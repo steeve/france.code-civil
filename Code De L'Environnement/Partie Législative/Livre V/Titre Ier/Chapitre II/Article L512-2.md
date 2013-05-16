@@ -15,8 +15,8 @@ les risques peuvent concerner plusieurs départements ou régions.
 
 Un décret en Conseil d'Etat détermine les conditions d'application de l'alinéa
 précédent. Il fixe, en outre, les conditions dans lesquelles il doit être
-procédé à une consultation des conseils généraux ou régionaux et les formes de
-cette consultation.
+procédé à une consultation des conseils départementaux ou régionaux et les
+formes de cette consultation.
 
 Dès qu'une demande d'autorisation d'installation classée est déclarée recevable,
 le préfet en informe le maire de la commune d'implantation de l'installation.

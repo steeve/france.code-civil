@@ -9,14 +9,14 @@ même article.
 Le montant du plafond est déterminé en fonction du nombre d'habitants de la
 circonscription d'élection, conformément au tableau ci-après :
 
-FRACTION DE LA population de la circonscription :
+Fraction de la population de la circonscription :
 
-PLAFOND PAR HABITANT DES DEPENSES ELECTORALES (EN EUROS) :
+Plafond par habitant des dépenses électorales (en euros) :
 
 Election des conseillers municipaux :
 
 
-Election des conseillers généraux
+Election des conseillers départementaux
 
 Election des conseillers régionaux
 

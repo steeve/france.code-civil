@@ -6,12 +6,12 @@ familial, l'intégration républicaine de la famille dans la société français
 cette fin, ils concluent conjointement avec l'Etat un contrat d'accueil et
 d'intégration pour la famille par lequel ils s'obligent à suivre une formation
 sur les droits et les devoirs des parents en France, ainsi qu'à respecter
-l'obligation scolaire. Le président du conseil général est informé de la
+l'obligation scolaire. Le président du conseil départemental est informé de la
 conclusion de ce contrat.
 
 En cas de non-respect des stipulations de ce contrat, manifesté par une volonté
 caractérisée de l'étranger ou de son conjoint, le préfet peut saisir le
-président du conseil général en vue de la mise en oeuvre du contrat de
+président du conseil départemental en vue de la mise en oeuvre du contrat de
 responsabilité parentale prévue à l'article L. 222-4-1 du code de l'action
 sociale et des familles.
 

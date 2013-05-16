@@ -18,9 +18,9 @@ mesures de publicité à prendre lors de l'élaboration et de l'évaluation des
 plans après leur adoption et la procédure simplifiée de révision des plans
 applicable dès lors que les modifications projetées n'en remettent pas en cause
 l'économie générale. Ce décret fixe également les conditions dans lesquelles le
-représentant de l'Etat peut demander au président du conseil général ou au
+représentant de l'Etat peut demander au président du conseil départemental ou au
 président du conseil régional une nouvelle délibération sur les projets de plans
 visés aux articles L. 541-13, L. 541-14 et L. 541-14-1 ou l'élaboration ou la
 révision de ces plans, puis les élaborer ou les réviser lorsque, après avoir été
-invités à y procéder, les conseils régionaux ou les conseils généraux ne les ont
-pas adoptés dans un délai de dix-huit mois.
+invités à y procéder, les conseils régionaux ou les conseils départementaux ne
+les ont pas adoptés dans un délai de dix-huit mois.

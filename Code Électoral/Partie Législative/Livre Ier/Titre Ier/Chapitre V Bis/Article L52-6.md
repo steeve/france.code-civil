@@ -1,11 +1,13 @@
 Article L52-6
 ----
-Le candidat déclare par écrit à la préfecture de son domicile le nom du
-mandataire financier qu'il choisit. La déclaration doit être accompagnée de
-l'accord exprès du mandataire désigné. L'expert-comptable chargé de la
-présentation du compte de campagne ne peut exercer cette fonction. Dans le cas
-d'un scrutin de liste, aucun membre de la liste ne peut être le mandataire
-financier du candidat tête de la liste sur laquelle il figure.
+Le candidat déclare par écrit à la préfecture de la circonscription électorale
+dans laquelle il se présente le nom du mandataire financier qu'il choisit. La
+déclaration doit être accompagnée de l'accord exprès du mandataire désigné.
+L'expert-comptable chargé de la présentation du compte de campagne ne peut
+exercer cette fonction. Dans le cas d'un scrutin de liste, aucun membre de la
+liste ne peut être le mandataire financier du candidat tête de la liste sur
+laquelle il figure. En cas de scrutin binominal, aucun des membres du binôme et
+aucun des remplaçants ne peut être désigné mandataire financier du binôme.
 
 Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique
 retraçant la totalité de ses opérations financières. L'intitulé du compte
@@ -32,8 +34,8 @@ prévues au présent article. Dans ce cas, l'existence de comptes successifs ne
 constitue pas une violation de l'obligation de disposer d'un compte bancaire ou
 postal unique prévue au deuxième alinéa. Les modalités de mise en œuvre de ce
 droit sont précisées par décret. Le contrôle du respect de ce droit est assuré
-par l'Autorité de contrôle prudentiel et de résolution et relève de la procédure
-prévue à l'article L. 612-31 du code monétaire et financier.
+par l'Autorité de contrôle prudentiel et relève de la procédure prévue à
+l'article L. 612-31 du code monétaire et financier.
 
 Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a
 désigné ou au compte de campagne du candidat tête de liste lorsque le candidat
@@ -52,8 +54,8 @@ son activité. Lorsqu'un solde positif ne provenant pas de l'apport du candidat
 apparaît, il est dévolu, sur décision du candidat, soit à une association de
 financement d'un parti politique, soit à un ou plusieurs établissements reconnus
 d'utilité publique. A défaut de décision de dévolution dans les conditions et
-délais prévus ci-dessus, à la demande du préfet du département dans lequel est
-domicilié le candidat, le procureur de la République saisit le président du
-tribunal de grande instance qui détermine le ou les établissements reconnus
-d'utilité publique attributaires de l'actif net. Il en va de même lorsque la
-dévolution n'est pas acceptée.
+délais prévus ci-dessus, à la demande du préfet du département de la
+circonscription électorale dans laquelle se présente le candidat ou le binôme,
+le procureur de la République saisit le président du tribunal de grande instance
+qui détermine le ou les établissements reconnus d'utilité publique attributaires
+de l'actif net. Il en va de même lorsque la dévolution n'est pas acceptée.

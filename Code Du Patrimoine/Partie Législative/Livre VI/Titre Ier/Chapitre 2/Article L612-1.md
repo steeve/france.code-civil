@@ -18,9 +18,9 @@ outre des représentants de l'Etat, des personnes titulaires d'un mandat électi
 et des personnalités qualifiées nommés par arrêté du préfet de région.
 
 Les titulaires d'un mandat électif sont deux membres élus par chaque conseil
-général en son sein et un maire désigné par chaque président de l'association
-départementale des maires. Ils ne siègent qu'à l'occasion de l'examen des
-affaires concernant le département dont ils sont issus.
+départemental en son sein et un maire désigné par chaque président de
+l'association départementale des maires. Ils ne siègent qu'à l'occasion de
+l'examen des affaires concernant le département dont ils sont issus.
 
 Un décret en Conseil d'Etat détermine les conditions de désignation de ses
 membres et ses modalités de fonctionnement.

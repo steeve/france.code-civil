@@ -11,7 +11,3 @@ postal unique est bloqué jusqu'au moment où le candidat désigne un nouveau
 mandataire financier ou donne son accord à une nouvelle association de
 financement électorale. Chaque association ou chaque mandataire financier, sauf
 le cas de décès de ce dernier, établit le compte de sa gestion.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables lorsque le
-candidat a donné son accord, dans le cadre d'un scrutin plurinominal, à une
-association à laquelle un ou plusieurs candidats avaient déjà donné leur accord.

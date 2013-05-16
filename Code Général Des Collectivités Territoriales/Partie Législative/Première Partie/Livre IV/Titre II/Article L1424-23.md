@@ -5,7 +5,7 @@ de l'intérieur ou son représentant. Elle comprend :
 
 -trois représentants de l'Etat ;
 
--trois présidents de conseil général ;
+-trois présidents de conseil départemental ;
 
 -trois maires ou présidents d'établissement public de coopération intercommunale
 ;

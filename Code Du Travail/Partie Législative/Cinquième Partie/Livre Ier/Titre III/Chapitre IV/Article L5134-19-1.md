@@ -11,7 +11,7 @@ mêmes sections 2 et 5. La décision d'attribution de cette aide est prise par :
 fixées par décret, un des organismes mentionnés au 1° bis de l'article L. 5311-4
 ;
 
-2° Soit le président du conseil général lorsque cette aide concerne un
+2° Soit le président du conseil départemental lorsque cette aide concerne un
 bénéficiaire du revenu de solidarité active financé par le département ;
 
 3° Soit, pour le compte de l'Etat, les recteurs d'académie pour les contrats

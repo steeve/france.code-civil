@@ -1,7 +1,7 @@
 Article L3333-3-2
 ----
 I. ― La déclaration trimestrielle mentionnée à l'article L. 3333-3-1 est
-contrôlée par les agents habilités par le président du conseil général.
+contrôlée par les agents habilités par le président du conseil départemental .
 
 Ces agents peuvent demander aux redevables ou aux personnes mentionnées au VII
 de l'article L. 3333-2 tous les renseignements ou justificatifs relatifs aux
@@ -41,20 +41,21 @@ motivée lui est adressée. Les droits notifiés sont assortis d'une majoration 
 
 2. Lorsque le redevable n'a pas adressé la déclaration mentionnée à l'article L.
 3333-3-1, une lettre de mise en demeure avec demande d'avis de réception lui est
-adressée par le président du conseil général.A défaut de régularisation dans un
-délai de trente jours à compter de la date de réception de cette mise en
-demeure, il est procédé à la taxation d'office.A cette fin, la base d'imposition
-est fixée sur la base des livraisons d'un fournisseur ou d'un producteur
-comparable. Les droits notifiés sont assortis d'une majoration de 40 %.
+adressée par le président du conseil départemental . A défaut de régularisation
+dans un délai de trente jours à compter de la date de réception de cette mise en
+demeure, il est procédé à la taxation d'office. A cette fin, la base
+d'imposition est fixée sur la base des livraisons d'un fournisseur ou d'un
+producteur comparable. Les droits notifiés sont assortis d'une majoration de 40
+%.
 
 3. En cas d'entrave à l'exercice du contrôle par les agents habilités, y compris
 le défaut ou l'insuffisance de réponse aux demandes de renseignements ou de
 justificatifs prévues au deuxième alinéa du I du présent article, une lettre de
 mise en demeure est adressée par pli recommandé avec demande d'avis de réception
 aux redevables ou aux personnes mentionnées au VII de l'article L. 3333-2 par le
-président du conseil général. Si, au terme d'un délai de trente jours à compter
-de la date de réception de cette mise en demeure, les entraves au contrôle
-perdurent, il est procédé à une taxation d'office dans les conditions
+président du conseil départemental . Si, au terme d'un délai de trente jours à
+compter de la date de réception de cette mise en demeure, les entraves au
+contrôle perdurent, il est procédé à une taxation d'office dans les conditions
 mentionnées au 2 du présent II. Les droits notifiés sont assortis d'une
 majoration de 40 %.
 
@@ -63,12 +64,12 @@ redevables ou aux personnes mentionnées au VII de l'article L. 3333-2 sont
 exigibles trente jours après la date de réception par ces personnes de la
 réponse à leurs observations ou, en l'absence d'observations, trente jours après
 la date de la notification ou, en cas de taxation d'office, trente jours après
-la date de notification des droits.L'action des comptables publics, les
+la date de notification des droits. L'action des comptables publics, les
 réclamations contentieuses relatives à l'assiette de la taxe, aux actes de
 poursuite et au recouvrement sont effectuées dans les conditions prévues par
 l'article L. 1617-5.
 
-5. Le président du conseil général informe les collectivités territoriales
+5. Le président du conseil départemental informe les collectivités territoriales
 auxquelles est affectée la taxe mentionnée à l'article L. 2333-2 des contrôles
 effectués, des rectifications du montant de la taxe ou de la taxation d'office
 opérées. Sur la base des informations transmises, les maires et les présidents

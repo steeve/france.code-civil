@@ -29,6 +29,6 @@ compromettre l'avenir des peuplements forestiers subsistant après les travaux,
 ou celui des fonds forestiers voisins.
 
 L'autorité administrative compétente de l'Etat peut, après avis du conseil
-général des départements intéressés, déterminer les cultures susceptibles d'être
-entreprises sur les terrains situés dans ces périmètres. Une priorité est donnée
-à la réalisation de réseaux de desserte hydraulique des exploitations.
+départemental des départements intéressés, déterminer les cultures susceptibles
+d'être entreprises sur les terrains situés dans ces périmètres. Une priorité est
+donnée à la réalisation de réseaux de desserte hydraulique des exploitations.

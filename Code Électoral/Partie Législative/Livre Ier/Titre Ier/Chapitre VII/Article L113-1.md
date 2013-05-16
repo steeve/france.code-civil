@@ -1,8 +1,8 @@
 Article L113-1
 ----
 I.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de
-l'une de ces deux peines seulement, tout candidat en cas de scrutin uninominal,
-ou tout candidat tête de liste en cas de scrutin de liste, qui :
+l'une de ces deux peines seulement, tout candidat en cas de scrutin uninominal
+ou binominal, ou tout candidat tête de liste en cas de scrutin de liste, qui :
 
 1° Aura, en vue de financer une campagne électorale, recueilli des fonds en
 violation des prescriptions de l'article L. 52-4 ;
@@ -34,7 +34,7 @@ Lorsque le donateur sera une personne morale, les dispositions de l'alinéa
 ci-dessus seront applicables à ses dirigeants de droit ou de fait.
 
 III.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de
-l'une de ces deux peines seulement, quiconque aura, pour le compte d'un candidat
-ou d'un candidat tête de liste, sans agir sur sa demande, ou sans avoir
-recueilli son accord exprès, effectué une dépense de la nature de celles prévues
-à l'article L. 52-12.
+l'une de ces deux peines seulement, quiconque aura, pour le compte d'un
+candidat, d'un binôme de candidats ou d'un candidat tête de liste, sans agir sur
+sa demande, ou sans avoir recueilli son accord exprès, effectué une dépense de
+la nature de celles prévues à l'article L. 52-12.

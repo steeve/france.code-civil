@@ -10,8 +10,8 @@ financière. Les établissements publics de coopération intercommunale dont la
 population est comprise entre 20 000 et 50 000 habitants peuvent créer une
 commission consultative des services publics locaux dans les mêmes conditions.
 
-Cette commission, présidée par le maire, le président du conseil général, le
-président du conseil régional, le président de l'organe délibérant, ou leur
+Cette commission, présidée par le maire, le président du conseil départemental ,
+le président du conseil régional, le président de l'organe délibérant, ou leur
 représentant, comprend des membres de l'assemblée délibérante ou de l'organe
 délibérant, désignés dans le respect du principe de la représentation
 proportionnelle, et des représentants d'associations locales, nommés par

@@ -64,36 +64,37 @@ IV.-Il prévoit obligatoirement, parmi les priorités qu'il retient, des
 installations de stockage de déchets non dangereux.
 
 V.-Le projet de plan est élaboré à l'initiative et sous la responsabilité du
-président du conseil général ou, dans la région d'Ile-de-France, du président du
-conseil régional. Les collectivités territoriales ou leurs groupements exerçant
-la compétence de collecte ou de traitement des déchets et, dans la région
-d'Ile-de-France, les départements, sont associés à son élaboration.
+président du conseil départemental ou, dans la région d'Ile-de-France, du
+président du conseil régional. Les collectivités territoriales ou leurs
+groupements exerçant la compétence de collecte ou de traitement des déchets et,
+dans la région d'Ile-de-France, les départements, sont associés à son
+élaboration.
 
 VI.-Il est établi en concertation avec une commission consultative d'élaboration
 et de suivi composée de représentants des communes et de leurs groupements, du
-conseil général, de l'Etat, des organismes publics intéressés, des
+conseil départemental, de l'Etat, des organismes publics intéressés, des
 professionnels concernés, des associations agréées de protection de
 l'environnement et des associations agréées de consommateurs ainsi que, dans la
-région d'Ile-de-France, du conseil régional et des conseils généraux et des
-associations agréées de protection de l'environnement.
+région d'Ile-de-France, du conseil régional et des conseils départementaux et
+des associations agréées de protection de l'environnement.
 
 VII.-Le projet de plan est soumis pour avis au représentant de l'Etat dans le
 département, à la commission départementale compétente en matière
 d'environnement, de risques sanitaires et technologiques ainsi qu'aux conseils
-généraux des départements limitrophes. En Ile-de-France, il est soumis pour avis
-au représentant de l'Etat dans la région ainsi qu'aux conseils généraux et aux
-commissions départementales compétentes en matière d'environnement, de risques
-sanitaires et technologiques des départements situés sur le territoire de la
-région. Le projet de plan est également soumis pour avis aux groupements
-compétents en matière de déchets et, lorsqu'elles n'appartiennent pas à un tel
-groupement, aux communes, concernés par ce plan. Il peut être modifié pour tenir
-compte de ces avis, qui sont réputés favorables s'ils n'ont pas été formulés
-dans un délai de trois mois à compter de la réception du projet. Si le plan est
-élaboré par l'Etat, dans les conditions prévues à l'article L. 541-15, l'avis du
-conseil général et, en Ile-de-France, du conseil régional est également
-sollicité.
+départementaux des départements limitrophes. En Ile-de-France, il est soumis
+pour avis au représentant de l'Etat dans la région ainsi qu'aux conseils
+départementaux et aux commissions départementales compétentes en matière
+d'environnement, de risques sanitaires et technologiques des départements situés
+sur le territoire de la région. Le projet de plan est également soumis pour avis
+aux groupements compétents en matière de déchets et, lorsqu'elles
+n'appartiennent pas à un tel groupement, aux communes, concernés par ce plan. Il
+peut être modifié pour tenir compte de ces avis, qui sont réputés favorables
+s'ils n'ont pas été formulés dans un délai de trois mois à compter de la
+réception du projet. Si le plan est élaboré par l'Etat, dans les conditions
+prévues à l'article L. 541-15, l'avis du conseil départemental et, en
+Ile-de-France, du conseil régional est également sollicité.
 
 VIII.-Le projet de plan est alors soumis à enquête publique réalisée
 conformément au chapitre III du titre II du livre Ier du présent code, puis
-approuvé par délibération du conseil général ou, pour la région d'Ile-de-France,
-par délibération du conseil régional.
+approuvé par délibération du conseil départemental ou, pour la région
+d'Ile-de-France, par délibération du conseil régional.

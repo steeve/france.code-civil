@@ -15,4 +15,4 @@ revenus.
 
 Lorsque le programme prévoit des plantations de haies, il peut prévoir une
 dérogation aux distances de plantation prévues par l'article 671 du code civil,
-après avis de la chambre d'agriculture et du conseil général.
+après avis de la chambre d'agriculture et du conseil départemental .

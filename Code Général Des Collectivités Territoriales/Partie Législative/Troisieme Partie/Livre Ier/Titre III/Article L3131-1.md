@@ -9,8 +9,8 @@ dans un délai de quinze jours à compter de leur signature.
 Cette transmission peut s'effectuer par voie électronique, selon des modalités
 fixées par décret en Conseil d'Etat.
 
-Le président du conseil général certifie, sous sa responsabilité, le caractère
-exécutoire de ces actes.
+Le président du conseil départemental certifie, sous sa responsabilité, le
+caractère exécutoire de ces actes.
 
 La preuve de la réception des actes par le représentant de l'Etat dans le
 département peut être apportée par tout moyen. L'accusé de réception, qui est

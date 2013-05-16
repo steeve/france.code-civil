@@ -47,8 +47,8 @@ demandées.
 
 La suppression d'un chemin inscrit sur le plan départemental des itinéraires de
 promenade et de randonnée ne peut intervenir que sur décision expresse du
-conseil municipal, qui doit avoir proposé au conseil général un itinéraire de
-substitution approprié à la pratique de la promenade et de la randonnée.
+conseil municipal, qui doit avoir proposé au conseil départemental un itinéraire
+de substitution approprié à la pratique de la promenade et de la randonnée.
 
 La création de chemins ruraux, la création et les modifications de tracé ou
 d'emprise des voies communales ne peuvent intervenir que sur décision expresse

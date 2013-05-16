@@ -5,4 +5,4 @@ conseils municipaux, la création d'un syndicat de communes donne lieu à
 l'établissement d'une liste des communes intéressées. Cette liste est fixée par
 le ou les représentants de l'Etat dans le ou les départements concernés, sur
 l'initiative d'un ou plusieurs conseils municipaux. Elle est communiquée pour
-information au conseil général.
+information au conseil départemental .

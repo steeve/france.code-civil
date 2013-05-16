@@ -1,6 +1,6 @@
 Article L3215-2
 ----
-Le conseil général statue :
+Le conseil départemental statue :
 
 1° Sur la part contributive du département aux dépenses qui intéressent à la
 fois le département et les communes ;

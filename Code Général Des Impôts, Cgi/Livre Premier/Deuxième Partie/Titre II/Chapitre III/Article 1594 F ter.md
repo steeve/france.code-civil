@@ -1,7 +1,7 @@
 Article 1594 F ter
 ----
-Les conseils généraux peuvent instituer un abattement sur l'assiette de la taxe
-de publicité foncière ou du droit d'enregistrement pour les acquisitions :
+Les conseils départementaux peuvent instituer un abattement sur l'assiette de la
+taxe de publicité foncière ou du droit d'enregistrement pour les acquisitions :
 
 a. D'immeubles ou de fractions d'immeubles destinés à être affectés à
 l'habitation à la condition que l'acquéreur prenne l'engagement de ne pas les

@@ -40,7 +40,7 @@ Les missions de ce service sont celles définies à l'article L. 1424-2.
 Pour l'exercice de leurs pouvoirs de police, le maire et le préfet mettent en
 oeuvre les moyens relevant du service territorial d'incendie et de secours dans
 les conditions prévues par un règlement opérationnel arrêté par le préfet après
-avis du conseil général.
+avis du conseil départemental .
 
 Sont applicables au règlement opérationnel prévu à l'alinéa précédent les
 dispositions des deuxième et troisième alinéas de l'article L. 1424-4 et celles
@@ -56,13 +56,13 @@ Les recettes du service comprennent notamment :
 -les cotisations annuelles des communes, dont le montant est fixé chaque année
 par le président du conseil d'administration après avis du conseil ;
 
--la contribution du conseil général de la collectivité territoriale.
+-la contribution du conseil départemental de la collectivité territoriale.
 
-Chaque année, la contribution du conseil général ne peut être inférieure à 40 %
-de la somme des dépenses de lutte contre l'incendie, en investissement et en
-fonctionnement, constatées aux comptes administratifs des communes lors du
+Chaque année, la contribution du conseil départemental ne peut être inférieure à
+40 % de la somme des dépenses de lutte contre l'incendie, en investissement et
+en fonctionnement, constatées aux comptes administratifs des communes lors du
 précédent exercice. Pour la première année de fonctionnement, la contribution du
-conseil général est fixée par référence aux sommes constatées aux comptes
+conseil départemental est fixée par référence aux sommes constatées aux comptes
 administratifs de l'année 1993.
 
 Un décret en Conseil d'Etat fixe les modalités d'organisation et de

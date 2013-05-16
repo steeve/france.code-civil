@@ -1,6 +1,6 @@
 Article L2112-2
 ----
-Le président du conseil général a pour mission d'organiser :
+Le président du conseil départemental a pour mission d'organiser :
 
 1° Des consultations prénuptiales, prénatales et postnatales et des actions de
 prévention médico-sociale en faveur des femmes enceintes ;
@@ -40,8 +40,8 @@ actions de formation initiale destinées à aider les assistants maternels dans
 leurs tâches éducatives, sans préjudice des dispositions du code du travail
 relatives à la formation professionnelle continue.
 
-En outre, le conseil général doit participer aux actions de prévention et de
-prise en charge des mineurs en danger ou qui risquent de l'être dans les
+En outre, le conseil départemental doit participer aux actions de prévention et
+de prise en charge des mineurs en danger ou qui risquent de l'être dans les
 conditions prévues au sixième alinéa (5°) de l'article L. 221-1 et aux articles
 L. 226-1 à L. 226-11, L523-1 et L. 532-2 du code de l'action sociale et des
 familles.

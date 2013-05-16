@@ -11,6 +11,6 @@ au salarié candidat :
 
 2° Au conseil municipal dans une commune d'au moins 3 500 habitants ;
 
-3° Au conseil général ou au conseil régional ;
+3° Au conseil départemental ou au conseil régional ;
 
 4° A l'Assemblée de Corse.

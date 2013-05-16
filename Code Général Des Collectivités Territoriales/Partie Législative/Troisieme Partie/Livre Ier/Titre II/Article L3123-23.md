@@ -1,6 +1,6 @@
 Article L3123-23
 ----
-Les membres du conseil général sont affiliés au régime complémentaire de
+Les membres du conseil départemental sont affiliés au régime complémentaire de
 retraite institué au profit des agents non titulaires des collectivités
 publiques.
 

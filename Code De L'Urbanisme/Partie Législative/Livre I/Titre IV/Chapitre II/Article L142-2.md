@@ -1,8 +1,9 @@
 Article L142-2
 ----
 Pour mettre en oeuvre la politique prévue à l'article L. 142-1, le département
-peut instituer, par délibération du conseil général, une part départementale de
-la taxe d'aménagement destinée à financer les espaces naturels sensibles.
+peut instituer, par délibération du conseil départemental, une part
+départementale de la taxe d'aménagement destinée à financer les espaces naturels
+sensibles.
 
 Cette taxe tient lieu de participation forfaitaire aux dépenses du département :
 

@@ -13,5 +13,5 @@ moins un an le locataire est prioritaire pour toute attribution nouvelle de
 parcelle certifiée. Le paiement d'une soulte en espèces, ou exceptionnellement
 en nature avec l'accord du locataire intéressé, est mis à la charge du
 département lorsqu'il y a lieu d'indemniser ce locataire. Les conditions de
-paiement de cette soulte sont fixées par la délibération du conseil général
-ordonnant l'opération d'aménagement foncier.
+paiement de cette soulte sont fixées par la délibération du conseil
+départemental ordonnant l'opération d'aménagement foncier.

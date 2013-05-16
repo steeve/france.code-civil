@@ -1,6 +1,6 @@
 Article L3212-4
 ----
-Le conseil général décide :
+Le conseil départemental décide :
 
 1° Des emprunts du département ;
 

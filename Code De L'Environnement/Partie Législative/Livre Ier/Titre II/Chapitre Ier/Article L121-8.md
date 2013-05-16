@@ -25,8 +25,8 @@ Commission nationale du débat public.
 
 La commission peut être saisie par le maître d'ouvrage ou la personne publique
 responsable du projet et par dix parlementaires ; elle peut également être
-saisie par un conseil régional, un conseil général, un conseil municipal ou un
-établissement public de coopération intercommunale ayant une compétence en
+saisie par un conseil régional, un conseil départemental, un conseil municipal
+ou un établissement public de coopération intercommunale ayant une compétence en
 matière d'aménagement de l'espace, territorialement intéressés ou par l'une des
 associations agréées de protection de l'environnement mentionnées à l'article L.
 141-1 exerçant leur activité sur l'ensemble du territoire national. Cette

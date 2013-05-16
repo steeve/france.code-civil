@@ -15,7 +15,7 @@ Le comité comprend :
 
 1° Le président du conseil régional d'Ile-de-France ;
 
-2° Les présidents des conseils généraux de la région d'Ile-de-France ;
+2° Les présidents des conseils départementaux de la région d'Ile-de-France ;
 
 3° Le maire de Paris ;
 

@@ -8,10 +8,10 @@ fonctionnement des équipements et services publics.
 
 Sur proposition des communes intéressées, les périmètres des zones concernées
 sont arrêtés par le représentant de l'Etat dans le département, après avis du
-conseil général. Dans le cas d'agglomérations de plus de 100 000 habitants ou
-d'ensembles de communes situées dans plusieurs départements, le représentant de
-l'Etat dans la région arrête le périmètre après avis du conseil régional et des
-conseils généraux concernés.
+conseil départemental. Dans le cas d'agglomérations de plus de 100 000 habitants
+ou d'ensembles de communes situées dans plusieurs départements, le représentant
+de l'Etat dans la région arrête le périmètre après avis du conseil régional et
+des conseils départementaux concernés.
 
 Les communes s'associent pour l'élaboration de leur charte et déterminent les
 modalités de concertation avec l'Etat, la région, le département et les
