@@ -13,12 +13,12 @@ du premier jour de leur arrêt de travail dans les conditions prévues par
 l'article 32 de la loi n° 2004-1370 du 20 décembre 2004 de financement de la
 sécurité sociale pour 2005.
 
-Les femmes mentionnées au premier alinéa bénéficient des allocations prévues par
-le présent article à l'occasion de l'arrivée à leur foyer d'un enfant confié en
-vue de son adoption par un service d'aide sociale à l'enfance ou par un
-organisme autorisé pour l'adoption. Ces allocations sont également accordées aux
-femmes titulaires de l'agrément mentionné aux articles L. 225-2 à L. 225-7 et L.
-225-18 ou L. 225-15 du code de l'action sociale et des familles lorsqu'elles
+Les assurés qui relèvent à titre personnel du régime institué par le présent
+titre bénéficient des allocations prévues par le présent article à l'occasion de
+l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service
+d'aide sociale à l'enfance ou par un organisme autorisé pour l'adoption. Ces
+allocations sont également accordées aux titulaires de l'agrément mentionné à
+l'article L. 225-2 du code de l'action sociale et des familles lorsqu'ils
 adoptent ou accueillent un enfant en vue de son adoption par décision de
 l'autorité étrangère compétente, à condition que l'enfant ait été autorisé, à ce
 titre, à entrer sur le territoire français. Les allocations sont servies dans
@@ -29,7 +29,10 @@ les conditions suivantes :
 2°) l'indemnité journalière est due pour la ou les périodes d'interruption
 d'activité se situant après l'arrivée de l'enfant au foyer, la durée maximale
 d'attribution de la prestation étant égale aux trois quarts de celle qui est
-prévue en cas de maternité.
+prévue en cas de maternité. La durée d'indemnisation peut faire l'objet d'une
+répartition entre les parents adoptants dans les conditions prévues au dernier
+alinéa de l'article L. 331-7. Dans ce cas, la durée maximale d'indemnisation est
+augmentée et fractionnable selon les modalités prévues au même alinéa.
 
 Un décret détermine les modalités d'application du présent article et notamment
 le montant de l'allocation prévue au premier alinéa, les montants et les durées

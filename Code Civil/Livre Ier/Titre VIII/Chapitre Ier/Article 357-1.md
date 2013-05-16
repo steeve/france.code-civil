@@ -1,8 +1,8 @@
 Article 357-1
 ----
-Les dispositions de l'article 311-21 sont applicables à l'enfant qui a fait
-l'objet d'une adoption régulièrement prononcée à l'étranger ayant en France les
-effets de l'adoption plénière.
+A l'exception de son dernier alinéa, l'article 357 est applicable à l'enfant qui
+a fait l'objet d'une adoption régulièrement prononcée à l'étranger ayant en
+France les effets de l'adoption plénière.
 
 Les adoptants exercent l'option qui leur est ouverte par cet article lors de la
 demande de transcription du jugement d'adoption, par déclaration adressée au

@@ -3,10 +3,10 @@ Article L351-4
 I.-Une majoration de durée d'assurance de quatre trimestres est attribuée aux
 femmes assurées sociales, pour chacun de leurs enfants, au titre de l'incidence
 sur leur vie professionnelle de la maternité, notamment de la grossesse et de
-l'accouchement. II.-Il est institué au bénéfice du père ou de la mère assuré
-social une majoration de durée d'assurance de quatre trimestres attribuée pour
-chaque enfant mineur au titre de son éducation pendant les quatre années suivant
-sa naissance ou son adoption.
+l'accouchement. II.-Il est institué au bénéfice de l'un ou l'autre des deux
+parents assurés sociaux une majoration de durée d'assurance de quatre trimestres
+attribuée pour chaque enfant mineur au titre de son éducation pendant les quatre
+années suivant sa naissance ou son adoption.
 
 Les parents désignent d'un commun accord le bénéficiaire de la majoration ou, le
 cas échéant, définissent la répartition entre eux de cet avantage.
@@ -25,7 +25,8 @@ défaut, la majoration est partagée par moitié entre les deux parents.
 
 Le défaut d'option dans le délai mentionné ci-dessus est réputé, en l'absence de
 désaccord exprimé, valoir décision conjointe implicite de désignation de la
-mère.
+mère. Lorsque les deux parents sont de même sexe, la majoration est partagée par
+moitié entre eux.
 
 En cas de décès de l'enfant avant la fin de la quatrième année suivant sa
 naissance ou son adoption, la majoration reste due dans les conditions prévues
@@ -55,7 +56,8 @@ deux parents.
 
 Le défaut d'option dans le délai mentionné à l'alinéa précédent est réputé, en
 l'absence de désaccord exprimé, valoir décision conjointe implicite de
-désignation de la mère adoptante.
+désignation de la mère adoptante. Lorsque les deux parents adoptants sont de
+même sexe, la majoration est partagée par moitié entre eux.
 
 La décision, y compris implicite, des parents ou l'attribution de la majoration
 ne peut être modifiée, sauf en cas de décès de l'un des parents avant la

@@ -8,5 +8,4 @@ personne qui a créé l'alliance est décédée ;
 
 2° (Abrogé) ;
 
-3° Par l'article 163 aux mariages entre l'oncle et la nièce, la tante et le
-neveu.
+3° Par l'article 163.

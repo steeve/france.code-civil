@@ -5,6 +5,9 @@ L'adoption plénière de l'enfant du conjoint est permise :
 1° Lorsque l'enfant n'a de filiation légalement établie qu'à l'égard de ce
 conjoint ;
 
+1° bis Lorsque l'enfant a fait l'objet d'une adoption plénière par ce seul
+conjoint et n'a de filiation établie qu'à son égard ;
+
 2° Lorsque l'autre parent que le conjoint s'est vu retirer totalement l'autorité
 parentale ;
 

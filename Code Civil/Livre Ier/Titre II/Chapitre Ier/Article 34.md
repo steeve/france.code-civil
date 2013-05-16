@@ -6,7 +6,7 @@ professions et domiciles de tous ceux qui y seront dénommés.
 
 Les dates et lieux de naissance :
 
-a) Des père et mère dans les actes de naissance et de reconnaissance ;
+a) Des parents dans les actes de naissance et de reconnaissance ;
 
 b) De l'enfant dans les actes de reconnaissance ;
 
