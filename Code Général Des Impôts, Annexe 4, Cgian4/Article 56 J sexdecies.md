@@ -29,7 +29,7 @@ individuel ou la référence commerciale de l'ouvrage mentionnée dans un catalo
 ou tout document de nature comptable ;
 
 b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles
-L. 123-12 à L. 123-17 du code de commerce ou aux spécifications du 3° du I de
+L. 123-12 à L. 123-23 du code de commerce ou aux spécifications du 3° du I de
 l'article 286 du code général des impôts si les documents prévus à cet article
 sont accompagnés de fiches de stock ou d'un inventaire permanent ;
 

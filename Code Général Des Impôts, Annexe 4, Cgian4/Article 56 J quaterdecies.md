@@ -23,5 +23,5 @@ principal. Les magasins doivent être en mesure de communiquer leur situation de
 stock à tout moment, par le biais de l'établissement principal, à la demande du
 service.
 
-Les dispositions des premier et deuxième alinéas de l'article L. 102 B du livre
-des procédures fiscales sont applicables.
+Les dispositions du I de l'article L. 102 B du livre des procédures fiscales
+sont applicables.
