@@ -1,10 +1,10 @@
 Article LO132
 ----
-I. - Les préfets sont inéligibles en France dans toute circonscription comprise
-en tout ou partie dans le ressort dans lequel ils exercent ou ont exercé leurs
+I.-Les préfets sont inéligibles en France dans toute circonscription comprise en
+tout ou partie dans le ressort dans lequel ils exercent ou ont exercé leurs
 fonctions depuis moins de trois ans à la date du scrutin.
 
-II. - Sont inéligibles en France dans toute circonscription comprise en tout ou
+II.-Sont inéligibles en France dans toute circonscription comprise en tout ou
 partie dans le ressort dans lequel ils exercent ou ont exercé leurs fonctions
 depuis moins d'un an à la date du scrutin les titulaires des fonctions suivantes
 :
@@ -71,7 +71,7 @@ adjoints ;
 
 20° Les directeurs généraux, directeurs généraux adjoints, directeurs,
 directeurs adjoints et chefs de service du conseil régional, de la collectivité
-territoriale de Corse, du conseil général, des communes de plus de 20 000
+territoriale de Corse, du conseil départemental, des communes de plus de 20 000
 habitants, des communautés de communes de plus de 20 000 habitants, des
 communautés d'agglomération, des communautés urbaines et des métropoles ;
 
@@ -82,7 +82,7 @@ collectivités mentionnés au 20° ;
 
 22° Les membres du cabinet du président du conseil régional, du président de
 l'Assemblée de Corse, du président du conseil exécutif de Corse, du président du
-conseil général, des maires des communes de plus de 20 000 habitants, des
+conseil départemental, des maires des communes de plus de 20 000 habitants, des
 présidents des communautés de communes de plus de 20 000 habitants, des
 présidents des communautés d'agglomération, des présidents des communautés
 urbaines et des présidents des métropoles.

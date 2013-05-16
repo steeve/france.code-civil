@@ -25,10 +25,10 @@ service sont fixées par décret.
 
 III.-Dans un délai de dix-huit mois à compter de la publication de la loi
 organique n° 2007-223 du 21 février 2007 précitée, une ou plusieurs conventions
-conclues entre le président du conseil général de la Guadeloupe et le président
-du conseil territorial de Saint-Barthélemy constatent la liste des services ou
-parties de service qui sont, pour l'exercice de leurs missions, mis à
-disposition de la collectivité de Saint-Barthélemy. Ces services ou parties de
+conclues entre le président du conseil départemental de la Guadeloupe et le
+président du conseil territorial de Saint-Barthélemy constatent la liste des
+services ou parties de service qui sont, pour l'exercice de leurs missions, mis
+à disposition de la collectivité de Saint-Barthélemy. Ces services ou parties de
 service sont placés sous l'autorité du président du conseil territorial de
 Saint-Barthélemy.
 

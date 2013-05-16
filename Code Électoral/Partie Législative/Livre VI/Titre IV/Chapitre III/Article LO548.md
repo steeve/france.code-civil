@@ -13,8 +13,8 @@ Saint-Pierre-et-Miquelon ;
 Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de
 la Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de
 la Constitution ou de la collectivité régie par le titre XIII de la
-Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional,
-de conseiller de Paris ou de membre de l'Assemblée de Corse ;
+Constitution, ainsi qu'avec celle de conseiller départemental, de conseiller
+régional, de conseiller de Paris ou de membre de l'Assemblée de Corse ;
 
 4° Avec les fonctions de militaire en activité ;
 
@@ -25,7 +25,7 @@ chambre territoriale des comptes ;
 6° Avec les fonctions de directeur ou de président d'établissement public,
 lorsqu'elles sont rémunérées ;
 
-7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO. 544 et
+7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO 544 et
 celles d'agent salarié ou subventionné sur les fonds de la collectivité ou des
 établissements publics et agences créées par elle, ou d'agent salarié des
 établissements publics de coopération dont la collectivité fait partie ;

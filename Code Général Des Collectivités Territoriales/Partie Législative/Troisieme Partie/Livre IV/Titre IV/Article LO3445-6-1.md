@@ -2,10 +2,10 @@ Article LO3445-6-1
 ----
 Si la loi ou le décret en Conseil d'Etat mentionnés aux deux premiers alinéas de
 l'article LO 3445-6 le prévoient, lorsque l'habilitation a été accordée jusqu'au
-renouvellement du conseil général, elle peut être prorogée de droit, une seule
-fois, pour une durée ne pouvant aller au-delà du prochain renouvellement par
-délibération motivée du conseil général adoptée dans les six mois suivant son
-renouvellement.
+renouvellement du conseil départemental, elle peut être prorogée de droit, une
+seule fois, pour une durée ne pouvant aller au-delà du prochain renouvellement
+par délibération motivée du conseil départemental adoptée dans les six mois
+suivant son renouvellement.
 
 La délibération prévue au premier alinéa du présent article est transmise au
 Premier ministre ainsi qu'au représentant de l'Etat dans le département.

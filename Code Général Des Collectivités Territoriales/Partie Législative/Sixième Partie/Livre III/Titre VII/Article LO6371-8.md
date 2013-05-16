@@ -25,10 +25,10 @@ service sont fixées par décret.
 
 III.-Dans un délai de dix-huit mois à compter de la publication de la loi
 organique n° 2007-223 du 21 février 2007 précitée, une ou plusieurs conventions
-conclues entre le président du conseil général de la Guadeloupe et le président
-du conseil territorial de Saint-Martin constatent la liste des services ou
-parties de service qui sont, pour l'exercice de leurs missions, mis à
-disposition de la collectivité de Saint-Martin. Ces services ou parties de
+conclues entre le président du conseil départemental de la Guadeloupe et le
+président du conseil territorial de Saint-Martin constatent la liste des
+services ou parties de service qui sont, pour l'exercice de leurs missions, mis
+à disposition de la collectivité de Saint-Martin. Ces services ou parties de
 service sont placés sous l'autorité du président du conseil territorial de
 Saint-Martin.
 
@@ -36,7 +36,7 @@ A défaut de convention passée dans le délai précité, le représentant de l'
 dans la collectivité bénéficiaire du transfert propose, dans le délai d'un mois,
 un projet de convention aux deux collectivités. Les présidents des deux
 collectivités disposent d'un délai d'un mois pour signer le projet de convention
-qui leur a été transmis.A défaut de signature de ce projet du représentant de
+qui leur a été transmis. A défaut de signature de ce projet du représentant de
 l'Etat, la convention est établie par arrêté du ministre chargé de l'outre-mer.
 
 Les modalités et la date du transfert définitif de chaque service ou partie de
@@ -54,7 +54,7 @@ A défaut de convention passée dans le délai précité, le représentant de l'
 dans la collectivité bénéficiaire du transfert propose, dans le délai d'un mois,
 un projet de convention aux deux collectivités. Les présidents des deux
 collectivités disposent d'un délai d'un mois pour signer le projet de convention
-qui leur a été transmis.A défaut de signature de ce projet du représentant de
+qui leur a été transmis. A défaut de signature de ce projet du représentant de
 l'Etat, la convention est établie par arrêté du ministre chargé de l'outre-mer.
 
 Les modalités et la date du transfert définitif de chaque service ou partie de

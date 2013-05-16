@@ -14,9 +14,9 @@ Pour l'application de ces dispositions à Saint-Martin :
 -la référence aux communes, aux départements et aux régions est remplacée par la
 référence à la collectivité de Saint-Martin ;
 
--la référence aux conseils municipaux, aux conseils généraux et aux conseils
-régionaux est remplacée par la référence au conseil territorial ;
+-la référence aux conseils municipaux, aux conseils départementaux et aux
+conseils régionaux est remplacée par la référence au conseil territorial ;
 
--la référence au maire, au président du conseil général et au président du
+-la référence au maire, au président du conseil départemental et au président du
 conseil régional est remplacée par la référence au président du conseil
 territorial.

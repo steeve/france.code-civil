@@ -1,9 +1,9 @@
 Article LO6434-1
 ----
 Le conseil territorial détermine, par analogie avec les règles applicables aux
-conseils généraux des départements et aux conseils régionaux, les garanties
-accordées aux conseillers territoriaux de Saint-Pierre-et-Miquelon en ce qui
-concerne les autorisations d'absence ou le crédit d'heure, les garanties
+conseils départementaux des départements et aux conseils régionaux, les
+garanties accordées aux conseillers territoriaux de Saint-Pierre-et-Miquelon en
+ce qui concerne les autorisations d'absence ou le crédit d'heure, les garanties
 accordées dans l'exercice d'une activité professionnelle, les garanties
 accordées à l'issue du mandat et le droit à la formation, les indemnités de
 déplacement et frais de séjour engagés pour prendre part aux réunions du conseil

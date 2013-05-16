@@ -13,9 +13,9 @@ Saint-Barthélemy ;
 Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de
 la Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de
 la Constitution ou de la collectivité régie par le titre XIII de la
-Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional,
-de conseiller de Paris, de membre de l'Assemblée de Corse ou de conseiller
-municipal ;
+Constitution, ainsi qu'avec celle de conseiller départemental, de conseiller
+régional, de conseiller de Paris, de membre de l'Assemblée de Corse ou de
+conseiller municipal ;
 
 4° Avec les fonctions de militaire en activité ;
 

@@ -1,8 +1,8 @@
 Article LO3445-7
 ----
 Les délibérations prises en application de l'habilitation sont adoptées à la
-majorité absolue des membres composant le conseil général. Elles précisent les
-dispositions législatives ou réglementaires auxquelles elles dérogent.
+majorité absolue des membres composant le conseil départemental. Elles précisent
+les dispositions législatives ou réglementaires auxquelles elles dérogent.
 
 Les délibérations prévues au premier alinéa sont transmises au Premier ministre
 ainsi qu'au représentant de l'Etat dans le département.
