@@ -25,3 +25,8 @@ situation d'incompatibilité ou, en cas de contestation, de la date à laquelle 
 décision juridictionnelle confirmant cette élection est devenue définitive. A
 défaut d'option dans le délai imparti, il est réputé avoir renoncé au mandat
 acquis ou renouvelé à la date la plus ancienne.
+
+Tant qu'il n'est pas mis fin, dans les conditions prévues aux deuxième et
+troisième alinéas, à l'incompatibilité mentionnée au premier alinéa, l'élu
+concerné ne perçoit aucune indemnité attachée au dernier mandat acquis ou
+renouvelé.

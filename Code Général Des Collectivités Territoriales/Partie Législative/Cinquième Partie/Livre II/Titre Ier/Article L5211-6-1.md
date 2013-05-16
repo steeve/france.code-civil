@@ -177,19 +177,19 @@ Pour les communautés urbaines et les métropoles, cette décision peut fixer po
 une commune un nombre de sièges supérieur à la moitié des sièges de l'organe
 délibérant.
 
-VII. - Au plus tard six mois avant le 31 décembre de l'année précédant celle du
-renouvellement général des conseils municipaux, il est procédé aux opérations
-prévues aux I, IV et VI. Au regard des délibérations sur le nombre et la
-répartition des sièges prévues aux I et VI et de la population municipale
-authentifiée par le plus récent décret publié en application de l'article 156 de
-la loi n° 2002-276 du 27 février 2002 précitée, le nombre total de sièges que
-comptera l'organe délibérant de l'établissement public de coopération
-intercommunale ainsi que celui attribué à chaque commune membre lors du prochain
-renouvellement général des conseils municipaux est constaté par arrêté du
-représentant de l'Etat dans le département lorsque les communes font partie du
-même département ou par arrêté conjoint des représentants de l'Etat dans les
-départements concernés dans le cas contraire, au plus tard le 30 septembre de
-l'année précédant celle du renouvellement général des conseils municipaux.
+VII. - Au plus tard le 31 août de l'année précédant celle du renouvellement
+général des conseils municipaux, il est procédé aux opérations prévues aux I, IV
+et VI. Au regard des délibérations sur le nombre et la répartition des sièges
+prévues aux I et VI et de la population municipale authentifiée par le plus
+récent décret publié en application de l'article 156 de la loi n° 2002-276 du 27
+février 2002 précitée, le nombre total de sièges que comptera l'organe
+délibérant de l'établissement public de coopération intercommunale ainsi que
+celui attribué à chaque commune membre lors du prochain renouvellement général
+des conseils municipaux est constaté par arrêté du représentant de l'Etat dans
+le département lorsque les communes font partie du même département ou par
+arrêté conjoint des représentants de l'Etat dans les départements concernés dans
+le cas contraire, au plus tard le 31 octobre de l'année précédant celle du
+renouvellement général des conseils municipaux.
 
 En cas de création d'un nouvel établissement public de coopération
 intercommunale par application des articles L. 5211-5, L. 5211-41, L. 5211-41-1

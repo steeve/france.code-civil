@@ -21,3 +21,11 @@ quart des conseils municipaux des communes membres de l'établissement existant
 s'opposent au retrait de ladite commune. Ces communes s'associent au sein d'un
 espace de solidarité, en vue d'élaborer et conduire ensemble un projet commun de
 développement urbain et d'aménagement de leur territoire.
+
+A titre expérimental et pendant une durée maximale de trois ans à compter de la
+promulgation de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des
+conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral, l'Etat peut autoriser la
+constitution d'une communauté d'agglomération, au sens du premier alinéa,
+lorsque celle-ci forme un ensemble d'au moins 30 000 habitants et comprend la
+commune la plus peuplée du département. ;
