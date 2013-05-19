@@ -2,9 +2,9 @@ Article 75
 ----
 Le jour désigné par les parties, après le délai de publication, l'officier de
 l'état civil, à la mairie, en présence d'au moins deux témoins, ou de quatre au
-plus, parents ou non des parties, fera lecture aux futurs époux des articles
-212, 213 (alinéas 1er et 2), 214 (alinéa 1er), 215 (alinéa 1er) et 220 du
-présent code. Il sera également fait lecture de l'article 371-1.
+plus, parents ou non des parties, fera lecture aux futurs époux des articles 212
+et 213, du premier alinéa des articles 214 et 215, et de l'article 371-1 du
+présent code.
 
 Toutefois, en cas d'empêchement grave, le procureur de la République du lieu du
 mariage pourra requérir l'officier de l'état civil de se transporter au domicile
@@ -29,5 +29,5 @@ la célébration, d'avoir à déclarer que le défaut de concordance résulte d'
 omission ou d'une erreur.
 
 Il recevra de chaque partie, l'une après l'autre, la déclaration qu'elles
-veulent se prendre pour mari et femme : il prononcera, au nom de la loi,
-qu'elles sont unies par le mariage, et il en dressera acte sur-le-champ.
+veulent se prendre pour époux : il prononcera, au nom de la loi, qu'elles sont
+unies par le mariage, et il en dressera acte sur-le-champ.
