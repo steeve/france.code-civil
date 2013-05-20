@@ -5,6 +5,5 @@ avoir reçu un certificat d'inscription délivré par la commission paritaire de
 publications et agences de presse ou l'une de ses sous-commissions et être
 classés dans l'une des catégories visées aux articles D. 18 ou D. 19. En outre,
 le certificat d'inscription mentionne si la publication bénéficie des
-dispositions de l'article D. 19-2. Les journaux et écrits périodiques doivent
-préalablement à toute expédition être enregistrés à la direction départementale
-des postes dont relève le lieu de dépôt. Cet enregistrement est gratuit.
+dispositions de l'article D. 19-2. Un contrat entre La Poste et les éditeurs
+précise les modalités de mise en œuvre des tarifs de presse.
