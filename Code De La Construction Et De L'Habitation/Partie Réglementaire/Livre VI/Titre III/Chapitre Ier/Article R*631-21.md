@@ -24,10 +24,9 @@ B de l'annexe III au code général des impôts.
 
 Le représentant de l'Etat dans le département d'implantation d'une résidence
 peut, sur demande motivée du propriétaire de l'immeuble ou du maître d'ouvrage
-de l'opération et, après avis de la Commission nationale des résidences
-hôtelières à vocation sociale, autoriser une dérogation sur le bâtiment ou tout
-ou partie des logements de la résidence à certaines des règles, normes et
-performances techniques mentionnées respectivement aux a et d ci-dessus.
+de l'opération, autoriser une dérogation sur le bâtiment ou tout ou partie des
+logements de la résidence à certaines des règles, normes et performances
+techniques mentionnées respectivement aux a et d ci-dessus.
 
 Lorsque des préconisations spécifiques relatives à la protection contre les
 risques d'incendie dans la résidence sont prévues, notamment en fonction des

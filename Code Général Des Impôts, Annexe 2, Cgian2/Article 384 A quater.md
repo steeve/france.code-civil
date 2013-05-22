@@ -24,21 +24,12 @@ L'offre de dation en paiement doit être faite dans le délai prévu pour
 l'enregistrement de la déclaration de la succession ou de l'acte constatant la
 mutation ou le partage.
 
-II.-L'offre est adressée par l'administration fiscale à une commission dont la
-composition est fixée par arrêté conjoint du Premier ministre et des ministres
-chargés du budget, de l'enseignement supérieur et de la recherche.
+II.-Abrogé.
 
-La commission émet un avis sur l'opportunité d'accepter ces titres et sur leur
-attribution à un établissement public à caractère scientifique, culturel et
-professionnel, à un établissement à caractère scientifique et technologique ou à
-une fondation de recherche reconnue d'utilité publique ou assimilée, aux fins de
-financer un projet de recherche ou d'enseignement.
-
-III.-Au vu de l'avis de la commission, le ministre chargé de l'enseignement
-supérieur et de la recherche ou, le cas échéant, le ministre chargé de
-l'enseignement supérieur ou celui chargé de la recherche ou ces deux ministres
-conjointement, suivant la nature du projet, proposent au ministre chargé du
-budget l'octroi ou le refus de l'agrément.
+III.-Le ministre chargé de l'enseignement supérieur et de la recherche ou, le
+cas échéant, le ministre chargé de l'enseignement supérieur ou celui chargé de
+la recherche ou ces deux ministres conjointement, suivant la nature du projet,
+proposent au ministre chargé du budget l'octroi ou le refus de l'agrément.
 
 IV.-La décision est notifiée au demandeur par pli recommandé avec demande d'avis
 de réception.

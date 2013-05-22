@@ -1,8 +1,7 @@
 Article 130
 ----
 L'agrément visé à l'article 113 est accordé par le ministre de l'économie et des
-finances après avis du comité des investissements à caractère économique et
-social.
+finances.
 
 Son octroi peut être subordonné à des conditions particulières relatives
 notamment aux modalités d'établissement des bilans de départ, à la traduction

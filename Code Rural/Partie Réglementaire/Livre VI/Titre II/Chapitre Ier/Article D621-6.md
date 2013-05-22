@@ -23,9 +23,8 @@ marchés et de participer à la politique d'orientation des productions et
 d'organisation de la filière dans le cadre des objectifs de la politique
 agricole commune ou de la politique commune de la pêche ainsi que des
 orientations définies par le Conseil supérieur d'orientation de l'économie
-agricole et alimentaire ou par le Conseil supérieur d'orientation des politiques
-halieutique, aquacole et halio-alimentaire dans le respect des orientations
-stratégiques définies par le conseil d'administration. Lorsque, le 15 novembre,
-le conseil spécialisé compétent n'a pas formulé de proposition de répartition de
-la taxe fiscale affectée à son secteur, le conseil d'administration décide seul
-de cette répartition.
+agricole et alimentaire dans le respect des orientations stratégiques définies
+par le conseil d'administration. Lorsque, le 15 novembre, le conseil spécialisé
+compétent n'a pas formulé de proposition de répartition de la taxe fiscale
+affectée à son secteur, le conseil d'administration décide seul de cette
+répartition.

@@ -13,8 +13,7 @@ financière d'une demande d'expertise, le délai mentionné à l'alinéa précé
 est suspendu jusqu'à la production de ces informations ou documents ou de cette
 expertise. Dans le cas des conventions de délégation de service public en
 matière aéroportuaire ou portuaire, ce délai est également suspendu, lorsque
-l'avis du délégant ou du comité des investissements à caractère économique et
-social est requis, jusqu'à ce que cet avis soit rendu.
+l'avis du délégant est requis, jusqu'à ce que cet avis soit rendu.
 
 En ce qui concerne les délibérations décidant des aides ou régimes d'aides aux
 entreprises, dans le cas où le régime d'aides ou le projet d'aide doit être

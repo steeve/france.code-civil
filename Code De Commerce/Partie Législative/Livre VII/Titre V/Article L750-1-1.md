@@ -37,15 +37,3 @@ commerce consistent, dans la limite d'un plafond de 100 millions d'euros, en une
 fraction de 15 % de la taxe instituée par l'article 3 de la loi n° 72-657 du 13
 juillet 1972 instituant des mesures en faveur de certaines catégories de
 commerçants et artisans âgés.
-
-Un conseil stratégique, composé pour moitié de représentants de l'Etat et pour
-moitié de représentants de l'Assemblée nationale et du Sénat, des collectivités
-territoriales et de personnalités qualifiées, fixe les principes et examine la
-mise en œuvre de la politique de soutien aux activités de proximité.
-
-Le président du conseil stratégique est nommé par décret sur proposition de
-celui-ci.
-
-Une commission d'orientation adresse annuellement au conseil stratégique des
-recommandations relatives aux améliorations à apporter à la politique de soutien
-aux activités de proximité.

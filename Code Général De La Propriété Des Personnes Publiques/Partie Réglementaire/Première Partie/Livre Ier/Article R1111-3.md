@@ -14,6 +14,4 @@ l'espace littoral et des rivages lacustres ;
 3° Les immeubles en nature de bois et forêts ou espaces naturels pouvant être
 incorporés au domaine forestier de l'Etat ;
 
-4° Les blocs de titres de sociétés cotées, les titres d'organismes de placement
-collectif en valeurs mobilières investis en titres de sociétés cotées ou en
-obligations négociables et les obligations négociables.
+4° Abrogé.

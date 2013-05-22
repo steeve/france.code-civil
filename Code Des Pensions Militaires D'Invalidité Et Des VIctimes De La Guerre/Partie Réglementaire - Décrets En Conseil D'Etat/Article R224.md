@@ -220,7 +220,7 @@ sort de cette unité.
 Des bonifications afférentes à des opérations de combat limitativement désignées
 peuvent être accordées. La liste de ces opérations et bonifications est fixée
 par un arrêté conjoint du ministre de la défense et du secrétaire d'Etat aux
-anciens combattants, après avis d'une commission créée à cet effet.
+anciens combattants.
 
 E.-Pour les autres opérations ou missions, définies à l'article L. 253 ter du
 présent code.
@@ -267,7 +267,7 @@ période de trente jours consécutifs.
 Les éléments détachés auprès d'une unité reconnue combattante suivent le sort de
 cette unité.
 
-III. - Constituent les actions de feu ou de combat mentionnées aux I et II
+III.-Constituent les actions de feu ou de combat mentionnées aux I et II
 ci-dessus les actions de combat et les actions qui se sont déroulées en
 situation de danger caractérisé au cours d'opérations militaires dont la liste
 est fixée par un arrêté du ministre de la défense.

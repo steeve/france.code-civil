@@ -1,7 +1,6 @@
 Article R412-3
 ----
-L'agrément est délivré pour une durée de cinq ans, après avis de la commission
-nationale définie à l'article R. 412-4.
+L'agrément est délivré pour une durée de cinq ans.
 
 La décision accordant l'agrément est publiée au Bulletin officiel du ministère
 chargé du tourisme et au Bulletin officiel du ministère chargé des affaires

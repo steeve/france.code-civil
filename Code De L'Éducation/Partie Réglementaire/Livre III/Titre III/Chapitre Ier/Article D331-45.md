@@ -32,27 +32,7 @@ désignent un nombre égal de suppléants des représentants des parents d'élè
 les alinéas suivants :
 
 " L'affectation est de la compétence du chef du service de l'éducation
-nationale. Il est assisté d'une commission préparatoire à l'affectation des
-élèves dont la composition est fixée comme suit :
-
-"-un représentant du chef du service de l'éducation nationale, président ;
-
-"-le directeur du centre d'information et d'orientation ;
-
-"-le proviseur du lycée ;
-
-"-le chef des travaux du lycée professionnel ;
-
-"-trois enseignants ;
-
-"-deux représentants des parents d'élèves de l'enseignement public, au titre des
-associations les plus représentatives.
-
-" Les membres de la commission sont nommés par le chef du service de l'éducation
-nationale pour une durée d'un an renouvelable, sur proposition des associations
-pour les représentants des parents d'élèves. Dans les mêmes conditions, le chef
-du service de l'éducation nationale désigne un nombre égal de suppléants des
-représentants des parents d'élèves.
+nationale.
 
 " La commission réalise les travaux préalables à l'affectation des élèves et les
 propose à la décision du chef du service de l'éducation nationale.
