@@ -2,23 +2,23 @@ Article 1187
 ----
 Dès l'avis d'ouverture de la procédure, le dossier peut être consulté au greffe,
 jusqu'à la veille de l'audition ou de l'audience, par l'avocat du mineur et
-celui de son père, de sa mère, de son tuteur, de la personne ou du service à qui
-l'enfant a été confié. L'avocat peut se faire délivrer copie de tout ou partie
-des pièces du dossier pour l'usage exclusif de la procédure d'assistance
-éducative. Il ne peut transmettre les copies ainsi obtenues ou la reproduction
-de ces pièces à son client.
+celui de ses parents ou de l'un d'eux, de son tuteur, de la personne ou du
+service à qui l'enfant a été confié. L'avocat peut se faire délivrer copie de
+tout ou partie des pièces du dossier pour l'usage exclusif de la procédure
+d'assistance éducative. Il ne peut transmettre les copies ainsi obtenues ou la
+reproduction de ces pièces à son client.
 
 Le dossier peut également être consulté, sur leur demande et aux jours et heures
-fixés par le juge, par le père, la mère, le tuteur, la personne ou le
-représentant du service à qui l'enfant a été confié et par le mineur capable de
-discernement, jusqu'à la veille de l'audition ou de l'audience.
+fixés par le juge, par les parents, le tuteur, la personne ou le représentant du
+service à qui l'enfant a été confié et par le mineur capable de discernement,
+jusqu'à la veille de l'audition ou de l'audience.
 
 La consultation du dossier le concernant par le mineur capable de discernement
-ne peut se faire qu'en présence de son père, de sa mère ou de son avocat. En cas
-de refus des parents et si l'intéressé n'a pas d'avocat, le juge saisit le
-bâtonnier d'une demande de désignation d'un avocat pour assister le mineur ou
-autorise le service éducatif chargé de la mesure à l'accompagner pour cette
-consultation.
+ne peut se faire qu'en présence de ses parents ou de l'un d'eux ou de son
+avocat. En cas de refus des parents et si l'intéressé n'a pas d'avocat, le juge
+saisit le bâtonnier d'une demande de désignation d'un avocat pour assister le
+mineur ou autorise le service éducatif chargé de la mesure à l'accompagner pour
+cette consultation.
 
 Par décision motivée, le juge peut, en l'absence d'avocat, exclure tout ou
 partie des pièces de la consultation par l'un ou l'autre des parents, le tuteur,

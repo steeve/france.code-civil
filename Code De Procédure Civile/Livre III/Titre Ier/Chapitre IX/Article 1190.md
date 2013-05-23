@@ -1,8 +1,8 @@
 Article 1190
 ----
-Les décisions du juge sont notifiées dans les huit jours aux père, mère, tuteur
-ou personne ou service à qui l'enfant a été confié, ainsi qu'au conseil du
-mineur s'il en a été désigné un.
+Les décisions du juge sont notifiées dans les huit jours aux parents, tuteur ou
+personne ou service à qui l'enfant a été confié, ainsi qu'au conseil du mineur
+s'il en a été désigné un.
 
 Le dispositif de la décision est notifié au mineur de plus de seize ans à moins
 que son état ne le permette pas.
