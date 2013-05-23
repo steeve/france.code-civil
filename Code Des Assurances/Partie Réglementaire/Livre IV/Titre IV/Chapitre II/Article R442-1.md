@@ -11,5 +11,6 @@ dans les conditions fixées par les articles R. 442-2 à R. 442-10-5.
 
 La Compagnie française d'assurance pour le commerce extérieur (COFACE) peut
 également délivrer, pour le compte de l'Etat et sous son contrôle, les garanties
-spécifiques mentionnées au b du 1° de l'article L. 432-2 du présent code, dans
-les conditions fixées aux articles R. 442-2 à R. 442-7-2 et R. 442-8-7.
+mentionnées au I de l'article 84 de la loi n° 2012-1510 du 29 décembre 2012 de
+finances rectificative pour 2012, dans les conditions fixées aux articles R.
+442-2 à R. 442-7-2 et R. 442-8-7.
