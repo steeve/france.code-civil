@@ -6,9 +6,5 @@ délibérations du conseil municipal relatives aux objets désignés à l'articl
 appartenant à la section, il peut être institué une commission locale pour
 donner son avis sur les intérêts particuliers de la section.
 
-L'institution d'une commission locale est obligatoire quand un tiers des
-électeurs et propriétaires de la section la réclame.
-
-Lorsque la commission locale conclut à l'acceptation d'un don ou legs fait en
-faveur de la section, l'autorisation aux fins d'acceptation peut être accordée
-malgré un vote contraire du conseil municipal.
+L'institution d'une commission locale est obligatoire quand la moitié des
+électeurs de la section la réclame.

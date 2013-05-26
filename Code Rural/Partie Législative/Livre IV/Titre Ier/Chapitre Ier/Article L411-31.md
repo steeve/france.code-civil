@@ -1,6 +1,6 @@
 Article L411-31
 ----
-I. - Sauf dispositions législatives particulières, nonobstant toute clause
+I.-Sauf dispositions législatives particulières, nonobstant toute clause
 contraire et sous réserve des dispositions des articles L. 411-32 et L. 411-34,
 le bailleur ne peut demander la résiliation du bail que s'il justifie de l'un
 des motifs suivants :
@@ -20,7 +20,7 @@ l'article L. 411-27.
 Les motifs mentionnés ci-dessus ne peuvent être invoqués en cas de force majeure
 ou de raisons sérieuses et légitimes.
 
-II. - Le bailleur peut également demander la résiliation du bail s'il justifie
+II.-Le bailleur peut également demander la résiliation du bail s'il justifie
 d'un des motifs suivants :
 
 1° Toute contravention aux dispositions de l'article L. 411-35 ;
@@ -30,7 +30,11 @@ d'un des motifs suivants :
 
 3° Toute contravention aux obligations dont le preneur est tenu en application
 des articles L. 411-37, L. 411-39, L. 411-39-1 si elle est de nature à porter
-préjudice au bailleur.
+préjudice au bailleur ;
+
+4° Le non-respect par l'exploitant des conditions définies par l'autorité
+compétente pour l'attribution des biens de section en application de l'article
+L. 2411-10 du code général des collectivités territoriales.
 
 Dans les cas prévus aux 1° et 2° du présent II, le propriétaire a le droit de
 rentrer en jouissance et le preneur est condamné aux dommages-intérêts résultant

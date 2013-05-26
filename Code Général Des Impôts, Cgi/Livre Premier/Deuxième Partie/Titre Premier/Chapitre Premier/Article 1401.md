@@ -18,4 +18,4 @@ qui n'ont aucun propriétaire particulier ainsi qu'aux terrains connus sous le
 nom de biens communaux, incombe à la commune tant qu'ils ne sont point partagés.
 
 La taxe due pour des terrains qui ne sont communs qu'à certaines portions des
-habitants d'une commune est acquittée par ces habitants.
+habitants d'une commune est acquittée par la section de commune.
