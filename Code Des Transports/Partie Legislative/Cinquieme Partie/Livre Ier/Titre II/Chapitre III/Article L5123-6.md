@@ -25,4 +25,10 @@ l'article L. 5123-7 ;
 
 2° Le fait de ne pas obtempérer à une injonction prononcée en application de
 l'article L. 5123-5 ou de faire obstacle à une mesure d'exécution forcée visant
-à ce que le navire quitte le port.
+à ce que le navire quitte le port ;
+
+3° Le fait pour le propriétaire d'un navire, au sens du paragraphe 3 de
+l'article 1er de la convention internationale sur la responsabilité civile pour
+les dommages dus à la pollution par les hydrocarbures, faite à Londres le 27
+novembre 1992, telle que modifiée, de ne pas respecter les obligations prévues
+au III de l'article L. 5123-2.

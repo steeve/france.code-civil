@@ -51,16 +51,16 @@ criminalité visant les véhicules et ayant des incidences transfrontalières ;
 
 11° Aux fonctionnaires de la police nationale et du contrôle des transports
 terrestres ainsi qu'aux militaires de la gendarmerie nationale, aux seules fins
-de vérifier la régularité de la situation des redevables au regard des taxes sur
-les poids lourds prévues aux articles 269 à 283 quinquies et 285 septies du code
-des douanes et d'identifier les auteurs des manquements au regard de ces taxes ;
+de vérifier la régularité de la situation des redevables au regard de la taxe
+sur les poids lourds prévue au chapitre II du titre X du code des douanes et
+d'identifier les auteurs des manquements au regard de cette taxe ;
 
 12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les
 appareils de contrôle automatique et à procéder à la constatation des
-manquements au regard des taxes sur les poids lourds prévues aux articles 269 à
-283 quinquies et 285 septies du code des douanes, aux seules fins de vérifier la
-régularité de la situation des redevables au regard de ces taxes et d'identifier
-les auteurs des manquements au regard de ces taxes ;
+manquements au regard de la taxe sur les poids lourds prévue au chapitre II du
+titre X du code des douanes, aux seules fins de vérifier la régularité de la
+situation des redevables au regard de cette taxe et d'identifier les auteurs des
+manquements au regard de cette taxe ;
 
 13° Aux constructeurs de véhicules ou à leurs mandataires pour les besoins des
 rappels de sécurité et des rappels de mise au point des véhicules.
@@ -69,7 +69,16 @@ rappels de sécurité et des rappels de mise au point des véhicules.
 la circulation publique et soumis à péage, assermentés dans les conditions
 prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des
 contraventions au présent code qu'ils sont habilités à constater conformément au
-8° de l'article L. 130-4.
+8° de l'article L. 130-4 ;
+
+15° Aux agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général
+de la propriété des personnes publiques ainsi qu'aux articles L. 2241-1, L.
+4321-3, L. 4272-1, L. 5243-1 et L. 5337-2 du code des transports habilités à
+dresser procès-verbal de contravention de grande voirie en application de ces
+mêmes codes et aux personnels de Voies navigables de France mentionnés à
+l'article L. 4272-2 du code des transports habilités à constater les infractions
+définies par les règlements de police de la navigation intérieure, aux seules
+fins d'identifier le titulaire du certificat d'immatriculation.
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous
 éléments utiles permettant de vérifier la réalité du sinistre.

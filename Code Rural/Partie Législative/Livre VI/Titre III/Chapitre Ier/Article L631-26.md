@@ -3,7 +3,7 @@ Article L631-26
 Les manquements mentionnés à l'article L. 631-25 sont constatés par les agents
 de la concurrence, de la consommation et de la répression des fraudes et par les
 agents des services de l'Etat chargés de l'agriculture et de la pêche et par les
-agents visés aux 1° et 3° à 5° du I de l'article L. 942-1. Ces manquements sont
+agents visés aux 1°, 3° et 5° du I de l'article L. 942-1. Ces manquements sont
 constatés par procès-verbal dans les conditions fixées par les articles L. 450-2
 et L. 450-3 du code de commerce et les dispositions prises pour leur
 application. Le double du procès-verbal, accompagné de toutes les pièces utiles

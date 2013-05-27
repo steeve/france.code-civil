@@ -8,9 +8,10 @@ objets constitutifs, pour chacun de ces objets prévoient à peine de nullité :
 
 2° Les conditions de résiliation, de déchéance et de dévolution, le cas échéant,
 des biens en fin de contrat ainsi que les conditions d'indemnisation du
-cocontractant. Dans le cas des conventions de remontées mécaniques,
-l'indemnisation pour les biens matériels est préalable à la résiliation du
-contrat ;
+cocontractant dont, le cas échéant, celles relatives aux biens financés par
+l'aménageur ou l'exploitant et non amortis en fin de contrat. Dans le cas des
+conventions de remontées mécaniques, l'indemnisation pour les biens matériels
+est préalable à la résiliation du contrat ;
 
 3° Les obligations de chacune des parties et, le cas échéant, le montant de
 leurs participations financières ;

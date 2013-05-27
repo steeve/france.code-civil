@@ -15,7 +15,9 @@ A l'occasion des survols des agglomérations qui ne sont pas situées dans des
 zones à forte densité de population, les hélicoptères doivent se maintenir à une
 hauteur minimum au-dessus du sol.
 
-Ces dispositions ne sont pas applicables aux transports sanitaires et aux
-missions urgentes de protection civile.
+Les deux premiers alinéas ne sont pas applicables aux aéronefs effectuant une
+mission de caractère sanitaire ou humanitaire, aux aéronefs effectuant une
+mission de protection des personnes ou des biens, aux aéronefs effectuant une
+mission d'Etat ou aux aéronefs militaires.
 
 Un décret en Conseil d'Etat fixe les modalités d'application de cet article.

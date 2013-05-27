@@ -1,6 +1,6 @@
 Article L640-1
 ----
-I.-Les articles L. 122-1 à L. 122-3, L. 141-1 à L. 142-3, L. 218-1 à L. 218-72,
+I.-Les articles L. 122-1 à L. 122-3, L. 141-1 à L. 142-3, L. 218-10 à L. 218-72,
 L. 219-1, L. 219-2, L. 219-6, L. 229-1 à L. 229-4, L. 332-1 à L. 332-14, L.
 332-16 à L. 332-27, L. 334-1 à L. 334-8, L. 411-1 à L. 411-4 et L. 412-1 à L.
 415-5 sont applicables aux Terres australes et antarctiques françaises.

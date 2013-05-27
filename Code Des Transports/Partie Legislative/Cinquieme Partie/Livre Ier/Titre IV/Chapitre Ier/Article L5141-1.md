@@ -1,6 +1,9 @@
 Article L5141-1
 ----
-Les dispositions du présent chapitre s'appliquent à tout navire ou autre engin
-flottant en état de flottabilité, d'une jauge égale ou supérieure à un tonnage
-fixé par voie réglementaire, abandonné dans les eaux territoriales ou les eaux
-maritimes intérieures et présentant des dangers.
+Le présent chapitre s'applique à tout engin flottant ou navire en état de
+flottabilité, désigné ci-après par les mots : "le navire", abandonné dans les
+eaux territoriales, dans les eaux intérieures en aval de la limite transversale
+de la mer ou dans les limites administratives des ports maritimes ou sur les
+rivages dépendant du domaine public maritime ou sur le littoral maritime et
+présentant un danger ou entravant de façon prolongée l'exercice des activités
+maritimes, littorales ou portuaires.

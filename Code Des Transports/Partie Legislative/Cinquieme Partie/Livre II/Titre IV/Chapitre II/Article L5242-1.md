@@ -1,6 +1,6 @@
 Article L5242-1
 ----
-I. ― Est puni de deux ans d'emprisonnement et de 7 500 € d'amende le fait, pour
+I. ― Est puni de deux ans d'emprisonnement et de 30 000 € d'amende le fait, pour
 tout capitaine, chef de quart ou toute personne exerçant la responsabilité ou la
 conduite d'un navire, d'enfreindre, y compris par imprudence ou négligence, dans
 les eaux territoriales ou dans les eaux intérieures maritimes françaises : 1°

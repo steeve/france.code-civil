@@ -10,18 +10,29 @@ d'autres polluants. Elle intègre non seulement les coûts économiques mais aus
 les coûts sociaux et environnementaux, monétaires et non monétaires, résultant
 de la création, de l'entretien et de l'usage des infrastructures, des
 équipements et des matériels de transport qui sont supportés par les usagers et
-les tiers. II. ― A cette fin, elle favorise, selon une logique intermodale : 1°
-La complémentarité des modes de transports individuels et collectifs ainsi que
-leur coopération, notamment par les choix d'infrastructures, par l'aménagement
-des lieux d'échanges et de correspondances et par le développement rationnel des
-transports combinés ; 2° La coopération entre les opérateurs, la tarification
-combinée et l'information des usagers sur les différents modes de transports,
-par la coordination de l'exploitation des réseaux ; 3° L'amélioration
-prioritaire de l'efficacité de l'utilisation des réseaux et des équipements
-existants par des mesures d'exploitation et des tarifications appropriées ; 4°
-L'établissement, entre les modes de transport et les entreprises concernées,
+les tiers.
+
+II. ― A cette fin, elle favorise, selon une logique intermodale :
+
+1° La complémentarité des modes de transports individuels et collectifs ainsi
+que leur coopération, notamment par les choix d'infrastructures, par
+l'aménagement des lieux d'échanges et de correspondances, par la création
+d'aires de stationnement sécurisé pour les vélos dans les nouvelles gares et les
+réaménagements de gares existantes du réseau ferré et par le développement
+rationnel des transports combinés ;
+
+2° La coopération entre les opérateurs, la tarification combinée et
+l'information des usagers sur les différents modes de transports, par la
+coordination de l'exploitation des réseaux ;
+
+3° L'amélioration prioritaire de l'efficacité de l'utilisation des réseaux et
+des équipements existants par des mesures d'exploitation et des tarifications
+appropriées ;
+
+4° L'établissement, entre les modes de transport et les entreprises concernées,
 d'une concurrence loyale, notamment en harmonisant leurs conditions
 d'exploitation et d'utilisation et, dans chacun des modes de transport, le
 respect d'une concurrence non discriminatoire, en mettant en place les outils de
-régulation nécessaires et en garantissant leur bon fonctionnement ; 5° Le
-développement et l'amélioration de la politique européenne des transports.
+régulation nécessaires et en garantissant leur bon fonctionnement ;
+
+5° Le développement et l'amélioration de la politique européenne des transports.

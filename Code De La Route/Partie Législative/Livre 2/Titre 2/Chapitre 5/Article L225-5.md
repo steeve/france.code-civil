@@ -37,4 +37,9 @@ des transports routiers ;
 9° A l'organisme chargé de la délivrance et de la gestion des cartes de
 qualification de conducteur destinées à prouver la qualification initiale et la
 formation continue des conducteurs de certains véhicules routiers affectés aux
-transports de marchandises ou de voyageurs.
+transports de marchandises ou de voyageurs ;
+
+10° Aux fonctionnaires ou agents de l'Etat chargés du contrôle des transports
+terrestres placés sous l'autorité du ministre chargé des transports pour
+l'exercice des compétences en matière de contrôle du transport routier prévues
+au présent code.

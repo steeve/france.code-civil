@@ -1,6 +1,6 @@
 Article L5242-2
 ----
-I. ― Est puni de six mois d'emprisonnement et de 3 750 € d'amende le fait pour
+I. ― Est puni de six mois d'emprisonnement et de 15 000 € d'amende le fait pour
 une personne embarquée sur un navire de ne pas se conformer, dans les eaux
 intérieures maritimes et jusqu'à la limite extérieure des eaux territoriales
 françaises :

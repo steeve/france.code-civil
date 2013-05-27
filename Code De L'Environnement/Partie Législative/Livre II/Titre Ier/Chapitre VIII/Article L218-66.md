@@ -1,16 +1,18 @@
 Article L218-66
 ----
-I.-Indépendamment des officiers et agents de police judiciaire, sont habilités à
-rechercher et à constater les infractions aux dispositions de la présente
+I. - Indépendamment des officiers et agents de police judiciaire, sont habilités
+à rechercher et à constater les infractions aux dispositions de la présente
 section :
 
 1° Les administrateurs des affaires maritimes ;
 
-2° Les inspecteurs des affaires maritimes ;
+2° Les fonctionnaires de catégorie A affectés dans les services exerçant des
+missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à
+la disposition du ministre chargé de la mer ;
 
 3° Les officiers du corps technique et administratif des affaires maritimes ;
 
-4° Les techniciens experts du service de la sécurité de la navigation maritime ;
+4° abrogé;
 
 5° Les ingénieurs des ponts , des eaux et des forêts et les ingénieurs des
 travaux publics de l'Etat affectés au service maritime ainsi que les agents
@@ -21,8 +23,7 @@ affectés au service des mines des arrondissements minéralogiques intéressés 
 
 7° Les officiers de port, les officiers de port adjoints ;
 
-8° Les agents de la police de la navigation et de la surveillance des pêches
-maritimes ;
+8° abrogé ;
 
 9° Les commandants, commandants en second ou officiers en second des bâtiments
 de la marine nationale ;
@@ -36,12 +37,14 @@ de recherche pour l'exploitation de la mer ;
 
 13° A l'étranger, les consuls de France à l'exclusion des agents consulaires.
 
-II.-Sont chargés de rechercher les infractions aux dispositions de la présente
+II. - Sont chargés de rechercher les infractions aux dispositions de la présente
 section, de recueillir à cet effet tous renseignements en vue de découvrir les
 auteurs de ces infractions et de porter celles-ci à la connaissance soit d'un
 administrateur des affaires maritimes, un officier du corps technique et
-administratif des affaires maritimes ou un inspecteur des affaires maritimes,
-soit d'un officier de police judiciaire :
+administratif des affaires maritimes ou un fonctionnaire de catégorie A affecté
+dans les services exerçant des missions de contrôle dans le domaine des affaires
+maritimes sous l'autorité ou à la disposition du ministre chargé de la mer, soit
+d'un officier de police judiciaire :
 
 1° Les commandants des navires océanographiques de l'Etat ;
 

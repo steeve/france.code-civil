@@ -1,9 +1,15 @@
 Article L4321-3
 ----
-Sans préjudice de la compétence générale des officiers et agents de police
-judiciaire, les agents de la navigation intérieure et les agents des ports
-autonomes fluviaux, lorsqu'ils ont la qualité de fonctionnaire et sont
-commissionnés et assermentés à cet effet, ont compétence pour constater par
-procès-verbal les atteintes aux voies ferrées portuaires et les infractions aux
-règlements de police qui leur sont applicables. Ledit procès-verbal est remis au
-contrevenant.
+Outre les officiers et agents de police judiciaire, les agents des ports
+autonomes fluviaux ont compétence pour constater par procès-verbal dans la
+circonscription du port où ils exercent leurs fonctions :
+
+1° Les atteintes aux voies ferrées portuaires et les manquements aux règlements
+de police qui leur sont applicables, constitutifs de contraventions de grande
+voirie, dès lors qu'ils sont assermentés à cet effet devant le tribunal de
+grande instance ;
+
+2° Les infractions aux règlements de police applicables aux voies ferrées
+portuaires passibles de peines contraventionnelles, dès lors qu'ils ont la
+qualité de fonctionnaires et qu'ils sont agréés dans les conditions prévues à
+l'article L. 5331-15.

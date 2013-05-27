@@ -4,16 +4,19 @@ I. ― Sans préjudice des compétences des officiers et agents de police
 judiciaire, sont habilités à rechercher et à constater les infractions prévues
 et réprimées par le présent livre :
 
-1° Les administrateurs, officiers et inspecteurs des affaires maritimes.
+1° Les administrateurs, officiers du corps technique et administratif des
+affaires maritimes.
 
 2° Les commandants, commandants en second ou officiers des bâtiments de la
 marine nationale et les commandants des aéronefs militaires affectés à la
 surveillance maritime ainsi que les officiers mariniers désignés par l'autorité
 administrative.
 
-3° Les contrôleurs des affaires maritimes.
+3° Les fonctionnaires affectés dans les services exerçant des missions de
+contrôle dans le domaine des affaires maritimes sous l'autorité ou à la
+disposition du ministre chargé de la mer ;
 
-4° Les syndics des gens de mer.
+4° Abrogé
 
 5° Les agents des douanes.
 

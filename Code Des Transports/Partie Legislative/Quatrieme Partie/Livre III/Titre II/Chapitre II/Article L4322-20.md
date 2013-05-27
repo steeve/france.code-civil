@@ -10,4 +10,7 @@ l'Etat des frais de fonctionnement des services annexes qui peuvent être confi�
 au port autonome de Paris, augmentés du montant des frais généraux ; 5° Les
 participations conventionnelles à certaines dépenses d'exploitation du port
 versées par les collectivités locales, les établissements publics, ainsi que les
-personnes privées ; 6° Toutes autres recettes d'exploitation.
+personnes privées ; 6° Toutes autres recettes d'exploitation ;
+
+7° Les droits de port dont les conditions d'assiette et les modalités
+d'application et de recouvrement sont fixées par décret en Conseil d'Etat.

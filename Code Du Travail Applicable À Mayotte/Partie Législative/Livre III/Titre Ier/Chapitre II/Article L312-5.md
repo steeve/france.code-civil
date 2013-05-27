@@ -5,7 +5,10 @@ recherchées par les officiers et agents de police judiciaire, les agents des
 services fiscaux et des douanes, les agents agréés à cet effet et assermentés
 des organismes de sécurité sociale, les inspecteurs du travail, les contrôleurs
 du travail et fonctionnaires de contrôle assimilés au sens de l'article L.
-610-9, les officiers et les agents assermentés des affaires maritimes, les
+610-9, les administrateurs des affaires maritimes, les officiers du corps
+technique et administratif des affaires maritimes, les fonctionnaires affectés
+dans les services exerçant des missions de contrôle dans le domaine des affaires
+maritimes sous l'autorité ou à la disposition du ministre chargé de la mer, les
 fonctionnaires des corps techniques de l'aviation civile commissionnés à cet
 effet et assermentés, et constatées par ces agents au moyen des procès-verbaux
 transmis directement au parquet. Ces procès-verbaux font foi jusqu'à preuve

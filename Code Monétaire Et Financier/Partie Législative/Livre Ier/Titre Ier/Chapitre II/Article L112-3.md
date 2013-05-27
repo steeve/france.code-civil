@@ -29,4 +29,11 @@ sur un local affecté à des activités commerciales ou artisanales relevant du
 décret prévu au premier alinéa de l'article L. 112-2 ;
 
 10° Les loyers prévus par les conventions portant sur un local à usage des
-activités prévues au deuxième alinéa de l'article L. 112-2.
+activités prévues au deuxième alinéa de l'article L. 112-2 ;
+
+11° Les rémunérations des cocontractants de l'Etat et de ses établissements
+publics ainsi que les rémunérations des cocontractants des collectivités
+territoriales, de leurs établissements publics et de leurs groupements, au titre
+des contrats de délégation de service public, des contrats de partenariat et des
+concessions de travaux publics conclus dans le domaine des infrastructures et
+des services de transport.

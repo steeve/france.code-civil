@@ -25,9 +25,10 @@ ministre chargé de l'agriculture.
 
 Sont également habilités à rechercher et à constater ces infractions
 lorsqu'elles concernent l'élevage, la pêche et la commercialisation des
-coquillages, les administrateurs, inspecteurs, contrôleurs, officiers du corps
-technique et administratif des affaires maritimes, ainsi que les syndics des
-gens de mer.
+coquillages, les administrateurs, officiers du corps technique et administratif
+des affaires maritimes, ainsi que les fonctionnaires affectés dans les services
+exerçant des missions de contrôle dans le domaine des affaires maritimes sous
+l'autorité ou à la disposition du ministre chargé de la mer.
 
 II. ― Outre les compétences qu'ils tiennent de l'article L. 215-2 du code de la
 consommation, des articles L. 251-18, L. 253-14, L. 254-11 et L. 255-9 du

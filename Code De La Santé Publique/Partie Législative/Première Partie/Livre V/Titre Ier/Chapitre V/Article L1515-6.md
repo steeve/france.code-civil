@@ -35,9 +35,7 @@ contrôles dans le domaine de la métrologie ;
 finances du 27 février 1912, modifié par l'article 3 du décret-loi du 14 juin
 1938 ;
 
-9° Les administrateurs des affaires maritimes, les inspecteurs des affaires
-maritimes, les techniciens experts du service de la sécurité de la navigation
-maritime, les officiers du corps technique et administratif des affaires
-maritimes, les contrôleurs des affaires maritimes, les syndics des gens de mer,
-les personnels embarqués d'assistance et de surveillance des affaires maritimes,
-les techniciens du contrôle des établissements de pêche maritime. "
+9° Les administrateurs des affaires maritimes, les officiers du corps technique
+et administratif des affaires maritimes et les fonctionnaires affectés dans les
+services exerçant des missions de contrôle dans le domaine des affaires
+maritimes sous l'autorité ou à la disposition du ministre chargé de la mer.

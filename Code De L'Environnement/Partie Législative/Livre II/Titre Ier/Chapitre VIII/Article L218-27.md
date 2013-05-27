@@ -4,7 +4,9 @@ Sont chargés de rechercher les infractions constituant le délit de pollution d
 eaux de mer, de recueillir à cet effet tous renseignements en vue de découvrir
 les auteurs de ces infractions et d'en rendre compte soit à un officier de
 police judiciaire exerçant ses pouvoirs conformément aux dispositions du code de
-procédure pénale, soit à un officier ou un inspecteur des affaires maritimes :
+procédure pénale, soit à un officier ou un fonctionnaire de catégorie A affecté
+dans les services exerçant des missions de contrôle dans le domaine des affaires
+maritimes sous l'autorité ou à la disposition du ministre chargé de la mer :
 
 1° Les commandants des navires océanographiques de l'Etat ;
 
