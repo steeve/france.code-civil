@@ -2,17 +2,17 @@ Article L5531-19
 ----
 Le capitaine peut, avec l'accord préalable du procureur de la République près la
 juridiction territorialement compétente au titre de l'un des critères mentionnés
-au second alinéa de l'article 37 de la loi du 17 décembre 1926 portant code
-disciplinaire et pénal de la marine marchande, ordonner la consignation dans un
-lieu fermé, pendant la durée strictement nécessaire, d'une personne mettant en
-péril la préservation du navire, de sa cargaison ou de la sécurité des personnes
-se trouvant à bord, lorsque les aménagements du navire le permettent. Un mineur
-est séparé de toute autre personne consignée ; il peut cependant être consigné
-avec un ou des membres de sa famille, à condition que cette mesure ne soit pas
-de nature à mettre en péril la préservation du navire, de sa cargaison ou de la
-sécurité des personnes, y compris celle des intéressés. En cas d'urgence, la
-consignation est immédiatement ordonnée par le capitaine, qui en informe
-aussitôt le procureur de la République afin de recueillir son accord.
+au II de l'article 3 de la loi du 17 décembre 1926 relative à la répression en
+matière maritime, ordonner la consignation dans un lieu fermé, pendant la durée
+strictement nécessaire, d'une personne mettant en péril la préservation du
+navire, de sa cargaison ou de la sécurité des personnes se trouvant à bord,
+lorsque les aménagements du navire le permettent. Un mineur est séparé de toute
+autre personne consignée ; il peut cependant être consigné avec un ou des
+membres de sa famille, à condition que cette mesure ne soit pas de nature à
+mettre en péril la préservation du navire, de sa cargaison ou de la sécurité des
+personnes, y compris celle des intéressés. En cas d'urgence, la consignation est
+immédiatement ordonnée par le capitaine, qui en informe aussitôt le procureur de
+la République afin de recueillir son accord.
 
 Avant l'expiration d'un délai de quarante-huit heures à compter de l'ordre de
 consignation du capitaine, le juge des libertés et de la détention, saisi par le
