@@ -4,13 +4,11 @@ Les sociétés concessionnaires d'autoroutes versent annuellement à l'Etat, pou
 une période comprise entre le 1er juillet et le 30 juin, une redevance pour
 occupation du domaine public déterminée par application de la formule suivante :
 
-R = (R 1 + R 2) x 0,3,
-
-où :
+R = (R 1 + R 2) x 0,3, où :
 
 R 1 = V x 1 000 x L ;
 
-R 2 = 0,015 x CA ;
+R 2 = 0,055 × CA ;
 
 V est la valeur locative de 1 mètre de voie autoroutière telle qu'elle est fixée
 au II de l'article 1501 du code général des impôts et actualisée selon les
