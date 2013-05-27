@@ -21,7 +21,7 @@ En cas de défaut de justification par le redevable de la classe d'émission EUR
 du véhicule, le taux kilométrique est déterminé en retenant la classe à laquelle
 correspond le taux kilométrique le plus élevé.
 
-2. Par exception, les taux kilométriques sont minorés de 25 % pour les régions
+2. Par exception, les taux kilométriques sont minorés de 30 % pour les régions
 comportant au moins un département métropolitain classé dans le décile le plus
 défavorisé selon leur périphéricité au sein de l'espace européen, appréciée au
 regard de leur éloignement des grandes unités urbaines européennes de plus d'un
@@ -30,7 +30,7 @@ million d'habitants.
 Un décret en Conseil d'Etat fixe la liste de ces départements.
 
 La minoration des taux kilométriques prévue au premier alinéa du présent 2 est
-portée à 40 % pour les régions qui ne disposent pas d'autoroute dont l'usage
+portée à 50 % pour les régions qui ne disposent pas d'autoroute dont l'usage
 fait l'objet d'un péage, conformément à l'article L. 122-4 du code de la voirie
 routière.
 
