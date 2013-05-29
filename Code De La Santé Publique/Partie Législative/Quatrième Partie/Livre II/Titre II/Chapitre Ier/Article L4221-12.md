@@ -1,10 +1,10 @@
 Article L4221-12
 ----
-Le ministre chargé de la santé peut, après avis du Conseil supérieur de la
-pharmacie, autoriser individuellement à exercer la pharmacie les personnes
-titulaires d'un diplôme, certificat ou autre titre permettant l'exercice de la
-profession de pharmacien dans le pays d'obtention de ce diplôme, certificat ou
-titre.
+Le ministre chargé de la santé peut, après avis d'une commission, composée
+notamment de professionnels de santé, autoriser individuellement, le cas
+échéant, dans la spécialité à exercer la pharmacie les personnes titulaires d'un
+diplôme, certificat ou autre titre permettant l'exercice de la profession de
+pharmacien dans le pays d'obtention de ce diplôme, certificat ou titre.
 
 Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification
 des connaissances, qui peuvent être organisées par spécialité, et justifier d'un

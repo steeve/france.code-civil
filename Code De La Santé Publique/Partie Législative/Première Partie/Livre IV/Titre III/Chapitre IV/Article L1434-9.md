@@ -21,3 +21,8 @@ pénitentiaire.
 Les autorisations accordées par le directeur général de l'agence régionale de
 santé en vertu des 2° et 3° doivent être compatibles avec les objectifs fixés
 par le schéma régional d'organisation des soins.
+
+En fonction des objectifs de l'offre en matière de biologie médicale, le
+directeur général de l'agence régionale de santé peut s'opposer, dans les
+conditions définies à l'article L. 6222-2, à l'ouverture d'un laboratoire de
+biologie médicale ou d'un site de laboratoire de biologie médicale.

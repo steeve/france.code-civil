@@ -19,7 +19,17 @@ la direction générale de l'établissement. Ils peuvent, en outre, à titre
 accessoire, être autorisés à exercer d'autres activités de santé, notamment les
 activités prévues aux articles L. 1243-2 et L. 5124-9-1 et des activités de
 soins et de laboratoire de biologie médicale, conformément aux règles
-applicables à ces activités. Les établissements de transfusion sanguine sont
-autorisés à dispenser et à administrer les médicaments nécessaires à l'exercice
-de leurs activités liées à la transfusion sanguine et, le cas échéant, de leurs
-activités de soins.
+applicables à ces activités. Par dérogation à l'article L. 6222-5, les
+établissements de transfusion sanguine qui, au titre des activités de
+laboratoire de biologie médicale prévues au présent article, effectuent des
+examens d'immuno-hématologie dits " receveur " et des examens complexes
+d'immuno-hématologie peuvent disposer de laboratoires comportant plusieurs sites
+localisés sur plus de trois territoires de santé, dans leur champ géographique
+d'activité déterminé en application de l'article L. 1223-2. Le deuxième alinéa
+du I de l'article L. 6211-19 n'est pas applicable aux transmissions
+d'échantillons biologiques faites par les laboratoires de biologie médicale des
+établissements de santé aux établissements de transfusion sanguine en vue des
+examens d'immuno-hématologie mentionnés au présent alinéa. Les établissements de
+transfusion sanguine sont autorisés à dispenser et à administrer les médicaments
+nécessaires à l'exercice de leurs activités liées à la transfusion sanguine et,
+le cas échéant, de leurs activités de soins.

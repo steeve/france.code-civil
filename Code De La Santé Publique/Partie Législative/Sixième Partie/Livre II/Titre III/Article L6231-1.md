@@ -18,4 +18,5 @@ pénal.
 
 Les agents mentionnés aux alinéas précédents n'ont pas compétence pour inspecter
 l'Agence nationale de sécurité du médicament et des produits de santé dans le
-cadre de l'organisation du contrôle national de qualité.
+cadre du contrôle de la qualité des examens de biologie médicale prévu à
+l'article L. 6221-10.

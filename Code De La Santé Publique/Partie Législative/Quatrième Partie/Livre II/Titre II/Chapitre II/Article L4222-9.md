@@ -20,8 +20,9 @@ Lorsque le titre de formation ne bénéficie pas d'une reconnaissance en
 application des articles L. 4221-4 et L. 4221-5, les qualifications
 professionnelles du prestataire sont vérifiées avant la première prestation de
 services. En cas de différence substantielle entre les qualifications du
-prestataire et la formation exigée en France, de nature à nuire à la santé
-publique, les autorités compétentes demandent au prestataire d'apporter la
+prestataire et la formation exigée en France pour l'exercice de la profession de
+pharmacien, le cas échéant, dans la spécialité concernée, de nature à nuire à la
+santé publique, les autorités compétentes demandent au prestataire d'apporter la
 preuve qu'il a acquis les connaissances et compétences manquantes, notamment au
 moyen de mesures de compensation.
 

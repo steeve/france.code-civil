@@ -27,9 +27,6 @@ nature à nuire à la santé publique, l'autorité compétente demande au presta
 d'apporter la preuve qu'il a acquis les connaissances et compétences manquantes,
 notamment au moyen de mesures de compensation.
 
-Lors des prestations de services ultérieurs et au moins chaque année, le
-prestataire justifie de sa couverture d'assurance professionnelle.
-
 Le prestataire peut faire usage de son titre de formation dans la langue de
 l'Etat qui le lui a délivré. Il est tenu de faire figurer le nom et le lieu de
 l'établissement ou du jury auprès duquel il l'a obtenu.

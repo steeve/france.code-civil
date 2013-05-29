@@ -1,6 +1,6 @@
 Article L6211-19
 ----
-I. ― Lorsqu'un laboratoire de biologie médicale n'est pas en mesure de réaliser
+I. - Lorsqu'un laboratoire de biologie médicale n'est pas en mesure de réaliser
 un examen de biologie médicale, il transmet à un autre laboratoire de biologie
 médicale les échantillons biologiques à des fins d'analyse et d'interprétation.
 
@@ -15,7 +15,11 @@ directeur général de l'agence régionale de santé peut l'autoriser à poursui
 la partie de son activité qui reste couverte par l'accréditation pendant une
 durée maximale de trois mois, renouvelable une fois.
 
-II. ― Le laboratoire de biologie médicale qui transmet des échantillons
+Les laboratoires de biologie médicale transmettent une déclaration annuelle des
+examens de biologie médicale qu'ils ont réalisés au directeur général de
+l'agence régionale de santé, dans des conditions fixées par décret.
+
+II. - Le laboratoire de biologie médicale qui transmet des échantillons
 biologiques à un autre laboratoire n'est pas déchargé de sa responsabilité
 vis-à-vis du patient.
 
@@ -26,7 +30,7 @@ transmis l'échantillon conformément aux dispositions du 3° de l'article L.
 6211-2. Celui-ci complète l'interprétation dans le contexte des autres examens
 qu'il a lui-même réalisés.
 
-III. ― Le laboratoire de biologie médicale qui a reçu un échantillon biologique
+III. - Le laboratoire de biologie médicale qui a reçu un échantillon biologique
 d'un autre laboratoire ne peut le retransmettre à un autre laboratoire de
 biologie médicale, sauf s'il s'agit d'un laboratoire de référence. La liste des
 laboratoires de référence pour des examens de biologie médicale ou pour des

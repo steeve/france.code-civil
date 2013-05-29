@@ -11,5 +11,6 @@ examens :
 
 1° Sur les activités biologiques d'assistance médicale à la procréation ;
 
-2° Sur les examens d'anatomie et de cytologie pathologiques effectués à l'aide
-de techniques relevant de la biologie médicale.
+2° Sur les examens d'anatomie et de cytologie pathologiques figurant soit à la
+nomenclature des actes de biologie médicale, soit à la nomenclature générale des
+actes professionnels.

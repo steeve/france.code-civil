@@ -1,7 +1,6 @@
 Article L6223-3
 ----
-La personne morale qui exploite un laboratoire de biologie médicale privé est
-inscrite :
+La société qui exploite un laboratoire de biologie médicale privé est inscrite :
 
 1° Au tableau de l'ordre des médecins suivant les modalités et les conditions
 prévues au chapitre II du titre Ier du livre Ier de la quatrième partie,

@@ -16,4 +16,9 @@ décret en Conseil d'Etat ;
 
 2° Soit un médecin autorisé à exercer la biologie médicale en application des
 articles L. 4111-2 et L. 4131-1-1 ou un pharmacien autorisé à exercer la
-biologie médicale en application de l'article L. 4221-12.
+biologie médicale en application des articles L. 4221-9, L. 4221-12, L.
+4221-14-1 et L. 4221-14-2 ;
+
+Les médecins et les pharmaciens autorisés à exercer la médecine ou la pharmacie
+en France peuvent solliciter la délivrance d'une qualification en biologie
+médicale auprès de l'ordre compétent.

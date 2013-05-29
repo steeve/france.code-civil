@@ -3,7 +3,7 @@ Article L4232-1
 L'ordre national des pharmaciens comporte sept sections dans lesquelles les
 pharmaciens sont répartis de la manière suivante :
 
-Section A.-Pharmaciens titulaires d'une officine ;
+Section A : pharmaciens titulaires d'une officine ;
 
 Section B : pharmaciens responsables ainsi que leurs intérimaires, délégués,
 délégués intérimaires et adjoints exerçant dans les entreprises et
@@ -21,12 +21,13 @@ mutualistes et, généralement, tous pharmaciens non susceptibles de faire parti
 de l'une des sections A, B, C, E, G et H, à l'exception des pharmaciens
 mentionnés à l'article L. 4222-7 ;
 
-Section E.-Ensemble des pharmaciens exerçant leur art dans les départements
+Section E : ensemble des pharmaciens exerçant leur art dans les départements
 d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, à
 l'exception des pharmaciens mentionnés à l'article L. 4222-7 ;
 
-Section G.-Pharmaciens biologistes exerçant dans les laboratoires de biologie
-médicale publics et privés ;
+Section G : pharmaciens exerçant dans un laboratoire de biologie médicale et
+pharmaciens exerçant la biologie médicale ou l'un de ses domaines dans un
+établissement de santé ;
 
 Section H : pharmaciens exerçant dans les établissements de santé ou
 médico-sociaux, les établissements de transfusion sanguine, les services

@@ -7,16 +7,16 @@ analytique est réalisée :
 
 1° Soit dans un établissement de santé ;
 
-2° Soit, pour des motifs liés à l'urgence, dans des lieux déterminés par décret
-en Conseil d'Etat.
+2° Soit, pour des motifs liés à l'urgence, dans des lieux déterminés par arrêté
+du ministre chargé de la santé.
 
 La lecture du résultat nécessaire à la décision thérapeutique est alors assurée
 par le médecin. Le biologiste médical conserve toutefois la responsabilité de la
 validation des résultats obtenus.
 
 Les catégories de professionnels de santé habilités à réaliser la phase
-analytique en dehors d'un laboratoire d'analyse de biologie médicale sont fixées
-par arrêté du ministre chargé de la santé.
+analytique en dehors d'un laboratoire de biologie médicale sont fixées par
+arrêté du ministre chargé de la santé.
 
 II. ― Les lieux de réalisation de l'examen et les procédures applicables,
 lorsque le laboratoire de biologie médicale relève de l'établissement de santé,

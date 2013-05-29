@@ -1,11 +1,8 @@
 Article L6222-6
 ----
-Au moins un biologiste médical exerce sur chacun des sites du laboratoire de
-biologie médicale aux heures d'ouverture de ce site. Les conditions dans
-lesquelles un biologiste médical est regardé comme exerçant sur un site pour
-l'application du présent alinéa sont fixées par voie réglementaire.
-
-L'alinéa précédent ne s'applique pas aux heures de permanence de l'offre de
-biologie médicale. Toutefois, aux heures de permanence, un biologiste médical
-est en mesure d'intervenir dans le délai nécessaire aux besoins des patients et
-à la bonne organisation du laboratoire.
+Sur chacun des sites, un biologiste du laboratoire doit être en mesure de
+répondre aux besoins du site et, le cas échéant, d'intervenir dans des délais
+compatibles avec les impératifs de sécurité des patients. Pour assurer le
+respect de cette obligation, le laboratoire doit comporter un nombre de
+biologistes au moins égal au nombre de sites qu'il a créés. Le biologiste
+assumant la responsabilité du site doit être identifiable à tout moment.

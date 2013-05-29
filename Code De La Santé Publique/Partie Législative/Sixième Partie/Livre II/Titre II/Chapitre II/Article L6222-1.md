@@ -1,10 +1,9 @@
 Article L6222-1
 ----
-L'ouverture d'un laboratoire de biologie médicale, public ou privé, est
-subordonnée au dépôt préalable, par son représentant légal, d'une déclaration
-auprès de l'agence régionale de santé, dans un délai fixé par voie
-réglementaire. Le contenu de cette déclaration est également fixé par voie
-réglementaire.
+L'ouverture d'un laboratoire de biologie médicale est subordonnée au dépôt
+préalable, par son représentant légal, d'une déclaration auprès de l'agence
+régionale de santé, dans un délai fixé par voie réglementaire. Le contenu de
+cette déclaration est également fixé par voie réglementaire.
 
 Lorsque les sites du laboratoire sont localisés dans des régions relevant
 d'agences régionales de santé différentes, la déclaration est déposée auprès de

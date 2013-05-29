@@ -66,7 +66,8 @@ véhicules dans les cas prévus à l'article L. 3114-1 ;
 18° Les logiciels qui ne sont pas des dispositifs médicaux et qui sont utilisés
 par les laboratoires de biologie médicale, pour la gestion des examens de
 biologie médicale et lors de la validation, de l'interprétation, de la
-communication appropriée et de l'archivage des résultats ;
+communication appropriée en application du 3° de l'article L. 6211-2 et de
+l'archivage des résultats ;
 
 19° Les dispositifs à finalité non strictement médicale utilisés dans les
 laboratoires de biologie médicale pour la réalisation des examens de biologie

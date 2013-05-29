@@ -10,6 +10,6 @@ conditions déterminées par décret en Conseil d'Etat.
 
 Le technicien de laboratoire médical participe, dans son champ de compétence, à
 des missions de santé publique. Il participe également à la permanence de
-l'offre de biologie médicale définie sur le territoire de santé infrarégional.
-Il peut être appelé à participer à des missions d'enseignement et de recherche,
-ainsi qu'aux programmes d'éducation thérapeutique du patient.
+l'offre de biologie médicale définie sur le territoire de santé. Il peut être
+appelé à participer à des missions d'enseignement et de recherche, ainsi qu'aux
+programmes d'éducation thérapeutique du patient.
