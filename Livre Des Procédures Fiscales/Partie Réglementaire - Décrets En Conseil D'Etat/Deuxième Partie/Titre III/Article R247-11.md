@@ -1,19 +1,14 @@
 Article R247-11
 ----
-Pour obtenir la dispense du paiement prévu au septième alinéa de l'article L.
-247 la personne mise en cause doit, en ce qui concerne les impôts recouvrés par
-les comptables de la direction générale des impôts ou de la direction générale
-des douanes et droits indirects, selon le cas, adresser sa demande au directeur
-des services fiscaux ou au directeur régional des douanes et droits indirects,
-dont dépend le comptable chargé du recouvrement.
+Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes
+et mises à leur charge, les personnes ainsi mises en cause doivent, en ce qui
+concerne les impôts recouvrés par les comptables de la direction générale des
+douanes et droits indirects, adresser une demande au directeur dont dépend le
+comptable chargé du recouvrement.
 
 La décision appartient :
 
-a) au directeur des services fiscaux ou au directeur régional des douanes et
-droits indirects, selon le cas, lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 304 898,03 € par exercice ou affaire, selon la nature des impôts
-;
+a) Au directeur, lorsque les sommes faisant l'objet de la demande n'excèdent pas
+305 000 € par affaire ;
 
-b) abrogé.
-
-c) au ministre chargé du budget, dans les autres cas.
+b) Au ministre chargé du budget, dans les autres cas.
