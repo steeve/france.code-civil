@@ -2,9 +2,9 @@ Article 438
 ----
 Il est perçu un droit de circulation dont le tarif est fixé, par hectolitre, à :
 
-1° 8,91 € pour les vins mousseux ;
+1° 9,07 € pour les vins mousseux ;
 
-2° 3,60 € :
+2° 3,66 € :
 
 a) Pour tous les autres vins dont le titre alcoométrique acquis n'excède pas 15
 % vol. pour autant que l'alcool contenu dans le produit fini résulte entièrement
@@ -25,7 +25,7 @@ c) Pour les autres produits fermentés autres que le vin et la bière et les
 produits visés au 3°, dont le titre alcoométrique acquis n'excède pas 5,5 % vol.
 pour les boissons non mousseuses et 8,5 % vol. pour les boissons mousseuses.
 
-3° 1,27 € pour les cidres, les poirés, les hydromels et les jus de raisin
+3° 1,29 € pour les cidres, les poirés, les hydromels et les jus de raisin
 légèrement fermentés dénommés "pétillants de raisin".
 
 Le tarif du droit de circulation est relevé au 1er janvier de chaque année dans
