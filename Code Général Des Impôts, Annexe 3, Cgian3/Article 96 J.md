@@ -18,12 +18,12 @@ du Conseil du 31 mars 2004, un montant annuel d'introduction ou d'acquisition
 égal ou supérieur à un seuil fixé par arrêté du ministre chargé des douanes.
 
 Lorsque la personne établie hors de l'Union européenne est dispensée de désigner
-un représentant en application du deuxième alinéa du I de l'article 289 A du
-code général des impôts ou lorsque la personne établie dans un autre Etat membre
-de l'Union européenne n'est pas tenue de s'identifier à la taxe sur la valeur
-ajoutée en France conformément au II de l'article 95, la déclaration afférente
-aux acquisitions intracommunautaires visées au 4° du I de l'article 277 A du
-même code est souscrite par la personne mentionnée à l'article 85 D.
+un représentant en application du 2° du I de l'article 289 A du code général des
+impôts ou lorsque la personne établie dans un autre Etat membre de l'Union
+européenne n'est pas tenue de s'identifier à la taxe sur la valeur ajoutée en
+France conformément au II de l'article 95, la déclaration afférente aux
+acquisitions intracommunautaires visées au 4° du I de l'article 277 A du même
+code est souscrite par la personne mentionnée à l'article 85 D.
 
 Pour les opérations portant sur l'électricité, le gaz naturel, la chaleur ou le
 froid acheminé par conduite, la déclaration est souscrite par la personne

@@ -2,9 +2,9 @@ Article 881 D
 ----
 I. ― Le tarif de la contribution de sécurité immobilière exigible pour les
 réquisitions déposées en vue de la délivrance des renseignements hypothécaires
-visés au II de l'article 42-1 et à l'article 53-6 du décret n° 55-1350 du 14
-octobre 1955 pris pour l'application du décret n° 55-22 du 4 janvier 1955
-portant réforme de la publicité foncière est fixé comme suit :
+visés à l'article 53-6 du décret n° 55-1350 du 14 octobre 1955 pris pour
+l'application du décret n° 55-22 du 4 janvier 1955 portant réforme de la
+publicité foncière est fixé comme suit :
 
 1° Réquisitions ne comportant pas la désignation des immeubles ou demandes
 complémentaires afférentes à ce type de réquisitions : 12 € par personne

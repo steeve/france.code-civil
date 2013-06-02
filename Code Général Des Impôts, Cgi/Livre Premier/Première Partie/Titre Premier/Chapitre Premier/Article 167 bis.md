@@ -35,12 +35,13 @@ Les créances mentionnées au second alinéa du 1 du présent I sont évaluées 
 valeur réelle au moment du transfert du domicile fiscal hors de France de leur
 titulaire.
 
-2 bis. (1) La plus-value latente calculée dans les conditions prévues au premier
-alinéa du 2 du présent article est réduite de l'abattement pour durée de
-détention prévu au 1 de l'article 150-0 D dans les conditions prévues à ce même
-1. Pour l'application du premier alinéa du présent 2 bis à l'abattement prévu au
-1 de l'article 150-0 D, le transfert du domicile fiscal est assimilé à une
-cession à titre onéreux.
+2 bis. La plus-value latente calculée dans les conditions prévues au premier
+alinéa du 2 est réduite de l'abattement pour durée de détention prévu au 1 de
+l'article 150-0 D dans les conditions prévues à ce même 1.
+
+Pour l'application du premier alinéa du présent 2 bis à l'abattement prévu au 1
+de l'article 150-0 D, le transfert du domicile fiscal est assimilé à une cession
+à titre onéreux.
 
 3. La plus-value calculée dans les conditions prévues au 2 est réduite de
 l'abattement pour durée de détention prévuà l'article 150-0 D ter, lorsque les
@@ -59,9 +60,9 @@ mentionnés au 1 dans les deux ans suivant son départ à la retraite.
 
 4. Abrogé.
 
-5. Les moins-values calculées selon les modalités prévues au 2 du présent I ne
-sont pas imputables sur les plus-values calculées selon les mêmes modalités ni
-sur d'autres plus-values, quelles que soient leurs modalités d'imposition.
+5. Les moins-values calculées selon les modalités prévues au 2 ne sont pas
+imputables sur les plus-values calculées selon les mêmes modalités ni sur
+d'autres plus-values, quelles que soient leurs modalités d'imposition.
 
 II.-Lorsqu'un contribuable transfère son domicile fiscal hors de France, les
 plus-values de cession ou d'échange de droits sociaux, valeurs, titres ou droits
@@ -72,17 +73,17 @@ l'article 150-0 C, dans sa rédaction en vigueur avant le 1er janvier 2006, des
 articles 150-0 B bis, 150-0 B ter et 150-0 D bis sont également imposables lors
 de ce transfert.
 
-II bis. 1. - L'impôt sur le revenu relatif aux plus-values et créances
-déterminées dans les conditions prévues aux I et II du présent article, à
-l'exception de celles imposées dans les conditions prévues au 2 du présent II
-bis, est égal à la différence entre, d'une part, le montant de l'impôt résultant
-de l'application de l'article 197 à l'ensemble des revenus de sources française
-et étrangère mentionnés au 1 de l'article 167 auxquels s'ajoutent les
-plus-values et créances imposables en vertu des I et II du présent article, à
-l'exception de celles imposées dans les conditions prévues au 2 du présent II
-bis, et, d'autre part, le montant de l'impôt établi dans les conditions prévues
-à l'article 197 pour les seuls revenus de sources française et étrangère
-mentionnés au 1 de l'article 167.
+II bis. 1.-L'impôt sur le revenu relatif aux plus-values et créances déterminées
+dans les conditions prévues aux I et II du présent article, à l'exception de
+celles imposées dans les conditions prévues au 2 du présent II bis, est égal à
+la différence entre, d'une part, le montant de l'impôt résultant de
+l'application de l'article 197 à l'ensemble des revenus de sources française et
+étrangère mentionnés au 1 de l'article 167 auxquels s'ajoutent les plus-values
+et créances imposables en vertu des I et II du présent article, à l'exception de
+celles imposées dans les conditions prévues au 2 du présent II bis, et, d'autre
+part, le montant de l'impôt établi dans les conditions prévues à l'article 197
+pour les seuls revenus de sources française et étrangère mentionnés au 1 de
+l'article 167.
 
 Le taux d'imposition des plus-values et créances mentionnées aux I et II du
 présent article et imposées dans les conditions du premier alinéa du présent 1
@@ -143,21 +144,26 @@ garanties propres à assurer le recouvrement de la créance du Trésor.
 
 Le montant des garanties que le contribuable est tenu de constituer
 préalablement à son transfert de domicile fiscal hors de France pour bénéficier
-du sursis de paiement prévu au présent 1 est égal à : 1° 19 % du montant total
-des plus-values et créances mentionnées aux I et II et imposées dans les
-conditions prévues au 2 du II bis ; 2° 30 % du montant total des plus-values et
-créances mentionnées aux I et II et imposées dans les conditions prévues au 1 du
-II bis. Dans le mois suivant la réception de l'avis d'imposition émis au titre
-de l'impôt afférent aux plus-values et créances mentionnées au 2° du présent 1,
-le contribuable constitue, le cas échéant, un complément de garanties pour
-assurer le recouvrement de l'impôt calculé dans les conditions du 1 du II bis à
-hauteur de la différence entre ce montant d'impôt et le montant de la garantie
-constituée préalablement au transfert du domicile fiscal hors de France. Lorsque
-le montant d'impôt calculé dans les conditions du 1 du II bis est inférieur au
-montant des garanties constituées préalablement au transfert de domicile fiscal
-hors de France, le contribuable peut demander au comptable chargé du
-recouvrement la levée de ces garanties à hauteur de la différence entre le
-montant de ces garanties et le montant d'impôt précité.
+du sursis de paiement prévu au présent 1 est égal à :
+
+1° 19 % du montant total des plus-values et créances mentionnées aux I et II et
+imposées dans les conditions prévues au 2 du II bis ;
+
+2° 30 % du montant total des plus-values et créances mentionnées aux I et II et
+imposées dans les conditions prévues au 1 du II bis.
+
+Dans le mois suivant la réception de l'avis d'imposition émis au titre de
+l'impôt afférent aux plus-values et créances mentionnées au 2° du présent 1, le
+contribuable constitue, le cas échéant, un complément de garanties pour assurer
+le recouvrement de l'impôt calculé dans les conditions du 1 du II bis à hauteur
+de la différence entre ce montant d'impôt et le montant de la garantie
+constituée préalablement au transfert du domicile fiscal hors de France.
+
+Lorsque le montant d'impôt calculé dans les conditions du 1 du II bis est
+inférieur au montant des garanties constituées préalablement au transfert de
+domicile fiscal hors de France, le contribuable peut demander au comptable
+chargé du recouvrement la levée de ces garanties à hauteur de la différence
+entre le montant de ces garanties et le montant d'impôt précité.
 
 2. Lorsque le contribuable justifie que son transfert de domicile fiscal dans un
 Etat ou territoire qui n'est pas partie à l'accord sur l'Espace économique
@@ -220,8 +226,8 @@ reçus en contrepartie de l'apport en numéraire conformément au II du même
 article 150-0 D bis, pour l'impôt afférent aux plus-values de cession reportées
 en application dudit article ;
 
-(2) f) La cession à titre onéreux, le rachat, le remboursement ou l'annulation
-des titres ou droits reçus en rémunération de l'apport ou des titres ou droits
+f) La cession à titre onéreux, le rachat, le remboursement ou l'annulation des
+titres ou droits reçus en rémunération de l'apport ou des titres ou droits
 apportés ou des parts ou droits dans les sociétés ou groupements interposés
 conformément à l'article 150-0 B ter, pour l'impôt afférent aux plus-values de
 cession reporté en application du même article.
@@ -346,38 +352,47 @@ rapport entre l'assiette définitive de l'impôt calculée en application des m�
 I et 1 et 3 du présent VIII, d'une part, et l'assiette de l'impôt acquitté hors
 de France, d'autre part, et dans la limite de l'impôt définitif dû en France.
 
-VIII bis. - 1. Si, lors de la survenance de la cession à titre onéreux des
-titres, les conditions prévues au 2 bis de l'article 200 A sont remplies alors
-qu'elles ne l'étaient pas au titre de l'année du transfert de domicile fiscal
-hors de France et que le contribuable opte pour l'imposition de la plus-value
-latente constatée conformément au I du présent article dans les conditions
-prévues à ce même 2 bis, l'impôt sur le revenu calculé en application du 1 du II
-bis du présent article afférent à la plus-value latente constatée conformément
-au I sur les titres concernés par l'un des événements précités est retenu dans
-la limite de son montant recalculé en appliquant à la plus-value latente
-constatée dans les conditions du même I le taux de 19 %. Le surplus d'impôt sur
-le revenu est dégrevé ou restitué. Dans ce cas, le contribuable fournit, à
-l'appui de la déclaration mentionnée au 3 du IX, les éléments de calcul retenus.
+VIII bis.-1. Si, lors de la survenance de la cession à titre onéreux des titres,
+les conditions prévues au 2 bis de l'article 200 A sont remplies alors qu'elles
+ne l'étaient pas au titre de l'année du transfert de domicile fiscal hors de
+France et que le contribuable opte pour l'imposition de la plus-value latente
+constatée conformément au I du présent article dans les conditions prévues à ce
+même 2 bis, l'impôt sur le revenu calculé en application du 1 du II bis du
+présent article afférent à la plus-value latente constatée conformément au I sur
+les titres concernés par l'un des événements précités est retenu dans la limite
+de son montant recalculé en appliquant à la plus-value latente constatée dans
+les conditions du même I le taux de 19 %.
+
+Le surplus d'impôt sur le revenu est dégrevé ou restitué. Dans ce cas, le
+contribuable fournit, à l'appui de la déclaration mentionnée au 3 du IX, les
+éléments de calcul retenus.
+
 2. Le présent 2 est applicable lorsque les conditions suivantes sont remplies :
+
 a) Les plus-values et créances déterminées dans les conditions prévues aux I et
 II ont été imposées dans les conditions du 1 du II bis au titre de l'année du
 transfert de domicile fiscal hors de France ; b) Le contribuable ne bénéficie
 pas du 1 du présent VIII bis au titre de la plus-value latente constatée
-conformément au I concernée par l'un des événements prévus au VII. Lors de la
-survenance de chaque événement prévu au même VII, le montant d'impôt sur le
-revenu dû, à dégrever ou à restituer, est calculé en appliquant à la plus-value
-ou créance définitive concernée par ledit événement le taux d'imposition défini
-au second alinéa du 1 du II bis. Cependant, sur demande expresse du
-contribuable, le montant d'impôt sur le revenu dû, à dégrever ou à restituer,
-peut être calculé en appliquant le premier alinéa du 1 du II bis à l'ensemble
-des plus-values et créances définitives puis en retenant le montant d'impôt
-ainsi calculé correspondant à la seule plus-value ou créance concernée par
-l'événement mentionné au VII. Cette option, qui doit être exercée lors de la
-survenance du premier événement prévu au même VII affectant une plus-value ou
-une créance mentionnée aux I ou II, est irrévocable et s'applique à l'ensemble
-des plus-values et créances déterminées dans les conditions prévues à ces mêmes
-I et II. Le surplus d'impôt sur le revenu est dégrevé ou restitué. Dans ce cas,
-le contribuable fournit, à l'appui de la déclaration mentionnée au 3 du IX, les
+conformément au I concernée par l'un des événements prévus au VII.
+
+Lors de la survenance de chaque événement prévu au même VII, le montant d'impôt
+sur le revenu dû, à dégrever ou à restituer, est calculé en appliquant à la
+plus-value ou créance définitive concernée par ledit événement le taux
+d'imposition défini au second alinéa du 1 du II bis.
+
+Cependant, sur demande expresse du contribuable, le montant d'impôt sur le
+revenu dû, à dégrever ou à restituer, peut être calculé en appliquant le premier
+alinéa du 1 du II bis à l'ensemble des plus-values et créances définitives puis
+en retenant le montant d'impôt ainsi calculé correspondant à la seule plus-value
+ou créance concernée par l'événement mentionné au VII.
+
+Cette option, qui doit être exercée lors de la survenance du premier événement
+prévu au même VII affectant une plus-value ou une créance mentionnée aux I ou
+II, est irrévocable et s'applique à l'ensemble des plus-values et créances
+déterminées dans les conditions prévues à ces mêmes I et II.
+
+Le surplus d'impôt sur le revenu est dégrevé ou restitué. Dans ce cas, le
+contribuable fournit, à l'appui de la déclaration mentionnée au 3 du IX, les
 éléments de calcul retenus.
 
 IX.-1. Le contribuable qui transfère son domicile fiscal hors de France est tenu
@@ -414,7 +429,7 @@ Lors de la survenance de l'un des événements prévus aux 2 et 3 du VII, il
 déclare la nature et la date de ces événements et demande le dégrèvement ou la
 restitution de l'impôt calculé dans les conditions prévues au II bis afférent
 aux plus-values constatées sur les titres concernés par l'un des événements
-précités .
+précités.
 
 4. Le défaut de production de la déclaration et du formulaire mentionnés au 2 ou
 l'omission de tout ou partie des renseignements qui doivent y figurer entraîne

@@ -13,7 +13,7 @@ l'exception des primes de remboursement attachées aux titres émis à compter d
 distribuées ou réparties à compter du 1er janvier 1989 par un organisme de
 placement collectif en valeurs mobilières visé par les articles L. 214-2 et
 suivants du code monétaire et financier lorsque ces primes représentent plus de
-10 p. 100 du montant de la distribution ou de la répartition.
+10% du montant de la distribution ou de la répartition.
 
 Ces dispositions ne sont pas applicables aux primes de remboursement définies au
 II de l'article 238 septies A.
@@ -199,16 +199,16 @@ Un décret en Conseil d'Etat précise les modalités d'application ainsi que les
 obligations déclaratives des contribuables et des intermédiaires.
 
 23° Les intérêts des sommes déposées sur un compte épargne d'assurance pour la
-forêt constitué dans les conditions prévues aux articles L. 261-1 à L. 261-7 du
+forêt constitué dans les conditions prévues aux articles L. 352-1 à L. 352-5 du
 code forestier. L'exonération s'applique dans la limite de la fraction des
 intérêts correspondant au taux de rémunération de 2 %.
 
 L'exonération mentionnée au précédent alinéa est remise en cause au titre de
 l'année de survenance de l'un des cas mentionnés aux 1° et 2° de l'article L.
-261-6 du même code.
+352-5 du même code.
 
 A compter de la cession partielle de la surface de bois et forêts assurée dans
-les conditions définies au 3° du I de l'article L. 261-1 du même code, la
-fraction des intérêts exonérés est celle afférente au plafond de versements
-recalculé après la cession dans les conditions mentionnées au I de l'article L.
-261-2 du même code.
+les conditions définies au 3° de l'article L. 352-1 du même code, la fraction
+des intérêts exonérés est celle afférente au plafond de versements recalculé
+après la cession dans les conditions mentionnées au premier alinéa de l'article
+L. 352-2 du même code.

@@ -26,7 +26,7 @@ fiscal désignés aux 1 et 3 de l'article 6 possèdent en tant qu'associés ou
 membres de sociétés ou groupements soumis au régime fiscal des sociétés de
 personnes mentionné à l'article 8.
 
-5.1. Pour l'application du 3 et par dérogation aux dispositions du présent code
+5.1°. Pour l'application du 3 et par dérogation aux dispositions du présent code
 relatives à l'imposition des plus-values, le produit résultant de la première
 cession à titre onéreux d'un même usufruit temporaire ou, si elle est
 supérieure, la valeur vénale de cet usufruit temporaire est imposable au nom du
@@ -43,9 +43,9 @@ rapport entre, d'une part, la valeur vénale des biens ou droits dont les revenu
 se rattachent à la même catégorie et, d'autre part, la valeur vénale totale des
 biens ou droits sur lesquels porte l'usufruit temporaire cédé.
 
-2. Pour l'application du 1 du présent 5 et à défaut de pouvoir déterminer, au
-jour de la cession, une catégorie de revenus, le produit résultant de la cession
-de l'usufruit temporaire, ou le cas échéant sa valeur vénale, est imposé :
+2°. Pour l'application du 1° et à défaut de pouvoir déterminer, au jour de la
+cession, une catégorie de revenus, le produit résultant de la cession de
+l'usufruit temporaire, ou le cas échéant sa valeur vénale, est imposé :
 
 a) Dans la catégorie des revenus fonciers, sans qu'il puisse être fait
 application du II de l'article 15, lorsque l'usufruit temporaire cédé est

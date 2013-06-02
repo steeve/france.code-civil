@@ -44,8 +44,8 @@ b bis. Les spectacles suivants :
 foires, salons, expositions autorisés ;
 
 jeux et manèges forains à l'exception des appareils automatiques autres que ceux
-qui sont assimilés à des loteries foraines en application de l'article 7 de la
-loi du 21 mai 1836 portant prohibition des loteries ;
+qui sont assimilés à des loteries foraines en application de l'article L. 322-5
+du code de la sécurité intérieure ;
 
 b bis a. (Abrogé).
 

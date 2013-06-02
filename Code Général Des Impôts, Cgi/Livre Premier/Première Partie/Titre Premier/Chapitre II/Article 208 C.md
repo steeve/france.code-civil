@@ -2,14 +2,14 @@ Article 208 C
 ----
 I.-Les sociétés d'investissements immobiliers cotées s'entendent des sociétés
 par actions cotées sur un marché réglementé respectant les prescriptions de la
-directive 2004 / 39 / CE du Parlement européen et du Conseil du 21 avril 2004
-concernant les marchés d'instruments financiers, modifiant les directives 85 /
-611 / CEE et 93 / 6 / CEE du Conseil et la directive 2000 / 12 / CE du Parlement
-européen et du Conseil et abrogeant la directive 93 / 22 / CEE du Conseil, dont
-le capital social n'est pas inférieur à 15 millions d'euros, qui ont pour objet
+directive 2004/39/ CE du Parlement européen et du Conseil du 21 avril 2004
+concernant les marchés d'instruments financiers, modifiant les directives
+85/611/ CEE et 93/6/ CEE du Conseil et la directive 2000/12/ CE du Parlement
+européen et du Conseil et abrogeant la directive 93/22/ CEE du Conseil, dont le
+capital social n'est pas inférieur à 15 millions d'euros, qui ont pour objet
 principal l'acquisition ou la construction d'immeubles en vue de la location, ou
 la détention directe ou indirecte de participations dans des personnes visées à
-l'article 8 et aux 1, 2 et 3 de l'article 206 dont l'objet social est identique.
+l'article 8 et aux 1,2 et 3 de l'article 206 dont l'objet social est identique.
 
 Le capital ou les droits de vote des sociétés visées au premier alinéa ne
 doivent pas être détenus, directement ou indirectement, à hauteur de 60 % ou
@@ -55,17 +55,7 @@ Les bénéfices exonérés provenant des opérations de location des immeubles e
 la sous-location des immeubles pris en crédit-bail ou dont la jouissance a été
 conférée à titre temporaire par l'Etat, une collectivité territoriale ou un de
 leurs établissements publics sont obligatoirement distribués à hauteur de 85 %
-avant la fin de l'exercice qui suit celui de leur réalisation. Par exception,
-les bénéfices exonérés provenant des opérations de location des biens
-immobiliers acquis dans les conditions prévues à l'article 151 septies C sont
-obligatoirement distribués à hauteur de 50 % avant la fin de l'exercice qui suit
-celui de leur réalisation, à la condition que les biens immobiliers ainsi acquis
-soient mis à la disposition de l'exploitation du cédant par la société
-cessionnaire ou par la société dont les droits ou parts ont été cédés pendant au
-moins neuf ans à compter de leur date d'acquisition et que, dans la situation
-visée au 1° du III dudit article 151 septies C, ces biens continuent d'être
-exploités par une personne répondant aux conditions visées au 2° du I de ce même
-article pour la durée restant à courir.
+avant la fin de l'exercice qui suit celui de leur réalisation.
 
 Les bénéfices exonérés provenant de la cession des immeubles, de droits réels
 énumérés au sixième alinéa, des droits afférents à un contrat de crédit-bail
@@ -120,7 +110,7 @@ capital de cette société et que les produits perçus par cet associé ne sont 
 soumis à l'impôt sur les sociétés ou à un impôt équivalent, la société
 distributrice doit acquitter un prélèvement égal à 20 % du montant des sommes,
 avant imputation éventuelle du prélèvement, distribuées à cet associé et
-prélevées sur des produits exonérés en application du II.L'assiette du
+prélevées sur des produits exonérés en application du II. L'assiette du
 prélèvement est diminuée des sommes distribuées provenant des produits reçus
 ayant déjà supporté ce prélèvement.
 

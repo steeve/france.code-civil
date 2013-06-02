@@ -2,10 +2,9 @@ Article 41-00 A
 ----
 Les personnes morales ou groupements de droit ou de fait, dont le chiffre
 d'affaires hors taxes ou le total de l'actif brut figurant au bilan est
-supérieur ou égal à 400 millions d'euros à la clôture de l'exercice ainsi que
-les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies du code
-général des impôts, sont tenues de joindre à la déclaration prévue aux articles
-172, 172 bis ou 223 du code précité :
+supérieur ou égal à 400 millions d'euros à la clôture de l'exercice sont tenues
+de joindre à la déclaration prévue aux articles 172,172 bis ou 223 du code
+précité :
 
 1° La liste des personnes ou groupements de personnes de droit ou de fait
 détenant au moins 10 % de leur capital, en précisant, pour chacune d'entre
@@ -31,9 +30,4 @@ interposés dans la chaîne des participations, en indiquant leur dénomination,
 leur adresse, le taux de détention et, pour ceux établis en France, leur numéro
 d'identification au répertoire national des établissements (numéro SIRET) ;
 
-4° Pour les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies
-du code général des impôts, la liste des personnes morales ou groupements de
-personnes de droit ou de fait faisant partie du périmètre de consolidation, en
-indiquant leur dénomination, leur adresse, le taux de détention et, pour ceux
-établis en France, leur numéro d'identification au répertoire national des
-établissements (numéro SIRET).
+4° (Périmé).

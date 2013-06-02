@@ -5,11 +5,11 @@ Toutefois ne sont pas déductibles :
 1° Les dettes échues depuis plus de trois mois avant l'ouverture de la
 succession, à moins qu'il ne soit produit une attestation du créancier en
 certifiant l'existence à cette époque, dans la forme et suivant les règles
-déterminées à l'article L20 du livre des procédures fiscales ;
+déterminées à l'article L. 20 du livre des procédures fiscales ;
 
 2° Les dettes consenties par le défunt au profit de ses héritiers ou de
 personnes interposées. Sont réputées personnes interposées les personnes
-désignées dans les articles 911, dernier alinéa, et 1100 du code civil.
+désignées dans l'article 911, dernier alinéa, du code civil.
 
 Néanmoins, lorsque la dette a été consentie par un acte authentique ou par un
 acte sous-seing privé ayant date certaine avant l'ouverture de la succession
@@ -22,7 +22,7 @@ la succession ;
 
 4° Les dettes hypothécaires garanties par une inscription périmée depuis plus de
 trois mois, à moins qu'il ne s'agisse d'une dette non échue et que l'existence
-n'en soit attestée par le créancier dans les formes prévues à l'article L20 du
+n'en soit attestée par le créancier dans les formes prévues à l'article L. 20 du
 livre des procédures fiscales ; si l'inscription n'est pas périmée, mais si le
 chiffre en a été réduit, l'excédent est seul déduit, s'il y a lieu ;
 

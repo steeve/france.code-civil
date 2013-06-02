@@ -1,6 +1,6 @@
 Article 1638-0 bis
 ----
-I .- En cas de fusion d'établissements publics de coopération intercommunale à
+I.-En cas de fusion d'établissements publics de coopération intercommunale à
 fiscalité propre additionnelle, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
@@ -71,7 +71,7 @@ fixés en application du I de l'article 1636 B sexies s'il relève du régime de
 fiscalité additionnelle et en application de l'article 1636 B decies s'il relève
 du régime prévu à l'article 1609 nonies C.
 
-II. - En cas de fusion d'établissements publics de coopération intercommunale
+II.-En cas de fusion d'établissements publics de coopération intercommunale
 soumis à l'article 1609 quinquies C, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
@@ -134,7 +134,7 @@ l'établissement public de coopération intercommunale relève du régime prévu
 l'article 1609 nonies C, le taux de la cotisation foncière des entreprises est
 fixé en application des articles 1636 B decies et 1609 nonies C.
 
-III. - En cas de fusion d'établissements publics de coopération intercommunale
+III.-En cas de fusion d'établissements publics de coopération intercommunale
 soumis à l'article 1609 nonies C, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
@@ -217,21 +217,20 @@ publics de coopération intercommunale préexistants.
 A compter de la deuxième année suivant celle de la fusion, les taux de
 cotisation foncière des entreprises, de la taxe d'habitation et des taxes
 foncières de l'établissement public de coopération intercommunale sont fixés
-conformément aux articles 1636 B sexies, à l'exclusion du a du 1 du I, 1636 B
-decies et 1609 nonies C.
+conformément à l'article 1636 B sexies, à l'exclusion du a du 1 du I, et aux
+articles 1636 B decies et 1609 nonies C.
 
-IV. - Le taux de taxe d'habitation des communes membres en 2011 d'un
-établissement public de coopération intercommunale à fiscalité propre
-additionnelle faisant ou non application de l'article 1609 quinquies C ou d'un
-établissement public sans fiscalité propre qui fusionne avec un établissement
-public de coopération intercommunale qui faisait application en 2011 de
-l'article 1609 nonies C est réduit l'année suivant celle de la fusion de la
-différence entre, d'une part, le taux de référence de taxe d'habitation calculé
-pour la commune conformément à l'article 1640 C et, d'autre part, le taux
-communal de taxe d'habitation applicable en 2010 dans la commune.
+IV.-Le taux de taxe d'habitation des communes membres en 2011 d'un établissement
+public de coopération intercommunale à fiscalité propre additionnelle faisant ou
+non application de l'article 1609 quinquies C ou d'un établissement public sans
+fiscalité propre qui fusionne avec un établissement public de coopération
+intercommunale qui faisait application en 2011 de l'article 1609 nonies C est
+réduit l'année suivant celle de la fusion de la différence entre, d'une part, le
+taux de référence de taxe d'habitation calculé pour la commune conformément à
+l'article 1640 C et, d'autre part, le taux communal de taxe d'habitation
+applicable en 2010 dans la commune.
 
-La réduction du taux de taxe d'habitation prévue au premier alinéa du présent IV
-s'applique également aux communes membres d'un établissement public de
-coopération intercommunale soumis au 1er janvier 2011 à la fiscalité propre
-additionnelle et qui applique, l'année précédant la fusion, l'article 1609
-nonies C.
+La réduction du taux de taxe d'habitation prévue au premier alinéa s'applique
+également aux communes membres d'un établissement public de coopération
+intercommunale soumis au 1er janvier 2011 à la fiscalité propre additionnelle et
+qui applique, l'année précédant la fusion, l'article 1609 nonies C.

@@ -18,8 +18,8 @@ La demande de certificat comporte :
 de leurs contenances, des numéros des sections et lieux-dits ;
 
 3° L'engagement de gestion conforme aux objectifs de conservation de l'espace
-naturel délimité en application de l'article L. 331-2, L. 332-2 ou L. 414-1 du
-code de l'environnement ;
+naturel délimité en application des articles L. 331-2, L. 332-2 à L. 332-2-2 ou
+L. 414-1 du code de l'environnement ;
 
 4° L'engagement de ne pas modifier l'affectation du sol des parcelles situées
 dans un site classé en application de l'article L. 341-2 du même code, sauf
@@ -38,7 +38,7 @@ parcelles sont incluses dans un espace protégé mentionné au b du 7° du 2 de
 l'article 793 du code général des impôts ;
 
 2° Un plan de situation des propriétés du demandeur, extrait d'une carte de
-situation à l'échelle de 1 / 25 000 ;
+situation à l'échelle de 1/25 000 ;
 
 3° La ou les feuilles du plan cadastral comportant les limites et l'indication
 des références des parcelles cadastrales et un extrait daté et certifié de
@@ -59,13 +59,14 @@ en application de l'article L. 332-2 du même code ;
 6° L'avis du président du conseil régional sur la conformité de l'engagement de
 gestion avec les objectifs figurant dans le plan de gestion de la réserve
 naturelle, lorsque les propriétés concernées sont situées dans une réserve
-naturelle régionale classée en application de l'article L. 332-2 du même code ;
+naturelle régionale classée en application de l'article L. 332-2-1 du même code
+;
 
 7° L'avis du président du conseil exécutif de Corse sur la conformité de
 l'engagement de gestion avec les objectifs figurant dans le plan de gestion de
 la réserve naturelle, lorsque les propriétés concernées sont situées dans une
-réserve naturelle de Corse classée en application de l'article L. 332-2 du même
-code ;
+réserve naturelle de Corse classée en application de l'article L. 332-2-2 du
+même code ;
 
 8° Une copie du formulaire d'adhésion à la charte Natura 2000 signé, mentionné à
 l'article R. 414-12 du même code, lorsque les propriétés concernées sont situées
@@ -76,8 +77,8 @@ application de l'article L. 414-1 du même code et d'une autre législation,
 l'engagement est pris au titre du site Natura 2000.
 
 Lorsque les parcelles non boisées concernées par la demande sont classées en
-application des articles L. 331-2 ou L. 332-2 du même code, en même temps qu'au
-titre d'une autre législation, à l'exclusion d'une désignation en application de
-l'article L. 414-1 du même code, l'engagement est pris dans le cadre des
-objectifs et mesures de gestion du cœur du parc national ou de la réserve
-naturelle.
+application des articles L. 331-2 ou L. 332-2 à L. 332-2-2 du même code, en même
+temps qu'au titre d'une autre législation, à l'exclusion d'une désignation en
+application de l'article L. 414-1 du même code, l'engagement est pris dans le
+cadre des objectifs et mesures de gestion du cœur du parc national ou de la
+réserve naturelle.

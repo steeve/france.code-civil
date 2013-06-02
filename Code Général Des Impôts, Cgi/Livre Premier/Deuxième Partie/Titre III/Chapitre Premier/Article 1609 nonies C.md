@@ -297,7 +297,7 @@ celle de la première application de ces dispositions.
 Cette attribution est recalculée dans les conditions prévues au IV lors de
 chaque nouveau transfert de charges. Elle ne peut être indexée.
 
-5° A.-Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à
+5° 1.-Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à
 l'article L. 5211-41-3 du code général des collectivités territoriales, un
 établissement public de coopération intercommunale fait application du régime
 prévu au présent article et des dispositions de l'article 1638-0 bis,
@@ -341,12 +341,12 @@ l'article L. 5211-5 du code général des collectivités territoriales, procéde
 avant le 31 décembre 2014, à la révision du montant de l'attribution de
 compensation.
 
-B.-Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion
+2.-Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion
 individuelle d'une commune ou d'une transformation dans les conditions prévues
 aux articles L. 5211-41-1 et L. 5214-26 du même code, un établissement public de
 coopération intercommunale est soumis au régime prévu au présent article et
-qu'il est fait application des dispositions de l'article 1638 quater du présent
-code, l'attribution de compensation versée ou perçue à compter de l'année où les
+qu'il est fait application des dispositions de l'article 1638 quater,
+l'attribution de compensation versée ou perçue à compter de l'année où les
 opérations précitées ont produit pour la première fois leurs effets au plan
 fiscal est égale à :
 
@@ -372,7 +372,7 @@ restitution de compétences, cette attribution de compensation est respectivemen
 diminuée ou majorée du montant net des charges transférées calculé dans les
 conditions définies au IV.
 
-C.-L'attribution de compensation versée chaque année aux communes membres qui
+3.-L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un syndicat d'agglomération nouvelle est égale
 à la dotation de coopération définie à l'article L. 5334-8 du code général des
 collectivités territoriales perçue l'année de la fusion.
@@ -383,7 +383,7 @@ de compensation est respectivement diminuée ou majorée du montant net des
 charges transférées calculé dans les conditions définies au IV du présent
 article.
 
-D.-L'attribution de compensation versée chaque année aux communes membres qui
+4.-L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un établissement public de coopération
 intercommunale sans fiscalité propre est calculée dans les conditions prévues au
 2° ;

@@ -331,7 +331,7 @@ l'installation ;
 
 6° Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou
 d'un équipement de chauffage ou de production d'eau chaude indépendant
-fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 31 %
+fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 26 %
 mentionné à la dernière ligne du tableau du d du 5, outre les mentions
 précitées, la mention de la reprise, par l'entreprise qui a réalisé les travaux,
 de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa

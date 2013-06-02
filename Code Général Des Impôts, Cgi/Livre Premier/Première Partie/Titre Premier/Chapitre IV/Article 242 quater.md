@@ -12,5 +12,4 @@ est inférieur aux montants mentionnés au troisième alinéa du 1 du I de l'art
 117 quater et au dernier alinéa du I de l'article 125 A.
 
 Les personnes qui assurent le paiement des revenus mentionnés au premier alinéa
-du présent article sont tenues de produire cette attestation sur demande de
-l'administration.
+sont tenues de produire cette attestation sur demande de l'administration.

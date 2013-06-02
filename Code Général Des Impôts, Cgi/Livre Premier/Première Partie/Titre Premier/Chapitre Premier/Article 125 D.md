@@ -19,10 +19,10 @@ au 1° du II de ce même article. A cet effet, la durée des bons ou contrats de
 capitalisation ainsi que des placements de même nature s'entend de leur durée
 effective de détention par le contribuable.
 
-Les revenus de source étrangère mentionnés au premier alinéa du présent II sont
-retenus pour leur montant brut. L'impôt retenu à la source est imputé sur le
-prélèvement dans la limite du crédit d'impôt auquel il ouvre droit, dans les
-conditions prévues par les conventions internationales.
+Les revenus de source étrangère mentionnés au premier alinéa sont retenus pour
+leur montant brut. L'impôt retenu à la source est imputé sur le prélèvement dans
+la limite du crédit d'impôt auquel il ouvre droit, dans les conditions prévues
+par les conventions internationales.
 
 III.-Sous réserve des dispositions prévues au troisième alinéa du II de
 l'article 125-0 A, le prélèvement mentionné au II du présent article libère les

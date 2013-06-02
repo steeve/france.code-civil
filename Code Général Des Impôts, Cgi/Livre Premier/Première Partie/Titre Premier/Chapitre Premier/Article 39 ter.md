@@ -32,10 +32,7 @@ même rythme que l'amortissement, une somme égale au montant de ces
 investissements. Lorsque la provision est employée sous une autre forme, la même
 réintégration est effectuée en une seule fois.
 
-3. Les entreprises soumises à l'un des régimes prévus à l'article 209 quinquies
-dotent et emploient leurs provisions pour reconstitution des gisements dans les
-conditions prévues aux 1 et 2 pour la détermination de leur résultat mondial ou
-consolidé.
+3. (périmé)
 
 4. La partie non encore libérée des provisions constituées au titre des
 exercices antérieurs au premier exercice clos à compter du 31 décembre 2000 doit

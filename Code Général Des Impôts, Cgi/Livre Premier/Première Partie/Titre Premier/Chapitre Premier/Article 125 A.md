@@ -1,6 +1,6 @@
 Article 125 A
 ----
-I. - Les personnes physiques fiscalement domiciliées en France au sens de
+I.-Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B qui bénéficient d'intérêts, arrérages et produits de toute nature
 de fonds d'Etat, obligations, titres participatifs, bons et autres titres de
 créances, dépôts, cautionnements et comptes courants, ainsi que d'intérêts
@@ -22,27 +22,27 @@ divorcés ou veufs et à 50 000 € pour les contribuables soumis à une imposit
 commune peuvent demander à être dispensées de ce prélèvement dans les conditions
 prévues à l'article 242 quater.
 
-I bis. - Les personnes physiques appartenant à un foyer fiscal dont le montant
-des revenus mentionnés au premier alinéa du I n'excède pas, au titre d'une
-année, 2 000 € peuvent opter pour leur assujettissement à l'impôt sur le revenu,
-à raison de ces mêmes revenus, à un taux forfaitaire de 24 %. L'option est
-exercée lors du dépôt de la déclaration d'ensemble des revenus perçus au titre
-de la même année.
+I bis.-Les personnes physiques appartenant à un foyer fiscal dont le montant des
+revenus mentionnés au premier alinéa du I n'excède pas, au titre d'une année, 2
+000 € peuvent opter pour leur assujettissement à l'impôt sur le revenu, à raison
+de ces mêmes revenus, à un taux forfaitaire de 24 %. L'option est exercée lors
+du dépôt de la déclaration d'ensemble des revenus perçus au titre de la même
+année.
 
-Les revenus mentionnés au premier alinéa du présent I bis de source étrangère
-sont retenus pour leur montant brut. L'impôt retenu à la source est imputé sur
-l'imposition à taux forfaitaire dans la limite du crédit d'impôt auquel il ouvre
-droit, dans les conditions prévues par les conventions internationales.
+Les revenus mentionnés au premier alinéa de source étrangère sont retenus pour
+leur montant brut. L'impôt retenu à la source est imputé sur l'imposition à taux
+forfaitaire dans la limite du crédit d'impôt auquel il ouvre droit, dans les
+conditions prévues par les conventions internationales.
 
-II. - Un prélèvement est obligatoirement applicable aux revenus des produits
+II.-Un prélèvement est obligatoirement applicable aux revenus des produits
 d'épargne donnés au profit d'un organisme mentionné au 1 de l'article 200 dans
 le cadre d'un mécanisme dit " solidaire " de versement automatique à l'organisme
 bénéficiaire par le gestionnaire du fonds d'épargne.
 
-Les revenus mentionnés au premier alinéa du présent II de source étrangère sont
-retenus pour leur montant brut. L'impôt retenu à la source est imputé sur le
-prélèvement dans la limite du crédit d'impôt auquel il ouvre droit, dans les
-conditions prévues par les conventions internationales.
+Les revenus mentionnés au premier alinéa de source étrangère sont retenus pour
+leur montant brut. L'impôt retenu à la source est imputé sur le prélèvement dans
+la limite du crédit d'impôt auquel il ouvre droit, dans les conditions prévues
+par les conventions internationales.
 
 II bis. (Abrogé)
 
@@ -55,7 +55,7 @@ autres que de permettre la localisation de ces revenus et produits dans un Etat
 ou territoire non coopératif.
 
 La retenue à la source opérée conformément au 1 de l'article 119 bis est, le cas
-échéant, imputée sur le prélèvement mentionné au premier alinéa du présent III.
+échéant, imputée sur le prélèvement mentionné au premier alinéa.
 
 III bis. Le taux du prélèvement est fixé :
 
@@ -114,7 +114,7 @@ prélèvement en application du II ;
 11° A 75 % pour les revenus et produits soumis obligatoirement au prélèvement en
 application du III.
 
-IV. - Le prélèvement prévu au I ne s'applique pas aux intérêts et autres revenus
+IV.-Le prélèvement prévu au I ne s'applique pas aux intérêts et autres revenus
 exonérés d'impôt sur le revenu en application de l'article 157.
 
 V. Le prélèvement prévu au I s'impute sur l'impôt sur le revenu dû au titre de

@@ -20,7 +20,4 @@ antérieurement;
 2° Qu'elle soit imputée sur les postes du passif correspondant le plus
 étroitement aux éléments transférés.
 
-II Le règlement des indemnités dues en application de l'article 4 de la loi n°
-75-622 du 11 juillet 1975 relative à la nationalisation de l'électricité dans
-les départements d'outre-mer ne donne lieu à aucune perception au profit du
-Trésor.
+II (Sans objet)

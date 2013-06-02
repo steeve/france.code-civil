@@ -15,8 +15,8 @@ l'amortissement du capital engagé pour l'acquisition des biens donnés à bail.
 
 Si l'option mentionnée au deuxième alinéa est exercée, elle s'applique à
 l'ensemble des biens affectés à des opérations de crédit-bail ou de location
-avec option d'achat. Toutefois, les sociétés mentionnées à l'article 30 de la
-loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
+avec option d'achat. Toutefois, les sociétés mentionnées au I de l'article 30 de
+la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
 l'utilisation de la chaleur pourront exercer cette option contrat par contrat.
 
 II.-1. En cas de location ou de mise à disposition sous toute autre forme de

@@ -12,7 +12,7 @@ II.-L'imposition forfaitaire est due chaque année par la personne qui dispose
 pour les besoins de son activité professionnelle des stations radioélectriques
 au 1er janvier de l'année d'imposition.
 
-III.-Le montant de l'imposition forfaitaire est fixé à 1 530 € par station
+III.-Le montant de l'imposition forfaitaire est fixé à 1 557 € par station
 radioélectrique dont le redevable dispose au 1er janvier de l'année
 d'imposition. Ce montant est réduit de moitié pour les nouvelles stations au
 titre des trois premières années d'imposition. Ce montant est réduit de moitié
@@ -25,7 +25,7 @@ d'une déclaration à l'Agence nationale des fréquences à compter du 1er janvi
 2010 et destinées à desservir les zones dans lesquelles il n'existe pas d'offre
 haut débit terrestre à cette date ne sont pas imposées.
 
-Le montant de l'imposition forfaitaire est fixé à 220 € par station relevant de
+Le montant de l'imposition forfaitaire est fixé à 224 € par station relevant de
 la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication
 dont le redevable dispose au 1er janvier de l'année d'imposition. Les personnes
 exploitant un service de radiodiffusion sonore qui ne constitue pas un réseau de

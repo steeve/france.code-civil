@@ -18,8 +18,8 @@ plus de trois mois avant le décès, l'acquisition de tout ou partie de la
 nue-propriété d'un bien, sous réserve de justifier de l'origine des deniers dans
 l'acte en constatant l'emploi.
 
-Sont réputées personnes interposées les personnes désignées dans les articles
-911, deuxième alinéa, et 1100 du code civil.
+Sont réputées personnes interposées les personnes désignées dans l'article 911,
+deuxième alinéa, du code civil.
 
 Toutefois, si la nue-propriété provient à l'héritier, au donataire, au légataire
 ou à la personne interposée d'une vente ou d'une donation à lui consentie par le

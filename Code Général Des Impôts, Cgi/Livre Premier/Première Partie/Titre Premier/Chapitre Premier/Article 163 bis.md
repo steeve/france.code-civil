@@ -1,15 +1,6 @@
 Article 163 bis
 ----
-I.-Pour l'établissement de l'impôt sur le revenu, le capital mentionné au
-quatrième alinéa du I de l'article L. 144-2 du code des assurances et versé à
-compter de la date de liquidation de la pension de l'adhérent dans un régime
-obligatoire d'assurance vieillesse ou à l'âge fixé en application de l'article
-L. 351-1 du code de la sécurité sociale peut, sur demande expresse et
-irrévocable de son bénéficiaire, être réparti par parts égales sur l'année au
-cours de laquelle le contribuable en a disposé et les quatre années suivantes.
-
-L'exercice de cette option est incompatible avec celui de l'option prévue au I
-de l'article 163-0 A.
+I. (Périmé)
 
 II.-Les prestations de retraite versées sous forme de capital imposables
 conformément au b quinquies du 5 de l'article 158 peuvent, sur demande expresse

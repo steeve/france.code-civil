@@ -213,9 +213,8 @@ son actif au capital de jeunes entreprises innovantes définies à l'article 44
 sexies-0 A, ce quota doit être atteint à hauteur de 50 % au moins au plus tard
 douze mois à compter de la date de clôture de la période de souscription fixée
 dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à
-compter de la date de constitution du fonds, ou huit mois après la promulgation
-de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de
-100 % au plus tard le dernier jour du douzième mois suivant.
+compter de la date de constitution du fonds, et à hauteur de 100 % au plus tard
+le dernier jour du douzième mois suivant.
 
 Les versements servant de base au calcul de l'avantage fiscal sont retenus après
 imputation des droits ou frais d'entrée et à proportion du quota
@@ -226,7 +225,7 @@ et indirects, qu'ils supportent et dans lesquelles ces frais sont encadrés.
 
 2. L'avantage fiscal prévu au 1 ne peut être supérieur à 18 000 € par an. Le
 redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus
-aux 1, 2 et 3 du I au titre de la même année, sous réserve que le montant imputé
+aux 1,2 et 3 du I au titre de la même année, sous réserve que le montant imputé
 sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas
 45 000 €.
 

@@ -1,6 +1,6 @@
 Article 111-0 D
 ----
-I. - La dispense de caution prévue au premier alinéa du V de l'article 302 G du
+I. - La dispense de caution prévue au deuxième alinéa du V de l'article 302 G du
 code général des impôts s'applique aux producteurs de vin qui, cumulativement,
 et en moyenne calculée sur une période de trois ans, produisent moins de 1 000
 hectolitres de vin par an et expédient en régime de suspension de droits moins
@@ -27,5 +27,5 @@ garantissant le paiement des droits dus, conformément aux dispositions du
 premier alinéa du V de l'article 302 G du code général des impôts.
 
 L'inobservation par les producteurs de vin concernés des dispositions du premier
-alinéa est passible du retrait de l'agrément prévu au deuxième alinéa du V de
+alinéa est passible du retrait de l'agrément prévu au sixième alinéa du V de
 l'article 302 G.

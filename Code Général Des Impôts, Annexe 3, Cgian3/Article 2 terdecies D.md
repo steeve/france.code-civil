@@ -1,6 +1,6 @@
 Article 2 terdecies D
 ----
-I. ― Pour l'application du premier alinéa du III de l'article 19 novovicies du
+I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du
 code général des impôts :
 
 1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont
@@ -12,7 +12,7 @@ alinéa du a de l'article 2 duodecies.
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un
 coefficient multiplicateur calculé selon la formule suivante :
 
-0,7 + 19/S,
+0,7 + 19/ S,
 
 dans laquelle S est la surface du logement. Le coefficient ainsi obtenu est
 arrondi à la deuxième décimale la plus proche et ne peut excéder 1,2.

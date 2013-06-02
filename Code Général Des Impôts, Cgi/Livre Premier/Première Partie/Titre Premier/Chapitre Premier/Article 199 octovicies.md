@@ -4,13 +4,13 @@ I.-Les contribuables domiciliés en France au sens de l'article 4 B bénéficien
 d'une réduction d'impôt sur le revenu à raison des dépenses, autres que les
 intérêts d'emprunt, qu'ils supportent, entre le 1er janvier 2010 et le 31
 décembre 2013, en vue du maintien et de la protection du patrimoine naturel et
-effectuées sur des espaces naturels mentionnés aux articles L. 331-2, L. 332-2,
-L. 341-2, L. 411-1, L. 411-2 ou L. 414-1 du code de l'environnement ou des
-espaces mentionnés à l'article L. 146-6 du code de l'urbanisme, qui ont obtenu
-le label délivré par la Fondation du patrimoine en application de l'article L.
-143-2 du code du patrimoine. Ce label prévoit les conditions de l'accès au
-public des espaces concernés, sauf exception justifiée par la fragilité du
-milieu naturel.
+effectuées sur des espaces naturels mentionnés aux articles L. 331-2, L. 332-2 à
+L. 332-2-2, L. 341-2, L. 411-1, L. 411-2 ou L. 414-1 du code de l'environnement
+ou des espaces mentionnés à l'article L. 146-6 du code de l'urbanisme, qui ont
+obtenu le label délivré par la Fondation du patrimoine en application de
+l'article L. 143-2 du code du patrimoine. Ce label prévoit les conditions de
+l'accès au public des espaces concernés, sauf exception justifiée par la
+fragilité du milieu naturel.
 
 La réduction d'impôt s'applique aux dépenses mentionnées au premier alinéa ayant
 reçu un avis favorable du service de l'Etat compétent en matière

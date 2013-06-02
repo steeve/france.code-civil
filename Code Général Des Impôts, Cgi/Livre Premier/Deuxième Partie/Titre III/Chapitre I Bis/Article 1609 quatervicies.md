@@ -123,7 +123,7 @@ au plus tard le dernier jour du mois qui suit le trimestre au titre duquel elle
 est établie. Lorsque le montant de la taxe déclarée au terme des quatre
 trimestres civils consécutifs de l'année dépasse le montant de 12 000 €,
 l'entreprise souscrit mensuellement ses déclarations dans les conditions fixées
-au treizième alinéa ; dans ce cas, l'obligation court à compter du premier mois
+au onzième alinéa ; dans ce cas, l'obligation court à compter du premier mois
 qui suit l'année de dépassement.
 
 Ces déclarations, mensuelles ou trimestrielles, accompagnées du paiement de la

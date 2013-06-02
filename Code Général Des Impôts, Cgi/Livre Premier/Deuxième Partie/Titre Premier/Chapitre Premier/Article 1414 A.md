@@ -6,17 +6,17 @@ l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à l
 habitation principale pour la fraction de leur cotisation qui excède 3,44 % de
 leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
 
-a. 5 113 € pour la première part de quotient familial, majoré de 1 478 € pour
-les quatre premières demi-parts et de 2 614 € pour chaque demi-part
+a. 5 215 € pour la première part de quotient familial, majoré de 1 508 € pour
+les quatre premières demi-parts et de 2 666 € pour chaque demi-part
 supplémentaire à compter de la cinquième, en France métropolitaine ;
 
-b. 6 137 € pour la première part de quotient familial, majoré de 1 478 € pour
-les deux premières demi-parts et de 2 614 € pour chaque demi-part supplémentaire
+b. 6 260 € pour la première part de quotient familial, majoré de 1 508 € pour
+les deux premières demi-parts et de 2 666 € pour chaque demi-part supplémentaire
 à compter de la troisième, dans les départements de la Martinique, de la
 Guadeloupe et de la Réunion ;
 
-c. 6 817 € pour la première part de quotient familial, majoré de 1 136 € pour
-les deux premières demi-parts et de 2 724 € pour chaque demi-part supplémentaire
+c. 6 953 € pour la première part de quotient familial, majoré de 1 159 € pour
+les deux premières demi-parts et de 2 778 € pour chaque demi-part supplémentaire
 à compter de la troisième, dans le département de la Guyane.
 
 Ces montants d'abattements sont, chaque année, indexés comme la limite
@@ -79,7 +79,7 @@ l'intégration fiscale progressive s'entend de celui défini la première année
 d'intégration, réduit chaque année d'un treizième de la différence mentionnée au
 deuxième alinéa du I de l'article 1638.
 
-La majoration prévue au premier alinéa du présent b bis s'applique lorsque :
+La majoration prévue au premier alinéa s'applique lorsque :
 
 1° La différence positive définie au même premier alinéa résulte de
 l'homogénéisation des abattements appliqués pour le calcul de la taxe

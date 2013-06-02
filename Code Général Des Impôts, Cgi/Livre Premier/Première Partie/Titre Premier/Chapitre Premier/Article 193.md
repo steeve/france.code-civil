@@ -15,8 +15,8 @@ L'impôt dû par le contribuable est calculé à partir de l'impôt brut diminu�
 s'il y a lieu, des réductions d'impôt prévues par les articles 199 quater B à
 200, et, le cas échéant, des retenues à la source, prélèvements et crédits
 d'impôts mentionnés à l'article 117 quater, au I de l'article 125 A, aux
-articles 182 A, 182 A bis, 182 A ter, 182 B, 199 ter, 199 ter A, au 4 de
-l'article 199 sexdecies et aux articles 200 quater à 200 quaterdecies.
+articles 182 A, 182 A bis, 182 A ter, 182 B, 199 ter, 199 ter A, 199 quater C,
+au 4 de l'article 199 sexdecies et aux articles 200 quater à 200 quaterdecies.
 
 Pour l'application du premier alinéa, le revenu imposable ainsi que les
 différents éléments ayant concouru à sa détermination, sont arrondis à l'euro le

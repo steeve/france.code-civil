@@ -17,12 +17,12 @@ date d'acquisition du ou des terrains concernés ;
 d. Pour l'application du d du 2 de l'article 199 decies H précité, la nature, le
 montant et la date de paiement des travaux forestiers réalisés ; le cas échéant,
 les contribuables joignent également le document du fournisseur des matériels
-forestiers de reproduction utilisés mentionné à l'article R. 552-22 du code
+forestiers de reproduction utilisés mentionné à l'article R. 153-16 du code
 forestier et une attestation sur l'honneur selon laquelle est respecté l'arrêté
 régional relatif aux matériels forestiers de reproduction éligibles aux aides de
 l'Etat à l'investissement forestier ainsi que, dans le cas où le contribuable
 est titulaire d'un compte d'épargne d'assurance pour la forêt prévu à l'article
-L. 261-1 du code forestier, une attestation sur l'honneur selon laquelle les
+L. 352-1 du code forestier, une attestation sur l'honneur selon laquelle les
 sommes dépensées pour la réalisation des travaux et pour lesquelles le bénéfice
 de la réduction d'impôt est demandé, ne proviennent pas de ce même compte ;
 
@@ -43,7 +43,7 @@ nature des risques couverts, le nombre d'hectares assurés contre le risque de
 tempête, le montant de la cotisation d'assurance versée pour couvrir notamment
 ce risque au titre de l'année civile ainsi que, dans le cas où le contribuable
 est titulaire d'un compte d'épargne d'assurance pour la forêt prévu à l'article
-L. 261-1 du code forestier, une attestation sur l'honneur selon laquelle les
+L. 352-1 du code forestier, une attestation sur l'honneur selon laquelle les
 sommes dépensées pour le paiement des cotisations relatives au contrat
 d'assurance précité et pour lesquelles le bénéfice de la réduction d'impôt est
 demandé, ne proviennent pas de ce même compte.

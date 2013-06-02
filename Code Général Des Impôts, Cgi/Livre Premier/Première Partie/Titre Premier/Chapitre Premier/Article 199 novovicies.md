@@ -58,9 +58,9 @@ foyer fiscal, un ascendant ou un descendant de l'un des associés.
 
 La location du logement consentie à un organisme public ou privé qui le donne en
 sous-location nue à usage d'habitation principale à une personne autre que l'une
-de celles mentionnées au premier alinéa du présent D ne fait pas obstacle au
-bénéfice de la réduction d'impôt à la condition que cet organisme ne fournisse
-aucune prestation hôtelière ou para-hôtelière.
+de celles mentionnées au premier alinéa ne fait pas obstacle au bénéfice de la
+réduction d'impôt à la condition que cet organisme ne fournisse aucune
+prestation hôtelière ou para-hôtelière.
 
 La réduction d'impôt n'est pas applicable aux logements dont le droit de
 propriété est démembré ou aux logements appartenant à une société non soumise à
@@ -69,15 +69,15 @@ dont le droit de propriété des parts est démembré.
 
 Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre
 des monuments historiques ou ayant fait l'objet d'un agrément ministériel ou
-ayant reçu le label délivré par la "Fondation du patrimoine”, mentionnés au
+ayant reçu le label délivré par la " Fondation du patrimoine ”, mentionnés au
 premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen
 d'un prêt mentionné à l'article R. 331-1 du code de la construction et de
 l'habitation.
 
 E. ― Un contribuable ne peut, pour un même logement, bénéficier à la fois du m
-du 1° du I de l'article 31 du présent code, de l'une des réductions d'impôt
-prévues aux articles 199 undecies A, 199 undecies C et 199 tervicies et de la
-réduction d'impôt prévue au présent article.
+du 1° du I de l'article 31, de l'une des réductions d'impôt prévues aux articles
+199 undecies A, 199 undecies C et 199 tervicies et de la réduction d'impôt
+prévue au présent article.
 
 F. ― Les dépenses de travaux retenues pour le calcul de la réduction d'impôt
 prévue au présent article ne peuvent faire l'objet d'une déduction pour la
@@ -94,10 +94,10 @@ locataire appréciées à la date de conclusion du bail ne doivent pas excéder 
 plafonds fixés par décret en fonction de la localisation du logement et de son
 type.
 
-Les plafonds de loyer mentionnés au premier alinéa du présent III peuvent être
-réduits, dans des conditions définies par décret, par le représentant de l'Etat
-dans la région après avis du comité régional de l'habitat mentionné à l'article
-L. 364-1 du code de la construction et de l'habitation, afin d'être adaptés aux
+Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dans
+des conditions définies par décret, par le représentant de l'Etat dans la région
+après avis du comité régional de l'habitat mentionné à l'article L. 364-1 du
+code de la construction et de l'habitation, afin d'être adaptés aux
 particularités des marchés locatifs locaux.
 
 IV. ― La réduction d'impôt s'applique exclusivement aux logements situés dans
@@ -107,18 +107,18 @@ important entre l'offre et la demande de logements entraînant des difficultés
 d'accès au logement sur le parc locatif existant.
 
 Dans les zones géographiques se caractérisant par un déséquilibre entre l'offre
-et la demande de logements, autres que celles mentionnées au premier alinéa du
-présent IV, la réduction d'impôt s'applique aux logements situés dans des
-communes caractérisées par des besoins particuliers en logement locatif qui ont
-fait l'objet, dans des conditions définies par décret, d'un agrément du
-représentant de l'Etat dans la région après avis du comité régional de l'habitat
-mentionné à l'article L. 364-1 du code de la construction et de l'habitation.
+et la demande de logements, autres que celles mentionnées au premier alinéa, la
+réduction d'impôt s'applique aux logements situés dans des communes
+caractérisées par des besoins particuliers en logement locatif qui ont fait
+l'objet, dans des conditions définies par décret, d'un agrément du représentant
+de l'Etat dans la région après avis du comité régional de l'habitat mentionné à
+l'article L. 364-1 du code de la construction et de l'habitation.
 
 Toutefois, pour les logements que le contribuable acquiert jusqu'au 30 juin 2013
 ou fait construire et qui font l'objet d'un dépôt de demande de permis de
 construire jusqu'à cette date, la réduction d'impôt s'applique également aux
 logements situés dans l'ensemble des communes classées dans les zones
-géographiques mentionnées au deuxième alinéa du présent IV.
+géographiques mentionnées au deuxième alinéa.
 
 V. ― A. ― La réduction d'impôt est calculée sur le prix de revient d'au plus
 deux logements, retenu dans la limite d'un plafond par mètre carré de surface
@@ -182,22 +182,22 @@ pourcentage, qui ne peut être inférieur à 20 %. Le respect de cette limite
 s'apprécie à la date de la signature de l'acte authentique d'acquisition du
 dernier logement acquis.
 
-Le droit mentionné au premier alinéa du présent IX prend la forme d'une mention
-figurant dans l'acte authentique d'acquisition des logements ouvrant droit à la
-réduction d'impôt mentionnée au présent article.
+Le droit mentionné au premier alinéa prend la forme d'une mention figurant dans
+l'acte authentique d'acquisition des logements ouvrant droit à la réduction
+d'impôt mentionnée au présent article.
 
-Le premier alinéa du présent IX ne s'applique pas aux immeubles dont l'ensemble
-des logements est acquis par une société civile de placement immobilier dans les
-conditions mentionnées au VIII.
+Le premier alinéa ne s'applique pas aux immeubles dont l'ensemble des logements
+est acquis par une société civile de placement immobilier dans les conditions
+mentionnées au VIII.
 
 La personne qui commercialise des logements situés dans un immeuble mentionné au
-premier alinéa du présent IX de telle sorte que la limite mentionnée à ce même
-alinéa n'est pas respectée est passible d'une amende maximale de 18 000 € par
-logement excédentaire. L'administration notifie à la personne qui commercialise
-un ou des logements au-delà de la limite mentionnée audit alinéa le montant de
-l'amende dont elle est passible et sollicite ses observations.
+premier alinéa de telle sorte que la limite mentionnée à ce même alinéa n'est
+pas respectée est passible d'une amende maximale de 18 000 € par logement
+excédentaire. L'administration notifie à la personne qui commercialise un ou des
+logements au-delà de la limite mentionnée audit alinéa le montant de l'amende
+dont elle est passible et sollicite ses observations.
 
-Le décret mentionné au même premier alinéa fixe les conditions et les modalités
+Le décret mentionné au premier alinéa fixe les conditions et les modalités
 d'application du présent IX et, notamment, les modalités de recouvrement de
 l'amende mentionnée à l'avant-dernier alinéa. Ces dispositions s'appliquent aux
 immeubles faisant l'objet d'un permis de construire accordé à compter de la

@@ -11,7 +11,7 @@ voirie dans les conditions prévues par le décret-loi du 26 mars 1852 relatif a
 rues de Paris ;
 
 2° Aux plans, procès-verbaux, certificats, jugements, contrats, quittances et
-autres actes faits en vertu de l'article 4 de la loi du 16 octobre 1919,
-relative à l'utilisation de l'énergie hydraulique ;
+autres actes faits en vertu des articles L. 521-8 et L. 521-10, L. 521-11 et L.
+521-12 du code de l'énergie ;
 
 3° (Abrogé).

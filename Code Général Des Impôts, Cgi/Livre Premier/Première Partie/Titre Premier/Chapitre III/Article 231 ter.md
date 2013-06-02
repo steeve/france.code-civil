@@ -105,7 +105,7 @@ ainsi que les associations ou organismes privés sans but lucratif à caractère
 sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent
 leur activité.
 
-b. (Abrogé) 2. Les tarifs au mètre carré sont fixés, pour l'année 2012,
+b. (Abrogé) 2. Les tarifs au mètre carré sont fixés, pour l'année 2013,
 conformément aux dispositions ci-dessous : a) Pour les locaux à usage de bureaux
 :
 
@@ -132,17 +132,17 @@ Tarif normal
 
 Tarif réduit
 
-16,71
+17,48
 
-8,28
+8,66
 
-9,91
+10,37
 
-5,92
+6,20
 
-4,74
+4,96
 
-4,29
+4,49
 
 b) Pour les locaux commerciaux :
 
@@ -154,11 +154,11 @@ b) Pour les locaux commerciaux :
 
 3e CIRCONSCRIPTION
 
-7,36
+7,70
 
-3,79
+3,96
 
-1,90
+1,99
 
 c) Pour les locaux de stockage :
 
@@ -170,11 +170,11 @@ c) Pour les locaux de stockage :
 
 3e CIRCONSCRIPTION
 
-3,79
+3,97
 
-1,90
+1,99
 
-0,95
+1,00
 
 d) Pour les surfaces de stationnement annexées aux catégories de locaux
 mentionnées aux a à c :
@@ -187,11 +187,11 @@ mentionnées aux a à c :
 
 3e CIRCONSCRIPTION
 
-2,21
+2,32
 
-1,27
+1,33
 
-0,64
+0,67
 
 e) Ces tarifs sont actualisés par arrêté du ministre chargé de l'économie au 1er
 janvier de chaque année en fonction du dernier indice du coût de la construction

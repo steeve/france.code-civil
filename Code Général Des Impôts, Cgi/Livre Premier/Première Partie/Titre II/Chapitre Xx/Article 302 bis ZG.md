@@ -13,11 +13,11 @@ intéressées pour les paris organisés dans les conditions fixées par l'articl
 de la loi du 2 juin 1891 précitée et par les personnes devant être soumises, en
 tant qu'opérateur de paris hippiques en ligne, à l'agrément mentionné à
 l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée. Le produit de ce
-prélèvement est affecté à concurrence de 15 % et dans la limite de 10 322 550 €
+prélèvement est affecté à concurrence de 15 % et dans la limite de 10 503 195 €
 aux établissements publics de coopération intercommunale sur le territoire
 desquels sont ouverts au public un ou plusieurs hippodromes, au prorata des
 enjeux des courses hippiques effectivement organisées par lesdits hippodromes,
-et dans la limite de 722 579 € par établissement public de coopération
+et dans la limite de 735 224 € par établissement public de coopération
 intercommunale. Les limites mentionnées dans la phrase précédente sont indexées,
 chaque année, sur la prévision de l'indice des prix à la consommation hors tabac
 retenue dans le projet de loi de finances de l'année.

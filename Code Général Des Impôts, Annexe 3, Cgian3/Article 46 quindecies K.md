@@ -1,6 +1,6 @@
 Article 46 quindecies K
 ----
-Pour bénéficier de l'avantage fiscal prévu aux articles 163 duovicies et 271
+Pour bénéficier de l'avantage fiscal prévu aux articles 163 duovicies et 217
 decies du code général des impôts, le souscripteur au capital agréé d'une
 société pour le financement de la pêche artisanale doit joindre à sa déclaration
 de revenus ou de résultats un relevé délivré par cette société et comprenant :

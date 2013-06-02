@@ -1,13 +1,13 @@
 Article 1388 ter
 ----
-I. - Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et
-de la Réunion et sauf délibération contraire des collectivités territoriales ou
-des groupements dotés d'une fiscalité propre, prise dans les conditions fixées à
+I.-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de
+la Réunion et sauf délibération contraire des collectivités territoriales ou des
+groupements dotés d'une fiscalité propre, prise dans les conditions fixées à
 l'article 1639 A bis, la base d'imposition à la taxe foncière sur les propriétés
 bâties des logements à usage locatif mentionnés à l'article L. 441-1 du code de
 la construction et de l'habitation, appartenant à des organismes ou à des
-sociétés d'économie mixte cités aux articles L. 411-2, L. 472-1-1 et L. 481-1-1
-du même code, fait l'objet d'un abattement de 30 % lorsque ces logements font
+sociétés d'économie mixte cités aux articles L. 411-2, L. 472-1-1 et L. 481-1 du
+même code, fait l'objet d'un abattement de 30 % lorsque ces logements font
 l'objet de travaux d'amélioration, avec le concours financier de l'Etat en
 application du 3° de l'article L. 301-2 du même code, ayant pour objet de les
 conforter vis-à-vis des risques naturels prévisibles énumérés au I de l'article
@@ -22,7 +22,7 @@ regard des dispositions du premier alinéa sont fixées par arrêté conjoint du
 ministre chargé de l'outre-mer, du ministre chargé du logement et du ministre
 chargé du budget.
 
-II. - Pour bénéficier de l'abattement prévu au I, les organismes ou sociétés
+II.-Pour bénéficier de l'abattement prévu au I, les organismes ou sociétés
 concernés doivent adresser au service des impôts du lieu de situation des biens,
 avant le 1er janvier de l'année suivant celle de l'achèvement des travaux, une
 déclaration conforme au modèle établi par l'administration comportant tous les

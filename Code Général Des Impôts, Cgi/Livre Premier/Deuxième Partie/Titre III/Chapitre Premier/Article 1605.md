@@ -21,8 +21,8 @@ personnes morales, à la condition de détenir au 1er janvier de l'année au cou
 de laquelle la contribution à l'audiovisuel public est due un appareil récepteur
 de télévision ou un dispositif assimilé dans un local situé en France.
 
-III. - Le montant de la contribution à l'audiovisuel public est de 129 € pour la
-France métropolitaine et de 83 € pour les départements d'outre-mer.
+III. - Le montant de la contribution à l'audiovisuel public est de 131 € pour la
+France métropolitaine et de 84 € pour les départements d'outre-mer.
 
 Ce montant est indexé chaque année sur l'indice des prix à la consommation hors
 tabac, tel qu'il est prévu dans le rapport économique, social et financier

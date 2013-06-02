@@ -1,15 +1,15 @@
 Article 1647 D
 ----
-I. - 1. Tous les redevables de la cotisation foncière des entreprises sont
+I.-1. Tous les redevables de la cotisation foncière des entreprises sont
 assujettis à une cotisation minimum établie au lieu de leur principal
 établissement ; cette cotisation est établie à partir d'une base dont le montant
-est fixé par le conseil municipal et doit être compris entre 206 € et 2 065 €
+est fixé par le conseil municipal et doit être compris entre 210 € et 2 101 €
 pour les contribuables dont le montant du chiffre d'affaires ou des recettes
 hors taxes au cours de la période de référence définie à l'article 1467 A est
-inférieur à 100 000 €, entre 206 € et 4 084 € pour les contribuables dont le
+inférieur à 100 000 €, entre 210 € et 4 084 € pour les contribuables dont le
 montant du chiffre d'affaires ou des recettes hors taxes au cours de la période
 de référence définie au même article 1467 A est compris entre 100 000 € et 250
-000 €, et, pour les autres contribuables, entre 206 € et 6 102 €. Lorsque la
+000 €, et, pour les autres contribuables, entre 210 € et 6 209 €. Lorsque la
 période de référence ne correspond pas à une période de douze mois, le montant
 des recettes ou du chiffre d'affaires est ramené ou porté, selon le cas, à douze
 mois. Les conseils municipaux ont la faculté de réduire ce montant, ou le
@@ -54,12 +54,12 @@ même date ainsi que pour les établissements publics soumis à l'un de ces rég
 pour la première fois à compter de cette date à la suite d'une création, d'une
 fusion ou d'un changement de régime fiscal :
 
-- l'année où, pour la première fois, cette opération produit ses effets au plan
+-l'année où, pour la première fois, cette opération produit ses effets au plan
 fiscal : au montant applicable l'année précédente sur le territoire de chacune
 des communes ou de chacun des établissements publics de coopération
 intercommunale concernés ;
 
-- les années suivantes : à la moyenne des bases minimum applicables sur leur
+-les années suivantes : à la moyenne des bases minimum applicables sur leur
 territoire la première année pondérée par le nombre de redevables soumis à la
 cotisation minimum au titre de la même année.
 
@@ -96,8 +96,8 @@ laquelle l'opération a pour la première fois produit ses effets au plan fiscal
 et, d'autre part, celle qu'il a fixée sont réduits par fractions égales sur la
 durée qu'il a retenue.
 
-Le dispositif de convergence défini aux deuxième et troisième alinéas du présent
-3 n'est pas applicable lorsque le rapport entre la base minimum la plus faible
+Le dispositif de convergence défini aux deuxième et troisième alinéas du 3 n'est
+pas applicable lorsque le rapport entre la base minimum la plus faible
 applicable sur le territoire de l'établissement public de coopération
 intercommunale et celle qu'il a fixée est supérieur à 80 %. Ce rapport
 s'apprécie séparément pour chacune des trois premières catégories de redevables
@@ -108,7 +108,7 @@ création d'une commune nouvelle et en cas de rattachement d'une commune à un
 établissement public de coopération intercommunale faisant application du régime
 prévu à l'article 1609 nonies C ou du I de l'article 1609 quinquies C.
 
-II. - Quand ils ne disposent d'aucun local ou terrain :
+II.-Quand ils ne disposent d'aucun local ou terrain :
 
 1. Les redevables domiciliés en application d'un contrat de domiciliation
 commerciale ou d'une autre disposition contractuelle sont redevables de la

@@ -1,6 +1,6 @@
 Article 72 D bis
 ----
-I. - A. - Les exploitants agricoles soumis à un régime réel d'imposition peuvent
+I.-1.-Les exploitants agricoles soumis à un régime réel d'imposition peuvent
 pratiquer une déduction pour aléas dans les limites et conditions prévues à
 l'article 72 D ter.
 
@@ -25,7 +25,7 @@ d'affectation dans la limite du montant ayant été dispensé de l'inscription a
 compte d'affectation, déduction faite des montants exemptés de l'obligation
 d'inscription et utilisés de façon conforme.
 
-B. - Les sommes déduites et leurs intérêts capitalisés non soumis à l'impôt
+2.-Les sommes déduites et leurs intérêts capitalisés non soumis à l'impôt
 peuvent être utilisés au cours des sept exercices qui suivent celui au cours
 duquel la déduction a été pratiquée :
 
@@ -55,18 +55,17 @@ entre d'une part, la somme hors taxes, des ventes, des variations d'inventaire,
 de la production immobilisée et autoconsommée et des indemnités et subventions
 d'exploitation et, d'autre part, la somme hors taxes et sous déduction des
 transferts de charges d'exploitation affectés, du coût d'achat des marchandises
-vendues et de la consommation de l'exercice en provenance de tiers. C. ― Les
+vendues et de la consommation de l'exercice en provenance de tiers. 3.-Les
 sommes déduites et les intérêts ainsi utilisés sont rapportés au résultat de
-l'exercice au cours duquel leur utilisation est intervenue.
-
-Lorsque ces sommes et intérêts ne sont pas utilisés au cours des sept exercices
-qui suivent celui au titre duquel la déduction a été pratiquée, ils sont
-rapportés aux résultats du septième exercice suivant celui au titre duquel la
-déduction a été pratiquée et majorés d'un montant égal au produit de ces sommes
-et intérêts par le taux de l'intérêt de retard prévu à l'article 1727.
+l'exercice au cours duquel leur utilisation est intervenue. Lorsque ces sommes
+et intérêts ne sont pas utilisés au cours des sept exercices qui suivent celui
+au titre duquel la déduction a été pratiquée, ils sont rapportés aux résultats
+du septième exercice suivant celui au titre duquel la déduction a été pratiquée
+et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de
+l'intérêt de retard prévu à l'article 1727.
 
 Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux
-mentionnés au B du présent I, ils sont rapportés au résultat de l'exercice au
+mentionnés au 2 du présent I, ils sont rapportés au résultat de l'exercice au
 cours duquel cette utilisation a été effectuée et majorés d'un montant égal au
 produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu au
 même article 1727.

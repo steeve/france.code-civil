@@ -18,9 +18,7 @@ plus de la moitié du capital ou des droits de vote est détenue à la clôture 
 leur exercice, directement ou indirectement, par une personne ou un groupement
 mentionné au 1° ;
 
-4° Les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies du
-code général des impôts ainsi que toutes les personnes morales imposables en
-France faisant partie du périmètre de consolidation ;
+4° (Périmé) ;
 
 5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal
 prévu à l'article 223 A du code général des impôts lorsque celui-ci comprend au

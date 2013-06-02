@@ -6,7 +6,7 @@ de la procédure prévue à l'article L. 23 C du livre des procédures fiscales 
 réputés constituer, jusqu'à preuve contraire, un patrimoine acquis à titre
 gratuit assujetti, à la date d'expiration des délais prévus au même article L.
 23 C, aux droits de mutation à titre gratuit au taux le plus élevé mentionné au
-tableau III de l'article 777 du présent code.
+tableau III de l'article 777.
 
 Ces droits sont calculés sur la valeur la plus élevée connue de l'administration
 des avoirs figurant sur le compte ou le contrat d'assurance-vie au cours des dix

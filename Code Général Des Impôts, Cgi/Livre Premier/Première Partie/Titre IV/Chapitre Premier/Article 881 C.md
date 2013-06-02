@@ -10,16 +10,14 @@ de substitution et pour chaque mention de prorogation de délai ;
 
 2° Pour la publication de chaque commandement valant saisie immobilière ;
 
-3° Pour la mention de l'assignation et des dénonciations prévues à l'article 43
-du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie
-immobilière et de distribution du prix d'un immeuble ;
+3° Pour la mention de l'assignation et des dénonciations prévues à l'article R.
+322-9 du code des procédures civiles d'exécution ;
 
 4° Pour l'acte constatant le refus de publier un commandement valant saisie en
 cas de commandement publié ;
 
-5° Pour la mention prévue à l'article 22 du décret n° 2006-936 du 27 juillet
-2006 relatif aux procédures de saisie immobilière et de distribution du prix
-d'un immeuble ;
+5° Pour la mention prévue à l'article R. 321-10 du code des procédures civiles
+d'exécution ;
 
 6° Pour la radiation de la saisie ;
 

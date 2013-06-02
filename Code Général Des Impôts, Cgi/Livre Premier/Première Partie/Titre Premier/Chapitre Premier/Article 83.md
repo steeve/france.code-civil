@@ -160,7 +160,7 @@ La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
 ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 12 000 €
-pour l'imposition des rémunérations perçues en 2011 ; chaque année, le plafond
+pour l'imposition des rémunérations perçues en 2012 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
 l'impôt sur le revenu.
@@ -204,12 +204,12 @@ forfaitaire fixé par arrêté du ministre chargé du budget en fonction de la
 puissance administrative du véhicule, retenue dans la limite maximale de sept
 chevaux, et de la distance annuelle parcourue.
 
-Lorsque les bénéficiaires mentionnés au huitième alinéa du présent 3° ne font
-pas application dudit barème, les frais réels déductibles, autres que les frais
-de péage, de garage ou de parking et d'intérêts annuels afférents à l'achat à
-crédit du véhicule utilisé, ne peuvent excéder le montant qui serait admis en
-déduction en application du barème précité, à distance parcourue identique, pour
-un véhicule de la puissance administrative maximale retenue par le barème.
+Lorsque les bénéficiaires mentionnés au huitième alinéa ne font pas application
+dudit barème, les frais réels déductibles, autres que les frais de péage, de
+garage ou de parking et d'intérêts annuels afférents à l'achat à crédit du
+véhicule utilisé, ne peuvent excéder le montant qui serait admis en déduction en
+application du barème précité, à distance parcourue identique, pour un véhicule
+de la puissance administrative maximale retenue par le barème.
 
 Les frais, droits et intérêts d'emprunt versés pour acquérir ou souscrire des
 parts ou des actions d'une société ayant une activité industrielle, commerciale,

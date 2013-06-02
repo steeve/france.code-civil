@@ -16,90 +16,90 @@ françaises.
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la
 côte est utilisée.
 
-II. 1° A compter du 1er janvier 2002, les tarifs de la redevance communale des
+II. 1° A compter du 1er janvier 2012, les tarifs de la redevance communale des
 mines sont fixés à :
 
 -125,7 € par kilogramme d'or contenu pour les minerais aurifères ;
 
--172 € par quintal d'uranium contenu pour les minerais d'uranium ;
+-244,80 € par quintal d'uranium contenu pour les minerais d'uranium ;
 
--78,9 € par tonne d'oxyde de tungstène (WO3) contenu pour les minerais de
+-112,40 € par tonne d'oxyde de tungstène (WO3) contenu pour les minerais de
 tungstène ;
 
--143 € par quintal d'argent contenu pour les minerais argentifères ;
+-204,30 € par quintal d'argent contenu pour les minerais argentifères ;
 
--338 € par millier de tonnes nettes livrées pour la bauxite ;
+-481,20 € par millier de tonnes nettes livrées pour la bauxite ;
 
--440 € par millier de tonnes nettes livrées pour la fluorine ;
+-625,60 € par millier de tonnes nettes livrées pour la fluorine ;
 
 -pour le chlorure de sodium :
 
--419 € par millier de tonnes nettes livrées pour le sel extrait par abattage ;
+-595 € par millier de tonnes nettes livrées pour le sel extrait par abattage ;
 
--254 € par millier de tonnes nettes livrées pour le sel extrait en dissolution
-par sondage et livré raffiné ;
+-362,30 € par millier de tonnes nettes livrées pour le sel extrait en
+dissolution par sondage et livré raffiné ;
 
--85,1 € par millier de tonnes de chlorure de sodium contenu pour le sel extrait
+-121 € par millier de tonnes de chlorure de sodium contenu pour le sel extrait
 en dissolution par sondage et livré en dissolution ;
 
--135 € par centaine de tonnes nettes extraites pour le charbon ;
+-192,20 € par centaine de tonnes nettes extraites pour le charbon ;
 
--556 € par centaine de tonnes nettes extraites, pour les gisements de pétrole
+-792,10 € par centaine de tonnes nettes extraites, pour les gisements de pétrole
 brut mis en exploitation avant le 1er janvier 1992 ;
 
--5,05 € par tonne nette livrée pour le propane et le butane ;
+-7,10 € par tonne nette livrée pour le propane et le butane ;
 
--4,59 € par tonne nette livrée pour l'essence de dégazolinage ;
+-6,40 € par tonne nette livrée pour l'essence de dégazolinage ;
 
--1,45 € par tonne de soufre contenu pour les minerais de soufre autres que les
+-2,20 € par tonne de soufre contenu pour les minerais de soufre autres que les
 pyrites de fer ;
 
--518 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir
+-735,70 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir
 calorifique égal ou supérieur à 13 MJ/ kg ;
 
--126 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir
+-178,80 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir
 calorifique inférieur à 13 MJ/ kg ;
 
--189 € par 100 000 mètres cubes extraits à 1 bar et 15° C pour le gaz carbonique
-;
+-269,40 € par 100 000 mètres cubes extraits à 1 bar et 15° C pour le gaz
+carbonique ;
 
--871 € par millier de tonnes nettes livrées pour les calcaires et grès
+-1 236,60 € par millier de tonnes nettes livrées pour les calcaires et grès
 bitumineux ou asphaltiques (non destinés à la distillation pour production
 d'huiles ou d'essences) ;
 
--29,1 € par millier de tonnes nettes livrées pour les schistes carbobitumineux
+-41,20 € par millier de tonnes nettes livrées pour les schistes carbobitumineux
 et schistes bitumineux (à traiter par distillation pour en extraire des huiles
 et des essences) ;
 
--291 € par millier de tonnes nettes livrées pour la pyrite de fer ;
+-412,50 € par millier de tonnes nettes livrées pour la pyrite de fer ;
 
--200 € par millier de tonnes nettes livrées de minerais de fer ;
+-284,10 € par millier de tonnes nettes livrées de minerais de fer ;
 
--7,04 € par tonne d'antimoine contenu dans les minerais d'antimoine ;
+-9,90 € par tonne d'antimoine contenu dans les minerais d'antimoine ;
 
--365 € par centaine de tonnes de plomb contenu dans les minerais de plomb ;
+-519,10 € par centaine de tonnes de plomb contenu dans les minerais de plomb ;
 
--291 € par centaine de tonnes de zinc contenu dans les minerais de zinc ;
+-412,50 € par centaine de tonnes de zinc contenu dans les minerais de zinc ;
 
--70,4 € par tonne d'étain contenu dans les minerais d'étain ;
+-100,10 € par tonne d'étain contenu dans les minerais d'étain ;
 
--11,4 € par tonne de cuivre contenu dans les minerais de cuivre ;
+-16,20 € par tonne de cuivre contenu dans les minerais de cuivre ;
 
--389 € par millier de tonnes d'arsenic contenu dans les minerais d'arsenic ;
+-553,40 € par millier de tonnes d'arsenic contenu dans les minerais d'arsenic ;
 
--34 € par tonne de bismuth contenu dans les minerais de bismuth ;
+-48,40 € par tonne de bismuth contenu dans les minerais de bismuth ;
 
--216 € par centaine de tonnes de manganèse contenu dans les minerais de
+-307,30 € par centaine de tonnes de manganèse contenu dans les minerais de
 manganèse ;
 
--143 € par tonne de molybdène contenu dans les minerais de molybdène ;
+-204,30 € par tonne de molybdène contenu dans les minerais de molybdène ;
 
--29,1 € par tonne de Li2O contenu dans les minerais de lithium ;
+-41,20 € par tonne de Li2O contenu dans les minerais de lithium ;
 
--153 € par centaine de tonnes de K2O contenu dans les sels de potassium ;
+-216,80 € par centaine de tonnes de K2O contenu dans les sels de potassium ;
 
--186 € par 100 000 mètres cubes extraits, pour les gisements de gaz naturel mis
-en exploitation avant le 1er janvier 1992 ;
+-265,80 € par 100 000 mètres cubes extraits, pour les gisements de gaz naturel
+mis en exploitation avant le 1er janvier 1992 ;
 
 1° bis Pour les gisements en mer situés jusqu'à une limite de 1 mille marin
 au-delà des lignes de base définies à l'article 1er de la loi n° 71-1060 du 24
@@ -116,9 +116,9 @@ côte est utilisée ;
 1° ter Pour les gisements mis en exploitation à compter du 1er janvier 1992, les
 tarifs de la redevance communale des mines sont fixés à :
 
--59,6 € par 100 000 mètres cubes extraits pour les gisements de gaz naturel ;
+-70,40 € par 100 000 mètres cubes extraits pour les gisements de gaz naturel ;
 
--206 € par centaine de tonnes nettes extraites pour les gisements de pétrole
+-243,60 € par centaine de tonnes nettes extraites pour les gisements de pétrole
 brut ;
 
 1° quater (Dispositions abrogées à compter du 1er janvier 2002).
@@ -127,16 +127,16 @@ brut ;
 substances minérales concédées autres que celles mentionnées au 1° sont fixés,
 compte tenu de la valeur de la substance minérale concédée, par décret pris sur
 proposition du ministre de l'intérieur, du ministre chargé des mines et du
-ministre chargé du budget, après avis conforme du conseil général de
-l'industrie, de l'énergie et des technologies et du Conseil d'Etat. Ce décret
+ministre chargé du budget, après avis conforme du conseil général de l'économie,
+de l'industrie, de l'énergie et des technologies et du Conseil d'Etat. Ce décret
 peut être complété par l'addition des substances minérales concédées qui
 n'auraient pas été exploitées en France au 1er janvier 1954 ou qui viendraient à
 être ultérieurement placées dans la classe des mines par application des
 articlesL. 111-2 et L. 312-1 du code minier.
 
 III. Les modalités d'application des I et II sont fixées par décret en Conseil
-d'Etat rendu après avis du conseil général de l'industrie, de l'énergie et des
-technologies.
+d'Etat rendu après avis du conseil général de l'économie, de l'industrie, de
+l'énergie et des technologies.
 
 IV. Les tarifs prévus au 1° et 2° du II évoluent chaque année comme l'indice de
 valeur du produit intérieur brut total, tel qu'il est estimé dans la projection

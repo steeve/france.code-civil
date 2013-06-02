@@ -76,8 +76,7 @@ c) La société ne compte pas plus de cinquante associés ou actionnaires ;
 La condition prévue au premier alinéa du présent c ne s'applique pas si la
 société détient exclusivement des participations dans une société exerçant une
 des activités mentionnées au d du 2° dont le capital est détenu pour 10 % au
-moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions
-(1) ;
+moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -136,14 +135,13 @@ premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions
 titre des quatre années suivantes.
 
 La réduction de l'impôt dû procurée par le montant de la réduction d'impôt
-mentionnée au I du présent article qui excède le montant mentionné au premier
-alinéa du 1 de l'article 200-0 A peut être reportée sur l'impôt sur le revenu dû
-au titre des années suivantes jusqu'à la cinquième inclusivement. Pour la
-détermination de cet excédent au titre d'une année, il est tenu compte de la
-réduction d'impôt accordée au titre des versements réalisés au cours de l'année
-concernée et des versements en report mentionnés au deuxième alinéa du présent
-II ainsi que des reports de la réduction d'impôt constatés au titre d'années
-antérieures.
+mentionnée au I qui excède le montant mentionné au premier alinéa du 1 de
+l'article 200-0 A peut être reportée sur l'impôt sur le revenu dû au titre des
+années suivantes jusqu'à la cinquième inclusivement. Pour la détermination de
+cet excédent au titre d'une année, il est tenu compte de la réduction d'impôt
+accordée au titre des versements réalisés au cours de l'année concernée et des
+versements en report mentionnés au deuxième alinéa du présent II ainsi que des
+reports de la réduction d'impôt constatés au titre d'années antérieures.
 
 II bis. ― Abrogé.
 
@@ -286,11 +284,11 @@ Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédoni
 Polynésie française et dans les îles Wallis et Futuna peuvent bénéficier d'une
 réduction de leur impôt sur le revenu égale à 42 % des souscriptions en
 numéraire de parts de fonds d'investissement de proximité, mentionnés à
-l'article L. 214-31 du code monétaire et financier(3), dont l'actif est
-constitué pour 60 % au moins de titres financiers, parts de société à
-responsabilité limitée et avances en compte courant émises par des sociétés qui
-exercent leurs activités exclusivement dans des établissements situés dans les
-départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin,
+l'article L. 214-31 du code monétaire et financier , dont l'actif est constitué
+pour 60 % au moins de titres financiers, parts de société à responsabilité
+limitée et avances en compte courant émises par des sociétés qui exercent leurs
+activités exclusivement dans des établissements situés dans les départements
+d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin,
 Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans
 les îles Wallis et Futuna et dans les secteurs retenus pour l'application de la
 réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B.
@@ -332,7 +330,7 @@ conduite de la politique de leur groupe et au contrôle de leurs filiales et ren
 le cas échéant et à titre purement interne des services spécifiques,
 administratifs, juridiques, comptables, financiers et immobiliers.
 
-VI quinquies.- Le bénéfice des I et II, VI, VI bis et VI ter est subordonné au
+VI quinquies.-Le bénéfice des I et II, VI, VI bis et VI ter est subordonné au
 respect, selon le cas par les sociétés bénéficiaires des versements mentionnées
 au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L.
 214-30 du code monétaire et financier ou au I de l'article L. 214-31 du même

@@ -61,7 +61,7 @@ pour les affaires effectuées avec des non-sociétaires ;
 4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2
 du code de la construction et de l'habitation, à l'exception des sociétés
 anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article
-L. 481-1-1 du même code et les sociétés anonymes de coordination entre les
+L. 481-1 du même code et les sociétés anonymes de coordination entre les
 organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du
 même code pour :
 
@@ -207,8 +207,8 @@ déduction des ristournes.
 1 quater. Pour les sociétés coopératives et leurs unions autres que celles qui
 sont mentionnées au 4° du 1, l'exonération prévue au 1 n'est pas applicable
 lorsque les associés non coopérateurs et les titulaires de certificats
-coopératifs d'investissement détiennent plus de 50 p. 100 du capital et que
-leurs parts sociales peuvent donner lieu à rémunération.
+coopératifs d'investissement détiennent plus de 50% du capital et que leurs
+parts sociales peuvent donner lieu à rémunération.
 
 1 quinquies. Pour l'application des dispositions du 1 ter et du 1 quater, sont
 regardées comme associés non coopérateurs les personnes physiques ou morales qui

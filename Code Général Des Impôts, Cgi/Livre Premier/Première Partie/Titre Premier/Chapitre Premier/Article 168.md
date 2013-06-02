@@ -3,10 +3,9 @@ Article 168
 1. En cas de disproportion marquée entre le train de vie d'un contribuable et
 ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme
 forfaitaire déterminée en appliquant à certains éléments de ce train de vie le
-barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2,
-lorsque cette somme est supérieure ou égale à 44 772 € ; cette limite est
-relevée chaque année dans la même proportion que la limite supérieure de la
-première tranche du barème de l'impôt sur le revenu :
+barème ci-après, lorsque cette somme est supérieure ou égale à 44 772 € ; cette
+limite est relevée chaque année dans la même proportion que la limite supérieure
+de la première tranche du barème de l'impôt sur le revenu :
 
 
 ELEMENTS DU TRAIN DE VIE
@@ -25,11 +24,11 @@ Cinq fois la valeur locative cadastrale.
 
 3. Employés de maison, précepteurs, préceptrices, gouvernantes :
 
-- pour la première personne âgée de moins de 60 ans
+-pour la première personne âgée de moins de 60 ans
 
 4 600 €
 
-- pour chacune des autres personnes
+-pour chacune des autres personnes
 
 5 700 €
 
@@ -64,21 +63,21 @@ d'usage.
 6. Yachts ou bateaux de plaisance à voiles avec ou sans moteur auxiliaire
 jaugeant au moins 3 tonneaux de jauge internationale :
 
-- pour les trois premiers tonneaux
+-pour les trois premiers tonneaux
 
 1 140 €
 
-- pour chaque tonneau supplémentaire :
+-pour chaque tonneau supplémentaire :
 
-- de 4 à 10 tonneaux
+-de 4 à 10 tonneaux
 
 340 €
 
-- de 10 à 25 tonneaux
+-de 10 à 25 tonneaux
 
 460 €
 
-- au-dessus de 25 tonneaux
+-au-dessus de 25 tonneaux
 
 910 €
 
@@ -96,11 +95,11 @@ l'unité immédiatement inférieure.
 7. Bateaux de plaisance à moteur fixe ou hors-bord d'une puissance réelle d'au
 moins 20 CV :
 
-- pour les vingt premiers chevaux
+-pour les vingt premiers chevaux
 
 910 €
 
-- par cheval-vapeur supplémentaire
+-par cheval-vapeur supplémentaire
 
 69 €
 
@@ -119,11 +118,11 @@ administrative en vue de lutter contre la fraude et l'évasion fiscales.
 9. Chevaux de course âgés au moins de deux ans au sens de la réglementation
 concernant les courses :
 
-- par cheval de pur sang
+-par cheval de pur sang
 
 4 600 €
 
-- par cheval autre que de pur sang et par trotteur
+-par cheval autre que de pur sang et par trotteur
 
 2 700 €
 
@@ -156,10 +155,10 @@ du contribuable et, en cas d'absence de déclaration, ils sont comptés pour zé
 
 2 bis. La disproportion marquée entre le train de vie d'un contribuable et ses
 revenus est établie lorsque la somme forfaitaire qui résulte de l'application du
-barème et de la majoration prévus aux 1 et 2 excède d'au moins un tiers, pour
-l'année de l'imposition, le montant du revenu net global déclaré y compris les
-revenus exonérés ou taxés selon un taux proportionnel ou libérés de l'impôt par
-l'application d'un prélèvement.
+barème prévu au 1 excède d'au moins un tiers, pour l'année de l'imposition, le
+montant du revenu net global déclaré y compris les revenus exonérés ou taxés
+selon un taux proportionnel ou libérés de l'impôt par l'application d'un
+prélèvement.
 
 3. Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de
 son capital ou les emprunts qu'il a contractés lui ont permis d'assurer son

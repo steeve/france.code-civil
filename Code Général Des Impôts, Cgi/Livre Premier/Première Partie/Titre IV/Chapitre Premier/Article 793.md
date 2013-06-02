@@ -2,7 +2,7 @@ Article 793
 ----
 Sont exonérés des droits de mutation à titre gratuit :
 
-1. 1° (Périmé) ;
+1.1° (Périmé) ;
 
 2° (Abrogé) ;
 
@@ -16,7 +16,8 @@ territoires ou le directeur départemental des territoires et de la mer attestan
 que :
 
 les bois et forêts du groupement sont susceptibles de présenter une des
-garanties de gestion durable prévues à l'article L. 8 du code forestier ;
+garanties de gestion durable prévues aux articles L. 124-1 à L. 124-4 et à
+l'article L. 313-2 du code forestier ;
 
 les friches et landes appartenant au groupement sont susceptibles de reboisement
 et présentent une vocation forestière ;
@@ -87,7 +88,7 @@ L322-24 du code rural et de la pêche maritime ;
 dont la dévolution est régie par l'article L. 321-14 du code rural et de la
 pêche maritime ;
 
-2. 1° (Abrogé) ;
+2.1° (Abrogé) ;
 
 2° les successions et donations entre vifs, à concurrence des trois-quarts de
 leur montant, intéressant les propriétés en nature de bois et forêts, à la
@@ -97,13 +98,15 @@ a. que l'acte constatant la donation ou la déclaration de succession soit appuy
 d'un certificat délivré sans frais par le directeur départemental des
 territoires ou le directeur départemental des territoires et de la mer attestant
 que les bois et forêts sont susceptibles de présenter une des garanties de
-gestion durable prévues à l'article L. 8 du code forestier ;
+gestion durable prévues aux articles L. 124-1 à L. 124-4 et à l'article L. 313-2
+du code forestier ;
 
 b. qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
 pris pour lui et ses ayants cause :
 
 -soit d'appliquer pendant trente ans aux bois et forêts objets de la mutation
-l'une des garanties de gestion durable prévues à l'article L. 8 dudit code ;
+l'une des garanties de gestion durable prévues aux articles L. 124-1 à L. 124-4
+et à l'article L. 313-2 dudit code ;
 
 -soit lorsque, au moment de la mutation, aucune garantie de gestion durable
 n'est appliquée aux bois et forêts en cause, de présenter dans le délai de trois
@@ -127,7 +130,7 @@ de reconstituer les boisements après coupe rase en application des deuxième à
 neuvième alinéas de l'article L. 126-1 du code rural et de la pêche maritime ;
 
 3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à
-L. 416-6, L. 416-8 et L. 416-9 ainsi qu'aux articles L. 418-1 à L. 418-5 ducode
+L. 416-6, L. 416-8 et L. 416-9 ainsi qu'aux articles L. 418-1 à L. 418-5 du code
 rural et de la pêche maritime, à concurrence des trois quarts de leur valeur,
 sous réserve des dispositions de l'article 793 bis ;
 
@@ -211,9 +214,9 @@ transmission mentionnée au premier alinéa.
 7° Les successions et donations entre vifs, à concurrence des trois quarts de
 leur montant, intéressant les propriétés non bâties qui ne sont pas en nature de
 bois et forêts et qui sont incluses dans les espaces naturels délimités en
-application des articles L. 331-2, L. 332-2, L. 341-2 et L. 414-1 du code de
-l'environnement et de leurs textes d'application, ou délimités en application de
-l'article L. 146-6 du code de l'urbanisme, à la condition :
+application des articles L. 331-2, L. 332-2 à L. 332-2-2, L. 341-2 et L. 414-1
+du code de l'environnement et de leurs textes d'application, ou délimités en
+application de l'article L. 146-6 du code de l'urbanisme, à la condition :
 
 a) Que l'acte constatant la donation ou la déclaration de succession soit appuyé
 d'un certificat délivré sans frais par le directeur départemental des
@@ -230,15 +233,16 @@ Cette exonération n'est pas cumulable avec une autre exonération applicable en
 matière de droits de mutation à titre gratuit.
 
 En cas de transmission de propriétés non bâties, qui sont incluses dans les
-espaces naturels délimités en application des articles L. 331-2, L. 332-2, L.
-341-2 et L. 414-1 du code de l'environnement et de leurs textes d'application,
-ou délimités en application de l'article L. 146-6 du code de l'urbanisme, à
-l'Etat ou aux collectivités et organismes mentionnés à l'article 1042 du présent
-code, l'engagement est réputé définitivement satisfait à concurrence d'une
-fraction de la valeur des biens exonérée, celle-ci étant déterminée par le
-rapport entre la superficie des biens objets de la transmission et la superficie
-totale des biens sur lesquels l'engagement a été souscrit. La même règle
-s'applique aux mutations de jouissance ou de propriété au profit
-d'établissements ou de sociétés, en vue de la réalisation d'équipements,
-aménagements ou constructions d'intérêt public, qui pourraient donner lieu à
-l'établissement d'une servitude d'utilité publique au titre de ladite mutation.
+espaces naturels délimités en application des articles L. 331-2, L. 332-2 à L.
+332-2-2, L. 341-2 et L. 414-1 du code de l'environnement et de leurs textes
+d'application, ou délimités en application de l'article L. 146-6 du code de
+l'urbanisme, à l'Etat ou aux collectivités et organismes mentionnés à l'article
+1042 du présent code, l'engagement est réputé définitivement satisfait à
+concurrence d'une fraction de la valeur des biens exonérée, celle-ci étant
+déterminée par le rapport entre la superficie des biens objets de la
+transmission et la superficie totale des biens sur lesquels l'engagement a été
+souscrit. La même règle s'applique aux mutations de jouissance ou de propriété
+au profit d'établissements ou de sociétés, en vue de la réalisation
+d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
+donner lieu à l'établissement d'une servitude d'utilité publique au titre de
+ladite mutation.

@@ -11,8 +11,8 @@ La preuve contraire ne peut résulter de la cession à titre onéreux consentie 
 l'un des héritiers présomptifs ou descendants d'eux, même exclu par testament,
 ou à des donataires ou légataires institués, même par testament postérieur, ou à
 des personnes interposées, telles qu'elles sont désignées par le deuxième alinéa
-de l'article 911 et l'article 1100 du code civil, à moins que cette cession ait
-acquis date certaine avant l'ouverture de la succession.
+de l'article 911 du code civil, à moins que cette cession ait acquis date
+certaine avant l'ouverture de la succession.
 
 La présomption du premier alinéa n'est pas appliquée aux biens ayant fait
 l'objet d'une libéralité graduelle ou résiduelle, telle que visée aux articles

@@ -1,7 +1,7 @@
 Article 1635 bis AA
 ----
 Il est perçu au profit du fonds de garantie des calamités agricoles dans les
-départements d'outre-mer institué par l'article L362-1 du code rural et de la
+départements d'outre-mer institué par l'article L. 371-6 du code rural et de la
 pêche maritime, une contribution additionnelle aux primes ou cotisations
 d'assurance afférentes aux conventions d'assurance couvrant à titre exclusif ou
 principal les dommages aux sols, récoltes, cultures, bâtiments, et au cheptel

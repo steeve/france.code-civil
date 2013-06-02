@@ -1,23 +1,22 @@
 Article 1519 D
 ----
-I. - L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
+I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
 aux installations terrestres de production d'électricité utilisant l'énergie
 mécanique du vent et aux installations de production d'électricité utilisant
 l'énergie mécanique hydraulique des courants situées dans les eaux intérieures
-ou dans la mer territoriale, dont la puissance électrique installée au sens de
-la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
-développement du service public de l'électricité est supérieure ou égale à 100
+ou dans la mer territoriale, dont la puissance électrique installée au sens des
+articles L. 311-1 et suivants du code de l'énergie est supérieure ou égale à 100
 kilowatts.
 
-II. - L'imposition forfaitaire est due chaque année par l'exploitant de
+II.-L'imposition forfaitaire est due chaque année par l'exploitant de
 l'installation de production d'électricité au 1er janvier de l'année
 d'imposition.
 
-III. - Le tarif annuel de l'imposition forfaitaire est fixé à 7 € par kilowatt
+III.-Le tarif annuel de l'imposition forfaitaire est fixé à 7,12 € par kilowatt
 de puissance installée au 1er janvier de l'année d'imposition.
 
-IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré
-suivant le 1er mai de l'année d'imposition :
+IV.-Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant
+le 1er mai de l'année d'imposition :
 
 a) Le nombre d'installations de production d'électricité utilisant l'énergie
 mécanique du vent par commune et, pour chacune d'elles, la puissance installée ;

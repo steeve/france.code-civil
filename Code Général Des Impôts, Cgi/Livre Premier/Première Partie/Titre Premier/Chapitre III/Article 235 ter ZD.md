@@ -8,19 +8,18 @@ européen ou étranger, au sens des articles L. 421-4, L. 422-1 ou L. 423-1 dudi
 code, que son acquisition donne lieu à un transfert de propriété, au sens de
 l'article L. 211-17 du même code, et que ce titre est émis par une société dont
 le siège social est situé en France et dont la capitalisation boursière dépasse
-un milliard d'euros au 1er décembre de l'année précédant celle d'imposition (1).
-Un arrêté des ministres chargés de l'économie et du budget récapitule la liste
-des sociétés concernées.
+un milliard d'euros au 1er décembre de l'année précédant celle d'imposition. Un
+arrêté des ministres chargés de l'économie et du budget récapitule la liste des
+sociétés concernées.
 
-L'acquisition, au sens du premier alinéa du présent article, s'entend de
-l'achat, y compris dans le cadre de l'exercice d'une option ou dans le cadre
-d'un achat à terme ayant fait préalablement l'objet d'un contrat, de l'échange
-ou de l'attribution, en contrepartie d'apports, de titres de capital mentionnés
-au même premier alinéa.
+L'acquisition, au sens du premier alinéa, s'entend de l'achat, y compris dans le
+cadre de l'exercice d'une option ou dans le cadre d'un achat à terme ayant fait
+préalablement l'objet d'un contrat, de l'échange ou de l'attribution, en
+contrepartie d'apports, de titres de capital mentionnés au même premier alinéa.
 
 Les titres représentant ceux mentionnés audit premier alinéa émis par une
 société, quel que soit le lieu d'établissement de son siège social, sont soumis
-à la taxe. (2)
+à la taxe.
 
 II.-La taxe n'est pas applicable :
 
@@ -110,7 +109,7 @@ titres dont elle fait l'acquisition.
 IV.-La taxe est exigible le premier jour du mois suivant celui au cours duquel
 s'est produite l'acquisition du titre.
 
-V.-Le taux de la taxe est fixé à 0,2 %. (3)
+V.-Le taux de la taxe est fixé à 0,2 %.
 
 VI.-La taxe est liquidée et due par l'opérateur fournissant des services
 d'investissement, au sens de l'article L. 321-1 du code monétaire et financier,
@@ -120,7 +119,7 @@ quel que soit son lieu d'établissement.
 Lorsque plusieurs opérateurs mentionnés au premier alinéa du présent VI
 interviennent pour l'exécution de l'ordre d'achat d'un titre, la taxe est
 liquidée et due par celui qui reçoit directement de l'acquéreur final l'ordre
-d'achat. (3)
+d'achat.
 
 Lorsque l'acquisition a lieu sans intervention d'un opérateur fournissant des
 services d'investissement, la taxe est liquidée et due par l'établissement
@@ -209,15 +208,13 @@ décret définit les modalités d'application du présent X.
 
 XI.-En cas de manquement, de son fait, aux obligations de paiement prévues au
 IX, le dépositaire central acquitte l'intérêt de retard prévu par l'article 1727
-du présent code.
+.
 
-En cas de manquement aux obligations de paiement prévues au VII du présent
-article, le redevable de la taxe acquitte l'intérêt de retard prévu au même
-article 1727.
+En cas de manquement aux obligations de paiement prévues au VII, le redevable de
+la taxe acquitte l'intérêt de retard prévu au même article 1727.
 
 En cas de manquement du redevable ou de l'adhérent aux obligations déclaratives
-prévues au VII du présent article, celui-ci acquitte l'amende prévue à l'article
-1788 C.
+prévues au même VII, celui-ci acquitte l'amende prévue à l'article 1788 C.
 
 XII.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes
 sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les

@@ -7,6 +7,4 @@ industriels et commerciaux et placés sous le régime simplifié d'imposition
 doivent demander à être habilités à cet effet.
 
 La demande d'habilitation est présentée, instruite et renouvelée dans les mêmes
-conditions et délais que la demande d'agrément. Les dispositions du cinquième
-alinéa de l'article 371 I de l'annexe II au même code sont également
-applicables.
+conditions et délais que la demande d'agrément.

@@ -4,9 +4,9 @@ Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus en 2012, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 17,77 € par mètre carré en zone A, 11,61 € en zone B et
-8,41 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon
+a) Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non
+comprises, sont fixés à 18,16 € par mètre carré en zone A, 11,87 € en zone B et
+8,60 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon
 les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la
 construction et de l'habitation, et arrondis au centime d'euro le plus proche.
 
@@ -24,7 +24,7 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2012, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2013, les plafonds annuels de ressources sont les
 suivants :
 
 (en euros)
@@ -44,65 +44,65 @@ Zone C
 
 Personne seule
 
-45 241
+46 214
 
-34 966
+35 718
 
-30 597
+31 255
 
 
 Couple
 
-67 612
+69 066
 
-46 691
+47 695
 
-41 124
+42 008
 
 
 Personne seule ou couple ayant une personne à charge
 
-81 276
+83 023
 
-56 149
+57 356
 
-49 231
+50 289
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-97 355
+99 448
 
-67 782
+69 239
 
-59 582
+60 863
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-115 250
+117 728
 
-79 735
+81 449
 
-69 929
+71 432
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-129 686
+132 474
 
-89 858
+91 790
 
-78 882
+80 578
 
 
 Majoration par personne à charge à partir de la cinquième
 
-+ 14 455
++ 14 766
 
-+ 10 023
++ 10 238
 
-+ 8 960
++ 9 153
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités
 prévues au dernier alinéa de l'article L. 441-1 du code de la construction et de
