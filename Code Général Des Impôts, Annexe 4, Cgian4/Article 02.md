@@ -147,9 +147,10 @@ d. réseaux de récupération et collecte de biogaz en vue de son utilisation
 e. matériel permettant l'utilisation de l'énergie marémotrice, houlomotrice et
 thermique des mers et son stockage ;
 
-f. matériel de raccordement à un réseau de chaleur classé au sens de la loi n°
-80-531 du 15 juillet 1980 modifiée relative aux économies d'énergie et à
-l'utilisation de la chaleur ;
+f. matériel de raccordement à un réseau de chaleur classé au sens des deuxième
+et troisième alinéas de l'article 5 de la loi n° 80-531 du 15 juillet 1980
+modifiée relative aux économies d'énergie et à l'utilisation de la chaleur et du
+chapitre II du titre Ier du livre VII du code de l'énergie ;
 
 g. matériel de raccordement à un réseau de chaleur utilisant majoritairement de
 l'énergie géothermale ;

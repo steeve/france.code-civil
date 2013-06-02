@@ -1,9 +1,9 @@
 Article 121 quinquies DB sexies
 ----
-Pour bénéficier sur agrément de l'exonération temporaire de taxe professionnelle
-prévue à l'article 1465 du code général des impôts les conditions d'emploi
-suivantes, appréciées selon les modalités prévues à l'article 322 H de l'annexe
-III à ce code, doivent être remplies :
+Pour bénéficier sur agrément de l'exonération temporaire de cotisation foncière
+des entreprises prévue à l'article 1465 du code général des impôts les
+conditions d'emploi suivantes, appréciées selon les modalités prévues à
+l'article 322 H de l'annexe III à ce code, doivent être remplies :
 
 1° Les établissements faisant l'objet d'une reprise ou d'une reconversion
 doivent comporter :
@@ -38,9 +38,9 @@ Les conditions d'emploi ci-dessus définies doivent être remplies durant toute 
 période d'exonération à peine de retrait de l'agrément dans les conditions
 prévues à l'article 1649 nonies A du code général des impôts ;
 
-2° En cas de création ou de décentralisation de services de direction, d'études,
-d'ingénierie et d'informatique, création d'au moins vingt emplois ; en cas
-d'extention de ces mêmes services, création d'au moins dix emplois
+2° En cas de création (ou de décentralisation) (1) de services de direction,
+d'études, d'ingénierie et d'informatique, création d'au moins vingt emplois ; en
+cas d'extention de ces mêmes services, création d'au moins dix emplois
 supplémentaires, l'effectif total de l'établissement devant alors atteindre au
 moins vingt emplois. L'extension doit en outre entraîner une progression d'au
 moins 25 % de l'effectif total de l'établissement, sauf s'il est créé au moins
@@ -50,5 +50,5 @@ La création d'un nombre d'emplois permanents supérieur aux minima fixés
 ci-dessus peut être exigée en raison du montant des investissements envisagés.
 
 Les dispositions des articles 322 I à 322 L de l'annexe III au code général des
-impôts sont applicables aux créations, extensions et décentralisations de
-services de direction, d'études, d'ingénierie et d'informatique.
+impôts sont applicables aux créations et extensions de services de direction,
+d'études, d'ingénierie et d'informatique.

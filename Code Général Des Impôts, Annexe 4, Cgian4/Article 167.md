@@ -12,7 +12,7 @@ le comité national interprofessionnel des viandes ;
 
 l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 
-l'entreprise minière et chimique ;
+(l'entreprise minière et chimique) (1) ;
 
 les régies municipales, intercommunales et départementales exploitant des
 services à caractère industriel et commercial.

@@ -29,7 +29,7 @@ le comité national interprofessionnel des viandes ;
 
 l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 
-l'entreprise minière et chimique ;
+(l'entreprise minière et chimique) (1) ;
 
 les sections de l'office central de répartition des produits industriels ;
 

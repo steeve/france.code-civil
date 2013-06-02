@@ -13,8 +13,8 @@ engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150
 millions d'euros ou dont le capital est détenu à plus de 50 % par une entreprise
 dont le chiffre d'affaires consolidé dépasse 150 millions d'euros ;
 
-b. Pour les créations, extensions et décentralisations de services de direction,
-d'études, d'ingénierie et d'informatique ;
+b. Pour les créations, et extensions de services de direction, d'études,
+d'ingénierie et d'informatique ;
 
 c. Pour les opérations liées à celles mentionnées aux a et b ;
 
