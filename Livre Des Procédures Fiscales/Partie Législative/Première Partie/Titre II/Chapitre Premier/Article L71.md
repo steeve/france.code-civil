@@ -7,4 +7,4 @@ prévues à l'article 755 du code général des impôts.
 
 La décision de mettre en œuvre cette taxation d'office est prise par un agent de
 catégorie A détenant au moins un grade fixé par décret en Conseil d'Etat, qui
-vise à cet effet la notification prévue à l'article L. 76 du présent livre.
+vise à cet effet la notification prévue àl'article L. 76.

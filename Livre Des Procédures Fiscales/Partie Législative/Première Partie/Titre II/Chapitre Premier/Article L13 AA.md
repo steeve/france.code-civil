@@ -15,9 +15,7 @@ c) Dont plus de la moitié du capital ou des droits de vote est détenue, à la
 clôture de l'exercice, directement ou indirectement, par une entité juridique
 satisfaisant à l'une des conditions mentionnées au a, ou
 
-d) Bénéficiant de l'agrément prévu à l'article 209 quinquies du code général des
-impôts, et, dans ce cas, toutes les entreprises imposables en France faisant
-partie du périmètre de consolidation, ou
+d) (Périmé)
 
 e) Appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A du
 même code lorsque ce groupe comprend au moins une personne morale satisfaisant
