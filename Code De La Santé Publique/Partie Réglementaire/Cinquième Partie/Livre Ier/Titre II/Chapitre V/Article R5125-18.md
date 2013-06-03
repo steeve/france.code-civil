@@ -1,9 +1,13 @@
 Article R5125-18
 ----
-Une personne physique mentionnée au 1° du deuxième alinéa de l'article 5 de la
-loi n° 90-1258 du 31 décembre 1990 ne peut détenir des parts ou actions que dans
-deux sociétés d'exercice libéral autres que celle où elle exerce.
+Un pharmacien d'officine ne peut détenir des participations directes ou
+indirectes que dans quatre sociétés d'exercice libéral de pharmaciens d'officine
+autres que celle au sein de laquelle il exerce.
 
-Une société d'exercice libéral exploitant une officine de pharmacie ne peut
-détenir de parts ou actions que dans deux autres sociétés d'exercice libéral
-exploitant une officine de pharmacie.
+Une société d'exercice libéral de pharmaciens d'officine ne peut détenir des
+participations directes ou indirectes que dans quatre sociétés d'exercice
+libéral de pharmaciens d'officine.
+
+Une société de participation financière de profession libérale de pharmaciens
+d'officine ne peut détenir des participations que dans trois sociétés d'exercice
+libéral de pharmaciens d'officine.

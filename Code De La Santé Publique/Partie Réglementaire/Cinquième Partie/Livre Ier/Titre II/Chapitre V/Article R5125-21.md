@@ -1,7 +1,7 @@
 Article R5125-21
 ----
 Sous réserve des dispositions de l'article R. 5125-24, l'exclusion d'un associé
-d'une société d'exercice libéral exploitant une officine peut être décidée,
+d'une société d'exercice libéral de pharmaciens d'officine peut être décidée,
 lorsqu'il contrevient aux règles de fonctionnement de la société, par les autres
 associés statuant à la majorité renforcée prévue par les statuts, calculée en
 excluant les associés ayant fait l'objet d'une sanction pour les mêmes faits ou

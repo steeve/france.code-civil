@@ -150,7 +150,7 @@ respectives.
 
 15° Centrale d'achat pharmaceutique, l'entreprise se livrant, soit en son nom et
 pour son compte, soit d'ordre et pour le compte de pharmaciens titulaires
-d'officine ou des structures mentionnées à l'article D. 5125-24-1, à l'achat et
+d'officine ou des structures mentionnées à l'article D. 5125-24-16, à l'achat et
 au stockage des médicaments autres que des médicaments expérimentaux, à
 l'exception des médicaments remboursables par les régimes obligatoires
 d'assurance maladie, en vue de leur distribution en gros et en l'état à des
