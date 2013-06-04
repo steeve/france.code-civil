@@ -1,16 +1,16 @@
 Article D334-26
 ----
-La commission de discipline du baccalauréat est présidée par un professeur des
-universités qui a été nommé en qualité de président du jury du baccalauréat,
-désigné par le recteur, chancelier des universités. Le président ne peut siéger
-au sein de la commission lorsque l'élève qui fait l'objet d'une procédure
-disciplinaire a été évalué par le jury qu'il a présidé.
+La commission de discipline du baccalauréat est présidée par un
+enseignant-chercheur qui a été nommé en qualité de président du jury du
+baccalauréat, désigné par le recteur, chancelier des universités. Le président
+ne peut siéger au sein de la commission lorsque l'élève qui fait l'objet d'une
+procédure disciplinaire a été évalué par le jury qu'il a présidé.
 
 Cette commission comprend, outre son président, les personnes suivantes nommées
 par le recteur :
 
-1° Deux inspecteurs d'académie-inspecteurs pédagogiques régionaux, dont un est
-désigné comme vice-président ;
+1° Un inspecteur d'académie-inspecteur pédagogique régional et un inspecteur de
+l'éducation nationale, l'un des deux étant désigné comme vice-président ;
 
 2° Un chef de centre des épreuves du baccalauréat ;
 
@@ -33,3 +33,6 @@ conditions.
 
 En l'absence de son président et du suppléant de ce dernier, la commission est
 présidée par son vice-président.
+
+La commission de discipline du baccalauréat est assistée d'un secrétaire mis à
+sa disposition par le recteur.

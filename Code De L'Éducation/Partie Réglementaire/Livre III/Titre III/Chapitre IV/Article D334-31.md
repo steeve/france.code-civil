@@ -1,8 +1,9 @@
 Article D334-31
 ----
-Seules les personnes composant la commission de discipline du baccalauréat ont
-accès à la salle des délibérations. Nul ne peut délibérer s'il n'a assisté à la
-totalité de la séance.
+Seules les personnes composant la commission de discipline du baccalauréat et
+celle qui en assure le secrétariat ont accès à la salle des délibérations. Aucun
+des membres de la commission ne peut délibérer s'il n'a assisté à la totalité de
+la séance.
 
 La commission ne peut valablement délibérer que si quatre membres au moins sont
 présents. Le vote a lieu à bulletin secret.

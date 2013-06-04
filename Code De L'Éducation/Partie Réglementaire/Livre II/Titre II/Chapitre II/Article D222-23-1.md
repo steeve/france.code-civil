@@ -1,5 +1,8 @@
 Article D222-23-1
 ----
-Pendant l'intérim du recteur et sauf décision contraire du ou des fonctionnaires
-assurant l'intérim, les délégations de signature données par le précédent
-recteur sont maintenues jusqu'à la nomination d'un nouveau recteur.
+Les recteurs des académies de Créteil, Paris et Versailles peuvent donner
+délégation au directeur et au secrétaire général du service interacadémique des
+examens et concours pour signer les actes relatifs à la procédure disciplinaire
+applicable aux candidats au baccalauréat prévus par les dispositions des
+articles D. 334-28 à D. 334-30 ainsi que les actes correspondants pris en
+application des articles D. 336-22-1 et D. 337-94-1.
