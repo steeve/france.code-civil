@@ -1,7 +1,11 @@
 Article D3241-1
 ----
-Les forces françaises stationnées au Sénégal sont placées sous le commandement
-d'un officier général qui porte le titre de commandant des forces françaises du
-Cap-Vert. Cet officier relève directement du chef d'état-major des armées. Il
-est assisté par trois adjoints, officiers supérieurs appartenant à chacune des
-armées.
+Les éléments français stationnés au Sénégal sont placés sous le commandement
+d'un officier qui porte le titre de commandant des éléments français au Sénégal.
+
+Cet officier relève du commandant des forces françaises stationnées au Gabon.
+
+Cependant, pour l'exercice de ses attributions en matière de coopération
+opérationnelle, telles que définies par l'article D. 3241-3 du présent code, il
+relève du chef d'état-major des armées. Il est assisté par un adjoint
+interarmées.

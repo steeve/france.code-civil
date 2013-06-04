@@ -1,7 +1,7 @@
 Article D1681-10
 ----
-Les commandants supérieurs sont assistés par trois adjoints, officiers
-supérieurs appartenant à chacune des armées.
+Les commandants supérieurs sont assistés par un adjoint interarmées et un chef
+d'état-major interarmées.
 
 En Nouvelle-Calédonie et dans les collectivités territoriales mentionnées à
 l'article D. 1681-7 dont le chef-lieu n'est pas le siège d'un commandement

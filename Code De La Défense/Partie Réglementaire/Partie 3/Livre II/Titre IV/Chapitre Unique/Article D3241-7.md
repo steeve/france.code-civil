@@ -5,9 +5,9 @@ République de Djibouti, le commandant des forces françaises veille à
 l'application des accords relatifs à la présence et au statut des forces
 françaises stationnées sur le territoire de la République à Djibouti. Sous
 couvert de la même autorité, il entretient toutes relations utiles avec les
-autorités djiboutiennes. Le commandant des forces françaises stationnées à
-Djibouti est habilité à correspondre avec les organes militaires de la
-communauté économique régionale dont fait partie la République de Djibouti. Il
-tient les chefs des missions diplomatiques françaises auprès des pays membres de
-cette communauté informés des relations qu'il entretient à ce titre et des
-déplacements qu'il peut être conduit à effectuer dans ces pays.
+autorités djiboutiennes. En liaison avec les chefs des missions diplomatiques
+françaises concernées, le commandant des forces françaises stationnées à
+Djibouti entretient toutes relations utiles avec les organes militaires des
+communautés économiques régionales de l'Afrique de l'Est, avec les organes
+militaires des pays qui composent ces communautés économiques régionales et avec
+les organes militaires des pays de sa zone de responsabilité.
