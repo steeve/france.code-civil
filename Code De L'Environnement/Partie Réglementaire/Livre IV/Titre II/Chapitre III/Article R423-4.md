@@ -1,6 +1,6 @@
 Article R423-4
 ----
-I. - Les épreuves théoriques de l'examen portent sur les matières suivantes :
+I. - Les questions écrites de l'examen portent sur les matières suivantes :
 
 1° Connaissance de la faune sauvage, de ses habitats et des modalités de leur
 gestion ;
@@ -12,7 +12,7 @@ sécurité ;
 
 4° Connaissance des lois et règlements relatifs aux matières qui précèdent.
 
-II. - Les épreuves pratiques de l'examen portent sur :
+II. - Les exercices pratiques de l'examen portent sur :
 
 1° Les conditions d'évolution sur un parcours de chasse simulé avec tir à blanc
 ;
@@ -22,6 +22,6 @@ II. - Les épreuves pratiques de l'examen portent sur :
 3° Le tir dans le respect des règles de sécurité.
 
 III. - Un arrêté du ministre chargé de la chasse précise le programme et les
-modalités des épreuves théoriques et pratiques de l'examen. Les modalités des
-épreuves pratiques peuvent être adaptées pour tenir compte des possibilités des
-candidats présentant un handicap compatible avec la pratique de la chasse.
+modalités de l'examen. Les modalités des exercices pratiques peuvent être
+adaptées pour tenir compte des possibilités des candidats présentant un handicap
+compatible avec la pratique de la chasse.
