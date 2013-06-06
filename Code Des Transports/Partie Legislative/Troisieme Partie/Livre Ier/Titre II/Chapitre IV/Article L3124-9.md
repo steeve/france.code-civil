@@ -11,9 +11,4 @@ article encourent également les peines complémentaires suivantes :
 2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à
 commettre l'infraction ;
 
-3° La confiscation du véhicule qui a servi à commettre l'infraction ;
-
-4° L'interdiction, pour une durée de cinq ans au plus, d'entrer et de séjourner
-dans l'enceinte d'une ou plusieurs infrastructures aéroportuaires ou portuaires,
-d'une gare ferroviaire ou routière, ou de leurs dépendances, sans y avoir été
-préalablement autorisé par les autorités de police territorialement compétentes.
+3° La confiscation du véhicule qui a servi à commettre l'infraction.
