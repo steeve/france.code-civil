@@ -14,7 +14,6 @@ Liste des espaces protégés et des ports les desservant exclusivement ou
 principalement à destination desquels est perçue la taxe sur les passagers
 maritimes prévue par l'article 285 quater du code des douanes
 
-
 Liste des espaces protégés et des ports les desservant exclusivement ou
 principalement
 
@@ -25,40 +24,59 @@ Part du produit net de la taxe revenant à chaque personne publique
 
 1. Parcs nationaux
 
-Parc national de Port-Cros : îles de Port-Cros, de Bagaud, et de la Gabinière
-(Var). Port de Port-Cros (Var).
+Parc national de la Guadeloupe : îlet Pigeon, îlets du Grand Cul de Sac marin,
+mangroves du Grand Cul de Sac marin classés en cœur de parc national ainsi que
+l'aire maritime adjacente (Guadeloupe).
 
-Etablissement public chargé du parc national de Port-Cros.
+Etablissement public du parc national de la Guadeloupe.
 
 100 %
 
 2. Réserves naturelles
 
-Réserve naturelle du Banc d'Arguin (Gironde).
+Réserve naturelle nationale du Banc d'Arguin (Gironde).
 
 Commune de La Teste-de-Buch.
 
 100 %
 
-Réserve naturelle des Bouches de Bonifacio (Corse-du-Sud).
+Réserve naturelle nationale des bouches de Bonifacio (Corse-du-Sud).
 
-Office régional corse de l'environnement.
+Office de l'environnement de la Corse.
 
 100 %
 
-Réserve naturelle de Saint-Martin (Guadeloupe).
+Réserve naturelle nationale de Saint-Martin (Guadeloupe).
 
 Conservatoire de l'espace littoral et des rivages lacustres.
 
 100 %
 
-3.1. Sites naturels classés
+Réserve naturelle nationale de la Désirade (Guadeloupe).
 
-Sites classés de l'archipel des îles Chausey (Manche).
-
-Commune de Granville.
+Office national des forêts.
 
 100 %
+
+Réserve naturelle nationale de l'île du Grand-Connétable (Guyane).
+
+Office national de la chasse et de la faune sauvage.
+
+100 %
+
+Réserve naturelle nationale marine de Cerbère-Banyuls (Pyrénées-Orientales).
+
+Département des Pyrénées-Orientales.
+
+100 %
+
+Réserve naturelle nationale marine de La Réunion.
+
+Groupement d'intérêt public de la réserve naturelle marine de La Réunion.
+
+100 %
+
+3.1. Sites naturels classés
 
 Sites classés de l'île de Bréhat et port de Bréhat (Côtes-d'Armor).
 
@@ -81,12 +99,6 @@ Syndicat mixte du parc naturel régional d'Armorique.
 Sites classés de l'île d'Yeu, port Joinville et port de La Meule (Vendée).
 
 Commune de l'île d'Yeu.
-
-100 %
-
-Sites classés de l'île de Porquerolles et port de Porquerolles (Var).
-
-Etablissement public chargé du parc national de Port-Cros.
 
 100 %
 
@@ -126,11 +138,37 @@ Commune de Cassis.
 
 9 %
 
+Sites classés du cap Oullestrell situé sur les communes de Banyuls-sur-Mer et
+Port-Vendres ainsi que le domaine public correspondant maritime
+(Pyrénées-Orientales).
+
+Département des Pyrénées-Orientales.
+
+100 %
+
+Sites classés du cap Béar et ses abords (Pyrénées Orientales).
+
+Département des Pyrénées-Orientales.
+
+100 %
+
+Sites classés du cap de l'Abeille (Pyrénées Orientales).
+
+Département des Pyrénées-Orientales.
+
+100 %
+
 3.2. Sites naturels inscrits
 
 Ile d'Arz (Morbihan).
 
 Commune de l'île d'Arz.
+
+100 %
+
+Ilet Madame (Martinique).
+
+Commune du Robert.
 
 100 %
 
@@ -168,16 +206,28 @@ Conservatoire de l'espace littoral et des rivages lacustres.
 
 5. Espaces naturels bénéficiant de plusieurs protections
 
-Espaces terrestres et marins classés en réserve naturelle dite des Sept-Iles et
-terrains du Conservatoire de l'espace littoral et des rivages lacustres de
-l'Ile-aux-Moines de cet archipel (Côtes-d'Armor).
+Espaces terrestres et marins classés au titre de l'article L. 341-2 de Porto et
+de Girolata et territoires classés de la réserve naturelle nationale de la
+presqu'île de Scandola (Corse-du-Sud).
+
+Syndicat mixte du parc naturel régional de Corse.
+
+67 %
+
+Commune d'Osani.
+
+33 %
+
+Espaces terrestres et marins classés en réserve naturelle nationale des
+Sept-Iles et terrains du Conservatoire de l'espace littoral et des rivages
+lacustres situés sur l'île aux Moines (Côtes-d'Armor).
 
 Conservatoire de l'espace littoral et des rivages lacustres.
 
 100 %
 
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et
-territoires classés de la réserve naturelle d'Iroise situés dans l'archipel de
+Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires
+classés de la réserve naturelle nationale d'Iroise situés dans l'archipel de
 Molène et port de Molène (Finistère).
 
 Syndicat mixte du parc naturel régional d'Armorique.
@@ -185,72 +235,17 @@ Syndicat mixte du parc naturel régional d'Armorique.
 100 %
 
 Espaces terrestres et marins classés au titre de l'article L. 341-2 et
-territoires classés de la réserve naturelle de Saint-Nicolas-de-Glénan situés
-sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas
+territoires classés de la réserve naturelle nationale de Saint-Nicolas-de-Glénan
+situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas
 (Finistère).
 
 Département du Finistère.
 
 100 %
 
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et
-territoires classés de la réserve naturelle François-le-Bail situés sur l'île de
-Groix, ainsi que port Tudy, port Lay et port Mélite (Morbihan).
-
-Commune de Groix.
-
-100 %
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains
-du Conservatoire de l'espace littoral et des rivages lacustres situés sur
-Belle-Ile, ainsi que le port du Palais et le port de Sauzon (Morbihan).
-
-District de Belle-Ile-en-Mer.
-
-80 %
-
-Conservatoire de l'espace littoral et des rivages lacustres.
-
-20 %
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains
+Espaces terrestres et marins classés au titre de l'article L. 341-1 et terrains
 du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île
-de Houat, ainsi que le port de Saint-Gildas (Morbihan).
-
-Commune de Houat.
-
-80 %
-
-Conservatoire de l'espace littoral et des rivages lacustres.
-
-20 %
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains
-du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île
-d'Hoëdic, ainsi que le port de l'île Hoëdic (Morbihan).
-
-Commune de Hoëdic.
-
-60 %
-
-Conservatoire de l'espace littoral et des rivages lacustres.
-
-40 %
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains
-du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île
-d'Aix, ainsi que le port de la Rade (Charente-Maritime).
-
-Commune de l'île d'Aix.
-
-80 %
-
-Conservatoire de l'espace littoral et des rivages lacustres.
-
-20 %
-
-Site inscrit au titre de l'article L. 341-1 et terrains du Conservatoire de
-l'espace littoral et des rivages lacustres sur l'île de Batz (Finistère).
+de Batz (Finistère).
 
 Commune de Batz.
 
@@ -260,13 +255,82 @@ Conservatoire de l'espace littoral et des rivages lacustres.
 
 50 %
 
-Réserve naturelle de la presqu'île de Scandola et sites classés de Porto et de
-Girolata (Corse-du-Sud).
+Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires
+classés de la réserve naturelle nationale François-le-Bail, port Tudy, port Lay,
+port Mélite et terrains du Conservatoire de l'espace littoral et des rivages
+lacustres situés sur l'île de Groix (Morbihan).
 
-Syndicat mixte du parc naturel régional de Corse.
+Commune de Groix.
 
-67 %
+100 %
 
-Commune d'Osani.
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du
+Conservatoire de l'espace littoral et des rivages lacustres situés sur
+Belle-Ile, ainsi que port du Palais et port de Sauzon (Morbihan).
 
-33 %
+District de Belle-Ile-en-mer.
+
+80 %
+
+Conservatoire de l'espace littoral et des rivages lacustres.
+
+20 %
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du
+Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île
+d'Hoedic, ainsi que port de l'île d'Hoedic (Morbihan).
+
+Commune de Hoedic.
+
+60 %
+
+Conservatoire de l'espace littoral et des rivages lacustres.
+
+40 %
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du
+Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de
+Houat, ainsi que port Saint-Gildas (Morbihan).
+
+Commune de Houat.
+
+80 %
+
+Conservatoire de l'espace littoral et des rivages lacustres.
+
+20 %
+
+Espaces terrestres classés au titre de l'article L. 341-2 et terrains du
+Conservatoire de l'espace littoral et des rivages lacustres situés sur
+l'archipel de Chausey (Manche).
+
+Commune de Granville.
+
+100 %
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du
+Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île
+d'Aix, ainsi que port de la Rade (Charente-Maritime).
+
+Commune de l'île d'Aix.
+
+80 %
+
+Conservatoire de l'espace littoral et des rivages lacustres.
+
+20 %
+
+Parc national de Port-Cros :
+
+- île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la
+Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente
+(Var) ;
+
+- espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en
+cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles)
+et en site classé au titre de l'article L. 341-2 du code de l'environnement
+(Var).
+
+Etablissement public du parc national de Port-Cros.
+
+100 %
