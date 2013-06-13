@@ -1,6 +1,6 @@
 Article L1233-33
 ----
-L'employeur met à l'étude, dans les délais prévus aux articles L. 1233-39 et L.
-1233-41 pour l'envoi des lettres de licenciement, les suggestions formulées par
-le comité d'entreprise relatives aux mesures sociales proposées et leur donne
-une réponse motivée.
+L'employeur met à l'étude, dans le délai prévu à l'article L. 1233-30, les
+suggestions relatives aux mesures sociales envisagées et les propositions
+alternatives au projet de restructuration mentionné à l'article L. 2323-15
+formulées par le comité d'entreprise. Il leur donne une réponse motivée.

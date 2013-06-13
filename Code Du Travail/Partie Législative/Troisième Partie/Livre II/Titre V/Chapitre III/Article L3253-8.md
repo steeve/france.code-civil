@@ -14,10 +14,12 @@ a) Pendant la période d'observation ;
 b) Dans le mois suivant le jugement qui arrête le plan de sauvegarde, de
 redressement ou de cession ;
 
-c) Dans les quinze jours suivant le jugement de liquidation ;
+c) Dans les quinze jours, ou vingt et un jours lorsqu'un plan de sauvegarde de
+l'emploi est élaboré, suivant le jugement de liquidation ;
 
 d) Pendant le maintien provisoire de l'activité autorisé par le jugement de
-liquidation judiciaire et dans les quinze jours suivant la fin de ce maintien de
+liquidation judiciaire et dans les quinze jours, ou vingt et un jours lorsqu'un
+plan de sauvegarde de l'emploi est élaboré, suivant la fin de ce maintien de
 l'activité ;
 
 3° Les créances résultant de la rupture du contrat de travail des salariés
@@ -27,20 +29,28 @@ ce contrat aux intéressés au cours de l'une des périodes indiquées au 2°, y
 compris les contributions dues par l'employeur dans le cadre de ce contrat et
 les salaires dus pendant le délai de réponse du salarié ;
 
-4° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un
+4° Les mesures d'accompagnement résultant d'un plan de sauvegarde de l'emploi
+déterminé par un accord collectif majoritaire ou par un document élaboré par
+l'employeur, conformément aux articles L. 1233-24-1 à L. 1233-24-4, dès lors
+qu'il a été validé ou homologué dans les conditions prévues à l'article L.
+1233-58 avant ou après l'ouverture de la procédure de redressement ou de
+liquidation judiciaire ;
+
+5° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un
 montant maximal correspondant à un mois et demi de travail, les sommes dues :
 
 a) Au cours de la période d'observation ;
 
-b) Au cours des quinze jours suivant le jugement de liquidation ;
+b) Au cours des quinze jours, ou vingt et un jours lorsqu'un plan de sauvegarde
+de l'emploi est élaboré, suivant le jugement de liquidation ;
 
 c) Au cours du mois suivant le jugement de liquidation pour les représentants
 des salariés prévus par les articles L. 621-4 et L. 631-9 du code de commerce ;
 
 d) Pendant le maintien provisoire de l'activité autorisé par le jugement de
-liquidation et au cours des quinze jours suivant la fin de ce maintien de
-l'activité.
+liquidation et au cours des quinze jours, ou vingt et un jours lorsqu'un plan de
+sauvegarde de l'emploi est élaboré, suivant la fin de ce maintien de l'activité.
 
-La garantie des sommes et créances mentionnées aux 1°, 2° et 4° inclut les
+La garantie des sommes et créances mentionnées aux 1°, 2° et 5° inclut les
 cotisations et contributions sociales et salariales d'origine légale, ou
 d'origine conventionnelle imposée par la loi.

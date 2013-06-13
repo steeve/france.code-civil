@@ -1,6 +1,10 @@
 Article L1233-53
 ----
-L'autorité administrative vérifie que :
+Dans les entreprises de moins de cinquante salariés et les entreprises de
+cinquante salariés et plus lorsque le projet de licenciement concerne moins de
+dix salariés dans une même période de trente jours, l'autorité administrative
+vérifie, dans le délai de vingt et un jours à compter de la date de la
+notification du projet de licenciement, que :
 
 1° Les représentants du personnel ont été informés, réunis et consultés
 conformément aux dispositions légales et conventionnelles en vigueur ;

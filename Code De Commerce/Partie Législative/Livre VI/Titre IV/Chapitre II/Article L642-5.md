@@ -19,15 +19,16 @@ Les droits de préemption institués par le code rural et de la pêche maritime 
 le code de l'urbanisme ne peuvent s'exercer sur un bien compris dans ce plan.
 
 Lorsque le plan prévoit des licenciements pour motif économique, il ne peut être
-arrêté par le tribunal qu'après que le comité d'entreprise ou, à défaut, les
-délégués du personnel ont été consultés dans les conditions prévues à l'article
-L. 321-9 du code du travail et l'autorité administrative compétente informée
-dans les conditions prévues à l'article L. 321-8 du même code. Le plan précise
-notamment les licenciements qui doivent intervenir dans le délai d'un mois après
-le jugement. Dans ce délai, ces licenciements interviennent sur simple
-notification du liquidateur, ou de l'administrateur lorsqu'il en a été désigné,
-sous réserve des droits de préavis prévus par la loi, les conventions ou les
-accords collectifs du travail.
+arrêté par le tribunal qu'après que la procédure prévue à l'article L. 1233-58
+du code du travail a été mise en œuvre, à l'exception du 6° du I et des trois
+premiers alinéas du II de cet article. Le plan précise notamment les
+licenciements qui doivent intervenir dans le délai d'un mois après le jugement.
+Dans ce délai, l'autorité administrative valide ou homologue le projet de
+licenciement dans les conditions fixées aux articles L. 1233-57-2 et L.
+1233-57-3 du même code. Dans ce délai, ces licenciements interviennent sur
+simple notification du liquidateur, ou de l'administrateur lorsqu'il en a été
+désigné, sous réserve des droits de préavis prévus par la loi, les conventions
+ou les accords collectifs du travail.
 
 Lorsque le licenciement concerne un salarié bénéficiant d'une protection
 particulière en matière de licenciement, ce délai d'un mois après le jugement

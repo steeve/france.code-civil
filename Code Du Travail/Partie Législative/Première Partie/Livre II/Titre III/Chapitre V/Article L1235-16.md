@@ -1,7 +1,11 @@
 Article L1235-16
 ----
-Tout employeur non soumis aux dispositions de l'article L. 1233-71, qui procède
-au licenciement pour motif économique d'un salarié sans lui proposer le bénéfice
-d'une convention de reclassement personnalisé, verse aux organismes chargés du
-recouvrement mentionnés à l'article L. 5427-1 une contribution égale à deux mois
-de salaire brut moyen, calculé sur la base des douze derniers mois travaillés.
+L'annulation de la décision de validation mentionnée à l'article L. 1233-57-2 ou
+d'homologation mentionnée à l'article L. 1233-57-3 pour un motif autre que celui
+mentionné au deuxième alinéa de l'article L. 1235-10 donne lieu, sous réserve de
+l'accord des parties, à la réintégration du salarié dans l'entreprise, avec
+maintien de ses avantages acquis.
+
+A défaut, le salarié a droit à une indemnité à la charge de l'employeur, qui ne
+peut être inférieure aux salaires des six derniers mois. Elle est due sans
+préjudice de l'indemnité de licenciement prévue à l'article L. 1234-9.

@@ -9,16 +9,17 @@ propositions prévues au premier alinéa de l'article L. 626-30-2. Pour
 l'application du premier alinéa de l'article L. 626-8, l'information et la
 consultation portent sur les mesures que l'administrateur envisage de proposer.
 
-II.-Lorsque le plan prévoit des licenciements pour motif économique, il ne peut
-être arrêté par le tribunal qu'après que le comité d'entreprise ou, à défaut,
-les délégués du personnel ont été consultés dans les conditions prévues à
-l'article L. 321-9 du code du travail et que l'autorité administrative
-compétente mentionnée à l'article L. 321-8 du même code a été informée.
+II.-Le plan est arrêté par le tribunal après que la procédure prévue à l'article
+L. 1233-58 du code du travail a été mise en œuvre par l'administrateur, à
+l'exception du 6° du I et des trois premiers alinéas du II de cet article.
 
 Le plan précise notamment les licenciements qui doivent intervenir dans le délai
-d'un mois après le jugement. Dans ce délai, ces licenciements interviennent sur
-simple notification de l'administrateur, sous réserve des droits de préavis
-prévus par la loi, les conventions ou accords collectifs du travail.
+d'un mois après le jugement. Dans ce délai, l'autorité administrative valide ou
+homologue le projet de licenciement dans les conditions fixées aux articles L.
+1233-57-2 et L. 1233-57-3 du même code. Dans ce délai, ces licenciements
+interviennent sur simple notification de l'administrateur, sous réserve des
+droits de préavis prévus par la loi, les conventions ou accords collectifs du
+travail.
 
 Lorsque le licenciement concerne un salarié bénéficiant d'une protection
 particulière en matière de licenciement, ce délai d'un mois après le jugement

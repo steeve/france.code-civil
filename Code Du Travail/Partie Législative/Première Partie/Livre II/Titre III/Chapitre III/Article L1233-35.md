@@ -1,19 +1,12 @@
 Article L1233-35
 ----
-Lorsqu'il recourt à l'assistance d'un expert-comptable, le comité d'entreprise
-tient une deuxième réunion au plus tôt le vingtième et au plus tard le
-vingt-deuxième jour après la première.
+L'expert désigné par le comité d'entreprise demande à l'employeur, au plus tard
+dans les dix jours à compter de sa désignation, toutes les informations qu'il
+juge nécessaires à la réalisation de sa mission. L'employeur répond à cette
+demande dans les huit jours. Le cas échéant, l'expert demande, dans les dix
+jours, des informations complémentaires à l'employeur, qui répond à cette
+demande dans les huit jours à compter de la date à laquelle la demande de
+l'expert est formulée.
 
-Il tient une troisième réunion dans un délai courant à compter de sa deuxième
-réunion. Ce délai ne peut être supérieur à :
-
-1° Quatorze jours lorsque le nombre de licenciements est inférieur à cent ;
-
-2° Vingt et un jours lorsque le nombre de licenciements est au moins égal à cent
-et inférieur à deux cent cinquante ;
-
-3° Vingt-huit jours lorsque le nombre de licenciements est au moins égal à deux
-cent cinquante.
-
-Une convention ou un accord collectif de travail peut prévoir des délais plus
-favorables aux salariés.
+L'expert présente son rapport au plus tard quinze jours avant l'expiration du
+délai mentionné à l'article L. 1233-30.

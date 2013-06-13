@@ -1,10 +1,5 @@
 Article L1235-7
 ----
-Toute action en référé portant sur la régularité de la procédure de consultation
-des instances représentatives du personnel est introduite, à peine
-d'irrecevabilité, dans un délai de quinze jours suivant chacune des réunions du
-comité d'entreprise.
-
 Toute contestation portant sur la régularité ou la validité du licenciement se
 prescrit par douze mois à compter de la dernière réunion du comité d'entreprise
 ou, dans le cadre de l'exercice par le salarié de son droit individuel à

@@ -5,6 +5,9 @@ des vérifications qu'elle effectue, elle adresse à l'employeur un avis précis
 la nature de l'irrégularité constatée. Elle envoie simultanément copie de ses
 observations au comité d'entreprise ou, à défaut, aux délégués du personnel.
 
+L'autorité administrative peut formuler des observations sur les mesures
+sociales prévues à l'article L. 1233-32.
+
 L'employeur répond aux observations de l'autorité administrative et adresse
 copie de sa réponse aux représentants du personnel. Si cette réponse intervient
 après le délai d'envoi des lettres de licenciement prévu à l'article L. 1233-39,
