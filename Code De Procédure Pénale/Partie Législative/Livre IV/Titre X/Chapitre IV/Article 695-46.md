@@ -21,10 +21,10 @@ peuvent, le cas échéant, être complétées par les observations faites par un
 avocat de son choix ou, à défaut, commis d'office par le bâtonnier de l'ordre
 des avocats.
 
-La chambre de l'instruction statue sans recours après s'être assurée que la
-demande comporte aussi les renseignements prévus à l'article 695-13 et avoir, le
-cas échéant, obtenu des garanties au regard des dispositions de l'article
-695-32, dans le délai de trente jours à compter de la réception de la demande.
+La chambre de l'instruction statue après s'être assurée que la demande comporte
+aussi les renseignements prévus à l'article 695-13 et avoir, le cas échéant,
+obtenu des garanties au regard des dispositions de l'article 695-32, dans le
+délai de trente jours à compter de la réception de la demande.
 
 Le consentement est donné lorsque les agissements pour lesquels il est demandé
 constituent l'une des infractions visées à l'article 695-23, et entrent dans le
