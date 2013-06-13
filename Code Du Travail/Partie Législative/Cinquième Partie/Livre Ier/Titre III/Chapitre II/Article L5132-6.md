@@ -5,6 +5,10 @@ faciliter l'insertion professionnelle des personnes sans emploi rencontrant des
 difficultés sociales et professionnelles particulières concluent avec ces
 personnes des contrats de mission.
 
+Une durée de travail hebdomadaire inférieure à la durée fixée à l'article L.
+3123-14 peut être proposée à ces personnes lorsque le parcours d'insertion le
+justifie.
+
 L'activité des entreprises de travail temporaire d'insertion est soumise à
 l'ensemble des dispositions relatives au travail temporaire prévues au chapitre
 Ier du titre V du livre II de la première partie. Toutefois, par dérogation aux

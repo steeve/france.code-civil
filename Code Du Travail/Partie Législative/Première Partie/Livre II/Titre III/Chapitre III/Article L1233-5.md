@@ -16,3 +16,6 @@ rendant leur réinsertion professionnelle particulièrement difficile, notamment
 celle des personnes handicapées et des salariés âgés ;
 
 4° Les qualités professionnelles appréciées par catégorie.
+
+L'employeur peut privilégier un de ces critères, à condition de tenir compte de
+l'ensemble des autres critères prévus au présent article.

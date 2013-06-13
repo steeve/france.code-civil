@@ -44,7 +44,8 @@ les entreprises dépourvues de délégué syndical ;
 lors d'un redressement ou d'une liquidation judiciaire ;
 
 12° Représentant des salariés au conseil d'administration ou de surveillance des
-entreprises du secteur public ;
+entreprises du secteur public, des sociétés anonymes et des sociétés en
+commandite par actions ;
 
 13° Membre du conseil ou administrateur d'une caisse de sécurité sociale
 mentionné à l'article L. 231-11 du code de la sécurité sociale ;

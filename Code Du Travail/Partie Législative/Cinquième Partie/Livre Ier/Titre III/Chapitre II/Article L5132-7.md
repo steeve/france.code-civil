@@ -6,6 +6,10 @@ difficultés sociales et professionnelles particulières, en vue de faciliter le
 insertion professionnelle en les mettant à titre onéreux à disposition de
 personnes physiques ou de personnes morales.
 
+Une durée de travail hebdomadaire inférieure à la durée fixée à l'article L.
+3123-14 peut être proposée aux salariés lorsque le parcours d'insertion le
+justifie.
+
 L'association intermédiaire assure l'accueil des personnes ainsi que le suivi et
 l'accompagnement de ses salariés en vue de faciliter leur insertion sociale et
 de rechercher les conditions d'une insertion professionnelle durable.

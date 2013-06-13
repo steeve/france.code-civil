@@ -8,7 +8,7 @@ licenciement pour motif économique un congé de reclassement qui a pour objet d
 permettre au salarié de bénéficier d'actions de formation et des prestations
 d'une cellule d'accompagnement des démarches de recherche d'emploi.
 
-La durée du congé de reclassement ne peut excéder neuf mois.
+La durée du congé de reclassement ne peut excéder douze mois.
 
 Ce congé débute, si nécessaire, par un bilan de compétences qui a vocation à
 permettre au salarié de définir un projet professionnel et, le cas échéant, de

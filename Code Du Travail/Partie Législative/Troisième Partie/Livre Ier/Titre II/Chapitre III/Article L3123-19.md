@@ -6,3 +6,6 @@ mensuelle fixée au contrat de travail calculée, le cas échéant, sur la péri
 prévue par un accord collectif conclu sur le fondement de l'article L. 3122-2,
 chacune des heures complémentaires accomplies au-delà du dixième de cette durée
 donne lieu à une majoration de salaire de 25 %.
+
+Une convention ou un accord de branche étendu peut prévoir un taux de majoration
+différent, qui ne peut être inférieur à 10 %.

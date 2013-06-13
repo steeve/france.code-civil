@@ -19,4 +19,5 @@ salariés ;
 5° Vingt heures par mois dans les établissements employant au moins mille cinq
 cents salariés.
 
-Ce temps peut être dépassé en cas de circonstances exceptionnelles.
+Ce temps peut être dépassé en cas de circonstances exceptionnelles ou de
+participation à une instance de coordination prévue à l'article L. 4616-1.

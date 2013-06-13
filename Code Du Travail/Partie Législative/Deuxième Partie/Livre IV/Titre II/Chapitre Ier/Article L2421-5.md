@@ -1,9 +1,9 @@
 Article L2421-5
 ----
 Le licenciement d'un représentant des salariés au conseil d'administration ou de
-surveillance d'une entreprise du secteur public, envisagé par l'employeur, est
-soumis pour avis au conseil d'administration ou de surveillance dont il est
-membre.
+surveillance d'une entreprise du secteur public, d'une société anonyme ou d'une
+société en commandite par actions, envisagé par l'employeur, est soumis pour
+avis au conseil d'administration ou de surveillance dont il est membre.
 
 La demande d'autorisation de licenciement est adressée à l'inspecteur du travail
 dont dépend l'établissement dans lequel est employé le salarié.

@@ -10,3 +10,6 @@ collectif conclu sur le fondement de l'article L. 3122-2.
 Les heures complémentaires ne peuvent avoir pour effet de porter la durée du
 travail accomplie par un salarié au niveau de la durée légale du travail ou à la
 durée fixée conventionnellement.
+
+Chacune des heures complémentaires accomplies dans la limite fixée au premier
+alinéa du présent article donne lieu à une majoration de salaire de 10 % (1).

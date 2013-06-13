@@ -50,9 +50,8 @@ ne couvre plus le risque.
 
 III. - Les dispositions du présent article ne sont pas applicables lorsque
 l'adhésion à la mutuelle ou à l'union résulte d'une obligation prévue dans une
-convention de branche ou un accord professionnel ou interprofessionnel régi par
-l'article L. 912-1 du code de la sécurité sociale. Les statuts de la mutuelle ou
-de l'union peuvent prévoir les conditions dans lesquelles la mutuelle ou l'union
-applique, à défaut du paiement de la cotisation dans les dix jours de son
-échéance, les majorations de retard à la charge exclusive de l'employeur ou
-poursuit en justice l'exécution du contrat.
+convention de branche ou un accord professionnel ou interprofessionnel. Les
+statuts de la mutuelle ou de l'union peuvent prévoir les conditions dans
+lesquelles la mutuelle ou l'union applique, à défaut du paiement de la
+cotisation dans les dix jours de son échéance, les majorations de retard à la
+charge exclusive de l'employeur ou poursuit en justice l'exécution du contrat.

@@ -8,4 +8,5 @@ reçoit communication, lorsqu'ils existent, des comptes et du bilan consolidés
 ainsi que du rapport du commissaire aux comptes correspondant.
 
 Il est informé, dans ces domaines, des perspectives économiques du groupe pour
-l'année à venir.
+l'année à venir. Les avis rendus dans le cadre de la procédure fixée à l'article
+L. 2323-7-1 lui sont communiqués.

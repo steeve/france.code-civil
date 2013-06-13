@@ -1,8 +1,9 @@
 Article L2411-17
 ----
 Le licenciement d'un représentant des salariés au conseil d'administration ou de
-surveillance des entreprises du secteur public ne peut intervenir qu'après
-autorisation de l'inspecteur du travail.
+surveillance des entreprises du secteur public, des sociétés anonymes et des
+sociétés en commandite par actions ne peut intervenir qu'après autorisation de
+l'inspecteur du travail.
 
 Cette autorisation est également requise pour :
 

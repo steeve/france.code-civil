@@ -12,10 +12,12 @@ d'un logement tenant compte, notamment, des charges de famille des candidats.
 
 Priorité est accordée aux bénéficiaires des dispositions du code des pensions
 militaires d'invalidité et des victimes de la guerre ayant la qualité de grands
-mutilés de guerre, conjoints survivants, pupilles de la nation, internés et
-déportés de la Résistance, aux titulaires de pensions d'invalidité servies par
-un régime obligatoire de sécurité sociale, ainsi qu'aux bénéficiaires d'une
-rente d'accident du travail correspondant à un taux d'incapacité au moins égal à
-66 %.
+mutilés de guerre, conjoints survivants, pupilles de la nation, aux titulaires
+de pensions d'invalidité servies par un régime obligatoire de sécurité sociale,
+aux bénéficiaires d'une rente d'accident du travail correspondant à un taux
+d'incapacité au moins égal à 66 %, aux jeunes de moins de trente ans, aux
+salariés en mobilité professionnelle, ainsi qu'aux salariés répondant aux
+critères prévus au deuxième alinéa du II de l'article L. 441-2-3 du code de la
+construction et de l'habitation.
 
 Le comité d'entreprise examine pour avis les propositions de la commission.

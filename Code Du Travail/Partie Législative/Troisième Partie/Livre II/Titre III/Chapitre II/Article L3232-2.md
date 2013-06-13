@@ -9,5 +9,5 @@ par l'article L. 3232-5 ;
 2° Le coût du versement de l'allocation prévue au 1° pour l'année écoulée ;
 
 3° Le nombre de bénéficiaires des allocations publiques de chômage total et des
-allocations publiques de chômage partiel ainsi que les mesures prises en
+allocations publiques d'activité partielle ainsi que les mesures prises en
 application de l'article L. 3232-9.

@@ -10,3 +10,7 @@ objet de permettre leur insertion ou leur réinsertion professionnelle ainsi que
 leur maintien dans l'emploi, de favoriser le développement de leurs compétences
 et l'accès aux différents niveaux de la qualification professionnelle et de
 contribuer au développement économique et culturel et à la promotion sociale.
+
+La stratégie nationale définie à l'article L. 6111-1 comporte un volet consacré
+à l'accès et au développement de la formation professionnelle des personnes en
+situation de handicap.

@@ -14,4 +14,4 @@ sociale.
 
 Elles ne s'appliquent pas non plus aux personnels intérimaires des entreprises
 de travail temporaire ni aux salariés concernés par des mesures de réduction
-d'horaire ouvrant droit à une indemnisation au titre du chômage partiel.
+d'horaire ouvrant droit à une indemnisation au titre de l'activité partielle.

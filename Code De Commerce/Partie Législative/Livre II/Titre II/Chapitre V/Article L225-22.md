@@ -9,13 +9,13 @@ auxquelles a pris part l'administrateur irrégulièrement nommé.
 Le nombre des administrateurs liés à la société par un contrat de travail ne
 peut dépasser le tiers des administrateurs en fonction.
 
-Toutefois, les administrateurs élus par les salariés, les administrateurs
-représentant les salariés actionnaires ou le fonds commun de placement
-d'entreprise en application de l'article L. 225-23 et, dans les sociétés
-anonymes à participation ouvrière, les représentants de la société coopérative
-de main-d'oeuvre ne sont pas comptés pour la détermination du nombre des
-administrateurs liés à la société par un contrat de travail mentionné à l'alinéa
-précédent.
+Toutefois, les administrateurs élus par les salariés ou désignés en application
+de l'article L. 225-27-1, les administrateurs représentant les salariés
+actionnaires ou le fonds commun de placement d'entreprise en application de
+l'article L. 225-23 et, dans les sociétés anonymes à participation ouvrière, les
+représentants de la société coopérative de main-d'oeuvre ne sont pas comptés
+pour la détermination du nombre des administrateurs liés à la société par un
+contrat de travail mentionné à l'alinéa précédent.
 
 En cas de fusion ou de scission, le contrat de travail peut avoir été conclu
 avec l'une des sociétés fusionnées ou avec la société scindée.

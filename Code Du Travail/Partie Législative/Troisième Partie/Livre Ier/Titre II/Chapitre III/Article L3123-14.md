@@ -20,3 +20,7 @@ entreprises d'aide à domicile, les horaires de travail sont communiqués par
 
 4° Les limites dans lesquelles peuvent être accomplies des heures
 complémentaires au-delà de la durée de travail fixée par le contrat.
+
+L'avenant au contrat de travail prévu à l'article L. 3123-25 mentionne les
+modalités selon lesquelles des compléments d'heures peuvent être accomplis
+au-delà de la durée fixée par le contrat.
