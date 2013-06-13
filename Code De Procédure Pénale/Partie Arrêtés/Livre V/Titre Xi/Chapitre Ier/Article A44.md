@@ -968,15 +968,16 @@ Service pénitentiaire d'insertion et de probation de l'Orne.
 
 Alençon.
 
-Antenne d'Argentan.
+Antenne d'Alençon.
+
+Circonscription judiciaire d'Alençon. Centre pénitentiaire d'Alençon -
+Condé-sur-Sarthe
+
+Antenne d'Argentan
 
 Circonscription judiciaire d'Argentan.
 
-(Arr. 17 sept. 2003, art. 5) Centre de détention d'Argentan.
-
-Antenne d'Alençon.
-
-Circonscription judiciaire d'Alençon.
+Centre de détention d'Argentan.
 
 Service pénitentiaire d'insertion et de probation du Pas-de-Calais.
 
