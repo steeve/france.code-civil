@@ -4,3 +4,6 @@ La durée minimale de travail du salarié à temps partiel est fixée à vingt-q
 heures par semaine ou, le cas échéant, à l'équivalent mensuel de cette durée ou
 à l'équivalent calculé sur la période prévue par un accord collectif conclu en
 application de l'article L. 3122-2.
+
+Les dispositions prévues au premier alinéa ne sont pas applicables aux contrats
+d'une durée au plus égale à sept jours.
