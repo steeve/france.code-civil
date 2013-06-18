@@ -126,3 +126,44 @@ personnes mentionnées aux articles 196 à 196 B du même code.
 
 II. ― Les zones A, A bis, B 1 et B 2 mentionnées au I sont celles définies à
 l'article R. 304-1 du code de la construction et de l'habitation.
+
+III.-Pour l'application du second alinéa du III de l'article 199 novovicies du
+code général des impôts, les plafonds de loyer mentionnés au premier alinéa du 1
+du I, lorsqu'ils ne sont pas sensiblement inférieurs aux loyers pratiqués dans
+le parc privé, peuvent être réduits dans les conditions et selon les modalités
+suivantes :
+
+1. Les plafonds de loyer réduits sont, par commune ou ensemble de communes
+appartenant à une même zone, compris entre le niveau du loyer pratiqué pour les
+logements du parc locatif privé et les plafonds de loyer applicables aux
+logements financés dans les conditions prévues aux articles R. 331-17 à R.
+331-21 du code de la construction et de l'habitation. Le niveau du loyer
+pratiqué dans le parc locatif privé est apprécié par tous moyens, notamment à
+partir des informations recueillies dans les observatoires et bases de données
+disponibles ou figurant dans les programmes locaux de l'habitat prévus aux
+articles L. 302-1 et L. 302-4-1 du même code.
+
+2. Le représentant de l'Etat dans la région soumet pour avis son projet d'arrêté
+:
+
+1° Au comité régional de l'habitat mentionné à l'article L. 364-1 du code de la
+construction et de l'habitation ;
+
+2° Aux communes et établissements publics de coopération intercommunale
+disposant d'un programme local de l'habitat exécutoire ainsi qu'aux départements
+qui ont conclu la convention avec l'Etat prévue à l'article L. 301-5-2 du code
+de la construction et de l'habitation, sur le territoire desquels il est
+envisagé d'appliquer la réduction. Les collectivités et établissements disposent
+d'un délai de deux mois pour émettre leur avis. A l'expiration de ce délai, ils
+sont réputés s'être prononcés.
+
+3. Aux plafonds de loyer réduits, il est fait application du coefficient
+multiplicateur défini au 1 du I.
+
+4. Les plafonds de loyer réduits sont révisés au 1er janvier de chaque année
+dans les conditions prévues au premier alinéa du 1 du I.
+
+5. L'arrêté fixant des plafonds de loyer réduits s'applique aux logements dont
+l'acte authentique d'acquisition est signé ou, s'agissant des logements que le
+contribuable fait construire, dont la demande de permis de construire est
+déposée postérieurement à l'entrée en vigueur de l'arrêté.

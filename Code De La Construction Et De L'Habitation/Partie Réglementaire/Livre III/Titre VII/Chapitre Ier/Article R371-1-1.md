@@ -22,8 +22,9 @@ en application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
 5° Sur les projets de plans départementaux d'action pour le logement des
 personnes défavorisées ;
 
-6° Abrogé.
+6° Sur l'arrêté pris par le représentant de l'Etat dans la région en application
+du second alinéa du III de l'article 199 novovicies du code général des impôts.
 
 Le conseil départemental de l'habitat peut déléguer tout ou partie des
-compétences prévues aux 2° à 5° du présent article à son bureau ou aux
+compétences prévues aux 2° à 6° du présent article à son bureau ou aux
 commissions spécialisées mentionnées à l'article R. 371-9.
