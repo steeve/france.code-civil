@@ -3,6 +3,10 @@ Article D621-20
 Le mandat des membres des conseils expire trois ans après la réunion
 d'installation du conseil dans lequel ils siègent. Il est renouvelable.
 
+Les membres suppléants du conseil spécialisé mentionné à l'article D. 621-15 y
+siègent en cas d'empêchement temporaire ou d'absence des membres titulaires. Ils
+ne peuvent donner mandat à un autre membre pour les représenter.
+
 En cas de vacance d'un poste pour cause de décès, de démission, de perte par un
 membre de la qualité au titre de laquelle il a été désigné ou de nomination d'un
 membre à la présidence d'un conseil, un remplaçant est désigné. Son mandat
@@ -15,4 +19,8 @@ Hormis les représentants de l'Etat et des établissements publics de l'Etat, to
 membre d'un conseil régulièrement convoqué qui n'a pas assisté à trois séances
 consécutives de ce conseil sans excuse reconnue légitime pourra être considéré
 comme démissionnaire alors même qu'il aura donné mandat à un autre membre pour
-le représenter.
+le représenter. Ces dispositions ne s'appliquent aux membres titulaires du
+conseil spécialisé mentionné à l'article D. 621-15 que si leur suppléant n'a pas
+assisté à la séance. Si le suppléant appelé à siéger n'a pas assisté à trois
+séances consécutives du conseil, il peut également être considéré comme
+démissionnaire.

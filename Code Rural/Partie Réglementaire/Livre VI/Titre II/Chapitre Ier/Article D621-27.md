@@ -22,11 +22,11 @@ fois par an, au conseil d'administration ;
 5° Passe au nom de l'établissement les contrats et marchés et les actes
 d'acquisition et de vente ;
 
-5° Est ordonnateur principal des recettes et des dépenses de l'établissement ;
+6° Est ordonnateur principal des recettes et des dépenses de l'établissement ;
 il peut désigner des ordonnateurs secondaires et, sur proposition de l'agent
 comptable, des comptables secondaires ;
 
-6° A la faculté de conclure des transactions, dans les conditions prévues par
+7° A la faculté de conclure des transactions, dans les conditions prévues par
 les articles 2044 et suivants du code civil, sous réserve de l'avis préalable du
 conseil d'administration.
 
