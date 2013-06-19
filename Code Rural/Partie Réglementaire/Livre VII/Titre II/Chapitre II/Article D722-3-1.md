@@ -7,7 +7,7 @@ certifiant qu'elles répondent aux conditions de la levée de présomption de
 salariat. Pour la première année, cette attestation est établie par la caisse de
 mutualité sociale agricole et transmise à la personne intéressée, sur demande de
 cette dernière. Toutefois, si la levée de présomption de salariat fait suite à
-l'avis de la commission mentionnée à l'article D. 722-3, la caisse établit
+l'avis du directeur régional mentionné à l'article D. 722-3, la caisse établit
 l'attestation et la transmet spontanément à la personne intéressée. Pour les
 années suivantes, cette attestation est renouvelée de façon automatique par la
 caisse de mutualité sociale agricole qui la transmet à la personne intéressée.

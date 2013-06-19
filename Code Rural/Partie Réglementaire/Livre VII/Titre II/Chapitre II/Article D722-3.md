@@ -2,21 +2,20 @@ Article D722-3
 ----
 Les demandes d'affiliation au régime de protection sociale des personnes non
 salariées des professions agricoles en qualité d'entrepreneur de travaux
-forestiers sont transmises par les caisses de mutualité sociale agricole à une
-commission instituée dans chaque région par arrêté du préfet et composée de
-représentants du ministre chargé de l'agriculture, des caisses de mutualité
-sociale agricole et des organisations professionnelles représentatives de
-salariés et d'exploitants ou d'entrepreneurs de travaux forestiers ainsi que de
-personnalités qualifiées compétentes en matière de travaux forestiers.
+forestiers sont transmises par les caisses de mutualité sociale agricole au
+directeur régional de l'alimentation, de l'agriculture et de la forêt compétent
+dans la région où est situé le siège de la caisse ou, lorsque celui-ci se situe
+dans la région Ile-de-France, au directeur régional et interdépartemental de
+l'alimentation, de l'agriculture et de la forêt.
 
-Les caisses de mutualité sociale agricole transmettent également à la commission
-mentionnée à l'alinéa précédent les demandes de levée de présomption de salariat
-des personnes redevables de la cotisation de solidarité prévue à l'article L.
-731-23.
+Les caisses de mutualité sociale agricole transmettent également au directeur
+régional les demandes de levée de présomption de salariat des personnes
+redevables de la cotisation de solidarité prévue à l'article L. 731-23.
 
-La commission examine si les intéressés répondent aux conditions fixées aux
+Le directeur régional transmet à la caisse de mutualité sociale agricole son
+avis sur la situation des intéressés au regard des conditions fixées aux
 articles D. 722-32 et D. 722-33.
 
-Après avoir recueilli l'avis de la commission, les caisses de mutualité sociale
-agricole se prononcent sur les demandes d'affiliation et de levée de présomption
-de salariat.
+Après avoir recueilli l'avis du directeur régional, les caisses de mutualité
+sociale agricole se prononcent sur les demandes d'affiliation et de levée de
+présomption de salariat.

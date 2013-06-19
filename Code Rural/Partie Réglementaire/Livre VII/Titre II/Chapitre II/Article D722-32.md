@@ -28,8 +28,7 @@ article ;
 
 4° Posséder, compte tenu notamment de diplômes autres que ceux mentionnés
 ci-dessus ou de ses activités et travaux antérieurs, une capacité ou une
-expérience professionnelle reconnue par la commission mentionnée à l'article D.
-722-3.
+expérience professionnelle suffisante.
 
 Les niveaux de diplômes mentionnés au présent article sont ceux figurant au
 répertoire national des certifications professionnelles visé à l'article L.
