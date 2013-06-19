@@ -58,5 +58,5 @@ ministre de la défense ou l'autorité habilitée par lui.
 Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par
 lui donne son avis dans le délai d'un mois, par tout moyen.
 
-L'autorité visée au huitième alinéa du présent article est habilitée par arrêté
+L'autorité visée au neuvième alinéa du présent article est habilitée par arrêté
 du ministre de la défense.

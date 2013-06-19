@@ -1,8 +1,8 @@
-Article L2339-4-1
+Article L317-3-2
 ----
-Est punie d'un emprisonnement de six mois et d'une amende de 7 500 € toute
-personne titulaire de l'une des autorisations de fabrication ou de commerce
-d'armes et de munitions mentionnées à l'article L. 2332-1 qui :
+Est punie de six mois d'emprisonnement et de 7 500 € d'amende toute personne
+titulaire de l'une des autorisations de fabrication ou de commerce d'armes et de
+munitions mentionnées à l'article L. 313-3 qui :
 
 1° Ne tient pas à jour le registre spécial dans lequel sont enregistrés, dans
 des conditions fixées par décret en Conseil d'Etat, les matériels mis en
@@ -12,7 +12,7 @@ détruits ;
 2° Dans le cas d'opérations d'intermédiation, ne tient pas à jour le registre
 spécial dans lequel sont enregistrés, dans des conditions fixées par le même
 décret en Conseil d'Etat, le nom des entreprises mises en relation ou des autres
-participants à l'opération d'intermédiation, ainsi que le contenu de ces
+participants à l'opération d'intermédiation ainsi que le contenu de ces
 opérations ;
 
 3° En cas de cessation d'activité, ne dépose pas auprès de l'autorité
@@ -23,8 +23,8 @@ même décret en Conseil d'Etat ;
 4° Cède à un autre commerçant ou fabricant autorisé un matériel, une arme, un
 élément essentiel ou des munitions des catégories A, B ou C ou une arme, un
 élément essentiel ou des munitions de catégorie D mentionnés au second alinéa de
-l'article L. 312-4-2 du code de la sécurité intérieure, sans accomplir les
-formalités déterminées par le même décret en Conseil d'Etat ;
+l'article L. 312-4-1, sans accomplir les formalités déterminées par le même
+décret en Conseil d'Etat ;
 
 5° Vend par correspondance des matériels, armes, munitions et leurs éléments
 essentiels sans avoir reçu et conservé les documents nécessaires à leur

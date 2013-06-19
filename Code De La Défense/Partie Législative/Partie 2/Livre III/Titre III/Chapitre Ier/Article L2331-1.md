@@ -4,7 +4,8 @@ I.-Les matériels de guerre et les armes, munitions et éléments désignés par
 présent titre sont classés dans les catégories suivantes :
 
 1° Catégorie A : matériels de guerre et armes interdits à l'acquisition et à la
-détention, sous réserve des dispositions de l'article L. 2336-1.
+détention, sous réserve des dispositions des articles L. 312-1 à L. 312-4-3 du
+code de la sécurité intérieure.
 
 Cette catégorie comprend :
 

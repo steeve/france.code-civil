@@ -11,6 +11,5 @@ d'emprisonnement et 500 000 € d'amende ;
 2° S'il s'agit d'armes, de leurs éléments essentiels ou de munitions de
 catégorie C, à cinq ans d'emprisonnement et 75 000 € d'amende ;
 
-3° S'il s'agit d'armes, de munitions ou de leurs éléments de la catégorie D, à
-l'exception de ceux qui présentent une faible dangerosité et figurent sur une
-liste fixée par arrêté, à deux ans d'emprisonnement et 30 000 € d'amende.
+3° S'il s'agit d'armes, de munitions ou de leurs éléments de catégorie D soumis
+à enregistrement, à deux ans d'emprisonnement et 30 000 € d'amende.
