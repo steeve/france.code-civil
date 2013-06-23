@@ -1,9 +1,9 @@
 Article D615-62-6
 ----
-I.-Pour l'intégration dans le régime de paiement unique des montants mentionnés
-au deuxième tiret du IV de l'article D. 615-62, le montant final à découpler est
-établi, pour chaque agriculteur, selon les modalités précisées au présent
-article.
+I. - Pour l'intégration dans le régime de paiement unique des montants destinés
+aux paiements des aides pour les prunes d'ente, les pêches et les poires
+destinées à la transformation, le montant final à découpler est établi, pour
+chaque agriculteur, selon les modalités précisées au présent article.
 
 II.-Les montants à découpler pour les pêches destinées à la transformation sont
 répartis entre les agriculteurs admissibles, pendant la campagne de
@@ -36,9 +36,9 @@ exceptionnelles visées à l'article 31 du même règlement (CE) n° 73/2009.
 
 IV.-Le montant final à découpler correspond au montant de référence mentionné au
 point A de l'annexe IX du même règlement (CE) n° 73/2009, après prise en compte
-des événements intervenus entre le 1er janvier 2007 et le 15 mai 2011. Il est
+des événements intervenus entre le 1er janvier 2007 et le 15 mai 2013. Il est
 incorporé dans le portefeuille de droits à paiement unique de l'agriculteur au
-15 mai 2011.
+15 mai 2013.
 
 Un arrêté du ministre chargé de l'agriculture précise les modalités de prise en
 compte des événements mentionnés au précédent alinéa, ainsi que les modalités
