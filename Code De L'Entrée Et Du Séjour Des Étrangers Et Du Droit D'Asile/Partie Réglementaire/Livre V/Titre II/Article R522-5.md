@@ -7,12 +7,12 @@ Le bulletin de notification doit :
 2° Enoncer les faits motivant cette procédure ;
 
 3° Indiquer la date, l'heure et le lieu de la réunion de la commission prévue
-aux articles L. 522-1 et L. 522-2 ;
+aux articles L. 522-1 et L. 522-2 à laquelle il est convoqué ;
 
 4° Préciser que les débats de la commission sont publics ;
 
-5° Porter à la connaissance de l'étranger les dispositions de l'article R. 522-6
-;
+5° Porter à la connaissance de l'étranger les dispositions du quatrième alinéa
+de l'article L. 522-2 et celles de l'article R. 522-6 ;
 
 6° Faire connaître à l'étranger qu'il peut se présenter seul ou assisté d'un
 conseil et demander à être entendu avec un interprète ;
