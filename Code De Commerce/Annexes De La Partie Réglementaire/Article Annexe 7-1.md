@@ -76,12 +76,14 @@ Grasse
 
 Grasse
 
-Ressort du tribunal d'instance de Grasse
+Ressort du tribunal d'instance de Grasse et des cantons de Carros, de
+Coursegoules et de Vence
 
 
 Antibes
 
-Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer
+Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer à l'exception
+des cantons de Carros, de Coursegoules et de Vence
 
 
 Cannes
