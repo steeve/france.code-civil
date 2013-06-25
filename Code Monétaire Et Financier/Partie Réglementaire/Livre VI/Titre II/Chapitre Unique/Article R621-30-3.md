@@ -7,9 +7,10 @@ directe ou indirecte au sens de l'article R. 621-30-1.
 
 Ne constitue pas la diffusion d'une recommandation d'investissement le fait pour
 tout média de diffuser une information de presse, élaborée par un journaliste
-professionnel au sens de l'article L. 761-2 du code du travail, portant sur une
-personne faisant appel public à l'épargne, sur les instruments financiers
-qu'elle émet ou sur une recommandation d'investissement produite par un tiers ou
-sur son résumé, même lorsqu'elle n'a pas encore été rendue publique dès lors que
-cette information de presse n'apporte aucune modification substantielle de la
-recommandation dont elle rend compte, notamment au sens de celle-ci.
+professionnel au sens des articles L. 7111-3, L. 7111-4 et L. 7112-1 du code du
+travail, portant sur une personne faisant appel public à l'épargne, sur les
+instruments financiers qu'elle émet ou sur une recommandation d'investissement
+produite par un tiers ou sur son résumé, même lorsqu'elle n'a pas encore été
+rendue publique dès lors que cette information de presse n'apporte aucune
+modification substantielle de la recommandation dont elle rend compte, notamment
+au sens de celle-ci.

@@ -4,7 +4,7 @@ Par dérogation aux dispositions du sixième alinéa de l'article L. 214-4 et au
 de l'article R. 214-6, les fonds communs de placement d'entreprise et sociétés
 d'investissement à capital variable d'actionnariat salarié peuvent détenir sans
 limitation des valeurs mobilières émises par l'entreprise ou par une entreprise
-liée au sens du second alinéa de l'article L. 444-3 du code du travail.
+liée au sens des articles L. 3344-1 et L. 3344-2 du code du travail.
 
 S'agissant des parts de sociétés à responsabilité limitée émises par une
 entreprise régie par la loi n° 47-1775 du 10 septembre 1947 portant statut de la
@@ -15,12 +15,12 @@ restriction au rachat immédiat des parts sociales détenues par le fonds.
 Par dérogation au huitième alinéa de l'article L. 214-4, les fonds communs de
 placement d'entreprise et sociétés d'investissement à capital variable
 d'actionnariat salarié peuvent détenir plus de 10 % des titres émis par
-l'entreprise ou par toute autre entreprise qui lui est liée au sens du second
-alinéa de l'article L. 444-3 du code du travail.
+l'entreprise ou par toute autre entreprise qui lui est liée au sens des articles
+L. 3344-1 et L. 3344-2 du code du travail.
 
 Le montant cumulé des liquidités constatées lors de l'établissement de chacune
 des valeurs liquidatives de l'année en cours ne peut excéder le cinquième de la
-somme des actifs nets de la même période. L'Autorité des marchés financiers peut
+somme des actifs nets de la même période.L'Autorité des marchés financiers peut
 apporter à cette règle des dérogations exceptionnelles.
 
 Lorsque la proportion de l'actif d'un fonds commun de placement d'entreprise ou

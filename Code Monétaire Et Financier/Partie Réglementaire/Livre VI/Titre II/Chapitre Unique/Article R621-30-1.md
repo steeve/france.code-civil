@@ -18,8 +18,9 @@ compte ;
 
 2° L'ensemble des études, informations ou opinions mentionnées au premier alinéa
 lorsqu'elles sont produites par toute autre personne que celles mentionnées au
-1°, notamment par un journaliste professionnel au sens de l'article L. 761-2 du
-code du travail et qui recommandent directement une stratégie d'investissement.
+1°, notamment par un journaliste professionnel au sens des articles L. 7111-3 et
+4 et L. 7112-1 du code du travail et qui recommandent directement une stratégie
+d'investissement.
 
 Une recommandation directe d'une stratégie d'investissement s'entend d'une
 indication explicite de la décision d'investissement recommandée, telle que la
