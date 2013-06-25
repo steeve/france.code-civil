@@ -1,13 +1,33 @@
 Article R5122-9
 ----
-En cas de fermeture temporaire de l'établissement prévue au 3° de l'article R.
-5122-8, lorsque la suspension d'activité se prolonge au-delà de six semaines,
-les salariés sont considérés comme étant à la recherche d'un emploi, alors même
-qu'ils n'ont pas fait l'objet d'une mesure de licenciement, pour l'ouverture des
-droits aux allocations prévues en faveur des salariés dont le contrat de travail
-a été rompu.
+I. - Une autorisation d'activité partielle peut être accordée pour une durée
+maximum de six mois. Elle peut être renouvelée dans les conditions fixées au II.
 
-Si la suspension d'activité se poursuit au-delà de trois mois, le préfet décide,
-compte tenu de la situation de l'entreprise, si les salariés peuvent encore être
-considérés comme étant à la recherche d'un emploi. Cette décision est prise pour
-une durée limitée.
+II. - Lorsque l'employeur a, préalablement à sa demande, déjà placé ses salariés
+en activité partielle au cours des trente-six mois précédant la date de dépôt de
+la demande d'autorisation, celle-ci mentionne les engagements souscrits par
+l'employeur.
+
+Ces engagements peuvent notamment porter sur :
+
+1° Le maintien dans l'emploi des salariés pendant une durée pouvant atteindre le
+double de la période d'autorisation ;
+
+2° Des actions spécifiques de formation pour les salariés placés en activité
+partielle ;
+
+3° Des actions en matière de gestion prévisionnelle des emplois et des
+compétences ;
+
+4° Des actions visant à rétablir la situation économique de l'entreprise.
+
+L'autorité administrative fixe ces engagements en tenant compte de la situation
+de l'entreprise, d'un éventuel accord collectif sur les conditions du recours à
+l'activité partielle ou, à défaut, des propositions figurant dans la demande
+d'autorisation ainsi que de la récurrence du recours à l'activité partielle dans
+l'établissement.
+
+III. - Les engagements sont notifiés dans la décision d'autorisation.
+
+IV. - L'autorité administrative s'assure du respect des engagements souscrits
+par l'employeur.

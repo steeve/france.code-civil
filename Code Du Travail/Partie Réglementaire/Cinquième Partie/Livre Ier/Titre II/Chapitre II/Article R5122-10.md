@@ -1,8 +1,9 @@
 Article R5122-10
 ----
-En cas de fermeture d'un établissement pour mise en congé annuel des salariés,
-ceux qui ne remplissent pas les conditions requises pour bénéficier de la
-totalité de ce congé peuvent prétendre individuellement aux allocations pour
-privation partielle d'emploi, compte tenu des journées ou des indemnités
-compensatrices de congés payés dont ils auraient pu bénéficier pendant la
-période de référence.
+L'autorité administrative demande à l'employeur le remboursement des sommes
+perçues au titre de l'allocation d'activité partielle en cas de non-respect par
+l'entreprise, sans motif légitime, des engagements mentionnés dans la décision
+d'autorisation.
+
+Le remboursement peut ne pas être exigé s'il est incompatible avec la situation
+économique et financière de l'entreprise.

@@ -1,5 +1,4 @@
 Article R5122-12
 ----
-L'allocation spécifique de chômage partiel prend la forme d'indemnités horaires
-dont le taux, fixé par décret pris sur le rapport des ministres chargés de
-l'emploi et du budget, peut varier selon la taille de l'entreprise.
+Le taux horaire de l'allocation d'activité partielle est fixé par décret. Il est
+d'un montant supérieur pour les entreprises de moins de 250 salariés.
