@@ -5,6 +5,6 @@ l'employeur examine avec le salarié l'adéquation du programme de formation au
 regard des acquis du salarié. En cas d'inadéquation, l'employeur et le salarié
 peuvent, dans les limites de la durée de ce contrat, conclure un avenant. Cet
 avenant est transmis à l'organisme collecteur paritaire agréé. Il est déposé à
-la direction départementale du travail, de l'emploi et de la formation
-professionnelle selon les modalités et dans les conditions définies à l'article
-D. 6325-1.
+la direction régionale des entreprises, de la concurrence, de la consommation,
+du travail et de l'emploi selon les modalités et dans les conditions définies à
+l'article D. 6325-1.
