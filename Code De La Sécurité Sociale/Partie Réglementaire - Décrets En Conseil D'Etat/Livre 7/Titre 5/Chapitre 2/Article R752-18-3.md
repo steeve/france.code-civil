@@ -1,15 +1,17 @@
 Article R752-18-3
 ----
-La section des assurances sociales du conseil régional des chirurgiens-dentistes
-de Fort-de-France compétente à l'égard des chirurgiens-dentistes exerçant dans
-les départements de la Guadeloupe, de la Guyane et de la Martinique est présidée
-par le président du tribunal administratif de Fort-de-France ou un conseiller
-délégué par lui.
+La section des assurances sociales de la chambre disciplinaire de première
+instance du conseil interrégional de l'ordre des chirurgiens-dentistes exerçant
+dans les départements de la Guadeloupe, de la Guyane et de la Martinique est
+présidée par le président du tribunal administratif où la section des assurances
+sociales de la chambre disciplinaire de première instance a son siège ou un
+magistrat délégué par lui.
 
 La section comprend également, d'une part, deux assesseurs proposés par le
-conseil régional et choisis en son sein, d'autre part, deux assesseurs proposés
-par les trois caisses générales de sécurité sociale, l'un administrateur de
-caisse ou agent de direction, l'autre chirurgien-dentiste-conseil. En ce qui
-concerne le chirurgien-dentiste-conseil, la proposition est faite après
-consultation du médecin-conseil régional. Les assesseurs sont nommés par le
-préfet de la région Martinique.
+conseil interrégional et choisis en son sein et, d'autre part, deux assesseurs
+proposés conjointement par les trois caisses générales de sécurité sociale,
+après consultation des chirurgiens-dentistes-conseils régionaux, parmi les
+chirurgiens-dentistes-conseils titulaires ou les médecins-conseils titulaires
+chargés du contrôle médical dans ces régions. Les assesseurs sont nommés par le
+président du tribunal administratif dans le ressort duquel est installé le siège
+de la section.

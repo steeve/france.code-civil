@@ -1,13 +1,13 @@
 Article R145-20
 ----
-Les requérants sont admis en qualité de parties intéressées à se faire
-représenter aux débats ; les organismes soit par un de leurs administrateurs ou
-par leur représentant légal, soit par un avocat, soit, selon le cas, par un
-médecin conseil, un chirurgien-dentiste conseil ou un pharmacien conseil du
-régime intéressé, les syndicats soit par leur représentant légal, soit par un
-avocat, soit par un membre de la profession muni d'un mandat régulier.
-
-Les praticiens, sages-femmes, pharmaciens ou auxiliaires médicaux intéressés
-peuvent se faire assister ou représenter soit par un membre de leur profession
-inscrit au tableau ou dont le diplôme est régulièrement enregistré, soit par un
-avocat inscrit au barreau.
+Les présidents des sections des assurances sociales des conseils régionaux ou
+centraux des sections D, G et H et le président de la section des assurances
+sociales du Conseil national de l'ordre des pharmaciens peuvent, par ordonnance,
+donner acte des désistements, rejeter une requête ne relevant manifestement pas
+de la compétence de leur juridiction, statuer sur les requêtes qui ne présentent
+plus à juger de questions autres que la condamnation prévue à l'article L. 761-1
+du code de justice administrative, la charge des dépens ou la fixation des dates
+d'exécution des sanctions mentionnées à l'article R. 145-2 du présent code,
+constater qu'il n'y a pas lieu de statuer sur une requête et rejeter les
+conclusions entachées d'une irrecevabilité manifeste non susceptible d'être
+couverte en cours d'instance.

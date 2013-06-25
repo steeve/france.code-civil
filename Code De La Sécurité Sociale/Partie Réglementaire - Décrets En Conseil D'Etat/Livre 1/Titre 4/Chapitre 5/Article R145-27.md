@@ -1,10 +1,10 @@
 Article R145-27
 ----
-Les membres des sections des assurances sociales des conseils régionaux et
-interrégionaux de l'ordre des médecins, de l'ordre des chirurgiens-dentistes et
-de l'ordre des sages-femmes, des conseils régionaux et des conseils centraux de
-la section D et de la section G de l'ordre des pharmaciens ainsi que les membres
-des sections des assurances sociales des conseils nationaux de l'ordre des
-médecins, de l'ordre des chirurgiens-dentistes, de l'ordre des sages-femmes et
-de l'ordre des pharmaciens sont astreints au secret professionnel dans les
-conditions prévues à l'article 226-13 du code pénal.
+Les articles R. 611-2 à R. 611-5 du code de justice administrative relatifs à la
+communication des mémoires et pièces, le premier alinéa de l'article R. 611-7 et
+les articles R. 613-1, à l'exception de la dernière phrase du deuxième alinéa,
+et R. 613-4, relatifs à la clôture de l'instruction, sont applicables devant les
+sections des assurances sociales des chambres disciplinaires de première
+instance, les sections des assurances sociales des conseils régionaux ou
+centraux des sections D, G et H de l'ordre des pharmaciens et les sections des
+assurances sociales des conseils nationaux des ordres.

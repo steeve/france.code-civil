@@ -1,30 +1,27 @@
 Article R145-18
 ----
-Les sections des assurances sociales des conseils régionaux ou interrégionaux
-des ordres des médecins, des chirurgiens-dentistes et des sages-femmes et les
-sections des assurances sociales des conseils régionaux ou des conseils centraux
-de la section D et de la section G de l'ordre des pharmaciens peuvent être
-saisies soit par les organismes d'assurance maladie, les caisses de mutualité
-sociale agricole ou les autres organismes assureurs, soit par les syndicats de
-praticiens, de sages-femmes, de pharmaciens ou d'auxiliaires médicaux, soit par
-les conseils départementaux des ordres intéressés.
+Le médecin, le chirurgien-dentiste, la sage-femme ou l'auxiliaire médical
+prestataire de services est soumis à la section des assurances sociales de la
+chambre disciplinaire compétente dans le ressort de laquelle il exécute l'acte
+professionnel ou, s'il s'agit d'un pharmacien, à la section des assurances
+sociales du conseil compétent dans les conditions prévues à l'article R. 4222-6
+du code de la santé publique.
 
-Ces sections peuvent également être saisies par les directeurs régionaux des
-affaires sanitaires et sociales et par les chefs de services régionaux de
-l'inspection du travail, de l'emploi et de la politique sociale agricoles ou
-leurs représentants.
+Lorsqu'un prestataire de services est traduit devant la section des assurances
+sociales d'une chambre disciplinaire de première instance ou la section des
+assurances sociales d'un conseil régional ou central de l'ordre des pharmaciens,
+celle-ci en avise sans délai le conseil national de l'ordre de la profession
+concernée.
 
-Elles peuvent être également saisies :
+Dans le cas où plusieurs sections des assurances sociales sont simultanément
+saisies de plaintes contre un prestataire de services, la section des assurances
+sociales du conseil national de la profession concernée désigne la section qui
+statue sur les plaintes.
 
-1° En ce qui concerne le régime général, par le médecin-conseil national, les
-médecins-conseils régionaux et les médecins-conseils chefs des services du
-contrôle médical du ressort de chaque circonscription de caisse primaire
-d'assurance maladie ;
+L'autorité compétente de l'Etat membre de l'Union européenne ou partie à
+l'accord sur l'Espace économique européen où est établi le prestataire de
+services est immédiatement informée de la sanction prise contre ce dernier.
 
-2° En ce qui concerne le régime agricole, par le médecin-conseil national, et
-les médecins-conseils chefs de service des échelons départementaux ou
-pluridépartementaux du contrôle médical ;
-
-3° En ce qui concerne les autres régimes, par les médecins-conseils responsables
-du service du contrôle médical d'une caisse ou d'un organisme de sécurité
-sociale.
+Les dispositions du présent article ne sont pas applicables aux professionnels
+de santé qui bénéficient des stipulations des conventions en vigueur relatives
+aux professionnels de santé frontaliers.

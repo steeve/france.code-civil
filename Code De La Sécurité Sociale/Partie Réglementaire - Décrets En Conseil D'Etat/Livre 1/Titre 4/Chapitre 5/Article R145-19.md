@@ -1,34 +1,23 @@
 Article R145-19
 ----
-Les plaintes et les mémoires produits sont déposés au secrétariat de la section
-des assurances sociales du conseil compétent et doivent être accompagnés de
-copies certifiées conformes par le demandeur en nombre égal à celui des autres
-parties en cause, augmenté de deux.
+Si la section des assurances sociales de la chambre disciplinaire de première
+instance de l'ordre intéressé ou la section des assurances sociales du conseil
+régional ou central de la section D, G ou H de l'ordre des pharmaciens ne s'est
+pas prononcée dans un délai d'un an à compter de la réception de la plainte, la
+section des assurances sociales du conseil national compétent peut, à
+l'expiration de ce délai, être saisie par les requérants. La juridiction de
+première instance est alors dessaisie à la date d'enregistrement de la requête
+au conseil national.
 
-Lorsque le nombre des copies n'est pas égal à celui des parties, le demandeur en
-est averti par le secrétariat qui lui fait connaître, par lettre recommandée
-avec demande d'avis de réception, que, si les productions complémentaires ne
-sont pas produites dans le délai de quinze jours à compter de la date de
-réception de cet avertissement, la plainte sera rejetée comme irrecevable.
+Le délai d'un an prévu à l'alinéa précédent court à compter de la date de
+réception par la section des assurances sociales de la chambre disciplinaire de
+première instance ou du conseil régional ou central de l'ordre des pharmaciens
+du dossier complet de la plainte.
 
-En cas de nécessité, le président de la formation de jugement pourra exiger des
-parties intéressées la production des copies supplémentaires, sous la sanction
-prévue à l'alinéa précédent.
+Les délais prévus au présent article sont décomptés conformément aux
+dispositions des articles 640 à 644 du code de procédure civile.
 
-Lorsque les parties joignent des pièces à l'appui de leurs plaintes ou de leurs
-mémoires, ces pièces sont accompagnées de copies qu'elles certifient conformes,
-en nombre égal à celui des autres parties augmenté de deux. Toutefois, lorsque
-le nombre, le volume ou les caractéristiques des pièces font obstacle à la
-production de copies, les autres parties ou leurs mandataires en prennent
-connaissance au secrétariat et peuvent en prendre copie à leurs frais.
-
-Les plaintes sont inscrites, à leur arrivée, sur le registre d'ordre qui est
-tenu par le secrétaire. Elles sont en outre marquées, ainsi que les pièces qui y
-sont jointes, d'un timbre indiquant la date de leur arrivée.
-
-Les copies des plaintes et des mémoires produits sont communiquées, ainsi que
-les pièces jointes, sous réserve des dispositions du quatrième alinéa du présent
-article, par lettre recommandée avec demande d'avis de réception, aux parties
-intéressées. Celles-ci sont invitées, s'il y a lieu, à produire mémoire ou
-observations en défense dans le délai fixé par le président de la formation de
-jugement.
+Le point de départ du délai d'un an ainsi prévu est reporté, le cas échéant, à
+la date de réception de la confirmation de la plainte lorsque celle-ci a d'abord
+été formée à titre conservatoire, dans l'attente des propositions de la
+commission prévue à l'article L. 162-35.

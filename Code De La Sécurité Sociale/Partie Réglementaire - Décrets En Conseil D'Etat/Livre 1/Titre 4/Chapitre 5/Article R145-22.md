@@ -1,9 +1,12 @@
 Article R145-22
 ----
-Le ministre chargé de la sécurité sociale et le ministre chargé de l'agriculture
-peuvent, dans l'intérêt de la loi, faire appel, sans condition de délai, des
-décisions rendues par les sections des assurances sociales des conseils
-régionaux et interrégionaux de l'ordre des médecins, de l'ordre des
-chirurgiens-dentistes et de l'ordre des sages-femmes ou par les sections des
-assurances sociales des conseils régionaux ou des conseils centraux de la
-section D et de la section G de l'ordre des pharmaciens.
+Les sections des assurances sociales des chambres disciplinaires de première
+instance de l'ordre des médecins, des chirurgiens-dentistes, des sages-femmes,
+des masseurs-kinésithérapeutes, des infirmiers et des pédicures-podologues et
+les sections des assurances sociales des conseils régionaux ou centraux des
+sections D, G et H de l'ordre des pharmaciens sont saisies, dans les cas prévus
+aux articles L. 145-1, L. 145-5-1, R. 145-1 et R. 145-8, par lettre recommandée
+avec demande d'avis de réception, adressée au secrétariat de la section
+intéressée dans le délai de trois ans à compter de la date des faits. Les
+plaintes et les mémoires produits peuvent être aussi déposés au secrétariat de
+la section des assurances sociales compétente.
