@@ -1,12 +1,12 @@
 Article L313-22
 ----
-Les établissements de crédit ayant accordé un concours financier à une
-entreprise, sous la condition du cautionnement par une personne physique ou une
-personne morale, sont tenus au plus tard avant le 31 mars de chaque année de
-faire connaître à la caution le montant du principal et des intérêts,
-commissions, frais et accessoires restant à courir au 31 décembre de l'année
-précédente au titre de l'obligation bénéficiant de la caution, ainsi que le
-terme de cet engagement. Si l'engagement est à durée indéterminée, ils
+Les établissements de crédit ou les sociétés de financement ayant accordé un
+concours financier à une entreprise, sous la condition du cautionnement par une
+personne physique ou une personne morale, sont tenus au plus tard avant le 31
+mars de chaque année de faire connaître à la caution le montant du principal et
+des intérêts, commissions, frais et accessoires restant à courir au 31 décembre
+de l'année précédente au titre de l'obligation bénéficiant de la caution, ainsi
+que le terme de cet engagement. Si l'engagement est à durée indéterminée, ils
 rappellent la faculté de révocation à tout moment et les conditions dans
 lesquelles celle-ci est exercée.
 

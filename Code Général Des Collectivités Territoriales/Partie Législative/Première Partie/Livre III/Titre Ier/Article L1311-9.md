@@ -6,5 +6,5 @@ compétente de l'Etat lorsqu'ils sont poursuivis par les collectivités
 territoriales, leurs groupements et leurs établissements publics.
 
 Les dispositions du premier alinéa ne sont pas applicables aux établissements
-publics locaux de crédit et aux associations foncières de remembrement et à
-leurs unions.
+publics locaux agréés pour réaliser des opérations de crédit et aux associations
+foncières de remembrement et à leurs unions.

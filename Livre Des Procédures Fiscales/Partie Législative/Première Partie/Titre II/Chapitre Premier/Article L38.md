@@ -7,9 +7,10 @@ recouvrement, les agents habilités à cet effet par le ministre chargé des
 douanes peuvent procéder à des visites en tous lieux, même privés, où les
 pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi
 que les biens et avoirs en provenant directement ou indirectement sont
-susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à
-leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de
-police judiciaire.
+susceptibles d'être détenus ou d'être accessibles ou disponibles
+
+et procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un
+officier de police judiciaire.
 
 Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie
 des pièces et documents, quel qu'en soit le support, ainsi que des objets ou des
@@ -49,12 +50,12 @@ saisie de biens et avoirs pouvant provenir directement ou indirectement des
 infractions dont la preuve est recherchée.
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un
-coffre dans un établissement de crédit dont la personne occupant les lieux
-visités est titulaire et où des pièces, documents, objets ou marchandises se
-rapportant aux infractions visées au 1. sont susceptibles de se trouver, ils
-peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris
-l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette
-autorisation est portée au procès-verbal prévu au 4.
+coffre dans un établissement de crédit ou une société de financement dont la
+personne occupant les lieux visités est titulaire et où des pièces, documents,
+objets ou marchandises se rapportant aux infractions visées au 1. sont
+susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout
+moyen par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de
+ce coffre. Mention de cette autorisation est portée au procès-verbal prévu au 4.
 
 Si, à l'occasion de la visite, les agents habilités découvrent des éléments
 révélant l'existence en d'autres lieux de biens ou avoirs se rapportant aux

@@ -1,14 +1,14 @@
 Article L823-19
 ----
 Au sein des personnes et entités dont les titres sont admis à la négociation sur
-un marché réglementé, ainsi que dans les établissements de crédit mentionnés à
-l'article L. 511-1 du code monétaire et financier, les entreprises d'assurances
-et de réassurances, les mutuelles régies par le livre II du code de la mutualité
-et les institutions de prévoyance régies par le titre III du livre IX du code de
-la sécurité sociale, un comité spécialisé agissant sous la responsabilité ,
-selon le cas, de l'organe chargé de l'administration ou de l'organe de
-surveillance assure le suivi des questions relatives à l'élaboration et au
-contrôle des informations comptables et financières.
+un marché réglementé, ainsi que dans les établissements de crédit et sociétés de
+financement mentionnés à l'article L. 511-1 du code monétaire et financier, les
+entreprises d'assurances et de réassurances, les mutuelles régies par le livre
+II du code de la mutualité et les institutions de prévoyance régies par le titre
+III du livre IX du code de la sécurité sociale, un comité spécialisé agissant
+sous la responsabilité , selon le cas, de l'organe chargé de l'administration ou
+de l'organe de surveillance assure le suivi des questions relatives à
+l'élaboration et au contrôle des informations comptables et financières.
 
 La composition de ce comité est fixée, selon le cas, par l'organe chargé de
 l'administration ou de la surveillance. Le comité ne peut comprendre que des

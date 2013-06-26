@@ -41,23 +41,6 @@ détenue par une autre société coopérative ouvrière de production dans les
 conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant
 statut des sociétés coopératives ouvrières de production ;
 
-Le 2° est toutefois applicable aux sociétés coopératives ouvrières de production
-issues de la transformation d'autres sociétés dans les conditions prévues aux
-articles 48 à 52 de la loi n° 78-763 du 19 juillet 1978 précitée et pour
-lesquelles les associés non coopérateurs s'engagent, au moment de la
-transformation et dans des conditions fixées par décret, à céder un nombre de
-parts sociales suffisant pour permettre aux associés coopérateurs de détenir au
-moins 50 % du capital de la société au plus tard à la clôture du septième
-exercice qui suit celui de la transformation en société coopérative ouvrière de
-production.
-
-En cas de non-respect de l'engagement mentionné au deuxième alinéa du présent
-7°, la société rapporte au résultat imposable du septième exercice suivant celui
-de la transformation en société coopérative ouvrière de production une somme
-correspondant aux distributions déduites. Les droits correspondants sont majorés
-de l'intérêt de retard prévu à l'article 1727 du présent code, décompté à partir
-de l'exercice au cours duquel les distributions ont été déduites ;
-
 8° En ce qui concerne les groupements d'employeurs fonctionnant dans les
 conditions prévues aux articles L. 1253-1 à L. 1253-18 du code du travail, les
 sommes dans la limite de 10 000 € au titre d'un même exercice.

@@ -22,4 +22,5 @@ un groupement professionnel représentatif d'entreprises au profit des salariés
 de celles-ci ou par une organisation représentative d'une profession non
 salariée ou d'agents des collectivités publiques au profit de ses membres. Il ne
 s'applique pas non plus aux contrats de groupe souscrits par un établissement de
-crédit, ayant pour objet la garantie de remboursement d'un emprunt.
+crédit ou une société de financement, ayant pour objet la garantie de
+remboursement d'un emprunt.

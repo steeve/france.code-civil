@@ -1,7 +1,7 @@
 Article L31-10-7
 ----
-L'offre de prêt ne portant pas intérêt émise par l'établissement de crédit peut
-prévoir :
+L'offre de prêt ne portant pas intérêt émise par l'établissement de crédit ou la
+société de financement peut prévoir :
 
 a) D'ajuster, dans des conditions fixées par décret, le montant ou les
 conditions du prêt afin que l'avantage correspondant à celui-ci soit équivalent

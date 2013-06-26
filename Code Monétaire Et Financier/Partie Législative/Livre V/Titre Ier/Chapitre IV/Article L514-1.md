@@ -3,10 +3,11 @@ Article L514-1
 I.-Les caisses de crédit municipal sont des établissements publics communaux de
 crédit et d'aide sociale. Elles ont notamment pour mission de combattre l'usure
 par l'octroi de prêts sur gages corporels dont elles ont le monopole. Elles
-peuvent réaliser toutes opérations avec les établissements de crédit, recevoir
-des fonds des personnes physiques et des personnes morales, mettre à la
-disposition de ces personnes des moyens de paiement et réaliser avec elles des
-opérations connexes au sens de l'article L. 311-2.
+peuvent réaliser toutes opérations avec les établissements de crédit et les
+sociétés de financement, recevoir des fonds des personnes physiques et des
+personnes morales, mettre à la disposition de ces personnes des moyens de
+paiement et réaliser avec elles des opérations connexes au sens de l'article L.
+311-2.
 
 II.-Elles exercent leur activité après avoir obtenu l'agrément de l'Autorité de
 contrôle prudentiel et de résolution. Cet agrément peut prévoir, en fonction des

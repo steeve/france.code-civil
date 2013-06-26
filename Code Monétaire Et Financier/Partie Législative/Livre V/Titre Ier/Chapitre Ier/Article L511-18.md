@@ -14,14 +14,17 @@ accord écrit du débiteur ou par décision de l'Autorité de contrôle prudenti
 de résolution ;
 
 3. Les plans et comptes d'épargne logement, les livrets d'épargne d'entreprise,
-les plans et livrets d'épargne populaire, les plans d'épargne en actions, ainsi
-que les engagements par signature peuvent être transférés, sans préjudice des
-droits des titulaires ou bénéficiaires, à un ou plusieurs autres établissements
-de crédit ;
+les plans et livrets d'épargne populaire, les plans d'épargne en actions peuvent
+être transférés, sans préjudice des droits des titulaires ou bénéficiaires, à un
+ou plusieurs autres établissements de crédit ;
 
-4. Les instruments financiers inscrits en compte auprès de l'établissement
+4. Les engagements par signature peuvent être transférés, sans préjudice des
+droits des bénéficiaires, à un ou plusieurs autres établissements de crédit ou
+sociétés de financement ;
+
+5. Les instruments financiers inscrits en compte auprès de l'établissement
 peuvent être transférés chez un autre prestataire de services d'investissement
 ou chez l'émetteur ;
 
-5. Les opérations prévues aux 1 à 6 de l'article L. 311-2 et aux articles L.
+6. Les opérations prévues aux 1 à 6 de l'article L. 311-2 et aux articles L.
 511-2 et L. 511-3 sont limitées.

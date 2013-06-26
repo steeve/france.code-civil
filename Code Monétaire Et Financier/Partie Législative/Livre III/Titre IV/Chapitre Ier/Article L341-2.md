@@ -26,26 +26,26 @@ laquelle la prise de contact a lieu, dès lors que l'opération proposée
 correspond, à raison de ses caractéristiques, des risques ou des montants en
 cause, à des opérations habituellement réalisées par cette personne ;
 
-6° Aux démarches effectuées, pour le compte d'un établissement de crédit, en vue
-de proposer un contrat de financement de biens ou de prestations de services
-répondant aux conditions prévues à la section 9 du chapitre Ier du titre Ier du
-livre III du code de la consommation, ou constituant une location-vente ou une
-location avec option d'achat visées à l'article L. 311-2 dudit code. Il en va de
-même lorsque ces contrats sont destinés aux besoins d'une activité
-professionnelle ;
+6° Aux démarches effectuées, pour le compte d'un établissement de crédit ou
+d'une société de financement, en vue de proposer un contrat de financement de
+biens ou de prestations de services répondant aux conditions prévues à la
+section 9 du chapitre Ier du titre Ier du livre III du code de la consommation,
+ou constituant une location-vente ou une location avec option d'achat visées à
+l'article L. 311-2 dudit code. Il en va de même lorsque ces contrats sont
+destinés aux besoins d'une activité professionnelle ;
 
 7° Sans préjudice des dispositions prévues au 6°, aux démarches effectuées pour
-le compte d'un établissement de crédit en vue de proposer des contrats de
-financement de ventes à tempérament ou de location aux personnes, physiques ou
-morales, autres que celles visées au 1°, à la condition que le nom de
-l'établissement prêteur et le coût du crédit ou de la location soient
-mentionnés, sous peine de nullité ;
+le compte d'un établissement de crédit ou d'une société de financement en vue de
+proposer des contrats de financement de ventes à tempérament ou de location aux
+personnes, physiques ou morales, autres que celles visées au 1°, à la condition
+que le nom de l'établissement ou de la société prêteur et le coût du crédit ou
+de la location soient mentionnés, sous peine de nullité ;
 
 8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un
-établissement de crédit, d'un établissement de monnaie électronique fournissant
-des services de paiement permettant l'octroi de crédit ou d'un établissement de
-paiement, en vue de proposer des crédits visés au titre Ier du livre III du code
-de la consommation ;
+établissement de crédit, d'une société de financement, d'un établissement de
+monnaie électronique fournissant des services de paiement permettant l'octroi de
+crédit ou d'un établissement de paiement, en vue de proposer des crédits visés
+au titre Ier du livre III du code de la consommation ;
 
 9° Aux conventions conclues entre les personnes mentionnées au 1° de l'article
 L. 341-3, à l'exception des sociétés de capital-risque, pour la distribution de

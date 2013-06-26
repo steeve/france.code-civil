@@ -2,7 +2,7 @@ Article L141-8
 ----
 Peuvent être titulaires de comptes à la Banque de France :
 
-1. Les organismes régis par les dispositions de l'article L. 511-9 ;
+1. Les organismes définis à l'article L. 511-1 ;
 
 2. Le Trésor public, l'institut d'émission des départements d'outre-mer,
 l'institut d'émission d'outre-mer et la caisse des dépôts et consignations ;

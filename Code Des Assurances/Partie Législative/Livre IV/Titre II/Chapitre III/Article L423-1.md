@@ -28,9 +28,9 @@ d) Sociétés entrant dans le périmètre de consolidation défini à l'article 
 233-16 du code de commerce dont relève l'entreprise d'assurance, sauf s'il
 s'agit de contrats souscrits au profit de leurs salariés ou de leurs clients ;
 
-e) Etablissements de crédit et personnes mentionnées à l'article L. 518-1 du
-code monétaire et financier, sauf pour les contrats souscrits pour le compte
-d'un emprunteur, d'un client ou de leurs salariés ;
+e) Etablissements de crédit, sociétés de financement et personnes mentionnées à
+l'article L. 518-1 du code monétaire et financier, sauf pour les contrats
+souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
 
 f) Organismes de placement collectifs ;
 

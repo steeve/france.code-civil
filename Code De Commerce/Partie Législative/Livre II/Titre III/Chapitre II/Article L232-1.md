@@ -7,7 +7,7 @@ dispositions de la section 2 du chapitre III du titre II du livre Ier et
 
 1° Un état des cautionnements, avals et garanties donnés par la société. Cette
 disposition n'est pas applicable aux sociétés exploitant un établissement de
-crédit ou une entreprise d'assurance ;
+crédit, une société de financement ou une entreprise d'assurance ;
 
 2° Un état des sûretés consenties par elle.
 

@@ -31,11 +31,12 @@ d'insolvabilité ouverte à l'encontre de l'établissement ;
 2° Les fonds collectés en contrepartie de l'émission de monnaie électronique
 sont couverts, dans le respect des délais mentionnés au 1° du présent article,
 par un contrat d'assurance ou une autre garantie comparable d'une entreprise
-d'assurances ou d'un établissement de crédit n'appartenant pas au même groupe,
-au sens de l'article L. 233-3 du code de commerce, selon des modalités définies
-par arrêté du ministre chargé de l'économie qui assurent ou garantissent les
-détenteurs de monnaie électronique contre la défaillance de l'établissement de
-monnaie électronique dans l'exécution de ses obligations financières.
+d'assurances, d'une société de financement ou d'un établissement de crédit
+n'appartenant pas au même groupe, au sens de l'article L. 233-3 du code de
+commerce, selon des modalités définies par arrêté du ministre chargé de
+l'économie qui assurent ou garantissent les détenteurs de monnaie électronique
+contre la défaillance de l'établissement de monnaie électronique dans
+l'exécution de ses obligations financières.
 
 Le présent article s'applique aux fonds collectés par les personnes mentionnées
 à l'article L. 525-8, les délais mentionnés au 1° du présent article commençant

@@ -7,8 +7,8 @@ réglementation financières les arrêtés pris dans les matières suivantes :
 conditions d'accès au sociétariat ainsi que les limitations du champ d'activité
 qui en résultent pour ces établissements ;
 
-2. La définition des compétences des institutions financières spécialisées, des
-caisses d'épargne et de prévoyance et des caisses de crédit municipal ;
+2. La définition des compétences des caisses d'épargne et de prévoyance et des
+caisses de crédit municipal ;
 
 3. Les principes applicables aux opérations de banque assorties d'une aide
 publique ;

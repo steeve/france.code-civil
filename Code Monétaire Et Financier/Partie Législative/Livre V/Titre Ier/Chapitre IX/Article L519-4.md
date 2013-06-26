@@ -6,5 +6,6 @@ parties, est tenu à tout moment de justifier d'une garantie financière
 spécialement affectée au remboursement de ces fonds aux clients.
 
 Cette garantie ne peut résulter que d'un engagement de caution pris par un
-établissement de crédit habilité à cet effet ou une entreprise d'assurance ou de
-capitalisation régie par le code des assurances.
+établissement de crédit ou une société de financement habilité à cet effet ou
+une entreprise d'assurance ou de capitalisation régie par le code des
+assurances.

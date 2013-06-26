@@ -20,5 +20,5 @@ entreprises adhérentes. Les groupements de prévention agréés peuvent aussi
 bénéficier d'aides des collectivités territoriales.
 
 Les groupements de prévention agréés sont habilités à conclure, notamment avec
-les établissements de crédit et les entreprises d'assurance, des conventions au
-profit de leurs adhérents.
+les établissements de crédit, les sociétés de financement et les entreprises
+d'assurance, des conventions au profit de leurs adhérents.

@@ -6,8 +6,13 @@ Sont habilités à émettre des titres de créances négociables :
 des dépôts et consignations, sous réserve de respecter les conditions fixées à
 cet effet par le ministre chargé de l'économie ;
 
-2. Les entreprises autres que celles mentionnées au 1, sous réserve de remplir
-les conditions de forme juridique, de capital et de contrôle des comptes
+1 bis. Les sociétés de financement, sous réserve de respecter les conditions
+fixées à cet effet par le ministre chargé de l'économie et à condition que le
+produit de ces émissions ne constitue pas des fonds remboursables du public au
+sens de l'article L. 312-2 ;
+
+2. Les entreprises autres que celles mentionnées aux 1 et 1 bis, sous réserve de
+remplir les conditions de forme juridique, de capital et de contrôle des comptes
 requises pour procéder à une offre au public de titres financiers ou à une
 admission de titres financiers aux négociations sur un marché réglementé et dont
 le capital social est précisé par décret, ou des conditions équivalentes pour

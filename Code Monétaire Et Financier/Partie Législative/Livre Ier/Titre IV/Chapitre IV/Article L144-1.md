@@ -9,7 +9,7 @@ La Banque de France peut communiquer tout ou partie des renseignements qu'elle
 détient sur la situation financière des entreprises aux autres banques
 centrales, aux autres institutions chargées d'une mission similaire à celles qui
 lui sont confiées en France et aux établissements de crédit et établissements
-financiers.
+financiers, notamment les sociétés de financement.
 
 Elle peut aussi communiquer ces renseignements aux entreprises d'assurance
 habilitées, dans les conditions prévues par le code des assurances, à pratiquer

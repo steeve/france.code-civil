@@ -1,16 +1,16 @@
 Article 244 quater J
 ----
-I.-Les établissements de crédit mentionnés à l'article L. 511-1 du code
-monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le
-revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen ayant conclu avec la France une convention d'assistance administrative
-en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un
-crédit d'impôt au titre d'avances remboursables ne portant pas intérêt
-consenties à des personnes physiques, soumises à des conditions de ressources,
-pour l'acquisition ou la construction d'une résidence principale en accession à
-la première propriété et versées au cours de l'année d'imposition ou de
-l'exercice.
+I.-Les établissements de crédit ou les sociétés de financement mentionnés à
+l'article L. 511-1 du code monétaire et financier passibles de l'impôt sur les
+sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège
+dans un Etat membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre d'avances
+remboursables ne portant pas intérêt consenties à des personnes physiques,
+soumises à des conditions de ressources, pour l'acquisition ou la construction
+d'une résidence principale en accession à la première propriété et versées au
+cours de l'année d'imposition ou de l'exercice.
 
 Le montant de l'avance remboursable sans intérêt peut, le cas échéant, financer
 l'ensemble des travaux prévus par le bénéficiaire de cette avance lors de
@@ -100,11 +100,12 @@ Les modalités de calcul du crédit d'impôt et de détermination de ce taux son
 fixées par décret en Conseil d'Etat.
 
 Le crédit d'impôt résultant de l'application des premier et deuxième alinéas
-fait naître au profit de l'établissement de crédit une créance, inaliénable et
-incessible, d'égal montant. Cette créance constitue un produit imposable
-rattaché à hauteur d'un cinquième au titre de l'exercice au cours duquel
-l'établissement de crédit a versé des avances remboursables sans intérêt et par
-fractions égales sur les exercices suivants.
+fait naître au profit de l'établissement de crédit ou de la société de
+financement une créance, inaliénable et incessible, d'égal montant. Cette
+créance constitue un produit imposable rattaché à hauteur d'un cinquième au
+titre de l'exercice au cours duquel l'établissement de crédit ou la société de
+financement a versé des avances remboursables sans intérêt et par fractions
+égales sur les exercices suivants.
 
 En cas de fusion, la créance de la société absorbée est transférée à la société
 absorbante. En cas de scission ou d'apport partiel d'actif, la créance est
@@ -114,23 +115,24 @@ société scindée ou apporteuse soient transférés à la société bénéficia
 apports.
 
 III.-Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une
-convention entre l'établissement de crédit mentionné au I et l'Etat, conforme à
-une convention type approuvée par arrêté conjoint du ministre chargé de
-l'économie et du ministre chargé du logement.
+convention entre l'établissement de crédit ou la société de financement
+mentionné au I et l'Etat, conforme à une convention type approuvée par arrêté
+conjoint du ministre chargé de l'économie et du ministre chargé du logement.
 
-IV.-Une convention conclue entre l'établissement de crédit mentionné au I et
-l'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la
-propriété mentionné à l'article L. 312-1 du code de la construction et de
-l'habitation définit les modalités de déclaration par l'établissement de crédit
-des avances remboursables, le contrôle de l'éligibilité des avances
-remboursables et le suivi des crédits d'impôt.
+IV.-Une convention conclue entre l'établissement de crédit ou la société de
+financement mentionné au I et l'organisme chargé de gérer le Fonds de garantie
+de l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de
+la construction et de l'habitation définit les modalités de déclaration par
+l'établissement de crédit ou la société de financement des avances
+remboursables, le contrôle de l'éligibilité des avances remboursables et le
+suivi des crédits d'impôt.
 
 V.-L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la
 propriété mentionné au IV est tenu de fournir à l'administration fiscale dans
-les quatre mois de la clôture de l'exercice de chaque établissement de crédit
-les informations relatives aux avances remboursables sans intérêt versées par
-chaque établissement de crédit, le montant total des crédits d'impôt
-correspondants obtenus ainsi que leur suivi.
+les quatre mois de la clôture de l'exercice de chaque établissement de crédit ou
+société de financement les informations relatives aux avances remboursables sans
+intérêt versées par chaque établissement de crédit ou société de financement, le
+montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi.
 
 VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L,
 ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C

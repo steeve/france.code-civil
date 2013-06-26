@@ -3,7 +3,7 @@ Article L721-3
 Les tribunaux de commerce connaissent :
 
 1° Des contestations relatives aux engagements entre commerçants, entre
-établissements de crédit ou entre eux ;
+établissements de crédit, entre sociétés de financement ou entre eux ;
 
 2° De celles relatives aux sociétés commerciales ;
 

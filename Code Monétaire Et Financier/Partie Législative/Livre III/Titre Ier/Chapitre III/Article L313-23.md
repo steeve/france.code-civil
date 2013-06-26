@@ -1,12 +1,13 @@
 Article L313-23
 ----
-Tout crédit qu'un établissement de crédit consent à une personne morale de droit
-privé ou de droit public, ou à une personne physique dans l'exercice par
-celle-ci de son activité professionnelle, peut donner lieu au profit de cet
-établissement, par la seule remise d'un bordereau, à la cession ou au
-nantissement par le bénéficiaire du crédit, de toute créance que celui-ci peut
-détenir sur un tiers, personne morale de droit public ou de droit privé ou
-personne physique dans l'exercice par celle-ci de son activité professionnelle.
+Tout crédit qu'un établissement de crédit ou qu'une société de financement
+consent à une personne morale de droit privé ou de droit public, ou à une
+personne physique dans l'exercice par celle-ci de son activité professionnelle,
+peut donner lieu au profit de cet établissement ou de cette société, par la
+seule remise d'un bordereau, à la cession ou au nantissement par le bénéficiaire
+du crédit, de toute créance que celui-ci peut détenir sur un tiers, personne
+morale de droit public ou de droit privé ou personne physique dans l'exercice
+par celle-ci de son activité professionnelle.
 
 Peuvent être cédées ou données en nantissement les créances liquides et
 exigibles, même à terme. Peuvent également être cédées ou données en
@@ -21,7 +22,8 @@ Le bordereau doit comporter les énonciations suivantes :
 2. La mention que l'acte est soumis aux dispositions des articles L. 313-23 à L.
 313-34 ;
 
-3. Le nom ou la dénomination sociale de l'établissement de crédit bénéficiaire ;
+3. Le nom ou la dénomination sociale de l'établissement de crédit ou de la
+société de financement bénéficiaire ;
 
 4. La désignation ou l'individualisation des créances cédées ou données en
 nantissement ou des éléments susceptibles d'effectuer cette désignation ou cette

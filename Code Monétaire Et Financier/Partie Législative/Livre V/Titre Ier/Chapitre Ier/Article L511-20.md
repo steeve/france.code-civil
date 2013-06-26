@@ -1,11 +1,11 @@
 Article L511-20
 ----
-I.-Est une filiale d'un établissement de crédit, d'une entreprise
-d'investissement, d'une compagnie financière ou d'une compagnie financière
-holding mixte l'entreprise sur laquelle est exercé un contrôle exclusif au sens
-de l'article L. 233-16 du code de commerce, ou une influence dominante en raison
-de l'existence de liens de solidarité importants et durables résultant
-d'engagements financiers, de dirigeants ou de services communs.
+I.-Est une filiale d'un établissement de crédit, d'une société de financement,
+d'une entreprise d'investissement, d'une compagnie financière ou d'une compagnie
+financière holding mixte l'entreprise sur laquelle est exercé un contrôle
+exclusif au sens de l'article L. 233-16 du code de commerce, ou une influence
+dominante en raison de l'existence de liens de solidarité importants et durables
+résultant d'engagements financiers, de dirigeants ou de services communs.
 
 II.-Constitue une participation le fait de détenir, directement ou
 indirectement, au moins 20 % des droits de vote ou du capital d'une entreprise,
@@ -17,11 +17,12 @@ ses filiales et des entités dans lesquelles l'entreprise mère ou ses filiales
 détiennent des participations, ainsi que des entités liées de telle sorte que
 leurs organes d'administration, de direction ou de surveillance sont composés en
 majorité des mêmes personnes ou qu'elles sont placées sous une direction unique
-en vertu d'un contrat ou de clauses statutaires. Les établissements affiliés à
-un réseau et l'organe central au sens de l'article L. 511-31 sont considérés
-comme faisant partie d'un même groupe pour l'application du présent code. Il en
-est de même pour les entités appartenant à des groupes coopératifs régis par les
-dispositions similaires dans la législation qui leur est applicable.
+en vertu d'un contrat ou de clauses statutaires. Les établissements et sociétés
+de financement affiliés à un réseau et l'organe central au sens de l'article L.
+511-31 sont considérés comme faisant partie d'un même groupe pour l'application
+du présent code. Il en est de même pour les entités appartenant à des groupes
+coopératifs régis par les dispositions similaires dans la législation qui leur
+est applicable.
 
 IV.-L'expression : " groupe financier " désigne l'ensemble ne constituant pas un
 conglomérat financier formé par les filiales, directes ou indirectes, d'un

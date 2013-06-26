@@ -10,8 +10,8 @@ d'investissement, ni les établissements de monnaie électronique, ni les
 établissements de paiement, ni les organismes collecteurs de la participation
 des employeurs à l'effort de construction pour les opérations prévues par le
 code de la construction et de l'habitation, ni les OPCVM ni les FIA relevant des
-paragraphes 1,2,3 et 6 de la sous-section 2, et des sous-sections 3,4 et 5 de la
-section 2 du chapitre IV du titre Ier du livre II.
+paragraphes 1, 2, 3 et 6 de la sous-section 2, et des sous-sections 3, 4 et 5 de
+la section 2 du chapitre IV du titre Ier du livre II.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 
@@ -39,11 +39,11 @@ projets d'insertion par des personnes physiques.
 
 Ces associations et fondations ne sont pas autorisées à procéder à l'offre au
 public d'instruments financiers. Elles peuvent financer leur activité par des
-ressources empruntées auprès des établissements de crédit et des institutions ou
-services mentionnés à l'article L. 518-1 ainsi qu'auprès de personnes physiques,
-dûment avisées des risques encourus. Les prêts consentis par les personnes
-physiques sont non rémunérés et ne peuvent être d'une durée inférieure à deux
-ans.
+ressources empruntées auprès des établissements de crédit, des sociétés de
+financement et des institutions ou services mentionnés à l'article L. 518-1
+ainsi qu'auprès de personnes physiques, dûment avisées des risques encourus. Les
+prêts consentis par les personnes physiques sont non rémunérés et ne peuvent
+être d'une durée inférieure à deux ans.
 
 Ces associations et fondations sont habilitées dans des conditions définies par
 décret en Conseil d'Etat. Elles indiquent dans leur rapport annuel le montant et

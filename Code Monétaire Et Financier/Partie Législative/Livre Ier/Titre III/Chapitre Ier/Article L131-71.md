@@ -11,11 +11,12 @@ disposition du titulaire du compte.
 
 Il peut être délivré des formules de chèques barrées d'avance et rendues, par
 une mention expresse du banquier, non transmissibles par voie d'endossement,
-sauf au profit d'un établissement de crédit, d'un établissement assimilé, d'un
-établissement de monnaie électronique ou d'un établissement de paiement.
-L'administration des impôts peut obtenir à tout moment, sur sa demande,
-communication de l'identité des personnes auxquelles sont délivrées des formules
-ne répondant pas à ces caractéristiques ainsi que le numéro de ces formules.
+sauf au profit d'un établissement de crédit, d'un établissement assimilé, d'une
+société de financement, d'un établissement de monnaie électronique ou d'un
+établissement de paiement. L'administration des impôts peut obtenir à tout
+moment, sur sa demande, communication de l'identité des personnes auxquelles
+sont délivrées des formules ne répondant pas à ces caractéristiques ainsi que le
+numéro de ces formules.
 
 Les formules de chèques mentionnent le numéro de téléphone de la succursale ou
 agence bancaire auprès de laquelle le chèque est payable.

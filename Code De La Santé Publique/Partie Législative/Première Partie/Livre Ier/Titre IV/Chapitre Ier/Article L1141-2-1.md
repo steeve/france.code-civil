@@ -19,11 +19,11 @@ requise ;
 nature médicale ;
 
 6° Un mécanisme de mutualisation, mis en oeuvre par les entreprises d'assurance,
-les mutuelles et institutions de prévoyance et les établissements de crédit,
-permettant, sous condition de ressources des demandeurs d'emprunt, de limiter le
-coût additionnel résultant du risque aggravé pour l'assurance décès et
-invalidité des crédits professionnels et des crédits destinés à l'acquisition de
-la résidence principale ;
+les mutuelles, les institutions de prévoyance, les établissements de crédit et
+les sociétés de financement, permettant, sous condition de ressources des
+demandeurs d'emprunt, de limiter le coût additionnel résultant du risque aggravé
+pour l'assurance décès et invalidité des crédits professionnels et des crédits
+destinés à l'acquisition de la résidence principale ;
 
 7° Les dispositifs d'études et de recherche permettant de recueillir, d'analyser
 et de publier les données disponibles sur la mortalité et la morbidité résultant
@@ -34,8 +34,8 @@ nécessaires à la tarification du risque ;
 lesquelles la personne est informée des motifs des refus d'assurance ;
 
 9° Un dispositif de médiation entre, d'une part, les personnes présentant un
-risque aggravé de santé et, d'autre part, les organismes d'assurance et les
-établissements de crédit ;
+risque aggravé de santé et, d'autre part, les organismes d'assurance, les
+établissements de crédit et les sociétés de financement ;
 
 10° La composition et les modalités de fonctionnement d'une instance de suivi et
 de propositions associant les parties et chargée d'évaluer régulièrement la

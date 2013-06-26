@@ -73,7 +73,9 @@ plus de six mois, les loyers sont retenus à concurrence du produit de cette
 sous-location ;
 
 -les taxes sur le chiffre d'affaires et assimilées, les contributions
-indirectes, la taxe intérieure de consommation sur les produits énergétiques ;
+indirectes, la taxe intérieure de consommation sur les produits énergétiques
+[Dispositions déclarées non conformes à la Constitution par la décision du
+Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] ;
 
 -les autres charges de gestion courante, autres que les quotes-parts de résultat
 sur opérations faites en commun ;
@@ -121,9 +123,10 @@ compte, pour le calcul de la valeur ajoutée, qu'à raison de 10 % de leur monta
 en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en 2014,60 % en 2015,70 % en
 2016,80 % en 2017 et 90 % en 2018.
 
-III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par
-l'Autorité de contrôle prudentiel et de résolution, les entreprises mentionnées
-à l'article L. 531-4 du code monétaire et financier :
+III.-Pour les établissements de crédit et les sociétés de financement et,
+lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de
+résolution, les entreprises mentionnées à l'article L. 531-4 du code monétaire
+et financier :
 
 1. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation
 bancaires et des produits divers d'exploitation autres que les produits suivants
@@ -219,9 +222,11 @@ base des comptes consolidés prévus au I du même article.
 V.-Pour les sociétés et groupements créés pour la réalisation d'une opération
 unique de financement d'immobilisations corporelles :
 
-a) Qui sont détenus à 95 % au moins par un établissement de crédit et qui
-réalisent l'opération pour le compte de l'établissement de crédit ou d'une
-société elle-même détenue à 95 % au moins par l'établissement de crédit ;
+a) Qui sont détenus à 95 % au moins par un établissement de crédit ou une
+société de financement et qui réalisent l'opération pour le compte de
+l'établissement de crédit ou de la société de financement ou d'une société
+elle-même détenue à 95 % au moins par l'établissement de crédit ou la société de
+financement ;
 
 b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies
 ou 217 duodecies :

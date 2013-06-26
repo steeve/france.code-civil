@@ -13,7 +13,7 @@ leur créance aux créanciers titulaires de sûretés sur le bien. Sauf décisio
 spécialement motivée du juge-commissaire ou lorsqu'il intervient au bénéfice du
 Trésor ou des organismes sociaux ou organismes assimilés, ce paiement
 provisionnel est subordonné à la présentation par son bénéficiaire d'une
-garantie émanant d'un établissement de crédit.
+garantie émanant d'un établissement de crédit ou d'une société de financement.
 
 Le débiteur peut proposer aux créanciers, la substitution aux garanties qu'ils
 détiennent de garanties équivalentes. En l'absence d'accord, le juge-commissaire

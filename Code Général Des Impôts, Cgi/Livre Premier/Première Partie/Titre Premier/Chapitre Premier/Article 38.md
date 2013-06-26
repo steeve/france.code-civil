@@ -384,9 +384,9 @@ pas été exercés.
 code de commerce n'a pas d'incidence sur les résultats imposables, par
 dérogation aux 1 et 2 du présent article ;
 
-2° Toutefois, les dispositions du seizième alinéa du 5° du 1 de l'article 39
+2° Toutefois, les dispositions du dix-septième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart
-d'équivalence négatif, qui correspond à la dépréciation définie au dix-septième
+d'équivalence négatif, qui correspond à la dépréciation définie au dix-huitième
 alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
 L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
 l'impôt.

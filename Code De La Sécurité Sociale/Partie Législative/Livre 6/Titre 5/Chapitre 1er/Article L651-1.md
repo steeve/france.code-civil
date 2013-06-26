@@ -31,9 +31,9 @@ réalisées sur le territoire de la France métropolitaine ou des départements
 d'outre-mer ;
 
 9°) Indépendamment de leur forme juridique, des établissements et entreprises
-exerçant l'activité définie à l'article L. 511-1 du code monétaire et financier
-et relevant des chapitres Ier à VII ainsi que de la section 2 du chapitre VIII
-du titre Ier du livre V du même code ;
+mentionnés aux I et II de l'article L. 511-1 du code monétaire et financier et
+relevant des chapitres Ier à VII ainsi que de la section 2 du chapitre VIII du
+titre Ier du livre V du même code ;
 
 9° bis) Indépendamment de leur forme juridique, des entreprises ou sociétés
 d'assurance, de capitalisation et de réassurance de toute nature régies par le

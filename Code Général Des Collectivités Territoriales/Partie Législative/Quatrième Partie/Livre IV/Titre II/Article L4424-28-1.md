@@ -2,8 +2,8 @@ Article L4424-28-1
 ----
 La collectivité territoriale de Corse peut participer, par versement de
 dotations, à la constitution d'un fonds de garantie auprès d'un établissement de
-crédit ayant pour objet exclusif de garantir des concours financiers accordés à
-des entreprises.
+crédit ou d'une société de financement ayant pour objet exclusif de garantir des
+concours financiers accordés à des entreprises.
 
 La collectivité territoriale de Corse passe avec la société gestionnaire du
 fonds une convention déterminant notamment, l'objet, le montant et le

@@ -234,13 +234,19 @@ chaque exercice et qui peuvent donner lieu à la constitution de la provision
 pour fluctuation des cours prévue au troisième alinéa n'ouvrent pas droit à la
 provision pour hausse des prix.
 
+Un arrêté du ministre de l'économie et des finances fixe les limites dans
+lesquelles sont admises les provisions destinées à faire face aux risques
+particuliers afférents aux opérations de crédit à moyen et à long terme ainsi
+qu'aux crédits à moyen terme résultant de ventes ou de travaux effectués à
+l'étranger.
+
 Les provisions qui, en tout ou en partie, reçoivent un emploi non conforme à
 leur destination ou deviennent sans objet au cours d'un exercice ultérieur sont
 rapportées aux résultats dudit exercice. Lorsque le rapport n'a pas été effectué
 par l'entreprise elle-même, l'administration peut procéder aux rectifications
 nécessaires dès qu'elle constate que les provisions sont devenues sans objet.
 
-Par dérogation aux dispositions des premier et quinzième alinéas, la provision
+Par dérogation aux dispositions des premier et seizième alinéas, la provision
 pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est
 soumise au régime fiscal des moins-values à long terme défini au 2 du I de
 l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est
@@ -270,7 +276,7 @@ résultats de l'exercice de cession.
 
 Toutefois, les dotations aux provisions pour dépréciation comptabilisées au
 titre de l'exercice sur l'ensemble des titres de participation définis au
-dix-septième alinéa ne sont pas déductibles à hauteur du montant des plus-values
+dix-huitième alinéa ne sont pas déductibles à hauteur du montant des plus-values
 latentes existant à la clôture du même exercice sur les titres appartenant à cet
 ensemble. Pour l'application des dispositions de la phrase précédente, les
 plus-values latentes, qui s'entendent de la différence existant entre la valeur
@@ -307,13 +313,13 @@ constitution d'une provision déductible sur le plan fiscal. De même, le
 constituant ne peut déduire de provision pour dépréciation de la créance
 représentative de ces titres.
 
-Par exception aux dispositions du seizième alinéa, la provision éventuellement
-constituée par une entreprise en vue de faire face à la dépréciation d'une
-participation dans une filiale implantée à l'étranger n'est admise sur le plan
-fiscal que pour la fraction de son montant qui excède les sommes déduites en
-application des dispositions de l'article 39 octies A et non rapportées au
-résultat de l'entreprise. Cette disposition s'applique pour la détermination des
-résultats des exercices ouverts à compter du 1er janvier 1988.
+Par exception aux dispositions du dix-septième alinéa, la provision
+éventuellement constituée par une entreprise en vue de faire face à la
+dépréciation d'une participation dans une filiale implantée à l'étranger n'est
+admise sur le plan fiscal que pour la fraction de son montant qui excède les
+sommes déduites en application des dispositions de l'article 39 octies A et non
+rapportées au résultat de l'entreprise. Cette disposition s'applique pour la
+détermination des résultats des exercices ouverts à compter du 1er janvier 1988.
 
 Les dispositions de l'alinéa précédent sont également applicables à la fraction
 du montant de la provision pour dépréciation mentionnée à cet alinéa, qui excède
@@ -335,7 +341,7 @@ initial affectée d'un coefficient progressif. Ce coefficient est égal au
 quotient du nombre d'années d'utilisation du bien depuis sa mise en service sur
 sa durée totale d'utilisation.
 
-Les dotations à la provision visée au vingt-septième alinéa ne sont pas
+Les dotations à la provision visée au vingt-huitième alinéa ne sont pas
 déductibles si elles sont passées après l'expiration du plan de renouvellement
 en vigueur au 15 septembre 1997 ou, pour les biens mis en service après cette
 date, après l'expiration du plan initial de renouvellement.
@@ -343,17 +349,17 @@ date, après l'expiration du plan initial de renouvellement.
 La fraction de la provision pour renouvellement régulièrement constituée,
 figurant au bilan du dernier exercice clos avant le 31 décembre 1997 et qui, à
 la clôture des exercices suivants, est supérieure au montant déterminé en
-application des vingt-septième et vingt-huitième alinéas et n'a pas été
+application des vingt-huitième et vingt-neuvième alinéas et n'a pas été
 utilisée, n'est pas rapportée au résultat de ces exercices, sous réserve des
-dispositions du quinzième alinéa.
+dispositions du seizième alinéa.
 
 Lorsque le bien à renouveler ne fait pas l'objet de dotations aux amortissements
 déductibles pour la détermination du résultat imposable de l'entreprise, le prix
 de revient initial du bien est retenu pour une valeur nulle.
 
 Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un
-tiers, les dispositions des vingt-septième à trentième alinéas sont applicables
-à celui-ci.
+tiers, les dispositions des vingt-huitième à trente et unième alinéas sont
+applicables à celui-ci.
 
 Les provisions pour indemnités de licenciement constituées en vue de faire face
 aux charges liées aux licenciements pour motif économique ne sont pas
@@ -472,11 +478,11 @@ vente ultérieure des véhicules ainsi amortis.
 
 Les dispositions du premier alinéa ne sont pas applicables aux charges exposées
 pour les besoins de l'exploitation et résultant de l'achat, de la location ou de
-l'entretien des demeures historiques classées ou inscrites à l'inventaire
-supplémentaire des monuments historiques, des résidences servant d'adresse ou de
-siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du
-code de commerce, ou des résidences faisant partie intégrante d'un établissement
-de production et servant à l'accueil de la clientèle.
+l'entretien des demeures historiques classées, inscrites à l'inventaire
+supplémentaire des monuments historiques ou agréésou des résidences servant
+d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et
+L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante
+d'un établissement de production et servant à l'accueil de la clientèle.
 
 5. Sont également déductibles les dépenses suivantes :
 

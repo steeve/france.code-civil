@@ -10,6 +10,6 @@ d'argent par un particulier, à l'exception des opérations de crédit mentionn�
 " Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un
 particulier, avant l'obtention d'un ou plusieurs prêts d'argent. "
 
-Cette publicité doit indiquer le nom et l'adresse de l'établissement de crédit
-ou des établissements de crédit pour le compte duquel ou desquels
-l'intermédiaire exerce son activité.
+Cette publicité doit indiquer le nom et l'adresse du ou des établissements de
+crédit ou du ou des sociétés de financement desquels l'intermédiaire exerce son
+activité.

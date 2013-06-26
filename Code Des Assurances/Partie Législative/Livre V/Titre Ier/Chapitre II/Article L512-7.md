@@ -8,8 +8,8 @@ fonds aux assurés, sauf si ce mandataire peut justifier lui-même d'une telle
 garantie.
 
 Cette garantie ne peut résulter que d'un engagement de caution délivré par un
-établissement de crédit ou par une entreprise d'assurance régie par le présent
-code.
+établissement de crédit, une société de financement ou par une entreprise
+d'assurance régie par le présent code.
 
 L'obligation prévue par le présent article ne s'applique pas aux versements pour
 lesquels l'intermédiaire a reçu d'une entreprise d'assurance un mandat écrit le

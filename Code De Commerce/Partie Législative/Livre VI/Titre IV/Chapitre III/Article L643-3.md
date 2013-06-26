@@ -5,7 +5,8 @@ créancier, ordonner le paiement à titre provisionnel d'une quote-part d'une
 créance définitivement admise.
 
 Ce paiement provisionnel peut être subordonné à la présentation par son
-bénéficiaire d'une garantie émanant d'un établissement de crédit.
+bénéficiaire d'une garantie émanant d'un établissement de crédit ou d'une
+société de financement.
 
 Dans le cas où la demande de provision porte sur une créance privilégiée des
 administrations financières, des organismes de sécurité sociale, des

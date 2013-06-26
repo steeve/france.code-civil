@@ -1,12 +1,13 @@
 Article L316-1
 ----
-Tout établissement de crédit, de monnaie électronique ou de paiement désigne un
-ou plusieurs médiateurs chargés de recommander des solutions aux litiges avec
-des personnes physiques n'agissant pas pour des besoins professionnels, relatifs
-aux services fournis et à l'exécution de contrats conclus dans le cadre du
-présent titre et du titre II du présent livre et relatifs aux produits
-mentionnés aux titres Ier et II du livre II. Les médiateurs sont choisis en
-raison de leur compétence et de leur impartialité.
+Tout établissement de crédit, société de financement, établissement de monnaie
+électronique ou de paiement désigne un ou plusieurs médiateurs chargés de
+recommander des solutions aux litiges avec des personnes physiques n'agissant
+pas pour des besoins professionnels, relatifs aux services fournis et à
+l'exécution de contrats conclus dans le cadre du présent titre et du titre II du
+présent livre et relatifs aux produits mentionnés aux titres Ier et II du livre
+II. Les médiateurs sont choisis en raison de leur compétence et de leur
+impartialité.
 
 Le médiateur est tenu de statuer dans un délai de deux mois à compter de sa
 saisine. Celle-ci suspend la prescription conformément aux conditions de

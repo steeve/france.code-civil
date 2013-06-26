@@ -46,12 +46,12 @@ qu'il retient et qui laissent présumer, en l'espèce, l'existence des agissemen
 frauduleux dont la preuve est recherchée.
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un
-coffre dans un établissement de crédit dont la personne occupant les lieux
-visités est titulaire et où des pièces et documents se rapportant aux
-agissements visés au I sont susceptibles de se trouver, ils peuvent, sur
-autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance,
-procéder immédiatement à la visite de ce coffre. Mention de cette autorisation
-est portée au procès-verbal prévu au IV.
+coffre dans un établissement de crédit ou une société de financement dont la
+personne occupant les lieux visités est titulaire et où des pièces et documents
+se rapportant aux agissements visés au I sont susceptibles de se trouver, ils
+peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris
+l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette
+autorisation est portée au procès-verbal prévu au IV.
 
 La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle
 du juge qui les a autorisées. A cette fin, il donne toutes instructions aux

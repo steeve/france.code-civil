@@ -1,10 +1,13 @@
 Article L515-1
 ----
-Les sociétés financières mentionnées à l'article L. 511-9 ne peuvent recevoir du
-public des fonds à vue ou à moins de deux ans de terme, sauf si elles y sont
-autorisées à titre accessoire dans les conditions définies par le ministre
-chargé de l'économie.
+Outre les opérations mentionnées au II de l'article L. 511-1, les sociétés de
+financement peuvent exercer l'une des opérations suivantes :
 
-Les sociétés financières ne peuvent effectuer que les opérations de banque
-résultant soit de la décision d'agrément qui les concerne, soit des dispositions
-législatives et réglementaires qui leur sont propres.
+-fournir des services de paiement, sous réserve d'avoir obtenu l'agrément prévu
+à l'article L. 522-6 ;
+
+-émettre et gérer de la monnaie électronique, sous réserve d'avoir obtenu
+l'agrément prévu à l'article L. 526-7 ;
+
+-fournir des services d'investissement, sous réserve d'avoir obtenu l'agrément
+prévu à l'article L. 532-2.

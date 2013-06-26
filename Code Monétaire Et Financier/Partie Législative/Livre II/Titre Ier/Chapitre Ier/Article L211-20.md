@@ -26,10 +26,10 @@ ayant fait l'objet d'une identification à cet effet par un procédé informatiq
 
 III. ― Lorsque les titres financiers figurant dans le compte nanti sont inscrits
 dans un compte tenu par l'émetteur et que celui-ci n'est pas une personne
-autorisée à recevoir des fonds du public au sens de l'article L. 312-2, les
-fruits et produits mentionnés au I versés en toute monnaie doivent être inscrits
-au crédit d'un compte spécial ouvert au nom du titulaire du compte nanti dans
-les livres d'un intermédiaire mentionné à l'article L. 211-3 ou d'un
+autorisée à recevoir des fonds remboursables du public au sens de l'article L.
+312-2, les fruits et produits mentionnés au I versés en toute monnaie doivent
+être inscrits au crédit d'un compte spécial ouvert au nom du titulaire du compte
+nanti dans les livres d'un intermédiaire mentionné à l'article L. 211-3 ou d'un
 établissement de crédit. Ce compte spécial est réputé faire partie intégrante du
 compte nanti à la date de signature de la déclaration de nantissement. Le
 créancier nanti peut obtenir, sur simple demande au teneur du compte spécial,

@@ -12,12 +12,13 @@ portent pas uniquement sur un transport. Cette garantie doit résulter de
 l'engagement d'un organisme de garantie collective, d'un établissement de crédit
 ou d'une entreprise d'assurance établis sur le territoire d'un Etat membre de la
 Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen. Elle doit couvrir les frais de rapatriement éventuel. Le
-remboursement peut être remplacé, avec l'accord du client, par la fourniture
-d'une prestation différente en remplacement de la prestation prévue. Cette
-prestation différente proposée par l'organisme de garantie financière ne
-requiert pas, en situation d'urgence, l'accord exprès du client, dès lors que sa
-mise en œuvre n'entraîne pas une modification substantielle du contrat ;
+économique européen ou d'une société de financement. Elle doit couvrir les frais
+de rapatriement éventuel. Le remboursement peut être remplacé, avec l'accord du
+client, par la fourniture d'une prestation différente en remplacement de la
+prestation prévue. Cette prestation différente proposée par l'organisme de
+garantie financière ne requiert pas, en situation d'urgence, l'accord exprès du
+client, dès lors que sa mise en œuvre n'entraîne pas une modification
+substantielle du contrat ;
 
 b) Justifier d'une assurance garantissant les conséquences pécuniaires de la
 responsabilité civile professionnelle ;

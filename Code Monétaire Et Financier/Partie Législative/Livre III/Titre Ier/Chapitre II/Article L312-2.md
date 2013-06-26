@@ -1,9 +1,13 @@
 Article L312-2
 ----
-Sont considérés comme fonds reçus du public les fonds qu'une personne recueille
-d'un tiers, notamment sous forme de dépôts, avec le droit d'en disposer pour son
-propre compte, mais à charge pour elle de les restituer. Toutefois, ne sont pas
-considérés comme fonds reçus du public :
+Sont considérés comme fonds remboursables du public les fonds qu'une personne
+recueille d'un tiers, notamment sous la forme de dépôts, avec le droit d'en
+disposer pour son propre compte mais à charge pour elle de les restituer. Un
+décret en Conseil d'Etat précise les conditions et limites dans lesquelles les
+émissions de titres de créance sont assimilables au recueil de fonds
+remboursables du public, au regard notamment des caractéristiques de l'offre ou
+du montant nominal des titres. Toutefois, ne sont pas considérés comme fonds
+remboursables du public :
 
 1. Les fonds reçus ou laissés en compte par les associés en nom ou les
 commanditaires d'une société de personnes, les associés ou actionnaires détenant

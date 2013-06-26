@@ -1,9 +1,9 @@
 Article L527-1
 ----
-Tout crédit consenti par un établissement de crédit à une personne morale de
-droit privé ou à une personne physique dans l'exercice de son activité
-professionnelle peut être garanti par un gage sans dépossession des stocks
-détenus par cette personne.
+Tout crédit consenti par un établissement de crédit ou une société de
+financement à une personne morale de droit privé ou à une personne physique dans
+l'exercice de son activité professionnelle peut être garanti par un gage sans
+dépossession des stocks détenus par cette personne.
 
 Le gage des stocks est constitué par acte sous seing privé.
 

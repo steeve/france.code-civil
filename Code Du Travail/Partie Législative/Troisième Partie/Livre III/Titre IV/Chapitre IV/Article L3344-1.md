@@ -19,7 +19,7 @@ code ;
 ;
 
 3° Article L. 511-36 du code monétaire et financier pour les établissements de
-crédit ;
+crédit et les sociétés de financement ;
 
 4° Dispositions du code de la mutualité pour les mutuelles ;
 

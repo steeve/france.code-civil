@@ -1,6 +1,6 @@
 Article L421-9
 ----
-I. - Le Fonds de garantie des assurances obligatoires de dommages institué par
+I.-Le Fonds de garantie des assurances obligatoires de dommages institué par
 l'article L. 421-1 est chargé de protéger les personnes assurées,
 souscriptrices, adhérentes ou bénéficiaires de prestations de contrats
 d'assurance dont la souscription est rendue obligatoire par une disposition
@@ -18,7 +18,7 @@ l'agrément de l'assureur, et qui donnent lieu à déclaration de la part de
 l'assuré ou à une première réclamation de la part d'un tiers victime moins de
 cinq ans après cette date.
 
-II. - Sont exclus de toute indemnisation au titre de la présente section les
+II.-Sont exclus de toute indemnisation au titre de la présente section les
 contrats d'assurance :
 
 1° Pour lesquels un assuré, un souscripteur, un adhérent, un bénéficiaire de
@@ -60,9 +60,9 @@ d) Sociétés entrant dans le périmètre de consolidation défini à l'article 
 233-16 du code de commerce dont relève l'entreprise d'assurance, sauf s'il
 s'agit de contrats souscrits au profit de leurs salariés ou de leurs clients ;
 
-e) Etablissements de crédit et personnes mentionnées à l'article L. 518-1 du
-code monétaire et financier, sauf pour les contrats souscrits pour le compte
-d'un emprunteur, d'un client ou de leurs salariés ;
+e) Etablissements de crédit, sociétés de financement et personnes mentionnées à
+l'article L. 518-1 du code monétaire et financier, sauf pour les contrats
+souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
 
 5° Assurant les personnes morales et les personnes physiques, souscriptrices,
 adhérentes ou bénéficiaires, en ce qui concerne leurs activités professionnelles
@@ -71,7 +71,7 @@ physique, cliente ou adhérente hors du cadre de ses activités professionnelles
 ou au profit des salariés des personnes morales ou physiques mentionnées
 ci-dessus.
 
-III. - Dans les cas prévus aux 1° , 4° et 5° du II, les personnes victimes d'un
+III.-Dans les cas prévus aux 1°, 4° et 5° du II, les personnes victimes d'un
 dommage dont l'assuré est responsable et qui ne se trouvent pas avec lui dans
 une situation contractuelle à raison de leur activité professionnelle sont
 indemnisées par le fonds.

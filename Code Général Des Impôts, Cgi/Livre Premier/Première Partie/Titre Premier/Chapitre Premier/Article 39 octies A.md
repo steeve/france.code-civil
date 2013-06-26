@@ -123,14 +123,14 @@ prévues par cet agrément.
 
 V. Le bénéfice des dispositions prévues aux I, I quater, II, II bis, III et IV
 peut être accordé, sur agrément du ministre chargé du budget et dans les
-conditions et limites prévues par cet agrément, aux établissements de crédit
-dont la liste est fixée par décret et aux entreprises industrielles et
-commerciales ou agricoles qui, dans l'intérêt d'une entreprise française et en
-vue d'accompagner l'investissement à l'étranger de cette dernière, participent
-au capital de la société étrangère constituée à cet effet par l'entreprise ou à
-laquelle celle-ci se trouve elle-même associée.
+conditions et limites prévues par cet agrément, aux établissements de crédit et
+aux sociétés de financement dont la liste est fixée par décret et aux
+entreprises industrielles et commerciales ou agricoles qui, dans l'intérêt d'une
+entreprise française et en vue d'accompagner l'investissement à l'étranger de
+cette dernière, participent au capital de la société étrangère constituée à cet
+effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée.
 
 En cas de non-respect par l'entreprise française ou par l'établissement de
-crédit des engagements ou conditions auxquels l'agrément est subordonné, les
-dispositions de l'article 1649 nonies A sont applicables à l'établissement de
-crédit.
+crédit ou la société de financement des engagements ou conditions auxquels
+l'agrément est subordonné, les dispositions de l'article 1649 nonies A sont
+applicables à l'établissement de crédit ou la société de financement.

@@ -13,7 +13,7 @@ propriété ou l'aménagement et la réparation de leurs immeubles.
 Les sociétés mentionnées aux premier et deuxième alinéas sont autorisées à
 effectuer au profit de leurs membres, à l'occasion d'une opération de
 cautionnement et en relation directe avec celle-ci, les opérations de conseil
-mentionnées au 5 de l'article L. 311-2, sans toutefois qu'il puisse y avoir
+mentionnées au 5 du I de l'article L. 311-2, sans toutefois qu'il puisse y avoir
 obligation pour le demandeur d'une caution d'accepter un service de conseil.
 
 La caution peut être donnée par l'aval ou l'endos des effets de commerce et

@@ -31,4 +31,5 @@ articles L. 2335-6 à L. 2335-8 ne sont pas applicables.
 Le syndicat d'agglomération nouvelle ou la commune unique support d'une
 agglomération nouvelle est habilité à recevoir la garantie de l'Etat et des
 collectivités publiques pour les opérations engageant sa propre responsabilité
-vis-à-vis des établissements publics de crédit.
+vis-à-vis des établissements publics agréés pour effectuer des opérations de
+crédit.

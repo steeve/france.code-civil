@@ -29,7 +29,7 @@ règlement ;
 2° D'exercer une surveillance permanente de la situation financière et des
 conditions d'exploitation des personnes mentionnées au I de l'article L. 612-2 ;
 elle contrôle notamment le respect de leurs exigences de solvabilité ainsi que,
-pour les personnes mentionnées aux 1° à 4° et au 8° du A du I de l'article L.
+pour les personnes mentionnées aux 1° à 4° et 8° et 9° du A du I de l'article L.
 612-2, des règles relatives à la préservation de leur liquidité et, pour les
 personnes mentionnées aux 1° à 3°, 5°, 7° et 8° du B du I du même article,
 qu'elles sont en mesure de tenir à tout moment les engagements qu'elles ont pris

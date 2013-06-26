@@ -29,6 +29,7 @@ prévaloir du privilège sur les sommes revenant à ces entreprises au titre du
 présent article.
 
 Le droit des créanciers privilégiés peut, par subrogation, être exercé par un
-établissement de crédit lorsque celui-ci a été amené à régler, pour le compte de
-l'entreprise de production, tout ou partie des créances exigibles énumérées aux
-postes de production mentionnés à l'article L. 312-2.
+établissement de crédit ou une société de financement lorsque celui-ci a été
+amené à régler, pour le compte de l'entreprise de production, tout ou partie des
+créances exigibles énumérées aux postes de production mentionnés à l'article L.
+312-2.

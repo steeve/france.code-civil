@@ -28,9 +28,9 @@ comptes défini à l'article L. 212-7, sauf s'il s'agit de contrats souscrits au
 profit de leurs salariés ou de leurs membres participants, et administrateurs et
 dirigeants de ces organismes ;
 
-e) Etablissements de crédit et personnes mentionnées à l'article L. 518-1 du
-code monétaire et financier, sauf pour les contrats souscrits pour le compte
-d'un emprunteur, d'un client ou de leurs salariés ;
+e) Etablissements de crédit, sociétés de financement et personnes mentionnées à
+l'article L. 518-1 du code monétaire et financier, sauf pour les contrats
+souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
 
 f) Organismes de placements collectifs ;
 

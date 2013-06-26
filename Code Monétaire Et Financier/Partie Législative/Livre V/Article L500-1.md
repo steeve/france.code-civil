@@ -5,7 +5,7 @@ compte d'autrui s'il a fait l'objet depuis moins de dix ans d'une condamnation
 définitive mentionnée au II :
 
 1° Diriger, gérer, administrer ni être membre d'un organe collégial de contrôle
-d'un organisme mentionné aux articles L. 213-8, L. 511-9, L. 517-1, L. 517-4, L.
+d'un organisme mentionné aux articles L. 213-8, L. 511-1, L. 517-1, L. 517-4, L.
 522-1, L. 526-1, L. 531-1, L. 542-1 et L. 543-1, ni disposer du pouvoir de
 signer pour le compte de cet organisme ;
 

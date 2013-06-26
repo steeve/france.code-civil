@@ -23,5 +23,6 @@ d'entreprises au profit de leurs salariés ou par un groupement professionnel
 représentatif d'entreprises au profit des salariés de celles-ci ou par une
 organisation représentative d'une profession non salariée ou d'agents d'une
 collectivité publique au profit de ses membres. Elles ne s'appliquent pas non
-plus aux contrats collectifs souscrits par un établissement de crédit, ayant
-pour objet la garantie de remboursement d'un emprunt.
+plus aux contrats collectifs souscrits par un établissement de crédit ou une
+société de financement, ayant pour objet la garantie de remboursement d'un
+emprunt.

@@ -25,8 +25,8 @@ budget de l'Autorité de contrôle prudentiel et de résolution.
 
 II. ― Les dispositions applicables en matière d'assiette sont les suivantes :
 
-A. ― Pour les personnes mentionnées aux 1°, 2°, 3°, 4° et 8° du A de l'article
-L. 612-2, l'assiette est constituée par :
+A. ― Pour les personnes mentionnées aux 1°, 2°, 3°, 4°, 8° et 9° du A de
+l'article L. 612-2, l'assiette est constituée par :
 
 1° Les exigences minimales en fonds propres permettant d'assurer le respect des
 ratios de couverture prévus par les articles L. 511-41, L. 522-14, L. 526-27 et

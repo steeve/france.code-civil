@@ -19,7 +19,8 @@ excédant trente jours, le montant et le seuil minimum de ces pénalités étant
 fixés par décret.
 
 La garantie est constituée par une caution solidaire donnée par un établissement
-de crédit ou une entreprise d'assurance agréés à cet effet.
+de crédit, une société de financement ou une entreprise d'assurance agréés à cet
+effet.
 
 II.-Dans le cas où le garant constate que le délai de livraison n'est pas
 respecté ou que les travaux nécessaires à la levée des réserves formulées à la

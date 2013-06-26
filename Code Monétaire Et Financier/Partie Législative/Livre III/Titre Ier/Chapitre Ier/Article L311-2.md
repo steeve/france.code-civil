@@ -1,7 +1,7 @@
 Article L311-2
 ----
-Les établissements de crédit peuvent aussi effectuer les opérations connexes à
-leur activité telles que :
+I. - Les établissements de crédit peuvent aussi effectuer les opérations
+connexes à leur activité telles que :
 
 1. Les opérations de change ;
 
@@ -27,3 +27,6 @@ législatives relatives à l'exercice illégal de certaines professions ;
 Lorsqu'il constitue la fourniture de services d'investissement au sens de
 l'article L. 321-1, l'exercice des opérations connexes et de l'activité de
 conservation est subordonné à l'agrément préalable prévu à l'article L. 532-1.
+
+II. - Les sociétés de financement peuvent également effectuer les opérations
+connexes à leur activité mentionnées aux 1, 2, 5 et 6 du I.

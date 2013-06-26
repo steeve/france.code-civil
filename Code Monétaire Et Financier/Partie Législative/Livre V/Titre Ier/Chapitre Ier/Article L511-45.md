@@ -1,19 +1,19 @@
 Article L511-45
 ----
 I.-Dans les conditions fixées par arrêté du ministre chargé de l'économie, les
-établissements de crédit publient en annexe à leurs comptes annuels des
-informations sur leurs implantations et leurs activités dans les Etats ou
-territoires non coopératifs au sens de l'article 238-0 A du code général des
-impôts.
+établissements de crédit et les sociétés de financement publient en annexe à
+leurs comptes annuels des informations sur leurs implantations et leurs
+activités dans les Etats ou territoires non coopératifs au sens de l'article
+238-0 A du code général des impôts.
 
 II.-A compter de l'exercice 2013 et pour publication à partir de 2014 pour les
 1° à 3° du III, et à compter de l'exercice 2014 et pour publication à partir de
-2015 pour les 4° à 6° du même III, les établissements de crédit, compagnies
-financières et compagnies financières holding mixtes, et entreprises
-d'investissement publient, en annexe à leurs comptes annuels consolidés ou au
-plus tard six mois après la clôture de l'exercice, des informations sur leurs
-implantations et leurs activités, incluses dans le périmètre de consolidation,
-dans chaque Etat ou territoire.
+2015 pour les 4° à 6° du même III, les établissements de crédit et les sociétés
+de financement, compagnies financières et compagnies financières holding mixtes,
+et entreprises d'investissement publient, en annexe à leurs comptes annuels
+consolidés ou au plus tard six mois après la clôture de l'exercice, des
+informations sur leurs implantations et leurs activités, incluses dans le
+périmètre de consolidation, dans chaque Etat ou territoire.
 
 III.-Les informations suivantes sont publiées pour chaque Etat ou territoire :
 

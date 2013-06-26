@@ -46,9 +46,9 @@ personne contrôlée ou dans un organisme subordonné à une mutuelle, à une un
 la mutualité.
 
 Lorsque les commissaires aux comptes exercent leur mission dans un établissement
-de crédit affilié à l'un des organes centraux mentionnés à l'article L. 511-30,
-les faits et décisions mentionnés aux alinéas précédents sont transmis
-simultanément à cet organe central.
+de crédit ou une société de financement, affilié à l'un des organes centraux
+mentionnés à l'article L. 511-30, les faits et décisions mentionnés aux alinéas
+précédents sont transmis simultanément à cet organe central.
 
 III. ― Pour l'application des dispositions de la présente section, les
 commissaires aux comptes sont déliés du secret professionnel à l'égard de

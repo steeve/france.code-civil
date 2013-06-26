@@ -17,8 +17,8 @@ faite par lettre recommandée avec demande d'avis de réception lorsqu'elle éma
 de l'Autorité de contrôle prudentiel et de résolution.
 
 IV.-Le contrôleur spécifique atteste du respect de la règle prévue à l'article
-L. 515-20 sur la base d'un programme trimestriel d'émissions de ressources
-bénéficiant du privilège mentionné à l'article L. 515-19. Il atteste du respect
+L.513-12 sur la base d'un programme trimestriel d'émissions de ressources
+bénéficiant du privilège mentionné à l'article L. 513-11. Il atteste du respect
 de cette même règle pour toute émission de ressources bénéficiant de ce
 privilège et dont la valeur unitaire est supérieure ou égale à 500 millions
 d'euros, ou son équivalent dans l'unité monétaire de l'émission.

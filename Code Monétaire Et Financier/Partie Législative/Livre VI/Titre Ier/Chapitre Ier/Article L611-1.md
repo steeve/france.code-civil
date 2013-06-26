@@ -1,30 +1,32 @@
 Article L611-1
 ----
-Le ministre chargé de l'économie arrête, pour les établissements de crédit, les
-règles concernant notamment :
+Le ministre chargé de l'économie arrête, pour les établissements de crédit et,
+s'il y a lieu, pour les sociétés de financement, les règles concernant notamment
+:
 
-1. Le montant du capital des établissements de crédit et les conditions dans
-lesquelles des participations directes ou indirectes peuvent être prises,
-étendues ou cédées dans ces établissements ainsi que dans les établissements
-financiers, définis à l'article L. 511-21, détenant directement ou indirectement
-un pouvoir de contrôle effectif sur un ou plusieurs établissements de crédit ;
+1. Le montant du capital des établissements de crédit et des sociétés de
+financement et les conditions dans lesquelles des participations directes ou
+indirectes peuvent être prises, étendues ou cédées dans ces entreprises ainsi
+que dans les établissements financiers, définis à l'article L. 511-21, détenant
+directement ou indirectement un pouvoir de contrôle effectif sur un ou plusieurs
+établissements de crédit ou sociétés de financement ;
 
 2. Les conditions d'implantation des réseaux ;
 
-3. Les conditions dans lesquelles ces établissements peuvent prendre des
+3. Les conditions dans lesquelles ces entreprises peuvent prendre des
 participations ;
 
 4. Les conditions des opérations que peuvent effectuer les établissements de
-crédit ou leurs agents, en particulier dans leurs relations avec la clientèle,
-ainsi que les conditions de la concurrence ;
+crédit, les sociétés de financement ou leurs agents, en particulier dans leurs
+relations avec la clientèle, ainsi que les conditions de la concurrence ;
 
 5. L'organisation des services communs ;
 
-6. Les normes de gestion que les établissements de crédit doivent respecter en
-vue notamment de garantir leur liquidité, leur solvabilité et l'équilibre de
-leur structure financière ainsi que les conditions dans lesquelles ces normes
-sont respectées sur une base consolidée, y compris en l'absence d'une entreprise
-mère ayant son siège social en France ;
+6. Les normes de gestion que les établissements de crédit ou les sociétés de
+financement doivent respecter en vue notamment de garantir leur liquidité, leur
+solvabilité et l'équilibre de leur structure financière ainsi que les conditions
+dans lesquelles ces normes sont respectées sur une base consolidée, y compris en
+l'absence d'une entreprise mère ayant son siège social en France ;
 
 7. La publicité des informations destinées aux autorités compétentes ;
 

@@ -98,9 +98,9 @@ qui n'ont pas fait l'objet d'une demande d'agrément déposée avant le 1er janv
 
 V. Le bénéfice des dispositions du présent article peut également être accordé
 sur agrément du ministre chargé du budget dans les conditions et limites prévues
-par cet agrément, aux établissements de crédit et aux entreprises mentionnées au
-V de l'article 39 octies A qui réalisent des opérations prévues à ce même V,
-ainsi qu'aux groupements d'entreprises.
+par cet agrément, aux établissements de crédit, aux sociétés de financement et
+aux entreprises mentionnées au V de l'article 39 octies A qui réalisent des
+opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
 
 VI. Les dispositions du présent article s'appliquent aux investissements qui
 sont réalisés à compter du 1er janvier 1992, sous réserve des dispositions du

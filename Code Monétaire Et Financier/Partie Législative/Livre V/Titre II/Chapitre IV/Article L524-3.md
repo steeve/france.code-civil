@@ -7,8 +7,9 @@ vérifie si l'entreprise satisfait aux obligations suivantes :
 a) Elle est inscrite au registre du commerce et des sociétés ;
 
 b) Elle justifie soit d'un capital libéré, soit d'une caution d'un établissement
-de crédit ou d'une entreprise d'assurances, d'un montant au moins égal à une
-somme fixée par un arrêté du ministre chargé de l'économie ;
+de crédit, d'une société de financement ou d'une entreprise d'assurances, d'un
+montant au moins égal à une somme fixée par un arrêté du ministre chargé de
+l'économie ;
 
 c) Ses dirigeants et ses bénéficiaires effectifs justifient qu'ils possèdent
 l'honorabilité et la compétence nécessaires, dans des conditions définies par

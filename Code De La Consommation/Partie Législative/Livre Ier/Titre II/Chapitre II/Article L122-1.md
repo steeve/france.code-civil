@@ -11,7 +11,8 @@ L. 120-1.
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de
 l'article L. 113-2.
 
-Pour les établissements de crédit, les établissements de monnaie électronique,
-les établissements de paiement et les organismes mentionnés à l'article L. 518-1
-du code monétaire et financier, les règles relatives aux ventes subordonnées
-sont fixées par le 1 du I de l'article L. 312-1-2 du même code.
+Pour les établissements de crédit, les sociétés de financement, les
+établissements de monnaie électronique, les établissements de paiement et les
+organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
+règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article
+L. 312-1-2 du même code.

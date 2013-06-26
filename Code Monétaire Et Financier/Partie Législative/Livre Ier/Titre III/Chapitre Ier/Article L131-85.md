@@ -1,11 +1,12 @@
 Article L131-85
 ----
 La Banque de France informe les établissements et les personnes sur lesquels
-peuvent être tirés des chèques, les organismes mentionnés au 5 de l'article L.
-511-6, les établissements de monnaie électronique, les établissements de
-paiement ainsi que, sur sa demande, le procureur de la République, des incidents
-de paiement de chèque, des interdictions prononcées en application de l'article
-L. 163-6 et des levées d'interdiction d'émettre des chèques.
+peuvent être tirés des chèques, les sociétés de financement, les organismes
+mentionnés au 5 de l'article L. 511-6, les établissements de monnaie
+électronique, les établissements de paiement ainsi que, sur sa demande, le
+procureur de la République, des incidents de paiement de chèque, des
+interdictions prononcées en application de l'article L. 163-6 et des levées
+d'interdiction d'émettre des chèques.
 
 Seule la Banque de France assure la centralisation des informations prévues à
 l'alinéa précédent.
@@ -20,12 +21,22 @@ au 5 de l'article L. 511-6. Elle lui fournit, aux seules fins poursuivies par le
 présent chapitre, les renseignements permettant d'identifier les titulaires de
 ces comptes.
 
+Pour l'application du premier alinéa à Saint-Barthélemy, à Saint-Martin, et à
+Saint-Pierre-et-Miquelon ainsi qu'en Nouvelle-Calédonie, en Polynésie française
+et dans les îles Wallis et Futuna, la Banque de France reçoit de l'Institut
+d'émission des départements d'outre-mer ou de l'Institut d'émission d'outre-mer
+les informations qu'ils détiennent, en application des articles L. 711-8 et L.
+712-5, permettant d'identifier l'ensemble des comptes ouverts par les personnes
+physiques ou morales mentionnées à l'article L. 131-72 et au deuxième alinéa de
+l'article L. 163-6, sur lesquels peuvent être tirés des chèques.
+
 Elle communique également au procureur de la République les renseignements
 concernant les infractions réprimées par les troisième et quatrième alinéas de
 l'article L. 163-2 et par les premier et deuxième alinéas de l'article L. 163-7.
 
 Les dispositions de l'article L. 163-11 ne font pas obstacle à ce que les
-établissements de crédit, les organismes mentionnés au 5 de l'article L. 511-6,
-les établissements de monnaie électronique et les établissements de paiement
-utilisent ces informations comme élément d'appréciation avant d'accorder un
-financement, une ouverture de crédit ou de délivrer un moyen de paiement.
+établissements de crédit, les sociétés de financement, les organismes mentionnés
+au 5 de l'article L. 511-6, les établissements de monnaie électronique et les
+établissements de paiement utilisent ces informations comme élément
+d'appréciation avant d'accorder un financement, une ouverture de crédit ou de
+délivrer un moyen de paiement.

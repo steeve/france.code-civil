@@ -5,8 +5,9 @@ coopératives agricoles peuvent autoriser l'admission comme associé non
 coopérateur, sous réserve de l'acceptation par le conseil d'administration, de
 toute personne physique ou morale intéressée par l'activité de la coopérative.
 
-Le capital détenu par les établissements de crédit et leurs filiales
-spécialisées de participation ne peut excéder 20 % du capital social.
+Le capital détenu par les établissements de crédit, les sociétés de financement
+et leurs filiales spécialisées de participation ne peut excéder 20 % du capital
+social.
 
 Lorsqu'un fonds commun de placement d'entreprise souscrit par les salariés de la
 coopérative ou d'une entreprise comprise dans le champ du même plan ou accord de

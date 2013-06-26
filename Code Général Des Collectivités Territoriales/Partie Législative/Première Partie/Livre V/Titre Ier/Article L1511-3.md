@@ -11,7 +11,7 @@ maître d'ouvrage, public ou privé, qui en fait alors bénéficier intégraleme
 l'entreprise.
 
 Les commissions dues par les bénéficiaires de garanties d'emprunt accordées par
-les établissements de crédit peuvent être prises en charge, totalement ou
-partiellement, dans des conditions fixées par décret en Conseil d'Etat. Cette
-aide ne peut pas être cumulée, pour un même emprunt, avec la garantie ou le
-cautionnement accordé par une collectivité ou un groupement.
+les établissements de crédit ou les sociétés de financement peuvent être prises
+en charge, totalement ou partiellement, dans des conditions fixées par décret en
+Conseil d'Etat. Cette aide ne peut pas être cumulée, pour un même emprunt, avec
+la garantie ou le cautionnement accordé par une collectivité ou un groupement.

@@ -1,6 +1,6 @@
 Article R313-24
 ----
-Pour l'application du 2° du I de l'article L. 515-14, les créances cautionnées
+Pour l'application du 2° du I de l'article L.513-3, les créances cautionnées
 éligibles sont celles dont un établissement de crédit ou une entreprise
 d'assurances détenant des capitaux propres d'au moins 12 millions d'euros est
 caution solidaire.

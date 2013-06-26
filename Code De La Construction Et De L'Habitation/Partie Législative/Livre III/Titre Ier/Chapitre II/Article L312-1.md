@@ -28,10 +28,11 @@ des établissements qui s'engagent à prendre en charge au moins la moitié en
 montant des sinistres intervenant sur leurs prêts garantis dans la limite de
 taux et dans des conditions définis par décret.
 
-Ces prêts peuvent être distribués par tout établissement de crédit ayant signé à
-cet effet une convention avec l'Etat et avec une société de gestion agissant
-pour son compte. Les statuts de cette société sont approuvés par décret et le
-président de son conseil d'administration est nommé par arrêté. Des commissaires
-du Gouvernement assistent au conseil d'administration de cette société et ont le
-droit de veto sur toute décision de nature à affecter l'engagement financier de
-l'Etat lié à sa contribution à la société et à sa garantie.
+Ces prêts peuvent être distribués par tout établissement de crédit ou société de
+financement ayant signé à cet effet une convention avec l'Etat et avec une
+société de gestion agissant pour son compte. Les statuts de cette société sont
+approuvés par décret et le président de son conseil d'administration est nommé
+par arrêté. Des commissaires du Gouvernement assistent au conseil
+d'administration de cette société et ont le droit de veto sur toute décision de
+nature à affecter l'engagement financier de l'Etat lié à sa contribution à la
+société et à sa garantie.

@@ -10,8 +10,8 @@ produit d'épargne ou d'investissement.
 
 II.-Les fonds d'utilisateurs de services de paiement collectés par des
 établissements de paiement en vue de la prestation de services de paiement ne
-constituent pas des fonds reçus du public au sens de l'article L. 312-2, ni des
-fonds représentatifs de la monnaie électronique.
+constituent pas des fonds remboursables du public au sens de l'article L. 312-2,
+ni des fonds représentatifs de la monnaie électronique.
 
 L'établissement de paiement ne peut disposer de ces fonds pour son propre
 compte.

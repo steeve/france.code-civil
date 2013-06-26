@@ -9,8 +9,9 @@ patrimoniale des dirigeants et des représentants permanents des dirigeants
 personnes morales mentionnées à l'article L. 651-1 ou encore sur les revenus et
 le patrimoine non affecté de l'entrepreneur individuel à responsabilité limitée
 de la part des administrations et organismes publics, des organismes de
-prévoyance et de sécurité sociale, des établissements de paiement, des
-établissements de monnaie électronique et des établissements de crédit.
+prévoyance et de sécurité sociale, des établissements de paiement, des sociétés
+de financement, des établissements de monnaie électronique et des établissements
+de crédit.
 
 Le président du tribunal peut, dans les mêmes conditions, ordonner toute mesure
 conservatoire utile à l'égard des biens des dirigeants ou de leurs représentants

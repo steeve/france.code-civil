@@ -23,38 +23,38 @@ conclure en leur nom les accords collectifs de branche ;
 5° De prendre toutes mesures nécessaires pour garantir la liquidité du groupe
 ainsi que de chacun des réseaux et, à cet effet, de déterminer les règles de
 gestion de la liquidité du groupe, notamment en définissant les principes et
-modalités du placement et de la gestion de la trésorerie des établissements qui
-le composent et les conditions dans lesquelles ces établissements peuvent
-effectuer des opérations avec d'autres établissements de crédit ou entreprises
-d'investissement, réaliser des opérations de titrisation ou émettre des
-instruments financiers, et de réaliser toute opération financière nécessaire à
-la gestion de la liquidité ;
+modalités du placement et de la gestion de la trésorerie des établissements et
+sociétés qui le composent et les conditions dans lesquelles ces établissements
+et sociétés peuvent effectuer des opérations avec d'autres établissements de
+crédit, sociétés de financement ou entreprises d'investissement, réaliser des
+opérations de titrisation ou émettre des instruments financiers, et de réaliser
+toute opération financière nécessaire à la gestion de la liquidité ;
 
 6° De prendre toutes mesures nécessaires pour garantir la solvabilité du groupe
 ainsi que de chacun des réseaux, notamment en mettant en œuvre les mécanismes
 appropriés de solidarité interne du groupe et en créant un fonds de garantie
 commun aux deux réseaux dont il détermine les règles de fonctionnement, les
 modalités d'intervention en complément des fonds prévus par les articles L.
-512-12 et L. 512-86-1, ainsi que les contributions des établissements affiliés
-pour sa dotation et sa reconstitution ;
+512-12 et L. 512-86-1, ainsi que les contributions des établissements et
+sociétés affiliés pour sa dotation et sa reconstitution ;
 
 7° De définir les principes et conditions d'organisation du dispositif de
 contrôle interne du groupe et de chacun des réseaux ainsi que d'assurer le
 contrôle de l'organisation, de la gestion et de la qualité de la situation
-financière des établissements affiliés, notamment au travers de contrôles sur
-place dans le cadre du périmètre d'intervention défini au quatrième alinéa de
-l'article L. 511-31 ;
+financière des établissements et sociétés affiliés, notamment au travers de
+contrôles sur place dans le cadre du périmètre d'intervention défini au
+quatrième alinéa de l'article L. 511-31 ;
 
 8° De définir la politique et les principes de gestion des risques ainsi que les
 limites de ceux-ci pour le groupe et chacun des réseaux et d'en assurer la
 surveillance permanente sur une base consolidée ;
 
-9° D'approuver les statuts des établissements affiliés et des sociétés locales
-d'épargne ainsi que les modifications devant y être apportées ;
+9° D'approuver les statuts des établissements et sociétés affiliés et des
+sociétés locales d'épargne ainsi que les modifications devant y être apportées ;
 
 10° D'agréer les personnes appelées, conformément à l'article L. 511-13, à
 assurer la détermination effective de l'orientation de l'activité des
-établissements affiliés ;
+établissements et sociétés affiliés ;
 
 11° D'appeler les cotisations nécessaires à l'accomplissement de ses missions
 d'organe central ;

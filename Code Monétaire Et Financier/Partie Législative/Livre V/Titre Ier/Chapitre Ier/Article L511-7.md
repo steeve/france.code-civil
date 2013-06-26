@@ -13,7 +13,8 @@ des délais ou avances de paiement ;
 directement ou indirectement, des liens de capital conférant à l'une des
 entreprises liées un pouvoir de contrôle effectif sur les autres ;
 
-4. Emettre des titres financiers ;
+4. Emettre des titres financiers si elle n'effectue pas d'opération de crédit
+mentionnée à l'article L. 313-1 ;
 
 5. Emettre des instruments de paiement délivrés pour l'achat auprès d'elle ou
 auprès d'entreprises liées avec elle par un accord de franchise commerciale,

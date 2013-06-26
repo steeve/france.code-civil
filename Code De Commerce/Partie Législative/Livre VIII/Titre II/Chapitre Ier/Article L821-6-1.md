@@ -8,10 +8,10 @@ fonctions de contrôle légal des comptes auprès de personnes ou d'entités don
 les titres financiers sont admis aux négociations sur un marché réglementé ou
 faisant appel à la générosité publique, d'organismes de sécurité sociale
 mentionnés à l'article L. 114-8 du code de la sécurité sociale, d'établissements
-de crédits, d'entreprises régies par le code des assurances, d'institutions de
-prévoyance régies par le titre III du livre IX du code de la sécurité sociale,
-de mutuelles ou d'unions de mutuelles régies par le livre II du code de la
-mutualité.
+de crédits, de sociétés de financement, d'entreprises régies par le code des
+assurances, d'institutions de prévoyance régies par le titre III du livre IX du
+code de la sécurité sociale, de mutuelles ou d'unions de mutuelles régies par le
+livre II du code de la mutualité.
 
 Cette cotisation est liquidée, ordonnancée et recouvrée selon les modalités
 prévues pour les recettes des établissements administratifs de l'Etat.

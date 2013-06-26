@@ -1,11 +1,11 @@
 Article 38 bis B
 ----
-I.-Lorsque des établissements de crédit ou des entreprises d'investissement
-mentionnés à l'article 38 bis A achètent ou souscrivent des titres à revenu fixe
-pour un prix différent de leur prix de remboursement, le profit ou la perte
-correspondant à cette différence augmentée ou diminuée, selon le cas, du coupon
-couru à l'achat est réparti sur la durée restant à courir jusqu'au
-remboursement.
+I.-Lorsque des établissements de crédit, des sociétés de financement ou des
+entreprises d'investissement mentionnés à l'article 38 bis A achètent ou
+souscrivent des titres à revenu fixe pour un prix différent de leur prix de
+remboursement, le profit ou la perte correspondant à cette différence augmentée
+ou diminuée, selon le cas, du coupon couru à l'achat est réparti sur la durée
+restant à courir jusqu'au remboursement.
 
 Cette répartition est effectuée de manière actuarielle en rattachant au résultat
 de chaque exercice une somme égale à la différence entre :

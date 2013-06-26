@@ -10,15 +10,15 @@ chacune de ces années, l'excédent est restitué.
 
 II.-1. Si, pendant la durée de remboursement de l'avance, et tant que celle ci
 n'est pas intégralement remboursée, il apparaît que les conditions mentionnées
-aux I, VI bis et VI ter de l'article 244 quater U fixées pour l'octroi de
-l'avance remboursable n'ont pas été respectées, le crédit d'impôt est reversé
-par l'établissement de crédit ou la société de financement. Par exception,
-lorsque la justification de la réalisation ou de l'éligibilité des travaux n'est
-pas apportée par le bénéficiaire dans le délai prévu au 5 du même I, l'Etat
-exige de ce dernier le remboursement de l'avantage indûment perçu. Celui ci ne
-peut excéder le montant du crédit d'impôt majoré de 25 %. Un décret en Conseil
-d'Etat définit les modalités de restitution de l'avantage indu par le
-bénéficiaire de l'avance remboursable sans intérêt.
+au I de l'article 244 quater U fixées pour l'octroi de l'avance remboursable
+n'ont pas été respectées, le crédit d'impôt est reversé par l'établissement de
+crédit ou la société de financement. Par exception, lorsque la justification de
+la réalisation ou de l'éligibilité des travaux n'est pas apportée par le
+bénéficiaire dans le délai prévu au 5 du même I, l'Etat exige de ce dernier le
+remboursement de l'avantage indûment perçu. Celui ci ne peut excéder le montant
+du crédit d'impôt majoré de 25 %. Un décret en Conseil d'Etat définit les
+modalités de restitution de l'avantage indu par le bénéficiaire de l'avance
+remboursable sans intérêt.
 
 2. Si, pendant la durée de remboursement de l'avance, et tant que celle-ci n'est
 pas intégralement remboursée, les conditions relatives à l'affectation du

@@ -9,13 +9,14 @@ et les taxes intérieures de consommation, versés par ces sociétés et
 entreprises, grevant les produits médicamenteux et de parfumerie, les boissons,
 ainsi que les produits pétroliers.
 
-Pour les établissements de crédit et, lorsqu'elles sont agréées par l'Autorité
-de contrôle prudentiel et de résolution, les entreprises mentionnées à l'article
-L. 531-4 du code monétaire et financier, le chiffre d'affaires est celui défini
-au 1 du III de l'article 1586 sexies du code général des impôts. Toutefois, le
-chiffre d'affaires annuel afférent aux contrats d'échanges de taux d'intérêt,
-aux opérations sur devises et aux autres instruments financiers à terme est
-constitué par le résultat net positif de chacune de ces catégories.
+Pour les établissements de crédit, les sociétés de financement et, lorsqu'elles
+sont agréées par l'Autorité de contrôle prudentiel et de résolution, les
+entreprises mentionnées à l'article L. 531-4 du code monétaire et financier, le
+chiffre d'affaires est celui défini au 1 du III de l'article 1586 sexies du code
+général des impôts. Toutefois, le chiffre d'affaires annuel afférent aux
+contrats d'échanges de taux d'intérêt, aux opérations sur devises et aux autres
+instruments financiers à terme est constitué par le résultat net positif de
+chacune de ces catégories.
 
 Pour les établissements et entreprises mentionnés au deuxième alinéa du présent
 article dont le produit net bancaire est au plus égal à 10 % du chiffre

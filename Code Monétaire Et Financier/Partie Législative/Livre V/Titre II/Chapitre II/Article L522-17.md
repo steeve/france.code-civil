@@ -26,11 +26,11 @@ compris en cas de procédures d'exécution ou de procédure d'insolvabilité ouv
 à l'encontre de l'établissement ;
 
 2° Les fonds reçus sont couverts par un contrat d'assurance ou une autre
-garantie comparable d'une entreprise d'assurances ou d'un établissement de
-crédit n'appartenant pas au même groupe, dans les conditions définies par arrêté
-du ministre chargé de l'économie, qui assure ou garantit les utilisateurs des
-services de paiement contre la défaillance de l'établissement de paiement dans
-l'exécution de ses obligations financières.
+garantie comparable d'une entreprise d'assurances, d'une société de financement
+ou d'un établissement de crédit n'appartenant pas au même groupe, dans les
+conditions définies par arrêté du ministre chargé de l'économie, qui assure ou
+garantit les utilisateurs des services de paiement contre la défaillance de
+l'établissement de paiement dans l'exécution de ses obligations financières.
 
 II.-Lorsque les fonds remis peuvent être utilisés d'une part pour exécuter de
 futures opérations de paiement et d'autre part pour des services autres que les

@@ -6,10 +6,11 @@ transmet au comité consultatif du secteur financier. Ce comité est également
 chargé de préciser les modalités d'exercice de l'activité des médiateurs, en
 veillant notamment à garantir leur indépendance. Il est informé des modalités et
 du montant des indemnités et dédommagements versés aux médiateurs par les
-établissements de crédit, les établissements de monnaie électronique ou les
-établissements de paiement. Ce comité peut adresser des recommandations aux
-établissements de crédit, aux établissements de monnaie électronique, aux
-établissements de paiement et aux médiateurs.
+établissements de crédit, les sociétés de financement, les établissements de
+monnaie électronique ou les établissements de paiement. Ce comité peut adresser
+des recommandations aux établissements de crédit, aux sociétés de financement,
+aux établissements de monnaie électronique, aux établissements de paiement et
+aux médiateurs.
 
 Le comité de la médiation bancaire est présidé par le gouverneur de la Banque de
 France ou son représentant. Les autres membres sont nommés par arrêté du

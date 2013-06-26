@@ -11,4 +11,4 @@ patrimoine à titre universel ou d'une décision de justice. A défaut, le contr
 de gage est nul de plein droit.
 
 L'interdiction prévue au présent article n'est pas applicable aux opérations
-courantes des établissements de crédit.
+courantes des établissements de crédit et des sociétés de financement.

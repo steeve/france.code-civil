@@ -16,23 +16,23 @@ toute la durée de celui-ci. "
 " Art.L. 1141-2.-Une convention nationale relative à l'accès au crédit des
 personnes présentant, du fait de leur état de santé ou de leur handicap, un
 risque aggravé est conclue entre l'Etat, les organisations professionnelles
-représentant les établissements de crédit, les entreprises d'assurance, les
-mutuelles et les institutions de prévoyance ainsi que des organisations
-nationales représentant les malades et les usagers du système de santé agréées
-en vertu de l'article L. 1114-1 ou représentant les personnes handicapées. Cette
-convention a pour objet :
+représentant les établissements de crédit, les sociétés de financement, les
+entreprises d'assurance, les mutuelles et les institutions de prévoyance ainsi
+que des organisations nationales représentant les malades et les usagers du
+système de santé agréées en vertu de l'article L. 1114-1 ou représentant les
+personnes handicapées. Cette convention a pour objet :
 
 -de faciliter l'assurance des prêts demandés par les personnes présentant un
 risque aggravé en raison de leur état de santé ou d'un handicap ;
 
--d'assurer la prise en compte complète par les établissements de crédit des
-garanties alternatives à l'assurance ;
+-d'assurer la prise en compte complète par les établissements de crédit ou les
+sociétés de financement des garanties alternatives à l'assurance ;
 
 -de définir des modalités particulières d'information des demandeurs,
 d'instruction de leur dossier et de médiation.
 
 Toute personne présentant, du fait de son état de santé ou de son handicap, un
-risque aggravé bénéficie de plein droit de cette convention ".
+risque aggravé bénéficie de plein droit de cette convention. "
 
 " Art.L. 1141-2-1.-La convention prévue à l'article L. 1141-2 définit notamment
 :
@@ -54,11 +54,11 @@ requise ;
 nature médicale ;
 
 6° Un mécanisme de mutualisation, mis en oeuvre par les entreprises d'assurance,
-les mutuelles et institutions de prévoyance et les établissements de crédit,
-permettant, sous condition de ressources des demandeurs d'emprunt, de limiter le
-coût additionnel résultant du risque aggravé pour l'assurance décès et
-invalidité des crédits professionnels et des crédits destinés à l'acquisition de
-la résidence principale ;
+les mutuelles, les institutions de prévoyance, les établissements de crédit et
+les sociétés de financement, permettant, sous condition de ressources des
+demandeurs d'emprunt, de limiter le coût additionnel résultant du risque aggravé
+pour l'assurance décès et invalidité des crédits professionnels et des crédits
+destinés à l'acquisition de la résidence principale ;
 
 7° Les dispositifs d'études et de recherche permettant de recueillir, d'analyser
 et de publier les données disponibles sur la mortalité et la morbidité résultant
@@ -69,8 +69,8 @@ nécessaires à la tarification du risque ;
 lesquelles la personne est informée des motifs des refus d'assurance ;
 
 9° Un dispositif de médiation entre, d'une part, les personnes présentant un
-risque aggravé de santé et, d'autre part, les organismes d'assurance et les
-établissements de crédit ;
+risque aggravé de santé et, d'autre part, les organismes d'assurance, les
+établissements de crédit et les sociétés de financement ;
 
 10° La composition et les modalités de fonctionnement d'une instance de suivi et
 de propositions associant les parties et chargée d'évaluer régulièrement la
