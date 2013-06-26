@@ -45,7 +45,7 @@ l'article L. 515-13 (1), émises par la société de crédit foncier, que dans l
 limite de 10 % du montant nominal des obligations foncières et autres ressources
 privilégiées.
 
-IV.-Jusqu'au 31 décembre 2013, la limite de 10 %, mentionnée aux II et III
+IV.-Jusqu'au 31 décembre 2017, la limite de 10 %, mentionnée aux II et III
 ci-dessus, n'est pas applicable à la double condition que :
 
 a) Les prêts qui constituent au moins 90 % de l'actif de l'organisme de
