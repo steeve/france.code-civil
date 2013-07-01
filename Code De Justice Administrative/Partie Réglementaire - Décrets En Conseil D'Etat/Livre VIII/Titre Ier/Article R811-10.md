@@ -4,3 +4,6 @@ Devant la cour administrative d'appel, l'Etat est dispensé de ministère d'avoc
 soit en demande, soit en défense, soit en intervention. Sauf dispositions
 contraires, les ministres intéressés présentent devant la cour administrative
 d'appel les mémoires et observations produits au nom de l'Etat.
+
+Les ministres peuvent déléguer leur signature dans les conditions prévues par la
+réglementation en vigueur.
