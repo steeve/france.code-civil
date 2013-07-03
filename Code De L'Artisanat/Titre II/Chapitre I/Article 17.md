@@ -12,9 +12,9 @@ désignés par arrêté de l'autorité de tutelle administre provisoirement la
 chambre de métiers et de l'artisanat de région dans l'attente de nouvelles
 élections. Les élections pour le remplacement des membres d'une assemblée
 générale dissoute doivent avoir lieu dans un délai de quatre mois à partir de la
-publication du décret de dissolution. Toutefois, si une révision spéciale des
-listes électorales a été prescrite à la suite de la dissolution, le délai fixé
-court à partir du jour où la révision des listes électorales a pris fin.
+publication du décret de dissolution. Toutefois, si une révision de la liste
+électorale a été prescrite à la suite de la dissolution, le délai fixé court à
+partir du jour où la révision de cette liste a pris fin.
 
 Si cette dissolution intervient dans les douze mois précédant le renouvellement
 général, il n'est procédé à aucune élection.
