@@ -23,8 +23,3 @@ livres Ier et II lorsqu'elle est requise ;
 
 2° Dans l'année suivant la présentation de cette recommandation, cet accès est à
 nouveau utilisé aux fins mentionnées au 1° du présent II.
-
-III.-Les personnes coupables de la contravention définie au I peuvent, en outre,
-être condamnées à la peine complémentaire de suspension de l'accès à un service
-de communication au public en ligne pour une durée maximale d'un mois,
-conformément aux dispositions de l'article L. 335-7-1.
