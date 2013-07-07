@@ -17,3 +17,6 @@ Le président associe les composantes de l'université à la préparation et à 
 mise en oeuvre du contrat pluriannuel d'établissement. La création, la
 suppression ou le regroupement de composantes sont inscrits dans le contrat
 pluriannuel d'établissement, le cas échéant, par voie d'avenant.
+
+En outre, les universités peuvent comporter une école supérieure du professorat
+et de l'éducation.

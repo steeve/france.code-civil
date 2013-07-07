@@ -1,8 +1,11 @@
 Article L214-12
 ----
-La région définit et met en oeuvre la politique régionale d'apprentissage et de
-formation professionnelle des jeunes et des adultes à la recherche d'un emploi
-ou d'une nouvelle orientation professionnelle.
+La région définit et met en œuvre la politique régionale d'apprentissage et de
+formation professionnelle des jeunes et des adultes sans emploi ou à la
+recherche d'une nouvelle orientation professionnelle. Elle élabore le contrat de
+plan régional de développement des formations professionnelles défini à
+l'article L. 214-13 et arrête la carte des formations professionnelles initiales
+du territoire régional définie à l'article L. 214-13-1.
 
 Elle organise sur son territoire le réseau des centres et points d'information
 et de conseil sur la validation des acquis de l'expérience et contribue à

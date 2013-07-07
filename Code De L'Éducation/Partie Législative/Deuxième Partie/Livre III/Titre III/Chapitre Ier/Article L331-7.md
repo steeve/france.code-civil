@@ -1,25 +1,19 @@
 Article L331-7
 ----
-L'élève élabore son projet d'orientation scolaire et professionnelle avec l'aide
-de l'établissement et de la communauté éducative, notamment des enseignants et
-des conseillers d'orientation-psychologues, qui lui en facilitent la réalisation
-tant en cours de scolarité qu'à l'issue de celle-ci.
+L'orientation et les formations proposées aux élèves tiennent compte du
+développement de leurs aspirations et de leurs aptitudes et des perspectives
+professionnelles liées aux besoins prévisibles de la société, de l'économie et
+de l'aménagement du territoire. Elles favorisent la représentation équilibrée
+entre les femmes et les hommes parmi les filières de formation.
 
-A cette fin, les élèves disposent de l'ensemble des informations de nature à
-permettre l'élaboration d'un projet d'orientation scolaire et professionnelle.
+Afin d'élaborer son projet d'orientation scolaire et professionnelle et
+d'éclairer ses choix d'orientation, un parcours individuel d'information,
+d'orientation et de découverte du monde économique et professionnel est proposé
+à chaque élève, aux différentes étapes de sa scolarité du second degré.
 
-Ils bénéficient notamment d'une information sur les professions et les
-formations qui y préparent sous contrat de travail de type particulier et sous
-statut scolaire.
-
-Cette information est destinée à faciliter le choix d'un avenir professionnel,
-de la voie et de la méthode d'éducation qui y conduisent.
-
-Cette information est organisée sous la responsabilité des chefs
-d'établissement, dans le cadre des projets d'établissement ou de projets communs
-à plusieurs établissements. Elle est conjointement réalisée par les conseillers
-d'orientation-psychologues, les personnels enseignants, les conseillers de
-l'enseignement technologique et les représentants des organisations
-professionnelles et des chambres de commerce et d'industrie territoriales, de
-métiers et d'agriculture, en liaison avec les collectivités territoriales. Elle
-s'accompagne de la remise d'une documentation.
+Il est défini, sous la responsabilité du chef d'établissement et avec l'élève,
+ses parents ou son responsable légal, par les conseillers
+d'orientation-psychologues, les enseignants et les autres professionnels
+compétents. Les administrations concernées, les collectivités territoriales, les
+organisations professionnelles, les entreprises et les associations contribuent
+à la mise en œuvre de ce parcours.

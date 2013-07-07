@@ -1,12 +1,15 @@
 Article L625-1
 ----
-La formation des maîtres est assurée par les instituts universitaires de
-formation des maîtres. Ces instituts accueillent à cette fin des étudiants
-préparant les concours d'accès aux corps des personnels enseignants et les
-stagiaires admis à ces concours.
+Les écoles supérieures du professorat et de l'éducation organisent, sans
+préjudice des missions confiées aux écoles normales supérieures, la formation
+initiale des futurs enseignants et des personnels d'éducation et participent à
+leur formation continue. Elles accueillent aussi les personnels exerçant une
+activité au sein des écoles et des établissements scolaires dans le cadre des
+formations professionnelles organisées par les autorités académiques.
 
-La formation dispensée dans les instituts universitaires de formation des
-maîtres répond à un cahier des charges fixé par arrêté des ministres chargés de
-l'enseignement supérieur et de l'éducation nationale après avis du Haut Conseil
-de l'éducation. Elle fait alterner des périodes de formation théorique et des
-périodes de formation pratique.
+Les ministres chargés de l'enseignement supérieur et de l'éducation nationale
+arrêtent le cadre national des formations liées aux métiers du professorat des
+premier et second degrés et de l'éducation. La formation organisée par les
+écoles supérieures du professorat et de l'éducation inclut des enseignements
+théoriques, des enseignements liés à la pratique de ces métiers et un ou
+plusieurs stages.

@@ -1,11 +1,11 @@
 Article L213-2
 ----
-Le département a la charge des collèges.A ce titre, il en assure la
-construction, la reconstruction, l'extension, les grosses réparations,
-l'équipement et le fonctionnement, à l'exception, d'une part, des dépenses
-pédagogiques à la charge de l'Etat dont la liste est arrêtée par décret et,
-d'autre part, des dépenses de personnels prévues à l'article L. 211-8 sous
-réserve des dispositions de l'article L. 216-1.
+Le département a la charge des collèges. Il en assure la construction, la
+reconstruction, l'extension, les grosses réparations, l'équipement et le
+fonctionnement. A ce titre, l'acquisition et la maintenance des infrastructures
+et des équipements, dont les matériels informatiques et les logiciels prévus
+pour leur mise en service, nécessaires à l'enseignement et aux échanges entre
+les membres de la communauté éducative sont à la charge du département.
 
 Le département assure l'accueil, la restauration, l'hébergement ainsi que
 l'entretien général et technique, à l'exception des missions d'encadrement et de

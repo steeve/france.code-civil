@@ -24,8 +24,10 @@ Chaque année, après avoir consulté le conseil économique, social et culturel
 Corse et recueilli l'avis du représentant de l'Etat, la collectivité
 territoriale de Corse arrête la liste des opérations de construction ou
 d'extension des établissements précités. Cette liste est arrêtée compte tenu du
-programme prévisionnel des investissements et après accord de la commune
-d'implantation.
+programme prévisionnel des investissements et des engagements conclus dans le
+cadre du contrat de plan régional de développement des formations
+professionnelles défini à l'article L. 214-13 du code de l'éducation, et après
+accord de la commune d'implantation.
 
 Chaque année, la collectivité territoriale de Corse arrête la structure
 pédagogique générale des établissements d'enseignement du second degré en tenant

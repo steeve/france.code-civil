@@ -35,6 +35,7 @@ majorée d'un pourcentage permettant de couvrir les charges diverses dont les
 compensation dans les conditions prévues par les articles L. 1614-1, L. 1614-3
 et L. 1614-4 du code général des collectivités territoriales.
 
-Le montant des dépenses pédagogiques à la charge de l'Etat pour les classes sous
-contrat d'association des établissements d'enseignement privés du second degré
-est déterminé annuellement dans la loi de finances.
+Le montant des dépenses de fonctionnement à caractère directement pédagogique à
+la charge de l'Etat pour les classes sous contrat d'association des
+établissements d'enseignement privés du second degré est déterminé annuellement
+dans la loi de finances.

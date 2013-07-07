@@ -18,3 +18,9 @@ Ces pôles peuvent être dotés de la personnalité morale, notamment sous la fo
 d'un groupement d'intérêt public, d'un établissement public de coopération
 scientifique régi par la section 2 ou d'une fondation de coopération
 scientifique régie par la section 3 du présent chapitre.
+
+Lorsqu'il prend la forme d'un établissement public de coopération scientifique,
+le pôle de recherche et d'enseignement supérieur peut comprendre une école
+supérieure du professorat et de l'éducation dans les conditions fixées au
+chapitre Ier du titre II du livre VII de la troisième partie du code de
+l'éducation.

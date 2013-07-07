@@ -33,16 +33,20 @@ effectuée en France pour les exemplaires mis à la disposition du public avant 
 vente dans le seul but de décrire les oeuvres d'art mises en vente ;
 
 e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des
-oeuvres conçues à des fins pédagogiques, des partitions de musique et des
-oeuvres réalisées pour une édition numérique de l'écrit, à des fins exclusives
-d'illustration dans le cadre de l'enseignement et de la recherche, à l'exclusion
-de toute activité ludique ou récréative, dès lors que le public auquel cette
-représentation ou cette reproduction est destinée est composé majoritairement
-d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que
-l'utilisation de cette représentation ou cette reproduction ne donne lieu à
-aucune exploitation commerciale et qu'elle est compensée par une rémunération
-négociée sur une base forfaitaire sans préjudice de la cession du droit de
-reproduction par reprographie mentionnée à l'article L. 122-10 ;
+oeuvres conçues à des fins pédagogiques et des partitions de musique, à des fins
+exclusives d'illustration dans le cadre de l'enseignement et de la recherche, y
+compris pour l'élaboration et la diffusion de sujets d'examens ou de concours
+organisés dans la prolongation des enseignements à l'exclusion de toute activité
+ludique ou récréative, dès lors que cette représentation ou cette reproduction
+est destinée, notamment au moyen d'un espace numérique de travail, à un public
+composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs
+directement concernés par l'acte d'enseignement, de formation ou l'activité de
+recherche nécessitant cette représentation ou cette reproduction, qu'elle ne
+fait l'objet d'aucune publication ou diffusion à un tiers au public ainsi
+constitué, que l'utilisation de cette représentation ou cette reproduction ne
+donne lieu à aucune exploitation commerciale et qu'elle est compensée par une
+rémunération négociée sur une base forfaitaire sans préjudice de la cession du
+droit de reproduction par reprographie mentionnée à l'article L. 122-10 ;
 
 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre ;
 

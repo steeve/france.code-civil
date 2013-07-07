@@ -14,8 +14,15 @@ dispositions des articles L. 213-2-1 et L. 216-1 ;
 4° De la rémunération du personnel exerçant dans les lycées, sous réserve des
 dispositions des articles L. 214-6-1 et L. 216-1 ;
 
-5° Des dépenses pédagogiques des collèges, des lycées et des établissements
-d'éducation spéciale dont la liste est arrêtée par décret ;
+5° Des dépenses de fonctionnement à caractère directement pédagogique dans les
+collèges, les lycées et les établissements d'éducation spéciale, dont celles
+afférentes aux ressources numériques, incluant les contenus et les services,
+spécifiquement conçues pour un usage pédagogique, ainsi que de la fourniture des
+manuels scolaires dans les collèges, les établissements publics locaux
+d'enseignement et de formation professionnelle agricole mentionnés à l'article
+L. 811-8 du code rural et de la pêche maritime et les établissements d'éducation
+spéciale et des documents à caractère pédagogique à usage collectif dans les
+lycées professionnels ;
 
 6° De la rémunération des personnels de l'enseignement supérieur et de la
 recherche ;

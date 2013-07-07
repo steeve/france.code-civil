@@ -1,6 +1,7 @@
 Article L452-2
 ----
-L'agence a pour objet :
+L'agence a pour objet en tenant compte des capacités d'accueil des
+établissements :
 
 1° D'assurer, en faveur des enfants français établis hors de France, les
 missions de service public relatives à l'éducation ;

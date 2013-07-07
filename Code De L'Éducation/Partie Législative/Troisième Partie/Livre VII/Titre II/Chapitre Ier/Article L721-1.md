@@ -1,30 +1,29 @@
 Article L721-1
 ----
-Les instituts universitaires de formation des maîtres sont régis par les
-dispositions de l'article L. 713-9 et sont assimilés, pour l'application de ces
-dispositions, à des écoles faisant partie des universités.
+Les écoles supérieures du professorat et de l'éducation sont constituées soit au
+sein d'un établissement public à caractère scientifique, culturel et
+professionnel, soit au sein d'un établissement public de coopération
+scientifique.
 
-Des conventions peuvent être conclues, en tant que de besoin, avec d'autres
-établissements d'enseignement supérieur.
+Ces écoles sont créées sur proposition du conseil d'administration de
+l'établissement public et accréditées par un arrêté conjoint des ministres
+chargés de l'enseignement supérieur et de l'éducation nationale, après avis du
+Conseil national de l'enseignement supérieur et de la recherche.
 
-D'ici 2010, l'Agence d'évaluation de la recherche et de l'enseignement supérieur
-procède à une évaluation des modalités et des résultats de l'intégration des
-instituts universitaires de formation des maîtres au sein des universités,
-notamment au regard des objectifs qui leur sont fixés.
+L'école est accréditée pour la durée du contrat pluriannuel liant l'Etat à
+l'établissement public.
 
-Dans le cadre des orientations définies par l'Etat, ces instituts universitaires
-de formation des maîtres conduisent les actions de formation professionnelle
-initiale des personnels enseignants. Celles-ci comprennent des parties communes
-à l'ensemble des corps et des parties spécifiques en fonction des disciplines et
-des niveaux d'enseignement.
+L'accréditation est renouvelée pour la même durée, après une évaluation
+nationale, par arrêté conjoint des ministres chargés de l'enseignement supérieur
+et de l'éducation nationale, après avis du Conseil national de l'enseignement
+supérieur et de la recherche.
 
-Les instituts universitaires de formation des maîtres participent à la formation
-continue des personnels enseignants et à la recherche en éducation.
+L'accréditation de l'école emporte l'habilitation de l'établissement public à
+caractère scientifique, culturel et professionnel ou de l'établissement public
+de coopération scientifique ou des établissements publics d'enseignement
+supérieur partenaires, mentionnés à l'article L. 721-2, à délivrer le diplôme
+national de master dans les domaines des métiers de l'enseignement, de
+l'éducation et de la formation.
 
-Ils organisent des formations de préparation professionnelle en faveur des
-étudiants.
-
-Les formations mentionnées aux trois alinéas précédents comportent des actions
-de sensibilisation à la lutte contre les discriminations, aux enjeux de
-l'égalité entre les femmes et les hommes, aux violences faites aux femmes et aux
-violences commises au sein du couple.
+Les modalités d'accréditation sont définies par arrêté conjoint des ministres
+chargés de l'enseignement supérieur et de l'éducation nationale

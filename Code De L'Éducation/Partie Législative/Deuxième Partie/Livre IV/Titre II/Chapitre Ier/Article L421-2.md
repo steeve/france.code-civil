@@ -12,11 +12,32 @@ organisations représentatives des salariés et des employeurs ;
 
 2° Pour un tiers, des représentants élus du personnel de l'établissement ;
 
-3° Pour un tiers, des représentants élus des parents d'élèves et élèves.
+3° Pour un tiers, des représentants élus des parents d'élèves et élèves. Les
+représentants des collectivités territoriales sont au nombre de trois ou de
+quatre, selon que l'effectif du conseil d'administration est de vingt-quatre ou
+de trente membres.
 
-Les représentants des collectivités territoriales sont au nombre de trois ou de
-quatre selon que l'effectif du conseil d'administration est de vingt-quatre ou
-de trente membres. Ils comprennent un représentant de la collectivité de
-rattachement, le cas échéant, un représentant de l'établissement public de
-coopération intercommunale et un ou plusieurs représentants de la commune siège
-de l'établissement.
+Lorsque les représentants des collectivités territoriales sont au nombre de
+trois, ils comprennent deux représentants de la collectivité de rattachement et
+un représentant de la commune siège de l'établissement et, lorsqu'il existe un
+établissement public de coopération intercommunale, un représentant de cet
+établissement public siège sans voix délibérative.
+
+Lorsque les représentants des collectivités territoriales sont au nombre de
+quatre, ils comprennent deux représentants de la collectivité de rattachement et
+deux représentants de la commune siège de l'établissement ou, lorsqu'il existe
+un établissement public de coopération intercommunale, deux représentants de la
+collectivité de rattachement, un représentant de cet établissement public de
+coopération intercommunale et un représentant de la commune siège.
+
+Lorsque les représentants d'une même collectivité territoriale sont au nombre de
+deux, l'un d'entre eux peut ne pas être membre de l'assemblée délibérante.
+
+Toutefois, lorsque, en application du b du 2 du II ou du a du 2 du III de
+l'article L. 5217-4 du code général des collectivités territoriales, les
+compétences d'une région ou d'un département en matière de construction,
+d'aménagement, d'entretien et de fonctionnement des lycées ou des collèges sont
+exercées par une métropole, un représentant de la métropole siège au conseil
+d'administration des établissements publics locaux d'enseignement concernés en
+lieu et place de l'un des représentants de la collectivité territoriale de
+rattachement.

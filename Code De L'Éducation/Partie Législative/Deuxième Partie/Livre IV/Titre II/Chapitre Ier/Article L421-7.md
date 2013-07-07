@@ -1,7 +1,8 @@
 Article L421-7
 ----
 Les établissements scolaires organisent des contacts et des échanges avec leur
-environnement économique, culturel et social.
+environnement économique, culturel et social, particulièrement dans les zones
+d'éducation prioritaire.
 
 Les collèges, lycées et centres de formation d'apprentis, publics et privés sous
 contrat, relevant de l'éducation nationale, de l'enseignement agricole ou

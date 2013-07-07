@@ -5,8 +5,12 @@ famille, concourt à son éducation.
 
 La formation scolaire favorise l'épanouissement de l'enfant, lui permet
 d'acquérir une culture, le prépare à la vie professionnelle et à l'exercice de
-ses responsabilités d'homme et de citoyen. Elle constitue la base de l'éducation
-permanente. Les familles sont associées à l'accomplissement de ces missions.
+ses responsabilités d'homme et de citoyen. Elle prépare à l'éducation et à la
+formation tout au long de la vie. Elle développe les connaissances, les
+compétences et la culture nécessaires à l'exercice de la citoyenneté dans la
+société contemporaine de l'information et de la communication. Elle favorise
+l'esprit d'initiative. Les familles sont associées à l'accomplissement de ces
+missions.
 
 Pour favoriser l'égalité des chances, des dispositions appropriées rendent
 possible l'accès de chacun, en fonction de ses aptitudes et de ses besoins

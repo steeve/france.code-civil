@@ -5,13 +5,18 @@ Les enseignants sont responsables de l'ensemble des activités scolaires des
 constituées des enseignants ayant en charge les mêmes classes ou groupes
 d'élèves ou exerçant dans le même champ disciplinaire et des personnels
 spécialisés, notamment les psychologues scolaires dans les écoles. Les
-personnels d'éducation y sont associés.
+personnels d'éducation y sont associés. Le travail transversal et
+pluridisciplinaire ainsi que l'innovation pédagogique sont encouragés
 
 Les enseignants apportent une aide au travail personnel des élèves et en
 assurent le suivi. Ils procèdent à leur évaluation. Ils les conseillent dans le
 choix de leur projet d'orientation en collaboration avec les personnels
-d'éducation et d'orientation. Ils participent aux actions de formation continue
-des adultes et aux formations par apprentissage.
+d'éducation et d'orientation qui veillent à favoriser la mixité entre les femmes
+et les hommes dans l'accès aux filières de formation. Ils participent aux
+actions de formation continue des adultes et aux formations par apprentissage.
+
+Les enseignants tiennent informés les parents d'élèves et les aident à suivre la
+scolarité de leurs enfants.
 
 Ils contribuent à la continuité de l'enseignement sous l'autorité du chef
 d'établissement en assurant des enseignements complémentaires.

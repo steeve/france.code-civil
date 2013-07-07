@@ -22,5 +22,5 @@ l'établissement, la coopération avec les partenaires du système éducatif, le
 échanges ou le jumelage avec des établissements étrangers d'enseignement
 scolaire. Ces expérimentations font l'objet d'une évaluation annuelle.
 
-Le Haut Conseil de l'éducation établit chaque année un bilan des
-expérimentations menées en application du présent article.
+Le Conseil national d'évaluation du système scolaire établit chaque année un
+bilan des expérimentations menées en application du présent article.

@@ -1,5 +1,8 @@
 Article L312-11
 ----
-Les maîtres sont autorisés à recourir aux langues régionales dans les écoles
-primaires et maternelles chaque fois qu'ils peuvent en tirer profit pour leur
-enseignement, notamment pour l'étude de la langue française.
+Sans préjudice des dispositions de l'article L. 121-3, les enseignants des
+premier et second degrés sont autorisés à recourir aux langues régionales, dès
+lors qu'ils en tirent profit pour leur enseignement. Ils peuvent également
+s'appuyer sur des éléments de la culture régionale pour favoriser l'acquisition
+du socle commun de connaissances, de compétences et de culture et des programmes
+scolaires.

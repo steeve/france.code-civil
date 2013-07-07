@@ -1,7 +1,7 @@
 Article L164-1
 ----
 Sont applicables en Nouvelle-Calédonie les premier, deuxième, troisième,
-quatrième, cinquième et septième alinéas de l'article L. 111-1, les articles L.
+quatrième, sixième et septième alinéas de l'article L. 111-1, les articles L.
 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les
 articles L. 121-1 à L. 121-4, L. 122-1, L. 122-1-1, le deuxième alinéa de
 l'article L. 122-5, les articles L. 123-1 à L. 123-9, L. 131-1, L. 131-1-1, L.

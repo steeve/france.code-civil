@@ -7,7 +7,9 @@ les locaux et les équipements scolaires dans la commune pour l'organisation
 d'activités à caractère culturel, sportif, social ou socio-éducatif pendant les
 heures ou les périodes au cours desquelles ils ne sont pas utilisés pour les
 besoins de la formation initiale et continue. Ces activités doivent être
-compatibles avec la nature des installations et l'aménagement des locaux.
+compatibles avec la nature des installations, l'aménagement des locaux et le
+fonctionnement normal du service. Elles doivent également respecter les
+principes de neutralité et de laïcité.
 
 La commune ou, le cas échéant, la collectivité propriétaire peut soumettre toute
 autorisation d'utilisation à la passation, entre son représentant, celui de

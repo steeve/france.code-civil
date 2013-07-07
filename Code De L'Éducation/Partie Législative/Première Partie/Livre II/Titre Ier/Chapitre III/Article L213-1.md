@@ -11,6 +11,9 @@ A ce titre, le conseil général arrête après avis du conseil départemental d
 l'éducation nationale, en tenant compte de critères d'équilibre démographique,
 économique et social, la localisation des établissements, leur capacité
 d'accueil, leur secteur de recrutement et le mode d'hébergement des élèves.
+Lorsque cela favorise la mixité sociale, un même secteur de recrutement peut
+être partagé par plusieurs collèges publics situés à l'intérieur d'un même
+périmètre de transports urbains.
 
 Les dispositions de l'article L. 214-4 sont applicables au département pour les
 collèges.

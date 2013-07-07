@@ -28,8 +28,8 @@ fonctionnaires ;
 
 7° Les dépenses de fonctionnement des collèges ;
 
-8° La participation du département aux dépenses de fonctionnement des instituts
-universitaires de formation des maîtres ;
+8° La participation du département aux dépenses de fonctionnement des écoles
+supérieures du professorat et de l'éducation ;
 
 9° Les dépenses liées à l'organisation des transports scolaires ;
 

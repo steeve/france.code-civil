@@ -10,8 +10,8 @@ droits de la personne ainsi qu'à la compréhension des situations concrètes qu
 portent atteinte. Ils dispensent une formation adaptée dans ses contenus et ses
 méthodes aux évolutions économiques, sociales et culturelles du pays et de son
 environnement européen et international. Cette formation peut comprendre un
-enseignement, à tous les niveaux, de langues et cultures régionales. Les
-enseignements artistiques ainsi que l'éducation physique et sportive concourent
+enseignement, à tous les niveaux, de langues et cultures régionales. L'éducation
+artistique et culturelle ainsi que l'éducation physique et sportive concourent
 directement à la formation de tous les élèves. Dans l'enseignement supérieur,
 des activités physiques et sportives sont proposées aux étudiants. Les écoles,
 les collèges et les lycées assurent une mission d'information sur les violences

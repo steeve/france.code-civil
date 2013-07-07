@@ -3,10 +3,14 @@ Article L214-6
 La région a la charge des lycées, des établissements d'éducation spéciale et des
 lycées professionnels maritimes. Elle en assure la construction, la
 reconstruction, l'extension, les grosses réparations, l'équipement et le
-fonctionnement, à l'exception, d'une part, des dépenses pédagogiques à la charge
-de l'Etat dont la liste est arrêtée par décret et, d'autre part, des dépenses de
-personnels prévues à l'article L. 211-8 sous réserve des dispositions de
-l'article L. 216-1.
+fonctionnement. A ce titre, l'acquisition et la maintenance des infrastructures
+et des équipements, dont les matériels informatiques et les logiciels prévus
+pour leur mise en service, nécessaires à l'enseignement et aux échanges entre
+les membres de la communauté éducative sont à la charge de la région. Pour le
+fonctionnement des établissements publics locaux d'enseignement et de formation
+professionnelle agricole mentionnés à l'article L. 811-8 du code rural et de la
+pêche maritime, la région a la charge du transport pédagogique des élèves assuré
+dans le cadre des enseignements réguliers.
 
 La région assure l'accueil, la restauration, l'hébergement ainsi que l'entretien
 général et technique, à l'exception des missions d'encadrement et de

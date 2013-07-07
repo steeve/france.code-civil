@@ -11,6 +11,10 @@ précoces ou manifestant des aptitudes particulières, afin de leur permettre de
 développer pleinement leurs potentialités. La scolarité peut être accélérée en
 fonction du rythme d'apprentissage de l'élève.
 
+Dans les académies d'outre-mer, des approches pédagogiques spécifiques sont
+prévues dans l'enseignement de l'expression orale ou écrite et de la lecture au
+profit des élèves issus de milieux principalement créolophone ou amérindien.
+
 Des actions particulières sont prévues pour l'accueil et la scolarisation des
 élèves non francophones nouvellement arrivés en France.
 

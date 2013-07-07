@@ -9,6 +9,9 @@ formation fixées par l'Etat. Les communes, départements et régions en support
 la charge financière. Des agents de l'Etat, dont la rémunération leur incombe,
 peuvent être mis à leur disposition.
 
+Les activités complémentaires mentionnées au premier alinéa peuvent porter sur
+la connaissance des langues et des cultures régionales.
+
 L'organisation des activités susmentionnées est fixée par une convention,
 conclue entre la collectivité intéressée et l'établissement scolaire, qui
 détermine notamment les conditions dans lesquelles les agents de l'Etat peuvent
