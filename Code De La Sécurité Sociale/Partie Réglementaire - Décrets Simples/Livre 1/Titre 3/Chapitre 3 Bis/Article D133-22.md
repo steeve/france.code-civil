@@ -1,10 +1,12 @@
 Article D133-22
 ----
-Lorsque le volet social du chèque emploi-service universel n'est pas adressé
-dans le délai prescrit à l'article D. 133-16-3, il est fait application des
-articles R. 243-16 et R. 243-19 à R. 243-20.
+Les volets sociaux des chèques emploi-service universel reçus jusqu'au quinzième
+jour du mois civil donnent lieu à prélèvement automatique des contributions et
+cotisations sociales le dernier jour du mois suivant, sur le compte désigné par
+l'employeur.
 
-Lorsque le prélèvement des cotisations sociales dues au titre de l'utilisation
-du chèque emploi-service universel n'est pas honoré, il est fait application des
-dispositions des articles R. 243-18, R. 243-19 à R. 243-20, R. 243-20-3 et R.
-243-21.
+Toutefois, lorsqu'il est fait application de la prise en charge mentionnée au
+dernier alinéa de l'article D. 133-20, le paiement par le particulier employeur
+et par le département de la part des cotisations et contributions sociales à la
+charge de chacun d'eux a lieu le dernier jour du deuxième mois suivant la
+réception du volet social.
