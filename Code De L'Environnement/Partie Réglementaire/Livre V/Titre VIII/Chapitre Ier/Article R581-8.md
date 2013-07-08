@@ -6,8 +6,8 @@ par pli recommandé avec demande d'avis de réception postal ou déposée contre
 décharge, à l'autorité compétente en matière de police de la publicité du lieu
 où est envisagé l'implantation du dispositif ou du matériel.
 
-Le formulaires de déclaration préalable est un document CERFA dont le contenu
-est déterminé par arrêté du ministre chargé de l'environnement.
+Le formulaire de déclaration préalable est un document CERFA dont le contenu est
+déterminé par arrêté du ministre chargé de l'environnement.
 
 La déclaration préalable peut également être adressée par voie électronique avec
 demande d'accusé de réception électronique lorsque le maire ou le préfet est en

@@ -15,10 +15,9 @@ l'article L. 581-18 est délivrée par l'autorité compétente en matière de po
 :
 
 1° Après accord de l'architecte des Bâtiments de France lorsque cette
-installation est envisagée sur un immeuble classé au titre des monuments
-historiques ou dans le champ de visibilité de cet immeuble défini par le premier
-alinéa de l'article L. 621-30-1 du code du patrimoine ou sur un immeuble inscrit
-à l'inventaire supplémentaire ;
+installation est envisagée sur un immeuble classé ou inscrit au titre des
+monuments historiques ou dans le champ de visibilité de cet immeuble défini par
+l'article L. 621-30 du code du patrimoine ;
 
 2° Après accord du préfet de région, lorsque cette installation est envisagée
 sur un monument naturel, dans un site classé, un cœur de parc national, une
@@ -29,6 +28,6 @@ fixées par l'article L. 313-2 du code de l'urbanisme, lorsque cette installatio
 est envisagée dans un secteur sauvegardé ;
 
 4° Après avis de l'architecte des Bâtiments de France émis dans les conditions
-fixées par l'article L. 642-6 du code du patrimoine, lorsque installation est
-envisagée dans une zone de protection du patrimoine architectural, urbain ou
+fixées par l'article L. 642-6 du code du patrimoine, lorsque cette installation
+est envisagée dans une zone de protection du patrimoine architectural, urbain ou
 paysager ou une aire de mise en valeur de l'architecture et du patrimoine.
