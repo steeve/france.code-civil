@@ -1,5 +1,8 @@
 Article R225-4
 ----
-L'organisme chargé des stages ou sessions délivre aux salariés une attestation
-constatant la fréquentation effective de ceux-ci par l'intéressé. Cette
-attestation est remise à l'employeur au moment de la reprise du travail.
+Le refus du congé de formation économique et sociale et de formation syndicale
+par l'employeur est notifié à l'intéressé dans un délai de huit jours à compter
+de la réception de sa demande.
+
+En cas de différend, la juridiction du travail saisie en application de
+l'article L. 225-7 statue en dernier ressort en la forme des référés.

@@ -1,5 +1,5 @@
 Article R152-1
 ----
-Toute contravention à l'article R. 124-1 sera passible de l'amende prévue pour
-les contraventions de la 4e classe. En cas de récidive, le tribunal pourra
-prononcer l'amende prévue pour les contraventions de la 5e classe.
+Le règlement intérieur est affiché à une place convenable et aisément accessible
+dans les lieux de travail ainsi que dans les locaux et à la porte des locaux où
+se fait l'embauche.

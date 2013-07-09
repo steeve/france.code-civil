@@ -1,5 +1,12 @@
 Article R153-1
 ----
-Toute infraction aux prescriptions des articles L. 125-1, L. 125-2 et des
-arrêtés pris pour leur application ainsi qu'aux prescriptions de l'article R.
-125-1 sera passible de l'amende prévue pour les contraventions de la 5e classe.
+La lettre de convocation prévue à l'article L. 153-4 indique l'objet de
+l'entretien entre le salarié et l'employeur.
+
+Elle précise la date, l'heure et le lieu de cet entretien.
+
+Elle rappelle que le salarié peut se faire assister par une personne de son
+choix appartenant au personnel de l'entreprise.
+
+Elle est soit remise contre récépissé, soit adressée par lettre recommandée,
+dans le délai de deux mois fixé à l'article L. 153-6.

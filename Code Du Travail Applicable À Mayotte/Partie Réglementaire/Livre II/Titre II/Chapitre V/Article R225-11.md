@@ -1,6 +1,12 @@
 Article R225-11
 ----
-A l'issue des stages ou sessions de formation, l'organisme chargé de ces stages
-ou sessions délivre au salarié une attestation constatant la fréquentation
-effective de ceux-ci par l'intéressé. Cette attestation est remise à l'employeur
-au moment de la reprise du travail.
+Le bénéfice du congé peut être refusé par l'employeur s'il établit que ce refus
+est justifié par des nécessités particulières à son entreprise ou au
+fonctionnement de celle-ci.
+
+Ce refus ne peut intervenir qu'après consultation du comité d'entreprise ou, à
+défaut, des délégués du personnel.
+
+Si le salarié ou l'apprenti renouvelle sa demande après l'expiration d'un délai
+de quatre mois, un nouveau refus ne peut lui être opposé sauf en cas de
+dépassement du nombre déterminé par l'article R. 225-8.

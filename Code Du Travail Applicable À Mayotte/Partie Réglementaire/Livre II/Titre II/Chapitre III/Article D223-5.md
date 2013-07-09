@@ -1,5 +1,4 @@
 Article D223-5
 ----
-Le paiement des indemnités dues pour les congés payés est soumis aux règles qui
-sont fixées par le livre Ier du présent code pour le paiement des salaires et
-traitements.
+La période de prise des congés payés est portée par l'employeur à la
+connaissance des salariés au moins deux mois avant l'ouverture de cette période.

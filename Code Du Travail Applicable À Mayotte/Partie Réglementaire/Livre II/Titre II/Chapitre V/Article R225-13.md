@@ -1,7 +1,6 @@
 Article R225-13
 ----
-La liste des organismes dont les stages ouvrent droit au congé mutualiste est
-celle établie par arrêté du ministre chargé de la mutualité.
-
-Les organismes établis à Mayotte qui souhaitent leur inscription sur cette liste
-en font la demande au ministre chargé du travail.
+A l'issue des stages ou sessions de formation, l'organisme chargé de ces stages
+ou sessions délivre au salarié une attestation constatant la fréquentation
+effective de ceux-ci par l'intéressé. Cette attestation est remise à l'employeur
+au moment de la reprise du travail.

@@ -1,5 +1,7 @@
 Article R225-7
 ----
-Le salarié, dont la demande n'aurait pas été satisfaite en raison des conditions
-mentionnées aux articles R. 225-8 et R. 225-9, bénéficie d'une priorité pour
-l'octroi ultérieur d'un congé.
+L'administrateur d'une mutuelle désireux de bénéficier du congé mutualiste de
+formation prévu à l'article L. 225-9 présente, par écrit, sa demande à son
+employeur trente jours au moins à l'avance en précisant la date et la durée de
+l'absence envisagée ainsi que la désignation de l'organisme responsable du stage
+ou de la session.
