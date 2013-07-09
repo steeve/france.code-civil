@@ -1,7 +1,6 @@
 Article R571-2
 ----
 Lorsque les articles du titre II du présent livre étendus par le présent
-chapitre à la collectivité territoriale de Mayotte visent des dispositions de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, il convient de
-se référer aux dispositions de la loi du 24 juillet 1966 et à celles de ses lois
-modificatives qui ont été rendues applicables à cette collectivité.
+chapitre à Mayotte visent des dispositions du code de commerce, il convient de
+se référer aux dispositions du code de commerce qui ont été rendues applicables
+à cette collectivité.

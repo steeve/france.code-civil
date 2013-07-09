@@ -10,4 +10,4 @@ ci-dessus mentionnées une pièce justificative dite bulletin de paie.
 
 Lors de la paie du salaire, il ne peut être exigé aucune formalité de signature
 ou d'émargement autre que celle établissant que la somme reçue correspond bien
-au montant net figurant sur le bulletin de paie [*bulletin de salaire*].
+au montant net figurant sur le bulletin de paie.

@@ -13,14 +13,14 @@ Lorsqu'un groupement d'employeurs se constitue, l'inspection du travail en est
 informée. La liste des membres du groupement est tenue en permanence à la
 disposition de l'inspecteur du travail au siège du groupement.
 
-Une personne physique ou morale ne peut être membre que d'un seul groupement
-[*non cumul*]. Toutefois, une personne physique possédant plusieurs entreprises
-juridiquement distinctes peut, au titre de chacune de ses entreprises,
-appartenir à un groupement différent.
+Une personne physique ou morale ne peut être membre que d'un seul groupement.
+Toutefois, une personne physique possédant plusieurs entreprises juridiquement
+distinctes peut, au titre de chacune de ses entreprises, appartenir à un
+groupement différent.
 
 Les employeurs occupant plus de cent salariés, ce seuil étant calculé sur la
 moyenne des douze derniers mois, ne peuvent adhérer à un groupement ni en
-devenir membre [*incompatibilité*].
+devenir membre.
 
 L'activité du groupement s'exerce sous réserve des dispositions législatives
 relatives à l'exercice illégal de certaines professions.

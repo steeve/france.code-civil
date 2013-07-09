@@ -1,7 +1,7 @@
 Article 721-2
 ----
-Pour l'application du présent code dans la collectivité territoriale de Mayotte,
-les termes énumérés ci-après sont remplacés comme suit :
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont
+remplacés comme suit :
 
 - "tribunal de grande instance" par "tribunal de première instance" ;
 

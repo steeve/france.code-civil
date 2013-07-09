@@ -20,7 +20,7 @@ condition que soit assuré aux intéressés un repos effectif d'une durée au mo
 d'adresser une déclaration préalable à l'inspecteur du travail qui dispose d'un
 délai de huit jours pour notifier son désaccord éventuel.
 
-Des arrêtés du représentant du Gouvernement à Mayotte régleront les modalités
+Des arrêtés du représentant de l'Etat à Mayotte régleront les modalités
 d'application de l'alinéa précédent, notamment la nature des travaux, la durée
 de la période pendant laquelle ils pourront être effectués ainsi que, en tant
 que de besoin, les conditions particulières dans lesquelles sera assurée la
@@ -30,7 +30,7 @@ jeunes gens concernés par ledit alinéa.
 Les limitations et interdictions résultant du présent article sont également
 applicables dans les professions et entreprises agricoles. Des dérogations
 pourront toutefois être accordées dans des conditions fixées par arrêté du
-représentant du Gouvernement à Mayotte pour des travaux légers effectués pendant
-les vacances scolaires soit par des enfants âgés de plus de quatorze ans, soit
-par des enfants de plus de treize ans lorsque ces travaux sont exécutés sous la
+représentant de l'Etat à Mayotte pour des travaux légers effectués pendant les
+vacances scolaires soit par des enfants âgés de plus de quatorze ans, soit par
+des enfants de plus de treize ans lorsque ces travaux sont exécutés sous la
 surveillance du père, de la mère ou du tuteur, salariés dans la même entreprise.

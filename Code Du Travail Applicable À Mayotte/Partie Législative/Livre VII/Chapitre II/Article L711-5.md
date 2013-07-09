@@ -11,8 +11,8 @@ L'employeur s'engage, pour la durée prévue, à fournir un emploi à l'intéres
 professionnelle sanctionnée par un diplôme de l'enseignement technologique ou
 professionnel, ou reconnue dans les classifications d'une convention collective
 ou d'un accord interprofessionnel, ou figurant sur une liste établie par un
-arrêté du représentant du Gouvernement à Mayotte, après consultation du comité
-de la formation professionnelle, de la promotion sociale et de l'emploi prévu à
+arrêté du représentant de l'Etat à Mayotte, après consultation du comité de la
+formation professionnelle, de la promotion sociale et de l'emploi prévu à
 l'article 2 de la loi n° 88-1089 du 1er décembre 1988.
 
 Les enseignements généraux, professionnels et technologiques dispensés pendant

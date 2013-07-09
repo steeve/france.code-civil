@@ -13,7 +13,7 @@ informée par l'officier de police judiciaire.
 Le fait pour une personne, qui a été appelée à intervenir dans les conditions
 prévues à l'alinéa précédent, de faire état auprès de quiconque de cet entretien
 dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement
-et 100 000 F d'amende.
+et 15 000 euros d'amende.
 
 Les dispositions des alinéas précédents s'appliquent dans le territoire de la
 Polynésie française, lorsque la garde à vue se déroule dans une île où il n'y a
