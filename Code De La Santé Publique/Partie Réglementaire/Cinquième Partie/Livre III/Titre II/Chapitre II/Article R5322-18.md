@@ -10,10 +10,7 @@ procédure d'appel à candidatures effectuée par l'agence ;
 2° Quatre personnalités scientifiques dont des personnalités scientifiques
 étrangères, nommées pour une durée de trois ans renouvelable par arrêté du
 ministre chargé de la santé en fonction de leur expertise scientifique dans le
-domaine des produits de santé, sur avis du ministre chargé de la recherche ;
-
-3° Un médecin, un biologiste et un pharmacien des hôpitaux, praticiens
-hospitaliers, désignés par leur ordre.
+domaine des produits de santé, sur avis du ministre chargé de la recherche.
 
 Peuvent assister aux séances du conseil, les présidents des commissions prévues
 à l'article R. 5322-14 ainsi que toute personne dont le directeur général ou le
@@ -24,8 +21,8 @@ Le président du conseil scientifique est nommé parmi les membres mentionnés a
 conseil.
 
 En cas de vacance d'un siège, pour quelque cause que ce soit, il est procédé à
-la désignation d'un nouveau membre dans les conditions prévues aux 1°, 2° et 3°
-pour achever le mandat de celui qu'il remplace.
+la désignation d'un nouveau membre dans les conditions prévues aux 1° et 2° pour
+achever le mandat de celui qu'il remplace.
 
 Les fonctions de membre du conseil scientifique sont exercées à titre gratuit.
 Elles ouvrent droit aux indemnités pour frais de déplacement et de séjour dans

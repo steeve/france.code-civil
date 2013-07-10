@@ -2,9 +2,7 @@ Article L5322-1
 ----
 L'agence est administrée par un conseil d'administration et dirigée par un
 directeur général. Le conseil d'administration est composé, outre son président,
-des membres suivants :
-
-1° Des représentants de l'Etat ;
+des membres suivants : 1° Des représentants de l'Etat ;
 
 2° De trois députés et de trois sénateurs ;
 
@@ -33,6 +31,4 @@ définis par voie réglementaire.
 
 Un conseil scientifique, dont le président est désigné par le ministre chargé de
 la santé après avis dudit conseil, veille à la cohérence de la politique
-scientifique de l'agence. Le conseil comprend au moins un médecin, un biologiste
-et un pharmacien des hôpitaux, praticiens hospitaliers et désignés par leur
-ordre professionnel.
+scientifique de l'agence.

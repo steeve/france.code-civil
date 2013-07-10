@@ -42,6 +42,7 @@ niveau national conformément aux dispositions de l'article L. 1114-1 ;
 7° Trois représentants du personnel de l'agence élus par ce personnel selon les
 modalités définies par le règlement intérieur de l'agence.
 
-En cas d'empêchement, chaque membre du conseil d'administration peut donner
-mandat à un autre membre pour le représenter. Nul ne peut être porteur de plus
-de deux mandats par séance.
+En cas d'empêchement, chaque membre du conseil d'administration, à l'exception
+de ceux mentionnés aux 1°, 3°, 4° et 5°, peut donner mandat à un autre membre
+pour le représenter. Nul ne peut être porteur de plus de deux mandats par
+séance.

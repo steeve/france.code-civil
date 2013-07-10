@@ -7,3 +7,6 @@ Il est renouvelable une fois.
 Les nominations des membres du conseil d'administration mentionnés aux 2°, 3°,
 4°, 5° et 6° de l'article R. 5322-1 font l'objet d'un arrêté du ministre chargé
 de la santé publié au Journal officiel de la République française.
+
+Pour chacun des membres mentionnés aux 3°, 4° et 5° de l'article R. 5322-1, un
+suppléant est nommé dans les mêmes conditions que le membre titulaire.
