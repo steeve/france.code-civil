@@ -920,10 +920,10 @@ BP JEPS, spécialité " activités nautiques ".
 
 Mentions monovalentes de la spécialité " activités nautiques "
 
-Aviron.
+Aviron et disciplines associées.
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les
-premiers niveaux de compétition en aviron.
+premiers niveaux de compétition en aviron et disciplines associées.
 
 Canoë-kayak et disciplines associées.
 
@@ -964,10 +964,10 @@ premiers niveaux de compétition en motonautisme.
 Activités de jet, bateau à moteur, engins tractés, pour tout public et sur tout
 lieu de pratique de l'activité.
 
-Ski nautique.
+Ski nautique et disciplines associées.
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les
-premiers niveaux de compétition en ski nautique.
+premiers niveaux de compétition en ski nautique et disciplines associées.
 
 Activités du ski nautique et des disciplines associées (téléski nautique,
 wakeboard, nu-pied et courses), pour tout public et sur tout lieu de pratique de
@@ -1438,8 +1438,8 @@ BMX.
 
 UCC " vélo tout terrain ".
 
-Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo
-tout terrain.
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en
+vélo tout terrain.
 
 A l'exclusion du vélo tout terrain de descente.
 
@@ -1539,6 +1539,22 @@ Conduite de cycles d'animation en course d'orientation.
 CS " lutte et disciplines associées ".
 
 Conduite de cycles d'initiation en lutte et dans les disciplines associées.
+
+CS sport-boules .
+
+Conduite de cycles de découverte, d'animation, d'initiation et d'entraînement
+jusqu'au premier niveau de compétition en sport-boules.
+
+CS athlétisme et disciplines associées .
+
+Encadrement et conduite de séances de découverte et d'initiation des différents
+groupes de spécialités de l'athlétisme et disciplines associées.
+
+A l'exclusion de toute pratique compétitive.
+
+CS hockey .
+
+Conduite de cycles de découverte, d'initiation et d'apprentissage en hockey.
 
 BP JEPS, spécialité " activités gymniques de la forme et de la force ".
 
@@ -1648,6 +1664,13 @@ CS " lutte et disciplines associées ".
 
 Conduite de cycles d'initiation en lutte et dans les disciplines associées.
 
+CS athlétisme et disciplines associées .
+
+Encadrement et conduite de séances de découverte et d'initiation des différents
+groupes de spécialités de l'athlétisme et disciplines associées.
+
+A l'exclusion de toute pratique compétitive.
+
 BP JEPS, spécialité " activités sports collectifs "
 
 Conduite de séances et de cycles d'initiation, de découverte et d'animation
@@ -1703,6 +1726,13 @@ activités athlétiques.
 CS " tennis de table ".
 
 Conduite de cycles d'animation et d'entraînement en tennis de table.
+
+CS athlétisme et disciplines associées .
+
+Encadrement et conduite de séances de découverte et d'initiation des différents
+groupes de spécialités de l'athlétisme et disciplines associées.
+
+A l'exclusion de toute pratique compétitive.
 
 BP JEPS, spécialité " vol libre ".
 
@@ -1832,6 +1862,20 @@ Encadrement et animation d'activités de loisir, d'initiation, de découverte et
 de préparation aux premiers niveaux de compétition régionale en lutte bretonne
 (gouren).
 
+BP JEPS, spécialité judo-jujitsu .
+
+Encadrement et animation d'activités d'éveil, de découverte et d'initiation au
+judo-jujitsu pour tous les publics. Encadrement et conduite de cycles
+d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux
+premiers niveaux de compétition. Encadrement et conduite de cycles
+d'apprentissage permettant la préparation aux grades.
+
+BP JEPS, spécialité basket-ball .
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et
+d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de
+compétition en basket-ball.
+
 Unités capitalisables complémentaires associées à la spécialité " activités
 aquatiques "
 
@@ -1867,6 +1911,13 @@ UCC " BMX ".
 
 Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en
 BMX.
+
+UCC vélo tout terrain .
+
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en
+vélo tout terrain.
+
+A l'exclusion du vélo tout terrain de descente.
 
 Certificats de spécialisation associés à la spécialité " activités de randonnée
 " du BP JEPS
@@ -2089,6 +2140,9 @@ tout public en milieu aquatique.
 Sous réserve de la présentation du certificat quinquennal d'aptitude à
 l'exercice de la profession de maître nageur sauveteur en cours de validité.
 
+Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des
+sports de montagne.
+
 Diplôme d'Etat de ski-moniteur national de ski alpin.
 
 Encadrement, animation, enseignement et entraînement du ski alpin et de ses
@@ -2099,6 +2153,17 @@ formation et de l'emploi du conseil supérieur des sports de montagne.
 A l'exclusion des zones glaciaires non balisées et des terrains dont la
 fréquentation fait appel aux techniques de l'alpinisme. Autorisation d'exercer
 pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
+
+Diplôme d'Etat de ski - moniteur national de ski nordique de fond.
+
+Encadrement, animation, enseignement et entraînement du ski nordique de fond et
+de ses activités dérivées en application de l'ensemble des classes de la
+progression du ski nordique de fond et de ses activités dérivées définies par la
+commission de la formation et de l'emploi du Conseil supérieur des sports de
+montagne.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un
+stage de recyclage.
 
 D.-Titres à finalité professionnelle
 
@@ -2169,6 +2234,36 @@ Accompagnateur de tourisme équestre.
 
 Accompagnement et conduite de randonnées équestres en autonomie dans tout
 établissement, dans le cadre de parcours identifiés.
+
+D-3. Titres à finalité professionnelle délivrés par la Fédération française de
+football.
+
+
+INTITULÉ DU TITRE
+
+CONDITIONS D'EXERCICE
+
+LIMITES DES CONDITIONS D'EXERCICE
+
+Moniteur de football.
+
+Conduite de cycles d'apprentissage et entraînement de la pratique du football
+jusqu'au niveau régional.
+
+Entraîneur de football.
+
+Entraînement en football jusqu'au niveau régional pour tous les publics.
+Entraînement en football au niveau national pour les publics mineurs.
+
+Entraîneur formateur de football.
+
+Encadrement et entraînement de joueurs de haut niveau en football dans une
+structure de préformation ou de formation.
+
+Entraîneur professionnel de football.
+
+Encadrement et entraînement de joueurs de haut niveau en football dans un club
+professionnel .
 
 E.-Certificats de qualification délivrés par les branches professionnelles
 
@@ -2302,41 +2397,56 @@ cardio-vasculaire ;
 
 Activité exercée à titre secondaire.
 
-CQP " animateur de loisirs sportifs ", option " activités gymniques d'entretien
-et d'expression ".
+CQP animateur des activités gymniques , mention activités gymniques d'expression
+.
+
+Encadrement en autonomie, par la découverte et l'initiation des activités
+gymniques d'expression : - activités gymniques dansées de groupe avec ou sans
+engins jusqu'à un premier niveau de compétition en gymnastique rythmique ;
+
+- activités gymniques cardio-vasculaires jusqu'à un premier niveau de
+compétition en gymnastique aérobic.
+
+CQP animateur de loisirs sportifs , option activités gymniques d'entretien et
+d'expression .
 
 Encadrement en autonomie par la découverte et l'animation des activités
-gymniques d'entretien et d'expression : -techniques cardio ;
+gymniques d'entretien et d'expression :
 
--renforcement musculaire ;
+- techniques cardio ;
 
--techniques douces ;
+- renforcement musculaire ;
 
--activités d'expression.
+- techniques douces :
 
-Activité exercée à titre secondaire ; Sans recours à des appareils de
-musculation ;
+- activités d'expression.
 
-Sous réserve de la présentation du certificat d'aptitude à l'exercice de la
-fonction d'animateur de loisirs sportifs en cours de validité.
+Sans recours à des appareils de musculation.
 
-CQP " animateur de loisirs sportifs ", option " jeux sportifs et jeux
-d'opposition ".
+A l'exclusion des cours individuels.
+
+Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
+de recyclage.
+
+CQP animateur de loisirs sportifs , option jeux sportifs et jeux d'opposition .
 
 Encadrement en autonomie par la découverte et l'animation des jeux sportifs et
-des jeux d'opposition : -arts et éducation par les activités physiques
-d'opposition ;
+des jeux d'opposition :
 
--jeux de raquettes ;
+- arts et éducation par les activités physiques d'opposition ;
 
--jeux de ballons, petits et grands terrains
+- jeux de raquettes ;
 
-Activité exercée à titre secondaire ; A l'exclusion des pratiques compétitives ;
+- jeux de ballons, petits et grands terrains.
 
-A l'exclusion de la délivrance de niveaux, de ceintures ou de grades ;
+A l'exclusion des pratiques compétitives.
 
-Sous réserve de la présentation du certificat d'aptitude à l'exercice de la
-fonction d'animateur de loisirs sportifs en cours de validité.
+A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
+
+A l'exclusion des cours individuels.
+
+Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
+de recyclage.
 
 CQP " assistant moniteur de tennis ".
 
@@ -2534,6 +2644,23 @@ pas de tir. Pour l'activité d'initiation : dans la limite de dix pratiquants su
 le même pas de tir.
 
 Sous réserve de la présentation du carnet de tir en cours de validité.
+
+CQP animateur de badminton .
+
+Encadrement en autonomie de séances collectives en badminton, de l'initiation
+jusqu'au premier niveau de compétition.
+
+CQP moniteur de football américain et de flag .
+
+Encadrement en autonomie des activités de découverte et d'initiation de football
+américain et de flag jusqu'aux premiers niveaux de compétition.
+
+A l'exclusion des championnats nationaux.
+
+CQP technicien sportif de cheerleading .
+
+Encadrement en autonomie de séances d'entraînement en cheerleading pour tout
+public.
 
 F.-Diplômes délivrés par le ministère chargé de la santé
 
