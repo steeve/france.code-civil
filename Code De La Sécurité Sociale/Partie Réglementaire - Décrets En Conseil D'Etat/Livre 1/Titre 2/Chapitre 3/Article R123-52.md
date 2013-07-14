@@ -1,7 +1,7 @@
 Article R123-52
 ----
 En cas d'urgence, l'agent de direction peut être suspendu avec ou sans
-traitement, par le ministre chargé de la sécurité sociale et, pour les agents
+rémunération, par le ministre chargé de la sécurité sociale et, pour les agents
 des organismes de mutualité sociale agricole, par le ministre chargé de
 l'agriculture. La suspension cesse d'avoir effet, si, dans un délai de quinze
 jours, la commission n'a pas été saisie.

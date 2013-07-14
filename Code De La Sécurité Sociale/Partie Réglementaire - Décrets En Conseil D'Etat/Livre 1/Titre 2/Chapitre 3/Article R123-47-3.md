@@ -1,9 +1,8 @@
 Article R123-47-3
 ----
-Par dérogation aux articles R. 123-45, R. 123-45-1, R. 123-45-2, R. 123-46, R.
-123-47 et R. 123-47-2, le directeur de la Caisse centrale de la mutualité
-sociale agricole est nommé parmi les personnes remplissant l'une des conditions
-suivantes :
+Par dérogation aux articles R. 123-45, R. 123-45-1, R. 123-46 , R. 123-47 et R.
+123-47-2, le directeur de la Caisse centrale de la mutualité sociale agricole
+est nommé parmi les personnes remplissant l'une des conditions suivantes :
 
 1° Etre régulièrement agréé depuis six ans au moins dans les fonctions d'agent
 de direction ou d'agent comptable d'un organisme de sécurité sociale mentionné à

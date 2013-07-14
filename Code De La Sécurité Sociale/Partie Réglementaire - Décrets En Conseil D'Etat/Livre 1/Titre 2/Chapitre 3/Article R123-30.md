@@ -1,5 +1,4 @@
 Article R123-30
 ----
-Les élèves de l'Ecole nationale supérieure de sécurité sociale reçoivent un
-enseignement théorique spécialisé et un enseignement pratique comportant des
-stages, d'une durée de dix-huit mois.
+Les élèves de l'école reçoivent un enseignement théorique et pratique au sein
+d'un cycle de formation dont la durée est au plus de vingt-quatre mois.

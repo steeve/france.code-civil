@@ -1,19 +1,16 @@
 Article R123-33
 ----
-Les études prévues à l'article R. 123-9 sont sanctionnées par un examen. Le
-classement résultant de cet examen est établi, compte tenu des notes de stages
-et d'études, par un jury dont les membres sont pris notamment parmi les
-fonctionnaires de l'Etat et les agents de direction et agents comptables des
-organismes de sécurité sociale et présidé par un professeur de l'enseignement
-supérieur, et dont la composition est fixée par arrêté conjoint du ministre
-chargé de la sécurité sociale et du ministre chargé de l'agriculture sur
-proposition du conseil d'administration.
+La formation prévue à l'article R. 123-30 est sanctionnée par un examen de
+sortie, dont le résultat est établi par un jury dont les membres sont choisis
+parmi les agents de catégorie A de la fonction publique, notamment
+enseignants-chercheurs, les agents de direction et agents comptables régis par
+les conventions collectives nationales des organismes de sécurité sociale.
 
-Ne peuvent se prévaloir du titre d'ancien élève de l'Ecole nationale supérieure
-de sécurité sociale et bénéficier des avantages s'attachant à cette qualité et
-prévus par les articles R. 123-45-1 et R. 123-37-1 que les élèves ayant
-satisfait à l'examen de sortie institué par le présent article et ayant souscrit
-l'engagement de servir dans un organisme de sécurité sociale pendant une durée
-de dix ans consécutifs au minimum. Les élèves qui refusent de signer cet
-engagement sont soumis aux obligations ou interdictions prévues à l'article R.
-123-34.
+Les membres du jury sont nommés par le directeur de l'école.
+
+L'élève ayant satisfait à l'examen de sortie et ayant souscrit l'engagement de
+servir dans un organisme de sécurité sociale ou une agence régionale de santé
+pendant une durée de six ans consécutifs bénéficie du titre d'ancien élève.
+
+Un arrêté annuel du ministre chargé de la sécurité sociale établit la liste des
+personnes pouvant se prévaloir du titre d'ancien élève de l'école.

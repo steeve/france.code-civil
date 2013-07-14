@@ -24,18 +24,7 @@ salariés ;
 7° Le directeur de l'Ecole nationale supérieure de sécurité sociale ;
 
 8° Un membre du service mentionné à l'article R. 155-1 désigné par le directeur
-de la sécurité sociale ;
-
-9° Deux anciens agents de direction ou leurs suppléants, ayant exercé des
-fonctions de directeur ou d'agent comptable dans les caisses au sein
-d'organismes du régime général et ayant fait valoir leurs droits à la retraite
-depuis moins de trois ans, désignés par le président du comité exécutif des
-directeurs de l'Union des caisses nationales de sécurité sociale ;
-
-10° Un ancien agent de direction ou son suppléant, ayant exercé des fonctions de
-directeur ou d'agent comptable au sein d'organismes du régime social des
-indépendants et ayant fait valoir ses droits à la retraite depuis moins de trois
-ans, désigné par le directeur général de la caisse nationale de ce régime.
+de la sécurité sociale.
 
 La section des praticiens-conseils comprend, outre le président :
 

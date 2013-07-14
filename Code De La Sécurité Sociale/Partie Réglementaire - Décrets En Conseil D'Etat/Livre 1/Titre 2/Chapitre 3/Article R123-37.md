@@ -1,15 +1,11 @@
 Article R123-37
 ----
-Les sanctions disciplinaires qui peuvent être infligées aux élèves dans le cadre
-de l'école sont :
+Les organismes de sécurité sociale et les agences régionales de santé
+transmettent chaque année à l'école, à une date fixée par arrêté du ministre
+chargé de la sécurité sociale, la liste des postes d'encadrement supérieurs
+vacants. Le directeur de l'école établit la liste des postes vacants proposés
+aux élèves.
 
-1°) l'avertissement ;
-
-2°) l'exclusion temporaire de l'école pour une durée qui ne peut excéder trois
-mois et qui est prononcée par le directeur après avis d'un conseil de discipline
-dont la composition et l'organisation sont fixées par le règlement intérieur de
-l'école ;
-
-3°) l'exclusion définitive de l'école qui est prononcée par le ministre chargé
-de la sécurité sociale et le ministre chargé de l'agriculture, sur proposition
-du directeur et après avis du conseil de discipline.
+A l'issue de la scolarité, chacun des anciens élèves est nommé sur un des postes
+figurant sur cette liste ou sur un poste d'agent de direction par le directeur
+de l'organisme concerné.

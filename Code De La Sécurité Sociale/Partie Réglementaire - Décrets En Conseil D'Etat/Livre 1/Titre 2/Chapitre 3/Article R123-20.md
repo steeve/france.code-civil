@@ -10,15 +10,16 @@ sur proposition du directeur de l'école après avis du conseil d'administration
 Elle est présidée par le directeur de l'école ou son représentant et se réunit
 sur convocation de celui-ci.
 
-Elle est appelée à donner son avis en particulier sur :
+Elle assiste le directeur dans la définition et la mise en œuvre du projet
+pédagogique.
 
-1°) l'organisation, les méthodes et les programmes des enseignements ;
+Elle est appelée à donner son avis, en particulier sur :
 
-2°) les conditions d'admission et la sanction des études ;
+1° Les orientations des enseignements, formations et stages des cycles diplômant
+;
 
-3°) la nature et l'effectif des stages et cycles de formation ou de formation
-continue organisés par l'école ;
+2° Les conditions d'accès aux cycles diplômant et d'obtention des diplômes ;
 
-4°) les critères requis pour le choix des personnels enseignants ;
+3° Les orientations des programmes de formation continue ;
 
-5°) le règlement intérieur de l'école.
+4° Les orientations des programmes d'étude et de recherche.

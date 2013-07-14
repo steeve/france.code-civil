@@ -10,8 +10,8 @@ représentatives des agents de direction, à celles représentatives des
 praticiens-conseils ainsi qu'aux associations d'agents de direction, de
 directeurs, d'agents comptables et de praticiens-conseils.
 
-Le directeur général de la Caisse nationale de l'assurance maladie des
-travailleurs salariés transmet chaque année au comité des carrières un bilan de
-sa politique de gestion des directeurs et agents comptables. Ce bilan fait
+Les directeurs des organismes nationaux du régime général et du régime social
+des indépendants transmettent chaque année au comité des carrières un bilan de
+leur politique de gestion des directeurs et agents comptables. Ce bilan fait
 l'objet d'une présentation à la réunion prévue au deuxième alinéa du présent
 article.
