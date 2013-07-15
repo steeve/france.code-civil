@@ -1,11 +1,10 @@
 Article L6732-2
 ----
-Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6341-2,
-les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement
-européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles
-communes dans le domaine de la sûreté de l'aviation civile et des règlements
-pris pour son application par la Commission européenne ” sont remplacés par les
-mots : " de l'application des règles en vigueur en métropole en vertu du
-règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le
-domaine de la sûreté de l'aviation civile et des règlements pris pour son
-application par la Commission européenne ”.
+Pour l'application de l'article L. 6232-10 à Saint-Barthélemy, les mots : "
+définis à l'article 2 du règlement (UE) n° 996/2010 du Parlement européen et du
+Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et
+des incidents dans l'aviation civile. " sont remplacés par les mots : " définis
+par les règles applicables en métropole en vertu de l'article 2 du règlement
+(UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les
+enquêtes et la prévention des accidents et des incidents dans l'aviation civile
+".

@@ -3,7 +3,7 @@ Article L134-26
 En cas d'abus du droit d'accès régulé à l'électricité nucléaire historique
 mentionné à l'article L. 336-1 ou d'entrave à l'exercice de ce droit ou en cas
 de manquement d'un gestionnaire, d'un opérateur, d'un exploitant ou d'un
-utilisateur d'un réseau, d'un ouvrage ou d'une installation mentionné à
+utilisateur d'un réseau, d'un ouvrage ou d'une installation mentionnés à
 l'article L. 134-19, à une disposition législative ou réglementaire relative à
 l'accès auxdits réseaux, ouvrages et installations ou à leur utilisation, à une
 décision prise par la Commission de régulation de l'énergie ou à une règle

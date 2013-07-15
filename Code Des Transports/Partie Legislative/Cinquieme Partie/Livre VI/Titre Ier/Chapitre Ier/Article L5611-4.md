@@ -1,6 +1,7 @@
 Article L5611-4
 ----
-Les navires immatriculés au registre international français sont soumis aux
-dispositions des livres Ier, II et IV de la présente partie. Le port
-d'immatriculation ainsi que les modalités conjointes de francisation et
-d'immatriculation de ces navires sont fixées par voie réglementaire.
+Les livres Ier, II, IV et les titres Ier et VII du livre V sont applicables aux
+navires immatriculés au registre international français.
+
+Les modalités de détermination du port d'immatriculation ainsi que de
+francisation et d'immatriculation de ces navires sont fixées par décret.

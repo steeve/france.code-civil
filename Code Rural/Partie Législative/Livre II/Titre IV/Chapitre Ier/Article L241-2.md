@@ -1,14 +1,14 @@
 Article L241-2
 ----
 Pour l'exercice en France des activités de vétérinaire, les ressortissants des
-Etats membres de la Communauté européenne et des autres Etats parties à l'accord
-sur l'Espace économique européen peuvent se prévaloir :
+Etats membres de l'Union européenne et des autres Etats parties à l'accord sur
+l'Espace économique européen peuvent se prévaloir :
 
 1° Soit d'un diplôme ou titre figurant sur une liste établie conformément aux
-obligations communautaires ou à celles résultant de l'accord sur l'Espace
-économique européen, par arrêté du ministre chargé de l'agriculture, et délivré
-postérieurement à la date éventuellement fixée par cet arrêté pour chaque
-catégorie de diplôme, certificat ou titre ;
+obligations résultant de la législation de l'Union européenne ou à celles
+résultant de l'accord sur l'Espace économique européen, par arrêté du ministre
+chargé de l'agriculture, et délivré postérieurement à la date éventuellement
+fixée par cet arrêté pour chaque catégorie de diplôme, certificat ou titre ;
 
 2° Soit d'un diplôme, certificat ou titre de vétérinaire délivré par un Etat
 membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
@@ -53,12 +53,11 @@ de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7
 septembre 2005 ;
 
 6° Soit d'un diplôme, certificat ou titre de vétérinaire n'ayant pas été délivré
-par un Etat membre de la Communauté européenne ou par un autre Etat partie à
-l'accord sur l'Espace économique européen, dès lors qu'il a été reconnu par un
-Etat membre de la Communauté européenne ou par un autre Etat partie à l'accord
-sur l'Espace économique européen et que son titulaire a acquis une expérience
-professionnelle de trois années au moins dans cet Etat, et attesté par celui-ci
-;
+par un Etat membre de l'Union européenne ou par un autre Etat partie à l'accord
+sur l'Espace économique européen, dès lors qu'il a été reconnu par un Etat
+membre de l'Union européenne ou par un autre Etat partie à l'accord sur l'Espace
+économique européen et que son titulaire a acquis une expérience professionnelle
+de trois années au moins dans cet Etat, et attesté par celui-ci ;
 
 7° Soit les titres de formation de vétérinaire délivrés par l'Estonie ou dont la
 formation a commencé dans cet Etat avant le 1er mai 2004 s'ils sont accompagnés
@@ -75,5 +74,5 @@ sanctionnent une formation telle que prévue au 5°.
 
 Les ressortissants du Grand-Duché du Luxembourg peuvent, en outre, se prévaloir
 d'un diplôme de fin d'études de médecine vétérinaire délivré dans un Etat-membre
-de la Communauté si ce diplôme leur donne accès à l'exercice des activités de
+de l'Union si ce diplôme leur donne accès à l'exercice des activités de
 vétérinaire dans le Grand-Duché.

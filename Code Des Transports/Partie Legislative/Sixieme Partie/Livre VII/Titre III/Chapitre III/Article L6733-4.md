@@ -1,0 +1,3 @@
+Article L6733-4
+----
+Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.

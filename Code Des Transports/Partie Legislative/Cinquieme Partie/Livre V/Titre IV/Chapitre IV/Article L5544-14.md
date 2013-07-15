@@ -1,4 +1,5 @@
 Article L5544-14
 ----
-Le capitaine détermine les conditions dans lesquelles le marin qui n'est pas de
-service peut descendre à terre.
+Le marin a droit de descendre à terre, en escale ou lors de séjours prolongés au
+mouillage, sous réserve des exigences de service ou de sécurité déterminées par
+le capitaine.

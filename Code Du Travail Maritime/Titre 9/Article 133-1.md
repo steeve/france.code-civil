@@ -1,8 +1,5 @@
 Article 133-1
 ----
-Pour l'application à Mayotte de l'article 9, la seconde phrase du premier alinéa
-est supprimée.
-
 Pour l'application de l'article 25-1, à défaut d'accord national professionnel
 ou d'accord de branche étendus, tels que prévus par cet article, applicables à
 Mayotte, la durée du travail est calculée sur une base annuelle de deux cent

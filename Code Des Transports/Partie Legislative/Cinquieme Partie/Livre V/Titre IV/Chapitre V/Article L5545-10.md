@@ -1,5 +1,4 @@
 Article L5545-10
 ----
-L'employeur veille à ce que les denrées destinées à la restauration des gens de
-mer soient saines, de bonne qualité, en quantité suffisante et d'une nature
-appropriée au voyage entrepris.
+L'employeur veille à ce que l'alimentation des gens de mer soit suffisante en
+quantité et en qualité, et qu'elle tienne compte des habitudes alimentaires.

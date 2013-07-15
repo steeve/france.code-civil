@@ -2,7 +2,8 @@ Article L415-1
 ----
 Outre les officiers et agents de police judiciaire et les inspecteurs de
 l'environnement mentionnés à l'article L. 172-1, sont habilités à rechercher et
-à constater les infractions définies à l'article L. 415-3 :
+à constater les infractions aux dispositions du présent titre et des textes pris
+pour son application :
 
 1° Les agents des services de l'Etat chargés des forêts commissionnés à raison
 de leurs compétences en matière forestière et assermentés à cet effet ;

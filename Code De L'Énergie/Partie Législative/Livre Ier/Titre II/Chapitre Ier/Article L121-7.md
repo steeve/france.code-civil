@@ -17,8 +17,9 @@ de France ou par une entreprise locale de distribution. Lorsque l'objet des
 contrats est l'achat de l'électricité produite par une installation de
 production implantée dans une zone non interconnectée au réseau métropolitain
 continental, les surcoûts sont calculés par rapport à la part relative à la
-production dans les tarifs réglementés de vente d'électricité ; 2° Dans les
-zones non interconnectées au réseau métropolitain continental :
+production dans les tarifs réglementés de vente d'électricité ;
+
+2° Dans les zones non interconnectées au réseau métropolitain continental :
 
 a) Les surcoûts de production qui, en raison des particularités du parc de
 production inhérentes à la nature de ces zones, ne sont pas couverts par la part
@@ -49,3 +50,7 @@ de l'énergie afin de garantir la sécurité de l'approvisionnement en électric
 des zones non interconnectées au réseau métropolitain continental.
 
 Un décret en Conseil d'Etat précise les modalités d'application des a à d.
+
+3° La rémunération versée par Electricité de France aux installations de
+cogénération dans le cadre des contrats transitoires, en application de
+l'article L. 314-1-1.

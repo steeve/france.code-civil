@@ -7,5 +7,5 @@ moralité et la discipline de la profession. Ce magistrat est désigné par le
 premier président de la cour d'appel dont le ressort comprend le chef-lieu de la
 région.
 
-La chambre régionale de discipline a juridiction sur les vétérinaires et
-docteurs vétérinaires exerçant leur profession dans son ressort.
+La chambre régionale de discipline a juridiction sur les vétérinaires, les
+docteurs vétérinaires et les sociétés exerçant leur profession dans son ressort.

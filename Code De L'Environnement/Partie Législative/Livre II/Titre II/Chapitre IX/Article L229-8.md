@@ -1,13 +1,14 @@
 Article L229-8
 ----
-I. - Les quotas qui ne sont pas délivrés gratuitement sont mis aux enchères.
+I.-Les quotas qui ne sont pas délivrés gratuitement sont mis aux enchères.
 
-II. - La quantité de quotas délivrés gratuitement pour chaque installation
+II.-La quantité de quotas délivrés gratuitement pour chaque installation
 mentionnée au premier alinéa de l'article L. 229-5 conformément aux paragraphes
 4 à 7 de l'article 10 bis de la directive 2003/87/ CE du 13 octobre 2003
 correspond à 80 % de la quantité fixée conformément aux mesures visées au
 paragraphe 1 de cet article de la directive et diminue ensuite chaque année en
-quantités égales pour atteindre 30 % à compter de 2020.
+quantités égales pour atteindre 30 % à compter de 2020, en vue de parvenir à la
+suppression des quotas gratuits en 2027.
 
 Par dérogation aux dispositions ci-dessus, la quantité de quotas délivrés
 gratuitement pour les installations des secteurs ou sous-secteurs exposés à un

@@ -27,16 +27,14 @@ applicables. Au terme de ces procédures, les installations concernées sont
 soumises au titre Ier du présent livre et à ses textes d'application.
 
 Les installations terrestres de production d'électricité utilisant l'énergie
-mécanique du vent constituant des unités de production telles que définies au 3°
-de l'article 10 de la loi n° 2000-108 du 10 février 2000 relative à la
-modernisation et au développement du service public de l'électricité, et dont la
-hauteur des mâts dépasse 50 mètres sont soumises à autorisation au titre de
-l'article L. 511-2, au plus tard un an à compter de la date de publication de la
-loi n° 2010-788 du 12 juillet 2010 précitée. La délivrance de l'autorisation
-d'exploiter est subordonnée à l'éloignement des installations d'une distance de
-500 mètres par rapport aux constructions à usage d'habitation, aux immeubles
-habités et aux zones destinées à l'habitation définies dans les documents
-d'urbanisme en vigueur à la date de publication de la même loi. L'autorisation
-d'exploiter tient compte des parties du territoire régional favorables au
-développement de l'énergie éolienne définies par le schéma régional éolien
-mentionné au 3° du I de l'article L. 222-1, si ce schéma existe.
+mécanique du vent dont la hauteur des mâts dépasse 50 mètres sont soumises à
+autorisation au titre de l'article L. 511-2, au plus tard un an à compter de la
+date de publication de la loi n° 2010-788 du 12 juillet 2010 précitée. La
+délivrance de l'autorisation d'exploiter est subordonnée à l'éloignement des
+installations d'une distance de 500 mètres par rapport aux constructions à usage
+d'habitation, aux immeubles habités et aux zones destinées à l'habitation
+définies dans les documents d'urbanisme en vigueur à la date de publication de
+la même loi. L'autorisation d'exploiter tient compte des parties du territoire
+régional favorables au développement de l'énergie éolienne définies par le
+schéma régional éolien mentionné au 3° du I de l'article L. 222-1, si ce schéma
+existe.

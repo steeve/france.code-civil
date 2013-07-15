@@ -1,8 +1,9 @@
 Article L332-20
 ----
-I.-Les agents des réserves naturelles sont habilités à rechercher et constater,
-sur le territoire de la réserve dans laquelle ils sont affectés, les infractions
-aux dispositions du présent chapitre.
+I. - Les agents des réserves naturelles sont habilités à rechercher et
+constater, sur le territoire des réserves naturelles dans lesquelles ils sont
+affectés, ainsi que sur leur périmètre de protection, les infractions au présent
+chapitre.
 
 Ils sont commissionnés à cet effet par l'autorité administrative et assermentés.
 

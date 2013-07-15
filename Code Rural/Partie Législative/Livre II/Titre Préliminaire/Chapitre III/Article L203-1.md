@@ -5,9 +5,10 @@ rassemblement temporaire ou permanent d'animaux est tenu de faire procéder par
 un vétérinaire en vertu des règles fixées en application des articles L. 201-3,
 L. 201-4, L. 201-5, L. 201-8, L. 211-24, L. 214-3, L. 214-6, L. 221-1, L. 223-4,
 L. 223-5, L. 223-6, L. 223-9, L. 223-10 et L. 223-13 ne peuvent être exécutées
-que par une personne mentionnée aux articles L. 241-1 et L. 241-6 à L. 241-12
-habilitée à cet effet par l'autorité administrative. Le titulaire de cette
-habilitation est dénommé " vétérinaire sanitaire ".
+que par une personne mentionnée aux articles L. 241-1 et L. 241-6 à L. 241-12 ou
+par une personne physique mentionnée à l'article L. 241-3, habilitée à cet effet
+par l'autorité administrative. Le titulaire de cette habilitation est dénommé "
+vétérinaire sanitaire ".
 
 Un décret en Conseil d'Etat définit les conditions d'octroi de l'habilitation,
 notamment la formation dont le vétérinaire doit justifier, la durée de

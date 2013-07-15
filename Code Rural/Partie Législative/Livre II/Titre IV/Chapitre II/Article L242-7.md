@@ -1,6 +1,7 @@
 Article L242-7
 ----
-La chambre de discipline peut appliquer les peines disciplinaires suivantes :
+I.-La chambre de discipline peut appliquer aux personnes physiques mentionnées
+aux articles L. 241-1 et L. 241-3 les sanctions disciplinaires suivantes :
 
 1° L'avertissement ;
 
@@ -26,11 +27,23 @@ Lorsqu'une période égale à la moitié de la durée de la suspension se sera
 écoulée, le vétérinaire ou docteur vétérinaire frappé peut être relevé de
 l'incapacité d'exercer par une décision de la chambre de discipline qui a
 prononcé la condamnation. La demande est formée par une requête adressée au
-président du conseil régional de l'ordre qui a prononcé la suspension ; celui-ci
-devra statuer dans un délai de trois mois à dater du jour du dépôt de la
-requête.
+président du conseil régional de l'ordre ; la chambre de discipline devra
+statuer dans un délai de trois mois à dater du jour du dépôt de la requête.
 
 Toute décision de rejet pourra être transférée au conseil supérieur de l'ordre.
 
 Les peines disciplinaires prévues au présent article devront être notifiées au
 conseil supérieur de l'ordre dans un délai maximum d'un mois.
+
+II.-Sans préjudice des sanctions disciplinaires pouvant être prononcées, le cas
+échéant, à l'encontre des personnes physiques mentionnées au I exerçant en leur
+sein, les sociétés mentionnées aux articles L. 241-3 et L. 241-17 peuvent se
+voir appliquer, dans les conditions prévues au I, les sanctions disciplinaires
+suivantes :
+
+1° L'avertissement ;
+
+2° La suspension temporaire du droit d'exercer la profession pour une durée
+maximale de dix ans, sur tout ou partie du territoire national ;
+
+3° La radiation.

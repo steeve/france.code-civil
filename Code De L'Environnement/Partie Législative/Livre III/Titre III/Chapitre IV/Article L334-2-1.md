@@ -34,7 +34,7 @@ réserves naturelles ;
 8° Les infractions mentionnées à l'article L. 362-5 relatif à la circulation des
 véhicules terrestres à moteur dans les espaces naturels ;
 
-9° Les infractions mentionnées à l'article L. 415-2 relatif à la protection de
+9° Les infractions mentionnées à l'article L. 415-3 relatif à la protection de
 la faune et de la flore.
 
 II (Abrogé)

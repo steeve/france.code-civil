@@ -3,7 +3,7 @@ Article L452-5
 Les décrets en Conseil d'Etat pris en application de l'article L. 452-1 peuvent
 prévoir des dérogations aux tarifs d'utilisation des réseaux de transport et de
 distribution et des installations de gaz naturel liquéfié, ainsi qu'aux
-conditions commerciales générales mentionnées à l'article L. 452-4. Ils
+conditions commerciales générales mentionnées à l'article L. 452-1. Ils
 déterminent les cas où ces dérogations sont justifiées par des modalités
 particulières d'utilisation des ouvrages et installations, notamment en cas de
 transit, ou par la nécessité d'investir dans de nouvelles infrastructures soit

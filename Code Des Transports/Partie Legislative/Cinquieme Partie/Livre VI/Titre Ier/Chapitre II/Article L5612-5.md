@@ -1,4 +1,4 @@
 Article L5612-5
 ----
-Une liste du personnel présent à bord, tenue à jour sur le navire par le
-capitaine, est à la disposition des autorités compétentes.
+L'article L. 5522-1 n'est pas applicable à bord des navires immatriculés au
+registre international français.

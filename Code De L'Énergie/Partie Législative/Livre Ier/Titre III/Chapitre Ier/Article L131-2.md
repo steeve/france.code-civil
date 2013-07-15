@@ -9,8 +9,8 @@ Elle surveille la cohérence des offres, y compris de garanties de capacités,
 faites par les producteurs, négociants et fournisseurs, notamment vers les
 consommateurs finals, avec leurs contraintes économiques et techniques, le cas
 échéant leurs conditions d'approvisionnement par l'accès régulé à l'électricité
-nucléaire historique mentionné au même article. Elle peut formuler des avis et
-proposer toute mesure favorisant le bon fonctionnement et la transparence,
+nucléaire historique mentionné à l'article L. 336-1. Elle peut formuler des avis
+et proposer toute mesure favorisant le bon fonctionnement et la transparence,
 notamment en matière de prix, du marché de détail.
 
 La Commission de régulation de l'énergie garantit le respect, par toute personne

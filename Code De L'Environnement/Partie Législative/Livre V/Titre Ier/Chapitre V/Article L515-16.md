@@ -15,26 +15,34 @@ les conditions définies à l'article L. 211-1 du code de l'urbanisme.
 
 II.-Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en raison
 de l'existence de risques importants d'accident à cinétique rapide présentant un
-danger grave pour la vie humaine, les communes ou les établissements publics de
-coopération intercommunale compétents peuvent instaurer un droit de délaissement
-des bâtiments ou parties de bâtiments existant à la date d'approbation du plan
-qui s'exerce dans les conditions définies aux articles L. 230-1 et suivants du
-code de l'urbanisme. Toutefois, pour la détermination du prix d'acquisition, la
-valeur du bien est appréciée sans tenir compte de la dépréciation supplémentaire
-éventuelle apportée par l'intervention de la servitude instituée en application
-du I. La commune ou l'établissement public de coopération intercommunale peut,
-par convention passée avec un établissement public, lui confier le soin de
-réaliser l'acquisition des biens faisant l'objet du délaissement.
+danger grave pour la vie humaine, les propriétaires des biens concernés peuvent
+mettre en demeure la commune ou l'établissement public de coopération
+intercommunale compétent en matière d'urbanisme de procéder à l'acquisition de
+leur bien, pendant une durée de six ans à compter de la date de signature de la
+convention prévue à l'article L. 515-19 ou de la mise en place de la répartition
+par défaut des contributions mentionnées à ce même article, dans les conditions
+définies aux articles L. 230-1 et suivants du code de l'urbanisme. Toutefois,
+pour la détermination du prix d'acquisition, la valeur du bien est appréciée
+sans tenir compte de la dépréciation supplémentaire éventuelle apportée par
+l'intervention de la servitude instituée en application du I. La commune ou
+l'établissement public de coopération intercommunale peut, par convention passée
+avec un établissement public, lui confier le soin de réaliser l'acquisition des
+biens faisant l'objet du délaissement. Pour les plans approuvés avant le 30 juin
+2013, la durée durant laquelle les propriétaires des biens peuvent mettre en
+demeure est étendue au 30 juin 2020.
 
 III.-Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en raison
 de l'existence de risques importants d'accident à cinétique rapide présentant un
 danger très grave pour la vie humaine, l'Etat peut déclarer d'utilité publique
-l'expropriation, par les communes ou les établissements publics de coopération
-intercommunale compétents et à leur profit, dans les conditions prévues par le
-code de l'expropriation pour cause d'utilité publique, des immeubles et droits
-réels immobiliers lorsque les moyens de sauvegarde et de protection des
-populations qu'il faudrait mettre en oeuvre s'avèrent impossibles ou plus
-coûteux que l'expropriation.
+l'expropriation, au profit des communes ou des établissements publics de
+coopération intercommunale compétents en matière d'urbanisme, dans les
+conditions prévues par le code de l'expropriation pour cause d'utilité publique,
+des immeubles et droits réels immobiliers. L'enquête publique mentionnée à
+l'article L. 515-22 du présent code vaut toutefois également enquête publique au
+titre de l'article L. 11-1 du code de l'expropriation pour cause d'utilité
+publique. La déclaration d'utilité publique est prononcée par le représentant de
+l'Etat dans le département à l'issue de l'approbation du plan de prévention des
+risques technologiques.
 
 La procédure prévue par les articles L. 15-6 à L. 15-8 du code de
 l'expropriation pour cause d'utilité publique est applicable lorsque la gravité
@@ -53,10 +61,22 @@ détermine. Ces mesures peuvent notamment comprendre des prescriptions relatives
 aux mouvements et au stationnement des véhicules de transport de matières
 dangereuses.
 
-Lorsque des travaux de protection sont prescrits en application de l'alinéa
-précédent, ils ne peuvent porter que sur des aménagements dont le coût n'excède
-pas des limites fixées par le décret en Conseil d'Etat prévu à l'article L.
-515-25.
+Lorsque des travaux de protection sont prescrits en application du premier
+alinéa du présent IV, ils ne peuvent porter que sur des aménagements dont le
+coût n'excède ni des limites fixées par le décret en Conseil d'Etat prévu à
+l'article L. 515-25 ni, en tout état de cause :
+
+20 000 €, lorsque le bien concerné est la propriété d'une personne physique ;
+
+5 % du chiffre d'affaires de la personne morale l'année de l'approbation du
+plan, lorsque le bien est la propriété d'une personne morale de droit privé ;
+
+1 % du budget de la personne morale l'année de l'approbation du plan, lorsque le
+bien est la propriété d'une personne morale de droit public.
+
+Pour les plans approuvés avant le 30 juin 2013, les dispositions des règlements
+prises en application du présent IV sont à comprendre comme plafonnées par les
+montants indiqués ci-dessus.
 
 V.-Définir des recommandations tendant à renforcer la protection des populations
 face aux risques encourus et relatives à l'aménagement, l'utilisation ou

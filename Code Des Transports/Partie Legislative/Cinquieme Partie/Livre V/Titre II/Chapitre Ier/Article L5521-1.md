@@ -1,17 +1,29 @@
 Article L5521-1
 ----
-Nul ne peut accéder à la profession de marin s'il ne remplit des conditions de
-qualification professionnelle et d'aptitude physique. Les qualifications
-requises et les dispositions relatives aux conditions de délivrance des titres
-de formation, à leur validité, aux modalités de suspension et de retrait des
-prérogatives qui leur sont attachées ainsi qu'à la reconnaissance des titres de
-formation professionnelle maritime sont fixées par décret en Conseil d'Etat. Ce
-décret précise les conditions dans lesquelles sont reconnus les titres, diplômes
-et qualifications professionnelles, obtenus ou acquis dans un autre Etat membre
-de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique
-européen. Il fixe également les modalités selon lesquelles, en cas de doute sur
-l'équivalence de ces conditions, des épreuves ou des vérifications
-complémentaires peuvent être exigées. L'aptitude physique requise pour la
-navigation, l'accès à la profession de marin et pour son exercice est contrôlée
-par le service de santé des gens de mer, dont l'organisation et le
-fonctionnement sont fixés par décret en Conseil d'Etat.
+I. - Nul ne peut accéder à la profession de marin s'il ne remplit des conditions
+d'aptitude médicale.
+
+II. - L'aptitude médicale requise pour exercer à bord d'un navire est contrôlée
+à titre gratuit par le service de santé des gens de mer.
+
+III. - Par dérogation au II, l'aptitude médicale des gens de mer employés sur
+des navires ne battant pas pavillon français en escale dans un port français ou
+des gens de mer non résidents employés sur des navires battant pavillon français
+peut être contrôlée par des médecins agréés n'appartenant pas au service de
+santé des gens de mer mentionné au même II. Aucun frais en résultant ne peut
+être mis à la charge du marin par son employeur ou l'armateur.
+
+IV. - Un décret en Conseil d'Etat, pris après avis des organisations les plus
+représentatives d'armateurs et de gens de mer intéressées, détermine les
+conditions d'application du présent article, notamment :
+
+1° L'organisation du service de santé des gens de mer ;
+
+2° Les conditions d'agrément des médecins mentionnés au III ;
+
+3° Les normes d'aptitude médicale, selon les fonctions à bord ou les types de
+navigation ;
+
+4° Les cas de dispense, la durée de validité du certificat d'aptitude médicale
+délivré à l'issue du contrôle d'aptitude médicale, sa forme ainsi que les voies
+et délais de recours en cas de refus de délivrance du certificat.
