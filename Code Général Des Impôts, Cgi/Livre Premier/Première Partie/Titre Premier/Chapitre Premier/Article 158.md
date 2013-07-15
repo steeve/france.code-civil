@@ -29,7 +29,7 @@ ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou
 territoire ayant conclu avec la France une convention fiscale en vue d'éviter
 les doubles impositions en matière d'impôt sur les revenus et résultant d'une
 décision régulière des organes compétents, sont réduits, pour le calcul de
-l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu.A
+l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu. A
 compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège
 dans un Etat de la Communauté européenne, cette disposition est réservée aux
 revenus distribués par des sociétés établies dans un Etat ou territoire ayant
@@ -103,7 +103,7 @@ fonction de leur nature et origine ;
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
-articles 34 à 61 A,237 ter A, et 302 septies A bis ; les rémunérations
+articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations
 mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet
 article ; les bénéfices de l'exploitation agricole sont déterminées conformément
 aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des
@@ -143,11 +143,12 @@ pensionné membre du foyer fiscal. La somme de 374 € est révisée chaque ann�
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 
-b. Les dispositions du a sont applicables aux allocations mentionnées aux
-articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L.
-5423-8 du code du travail, aux participations en espèces et, à compter du 1er
-janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs
-mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
+b. Les dispositions du a sont applicables aux allocations et indemnités
+mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1,
+L. 5423-1 et L. 5423-8 du code du travail, aux participations en espèces et, à
+compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux
+travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont
+imposables.
 
 Sous réserve de l'exonération prévue à l'article 163 bis AA, les dispositions du
 a sont également applicables aux sommes revenant aux salariés au titre de la
@@ -215,15 +216,15 @@ Ces dispositions ne sont pas applicables aux arrérages correspondant aux
 cotisations ayant fait l'objet de la déduction prévue au I de l'article 163
 quatervicies.
 
-6 bis. - Les gains nets de cession de valeurs mobilières, droits sociaux et
-titres assimilés sont déterminés conformément aux articles 150-0 A à 150-0 E.
-Sont également imposables dans cette catégorie les profits réalisés sur les
-marchés d'instruments financiers et assimilés, déterminés conformément aux
-articles 150 ter à 150 undecies, les distributions de plus-values mentionnées à
-l'article 150-0 F et au 1 du II de l'article 163 quinquies C lorsque
-l'actionnaire est une personne physique fiscalement domiciliée en France.
+6 bis.-Les gains nets de cession de valeurs mobilières, droits sociaux et titres
+assimilés sont déterminés conformément aux articles 150-0 A à 150-0 E. Sont
+également imposables dans cette catégorie les profits réalisés sur les marchés
+d'instruments financiers et assimilés, déterminés conformément aux articles 150
+ter à 150 undecies, les distributions de plus-values mentionnées à l'article
+150-0 F et au 1 du II de l'article 163 quinquies C lorsque l'actionnaire est une
+personne physique fiscalement domiciliée en France.
 
-6 ter. - Les plus-values latentes sur droits sociaux, valeurs, titres ou droits,
+6 ter.-Les plus-values latentes sur droits sociaux, valeurs, titres ou droits,
 les créances trouvant leur origine dans une clause de complément de prix et
 certaines plus-values en report d'imposition imposables lors du transfert du
 domicile fiscal hors de France sont déterminées conformément à l'article 167
