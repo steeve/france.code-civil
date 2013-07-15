@@ -1,15 +1,19 @@
 Article L522-2
 ----
-I. - La mise sur le marché d'une substance active biocide, qu'un responsable de
-la mise sur le marché destine aux produits biocides, qui n'est pas en tant que
-telle un produit biocide et qui ne figure pas sur la liste communautaire des
-substances présentes sur le marché communautaire au 14 mai 2000, peut être
-provisoirement autorisée, selon des procédures fixées par décret en Conseil
-d'Etat, à la suite de l'examen par l'autorité administrative française ou par
-celle d'un autre Etat membre d'un dossier assorti d'une déclaration attestant
-que la substance sera incorporée dans un produit biocide.
+I.-Le responsable de la mise à disposition sur le marché d'un produit biocide
+déclare ce produit au ministre chargé de l'environnement préalablement à la
+première mise à disposition sur le marché.
 
-II. - La mise sur le marché d'une substance active exclusivement utilisée pour
-un produit biocide pour effectuer des expériences ou des essais à des fins de
-recherche ou de développement n'est pas soumise aux dispositions de l'alinéa
-précédent.
+II.-Nonobstant les dispositions prévues à l' article L. 1342-1 du code de la
+santé publique , le responsable de la mise à disposition sur le marché d'un
+produit biocide fournit les informations nécessaires sur ce produit, notamment
+sa composition, aux organismes mentionnés à l'article L. 1341-1 du même code en
+vue de permettre de prévenir les effets sur la santé ou de répondre à toute
+demande d'ordre médical destinée au traitement des affections induites par ce
+produit ou émanant des services d'urgence relevant de l'autorité administrative.
+
+III.-Le responsable de la mise à disposition sur le marché d'une substance ou
+d'un produit biocide déclare à l'autorité administrative les informations dont
+il a connaissance ou peut raisonnablement avoir connaissance et qui peuvent
+avoir des conséquences sur le maintien de cette substance ou de ce produit sur
+le marché.

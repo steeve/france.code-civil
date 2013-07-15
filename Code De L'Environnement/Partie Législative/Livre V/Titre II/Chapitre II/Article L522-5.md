@@ -1,27 +1,8 @@
 Article L522-5
 ----
-I.-L'autorisation est accordée pour une durée limitée qui ne peut dépasser dix
-ans. Elle peut être renouvelée ; elle peut être réexaminée et modifiée à tout
-moment. Dans ce cas, l'autorité administrative peut demander au détenteur de
-l'autorisation de fournir les informations supplémentaires requises pour ce
-réexamen. L'autorisation peut être retirée dans les cas suivants :
-
-1° La substance active ne figure plus sur les listes mentionnées à l'article L.
-522-3 ;
-
-2° Lorsque les conditions de l'obtention de l'autorisation ne sont plus remplies
-;
-
-3° Lorsque des indications fausses ou fallacieuses ont été fournies au titre des
-données sur la base desquelles l'autorisation a été accordée ;
-
-4° A la demande du détenteur de l'autorisation.
-
-II.-Après retrait de l'autorisation, un délai peut être accordé au détenteur du
-produit pour éliminer, stocker, commercialiser ou utiliser les stocks existants.
-
-III.-Tout refus, retrait ou modification d'autorisation doit être motivé. Sauf
-en cas d'urgence, ces mesures ne peuvent intervenir que si le demandeur ou le
-détenteur de l'autorisation a été mis en demeure de présenter ses observations.
-
-IV.-Dans tous les cas, les droits des tiers sont et demeurent réservés.
+Les dépenses résultant de la conservation, de l'examen, de l'exploitation et de
+l'expertise des informations fournies dans le cadre de l'une des procédures
+prévues par le règlement (UE) n° 528/2012 du Parlement européen et du Conseil du
+22 mai 2012 précité ou par le présent chapitre peuvent, dans des conditions
+fixées par voie réglementaire, être mises à la charge des producteurs, des
+importateurs ou des responsables de la mise sur le marché.

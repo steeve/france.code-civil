@@ -1,4 +1,4 @@
 Article L522-17
 ----
-Des décrets en Conseil d'Etat fixent les conditions d'application du présent
-chapitre.
+Les modalités d'application du présent chapitre sont définies par décret en
+Conseil d'Etat.
