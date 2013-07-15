@@ -13,6 +13,3 @@ livraison ;
 équipements et avitaillements du navire, un an après ces fournitures faites ;
 
 3° Pour ouvrages faits, un an après la réception des ouvrages.
-
-III.-Les actions en paiement des salaires des officiers, matelots et autres
-membres de l'équipage se prescrivent par cinq ans .
