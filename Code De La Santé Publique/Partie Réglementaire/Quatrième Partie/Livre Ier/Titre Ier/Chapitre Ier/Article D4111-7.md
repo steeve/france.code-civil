@@ -6,8 +6,10 @@ connaissances et justifiant de fonctions hospitalières antérieures en qualité
 d'attaché associé, de praticien attaché associé, d'assistant associé ou de
 fonctions universitaires en qualité de chef de clinique associé des universités
 ou d'assistant associé des universités, à condition d'avoir été chargés de
-fonctions hospitalières dans le même temps, peuvent être dispensés, après avis
-de la commission d'autorisation d'exercice, en tout ou partie de l'exercice des
+fonctions hospitalières dans le même temps, ou d'interne à titre étranger ainsi
+que les lauréats chirurgiens-dentistes titulaires du certificat d'études
+cliniques spéciales mention orthodontie peuvent être dispensés, après avis de la
+commission d'autorisation d'exercice, en tout ou partie de l'exercice des
 fonctions prévues à l'article D. 4111-6.
 
 Les candidats à l'autorisation d'exercice de la profession de médecin doivent
