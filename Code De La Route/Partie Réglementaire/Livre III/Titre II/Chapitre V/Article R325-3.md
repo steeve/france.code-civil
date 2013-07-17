@@ -20,3 +20,7 @@ infraction pour laquelle cette mesure est prévue par le présent code.
 
 Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à
 l'article L. 362-5 du code de l'environnement.
+
+L'immobilisation prévue à l'article 283 bis du code des douanes peut être
+prescrite par les agents des douanes, de la police nationale, de la gendarmerie
+nationale ou du contrôle des transports terrestres.
