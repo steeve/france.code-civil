@@ -24,7 +24,11 @@ son capital ;
 
 8° Les actes constatant la formation, la modification ou l'extinction d'un
 contrat de fiducie, et le transfert de biens ou droits supplémentaires au
-fiduciaire dans les conditions prévues par l'article 2019 du code civil.
+fiduciaire dans les conditions prévues par l'article 2019 du code civil ;
+
+9° La transaction prévoyant, en contrepartie du versement d'une somme d'argent
+ou de l'octroi d'un avantage en nature, le désistement du recours pour excès de
+pouvoir formé contre un permis de construire, de démolir ou d'aménager.
 
 2. 1° Les décisions des juridictions de l'ordre judiciaire lorsqu'elles donnent
 ouverture à un droit proportionnel ou progressif ;
@@ -54,7 +58,7 @@ prépondérance immobilière au sens du troisième alinéa du 2° du I de l'arti
 726 , y compris lorsque ces cessions sont réalisées à l'étranger et quelle que
 soit la nationalité des parties ;
 
-8° 9° (Abrogés) ;
+8° et 9° (Abrogés) ;
 
 10° Les actes portant cession et rachat taxables de parts de fonds de placement
 immobilier.
