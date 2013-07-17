@@ -12,7 +12,9 @@ b) Du versement de l'impôt contesté lorsque cet impôt n'a pas donné lieu à
 l'établissement d'un rôle ou à la notification d'un avis de mise en recouvrement
 ;
 
-c) De la réalisation de l'événement qui motive la réclamation.
+c) De la réalisation de l'événement qui motive la réclamation. Ne constitue pas
+un tel événement une décision juridictionnelle ou un avis mentionné aux
+troisième et cinquième alinéas de l'article L. 190.
 
 Toutefois, dans les cas suivants, les réclamations doivent être présentées au
 plus tard le 31 décembre de l'année suivant celle, selon le cas :

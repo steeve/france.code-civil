@@ -7,7 +7,9 @@ tard le 31 décembre de l'année suivant celle, selon le cas :
 a) De la mise en recouvrement du rôle ou de la notification d'un avis de mise en
 recouvrement ;
 
-b) De la réalisation de l'événement qui motive la réclamation ;
+b) De la réalisation de l'événement qui motive la réclamation ; ne constitue pas
+un tel événement une décision juridictionnelle ou un avis mentionné aux
+troisième et cinquième alinéas de l'article L. 190 ;
 
 c) De la réception par le contribuable d'un nouvel avis d'imposition réparant
 les erreurs d'expédition que contenait celui adressé précédemment ;
