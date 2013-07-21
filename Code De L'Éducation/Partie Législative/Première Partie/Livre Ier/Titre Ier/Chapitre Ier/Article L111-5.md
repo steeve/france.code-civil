@@ -6,3 +6,6 @@ l'accomplissement des missions de ceux-ci dans une communauté universitaire.
 
 Il associe à sa gestion, outre ses usagers et son personnel, des représentants
 des intérêts publics et des activités économiques, culturelles et sociales.
+
+L'Etat est le garant de l'égalité devant le service public de l'enseignement
+supérieur sur l'ensemble du territoire.

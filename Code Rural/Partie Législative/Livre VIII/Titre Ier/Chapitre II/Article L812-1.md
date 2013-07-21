@@ -43,11 +43,12 @@ définition du projet pédagogique des établissements d'enseignement supérieur
 agricoles publics.
 
 Les établissements d'enseignement supérieur agricoles publics peuvent être
-habilités par le ministre chargé de l'enseignement supérieur, après avis
+accrédités par le ministre chargé de l'enseignement supérieur, après avis
 conforme du ministre de l'agriculture, à délivrer, dans leurs domaines de
 compétences, seuls ou conjointement avec des établissements publics à caractère
-scientifique, culturel et professionnel, des diplômes nationaux de troisième
-cycle.
+scientifique, culturel et professionnel, des diplômes nationaux de deuxième et
+troisième cycles ainsi que des diplômes nationaux du premier cycle ayant un
+objectif d'insertion professionnelle.
 
 Après concertation avec toutes les parties concernées, les dispositions des
 articles L. 611-1, L. 612-1 à L. 612-7, L. 613-1 à L. 613-5 du code de

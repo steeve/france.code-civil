@@ -5,7 +5,7 @@ scientifiques, culturelles et professionnelles.
 
 A cet effet, le service public :
 
-1° Accueille les étudiants et concourt à leur orientation ;
+1° Accueille les étudiants et concourt à leur réussite et à leur orientation ;
 
 2° Dispense la formation initiale ;
 

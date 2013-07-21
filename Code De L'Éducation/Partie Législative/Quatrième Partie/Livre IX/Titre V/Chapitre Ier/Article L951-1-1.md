@@ -7,3 +7,6 @@ l'article 15 de la loi n° 84-16 du 11 janvier 1984 portant dispositions
 statutaires relatives à la fonction publique de l'Etat, il est consulté sur la
 politique de gestion des ressources humaines de l'établissement. Un bilan de la
 politique sociale de l'établissement lui est présenté chaque année.
+
+Les bilans sociaux des établissements sont rendus publics chaque année, dans des
+conditions fixées par décret.

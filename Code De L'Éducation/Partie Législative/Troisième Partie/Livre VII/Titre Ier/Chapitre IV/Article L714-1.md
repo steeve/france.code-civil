@@ -9,4 +9,7 @@ conditions fixées par décret, notamment pour assurer :
 
 3° L'accueil, l'information et l'orientation des étudiants ;
 
-4° L'exploitation d'activités industrielles et commerciales.
+4° L'exploitation d'activités industrielles et commerciales ;
+
+5° L'organisation des actions impliquées par la responsabilité sociale de
+l'établissement.

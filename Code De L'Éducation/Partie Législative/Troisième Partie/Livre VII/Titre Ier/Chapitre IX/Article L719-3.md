@@ -12,4 +12,8 @@ associations scientifiques et culturelles, des grands services publics et,
 
 Un décret fixe les règles relatives à la répartition des sièges des
 personnalités extérieures et les modalités de leur désignation par les
-collectivités, institutions ou organismes qu'elles représentent.
+collectivités, institutions ou organismes qu'elles représentent. Ce décret fixe
+les conditions dans lesquelles est assurée la parité entre les femmes et les
+hommes. A cette fin, il précise le nombre et la répartition par sexe,
+éventuellement dans le temps, des candidats proposés par chacune des instances
+compétentes.

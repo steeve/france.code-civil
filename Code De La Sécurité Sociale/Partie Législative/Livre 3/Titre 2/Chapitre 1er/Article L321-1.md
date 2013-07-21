@@ -27,7 +27,7 @@ traitement des enfants ou adolescents handicapés dans les établissements
 mentionnés au 2° et au 12° du I de l'article L. 312-1 du même code ainsi que
 celle des frais de traitement concourant à leur éducation dispensée en dehors de
 ces établissements, à l'exception de la partie de ces frais incombant à l'Etat
-en application des articles L. 112-1 à L. 112-4, L. 123-4-1, L. 351-1 à L. 351-3
+en application des articles L. 112-1 à L. 112-4, L. 123-4-2, L. 351-1 à L. 351-3
 et L. 352-1 du code de l'éducation ;
 
 4°) La couverture des frais de soins et d'hospitalisation afférents à

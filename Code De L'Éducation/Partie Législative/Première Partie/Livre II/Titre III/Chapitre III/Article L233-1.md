@@ -9,10 +9,10 @@ conférences constituées respectivement :
 directeurs d'écoles normales supérieures ;
 
 - des responsables d'établissements d'enseignement supérieur, d'instituts ou
-écoles internes à ces établissements habilités à délivrer le diplôme d'ingénieur
-et des directeurs des écoles d'ingénieurs, autres que celles relevant du
-ministre chargé de l'enseignement supérieur, ayant, le cas échéant, reçu
-l'approbation de leur autorité de tutelle.
+écoles internes à ces établissements accrédités à délivrer le diplôme
+d'ingénieur et des directeurs des écoles d'ingénieurs, autres que celles
+relevant du ministre chargé de l'enseignement supérieur, ayant, le cas échéant,
+reçu l'approbation de leur autorité de tutelle.
 
 Ces deux conférences se réunissent séparément pour examiner les questions qui
 les concernent.

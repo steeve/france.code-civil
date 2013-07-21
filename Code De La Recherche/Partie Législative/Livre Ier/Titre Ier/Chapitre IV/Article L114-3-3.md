@@ -1,30 +1,43 @@
 Article L114-3-3
 ----
-L'agence est administrée par un conseil.
+I.-Le Haut Conseil est administré par un conseil garant de la qualité de ses
+travaux.
 
-Le conseil définit les mesures propres à garantir la qualité, la transparence et
-la publicité des procédures d'évaluation.
+II.-Le conseil arrête le programme annuel d'évaluation du Haut Conseil. Il
+définit les mesures propres à garantir la qualité, la transparence et la
+publicité des procédures d'évaluation.
 
-Son président, nommé parmi ses membres, dirige l'agence et a autorité sur ses
-personnels.
+Son président, nommé parmi ses membres, dirige le Haut Conseil et a autorité sur
+ses personnels.
 
-Le conseil est composé de vingt-cinq membres français, communautaires ou
-internationaux, reconnus pour la qualité de leurs travaux scientifiques, nommés
-par décret. Il comprend :
+Le conseil est composé de trente membres nommés par décret. Il comprend autant
+d'hommes que de femmes. A cette fin, le décret en Conseil d'Etat prévu à
+l'article L. 114-3-6 précise le nombre et la répartition par sexe des candidats
+proposés par chacune des instances, autorités et associations compétentes.
 
-1° Neuf personnalités qualifiées, dont un tiers au moins issu du secteur de la
-recherche privée ;
+Le conseil comprend :
 
-2° Sept membres ayant la qualité de chercheurs, d'ingénieurs ou
-d'enseignants-chercheurs, sur proposition des directeurs ou présidents des
-établissements publics d'enseignement supérieur et de recherche et des
-organismes de recherche ;
+1° Neuf membres ayant la qualité de chercheur, d'ingénieur ou
+d'enseignant-chercheur, nommés sur proposition des instances d'évaluation
+compétentes en matière d'enseignement supérieur et de recherche parmi leurs
+membres élus, dont au moins trois sur proposition de l'instance nationale
+mentionnée à l'article L. 952-6 du code de l'éducation et au moins trois sur
+proposition des instances d'évaluation mentionnées à l'article L. 321-2 du
+présent code ;
 
-3° Sept membres ayant la qualité de chercheurs, d'ingénieurs ou
-d'enseignants-chercheurs, sur proposition des instances d'évaluation compétentes
-en matière d'enseignement supérieur et de recherche, notamment celles
-mentionnées à l'article L. 952-6 du code de l'éducation et à l'article L. 321-2
-du présent code ;
+2° Huit membres ayant la qualité de chercheur, d'ingénieur ou
+d'enseignant-chercheur, dont trois sur proposition des présidents ou directeurs
+d'organismes de recherche et trois sur proposition des conférences des chefs
+d'établissements mentionnées à l'article L. 233-1 du code de l'éducation ;
 
-4° Deux parlementaires membres de l'Office parlementaire d'évaluation des choix
-scientifiques et technologiques.
+3° Deux membres représentant les étudiants, sur proposition des associations
+d'étudiants en fonction du nombre de voix obtenues par ces associations lors de
+l'élection des représentants des étudiants au Conseil national de l'enseignement
+supérieur et de la recherche ;
+
+4° Neuf personnalités qualifiées, françaises et étrangères, dont au moins trois
+issues du secteur de la recherche privée et trois appartenant à des agences
+d'accréditation ou d'évaluation étrangères ;
+
+5° Un député et un sénateur désignés par la commission permanente compétente en
+matière d'enseignement supérieur et de recherche de chaque assemblée.

@@ -1,6 +1,6 @@
 Article L241-2
 ----
-I. - Les services, établissements, institutions ou organismes qui participent ou
+I.-Les services, établissements, institutions ou organismes qui participent ou
 qui concourent à l'application des législations relatives à l'éducation, à
 l'enseignement supérieur, à la recherche et à la technologie sont soumis, quelle
 que soit leur nature juridique, aux vérifications de l'inspection générale de
@@ -21,7 +21,11 @@ nationale et de la recherche portent sur le respect de ces législations et sur
 l'utilisation de ces concours ou cotisations, dont la destination doit demeurer
 conforme au but pour lequel ils ont été consentis.
 
-II. - Dans les domaines de l'éducation, de l'enseignement supérieur, de la
+Les vérifications de l'inspection générale de l'administration de l'éducation
+nationale et de la recherche portent également sur la gestion des ressources
+humaines des établissements.
+
+II.-Dans les domaines de l'éducation, de l'enseignement supérieur, de la
 recherche et de la technologie, l'inspection générale de l'administration de
 l'éducation nationale et de la recherche exerce également, dans des conditions
 fixées par décret en Conseil d'Etat, un contrôle du compte d'emploi des
@@ -47,11 +51,11 @@ conseil d'administration et à l'assemblée générale lors de la première réu
 qui suit. Un décret en Conseil d'Etat fixe les modalités de la publicité de ces
 rapports.
 
-III. - Pour l'exercice de leurs missions, les membres de l'inspection générale
-de l'administration de l'éducation nationale et de la recherche ont libre accès
-à toutes les administrations de l'Etat et des collectivités publiques, ainsi
-qu'à tous les services, établissements, institutions ou organismes mentionnés au
-I et au II.
+III.-Pour l'exercice de leurs missions, les membres de l'inspection générale de
+l'administration de l'éducation nationale et de la recherche ont libre accès à
+toutes les administrations de l'Etat et des collectivités publiques, ainsi qu'à
+tous les services, établissements, institutions ou organismes mentionnés au I et
+au II.
 
 Les administrations de l'Etat, les collectivités publiques, les services,
 établissements, institutions ou organismes mentionnés à l'alinéa précédent sont

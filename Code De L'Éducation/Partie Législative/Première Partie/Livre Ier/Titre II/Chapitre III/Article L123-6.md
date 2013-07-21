@@ -13,6 +13,11 @@ langues et cultures régionales. Il participe à l'étude et à la mise en valeu
 des éléments du patrimoine national et régional. Il assure la conservation et
 l'enrichissement des collections confiées aux établissements.
 
+Il promeut des valeurs d'éthique, de responsabilité et d'exemplarité.
+
+Il mène une action contre les stéréotypes sexués, tant dans les enseignements
+que dans les différents aspects de la vie de la communauté éducative.
+
 Les établissements qui participent à ce service public peuvent être prestataires
 de services pour contribuer au développement socio-économique de leur
 environnement. Ils peuvent également assurer l'édition et la commercialisation

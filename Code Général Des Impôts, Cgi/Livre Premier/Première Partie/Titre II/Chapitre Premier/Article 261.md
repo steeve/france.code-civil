@@ -18,8 +18,8 @@ l'exclusion de celles qui déterminent l'arrêt de la filière ;
 2° (Abrogé) ;
 
 3° les prestations réalisées dans le cadre de l'entraide entre agriculteurs
-définie par les articles L325-1 à L325-3 du code rural et de la pêche maritime.
-Cette exonération pourra être étendue par décret en Conseil d'Etat aux
+définie par les articles L. 325-1 à L. 325-3 du code rural et de la pêche
+maritime. Cette exonération pourra être étendue par décret en Conseil d'Etat aux
 départements d'outre-mer ;
 
 4° les opérations effectuées par les pêcheurs et armateurs à la pêche, à
@@ -86,7 +86,7 @@ de l'enseignement primaire, secondaire et supérieur dispensé dans les
 à L. 731-16 du code de l'éducation ;
 
 de l'enseignement universitaire dispensé dans les établissements publics et dans
-les établissements privés visés aux articles L. 613-7, L. 714-2 et L. 719-10 du
+les établissements privés visés aux articles L. 613-7, L. 714-2 et L. 718-16 du
 code de l'éducation ;
 
 de l'enseignement technique ou professionnel réglementé par les articles L.

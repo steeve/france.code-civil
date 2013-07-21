@@ -48,34 +48,20 @@ Chaque établissement élabore et arrête un projet d'établissement.
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 "
 
-" Art.L. 812-4.-Les établissements d'enseignement supérieur publics relevant du
-ministre de l'agriculture peuvent passer avec des établissements d'enseignement
-supérieur privés des conventions de coopération en vue de la formation initiale
-et continue d'ingénieurs, de paysagistes et plus généralement de cadres
-spécialisés dans les domaines mentionnés au deuxième alinéa de l'article L.
-812-1. "
+" Art.L. 812-4. - Les établissements d'enseignement supérieur publics relevant
+du ministre de l'agriculture peuvent passer avec des établissements
+d'enseignement supérieur privés des conventions de coopération en vue de la
+formation initiale et continue d'ingénieurs, de paysagistes et plus généralement
+de cadres spécialisés dans les domaines mentionnés au deuxième alinéa de
+l'article L. 812-1. "
 
-" Art.L. 812-5.-Pour atteindre les objectifs fixés
+" Art.L. 812-5. - Le pouvoir disciplinaire à l'égard des enseignants-chercheurs,
+enseignants et usagers est exercé en premier ressort par le conseil
+d'administration de l'établissement constitué en section disciplinaire.
 
-ci-dessus à l'article L. 812-1, un ou plusieurs établissements publics
-d'enseignement supérieur agricole peuvent constituer un établissement public à
-caractère scientifique, culturel et professionnel, ou selon les besoins, soit
-entre eux, soit avec d'autres personnes morales de droit public ou de droit
-privé, un groupement d'intérêt public, doté de la personnalité morale et de
-l'autonomie financière, afin :
+Le président de la section disciplinaire est un professeur de l'enseignement
+supérieur ; il est élu en leur sein par l'ensemble des enseignants-chercheurs
+membres de la section disciplinaire.
 
-1° Soit de créer, sur proposition du ministre de l'agriculture, des pôles de
-compétences à vocation internationale ;
-
-2° Soit d'exercer en commun des activités de caractère scientifique, technique,
-professionnel, éducatif et culturel, ou de gérer des équipements ou des services
-d'intérêt commun.
-
-Ces activités doivent relever de la mission des membres du groupement. Les
-dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982
-d'orientation et de programmation pour la recherche et le développement
-technologique de la France sont applicables aux groupements prévus au présent
-article.
-
-Les modalités d'application du présent article sont déterminées par décret en
-Conseil d'Etat. "
+Un décret en Conseil d'Etat précise la composition, les modalités de désignation
+des membres et le fonctionnement de la section disciplinaire. "

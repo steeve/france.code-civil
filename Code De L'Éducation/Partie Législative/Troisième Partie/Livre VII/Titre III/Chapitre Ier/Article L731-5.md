@@ -6,3 +6,7 @@ docteur que les établissements de l'Etat qui comptent le moins d'emplois de
 professeurs des universités, peuvent prendre le nom de faculté libre, suivi de
 l'indication de leur spécialité, s'ils appartiennent à des particuliers ou à des
 associations.
+
+Les établissements d'enseignement supérieur privés doivent préciser sur leurs
+documents d'inscription les formations sanctionnées par un diplôme qui fait
+l'objet d'une reconnaissance par l'Etat.

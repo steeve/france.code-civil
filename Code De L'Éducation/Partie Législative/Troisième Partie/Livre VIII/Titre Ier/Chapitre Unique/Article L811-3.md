@@ -9,3 +9,6 @@ d'aides à la formation des élus. Elles sont associées au fonctionnement d'un
 observatoire de la vie étudiante qui rassemble des informations et effectue des
 études concernant les conditions de vie matérielle, sociale et culturelle des
 étudiants.
+
+Ces études et informations font l'objet d'un rapport annuel remis au Parlement
+incluant des recommandations pour agir contre les inégalités sociales repérées.

@@ -10,7 +10,9 @@ polytechniques ;
 2° Les écoles et instituts extérieurs aux universités ;
 
 3° Les écoles normales supérieures, les écoles françaises à l'étranger et les
-grands établissements.
+grands établissements ;
+
+4° Les communautés d'universités et établissements.
 
 La liste et la classification des établissements publics à caractère
 scientifique, culturel et professionnel sont établies par décret.

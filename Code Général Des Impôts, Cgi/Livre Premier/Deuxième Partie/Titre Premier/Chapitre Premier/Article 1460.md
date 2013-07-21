@@ -5,7 +5,7 @@ Sont exonérés de la cotisation foncière des entreprises :
 1° Les établissements d'enseignement du second degré qui ont passé avec l'Etat
 un contrat en application de l'article L442-1 du code de l'éducation et les
 établissements d'enseignement supérieur qui ont passé une convention en
-application de l'article L719-10 du même code ou qui ont fait l'objet d'une
+application de l'article L. 718-16 du même code ou qui ont fait l'objet d'une
 reconnaissance d'utilité publique ;
 
 2° Les peintres, sculpteurs, graveurs et dessinateurs considérés comme artistes

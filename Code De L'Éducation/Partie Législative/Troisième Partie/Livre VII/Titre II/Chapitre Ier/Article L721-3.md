@@ -34,21 +34,18 @@ II.-Le conseil de l'école adopte les règles relatives aux examens et les
 modalités de contrôle des connaissances. Il adopte le budget de l'école et
 approuve les contrats pour les affaires intéressant l'école. Il soumet au
 conseil d'administration de l'établissement public à caractère scientifique,
-culturel et professionnel ou de l'établissement public de coopération
-scientifique la répartition des emplois. Il est consulté sur les recrutements de
-l'école.
+culturel et professionnel la répartition des emplois. Il est consulté sur les
+recrutements de l'école.
 
 III.-Le directeur de l'école prépare les délibérations du conseil de l'école et
 en assure l'exécution. Il a autorité sur l'ensemble des personnels.
 
 Il a qualité pour signer, au nom de l'établissement public à caractère
-scientifique, culturel et professionnel ou de l'établissement public de
-coopération scientifique, les conventions relatives à l'organisation des
-enseignements. Ces conventions ne peuvent être exécutées qu'après avoir été
-approuvées par le président de l'établissement public à caractère scientifique,
-culturel et professionnel ou de l'établissement public de coopération
-scientifique et votées par le conseil d'administration de l'établissement
-public.
+scientifique, culturel et professionnel, les conventions relatives à
+l'organisation des enseignements. Ces conventions ne peuvent être exécutées
+qu'après avoir été approuvées par le président de l'établissement public à
+caractère scientifique, culturel et professionnel et votées par le conseil
+d'administration de l'établissement public.
 
 Le directeur de l'école prépare un document d'orientation politique et
 budgétaire. Ce rapport est présenté aux instances délibératives des
@@ -57,11 +54,11 @@ supérieure du professorat et de l'éducation au cours du troisième trimestre d
 l'année civile.
 
 Le directeur propose une liste de membres des jurys d'examen au président de
-l'établissement public à caractère scientifique, culturel et professionnel ou de
-l'établissement public de coopération scientifique pour les formations soumises
-à examen dispensées dans l'école supérieure du professorat et de l'éducation et,
-le cas échéant, aux présidents des établissements partenaires mentionnés à
-l'avant-dernier alinéa de l'article L. 721-1.
+l'établissement public à caractère scientifique, culturel et professionnel pour
+les formations soumises à examen dispensées dans l'école supérieure du
+professorat et de l'éducation et, le cas échéant, aux présidents des
+établissements partenaires mentionnés à l'avant-dernier alinéa de l'article L.
+721-1.
 
 IV.-Le conseil d'orientation scientifique et pédagogique contribue à la
 réflexion sur les grandes orientations relatives à la politique partenariale et

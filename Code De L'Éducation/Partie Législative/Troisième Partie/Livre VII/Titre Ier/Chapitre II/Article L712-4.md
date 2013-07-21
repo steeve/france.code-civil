@@ -1,19 +1,26 @@
 Article L712-4
 ----
-Le pouvoir disciplinaire à l'égard des enseignants-chercheurs, enseignants et
-usagers est exercé en premier ressort par le conseil d'administration de
-l'établissement constitué en section disciplinaire.
+Le conseil académique regroupe les membres de la commission de la recherche
+mentionnée à l'article L. 712-5 et de la commission de la formation et de la vie
+universitaire mentionnée à l'article L. 712-6.
 
-Le président de la section disciplinaire est un professeur des universités ; il
-est élu en leur sein par l'ensemble des enseignants-chercheurs membres de la
-section.
+Sont constituées en son sein la section disciplinaire mentionnée à l'article L.
+712-6-2 et la section compétente pour l'examen des questions individuelles
+relatives au recrutement, à l'affectation et à la carrière des
+enseignants-chercheurs.
 
-Un décret en Conseil d'Etat précise la composition, les modalités de désignation
-des membres et le fonctionnement de la section disciplinaire. Il fixe les
-conditions selon lesquelles le conseil d'administration complète la composition
-de la section disciplinaire lorsque le nombre de représentants élus des
-enseignants-chercheurs et enseignants ne permet pas la constitution des
-différentes formations de jugement et désigne le membre de chacun des corps ou
-catégories de personnels non titulaires qui ne sont pas représentés au sein de
-la section disciplinaire. Certaines sections peuvent être communes à plusieurs
-établissements, notamment en cas de rattachement prévu par l'article L. 719-10.
+Les statuts de l'université prévoient les modalités de désignation du président
+du conseil académique, qui peut être le président du conseil d'administration de
+l'université, ainsi que de son vice-président étudiant. Le président du conseil
+académique, dont le mandat expire à l'échéance du mandat des représentants élus
+des personnels du conseil académique, préside la commission de la formation et
+de la vie universitaire et la commission de la recherche.
+
+Ils prévoient également les conditions dans lesquelles est assurée, au sein de
+la commission de la formation et de la vie universitaire et de la commission de
+la recherche, la représentation des grands secteurs de formation enseignés dans
+l'université concernée, à savoir les disciplines juridiques, économiques et de
+gestion, les lettres et sciences humaines et sociales, les sciences et
+technologies et les disciplines de santé.
+
+En cas de partage égal des voix, le président a voix prépondérante.

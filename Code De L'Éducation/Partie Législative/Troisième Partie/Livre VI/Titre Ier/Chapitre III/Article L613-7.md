@@ -1,7 +1,7 @@
 Article L613-7
 ----
 Les conventions conclues, en application des dispositions de l'article L.
-719-10, entre des établissements d'enseignement supérieur privé et des
+718-16, entre des établissements d'enseignement supérieur privé et des
 établissements publics à caractère scientifique, culturel et professionnel
 peuvent, notamment, avoir pour objet de permettre aux étudiants des
 établissements privés de subir les contrôles nécessaires à l'obtention d'un

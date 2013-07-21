@@ -1,6 +1,6 @@
 Article L712-2
 ----
-Le président de l'université est élu à la majorité absolue des membres élus du
+Le président de l'université est élu à la majorité absolue des membres du
 conseil d'administration parmi les enseignants-chercheurs, chercheurs,
 professeurs ou maîtres de conférences, associés ou invités, ou tous autres
 personnels assimilés, sans condition de nationalité. Son mandat, d'une durée de
@@ -11,16 +11,16 @@ Dans le cas où le président cesse ses fonctions, pour quelque cause que ce soi
 un nouveau président est élu pour la durée du mandat de son prédécesseur restant
 à courir.
 
-Ses fonctions sont incompatibles avec celles de directeur d'unité de formation
-et de recherche, d'école ou d'institut et celles de chef de tout établissement
-public à caractère scientifique, culturel et professionnel.
+Ses fonctions sont incompatibles avec celles de membre élu du conseil
+académique, de directeur de composante, d'école ou d'institut ou de toute autre
+structure interne de l'université et avec celles de dirigeant exécutif de tout
+établissement public à caractère scientifique, culturel et professionnel ou de
+l'une de ses composantes ou structures internes.
 
-Le président assure la direction de l'université.A ce titre :
+Le président assure la direction de l'université. A ce titre :
 
 1° Il préside le conseil d'administration, prépare et exécute ses délibérations.
-Il prépare et met en oeuvre le contrat pluriannuel d'établissement. Il préside
-également le conseil scientifique et le conseil des études et de la vie
-universitaire ; il reçoit leurs avis et leurs voeux ;
+Il prépare et met en oeuvre le contrat pluriannuel d'établissement.
 
 2° Il représente l'université à l'égard des tiers ainsi qu'en justice, conclut
 les accords et les conventions ;
@@ -29,15 +29,19 @@ les accords et les conventions ;
 
 4° Il a autorité sur l'ensemble des personnels de l'université.
 
-Sous réserve des dispositions statutaires relatives à la première affectation
-des personnels recrutés par concours national d'agrégation de l'enseignement
-supérieur, aucune affectation ne peut être prononcée si le président émet un
-avis défavorable motivé.
-
 Il affecte dans les différents services de l'université les personnels
-administratifs, techniques, ouvriers et de service ;
+ingénieurs, administratifs, techniques, ouvriers et de service. Aucune
+affectation d'un agent relevant de ces catégories de personnels ne peut être
+prononcée si le président émet un avis défavorable motivé, après consultation de
+représentants de ces personnels dans des conditions fixées par les statuts de
+l'établissement. Ces dispositions ne sont pas applicables à la première
+affectation des personnels ingénieurs, administratifs, techniques, ouvriers et
+de service recrutés par concours externe ou interne lorsque leurs statuts
+particuliers prévoient une période de stage ;
 
-5° Il nomme les différents jurys ;
+5° Il nomme les différents jurys, sauf si une délibération du conseil
+d'administration prévoit que les compétences relatives aux jurys d'examen sont
+exercées par les directeurs des composantes de l'université ;
 
 6° Il est responsable du maintien de l'ordre et peut faire appel à la force
 publique dans des conditions fixées par décret en Conseil d'Etat ;
@@ -52,15 +56,18 @@ d'administration qui ne sont pas attribuées à une autre autorité par la loi o
 le règlement ;
 
 9° Il veille à l'accessibilité des enseignements et des bâtiments aux personnes
-handicapées, étudiants et personnels de l'université.
+handicapées, étudiants et personnels de l'université ;
+
+10° Il installe, sur proposition conjointe du conseil d'administration et du
+conseil académique, une mission "égalité entre les hommes et les femmes".
 
 Le président est assisté d'un bureau élu sur sa proposition, dont la composition
 est fixée par les statuts de l'établissement.
 
-Le président peut déléguer sa signature aux vice-présidents des trois conseils,
-aux membres élus du bureau âgés de plus de dix-huit ans, au secrétaire général
-et aux agents de catégorie A placés sous son autorité ainsi que, pour les
-affaires intéressant les composantes énumérées à l'article L. 713-1, les
-services communs prévus à l'article L. 714-1 et les unités de recherche
-constituées avec d'autres établissements publics d'enseignement supérieur ou de
-recherche, à leurs responsables respectifs.
+Le président peut déléguer sa signature aux vice-présidents du conseil
+d'administration, aux membres élus du bureau âgés de plus de dix-huit ans, au
+directeur général des services et aux agents de catégorie A placés sous son
+autorité ainsi que, pour les affaires intéressant les composantes énumérées à
+l'article L. 713-1, les services communs prévus à l'article L. 714-1 et les
+unités de recherche constituées avec d'autres établissements publics
+d'enseignement supérieur ou de recherche, à leurs responsables respectifs.

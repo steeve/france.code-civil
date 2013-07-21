@@ -19,8 +19,21 @@ les ministres compétents. Il autorise le directeur à engager toute action en
 justice. Il approuve les accords et conventions signés par le directeur et, sous
 réserve des conditions particulières fixées par décret, les emprunts, prises de
 participation, créations de filiales, acceptations de dons et legs, acquisitions
-immobilières. Il exerce le pouvoir disciplinaire dans les conditions définies
-aux articles L. 712-4, L. 811-5, L. 811-6, L. 952-7 à L. 952-9.
+immobilières. Lorsqu'un conseil académique compétent en matière disciplinaire
+n'a pas été créé, les compétences prévues aux articles L. 712-6-2, L. 811-5, L.
+811-6 et L. 952-7 à L. 952-9 sont exercées par le conseil d'administration.
 
-La composition et les attributions des deux autres conseils sont celles qui sont
-fixées par les articles L. 712-5 et L. 712-6.
+Le conseil d'administration peut déléguer certaines de ses attributions au
+directeur, à l'exception de l'approbation du contrat d'établissement et des
+comptes ainsi que du vote du budget et du règlement intérieur. Celui-ci rend
+compte, dans les meilleurs délais, au conseil d'administration des décisions
+prises en vertu de cette délégation.
+
+La composition du conseil scientifique est celle fixée par l'article L. 712-5
+pour la commission de la recherche et la composition du conseil des études et de
+la vie universitaire est celle fixée par l'article L. 712-6 pour la commission
+de la formation et de la vie universitaire. Lorsqu'un conseil académique n'a pas
+été créé, le conseil scientifique et le conseil des études et de la vie
+universitaire exercent les fonctions consultatives confiées au conseil
+académique par l'article L. 712-6-1 et le conseil d'administration exerce les
+fonctions décisionnelles prévues à ce même article.
