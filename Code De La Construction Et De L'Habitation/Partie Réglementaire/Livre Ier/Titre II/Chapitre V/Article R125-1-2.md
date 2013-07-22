@@ -37,12 +37,11 @@ technique de la gaine et de la cuvette ainsi que des portes de secours, avec une
 commande automatique de l'arrêt de l'ascenseur lors de l'ouverture de ces portes
 et portillons par les personnels d'intervention.
 
-II.-Avant le 3 juillet 2013 :
+II.-Avant le 3 juillet 2014 :
 
-1. Dans les ascenseurs installés avant le 1er janvier 1983, un système de
-contrôle de l'arrêt et du maintien à niveau de la cabine de nature à assurer, à
-tous les niveaux desservis, un accès sans danger ainsi que l'accessibilité des
-personnes handicapées ou à mobilité réduite ;
+1. Dans les ascenseurs des établissements recevant du public mentionnés à
+l'article L. 111-7-3 installés avant le 1er janvier 1983, un système de contrôle
+de l'arrêt et du maintien à niveau de la cabine, à tous les niveaux desservis.
 
 2. Un système de téléalarme entre la cabine et un service d'intervention et un
 éclairage de secours en cabine ;
@@ -67,14 +66,13 @@ suffisant des zones de travail et de circulation.
 
 III.-Avant le 3 juillet 2018 :
 
-1. Dans les ascenseurs installés après le 31 décembre 1982, un système de
-contrôle de l'arrêt et du maintien à niveau de la cabine pour assurer, à tous
-les niveaux desservis, un accès sans danger ainsi que l'accessibilité des
-personnes handicapées ou à mobilité réduite ;
+1. Dans les ascenseurs des établissements recevant du public mentionnés à
+l'article L. 111-7-3 installés après le 31 décembre 1982, un système de contrôle
+de l'arrêt et du maintien à niveau de la cabine, à tous les niveaux desservis.
 
 2. Dans les ascenseurs électriques à adhérence, un système de protection contre
 la vitesse excessive de la cabine en montée.
 
-Un arrêté conjoint des ministres chargés de la construction et de l'industrie
-précise, en fonction des caractéristiques des installations, les prescriptions
-techniques relatives à ces dispositifs.
+Un arrêté du ministre chargé de la construction précise, en fonction des
+caractéristiques des installations, les prescriptions techniques relatives à ces
+dispositifs.
