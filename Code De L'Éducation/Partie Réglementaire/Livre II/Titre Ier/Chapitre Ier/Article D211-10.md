@@ -2,7 +2,7 @@ Article D211-10
 ----
 Le territoire de chaque académie est divisé en secteurs et en districts.
 
-Les secteurs scolaires correspondent aux zones de desserte des collèges. Un
+Les secteurs de recrutement correspondent aux zones de desserte des collèges. Un
 secteur comporte un seul collège public, sauf exception due aux conditions
 géographiques.
 
