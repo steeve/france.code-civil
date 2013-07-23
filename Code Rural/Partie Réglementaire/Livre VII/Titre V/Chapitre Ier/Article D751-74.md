@@ -6,7 +6,7 @@ catégories de risques dépendant de chacun d'eux, ainsi que les taux de
 cotisations correspondants, après avis de la section de l'assurance des salariés
 agricoles contre les accidents du travail et les maladies professionnelles du
 Conseil supérieur des prestations sociales agricoles mentionnée au 3° de
-l'article R. 721-2.
+l'article D. 721-2.
 
 Les taux de cotisations sont fixés d'après les prévisions des charges techniques
 et complémentaires énumérées à l'article L. 751-12 ainsi que celles résultant de
@@ -22,6 +22,6 @@ professionnelles des salariés agricoles mentionnée à l'article R. 751-154 est
 obligatoirement consultée, avant la saisine de la section de l'assurance des
 salariés agricoles contre les accidents du travail et les maladies
 professionnelles du Conseil supérieur des prestations sociales agricoles
-mentionnée au 3° de l'article R. 721-2, sur la part des cotisations à affecter
+mentionnée au 3° de l'article D. 721-2, sur la part des cotisations à affecter
 aux dépenses de prévention et prend connaissance du projet de budget du Fonds
 national de prévention établi conformément à l'article R. 751-164.

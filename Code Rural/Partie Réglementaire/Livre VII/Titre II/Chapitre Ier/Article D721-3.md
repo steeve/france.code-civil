@@ -22,8 +22,8 @@ chargé de l'agriculture ;
 9° Un membre de l'inspection générale des affaires sociales ;
 
 10° Six représentants de la Mutualité sociale agricole, désignés sur proposition
-du conseil d'administration de la Caisse centrale de mutualité sociale agricole,
-dont deux appartenant au collège des salariés ;
+du conseil central d'administration, dont deux appartenant au collège des
+salariés ;
 
 11° Le médecin-conseil national du régime agricole de protection sociale ;
 
