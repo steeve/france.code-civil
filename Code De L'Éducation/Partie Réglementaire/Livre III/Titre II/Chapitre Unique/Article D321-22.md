@@ -11,9 +11,8 @@ maître intéressé, par l'équipe pédagogique. Les parents doivent être tenus
 régulièrement informés de la situation scolaire de leur enfant.
 
 Afin de prendre en compte les rythmes d'apprentissage de chaque enfant, la durée
-passée par un élève dans l'ensemble des cycles des apprentissages fondamentaux
-et des approfondissements peut être allongée ou réduite d'un an selon les
-modalités suivantes :
+passée par un élève à l'école élémentaire peut être allongée ou réduite d'un an
+selon les modalités suivantes :
 
 Il est procédé par l'équipe pédagogique, éventuellement sur demande des parents,
 à l'examen de la situation de l'enfant. L'avis du médecin scolaire peut être
