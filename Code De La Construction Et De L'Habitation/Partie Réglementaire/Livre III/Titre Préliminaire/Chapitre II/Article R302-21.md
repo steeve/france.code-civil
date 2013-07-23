@@ -13,10 +13,10 @@ associations départementales ;
 région désignés, ainsi que leurs suppléants, par la délégation régionale de
 l'Assemblée des communautés de France (ACDF).
 
-Le trésorier-payeur général de région et le directeur régional de l'équipement
-ou leurs représentants assistent aux séances du comité avec voix consultative,
-ainsi que les préfets de département ou leurs représentants pour l'examen des
-projets qui les concernent.
+Le trésorier-payeur général de région et le directeur régional en charge du
+logement ou leurs représentants assistent aux séances du comité avec voix
+consultative, ainsi que les préfets de département ou leurs représentants pour
+l'examen des projets qui les concernent.
 
 II. - Les membres du comité de gestion et leurs suppléants sont nommés pour
 trois ans par arrêté du préfet de région.
@@ -29,8 +29,12 @@ nommé dans les mêmes conditions pour la durée du mandat restant à courir, da
 un délai de deux mois à compter de la vacance.
 
 III. - Le comité est réuni au moins une fois par an à l'initiative de son
-président. Son secrétariat est assuré par la direction régionale de l'équipement
-qui instruit les dossiers de demande de subvention.
+président. Son secrétariat est assuré par la direction régionale et
+interdépartementale du logement et de l'hébergement en Ile-de-France, par la
+direction régionale de l'environnement, de l'aménagement et du logement dans les
+autres régions métropolitaines et par la direction de l'environnement, de
+l'aménagement et du logement dans les départements d'outre-mer qui instruit les
+dossiers de demande de subvention.
 
 IV. - Le comité adopte son règlement intérieur. Ce règlement détermine notamment
 les règles de quorum et de majorité, fixe les taux des subventions applicables à

@@ -25,13 +25,12 @@ prorata de la surface de plancher des logements locatifs sociaux rapportée à l
 surface de plancher totale autorisée dans le cadre de l'aménagement d'ensemble
 de la zone d'aménagement concerté.
 
-2° Le coût des travaux engagés pour viabiliser des terrains ou des biens
-immobiliers appartenant à la commune et mis ultérieurement par elle à
-disposition de maîtres d'ouvrages par bail emphytéotique, bail à construction ou
-bail à réhabilitation, dans la mesure où ces travaux sont effectivement destinés
-à la construction de logements locatifs sociaux. Les dépenses ainsi supportées
-sont déductibles au prorata de la surface de plancher des logements locatifs
-sociaux créés. La déduction n'est toutefois possible qu'autant que la
+2° Le coût des travaux engagés pour la viabilisation, la dépollution ou les
+fouilles archéologiques des terrains ou des biens immobiliers appartenant à la
+commune, cédés ou mis ultérieurement par elle à disposition des maîtres
+d'ouvrages par bail emphytéotique, bail à construction ou bail à réhabilitation,
+dans la mesure où ces travaux sont effectivement destinés à la production de
+logements sociaux. La déduction n'est toutefois possible qu'autant que la
 délibération du conseil municipal autorisant les travaux mentionnés ci-dessus
 précise le nombre de logements locatifs sociaux projetés et identifie chaque
 maître d'ouvrage concerné.

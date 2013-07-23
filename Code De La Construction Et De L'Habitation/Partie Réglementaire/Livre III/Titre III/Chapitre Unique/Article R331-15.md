@@ -26,8 +26,8 @@ variation annuelle de l'indice du coût de la construction.
 2° a) Une subvention peut être octroyée aux opérations de construction. Le taux
 de subvention est au plus égal à :
 
-5% de l'assiette définie au 1° pour les opérations de construction. A titre
-exceptionnel, le préfet peut, par dérogation, porter ce taux à 6,5% au plus ;
+5 % de l'assiette définie au 1° pour les opérations de construction. A titre
+exceptionnel, le préfet peut, par dérogation, porter ce taux à 6,5 % au plus ;
 
 8 % de cette assiette pour des opérations réalisées par des maîtres d'ouvrage
 ayant conclu avec l'Etat un contrat de relance par lequel ils contribuent à
@@ -40,7 +40,7 @@ et pour la réalisation de logements-foyers dénommés résidences sociales par 
 maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la
 forme d'une activité parahôtelière soumise à la taxe sur la valeur ajouté ;
 
-20% de cette assiette pour les opérations de construction mentionnée au II de
+20 % de cette assiette pour les opérations de construction mentionnée au II de
 l'article R. 331-1 et adaptées aux besoins des ménages qui rencontrent des
 difficultés d'insertion particulières.
 
@@ -71,12 +71,12 @@ rencontrent des difficultés d'insertion particulières.
 3° a) Une subvention peut être octroyée aux opérations autres que celles prévues
 au 2°. Le taux de subvention est au plus égal à :
 
-10% de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne
-peut dépasser 13% du prix de revient de l'opération. A titre exceptionnel, le
-préfet peut, par dérogation porter ce taux à 11,5% au plus, avec un montant de
-subvention ne pouvant excéder 13% du prix de revient de l'opération ;
+10 % de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne
+peut dépasser 13 % du prix de revient de l'opération. A titre exceptionnel, le
+préfet peut, par dérogation porter ce taux à 11,5 % au plus, avec un montant de
+subvention ne pouvant excéder 13 % du prix de revient de l'opération ;
 
-12% de cette assiette pour des opérations de relogement liées à des démolitions
+12 % de cette assiette pour des opérations de relogement liées à des démolitions
 et pour la réalisation de logements-foyers dénommés résidences sociales par des
 maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la
 forme d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
@@ -87,9 +87,9 @@ l'accroissement de la production de logements locatifs sociaux dans le
 département ou la région concernés ; ce même taux est applicable pour des
 opérations à caractère expérimental ;
 
-20% de cette assiette pour des opérations mentionnées au dernier de l'article R.
-333-1 et adaptées aux besoins de ménages qui rencontrent des difficultés
-d'insertion particulières, avec un montant de subvention ne pouvant excéder 25%
+20 % de cette assiette pour des opérations mentionnées au dernier de l'article
+R. 333-1 et adaptées aux besoins de ménages qui rencontrent des difficultés
+d'insertion particulières, avec un montant de subvention ne pouvant excéder 25 %
 du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par
 dérogation,
 
@@ -122,11 +122,13 @@ revient de l'opération. A titre exceptionnel, le préfet peut, par dérogation,
 porter ce taux à 35 % au plus, avec un montant de subvention ne pouvant excéder
 35 % du prix de revient de l'opération.
 
-porter ce taux à 25% au plus, avec un montant de subvention ne pouvant excéder
-25% du prix de revient de l'opération.
+porter ce taux à 25 % au plus, avec un montant de subvention ne pouvant excéder
+25 % du prix de revient de l'opération.
 
 4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention
-complémentaire.
+complémentaire de l'Etat, sauf pour les logements bénéficiant d'une subvention
+définie à l'article R. 331-25-1, auquel cas le taux de subvention n'est pas
+plafonné.
 
 Un arrêté conjoint des ministres chargés de la construction et de l'habitation
 et des finances fixe les conditions d'application du présent article.
