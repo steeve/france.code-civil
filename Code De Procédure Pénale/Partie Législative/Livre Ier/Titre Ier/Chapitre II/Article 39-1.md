@@ -1,15 +1,17 @@
 Article 39-1
 ----
-Dans le cadre de ses attributions en matière d'alternative aux poursuites, de
-mise en mouvement et d'exercice de l'action publique, de direction de la police
-judiciaire, de contrôle d'identité et d'exécution des peines, le procureur de la
-République veille à la prévention des infractions à la loi pénale.
+En tenant compte du contexte propre à son ressort, le procureur de la République
+met en œuvre la politique pénale définie par les instructions générales du
+ministre de la justice, précisées et, le cas échéant, adaptées par le procureur
+général.
 
-A cette fin, il anime et coordonne dans le ressort du tribunal de grande
-instance la politique de prévention de la délinquance dans sa composante
-judiciaire, conformément aux orientations nationales de cette politique
-déterminées par l'Etat, telles que précisées par le procureur général en
-application de l'article 35.
+Outre les rapports particuliers qu'il établit soit d'initiative, soit sur
+demande du procureur général, le procureur de la République adresse à ce dernier
+un rapport annuel de politique pénale sur l'application de la loi et des
+instructions générales ainsi qu'un rapport annuel sur l'activité et la gestion
+de son parquet.
 
-Il est également consulté par le représentant de l'Etat dans le département
-avant que ce dernier n'arrête le plan de prévention de la délinquance.
+Il informe, au moins une fois par an, l'assemblée des magistrats du siège et du
+parquet des conditions de mise en œuvre, dans le ressort, de la politique pénale
+et des instructions générales adressées à cette fin par le ministre de la
+justice en application du deuxième alinéa de l'article 30.
