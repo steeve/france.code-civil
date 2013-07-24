@@ -1,18 +1,16 @@
 Article L214-36-3
 ----
 I. ― Par dérogation au troisième alinéa de l'article L. 214-7 et au premier
-alinéa de l'article L. 214-8, le règlement ou les statuts de l'organisme de
-placement collectif en valeurs mobilières contractuel prévoient les conditions
-et les modalités d'émission, souscription, de cession et du rachat des parts ou
-des actions.
+alinéa de l'article L. 214-8, le règlement ou les statuts de l' OPCVM
+contractuel prévoient les conditions et les modalités d'émission, souscription,
+de cession et du rachat des parts ou des actions.
 
-Le règlement ou les statuts de l'organisme de placement collectif en valeurs
-mobilières contractuel prévoient la valeur liquidative en deçà de laquelle il
-est procédé à sa dissolution.
+Le règlement ou les statuts de l' OPCVM contractuel prévoient la valeur
+liquidative en deçà de laquelle il est procédé à sa dissolution.
 
-Par dérogation aux dispositions de l'article L. 214-20, le règlement ou les
-statuts de l'organisme de placements collectifs contractuel fixent les règles
-d'investissement et d'engagement.
+Par dérogation aux dispositions des articles L. 214-20 et L. 214-21, le
+règlement ou les statuts de l'organisme de placements collectifs contractuel
+fixent les règles d'investissement et d'engagement.
 
 Le règlement ou les statuts de l'organisme précisent les conditions et les
 modalités de leur modification éventuelle. A défaut, toute modification requiert
