@@ -30,12 +30,15 @@ b) Dont le capital et les droits de vote ne sont pas détenus, directement ou
 indirectement, à hauteur de 25 % ou plus par une entreprise ou conjointement par
 plusieurs entreprises qui ne respectent pas le seuil mentionné au a. Pour la
 détermination de ce pourcentage, les participations des sociétés de
-capital-risque, des fonds communs de placement à risques, des sociétés de
-développement régional, des sociétés financières d'innovation et des sociétés
-unipersonnelles d'investissement à risques ne sont pas prises en compte à la
-condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39
-entre la petite ou moyenne entreprise en cause et ces derniers fonds ou
-sociétés.
+capital-risque, des fonds communs de placement à risques, des fonds
+professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
+financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
+2013 modifiant le cadre juridique de la gestion d'actifs, des fonds
+professionnels de capital investissement, des sociétés de développement
+régional, des sociétés financières d'innovation et des sociétés unipersonnelles
+d'investissement à risques ne sont pas prises en compte à la condition qu'il
+n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la petite
+ou moyenne entreprise en cause et ces derniers fonds ou sociétés.
 
 Lorsque la petite ou moyenne entreprise appartient à un groupe fiscal au sens de
 l'article 223 A, le seuil mentionné au a est apprécié globalement au niveau du
@@ -50,9 +53,8 @@ plus tard au résultat imposable du cinquième exercice suivant celui de leur
 déduction.
 
 IV.-L'avantage fiscal procuré par la disposition mentionnée au I est subordonné
-au respect du règlement (CE) n° 1998 / 2006 de la Commission, du 15 décembre
-2006, concernant l'application des articles 87 et 88 du traité aux aides de
-minimis.
+au respect du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006,
+concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 V.-Lorsqu'au cours d'un exercice l'une des conditions mentionnées au I n'est
 plus respectée, les déficits déduits des résultats imposables de la petite ou

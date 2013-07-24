@@ -26,7 +26,5 @@ métropolitaine et des départements d'outre-mer, de Saint-Barthélemy et de
 Saint-Martin. L'Autorité des marchés financiers s'assure, le cas échéant avec
 l'aide des autorités compétentes de l'Etat d'origine, de ce que les actes requis
 par ces mesures sont signifiés à la société de gestion. Lorsque le service
-fourni est la gestion d'un organisme de placement collectif en valeurs
-mobilières, l'Autorité des marchés financiers peut exiger de ladite société
-qu'elle cesse de gérer cet organisme de placement collectif en valeurs
-mobilières.
+fourni est la gestion d'un OPCVM, l'Autorité des marchés financiers peut exiger
+de ladite société qu'elle cesse de gérer cet OPCVM.

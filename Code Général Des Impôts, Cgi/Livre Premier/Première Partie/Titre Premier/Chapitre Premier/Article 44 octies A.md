@@ -30,11 +30,15 @@ plusieurs entreprises dont l'effectif salarié dépasse deux cent cinquante
 salariés et dont le chiffre d'affaires annuel hors taxes excède 50 millions
 d'euros ou dont le total du bilan annuel excède 43 millions d'euros. Pour la
 détermination de ce pourcentage, les participations des sociétés de
-capital-risque, des fonds communs de placement à risques, des sociétés de
-développement régional, des sociétés financières d'innovation et des sociétés
-unipersonnelles d'investissement à risque ne sont pas prises en compte à la
-condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39
-entre la société en cause et ces dernières sociétés ou ces fonds ;
+capital-risque, des fonds communs de placement à risques, des fonds
+professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
+financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
+2013 modifiant le cadre juridique de la gestion d'actifs, des fonds
+professionnels de capital investissement, des sociétés de développement
+régional, des sociétés financières d'innovation et des sociétés unipersonnelles
+d'investissement à risque ne sont pas prises en compte à la condition qu'il
+n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
+société en cause et ces dernières sociétés ou ces fonds ;
 
 c) Son activité principale, définie selon la nomenclature d'activités française
 de l'Institut national de la statistique et des études économiques, ne doit pas

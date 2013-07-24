@@ -1,13 +1,6 @@
 Article L214-136
 ----
-Les parts sont totalement libérées dès l'émission.
-
-Le rachat par le fonds de placement immobilier de ses parts peut être suspendu à
-titre provisoire par la société de gestion quand des circonstances
-exceptionnelles l'exigent et si l'intérêt de l'ensemble des porteurs de parts le
-commande, dans des conditions fixées le règlement général de l'Autorité des
-marchés financiers.
-
-Le règlement général de l'Autorité des marchés financiers fixe les cas et les
-conditions dans lesquelles le règlement du fonds prévoit, le cas échéant, que
-l'émission des parts est suspendue de façon provisoire.
+Les dispositions de la présente sous-section s'appliquent aux SICAF dont les
+actions sont admises à la négociation sur un marché réglementé d'instruments
+financiers mentionné à l'article L. 421-1, ou à un système multilatéral de
+négociation mentionné à l'article L. 424-1.

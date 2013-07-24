@@ -48,10 +48,14 @@ II.-Ne sont pas assimilées aux actions ou aux droits de vote possédés par la
 personne tenue à l'information prévue au I de l'article L. 233-7 :
 
 1° Les actions détenues par les organismes de placement collectif en valeurs
-mobilières ou les SICAF gérés par une société de gestion de portefeuille
-contrôlée par cette personne au sens de l'article L. 233-3, dans les conditions
-fixées par le règlement général de l'Autorité des marchés financiers sauf
-exceptions prévues par ce même règlement ;
+mobilières ou les placements collectifs relevant des paragraphes 1, 2 et 6 de la
+sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la
+sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre
+Ier du livre II du code monétaire et financier ou les SICAF gérés par une
+société de gestion de portefeuille contrôlée par cette personne au sens de
+l'article L. 233-3, dans les conditions fixées par le règlement général de
+l'Autorité des marchés financiers sauf exceptions prévues par ce même règlement
+;
 
 2° Les actions détenues dans un portefeuille géré par un prestataire de services
 d'investissement contrôlé par cette personne au sens de l'article L. 233-3, dans

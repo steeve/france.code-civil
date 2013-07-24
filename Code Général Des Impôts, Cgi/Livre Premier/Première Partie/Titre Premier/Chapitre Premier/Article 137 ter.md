@@ -1,7 +1,7 @@
 Article 137 ter
 ----
 I.-Les revenus relatifs aux actifs mentionnés au b du 1° du II de l'article L.
-214-140 du code monétaire et financier perçus par un fonds de placement
+214-81 du code monétaire et financier perçus par un fonds de placement
 immobilier mentionné à l'article 239 nonies du présent code constituent des
 revenus de capitaux mobiliers perçus par les porteurs de parts à la date de leur
 distribution par le fonds.

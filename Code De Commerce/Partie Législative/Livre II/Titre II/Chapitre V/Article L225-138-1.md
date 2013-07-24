@@ -13,7 +13,7 @@ l'article L. 443-5 du code du travail ;
 2° L'augmentation de capital n'est réalisée qu'à concurrence du montant des
 titres de capital souscrits par les salariés individuellement ou par
 l'intermédiaire d'un fonds commun de placement ou des titres émis par des
-sociétés d'investissement à capital variable régies par l'article L. 214-41 du
+sociétés d'investissement à capital variable régies par l'article L. 214-166 du
 code monétaire et financier. Elle ne donne pas lieu aux formalités prévues aux
 articles L. 225-142, L. 225-144 et L. 225-146 ;
 

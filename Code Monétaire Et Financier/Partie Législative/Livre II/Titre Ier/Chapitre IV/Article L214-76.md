@@ -1,10 +1,38 @@
 Article L214-76
 ----
-Toute convention intervenant entre la société et la société de gestion, ou tout
-associé de cette dernière, doit, sur les rapports du conseil de surveillance et
-des commissaires aux comptes, être approuvée par l'assemblée générale des
-associés de la société.
+Un fonds de placement immobilier peut être constitué par apports en numéraire,
+apports en nature d'actifs immobiliers mentionnés à l'article L. 214-36, fusion
+ou scission. Il peut aussi être constitué par fusion, scission ou transformation
+de sociétés civiles de placement immobilier.
 
-Même en l'absence de fraude, les conséquences préjudiciables à la société des
-conventions désapprouvées sont mises à la charge de la société de gestion
-responsable ou de tout associé de cette dernière.
+Des apports en nature peuvent être effectués dans un fonds de placement
+immobilier après sa constitution, notamment en cas de fusion avec une société
+civile de placement immobilier, avec un autre fonds de placement immobilier,
+avec un fonds professionnel de placement immobilier ou lorsqu'une société civile
+de placement immobilier lui transmet, par voie de scission, une partie de son
+patrimoine.
+
+La libération des apports et, après la constitution du fonds, les souscriptions
+de parts ne peuvent s'effectuer par compensation avec des créances liquides et
+exigibles détenues sur le fonds.
+
+Le règlement général de l'Autorité des marchés financiers fixe les conditions et
+limites des apports au fonds.
+
+La création de fonds de placement immobilier par voie de fusion ou de scission
+de sociétés civiles de placement immobilier, de même que la transformation de
+sociétés civiles de placement immobilier en fonds de placement immobilier
+entraînent la dissolution des sociétés concernées et la transmission universelle
+de leur patrimoine au fonds sans qu'il y ait lieu à liquidation.
+
+Le commissaire aux comptes apprécie la valeur de tout apport en nature, au vu de
+l'estimation réalisée par les experts externes en évaluation désignés par la
+société de gestion. Lorsque l'apport en nature est effectué lors de la
+constitution du fonds de placement immobilier, le règlement contient
+l'évaluation de ces apports. Le rapport du commissaire aux comptes est joint au
+règlement. Il est mis à la disposition des porteurs de parts. Les apports en
+nature effectués après la constitution du fonds de placement immobilier font
+l'objet d'une information des porteurs dans les conditions définies par le
+règlement général de l'Autorité des marchés financiers.
+
+Un décret en Conseil d'Etat fixe les conditions d'application de cet article.

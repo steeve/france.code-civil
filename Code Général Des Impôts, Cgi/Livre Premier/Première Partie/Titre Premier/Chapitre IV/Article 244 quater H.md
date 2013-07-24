@@ -10,22 +10,25 @@ Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont soit réalisé un chiffre d'affaires
 inférieur à 50 millions d'euros au cours de chaque période d'imposition ou
 exercice clos pendant la période mentionnée au IV, soit un total de bilan
-inférieur à 43 millions d'euros.L'effectif de l'entreprise est apprécié par
+inférieur à 43 millions d'euros. L'effectif de l'entreprise est apprécié par
 référence au nombre moyen de salariés employés au cours de cette période. Le
 capital des sociétés doit être entièrement libéré et être détenu de manière
 continue, pour 75 % au moins, par des personnes physiques ou par une société
 répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %,
 les participations des sociétés de capital-risque, des fonds communs de
-placement à risques, des sociétés de développement régional et des sociétés
-financières d'innovation ou des sociétés unipersonnelles d'investissement à
-risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
-dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre
-la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés
-membres d'un groupe au sens de l'article 223 A, le chiffre d'affaires et
-l'effectif à prendre en compte s'entendent respectivement de la somme des
-chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres
-de ce groupe. La condition tenant à la composition du capital doit être remplie
-par la société mère du groupe.
+placement à risques, des fonds professionnels spécialisés relevant de l'article
+L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional et des sociétés financières d'innovation ou
+des sociétés unipersonnelles d'investissement à risque ne sont pas prises en
+compte à la condition qu'il n'existe pas de lien de dépendance au sens des
+deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et
+ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au
+sens de l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte
+s'entendent respectivement de la somme des chiffres d'affaires et de la somme
+des effectifs de chacune des sociétés membres de ce groupe. La condition tenant
+à la composition du capital doit être remplie par la société mère du groupe.
 
 Le crédit d'impôt bénéficie également aux sociétés des professions libérales
 soumises à un statut législatif ou réglementaire ou dont le titre est protégé et
@@ -87,7 +90,7 @@ membres des petites et moyennes entreprises définies au même I lorsqu'ils
 exposent des dépenses de prospection commerciale pour le compte de leurs membres
 afin d'exporter des services, des biens et des marchandises. Ces plafonds
 s'apprécient en prenant en compte la fraction du crédit d'impôt correspondant
-aux parts des associés de sociétés de personnes mentionnées aux articles 8, 238
+aux parts des associés de sociétés de personnes mentionnées aux articles 8,238
 bis L, aux parts des associés de sociétés de professions libérales mentionnées
 au I et aux droits des membres de groupements mentionnés aux articles 239
 quater, 239 quater B et 239 quater C.

@@ -83,7 +83,7 @@ l'article 208 ;
 
 4 ter. Par dérogation aux dispositions de l'article 239 nonies, aux titres cédés
 dans le cadre de leur gestion par les fonds de placement immobilier régis par
-les articles L. 214-89 et suivants du code monétaire et financier, lorsqu'une
+les articles L. 214-33 et suivants du code monétaire et financier, lorsqu'une
 personne physique agissant directement, par personne interposée ou par
 l'intermédiaire d'une fiducie possède plus de 10 % des parts du fonds.
 
@@ -96,31 +96,41 @@ la durée à l'émission est supérieure à cinq ans.
 
 7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de
 distribution d'une fraction des actifs d'un fonds commun de placement à risques
-dans les conditions du IX de l'article L. 214-28 du code monétaire et financier,
-à l'excédent du montant des sommes ou valeurs distribuées sur le montant des
-apports, ou le prix d'acquisition des parts s'il est différent du montant des
-apports ;
+ou d'un fonds professionnel de capital investissement dans les conditions du IX
+de l'article L. 214-28 du code monétaire et financier, à l'excédent du montant
+des sommes ou valeurs distribuées sur le montant des apports, ou le prix
+d'acquisition des parts s'il est différent du montant des apports ;
 
 8. Aux gains nets réalisés, directement, par personne interposée ou par
 l'intermédiaire d'une fiducie, par les salariés ou par les dirigeants soumis au
 régime fiscal des salariés, des sociétés de capital-risque, des sociétés de
-gestion de fonds communs de placement à risques ou de sociétés de
-capital-risque, ou des sociétés qui réalisent des prestations de services liées
-à la gestion des fonds communs de placement à risques ou des sociétés de
-capital-risque, lors de la cession ou du rachat de parts de fonds communs de
-placement à risques ou d'actions de sociétés de capital-risque donnant lieu à
-des droits différents sur l'actif net ou les produits du fonds ou de la société
-et attribuées en fonction de la qualité de la personne, sous réserve du respect
-des conditions suivantes :
+gestion de fonds communs de placement à risques ou de fonds professionnels
+spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans
+sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant
+le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital
+investissement ou de sociétés de capital-risque, ou des sociétés qui réalisent
+des prestations de services liées à la gestion des fonds communs de placement à
+risques ou des sociétés de capital-risque, lors de la cession ou du rachat de
+parts de fonds communs de placement à risques ou de fonds professionnels
+spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans
+sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant
+le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital
+investissement ou d'actions de sociétés de capital-risque donnant lieu à des
+droits différents sur l'actif net ou les produits du fonds ou de la société et
+attribuées en fonction de la qualité de la personne, sous réserve du respect des
+conditions suivantes :
 
 1° Les parts ou actions cédées ont été souscrites ou acquises moyennant un prix
 correspondant à la valeur des parts ou actions ;
 
-2° L'ensemble des parts d'un même fonds commun de placement à risques ou des
-actions d'une même société de capital-risque donnant lieu à des droits
-différents sur l'actif net ou les produits du fonds ou de la société et
-attribuées en fonction de la qualité de la personne satisfont aux conditions
-suivantes :
+2° L'ensemble des parts d'un même fonds commun de placement à risques ou d'un
+même fonds professionnel spécialisé relevant de l'article L. 214-37 du code
+monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676
+du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou d'un
+même fonds professionnel de capital investissement ou des actions d'une même
+société de capital-risque donnant lieu à des droits différents sur l'actif net
+ou les produits du fonds ou de la société et attribuées en fonction de la
+qualité de la personne satisfont aux conditions suivantes :
 
 a) Elles constituent une seule et même catégorie de parts ou actions ;
 
@@ -131,7 +141,11 @@ décret, après avis de l'Autorité des marchés financiers ;
 c) Les sommes ou valeurs auxquelles donnent droit ces parts ou actions sont
 versées au moins cinq ans après la date de la constitution du fonds ou de
 l'émission de ces actions et, pour les parts de fonds communs de placement à
-risques, après le remboursement des apports des autres porteurs de parts ;
+risques ou de fonds professionnels spécialisés relevant de l'article L. 214-37
+du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
+2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs
+ou de fonds professionnels de capital investissement, après le remboursement des
+apports des autres porteurs de parts ;
 
 3° Le cédant perçoit une rémunération normale au titre du contrat de travail ou
 du mandat social qui lui a permis de souscrire ou d'acquérir ces parts ou
@@ -141,8 +155,12 @@ Ces dispositions s'appliquent également dans les mêmes conditions :
 
 1° Aux distributions mentionnées au 7 perçues par les personnes visées au
 premier alinéa du présent 8 et afférentes à des parts de fonds communs de
-placement à risques donnant lieu à des droits différents sur l'actif net ou les
-produits du fonds et attribuées en fonction de la qualité de la personne ;
+placement à risques ou de fonds professionnels spécialisés relevant de l'article
+L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs ou de fonds professionnels de capital investissement donnant
+lieu à des droits différents sur l'actif net ou les produits du fonds et
+attribuées en fonction de la qualité de la personne ;
 
 2° Aux gains nets mentionnés au premier alinéa du présent 8 réalisés par les
 salariés ou dirigeants soumis au régime fiscal des salariés d'une entité,
@@ -162,17 +180,17 @@ perçues par ces mêmes salariés ou dirigeants en rémunération de ces droits.
 III.-Les dispositions du I ne s'appliquent pas :
 
 1. Aux cessions et aux rachats de parts de fonds communs de placement à risques
-mentionnées à l'article 163 quinquies B, réalisés par les porteurs de parts,
-remplissant les conditions fixées aux I et II ou aux I et III bis de l'article
-précité, après l'expiration de la période mentionnée au I du même article. Cette
-disposition n'est pas applicable si, à la date de la cession ou du rachat, le
-fonds a cessé de remplir les conditions énumérées au II ou au III bis de
-l'article 163 quinquies B ;
+ou de fonds professionnels de capital d'investissement mentionnées à l'article
+163 quinquies B, réalisés par les porteurs de parts, remplissant les conditions
+fixées aux I et II ou aux I et III bis de l'article précité, après l'expiration
+de la période mentionnée au I du même article. Cette disposition n'est pas
+applicable si, à la date de la cession ou du rachat, le fonds a cessé de remplir
+les conditions énumérées au II ou au III bis de l'article 163 quinquies B ;
 
 Les dispositions du premier alinéa ne s'appliquent pas aux parts de fonds
-communs de placement à risques donnant lieu à des droits différents sur l'actif
-net ou sur les produits du fonds et attribuées en fonction de la qualité de la
-personne.
+communs de placement à risques ou de fonds professionnels de capital
+d'investissement donnant lieu à des droits différents sur l'actif net ou sur les
+produits du fonds et attribuées en fonction de la qualité de la personne.
 
 1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au 2 du
 II de l'article 163 quinquies C souscrites ou acquises à compter du 1er janvier

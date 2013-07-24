@@ -1,20 +1,15 @@
 Article L214-63
 ----
-Toute souscription de parts est constatée par un bulletin établi dans des
-conditions déterminées par décret.
+Par exception au premier alinéa de l'article L. 225-51-1, au premier alinéa de
+l'article L. 225-53 et au troisième alinéa de l'article L. 225-59 du code de
+commerce, les fonctions de directeur général, celles de directeur général
+délégué, celles de président du directoire ou de directeur général unique sont
+exercées par la société de gestion.
 
-Les parts souscrites en numéraire sont libérées, lors de la souscription, d'un
-quart au moins de leur valeur nominale et, le cas échéant, de la totalité de la
-prime d'émission. La libération du surplus doit intervenir, en une ou plusieurs
-fois, dans le délai de cinq ans à compter de la souscription.
+La société de gestion désigne un représentant permanent soumis aux mêmes
+conditions et obligations et encourant les mêmes responsabilités que s'il
+exerçait en son nom propre l'une des fonctions mentionnées au premier alinéa,
+sans préjudice de la responsabilité solidaire de cette société qu'il représente.
 
-Il ne peut être procédé à la création de parts nouvelles en vue d'augmenter le
-capital social tant que le capital initial n'a pas été intégralement libéré et
-tant que n'ont pas été satisfaites les offres de cession de parts figurant sur
-le registre prévu à l'article L. 214-59 pour un prix inférieur ou égal à celui
-demandé aux nouveaux souscripteurs.
-
-La réduction du capital non motivée par des pertes n'est pas opposable aux
-créanciers dont la créance est antérieure à cette réduction. En cas de
-non-paiement, ces créanciers peuvent exiger le reversement à la société des
-sommes remboursées aux associés.
+Lorsqu'elle met fin aux fonctions de son représentant, la société de gestion est
+tenue de pourvoir en même temps à son remplacement.

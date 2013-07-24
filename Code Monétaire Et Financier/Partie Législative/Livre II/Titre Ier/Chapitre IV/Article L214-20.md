@@ -1,7 +1,7 @@
 Article L214-20
 ----
 I.-Dans des conditions et limites fixées par décret en Conseil d'Etat, l'actif
-d'un organisme de placement collectif en valeurs mobilières comprend :
+d'un OPCVM comprend :
 
 1° Des titres financiers au sens des 1 et 2 du II de l'article L. 211-1 dénommés
 " titres financiers éligibles " ;

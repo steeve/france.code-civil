@@ -2,7 +2,7 @@ Article L3332-17
 ----
 Le règlement du plan d'épargne d'entreprise prévoit qu'une partie des sommes
 recueillies peut être affectée à l'acquisition de parts de fonds investis, dans
-les limites prévues à l'article L. 214-39 du code monétaire et financier, dans
+les limites prévues à l'article L. 214-164 du code monétaire et financier, dans
 les entreprises solidaires au sens de l'article L. 3332-17-1 du présent code.
 
 Le règlement du plan d'épargne d'entreprise ouvre à ses participants au moins
@@ -11,12 +11,19 @@ d'investissement à capital variable mentionnés au 1° de l'article L. 3332-15,
 soit des parts de fonds communs de placement d'entreprise dont l'actif est
 composé de valeurs mobilières admises aux négociations sur un marché réglementé
 et, à titre accessoire, de liquidités, selon les règles fixées en application de
-l'article L. 214-20 du code monétaire et financier, ou de parts d'organismes de
-placement collectif en valeurs mobilières dont l'actif est ainsi composé. Cette
-disposition n'est pas exigée lorsqu'un plan d'épargne de groupe ou un plan
-d'épargne interentreprises de même durée minimum de placement offre aux
-participants de l'entreprise la possibilité de placer les sommes versées dans un
-organisme de placement collectif en valeurs mobilières présentant les mêmes
+l'article L. 214-24-55 du code monétaire et financier, ou de parts d'organismes
+de placement collectif en valeurs mobilières ou de placements collectifs
+relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du
+sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du
+chapitre IV du titre Ier du livre II du code monétaire et financier dont l'actif
+est ainsi composé. Cette disposition n'est pas exigée lorsqu'un plan d'épargne
+de groupe ou un plan d'épargne interentreprises de même durée minimum de
+placement offre aux participants de l'entreprise la possibilité de placer les
+sommes versées dans un organisme de placement collectif en valeurs mobilières ou
+dans un placement collectif relevant des paragraphes 1, 2 et 6 de la
+sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la
+sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre
+Ier du livre II du code monétaire et financier présentant les mêmes
 caractéristiques.
 
 Lorsqu'un fonds commun de placement d'entreprise mentionné au 2° de l'article L.
@@ -41,6 +48,5 @@ mois avant la publication de la valeur liquidative du fonds pour présenter leur
 demande de souscription, de rachat ou d'arbitrage de leurs avoirs.
 
 Un fonds commun de placement peut détenir au plus 30 % de titres émis par un
-fonds commun de placement mentionné à la sous-section 7 ou à la sous-section 9
-de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et
-financier.
+fonds commun de placement mentionné à l'article L. 214-28 ou L. 214-30 du code
+monétaire et financier.

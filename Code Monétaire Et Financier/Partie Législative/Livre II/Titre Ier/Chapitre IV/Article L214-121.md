@@ -1,15 +1,14 @@
 Article L214-121
 ----
-Par exception respectivement au premier alinéa de l'article L. 225-51-1, au
-premier alinéa de l'article L. 225-53 et au troisième alinéa de l'article L.
-225-59 du code de commerce, les fonctions de directeur général, ou celles de
-directeur général délégué ou celles de président du directoire ou de directeur
-général unique sont exercées, selon le cas, par la société de gestion.
+Les sociétés d'épargne forestière ont pour objet principal l'acquisition et la
+gestion d'un patrimoine forestier. Leur actif est constitué, d'une part, pour 60
+% au moins de bois ou forêts, de parts d'intérêt de groupements forestiers ou de
+sociétés dont l'objet exclusif est la détention de bois et forêts et, d'autre
+part, de liquidités ou valeurs assimilées.
 
-La société de gestion désigne un représentant permanent soumis aux mêmes
-conditions et obligations et encourant les mêmes responsabilités que s'il
-exerçait en son nom propre l'une des fonctions mentionnées au premier alinéa,
-sans préjudice de la responsabilité solidaire de cette société qu'il représente.
+Les bois et forêts détenus par ces sociétés doivent être gérés conformément à un
+plan simple de gestion agréé.
 
-Lorsqu'elle met fin aux fonctions de son représentant, la société de gestion est
-tenue de pourvoir en même temps à son remplacement.
+Les parts des sociétés d'épargne forestière sont assimilées aux parts d'intérêt
+détenues dans un groupement forestier pour l'application de la loi fiscale, à
+l'exception de l'article 885 H du code général des impôts.

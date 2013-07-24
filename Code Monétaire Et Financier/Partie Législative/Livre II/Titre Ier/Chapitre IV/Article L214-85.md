@@ -1,14 +1,31 @@
 Article L214-85
 ----
-Les sociétés d'épargne forestière ont pour objet principal l'acquisition et la
-gestion d'un patrimoine forestier ; leur actif est constitué, d'une part, pour
-60 % au moins de bois ou forêts, de parts d'intérêt de groupements forestiers ou
-de sociétés dont l'objet exclusif est la détention de bois et forêts et, d'autre
-part, de liquidités ou valeurs assimilées.
+I.-Un organisme de placement collectif immobilier peut comporter plusieurs
+compartiments si le règlement du fonds de placement immobilier ou les statuts de
+la société de placement à prépondérance immobilière à capital variable le
+prévoient. Chaque compartiment donne lieu à l'émission d'une ou plusieurs
+catégories de parts ou actions représentatives des actifs de l'organisme de
+placement collectif immobilier qui lui sont attribués. Par dérogation à
+l'article 2285 du code civil et sauf stipulation contraire des documents
+constitutifs de l'organisme de placement collectif immobilier, les actifs d'un
+compartiment déterminé ne répondent que des dettes, engagements et obligations
+et ne bénéficient que des créances qui concernent ce compartiment.
 
-Les bois et forêts détenus par ces sociétés doivent être gérés conformément à un
-plan simple de gestion agréé.
+Lorsque des compartiments sont constitués au sein d'un organisme de placement
+collectif immobilier, ils sont tous soumis individuellement aux dispositions du
+présent code qui régissent cet organisme.
 
-Les parts des sociétés d'épargne forestière sont assimilées aux parts d'intérêt
-détenues dans un groupement forestier pour l'application de la loi fiscale, à
-l'exception de l'article 885 H du code général des impôts.
+L'Autorité des marchés financiers définit les conditions dans lesquelles la
+constitution de chaque compartiment est soumise à son agrément, ainsi que les
+conditions dans lesquelles est déterminée, en fonction de la valeur nette des
+actifs attribués au compartiment correspondant, la valeur liquidative de chaque
+catégorie de parts ou actions.
+
+II.-Chaque compartiment fait l'objet, au sein de la comptabilité de l'organisme
+de placement collectif immobilier, d'une comptabilité distincte qui peut être
+tenue en toute unité monétaire dans les conditions fixées par le décret prévu au
+quatrième alinéa de l'article L. 214-50.
+
+III.-L'Autorité des marchés financiers agrée, dans des conditions qu'elle
+définit, la transformation, la fusion, la scission et la liquidation des
+compartiments.

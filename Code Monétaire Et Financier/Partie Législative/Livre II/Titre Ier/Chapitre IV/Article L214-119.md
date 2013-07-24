@@ -1,16 +1,25 @@
 Article L214-119
 ----
-La gestion des organismes de placement collectif immobilier est assurée par une
-société de gestion de portefeuille mentionnée à l'article L. 532-9 et désignée
-dans les statuts ou le règlement de l'organisme de placement collectif
-immobilier.
+Les sociétés civiles de placement immobilier disposent d'un délai de cinq ans, à
+compter de l'homologation des dispositions du règlement général de l'Autorité
+des marchés financiers relatives aux organismes de placement collectif
+immobilier, pour tenir l'assemblée générale extraordinaire des associés afin
+qu'elle se prononce sur la question inscrite à l'ordre du jour relative à la
+possibilité de se transformer en organisme de placement collectif immobilier.
 
-Lorsqu'elle gère au moins un organisme de placement collectif immobilier, la
-société de gestion de portefeuille peut gérer à titre principal des actifs
-immobiliers faisant l'objet de mandats de gestion spécifiques ou des sociétés
-civiles de placement immobilier et, à titre accessoire, exercer une activité de
-conseil en investissement immobilier.
+Cette assemblée opte, dans les conditions de quorum et de majorité fixées par
+les statuts de la société à la date de publication de l'ordonnance n° 2005-1278
+du 13 octobre 2005 définissant le régime juridique des organismes de placement
+collectif immobilier et les modalités de transformation des sociétés civiles de
+placement immobilier en organismes de placement collectif immobilier, pour l'une
+des deux formes de l'organisme de placement collectif immobilier mentionnées au
+premier alinéa de l'article L. 214-33 qu'elle souhaite voir adoptée à l'issue de
+la transformation.
 
-Elle peut également être dirigeante des sociétés dans lesquelles l'organisme de
-placement collectif immobilier qu'elle gère détient les participations
-mentionnées aux b et c du I de l'article L. 214-92.
+Si l'organisme de placement collectif immobilier est constitué sous forme de
+fonds de placement immobilier, le règlement du fonds prévoit la mise en place du
+conseil de surveillance prévu à l'article L. 214-73.
+
+Lorsqu'une société civile de placement immobilier opte pour le régime des
+organismes de placement collectif immobilier, cette opération se fait sans frais
+directs ou indirects pour les porteurs de parts.

@@ -1,5 +1,9 @@
 Article L214-108
 ----
-La mise en paiement des sommes distribuables et définies aux articles L. 214-128
-et L. 214-140 est effectuée dans un délai maximal de cinq mois suivant la
-clôture de l'exercice.
+Chaque assemblée fait l'objet d'un procès-verbal et d'une feuille de présence, à
+laquelle doivent être annexés les pouvoirs donnés à chaque mandataire. Les
+modalités d'établissement de ces documents sont déterminées par décret en
+Conseil d'Etat.
+
+En l'absence de procès-verbal, les délibérations de l'assemblée peuvent être
+annulées.

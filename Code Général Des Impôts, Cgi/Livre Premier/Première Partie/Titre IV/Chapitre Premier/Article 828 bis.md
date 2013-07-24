@@ -14,5 +14,5 @@ d'assurance sur la vie ou de capitalisation, en sociétés de placement à
 prépondérance immobilière à capital variable.
 
 2. Les exonérations mentionnées au 1 s'appliquent aux transformations
-intervenant dans le délai visé à l'article L. 214-84-2 du code monétaire et
+intervenant dans le délai visé à l'article L. 214-119 du code monétaire et
 financier.

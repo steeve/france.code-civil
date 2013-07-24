@@ -1,25 +1,12 @@
 Article L214-67
 ----
-La société de gestion est constituée sous la forme d'une société anonyme dont le
-capital minimum ne peut être inférieur à deux cent vingt cinq mille euros ou
-d'une société en nom collectif à la condition que, dans ce cas, l'un au moins
-des associés soit une société anonyme justifiant du capital social minimum
-susmentionné.
+Les articles L. 224-1, L. 224-2, le deuxième alinéa de l'article L. 225-2, les
+articles L. 225-3 à L. 225-16, L. 225-25, L. 225-26, L. 225-258 à L. 225-270, le
+quatrième alinéa de l'article L. 227-1, les articles L. 227-13 à L. 227-16, L.
+227-18, L. 231-1 à L. 231-8, L. 233-8 et L. 441-6-1 du code de commerce ne sont
+pas applicables aux sociétés de placement à prépondérance immobilière à capital
+variable.
 
-La société de gestion doit être agréée par l'Autorité des marchés financiers.
-
-L'Autorité des marchés financiers peut, par décision motivée, retirer l'agrément
-d'une société de gestion.
-
-Les sociétés de gestion gérant des sociétés civiles de placement immobilier ne
-peuvent créer des organismes de placement collectif immobilier avant d'avoir mis
-leurs statuts, leur organisation et leurs moyens en harmonie avec la section 5
-et d'être agréées par l'Autorité des marchés financiers dans les conditions
-prévues par le règlement général de l'Autorité des marchés financiers.
-
-Lorsque l'une des sociétés civiles de placement immobilier gérées par une
-société de gestion s'est transformée en un organisme de placement collectif
-immobilier dont la gestion sera assurée par cette société dès lors qu'elle
-remplit les conditions prévues à l'article L. 214-119 ou lorsque cette société
-crée un tel organisme, les autres sociétés civiles de placement immobilier
-peuvent continuer à être gérées par cette société.
+Les fusions transfrontalières des sociétés mentionnées au présent
+sous-paragraphe ne sont pas régies par les articles L. 236-25 à L. 236-32 du
+code de commerce.

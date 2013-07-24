@@ -4,11 +4,12 @@ Les sommes recueillies par un plan d'épargne d'entreprise peuvent être affect�
 à l'acquisition :
 
 1° De titres émis par des sociétés d'investissement à capital variable régies
-par les articles L. 214-7 à L. 214-7-4 du code monétaire et financier ;
+par les articles L. 214-7 à L. 214-7-4 et L. 214-24-29 à L. 214-24-33 du code
+monétaire et financier ;
 
 2° De parts de fonds communs de placement ou des titres émis par des sociétés
-d'investissement à capital variable régis par les articles L. 214-39 et L.
-214-40 du code monétaire et financier ;
+d'investissement à capital variable régis par les articles L. 214-164 et L.
+214-165 du code monétaire et financier ;
 
 3° D'actions émises par des sociétés mentionnées au paragraphe II de l'article
 83 bis et à l'article 220 quater A du code général des impôts ;
@@ -33,11 +34,11 @@ l'institution d'un fonds commun de placement n'est pas obligatoire pour la
 gestion de cet investissement.
 
 Le règlement du plan d'épargne d'entreprise peut prévoir que les fonds communs
-de placement régis par l'article L. 214-39 du code monétaire et financier qui
+de placement régis par l'article L. 214-164 du code monétaire et financier qui
 peuvent recevoir les sommes versées dans le plan disposent d'un conseil de
 surveillance commun. Il peut également fixer la composition des conseils de
-surveillance des fonds communs de placement régis par les articles L. 214-39 et
-L. 214-40 du même code. En ce cas, il est fait application des dispositions de
+surveillance des fonds communs de placement régis par les articles L. 214-164 et
+L. 214-165 du même code. En ce cas, il est fait application des dispositions de
 ces articles. Le règlement précise les modalités de désignation de ces conseils.
 
 L'entreprise dont les titres ne sont pas admis aux négociations sur un marché

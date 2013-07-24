@@ -9,9 +9,9 @@ au e du 1° de l'article L. 111-1 dudit code, ni les entreprises
 d'investissement, ni les établissements de monnaie électronique, ni les
 établissements de paiement, ni les organismes collecteurs de la participation
 des employeurs à l'effort de construction pour les opérations prévues par le
-code de la construction et de l'habitation, ni les organismes de titrisation, ni
-les organismes de placement collectif en valeurs mobilières ni les organismes de
-placement collectif immobilier.
+code de la construction et de l'habitation, ni les OPCVM ni les FIA relevant des
+paragraphes 1,2,3 et 6 de la sous-section 2, et des sous-sections 3,4 et 5 de la
+section 2 du chapitre IV du titre Ier du livre II.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 

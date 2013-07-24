@@ -1,19 +1,19 @@
 Article 1763 B
 ----
-1. La société de gestion d'un fonds commun de placement à risques qui a porté
-sur la déclaration prévue au I de l'article 242 quinquies des informations
-erronées ayant conduit à la dissimulation du non-respect du quota de 50 % prévu
-au 1° du II de l'article 163 quinquies B est redevable d'une amende fiscale
-égale à 5 % de la valeur des investissements portés sur la déclaration précitée
-et retenus à tort dans le quota d'investissement de 50 % ou pour le calcul de la
-limite prévue au III de l'article L. 214-28 du code monétaire et financier. Le
-montant de cette amende est diminué d'un abattement égal à la proportion du
-montant des souscriptions réalisées par des personnes n'ayant pas, en France,
-leur domicile fiscal ou leur siège social sur le montant des souscriptions
-émises par le fonds. Cette proportion s'apprécie au premier jour de chaque
-exercice. Le montant de l'amende est plafonné, par déclaration, à la moitié du
-montant des sommes qui lui sont dues par le fonds au titre des frais de gestion
-pour l'exercice concerné.
+1. La société de gestion d'un fonds commun de placement à risques ou d'un fonds
+professionnel de capital investissement qui a porté sur la déclaration prévue au
+I de l'article 242 quinquies des informations erronées ayant conduit à la
+dissimulation du non-respect du quota de 50 % prévu au 1° du II de l'article 163
+quinquies B est redevable d'une amende fiscale égale à 5 % de la valeur des
+investissements portés sur la déclaration précitée et retenus à tort dans le
+quota d'investissement de 50 % ou pour le calcul de la limite prévue au III de
+l'article L. 214-28 du code monétaire et financier. Le montant de cette amende
+est diminué d'un abattement égal à la proportion du montant des souscriptions
+réalisées par des personnes n'ayant pas, en France, leur domicile fiscal ou leur
+siège social sur le montant des souscriptions émises par le fonds. Cette
+proportion s'apprécie au premier jour de chaque exercice. Le montant de l'amende
+est plafonné, par déclaration, à la moitié du montant des sommes qui lui sont
+dues par le fonds au titre des frais de gestion pour l'exercice concerné.
 
 La société de capital risque qui a porté sur l'état prévu au II de l'article 242
 quinquies des informations erronées ayant conduit à la dissimulation du
@@ -26,17 +26,18 @@ quatrième alinéa du 1° de l'article 1er-1 précité. Le montant de cette amen
 est plafonné, par déclaration, à la moitié du montant des charges d'exploitation
 de la société de capital-risque au titre de l'exercice concerné.
 
-1 bis. La société de gestion d'un fonds commun de placement à risques qui a
-porté sur la déclaration prévue au I de l'article 242 quinquies des informations
-conduisant à une application erronée du 2° du 5 de l'article 38 ou du a sexies
-du I de l'article 219 est redevable d'une amende fiscale égale à 5 % du montant
-de la répartition concernée. Le montant de cette amende est diminué d'un
-abattement égal à la proportion du montant des souscriptions réalisées par des
-personnes n'ayant pas, en France, leur domicile fiscal ou leur siège social sur
-le montant des souscriptions émises par le fonds. Cette proportion s'apprécie au
-premier jour de chaque exercice. Le montant de l'amende est plafonné, par
-déclaration, à la moitié du montant des sommes qui lui sont dues par le fonds au
-titre des frais de gestion pour l'exercice concerné.
+1 bis. La société de gestion d'un fonds commun de placement à risques ou d'un
+fonds professionnel de capital investissement qui a porté sur la déclaration
+prévue au I de l'article 242 quinquies des informations conduisant à une
+application erronée du 2° du 5 de l'article 38 ou du a sexies du I de l'article
+219 est redevable d'une amende fiscale égale à 5 % du montant de la répartition
+concernée. Le montant de cette amende est diminué d'un abattement égal à la
+proportion du montant des souscriptions réalisées par des personnes n'ayant pas,
+en France, leur domicile fiscal ou leur siège social sur le montant des
+souscriptions émises par le fonds. Cette proportion s'apprécie au premier jour
+de chaque exercice. Le montant de l'amende est plafonné, par déclaration, à la
+moitié du montant des sommes qui lui sont dues par le fonds au titre des frais
+de gestion pour l'exercice concerné.
 
 La société de capital-risque qui a porté sur l'état prévu au II de l'article 242
 quinquies des informations conduisant à une application erronée du 5 de

@@ -12,9 +12,8 @@ de personnes dont les titres financiers sont admis aux négociations sur un
 marché réglementé ou offerts au public sur un système multilatéral de
 négociation qui se soumet aux dispositions législatives ou réglementaires visant
 à protéger les investisseurs contre les opérations d'initiés, les manipulations
-de cours et la diffusion de fausses informations ou d'organismes de placements
-collectifs, ils sont effectués avec le concours de l'Autorité des marchés
-financiers.
+de cours et la diffusion de fausses informations ou de placements collectifs,
+ils sont effectués avec le concours de l'Autorité des marchés financiers.
 
 Les contrôles prévus au c de l'article L. 821-7 sont effectués par la Compagnie
 nationale ou les compagnies régionales, à leur initiative ou à la demande du

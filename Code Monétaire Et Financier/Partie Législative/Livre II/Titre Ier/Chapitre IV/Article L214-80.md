@@ -1,8 +1,8 @@
 Article L214-80
 ----
-A l'exception des cas prévus aux articles L. 214-124 et L. 214-135, une société
-civile de placement immobilier ne peut fusionner qu'avec une autre société
-civile de placement immobilier gérant un patrimoine de composition comparable.
-
-Les conditions d'application du présent article sont fixées par le décret
-mentionné à l'article L. 214-85.
+Les sociétés mentionnées au 2° du I de l'article L. 214-36 dans lesquelles le
+fonds de placement immobilier détient une participation directe ou indirecte
+relèvent de l'article 8 du code général des impôts, ne sont pas passibles, de
+droit ou sur option, de l'impôt sur les sociétés ou d'un impôt équivalent, et ne
+peuvent pas détenir, directement ou indirectement, de droits détenus en qualité
+de crédit-preneur afférents à des contrats de crédit-bail.

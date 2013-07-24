@@ -32,15 +32,19 @@ Le capital des sociétés doit être entièrement libéré et être détenu de m
 continue, pour 75 % au moins, par des personnes physiques ou par une société
 répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %,
 les participations des sociétés de capital-risque, des fonds communs de
-placement à risques, des sociétés de développement régional et des sociétés
-financières d'innovation ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du
-12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
-fonds. Pour les sociétés membres d'un groupe au sens de l'article 223 A, le
-chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement
-de la somme des chiffres d'affaires et de la somme des effectifs de chacune des
-sociétés membres de ce groupe. La condition tenant à la composition du capital
-doit être remplie par la société mère du groupe.
+placement à risques, des fonds professionnels spécialisés relevant de l'article
+L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional et des sociétés financières d'innovation ne
+sont pas prises en compte à la condition qu'il n'existe pas de lien de
+dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre
+la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés
+membres d'un groupe au sens de l'article 223 A, le chiffre d'affaires et
+l'effectif à prendre en compte s'entendent respectivement de la somme des
+chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres
+de ce groupe. La condition tenant à la composition du capital doit être remplie
+par la société mère du groupe.
 
 2° (abrogé).
 
@@ -99,7 +103,7 @@ l'exercice ou de l'année où interviennent les événements précités.
 
 Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables
 lorsque le bien est transmis dans le cadre d'opérations placées sous les régimes
-prévus aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la
+prévus aux articles 41,151 octies, 210 A ou 210 B si le bénéficiaire de la
 transmission s'engage à exploiter les biens en Corse dans le cadre d'une
 activité répondant aux conditions mentionnées au I pendant la fraction du délai
 de conservation restant à courir. L'engagement est pris dans l'acte constatant
@@ -111,7 +115,7 @@ d'imposition prévu à l'article 8 ou un groupement mentionné aux articles 239
 quater ou 239 quater C, les associés ou membres mentionnés au deuxième alinéa du
 II doivent, en outre, conserver les parts ou actions de cette société ou ce
 groupement pendant un délai de cinq ans à compter de la réalisation de
-l'investissement.A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet
+l'investissement. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet
 d'une reprise au titre de l'exercice ou de l'année de la cession, du rachat ou
 de l'annulation de ces parts ou actions.
 

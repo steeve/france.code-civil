@@ -1,4 +1,4 @@
 Article L214-88
 ----
-Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2,
-3 et 4 du présent chapitre.
+Le capital social minimum ne peut être inférieur à 760 000 €. Les parts sont
+nominatives et d'un montant nominal minimum de 150 €.

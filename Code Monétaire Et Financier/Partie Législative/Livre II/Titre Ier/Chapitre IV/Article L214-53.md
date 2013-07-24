@@ -1,4 +1,7 @@
 Article L214-53
 ----
-Le capital social minimum ne peut être inférieur à 760 000 euros. Les parts sont
-nominatives et d'un montant nominal minimum de 150 euros.
+Dans les conditions et selon une périodicité prévues par le règlement général de
+l'Autorité des marchés financiers, les sociétés de placement à prépondérance
+immobilière à capital variable et les sociétés de gestion du fonds de placement
+immobilier établissent un document d'information qui est porté à la connaissance
+des actionnaires et des porteurs de parts.

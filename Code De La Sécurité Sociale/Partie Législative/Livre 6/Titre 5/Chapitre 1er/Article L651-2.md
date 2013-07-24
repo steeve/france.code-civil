@@ -21,8 +21,9 @@ relative à certaines dispositions concernant les sociétés ;
 
 6°) (Abrogé) ;
 
-7°) Les sociétés d'investissement régies par les articles L. 214-15 à L. 214-19
-et L. 214-147 à L. 214-156 du code monétaire et financier ;
+7°) Les sociétés d'investissement régies par les articles L. 214-7 à L. 214-7-4,
+L. 214-24-29 à L. 214-24-33 et L. 214-127 à L. 214-135 du code monétaire et
+financier ;
 
 8°) les sociétés d'aménagement foncier et d'établissement rural régies par
 l'article 15 de la loi n° 60-808 du 5 août 1960 dite loi d'orientation agricole

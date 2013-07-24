@@ -1,12 +1,9 @@
 Article L214-46
 ----
-Lorsque des créances sont transférées à l'organisme, leur recouvrement continue
-d'être assuré par le cédant ou par l'entité qui en était chargée avant leur
-transfert, dans des conditions définies par une convention passée avec la
-société de gestion de l'organisme.
+Les créanciers dont le titre résulte de toute opération relative aux actifs d'un
+organisme de placement collectif immobilier n'ont d'action que sur ces actifs, à
+l'exception des actifs mentionnés au 2° de l'article L. 214-37.
 
-Toutefois, tout ou partie du recouvrement peut être confié à une autre entité
-désignée à cet effet, dès lors que le débiteur en est informé par lettre simple.
-
-Les dispositions du présent article ne sont pas applicables aux créances qui ont
-la forme d'instruments financiers.
+Les créanciers du dépositaire ne peuvent poursuivre le paiement de leurs
+créances sur les actifs d'un organisme de placement collectif immobilier
+conservés par lui.

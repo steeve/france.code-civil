@@ -1,7 +1,7 @@
 Article L214-84
 ----
-I. - A compter du 31 décembre 2009, il ne peut être créé de nouvelles sociétés
-civiles de placement immobilier.
-
-A compter de la même date, il ne peut être procédé à de nouvelles augmentations
-de capital.
+Les conditions de liquidation ainsi que les modalités de la répartition des
+actifs sont déterminées par le règlement du fonds de placement immobilier. La
+société de gestion assume les fonctions de liquidateur sous le contrôle du
+dépositaire. A défaut, le liquidateur est désigné en justice à la demande de
+tout porteur de parts.

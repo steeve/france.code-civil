@@ -3,24 +3,25 @@ Article L632-7
 I.-Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968
 relative à la communication des documents et renseignements d'ordre économique,
 commercial, industriel, financier ou technique à des personnes physiques ou
-morales étrangères, l'Autorité de contrôle prudentiel et l'Autorité des marchés
-financiers peuvent conclure, avec des autorités homologues relevant d'un Etat
-non membre de l'Union européenne et non partie à l'accord sur l'Espace
-économique européen, des accords de coopération prévoyant notamment l'échange
-d'informations. Par dérogation aux mêmes dispositions, la Banque de France peut
-conclure, avec des autorités publiques chargées de la surveillance des systèmes
-de paiement et des systèmes de règlement et de livraison des instruments
-financiers, des accords de coopération prévoyant notamment l'échange
-d'informations. Les informations communiquées doivent bénéficier de garanties de
-secret professionnel au moins équivalentes à celles auxquelles sont soumises les
-autorités françaises parties à ces accords. Cet échange d'informations doit être
-destiné à l'exécution des missions desdites autorités compétentes.
+morales étrangères, l'Autorité de contrôle prudentiel et de résolution et
+l'Autorité des marchés financiers peuvent conclure, avec des autorités
+homologues relevant d'un Etat non membre de l'Union européenne et non partie à
+l'accord sur l'Espace économique européen, des accords de coopération prévoyant
+notamment l'échange d'informations. Par dérogation aux mêmes dispositions, la
+Banque de France peut conclure, avec des autorités publiques chargées de la
+surveillance des systèmes de paiement et des systèmes de règlement et de
+livraison des instruments financiers, des accords de coopération prévoyant
+notamment l'échange d'informations. Les informations communiquées doivent
+bénéficier de garanties de secret professionnel au moins équivalentes à celles
+auxquelles sont soumises les autorités françaises parties à ces accords. Cet
+échange d'informations doit être destiné à l'exécution des missions desdites
+autorités compétentes.
 
-II.- L'Autorité de contrôle prudentiel et l'Autorité des marchés financiers
-peuvent également conclure des accords de coopération prévoyant notamment
-l'échange d'informations avec des autorités ou personnes relevant d'un Etat non
-membre de l'Union européenne et non partie à l'accord sur l'Espace économique
-européen, qui sont :
+II.- L'Autorité de contrôle prudentiel et de résolution et l'Autorité des
+marchés financiers peuvent également conclure des accords de coopération
+prévoyant notamment l'échange d'informations avec des autorités ou personnes
+relevant d'un Etat non membre de l'Union européenne et non partie à l'accord sur
+l'Espace économique européen, qui sont :
 
 a) Responsables de la surveillance des établissements de crédit, des entreprises
 d'investissement des autres établissements financiers et des entreprises
@@ -51,3 +52,8 @@ européenne ou d'un autre Etat partie à l'accord sur l'Espace économique europ
 ou d'un pays tiers, les informations ne peuvent être divulguées sans l'accord
 exprès de l'autorité qui les a communiquées et, le cas échéant, aux seules fins
 pour lesquelles elle a donné son accord.
+
+IV. - L'Autorité des marchés financiers donne son autorisation expresse
+préalablement à toute transmission, par les autorités compétentes d'un pays
+tiers aux autorités d'autres pays tiers, de données et analyses de données
+relatives aux FIA et à leurs gestionnaires qu'elle leur a communiquées

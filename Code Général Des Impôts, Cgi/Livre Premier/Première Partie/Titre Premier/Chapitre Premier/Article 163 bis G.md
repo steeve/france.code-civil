@@ -36,14 +36,17 @@ sociétés financières d'innovation ne sont pas prises en compte à la conditio
 qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
 société bénéficiaire de l'apport et ces dernières sociétés. De même, ce
 pourcentage ne tient pas compte des participations des fonds communs de
-placement à risques, des fonds d'investissement de proximité ou des fonds
-communs de placement dans l'innovation. Il en est de même, dans les mêmes
-conditions, des participations détenues par des structures équivalentes aux
-sociétés ou fonds mentionnés aux deuxième et troisième phrases, établies dans un
-autre Etat membre de la Communauté européenne ou dans un Etat ou territoire
-ayant conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion
-fiscale ;
+placement à risques, des fonds professionnels spécialisés relevant de l'article
+L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des fonds
+d'investissement de proximité ou des fonds communs de placement dans
+l'innovation. Il en est de même, dans les mêmes conditions, des participations
+détenues par des structures équivalentes aux sociétés ou fonds mentionnés aux
+deuxième et troisième phrases, établies dans un autre Etat membre de la
+Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France
+une convention fiscale qui contient une clause d'assistance administrative en
+vue de lutter contre la fraude ou l'évasion fiscale ;
 
 3. La société n'a pas été créée dans le cadre d'une concentration, d'une
 restructuration, d'une extension ou d'une reprise d'activités préexistantes,

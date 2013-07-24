@@ -82,10 +82,10 @@ honoraire et commission versés à un tiers pour la gestion des immeubles ;
 
 e bis) Les dépenses supportées par un fonds de placement immobilier mentionné à
 l'article 239 nonies au titre des frais de fonctionnement et de gestion à
-proportion des actifs mentionnés au a du 1° du II de l'article L. 214-140 du
-code monétaire et financier détenus directement ou indirectement par le fonds, à
+proportion des actifs mentionnés au a du 1° du II de l'article L. 214-81 du code
+monétaire et financier détenus directement ou indirectement par le fonds, à
 l'exclusion des frais de gestion variables perçus par la société de gestion
-mentionnée à l'article L. 214-119 du même code en fonction des performances
+mentionnée à l'article L. 214-61 du même code en fonction des performances
 réalisées.
 
 Les frais de gestion, de souscription et de transaction supportés directement
@@ -539,7 +539,7 @@ de la période triennale sont remis en cause dans les conditions de droit commun
 
 Les trois premiers alinéas sont applicables, dans les mêmes conditions et
 limites, aux sociétés civiles de placement immobilier régies par les articles L.
-214-50 et suivants du code monétaire et financier au prorata des revenus bruts
+214-114 et suivants du code monétaire et financier au prorata des revenus bruts
 correspondant aux droits des associés qui ont opté pour la déduction au titre de
 l'amortissement prévue à l'article 31 bis du présent code.
 

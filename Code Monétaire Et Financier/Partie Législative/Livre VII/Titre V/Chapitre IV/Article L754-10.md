@@ -83,11 +83,13 @@ procuration en l'absence d'instructions spécifiques des actionnaires concernés
 IV.-Ne sont pas assimilés aux actions ou aux droits de vote possédés par une
 personne :
 
-1° Les actions détenues par les organismes de placement collectif en valeurs
-mobilières ou les sociétés d'investissement à capital fixe gérés par une société
-de gestion de portefeuille contrôlée par cette personne, dans les conditions
-fixées par le règlement général de l'Autorité des marchés financiers, sauf
-exceptions prévues par ce même règlement ;
+1° Les actions détenues par les OPCVM ou les FIA relevant des paragraphes 1, 2,
+5 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du
+paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du
+chapitre IV du titre Ier du livre II gérés par une société de gestion de
+portefeuille contrôlée par cette personne, dans les conditions fixées par le
+règlement général de l'Autorité des marchés financiers, sauf exceptions prévues
+par ce même règlement ;
 
 2° Les actions détenues dans un portefeuille géré par un prestataire de services
 d'investissement contrôlé par cette personne, dans le cadre du service de

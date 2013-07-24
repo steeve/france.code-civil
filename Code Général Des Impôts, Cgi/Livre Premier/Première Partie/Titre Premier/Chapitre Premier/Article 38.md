@@ -135,32 +135,38 @@ réserve des dispositions du 2° du présent 5.
 
 2° Par dérogation aux dispositions du 1°, les sommes correspondant à la
 répartition, prévue au IX de l'article L. 214-28 du code monétaire et financier
-d'une fraction des actifs d'un fonds commun de placement à risques qui remplit
-les conditions prévues au II ou au III bis de l'article 163 quinquies B, sont
-affectées en priorité au remboursement des apports. L'excédent des sommes
-réparties sur le montant des apports ou sur le prix d'acquisition des parts s'il
-est différent du montant des apports est compris dans le résultat imposable de
-l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal
-des plus-values à long terme dans la proportion existant entre le montant des
-apports effectués depuis au moins deux ans à la date de la répartition et le
-montant total des apports effectués à cette même date. Le prix de revient des
-parts est corrélativement diminué à concurrence des sommes réparties qui n'ont
-pas été imposées en application du présent alinéa.
+d'une fraction des actifs d'un fonds commun de placement à risques ou d'un fonds
+professionnel de capital investissement qui remplit les conditions prévues au II
+ou au III bis de l'article 163 quinquies B, sont affectées en priorité au
+remboursement des apports. L'excédent des sommes réparties sur le montant des
+apports ou sur le prix d'acquisition des parts s'il est différent du montant des
+apports est compris dans le résultat imposable de l'exercice au cours duquel cet
+excédent apparaît. Il est soumis au régime fiscal des plus-values à long terme
+dans la proportion existant entre le montant des apports effectués depuis au
+moins deux ans à la date de la répartition et le montant total des apports
+effectués à cette même date. Le prix de revient des parts est corrélativement
+diminué à concurrence des sommes réparties qui n'ont pas été imposées en
+application du présent alinéa.
 
 Le premier alinéa du présent 2° s'applique également aux sommes reçues par un
-fonds commun de placement à risques, qui remplit les conditions prévues au II ou
-au III bis de l'article 163 quinquies B, provenant :
+fonds commun de placement à risques ou un fonds professionnel de capital
+investissement, qui remplit les conditions prévues au II ou au III bis de
+l'article 163 quinquies B, provenant :
 
 a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à
-risques, prévues aau IX de l'article L. 214-28 du code monétaire et financier ;
+risques ou d'un fonds professionnel de capital investissement, prévues au IX de
+l'article L. 214-28 du code monétaire et financier ;
 
 b) Des distributions d'une entité mentionnée au 2° du II de l'article L. 214-28
-du même code, autre qu'un fonds commun de placement à risques, constituée dans
-un Etat ou territoire ayant conclu avec la France une convention fiscale qui
-contient une clause d'assistance administrative en vue de lutter contre la
-fraude ou l'évasion fiscale, prélevées sur des plus-values réalisées par
-l'entité lors de la cession de titres intervenue au cours de l'exercice
-précédent.
+du même code, autre qu'un fonds commun de placement à risques, qu'un fonds
+professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et
+financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
+2013 modifiant le cadre juridique de la gestion d'actifs ou qu'un fonds
+professionnel de capital investissement, constituée dans un Etat ou territoire
+ayant conclu avec la France une convention fiscale qui contient une clause
+d'assistance administrative en vue de lutter contre la fraude ou l'évasion
+fiscale, prélevées sur des plus-values réalisées par l'entité lors de la cession
+de titres intervenue au cours de l'exercice précédent.
 
 5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la
 fusion ou à la scission de sociétés d'investissement à capital variable et de
@@ -298,9 +304,9 @@ Pour les opérations réalisées au cours d'exercices clos à compter du 31 déc
 1994, les dispositions du présent 7 ne sont pas applicables si l'un des
 coéchangistes remet à l'échange des actions émises lors d'une augmentation de
 capital réalisée depuis moins de trois ans par une société qui détient
-directement ou indirectement une participation supérieure à 5% du capital de
+directement ou indirectement une participation supérieure à 5 % du capital de
 l'autre société avec laquelle l'échange est réalisé ou par une société dont plus
-de 5% du capital est détenu directement ou indirectement par cette autre
+de 5 % du capital est détenu directement ou indirectement par cette autre
 société.
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
@@ -365,7 +371,7 @@ de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations ;
 souscription et sa valeur de remboursement est considérée, pour l'imposition du
 souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis
 avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de
-l'article 238 septies B que si son montant excède 15% de la valeur actuelle de
+l'article 238 septies B que si son montant excède 15 % de la valeur actuelle de
 l'obligation ;
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de

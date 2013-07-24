@@ -1,8 +1,8 @@
 Article L214-122
 ----
-La société de placement à prépondérance immobilière à capital variable et la
-société de gestion sont responsables, chacune individuellement ou solidairement
-selon le cas, envers les tiers ou envers les actionnaires, soit des infractions
-aux dispositions législatives ou réglementaires applicables aux sociétés de
-placement à prépondérance immobilière à capital variable, soit de la violation
-des statuts de la société, soit de leurs fautes.
+La part de l'actif des sociétés d'épargne forestière constituée de bois et
+forêts est fixée à 51 % lorsque ces sociétés consacrent, dans des conditions
+définies par décret en Conseil d'Etat, une fraction de leur actif à la
+bonification ou à la garantie de prêts accordés par des établissements de crédit
+agréés par l'autorité administrative pour financer des opérations
+d'investissement, de valorisation ou d'exploitation des bois et forêts.

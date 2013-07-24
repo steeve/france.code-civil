@@ -142,8 +142,8 @@ doit être notifiée avant le 30 septembre 2003.
 
 Cette option est irrévocable.
 
-III bis.-Les sociétés soumises à l'impôt sur les sociétés mentionnées au c du I
-de l'article L. 214-92 du code monétaire et financier et qui ont un objet
+III bis.-Les sociétés soumises à l'impôt sur les sociétés mentionnées au 3° du I
+de l'article L. 214-36 du code monétaire et financier et qui ont un objet
 identique à celui des sociétés d'investissements immobiliers cotées visées au I
 peuvent opter dans les conditions du III pour le régime d'imposition prévu au II
 lorsqu'elles sont détenues à 95 % au moins, directement ou indirectement et de

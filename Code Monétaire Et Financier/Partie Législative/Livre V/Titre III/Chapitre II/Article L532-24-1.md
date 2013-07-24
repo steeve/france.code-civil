@@ -2,17 +2,17 @@ Article L532-24-1
 ----
 I. ― Toute société de gestion de portefeuille ayant son siège social sur le
 territoire de la France métropolitaine, des départements d'outre-mer et de
-Saint-Martin et autorisée à gérer un organisme de placement collectif en valeurs
-mobilières agréé conformément à la directive 2009/65/ CE du Parlement européen
-et du Conseil du 13 juillet 2009 qui veut établir une succursale dans un autre
-Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
-européen notifie son projet à l'Autorité des marchés financiers selon des règles
-fixées par décret en Conseil d'Etat. L'Autorité des marchés financiers, à moins
-qu'elle n'ait des raisons de douter, compte tenu des activités envisagées, de
-l'adéquation des structures administratives ou de la situation financière de la
-société de gestion, communique, dans les deux mois à compter de la réception de
-toutes les informations requises dans la notification prévue au premier alinéa,
-ces informations aux autorités compétentes de l'Etat d'accueil de la société de
+Saint-Martin et autorisée à gérer un OPCVM agréé conformément à la directive
+2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 qui veut
+établir une succursale dans un autre Etat membre de l'Union européenne ou partie
+à l'accord sur l'Espace économique européen notifie son projet à l'Autorité des
+marchés financiers selon des règles fixées par décret en Conseil d'Etat.
+L'Autorité des marchés financiers, à moins qu'elle n'ait des raisons de douter,
+compte tenu des activités envisagées, de l'adéquation des structures
+administratives ou de la situation financière de la société de gestion,
+communique, dans les deux mois à compter de la réception de toutes les
+informations requises dans la notification prévue au premier alinéa, ces
+informations aux autorités compétentes de l'Etat d'accueil de la société de
 gestion et en avise cette dernière en conséquence. Elle communique en outre des
 précisions sur tout système d'indemnisation destiné à protéger les
 investisseurs.
@@ -32,13 +32,12 @@ activités.
 
 II. ― Toute société de gestion de portefeuille ayant son siège social sur le
 territoire de la France métropolitaine, des départements d'outre-mer et de
-Saint-Martin et autorisée à gérer un organisme de placement collectif en valeurs
-mobilières agréé conformément à la directive 2009/65/ CE du Parlement européen
-et du Conseil du 13 juillet 2009, qui veut exercer ses activités sur le
-territoire d'un autre Etat membre de l'Union européenne ou partie à l'accord sur
-l'Espace économique européen en libre prestation de services, le déclare à
-l'Autorité des marchés financiers dans les conditions et selon des modalités
-fixées par décret en Conseil d'Etat.
+Saint-Martin et autorisée à gérer un OPCVM agréé conformément à la directive
+2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009, qui veut
+exercer ses activités sur le territoire d'un autre Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen en libre
+prestation de services, le déclare à l'Autorité des marchés financiers dans les
+conditions et selon des modalités fixées par décret en Conseil d'Etat.
 
 L'Autorité des marchés financiers communique, dans un délai d'un mois à compter
 de la réception de toutes les informations requises dans la déclaration prévue

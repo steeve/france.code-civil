@@ -1,20 +1,11 @@
 Article L214-95
 ----
-Un organisme de placement collectif immobilier peut contracter des emprunts dans
-la limite de 50 % de la valeur des actifs immobiliers mentionnés aux a à c du I
-de l'article L. 214-92.
+La société de gestion propose à l'assemblée générale, après audition du rapport
+des commissaires aux comptes, soit la diminution du prix de la part sous réserve
+que celui-ci ne soit pas diminué de plus de 30 %, soit la cession partielle ou
+totale du patrimoine. De telles cessions sont réputées répondre aux conditions
+définies par l'article L. 214-114.
 
-Pour l'appréciation de cette limite, il est tenu compte de l'ensemble des
-emprunts et dettes souscrits par l'organisme de placement collectif immobilier
-et par les sociétés visées aux b et c du I de l'article L. 214-92, à concurrence
-du pourcentage de participation détenue directement ou indirectement par
-l'organisme dans ces sociétés.
-
-Les obligations relatives à l'information des actionnaires et des porteurs de
-parts sur les conditions dans lesquelles l'organisme de placement collectif
-immobilier peut recourir à l'endettement sont précisées par le règlement général
-de l'Autorité des marchés financiers.
-
-Les conditions d'application du présent article, notamment en ce qui concerne la
-capacité et la nature de l'endettement, sont fixées par décret en Conseil
-d'Etat.
+Les rapports de la société de gestion, des commissaires aux comptes ainsi que
+les projets de résolution de l'assemblée générale sont transmis à l'Autorité des
+marchés financiers un mois avant la date de l'assemblée générale.

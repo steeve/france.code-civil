@@ -22,16 +22,14 @@ de 75 % de leurs actifs en titres et droits mentionnés aux a, b et c du 1° ;
 b) De parts de fonds communs de placement qui emploient plus de 75 % de leurs
 actifs en titres et droits mentionnés aux a, b et c du 1° ;
 
-c) De parts ou actions d'organismes de placement collectif en valeurs mobilières
-établis dans d'autres Etats membres de l'Union européenne ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen ayant conclu avec la France
-une convention d'assistance administrative en vue de lutter contre la fraude et
-l'évasion fiscales, qui bénéficient de la procédure de reconnaissance mutuelle
-des agréments prévue par la directive 85/611/ CE du Conseil du 20 décembre 1985
-portant coordination des dispositions législatives, réglementaires et
-administratives concernant certains organismes de placement collectif en valeurs
-mobilières (OPCVM) et qui emploient plus de 75 % de leurs actifs en titres et
-droits mentionnés aux a, b et c du 1° ;
+c) De parts ou actions d' OPCVM établis dans d'autres Etats membres de l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales, qui bénéficient de la
+procédure de reconnaissance mutuelle des agréments prévue par la directive
+2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 et qui
+emploient plus de 75 % de leurs actifs en titres et droits mentionnés aux a, b
+et c du 1° ;
 
 3° Les sommes versées sur un plan d'épargne en actions peuvent également être
 employées dans un contrat de capitalisation en unités de compte régi par le code
@@ -60,7 +58,7 @@ bis du code général des impôts ;
 bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2°
 quinquies de l'article 83, des articles 83 ter, 199 unvicies, 199 undecies (1),
 199 undecies A et 199 terdecies A, du II bis de l'article 80 bis du code général
-des impôts , ainsi que du deuxième alinéa du II de l'article 726 du même code ne
+des impôts, ainsi que du deuxième alinéa du II de l'article 726 du même code ne
 peuvent figurer dans le plan. Ne peuvent pas non plus figurer dans le plan les
 parts de fonds communs de placement à risques, les actions de sociétés de
 capital-risque et les titres des entités mentionnées au dernier alinéa du 8 du

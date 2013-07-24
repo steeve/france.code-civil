@@ -1,7 +1,5 @@
 Article L214-142
 ----
-Les porteurs de parts ou leurs ayants droit ne peuvent provoquer le partage du
-fonds de placement immobilier.
-
-Les porteurs de parts ne sont tenus des dettes de la copropriété qu'à
-concurrence de l'actif du fonds et proportionnellement à leur quote-part.
+Lorsqu'un fonds de fonds alternatifs est un FIA maître, les règles de détention
+d'investissement, de démarchage et de commercialisation du FIA nourricier sont
+celles du FIA maître.

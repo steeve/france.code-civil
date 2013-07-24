@@ -1,17 +1,20 @@
 Article L214-110
 ----
-I.-Le commissaire aux comptes certifie les comptes annuels de l'organisme de
-placement collectif immobilier. Dans des conditions définies par décret en
-Conseil d'Etat, il fait rapport selon le cas à l'assemblée générale de la
-société de placement à prépondérance immobilière à capital variable ou à la
-société de gestion du fonds de placement immobilier sur les opérations de
-fusion, d'apports en nature, de distribution d'acomptes, de scission, de
-dissolution et de liquidation de l'organisme de placement collectif immobilier.
+Le contrôle est exercé par un ou plusieurs commissaires aux comptes.
 
-Dans des conditions fixées par décret en Conseil d'Etat, il certifie, avant
-publication ou diffusion, l'exactitude de l'information périodique mentionnée à
-l'article L. 214-109.
+Les commissaires aux comptes portent à la connaissance de l'Autorité des marchés
+financiers les irrégularités et inexactitudes relevées par eux dans
+l'accomplissement de leur mission.
 
-II.-Les dispositions de l'article L. 214-18 s'appliquent dans les mêmes
-conditions au commissaire aux comptes de l'organisme de placement collectif
-immobilier.
+Ils sont responsables dans les conditions prévues à l'article L. 822-17 du code
+de commerce. Ils ne sont pas civilement responsables des infractions commises
+par les personnes qui gèrent, dirigent ou administrent la société, sauf si, en
+ayant eu connaissance, ils ne les ont pas révélées dans leur rapport à
+l'assemblée générale.
+
+Les actions en responsabilité contre les commissaires aux comptes se prescrivent
+dans les conditions prévues à l'article L. 225-254 du code de commerce.
+
+Aucune réévaluation d'actif ne peut être effectuée sans qu'un rapport spécial à
+l'assemblée générale ait été préalablement présenté par les commissaires aux
+comptes et approuvé par celle-ci.

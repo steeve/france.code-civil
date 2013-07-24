@@ -6,8 +6,8 @@ Sont exemptés des obligations mentionnées à l'article L. 823-19 :
 la personne ou l'entité qui les contrôle est elle-même soumise aux dispositions
 de l'article L. 823-19 ;
 
-2° Les organismes de placement collectif mentionnés à l'article L. 214-1 du code
-monétaire et financier ;
+2° Les placements collectifs mentionnés au chapitre IV du titre Ier du livre II
+du code monétaire et financier ;
 
 3° Les établissements de crédit dont les titres ne sont pas admis à la
 négociation sur un marché réglementé et qui n'ont émis, de manière continue ou

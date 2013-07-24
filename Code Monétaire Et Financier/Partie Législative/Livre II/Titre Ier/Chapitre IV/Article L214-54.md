@@ -1,9 +1,18 @@
 Article L214-54
 ----
-A concurrence de 15 % au moins, le capital maximum des sociétés civiles de
-placement immobilier, tel qu'il est fixé par leurs statuts, doit être souscrit
-par le public dans un délai d'une année après la date d'ouverture de la
-souscription.
+I.-Le commissaire aux comptes certifie les comptes annuels de l'organisme de
+placement collectif immobilier. Dans des conditions définies par décret en
+Conseil d'Etat, il établit un rapport destiné, selon le cas, à l'assemblée
+générale de la société de placement à prépondérance immobilière à capital
+variable ou à la société de gestion du fonds de placement immobilier, sur les
+opérations de fusion, d'apports en nature, de distribution d'acomptes, de
+scission, de dissolution et de liquidation de l'organisme de placement collectif
+immobilier.
 
-S'il n'est pas satisfait à cette obligation, la société est dissoute et les
-associés sont remboursés du montant de leur souscription.
+Dans des conditions fixées par décret en Conseil d'Etat, il certifie, avant
+publication ou diffusion, l'exactitude de l'information périodique mentionnée à
+l'article L. 214-53.
+
+II.-Les dispositions de l'article L. 214-24-53 s'appliquent dans les mêmes
+conditions au commissaire aux comptes de l'organisme de placement collectif
+immobilier.

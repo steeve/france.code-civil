@@ -1,5 +1,6 @@
 Article L214-58
 ----
-Les dispositions du second alinéa de l'article 1865 du code civil relatives à la
-publication des cessions de parts sociales ne sont pas applicables aux sociétés
-civiles de placement immobilier.
+Les sociétés de placement à prépondérance immobilière à capital variable ou les
+sociétés de gestion du fonds fournissent aux experts externes en évaluation
+qu'elles ont désignés tous les documents, informations et moyens d'investigation
+utiles à l'exercice de leur mission.

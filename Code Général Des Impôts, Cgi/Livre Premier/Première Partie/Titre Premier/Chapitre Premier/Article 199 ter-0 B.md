@@ -2,11 +2,11 @@ Article 199 ter-0 B
 ----
 Les porteurs de parts d'un fonds de placement immobilier mentionné à l'article
 239 nonies peuvent effectuer l'imputation de tout ou partie des crédits d'impôt
-attachés aux revenus et profits mentionnés à l'article L. 214-140 du code
+attachés aux revenus et profits mentionnés à l'article L. 214-81 du code
 monétaire et financier compris dans ce fonds.
 
 Pour chaque année, la société de gestion du fonds mentionnée à l'article L.
-214-119 du même code calcule la somme totale à l'imputation de laquelle les
+214-61 du même code calcule la somme totale à l'imputation de laquelle les
 revenus encaissés et les profits réalisés par le fonds donnent droit.
 
 Le droit à imputation par chaque porteur est déterminé en proportion de sa

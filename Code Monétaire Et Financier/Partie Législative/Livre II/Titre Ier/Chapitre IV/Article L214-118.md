@@ -1,22 +1,11 @@
 Article L214-118
 ----
-I.-Le dépositaire a pour mission :
+Dans les conditions fixées par décret en Conseil d'Etat, une société civile de
+placement immobilier peut transmettre son patrimoine par voie de scission à des
+organismes de placement collectif immobilier quelle qu'en soit la forme.
 
-1° La conservation et le contrôle de l'inventaire des actifs de l'organisme de
-placement collectif immobilier à l'exclusion des actifs mentionnés au a du I de
-l'article L. 214-92 et des créances d'exploitation ;
-
-2° Le contrôle de l'inventaire des actifs de l'organisme de placement collectif
-immobilier mentionnés au a du I de l'article L. 214-92 et des créances
-d'exploitation ;
-
-3° De s'assurer de la régularité des décisions de la société de placement à
-prépondérance immobilière à capital variable et de la société de gestion.
-
-L'étendue et les modalités d'accomplissement des missions du dépositaire sont
-définies dans le règlement général de l'Autorité des marchés financiers.
-
-II.-Le dépositaire assure également pour le compte de l'ensemble des porteurs de
-parts, le cas échéant, le paiement, dans les conditions prévues par le code
-général des impôts, de l'impôt sur les plus-values immobilières réalisées
-directement ou indirectement par le fonds de placement immobilier.
+Préalablement à la scission, les sociétés civiles de placement immobilier sont,
+par dérogation à l'article L. 214-114, autorisées, le cas échéant, à faire
+apport de tout ou partie de leur patrimoine à des sociétés civiles nouvelles,
+afin que les parts de ces dernières soient transmises dès que possible aux
+organismes de placement collectif immobilier dans le cadre de la scission.

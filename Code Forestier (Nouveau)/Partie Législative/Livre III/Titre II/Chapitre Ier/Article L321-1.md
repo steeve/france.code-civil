@@ -36,8 +36,8 @@ rassemblement des données françaises, européennes et internationales, notamme
 Favoriser les échanges entre les organismes participant au développement de la
 forêt en France et sur le territoire de l'Union européenne et des pays tiers ;
 11° Donner un avis sur l'agrément des sociétés de gestion des sociétés d'épargne
-forestière en application de l'article L. 214-87 du code monétaire et financier.
-Il peut être consulté par les pouvoirs publics et émettre des propositions sur
-toutes les questions relatives à la filière forêt-bois, au développement durable
-des forêts et de leurs fonctions économiques, environnementales et sociales, et
-à leur contribution à l'aménagement rural.
+forestière en application de l'article L. 214-124 du code monétaire et
+financier. Il peut être consulté par les pouvoirs publics et émettre des
+propositions sur toutes les questions relatives à la filière forêt-bois, au
+développement durable des forêts et de leurs fonctions économiques,
+environnementales et sociales, et à leur contribution à l'aménagement rural.

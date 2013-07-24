@@ -1,7 +1,6 @@
 Article L214-100
 ----
-Dans les conditions et selon les modalités fixées par le règlement général de
-l'Autorité des marchés financiers, tout porteur ou actionnaire doit informer la
-personne mentionnée dans le document d'information prévu au III de l'article L.
-214-91 dès lors qu'il franchit le seuil de 10 % des parts ou actions de
-l'organisme de placement collectif immobilier.
+Toute personne qui, directement ou par personne interposée, exerce en fait la
+direction, l'administration ou la gestion sous le couvert ou au lieu et place
+des représentants légaux de la société est soumise aux mêmes obligations et
+éventuellement passible des mêmes sanctions que ces représentants eux-mêmes.

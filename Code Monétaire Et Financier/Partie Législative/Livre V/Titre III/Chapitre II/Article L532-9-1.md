@@ -23,6 +23,9 @@ selon les cas, d'une autorisation préalable de l'Autorité des marchés
 financiers, d'une déclaration ou d'une notification, dans les conditions fixées
 par le règlement général de l'Autorité des marchés financiers.
 
+L'Autorité des marchés financiers statue sur la demande d'autorisation dans un
+délai fixé par décret.
+
 En cas de défaut d'information préalable concernant toute modification dans la
 structure de l'actionnariat d'une société de gestion de portefeuille et sans
 préjudice des dispositions de l'article L. 233-14 du code de commerce,

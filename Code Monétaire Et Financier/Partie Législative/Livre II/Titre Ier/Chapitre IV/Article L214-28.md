@@ -6,8 +6,9 @@ donnant accès au capital de sociétés, qui ne sont pas admis aux négociations
 un marché d'instruments financiers français ou étranger, dont le fonctionnement
 est assuré par une entreprise de marché ou un prestataire de services
 d'investissement ou tout autre organisme similaire étranger, ou, par dérogation
-à l'article L. 214-8, de parts de sociétés à responsabilité limitée ou de
+à l'article L. 214-24-34, de parts de sociétés à responsabilité limitée ou de
 sociétés dotées d'un statut équivalent dans l'Etat où elles ont leur siège.
+
 II.-L'actif peut également comprendre :
 
 1° Dans la limite de 15 %, les avances en compte courant consenties, pour la
@@ -44,7 +45,7 @@ d'investissement de 50 % pendant une durée de cinq ans à compter de leur
 admission. Le délai de cinq ans n'est toutefois pas applicable si les titres de
 la société admis à la cotation répondent aux conditions du III à la date de
 cette cotation et si le fonds respecte, compte tenu de ces titres, la limite de
-20 % mentionnée audit III.
+20 % mentionnée à ce III.
 
 V.-Le quota d'investissement de 50 % doit être respecté au plus tard lors de
 l'inventaire de clôture de l'exercice suivant l'exercice de la constitution du
@@ -65,7 +66,7 @@ de remboursement n'ont pas été satisfaites dans le délai d'un an.
 VIII.-Les parts peuvent donner lieu à des droits différents sur l'actif net ou
 sur les produits du fonds dans des conditions fixées par le règlement du fonds.
 Les parts peuvent également être différenciées selon les dispositions prévues au
-deuxième alinéa de l'article L. 214-4.
+deuxième alinéa de l'article L. 214-24-25.
 
 IX.-Le règlement d'un fonds commun de placement à risques peut prévoir une ou
 plusieurs périodes de souscription à durée déterminée. La société de gestion ne

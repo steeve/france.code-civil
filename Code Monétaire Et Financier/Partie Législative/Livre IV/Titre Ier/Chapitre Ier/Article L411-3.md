@@ -13,10 +13,11 @@ dont la France fait partie ;
 3. De titres financiers émis par la Banque centrale européenne ou la banque
 centrale d'un Etat partie à l'accord sur l'Espace économique européen ;
 
-4. De titres financiers émis par un organisme mentionné au 1 ou au 5 du I de
-l'article L. 214-1 ;
+4. De titres financiers émis par un OPCVM ou un FIA relevant des paragraphes 1,
+2, 3 et 6 de la sous-section 2, de la sous-section 3 et de la sous-section 4 de
+la section 2 du chapitre IV du titre Ier du livre II ;
 
-5. De titres de créances négociables d'une durée inférieure ou égale à un an .
+5. De titres de créances négociables d'une durée inférieure ou égale à un an ;
 
 6. De titres financiers, autres que des titres de capital, émis d'une manière
 continue ou répétée par un établissement de crédit, lorsque le montant total de

@@ -7,4 +7,5 @@ Elles sont également applicables à ces personnes et entités, sous réserve de
 règles propres à celles-ci, quel que soit leur statut juridique.
 
 Pour l'application du présent titre, le terme : " entité " désigne les fonds
-mentionnés aux articles L. 214-8 et L. 214-43 du code monétaire et financier.
+mentionnés aux articles L. 214-8, L. 214-24-34 et L. 214-169 du code monétaire
+et financier.

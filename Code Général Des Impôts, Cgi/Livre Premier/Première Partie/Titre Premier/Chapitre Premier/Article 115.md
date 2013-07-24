@@ -9,7 +9,7 @@ Ces dispositions s'appliquent aux opérations de fusion ou de scission de
 sociétés de placement à prépondérance immobilière à capital variable mentionnées
 au 3° nonies de l'article 208, sous réserve que la société bénéficiaire des
 apports s'engage, dans l'acte de fusion, à se substituer à la société absorbée
-pour les obligations de distribution prévues au II de l'article L. 214-128 du
+pour les obligations de distribution prévues au II de l'article L. 214-69 du
 code monétaire et financier. En cas de scission, ces obligations doivent être
 reprises par les sociétés bénéficiaires des apports au prorata du montant de
 l'actif réel apporté, apprécié à la date d'effet de l'opération.

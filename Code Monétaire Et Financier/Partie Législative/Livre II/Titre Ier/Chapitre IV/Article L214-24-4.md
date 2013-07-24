@@ -1,5 +1,9 @@
 Article L214-24-4
 ----
-Le règlement général de l'Autorité des marchés financiers fixe les catégories
-d'organismes de placement collectif en valeurs mobilières régis par la présente
-sous-section pour lesquels le III de l'article L. 214-23 est applicable.
+Le FIA ou sa société de gestion veille à ce qu'un dépositaire unique soit
+désigné.
+
+Dans les conditions fixées par le règlement général de l'Autorité des marchés
+financiers, la désignation du dépositaire est matérialisée par un contrat écrit.
+Ce contrat définit notamment les informations nécessaires pour permettre au
+dépositaire de remplir ses fonctions.

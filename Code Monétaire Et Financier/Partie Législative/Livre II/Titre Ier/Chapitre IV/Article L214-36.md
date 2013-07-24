@@ -1,32 +1,92 @@
 Article L214-36
 ----
-Par dérogation aux dispositions des articles L. 214-7, L. 214-8 et L. 214-20, un
-organisme de placement collectif en valeurs mobilières contractuel peut investir
-dans des biens s'ils satisfont aux règles suivantes :
+I.-Dans les conditions fixées par décret en Conseil d'Etat, l'actif d'un
+organisme de placement collectif immobilier est exclusivement constitué :
 
-1° La propriété du bien est fondée, soit sur une inscription, soit un acte
-authentique, soit sur un acte sous seing privé dont la valeur probatoire est
-reconnue par la loi française ;
+1° Des immeubles construits ou acquis, en vue de la location, des droits réels
+portant sur de tels biens et énumérés par le décret en Conseil d'Etat mentionné
+à l'alinéa précédent et des droits détenus en qualité de crédit-preneur
+afférents à des contrats de crédit-bail portant sur de tels biens ;
 
-2° Le bien ne fait l'objet d'aucune sûreté autre que celles éventuellement
-constituées pour la réalisation de l'objectif de gestion de l'organisme ;
+2° Des parts de sociétés de personnes qui ne sont pas admises aux négociations
+sur un marché mentionné aux articles L. 421-1, L. 422-1 et L. 423-1 et qui
+satisfont aux conditions suivantes :
 
-3° Le bien fait l'objet d'une valorisation fiable sous forme d'un prix calculé
-de façon précise et établi régulièrement, qui est soit un prix de marché, soit
-un prix fourni par un système de valorisation permettant de déterminer la valeur
-à laquelle l'actif pourrait être échangé entre des parties avisées et
-contractant en connaissance de cause dans le cadre d'une transaction effectuée
-dans des conditions normales de concurrence ;
+a) Les associés répondent du passif au-delà de leurs apports sauf dans les cas
+où, en application de l'article L. 214-89 ou d'une disposition équivalente de
+droit étranger, ils ne sont tenus du passif que dans la limite de leurs apports
+;
 
-4° La liquidité du bien permet à l'organisme de respecter ses obligations en
-matière d'exécution des rachats vis-à-vis de ses porteurs et actionnaires
-définies par ses statuts ou son règlement.
+b) L'actif est principalement constitué d'immeubles acquis ou construits en vue
+de la location, de droits réels portant sur de tels biens, de droits détenus en
+qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur
+des immeubles en vue de leur location, ou de participations directes ou
+indirectes dans des sociétés répondant aux conditions du présent 2° ;
 
-Par dérogation à l'article L. 214-10, le dépositaire de l'organisme de placement
-collectif en valeurs mobilières contractuel ne conserve que les actifs
-mentionnés à l'article L. 214-20. Pour les autres actifs, il conserve la preuve
-de l'existence de ceux-ci apportée dans les conditions mentionnées au 1°.
+c) Les autres actifs sont des avances en compte courant consenties à des
+sociétés mentionnées aux 2° et 3°, des créances résultant de leur activité
+principale, des liquidités mentionnées au 9° ou des instruments financiers à
+caractère liquide mentionnés au 8° ;
 
-Il prend la forme d'une SICAV ou d'un fonds commun de placement. Selon le cas,
-sa dénomination est alors respectivement " société d'investissement
-contractuelle " ou " fonds d'investissement contractuel ".
+d) Les instruments financiers qu'elles émettent ne sont pas admis aux
+négociations sur un marché mentionné aux articles L. 421-1, L. 422-1 et L. 423-1
+;
+
+3° Des parts de sociétés de personnes autres que celles mentionnées au 2°, des
+parts ou des actions de sociétés autres que des sociétés de personnes qui ne
+sont pas admises aux négociations sur un marché mentionné aux articles L. 421-1,
+L. 422-1 et L. 423-1. Ces sociétés satisfont aux conditions suivantes :
+
+a) La responsabilité des associés ou actionnaires est limitée au montant de
+leurs apports ;
+
+b) L'actif est principalement constitué d'immeubles acquis ou construits en vue
+de la location, de droits réels portant sur de tels biens, de droits détenus en
+qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur
+des immeubles en vue de leur location ou de participations directes ou
+indirectes dans des sociétés répondant aux conditions des a, b et d du 2° ou du
+présent 3° ou d'avances en compte courant consenties à des sociétés mentionnées
+au 2° ou au présent 3° ;
+
+c) Les instruments financiers qu'elles émettent ne sont pas admis aux
+négociations sur un marché mentionné aux articles L. 421-1, L. 422-1 et L. 423-1
+;
+
+4° Des actions négociées sur un marché mentionné aux articles L. 421-1, L. 422-1
+et L. 423-1 et émises par une société dont l'actif est principalement constitué
+d'immeubles acquis ou construits en vue de la location, de droits réels portant
+sur de tels biens, de droits détenus en qualité de crédit-preneur afférents à
+des contrats de crédit-bail portant sur des immeubles en vue de leur location ou
+de participations directes ou indirectes dans des sociétés dont l'actif répond
+aux mêmes conditions ;
+
+5° Des parts ou actions d'organisme de placement collectif immobilier et
+d'organismes de placement collectif immobilier professionnel et de parts,
+actions ou droits détenus dans des organismes de droit étranger ayant un objet
+équivalent, quelle que soit leur forme ;
+
+6° Des titres financiers mentionnés au II de l'article L. 211-1 et à l'article
+L. 211-41 admis aux négociations sur un marché mentionné aux articles L. 421-1,
+L. 422-1 et L. 423-1 ainsi que des instruments financiers à terme dans les
+conditions fixées à l'article L. 214-38 ;
+
+7° Des parts ou actions d'organismes de placement collectif en valeurs
+mobilières relevant de la section 1 du présent chapitre ou de FIA relevant de
+l'article L. 214-24-24 ou autorisés à la commercialisation en France ;
+
+8° Des dépôts et des instruments financiers liquides définis par décret en
+Conseil d'Etat ;
+
+9° Des liquidités définies par décret en Conseil d'Etat ;
+
+10° Des avances en compte courant consenties en application de l'article L.
+214-42.
+
+Un décret en Conseil d'Etat définit les règles de dispersion et de plafonnement
+des risques, notamment en matière de construction, applicables à l'organisme de
+placement collectif immobilier.
+
+II.-Un organisme de placement collectif immobilier et les sociétés mentionnées
+au b du I ne peuvent détenir d'actions, parts, droits financiers ou droits de
+vote dans une entité, quelle que soit sa forme, dont les associés ou membres
+répondent indéfiniment et solidairement des dettes de l'entité.

@@ -1,10 +1,7 @@
 Article L214-41
 ----
-Une SICAV peut avoir pour objet la gestion d'un portefeuille de titres
-financiers émis par l'entreprise ou par toute société qui lui est liée dans les
-conditions prévues à l'article L. 3332-15 du code du travail. Les cinquième et
-sixième alinéas de l'article L. 214-40 s'appliquent à son conseil
-d'administration. Les statuts prévoient que les dividendes et les coupons
-attachés aux titres compris à l'actif de la société sont distribués aux
-actionnaires, à leur demande expresse, suivant des modalités qu'ils déterminent.
-Ils prévoient, le cas échéant, différentes catégories d'actions.
+Dans des limites et conditions fixées par un décret en Conseil d'Etat, un
+organisme de placement collectif immobilier peut consentir sur ses actifs des
+garanties nécessaires à la conclusion des contrats relevant de son activité,
+notamment ceux relatifs à la mise en place des emprunts mentionnés aux articles
+L. 214-39 et L. 214-40 et ceux mentionnés à l'article L. 214-38.

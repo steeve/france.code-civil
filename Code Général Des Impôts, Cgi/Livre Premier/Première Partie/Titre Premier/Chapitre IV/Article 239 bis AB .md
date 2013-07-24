@@ -12,14 +12,18 @@ sociétés de personnes mentionné à l'article 8.
 
 Pour la détermination des pourcentages mentionnés au premier alinéa, les
 participations de sociétés de capital-risque, des fonds communs de placement à
-risques, des sociétés de développement régional, des sociétés financières
-d'innovation et des sociétés unipersonnelles d'investissement à risque ou de
-structures équivalentes établies dans un autre Etat de la Communauté européenne
-ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale
-qui contient une clause d'assistance administrative en vue de lutter contre la
-fraude ou l'évasion fiscale ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces sociétés, fonds ou structures équivalentes.
+risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
+2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs,
+des fonds professionnels de capital investissement, des sociétés de
+développement régional, des sociétés financières d'innovation et des sociétés
+unipersonnelles d'investissement à risque ou de structures équivalentes établies
+dans un autre Etat de la Communauté européenne ou dans un Etat ou territoire
+ayant conclu avec la France une convention fiscale qui contient une clause
+d'assistance administrative en vue de lutter contre la fraude ou l'évasion
+fiscale ne sont pas prises en compte à la condition qu'il n'existe pas de lien
+de dépendance au sens du 12 de l'article 39 entre la société en cause et ces
+sociétés, fonds ou structures équivalentes.
 
 Pour l'application du 1° du II de l'article 163 quinquies B, du 1 du I de
 l'article 208 D, du premier alinéa du I de l'article L. 214-30 et du premier

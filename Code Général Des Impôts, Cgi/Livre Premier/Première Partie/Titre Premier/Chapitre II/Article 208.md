@@ -5,7 +5,7 @@ Sont également exonérés de l'impôt sous réserve des dispositions de l'artic
 
 1° (Abrogé à compter du 1er janvier 1993) ;
 
-1° bis-Les sociétés d'investissement qui sont régies par les articles L. 214-147
+1° bis-Les sociétés d'investissement qui sont régies par les articles L. 214-127
 et suivants du code monétaire et financier, pour la partie des bénéfices
 provenant des produits nets de leur portefeuille ou des plus-values qu'elles
 réalisent sur la vente des titres ou parts sociales faisant partie de ce
@@ -13,8 +13,7 @@ portefeuille. Ces sociétés cesseront de bénéficier des dispositions du prés
 alinéa trois ans après leur création, si leurs actions ne sont pas admises aux
 négociations sur un marché réglementé avant ce délai ;
 
-1° bis A-Les sociétés d'investissement à capital variable régies par les
-articles L. 214-2 et suivants du code monétaire et financier pour les bénéfices
+1° bis A-Les sociétés d'investissement à capital variable pour les bénéfices
 réalisés dans le cadre de leur objet légal ;
 
 1° ter-Les sociétés de développement régional constituées et fonctionnant
@@ -26,7 +25,7 @@ vente des titres ou parts sociales faisant partie de ce portefeuille ;
 1° quater et 1° quinquies (Abrogés à compter du 1er janvier 1993) ;
 
 2° Les sociétés ayant pour objet exclusif la gestion d'un portefeuille de
-valeurs mobilières qui sont régies par les articles L. 214-147 et suivants du
+valeurs mobilières qui sont régies par les articles L. 214-127 et suivants du
 code monétaire et financier, pour les plus-values qu'elles réalisent sur la
 cession de titres ou de parts sociales faisant partie de ce portefeuille ;
 
@@ -132,7 +131,7 @@ services accessoires qu'elles réalisent ;
 cadre de leur objet légal ;
 
 3° nonies-Les sociétés de placement à prépondérance immobilière à capital
-variable régies par les articles L. 214-89 et suivants du code monétaire et
+variable régies par les articles L. 214-33 et suivants du code monétaire et
 financier ;
 
 4° (abrogé) ;

@@ -29,8 +29,10 @@ investir, conformément à une politique d'investissement définie, dans l'inté
 de ces investisseurs ;
 
 2° Présenter des caractéristiques similaires à celles d'organismes de placement
-collectif de droit français relevant des 1,5 ou 6 du I de l'article L. 214-1 du
-code monétaire et financier.
+collectif de droit français relevant de la section 1, des paragraphes 1, 2, 3, 5
+et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe
+1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV
+du titre Ier du livre II du code monétaire et financier.
 
 La retenue à la source s'applique également lorsque ces produits sont payés hors
 de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A
@@ -63,9 +65,12 @@ siège en France, donnent lieu à l'application d'une retenue à la source au ta
 prévu au 2° de l'article 219 bis lorsqu'ils sont prélevés sur des résultats
 exonérés en application de l'article 208 C ou du 3° nonies de l'article 208 et
 qu'ils bénéficient à des organismes de placement collectif de droit français
-relevant des 1,5 ou 6 du I de l'article L. 214-1 du code monétaire et financier
-ou à ceux constitués sur le fondement d'un droit étranger mentionnés au premier
-alinéa et satisfaisant aux conditions prévues aux 1° et 2° du présent 2.
+relevant de la section 1, des paragraphes 1, 2, 3, 5 et 6 de la sous-section 2,
+du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou
+de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du
+code monétaire et financier ou à ceux constitués sur le fondement d'un droit
+étranger mentionnés au premier alinéa et satisfaisant aux conditions prévues aux
+1° et 2° du présent 2.
 
 La retenue à la source mentionnée à l'avant-dernier alinéa du présent 2 n'est
 pas libératoire de l'impôt sur le revenu ou de l'impôt sur les sociétés et ne

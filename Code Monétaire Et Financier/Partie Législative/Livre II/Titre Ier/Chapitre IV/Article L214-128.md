@@ -1,56 +1,18 @@
 Article L214-128
 ----
-I. - Les sommes distribuables par une société de placement à prépondérance
-immobilière à capital variable au titre d'un exercice sont constituées par :
+Le conseil d'administration ou le directoire de la SICAF fixe sa stratégie
+d'investissement dans des conditions définies par décret. Cette stratégie et la
+politique prévue en matière de distribution sont présentées dans les statuts de
+la SICAF et reproduites dans le rapport annuel mentionné à l'article L. 225-100
+du code de commerce. La stratégie d'investissement doit être respectée à tout
+moment. Elle peut prévoir que l'actif de la SICAF sera investi en tout ou partie
+en actions ou parts d'un autre placement collectif ou fonds d'investissement
+étranger relevant de la présente section et en droits représentatifs d'un
+placement dans une entité n'ayant pas la personnalité morale émis sur le
+fondement d'un droit étranger, sous réserve que l'investissement soit compatible
+avec l'objectif de répartition des risques mentionné à l'article L. 214-127 du
+présent code.
 
-1° Le résultat distribuable afférent aux produits réalisés par la société qui
-est égal au résultat net mentionné à l'article L. 214-107, augmenté du report à
-nouveau, majoré ou diminué du solde des comptes de régularisation définis par
-décret ;
-
-2° Les plus-values réalisées lors de la cession des actifs mentionnés au a du I
-de l'article L. 214-92, des parts de sociétés mentionnées au b ou au c du I de
-cet article qui ne sont pas passibles de l'impôt sur les sociétés ou d'un impôt
-équivalent et des parts ou actions de sociétés mentionnées au c du I de ce même
-article lorsqu'elles bénéficient d'un régime d'exonération d'impôt sur les
-sociétés sur leur activité immobilière. Ces plus-values sont celles réalisées au
-cours de l'exercice, nettes de frais et diminuées des moins-values nettes de
-frais réalisées sur ces mêmes actifs au cours du même exercice, augmentées des
-plus-values nettes de même nature réalisées au cours d'exercices antérieurs
-n'ayant pas fait l'objet d'une distribution et majorées ou diminuées du solde
-des comptes de régularisation définis par décret.
-
-II. - La société distribue à hauteur des sommes définies au I :
-
-1° A hauteur de 85 % au moins, la fraction du résultat distribuable afférent aux
-produits des actifs mentionnés au a du I de l'article L. 214-92, au titre de
-l'exercice de leur réalisation. Pour la détermination du montant à distribuer,
-les produits nets sont diminués d'un abattement forfaitaire égal à 1,5 % du prix
-de revient des immeubles mentionnés au a du I de l'article L. 214-92 détenus
-directement par la société ;
-
-2° A hauteur de 50 % au moins, les plus-values définies au 2° du I et réalisées
-au cours de l'exercice ou de l'exercice précédent. Pour la détermination du
-montant à distribuer, les plus-values nettes réalisées sur les immeubles
-mentionnés au a du I de l'article L. 214-92 détenus directement par la société
-sont augmentées de l'abattement forfaitaire pratiqué conformément au 1° depuis
-leur acquisition ;
-
-3° L'intégralité de la fraction du résultat distribuable afférent aux produits
-distribués par les sociétés mentionnée au c du I de l'article L. 214-92
-lorsqu'elles bénéficient d'un régime d'exonération d'impôt sur les sociétés sur
-leur activité immobilière au titre de l'exercice de leur réalisation.
-
-III. - Pour l'application des 1° et 2° du II, les produits et plus-values
-réalisés par une société mentionnée au b ou au c du I de l'article L. 214-92 et
-qui n'est pas passible de l'impôt sur les sociétés ou d'un impôt équivalent sont
-réputés réalisés, à concurrence de ses droits, par la société de placement à
-prépondérance immobilière à capital variable au titre de l'exercice qui suit
-celui au cours duquel la société mentionnée au b ou au c du I de l'article L.
-214-92 a réalisé les produits ou les plus-values.
-
-Ne sont pas pris en compte pour la détermination des montants à distribuer les
-produits et les plus-values relatifs à des actifs immobiliers situés hors de
-France lorsque les conventions fiscales conclues avec la France en vue d'éviter
-les doubles impositions en matière d'impôt sur les revenus prévoient
-l'imposition de ces produits et plus-values au lieu de situation des actifs.
+Les documents destinés à l'information du public mentionnent de manière claire
+que, sauf dans les cas prévus par les statuts, les actions ne peuvent être
+rachetées par la SICAF à la demande de ses actionnaires.

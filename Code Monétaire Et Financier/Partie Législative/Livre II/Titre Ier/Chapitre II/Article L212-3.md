@@ -2,9 +2,10 @@ Article L212-3
 ----
 I.-Sous réserve des dispositions de l'article L. 211-7, les actions émises en
 territoire français et soumises à la législation française, des sociétés par
-actions, autres que les SICAV ou les sociétés de placement à prépondérance
-immobilière à capital variable, qui ne sont pas admises aux négociations sur un
-marché réglementé revêtent la forme nominative.
+actions, autres que les SICAV, les sociétés de placement à prépondérance
+immobilière à capital variable ou les sociétés professionnelles de placement à
+prépondérance immobilière à capital variable, qui ne sont pas admises aux
+négociations sur un marché réglementé revêtent la forme nominative.
 
 II.-Cette obligation doit être satisfaite dans un délai de six mois à compter de
 la date d'émission des actions concernées ou de la date à laquelle celles-ci ont

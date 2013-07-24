@@ -1,16 +1,20 @@
 Article L214-114
 ----
-Dans les conditions précisées par le règlement général de l'Autorité des marchés
-financiers, chaque évaluateur immobilier est désigné par la société de placement
-à prépondérance immobilière à capital variable ou la société de gestion du fonds
-pour une durée de quatre ans après agrément de l'Autorité des marchés
-financiers.
+Les sociétés civiles de placement immobilier ont pour objet l'acquisition
+directe ou indirecte, y compris en l'état futur d'achèvement, et la gestion d'un
+patrimoine immobilier locatif.
 
-La société de placement à prépondérance immobilière à capital variable ou la
-société de gestion du fonds ne peut mettre fin aux fonctions de l'évaluateur
-immobilier avant le terme prévu au premier alinéa qu'après avoir obtenu l'accord
-de l'Autorité des marchés financiers.
+Dans les conditions fixées par décret en Conseil d'Etat, les sociétés civiles de
+placement immobilier ont également pour objet l'acquisition et la gestion
+d'immeubles qu'elles font construire exclusivement en vue de leur location.
 
-L'identité des évaluateurs immobiliers désignés est portée sur le document
-d'information, prévu par le règlement général de l'Autorité des marchés
-financiers, de l'organisme de placement collectif immobilier.
+Pour les besoins de cette gestion, elles peuvent procéder à des travaux de toute
+nature dans ces immeubles, notamment les opérations afférentes à leur
+construction, leur rénovation, leur entretien, leur réhabilitation, leur
+amélioration, leur agrandissement, leur reconstruction ou leur mise aux normes
+environnementales ou énergétiques. Elles peuvent acquérir des équipements ou
+installations nécessaires à l'utilisation des immeubles.
+
+Elles peuvent, en outre, céder des éléments de patrimoine immobilier dès lors
+qu'elles ne les ont pas achetés en vue de les revendre et que de telles cessions
+ne présentent pas un caractère habituel.

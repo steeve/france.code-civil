@@ -10,12 +10,15 @@ Les gains nets des cessions à titre onéreux d'actions, de parts de sociétés,
 droits portant sur ces parts ou actions ou de titres représentatifs de ces mêmes
 parts, actions ou droits, les compléments de prix mentionnés au 2 du I de
 l'article 150-0 A, ainsi que les distributions d'une fraction des actifs d'un
-fonds commun de placement à risques mentionnées au 7 et à l'avant-dernier alinéa
-du 8 du II du même article, les distributions de plus-values mentionnées au
-dernier alinéa du même 8, à l'article 150-0 F et au 1 du II de l'article 163
-quinquies C, pour lesquels le contribuable n'a pas opté pour l'imposition au
-taux forfaitaire de 19 % prévue au 2 bis de l'article 200 A, sont réduits d'un
-abattement égal à :
+fonds commun de placement à risques ou d'un fonds professionnel spécialisé
+relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction
+antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
+juridique de la gestion d'actifs ou d'un fonds professionnel de capital
+investissement mentionnées au 7 et à l'avant-dernier alinéa du 8 du II du même
+article, les distributions de plus-values mentionnées au dernier alinéa du même
+8, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, pour lesquels
+le contribuable n'a pas opté pour l'imposition au taux forfaitaire de 19 %
+prévue au 2 bis de l'article 200 A, sont réduits d'un abattement égal à :
 
 a) 20 % de leur montant lorsque les actions, parts, droits ou titres sont
 détenus depuis au moins deux ans et moins de quatre ans à la date de la cession
@@ -72,12 +75,12 @@ conditions prévues à l'article 238 quater Q :
 
 a) Lorsque le cédant est le constituant initial de la fiducie :
 
-- lorsque les actions, parts, droits ou titres ont été transférés par le
+-lorsque les actions, parts, droits ou titres ont été transférés par le
 constituant dans le patrimoine fiduciaire dans les conditions prévues à
 l'article 238 quater N, à partir de la date d'acquisition ou de souscription des
 actions, parts, droits ou titres par le constituant ;
 
-- lorsque les actions, parts, droits ou titres n'ont pas été transférés dans le
+-lorsque les actions, parts, droits ou titres n'ont pas été transférés dans le
 patrimoine fiduciaire dans les conditions prévues au même article 238 quater N,
 à partir de la date d'acquisition ou de souscription des actions, parts, droits
 ou titres par la fiducie ;
@@ -93,12 +96,15 @@ Le III de l'article 150-0 D ter est applicable dans les mêmes conditions à
 l'abattement prévu au présent 1.
 
 Pour les distributions d'une fraction des actifs d'un fonds commun de placement
-à risques mentionnées au 7 et à l'avant-dernier alinéa du 8 du II de l'article
-150-0 A et pour les distributions de plus-values mentionnées au dernier alinéa
-du même 8, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, la
-durée de détention est décomptée à partir de la date d'acquisition ou de
-souscription des titres du fonds, de l'entité ou de la société de capital-risque
-concerné.
+à risques ou d'un fonds professionnel spécialisé relevant de l'article L. 214-37
+du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
+2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs
+ou d'un fonds professionnel de capital investissement mentionnées au 7 et à
+l'avant-dernier alinéa du 8 du II de l'article 150-0 A et pour les distributions
+de plus-values mentionnées au dernier alinéa du même 8, à l'article 150-0 F et
+au 1 du II de l'article 163 quinquies C, la durée de détention est décomptée à
+partir de la date d'acquisition ou de souscription des titres du fonds, de
+l'entité ou de la société de capital-risque concerné.
 
 1 bis (Supprimé)
 
@@ -184,10 +190,14 @@ valeur d'acquisition des titres échangés, diminué de la soulte reçue ou majo
 de la soulte versée lors de l'échange.
 
 9 bis.-En cas de cession à titre onéreux ou de rachat de parts de fonds communs
-de placement à risques pour lesquelles le contribuable a perçu une distribution
-mentionnée au 7 du II de l'article 150-0 A, le prix d'acquisition ou de
-souscription est diminué à concurrence du montant des sommes ou valeurs ainsi
-distribuées qui n'a pas été imposé en application du même 7.
+de placement à risques ou de fonds professionnels spécialisés relevant de
+l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure
+à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs ou de fonds professionnels de capital investissement pour
+lesquelles le contribuable a perçu une distribution mentionnée au 7 du II de
+l'article 150-0 A, le prix d'acquisition ou de souscription est diminué à
+concurrence du montant des sommes ou valeurs ainsi distribuées qui n'a pas été
+imposé en application du même 7.
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un
 fonds commun de placement réalisée conformément à la réglementation en vigueur,
@@ -216,7 +226,7 @@ assimilés peuvent, sur option expresse du détenteur, être imputées dans les
 conditions prévues au 11, à compter de l'année au cours de laquelle intervient
 le jugement ordonnant la cession de l'entreprise en application de l'article L.
 631-22 du code de commerce, en l'absence de tout plan de continuation, ou
-prononçant sa liquidation judiciaire.L'option porte sur l'ensemble des valeurs
+prononçant sa liquidation judiciaire. L'option porte sur l'ensemble des valeurs
 mobilières, droits sociaux ou titres assimilés détenus dans la société faisant
 l'objet de la procédure collective. En cas d'infirmation du jugement ou de
 résolution du plan de cession, la perte imputée ou reportée est reprise au titre
@@ -238,7 +248,7 @@ l'encontre d'un contribuable ayant exercé l'option prévue au deuxième alinéa
 perte ainsi imputée ou reportée est reprise au titre de l'année de la
 condamnation.
 
-13.L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix
+13. L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix
 effectif d'acquisition des titres par le cédant ou, en cas d'acquisition à titre
 gratuit, de la valeur retenue pour l'assiette des droits de mutation. Lorsque
 les titres ont été reçus, à compter du 1er janvier 2000, dans le cadre d'une

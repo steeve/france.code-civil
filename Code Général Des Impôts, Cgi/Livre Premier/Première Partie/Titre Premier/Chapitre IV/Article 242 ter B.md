@@ -8,7 +8,7 @@ montant imposable en application des règles mentionnées aux articles 28 à 33
 quinquies.
 
 2. Pour l'application des dispositions du 1, la société de gestion du fonds de
-placement immobilier, mentionnée à l'article L. 214-119 du code monétaire et
+placement immobilier, mentionnée à l'article L. 214-61 du code monétaire et
 financier, fournit aux personnes mentionnées au 1 les informations nécessaires à
 l'identification des porteurs et à la détermination de la fraction des revenus
 distribués et de la fraction du revenu net imposable correspondant à leurs

@@ -1,6 +1,11 @@
 Article L214-141
 ----
-Par dérogation aux dispositions de l'article L. 214-108, la mise en paiement des
-sommes distribuables au titre des plus-values mentionnées au 2° du II de
-l'article L. 214-140 doit intervenir avant le dernier jour du sixième mois qui
-suit la cession des actifs susvisés.
+Le règlement général de l'Autorité des marchés financiers fixe les conditions de
+souscription, de cession et de rachat des parts ou des actions émises par un tel
+fonds.
+
+Par dérogation au troisième alinéa de l'article L. 214-24-29 et au premier
+alinéa de l'article L. 214-24-34, règlement ou les statuts du fonds de fonds
+alternatifs peuvent prévoir que le rachat des parts ou actions peut être
+plafonné, à chaque date d'établissement de la valeur liquidative, à une fraction
+des parts ou actions émises par le fonds.

@@ -1,9 +1,6 @@
 Article L214-60
 ----
-Le prix de souscription des parts est déterminé sur la base de la valeur de
-reconstitution définie à l'article L. 214-78.
-
-Tout écart entre le prix de souscription et la valeur de reconstitution des
-parts supérieur à 10 % doit être justifié par la société de gestion et notifié à
-l'Autorité des marchés financiers dans des conditions fixées par arrêté du
-ministre chargé de l'économie.
+Le dépositaire assure pour le compte de l'ensemble des porteurs de parts, le cas
+échéant, le paiement, dans les conditions prévues par le code général des
+impôts, de l'impôt sur les plus-values immobilières réalisées directement ou
+indirectement par le fonds de placement immobilier FPI.

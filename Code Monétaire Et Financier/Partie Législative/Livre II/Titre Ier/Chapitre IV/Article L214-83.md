@@ -1,5 +1,7 @@
 Article L214-83
 ----
-L'assemblée générale extraordinaire de la société absorbante statue sur
-l'évaluation des apports en nature, conformément aux dispositions de l'article
-L. 214-57.
+Les porteurs de parts ou leurs ayants droit ne peuvent provoquer le partage du
+fonds de placement immobilier.
+
+Les porteurs de parts ne sont tenus des dettes de la copropriété qu'à
+concurrence de l'actif du fonds et proportionnellement à leur quote-part.

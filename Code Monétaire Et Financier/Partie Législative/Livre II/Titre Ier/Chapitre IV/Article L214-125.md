@@ -1,12 +1,15 @@
 Article L214-125
 ----
-Les articles L. 224-1, L. 224-2, le deuxième alinéa de l'article L. 225-2, les
-articles L. 225-3 à L. 225-16, L. 225-25, L. 225-26, L. 225-258 à L. 225-270, le
-quatrième alinéa de l'article L. 227-1, les articles L. 227-13 à L. 227-16, L.
-227-18, L. 231-1 à L. 231-8, L. 233-8 et L. 441-6-1 du code de commerce ne sont
-pas applicables aux sociétés de placement à prépondérance immobilière à capital
-variable.
+Par dérogation au premier alinéa de l'article L. 214-101, un décret en Conseil
+d'Etat fixe les échanges, aliénations ou constitutions de droits réels portant
+sur le patrimoine forestier des sociétés d'épargne forestière qui relèvent des
+opérations normales de gestion et ne sont pas soumises à l'autorisation de
+l'assemblée générale ordinaire des associés.
 
-Les fusions transfrontalières des sociétés mentionnées à la présente
-sous-section ne sont pas régies par les articles L. 236-25 à L. 236-32 du code
-de commerce.
+Par dérogation au premier alinéa de l'article L. 214-117, une société d'épargne
+forestière peut également fusionner avec un groupement forestier gérant un
+patrimoine dont les forêts sont soumises à des plans simples de gestion agréés.
+La fusion est alors soumise à l'agrément de l'Autorité des marchés financiers.
+
+En outre, l'assemblée générale des associés approuve les plans simples de
+gestion des bois et forêts détenus par la société.

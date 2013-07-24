@@ -1,7 +1,5 @@
 Article L214-143
 ----
-Les conditions de liquidation ainsi que les modalités de la répartition des
-actifs sont déterminées par le règlement du fonds de placement immobilier. La
-société de gestion assume les fonctions de liquidateur sous le contrôle du
-dépositaire. A défaut, le liquidateur est désigné en justice à la demande de
-tout porteur de parts.
+Sauf dispositions contraires, les articles L. 214-24-24 à L. 214-24-27 et L.
+214-24-29 à L. 214-26-2 sont applicables aux FIA relevant du présent
+sous-paragraphe.

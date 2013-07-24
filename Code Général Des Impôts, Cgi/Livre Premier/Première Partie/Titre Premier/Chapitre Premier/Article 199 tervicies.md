@@ -89,7 +89,7 @@ travaux.
 
 IV bis.-1. La réduction d'impôt est applicable, dans les mêmes conditions, au
 titre de la souscription par les contribuables de parts de sociétés civiles de
-placement immobilier régies par les articles L. 214-50 et suivants du code
+placement immobilier régies par les articles L. 214-114 et suivants du code
 monétaire et financier dont la quote-part de revenu est, en application de
 l'article 8 du présent code, soumise en leur nom à l'impôt sur le revenu dans la
 catégorie des revenus fonciers.

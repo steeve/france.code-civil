@@ -1,21 +1,26 @@
 Article L214-120
 ----
-La société de placement à prépondérance immobilière à capital variable est une
-société anonyme ou une société par actions simplifiée à capital variable soumise
-aux règles de la présente sous-section.
+Dans les conditions définies par le règlement général de l'Autorité des marchés
+financiers, les sociétés de gestion des sociétés civiles de placement immobilier
+informent du régime des organismes de placement collectif immobilier défini au
+paragraphe 3 de la présente sous-section :
 
-Le siège social et l'administration centrale de la société de placement à
-prépondérance immobilière à capital variable sont situés en France.
+1° Les souscripteurs de parts de sociétés civiles de placement immobilier
+préalablement à leur souscription ou acquisition conformément aux dispositions
+des articles L. 214-93 et suivants ;
 
-Sous réserve des dispositions des articles L. 214-101 et L. 214-126 et dans les
-conditions fixées par le règlement général de l'Autorité des marchés financiers,
-les actions de la société de placement à prépondérance immobilière à capital
-variable sont émises et rachetées à la demande des actionnaires à la valeur
-liquidative majorée ou diminuée, selon le cas, des frais et commissions.
+2° Les associés de sociétés civiles de placement immobilier au plus tard dans
+les douze mois à compter de la publication de l'ordonnance n° 2005-1278 du 13
+octobre 2005 définissant le régime juridique des organismes de placement
+collectif immobilier et les modalités de transformation des sociétés civiles de
+placement immobilier en organismes de placement collectif immobilier.
 
-Le montant du capital est égal à tout moment à la valeur de l'actif net de la
-société de placement à prépondérance immobilière à capital variable, déduction
-faite des sommes distribuables définies au I de l'article L. 214-128.
+Cette information porte en particulier sur l'obligation qui est faite aux
+sociétés civiles de placement immobilier de convoquer une assemblée générale
+dans les conditions prévues à l'article L. 214-119 pour soumettre au vote des
+associés la possibilité de se placer sous ce régime.
 
-Le capital initial d'une société de placement à prépondérance immobilière à
-capital variable ne peut être inférieur à un montant fixé par décret.
+Cette information est sincère, complète et claire et est rédigée en des termes
+aisément accessibles et compréhensibles afin de permettre aux souscripteurs de
+parts ou aux associés de disposer des renseignements essentiels et nécessaires à
+la prise de leurs décisions en toute connaissance de cause.

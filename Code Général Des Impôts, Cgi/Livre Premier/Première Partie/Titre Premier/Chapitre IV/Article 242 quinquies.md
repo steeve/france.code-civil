@@ -1,11 +1,12 @@
 Article 242 quinquies
 ----
-I.-La société de gestion d'un fonds commun de placement à risques dont le
-règlement prévoit que les porteurs de parts pourront bénéficier des avantages
-fiscaux prévus au 2° du 5 de l'article 38 et aux articles 163 quinquies B, 150-0
-A, 209-0 A et 219 est tenue de souscrire et de faire parvenir au service des
-impôts auprès duquel elle souscrit sa déclaration de résultats une déclaration
-annuelle détaillée permettant d'apprécier :
+I.-La société de gestion d'un fonds commun de placement à risques ou d'un fonds
+professionnel de capital investissement dont le règlement prévoit que les
+porteurs de parts pourront bénéficier des avantages fiscaux prévus au 2° du 5 de
+l'article 38 et aux articles 163 quinquies B, 150-0 A, 209-0 A et 219 est tenue
+de souscrire et de faire parvenir au service des impôts auprès duquel elle
+souscrit sa déclaration de résultats une déclaration annuelle détaillée
+permettant d'apprécier :
 
 1° A la fin de chaque semestre de l'exercice, le quota d'investissement prévu au
 1° du II de l'article 163 quinquies B et la limite prévue au III de l'article L.

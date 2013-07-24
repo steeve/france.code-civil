@@ -1,53 +1,29 @@
 Article L214-154
 ----
-Par dérogation aux dispositions des titres II et III du livre II et du titre II
-du livre VIII du code de commerce :
+Un fonds professionnel spécialisé prend la forme d'une SICAV ou d'un fonds
+commun de placement. Selon le cas, sa dénomination est alors respectivement
+celle de " société d'investissement professionnelle spécialisée " ou de " fonds
+d'investissement professionnel spécialisé ".
 
-1° Les actions sont intégralement libérées dès leur émission ;
+Par dérogation aux articles L. 214-24-29, L. 214-24-34 et L. 214-24-55, un fonds
+professionnel spécialisé peut investir dans des biens s'ils satisfont aux règles
+suivantes :
 
-2° Tout apport en nature est apprécié sous sa responsabilité par le commissaire
-aux comptes ;
+1° La propriété du bien est fondée soit sur une inscription, soit sur un acte
+authentique, soit sur un acte sous seing privé dont la valeur probante est
+reconnue par la loi française ;
 
-3° L'assemblée générale ordinaire peut se tenir sans qu'un quorum soit requis ;
-il en est de même, sur deuxième convocation, de l'assemblée générale
-extraordinaire ;
+2° Le bien ne fait l'objet d'aucune sûreté autre que celles éventuellement
+constituées pour la réalisation de l'objectif de gestion du fonds professionnel
+spécialisé ;
 
-4° Une même personne physique peut exercer simultanément cinq mandats de
-directeur général, de membre du directoire ou de directeur général unique de
-SICAF. Les mandats de directeur général, de membre du directoire ou de directeur
-général unique exercés au sein d'une SICAF ne sont pas pris en compte pour les
-règles de cumul visées au livre II du code de commerce ;
+3° Le bien fait l'objet d'une valorisation fiable sous forme d'un prix calculé
+de façon précise et établi régulièrement, qui est soit un prix de marché, soit
+un prix fourni par un système de valorisation permettant de déterminer la valeur
+à laquelle l'actif pourrait être échangé entre des parties avisées et
+contractant en connaissance de cause dans le cadre d'une transaction effectuée
+dans des conditions normales de concurrence ;
 
-5° Les mandats de représentant permanent d'une personne morale au conseil
-d'administration ou de surveillance d'une SICAF ne sont pas pris en compte pour
-l'application des dispositions des articles L. 225-21, L. 225-77 et L. 225- 94-1
-du code de commerce ;
-
-6° Le commissaire aux comptes est désigné pour six exercices par le conseil
-d'administration ou le directoire, après accord de l'Autorité des marchés
-financiers. La désignation d'un commissaire aux comptes suppléant n'est pas
-requise. Le commissaire aux comptes est délié du secret professionnel à l'égard
-de l'Autorité des marchés financiers.
-
-Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à
-l'Autorité des marchés financiers tout fait ou décision concernant une société
-d'investissement à capital fixe dont il a eu connaissance dans l'exercice de sa
-mission, de nature :
-
-a) A constituer une violation des dispositions législatives ou réglementaires
-applicables à cette société et susceptible d'avoir des effets significatifs sur
-la situation financière, le résultat ou le patrimoine ;
-
-b) A porter atteinte à la continuité de son exploitation ;
-
-c) A entraîner l'émission de réserves ou le refus de la certification des
-comptes.
-
-La responsabilité du commissaire aux comptes ne peut être engagée pour les
-informations ou divulgations de faits auxquelles il procède en exécution des
-obligations imposées par le présent article.
-
-L'Autorité des marchés financiers peut également transmettre aux commissaires
-aux comptes des sociétés d'investissement à capital fixe les informations
-nécessaires à l'accomplissement de leur mission. Les informations transmises
-sont couvertes par la règle du secret professionnel.
+4° La liquidité du bien permet au fonds professionnel spécialisé de respecter
+ses obligations en matière d'exécution des rachats vis-à-vis de ses porteurs et
+actionnaires définies par ses statuts ou son règlement.

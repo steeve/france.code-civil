@@ -12,4 +12,5 @@ bénéfice imposable de l'exercice au cours duquel intervient la cession et majo
 d'une somme égale au produit de ce montant par le taux de l'intérêt de retard
 prévu à l'article 1727. Il en est de même en cas de dissolution des sociétés
 concernées ou lorsque ces dernières ne respectent pas les dispositions prévues
-par les articles L. 214-85 et L. 214-87 du code monétaire et financier.
+par les articles L. 214-121 et L. 214-123 à L. 214-125 du code monétaire et
+financier.

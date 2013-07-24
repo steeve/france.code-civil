@@ -1,6 +1,6 @@
 Article L214-24-3
 ----
-Lorsqu'un ou plusieurs compartiments sont constitués au sein d'un organisme de
-placement collectif en valeurs mobilières régi par la présente sous-section, ils
-sont soumis individuellement aux dispositions du présent code qui régissent cet
-organisme.
+Dans le cadre de leurs rôles respectifs, la société de gestion de portefeuille
+et le dépositaire agissent de manière honnête, loyale, professionnelle,
+indépendante et dans l'intérêt du FIA et des porteurs de parts ou actionnaires
+du FIA.

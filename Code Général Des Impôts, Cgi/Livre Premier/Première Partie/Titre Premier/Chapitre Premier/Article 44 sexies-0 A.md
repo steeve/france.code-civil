@@ -33,8 +33,7 @@ une convention conclue entre l'entreprise et l'établissement d'enseignement
 supérieur, dont le contenu et les modalités sont précisés par décret en Conseil
 d'Etat. Ce décret définit notamment la nature des travaux de recherche qui font
 l'objet de la convention, les prestations dont peut bénéficier l'entreprise et
-les modalités de la rémunération de l'établissement d'enseignement supérieur
-(1);
+les modalités de la rémunération de l'établissement d'enseignement supérieur ;
 
 4° son capital est détenu de manière continue à 50 % au moins :
 
@@ -44,11 +43,14 @@ b. ou par une société répondant aux mêmes conditions dont le capital est dé
 pour 50 % au moins par des personnes physiques ;
 
 c. ou par des sociétés de capital-risque, des fonds communs de placement à
-risques, des sociétés de développement régional, des sociétés financières
-d'innovation ou des sociétés unipersonnelles d'investissement à risque à la
-condition qu'il n'existe pas de lien de dépendance au sens des deuxième à
-quatrième alinéas du 12 de l'article 39 entre la société en cause et ces
-dernières sociétés ou ces fonds ;
+risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
+2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs,
+des fonds professionnels de capital investissement, des sociétés de
+développement régional, des sociétés financières d'innovation ou des sociétés
+unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de
+lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article
+39 entre la société en cause et ces dernières sociétés ou ces fonds ;
 
 d. ou par des fondations ou associations reconnues d'utilité publique à
 caractère scientifique, ou par une société qualifiée elle-même de jeune

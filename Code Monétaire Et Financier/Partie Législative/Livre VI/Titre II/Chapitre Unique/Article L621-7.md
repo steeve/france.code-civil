@@ -54,12 +54,13 @@ collectifs :
 de portefeuille ;
 
 2° Les conditions d'agrément et d'exercice de l'activité des sociétés de gestion
-d'organismes de placements collectifs ;
+de placements collectifs mentionnés au I de l'article L. 214-1 ;
 
-3° Les conditions d'agrément des organismes de placements collectifs ;
+3° Les conditions d'agrément des placements collectifs mentionnés au I de
+l'article L. 214-1 ;
 
-4° Les conditions d'exercice de l'activité de dépositaire d'organismes de
-placements collectifs.
+4° Les conditions d'exercice de l'activité de dépositaire de placements
+collectifs mentionnés au I de l'article L. 214-1.
 
 VI.-Concernant la conservation et l'administration d'instruments financiers, les
 dépositaires centraux et les systèmes de règlement et de livraison d'instruments

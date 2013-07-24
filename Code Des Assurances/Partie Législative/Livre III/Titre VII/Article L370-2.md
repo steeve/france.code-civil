@@ -23,6 +23,6 @@ comptes des participants auxdits plans ne peuvent servir qu'à l'acquisition des
 titres et parts mentionnées à l'article L. 443-3 du code du travail,
 conformément notamment au quatrième alinéa du I de l'article L. 443-1-2 dudit
 code. Les conseils de surveillance respectent les dispositions prévues à
-l'article L. 214-39 du code monétaire et financier et au dernier alinéa de
+l'article L. 214-164 du code monétaire et financier et au dernier alinéa de
 l'article L. 443-3 du code du travail et les transferts sont effectués, le cas
 échéant, conformément à l'article L. 444-9 du même code.

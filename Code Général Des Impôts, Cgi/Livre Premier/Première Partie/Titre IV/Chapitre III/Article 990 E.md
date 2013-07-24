@@ -43,10 +43,8 @@ immeubles ou droits immobiliers ;
 
 c) Ou qui prennent la forme de sociétés de placement à prépondérance immobilière
 à capital variable ou de fonds de placement immobilier régis par les articles L.
-214-89 et suivants du code monétaire et financier qui ne sont pas constitués
-sous la forme mentionnée à l'article L. 214-144 du même code ou ceux qui sont
-soumis à une réglementation équivalente dans l'Etat ou le territoire où ils sont
-établis ;
+214-33 et suivants du code monétaire et financier ou ceux qui sont soumis à une
+réglementation équivalente dans l'Etat ou le territoire où ils sont établis ;
 
 d) Ou qui communiquent chaque année ou prennent et respectent l'engagement de
 communiquer à l'administration fiscale, sur sa demande, la situation, la
@@ -54,7 +52,7 @@ consistance et la valeur des immeubles possédés au 1er janvier, l'identité et
 l'adresse de l'ensemble des actionnaires, associés ou autres membres qui
 détiennent, à quelque titre que ce soit, plus de 1 % des actions, parts ou
 autres droits, ainsi que le nombre des actions, parts ou autres droits détenus
-par chacun d'eux.L'engagement est pris à la date de l'acquisition par l'entité
+par chacun d'eux. L'engagement est pris à la date de l'acquisition par l'entité
 du bien ou droit immobilier ou de la participation mentionnés à l'article 990 D
 ou, pour les biens, droits ou participations déjà possédés au 1er janvier 2008,
 au plus tard le 15 mai 2008 ;

@@ -11,14 +11,14 @@ terme du cinquante-neuvième mois suivant celui de la délimitation de la zone
 pour les contribuables qui y exercent déjà leur activité ou, dans le cas
 contraire, celui de leur début d'activité dans l'une de ces zones. Ces bénéfices
 sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de
-40 %,60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au
+40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au
 cours de la première, de la deuxième ou de la troisième période de douze mois
 suivant cette période d'exonération. Cependant pour les entreprises de moins de
 cinq salariés, ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt
-sur les sociétés à hauteur de 40 %,60 % ou 80 % de leur montant selon qu'ils
+sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils
 sont réalisés respectivement au cours des cinq premières, de la sixième et
 septième ou de la huitième et neuvième périodes de douze mois suivant cette
-période d'exonération.L'effectif salarié s'apprécie au cours de la dernière
+période d'exonération. L'effectif salarié s'apprécie au cours de la dernière
 période d'imposition au titre de laquelle l'exonération au taux de 100 %
 s'applique. Les salariés saisonniers ou à temps incomplet sont pris en compte au
 prorata de la durée du temps de travail prévue à leur contrat. La date de
@@ -48,7 +48,7 @@ locaux affectés à l'activité ou si ce contribuable réalise au moins 25 % de 
 chiffre d'affaires auprès de clients situés dans les zones franches urbaines.
 
 II. Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est
-celui déclaré selon les modalités prévues aux articles 50-0,53 A,96 à 100,102
+celui déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102
 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
 conditions de droit commun :
 
@@ -103,7 +103,7 @@ l'un des régimes prévus aux articles 44 sexies et 44 quindecies et du régime
 prévu au présent article, le contribuable peut opter pour ce dernier régime dans
 les six mois qui suivent celui de la délimitation de la zone s'il y exerce déjà
 son activité ou, dans le cas contraire, dans les six mois suivant celui du début
-d'activité.L'option est irrévocable.
+d'activité. L'option est irrévocable.
 
 IV. Les obligations déclaratives des personnes et organismes concernés par
 l'exonération sont fixées par décret.
@@ -141,7 +141,7 @@ cumulativement aux conditions suivantes :
 a. Elle emploie au plus cinquante salariés au 1er janvier 2004 ou à la date de
 sa création ou de son implantation si elle est postérieure et soit a réalisé un
 chiffre d'affaires inférieur à 7 millions d'euros au cours de l'exercice, soit a
-un total de bilan inférieur à 5 millions d'euros.A compter du 1er janvier 2005,
+un total de bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005,
 les seuils de chiffre d'affaires et de total du bilan sont portés à 10 millions
 d'euros ;
 
@@ -151,11 +151,14 @@ plusieurs entreprises dont l'effectif salarié dépasse 250 salariés et dont le
 chiffre d'affaires annuel hors taxes excède 50 millions d'euros ou le total du
 bilan annuel excède 43 millions d'euros. Pour la détermination de ce
 pourcentage, les participations des sociétés de capital-risque, des fonds
-communs de placement à risques, des sociétés de développement régional, des
-sociétés financières d'innovation et des sociétés unipersonnelles
-d'investissement à risque ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces dernières sociétés ou ces fonds ;
+communs de placement à risques, des fonds professionnels spécialisés relevant de
+l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure
+à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional, des sociétés financières d'innovation et des
+sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte
+à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de
+l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ;
 
 c. Son activité principale, définie selon la nomenclature d'activités française
 de l'Institut national de la statistique et des études économiques, ne relève
@@ -164,7 +167,7 @@ fabrication de fibres textiles artificielles ou synthétiques, de la sidérurgie
 ou des transports routiers de marchandises.
 
 Pour l'application du a et du b, le chiffre d'affaires doit être ramené ou porté
-le cas échéant à douze mois.L'effectif de l'entreprise est apprécié par
+le cas échéant à douze mois. L'effectif de l'entreprise est apprécié par
 référence au nombre moyen de salariés employés au cours de cet exercice. Pour la
 société mère d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est
 apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés

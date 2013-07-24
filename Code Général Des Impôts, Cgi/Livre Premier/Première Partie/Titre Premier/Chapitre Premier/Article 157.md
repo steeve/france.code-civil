@@ -11,9 +11,12 @@ en France avec l'autorisation du ministre de l'économie et des finances à
 l'exception des primes de remboursement attachées aux titres émis à compter du
 1er juin 1985 lorsqu'elles sont supérieures à 5 % du nominal et de celles
 distribuées ou réparties à compter du 1er janvier 1989 par un organisme de
-placement collectif en valeurs mobilières visé par les articles L. 214-2 et
-suivants du code monétaire et financier lorsque ces primes représentent plus de
-10% du montant de la distribution ou de la répartition.
+placement collectif en valeurs mobilières ou un placement collectif relevant des
+paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du
+sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4
+de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, lorsque ces primes représentent plus de 10% du montant de la
+distribution ou de la répartition.
 
 Ces dispositions ne sont pas applicables aux primes de remboursement définies au
 II de l'article 238 septies A.

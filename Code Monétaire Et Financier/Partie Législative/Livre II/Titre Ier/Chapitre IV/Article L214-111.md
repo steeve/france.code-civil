@@ -1,23 +1,13 @@
 Article L214-111
 ----
-Dans les conditions fixées par le règlement général de l'Autorité des marchés
-financiers, les immeubles et droits réels détenus directement ou indirectement
-par l'organisme de placement collectif immobilier et par les sociétés
-mentionnées aux b et c du I de l'article L. 214-92 sont évalués par deux
-évaluateurs immobiliers qui agissent de manière indépendante l'un par rapport à
-l'autre. Ils établissent conjointement, sous leur responsabilité, un rapport de
-synthèse écrit sur l'accomplissement de leur mission.
+L'opération de fusion s'effectue sous le contrôle des commissaires aux comptes
+de chacune des sociétés concernées. Le projet de fusion leur est communiqué au
+moins quarante-cinq jours avant les assemblées générales extraordinaires
+appelées à se prononcer sur l'opération.
 
-La société de placement à prépondérance immobilière à capital variable ou la
-société de gestion du fonds prend toutes les dispositions nécessaires pour
-permettre aux évaluateurs de remplir leur mission.
+Les commissaires aux comptes établissent un rapport sur les conditions de
+réalisation de l'opération de fusion.
 
-Le règlement général de l'Autorité des marchés financiers fixe la mission des
-évaluateurs, notamment la répartition des tâches entre eux, les règles
-d'évaluation et les conditions d'élaboration du rapport.
-
-Ce rapport est communiqué à la société de placement à prépondérance immobilière
-à capital variable, à la société de gestion du fonds, au dépositaire et au
-commissaire aux comptes, ainsi qu'à tout porteur de parts ou actionnaire de
-l'organisme de placement collectif immobilier en faisant la demande dans des
-conditions fixées par décret en Conseil d'Etat.
+La mission des commissaires aux comptes s'exerce dans les mêmes conditions que
+celles prévues pour les commissaires à la fusion en application de l'article L.
+236-10 du code de commerce.

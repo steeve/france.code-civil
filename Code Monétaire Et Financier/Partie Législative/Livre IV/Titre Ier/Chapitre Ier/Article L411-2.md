@@ -1,9 +1,9 @@
 Article L411-2
 ----
 I.-Ne constitue pas une offre au public au sens de l'article L. 411-1 l'offre
-qui porte sur des titres financiers mentionnés au 1 ou au 2 du I de l'article L.
-211-1, lorsqu'elle porte sur des titres que l'émetteur est autorisé à offrir au
-public et :
+qui porte sur des titres financiers mentionnés au 1 ou au 2 du II de l'article
+L. 211-1, lorsqu'elle porte sur des titres que l'émetteur est autorisé à offrir
+au public et :
 
 1. Dont le montant total est inférieur à un montant fixé par le règlement
 général de l'Autorité des marchés financiers ou à un montant et une quotité du
@@ -25,7 +25,7 @@ qui s'adresse exclusivement :
 1. Aux personnes fournissant le service d'investissement de gestion de
 portefeuille pour compte de tiers ;
 
-2.A des investisseurs qualifiés ou à un cercle restreint d'investisseurs, sous
+2. A des investisseurs qualifiés ou à un cercle restreint d'investisseurs, sous
 réserve que ces investisseurs agissent pour compte propre.
 
 Un investisseur qualifié est une personne ou une entité disposant des

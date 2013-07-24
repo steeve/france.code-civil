@@ -192,7 +192,7 @@ décès.
 
 VIII. ― La réduction d'impôt est applicable, dans les mêmes conditions, à
 l'associé d'une société civile de placement immobilier régie par les articles L.
-214-50 et suivants du code monétaire et financier dont la quote-part de revenu
+214-114 et suivants du code monétaire et financier dont la quote-part de revenu
 est, en application de l'article 8, soumise en son nom à l'impôt sur le revenu
 dans la catégorie des revenus fonciers.
 

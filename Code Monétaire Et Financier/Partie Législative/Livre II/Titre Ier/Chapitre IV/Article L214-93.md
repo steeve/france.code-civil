@@ -1,15 +1,29 @@
 Article L214-93
 ----
-Dans les conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un
-organisme de placement collectif en immobilier est composé :
+I.-Les ordres d'achat et de vente sont, à peine de nullité, inscrits sur un
+registre tenu au siège de la société. Le prix d'exécution résulte de la
+confrontation de l'offre et de la demande. Il est établi et publié par la
+société de gestion au terme de chaque période d'enregistrement des ordres.
 
-1° A hauteur de 60 % au moins d'actifs immobiliers. Dans le cas de la société de
-placement à prépondérance immobilière à capital variable, ces actifs immobiliers
-sont ceux mentionnés aux a à d du I de l'article L. 214-92, les actifs
-mentionnés aux a à c du I de l'article précité devant représenter au minimum 51
-% de l'actif. Dans le cas du fonds de placement immobilier, ces actifs sont ceux
-mentionnés aux a et b du I de l'article L. 214-92 ;
+Toute transaction donne lieu à une inscription sur le registre des associés qui
+est réputée constituer l'acte de cession écrit prévu par l'article 1865 du code
+civil. Le transfert de propriété qui en résulte est opposable, dès cet instant,
+à la société et aux tiers. La société de gestion garantit la bonne exécution de
+ces transactions.
 
-2° A hauteur de 10 % au moins d'actifs mentionnés au h et au i du I de l'article
-L. 214-92. Ces actifs doivent être libres de toutes sûretés ou droits au profit
-de tiers.
+Le règlement général de l'Autorité des marchés financiers fixe les modalités de
+mise en œuvre du présent I et, en particulier, les conditions d'information sur
+le marché secondaire des parts et de détermination de la période
+d'enregistrement des ordres.
+
+II.-Lorsque la société de gestion constate que les ordres de vente inscrits
+depuis plus de douze mois sur le registre mentionné au I représentent au moins
+10 % des parts émises par la société, elle en informe sans délai l'Autorité des
+marchés financiers. La même procédure est applicable au cas où les demandes de
+retrait non satisfaites dans un délai de douze mois représentent au moins 10 %
+des parts.
+
+Dans les deux mois à compter de cette information, la société de gestion
+convoque une assemblée générale extraordinaire et lui propose la cession
+partielle ou totale du patrimoine et toute autre mesure appropriée. De telles
+cessions sont réputées conformes à l'article L. 214-114.

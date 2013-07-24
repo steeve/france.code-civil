@@ -1,42 +1,37 @@
 Article L214-73
 ----
-L'assemblée générale ordinaire est réunie dans un délai de six mois à compter de
-la clôture de l'exercice pour l'approbation des comptes. Le ministère public ou
-tout associé peut saisir le président du tribunal compétent statuant en référé
-afin d'enjoindre aux dirigeants, le cas échéant sous astreinte, de convoquer
-cette assemblée ou de désigner un mandataire pour y procéder.
+Le fonds de placement immobilier est, dans les conditions prévues par le
+règlement général de l'Autorité des marchés financiers, constitué par une
+société de gestion de portefeuille chargée de sa gestion.
 
-Chaque associé dispose d'un nombre de voix proportionnel à sa part du capital
-social. Les décisions sont prises à la majorité des voix dont disposent les
-associés présents ou représentés. L'assemblée générale ne délibère valablement
-sur première convocation que si les associés présents ou représentés détiennent
-au moins le quart du capital, et au moins la moitié s'il s'agit de modifier les
-statuts. Sur deuxième convocation, aucun quorum n'est requis.
+La société de gestion établit le règlement du fonds.
 
-Les documents qui sont communiqués aux associés préalablement à la tenue des
-assemblées générales ainsi que les formes et délais dans lesquels les associés
-sont convoqués à ces assemblées sont déterminés par décret. Toute personne
-intéressée peut demander au président du tribunal compétent statuant en référé
-d'enjoindre aux dirigeants, le cas échéant sous astreinte, de communiquer ces
-documents aux associés.
+Ce règlement prévoit l'institution d'un conseil de surveillance composé
+uniquement de représentants des porteurs de parts. Ce conseil est composé de
+deux membres au moins et de neuf membres au plus, dont un président élu par les
+membres, tenus à la discrétion sur les informations présentant un caractère
+confidentiel. Le président rappelle aux autres membres du conseil que ces
+informations revêtent un caractère confidentiel. Le conseil ne peut s'immiscer
+dans la gestion du fonds. Le règlement général de l'Autorité des marchés
+financiers fixe les conditions dans lesquelles il exerce sa mission, les
+conditions et les modalités de désignation de ses membres ainsi que les moyens
+mis à leur disposition. Les membres du conseil de surveillance sont responsables
+des fautes personnelles commises dans l'exécution de leur mandat. Ils
+n'encourent aucune responsabilité à raison des actes de la gestion et de leur
+résultat. Le règlement général de l'Autorité des marchés financiers fixe les
+règles relatives au cumul de mandats au sein des conseils de surveillance et
+détermine les règles d'incompatibilité.
 
-L'assemblée détermine le montant des bénéfices distribués aux associés à titre
-de dividende. En outre, l'assemblée peut décider la mise en distribution des
-sommes prélevées sur les réserves dont elle a la disposition ; en ce cas, la
-décision indique expressément les postes de réserve sur lesquels les
-prélèvements sont exercés.
+Chaque fois qu'il le juge nécessaire et au moins une fois par an, le conseil de
+surveillance établit un rapport rendant compte de sa mission. Le règlement
+général de l'Autorité des marchés financiers fixe les conditions dans lesquelles
+ce rapport est porté à la connaissance des porteurs de parts.
 
-Tout dividende distribué en l'absence d'inventaire ou au moyen d'inventaire
-frauduleux constitue un dividende fictif.
+L'alinéa précédent ne s'applique pas lorsque le document d'information prévu au
+III de l'article L. 214-35 prévoit que le fonds de placement immobilier est
+réservé à vingt porteurs de parts au plus ou à une catégorie d'investisseurs
+dont les caractéristiques sont définies par le règlement général de l'Autorité
+des marchés financiers.
 
-Toutefois, ne constituent pas des dividendes fictifs les acomptes à valoir sur
-les dividendes d'exercices clos ou en cours, répartis avant que les comptes de
-ces exercices aient été approuvés, lorsqu'un bilan établi au cours ou à la fin
-de l'exercice et certifié par un des commissaires aux comptes mentionnés à
-l'article L. 214-79 fait apparaître que la société a réalisé, au cours de
-l'exercice, après constitution des amortissements et provisions nécessaires,
-déduction faite, s'il y a lieu, des pertes antérieures et compte tenu du report
-bénéficiaire, des bénéfices nets supérieurs au montant des acomptes.
-
-La société de gestion a qualité pour décider de répartir un acompte à valoir sur
-le dividende et pour fixer le montant et la date de la répartition.
+La souscription ou l'acquisition de parts d'un fonds de placement immobilier
+emporte acceptation du règlement de ce fonds.

@@ -56,8 +56,11 @@ I. quater Sont exonérés d'impôt sur le revenu les produits attachés aux bons
 contrats en unités de compte visés au deuxième alinéa de l'article L. 131-1 du
 code des assurances mentionnés au I, d'une durée égale ou supérieure à huit ans,
 souscrits avant le 1er janvier 2005 et dont l'unité de compte est la part ou
-l'action d'un organisme de placement collectif en valeurs mobilières dont
-l'actif est constitué pour 50 % au moins de :
+l'action d'un organisme de placement collectif en valeurs mobilières ou d'un
+placement collectif relevant des paragraphes 1,2 et 6 de la sous-section 2, du
+paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la
+section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, dont l'actif est constitué pour 50 % au moins de :
 
 a) Actions ou certificats d'investissement de sociétés et certificats
 coopératifs d'investissement admis aux négociations sur un marché réglementé
@@ -68,13 +71,20 @@ d'investissement dans le domaine des valeurs mobilières ;
 b) Droits ou bons de souscription ou d'attribution attachés aux actions
 mentionnées au a ;
 
-c) Actions ou parts d'organismes de placement collectif en valeurs mobilières
-qui emploient plus de 60 % de leur actif en titres et droits mentionnés aux a et
-b ;
+c) Actions ou parts d'organismes de placement collectif en valeurs mobilières ou
+de placements collectifs relevant des paragraphes 1,2 et 6 de la sous-section 2,
+du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de
+la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier, qui emploient plus de 60 % de leur actif en titres et droits
+mentionnés aux a et b ;
 
-d) Parts de fonds communs de placement à risques, de fonds d'investissement de
-proximité, de fonds communs de placement dans l'innovation, actions de sociétés
-de capital risque ou de sociétés financières d'innovation ;
+d) Parts de fonds communs de placement à risques, de fonds professionnels
+spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans
+sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant
+le cadre juridique de la gestion d'actifs, de fonds professionnels de capital
+investissement, de fonds d'investissement de proximité, de fonds communs de
+placement dans l'innovation, actions de sociétés de capital risque ou de
+sociétés financières d'innovation ;
 
 e) Actions émises par des sociétés qui exercent une activité autre que les
 activités mentionnées au septième alinéa du I de l'article 44 sexies et dont les
@@ -101,23 +111,29 @@ conditions de droit commun au taux normal ou le seraient dans les mêmes
 conditions si l'activité était exercée en France.
 
 Les titres mentionnés aux d, e et f doivent représenter 5 % au moins de l'actif
-de l'organisme de placement collectif en valeurs mobilières.
+de l'organisme de placement collectif en valeurs mobilières ou du placement
+collectif relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe
+2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2
+du chapitre IV du titre Ier du livre II du code monétaire et financier.
 
 I quinquies.-1. Sont exonérés d'impôt sur le revenu les produits attachés aux
 bons ou contrats de capitalisation et placements de même nature mentionnés au I,
 souscrits à compter du 1er janvier 2005, d'une durée égale ou supérieure à huit
 ans et dans lesquels les primes versées sont représentées par une ou plusieurs
 unités de compte constituées de parts ou d'actions d'organismes de placement
-collectif en valeurs mobilières régis par les articles L. 214-2 et suivants du
-code monétaire et financier, ou d'organismes de même nature établis soit dans un
-autre Etat membre de l'Union européenne, soit dans un autre Etat partie à
-l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention d'assistance administrative en vue de lutter contre la fraude et
-l'évasion fiscales et qui bénéficient de la procédure de reconnaissance mutuelle
-des agréments prévue par la directive 85/611/ CEE du Conseil, du 20 décembre
-1985, portant coordination des dispositions législatives, réglementaires et
-administratives concernant certains organismes de placement collectif en valeurs
-mobilières (OPCVM), et dont l'actif est constitué pour 30 % au moins :
+collectif en valeurs mobilières, de placements collectifs relevant des
+paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du
+sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du
+chapitre IV du titre Ier du livre II du code monétaire et financier ou
+d'organismes de même nature établis soit dans un autre Etat membre de l'Union
+européenne, soit dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales et qui bénéficient de la
+procédure de reconnaissance mutuelle des agréments prévue par la directive
+85/611/ CEE du Conseil, du 20 décembre 1985, portant coordination des
+dispositions législatives, réglementaires et administratives concernant certains
+organismes de placement collectif en valeurs mobilières (OPCVM), et dont l'actif
+est constitué pour 30 % au moins :
 
 a. D'actions ne relevant pas du 3 du II de l'article L. 211-1 du code monétaire
 et financier, admises aux négociations sur un marché d'instruments financiers,
@@ -129,16 +145,17 @@ b. De droits ou bons de souscription ou d'attribution attachés aux actions
 mentionnées au a ;
 
 c. D'actions ou parts d'organismes de placement collectif en valeurs mobilières
-mentionnés au premier alinéa dont l'actif est constitué à plus de 75 % en titres
-et droits mentionnés aux a et b ;
+et des placements collectifs mentionnés au premier alinéa dont l'actif est
+constitué à plus de 75 % en titres et droits mentionnés aux a et b ;
 
-d. De parts de fonds communs de placement à risques qui remplissent les
-conditions prévues au II de l'article 163 quinquies B, de fonds d'investissement
-de proximité mentionnés à l'article L. 214-31 du code monétaire et financier, de
-fonds communs de placement dans l'innovation mentionnés à l'article L. 214-30 du
-même code et d'actions de sociétés de capital-risque qui remplissent les
-conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
-portant diverses dispositions d'ordre économique et financier ;
+d. De parts de fonds communs de placement à risques ou de fonds professionnels
+de capital investissement qui remplissent les conditions prévues au II de
+l'article 163 quinquies B, de fonds d'investissement de proximité mentionnés à
+l'article L. 214-31 du code monétaire et financier, de fonds communs de
+placement dans l'innovation mentionnés à l'article L. 214-30 du même code et
+d'actions de sociétés de capital-risque qui remplissent les conditions prévues à
+l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses
+dispositions d'ordre économique et financier ;
 
 e. D'actions ou parts émises par des sociétés qui exercent une activité
 mentionnée à l'article 34 dont les titres ne sont pas admis aux négociations sur
@@ -174,26 +191,31 @@ sociétés dans les conditions de droit commun au taux normal ou le seraient dan
 les mêmes conditions si elles exerçaient leur activité en France.
 
 Les titres mentionnés aux d à g doivent représenter 10 % au moins de l'actif de
-chaque organisme de placement collectif en valeurs mobilières dont les parts ou
-actions constituent les unités de compte du bon ou contrat, les titres
+chaque organisme de placement collectif en valeurs mobilières ou placement
+collectif relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe
+2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2
+du chapitre IV du titre Ier du livre II du code monétaire et financier dont les
+parts ou actions constituent les unités de compte du bon ou contrat, les titres
 mentionnés aux e et g représentant au moins 5 % de ce même actif.
 
 Les règlements ou les statuts des organismes de placement collectif en valeurs
-mobilières mentionnés au premier alinéa prévoient le respect des proportions
-d'investissement prévues à ce même alinéa et au dixième alinéa. Il en est de
-même pour les organismes et sociétés mentionnés aux c et g s'agissant des
-proportions d'investissement mentionnées à ces mêmes alinéas.
+mobilières et des placements collectifs mentionnés au premier alinéa prévoient
+le respect des proportions d'investissement prévues à ce même alinéa et au
+dixième alinéa. Il en est de même pour les organismes et sociétés mentionnés aux
+c et g s'agissant des proportions d'investissement mentionnées à ces mêmes
+alinéas.
 
-2. Lorsque les organismes de placement collectif en valeurs mobilières et les
-sociétés mentionnés au premier alinéa et aux c et g du 1 recourent à des
-instruments financiers à terme, à des opérations de pension, ainsi qu'à toute
-autre opération temporaire de cession ou d'acquisition de titres, ces organismes
-ou sociétés doivent respecter, outre les règles d'investissement de l'actif
-prévues au 1, les proportions d'investissement minimales mentionnées aux premier
-et dixième alinéas et aux c et g du 1, calculées en retenant au numérateur la
-valeur des titres éligibles à ces proportions dont ils perçoivent effectivement
-les produits. Un décret en Conseil d'Etat précise les modalités de calcul et les
-justificatifs à produire par les organismes ou sociétés concernés.
+2. Lorsque les organismes de placement collectif en valeurs mobilières, les
+placements collectifs et les sociétés mentionnés au premier alinéa et aux c et g
+du 1 recourent à des instruments financiers à terme, à des opérations de
+pension, ainsi qu'à toute autre opération temporaire de cession ou d'acquisition
+de titres, ces organismes ou sociétés doivent respecter, outre les règles
+d'investissement de l'actif prévues au 1, les proportions d'investissement
+minimales mentionnées aux premier et dixième alinéas et aux c et g du 1,
+calculées en retenant au numérateur la valeur des titres éligibles à ces
+proportions dont ils perçoivent effectivement les produits. Un décret en Conseil
+d'Etat précise les modalités de calcul et les justificatifs à produire par les
+organismes ou sociétés concernés.
 
 3. Les bons ou contrats mentionnés au 1 peuvent également prévoir qu'une partie
 des primes versées est affectée à l'acquisition de droits qui ne sont pas

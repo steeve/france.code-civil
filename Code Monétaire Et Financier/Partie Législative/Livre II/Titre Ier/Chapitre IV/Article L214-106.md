@@ -1,28 +1,10 @@
 Article L214-106
 ----
-Le règlement d'un fonds de placement immobilier ou les statuts d'une société de
-placement à prépondérance immobilière à capital variable fixent la durée des
-exercices comptables qui ne peut excéder douze mois. Toutefois, le premier
-exercice peut s'étendre sur toute durée n'excédant pas dix-huit mois.
+Toute convention intervenant entre la société et la société de gestion, ou tout
+associé de cette dernière est approuvée par l'assemblée générale des associés de
+la société, sur les rapports du conseil de surveillance et des commissaires aux
+comptes.
 
-Dans un délai de six semaines à compter de la fin de chaque semestre de
-l'exercice, la société de placement à prépondérance immobilière à capital
-variable ou la société de gestion du fonds établissent l'inventaire de l'actif
-de l'organisme de placement collectif immobilier sous le contrôle du
-dépositaire.
-
-La société de placement à prépondérance immobilière à capital variable ou la
-société de gestion du fonds établit les comptes annuels de l'organisme de
-placement collectif immobilier et un rapport écrit sur la gestion de l'organisme
-de placement collectif immobilier dont le contenu, défini par décret en Conseil
-d'Etat, expose notamment la situation de l'endettement et de la liquidité de
-l'organisme de placement collectif immobilier. Ce rapport est mis à la
-disposition des actionnaires ou des porteurs de parts dans des conditions et
-limites précisées par le règlement général de l'Autorité des marchés financiers.
-
-Par dérogation aux dispositions du premier alinéa de l'article L. 123-22 du code
-de commerce, la comptabilité d'un organisme de placement immobilier peut être
-tenue en toute unité monétaire selon des modalités fixées par décret.
-
-Les documents mentionnés au présent article sont mis à la disposition du
-commissaire aux comptes dans les conditions fixées par décret en Conseil d'Etat.
+Même en l'absence de fraude, les conséquences préjudiciables à la société des
+conventions désapprouvées sont mises à la charge de la société de gestion
+responsable ou de tout associé de cette dernière.

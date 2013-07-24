@@ -3,10 +3,10 @@ Article L621-13
 Le président du tribunal de grande instance peut, sur demande motivée du
 président ou du secrétaire général de l'Autorité des marchés financiers,
 prononcer la mise sous séquestre, en quelque main qu'ils se trouvent, des fonds,
-valeurs, titres ou droits appartenant aux personnes mises en cause par elle. Il
-statue par ordonnance sur requête, à charge pour tout intéressé de lui en
-référer. Il peut prononcer dans les mêmes conditions l'interdiction temporaire
-de l'activité professionnelle.
+valeurs, titres ou droits appartenant aux personnes mises en cause par elle
+ainsi que tout actif détenu par un FIA. Il statue par ordonnance sur requête, à
+charge pour tout intéressé de lui en référer. Il peut prononcer dans les mêmes
+conditions l'interdiction temporaire de l'activité professionnelle.
 
 Le président du tribunal de grande instance, sur demande motivée du président ou
 du secrétaire général de l'Autorité des marchés financiers, peut ordonner, en la

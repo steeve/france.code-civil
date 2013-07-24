@@ -1,8 +1,9 @@
 Article L214-131
 ----
-Dans tous les cas où des dispositions relatives à la propriété immobilière ou
-aux sociétés et aux instruments financiers exigent l'indication des nom, prénoms
-et domicile du titulaire de l'actif ou du titre ainsi que pour toutes les
-opérations faites pour le compte des copropriétaires, la désignation du fonds de
-placement immobilier ou, le cas échéant, d'un compartiment du fonds, peut être
-valablement substituée à celle de tous les copropriétaires.
+Par dérogation aux articles L. 225-127 à L. 225-149-3 du code de commerce, le
+président du conseil d'administration ou du directoire de la SICAF peut procéder
+à tout moment à une augmentation de capital dans les conditions fixées par les
+statuts de la société.
+
+Une SICAF ne peut émettre d'actions à un prix inférieur à l'actif net par action
+sans les proposer en priorité à ses actionnaires existants.

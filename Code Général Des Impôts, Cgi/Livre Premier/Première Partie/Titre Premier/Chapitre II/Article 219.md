@@ -41,11 +41,12 @@ a ter. Le régime des plus-values et moins-values à long terme cesse de
 s'appliquer au résultat de la cession de titres du portefeuille réalisée au
 cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des parts
 ou actions de sociétés revêtant le caractère de titres de participation et des
-parts de fonds commun de placement à risques ou de société de capital risque qui
-remplissent les conditions prévues au II ou au III bis de l'article 163
-quinquies B à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant
-diverses dispositions d'ordre économique et financier et qui sont détenues par
-l'entreprise depuis au moins cinq ans.
+parts de fonds commun de placement à risques, de fonds professionnel de capital
+investissement ou de société de capital risque qui remplissent les conditions
+prévues au II ou au III bis de l'article 163 quinquies B à l'article 1er-1 de la
+loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre
+économique et financier et qui sont détenues par l'entreprise depuis au moins
+cinq ans.
 
 Pour les exercices ouverts à compter de la même date, le régime des plus ou
 moins-values à long terme cesse également de s'appliquer en ce qui concerne les
@@ -55,10 +56,11 @@ gestion des mêmes valeurs pour leur propre compte, à l'exception des
 moins-values afférentes aux titres de ces sociétés à hauteur du montant des
 produits de ces titres qui a ouvert droit à l'application du régime prévu aux
 articles 145 et 216 au cours de l'exercice au titre duquel ces moins-values ont
-été constatées et des cinq exercices précédents . Il ne s'applique pas non plus
-aux titres émis par les organismes de placement collectif immobilier ou par les
-organismes de droit étranger ayant un objet équivalent mentionnés au e du I de
-l'article L. 214-92 du code monétaire et financier.
+été constatées et des cinq exercices précédents. Il ne s'applique pas non plus
+aux titres émis par les organismes de placement collectif immobilier, les
+organismes professionnels de placement collectif immobilier ou par les
+organismes de droit étranger ayant un objet équivalent mentionnés au 5° du I de
+l'article L. 214-36 du code monétaire et financier.
 
 Pour l'application des premier et deuxième alinéas, constituent des titres de
 participation les parts ou actions de sociétés revêtant ce caractère sur le plan
@@ -256,21 +258,23 @@ exclusivement sur des plus-values exclues du régime des plus et moins-values à
 long terme en application du même alinéa.
 
 a sexies. 1. Pour les exercices ouverts à compter du 1er janvier 2006, les
-sommes réparties par un fonds commun de placement à risques et les distributions
-de sociétés de capital-risque soumises au régime fiscal des plus-values à long
-terme en application du 2° du 5 de l'article 38 ou du 5 de l'article 39
-terdecies sont soumises à l'impôt au taux de 8 % pour la fraction des sommes ou
-distributions afférentes aux cessions d'actions ou de parts de sociétés, à
-l'exception des titres des sociétés à prépondérance immobilière mentionnées au a
-sexies-0 bis et des titres des sociétés mentionnées au a sexies-0 ter, détenues
-depuis deux ans au moins et si le fonds ou la société a détenu au moins 5 % du
-capital de la société émettrice pendant deux ans au moins. Le taux de 8 % est
-fixé à 0 % pour les exercices ouverts à compter du 1er janvier 2007.
+sommes réparties par un fonds commun de placement à risques ou par un fonds
+professionnel de capital investissement et les distributions de sociétés de
+capital-risque soumises au régime fiscal des plus-values à long terme en
+application du 2° du 5 de l'article 38 ou du 5 de l'article 39 terdecies sont
+soumises à l'impôt au taux de 8 % pour la fraction des sommes ou distributions
+afférentes aux cessions d'actions ou de parts de sociétés, à l'exception des
+titres des sociétés à prépondérance immobilière mentionnées au a sexies-0 bis et
+des titres des sociétés mentionnées au a sexies-0 ter, détenues depuis deux ans
+au moins et si le fonds ou la société a détenu au moins 5 % du capital de la
+société émettrice pendant deux ans au moins. Le taux de 8 % est fixé à 0 % pour
+les exercices ouverts à compter du 1er janvier 2007.
 
 Pour l'appréciation du seuil de 5 % prévu au premier alinéa, sont également pris
-en compte les titres détenus par d'autres fonds communs de placement à risques
-ou sociétés de capital-risque qui ont agi de concert avec le fonds ou la société
-concerné dans le cadre d'un contrat conclu en vue d'acquérir ces titres.
+en compte les titres détenus par d'autres fonds communs de placement à risques,
+fonds professionnels de capital investissement ou sociétés de capital-risque qui
+ont agi de concert avec le fonds ou la société concerné dans le cadre d'un
+contrat conclu en vue d'acquérir ces titres.
 
 Lorsque les actions ou parts cédées ont été reçues dans le cadre d'un échange,
 d'une conversion ou d'un remboursement d'un titre donnant accès au capital de la
@@ -278,15 +282,16 @@ société, le délai de deux ans de détention des actions est décompté à par
 l'acquisition du titre donnant accès au capital de la société.
 
 2. Pour les exercices ouverts à compter du 1er janvier 2006, la plus-value
-réalisée sur la cession de parts de fonds communs de placement à risques ou
-d'actions de sociétés de capital-risque mentionnées au premier alinéa du a ter
-est soumise au taux de 8 % à hauteur du rapport existant à la date de la cession
-entre la valeur des actions ou parts de sociétés mentionnées au premier alinéa
-du 1 inscrites à l'actif du fonds ou de la société augmentée des sommes en
-instance de distribution depuis moins de six mois représentative de la cession
-d'actions ou de parts de sociétés mentionnées au premier alinéa du 1 et la
-valeur de l'actif total de ce fonds ou de cette société. Ce taux est fixé à 0 %
-pour les exercices ouverts à compter du 1er janvier 2007.
+réalisée sur la cession de parts de fonds communs de placement à risques, de
+parts de fonds professionnels de capital investissement ou d'actions de sociétés
+de capital-risque mentionnées au premier alinéa du a ter est soumise au taux de
+8 % à hauteur du rapport existant à la date de la cession entre la valeur des
+actions ou parts de sociétés mentionnées au premier alinéa du 1 inscrites à
+l'actif du fonds ou de la société augmentée des sommes en instance de
+distribution depuis moins de six mois représentative de la cession d'actions ou
+de parts de sociétés mentionnées au premier alinéa du 1 et la valeur de l'actif
+total de ce fonds ou de cette société. Ce taux est fixé à 0 % pour les exercices
+ouverts à compter du 1er janvier 2007.
 
 a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante
 et l'entreprise cessionnaire au sens du 12 de l'article 39, la déduction des
@@ -335,10 +340,14 @@ continue pour 75 % au moins par des personnes physiques ou par une société
 répondant aux mêmes conditions dont le capital est détenu, pour 75 % au moins,
 par des personnes physiques. Pour la détermination de ce pourcentage, les
 participations des sociétés de capital-risque, des fonds communs de placement à
-risques, des sociétés de développement régional et des sociétés financières
-d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de
-lien de dépendance au sens du 12 de l'article 39 entre la société en cause et
-ces dernières sociétés ou ces fonds.
+risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
+2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs,
+des fonds professionnels de capital investissement, des sociétés de
+développement régional et des sociétés financières d'innovation ne sont pas
+prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens
+du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
+fonds.
 
 c. (dispositions abrogées pour les distributions mises en paiement au cours des
 exercices ouverts à compter du 1er janvier 1993 ainsi que pour les sommes
@@ -378,10 +387,13 @@ pour 75 % au moins par des personnes physiques ou par une société répondant a
 conditions visées au 1° dont le capital est détenu, pour 75 % au moins, par des
 personnes physiques. Pour la détermination de ce pourcentage, les participations
 des sociétés de capital-risque, des fonds communs de placement à risques, des
-sociétés de développement régional et des sociétés financières d'innovation ne
-sont pas prises en compte à la condition qu'il n'existe pas de lien de
-dépendance au sens du 12 de l'article 39 entre la société en cause et ces
-dernières sociétés ou ces fonds.
+fonds professionnels spécialisés relevant de l'article L. 214-37 du code
+monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676
+du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des
+fonds professionnels de capital investissement, des sociétés de développement
+régional et des sociétés financières d'innovation ne sont pas prises en compte à
+la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
+39 entre la société en cause et ces dernières sociétés ou ces fonds.
 
 Lorsque la société n'a pas dressé de bilan au cours d'un exercice, le bénéfice
 imposé provisoirement en application du deuxième alinéa de l'article 37 ne peut
@@ -461,7 +473,9 @@ II de l'article 208 C inscrits à l'actif des sociétés qui ont opté pour le
 régime prévu au II de ce même article.
 
 Ce taux s'applique également aux plus-values imposables en application du 2 de
-l'article 221 relatives aux actifs mentionnés aux a à e du I de l'article L.
-214-92 du code monétaire et financier en cas de transformation d'une société
+l'article 221 relatives aux actifs mentionnés aux 1° à 5° du I de l'article L.
+214-36 du code monétaire et financier en cas de transformation d'une société
 soumise à l'impôt sur les sociétés en société de placement à prépondérance
-immobilière à capital variable mentionnée au 3° nonies de l'article 208.
+immobilière à capital variable ou en société professionnelle de placement à
+prépondérance immobilière à capital variable mentionnée au 3° nonies de
+l'article 208.

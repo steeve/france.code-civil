@@ -1,12 +1,12 @@
 Article L214-25
 ----
-Dans les conditions fixées par le règlement général de l'Autorité des marchés
-financiers, le règlement ou les statuts des organismes de placement collectif en
-valeurs mobilières relevant de la présente sous-section peuvent réserver la
-souscription ou l'acquisition de leurs parts ou actions à vingt investisseurs au
-plus ou à une catégorie d'investisseurs dont les caractéristiques sont
-précisément définies par le prospectus.
+L'Autorité des marchés financiers définit les conditions dans lesquelles les
+fonds d'investissement à vocation générale doivent informer les investisseurs et
+peuvent faire l'objet de publicité, en particulier audiovisuelle, ou de
+démarchage.
 
-Le dépositaire ou la personne désignée à cet effet par le règlement ou les
-statuts de l'organisme de placement collectif en valeurs mobilières s'assure que
-le souscripteur ou l'acquéreur est un investisseur mentionné au premier alinéa.
+Les statuts ou le règlement des fonds d'investissement à vocation générale ainsi
+que les documents destinés à l'information de leurs porteurs de parts ou
+actionnaires sont rédigés en français. Toutefois, dans des conditions fixées par
+le règlement général de l'Autorité des marchés financiers, ils peuvent être
+rédigés dans une langue usuelle en matière financière autre que le français.

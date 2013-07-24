@@ -1,42 +1,25 @@
 Article L214-91
 ----
-I.-La constitution, la transformation, la fusion, la scission ou la liquidation
-d'un organisme de placement collectif immobilier sont soumises à l'agrément de
-l'Autorité des marchés financiers. Le dossier d'agrément, dont le contenu est
-fixé par le règlement général de l'Autorité des marchés financiers, décrit
-notamment la politique d'investissement qu'entend mener l'organisme de placement
-collectif immobilier ainsi que ses choix de financement, notamment le recours à
-l'endettement.
+En cas d'apports en nature comme en cas de stipulation d'avantages particuliers
+au profit de personnes associées ou non, un commissaire aux apports est désigné
+par décision de justice, à la demande des fondateurs ou de l'un d'entre eux, ou
+de la société de gestion. Ce commissaire apprécie la valeur des apports en
+nature et les avantages particuliers. Son rapport, annexé au projet de statut,
+est tenu à la disposition des souscripteurs dans des conditions déterminées par
+décret.
 
-II.-Les organismes de placement collectif immobilier, le dépositaire, mentionné
-à l'article L. 214-117, et la société de gestion, mentionnée à l'article L.
-214-119, agissent au bénéfice exclusif des souscripteurs. Ils doivent présenter
-des garanties suffisantes en ce qui concerne leur organisation, leurs moyens
-techniques et financiers, l'honorabilité et l'expérience de leurs dirigeants.
-Ils doivent prendre les dispositions propres à assurer la sécurité des
-opérations.
+L'assemblée générale constitutive, ou en cas d'augmentation de capital,
+l'assemblée générale extraordinaire, statue sur l'évaluation des apports en
+nature et l'octroi d'avantages particuliers. Elle ne peut les réduire qu'à
+l'unanimité de tous les souscripteurs. A défaut d'approbation expresse des
+apporteurs et des bénéficiaires d'avantages particuliers, mentionnée au
+procès-verbal, la société n'est pas constituée ni l'augmentation de capital
+réalisée.
 
-Les organismes et personnes mentionnés aux articles L. 214-112, L. 214-117, L.
-214-119 et L. 214-120 doivent agir de façon indépendante les uns par rapport aux
-autres.
+Toute société civile de placement immobilier ou société d'épargne forestière
+constituée sans offre au public, qui entend ultérieurement y recourir, doit
+faire procéder, avant cette opération, à la vérification de son actif et de son
+passif ainsi que, le cas échéant, des avantages consentis, conformément aux
+premier et deuxième alinéas.
 
-II bis.-Dans les conditions fixées par le règlement général de l'Autorité des
-marchés financiers, le règlement ou les statuts de l'organisme de placement
-collectif immobilier peuvent réserver la souscription ou l'acquisition de leurs
-parts ou actions à vingt investisseurs au plus ou à une catégorie
-d'investisseurs dont les caractéristiques sont précisément définies par le
-document d'information prévu au III.
-
-Le dépositaire ou la personne désignée à cet effet par le règlement ou les
-statuts de l'organisme de placement collectif immobilier s'assure que le
-souscripteur ou l'acquéreur est un investisseur mentionné ci-dessus.
-
-III.-L'Autorité des marchés financiers définit les conditions dans lesquelles
-les organismes de placement collectif immobilier doivent informer leurs
-souscripteurs et peuvent faire l'objet de publicité, en particulier
-audiovisuelle, ou de démarchage. Le règlement général de l'Autorité des marchés
-financiers précise le contenu du document d'information devant être établi par
-ces organismes.
-
-IV.-L'Autorité des marchés financiers peut retirer son agrément à tout organisme
-de placement collectif immobilier.
+Aucun apport en industrie ne peut être représenté par des parts sociales.

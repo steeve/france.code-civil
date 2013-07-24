@@ -30,10 +30,10 @@ civile du transporteur des transports terrestres ;
 8° Les assurances des crédits à l'exportation ;
 
 9° Les contrats de garantie souscrits auprès des entreprises d'assurances en
-application de l'article L214-47 du code monétaire et financier et de l'article
-9 modifié du décret n° 89-158 du 9 mars 1989 portant application des articles 26
-et 34 à 42 de la loi n° 88-1201 du 23 décembre 1988 modifiée et relatif aux
-fonds communs de créances ;
+application de l'article L. 214-174 du code monétaire et financier et de
+l'article 9 modifié du décret n° 89-158 du 9 mars 1989 portant application des
+articles 26 et 34 à 42 de la loi n° 88-1201 du 23 décembre 1988 modifiée et
+relatif aux fonds communs de créances ;
 
 10° Les contrats souscrits par le Centre national de transfusion sanguine pour
 le compte des centres de transfusion sanguine auprès du groupement d'assureurs
@@ -55,12 +55,12 @@ camionnettes, fourgonnettes à utilisations exclusivement utilitaires ;
 
 13° Les contrats d'assurance maladie complémentaire couvrant les personnes
 physiques ou morales qui exercent exclusivement ou principalement une des
-professions agricoles ou connexes à l'agriculture définies aux articles L722-4,
-L722-9, au 1° de l'article L722-10 et aux articles L722-21, L722-28, L722-29,
-L731-25 et L741-2 du code rural et de la pêche maritime ainsi que leurs salariés
-et les membres de la famille de ces personnes, lorsqu'ils vivent avec elles sur
-l'exploitation, si ces garanties respectent les conditions mentionnées à
-l'article L. 871-1 du code de la sécurité sociale.
+professions agricoles ou connexes à l'agriculture définies aux articles L.
+722-4, L. 722-9, au 1° de l'article L. 722-10 et aux articles L. 722-21, L.
+722-28, L. 722-29, L. 731-25 et L. 741-2 du code rural et de la pêche maritime
+ainsi que leurs salariés et les membres de la famille de ces personnes,
+lorsqu'ils vivent avec elles sur l'exploitation, si ces garanties respectent les
+conditions mentionnées à l'article L. 871-1 du code de la sécurité sociale.
 
 14° Les contrats d'assurance dépendance ;
 

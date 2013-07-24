@@ -109,8 +109,8 @@ liquidative totale du plan à la date du retrait ou du rachat ;
 
 La valeur liquidative ou de rachat ne tient pas compte des gains nets et
 produits de placement mentionnés au 8° afférents aux parts des fonds communs de
-placement à risques et aux actions des sociétés de capital-risque détenues dans
-le plan.
+placement à risques ou des fonds professionnels de capital investissement et aux
+actions des sociétés de capital-risque détenues dans le plan.
 
 6° Lorsque les intéressés demandent la délivrance des droits constitués à leur
 profit au titre de la participation aux résultats de l'entreprise en application
@@ -131,14 +131,15 @@ du code du travail, l'opération de transfert ne constituant pas une délivrance
 des sommes concernées ;
 
 8° Les répartitions de sommes ou valeurs effectuées par un fonds commun de
-placement à risques dans les conditions prévues aux I et II ou aux I et III bis
-de l'article 163 quinquies B du code général des impôts, les distributions
-effectuées par les sociétés de capital-risque dans les conditions prévues aux
-deuxième à cinquième alinéas du I et au 2 du II de l'article 163 quinquies C du
-même code et celles effectuées par les sociétés unipersonnelles d'investissement
-à risque dans les conditions prévues à l'article 163 quinquies C bis du même
-code, lors de leur versement, ainsi que les gains nets mentionnés aux 1 et 1 bis
-du III de l'article 150-0 A du même code ;
+placement à risques ou par un fonds professionnel de capital investissement dans
+les conditions prévues aux I et II ou aux I et III bis de l'article 163
+quinquies B du code général des impôts, les distributions effectuées par les
+sociétés de capital-risque dans les conditions prévues aux deuxième à cinquième
+alinéas du I et au 2 du II de l'article 163 quinquies C du même code et celles
+effectuées par les sociétés unipersonnelles d'investissement à risque dans les
+conditions prévues à l'article 163 quinquies C bis du même code, lors de leur
+versement, ainsi que les gains nets mentionnés aux 1 et 1 bis du III de
+l'article 150-0 A du même code ;
 
 8° bis Les revenus, produits et gains non pris en compte pour le calcul des
 prélèvements prévus aux articles 117 quater, 125-0 A et 125 A du code général
@@ -219,7 +220,7 @@ l'excédent éventuel est restitué.
 4. Lorsque la contribution sociale généralisée réellement due au titre des mois
 de décembre et janvier est supérieure au versement réduit par l'établissement
 payeur en application du 2, la majoration prévue au 1 de l'article 1731 du code
-général des impôts s'applique à cette différence.L'assiette de cette majoration
+général des impôts s'applique à cette différence. L'assiette de cette majoration
 est toutefois limitée à la différence entre le montant du versement calculé dans
 les conditions du 1 et celui réduit dans les conditions du 2.
 

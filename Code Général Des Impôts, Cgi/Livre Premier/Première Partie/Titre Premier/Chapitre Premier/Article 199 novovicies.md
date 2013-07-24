@@ -147,10 +147,11 @@ l'impôt dû au titre de chacune des huit années suivantes à raison d'un neuvi
 de son montant total au titre de chacune de ces années.
 
 VIII. ― A. ― La réduction d'impôt est applicable, dans les mêmes conditions, à
-l'associé d'une société civile de placement immobilier régie par les articles L.
-214-50 à L. 214-84-3 du code monétaire et financier dont la quote-part de revenu
-est, en application de l'article 8 du présent code, soumise en son nom à l'impôt
-sur le revenu dans la catégorie des revenus fonciers.
+l'associé d'une société civile de placement immobilier régie par le paragraphe 4
+de la sous-section 2 de la section 2 du chapitre IV du titre Ier du livre II du
+code monétaire et financier dont la quote-part de revenu est, en application de
+l'article 8 du présent code, soumise en son nom à l'impôt sur le revenu dans la
+catégorie des revenus fonciers.
 
 B. ― La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de
 propriété est démembré, est subordonnée à la condition que 95 % de la

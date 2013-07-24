@@ -17,6 +17,5 @@ IV n'est pas pris en compte pour l'appréciation du plafond mentionné au premie
 alinéa. Il en est de même des droits utilisés pour alimenter un plan d'épargne
 d'entreprise, à condition qu'ils servent à l'acquisition de titres de
 l'entreprise ou d'une entreprise qui lui est liée au sens des articles L. 3344-1
-et L. 3344-2, ou de parts ou d'actions d'organismes de placement collectif en
-valeurs mobilières mentionnés aux articles L. 214-40 et L. 214-41 du code
-monétaire et financier.
+et L. 3344-2, ou de parts ou d'actions de fonds d'épargne salariale mentionnés
+aux articles L. 214-165 et L. 214-166 du code monétaire et financier.

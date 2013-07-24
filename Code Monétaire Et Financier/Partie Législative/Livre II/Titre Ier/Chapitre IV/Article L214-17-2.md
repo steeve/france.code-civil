@@ -1,7 +1,6 @@
 Article L214-17-2
 ----
-Les sommes distribuables par un organisme de placement collectif en valeurs
-mobilières sont constituées par :
+Les sommes distribuables par un OPCVM sont constituées par :
 
 1° Le résultat net augmenté du report à nouveau et majoré ou diminué du solde du
 compte de régularisation des revenus ;

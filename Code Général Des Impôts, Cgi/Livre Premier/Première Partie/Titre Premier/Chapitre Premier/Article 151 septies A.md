@@ -33,12 +33,16 @@ droits ou parts sont cédés ne sont pas détenus à hauteur de 25 % ou plus par
 entreprise ou par plusieurs entreprises ne répondant pas aux conditions du 5°,
 de manière continue au cours de l'exercice. Pour la détermination de ce
 pourcentage, les participations de sociétés de capital-risque, des fonds communs
-de placement à risques, des sociétés de développement régional, des sociétés
-financières d'innovation et des sociétés unipersonnelles d'investissement à
-risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
-dépendance au sens du 12 de l'article 39 entre la société ou le groupement en
-cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de
-manière continue au cours de l'exercice.
+de placement à risques, des fonds professionnels spécialisés relevant de
+l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure
+à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional, des sociétés financières d'innovation et des
+sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte
+à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de
+l'article 39 entre la société ou le groupement en cause et ces dernières
+sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours
+de l'exercice.
 
 I bis-L'exonération prévue au I s'applique dans les mêmes conditions aux
 plus-values en report d'imposition sur le fondement du I ter de l'article 93
@@ -131,9 +135,9 @@ terme du délai prévu à ce même b, l'exonération prévue au présent IV bis 
 remise en cause au titre de l'année au cours de laquelle intervient le terme de
 ce délai.
 
-V.-1.L'indemnité compensatrice versée à un agent général d'assurances exerçant à
-titre individuel par la compagnie d'assurances qu'il représente à l'occasion de
-la cessation du mandat bénéficie du régime mentionné au I si les conditions
+V.-1. L'indemnité compensatrice versée à un agent général d'assurances exerçant
+à titre individuel par la compagnie d'assurances qu'il représente à l'occasion
+de la cessation du mandat bénéficie du régime mentionné au I si les conditions
 suivantes sont réunies :
 
 a) Le contrat dont la cessation est indemnisée doit avoir été conclu depuis au
