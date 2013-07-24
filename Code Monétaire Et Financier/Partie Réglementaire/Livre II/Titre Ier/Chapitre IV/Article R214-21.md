@@ -49,7 +49,7 @@ ou s'il s'agit de titres émis par la caisse d'amortissement de la dette sociale
 
 2° Peut employer en obligations émises par une même entité jusqu'à 25 % de son
 actif si ces titres sont des obligations foncières émises par les sociétés de
-crédit foncier en application du 2° du I de l'article L. 515-13 ou des
+crédit foncier en application du 2° du I de l'article L. 513-2 ou des
 obligations émises par un établissement de crédit qui a son siège statutaire
 dans un Etat membre de l'Union européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen et qui est légalement soumis à une
@@ -77,7 +77,7 @@ mentionnés au IV ne sont pas pris en compte pour l'application de la limite de
 VII. ― Les limites prévues aux I à V ne peuvent être combinées et, par
 conséquent, les investissements dans des titres financiers éligibles ou des
 instruments du marché monétaire émis par la même entité ou dans des dépôts ou
-des contrats financiers conclus avec cette entité conformément aux I à V du
+des contrats financiers conclus avec cette entité conformément aux I à IV du
 présent article ne peuvent en aucun cas dépasser au total 35 % des actifs de
 l'OPCVM.
 
