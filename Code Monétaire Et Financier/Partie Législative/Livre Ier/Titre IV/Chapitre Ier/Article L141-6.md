@@ -1,16 +1,16 @@
 Article L141-6
 ----
 I.-La Banque de France est habilitée à se faire communiquer par les
-établissements de crédit, les établissements de monnaie électronique, les
-entreprises mentionnées au II de l'article L. 511-7 et aux articles L. 521-3, L.
-525-4 et L. 525-5, les établissements de paiement, les entreprises
-d'investissement, les OPCVM, les FIA relevant des paragraphes 1, 2 et 6 de la
-sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la
-sous-section 3, et de la sous-section 4 de la section 2 du chapitre IV du titre
-Ier du livre II, les compagnies financières, les entreprises d'assurance et de
-réassurance régies par le code des assurances et les entreprises industrielles
-et commerciales tous documents et renseignements qui lui sont nécessaires pour
-l'exercice de ses missions fondamentales.
+établissements de crédit, les sociétés de financement, les établissements de
+monnaie électronique, les entreprises mentionnées au II de l'article L. 511-7 et
+aux articles L. 521-3, L. 525-4 et L. 525-5, les établissements de paiement, les
+entreprises d'investissement, les OPCVM, les FIA relevant des paragraphes 1, 2
+et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe
+1 de la sous-section 3, et de la sous-section 4 de la section 2 du chapitre IV
+du titre Ier du livre II, les compagnies financières, les entreprises
+d'assurance et de réassurance régies par le code des assurances et les
+entreprises industrielles et commerciales tous documents et renseignements qui
+lui sont nécessaires pour l'exercice de ses missions fondamentales.
 
 II.-La Banque de France établit la balance des paiements et la position
 extérieure de la France. Elle contribue à l'élaboration de la balance des

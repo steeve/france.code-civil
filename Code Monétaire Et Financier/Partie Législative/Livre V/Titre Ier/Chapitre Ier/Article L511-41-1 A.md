@@ -1,11 +1,12 @@
 Article L511-41-1 A
 ----
-Au sein des établissements de crédit mentionnés à l'article L. 511-1, des
-entreprises d'investissement mentionnées à l'article L. 531-4 et des sociétés de
-capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
-portant diverses dispositions d'ordre économique et financier, d'une taille
-supérieure à des seuils fixés par décret, l'organe délibérant constitue, pour
-préparer ses décisions, un comité spécialisé en matière de rémunérations.
+Au sein des établissements de crédit et des sociétés de financement mentionnés à
+l'article L. 511-1, des entreprises d'investissement mentionnées à l'article L.
+531-4 et des sociétés de capital-risque visées à l'article 1er-1 de la loi n°
+85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et
+financier, d'une taille supérieure à des seuils fixés par décret, l'organe
+délibérant constitue, pour préparer ses décisions, un comité spécialisé en
+matière de rémunérations.
 
 Il est composé majoritairement de membres indépendants, compétents pour analyser
 les politiques et pratiques de l'entreprise en matière de rémunérations, y
@@ -26,6 +27,9 @@ les preneurs de risques, les personnes exerçant une fonction de contrôle, ains
 que tout salarié qui, au vu de ses revenus globaux, se trouve dans la même
 tranche de rémunération, dont les activités professionnelles ont une incidence
 significative sur le profil de risque de l'entreprise ou du groupe.
+professionnels des marchés financiers, dont les activités sont susceptibles
+d'avoir une incidence significative sur l'exposition aux risques de
+l'entreprise.
 
 Le comité peut être assisté par les services de contrôle interne ou des experts
 extérieurs. Il rend régulièrement compte de ses travaux à l'organe délibérant.

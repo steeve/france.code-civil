@@ -1,12 +1,14 @@
 Article L532-24-1
 ----
-I. ― Toute société de gestion de portefeuille ayant son siège social sur le
-territoire de la France métropolitaine, des départements d'outre-mer et de
-Saint-Martin et autorisée à gérer un OPCVM agréé conformément à la directive
-2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 qui veut
-établir une succursale dans un autre Etat membre de l'Union européenne ou partie
-à l'accord sur l'Espace économique européen notifie son projet à l'Autorité des
-marchés financiers selon des règles fixées par décret en Conseil d'Etat.
+I. - Toute société de gestion de portefeuille ayant son siège social sur le
+territoire de la France métropolitaine, des départements d'outre-mer, du
+département de Mayotte et de Saint-Martin et autorisée à gérer un OPCVM agréé
+conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
+13 juillet 2009 qui veut établir une succursale dans un autre Etat membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen notifie
+son projet à l'Autorité des marchés financiers selon des règles fixées par
+décret en Conseil d'Etat.
+
 L'Autorité des marchés financiers, à moins qu'elle n'ait des raisons de douter,
 compte tenu des activités envisagées, de l'adéquation des structures
 administratives ou de la situation financière de la société de gestion,
@@ -31,13 +33,14 @@ portefeuille pétitionnaire peut être établie et commencer à exercer ses
 activités.
 
 II. ― Toute société de gestion de portefeuille ayant son siège social sur le
-territoire de la France métropolitaine, des départements d'outre-mer et de
-Saint-Martin et autorisée à gérer un OPCVM agréé conformément à la directive
-2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009, qui veut
-exercer ses activités sur le territoire d'un autre Etat membre de l'Union
-européenne ou partie à l'accord sur l'Espace économique européen en libre
-prestation de services, le déclare à l'Autorité des marchés financiers dans les
-conditions et selon des modalités fixées par décret en Conseil d'Etat.
+territoire de la France métropolitaine, des départements d'outre-mer, du
+Département de Mayotte et de Saint-Martin et autorisée à gérer un OPCVM agréé
+conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
+13 juillet 2009, qui veut exercer ses activités sur le territoire d'un autre
+Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen en libre prestation de services, le déclare à l'Autorité des marchés
+financiers dans les conditions et selon des modalités fixées par décret en
+Conseil d'Etat.
 
 L'Autorité des marchés financiers communique, dans un délai d'un mois à compter
 de la réception de toutes les informations requises dans la déclaration prévue

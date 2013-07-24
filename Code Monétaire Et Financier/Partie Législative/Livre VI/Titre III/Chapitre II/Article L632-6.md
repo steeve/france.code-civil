@@ -22,10 +22,10 @@ conformément à la directive 2009/65/ CE du Parlement européen et du Conseil d
 13 juillet 2009, aux sociétés de gestion de FIA au sens de la directive 2011/61/
 UE du Parlement européen et du Conseil du 8 juin 2011, aux marchés réglementés
 ou aux entreprises de marché sont susceptibles d'avoir été commis sur le
-territoire de la France métropolitaine ou des départements d'outre-mer ou de
-Saint-Martin par une entité non soumise à la surveillance de cette autorité,
-elle prend les mesures appropriées. Elle communique les résultats de son
-intervention à l'autorité compétente qui l'a informée ainsi qu'à l'Autorité
-européenne des marchés financiers dans le cas d'une société de gestion de FIA,
-et, dans la mesure du possible, lui communique les éléments importants
-intervenus dans l'intervalle.
+territoire de la France métropolitaine ou des départements d'outre-mer ou du
+Département de Mayotte ou de Saint-Martin par une entité non soumise à la
+surveillance de cette autorité, elle prend les mesures appropriées. Elle
+communique les résultats de son intervention à l'autorité compétente qui l'a
+informée ainsi qu'à l'Autorité européenne des marchés financiers dans le cas
+d'une société de gestion de FIA, et, dans la mesure du possible, lui communique
+les éléments importants intervenus dans l'intervalle.

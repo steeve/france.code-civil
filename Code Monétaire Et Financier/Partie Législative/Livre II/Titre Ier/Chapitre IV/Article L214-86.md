@@ -1,12 +1,9 @@
 Article L214-86
 ----
-Les sociétés civiles de placement immobilier ou sociétés d'épargne forestière
-peuvent procéder à une offre au public de leurs parts sociales, sous réserve que
-les parts détenues par les membres fondateurs représentent une valeur totale au
-moins égale au capital social minimal tel que celui-ci est fixé à l'article L.
-214-88 et qu'elles justifient d'une garantie bancaire, approuvée par l'Autorité
-des marchés financiers et destinée à faire face au remboursement prévu à
-l'article L. 214-116.
-
-Les parts ainsi détenues par les fondateurs sont inaliénables pendant trois ans
-à compter de la délivrance du visa de l'Autorité des marchés financiers.
+La part de l'actif des sociétés d'épargne forestière constituée de bois et
+forêts est fixée à 51 % lorsque ces sociétés consacrent, dans des conditions
+définies par décret en Conseil d'Etat, une fraction de leur actif à la
+bonification ou à la garantie de prêts accordés par des établissements de crédit
+ou des sociétés de financement agréés par l'autorité administrative pour
+financer des opérations d'investissement, de valorisation ou d'exploitation des
+bois et forêts.
