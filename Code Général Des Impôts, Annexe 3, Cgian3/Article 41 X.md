@@ -1,9 +1,10 @@
 Article 41 X
 ----
-Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs
-de ce fonds agissant pour le compte du gérant adresse avant le 16 février de
-chaque année, à la direction départementale ou, le cas échéant, régionale des
-finances publiques désignée à l'article 41 duovicies G :
+Le gérant d'un fonds commun de placement à risques ou d'un fonds professionnel
+de capital investissement, ou le dépositaire des actifs de ce fonds agissant
+pour le compte du gérant adresse avant le 16 février de chaque année, à la
+direction départementale ou, le cas échéant, régionale des finances publiques
+désignée à l'article 41 duovicies G :
 
 a) Une copie de l'engagement prévu au I de l'article 163 quinquies B du code
 général des impôts ;

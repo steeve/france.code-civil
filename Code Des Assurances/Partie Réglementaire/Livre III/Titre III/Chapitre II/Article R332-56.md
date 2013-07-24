@@ -15,8 +15,8 @@ positives et négatives ;
 c) Elle prévoit que la garantie prend la forme de remises en pleine propriété,
 opposables aux tiers sans formalité, d'espèces, de valeurs mentionnées au 1° du
 A de l'article R. 332-2, ou de parts ou d'actions d'organismes de placement
-collectif en valeurs mobilières mentionnés au 3° de cet article dont le
-portefeuille est exclusivement composé des valeurs mentionnées au 1° de cet
+collectif en valeurs mobilières ou de FIA mentionnés au 3° de cet article dont
+le portefeuille est exclusivement composé des valeurs mentionnées au 1° de cet
 article ;
 
 d) Elle prévoit que les lois ou règlements régissant la contrepartie, notamment

@@ -1,5 +1,6 @@
 Article R214-148
 ----
-L'ensemble des caractéristiques du patrimoine forestier d'une société d'épargne
-forestière et des risques encourus doit faire l'objet d'une information auprès
-des acquéreurs de parts de cette société.
+Les procès-verbaux sont établis sur un registre spécial tenu au siège de la
+société. Ce registre est coté et paraphé par un juge du tribunal d'instance ou
+par le maire de la commune ou l'un de ses adjoints, dans la forme ordinaire et
+sans frais.

@@ -17,8 +17,8 @@ l'article R. 212-31 et par les actions et parts mentionnées aux 9°, 10°, 10°
 bis, 10 ter, 11° et 14° quater du même article et par les prêts mentionnés
 ci-dessus ;
 
-2° 40 % pour les actifs immobiliers mentionnés aux 13°, 14° ter et 14° quinquies
-de l'article R. 212-31 ;
+2° 40 % pour les actifs immobiliers mentionnés aux 13° et 14° quinquies de
+l'article R. 212-31 ;
 
 3° 10 % pour l'ensemble des valeurs mentionnées aux 15°, 16° et 17° de l'article
 R. 212-31 à l'exception des prêts mentionnés au 1° du présent article ;

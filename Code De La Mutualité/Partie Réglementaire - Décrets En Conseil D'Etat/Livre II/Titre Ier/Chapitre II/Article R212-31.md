@@ -18,10 +18,10 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 membre de l'OCDE ;
 
 2° Obligations, parts ou actions émises par un organisme de titrisation régi par
-la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
-financier ou par un organisme de droit étranger ayant un objet équivalent et
-titres participatifs, autres que celles et ceux visés au 1°, et négociés sur un
-marché reconnu ;
+la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du
+code monétaire et financier ou par un organisme de droit étranger ayant un objet
+équivalent et titres participatifs, autres que celles et ceux visés au 1°, et
+négociés sur un marché reconnu ;
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
@@ -36,9 +36,9 @@ les titres sont négociés sur un marché reconnu ;
 
 4° bis Obligations, parts ou actions répondant aux conditions mentionnées aux a,
 b et c de l'article R. 212-47, émises par un organisme de titrisation régi par
-la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
-financier ou par un organisme de droit étranger ayant un objet équivalent,
-respectant les règles prévues à l'article R. 212-47-1 ;
+la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du
+code monétaire et financier ou par un organisme de droit étranger ayant un objet
+équivalent, respectant les règles prévues à l'article R. 212-47-1 ;
 
 5° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
@@ -59,8 +59,8 @@ titres participatifs et titres subordonnés émis par les sociétés d'assurance
 mutuelles, les mutuelles, unions et fédérations régies par le présent code et
 les institutions de prévoyance régies par le titre III du livre IX du code de la
 sécurité sociale, ayant leur siège social sur le territoire de l'un des Etats
-membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 4° bis , 5°,
-6°, 7°, 8°, 10° bis, 12° et 14° ;
+membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 4° bis, 5°, 6°,
+7°, 8°, 10° bis, 12° et 14° ;
 
 10° Parts des fonds communs de placement à risques de l'article L. 214-28 du
 code monétaire et financier, parts des fonds communs de placement dans
@@ -68,20 +68,19 @@ l'innovation de l'article L. 214-30 du même code et parts des fonds
 d'investissement de proximité de l'article L. 214-31 du même code ;
 
 10° bis Actions des sociétés d'investissement à capital variable et parts de
-fonds communs de placement des articles L. 214-38 et L. 214-38-1 du code
-monétaire et financier, actions ou parts d'organisme de placement collectif en
-valeurs mobilières relevant de l'article L. 214-36 du code monétaire et
-financier, actions ou parts d'organismes de placement collectif en valeurs
-mobilières relevant de l'article L. 214-35 du code monétaire et financier dans
-sa rédaction antérieure au 2 août 2003 ;
+fonds communs de placement des articles L. 214-160 et L. 214-161 du code
+monétaire et financier, actions ou parts de placements collectifs relevant de
+l'article L. 214-154 du code monétaire et financier, actions ou parts
+d'organismes de placement collectif en valeurs mobilières relevant de l'article
+L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août
+2003 ;
 
-10° ter Parts ou actions d'organismes de placement collectif en valeurs
-mobilières à règles d'investissement allégées mentionnés à l'article R. 214-83
-du code monétaire et financier ;
+10° ter Parts ou actions de fonds professionnels à vocation générale mentionnés
+à l'article R. 214-190 du code monétaire et financier ;
 
-11° Parts ou actions d'organismes de placement collectifs en valeur mobilières
-de fonds alternatifs mentionnés à l'article R. 214-86 du code monétaire et
-financier ;
+11° Parts ou actions de fonds de fonds alternatifs mentionnés à l'article R.
+214-186 du code monétaire et financier et des placements collectifs mentionnés
+au III de l'article L. 214-24 du même code ;
 
 12° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement, autres que celles mentionnées aux 5°, 10°, 10° bis, 10°
@@ -98,7 +97,9 @@ déclaration et de transparence.
 B.-Actifs immobiliers :
 
 13° Droits réels immobiliers afférents à des immeubles situés sur le territoire
-de l'un des Etats membres de l'OCDE ;
+de l'un des Etats membres de l'OCDE et actions de sociétés d'épargne forestière
+relevant du paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du
+titre Ier du livre II du code monétaire et financier ;
 
 14° Parts ou actions des sociétés à objet strictement immobilier, parts des
 sociétés civiles à objet strictement foncier, ayant leur siège social sur le
@@ -106,22 +107,20 @@ territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par
 l'article R. 212-48 ;
 
 14° bis Parts ou actions d'organismes de placement collectif immobilier relevant
-de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et
-financier, autres que ceux mentionnés aux 14 ter à 14 quinquies ;
+du paragraphe 3 de la sous-section 2 de la section 2 du chapitre IV du titre Ier
+du livre II du code monétaire et financier, autres que ceux mentionnés au 14
+quinquies ;
 
-14° ter Parts ou actions d'organismes de placement collectif immobilier relevant
-du paragraphe 2 de la sous-section 4 de la section 5 du chapitre IV du titre Ier
-du livre II du code monétaire et financier ;
+14° ter (Abrogé) ;
 
-14° quater Parts ou actions d'organismes de placement collectif immobilier
-relevant du paragraphe 3 de la sous-section 4 de la section 5 du chapitre IV du
-titre Ier du livre II du code monétaire et financier ;
+14° quater Parts ou actions d'organismes professionnels de placement collectif
+immobilier relevant du sous-paragraphe 2 du paragraphe 1 de la sous-section 3 de
+la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ;
 
 14° quinquies Parts ou actions d'organismes de placement collectif immobilier
-mentionnés au sous-paragraphe 7 du paragraphe 1 de la sous-section 1 de la
-section 5 du chapitre IV du titre Ier du livre II du code monétaire et
-financier, lorsqu'ils exercent la dérogation prévue à l'article R. 214-200 du
-même code.
+mentionnés à l'article R. 214-120 du code monétaire et financier, lorsqu'ils
+exercent la dérogation prévue à ce même article.
 
 C.-Prêts et dépôts :
 

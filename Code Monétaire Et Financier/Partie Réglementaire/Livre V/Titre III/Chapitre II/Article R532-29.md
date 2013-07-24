@@ -11,5 +11,4 @@ l'attestation mentionnée au III de l'article R. 532-28 et informe les autorité
 compétentes de l'Etat membre d'accueil de la société de gestion de portefeuille
 de tout changement dans le champ d'application de l'agrément accordé à ladite
 société ou dans les précisions relatives à toute restriction éventuelle sur les
-types d'organismes de placement collectif en valeurs mobilières que cette
-société est habilitée à gérer.
+types d'OPCVM que cette société est habilitée à gérer.

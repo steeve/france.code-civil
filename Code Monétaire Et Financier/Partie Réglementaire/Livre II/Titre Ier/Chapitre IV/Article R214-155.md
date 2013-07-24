@@ -1,24 +1,24 @@
 Article R214-155
 ----
-Le projet de fusion est arrêté par la société de gestion de chacune des sociétés
-d'épargne forestière et le gérant de chaque groupement forestier participant à
-l'opération.
+I.-Les immeubles mentionnés aux articles L. 214-114 et L. 214-115 éligibles à
+l'actif d'une société civile de placement immobilier sont :
 
-Il doit contenir les indications suivantes :
+1° Les immeubles loués ou offerts à la location à la date de leur acquisition
+par la société ;
 
-1° L'état des biens du patrimoine forestier, la dénomination et le siège social
-de toutes les sociétés participant à la fusion, la liste des servitudes et
-hypothèques pesant sur les biens des sociétés ;
+2° Les immeubles qu'elle fait construire, réhabiliter ou rénover en vue de la
+location ;
 
-2° Les motifs, les buts et les conditions de la fusion : ces indications sont
-accompagnées des documents prévus à l'article R. 214-130 et, à l'article R.
-214-158, auquel peut s'ajouter le rapport du commissaire aux apports ;
+3° Les terrains nus situés dans une zone urbaine ou à urbaniser délimitée par un
+document d'urbanisme.
 
-3° Les dates auxquelles ont été arrêtés les comptes des sociétés intéressées
-pour établir les conditions de l'opération ;
+Les immeubles mentionnés au 2° peuvent être acquis par des contrats de vente à
+terme, de vente en l'état futur d'achèvement ou de vente d'immeubles à rénover
+ou à réhabiliter.
 
-4° Les parités d'échange et le mode de calcul ;
+La société civile de placement immobilier peut conclure des contrats de
+promotion immobilière en vue de la construction d'immeubles mentionnés au 2°.
 
-5° La date de la fusion ;
-
-6° L'agrément du projet de fusion par l'Autorité des marchés financiers.
+II.-Les immeubles mentionnés au 3° du I ne peuvent représenter plus de 10 % de
+la valeur vénale du patrimoine immobilier de la société civile de placement
+immobilier.

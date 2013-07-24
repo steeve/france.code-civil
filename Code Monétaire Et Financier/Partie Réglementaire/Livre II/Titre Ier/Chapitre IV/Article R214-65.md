@@ -1,7 +1,8 @@
 Article R214-65
 ----
-Pour l'appréciation du quota de 60 % figurant au I de l'article L. 214-31 : 1°
-Le numérateur est constitué par le prix de souscription ou d'acquisition des
+Pour l'appréciation du quota de 60 % figurant au I de l'article L. 214-31 :
+
+1° Le numérateur est constitué par le prix de souscription ou d'acquisition des
 titres ou droits du portefeuille et la valeur comptable des autres actifs.
 
 Le dénominateur est constitué par le montant libéré des souscriptions dans le

@@ -3,7 +3,8 @@ Article D214-80-2
 I.-Le bulletin de souscription rédigé en vue de la commercialisation des parts
 des fonds mentionnés au 1 du VI, au VI bis et au VI ter de l'article 199
 terdecies-0 A du code général des impôts ainsi qu'au 1 du III de l'article 885-0
-V bis du même code comporte notamment les éléments suivants :
+V bis du même code comporte notamment les éléments suivants, sous forme de
+tableau :
 
 1° Le montant total du versement initial effectivement versé, y compris les
 droits d'entrée, exprimé en euros ;
@@ -41,18 +42,15 @@ bénéficier du pourcentage mentionné au 1° ;
 
 3° Lorsqu'elles sont prévues, les conditions de rentabilité du fonds qui doivent
 être réunies pour que les titulaires de parts dotées de droits différenciés
-puissent bénéficier du pourcentage mentionné au 1°.
+puissent bénéficier du pourcentage mentionné au 1.
 
-III.-Avant la mention écrite " Lu et approuvé " dans le bulletin de souscription
-aux parts ordinaires des fonds mentionnés à l'article D. 214-80, le souscripteur
-confirme qu'il a pris connaissance des frais de commercialisation, de placement
-et de gestion susceptibles d'être appliqués et consent à ce que ces frais soient
-prélevés, dans la limite de la durée maximale mentionnée au 4° du I du présent
-article et des taux maximaux mentionnés aux 5° et 6° de ce même I.
+III.-Avant la mention manuscrite " Lu et approuvé " dans le bulletin de
+souscription aux parts ordinaires des fonds mentionnés à l'article D. 214-80, le
+souscripteur confirme qu'il a pris connaissance des frais de commercialisation,
+de placement et de gestion susceptibles d'être appliqués et consent à ce que ces
+frais soient prélevés, dans la limite de la durée maximale mentionnée au 4° du I
+du présent article et des taux maximaux mentionnés aux 5° et 6° de ce même I.
 
 Il est également précisé, dans le bulletin de souscription, avant la mention
-écrite " Lu et approuvé ", que les droits d'entrée sont négociables par le
+manuscrite " Lu et approuvé ", que les droits d'entrée sont négociables par le
 souscripteur auprès du distributeur.
-
-IV.-Un arrêté du ministre chargé de l'économie précise les conditions
-d'application du présent article.

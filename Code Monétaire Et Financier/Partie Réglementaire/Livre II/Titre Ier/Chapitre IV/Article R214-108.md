@@ -1,4 +1,18 @@
 Article R214-108
 ----
-Le passif d'un fonds commun de titrisation comprend à tout moment un nombre
-minimum de deux parts.
+Dans le cadre de la gestion de participations dans des sociétés mentionnées aux
+2° et 3° du I de l'article L. 214-36, un organisme de placement collectif
+immobilier peut conclure avec des tiers des conventions de garanties d'actif et
+de passif ainsi que toute convention faisant peser sur l'organisme un engagement
+financier autre qu'un engagement d'achat ou de vente de telles participations,
+lorsque les conditions suivantes sont remplies :
+
+1° Le montant des engagements correspondants doit être déterminable ;
+
+2° La société de gestion ne peut conclure des conventions par l'effet desquelles
+pèseraient sur l'actif de l'organisme des engagements à hauteur, globalement, de
+plus de 50 % ;
+
+3° La société de gestion tient à la disposition des porteurs de parts ou
+d'actions de l'organisme une liste de ces engagements indiquant leur nature et
+leur montant estimé.

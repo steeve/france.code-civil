@@ -1,5 +1,5 @@
 Article R214-215
 ----
-Les organismes de placement collectif immobilier à règles de fonctionnement
-allégées sont dits sans effet de levier lorsqu'ils restent soumis aux limites
-d'endettement prévues aux articles L. 214-95 et L. 214-96.
+La gestion de l'actif d'une société d'investissement à capital variable
+d'actionnariat salarié définie à l'article L. 214-166 est régie par les
+dispositions applicables aux fonds mentionnés à l'article L. 214-165.

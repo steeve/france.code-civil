@@ -1,10 +1,11 @@
 Article 171 AW
 ----
-I.-La société de gestion du fonds commun de placement à risques adresse, dans
-les quatre mois qui suivent la clôture de l'exercice du fonds, la déclaration
-prévue au I de l'article 242 quinquies du code général des impôts, établie sur
-papier libre, qui mentionne pour chaque investissement retenu pour le calcul du
-quota de 50 % prévu au 1° du II de l'article 163 quinquies B du même code :
+I. - La société de gestion du fonds commun de placement à risques ou du fonds
+professionnel de capital investissement adresse, dans les quatre mois qui
+suivent la clôture de l'exercice du fonds, la déclaration prévue au I de
+l'article 242 quinquies du code général des impôts, établie sur papier libre,
+qui mentionne pour chaque investissement retenu pour le calcul du quota de 50 %
+prévu au 1° du II de l'article 163 quinquies B du même code :
 
 1° La dénomination de la société ou de l'entité, l'adresse de son siège social
 et de son siège de direction effective si elle est différente ;
@@ -20,10 +21,11 @@ entreprise de marché ou un prestataire de services d'investissement ;
 de 50 % précité et pour la limite de 20 % prévue au III de l'article L. 214-28
 du code monétaire et financier.
 
-II.-Lorsque le fonds commun de placement à risques investit dans des sociétés
-mentionnées au premier alinéa du 1° quater du II de l'article 163 quinquies B du
-code général des impôts ou dans des entités mentionnées au l° quinquies du même
-II, la société de gestion joint en outre à la déclaration mentionnée au I :
+II. - Lorsque le fonds commun de placement à risques ou le fonds professionnel
+de capital investissement investit dans des sociétés mentionnées au premier
+alinéa du 1° quater du II de l'article 163 quinquies B du code général des
+impôts ou dans des entités mentionnées au l° quinquies du même II, la société de
+gestion joint en outre à la déclaration mentionnée au I :
 
 1° Un état, établi sur papier libre, qui fait apparaître, pour chaque
 investissement dans des sociétés mentionnées au premier alinéa du 1° quater du

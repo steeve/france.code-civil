@@ -1,7 +1,8 @@
 Article R214-47
 ----
-Pour l'appréciation du quota de 60 % figurant au I de l'article L. 214-30 : 1°
-Le numérateur est constitué par le prix de souscription ou d'acquisition des
+Pour l'appréciation du quota de 60 % figurant au I de l'article L. 214-30 :
+
+1° Le numérateur est constitué par le prix de souscription ou d'acquisition des
 titres ou droits du portefeuille et la valeur comptable des autres actifs.
 
 Le dénominateur est constitué par le montant libéré des souscriptions dans le
@@ -14,7 +15,7 @@ réinvestissement prévue à l'article 163 quinquies B du code général des imp
 2° Lorsqu'une société dont les titres ou droits sont inclus dans le quota de 60
 % fait l'objet d'une liquidation judiciaire, les titres ou droits annulés sont
 réputés maintenus à l'actif pour leur prix de souscription ou d'acquisition
-pendant cinq ans à compter du jugement de clôture de liquidation ; lorsqu'une
+pendant cinq ans à compter du jugement de clôture de liquidation. Lorsqu'une
 société dont les titres ou droits sont inclus dans le quota de 60 % connaît des
 difficultés de nature à compromettre la continuité de l'exploitation au sens de
 l'article L. 234-1 du code de commerce et fait l'objet d'une liquidation amiable
@@ -29,17 +30,17 @@ compétents de la société ;
 cession, les titres ou droits cédés sont réputés maintenus à l'actif pour leur
 prix de souscription ou d'acquisition pendant une durée de deux ans à compter de
 la date de la cession. Au-delà de ce délai, lorsque le fonds procède à une
-distribution ou un rachat de parts à hauteur du produit de la cession, le
+distribution ou à un rachat de parts à hauteur du produit de la cession, le
 montant de la distribution ou du rachat qui n'a pas été déduit en application
 des dispositions du 1° est déduit du dénominateur dans la limite du prix de
-souscription ou d'acquisition des titres ou droits cédés ; à compter de la date
-à laquelle le fonds peut entrer en période de préliquidation telle que
-mentionnée aux articles R. 214-53 et R. 214-54, le dénominateur peut, le cas
-échéant, être diminué du montant de la distribution du prix de cession des
-titres ou droits non inclus dans le quota de 60 % dans la limite du prix de
-souscription ou d'acquisition de ces mêmes titres ou droits, sous réserve que le
-quota de 60 % ait été atteint avant cette date et que toute nouvelle libération
-de souscriptions à laquelle le fonds procède serve à couvrir des frais ou à
+souscription ou d'acquisition des titres ou droits cédés. A compter de la date à
+laquelle le fonds peut entrer en période de préliquidation telle que mentionnée
+aux articles R. 214-53 et R. 214-54, le dénominateur peut, le cas échéant, être
+diminué du montant de la distribution du prix de cession des titres ou droits
+non inclus dans le quota de 60 % dans la limite du prix de souscription ou
+d'acquisition de ces mêmes titres ou droits, sous réserve que le quota de 60 %
+ait été atteint avant cette date et que toute nouvelle libération de
+souscriptions à laquelle le fonds procède serve à couvrir des frais ou à
 réaliser des investissements complémentaires en titres ou droits déjà inscrits à
 l'actif ;
 

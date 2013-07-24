@@ -1,12 +1,9 @@
 Article R214-121
 ----
-Toute personne a le droit, à toute époque, d'obtenir au siège de la société la
-délivrance d'une copie certifiée conforme des statuts de cette société en
-vigueur au jour de la demande.
-
-La société doit annexer à ce document la liste, comportant leur nom, prénom
-usuel et domicile, des dirigeants de la société de gestion, des membres du
-conseil de surveillance et des commissaires aux comptes en exercice.
-
-Elle ne peut, pour cette délivrance, exiger le paiement d'une somme supérieure à
-1,5 euro.
+Pour l'appréciation du ratio de 20 % mentionné à l'article R. 214-86 aux
+organismes de placement collectif immobilier mentionnés à l'article R. 214-120,
+il est également tenu compte pour l'application du III de l'article R. 214-87
+des immeubles construits, loués ou offerts à la location, détenus directement
+par les organismes mentionnés au 5° du I de l'article L. 214-36, au prorata des
+participations directes ou indirectes de l'organisme de placement collectif
+immobilier dans ces organismes.

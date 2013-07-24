@@ -1,15 +1,13 @@
 Article R214-18
 ----
-I.-Un organisme de placement collectif en valeurs mobilières peut recourir aux
-techniques et aux instruments qui portent sur des titres financiers éligibles et
-des instruments du marché monétaire, et notamment à des opérations de pension, à
-des opérations assimilées d'acquisition ou de cession temporaire de titres, pour
-autant que ces techniques et ces instruments soient employés aux fins d'une
-gestion efficace du portefeuille. En aucun cas, ces techniques et instruments
-n'amènent l'organisme de placement collectif en valeurs mobilières à s'écarter
-de ses objectifs d'investissement tels qu'exposés dans le règlement du fonds,
-les statuts de la SICAV, ou dans le prospectus de l'organisme de placement
-collectif en valeurs mobilières.
+I.-Un OPCVM peut recourir aux techniques et aux instruments qui portent sur des
+titres financiers éligibles et des instruments du marché monétaire, et notamment
+à des opérations de pension, à des opérations assimilées d'acquisition ou de
+cession temporaire de titres, pour autant que ces techniques et ces instruments
+soient employés aux fins d'une gestion efficace du portefeuille. En aucun cas,
+ces techniques et instruments n'amènent l'OPCVM à s'écarter de ses objectifs
+d'investissement tels qu'exposés dans le règlement du fonds, les statuts de la
+SICAV, ou dans le prospectus de l'OPCVM.
 
 II.-Les techniques et instruments mentionnés au I satisfont aux critères
 suivants :
@@ -23,12 +21,10 @@ a) Réduction des risques ;
 
 b) Réduction des coûts ;
 
-c) Création de capital ou de revenus supplémentaires pour l'organisme de
-placement collectif en valeurs mobilières ;
+c) Création de capital ou de revenus supplémentaires pour l'OPCVM ;
 
 3° Les risques qu'ils comportent sont pris en considération de manière
-appropriée par le processus de gestion des risques de l'organisme de placement
-collectif en valeurs mobilières.
+appropriée par le processus de gestion des risques de l' OPCVM.
 
 III.-Les opérations mentionnées au I satisfont en outre aux critères suivants :
 

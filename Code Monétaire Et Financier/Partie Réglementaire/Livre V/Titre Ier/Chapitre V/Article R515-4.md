@@ -5,20 +5,20 @@ entité similaire mentionnés à l'article L. 515-16 ne peuvent être refinancé
 des ressources privilégiées que dans la limite du plus petit des montants
 ci-dessous :
 
-1.L'encours des parts ou titres émis par cet organisme de titrisation ou entité
+1. L'encours des parts ou titres émis par cet organisme de titrisation ou entité
 similaire et détenus par la société de crédit foncier, à l'exclusion des parts
 spécifiques et titres de créances supportant le risque de défaillance des
 débiteurs ;
 
 2. La somme des capitaux restant dus des prêts à l'actif de cet organisme de
 titrisation ou entité similaire, majorée des liquidités de cet organisme de
-titrisation ou entité similaire définies à l'article R. 214-95 ;
+titrisation ou entité similaire définies à l'article R. 214-220 ;
 
 3. Le produit de la valeur des biens financés ou apportés en garantie des prêts
 figurant à l'actif de l'organisme de titrisation ou de l'entité similaire par
 les quotités visées à l'article R. 515-2 en fonction de la nature de l'actif du
 fonds. Ce produit est majoré des liquidités de l'organisme de titrisation ou
-entité similaire définies à l'article R. 214-95.
+entité similaire définies à l'article R. 214-220.
 
 Ces montants sont ceux constatés lors du lancement de l'organisme de titrisation
 ou de l'entité similaire, le cas échéant lors d'un rechargement ultérieur ou
@@ -59,7 +59,7 @@ les obligations foncières ;
 b) Une société appartenant au même groupe ou un organisme affilié au même organe
 central que la société de crédit foncier émettrice des obligations foncières
 conserve la totalité des parts subordonnées aux autres types de parts,
-conformément aux modalités prévues à l'article L. 214-43.
+conformément aux modalités prévues à l'article L. 214-169.
 
 V.-Au cas où les parts ou titres de créances émis par un organisme de
 titrisation ou une entité similaire mentionnés à l'article L. 515-16 ont été

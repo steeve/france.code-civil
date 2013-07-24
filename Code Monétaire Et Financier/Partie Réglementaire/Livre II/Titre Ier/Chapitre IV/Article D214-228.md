@@ -1,69 +1,42 @@
 Article D214-228
 ----
-Le prestataire de services d'investissement mentionné à l'article L. 214-150
-établit avec la SICAF une convention écrite qui comporte au moins les clauses
-suivantes :
+I.-Le compte spécialement affecté au profit de l'organisme de titrisation, prévu
+à l'article L. 214-173, est un compte bancaire tenu par un établissement de
+crédit dont le siège est établi dans un Etat partie à l'accord sur l'Espace
+économique européen ou membre de l'Organisation de coopération et de
+développement économiques, y compris un compte existant ouvert au nom de toute
+entité chargée de l'encaissement de sommes dues ou bénéficiant directement ou
+indirectement à l'organisme.
 
-1° L'identité des parties ainsi que le nom de la ou des personnes habilitées à
-agir au nom et pour le compte de la SICAF ;
+Le caractère spécialement affecté de ce compte prend effet à la signature d'une
+convention de compte passée entre la société de gestion de l'organisme, le
+dépositaire de la trésorerie et des créances de l'organisme, une entité chargée
+de l'encaissement de sommes dues ou bénéficiant directement ou indirectement à
+l'organisme et l'établissement teneur de compte, sans qu'il soit besoin d'autre
+formalité.
 
-2° Les clauses relatives à :
+II.-Les sommes portées au crédit du compte bénéficient exclusivement à
+l'organisme. La société de gestion de l'organisme dispose de ces sommes dans des
+conditions définies dans la convention de compte.
 
-a) Tous les services fournis ainsi que les catégories d'instruments financiers
-sur lesquelles portent ces services ;
+Lorsque des sommes autres que celles dues ou bénéficiant à l'organisme sont
+versées sur ce compte, l'entité chargée de l'encaissement de sommes dues ou
+bénéficiant directement ou indirectement à l'organisme fait la preuve que ces
+sommes ne sont pas dues à l'organisme. Ces sommes sont alors retirées du compte
+dans les meilleurs délais selon des conditions définies dans la convention de
+compte.
 
-b) La tarification des services fournis par le prestataire de services
-d'investissement ;
+III.-L'établissement teneur de compte est assujetti aux obligations suivantes :
 
-c) La durée de validité de la convention ;
+1° Il informe les tiers saisissant le compte que ce dernier fait l'objet d'une
+affectation spéciale, en application de l'article L. 214-172, au profit de
+l'organisme de titrisation, rendant le compte et les sommes qui y sont portées
+indisponibles ;
 
-d) Les obligations de confidentialité à la charge des parties conformément aux
-lois et règlements en vigueur relatifs au secret professionnel ;
+2° Il ne peut effectuer d'opérations de fusion du compte avec un autre compte ;
 
-3° Lorsque le prestataire de services d'investissement n'effectue pas la
-compensation des contrats financiers :
-
-a) L'identité de l'établissement désigné pour assurer la compensation des
-contrats financiers ;
-
-b) Les modalités de transmission au prestataire de services d'investissement des
-instructions relatives à la constitution des couvertures des opérations, les
-modalités d'appel de marges et de dépôts de garantie auprès de l'établissement
-compensateur ;
-
-4° Les informations relatives aux obligations en matière de lutte contre le
-blanchiment de capitaux et le financement du terrorisme ;
-
-5° Le cas échéant, l'usage que le prestataire de services d'investissement peut,
-après accord exprès de la société de gestion de portefeuille, faire des
-instruments financiers qu'il conserve ;
-
-6° Les modalités de transmission et la nature des informations permettant au
-prestataire de services d'investissement de conserver les actifs, de contrôler
-l'inventaire de la SICAF, de contrôler la régularité des décisions et de
-s'assurer de la sécurité des opérations de la SICAF ;
-
-7° Les modalités de transmission des instructions entre la SICAF et le
-prestataire de services d'investissement ;
-
-8° Les modalités de communication de l'inventaire, notamment :
-
-a) Les modalités de communication au prestataire de services d'investissement
-d'un inventaire détaillé permettant l'identification exhaustive de chacun des
-actifs détenus par la SICAF et d'un inventaire valorisé ;
-
-b) Les modalités de communication à la société de gestion, de l'inventaire issu
-de la conservation des actifs par le prestataire de services d'investissement
-tel que mentionné à l'article D. 214-227 ;
-
-9° La liste des informations que le prestataire de services d'investissement
-doit remettre à la société de gestion de portefeuille afin d'établir les
-déclarations fiscales.
-
-Le cas échéant, la convention prévoit les modalités de sous-conservation des
-actifs de la SICAF lorsque le prestataire de services d'investissement mentionné
-au premier alinéa recourt à un mandataire pour le représenter dans tout ou
-partie des tâches liées à son activité de conservation. La convention prévoit
-également un préavis de résiliation de trois mois minimum. Toutefois, elle peut
-prévoir que ce préavis peut être réduit, d'un commun accord des parties, au
-moment de sa résiliation.
+3° Il se conforme aux seules instructions de la société de gestion de
+l'organisme pour les opérations de débit du compte, sauf si la convention de
+compte autorise l'entité chargée de l'encaissement de sommes dues ou bénéficiant
+directement ou indirectement à l'organisme à procéder à des débits du compte
+dans des conditions qu'elle définit.

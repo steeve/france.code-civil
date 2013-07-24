@@ -1,20 +1,40 @@
 Article R214-160
 ----
-Les immeubles mentionnés au a du I de l'article L. 214-92 éligibles à l'actif
-d'un organisme de placement collectif immobilier sont :
+Une société civile de placement immobilier peut transmettre son patrimoine par
+voie de scission mentionnée au premier alinéa de l'article L. 214-118 à
+plusieurs organismes de placement collectif immobilier ou organismes
+professionnels de placement collectif immobilier prenant la forme d'un fonds de
+placement immobilier, d'un fonds professionnel de placement immobilier, d'une
+société de placement à prépondérance immobilière à capital variable ou d'une
+société professionnelle de placement à prépondérance immobilière à capital
+variable.
 
-1° Les immeubles loués ou offerts à la location à la date de leur acquisition
-par l'organisme ;
+Un mois au moins avant la date de l'assemblée générale appelée à se prononcer
+sur la scission, le projet de scission fait l'objet d'un avis inséré au Bulletin
+des annonces légales obligatoires et d'un dépôt au greffe du tribunal de
+commerce du siège de la société civile de placement immobilier. Cet avis
+comporte les indications suivantes :
 
-2° Les immeubles qu'il fait construire, réhabiliter ou rénover en vue de la
-location ;
+1° Les motifs, les buts et les conditions de la transmission du patrimoine par
+voie de scission ;
 
-3° Les terrains nus situés dans une zone urbaine ou à urbaniser délimitée par un
-document d'urbanisme.
+2° Les projets de statuts ou règlements des organismes de placement collectif
+immobilier ou organismes professionnels de placement collectif immobilier
+faisant l'objet de l'opération ;
 
-Les immeubles mentionnés au 2° peuvent être acquis par des contrats de vente à
-terme, de vente en l'état futur d'achèvement ou de vente d'immeubles à rénover
-ou à réhabiliter.
+3° L'évaluation de l'actif dont la transmission aux organismes de placement
+collectif immobilier ou organismes professionnels de placement collectif
+immobilier est prévue ;
 
-L'organisme de placement collectif immobilier peut conclure des contrats de
-promotion immobilière en vue de la construction d'immeubles mentionnés au 2°.
+4° Les rapports d'échanges des droits sociaux ;
+
+5° Le montant prévu de la prime de scission ;
+
+6° La date prévue pour la scission.
+
+Les commissaires aux comptes de la société civile de placement immobilier
+établissent un rapport sur les modalités de la scission et sur l'évaluation de
+l'actif à transmettre aux organismes de placement collectif immobilier ou
+organismes professionnels de placement collectif immobilier. Ce rapport est
+communiqué aux associés quinze jours au moins avant la date de l'assemblée
+générale.

@@ -1,18 +1,18 @@
 Article R214-168
 ----
-Les quotas de 60 % et 51 % mentionnés au 1° de l'article L. 214-93 sont
-respectés le 30 juin et le 31 décembre de chaque exercice, à l'issue de la
-période de trois ans mentionnée à l'article L. 214-99.
+Les travaux et coupes de bois auxquels il est procédé dans les bois et forêts
+détenus par les sociétés d'épargne forestière respectent les conditions
+suivantes :
 
-En cas de non-respect de l'un de ces quotas, la société de gestion de
-l'organisme de placement collectif immobilier doit régulariser la situation dans
-des délais raisonnables et de telle manière que chaque quota soit respecté au
-moins sept fois par période fixe de cinq ans à compter de la période de trois
-ans mentionnée à l'article L. 214-99. La société de gestion informe
-immédiatement le dépositaire de l'organisme de tout non-respect de l'un de ces
-quotas. Elle en informe également, dans les plus brefs délais et au plus tard
-dans les quinze jours suivant sa constatation, l'Autorité des marchés financiers
-et le service des impôts auprès duquel elle dépose sa déclaration de résultats
-ou celui auprès duquel l'organisme de placement collectif immobilier dépose la
-sienne. La société de gestion indique les raisons du non-respect et décrit les
-mesures qu'elle entend mettre en oeuvre pour régulariser la situation.
+1° Sous réserve des dispositions prévues à l'article R. 214-166, les travaux et
+coupes de bois doivent être réalisés conformément à un plan simple de gestion
+agréé ;
+
+2° Les coupes non prévues au plan simple de gestion font l'objet d'une
+autorisation préalable du Centre national de la propriété forestière en
+application des articles R. 222-14 à R. 222-18 du code forestier. Les travaux de
+reconstitution obligatoire qui en découlent font l'objet d'un avenant au plan
+simple de gestion conformément à l'article R. 222-12 du même code. En outre, si
+ces travaux portent sur un montant supérieur à 10 % de la dernière valeur vénale
+de la forêt considérée, ils font l'objet d'une autorisation spéciale de
+l'assemblée générale ordinaire des associés.

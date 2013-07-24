@@ -1,14 +1,15 @@
 Article R214-85
 ----
-I. - Le dernier alinéa du I de l'article R. 214-21 n'est pas applicable aux
-organismes de placement collectif en valeurs mobilières à règles
-d'investissement allégées.
+Par dérogation à l'article R. 214-83, l'actif d'une société de placement à
+prépondérance immobilière à capital variable peut également comprendre des
+participations directes ou indirectes dans des sociétés mentionnées aux 2° et 3°
+du I de l'article L. 214-36 qui ne répondent pas aux conditions fixées aux 2° et
+3° de l'article R. 214-83, dans la limite de 20 % des actifs immobiliers
+mentionnés aux 1° à 3° et au 5° du I de l'article L. 214-36.
 
-II. - Par dérogation à l'article R. 214-30, le risque global d'un organisme de
-placement collectif en valeurs mobilières à règles d'investissement allégées qui
-résulte de contrats financiers, des opérations de cession ou d'acquisition
-temporaire de titres, d'emprunts d'espèces peut atteindre trois fois son actif.
-
-III. - La limite de 100 % mentionnée au 2° du II de l'article R. 214-19 est
-portée à 140 % pour les organismes de placement collectif en valeurs mobilières
-à règles d'investissement allégées.
+Par dérogation à l'article R. 214-83, l'actif d'un fonds de placement immobilier
+peut également comprendre des participations directes ou indirectes dans des
+sociétés mentionnées au 3° du I de l'article L. 214-36 qui ne répondent pas aux
+conditions fixées aux 2° et 3° de l'article R. 214-83, dans la limite de 20 %
+des actifs immobiliers mentionnés aux 1° à 3° et au 5° du I de l'article L.
+214-36.

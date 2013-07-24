@@ -3,7 +3,7 @@ Article D214-80-6
 Les informations suivantes, présentées sous forme de tableau, sont mentionnées
 dans le rapport de gestion des fonds mentionnés à l'article D. 214-80 :
 
-1° Figurent, par ligne, les éléments suivants :
+1° En lignes, les éléments suivants :
 
 a) Un rappel du taux maximal de frais annuel moyen gestionnaire et distributeur
 mentionné au 5° du I de l'article D. 214-80-2 ;
@@ -15,7 +15,7 @@ souscription mentionnée à l'article D. 214-80 ;
 c) Le taux de frais annuel moyen réellement constaté, en moyenne non actualisée,
 sur la durée écoulée depuis cet exercice de souscription ;
 
-2° Figurent, par colonnes, les éléments suivants :
+2° En colonnes, les éléments suivants :
 
 a) Chacune des catégories agrégées mentionnées à l'article D. 214-80-1 ;
 

@@ -6,12 +6,12 @@ l'article 885-0 V bis du même code présentent les informations suivantes :
 
 1° Un tableau qui regroupe les éléments suivants :
 
-a) Figurent, en lignes, les catégories agrégées mentionnées à l'article D.
-214-80-1. Ces catégories sont subdivisées, ligne par ligne, par types de frais
-mentionnés au même article, distingués selon que le destinataire est le
-distributeur ou le gestionnaire ;
+a) En lignes, les catégories agrégées mentionnées à l'article D. 214-80-1. Ces
+catégories sont subdivisées, ligne par ligne, par types de frais mentionnés au
+même article, distingués selon que le destinataire est le distributeur ou le
+gestionnaire ;
 
-b) Figurent, en colonnes, les éléments suivants :
+b) En colonnes, les éléments suivants :
 
 i) Description de la catégorie agrégée de frais et commissions ;
 
@@ -25,7 +25,7 @@ iv) Règles de calcul et de plafonnement des frais et commissions prévues dans 
 règlement du fonds mentionné à l'article D. 214-80, lorsque ces règles sont
 exprimées en proportion d'assiettes différentes de celles mentionnées au iii) du
 b. Ces règles se déclinent en une assiette, un taux ou un barème et, le cas
-échéant, en une description de ces assiettes, taux ou barèmes ;
+échéant, en une description de ces assiette, taux ou barème ;
 
 v) Destinataire des frais et commissions. Ce destinataire est désigné soit comme
 le gestionnaire, soit comme le distributeur, même dans les cas où ces deux

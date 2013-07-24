@@ -1,6 +1,7 @@
 Article R214-91
 ----
-La société d'investissement à capital variable définie à l'article L. 214-41 est
-dénommée société d'investissement à capital variable d'actionnariat salarié. La
-gestion de son actif est régie par les dispositions applicables aux fonds
-mentionnés à l'article L. 214-40.
+A compter de la date d'agrément de la dissolution de l'organisme de placement
+collectif immobilier par l'Autorité des marchés financiers, la limite de 20 %
+mentionnée à l'article R. 214-85 ainsi que le ratio de 20 % mentionnés à
+l'article R. 214-86 et les quotas de 60 % et 51 % mentionnés au 1° de l'article
+L. 214-37 ne sont plus applicables.

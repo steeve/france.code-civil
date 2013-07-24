@@ -2,13 +2,13 @@ Article D214-5
 ----
 La SICAV destinée à recevoir les actifs dont la cession ne serait pas conforme à
 l'intérêt des actionnaires, en application de l'article L. 214-7-4, prend la
-forme de société d'investissement contractuelle. En application du troisième
-alinéa de l'article L. 214-36-3, ses statuts prévoient que son activité
-correspond à la gestion extinctive de tout actif qui lui est transféré lors de
-la scission. Par dérogation à l'article D. 214-3, son capital initial peut être
-inférieur à 300 000 euros sans toutefois pouvoir être inférieur à 1 euro. En
-application de l'article L. 214-7-4, la SICAV ne peut procéder au rachat de ses
-actions.
+forme de société d'investissement professionnelle spécialisée . En application
+du troisième alinéa de l'article L. 214-36-3, ses statuts prévoient que son
+activité correspond à la gestion extinctive de tout actif qui lui est transféré
+lors de la scission. Par dérogation à l'article D. 214-3, son capital initial
+peut être inférieur à 300 000 euros sans toutefois pouvoir être inférieur à 1
+euro. En application de l'article L. 214-7-4, la SICAV ne peut procéder au
+rachat de ses actions.
 
 La SICAV destinée à recevoir les actifs autres que ceux mentionnés au premier
 alinéa est de la même nature que la SICAV objet de la scission.

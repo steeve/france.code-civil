@@ -18,18 +18,17 @@ ou dont le rendement fait l'objet d'ajustements conformes à ceux mentionnés au
 c.
 
 2° Ils peuvent être cédés à coût limité dans un délai court et approprié, compte
-tenu de l'obligation de l'organisme de placement collectif en valeurs mobilières
-de racheter ou de rembourser ses parts ou actions à la demande de tout porteur
-ou actionnaire.
+tenu de l'obligation de l'OPCVM de racheter ou de rembourser ses parts ou
+actions à la demande de tout porteur ou actionnaire.
 
 3° il existe des systèmes d'évaluation précis et fiables, qui remplissent les
 critères suivants :
 
-a) Ils permettent à l'organisme de placement collectif en valeurs mobilières de
-calculer une valeur d'inventaire nette correspondant à la valeur à laquelle
-l'instrument financier détenu en portefeuille pourrait être échangé entre des
-parties bien informées et consentantes, dans le cadre d'une transaction réalisée
-dans des conditions de concurrence normale ;
+a) Ils permettent à l'OPCVM de calculer une valeur d'inventaire nette
+correspondant à la valeur à laquelle l'instrument financier détenu en
+portefeuille pourrait être échangé entre des parties bien informées et
+consentantes, dans le cadre d'une transaction réalisée dans des conditions de
+concurrence normale ;
 
 b) Ils sont fondés soit sur des données de marché soit sur des modèles
 d'évaluation, y compris des systèmes fondés sur le coût amorti. Ces modèles ne
@@ -38,5 +37,5 @@ marché de l'instrument.
 
 Les conditions mentionnées aux 2° et 3° sont réputées satisfaites pour les
 instruments du marché monétaire relevant des 1° à 3° du I de l'article R. 214-11
-sauf si l'organisme de placement collectif en valeurs mobilières dispose
-d'informations conduisant à des conclusions différentes.
+sauf si l' OPCVM dispose d'informations conduisant à des conclusions
+différentes.

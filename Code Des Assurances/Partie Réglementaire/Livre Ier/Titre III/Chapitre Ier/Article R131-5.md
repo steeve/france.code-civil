@@ -7,7 +7,6 @@ a) D'une part prévoient dans leur statut ou règlement, sans aucune restriction
 de quelque sorte qu'elle soit, le rachat des parts ou d'actions deux mois au
 plus tard après que le porteur en a effectué la demande ;
 
-b) D'autre part détiennent au moins cinq immeubles différents, construits loués
-ou disponibles à la location, et représentant ensemble au moins 20 % des actifs
-immobiliers de l'organisme, dans les conditions définies aux articles R. 214-164
-à R. 214-166 du code monétaire et financier.
+b) D'autre part, emploient au moins 20 % de leurs actifs immobiliers en
+immeubles construits, loués ou offerts à la location, dans les conditions
+définies aux articles R. 214-86 à R. 214-88 du code monétaire et financier

@@ -1,36 +1,30 @@
 Article R214-21
 ----
-I. ― Un organisme de placement collectif en valeurs mobilières ne peut investir
-plus de :
+I. ― Un OPCVM ne peut investir plus de :
 
 1° 5 % de ses actifs dans des titres financiers éligibles ou des instruments du
-marché monétaire émis par la même entité ;
+marché monétaire émis par le même émetteur ;
 
 2° 20 % de ses actifs dans des titres financiers éligibles ou des instruments du
-marché monétaire émis par plusieurs entités formant un même émetteur tel que
-défini au VIII ;
+marché monétaire émis par la même entité ;
 
 3° 20 % de ses actifs dans des dépôts placés auprès de la même entité.
 
-Le risque de contrepartie de l'organisme de placement collectif en valeurs
-mobilières sur un même cocontractant résultant de contrats financiers de gré à
-gré ne peut excéder 10 % de ses actifs lorsque le cocontractant est un
-établissement de crédit mentionné au deuxième alinéa du II de l'article R.
-214-19 et 5 % dans les autres cas.
+Le risque de contrepartie de l'OPCVM sur un même cocontractant résultant de
+contrats financiers de gré à gré ne peut excéder 10 % de ses actifs lorsque le
+cocontractant est un établissement de crédit mentionné au deuxième alinéa du II
+de l'article R. 214-19 et 5 % dans les autres cas.
 
-II. ― Par dérogation à la limite de 5 % fixée au 1° du I, un organisme de
-placement collectif en valeurs mobilières peut investir jusqu'à 10 % de ses
-actifs dans des titres financiers éligibles ou des instruments du marché
-monétaire émis par la même entité. Toutefois, la valeur totale des titres
-financiers éligibles et des instruments du marché monétaire détenus par
-l'organisme de placement collectif en valeurs mobilières auprès des entités dans
-chacune desquelles il investit plus de 5 % de ses actifs ne dépasse pas 40 % de
-la valeur de ses actifs.
+II. ― Par dérogation à la limite de 5 % fixée au 1° du I, un OPCVM peut investir
+jusqu'à 10 % de ses actifs dans des titres financiers éligibles ou des
+instruments du marché monétaire émis par le même émetteur. Toutefois, la valeur
+totale des titres financiers éligibles et des instruments du marché monétaire
+détenus par l'OPCVM auprès des émetteurs dans chacun desquels il investit plus
+de 5 % de ses actifs ne dépasse pas 40 % de la valeur de ses actifs.
 
-III. ― Nonobstant les limites individuelles fixées aux I et II, un organisme de
-placement collectif en valeurs mobilières ne peut combiner, lorsque cela
-l'amènerait à investir plus de 20 % de ses actifs dans une même entité,
-plusieurs éléments parmi les suivants :
+III. ― Nonobstant les limites individuelles fixées aux I et II, un OPCVM ne peut
+combiner, lorsque cela l'amènerait à investir plus de 20 % de ses actifs dans
+une même entité, plusieurs éléments parmi les suivants :
 
 1° Des investissements dans des titres financiers éligibles ou des instruments
 du marché monétaire émis par ladite entité ;
@@ -40,8 +34,7 @@ du marché monétaire émis par ladite entité ;
 3° Des risques découlant de transactions sur contrats financiers de gré à gré
 avec ladite entité.
 
-IV. ― Par dérogation à la limite de 5 % fixée au 1° du I, un organisme de
-placement collectif en valeurs mobilières :
+IV. ― Par dérogation aux limites fixées aux 1° et 2° du I, un OPCVM :
 
 1° Peut employer en titres financiers éligibles et instruments du marché
 monétaire mentionnés aux 1° ou 2° du I de l'article L. 214-20 émis ou garantis
@@ -73,24 +66,22 @@ articles L. 313-42 à L. 313-49, émis pour mobiliser des créances de long term
 représentatives de prêts au logement, à la condition que ces obligations aient
 des caractéristiques identiques à celle des billets.
 
-V. ― Lorsqu'un organisme de placement collectif en valeurs mobilières investit
-plus de 5 % de ses actifs dans les obligations mentionnées au 2° du IV et émises
-par une même entité, la valeur totale de ces investissements ne dépasse pas 80 %
-de la valeur des actifs de l'organisme de placement collectif en valeurs
-mobilières.
+V. ― Lorsqu'un OPCVM investit plus de 5 % de ses actifs dans les obligations
+mentionnées au 2° du IV et émises par un même émetteur, la valeur totale de ces
+investissements ne dépasse pas 80 % de la valeur des actifs de l'OPCVM.
 
 VI. ― Les titres financiers éligibles et les instruments du marché monétaire
 mentionnés au IV ne sont pas pris en compte pour l'application de la limite de
 40 % prévue au II.
 
-VII. ― Les limites prévues aux I à IV ne peuvent être combinées et, par
+VII. ― Les limites prévues aux I à V ne peuvent être combinées et, par
 conséquent, les investissements dans des titres financiers éligibles ou des
 instruments du marché monétaire émis par la même entité ou dans des dépôts ou
-des contrats financiers conclus avec cette entité conformément aux I à IV du
+des contrats financiers conclus avec cette entité conformément aux I à V du
 présent article ne peuvent en aucun cas dépasser au total 35 % des actifs de
-l'organisme de placement collectif en valeurs mobilières.
+l'OPCVM.
 
 VIII. ― Les sociétés qui sont regroupées aux fins de la consolidation des
 comptes, au sens de la directive 83/349/ CEE du 13 juin 1983 ou conformément aux
-règles comptables internationales reconnues, sont considérées comme un seul
-émetteur pour le calcul des limites prévues par le présent article.
+règles comptables internationales reconnues, sont considérées comme une seule
+entité pour le calcul des limites prévues par le présent article.

@@ -1,20 +1,16 @@
 Article R214-190
 ----
-I. - Le risque de contrepartie sur un même cocontractant est le risque que
-celui-ci manque à une de ses obligations et amène de ce fait l'organisme de
-placement collectif immobilier à subir une perte financière. Le risque de
-contrepartie sur un même cocontractant est égal à la valeur de marché des
-contrats diminuée des garanties constituées, le cas échéant, au profit de
-l'organisme.
+I.-La limite de 10 % prévue aux premier et avant-dernier alinéas du I et au
+premier alinéa du II de l'article R. 214-32-19 est portée à 50 % pour les fonds
+professionnels à vocation générale.
 
-II. - L'exposition d'un organisme de placement collectif immobilier au risque de
-contrepartie sur un même cocontractant résultant des contrats d'instruments
-financiers à terme mentionnés aux articles D. 214-192 et R. 214-193 et des
-opérations d'acquisitions et de cession temporaires de titres mentionnés à
-l'article R. 214-195 ne doit pas excéder 10 % de son actif net.
+Toutefois, un fonds professionnel à vocation générale ne peut employer plus de
+10 % de son actif en instruments mentionnés à l'article L. 214-71, ni plus de 20
+% de son actif en actions mentionnées à l'article L. 214-62, ni plus de 20 % de
+son actif en instruments mentionnés au 8° du I de l'article R. 214-32-19.
 
-III. - Le recours par un organisme de placement collectif immobilier à des
-instruments financiers à terme, des opérations de pension, ainsi que toute autre
-opération assimilée d'acquisition ou de cession temporaire de titres ne doit pas
-amener cet organisme à s'écarter des objectifs d'investissements exposés dans
-les documents d'information destinés aux souscripteurs.
+II.-Le VIII de l'article R. 214-32-29 n'est pas applicable aux fonds
+professionnels à vocation générale.
+
+III.-L'article R. 214-32-42 n'est pas applicable aux fonds professionnels à
+vocation générale.

@@ -18,8 +18,7 @@ l'attestation mentionnée au IV de l'article R. 532-24 et informe les autorités
 compétentes de l'Etat membre d'accueil de la société de gestion de portefeuille
 de tout changement dans le champ d'application de l'agrément accordé à ladite
 société ou dans les précisions relatives à toute restriction éventuelle sur les
-types d'organisme de placement collectif en valeurs mobilières que cette société
-est habilitée à gérer.
+types d'OPCVM que cette société est habilitée à gérer.
 
 Lorsque l'Autorité des marchés financiers estime que des mesures doivent être
 prises par la société de gestion de portefeuille pour adapter ses structures

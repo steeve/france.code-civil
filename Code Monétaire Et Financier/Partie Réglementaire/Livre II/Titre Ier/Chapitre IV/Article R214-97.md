@@ -1,16 +1,16 @@
 Article R214-97
 ----
-Pour la réalisation de son objet, un organisme de titrisation peut octroyer les
-garanties mentionnées à l'article L. 211-38, dans les conditions définies à ce
-même article.
+Un organisme de placement collectif immobilier ne peut détenir plus de 20 %
+d'une même catégorie d'instruments financiers mentionnés aux 4°, 6° et 7° du I
+de l'article L. 214-36 et à l'article R. 214-93 d'une même entité.
 
-Lorsque les garanties octroyées par un organisme de titrisation sont des
-sûretés, l'acte constitutif de ces sûretés définit :
+Pour l'appréciation de cette limite, chacun des instruments financiers suivants
+constitue une catégorie :
 
-1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser
-ou aliéner.A défaut de cette indication, le bénéficiaire ne peut utiliser ou
-aliéner que des dépôts ou des liquidités ;
+1° Les actions ou parts d'une même entité ;
 
-2° Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut
-utiliser ou aliéner. Ce montant maximal ne peut excéder le montant de la créance
-du bénéficiaire sur l'organisme.
+2° Les valeurs mobilières donnant directement ou indirectement accès au capital
+d'une même entité ;
+
+3° Les titres de créances conférant directement ou indirectement un droit de
+créance général sur le patrimoine d'une même entité.

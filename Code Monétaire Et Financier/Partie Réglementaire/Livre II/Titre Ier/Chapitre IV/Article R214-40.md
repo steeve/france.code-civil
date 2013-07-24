@@ -16,10 +16,10 @@ remboursables, obligations convertibles ou titres participatifs ainsi qu'en
 avances en comptes courants dans des sociétés non admises aux négociations sur
 un marché d'instruments financiers au sens du I de l'article L. 214-28 ou dans
 des entités mentionnées au 2° du II de l'article L. 214-28 dont les titres ou
-droits figurent à son actif ;
+droits figurent à son actif ; ou
 
-b) Ou pour satisfaire l'obligation de réinvestissement prévue à l'article 163
-quinquies B du code général des impôts.
+b) Pour satisfaire l'obligation de réinvestissement prévue à l'article 163
+quinquies B du code général des impôts ;
 
 2° A compter de l'ouverture de l'exercice suivant la clôture du cinquième
 exercice qui suit celui au cours duquel sont intervenues les dernières

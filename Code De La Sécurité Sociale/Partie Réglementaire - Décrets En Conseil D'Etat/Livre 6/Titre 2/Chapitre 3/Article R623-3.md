@@ -5,7 +5,7 @@ affectés aux réserves des risques gérés ne peuvent être placés que sous la
 des actifs énumérés aux I, II et III du présent article et dans les conditions
 prévues au IV.
 
-I.-Valeurs mobilières et titres assimilés
+I. ― Valeurs mobilières et titres assimilés
 
 1° Obligations et autres valeurs émises ou garanties :
 
@@ -19,10 +19,11 @@ membres de l'Union européenne font partie ;
 c) Par les collectivités publiques territoriales et les établissements publics
 des Etats partie à l'accord sur l'Espace économique européen.
 
-2° Obligations, parts de fonds communs de créances tels que définis à l'article
-L. 214-43 du code monétaire et financier, et titres participatifs tels que
-définis à l'article L. 213-32 du code monétaire et financier admis aux
-négociations sur un marché reconnu autres que celles ou ceux visés au 1°.
+2° Obligations, parts de fonds communs de créances et organismes de titrisation
+tels que définis à l'article L. 214-169 du code monétaire et financier, et
+titres participatifs tels que définis à l'article L. 213-32 du code monétaire et
+financier admis aux négociations sur un marché reconnu autres que celles ou ceux
+visés au 1°.
 
 3° Titres de créances négociables d'un an au plus tels que définis aux articles
 L. 213-1 à L. 213-4 du code monétaire et financier, rémunérés à taux fixe ou
@@ -43,12 +44,15 @@ valeurs mentionnées aux 1°, 2°, 3° et 4° du présent article, dans des cond
 fixées par l'article R. 623-6.
 
 6° Parts des fonds communs de placement régis par les articles L. 214-28, L.
-214-30, L. 214-37 et L. 214-38 du code monétaire et financier .
+214-30, L. 214-154 et L. 214-160 du code monétaire et financier.
 
 7° Actions et titres donnant accès au capital négociés sur un marché reconnu.
 
-8° Actions et parts d'OPCVM autres que celles visées aux 5° et 6° du présent
-article, dans les conditions fixées par l'article R. 623-6.
+8° Actions et parts d'OPCVM et de placements collectifs relevant des paragraphes
+1,2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du
+paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du
+livre I du code monétaire et financier autres que celles visées aux 5° et 6° du
+présent article, dans les conditions fixées par l'article R. 623-6.
 
 Les marchés reconnus mentionnés aux 2°, 3°, 4°, 7° et 8° sont les marchés
 réglementés au sens des articles L. 421-1 à L. 423-1 du code monétaire et
@@ -56,7 +60,9 @@ financier des Etats membres de l'Organisation de coopération et de développeme
 économique (OCDE), en fonctionnement régulier. Les autorités compétentes de ces
 pays doivent avoir défini les conditions de fonctionnement du marché, d'accès à
 ce marché et d'admission aux négociations, et avoir imposé le respect
-d'obligations de déclaration et de transparence. II.-Actifs immobiliers
+d'obligations de déclaration et de transparence.
+
+II. ― Actifs immobiliers
 
 9° Droits réels immobiliers afférents à des immeubles situés sur le territoire
 de l'un des Etats partie à l'accord sur l'Espace économique européen.
@@ -64,7 +70,8 @@ de l'un des Etats partie à l'accord sur l'Espace économique européen.
 10° Parts ou actions des sociétés à objet strictement immobilier ayant leur
 siège social sur le territoire de l'un des Etats partie à l'accord sur l'Espace
 économique européen, dans des conditions fixées par l'article R. 623-7.
-III.-Prêts et dépôts
+
+III. ― Prêts et dépôts
 
 11° Prêts obtenus ou garantis par l'un des Etats partie à l'accord sur l'Espace
 économique européen, par les collectivités publiques territoriales et les
@@ -75,8 +82,9 @@ III.-Prêts et dépôts
 ou leur siège social sur le territoire de l'un des Etats partie à l'accord sur
 l'Espace économique européen, dans des conditions fixées par l'article R. 623-8.
 
-13° Dépôts dans les conditions fixées à l'article R. 623-9. IV.-Dispositions
-communes
+13° Dépôts dans les conditions fixées à l'article R. 623-9.
+
+IV. ― Dispositions communes
 
 Les intérêts courus des placements énumérés au présent article sont assimilés
 auxdits placements.

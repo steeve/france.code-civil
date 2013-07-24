@@ -23,15 +23,15 @@ l'administration.
 
 II.-Le relevé mentionné au I est complété par une attestation fournie par la
 société indiquant qu'elle respecte les dispositions prévues aux articles L.
-214-85 et L. 214-87 du code monétaire et financier.
+214-121 et L. 214-123 à L. 214-125 du code monétaire et financier.
 
 Cette attestation doit également être jointe à sa déclaration de résultats par
 le souscripteur au capital d'une société d'épargne forestière.
 
 III.-Lorsque les parts cédées au cours d'un exercice ont été souscrites depuis
 moins de huit ans par le cédant ou lorsque la société d'épargne forestière est
-dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-85
-et L. 214-87 du code monétaire et financier, elle adresse, dans les deux mois
-suivant l'un de ces événements, à la direction départementale ou, le cas
-échéant, régionale des finances publiques du domicile des souscripteurs
+dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-121
+et L. 214-123 à L. 214-125 du code monétaire et financier, elle adresse, dans
+les deux mois suivant l'un de ces événements, à la direction départementale ou,
+le cas échéant, régionale des finances publiques du domicile des souscripteurs
 concernés le relevé mentionné au I ou un duplicata de ce relevé.

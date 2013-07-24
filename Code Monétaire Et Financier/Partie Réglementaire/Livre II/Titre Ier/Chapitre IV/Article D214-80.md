@@ -8,10 +8,10 @@ conditions suivantes :
 
 1° Le document d'information clé pour l'investisseur décrit les prestations que
 rémunèrent ces frais et commissions. Ces frais et commissions sont répartis, par
-type, dans les catégories agrégées mentionnées à l'article D. 214-80-1. Ce
-document identifie les frais et commissions de commercialisation et de placement
-de manière clairement séparée des frais et commissions de gestion prélevés par
-les fonds mentionnés à l'article D. 214-80 ;
+type, dans les catégories agrégées mentionnées à l'article D. 214-80-1 du
+présent code. Ce document identifie les frais et commissions de
+commercialisation et de placement de manière clairement séparée des frais et
+commissions de gestion prélevés par les fonds mentionnés au présent article ;
 
 2° Ces frais et commissions sont consentis par le souscripteur selon les
 modalités prévues à l'article D. 214-80-2 ;

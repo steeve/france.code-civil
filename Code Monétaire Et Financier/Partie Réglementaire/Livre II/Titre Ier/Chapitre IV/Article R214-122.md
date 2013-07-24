@@ -1,17 +1,17 @@
 Article R214-122
 ----
-La valeur de réalisation et la valeur de reconstitution de la société civile de
-placement immobilier sont arrêtées chaque année par la société de gestion.
+I.-Un organisme de placement collectif immobilier issu de la transformation ou
+de la scission d'une société civile de placement immobilier peut déroger aux
+dispositions de l'article R. 214-86.
 
-La valeur vénale des immeubles résulte d'une expertise réalisée par un expert
-immobilier indépendant. Chaque immeuble doit faire l'objet d'une expertise tous
-les cinq ans. Elle est actualisée par lui chaque année.
+Lorsqu'il est fait usage de cette dérogation, le document d'information des
+souscripteurs prévu au III de l'article L. 214-35 en fait mention.
 
-L'expert est nommé par l'assemblée générale pour quatre ans. Cette nomination a
-lieu après acceptation par l'Autorité des marchés financiers de sa candidature,
-qui a été préalablement présentée par la société de gestion. Il peut être
-révoqué et remplacé selon les formes prévues pour sa nomination.
-
-La valeur nette des autres actifs, arrêtée sous le contrôle du commissaire aux
-comptes, tient compte des plus-values et moins-values latentes sur actifs
-financiers.
+II.-Lorsqu'un organisme mentionné au I fusionne avec une autre société civile de
+placement immobilier, avec un autre organisme de placement collectif immobilier
+ou avec un organisme professionnel de placement collectif immobilier, ou
+bénéficie d'un apport en nature d'actifs immobiliers mentionnés à l'article L.
+214-36 d'une autre société civile de placement immobilier, d'un autre organisme
+de placement collectif immobilier ou d'un organisme professionnel de placement
+collectif immobilier, les dispositions de l'article R. 214-86 sont applicables à
+l'expiration d'un délai de trois ans suivant la fusion ou l'apport en nature.

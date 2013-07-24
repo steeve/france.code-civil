@@ -25,8 +25,8 @@ garantis par l'ensemble des organismes dont les émissions, prêts ou garanties 
 prêt sont admis au-delà du ratio de 5 % n'excède pas 40 % de la base de
 dispersion définie à l'article R. 332-3.
 
-2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 9° bis à 9°
-quater et 9° sexies de l'article R. 332-2 ;
+2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 9° bis à 9° ter
+et 9° sexies de l'article R. 332-2 ;
 
 3° 1 % pour les valeurs mentionnées aux 6°, 7°, 7° bis, 7° ter et 9° quinquies
 de l'article R. 332-2 et les prêts mentionnés au troisième alinéa du 1 de

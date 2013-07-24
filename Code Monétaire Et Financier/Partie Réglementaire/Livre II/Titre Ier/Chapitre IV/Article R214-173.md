@@ -1,12 +1,12 @@
 Article R214-173
 ----
-Les liquidités mentionnées au i du I de l'article L. 214-92 sont :
-
-1° Les dépôts à vue effectués auprès du dépositaire de l'organisme de placement
-collectif immobilier, qui satisfont aux conditions 3° et 4° de l'article R.
-214-171 et dont la rémunération ne dépend pas, directement ou indirectement, de
-la valeur d'un ou plusieurs instruments financiers à terme. Ces dépôts à vue
-sont effectués par l'organisme dans la stricte limite des besoins liés à la
-gestion de ses flux ;
-
-2° Les créances d'exploitation de l'organisme de placement collectif immobilier.
+Lors d'une fusion entre un ou plusieurs groupements forestiers et une ou
+plusieurs sociétés d'épargne forestière, ou entre plusieurs sociétés d'épargne
+forestière, les engagements de gestion durable conformes au 3° du 1 de l'article
+793 du code général des impôts ou pris en application de l'article 885 H du même
+code par un ou plusieurs groupements forestiers antérieurement à cette fusion ou
+repris par une ou plusieurs sociétés d'épargne forestière à l'occasion de
+fusions antérieures sont repris par la société d'épargne forestière absorbante,
+pour les durées restant à courir, sur les parcelles que les groupements
+forestiers et les sociétés d'épargne forestière apportent dans l'opération de
+fusion.

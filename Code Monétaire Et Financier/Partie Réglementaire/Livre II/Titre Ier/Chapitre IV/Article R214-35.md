@@ -1,6 +1,7 @@
 Article R214-35
 ----
 I.-Pour l'appréciation du quota de 50 % figurant au I de l'article L. 214-28 :
+
 1° Le numérateur est constitué par le prix de souscription ou d'acquisition des
 titres ou droits du portefeuille et la valeur comptable des autres actifs.
 
@@ -14,7 +15,7 @@ réinvestissement prévue à l'article 163 quinquies B du code général des imp
 2° Lorsqu'une société dont les titres ou droits sont inclus dans le quota de 50
 % fait l'objet d'une liquidation judiciaire, les titres ou droits annulés sont
 réputés maintenus à l'actif pour leur prix de souscription ou d'acquisition
-pendant cinq ans à compter du jugement de clôture de liquidation ; lorsqu'une
+pendant cinq ans à compter du jugement de clôture de liquidation. Lorsqu'une
 société dont les titres ou droits sont inclus dans le quota de 50 % connaît des
 difficultés de nature à compromettre la continuité de l'exploitation au sens de
 l'article L. 234-1 du code de commerce et fait l'objet d'une liquidation amiable
@@ -29,12 +30,12 @@ compétents de la société ;
 cession, les titres ou droits cédés sont réputés maintenus à l'actif pour leur
 prix de souscription ou d'acquisition pendant une durée de deux ans à compter de
 la date de la cession. Au-delà de ce délai, lorsque le fonds procède à une
-distribution ou un rachat de parts à hauteur du produit de la cession, le
+distribution ou à un rachat de parts à hauteur du produit de la cession, le
 montant de la distribution ou du rachat qui n'a pas été déduit en application
 des dispositions du 1° est déduit du dénominateur dans la limite du prix de
-souscription ou d'acquisition des titres ou droits cédés ; à compter de la date
-à laquelle le fonds peut entrer en période de préliquidation telle que définie
-aux articles R. 214-40 et R. 214-41, le dénominateur peut, le cas échéant, être
+souscription ou d'acquisition des titres ou droits cédés. A compter de la date à
+laquelle le fonds peut entrer en période de préliquidation telle que définie aux
+articles R. 214-40 et R. 214-41, le dénominateur peut, le cas échéant, être
 diminué du montant de la distribution du prix de cession des titres ou droits
 non inclus dans le quota de 50 % dans la limite du prix de souscription ou
 d'acquisition de ces mêmes titres ou droits, sous réserve que le quota de 50 %
@@ -55,7 +56,7 @@ est supérieure ;
 prises en compte à compter de l'inventaire de clôture de l'exercice suivant
 celui au cours duquel elles ont été libérées ;
 
-6° En cas de non-respect du quota de 50 % lors d'un inventaire semestriel, le
+6° En cas de nonrespect du quota de 50 % lors d'un inventaire semestriel, le
 fonds n'est pas déchu de son régime s'il régularise sa situation au plus tard
 lors de l'inventaire suivant sous réserve, d'une part, que la société de gestion
 informe le service des impôts auprès duquel elle dépose sa déclaration de
@@ -75,7 +76,7 @@ la négociation jusqu'au jour précédant celui de l'investissement. Il en est d
 même en cas d'augmentation de capital ou d'opération de fusion, scission ou
 apport partiel d'actif réalisée durant ces soixante jours et emportant admission
 à la négociation de nouveaux titres de capital de la société absorbante ou
-bénéficiaire.
+bénéficiaire ;
 
 2° Par dérogation aux dispositions du 1°, en cas d'investissement le jour de la
 première cotation des titres de capital d'une société, sa capitalisation
@@ -90,7 +91,7 @@ société sont admis à la négociation à la suite d'une augmentation de capita
 boursière est déterminée par le produit du nombre total des titres de capital de
 la société absorbante ou bénéficiaire admis à la négociation à l'issue de
 l'opération par le cours de clôture du dernier jour de négociation précédant
-l'admission à la négociation de ces nouveaux titres de capital.
+l'admission à la négociation de ces nouveaux titres de capital ;
 
 3° Le jour de l'investissement mentionné aux 1° et 2° s'entend du jour
 d'acquisition ou de souscription des titres de capital admis à la négociation.

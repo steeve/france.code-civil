@@ -17,17 +17,21 @@ par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative au
 remboursement de la dette sociale ;
 
 3° Les parts ou actions des organismes de placement collectif en valeurs
-mobilières qui sont investis et exposés à plus de 90 % de leur actif sur :
+mobilières ou des placements collectifs relevant des paragraphes 1, 2 et 6 de la
+sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la
+sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code
+monétaire et financier qui sont investis et exposés à plus de 90 % de leur actif
+sur :
 
 a) Les titres mentionnés aux 1° et 2° ;
 
-b) Les instruments du marché monétaire mentionnés au b du I de l'article L.
+b) Les instruments du marché monétaire mentionnés au 2° du I de l'article L.
 214-20 du code monétaire et financier et dont la rémunération ne dépend pas,
 directement ou indirectement, de la valeur d'un ou plusieurs instruments
 financiers à terme ;
 
-c) Les dépôts ou liquidités mentionnés aux d et f du I de l'article L. 214-20 du
-code monétaire et financier ;
+c) Les dépôts ou liquidités mentionnés aux 4° et 6° du I de l'article L. 214-20
+du code monétaire et financier ;
 
 4° Les versements à venir de l'Etat, mentionnés à la dernière phrase du
 troisième alinéa du IV de l'article L. 313-20 du code de la construction et de

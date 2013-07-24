@@ -1,26 +1,46 @@
 Article R214-217
 ----
-Les règles prévues aux sous-paragraphes 1 à 4 du paragraphe 1 de la sous-section
-1 de la présente section s'appliquent, sous réserve des dérogations suivantes :
+Le règlement du fonds commun de titrisation ou les statuts de la société de
+titrisation définissent :
 
-1° La limite prévue à l'article R. 214-163 est portée à 20 % ;
+1° La nature des risques auxquels l'organisme se propose de s'exposer ainsi que
+:
 
-2° Le quota de cinq immeubles mentionné à l'article R. 214-164 n'est pas
-applicable. Ces organismes doivent employer au moins 20 % de leurs actifs
-immobiliers en immeubles construits loués ou offerts à la location. Les
-conditions d'appréciation de ce ratio de 20 % sont celles prévues aux I et III
-de l'article R. 214-165 ;
+a) Lorsque l'organisme se propose d'acquérir des créances, les caractéristiques
+de ces créances ;
 
-3° Ces organismes peuvent déroger à la limite d'investissement prévue à
-l'article R. 214-174, sous réserve de respecter les conditions mentionnées à
-l'article R. 214-200. Les conditions d'appréciation du ratio de 20 % mentionné à
-l'article R. 214-164 sont celles prévues au I de l'article R. 214-165 et au
-premier alinéa du II de l'article R. 214-200.
+b) Lorsque l'organisme se propose de conclure des contrats constituant des
+instruments financiers à terme à des fins d'exposition, les conditions de
+conclusion et de dénouement de ces contrats, les caractéristiques des
+sous-jacents de ces contrats et, lorsque ces instruments répondent aux
+caractéristiques des dérivés de crédit, la nature et les caractéristiques des
+personnes sur lesquelles repose le risque de crédit ;
 
-4° Le ratio prévu au I de l'article R. 214-175 est porté à 10 % ;
+c) Lorsque l'organisme se propose de conclure des contrats transférant des
+risques d'assurance, les caractéristiques de ces contrats ;
 
-5° Le ratio prévu à l'article R. 214-176 est porté à 20 % ;
+2° La stratégie de financement ou de couverture de ces risques, notamment :
 
-6° Le ratio prévu à l'article R. 214-178 est porté à 20 % ;
+a) Les conditions d'émissions de parts, actions ou titres de créance ;
 
-7° Le ratio prévu au II de l'article R. 214-195 est porté à 40 %.
+b) Les conditions de recours à l'emprunt ;
+
+c) Les conditions de conclusion et de dénouement des contrats constituant des
+instruments financiers à terme ou transférant des risques d'assurance à des fins
+de couverture ;
+
+3° Les garanties que l'organisme se propose de recevoir, consenties à son
+bénéfice ou à celui des porteurs de parts, actions ou titres de créance qu'il a
+émis ;
+
+4° Les garanties que l'organisme se propose de consentir ;
+
+5° La stratégie d'investissement de l'actif de l'organisme, notamment :
+
+a) La stratégie d'investissement des liquidités ;
+
+b) Les conditions de recours à des opérations d'acquisition ou de cession
+temporaire d'instruments financiers ;
+
+c) Les conditions de recours à des opérations de cession de créances non échues
+ou non déchues de leur terme.

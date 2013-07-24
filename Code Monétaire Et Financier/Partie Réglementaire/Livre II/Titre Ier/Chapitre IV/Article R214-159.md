@@ -1,13 +1,18 @@
 Article R214-159
 ----
-I.-Dans le cas où une société d'épargne forestière détient 50 % au moins des
-parts d'intérêt d'un groupement forestier ou d'une société dont l'objet exclusif
-est la détention de bois et forêts, l'expertise prévue à l'article R. 214-158
-est également réalisée sur le patrimoine du groupement forestier ou de la
-société dont l'objet exclusif est la détention de bois et forêts.
+Le projet de fusion est arrêté par la société de gestion de chacune des sociétés
+participant à l'opération.
 
-II.-Dans le cas où une société d'épargne forestière détient moins de 50 % de
-telles parts, elle doit, lors de l'expertise prévue à l'article R. 214-158,
-obtenir de chacun des gérants des groupements forestiers et des sociétés
-concernés une attestation ou une évaluation écrite indiquant la valeur vénale de
-la part d'intérêt détenue ou acquise.
+Il contient les indications suivantes :
+
+1° L'inventaire du patrimoine immobilier, la dénomination et le siège social de
+toutes les sociétés participantes ;
+
+2° Les motifs, les buts et les conditions de la fusion ;
+
+3° Les dates auxquelles ont été arrêtés les comptes des sociétés intéressées
+pour établir les conditions de l'opération ;
+
+4° Les parités d'échange et le mode de calcul ;
+
+5° La date de la fusion.

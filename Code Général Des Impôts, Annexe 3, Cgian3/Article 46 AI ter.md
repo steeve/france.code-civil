@@ -6,9 +6,12 @@ gestion informe la direction départementale ou, le cas échéant, régionale de
 finances publiques dans le ressort de laquelle est souscrite sa déclaration de
 résultats, de la constitution d'un fonds commun de placement dans l'innovation
 ou, le cas échéant, de la transformation d'un fonds commun de placement à
-risques existant en fonds commun de placement dans l'innovation. Cette
-déclaration intervient dans le mois qui suit la création ou la transformation du
-fonds.
+risques, d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
+2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs
+ou d'un fonds professionnel de capital investissement existant en fonds commun
+de placement dans l'innovation. Cette déclaration intervient dans le mois qui
+suit la création ou la transformation du fonds.
 
 II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est
 soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F et

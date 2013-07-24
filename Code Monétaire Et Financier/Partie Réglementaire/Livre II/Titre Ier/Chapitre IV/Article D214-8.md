@@ -2,8 +2,8 @@ Article D214-8
 ----
 Le fonds destiné à recevoir les actifs dont la cession ne serait pas conforme à
 l'intérêt des porteurs, en application de l'article L. 214-8-7, prend la forme
-de fonds d'investissement contractuel. En application du troisième alinéa de
-l'article L. 214-36-3, son règlement prévoit que son activité correspond à la
+de fonds professionnel spécialisé. En application du troisième alinéa de
+l'article L. 214-157, son règlement prévoit que son activité correspond à la
 gestion extinctive de tout actif qui lui est transféré lors de la scission. Par
 dérogation à l'article D. 214-6, le montant initial de ses actifs peut être
 inférieur à 300 000 euros sans toutefois pouvoir être inférieur à 1 euro. En

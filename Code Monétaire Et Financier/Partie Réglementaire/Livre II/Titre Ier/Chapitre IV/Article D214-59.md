@@ -21,16 +21,15 @@ l'entreprise ;
 
 4° Du plan de financement du projet ainsi que des bilans et des comptes de
 résultats prévisionnels de l'entreprise pour les trois premières années où il
-sera mis en œuvre.
-
-Ces demandes sont instruites dans les mêmes conditions que les demandes d'aides
-à l'innovation attribuées par la société anonyme OSEO. Elles font l'objet d'une
-décision du directeur général de l'agence ou de son délégué prise après avis de
-la commission territoriale d'attribution des aides à l'innovation.
+sera mis en œuvre. Ces demandes sont instruites dans les mêmes conditions que
+les demandes d'aides à l'innovation attribuées par la société anonyme OSEO.
+Elles font l'objet d'une décision du directeur général de l'agence ou de son
+délégué prise après avis de la commission territoriale d'attribution des aides à
+l'innovation.
 
 Pour l'instruction des demandes déposées par les sociétés mentionnées au premier
 alinéa du 1° du IV de l'article L. 214-30, la société anonyme OSEO peut demander
 en tant que de besoin à ces dernières de lui produire les documents prévus aux
-1° à 4° pour chaque filiale mentionnée au d du 1° du IV précité, ainsi que les
+1° à 4° pour chaque filiale mentionnée au d du 1° du IV précité ainsi que les
 documents prévus aux 3° et 4° pour chacune des autres sociétés mentionnées à ce
 même 1° du IV.

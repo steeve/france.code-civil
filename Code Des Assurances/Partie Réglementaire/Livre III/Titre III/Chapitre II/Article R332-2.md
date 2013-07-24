@@ -18,10 +18,10 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 membre de l'OCDE ;
 
 2° Obligations, parts ou actions émises par un organisme de titrisation régi par
-la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
-financier ou par un organisme de droit étranger ayant un objet équivalent et
-titres participatifs, autres que celles et ceux visés au 1°, et négociés sur un
-marché reconnu ;
+la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du
+code monétaire et financier ou par un organisme de droit étranger ayant un objet
+équivalent et titres participatifs, autres que celles et ceux visés au 1°, et
+négociés sur un marché reconnu ;
 
 2° bis Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
@@ -37,9 +37,9 @@ des titres sont négociés sur un marché reconnu ;
 
 2° quater Obligations, parts ou actions répondant aux conditions mentionnées aux
 a, b et c de l'article R. 332-14-1, émises par un organisme de titrisation régi
-par la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
-financier ou par un organisme de droit étranger ayant un objet équivalent,
-respectant les règles prévues à l'article R. 332-14-2 ;
+par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du
+code monétaire et financier ou par un organisme de droit étranger ayant un objet
+équivalent, respectant les règles prévues à l'article R. 332-14-2 ;
 
 3° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
@@ -66,23 +66,22 @@ ter, 2° quater, 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
 7° Parts des fonds communs de placement à risques de l'article L. 214-28 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation
 de l'article L. 214-30 du même code et parts des fonds d'investissement de
-proximité de l'article L. 214-31-1 du même code ;
+proximité de l'article L. 214-31 du même code ;
 
 7° bis Actions des sociétés d'investissement à capital variable et parts de
-fonds communs de placement des articles L. 214-38 et L. 214-38-1 du code
-monétaire et financier, actions ou parts d'organisme de placement collectif en
-valeurs mobilières relevant de l'article L. 214-36 du code monétaire et
-financier, actions ou parts d'organismes de placement collectif en valeurs
-mobilières relevant de l'article L. 214-35 du code monétaire et financier dans
-sa rédaction antérieure au 2 août 2003 ;
+fonds communs de placement des articles L. 214-160 et L. 214-161 du code
+monétaire et financier, actions ou parts de placements collectifs relevant de
+l'article L. 214-154 du code monétaire et financier, actions ou parts
+d'organismes de placement collectif en valeurs mobilières relevant de l'article
+L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août
+2003 ;
 
-7° ter Parts ou actions d'organismes de placement collectif en valeurs
-mobilières à règles d'investissement allégées mentionnés à l'article R. 214-83
-du code monétaire et financier ;
+7° ter Parts ou actions de fonds professionnels à vocation générale mentionnés à
+l'article R. 214-190 du code monétaire et financier ;
 
-7° quater Parts ou actions d'organismes de placement collectif en valeurs
-mobilières de fonds alternatifs mentionnés à l'article R. 214-86 du code
-monétaire et financier ;
+7° quater Parts ou actions de fonds de fonds alternatifs mentionnés à l'article
+R. 214-186 du code monétaire et financier et des placements collectifs
+mentionnés au III de l'article L. 214-24 du même code ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement, autres que celles mentionnées aux 3° et 7° à 7° quater,
@@ -99,7 +98,9 @@ et de transparence.
 B.-Actifs immobiliers :
 
 9° Droits réels immobiliers afférents à des immeubles situés sur le territoire
-de l'un des Etats membres de l'OCDE ;
+de l'un des Etats membres de l'OCDE et actions de sociétés d'épargne forestière
+relevant du paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du
+titre Ier du livre II du code monétaire et financier ;
 
 9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des
 sociétés civiles à objet strictement foncier, ayant leur siège social sur le
@@ -107,22 +108,20 @@ territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par
 l'article R. 332-15 ;
 
 9° ter Parts ou actions d'organismes de placement collectif immobilier relevant
-de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et
-financier, autres que ceux mentionnés aux 9° quater à 9° sexies ;
+du paragraphe 3 de la sous-section 2 de la section 2 du chapitre IV du titre Ier
+du livre II du code monétaire et financier, autres que ceux mentionnés au 9°
+sexies ;
 
-9° quater Parts ou actions d'organismes de placement collectif immobilier
-relevant du paragraphe 2 de la sous-section 4 de la section 5 du chapitre IV du
-titre Ier du livre II du code monétaire et financier ;
+9° quater (Abrogé) ;
 
-9° quinquies Parts ou actions d'organismes de placement collectif immobilier
-relevant du paragraphe 3 de la sous-section 4 de la section 5 du chapitre IV du
-titre Ier du livre II du code monétaire et financier ;
+9° quinquies Parts ou actions d'organismes professionnels de placement collectif
+immobilier relevant du sous-paragraphe 2 du paragraphe 1 de la sous-section 3 de
+la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ;
 
 9° sexies Parts ou actions d'organismes de placement collectif immobilier
-mentionnés au sous-paragraphe 7 du paragraphe 1 de la sous-section 1 de la
-section 5 du chapitre IV du titre Ier du livre II du code monétaire et
-financier, lorsqu'ils exercent la dérogation prévue à l'article R. 214-200 du
-même code.
+mentionnés à l'article R. 214-120 du code monétaire et financier, lorsqu'ils
+exercent la dérogation prévue à ce même article du même code.
 
 C.-Prêts et dépôts :
 

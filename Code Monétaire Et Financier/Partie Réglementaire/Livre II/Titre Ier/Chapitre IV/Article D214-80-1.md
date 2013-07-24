@@ -20,7 +20,6 @@ cession des participations ;
 
 5° Frais de gestion indirects.
 
-Au sein de chaque catégorie agrégée mentionnée au précédent alinéa du présent
-article, un même type de frais et commissions concerne exclusivement soit des
-frais et commissions de gestion, soit des frais et commissions de
-commercialisation et de placement.
+Au sein de chaque catégorie agrégée mentionnée au présent article, un même type
+de frais et commissions concerne exclusivement soit des frais et commissions de
+gestion, soit des frais et commissions de commercialisation et de placement.

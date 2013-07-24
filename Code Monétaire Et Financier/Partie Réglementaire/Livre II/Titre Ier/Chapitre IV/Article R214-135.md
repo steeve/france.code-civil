@@ -1,5 +1,7 @@
 Article R214-135
 ----
-Les procès-verbaux sont établis sur un registre spécial tenu au siège social et
-coté et paraphé soit par un juge du tribunal d'instance, soit par le maire de la
-commune ou un adjoint au maire, dans la forme ordinaire et sans frais.
+La valeur de reconstitution de la société est déterminée à partir de la valeur
+de réalisation augmentée de la commission de souscription au moment de la
+reconstitution, multipliée par le nombre de parts émises, ainsi que de
+l'estimation des frais qui seraient nécessaires pour l'acquisition du patrimoine
+de la société à la date de clôture de l'exercice.

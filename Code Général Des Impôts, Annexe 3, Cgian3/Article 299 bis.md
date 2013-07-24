@@ -1,11 +1,11 @@
 Article 299 bis
 ----
-I. - 1. La personne qui demande le bénéfice pour la première fois des
-dispositions du 1 du I de l'article 885 I ter du code général des impôts au
-titre d'une souscription au capital d'une société donnée joint à sa déclaration
-d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la
-date limite de dépôt de ladite déclaration, une attestation émanant de cette
-société précisant :
+I.-1. La personne qui demande le bénéfice pour la première fois des dispositions
+du 1 du I de l'article 885 I ter du code général des impôts au titre d'une
+souscription au capital d'une société donnée joint à sa déclaration d'impôt de
+solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite
+de dépôt de ladite déclaration, une attestation émanant de cette société
+précisant :
 
 1° Son siège de direction effective et la nature de ses activités au 1er janvier
 de l'année d'imposition ainsi que le nombre et la nature des titres détenus à la
@@ -80,7 +80,7 @@ l'article 885 I ter précité ;
 2° Les éléments mentionnés aux b à d du 2 du I de l'article 299 octies ;
 
 3° Le respect par le fonds des conditions mentionnées, selon la nature du fonds
-concerné, aux articles L. 214-28, L. 214-38, L. 214-30 ou L. 214-31 du code
+concerné, aux articles L. 214-28, L. 214-160, L. 214-30 ou L. 214-31 du code
 monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité ;
 
 4° Le détail de la fraction mentionnée au second alinéa du 4 du I de l'article
@@ -97,7 +97,7 @@ d'imposition reçues en contrepartie de souscriptions satisfaisant aux condition
 prévues par l'article 885 I ter précité ;
 
 2° Le respect par le fonds des conditions mentionnées, selon la nature du fonds
-concerné, aux articles L. 214-28, L. 214-38, L. 214-30 ou L. 214-31 du code
+concerné, aux articles L. 214-28, L. 214-160, L. 214-30 ou L. 214-31 du code
 monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité.
 
-IV.- (Abrogé à compter du 6 août 2010).
+IV.-(Abrogé à compter du 6 août 2010).

@@ -1,19 +1,33 @@
 Article D214-227
 ----
-Le contrôleur légal des comptes du prestataire de services d'investissement
-mentionné à l'article L. 214-150 remplit une mission particulière annuelle
-portant sur le contrôle des comptes ouverts au nom des SICAF dans les livres du
-prestataire.
+Le bordereau prévu au deuxième alinéa du IV de l'article L. 214-169 comporte les
+énonciations suivantes :
 
-Dans un délai de sept semaines à compter de la clôture de chaque exercice de la
-SICAF, le prestataire de services d'investissement mentionné au premier alinéa
-atteste :
+1° La dénomination " acte de cession de créances " ;
 
-1° De l'existence des actifs dont il assure la tenue de compte conservation ;
+2° La mention du fait que la cession est soumise aux dispositions des articles
+L. 214-169 à L. 214-175 ;
 
-2° Des positions des autres actifs figurant dans l'inventaire qu'il produit et
-qu'il conserve dans les conditions mentionnées au premier alinéa.
+3° La désignation du cessionnaire ;
 
-Le prestataire de services d'investissement mentionné au premier alinéa adresse,
-selon les modalités mentionnées au 8° de l'article D. 214-228, cette attestation
-à la société de gestion.
+4° La désignation et l'individualisation des créances cédées ou les éléments
+susceptibles d'y pourvoir, par exemple l'indication du débiteur ou du type de
+débiteurs, des actes ou des types d'actes dont les créances sont ou seront
+issues, du lieu de paiement, du montant des créances ou de leur évaluation et,
+s'il y a lieu, de leur échéance.
+
+Lorsque la transmission des créances cédées est effectuée par un procédé
+informatique permettant de les identifier, le bordereau peut se borner à
+indiquer, outre les mentions prévues aux 1°, 2° et 3°, le moyen par lequel elles
+sont transmises, désignées et individualisées ainsi que l'évaluation de leur
+nombre et de leur montant global.
+
+La cession emporte l'obligation pour le cédant ou toute entité chargée du
+recouvrement de procéder, à la demande du cessionnaire, à la conservation des
+créances dans les conditions définies à l'article D. 214-229, ainsi qu'à tout
+acte nécessaire à la conservation des sûretés, des garanties et des accessoires
+attachés à ces créances, à leur modification éventuelle, à leur mise en jeu, à
+leur mainlevée et à leur exécution forcée.
+
+Le bordereau peut être établi, signé, conservé et transmis sous forme
+électronique.

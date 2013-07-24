@@ -1,10 +1,27 @@
 Article R214-144
 ----
-Les sociétés d'épargne forestière instituées en application de l'article L.
-214-85 et leurs sociétés de gestion sont régies par la présente sous-section et
-par les dispositions des sections 3 et 4 du chapitre IV du titre Ier du livre
-II, à l'exception des articles R. 214-116, R. 214-122, R. 214-139 et R. 214-140.
+I.-Les documents et renseignements suivants sont adressés ou mis à la
+disposition de tout associé dans les conditions prévues aux articles R. 214-137
+et R. 214-138, au plus tard quinze jours avant la réunion :
 
-La présente sous-section n'est pas applicable aux sociétés d'épargne forestière
-qui consacrent une fraction de leur actif à la bonification ou à la garantie de
-prêts.
+1° Le rapport de la société de gestion ;
+
+2° Le ou les rapports du conseil de surveillance ;
+
+3° Le ou les rapports des commissaires aux comptes ;
+
+4° Le ou les formules de vote par correspondance ou par procuration ;
+
+5° S'il s'agit de l'assemblée générale ordinaire prévue au premier alinéa de
+l'article L. 214-103 : le bilan, le compte de résultat, l'annexe et, le cas
+échéant, les rapports du conseil de surveillance et des commissaires aux
+comptes.
+
+II.-Lorsque l'ordre du jour comporte la désignation du conseil de surveillance,
+la convocation mentionne :
+
+1° Les nom, prénoms usuels et âge des candidats, leurs références
+professionnelles et leurs activités au cours des cinq dernières années ;
+
+2° Les emplois ou fonctions occupés dans la société par les candidats et le
+nombre de parts dont ils sont titulaires.

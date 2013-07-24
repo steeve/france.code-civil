@@ -14,5 +14,5 @@ même article L. 233-16, toute entreprise filiale de la même société mère ai
 que toute entreprise avec laquelle la société de gestion a des mandataires
 sociaux ou des dirigeants communs et qui exercent des fonctions de gestion de
 participations pour le compte de l'entreprise, ou de gestion au sens du 4 de
-l'article L. 321-1 et de l'article L. 214-8-1, ou de conseil au sens du 4 de
+l'article L. 321-1 et de l'article L. 214-24-35, ou de conseil au sens du 4 de
 l'article L. 321-2.

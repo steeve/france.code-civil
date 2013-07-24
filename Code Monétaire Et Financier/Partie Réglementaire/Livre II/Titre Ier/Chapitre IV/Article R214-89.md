@@ -1,38 +1,73 @@
 Article R214-89
 ----
-Par dérogation aux dispositions du I et du II de l'article R. 214-21, les fonds
-communs de placement d'entreprise et sociétés d'investissement à capital
-variable d'actionnariat salarié peuvent détenir sans limitation des valeurs
-mobilières émises par l'entreprise ou par une entreprise liée au sens des
-articles L. 3344-1 et L. 3344-2 du code du travail.
+I.-Pour l'appréciation des quotas de 60 % et 51 % mentionnés au 1° de l'article
+L. 214-37, il est tenu compte, au dénominateur :
 
-S'agissant des parts de sociétés à responsabilité limitée émises par une
-entreprise régie par la loi n° 47-1775 du 10 septembre 1947 portant statut de la
-coopération, la limite de 10 % prévue au II de l'article R. 214-21 est portée à
-50 % à condition que les statuts de cette entreprise ne prévoient pas de
-restriction au rachat immédiat des parts sociales détenues par le fonds.
+1° Des actifs mentionnés aux 1°, 4° et 6° à 9° du I de l'article L. 214-36
+détenus directement par l'organisme de placement collectif immobilier ;
 
-Les fonds communs de placement d'entreprise et sociétés d'investissement à
-capital variable d'actionnariat salarié ne sont pas pris en compte pour
-l'application du I de l'article R. 214-26. Ils ne peuvent toutefois détenir plus
-de 10 % d'instruments financiers assortis d'un droit de vote d'une même entité.
+2° Des actifs détenus directement par les sociétés mentionnées au 2° ou au 3° du
+I de l'article L. 214-36 dont l'organisme détient des participations répondant
+aux conditions fixées à l'article R. 214-83, au prorata des participations
+directes et indirectes de l'organisme dans ces sociétés ;
 
-Par dérogation au II de l'article R. 214-26 et à l'alinéa précédent, les fonds
-communs de placement d'entreprise et sociétés d'investissement à capital
-variable d'actionnariat salarié peuvent détenir plus de 10 % des titres émis par
-l'entreprise ou par toute autre entreprise qui lui est liée au sens des articles
-L. 3344-1 et L. 3344-2 du code du travail.
+3° Des participations directes relevant de l'article R. 214-85 ;
 
-Le montant cumulé des liquidités constatées lors de l'établissement de chacune
-des valeurs liquidatives de l'année en cours ne peut excéder le cinquième de la
-somme des actifs nets de la même période. L'Autorité des marchés financiers peut
-apporter à cette règle des dérogations exceptionnelles.
+4° Des participations directes dans des organismes mentionnés au 5° du I de
+l'article L. 214-36.
 
-Lorsque la proportion de l'actif d'un fonds commun de placement d'entreprise ou
-d'une société d'investissement à capital variable d'actionnariat salarié régis
-par les articles L. 214-40 et L. 214-41 investie en titres de l'entreprise ou de
-toute autre société qui lui est liée tombe au-dessous du tiers, la société de
-gestion ou la société d'investissement à capital variable doivent, dans leurs
-opérations d'achat et de vente de titres, avoir pour objectif prioritaire de
-régulariser cette situation dans les plus brefs délais, tout en tenant compte de
-l'intérêt des porteurs de parts ou d'actions.
+II.-Pour l'appréciation du quota de 60 % mentionné au 1° de l'article L. 214-37
+s'appliquant à la société de placement à prépondérance immobilière à capital
+variable, il est tenu compte, au numérateur :
+
+1° Des actifs mentionnés au 1° du I de l'article L. 214-36 détenus directement
+par la société de placement à prépondérance immobilière à capital variable ;
+
+2° Des immeubles, droits réels mentionnés à l'article R. 214-82 et, le cas
+échéant, droit de crédit-preneur, détenus directement par les sociétés
+mentionnées au 2° ou au 3° du I de l'article L. 214-36 dont la société de
+placement à prépondérance immobilière à capital variable détient des
+participations répondant aux conditions fixées à l'article R. 214-83, au prorata
+des participations directes et indirectes de la société de placement à
+prépondérance immobilière à capital variable dans ces sociétés ;
+
+3° Des participations directes relevant de l'article R. 214-85 ainsi que des
+participations directes détenues par les sociétés mentionnées au 2° dans des
+sociétés mentionnées à l'article R. 214-85, au prorata des participations
+directes et indirectes de l'organisme de placement collectif immobilier dans
+lesdites sociétés mentionnées au 2° ;
+
+4° Des actions mentionnées au 4° du I de l'article L. 214-36 détenues
+directement par la société de placement à prépondérance immobilière à capital
+variable ;
+
+5° Des participations directes dans des organismes mentionnées au 5° du I de
+l'article L. 214-36 ainsi que des participations directes détenues par les
+sociétés mentionnées au 2° du présent article dans les organismes mentionnés à
+ce 5°, au prorata des participations directes et indirectes de l'organisme de
+placement collectif immobilier dans ces sociétés mentionnées au 2° du présent
+article.
+
+Pour l'appréciation du quota de 51 % mentionné au 1° de l'article L. 214-37, il
+est tenu compte, au numérateur, des actifs mentionnés aux 1° à 3° et au 5° du
+présent II.
+
+III.-Pour l'appréciation du quota de 60 % mentionné au 1° de l'article L. 214-37
+s'appliquant au fonds de placement immobilier, il est tenu compte, au numérateur
+:
+
+1° Des actifs mentionnés au 1° du I de l'article L. 214-36 détenus directement
+par le fonds de placement immobilier ;
+
+2° Des immeubles et droits réels mentionnés à l'article R. 214-82 détenus
+directement par les sociétés mentionnées au 2° du I de l'article L. 214-36 dont
+le fonds de placement immobilier détient des participations répondant aux
+conditions fixées à l'article R. 214-83, au prorata des participations directes
+et indirectes du fonds de placement immobilier dans ces sociétés ;
+
+3° Des immeubles et droits réels mentionnés à l'article R. 214-82 détenus
+directement par les organismes mentionnés au 5° du I de l'article L. 214-36 dont
+le fonds de placement immobilier détient des participations répondant aux
+conditions fixées à la dernière phrase du 1° de l'article L. 214-37, au prorata
+des participations directes et indirectes du fonds de placement immobilier dans
+ces organismes.

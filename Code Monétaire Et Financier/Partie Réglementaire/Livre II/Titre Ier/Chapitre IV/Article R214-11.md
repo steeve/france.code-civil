@@ -17,7 +17,7 @@ sur un autre marché d'un pays tiers, réglementé, en fonctionnement régulier,
 reconnu et ouvert au public, pour autant que cette bourse ou ce marché ne figure
 pas sur une liste établie par l'Autorité des marchés financiers ou que le choix
 de cette bourse ou de ce marché soit prévu par la loi ou par le règlement ou les
-statuts de l'organisme de placement collectif en valeurs mobilières ;
+statuts de l'OPCVM ;
 
 4° Soit des titres financiers éligibles nouvellement émis sous réserve que :
 
@@ -27,7 +27,7 @@ réglementé, en fonctionnement régulier, reconnu et ouvert au public, sera
 introduite, pour autant que cette bourse ou ce marché ne figure pas sur une
 liste établie par l'Autorité des marchés financiers ou que le choix de cette
 bourse ou de ce marché soit prévu par la loi ou par le règlement ou les statuts
-de l'organisme de placement collectif en valeurs mobilières ;
+de l'OPCVM ;
 
 b) L'admission mentionnée au a soit obtenue dans un délai d'un an à compter de
 l'émission.
@@ -44,9 +44,8 @@ présent I les titres de créance négociables émis par un émetteur mentionné
 du I de l'article R. 214-12, dès lors que ces titres respectent la condition
 prévue au V de cet article.
 
-II.-Un organisme de placement collectif en valeurs mobilières ne peut employer
-plus de 10 % de ses actifs dans des titres financiers éligibles ou des
-instruments du marché monétaire ne répondant pas aux conditions mentionnées au
-I.
+II.-Un OPCVM ne peut employer plus de 10 % de ses actifs dans des titres
+financiers éligibles ou des instruments du marché monétaire ne répondant pas aux
+conditions mentionnées au I.
 
 Il ne peut acquérir des certificats représentatifs de métaux précieux.

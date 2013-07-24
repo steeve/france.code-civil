@@ -1,9 +1,10 @@
 Article R214-37
 ----
-Pour l'appréciation des limites fixées à l'article R. 214-36 : 1° Lorsque les
-titres détenus par le fonds ne sont pas admis aux négociations sur un marché
-d'instruments financiers au sens du I de l'article L. 214-28, ils sont retenus
-pour leur valeur d'acquisition ou de souscription ;
+Pour l'appréciation des limites fixées à l'article R. 214-36 :
+
+1° Lorsque les titres détenus par le fonds ne sont pas admis aux négociations
+sur un marché d'instruments financiers au sens du I de l'article L. 214-28, ils
+sont retenus pour leur valeur d'acquisition ou de souscription ;
 
 2° Lorsque des titres détenus par le fonds font l'objet d'un échange avec des
 titres non admis aux négociations sur un marché d'instruments financiers au sens

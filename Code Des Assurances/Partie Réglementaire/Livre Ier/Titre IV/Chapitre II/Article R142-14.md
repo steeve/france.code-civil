@@ -10,18 +10,17 @@ mentionnés ne peut excéder 10 % au total :
 1° Parts ou actions mentionnées au 3° ou au 4° de l'article R. 131-1 ;
 
 2° Par dérogation au premier alinéa du présent article, parts ou actions
-d'organismes de placement collectif en valeurs mobilières mentionnées au 8° de
-l'article R. 332-2 et dont l'actif comprend plus de 10 % de parts ou actions
-d'organismes de placement collectif en valeurs mobilières ou de fonds
-d'investissement mentionnées au c du I de l'article L. 214-20 du code monétaire
-et financier ;
+d'organismes de placement collectif en valeurs mobilières ou de placements
+collectifs mentionnées au 8° de l'article R. 332-2 et dont l'actif comprend plus
+de 10 % de parts ou actions d'organismes de placement collectif en valeurs
+mobilières, de placements collectifs relevant des paragraphes 1, 2 et 6 de la
+sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la
+sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code
+monétaire et financier ou de fonds d'investissement mentionnés au 3° du I de
+l'article L. 214-24-55 du même code ;
 
-3° Parts ou actions d'organismes de placement collectif en valeurs mobilières
-mentionnées au 8° de l'article R. 332-2, lorsqu'ils n'ont pas été agréés
-conformément à la directive n° 2009/65/CE du Parlement européen et du Conseil du
-13 juillet 2009 portant coordination des dispositions législatives,
-réglementaires et administratives concernant certains organismes de placement
-collectif en valeurs mobilières ;
+3° Parts ou actions de placements collectifs mentionnés au 8° de l'article R.
+332-2 ;
 
 4° Actifs mentionnés au 13° de l'article R. 332-2.
 

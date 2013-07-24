@@ -1,8 +1,16 @@
 Article R214-222
 ----
-Le règlement ou les statuts d'un organisme de placement collectif immobilier à
-règles de fonctionnement allégées avec effet de levier fixent les règles de
-constitution et de composition de l'actif de l'organisme et les règles de
-recours à l'emprunt, de recours aux instruments financiers à terme mentionnés à
-l'article L. 214-94 et aux opérations d'acquisitions et de cessions temporaires
-de titres, ainsi qu'aux garanties mentionnées à l'article L. 214-97.
+Pour la réalisation de son objet, un organisme de titrisation peut octroyer les
+garanties mentionnées à l'article L. 211-38, dans les conditions définies à ce
+même article.
+
+Lorsque les garanties octroyées par un organisme de titrisation sont des
+sûretés, l'acte constitutif de ces sûretés définit :
+
+1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser
+ou aliéner. A défaut de cette indication, le bénéficiaire ne peut utiliser ou
+aliéner que des dépôts ou des liquidités ;
+
+2° Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut
+utiliser ou aliéner. Ce montant maximal ne peut excéder le montant de la créance
+du bénéficiaire sur l'organisme.

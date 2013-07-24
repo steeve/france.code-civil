@@ -15,10 +15,10 @@ conclure des accords d'achat ou de vente portant sur un ou plusieurs instruments
 financiers, pour le compte d'un tiers. Toutefois, l'exécution des ordres
 résultant des décisions d'investissement prises par les prestataires de services
 d'investissement dans le cadre du service mentionné au 4 ou de la gestion d'un
-organisme de placement collectif en valeurs mobilières ou d'un organisme de
-placement collectif immobilier relève, selon le cas, dudit service mentionné au
-4 ou de l'activité de gestion d'organismes de placement collectif en valeurs
-mobilières ou d'organismes de placement collectif immobiliers ;
+OPCVM ou d'un FIA relevant des paragraphes 1, 2, 3 et 6 de la sous-section 2,
+des sous-sections 3 et 4 de la section 2 du chapitre IV du titre Ier du livre II
+relève, selon le cas, dudit service mentionné au 4 ou de l'activité de gestion
+d'OPCVM ou de FIA relevant des dispositions précitées ;
 
 3. Constitue le service de négociation pour compte propre le fait de conclure
 des transactions portant sur un ou plusieurs instruments financiers en engageant

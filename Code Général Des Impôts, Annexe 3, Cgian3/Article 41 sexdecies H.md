@@ -2,11 +2,11 @@ Article 41 sexdecies H
 ----
 1. Pour l'application du sixième alinéa du 4° du 3 de l'article 158 du code
 général des impôts, et sans préjudice des autres dispositions fiscales qui leur
-sont applicables, les sociétés ou organismes mentionnés au même 4° ou, à défaut
-de personnalité morale, leur gérant ou représentant à l'égard des tiers,
-ventilent leurs distributions ou répartitions en distinguant la part éligible à
-l'abattement de 40 % mentionné au 2° du 3 de l'article 158 du code précité de
-celle non éligible à cet abattement.
+sont applicables, les sociétés, organismes ou placements collectifs mentionnés
+au même 4° ou, à défaut de personnalité morale, leur gérant ou représentant à
+l'égard des tiers, ventilent leurs distributions ou répartitions en distinguant
+la part éligible à l'abattement de 40 % mentionné au 2° du 3 de l'article 158 du
+code précité de celle non éligible à cet abattement.
 
 La ventilation de ces distributions ou répartitions est communiquée à
 l'établissement payeur soumis aux obligations de l'article 242 ter du code
@@ -17,13 +17,13 @@ l'administration fiscale.
 
 La part éligible à l'abattement de 40 % mentionné au premier alinéa est indiquée
 sur les rapports annuels ou semestriels prévus par le règlement général de
-l'Autorité des marchés financiers pour les sociétés et organismes mentionnés au
-a du 4° du 3 de l'article 158 du code général des impôts ainsi que sur les
-rapports annuels et semestriels mentionnés à l'article 27 de la directive
-85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions
-législatives, réglementaires et administratives concernant certains organismes
-de placement collectif en valeurs mobilières (OPCVM), pour les organismes
-mentionnés au b du 4° du 3 du même article 158.
+l'Autorité des marchés financiers pour les sociétés, organismes ou placements
+collectifs mentionnés au a du 4° du 3 de l'article 158 du code général des
+impôts ainsi que sur les rapports annuels et semestriels mentionnés à l'article
+27 de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant
+coordination des dispositions législatives, réglementaires et administratives
+concernant certains organismes de placement collectif en valeurs mobilières
+(OPCVM), pour les organismes mentionnés au b du 4° du 3 du même article 158.
 
 2. Pour l'application du 1, les personnes mentionnées au premier alinéa du 1
 prélèvent les revenus distribués ou répartis éligibles à l'abattement de 40 %

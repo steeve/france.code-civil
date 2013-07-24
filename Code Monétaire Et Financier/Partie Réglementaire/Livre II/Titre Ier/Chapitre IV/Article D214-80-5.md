@@ -7,7 +7,7 @@ que, lorsqu'il existe des millésimes antérieurs de ces fonds, pour chaque
 millésime antérieur, et pour chaque année de souscription depuis la création du
 fonds, un ou plusieurs tableaux qui regroupent les valeurs suivantes :
 
-1° Figurent, en lignes, les éléments suivants, répartis par millésime de fonds :
+1° En lignes, les éléments suivants, répartis par millésime de fonds :
 
 a) La somme des valeurs liquidatives des parts souscrites et des distributions
 effectuées ;
@@ -15,7 +15,7 @@ effectuées ;
 b) Le montant des frais de gestion et de distribution réellement prélevés,
 rattachables à ces parts selon une méthode de calcul normalisée ;
 
-2° Figurent, en colonnes, les éléments suivants :
+2° En colonnes, les éléments suivants :
 
 a) Description du millésime du fonds ;
 

@@ -24,7 +24,7 @@ fonds communs de placement doivent être en mesure de démontrer qu'elles
 respecteraient le présent article si elles détenaient elles-mêmes directement,
 au prorata de leur participation, les valeurs détenues par ces organismes ;
 
-2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° ter
+2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° bis
 et 14° quinquies de l'article R. 212-31 ;
 
 3° 1 % pour les valeurs mentionnées aux 9°, 10°, 10° bis, 10° ter et 14° quater

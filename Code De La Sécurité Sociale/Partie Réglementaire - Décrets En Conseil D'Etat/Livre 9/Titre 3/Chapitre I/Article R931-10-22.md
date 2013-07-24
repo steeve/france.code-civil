@@ -16,7 +16,7 @@ de l'article R. 931-10-21 et par les actions et parts mentionnées aux 8° et 9�
 9° quater, et au 12° quater du même article et par les prêts mentionnés
 ci-dessus ;
 
-2° 40 % pour les actifs immobiliers mentionnés aux 11° à 12° ter et 12°
+2° 40 % pour les actifs immobiliers mentionnés aux 11° à 12° bis et 12°
 quinquies de l'article R. 931-10-21 ;
 
 3° 10 % pour l'ensemble des valeurs mentionnées du 13° au 15° de l'article R.

@@ -19,7 +19,7 @@ commerciales mentionnées au 6° de l'article R. 332-2 ;
 actions mentionnées au 9° ter de l'article R. 332-2 ;
 
 7° Dans des conditions fixées aux articles R. 131-5 et R. 131-6, les parts ou
-actions mentionnées au 9° quater et au 9° sexies de l'article R. 332-2.
+actions mentionnées au 9° sexies de l'article R. 332-2.
 
 Le contrat peut se référer soit à une seule unité de compte, soit à la
 combinaison de plusieurs unités de compte. Dans ce dernier cas, la prime doit

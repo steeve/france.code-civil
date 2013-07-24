@@ -7,14 +7,14 @@ celles de ses porteurs de parts à la date de son entrée en période de
 préliquidation pour réinvestir en parts, actions, obligations remboursables,
 obligations convertibles ou titres participatifs ainsi qu'en avances en comptes
 courants dans des sociétés non admises aux négociations sur un marché
-d'instruments financiers au sens du I de l'article L. 214-28, ou dans des
-entités mentionnées au 2° du II de l'article L. 214-28 dont les titres ou droits
+d'instruments financiers au sens du I de l'article L. 214-28 ou dans des entités
+mentionnées au 2° du II de l'article L. 214-28 dont les titres ou droits
 figurent à son actif ;
 
 2° Peut, par dérogation à l'article R. 214-43, céder à une entreprise liée des
 titres de capital ou de créance détenus depuis plus de douze mois. Dans ce cas,
 les cessions sont évaluées par un expert indépendant sur rapport du commissaire
-aux comptes du fonds ; ces cessions ainsi que le rapport y afférent sont
+aux comptes du fonds. Ces cessions ainsi que le rapport y afférent sont
 communiqués à l'Autorité des marchés financiers ;
 
 3° Ne peut détenir à son actif à compter de l'ouverture de l'exercice qui suit

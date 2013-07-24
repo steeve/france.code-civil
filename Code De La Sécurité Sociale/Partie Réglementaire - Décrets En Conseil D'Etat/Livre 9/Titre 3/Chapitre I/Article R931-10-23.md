@@ -26,7 +26,7 @@ doivent être en mesure de démontrer qu'elles respecteraient le présent articl
 si elles détenaient elles-mêmes directement au prorata de leur participation les
 valeurs détenues par ces organismes ;
 
-2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 12° à 12° ter
+2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 12° à 12° bis
 et 12° quinquies de l'article R. 931-10-21 ;
 
 3° 1 % pour les valeurs mentionnées du 8° au 10° et 12° quater de l'article R.

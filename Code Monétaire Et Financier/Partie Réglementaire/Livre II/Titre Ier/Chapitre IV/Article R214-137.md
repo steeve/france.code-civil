@@ -1,13 +1,19 @@
 Article R214-137
 ----
-Tout associé, assisté ou non d'une personne de son choix, a le droit, à toute
-époque, de prendre par lui-même ou par mandataire, et au siège social,
-connaissance des documents suivants concernant les trois derniers exercices :
-bilans, comptes de résultat, annexes, inventaires, rapports soumis aux
-assemblées, feuilles de présence et procès-verbaux de ces assemblées, les
-rémunérations globales de gestion, de direction et d'administration de la
-société, ainsi que de surveillance si les organes de surveillance sont
-rémunérés.
+Les sociétés civiles de placement immobilier ou sociétés d'épargne forestière
+qui entendent recourir à la télécommunication électronique en lieu et place d'un
+envoi postal pour satisfaire aux formalités prévues aux articles R. 214-138, R.
+214-143 et R. 214-144 recueillent au préalable, par écrit, l'accord des associés
+intéressés.
 
-Sauf en ce qui concerne l'inventaire, le droit de prendre connaissance comporte
-celui de prendre copie.
+Les associés ayant accepté le recours à la voie électronique transmettent à la
+société civile de placement immobilier ou à la société d'épargne forestière leur
+adresse électronique, mise à jour le cas échéant. Ils peuvent à tout moment
+demander à la société, par lettre recommandée avec demande d'avis de réception,
+le recours, à l'avenir, de la voie postale.
+
+La demande de transmission des documents par voie électronique, pour être
+valablement prise en compte lors de la prochaine assemblée, est notifiée par la
+société de gestion au plus tard vingt jours avant la date de cette assemblée. A
+défaut, la transmission par voie électronique sera effective pour l'assemblée
+générale suivante se tenant sur première convocation.
