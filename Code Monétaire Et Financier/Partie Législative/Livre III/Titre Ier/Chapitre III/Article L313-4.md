@@ -16,6 +16,10 @@ honoraires d'officiers ministériels ne sont pas compris dans le taux effectif
 global défini ci-dessus, lorsque leur montant ne peut être indiqué avec
 précision antérieurement à la conclusion définitive du contrat.
 
+Pour les contrats de crédit entrant dans le champ d'application du chapitre Ier
+du présent titre, le taux effectif global, qui est dénommé "Taux annuel effectif
+global", ne comprend pas les frais d'acte notarié.
+
 En outre, pour les prêts qui font l'objet d'un amortissement échelonné, le taux
 effectif global doit être calculé en tenant compte des modalités de
 l'amortissement de la créance.
