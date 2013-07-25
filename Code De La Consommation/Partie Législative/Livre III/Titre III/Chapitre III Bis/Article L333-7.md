@@ -23,7 +23,8 @@ commerce est ouverte au bénéfice du débiteur après le dépôt du dossier et 
 selon les cas, l'approbation du plan conventionnel de redressement prévu à
 l'article L. 331-6, jusqu'à la décision imposant les mesures prévues par
 l'article L. 331-7, jusqu'à l'homologation par le juge des mesures recommandées
-en application des articles L. 331-7-1, L. 331-7-2 et L. 332-5 ou jusqu'au
-jugement d'ouverture d'une procédure de rétablissement personnel avec
+en application des articles L. 331-7-1, L. 331-7-2 et L. 332-5, jusqu'au
+jugement prononçant un redressement personnel sans liquidation judiciaire ou
+jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec
 liquidation judiciaire, le débiteur en informe la commission de surendettement
 et indique auprès de quelle juridiction cette procédure a été ouverte.

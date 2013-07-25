@@ -20,3 +20,8 @@ réglementaire. La part des ressources nécessaire aux dépenses courantes est
 fixée par la commission et mentionnée dans le plan conventionnel de redressement
 prévu à l'article L. 331-6, dans les mesures prévues à l'article L. 331-7 ou les
 recommandations prévues à l'article L. 331-7-1.
+
+Le montant des remboursements peut, avec l'accord du débiteur et dans des
+limites raisonnables, excéder la somme calculée par référence à la quotité
+saisissable du salaire telle qu'elle résulte des articles L. 3252-2 et L. 3252-3
+du code du travail, en vue d'éviter la cession de la résidence principale.

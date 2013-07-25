@@ -45,7 +45,8 @@ La même obligation pèse sur le greffe du juge du tribunal d'instance lorsque,
 sur recours de l'intéressé en application du IV de l'article L. 331-3, la
 situation visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le
 débiteur a bénéficié de l'effacement des dettes résultant de la procédure de
-rétablissement personnel en application des articles L. 332-9 ou L. 332-5.
+rétablissement personnel en application des articles L. 332-9 , L. 332-5, L.
+332-5-1 ou L. 332-5-2.
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées
 à l'article L. 331-6. Ces mesures sont communiquées à la Banque de France par la
@@ -65,10 +66,11 @@ entraîné leur déclaration sont radiées à l'expiration d'une période de cin
 à compter de la signature du plan conventionnel ou de la date de la décision de
 la commission qui impose des mesures ou lorsque les mesures recommandées par la
 commission ont acquis force exécutoire. Lorsque, pour une même personne, sont
-prescrits successivement un plan conventionnel mentionné à l'article L. 331-6 et
-des mesures prises en application des articles L. 331-7, L. 331-7-1 et L.
-331-7-2, l'inscription est maintenue pendant la durée globale d'exécution du
-plan et des mesures sans pouvoir excéder huit ans.
+prescrits successivement, dans le cadre d'une révision ou d'un renouvellement du
+plan ou des mesures, un plan conventionnel mentionné à l'article L. 331-6 et des
+mesures prises en application des articles L. 331-7, L. 331-7-1 et L. 331-7-2,
+l'inscription est maintenue pendant la durée globale d'exécution du plan et des
+mesures sans pouvoir excéder huit ans.
 
 Pour les personnes ayant bénéficié de la procédure de rétablissement personnel,
 les informations relatives aux mentions correspondantes sont radiées à

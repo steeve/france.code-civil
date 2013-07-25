@@ -30,8 +30,3 @@ l'article L. 331-7. Celles de ces créances dont le prix a été payé au lieu e
 place du débiteur par la caution ou le coobligé, personnes physiques, ne peuvent
 faire l'objet d'un effacement. Les dettes fiscales font l'objet de remises
 totales ou partielles dans les mêmes conditions que les autres dettes.
-
-Les créances figurant dans l'état du passif définitivement arrêté par la
-commission ou le juge ne peuvent produire d'intérêts ou générer de pénalités de
-retard jusqu'à ce que les mesures prévues au présent article soient opposables
-au créancier.

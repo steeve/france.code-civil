@@ -1,9 +1,10 @@
 Article L334-5
 ----
-L'article L. 330-1, les articles L. 331-2 à L. 333-5, à l'exclusion de
-l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1 et de la dernière
-phrase de l'article L. 332-9 ainsi que l'article L. 333-7 sont applicables en
-Nouvelle-Calédonie, sous les réserves suivantes :
+L'article L. 330-1, les articles L. 331-2 à L. 333-5, à l'exclusion de la
+dernière phrase du huitième alinéa de l'article L. 331-7, de la dernière phrase
+du 2° de l'article L. 331-7-1 et de la dernière phrase de l'article L. 332-9
+ainsi que l'article L. 333-7 sont applicables en Nouvelle-Calédonie, sous les
+réserves suivantes :
 
 a) A l'article L. 331-2, la référence au montant forfaitaire mentionné au 2° de
 l'article L. 262-2 du code de l'action sociale et des familles est remplacée par
@@ -14,13 +15,13 @@ dispositions suivantes :
 
 Nonobstant toute disposition contraire, la commission peut obtenir
 communication, auprès des administrations publiques, des établissements de
-crédit, des sociétés de financement et des établissements de paiement ainsi que
-des services chargés de centraliser les risques bancaires et les incidents de
-paiement, de tout renseignement de nature à lui donner une exacte information
-sur la situation du débiteur, l'évolution possible de celle-ci et les procédures
-de conciliation amiables en cours. Elle peut obtenir communication de ces mêmes
-renseignements auprès des organismes de sécurité et de prévoyance sociale, sous
-réserve de leur accord.
+crédit, des établissements de monnaie électronique, des sociétés de financement
+et des établissements de paiement ainsi que des services chargés de centraliser
+les risques bancaires et les incidents de paiement, de tout renseignement de
+nature à lui donner une exacte information sur la situation du débiteur,
+l'évolution possible de celle-ci et les procédures de conciliation amiables en
+cours. Elle peut obtenir communication de ces mêmes renseignements auprès des
+organismes de sécurité et de prévoyance sociale, sous réserve de leur accord.
 
 Les collectivités territoriales et les organismes de sécurité sociale peuvent
 procéder, à sa demande, à des enquêtes sociales ;
@@ -28,8 +29,8 @@ procéder, à sa demande, à des enquêtes sociales ;
 c) Les délais prévus au sixième alinéa de l'article L. 331-3, aux articles L.
 331-4 et L. 332-2 sont fixés par les autorités locales compétentes ;
 
-d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : " figurant sur
-une liste établie dans des conditions fixées par décret en Conseil d'Etat " sont
+d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : "figurant sur
+une liste établie dans des conditions fixées par décret en Conseil d'Etat" sont
 supprimés.
 
 e) Pour son application en Nouvelle-Calédonie, l'article L. 332-8 est ainsi
@@ -79,6 +80,6 @@ a) Les références aux dispositions législatives du code du travail et du code
 procédure civile sont remplacées par les références aux dispositions applicables
 localement ayant le même objet ;
 
-b) Les mots : " juge de l'exécution " sont remplacés partout où ils figurent par
-les mots : " président du tribunal de première instance ou les juges délégués
-par lui ".
+b) Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par
+les mots : "président du tribunal de première instance ou les juges délégués par
+lui".

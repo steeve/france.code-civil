@@ -8,13 +8,14 @@ rémunération sont suspendues ou interdites, selon les cas, jusqu'à l'approbat
 du plan conventionnel de redressement prévu à l'article L. 331-6, jusqu'à la
 décision imposant les mesures prévues par l'article L. 331-7, jusqu'à
 l'homologation par le juge des mesures recommandées en application des articles
-L. 331-7-1, L. 331-7-2 et L. 332-5 ou jusqu'au jugement d'ouverture d'une
+L. 331-7-1, L. 331-7-2 et L. 332-5, jusqu'au jugement prononçant un redressement
+personnel sans liquidation judiciaire ou jusqu'au jugement d'ouverture d'une
 procédure de rétablissement personnel avec liquidation judiciaire. Cette
-suspension et cette interdiction ne peuvent excéder un an. Toutefois, lorsqu'en
-cas de saisie immobilière la vente forcée a été ordonnée, le report de la date
-d'adjudication ne peut résulter que d'une décision du juge chargé de la saisie
-immobilière, saisi à cette fin par la commission, pour causes graves et dûment
-justifiées.
+suspension et cette interdiction ne peuvent excéder deux ans. Toutefois,
+lorsqu'en cas de saisie immobilière la vente forcée a été ordonnée, le report de
+la date d'adjudication ne peut résulter que d'une décision du juge chargé de la
+saisie immobilière, saisi à cette fin par la commission, pour causes graves et
+dûment justifiées.
 
 Cette suspension et cette interdiction emportent interdiction pour le débiteur
 de faire tout acte qui aggraverait son insolvabilité, de payer, en tout ou
@@ -46,3 +47,25 @@ passif définitivement arrêté par la commission ou le juge. Le contrat
 d'assurance correspondant ne peut pas être résilié pendant la période de
 suspension et d'interdiction des procédures d'exécution et des cessions de
 rémunération définie au premier alinéa du présent article.
+
+Les créances figurant dans l'état d'endettement du débiteur dressé par la
+commission ne peuvent produire d'intérêts ou générer de pénalités de retard à
+compter de la date de recevabilité et jusqu'à la mise en œuvre des mesures
+prévues aux 1° et 2° de l'article L. 330-1 et aux articles L. 331-6, L. 331-7,
+L. 331-7-1 et L. 331-7-2.
+
+Les créanciers informent les personnes qu'ils ont chargées d'actions de
+recouvrement de la recevabilité de la demande et de ses conséquences prévues au
+premier alinéa.
+
+Lorsqu'un protocole de cohésion sociale prévu aux articles L. 353-15-2 et L.
+442-6-5 du code de la construction et de l'habitation a été conclu avec le
+bailleur antérieurement à la décision de recevabilité, le paiement des arriérés
+de loyer prévu par ledit protocole est suspendu jusqu'à la mise en œuvre des
+mesures prévues aux 1° et 2° de l'article L. 330-1 ou aux articles L. 331-6 à L.
+331-7-2 du présent code. Lorsque lesdites mesures prévoient des modalités de
+règlement de la dette de loyer, celles-ci se substituent aux modalités de
+règlement de la dette de loyer prévues dans le protocole de cohésion sociale,
+dont la durée est prolongée jusqu'au règlement de la dette de loyer, dans la
+limite de la durée des mesures de redressement prises en application des
+articles L. 331-6 à L. 331-7-2 du présent code.

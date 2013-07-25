@@ -4,9 +4,10 @@ Il est institué, dans chaque département, au moins une commission de
 surendettement des particuliers.
 
 Elle comprend le représentant de l'Etat dans le département, président, et le
-responsable départemental de la direction générale des finances publiques chargé
-de la gestion publique, vice-président. Chacune de ces personnes peut se faire
-représenter par un délégué selon des modalités fixées par décret.
+directeur départemental des finances publiques, vice-président. Chacune de ces
+personnes peut se faire représenter par un délégué selon des modalités fixées
+par décret. Les modalités de remplacement de ce dernier en cas d'empêchement
+sont fixées par décret.
 
 La commission comprend également :
 

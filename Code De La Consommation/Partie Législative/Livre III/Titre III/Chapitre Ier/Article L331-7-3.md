@@ -17,4 +17,4 @@ demander au juge de suspendre les mesures d'expulsion du logement du débiteur.
 La suspension et l'interdiction sont acquises jusqu'à l'homologation par le juge
 de la recommandation en application de l'article L. 332-5 ou jusqu'au jugement
 d'ouverture d'une procédure de rétablissement personnel avec liquidation
-judiciaire. Cette suspension et cette interdiction ne peuvent excéder un an.
+judiciaire. Cette suspension et cette interdiction ne peuvent excéder deux ans.

@@ -7,8 +7,10 @@ L'impossibilité manifeste pour une personne physique de bonne foi de faire face
 à l'engagement qu'elle a donné de cautionner ou d'acquitter solidairement la
 dette d'un entrepreneur individuel ou d'une société caractérise également une
 situation de surendettement. Le seul fait d'être propriétaire de sa résidence
-principale ne peut être tenu comme empêchant que la situation de surendettement
-soit caractérisée.
+principale et que la valeur estimée de celle-ci à la date du dépôt du dossier de
+surendettement soit égale ou supérieure au montant de l'ensemble des dettes non
+professionnelles exigibles et à échoir ne peut être tenu comme empêchant que la
+situation de surendettement soit caractérisée.
 
 Lorsque les ressources ou l'actif réalisable du débiteur le permettent, des
 mesures de traitement peuvent être prescrites devant la commission de
@@ -32,11 +34,12 @@ fins d'ouverture d'une procédure de rétablissement personnel avec liquidation
 judiciaire, si elle constate que le débiteur n'est pas dans la situation
 mentionnée au 1°.
 
-A l'occasion des recours exercés devant le juge du tribunal d'instance pour
-contester les décisions de la commission en matière d'orientation du dossier ou
-en application des articles L. 331-4, L. 331-7 et L. 332-2, le juge du tribunal
-d'instance peut, avec l'accord du débiteur, décider l'ouverture d'une procédure
-de rétablissement personnel avec liquidation judiciaire.
+A l'occasion des recours exercés devant lui en application des articles L.
+331-4, L. 331-7 et L. 332-2, le juge du tribunal d'instance peut, avec l'accord
+du débiteur, décider l'ouverture d'une procédure de rétablissement personnel
+avec liquidation judiciaire. Lorsqu'il statue en application des articles L.
+331-7 et L. 332-2, il peut en outre prononcer un redressement personnel sans
+liquidation judiciaire.
 
 Le juge du tribunal d'instance connaît de la procédure de traitement des
 situations de surendettement devant la commission de surendettement des

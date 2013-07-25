@@ -60,7 +60,19 @@ A tout moment de la procédure, si la situation du débiteur l'exige, la
 commission l'invite à solliciter une mesure d'aide ou d'action sociale qui peut
 comprendre un programme d'éducation budgétaire, et notamment une mesure
 d'accompagnement social personnalisé, dans les conditions prévues par le livre
-II du code de l'action sociale et des familles.
+II du code de l'action sociale et des familles. Dans chaque département, le
+conseil général et la caisse d'allocations familiales désignent, chacun pour ce
+qui le concerne, un correspondant en vue de favoriser la coordination de leurs
+actions avec celles de la commission et notamment de faciliter la mise en place
+des mesures d'accompagnement social ou budgétaire prévues au présent titre.
+
+Lorsque le débiteur a déjà bénéficié d'une mesure de rétablissement personnel
+prévue aux 1° et 2° de l'article L. 330-1 et qu'il saisit de nouveau la
+commission, celle-ci peut, si elle estime que la situation du débiteur est de
+nouveau irrémédiablement compromise et après avis du membre de la commission
+justifiant d'une expérience dans le domaine de l'économie sociale et familiale,
+recommander au juge que la mesure d'effacement des dettes soit assortie de la
+mise en place de mesures d'accompagnement social ou budgétaire.
 
 Le règlement intérieur de la commission détermine les documents qui doivent être
 transmis aux membres de la commission, préalablement à la réunion de celle-ci.
@@ -75,6 +87,5 @@ débiteur aux convocations vaut refus de cette saisine. En cas de refus du
 débiteur, la commission reprend sa mission dans les termes des articles L.
 331-6, L. 331-7, L. 331-7-1 et L. 331-7-2.
 
-IV.-Les décisions rendues par la commission en matière de recevabilité et
-d'orientation du dossier sont susceptibles de recours devant le juge du tribunal
-d'instance .
+IV.-Les décisions rendues par la commission en matière de recevabilité du
+dossier sont susceptibles de recours devant le juge du tribunal d'instance.
