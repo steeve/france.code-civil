@@ -29,10 +29,3 @@ fournies les informations sur le coût du crédit.
 Si le prêteur exige qu'un service accessoire soit fourni pour l'obtention du
 crédit, notamment une assurance, la publicité mentionne de façon claire, précise
 et visible la nécessité de contracter ce service.
-
-Lorsqu'un prêteur propose habituellement des contrats de crédit assortis d'une
-proposition d'assurance facultative ayant pour objet la garantie de
-remboursement du crédit, toute publicité mentionnée au premier alinéa du présent
-article diffusée pour son compte sur ces contrats indique le coût de
-l'assurance, exprimé en euros et par mois, et précise si ce montant s'ajoute ou
-non à l'échéance de remboursement du crédit.

@@ -43,3 +43,9 @@ tierce personne ;
 Toute modification des conditions d'obtention d'un prêt dont le taux d'intérêt
 est fixe, notamment le montant ou le taux du crédit, donne lieu à la remise à
 l'emprunteur d'une nouvelle offre préalable.
+
+Dans les cas où l'emprunteur présente un autre contrat d'assurance à la place du
+contrat d'assurance de groupe proposé par le prêteur dans les conditions prévues
+à l'article L. 312-9, le prêteur peut émettre une offre modifiée sous réserve de
+l'avant-dernier alinéa du même article, sans que les délais mentionnés à
+l'article L. 312-10 ne soient prorogés ni ne courent à nouveau.
