@@ -19,8 +19,9 @@ b) Tiers agissant pour le compte des personnes citées au a ci-dessus ;
 
 c) Mutuelles ou unions relevant du présent code, entreprises régies par le code
 des assurances, institutions de prévoyance régies par le code de la sécurité
-sociale ou le code rural, sauf lorsqu'il s'agit de contrats souscrits au profit
-de leurs salariés ou de leurs membres participants ou de leurs clients ;
+sociale ou le code rural et de la pêche maritime, sauf lorsqu'il s'agit de
+contrats souscrits au profit de leurs salariés ou de leurs membres participants
+ou de leurs clients ;
 
 d) Organismes entrant dans le périmètre de consolidation ou de combinaison des
 comptes défini à l'article L. 212-7, sauf s'il s'agit de contrats souscrits au
