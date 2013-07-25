@@ -62,6 +62,6 @@ capitaux et de financement du terrorisme, pour les institutions mentionnées au
 
 Ces procédures et mesures sont mis en œuvre dans les conditions prévues par un
 arrêté du ministre chargé de la sécurité sociale ou, pour les institutions
-relevant du II de l'article L. 727-2 du code rural par un arrêté du ministre
-chargé de l'agriculture. Les arrêtés sont pris après avis du ministre chargé de
-l'économie.
+relevant du II de l' article L. 727-2 du code rural et de la pêche maritime par
+un arrêté du ministre chargé de l'agriculture. Les arrêtés sont pris après avis
+du ministre chargé de l'économie.

@@ -6,4 +6,4 @@ nationale ou, par délégation, le représentant de l'Etat dans le département 
 remettre gratuitement, avant toute cession des terrains déclassés, une bande de
 terrain pour créer un chemin nécessaire à la desserte des propriétés riveraines,
 sur lequel sont applicables les dispositions du chapitre III du titre II du
-livre Ier du code rural.
+livre Ier du code rural et de la pêche maritime.

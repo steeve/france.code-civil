@@ -35,10 +35,10 @@ participant ou affilié d'un organisme participant d'un organisme ;
 
 6° L'expression : " organisme assureur " désigne toute mutuelle ou union
 relevant du présent livre, institution de prévoyance régie par le titre III du
-livre IX du code de la sécurité sociale ou par l'article L. 727-2 du code rural,
-ou entreprise d'assurance ou de réassurance régie par le code des assurances,
-ainsi que les entreprises d'assurance et de réassurance dont le siège est situé
-hors de France ;
+livre IX du code de la sécurité sociale ou par l'article L. 727-2 du code rural
+et de la pêche maritime, ou entreprise d'assurance ou de réassurance régie par
+le code des assurances, ainsi que les entreprises d'assurance et de réassurance
+dont le siège est situé hors de France ;
 
 7° L'expression " groupe financier " désigne un ensemble d'organismes composé
 d'un organisme de référence, de ses organismes subordonnés et des entités dans

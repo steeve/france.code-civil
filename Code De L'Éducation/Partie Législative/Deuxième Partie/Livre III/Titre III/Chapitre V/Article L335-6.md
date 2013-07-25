@@ -5,7 +5,7 @@ sont créés par décret et organisés par arrêté des ministres compétents, a
 avis d'instances consultatives associant les organisations représentatives
 d'employeurs et de salariés quand elles existent, sans préjudice des
 dispositions des articles L. 331-1, L. 335-14, L. 613-1, L. 641-4 et L. 641-5 du
-présent code et L. 811-2 et L. 813-2 du code rural.
+présent code et L. 811-2 et L. 813-2 du code rural et de la pêche maritime.
 
 II.-II est créé un répertoire national des certifications professionnelles. Les
 diplômes et les titres à finalité professionnelle y sont classés par domaine

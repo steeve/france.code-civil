@@ -2,15 +2,15 @@ Article 1619
 ----
 I.-Il est institué une taxe au profit de l'établissement national des produits
 de l'agriculture et de la mer (FranceAgriMer) mentionné à l'article L. 621-1 du
-code rural.
+code rural et de la pêche maritime.
 
 II.-La taxe est due par les exploitants agricoles producteurs de céréales.
 
 III.-La taxe est assise sur les quantités de céréales livrées par les
 exploitants agricoles aux collecteurs de céréales agréés mentionnés à l'article
-L. 621-16 du code rural et aux producteurs grainiers définis à l'article 1er du
-décret n° 67-89 du 20 janvier 1967 portant réglementation du commerce des
-céréales de semence.
+L. 621-16 du code rural et de la pêche maritime et aux producteurs grainiers
+définis à l'article 1er du décret n° 67-89 du 20 janvier 1967 portant
+réglementation du commerce des céréales de semence.
 
 Pour la détermination de l'assiette de la taxe, les tonnages de céréales livrés
 font l'objet d'une réfaction correspondant :

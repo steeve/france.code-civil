@@ -15,7 +15,8 @@ b) Parmi les membres mentionnés au 1° du I de l'article R. 611-1, le
 représentant du ministre chargé de la concurrence ;
 
 c) Deux représentants de la transformation des produits agricoles parmi les
-membres mentionnés au 9° du I de l'article R. 611-1 du code rural.
+membres mentionnés au 9° du I de l'article R. 611-1 du code rural et de la pêche
+maritime.
 
 2° Au titre des personnalités extérieures au Conseil supérieur d'orientation et
 de coordination de l'économie agricole et alimentaire :

@@ -1,17 +1,18 @@
 Article L131-4-2
 ----
 I.-Les gains et rémunérations, au sens de l'article L. 242-1 ou de l'article L.
-741-10 du code rural, versés au cours d'un mois civil aux salariés embauchés
-dans les zones de redynamisation urbaine définies au A du 3 de l'article 42 de
-la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire et dans les zones de revitalisation rurale définies
-à l'article 1465 A du code général des impôts sont, dans les conditions fixées
-aux II et III, exonérés des cotisations à la charge de l'employeur au titre des
-assurances sociales et des allocations familiales conformément à un barème
-dégressif déterminé par décret et tel que l'exonération soit totale pour une
-rémunération horaire inférieure ou égale au salaire minimum de croissance majoré
-de 50 % et devienne nulle pour une rémunération horaire égale ou supérieure au
-salaire minimum de croissance majoré de 140 %.
+741-10 du code rural et de la pêche maritime, versés au cours d'un mois civil
+aux salariés embauchés dans les zones de redynamisation urbaine définies au A du
+3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire et dans les zones de
+revitalisation rurale définies à l'article 1465 A du code général des impôts
+sont, dans les conditions fixées aux II et III, exonérés des cotisations à la
+charge de l'employeur au titre des assurances sociales et des allocations
+familiales conformément à un barème dégressif déterminé par décret et tel que
+l'exonération soit totale pour une rémunération horaire inférieure ou égale au
+salaire minimum de croissance majoré de 50 % et devienne nulle pour une
+rémunération horaire égale ou supérieure au salaire minimum de croissance majoré
+de 140 %.
 
 Lorsque l'employeur n'a pas rempli au cours d'une année civile l'obligation
 définie au 1° de l'article L. 2242-8 du code du travail dans les conditions

@@ -12,8 +12,8 @@ titre d'une pension de vieillesse, sous réserve des dispositions de l'article L
 2° Soit exclusivement des chefs d'exploitation ou d'entreprise agricoles, leurs
 conjoints et leurs aides familiaux, sous réserve qu'ils relèvent du régime
 d'assurance vieillesse de base institué par le chapitre II du titre II du livre
-VII du code rural et qu'ils justifient de la régularité de leur situation
-vis-à-vis de ce régime.
+VII du code rural et de la pêche maritime et qu'ils justifient de la régularité
+de leur situation vis-à-vis de ce régime.
 
 Ces contrats ont pour objet l'acquisition et la jouissance de droits viagers
 personnels payables à l'adhérent à compter au plus tôt de la date de liquidation

@@ -15,8 +15,9 @@ alinéa de l'article L. 223-6 et de l'article L. 223-8 ;
 mesures de surveillance et d'abattage mentionnées par l'article L. 223-9 ;
 
 4° De ne pas respecter, en cas de maladie réputée contagieuse faisant l'objet
-d'un plan d'urgence prévu à l'article L. 223-3 du code rural, les mesures
-relatives à la circulation des personnes et des véhicules ;
+d'un plan d'urgence prévu à l'article L. 223-3 du code rural et de la pêche
+maritime, les mesures relatives à la circulation des personnes et des véhicules
+;
 
 5° De ne pas respecter, en cas de péripneumonie contagieuse bovine, les mesures
 prises en application des articles L. 223-24 et L. 223-25 ;

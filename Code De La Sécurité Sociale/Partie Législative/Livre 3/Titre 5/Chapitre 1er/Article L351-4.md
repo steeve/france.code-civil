@@ -95,12 +95,13 @@ IX.-Pour les enfants nés ou adoptés à compter du 1er janvier 2010, les
 majorations de durée d'assurance prévues au présent article ne sont pas prises
 en compte pour le bénéfice des dispositions des articles L. 351-1-1 et L.
 634-3-2, du II des articles L. 643-3 et L. 723-10-1 du présent code, de
-l'article L. 732-18-1 du code rural, de l'article L. 25 bis du code des pensions
-civiles et militaires de retraite et de l'article 57 de la loi n° 2004-1370 du
-20 décembre 2004 de financement de la sécurité sociale pour 2005. Il en est de
-même des périodes d'assurance validées en application des b et b bis de
-l'article L. 12 et de l'article L. 12 bis du code des pensions civiles et
-militaires de retraite ou de dispositions réglementaires ayant le même objet.
+l'article L. 732-18-1 du code rural et de la pêche maritime, de l'article L. 25
+bis du code des pensions civiles et militaires de retraite et de l'article 57 de
+la loi n° 2004-1370 du 20 décembre 2004 de financement de la sécurité sociale
+pour 2005. Il en est de même des périodes d'assurance validées en application
+des b et b bis de l'article L. 12 et de l'article L. 12 bis du code des pensions
+civiles et militaires de retraite ou de dispositions réglementaires ayant le
+même objet.
 
 X.-Avant le 1er janvier 2015, le Gouvernement élabore, sur la base notamment des
 travaux du Conseil d'orientation des retraites et de l'Institut national de la

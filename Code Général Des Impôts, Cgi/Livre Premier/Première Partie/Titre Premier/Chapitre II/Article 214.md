@@ -20,10 +20,11 @@ provenant des opérations faites avec les associés coopérateurs et distribués
 ces derniers au prorata de leurs activités.
 
 Cette disposition n'est pas applicable aux sociétés d'intérêt collectif agricole
-lorsque les associés visés à l'article L. 522-1 du code rural et les
-établissements de crédit détiennent directement ou par l'intermédiaire de leurs
-filiales 80 % ou plus du capital ou des voix et que les associés visés aux 1°,2°
-et 3° du même article détiennent moins de 50 % du capital ou des voix ;
+lorsque les associés visés à l'article L. 522-1 du code rural et de la pêche
+maritime et les établissements de crédit détiennent directement ou par
+l'intermédiaire de leurs filiales 80 % ou plus du capital ou des voix et que les
+associés visés aux 1°,2° et 3° du même article détiennent moins de 50 % du
+capital ou des voix ;
 
 6° La fraction éventuelle des ristournes déduites en vertu des 1°,2° et 5° qui
 dépasse 50 % des excédents pouvant être répartis d'un exercice est réintégrée au
@@ -42,7 +43,7 @@ statut des sociétés coopératives ouvrières de production ;
 
 8° En ce qui concerne les groupements d'employeurs fonctionnant dans les
 conditions prévues aux articles L. 1253-1 à L. 1253-18 du code du travail, les
-sommes dans la limite de 10 000 euros au titre d'un même exercice.
+sommes dans la limite de 10 000 € au titre d'un même exercice.
 
 Cette déduction s'exerce à la condition que, à la clôture de l'exercice, le
 groupement ait inscrit à un compte d'affectation spéciale ouvert auprès d'un

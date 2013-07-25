@@ -10,6 +10,6 @@ mentionné à l'article L. 231-11 du code de la sécurité sociale ;
 mentionné à l'article L. 114-24 du code de la mutualité ;
 
 3° Représentant des salariés dans une chambre d'agriculture mentionné à
-l'article L. 515-1 du code rural ;
+l'article L. 515-1 du code rural et de la pêche maritime ;
 
 4° Conseiller prud'homme.

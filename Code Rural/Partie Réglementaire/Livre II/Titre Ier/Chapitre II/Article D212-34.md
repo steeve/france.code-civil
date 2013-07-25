@@ -17,7 +17,7 @@ un unique porcin destiné à leur propre usage ou consommation ;
 
 4° Vétérinaire officiel : vétérinaire désigné par l'autorité centrale
 compétente. En France, il s'agit des vétérinaires désignés aux articles L.
-221-5, L. 221-13, L. 231-2 du code rural ;
+221-5, L. 221-13, L. 231-2 du code rural et de la pêche maritime ;
 
 5° Site d'élevage porcin : bâtiment ou ensemble de bâtiments, parcelle ou
 ensemble de parcelles d'une même exploitation éloignés des autres bâtiments ou
@@ -25,8 +25,8 @@ parcelles de la même exploitation d'une distance inférieure ou égale à 500
 mètres ;
 
 6° Porcin : animal de la famille des suidés et du genre Sus, de l'espèce Sus
-scrofa et qui comprend notamment le sanglier "Sus scrofa scrofa" et le porc
-domestique "Sus scrofa domesticus" ainsi que leurs croisements, à l'exclusion
+scrofa et qui comprend notamment le sanglier " Sus scrofa scrofa " et le porc
+domestique " Sus scrofa domesticus " ainsi que leurs croisements, à l'exclusion
 des animaux de parcs zoologiques qui relèvent d'une réglementation particulière
 ;
 

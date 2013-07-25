@@ -12,4 +12,5 @@ agricole et approuvé par le ministre chargé de l'agriculture.
 
 Les opérations d'action sociale financées par le fonds sont définies par le
 conseil d'administration de la Caisse centrale de la mutualité sociale agricole
-conformément aux dispositions de l'article L. 726-1 du code rural.
+conformément aux dispositions de l'article L. 726-1 du code rural et de la pêche
+maritime.

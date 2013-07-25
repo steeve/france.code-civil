@@ -8,8 +8,8 @@ contrat à durée déterminée pendant l'année en cours.
 
 Le montant de ces rémunérations s'entend au sens des règles prévues aux
 chapitres premier et II du titre IV du livre II du code de la sécurité sociale,
-ou aux titres IV, V et VI du livre VII du code rural, pour les employeurs de
-salariés mentionnés à l'article L. 722-20 de ce code.
+ou aux titres IV, V et VI du livre VII du code rural et de la pêche maritime,
+pour les employeurs de salariés mentionnés à l'article L. 722-20 de ce code.
 
 Les contrats déterminés par voie réglementaire et ceux mentionnés à l'article L.
 6321-13 ne donnent pas lieu à ce versement.

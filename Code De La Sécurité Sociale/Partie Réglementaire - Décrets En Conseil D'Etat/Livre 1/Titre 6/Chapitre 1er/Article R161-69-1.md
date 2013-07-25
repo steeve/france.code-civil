@@ -9,9 +9,11 @@ l'article R. 161-69-3 d'apprécier en vue de calculer le montant des prestations
 en cause :
 
 1° Le droit à la majoration de la pension de réversion mentionné à l'article L.
-353-6 du code de la sécurité sociale et à l'article L. 752-51-1 du code rural ;
+353-6 du code de la sécurité sociale et à l'article L. 752-51-1 du code rural et
+de la pêche maritime ;
 
 2° Le droit à la majoration mentionnée à l'article L. 351-10 du code de la
 sécurité sociale ;
 
-3° Le droit à la majoration mentionnée à l'article L. 732-54-1 du code rural.
+3° Le droit à la majoration mentionnée à l'article L. 732-54-1 du code rural et
+de la pêche maritime.

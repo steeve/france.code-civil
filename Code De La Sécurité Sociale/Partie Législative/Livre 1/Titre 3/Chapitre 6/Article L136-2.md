@@ -25,8 +25,9 @@ l'article 83 du code général des impôts ne sont pas applicables.
 I bis.-La contribution est établie sur l'assiette correspondant aux cotisations
 forfaitaires applicables aux catégories de salariés ou assimilés visées par les
 arrêtés pris en application des articles L. 241-2 et L. 241-3 du présent code et
-L. 741-13 du code rural, dans leur rédaction en vigueur à la date de publication
-de la dernière loi de financement de la sécurité sociale.
+L. 741-13 du code rural et de la pêche maritime, dans leur rédaction en vigueur
+à la date de publication de la dernière loi de financement de la sécurité
+sociale.
 
 II.-Sont inclus dans l'assiette de la contribution :
 
@@ -71,8 +72,9 @@ par l'article L. 1621-2 du code général des collectivités territoriales.
 4° Les contributions des employeurs destinées au financement des prestations
 complémentaires de retraite et de prévoyance, à l'exception de celles visées au
 cinquième alinéa de l'article L. 242-1 du présent code et au cinquième alinéa de
-l'article L. 741-10 du code rural et de celles destinées au financement des
-régimes de retraite visés au I de l'article L. 137-11 du présent code ;
+l'article L. 741-10 du code rural et de la pêche maritime et de celles destinées
+au financement des régimes de retraite visés au I de l'article L. 137-11 du
+présent code ;
 
 5° Les indemnités de licenciement ou de mise à la retraite et toutes autres
 sommes versées à l'occasion de la rupture du contrat de travail pour la fraction

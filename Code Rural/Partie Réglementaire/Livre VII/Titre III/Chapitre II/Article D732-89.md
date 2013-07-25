@@ -18,7 +18,8 @@ sociale. Toutefois, elles ne comprennent pas :
 
 2° Les avantages de réversion servis par les régimes légalement obligatoires
 complémentaires aux régimes de base mentionnés aux articles L. 200-2 et L. 621-3
-du code de la sécurité sociale et à l'article L. 722-20 du code rural ;
+du code de la sécurité sociale et à l'article L. 722-20 du code rural et de la
+pêche maritime ;
 
 3° Les revenus des biens mobiliers et immobiliers acquis du chef du conjoint
 décédé ou disparu ou en raison de ce décès ou de cette disparition.

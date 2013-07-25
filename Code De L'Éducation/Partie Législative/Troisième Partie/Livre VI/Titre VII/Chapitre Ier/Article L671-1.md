@@ -1,8 +1,8 @@
 Article L671-1
 ----
 L'enseignement supérieur agricole et vétérinaire public est organisé
-conformément aux dispositions de l'article L. 812-1 du code rural, ci-après
-reproduites :
+conformément aux dispositions de l'article L. 812-1 du code rural et de la pêche
+maritime, ci-après reproduites :
 
 " Art.L. 812-1.-L'enseignement supérieur agricole public a pour objet d'assurer
 la formation d'ingénieurs, de paysagistes, de cadres spécialisés, d'enseignants

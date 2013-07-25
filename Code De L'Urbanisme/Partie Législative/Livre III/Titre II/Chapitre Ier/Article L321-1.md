@@ -50,7 +50,7 @@ la protection d'espaces agricoles et naturels périurbains, le cas échéant en
 exerçant, à la demande et au nom du département, le droit de préemption prévu
 par l'article L. 142-3 ou, en dehors des zones de préemption des espaces
 naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2
-du code rural.
+du code rural et de la pêche maritime.
 
 Les établissements publics mentionnés au a du présent article peuvent se voir
 déléguer l'instruction et le traitement des demandes d'aides à la réhabilitation

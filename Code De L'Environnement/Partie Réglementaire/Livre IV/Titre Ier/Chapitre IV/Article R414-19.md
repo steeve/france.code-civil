@@ -29,7 +29,7 @@ le décret n° 83-228 du 22 mars 1983 fixant le régime de l'autorisation des
 exploitations de cultures marines ;
 
 7° Les documents départementaux de gestion de l'espace agricole et forestier
-prévus par l'article L. 112-1 du code rural ;
+prévus par l'article L. 112-1 du code rural et de la pêche maritime ;
 
 8° Les travaux, constructions ou installations soumis aux autorisations prévues
 par les dispositions du 1° et du 2° du I de l'article L. 331-4, des articles L.
@@ -53,12 +53,13 @@ L. 11 de ce code ;
 431-2 du code forestier, lorsqu'elles sont localisées en site Natura 2000 ;
 
 13° Les délimitations d'aires géographiques de production prévues à l'article L.
-641-6 du code rural, dès lors que ces aires sont localisées en site Natura 2000
-et qu'elles concernent une production viticole ;
+641-6 du code rural et de la pêche maritime , dès lors que ces aires sont
+localisées en site Natura 2000 et qu'elles concernent une production viticole ;
 
 14° Les traitements aériens soumis à déclaration préalable prévus à l'article 2
 de l'arrêté du 5 mars 2004 relatif à l'utilisation par voie aérienne de produits
-mentionnés à l'article L. 253-1 du code rural, à l'exception des cas d'urgence ;
+mentionnés à l'article L. 253-1 du code rural et de la pêche maritime , à
+l'exception des cas d'urgence ;
 
 15° La délimitation des zones de lutte contre les moustiques prévues à l'article
 1er du décret n° 65-1046 du 1er décembre 1965 modifié pris pour l'application de

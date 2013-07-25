@@ -1,12 +1,13 @@
 Article L115-16
 ----
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait :
 
 1° De délivrer une appellation d'origine contrôlée sans satisfaire aux
-conditions prévues à l'article L. 642-3 du code rural ;
+conditions prévues à l'article L. 642-3 du code rural et de la pêche maritime ;
 
 2° De délivrer une appellation d'origine contrôlée qui n'a pas fait l'objet de
-l'homologation prévue à l'article L. 641-7 du code rural ;
+l'homologation prévue à l'article L. 641-7 du code rural et de la pêche maritime
+;
 
 3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine
 ;

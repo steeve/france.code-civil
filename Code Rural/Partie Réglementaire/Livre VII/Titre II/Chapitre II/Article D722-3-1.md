@@ -14,7 +14,7 @@ réserve des dispositions du troisième alinéa du présent article.
 
 La caisse de mutualité sociale agricole remet cette attestation, dans les mêmes
 conditions, aux exploitants agricoles mentionnés au deuxième alinéa de l'article
-L. 722-23 du code rural.
+L. 722-23 du code rural et de la pêche maritime.
 
 Lorsque les personnes mentionnées aux deux précédents alinéas ne satisfont plus
 aux conditions de la levée de présomption de salariat et de ce fait ne relèvent

@@ -16,7 +16,8 @@ société coopérative européenne ;
 société issue de la fusion transfrontalière ;
 
 3° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de
-travail en agriculture prévue à l'article L. 717-7 du code rural ;
+travail en agriculture prévue à l'article L. 717-7 du code rural et de la pêche
+maritime ;
 
 4° Représentant du personnel d'une entreprise extérieure, désigné au comité
 d'hygiène, de sécurité et des conditions de travail d'un établissement

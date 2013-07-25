@@ -1,11 +1,11 @@
 Article R5141-126
 ----
 Les vétérinaires prestataires de services mentionnés à l'article L. 5141-15 qui
-satisfont aux dispositions de l'article L. 241-3 du code rural peuvent utiliser
-en France les médicaments vétérinaires autres qu'immunologiques bénéficiant
-d'une autorisation de mise sur le marché dans l'Etat membre où ils exercent
-lorsque ces médicaments ne sont pas autorisés en France, en respectant les
-conditions suivantes :
+satisfont aux dispositions de l'article L. 241-3 du code rural et de la pêche
+maritime peuvent utiliser en France les médicaments vétérinaires autres
+qu'immunologiques bénéficiant d'une autorisation de mise sur le marché dans
+l'Etat membre où ils exercent lorsque ces médicaments ne sont pas autorisés en
+France, en respectant les conditions suivantes :
 
 1° Assurer eux-mêmes le transport des médicaments vétérinaires, la gamme et la
 quantité des médicaments vétérinaires transportés ne devant pas excéder le

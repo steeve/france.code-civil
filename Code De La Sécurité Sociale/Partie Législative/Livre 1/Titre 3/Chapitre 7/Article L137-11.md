@@ -45,9 +45,9 @@ présente contribution.
 IV.-Les contributions des employeurs destinées au financement des régimes de
 retraite visés au I ne sont soumises ni aux cotisations et taxes dont l'assiette
 est définie à l'article L. 242-1, ou pour les salariés du secteur agricole à
-l'article L. 741-10 du code rural ni aux contributions instituées à l'article L.
-136-1 et à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au
-remboursement de la dette sociale.
+l'article L. 741-10 du code rural et de la pêche maritime ni aux contributions
+instituées à l'article L. 136-1 et à l'article 14 de l'ordonnance n° 96-50 du 24
+janvier 1996 relative au remboursement de la dette sociale.
 
 V.-Les régimes de retraite à prestations définies, mentionnés au I, créés à
 compter du 1er janvier 2010 sont gérés exclusivement par l'un des organismes

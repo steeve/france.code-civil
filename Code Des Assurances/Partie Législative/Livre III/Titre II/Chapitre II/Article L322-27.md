@@ -1,7 +1,8 @@
 Article L322-27
 ----
 Les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles
-restent régies pour leur constitution par l'article L. 771-1 code rural.
+restent régies pour leur constitution par l'article L. 771-1 code rural et de la
+pêche maritime.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article
 et définit celles des opérations mentionnées à l'article L. 310-1 qu'elles

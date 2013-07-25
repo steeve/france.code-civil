@@ -43,7 +43,8 @@ d'assurance, de capitalisation et de réassurance de toute nature régies par le
 code des assurances, mutuelles et unions de mutuelles relevant du livre II du
 code de la mutualité, institutions de prévoyance et unions d'institutions de
 prévoyance relevant du titre III du livre IX du présent code et institutions de
-prévoyance relevant du II de l'article L. 727-2 du code rural ;
+prévoyance relevant du II de l'article L. 727-2 du code rural et de la pêche
+maritime ;
 
 10°) Des sociétés ou organismes non visés aux 1° à 9° qui sont régis par la loi
 n° 47-1775 du 10 septembre 1947 portant statut de la coopération, à l'exception

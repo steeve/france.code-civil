@@ -4,8 +4,9 @@ Les cotisations et contributions sociales d'origine légale et les cotisations e
 contributions conventionnelles rendues obligatoires par la loi, dues au titre
 des rémunérations versées aux salariés mentionnés à l'article L. 772-1 du code
 du travail et aux personnes mentionnées au 2° de l'article L. 722-20 du code
-rural employées par des particuliers pour la mise en état et l'entretien de
-jardins, sont calculées, d'un commun accord entre l'employeur et le salarié :
+rural et de la pêche maritime employées par des particuliers pour la mise en
+état et l'entretien de jardins, sont calculées, d'un commun accord entre
+l'employeur et le salarié :
 
 1° Soit sur une assiette égale, par heure de travail, à une fois la valeur
 horaire du salaire minimum de croissance applicable au premier jour du trimestre

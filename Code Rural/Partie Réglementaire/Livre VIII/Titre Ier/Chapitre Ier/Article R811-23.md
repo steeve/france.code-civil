@@ -7,9 +7,9 @@ l'établissement public local. Il arrête son règlement intérieur.
 
 Ses délibérations portent notamment sur :
 
-1° Le projet d'établissement mentionné à l'article L. 811-8 du code rural et
-l'organisation des activités complémentaires prévues à l'article L. 216-1 du
-code de l'éducation ;
+1° Le projet d'établissement mentionné à l'article L. 811-8 du code rural et de
+la pêche maritime et l'organisation des activités complémentaires prévues à
+l'article L. 216-1 du code de l'éducation ;
 
 2° Les règlements intérieurs des centres ;
 

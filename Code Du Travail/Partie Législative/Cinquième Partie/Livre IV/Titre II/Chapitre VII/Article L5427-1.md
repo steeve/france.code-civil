@@ -20,8 +20,8 @@ a) Par un organisme de recouvrement mentionné à l'article L. 213-1 du code de 
 sécurité sociale désigné par le directeur de l'Agence centrale des organismes de
 sécurité sociale, lorsqu'elles sont dues au titre des salariés expatriés, des
 travailleurs frontaliers résidant en France et ne remplissant pas les conditions
-pour bénéficier des dispositions du règlement (CEE) n° 1408 / 71 du Conseil, du
-14 juin 1971, relatif à l'application des régimes de sécurité sociale aux
+pour bénéficier des dispositions du règlement (CEE) n° 1408/71 du Conseil, du 14
+juin 1971, relatif à l'application des régimes de sécurité sociale aux
 travailleurs salariés, aux travailleurs non salariés et aux membres de leur
 famille qui se déplacent à l'intérieur de la Communauté, notamment en matière
 d'assurance chômage, et des marins embarqués sur des navires battant pavillon
@@ -30,9 +30,9 @@ d'un Etat étranger autre qu'un Etat membre de l'Union européenne, de l'Espace
 Etats, inscrits à un quartier maritime français et admis au bénéfice de
 l'Etablissement national des invalides de la marine ;
 
-b) Par les organismes mentionnés à l'article L. 723-1 du code rural,
-lorsqu'elles sont dues au titre de l'emploi de salariés mentionnés à l'article
-L. 722-20 du même code ;
+b) Par les organismes mentionnés à l'article L. 723-1 du code rural et de la
+pêche maritime, lorsqu'elles sont dues au titre de l'emploi de salariés
+mentionnés à l'article L. 722-20 du même code ;
 
 c) Par la Caisse nationale de compensation des cotisations de sécurité sociale
 des voyageurs, représentants et placiers de commerce à cartes multiples

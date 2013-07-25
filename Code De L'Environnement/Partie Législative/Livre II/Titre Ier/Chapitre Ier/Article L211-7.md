@@ -1,12 +1,12 @@
 Article L211-7
 ----
-I. - Les collectivités territoriales et leurs groupements ainsi que les
-syndicats mixtes créés en application de l'article L. 5721-2 du code général des
+I.-Les collectivités territoriales et leurs groupements ainsi que les syndicats
+mixtes créés en application de l'article L. 5721-2 du code général des
 collectivités territoriales sont habilités à utiliser les articles L. 151-36 à
-L. 151-40 du code rural pour entreprendre l'étude, l'exécution et l'exploitation
-de tous travaux, actions, ouvrages ou installations présentant un caractère
-d'intérêt général ou d'urgence, dans le cadre du schéma d'aménagement et de
-gestion des eaux s'il existe, et visant :
+L. 151-40 du code rural et de la pêche maritime pour entreprendre l'étude,
+l'exécution et l'exploitation de tous travaux, actions, ouvrages ou
+installations présentant un caractère d'intérêt général ou d'urgence, dans le
+cadre du schéma d'aménagement et de gestion des eaux s'il existe, et visant :
 
 1° L'aménagement d'un bassin ou d'une fraction de bassin hydrographique ;
 
@@ -44,30 +44,30 @@ Les compétences visées aux alinéas précédents peuvent être exercées par
 l'établissement public Voies navigables de France sur le domaine dont la gestion
 lui a été confiée.
 
-I bis. - Lorsqu'un projet visé aux 1°, 2° et 5° du I dépassant un seuil
-financier fixé par décret est situé dans le périmètre d'un établissement public
+I bis.-Lorsqu'un projet visé aux 1°, 2° et 5° du I dépassant un seuil financier
+fixé par décret est situé dans le périmètre d'un établissement public
 territorial de bassin visé à l'article L. 213-12, le préfet saisit pour avis le
-président de cet établissement. A défaut de réponse dans un délai de deux mois,
+président de cet établissement.A défaut de réponse dans un délai de deux mois,
 l'avis est réputé favorable.
 
-II. - L'étude, l'exécution et l'exploitation desdits travaux peuvent être
+II.-L'étude, l'exécution et l'exploitation desdits travaux peuvent être
 concédées notamment à des sociétés d'économie mixte. Les concessionnaires sont
 fondés à percevoir le prix des participations prévues à l'article L. 151-36 du
-code rural.
+code rural et de la pêche maritime.
 
-III. - Il est procédé à une seule enquête publique au titre de l'article L.
-151-37 du code rural, des articles L. 214-1 à L. 214-6 du présent code et, s'il
-y a lieu, de la déclaration d'utilité publique.
+III.-Il est procédé à une seule enquête publique au titre de l'article L. 151-37
+du code rural et de la pêche maritime, des articles L. 214-1 à L. 214-6 du
+présent code et, s'il y a lieu, de la déclaration d'utilité publique.
 
-IV. - Sous réserve des décisions de justice passées en force de chose jugée, les
+IV.-Sous réserve des décisions de justice passées en force de chose jugée, les
 servitudes de libre passage des engins d'entretien dans le lit ou sur les berges
 des cours d'eau non domaniaux, instaurées en application du décret n° 59-96 du 7
 janvier 1959 relatif aux servitudes de libre passage sur les berges des cours
 d'eau non navigables ni flottables sont validées et valent servitudes au sens de
-l'article L. 151-37-1 du code rural.
+l'article L. 151-37-1 du code rural et de la pêche maritime.
 
-V. - Les dispositions du présent article s'appliquent aux travaux, actions,
+V.-Les dispositions du présent article s'appliquent aux travaux, actions,
 ouvrages ou installations de l'Etat.
 
-VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
+VI.-Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

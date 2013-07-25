@@ -7,7 +7,7 @@ chapitre sous réserve des dispositions de la présente sous-section.
 Le caractère linéaire, le cas échéant, d'un ouvrage ou partie d'ouvrage est
 constaté par la décision portant déclaration d'utilité publique. Cette décision
 mentionne expressément, s'il y a lieu, l'application des dispositions des
-articles L. 123-24 et L. 352-1 du code rural.
+articles L. 123-24 et L. 352-1 du code rural et de la pêche maritime.
 
 Lorsque la réalisation d'un ouvrage est envisagée, les conseils généraux des
 départements intéressés désignent, après avis des commissions départementales

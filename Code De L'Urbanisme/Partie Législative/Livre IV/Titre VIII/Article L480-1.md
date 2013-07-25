@@ -28,10 +28,11 @@ Copie du procès-verbal constatant une infraction est transmise sans délai au
 ministère public.
 
 Toute association agréée de protection de l'environnement en application des
-dispositions de l'article L. 252-1 du code rural peut exercer les droits
-reconnus à la partie civile en ce qui concerne les faits constituant une
-infraction à l'alinéa 1er du présent article et portant un préjudice direct ou
-indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+dispositions de l'article L. 252-1 du code rural et de la pêche maritime peut
+exercer les droits reconnus à la partie civile en ce qui concerne les faits
+constituant une infraction à l'alinéa 1er du présent article et portant un
+préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
+défendre.
 
 La commune peut exercer les droits reconnus à la partie civile, en ce qui
 concerne les faits commis sur son territoire et constituant une infraction à

@@ -27,7 +27,8 @@ syndicales d'exploitants agricoles au sein de certains organismes ou commissions
 
 9° Trois représentants des entreprises d'assurance distributrices de contrats
 d'assurances agricoles bénéficiant de l'aide prévue à l'article L. 361-8 du code
-rural, proposés par la Fédération française des sociétés d'assurance ;
+rural et de la pêche maritime, proposés par la Fédération française des sociétés
+d'assurance ;
 
 10° Un représentant de la Fédération française des sociétés d'assurance ;
 
@@ -41,7 +42,7 @@ du Fonds national de garantie des calamités agricoles ;
 
 14° Un représentant des banques habilitées à distribuer des prêts bonifiés pour
 calamités agricoles, proposé par l'Association française des établissements de
-crédit et des entreprises d'investissement. A la demande de son président ou des
+crédit et des entreprises d'investissement.A la demande de son président ou des
 représentants des ministres, le Comité national de l'assurance en agriculture
 peut faire appel en tant que de besoin à tout expert ou personne qualifiée non
 membre du comité.

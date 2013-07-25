@@ -17,7 +17,7 @@ obligatoirement aux assurances sociales, en application du 11° de l'article L.
 
 4° Tout associé unique d'une entreprise unipersonnelle à responsabilité limitée,
 sauf si l'activité qu'il exerce est de nature agricole au sens de l'article L.
-722-1 du code rural ;
+722-1 du code rural et de la pêche maritime ;
 
 5° Tout gérant d'une société civile ayant un objet professionnel ;
 

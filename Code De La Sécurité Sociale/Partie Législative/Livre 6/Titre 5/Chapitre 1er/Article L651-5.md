@@ -34,12 +34,12 @@ relatives à la comptabilité des entreprises d'assurances et de capitalisation.
 Pour les mutuelles et unions de mutuelles relevant du livre II du code de la
 mutualité, institutions de prévoyance et unions d'institutions de prévoyance
 relevant du titre III du livre IX du présent code et institutions de prévoyance
-relevant de la section 4 du chapitre II du titre II du livre VII du code rural,
-l'assiette de la contribution sociale de solidarité est constituée, pour leur
-activité principale, par les cotisations, primes et acceptations de l'exercice,
-nettes de cessions et de rétrocessions, telles qu'elles ressortent du compte de
-résultat, conforme aux dispositions relatives à la comptabilité des mutuelles et
-institutions de prévoyance.
+relevant de la section 4 du chapitre II du titre II du livre VII du code rural
+et de la pêche maritime, l'assiette de la contribution sociale de solidarité est
+constituée, pour leur activité principale, par les cotisations, primes et
+acceptations de l'exercice, nettes de cessions et de rétrocessions, telles
+qu'elles ressortent du compte de résultat, conforme aux dispositions relatives à
+la comptabilité des mutuelles et institutions de prévoyance.
 
 Pour les redevables mentionnés aux deux alinéas précédents, ne sont comprises
 dans le chiffre d'affaires retenu pour asseoir la contribution ni les

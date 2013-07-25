@@ -38,7 +38,7 @@ l'article L. 242-1, versés au salarié au cours du mois civil, à l'exclusion d
 la rémunération des heures complémentaires et supplémentaires dans la limite, en
 ce qui concerne la majoration salariale correspondante, des taux de 25 % ou de
 50 %, selon le cas, prévus au I de l'article L. 212-5 du code du travail et à
-l'article L. 713-6 du code rural.
+l'article L. 713-6 du code rural et de la pêche maritime.
 
 3. En cas de suspension du contrat de travail avec maintien partiel de la
 rémunération mensuelle brute du salarié, le montant mensuel du salaire minimum

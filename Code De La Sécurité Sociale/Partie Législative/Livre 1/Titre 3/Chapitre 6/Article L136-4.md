@@ -1,17 +1,17 @@
 Article L136-4
 ----
 I.-Sont soumis à la contribution les revenus professionnels visés à l'article L.
-731-14 du code rural.
+731-14 du code rural et de la pêche maritime.
 
 Les revenus pris en compte sont constitués par la moyenne des revenus se
 rapportant aux trois années antérieures à celle au titre de laquelle la
 contribution est due. Lorsque le chef d'exploitation ou d'entreprise agricole a
-exercé l'option prévue à l'article L. 731-19 du code rural, les revenus pris en
-compte sont constitués par les revenus afférents à l'année précédant celle au
-titre de laquelle la contribution est due. Ces revenus proviennent de l'ensemble
-des activités agricoles exercées au cours de la ou des années de référence, y
-compris lorsque l'une de ces activités a cessé au cours de la ou desdites
-années.
+exercé l'option prévue à l'article L. 731-19 du code rural et de la pêche
+maritime, les revenus pris en compte sont constitués par les revenus afférents à
+l'année précédant celle au titre de laquelle la contribution est due. Ces
+revenus proviennent de l'ensemble des activités agricoles exercées au cours de
+la ou des années de référence, y compris lorsque l'une de ces activités a cessé
+au cours de la ou desdites années.
 
 Pour la détermination des revenus mentionnés au précédent alinéa, il n'est pas
 tenu compte des reports déficitaires, des amortissements réputés différés au
@@ -28,20 +28,20 @@ même code, des cotisations personnelles de sécurité sociale de l'exploitant, 
 son conjoint et des membres de sa famille, ainsi que des sommes mentionnées aux
 articles L. 3312-4, L. 3324-5 et L. 3332-27 du code du travail et versées au
 bénéfice des intéressés, à l'exception de celles prises en compte dans le revenu
-défini à l'article L. 731-14 du code rural. La dotation d'installation en
-capital accordée aux jeunes agriculteurs ainsi que le montant de la différence
-entre l'indemnité versée en compensation de l'abattage total ou partiel de
-troupeaux en application des articles L. 221-2 ou L. 234-4 du code rural et la
-valeur en stock ou en compte d'achats des animaux abattus sont exclus de ces
-revenus.
+défini à l'article L. 731-14 du code rural et de la pêche maritime. La dotation
+d'installation en capital accordée aux jeunes agriculteurs ainsi que le montant
+de la différence entre l'indemnité versée en compensation de l'abattage total ou
+partiel de troupeaux en application des articles L. 221-2 ou L. 234-4 du code
+rural et de la pêche maritime et la valeur en stock ou en compte d'achats des
+animaux abattus sont exclus de ces revenus.
 
-Lorsque les personnes mentionnées à l'article L. 722-4 du code rural estiment
-que les revenus professionnels pris en compte pour le calcul de la contribution
-subissent une variation, cette contribution peut, sur demande des intéressés
-formulée auprès de la caisse de mutualité sociale agricole, être calculée au
-titre des appels fractionnés ou des versements mensuels sur la base de
-l'assiette des revenus intégrant cette variation dès le début de l'année civile
-au titre de laquelle cette contribution est due.
+Lorsque les personnes mentionnées à l'article L. 722-4 du code rural et de la
+pêche maritime estiment que les revenus professionnels pris en compte pour le
+calcul de la contribution subissent une variation, cette contribution peut, sur
+demande des intéressés formulée auprès de la caisse de mutualité sociale
+agricole, être calculée au titre des appels fractionnés ou des versements
+mensuels sur la base de l'assiette des revenus intégrant cette variation dès le
+début de l'année civile au titre de laquelle cette contribution est due.
 
 Une majoration de retard de 10 % est appliquée sur l'insuffisance de versement
 des appels fractionnés ou des versements mensuels lorsque les revenus définitifs
@@ -52,8 +52,8 @@ II.-Lorsque la durée d'assujettissement au régime de protection sociale des
 non-salariés agricoles d'un chef d'exploitation ou d'entreprise agricole ne
 permet pas de calculer la moyenne des revenus professionnels se rapportant aux
 trois années de référence prévues au premier alinéa de l'article L. 731-15 du
-code rural, l'assiette de la contribution est déterminée forfaitairement à titre
-provisoire dans les conditions suivantes :
+code rural et de la pêche maritime, l'assiette de la contribution est déterminée
+forfaitairement à titre provisoire dans les conditions suivantes :
 
 a) Pour la première année au titre de laquelle la contribution est due,
 l'assiette forfaitaire provisoire est fixée conformément au III ci-dessous ;
@@ -75,17 +75,18 @@ l'objet d'une régularisation sur la base de la moyenne des revenus afférents a
 trois premières années lorsque ceux-ci sont définitivement connus.
 
 Lorsque le chef d'exploitation ou d'entreprise agricole a opté pour l'assiette
-prévue à l'article L. 731-19 du code rural, pour la première année au titre de
-laquelle la contribution est due, celle-ci est calculée à titre provisoire sur
-la base de l'assiette forfaitaire fixée conformément au III ci-dessous. Cette
-assiette fait l'objet d'une régularisation sur la base des revenus
-professionnels afférents à la première année lorsque ceux-ci sont définitivement
-connus.
+prévue à l'article L. 731-19 du code rural et de la pêche maritime, pour la
+première année au titre de laquelle la contribution est due, celle-ci est
+calculée à titre provisoire sur la base de l'assiette forfaitaire fixée
+conformément au III ci-dessous. Cette assiette fait l'objet d'une régularisation
+sur la base des revenus professionnels afférents à la première année lorsque
+ceux-ci sont définitivement connus.
 
 Par dérogation aux dispositions ci-dessus du présent II, pour les personnes
 mentionnées au deuxième et au troisième alinéa de l'article L. 731-16 du code
-rural, l'assiette de la contribution est déterminée selon les modalités des
-deuxième, troisième et quatrième alinéas du même article.
+rural et de la pêche maritime, l'assiette de la contribution est déterminée
+selon les modalités des deuxième, troisième et quatrième alinéas du même
+article.
 
 III.-L'assiette forfaitaire provisoire prévue au a du II est égale à six cents
 fois le montant du salaire minimum de croissance en vigueur au 1er janvier de
@@ -116,8 +117,9 @@ chacune de ces exploitations ou entreprises au cours de l'année précédant cel
 au titre de laquelle les cotisations sont dues ou, à défaut, à parts égales.
 
 VII.-Sont soumis à la contribution les revenus professionnels, définis à
-l'article L. 731-14 du code rural, des personnes redevables de la cotisation de
-solidarité visée à l'article L. 731-23 du même code.
+l'article L. 731-14 du code rural et de la pêche maritime, des personnes
+redevables de la cotisation de solidarité visée à l'article L. 731-23 du même
+code.
 
 Les revenus pris en compte sont ceux afférents à l'année précédant celle au
 titre de laquelle la contribution est due. Ces revenus proviennent de l'ensemble
@@ -126,12 +128,13 @@ compris lorsque l'une de ces activités a cessé au cours de la ou desdites
 années.
 
 Les revenus sont majorés de la cotisation de solidarité visée à l'article L.
-731-23 du code rural.
+731-23 du code rural et de la pêche maritime.
 
 Pour les personnes redevables de la cotisation de solidarité définie à l'article
-L. 731-23 du code rural, lorsque les revenus professionnels ne sont pas connus,
-la contribution est calculée sur une assiette forfaitaire provisoire égale à
-cent fois le montant du salaire minimum de croissance en vigueur au 1er janvier
-de l'année au titre de laquelle la contribution est due.
+L. 731-23 du code rural et de la pêche maritime, lorsque les revenus
+professionnels ne sont pas connus, la contribution est calculée sur une assiette
+forfaitaire provisoire égale à cent fois le montant du salaire minimum de
+croissance en vigueur au 1er janvier de l'année au titre de laquelle la
+contribution est due.
 
 Cette assiette forfaitaire est régularisée lorsque les revenus sont connus.

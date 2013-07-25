@@ -1,13 +1,13 @@
 Article L115-24
 ----
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait :
 
 1° De délivrer une mention " agriculture biologique " sans satisfaire aux
-conditions prévues à l'article L. 642-3 du code rural ;
+conditions prévues à l'article L. 642-3 du code rural et de la pêche maritime ;
 
 2° De délivrer une mention " agriculture biologique " à un produit qui ne
-remplit pas les conditions, rappelées à l'article L. 641-13 du code rural, pour
-en bénéficier ;
+remplit pas les conditions, rappelées à l'article L. 641-13 du code rural et de
+la pêche maritime, pour en bénéficier ;
 
 3° D'utiliser ou de tenter d'utiliser frauduleusement le signe " agriculture
 biologique " ;

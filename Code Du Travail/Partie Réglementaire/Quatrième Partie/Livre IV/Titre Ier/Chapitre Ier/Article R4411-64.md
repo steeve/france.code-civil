@@ -6,8 +6,9 @@ Caisse centrale de mutualité sociale agricole, aux ingénieurs de prévention d
 directions régionales des entreprises, de la concurrence, de la consommation, du
 travail et de l'emploi, aux ingénieurs-conseils des caisses régionales de
 l'assurance maladie et aux agents chargés du contrôle de la prévention, agréés
-et assermentés, mentionnés au deuxième alinéa de l'article 1244-3 du code rural,
-tout renseignement qu'il détient sur la composition des préparations.
+et assermentés, mentionnés au deuxième alinéa de l'article 1244-3 du code rural
+et de la pêche maritime, tout renseignement qu'il détient sur la composition des
+préparations.
 
 Il est également habilité à fournir ces mêmes renseignements aux chefs de
 service et aux médecins des centres antipoison prévus par l'article L. 6141-4 du

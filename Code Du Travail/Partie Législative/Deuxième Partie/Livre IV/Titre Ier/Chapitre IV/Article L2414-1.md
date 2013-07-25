@@ -36,10 +36,11 @@ de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article 3-1
 du code minier ;
 
 9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de
-travail en agriculture prévue à l'article L. 717-7 du code rural ;
+travail en agriculture prévue à l'article L. 717-7 du code rural et de la pêche
+maritime ;
 
 10° Représentant des salariés dans une chambre d'agriculture mentionné à
-l'article L. 515-1 du code rural ;
+l'article L. 515-1 du code rural et de la pêche maritime ;
 
 11° Salarié mandaté dans les conditions prévues à l'article L. 2232-24, dès que
 l'employeur a connaissance de l'imminence de sa désignation, ou ancien salarié

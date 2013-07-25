@@ -50,14 +50,14 @@ considérée, par arrêté des ministres chargés de l'agriculture et de la sant
 après avis de l'Agence française de sécurité sanitaire des aliments.
 
 Le précédent alinéa ne s'applique pas aux équidés identifiés conformément à
-l'article L. 212-9 du code rural et déclarés comme n'étant pas destinés à
-l'abattage pour la consommation humaine. En outre, par exception au même alinéa,
-le vétérinaire peut prescrire et administrer à un équidé identifié conformément
-à l'article L. 212-9 du code rural et déclaré comme étant destiné à l'abattage
-pour la consommation humaine un médicament contenant des substances à action
-pharmacologique ne figurant dans aucune des annexes I, II, III ou IV du
-règlement CEE n° 2377/90 du Conseil si les conditions suivantes sont respectées
-:
+l'article L. 212-9 du code rural et de la pêche maritime et déclarés comme
+n'étant pas destinés à l'abattage pour la consommation humaine. En outre, par
+exception au même alinéa, le vétérinaire peut prescrire et administrer à un
+équidé identifié conformément à l'article L. 212-9 du code rural et de la pêche
+maritime et déclaré comme étant destiné à l'abattage pour la consommation
+humaine un médicament contenant des substances à action pharmacologique ne
+figurant dans aucune des annexes I, II, III ou IV du règlement CEE n° 2377/90 du
+Conseil si les conditions suivantes sont respectées :
 
 a) Les substances à action pharmacologique qu'il contient sont inscrites sur la
 liste fixée par le règlement (CE) n° 1950/2006 de la Commission du 13 décembre

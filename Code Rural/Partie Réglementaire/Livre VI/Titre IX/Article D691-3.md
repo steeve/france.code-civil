@@ -12,11 +12,11 @@ adressées. Il peut créer, en son sein, des groupes de travail spécifiques et
 temporaires.
 
 Les membres du conseil d'orientation sont associés à la préparation des rapports
-de synthèse visés à l'article D. 691-1 du code rural. Ces rapports reprennent
-notamment l'ensemble des positions qui se sont exprimées. Il sont soumis au
-conseil d'orientation de l'Observatoire des distorsions avant d'être rendus
-publics. Ils peuvent être adressés aux différents départements ministériels
-concernés.
+de synthèse visés à l'article D. 691-1 du code rural et de la pêche maritime.
+Ces rapports reprennent notamment l'ensemble des positions qui se sont
+exprimées. Il sont soumis au conseil d'orientation de l'Observatoire des
+distorsions avant d'être rendus publics. Ils peuvent être adressés aux
+différents départements ministériels concernés.
 
 Le conseil d'orientation de l'Observatoire des distorsions valide et transmet
 chaque année au ministre chargé de l'agriculture un rapport d'activité.

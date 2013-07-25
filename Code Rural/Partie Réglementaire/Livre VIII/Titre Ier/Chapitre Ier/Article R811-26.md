@@ -6,7 +6,7 @@ services de l'établissement. Il peut être assisté par un directeur adjoint no
 dans les mêmes conditions que lui et qui assure la suppléance ou l'intérim. Si
 l'établissement public n'est pas doté d'un directeur adjoint, un fonctionnaire
 de l'établissement est désigné, sur proposition du directeur, par le directeur
-régional de l'alimentation, de l'agriculture et de la forêt , pour assurer, en
+régional de l'alimentation, de l'agriculture et de la forêt, pour assurer, en
 cas de besoin, cette suppléance ou cet intérim.L'agent comptable en est informé.
 
 Le directeur est l'organe exécutif de l'établissement public ; en cette qualité
@@ -38,7 +38,7 @@ actions de formation professionnelle continue et d'apprentissage ;
 
 8° Il transmet les actes de l'établissement public, dans les conditions fixées
 aux articles L. 421-11 et L. 421-14 du code de l'éducation et L. 811-10 du code
-rural, conformément aux dispositions suivantes :
+rural et de la pêche maritime, conformément aux dispositions suivantes :
 
 8° 1. Sous réserve des dispositions des articles R. 811-52 et R. 811-53, les
 actes relatifs au fonctionnement de l'établissement qui, pour devenir

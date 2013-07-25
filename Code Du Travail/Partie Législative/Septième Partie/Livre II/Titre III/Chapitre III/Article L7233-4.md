@@ -2,9 +2,10 @@ Article L7233-4
 ----
 L'aide financière du comité d'entreprise et celle de l'entreprise versées en
 faveur des salariés n'ont pas le caractère de rémunération au sens des articles
-L. 242-1 du code de la sécurité sociale et L. 741-10 du code rural ainsi que
-pour l'application de la législation du travail, lorsque ces aides sont
-destinées soit à faciliter l'accès des services aux salariés, soit à financer :
+L. 242-1 du code de la sécurité sociale et L. 741-10 du code rural et de la
+pêche maritime ainsi que pour l'application de la législation du travail,
+lorsque ces aides sont destinées soit à faciliter l'accès des services aux
+salariés, soit à financer :
 
 1° Des activités entrant dans le champ des services à la personne ;
 

@@ -3,11 +3,11 @@ Article 73 B
 I. Le bénéfice imposable des exploitants soumis à un régime réel d'imposition
 qui bénéficient des prêts à moyen terme spéciaux ou de la dotation
 d'installation aux jeunes agriculteurs prévus par les articles D. 343-9 à D.
-343-16 du code rural, est déterminé, au titre des soixante premiers mois
-d'activité, à compter de la date d'octroi de la première aide, sous déduction
-d'un abattement de 50 p. 100. Cet abattement est porté à 100 % au titre de
-l'exercice en cours à la date d'inscription en comptabilité de la dotation
-d'installation aux jeunes agriculteurs.
+343-16 du code rural et de la pêche maritime, est déterminé, au titre des
+soixante premiers mois d'activité, à compter de la date d'octroi de la première
+aide, sous déduction d'un abattement de 50 p. 100. Cet abattement est porté à
+100 % au titre de l'exercice en cours à la date d'inscription en comptabilité de
+la dotation d'installation aux jeunes agriculteurs.
 
 Ces exploitants peuvent demander l'application de l'abattement sur les bénéfices
 des exercices non prescrits, clos avant l'attribution de ces aides.

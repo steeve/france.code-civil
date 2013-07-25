@@ -54,9 +54,9 @@ Nonobstant toutes dispositions contraires, les collectivités publiques qui ont
 acquis des terrains situés à l'intérieur des périmètres de protection rapprochée
 de prélèvement d'eau destinée à l'alimentation des collectivités humaines
 peuvent, lors de l'instauration ou du renouvellement des baux ruraux visés au
-titre Ier du livre IV du code rural portant sur ces terrains, prescrire au
-preneur des modes d'utilisation du sol afin de préserver la qualité de la
-ressource en eau.
+titre Ier du livre IV du code rural et de la pêche maritime portant sur ces
+terrains, prescrire au preneur des modes d'utilisation du sol afin de préserver
+la qualité de la ressource en eau.
 
 Par dérogation au titre Ier du livre IV du code rural, le tribunal administratif
 est seul compétent pour régler les litiges concernant les baux renouvelés en

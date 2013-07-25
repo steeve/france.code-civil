@@ -1,6 +1,6 @@
 Article R*411-36
 ----
-I. - Par dérogation à l'article R. 411-35, l'autorisation d'introduction est
+I.-Par dérogation à l'article R. 411-35, l'autorisation d'introduction est
 délivrée :
 
 1° Par le ministre chargé de la protection de la nature, après consultation du
@@ -30,9 +30,9 @@ protection de la nature et du comité consultatif de la protection des végétau
 lorsque les espèces dont l'introduction dans le milieu naturel est envisagée
 sont des agents utilisés dans la lutte biologique contre les organismes
 nuisibles, au sens de la deuxième phrase du premier alinéa de l'article L. 251-3
-du code rural.
+du code rural et de la pêche maritime .
 
-II. - L'autorisation d'introduction vaut, le cas échéant, autorisation de
+II.-L'autorisation d'introduction vaut, le cas échéant, autorisation de
 transport des animaux et des végétaux, prévue aux articles R. 411-7 et R. 411-8.
 Dans ce cas, elle peut imposer des conditions particulières à l'exécution de ce
 transport.

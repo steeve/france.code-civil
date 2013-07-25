@@ -9,5 +9,6 @@ soit de demandeurs d'emploi âgés de quarante-cinq ans et plus, ouvrent droit �
 une exonération des cotisations à la charge de l'employeur au titre des
 accidents du travail et des maladies professionnelles, applicable aux gains et
 rémunérations tels que définis à l'article L. 242-1 du code de la sécurité
-sociale et à l'article L. 741-10 du code rural. Un décret précise les conditions
-dans lesquelles un groupement d'employeurs peut bénéficier de cette exonération.
+sociale et à l'article L. 741-10 du code rural et de la pêche maritime. Un
+décret précise les conditions dans lesquelles un groupement d'employeurs peut
+bénéficier de cette exonération.

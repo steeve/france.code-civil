@@ -46,6 +46,6 @@ l'article 221 bis sont applicables, sauf en ce qui concerne les provisions dont
 la déduction est prévue par des dispositions légales particulières.
 
 6 Lorsqu'une société d'intérêt collectif agricole renonce au statut défini aux
-articles L. 531-1 à L. 535-4 du code rural, les dispositions du premier alinéa
-du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un
-changement de régime fiscal.
+articles L. 531-1 à L. 535-4 du code rural et de la pêche maritime, les
+dispositions du premier alinéa du 2 ne s'appliquent pas si cette renonciation ne
+s'accompagne pas d'un changement de régime fiscal.

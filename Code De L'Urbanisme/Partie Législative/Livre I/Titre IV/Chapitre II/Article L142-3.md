@@ -41,7 +41,7 @@ résulte d'une donation-partage.
 
 Les échanges d'immeubles ruraux situés dans les zones de préemption définies au
 présent article réalisés dans les conditions prévues au titre 1er du livre Ier
-du code rural ne sont pas soumis à ce droit.
+du code rural et de la pêche maritime ne sont pas soumis à ce droit.
 
 Au cas où le Conservatoire de l'espace littoral et des rivages lacustres est
 territorialement compétent, celui-ci ou, à défaut, la commune, peut se

@@ -10,15 +10,16 @@ quarts de la fraction de la valeur nette correspondant aux biens visés au 3° d
 1 de l'article 793 et sous les mêmes conditions.
 
 Les biens donnés à bail à long terme dans les conditions prévues aux articles L.
-416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural et ceux donnés à bail
-cessible dans les conditions prévues par les articles L. 418-1 à L. 418-5 du
-même code, qui ne sont pas en totalité qualifiés de biens professionnels en
-application de l'article 885 P, sont exonérés d'impôt de solidarité sur la
-fortune à concurrence des trois quarts lorsque la valeur totale des biens loués
-quel que soit le nombre de baux n'excède pas 100 393 € et pour moitié au-delà de
-cette limite, sous réserve que la durée du bail soit au minimum de dix-huit ans
-et que les descendants du preneur ne soient pas contractuellement privés de la
-faculté de bénéficier des dispositions de l'article L. 411-35 du code rural.
+416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural et de la pêche maritime et
+ceux donnés à bail cessible dans les conditions prévues par les articles L.
+418-1 à L. 418-5 du même code, qui ne sont pas en totalité qualifiés de biens
+professionnels en application de l'article 885 P, sont exonérés d'impôt de
+solidarité sur la fortune à concurrence des trois quarts lorsque la valeur
+totale des biens loués quel que soit le nombre de baux n'excède pas 100 393 € et
+pour moitié au-delà de cette limite, sous réserve que la durée du bail soit au
+minimum de dix-huit ans et que les descendants du preneur ne soient pas
+contractuellement privés de la faculté de bénéficier des dispositions de
+l'article L. 411-35 du code rural et de la pêche maritime.
 
 Sous les conditions prévues au 4° du 1 de l'article 793, les parts de
 groupements fonciers agricoles et de groupements agricoles fonciers, soumis aux

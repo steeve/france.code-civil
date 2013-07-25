@@ -9,10 +9,10 @@ non exonérés ; sont, d'une manière générale, considérées comme présentan
 caractère d'assurance de risques agricoles, les assurances de tous les risques
 des personnes physiques ou morales exerçant exclusivement ou principalement une
 profession agricole ou connexe à l'agriculture telles que ces professions sont
-définies par les articles L722-9 et L722-28 du code rural, ainsi que les
-assurances des risques des membres de leurs familles vivant avec eux sur
-l'exploitation et de leur personnel et les assurances des risques, par leur
-nature, spécifiquement agricoles ou connexes ;
+définies par les articles L722-9 et L722-28 du code rural et de la pêche
+maritime, ainsi que les assurances des risques des membres de leurs familles
+vivant avec eux sur l'exploitation et de leur personnel et les assurances des
+risques, par leur nature, spécifiquement agricoles ou connexes ;
 
 A 24 % pour les assurances contre l'incendie souscrites auprès des caisses
 départementales ;

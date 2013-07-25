@@ -13,7 +13,8 @@ pour une durée d'un trimestre par enfant ;
 
 3° Les périodes de perception de l'allocation de remplacement pour maternité
 prévue aux articles L. 615-19 et L. 722-8 du présent code et aux articles L.
-732-10 à L. 732-14 du code rural, pour une durée d'un trimestre par enfant ;
+732-10 à L. 732-14 du code rural et de la pêche maritime, pour une durée d'un
+trimestre par enfant ;
 
 4° Les périodes de chômage indemnisé appréciées selon les modalités prévues au
 4° de l'article R. 351-12 du présent code ;

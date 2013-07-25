@@ -15,9 +15,10 @@ quater.
 
 III.-Les déductions mentionnées aux I et II sont imputées sur les sommes dues
 par les employeurs aux organismes de recouvrement mentionnés aux articles L.
-213-1 du présent code et L. 725-3 du code rural pour chaque salarié concerné au
-titre de l'ensemble de sa rémunération versée au moment du paiement de cette
-durée de travail supplémentaire et ne peuvent dépasser ce montant.
+213-1 du présent code et L. 725-3 du code rural et de la pêche maritime pour
+chaque salarié concerné au titre de l'ensemble de sa rémunération versée au
+moment du paiement de cette durée de travail supplémentaire et ne peuvent
+dépasser ce montant.
 
 IV.-Les déductions mentionnées aux I et II sont cumulables avec des exonérations
 de cotisations patronales de sécurité sociale dans la limite des cotisations

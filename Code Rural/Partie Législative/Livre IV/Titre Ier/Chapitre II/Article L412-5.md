@@ -34,4 +34,4 @@ décision d'exercer ce droit, le bénéficiaire ou, dans le cas prévu au troisi
 alinéa ci-dessus, le conjoint, le partenaire d'un pacte civil de solidarité ou
 le descendant subrogé est déjà propriétaire de parcelles représentant une
 superficie supérieure à trois fois la surface minimum d'installation prévue à
-l'article L. 312-6 du code rural.
+l'article L. 312-6 du code rural et de la pêche maritime.

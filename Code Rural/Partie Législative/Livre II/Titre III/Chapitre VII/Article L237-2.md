@@ -1,14 +1,14 @@
 Article L237-2
 ----
-I.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
+I.-Est puni de six mois d'emprisonnement et de 15 000 euros d'amende le fait :
 
--d'abattre un animal en dehors d'un abattoir dans des conditions illicites ;
+-d'abattre un animal en dehors d'un établissement d'abattage dans des conditions
+illicites ;
 
 -de mettre sur le marché des produits d'origine animale, des denrées
-alimentaires en contenant ou des aliments pour animaux d'origine animale ou
-contenant des produits d'origine animale sans être titulaire de l'agrément
-requis, selon les cas, en application de l'article L. 233-2 ou de l'article L.
-235-1 ou lorsque cet agrément a été suspendu ;
+alimentaires en contenant ou des aliments pour animaux sans être titulaire de
+l'agrément requis, selon les cas, en application de l'article L. 233-2 ou de
+l'article L. 235-1 ou lorsque cet agrément a été suspendu ;
 
 -de destiner à l'alimentation animale et à la fabrication d'aliments pour
 animaux des matières animales, transformées ou non, faisant l'objet de
@@ -19,16 +19,16 @@ alimentaires en contenant consignés ou retirés de la consommation ou de les
 transporter sans une autorisation délivrée par un agent ayant la qualité de
 vétérinaire officiel en vertu du V de l'article L. 231-2.
 
-II.-Est puni de deux ans d'emprisonnement et de 15 000 euros d'amende le fait de
+II.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de
 ne pas respecter une décision de fermeture administrative, ou d'arrêt d'une ou
-plusieurs activités d'un établissement, prise en vertu des articles L. 233-1 et
-L. 235-2.
+plusieurs activités d'un établissement, prise en vertu des articles L. 206-2, L.
+233-1 et L. 235-2.
 
 III.-Est puni de quatre ans d'emprisonnement et de 75 000 euros d'amende le fait
 pour un exploitant :
 
 -de mettre sur le marché un produit d'origine animale ou une denrée en contenant
-préjudiciable à la santé au sens de l'article 14 du règlement (CE) n° 178 / 2002
+préjudiciable à la santé au sens de l'article 14 du règlement (CE) n° 178/2002
 du Parlement européen et du Conseil du 28 janvier 2002 ou de s'abstenir de
 mettre en oeuvre des procédures de retrait ou de rappel d'un tel produit qu'il a
 importé, produit, transformé ou distribué, en méconnaissance de l'article 19 du
@@ -36,11 +36,11 @@ même règlement communautaire ;
 
 -de mettre sur le marché un aliment pour animaux d'origine animale ou contenant
 des produits d'origine animale dangereux au sens de l'article 15 du règlement
-(CE) n° 178 / 2002 du Parlement européen et du Conseil du 28 janvier 2002 ou de
+(CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 ou de
 s'abstenir de mettre en oeuvre des procédures de retrait ou de rappel d'un tel
 produit qu'il a importé, produit, transformé ou distribué, en méconnaissance de
 l'article 20 du même règlement communautaire ou de l'article L. 235-1 du code
-rural.
+rural et de la pêche maritime.
 
 IV.-Les personnes physiques encourent également les peines complémentaires
 suivantes :
@@ -62,8 +62,5 @@ de responsabilités syndicales ;
 presse écrite, soit par tout moyen de communication au public par voie
 électronique.
 
-V.-Les personnes morales déclarées responsables pénalement, dans les conditions
-prévues par l'article 121-2 du code pénal, des infractions définies au présent
-article encourent, outre l'amende suivant les modalités prévues par l'article
-131-38 du code pénal, les peines prévues par les 2°, 4°, 7°, 8° et 9° de
-l'article 131-39 du même code.
+V.-Les personnes morales encourent également les peines complémentaires prévues
+par les 2°,4°,7°,8° et 9° de l'article 131-39 du code pénal.

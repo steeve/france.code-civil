@@ -103,10 +103,10 @@ f) A la rémunération versée par le contribuable, par un groupement forestier 
 une société d'épargne forestière dont le contribuable est membre, pour la
 réalisation d'un contrat conclu pour la gestion de bois et forêts d'une surface
 inférieure à 25 hectares avec un expert forestier au sens de l'article L. 171-1
-du code rural, avec une coopérative forestière ou une organisation de
-producteurs au sens de l'article L. 551-1 du même code ou avec l'Office national
-des forêts en application de l'article L. 224-6 du code forestier, sous réserve
-des trois conditions suivantes :
+du code rural et de la pêche maritime, avec une coopérative forestière ou une
+organisation de producteurs au sens de l'article L. 551-1 du même code ou avec
+l'Office national des forêts en application de l'article L. 224-6 du code
+forestier, sous réserve des trois conditions suivantes :
 
 1° le contrat de gestion doit prévoir la réalisation de programmes de travaux et
 de coupes sur des terrains en nature de bois et forêts dans le respect de l'une

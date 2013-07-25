@@ -2,7 +2,7 @@ Article D241-25
 ----
 Pour l'application du IV de l'article L. 241-17, l'employeur tient à disposition
 les informations prévues aux articles D. 212-18 à D. 212-24 du code du travail
-et aux articles R. 713-35 à R. 713-50 du code rural.
+et aux articles R. 713-35 à R. 713-50 du code rural et de la pêche maritime.
 
 Lorsque ces données ne sont pas immédiatement accessibles, l'employeur complète,
 au moins une fois par an pour chaque salarié, les informations fournies en

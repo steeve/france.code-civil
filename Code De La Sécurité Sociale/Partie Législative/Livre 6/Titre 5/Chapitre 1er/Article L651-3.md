@@ -29,11 +29,11 @@ moins égale à 20 %, à condition que ces biens soient utilisés pour les besoi
 d'opérations de production effectuées par ces sociétés ou groupements.
 
 La contribution des organismes visés au 10° de l'article L. 651-1 et relevant de
-l'article L. 521-1 du code rural est établie sans tenir compte du chiffre
-d'affaires qu'ils réalisent, au titre des opérations de vente des produits issus
-des exploitations de leurs membres, avec d'autres organismes coopératifs régis
-par les mêmes dispositions ou par l'article L. 531-1 du code rural et dont ils
-sont associés coopérateurs.
+l'article L. 521-1 du code rural et de la pêche maritime est établie sans tenir
+compte du chiffre d'affaires qu'ils réalisent, au titre des opérations de vente
+des produits issus des exploitations de leurs membres, avec d'autres organismes
+coopératifs régis par les mêmes dispositions ou par l'article L. 531-1 du code
+rural et de la pêche maritime et dont ils sont associés coopérateurs.
 
 La contribution des organismes coopératifs relevant du chapitre Ier du titre III
 de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines

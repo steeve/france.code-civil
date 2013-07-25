@@ -2,7 +2,7 @@ Article L926-6
 ----
 A l'article L. 642-1, l'obligation faite au tribunal de tenir compte des
 dispositions contenues aux 1°, 2°, 3° et 4° de l'article L. 331-3 du code rural
-s'entend des prescriptions suivantes :
+et de la pêche maritime s'entend des prescriptions suivantes :
 
 " Observer l'ordre des priorités établi entre l'installation des jeunes
 agriculteurs et l'agrandissement des exploitations, en tenant compte de

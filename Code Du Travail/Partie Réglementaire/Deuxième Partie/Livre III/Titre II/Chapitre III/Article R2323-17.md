@@ -28,7 +28,7 @@ temporaire.
 Nombre d'embauches par contrats de travail à durée indéterminée. Nombre
 d'embauches par contrats de travail à durée déterminée (dont nombre de contrats
 de travailleurs saisonniers) I. Nombre d'embauches de salariés de moins de
-ving-cinq ans.
+vingt-cinq ans.
 
 1. 4. Départs.
 
@@ -290,12 +290,12 @@ Coût pour l'entreprise des prestations complémentaires (vieillesse) (51).
 Equipements réalisés par l'entreprise et touchant aux conditions de vie des
 salariés à l'occasion de l'exécution du travail.
 
-Notes : I. ― Une structure de qualification détaillée, en trois ou quatre postes
+Notes : I. - Une structure de qualification détaillée, en trois ou quatre postes
 minimum, est requise. Il est souhaitable de faire référence à la classification
 de la convention collective, de l'accord d'entreprise et aux pratiques
 habituellement retenues dans l'entreprise. A titre d'exemple la répartition
 suivante peut être retenue : cadres ; employés, techniciens et agents de
-maîtrise (ETAM) ; et ouvriers. II. ― Une structure de qualification détaillée en
+maîtrise (ETAM) ; et ouvriers. II. - Une structure de qualification détaillée en
 cinq ou six postes minimum est requise. Il est souhaitable de faire référence à
 la classification de la convention collective, de l'accord d'entreprise et aux
 pratiques habituellement retenues dans l'entreprise. A titre d'exemple, la
@@ -319,70 +319,76 @@ supérieurs à une semaine. (8) Est considérée comme salarié temporaire toute
 personne mise à la disposition de l'entreprise, par une entreprise de travail
 temporaire. (9) A ne remplir que si ces départs sont comptabilisés dans le total
 des départs. (10) Distinguer les différents systèmes légaux et conventionnels de
-toute nature. (11) Utiliser les catégories de la nomenclature détaillée II. (12)
-Y compris les heures indemnisées au titre du chômage total en cas d'arrêt de
-plus de quatre semaines consécutives. (13) Tel qu'il résulte de la déclaration
-obligatoire prévue à l'article R. 5212-2. (14) Possibilités de comptabiliser
-tous les indicateurs de la rubrique absentéisme, au choix, en journées,1 / 2
-journées ou heures. (15) Ne sont pas comptés parmi les absences : les diverses
-sortes de congés, les conflits et le service national. (16) Les tranches
-choisies sont laissées au choix des entreprises. (17) On entend par rémunération
-la somme des salaires effectivement perçus pendant l'année par le salarié (au
-sens de la déclaration annuelle des salaires). (18) Masse salariale annuelle
-totale, au sens de la déclaration annuelle de salaire. (19) Rémunération
-mensuelle moyenne : 1 ∑ (masse salariale du mois i) 2 (effectif du mois i). (20)
-Faire une grille des rémunérations en distinguant au moins six tranches. (21)
-Pour être prises en compte, les catégories concernées doivent comporter au
+toute nature.
+
+(11) Utiliser les catégories de la nomenclature détaillée II. (12) Y compris les
+heures indemnisées au titre du chômage total en cas d'arrêt de plus de quatre
+semaines consécutives. (13) Tel qu'il résulte de la déclaration obligatoire
+prévue à l'article R. 5212-2. (14) Possibilités de comptabiliser tous les
+indicateurs de la rubrique absentéisme, au choix, en journées,1 / 2 journées ou
+heures. (15) Ne sont pas comptés parmi les absences : les diverses sortes de
+congés, les conflits et le service national. (16) Les tranches choisies sont
+laissées au choix des entreprises. (17) On entend par rémunération la somme des
+salaires effectivement perçus pendant l'année par le salarié (au sens de la
+déclaration annuelle des salaires). (18) Masse salariale annuelle totale, au
+sens de la déclaration annuelle de salaire. (19) Rémunération mensuelle moyenne
+: 1 ∑ (masse salariale du mois i) 2 (effectif du mois i). (20) Faire une grille
+des rémunérations en distinguant au moins six tranches.
+
+(21) Pour être prises en compte, les catégories concernées doivent comporter au
 minimum dix salariés. (22) Distinguer les primes individuelles et les primes
 collectives. (23) Prestataires de services, régies... (24) Frais de personnel :
 ensemble des rémunérations et des cotisations sociales mises légalement ou
 conventionnellement à la charge de l'entreprise. (25) Le montant global de la
-réserve de participation est le montant de la réserve dégagée ― ou de la
-provision constituée ― au titre de la participation sur les résultats de
+réserve de participation est le montant de la réserve dégagée - ou de la
+provision constituée - au titre de la participation sur les résultats de
 l'exercice considéré. (26) La participation est envisagée ici au sens du titre
 II du livre III de la partie III. (27) Non compris les dirigeants. (28) Faire
-référence aux codes de classification des éléments matériels des accidents »
+référence aux codes de classification des éléments matériels des accidents
 (arrêté du 10 octobre 1974). (29) En application de l'article L. 461-4 du code
 de la sécurité sociale. (30) Il est possible de remplacer cet indicateur par la
-somme des heures travaillées durant l'année. (31) Au sens des dispositions du
-présent code et du code rural instituant un repos compensateur en matière
-d'heures supplémentaires. (32) Au sens de l'article L. 3122-23. (33) Au sens de
-l'article L. 3123-1. (34) Cet indicateur peut être calculé sur la dernière
-période de référence. (35) Préciser, le cas échéant, les conditions
-restrictives. (36) Article 70-3 c du décret du 29 décembre 1945 : Sont
-considérés comme travaux à la chaîne : ― les travaux effectués dans une
-organisation comportant un dispositif automatique d'avancement à cadence
-constante des pièces en cours de fabrication ou de montage en vue de la
-réalisation d'opérations élémentaires et successives aux différents postes de
-travail ; ― les travaux effectués sur des postes de travail indépendants
-consistant en la conduite ou l'approvisionnement de machines à cycle automatique
-et à cadence préréglée en vue de la réalisation d'opérations élémentaires et
-successives aux différents postes de travail ; ― les travaux effectués sur des
-postes indépendants sans dispositif automatique d'avancement des pièces où la
-cadence est imposée par le mode de rémunération ou le temps alloué pour chaque
-opération élémentaire. » (37) Cette carte n'est à réaliser que par les
-établissements qui ont une réponse non nulle à l'indicateur précédent. (38)
-Article 70-3 d du décret du 29 décembre 1945 : Sont considérés comme travaux au
-four, les travaux exposant de façon habituelle et régulière à une forte chaleur
-ambiante ou rayonnante résultant de l'utilisation d'un traitement thermique,
-d'un processus de cuisson, de la transformation de produits en état de fusion,
-d'ignition ou d'incandescence ou de la production d'énergie thermique ». (39)
-Article 70-3 e du décret du 29 décembre 1945 : Sont considérés comme travaux
-exposant aux intempéries sur les chantiers, les travaux soumis au régime
+somme des heures travaillées durant l'année.
+
+(31) Au sens des dispositions du présent code et du code rural et de la pêche
+maritime instituant un repos compensateur en matière d'heures supplémentaires.
+(32) Au sens de l'article L. 3122-23. (33) Au sens de l'article L. 3123-1. (34)
+Cet indicateur peut être calculé sur la dernière période de référence. (35)
+Préciser, le cas échéant, les conditions restrictives. (36) Article 70-3 c du
+décret du 29 décembre 1945 : Sont considérés comme travaux à la chaîne : - les
+travaux effectués dans une organisation comportant un dispositif automatique
+d'avancement à cadence constante des pièces en cours de fabrication ou de
+montage en vue de la réalisation d'opérations élémentaires et successives aux
+différents postes de travail ; - les travaux effectués sur des postes de travail
+indépendants consistant en la conduite ou l'approvisionnement de machines à
+cycle automatique et à cadence préréglée en vue de la réalisation d'opérations
+élémentaires et successives aux différents postes de travail ; - les travaux
+effectués sur des postes indépendants sans dispositif automatique d'avancement
+des pièces où la cadence est imposée par le mode de rémunération ou le temps
+alloué pour chaque opération élémentaire. (37) Cette carte n'est à réaliser que
+par les établissements qui ont une réponse non nulle à l'indicateur précédent.
+(38) Article 70-3 d du décret du 29 décembre 1945 : Sont considérés comme
+travaux au four, les travaux exposant de façon habituelle et régulière à une
+forte chaleur ambiante ou rayonnante résultant de l'utilisation d'un traitement
+thermique, d'un processus de cuisson, de la transformation de produits en état
+de fusion, d'ignition ou d'incandescence ou de la production d'énergie thermique
+. (39) Article 70-3 e du décret du 29 décembre 1945 : Sont considérés comme
+travaux exposant aux intempéries sur les chantiers, les travaux soumis au régime
 d'indemnisation définie aux articles L. 5424-11 et suivants du code du travail
 ainsi que les travaux effectués de façon habituelle et régulière sur les
 chantiers souterrains ou subaquatiques, ou en plein air sur les constructions et
-ouvrages, les aires de stockage et de manutention. ». (40) Renseignements tirés
-du rapport annuel du médecin du travail (arrêté du 10 décembre 1971). (41) Pour
-l'explication de ces expériences d'amélioration du contenu du travail, donner le
-nombre de salariés concernés. (42) Non compris l'évaluation des dépenses en
-matière de santé et de sécurité. (43) Renseignements tirés du rapport annuel du
-médecin du travail (arrêté du 10 décembre 1971). (44) Conformément à la
-déclaration annuelle des employeurs 2483 relative au financement de la formation
-professionnelle continue. (45) Au sens des articles L. 3142-7 et suivants. (46)
-On entend par réunion du personnel, les réunions régulières de concertation,
-concernant les relations et conditions de travail organisées par l'entreprise.
-(47) Préciser leur périodicité. (48) Avec indication de la nature du différend
-et, le cas échéant, de la solution qui y a mis fin. (49) Dépenses consolidées de
-l'entreprise. La répartition est indiquée ici à titre d'exemple. (50) (51)
-Versements directs ou par l'intermédiaire d'assurances.
+ouvrages, les aires de stockage et de manutention. . (40) Renseignements tirés
+du rapport annuel du médecin du travail (arrêté du 10 décembre 1971).
+
+(41) Pour l'explication de ces expériences d'amélioration du contenu du travail,
+donner le nombre de salariés concernés. (42) Non compris l'évaluation des
+dépenses en matière de santé et de sécurité. (43) Renseignements tirés du
+rapport annuel du médecin du travail (arrêté du 10 décembre 1971). (44)
+Conformément à la déclaration annuelle des employeurs 2483 relative au
+financement de la formation professionnelle continue. (45) Au sens des articles
+L. 3142-7 et suivants. (46) On entend par réunion du personnel, les réunions
+régulières de concertation, concernant les relations et conditions de travail
+organisées par l'entreprise. (47) Préciser leur périodicité. (48) Avec
+indication de la nature du différend et, le cas échéant, de la solution qui y a
+mis fin. (49) Dépenses consolidées de l'entreprise. La répartition est indiquée
+ici à titre d'exemple. (50) (51) Versements directs ou par l'intermédiaire
+d'assurances.

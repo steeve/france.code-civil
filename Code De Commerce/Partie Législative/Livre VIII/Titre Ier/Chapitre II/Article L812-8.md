@@ -24,14 +24,14 @@ La qualité de mandataire judiciaire inscrit sur la liste ne fait pas obstacle �
 l'exercice d'une activité de consultation dans les matières relevant de la
 qualification de l'intéressé, ni à l'accomplissement des mandats de mandataire
 ad hoc et de conciliateur prévus aux articles L. 611-3 et L. 611-6 du présent
-code et par l'article L. 351-4 du code rural, de commissaire à l'exécution du
-plan ou de liquidateur amiable des biens d'une personne physique ou morale,
-d'expert judiciaire et de séquestre judiciaire. Cette activité et ces mandats, à
-l'exception des mandats de mandataire ad hoc, de conciliateur et de commissaire
-à l'exécution du plan, ne peuvent être exercés qu'à titre accessoire. La même
-personne ne peut exercer successivement les fonctions de conciliateur puis de
-mandataire judiciaire avant l'expiration d'un délai d'un an lorsqu'il s'agit
-d'une même entreprise.
+code et par l'article L. 351-4 du code rural et de la pêche maritime, de
+commissaire à l'exécution du plan ou de liquidateur amiable des biens d'une
+personne physique ou morale, d'expert judiciaire et de séquestre judiciaire.
+Cette activité et ces mandats, à l'exception des mandats de mandataire ad hoc,
+de conciliateur et de commissaire à l'exécution du plan, ne peuvent être exercés
+qu'à titre accessoire. La même personne ne peut exercer successivement les
+fonctions de conciliateur puis de mandataire judiciaire avant l'expiration d'un
+délai d'un an lorsqu'il s'agit d'une même entreprise.
 
 Les conditions du présent article sont, à l'exception du quatrième alinéa,
 applicables aux personnes morales inscrites.

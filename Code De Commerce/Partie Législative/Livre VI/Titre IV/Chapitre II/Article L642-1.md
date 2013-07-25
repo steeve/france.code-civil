@@ -18,7 +18,7 @@ conditions fixées aux articles L. 642-2, L. 642-4 et L. 642-5. Les dispositions
 relatives au contrôle des structures des exploitations agricoles ne sont pas
 applicables. Toutefois, lorsque plusieurs offres ont été recueillies, le
 tribunal tient compte des dispositions des 1° à 4° et 6° à 9° de l'article L.
-331-3 du code rural.
+331-3 du code rural et de la pêche maritime.
 
 Lorsque le débiteur est un officier public ou ministériel, le liquidateur peut
 exercer le droit du débiteur de présenter son successeur au garde des sceaux,

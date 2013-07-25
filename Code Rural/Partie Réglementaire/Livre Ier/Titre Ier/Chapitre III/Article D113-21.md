@@ -22,4 +22,5 @@ associés éligible à l'indemnité ;
 
 - les fondations, associations sans but lucratif et les établissements
 d'enseignement, de formation et de recherche lorsqu'ils exercent directement des
-activités agricoles au sens de l'article L. 311-1 du code rural.
+activités agricoles au sens de l'article L. 311-1 du code rural et de la pêche
+maritime.

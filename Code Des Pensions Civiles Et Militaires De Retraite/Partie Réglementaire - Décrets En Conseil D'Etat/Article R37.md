@@ -34,14 +34,15 @@ publique hospitalière, aux articles L. 331-3 et L. 615-19 du code de la sécuri
 sociale, à l'article 4 du décret n° 72-154 du 24 février 1972 modifié relatif
 aux congés en cas de maladie, maternité et d'accidents du travail dont peuvent
 bénéficier certains personnels ouvriers de l'Etat mensualisés, ainsi qu'aux
-articles L. 732-10 et L. 732-11 du code rural ;
+articles L. 732-10 et L. 732-11 du code rural et de la pêche maritime ;
 
 b) Du congé de paternité, tel que prévu aux articles L. 4138-2 et L. 4138-4 du
 code de la défense, au 5° de l'article 34 de la loi du 11 janvier 1984
 susmentionnée, au 5° de l'article 57 de la loi du 26 janvier 1984 susmentionnée,
 au 5° de l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4
 du décret du 24 février 1972 susmentionné, aux articles L. 331-8 et L. 615-19-2
-du code de la sécurité sociale, ainsi qu'à l'article L. 732-12 du code rural ;
+du code de la sécurité sociale, ainsi qu'à l'article L. 732-12 du code rural et
+de la pêche maritime ;
 
 c) Du congé d'adoption, tel que prévu aux articles L. 4138-2 et L. 4138-4 du
 code de la défense, au 5° de l'article 34 de la loi du 11 janvier 1984
@@ -49,7 +50,7 @@ susmentionnée, à l'article 57 de la loi du 26 janvier 1984 susmentionnée, à
 l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 du décret
 du 24 février 1972 susmentionné, aux articles L. 331-7 et L. 615-19 du code de
 la sécurité sociale, ainsi qu'aux articles L. 732-12 et L. 732-12-1 du code
-rural ;
+rural et de la pêche maritime ;
 
 d) Du congé parental, tel que prévu aux articles L. 4138-11 et L. 4138-14 du
 code de la défense, à l'article 54 de la loi du 11 janvier 1984 susmentionnée, à

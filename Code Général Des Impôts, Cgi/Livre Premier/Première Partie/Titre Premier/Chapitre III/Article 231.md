@@ -4,14 +4,14 @@ Article 231
 salaires égale à 4,25 % de leur montant, évalué selon les règles prévues aux
 chapitres Ier et II du titre IV du livre II du code de la sécurité sociale ou
 pour les employeurs de salariés visés aux articles L. 722-20 et L. 751-1 du code
-rural, au titre IV du livre VII dudit code, et à la charge des personnes ou
-organismes, à l'exception des collectivités locales, de leurs régies
-personnalisées mentionnées à l'article L. 1412-2 du code général des
-collectivités territoriales et de leurs groupements, des services départementaux
-de lutte contre l'incendie, des centres d'action sociale dotés d'une
-personnalité propre lorsqu'ils sont subventionnés par les collectivités locales,
-du centre de formation des personnels communaux, des caisses des écoles et des
-établissements d'enseignement supérieur visés au livre VII du code de
+rural et de la pêche maritime, au titre IV du livre VII dudit code, et à la
+charge des personnes ou organismes, à l'exception des collectivités locales, de
+leurs régies personnalisées mentionnées à l'article L. 1412-2 du code général
+des collectivités territoriales et de leurs groupements, des services
+départementaux de lutte contre l'incendie, des centres d'action sociale dotés
+d'une personnalité propre lorsqu'ils sont subventionnés par les collectivités
+locales, du centre de formation des personnels communaux, des caisses des écoles
+et des établissements d'enseignement supérieur visés au livre VII du code de
 l'éducation qui organisent des formations conduisant à la délivrance au nom de
 l'Etat d'un diplôme sanctionnant cinq années d'études après le baccalauréat, qui
 paient ces rémunérations lorsqu'ils ne sont pas assujettis à la taxe sur la
@@ -53,7 +53,7 @@ conditions de la concurrence.
 
 2 bis. Le taux de la taxe sur les salaires prévue au 1 est porté de 4,25 à 8,50
 % pour la fraction comprise entre 7 491 € et 14 960 € et à 13,60 % pour la
-fraction excédant 14 901 euros de rémunérations individuelles annuelles. Ces
+fraction excédant 14 960 euros de rémunérations individuelles annuelles. Ces
 limites sont relevées chaque année dans la même proportion que la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu de l'année
 précédente. Les montants obtenus sont arrondis, s'il y a lieu, à l'euro

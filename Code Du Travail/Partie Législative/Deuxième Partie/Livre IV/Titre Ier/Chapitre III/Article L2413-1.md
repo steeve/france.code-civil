@@ -38,7 +38,8 @@ de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article 3-1
 du code minier ;
 
 9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de
-travail en agriculture prévue à l'article L. 717-7 du code rural ;
+travail en agriculture prévue à l'article L. 717-7 du code rural et de la pêche
+maritime ;
 
 10° Salarié mandaté dans les conditions prévues à l'article L. 2232-24, dans les
 entreprises dépourvues de délégué syndical ;
@@ -47,6 +48,6 @@ entreprises dépourvues de délégué syndical ;
 mentionné à l'article L. 231-11 du code de la sécurité sociale ;
 
 12° Représentant des salariés dans une chambre d'agriculture, mentionné à
-l'article L. 515-1 du code rural ;
+l'article L. 515-1 du code rural et de la pêche maritime ;
 
 13° Conseiller prud'homme.

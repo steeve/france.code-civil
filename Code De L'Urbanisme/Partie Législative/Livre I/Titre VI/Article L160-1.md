@@ -34,11 +34,11 @@ en application de l'article L. 111-3-1, avant la réception de cette étude par 
 commission compétente en matière de sécurité publique.
 
 Toute association agréée de protection de l'environnement en application des
-dispositions de l'article L. 252-1 du code rural, peut exercer les droits
-reconnus à la partie civile en ce qui concerne les faits constituant une
-infraction aux alinéas premier et second du présent article et portant un
-préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
-défendre.
+dispositions de l'article L. 252-1 du code rural et de la pêche maritime, peut
+exercer les droits reconnus à la partie civile en ce qui concerne les faits
+constituant une infraction aux alinéas premier et second du présent article et
+portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour
+objet de défendre.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations
 visées à l'alinéa précédent pourront être agréées. Dans les départements du

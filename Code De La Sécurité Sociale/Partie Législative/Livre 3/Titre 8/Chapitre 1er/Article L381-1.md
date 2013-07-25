@@ -29,23 +29,23 @@ affiliation est subordonnée à la production de justificatifs, définis par
 décret.
 
 Le travailleur non salarié mentionné aux articles L. 611-1 ou L. 722-1 du
-présent code, à l'article L. 722-4 du code rural ou au 2° de l'article L. 722-10
-du même code, ainsi que le conjoint collaborateur mentionné à l'article L. 622-8
-du présent code ou aux articles L. 321-5 et L. 732-34 du code rural, qui
-interrompt son activité professionnelle pour s'occuper de son conjoint, de son
-concubin, de la personne avec laquelle il a conclu un pacte civil de solidarité,
-d'un ascendant, d'un descendant, de l'enfant dont il assume la charge au sens de
-l'article L. 512-1 du présent code, d'un collatéral jusqu'au quatrième degré ou
-de l'ascendant, du descendant ou du collatéral jusqu'au quatrième degré de son
-conjoint, de son concubin ou de la personne avec laquelle il a conclu un pacte
-civil de solidarité, présentant un handicap ou une perte d'autonomie d'une
-particulière gravité, est affilié obligatoirement, pour une durée de trois mois,
-à l'assurance vieillesse du régime général, pour autant que ses ressources ou
-celles du ménage ne dépassent pas le plafond du complément familial. Cette
-affiliation peut être renouvelée, dans la limite d'une durée maximale d'une
-année. Elle n'est pas subordonnée à la radiation du travailleur non salarié du
-centre de formalités des entreprises dont il relève. Elle est subordonnée à la
-production de justificatifs, définis par décret.
+présent code, à l'article L. 722-4 du code rural et de la pêche maritime ou au
+2° de l'article L. 722-10 du même code, ainsi que le conjoint collaborateur
+mentionné à l'article L. 622-8 du présent code ou aux articles L. 321-5 et L.
+732-34 du code rural, qui interrompt son activité professionnelle pour s'occuper
+de son conjoint, de son concubin, de la personne avec laquelle il a conclu un
+pacte civil de solidarité, d'un ascendant, d'un descendant, de l'enfant dont il
+assume la charge au sens de l'article L. 512-1 du présent code, d'un collatéral
+jusqu'au quatrième degré ou de l'ascendant, du descendant ou du collatéral
+jusqu'au quatrième degré de son conjoint, de son concubin ou de la personne avec
+laquelle il a conclu un pacte civil de solidarité, présentant un handicap ou une
+perte d'autonomie d'une particulière gravité, est affilié obligatoirement, pour
+une durée de trois mois, à l'assurance vieillesse du régime général, pour autant
+que ses ressources ou celles du ménage ne dépassent pas le plafond du complément
+familial. Cette affiliation peut être renouvelée, dans la limite d'une durée
+maximale d'une année. Elle n'est pas subordonnée à la radiation du travailleur
+non salarié du centre de formalités des entreprises dont il relève. Elle est
+subordonnée à la production de justificatifs, définis par décret.
 
 En outre, est affilié obligatoirement à l'assurance vieillesse du régime général
 de sécurité sociale, pour autant que ses ressources ou celles du ménage ne

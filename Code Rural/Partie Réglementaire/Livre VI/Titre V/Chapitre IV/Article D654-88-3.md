@@ -11,5 +11,6 @@ place dans le cadre de conventions avec l'Etat et sont versés à FranceAgriMer.
 
 FranceAgriMer peut participer au financement des conventions conclues avec les
 acheteurs au moyen des sommes encaissées en application de l'article L. 654-32
-du code rural à la suite des contrôles ; toutefois, ce financement ne peut
-dépasser un pourcentage fixé par l'arrêté mentionné à l'article D. 654-88-1.
+du code rural et de la pêche maritime à la suite des contrôles ; toutefois, ce
+financement ne peut dépasser un pourcentage fixé par l'arrêté mentionné à
+l'article D. 654-88-1.

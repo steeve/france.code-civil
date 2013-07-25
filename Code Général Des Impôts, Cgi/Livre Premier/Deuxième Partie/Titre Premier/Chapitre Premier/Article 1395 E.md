@@ -23,8 +23,8 @@ service des impôts avant le 1er janvier de la première année au titre de
 laquelle l'exonération est applicable ou renouvelable l'engagement souscrit
 concernant les parcelles lui appartenant inscrites sur la liste dressée par le
 préfet. Pour les parcelles données à bail en application des articles L. 411-1
-et suivants du code rural, l'adhésion à la charte ou le contrat doit être
-cosigné par le preneur.
+et suivants du code rural et de la pêche maritime, l'adhésion à la charte ou le
+contrat doit être cosigné par le preneur.
 
 2. L'exonération ne concerne pas les propriétés non bâties exonérées en
 application de l'article 1394 B.

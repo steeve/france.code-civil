@@ -139,9 +139,9 @@ financier ;
 
 4° (abrogé) ;
 
-5° Les organismes de jardins familiaux définis à l'article L 561-2 du code
-rural, lorsque leur activité, considérée dans son ensemble, s'exerce dans des
-conditions telles qu'elle peut être tenue pour désintéressée.
+5° Les organismes de jardins familiaux définis à l'article L 561-2 du code rural
+et de la pêche maritime, lorsque leur activité, considérée dans son ensemble,
+s'exerce dans des conditions telles qu'elle peut être tenue pour désintéressée.
 
 Toutefois, ces organismes demeurent éventuellement soumis à l'impôt dans les
 conditions prévues au 5 de l'article 206 ;

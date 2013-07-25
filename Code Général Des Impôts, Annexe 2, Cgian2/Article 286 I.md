@@ -31,15 +31,16 @@ des fraudes.
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la
 réglementation communautaire et portent les références des contrats d'achat
 soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural
-pour les transactions soumises à cette procédure.
+et de la pêche maritime pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords
 interprofessionnels visés notamment aux articles L. 632-1 à L. 632-7 du code
-rural, les registres comportent pour les vins d'appellation d'origine, les
-références aux certificats d'agrément ou de labellisation, les numéros
-d'enregistrement des contrats d'achat et les numéros des déclarations de
-transactions soumis préalablement aux interprofessions tels que prévus dans les
-accords interprofessionnels étendus mentionnés aux articles précités.
+rural et de la pêche maritime, les registres comportent pour les vins
+d'appellation d'origine, les références aux certificats d'agrément ou de
+labellisation, les numéros d'enregistrement des contrats d'achat et les numéros
+des déclarations de transactions soumis préalablement aux interprofessions tels
+que prévus dans les accords interprofessionnels étendus mentionnés aux articles
+précités.
 
 Les registres comportent, le cas échéant, les références aux comptes d'âges ou
 de vieillissement prévus par les textes réglementaires en vigueur et les

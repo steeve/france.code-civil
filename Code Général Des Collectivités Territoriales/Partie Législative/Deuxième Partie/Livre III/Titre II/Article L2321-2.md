@@ -71,7 +71,7 @@ au cas d'exécution à la demande du conseil municipal ;
 20° Les dépenses d'entretien des voies communales ;
 
 21° Les dépenses d'entretien et de conservation en bon état d'ouvrages,
-mentionnées à l'article L. 151-40 du code rural ;
+mentionnées à l'article L. 151-40 du code rural et de la pêche maritime ;
 
 22° Les dépenses résultant de l'entretien des biens autres que ceux mentionnés
 au 20°, transférés à la commune par application de l'article L. 318-2 du code de

@@ -33,9 +33,10 @@ paysagère ou cynégétique particulière. Ces zones peuvent englober les zones
 humides dites "zones stratégiques pour la gestion de l'eau" prévues à l'article
 L. 212-5-1 ;
 
-b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural, un
-programme d'actions visant à restaurer, préserver, gérer et mettre en valeur de
-façon durable les zones définies au a du présent article ;
+b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural et de
+la pêche maritime, un programme d'actions visant à restaurer, préserver, gérer
+et mettre en valeur de façon durable les zones définies au a du présent article
+;
 
 5° Délimiter, le cas échéant après qu'elles ont été identifiées dans le plan
 d'aménagement et de gestion durable de la ressource en eau et des milieux

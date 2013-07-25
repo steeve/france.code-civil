@@ -18,4 +18,5 @@ marché national d'un pulvérisateur ou toute personne vendant un pulvérisateur
 inscrite au registre du commerce mentionné à l' article L. 123-1 du code de
 commerce ou au répertoire des métiers mentionné à l'article 23 du code de
 l'artisanat , à l'exception des prestataires de services mentionnés à l'article
-L. 254-2 du code rural et des coopératives d'utilisation du matériel agricole.
+L. 254-2 du code rural et de la pêche maritime et des coopératives d'utilisation
+du matériel agricole.

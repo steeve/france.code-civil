@@ -15,7 +15,8 @@ actes conclus entre indivisaires en application des articles 815-14, 815-15 et
 
 4° Sous réserve, dans tous les cas, que l'exploitation définitive ainsi
 constituée ait une surface inférieure à la superficie mentionnée au I, 1° de
-l'article L331-2 du code rural, les acquisitions réalisées :
+l'article L331-2 du code rural et de la pêche maritime, les acquisitions
+réalisées :
 
 a) Par les salariés agricoles, les aides familiaux et les associés
 d'exploitation, majeurs, sous réserve qu'ils satisfassent à des conditions
@@ -27,7 +28,8 @@ L. 415-10 et L. 415-11 relatifs au droit de reprise des propriétaires privés o
 des collectivités publiques, ainsi que par les agriculteurs à titre principal
 expropriés, sous réserve que l'exercice du droit de reprise ou l'expropriation
 ait eu pour l'exploitation de l'intéressé l'une des conséquences énoncées au I,
-2°, de l'article L331-2 du code rural, ou qu'elle l'ait supprimée totalement ;
+2°, de l'article L331-2 du code rural et de la pêche maritime, ou qu'elle l'ait
+supprimée totalement ;
 
 5° Les acquisitions de terrains destinées :
 

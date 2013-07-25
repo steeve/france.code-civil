@@ -30,7 +30,7 @@ arrêté préfectoral a constaté que le taux de boisement de la commune est
 inférieur à 10 %.
 
 5° Travaux d'hydraulique agricole mentionnés du 2° au 7° de l'article L. 151-36
-du code rural.
+du code rural et de la pêche maritime
 
 Travaux d'un montant au moins égal à 1 900 000 €, ce seuil étant abaissé à :
 
@@ -306,7 +306,7 @@ Travaux d'installation des ouvrages de production d'énergie éolienne dont la
 hauteur du mât dépasse 50 mètres
 
 35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code
-rural.
+rural et de la pêche maritime.
 
 Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25
 hectares.

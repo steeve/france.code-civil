@@ -1,8 +1,8 @@
 Article R152-30
 ----
 La personne morale de droit public mentionnée à l'article L. 151-36 du code
-rural qui sollicite l'institution de la servitude de passage adresse sa demande
-au préfet.
+rural et de la pêche maritime qui sollicite l'institution de la servitude de
+passage adresse sa demande au préfet.
 
 Sont joints à cette demande :
 

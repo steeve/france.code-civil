@@ -40,11 +40,11 @@ agricoles.
 La contribution due sur les revenus des personnes assujetties au régime de la
 sécurité sociale des non-salariés des professions agricoles ainsi que la
 contribution due sur les revenus des personnes redevables de la cotisation de
-solidarité visée à l'article L. 731-23 du code rural sont directement recouvrées
-et contrôlées par les caisses de mutualité sociale agricole, selon les règles et
-sous les garanties et sanctions applicables au recouvrement des cotisations
-d'assurance maladie, maternité et invalidité dues au régime de la sécurité
-sociale des non-salariés des professions agricoles.
+solidarité visée à l'article L. 731-23 du code rural et de la pêche maritime
+sont directement recouvrées et contrôlées par les caisses de mutualité sociale
+agricole, selon les règles et sous les garanties et sanctions applicables au
+recouvrement des cotisations d'assurance maladie, maternité et invalidité dues
+au régime de la sécurité sociale des non-salariés des professions agricoles.
 
 III. - La contribution due sur les pensions d'invalidité et sur les indemnités
 journalières ou allocations visées au 7° du II de l'article L. 136-2 est

@@ -5,9 +5,9 @@ civile par toute personne susceptible d'être assujettie. En particulier elle es
 souscrite :
 
 1° Pour la redevance mentionnée à l'article L. 213-10-8, par tout distributeur
-agréé en application de l'article L. 254-1 du code rural et faisant l'objet
-d'une immatriculation en qualité d'établissement principal au registre du
-commerce et des sociétés ;
+agréé en application de l'article L. 254-1 du code rural et de la pêche maritime
+et faisant l'objet d'une immatriculation en qualité d'établissement principal au
+registre du commerce et des sociétés ;
 
 2° Pour la redevance mentionnée à l'article L. 213-10-9, par l'organisme unique
 prévu au 6° du II de l'article L. 211-3 s'il est assujetti à celle-ci en
