@@ -32,10 +32,8 @@ modalités de l'indexation ;
 assurances et les sûretés réelles ou personnelles exigées, qui conditionnent la
 conclusion du prêt ;
 
-4° bis Sauf si le prêteur exerce, dans les conditions fixées par l'article L.
-312-9, son droit d'exiger l'adhésion à un contrat d'assurance collective qu'il a
-souscrit, mentionne que l'emprunteur peut souscrire auprès de l'assureur de son
-choix une assurance équivalente à celle proposée par le prêteur ;
+4° bis Mentionne que l'emprunteur peut souscrire auprès de l'assureur de son
+choix une assurance dans les conditions fixées à l'article L. 312-9 ;
 
 5° Fait état des conditions requises pour un transfert éventuel du prêt à une
 tierce personne ;

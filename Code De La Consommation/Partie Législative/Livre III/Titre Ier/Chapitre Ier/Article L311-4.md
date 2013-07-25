@@ -1,35 +1,38 @@
 Article L311-4
 ----
-Toute publicité faite, reçue ou perçue en France qui, quel que soit son support,
-porte sur l'une des opérations de crédit à la consommation visées à l'article L.
-311-2, est loyale et informative. A ce titre, elle doit :
+Toute publicité, quel qu'en soit le support, qui porte sur l'une des opérations
+visées à l'article L. 311-2 et indique un taux d'intérêt ou des informations
+chiffrées liées au coût du crédit mentionne de façon claire, précise et visible
+les informations suivantes à l'aide d'un exemple représentatif :
 
-1° Préciser l'identité du prêteur, la nature, l'objet et la durée de l'opération
-proposée ainsi que le coût total et, s'il y a lieu, le taux effectif global
-annuel du crédit, à l'exclusion de tout autre taux, ainsi que les perceptions
-forfaitaires ;
+1° Le taux débiteur et la nature fixe, variable ou révisable du taux, sauf pour
+les opérations de location-vente ou de location avec option d'achat, ainsi que
+les informations relatives à tous les frais compris dans le coût total du crédit
+pour l'emprunteur ;
 
-2° Préciser le montant, en euros, des remboursements par échéance ou, en cas
-d'impossibilité, le moyen de le déterminer. Ce montant inclut le coût de
-l'assurance lorsque celle-ci est obligatoire pour obtenir le financement et, le
-cas échéant, le coût des perceptions forfaitaires ;
+2° Le montant total du crédit ;
 
-3° Indiquer, pour les opérations à durée déterminée, le nombre d'échéances.
+3° Le taux annuel effectif global, sauf pour les opérations de location-vente ou
+de location avec option d'achat ;
 
-Dans toute publicité écrite, quel que soit le support utilisé, les informations
-relatives à la nature de l'opération, à sa durée, au taux effectif global, s'il
-y a lieu, et, s'il s'agit d'un taux promotionnel, à la période durant laquelle
-ce taux s'applique, au caractère "fixe ou révisable" du taux effectif global et
-au montant des remboursements par échéance doivent figurer dans une taille de
-caractères au moins aussi importante que celle utilisée pour indiquer toute
-autre information relative aux caractéristiques du financement et s'inscrire
-dans le corps principal du texte publicitaire.
+4° S'il y a lieu, la durée du contrat de crédit ;
 
-Il est interdit, dans toute publicité, quel que soit le support utilisé,
-d'indiquer qu'un prêt peut être octroyé sans élément d'information permettant
-d'apprécier la situation financière de l'emprunteur, ou de suggérer que le prêt
-entraîne une augmentation de ressources ou accorde une réserve automatique
-d'argent immédiatement disponible, sans contrepartie financière identifiable.
+5° S'il s'agit d'un crédit accordé sous la forme d'un délai de paiement pour un
+bien ou un service donné, le prix au comptant et le montant de tout acompte ;
 
-L'offre préalable de crédit doit être distincte de tout support ou document
-publicitaire. (1)
+6° Le montant total dû par l'emprunteur et le montant des échéances.
+
+Pour les crédits mentionnés à l'article L. 311-16, un décret précise le contenu
+et les modalités de présentation de l'exemple représentatif à l'aide duquel sont
+fournies les informations sur le coût du crédit.
+
+Si le prêteur exige qu'un service accessoire soit fourni pour l'obtention du
+crédit, notamment une assurance, la publicité mentionne de façon claire, précise
+et visible la nécessité de contracter ce service.
+
+Lorsqu'un prêteur propose habituellement des contrats de crédit assortis d'une
+proposition d'assurance facultative ayant pour objet la garantie de
+remboursement du crédit, toute publicité mentionnée au premier alinéa du présent
+article diffusée pour son compte sur ces contrats indique le coût de
+l'assurance, exprimé en euros et par mois, et précise si ce montant s'ajoute ou
+non à l'échéance de remboursement du crédit.
