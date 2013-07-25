@@ -1,12 +1,12 @@
 Article R321-32
 ----
-I.-Toute personne soumise au contrôle de l'Autorité de contrôle prudentiel en
-vertu du B du I de l'article L. 612-2 du code monétaire et financier, à
-l'exception des entreprises mentionnées au 1° du III de l'article L. 310-1-1 du
-présent code, et projetant d'ouvrir une succursale ou d'exercer des activités en
-libre prestation de services, conformément aux dispositions de l'article L.
-321-11, notifie son projet à l'Autorité de contrôle, accompagné des documents
-dont la liste est déterminée par le collège.
+I.-Toute personne soumise au contrôle de l'Autorité de contrôle prudentiel et de
+résolution en vertu du B du I de l'article L. 612-2 du code monétaire et
+financier, à l'exception des entreprises mentionnées au 1° du III de l'article
+L. 310-1-1 du présent code, et projetant d'ouvrir une succursale ou d'exercer
+des activités en libre prestation de services, conformément aux dispositions de
+l'article L. 321-11, notifie son projet à l'Autorité de contrôle, accompagné des
+documents dont la liste est déterminée par le collège.
 
 Si l'Autorité estime que les conditions mentionnées à l'article L. 321-11 sont
 réunies, elle communique aux autorités compétentes de cet Etat membre un dossier

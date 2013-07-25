@@ -5,9 +5,9 @@ l'unité de rente acquise normalement dans l'année du rachat.
 
 II.-Chaque année, les institutions et les unions pratiquant les opérations
 collectives relevant de l'article L. 932-24 communiquent à l'Autorité de
-contrôle prudentiel, pour chacun des règlements qu'elles mettent en oeuvre, la
-valeur de service et la valeur d'acquisition de l'unité de rente pour l'exercice
-à venir.
+contrôle prudentiel et de résolution, pour chacun des règlements qu'elles
+mettent en oeuvre, la valeur de service et la valeur d'acquisition de l'unité de
+rente pour l'exercice à venir.
 
 Elles communiquent également :
 

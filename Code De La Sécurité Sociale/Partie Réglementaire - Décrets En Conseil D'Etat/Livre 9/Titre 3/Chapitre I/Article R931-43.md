@@ -4,7 +4,8 @@ L'institution ou l'union est tenue de mettre en place un dispositif permanent de
 contrôle interne.
 
 Le conseil d'administration approuve, au moins annuellement, un rapport sur le
-contrôle interne, qui est transmis à l'Autorité de contrôle prudentiel.
+contrôle interne, qui est transmis à l'Autorité de contrôle prudentiel et de
+résolution.
 
 1° La première partie de ce rapport détaille les conditions de préparation et
 d'organisation des travaux du conseil d'administration et, le cas échéant, les
@@ -62,6 +63,6 @@ capitaux et de financement du terrorisme, pour les institutions mentionnées au
 
 Ces procédures et mesures sont mis en œuvre dans les conditions prévues par un
 arrêté du ministre chargé de la sécurité sociale ou, pour les institutions
-relevant du II de l' article L. 727-2 du code rural et de la pêche maritime par
+relevant du II de l'article L. 727-2 du code rural et de la pêche maritime par
 un arrêté du ministre chargé de l'agriculture. Les arrêtés sont pris après avis
 du ministre chargé de l'économie.

@@ -1,11 +1,11 @@
 Article L613-33-2
 ----
 Sous réserve de la surveillance exercée par les autorités compétentes
-mentionnées au 1° de l'article L. 522-12, l'Autorité de contrôle prudentiel est
-chargée de contrôler le respect, par les personnes mentionnées au II de
-l'article L. 522-13 des dispositions législatives et réglementaires qui leur
-sont applicables. Elle peut examiner les conditions d'exercice de leur activité
-de prestation de services de paiement et l'adéquation de leur situation
+mentionnées au 1° de l'article L. 522-12, l'Autorité de contrôle prudentiel et
+de résolution est chargée de contrôler le respect, par les personnes mentionnées
+au II de l'article L. 522-13 des dispositions législatives et réglementaires qui
+leur sont applicables. Elle peut examiner les conditions d'exercice de leur
+activité de prestation de services de paiement et l'adéquation de leur situation
 financière à cette activité.
 
 Elle exerce sur ces établissements les pouvoirs de contrôle et de sanction
@@ -16,9 +16,9 @@ française.
 
 Lorsqu'un établissement mentionné au II de l'article L. 522-13 fait l'objet d'un
 retrait d'agrément ou d'une mesure de liquidation, l'Autorité de contrôle
-prudentiel prend les mesures nécessaires pour l'empêcher de commencer de
-nouvelles opérations sur le territoire de la République française et pour
-assurer la protection des utilisateurs de services de paiement.
+prudentiel et de résolution prend les mesures nécessaires pour l'empêcher de
+commencer de nouvelles opérations sur le territoire de la République française
+et pour assurer la protection des utilisateurs de services de paiement.
 
 Un décret en Conseil d'Etat détermine les procédures que suit l'Autorité de
 contrôle prudentiel dans l'exercice des responsabilités et des pouvoirs qui lui

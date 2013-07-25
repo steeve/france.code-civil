@@ -1,7 +1,7 @@
 Article R612-10
 ----
-L'Autorité de contrôle prudentiel assure la publication par voie électronique
-des informations suivantes :
+L'Autorité de contrôle prudentiel et de résolution assure la publication par
+voie électronique des informations suivantes :
 
 1° Les orientations, méthodes et critères généraux qu'elle met en œuvre et
 applique pour les besoins de la surveillance prudentielle, notamment les
@@ -13,7 +13,7 @@ législation communautaire en matière prudentielle, notamment dans le cadre de 
 transposition des directives 2006 / 48 / CE et 2006 / 49 / CE du 14 juin 2006 ;
 
 3° Le texte des dispositions législatives et réglementaires dont l'Autorité de
-contrôle prudentiel fait application ;
+contrôle prudentiel et de résolution fait application ;
 
 4° Des données statistiques agrégées sur les principaux aspects de la mise en
 œuvre de la surveillance prudentielle.

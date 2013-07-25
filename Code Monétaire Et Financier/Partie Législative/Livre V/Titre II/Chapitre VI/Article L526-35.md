@@ -7,8 +7,9 @@ employée par un établissement de monnaie électronique est tenu au secret
 professionnel.
 
 Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé
-ni à l'Autorité de contrôle prudentiel, ni à la Banque de France, ni à
-l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
+ni à l'Autorité de contrôle prudentiel et de résolution, ni à la Banque de
+France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure
+pénale.
 
 Les établissements de monnaie électronique peuvent communiquer des informations
 couvertes par le secret professionnel aux personnes avec lesquelles ils

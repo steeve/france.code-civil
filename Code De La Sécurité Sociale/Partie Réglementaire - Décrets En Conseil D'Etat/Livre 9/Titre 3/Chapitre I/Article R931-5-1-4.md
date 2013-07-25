@@ -2,9 +2,9 @@ Article R931-5-1-4
 ----
 I. ― Après que lui a été communiqué le programme de rétablissement mentionné à
 l'article R. 931-5-1-2 ou à défaut de communication de celui-ci dans un délai
-d'un mois après la demande, l'Autorité de contrôle prudentiel peut limiter la
-réduction de marge de solvabilité prévue au a et au b du II de l'article R.
-931-10-11-1 lorsque :
+d'un mois après la demande, l'Autorité de contrôle prudentiel et de résolution
+peut limiter la réduction de marge de solvabilité prévue au a et au b du II de
+l'article R. 931-10-11-1 lorsque :
 
 1. Le contenu ou la qualité du programme de réassurance a subi des modifications
 sensibles depuis le dernier exercice ;
@@ -17,7 +17,7 @@ solvabilité ont connu une baisse d'au moins 33 % au cours du dernier exercice
 clos par rapport à la moyenne de ces éléments constitutifs de la marge constatée
 au cours des quatre exercices précédant le dernier exercice, et après que lui a
 été communiqué le programme de rétablissement mentionné au I de l'article R.
-931-5-1-2, l'Autorité de contrôle prudentiel peut :
+931-5-1-2, l'Autorité de contrôle prudentiel et de résolution peut :
 
 1. Soit demander à l'institution ou l'union de déduire des éléments constitutifs
 de la marge de solvabilité tout ou partie du montant de la moins-value latente

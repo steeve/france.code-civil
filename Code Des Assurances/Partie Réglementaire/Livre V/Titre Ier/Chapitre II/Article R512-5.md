@@ -29,11 +29,11 @@ le mois qui suit en cas de cessation soudaine de ce mandat.
 VI (Abrogé)
 
 VII.-L'organisme procède à la radiation du registre, sur demande de l'Autorité
-de contrôle prudentiel en application du 6° de l'article L. 612-41 du code
-monétaire et financier. Lorsque l'intermédiaire ne justifie plus du respect des
-obligations requises pour la ou les catégories au titre de laquelle ou
-desquelles il est inscrit, l'organisme procède à la suppression de l'inscription
-et, le cas échéant, à la radiation du registre.
+de contrôle prudentiel et de résolution en application du 6° de l'article L.
+612-41 du code monétaire et financier. Lorsque l'intermédiaire ne justifie plus
+du respect des obligations requises pour la ou les catégories au titre de
+laquelle ou desquelles il est inscrit, l'organisme procède à la suppression de
+l'inscription et, le cas échéant, à la radiation du registre.
 
 La radiation ou la suppression de l'inscription sont notifiées par l'organisme à
 l'intermédiaire concerné, par lettre recommandée avec avis de réception, dans le

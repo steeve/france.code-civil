@@ -193,7 +193,7 @@ Autres opérations individuelles d'assurance vie (y compris opérations
 collectives à adhésion facultative) à cotisations périodiques (sous-catégorie
 094).
 
-Opérations collectives en cas de décès (sous-catégories 085, 086, 095 et 096).
+Opérations collectives en cas de décès (sous-catégories 085,086,095 et 096).
 
 Opérations collectives en cas de vie (sous-catégories 088 et 098).
 
@@ -216,15 +216,15 @@ Rentes collectives en cas de vie en service (partie de la sous-catégorie 072)
 
 Opérations de rentes en unités de compte
 
-Rentes différées en cours de constitution (partie des sous-catégories 083, 087,
-093 et 097) (3).
+Rentes différées en cours de constitution (partie des sous-catégories
+083,087,093 et 097) (3).
 
-Rentes en service (partie des sous-catégories 083, 087, 093 et 097) (3).
+Rentes en service (partie des sous-catégories 083,087,093 et 097) (3).
 
 Les opérations en unités de compte sont converties en francs à la contrevaleur
 de l'unité de compte à la date d'inventaire et regroupées toutes unités de
-compte confondues.L'institution ou l'union détient le détail de chaque catégorie
-ou sous-catégorie par unité de compte.
+compte confondues. L'institution ou l'union détient le détail de chaque
+catégorie ou sous-catégorie par unité de compte.
 
 (1) L'addition des éléments relatifs aux rentes individuelles différées en cours
 de constitution et aux rentes individuelles en service est égale au total des
@@ -236,7 +236,7 @@ de constitution et aux rentes collectives en service est égale au total des
 
 (3) L'addition des éléments relatifs aux rentes différées en cours de
 constitution et aux rentes en service est égale au total des éléments relatifs
-aux sous-catégories 083, 087, 093 et 097.
+aux sous-catégories 083,087,093 et 097.
 
 
 ETAT C 21
@@ -255,10 +255,9 @@ A.-Le premier ensemble de lignes est ordonné en quarante-trois rubriques
 correspondant aux catégories, sous-catégories ou regroupements d'opérations
 définies à l'état C 4 :
 
-I.-Opérations directes en France : catégories ou sous-catégories 01, 02, 031,
-032, 041, 042, 051, 052, 061, 062, 071, 072, 081, 082, 083, 084, 085, 086, 087,
-088, 091, 092, 093, 094, 095, 096, 097, 098, 10, 201, 202, 211, 212, 213 puis
-214 ;
+I.-Opérations directes en France : catégories ou sous-catégories
+01,02,031,032,041,042,051,052,061,062,071,072,081,082,083,084,085,086,087,088,091,092,093,094,095,096,097,098,10,201,202,211,212,213
+puis 214 ;
 
 II.-Opérations en libre prestation de services par un établissement en France ;
 
@@ -281,7 +280,7 @@ distincte rattachée au règlement ou au contrat.
 Sous réserve de respecter la décomposition par régime de participation aux
 excédents, les institutions et les unions peuvent regrouper au sein de chaque
 rubrique les règlements ou contrats types dont les provisions techniques
-représentent moins de 0, 5 % du total des provisions techniques afférentes aux
+représentent moins de 0,5 % du total des provisions techniques afférentes aux
 opérations directes en France ;
 
 B.-Le deuxième ensemble de lignes retrace les provisions techniques communes à
@@ -342,7 +341,7 @@ COTISATIONS, SINISTRES ET COMMISSIONS DES OPERATIONS NON-VIE DANS L'ESPACE
 ECONOMIQUE EUROPEEN.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance
-agréées pour pratiquer les opérations visées au b et / ou au c de l'article L.
+agréées pour pratiquer les opérations visées au b et/ ou au c de l'article L.
 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a
 et au b établissent, selon le modèle fixé ci-après, un état des cotisations,
 sinistres et commissions relatifs à leurs opérations Non-vie effectuées dans
@@ -421,8 +420,8 @@ IX.-Pensions de sécurité sociale
 
 Total
 
-(1) Pour la définition de ces branches, voir l'annexe à la directive 79 / 267 /
-CEE du 5 mai 1979.
+(1) Pour la définition de ces branches, voir l'annexe à la directive 79/267/ CEE
+du 5 mai 1979.
 
 Etats spécifiques relatifs aux opérations à l'étranger
 
@@ -461,9 +460,9 @@ exclues des états C 10 et C 11.
 Les états modèles sont adaptés en tant que de besoin en remplaçant la mention "
 France " par l'indication du nom du pays, ou par la mention " LPS ".
 
-Sous réserve de l'accord de l'Autorité de contrôle prudentiel, l'institution ou
-l'union, dont l'activité le justifie, peut regrouper sous une même rubrique
-plusieurs ensembles d'opérations.
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel et de résolution,
+l'institution ou l'union, dont l'activité le justifie, peut regrouper sous une
+même rubrique plusieurs ensembles d'opérations.
 
 
 ETAT C 40
@@ -501,11 +500,11 @@ Total
 
 (1) Cotisations et prestations afférentes à l'exercice, brutes de réassurance.
 
-(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année » du
-tableau C de l'état C 10.
+(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année du tableau
+C de l'état C 10.
 
-(3) Prestations au sens de la ligne 4. Charges nettes de recours » du même
-tableau C.
+(3) Prestations au sens de la ligne 4. Charges nettes de recours du même tableau
+C.
 
 
 ETAT C 41
@@ -532,9 +531,9 @@ Total produits
 
 5. Allocations, attribution, et frais payés et à payer (4) :
 
-5 a.A caractère individuel
+5 a. A caractère individuel
 
-5 b.A caractère collectif
+5 b. A caractère collectif
 
 5 c. Autres allocations et attributions
 

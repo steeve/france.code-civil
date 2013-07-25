@@ -26,26 +26,27 @@ européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
 européen ou agréés dans un secteur financier autre que celui dans lequel
 l'acquisition est envisagée,
 
-L'Autorité de contrôle prudentiel consulte, de sa propre initiative ou à la
-demande de l'Autorité des marchés financiers, l'autorité compétente, au sens du
-4° du I de l'article L. 517-2, afin d'évaluer notamment la qualité des
-actionnaires ainsi que l'honorabilité et l'expérience des dirigeants associés à
-la gestion d'une autre entité du même groupe.
+L'Autorité de contrôle prudentiel et de résolution consulte, de sa propre
+initiative ou à la demande de l'Autorité des marchés financiers, l'autorité
+compétente, au sens du 4° du I de l'article L. 517-2, afin d'évaluer notamment
+la qualité des actionnaires ainsi que l'honorabilité et l'expérience des
+dirigeants associés à la gestion d'une autre entité du même groupe.
 
 II.-Dans les cas d'opérations d'acquisition directe ou indirecte de droits de
 vote ou de parts de capital ou d'extension de participation, l'Autorité de
-contrôle prudentiel consulte sans délai l'autorité compétente, au sens du 4° du
-I de l'article L. 517-2, dont relève le candidat acquéreur, en vue d'obtenir
-toute information essentielle ou pertinente pour procéder à l'évaluation prévue
-à l'article R. 532-8-1. La décision prise à ce titre par l'Autorité de contrôle
-prudentiel mentionne les avis ou réserves formulés, le cas échéant, par cette
-autorité compétente.
+contrôle prudentiel et de résolution consulte sans délai l'autorité compétente,
+au sens du 4° du I de l'article L. 517-2, dont relève le candidat acquéreur, en
+vue d'obtenir toute information essentielle ou pertinente pour procéder à
+l'évaluation prévue à l'article R. 532-8-1. La décision prise à ce titre par
+l'Autorité de contrôle prudentiel et de résolution mentionne les avis ou
+réserves formulés, le cas échéant, par cette autorité compétente.
 
 III.-Lorsque le requérant est une filiale directe ou indirecte d'une entreprise
 d'investissement ou d'un établissement de crédit ayant son siège dans un Etat
 qui n'est pas membre de la Communauté européenne ni partie à l'accord sur
-l'Espace économique européen, l'Autorité de contrôle prudentiel peut, de sa
-propre initiative ou à la demande de l'autorité chargée de l'approbation du
-programme d'activité, demander toute information complémentaire à l'autorité
-chargée de l'agrément de l'Etat dans lequel l'entreprise d'investissement ou
-l'établissement de crédit dont le requérant est la filiale a son siège social.
+l'Espace économique européen, l'Autorité de contrôle prudentiel et de résolution
+peut, de sa propre initiative ou à la demande de l'autorité chargée de
+l'approbation du programme d'activité, demander toute information complémentaire
+à l'autorité chargée de l'agrément de l'Etat dans lequel l'entreprise
+d'investissement ou l'établissement de crédit dont le requérant est la filiale a
+son siège social.

@@ -6,8 +6,9 @@ direction ou à la gestion d'une entreprise d'investissement ou qui est employé
 par celle-ci est tenu au secret professionnel.
 
 Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé
-ni à l'Autorité de contrôle prudentiel, ni à la Banque de France, ni à
-l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
+ni à l'Autorité de contrôle prudentiel et de résolution, ni à la Banque de
+France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure
+pénale.
 
 Les entreprises d'investissement peuvent par ailleurs communiquer des
 informations couvertes par le secret professionnel, d'une part, aux agences de

@@ -16,8 +16,8 @@ fonds ;
 être versée au fonds de garantie moyennant la constitution de garanties
 appropriées ;
 
-5. Le montant de la cotisation minimale de chacun des établissements de crédit
-adhérents au fonds de garantie ;
+5. Le montant de la cotisation minimale de chacun des établissements adhérant au
+fonds de garantie ;
 
 6. La formule de répartition de ces cotisations annuelles dont l'assiette est
 constituée du montant des dépôts et autres fonds remboursables, pondérée par les
@@ -31,4 +31,4 @@ solvabilité, reflétant les risques objectifs que l'adhérent fait courir au fo
 surveillance, ainsi que la durée de leur mandat.
 
 Cet arrêté ne peut être modifié qu'après avis du président du directoire du
-fonds de garantie des dépôts.
+fonds de garantie des dépôts et de résolution.

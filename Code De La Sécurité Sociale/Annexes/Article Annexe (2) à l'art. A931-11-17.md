@@ -165,8 +165,8 @@ comme prévu au bulletin d'adhésion, au règlement ou au contrat.
 (2) La colonne " Total " est la somme des 13 colonnes N-12 et antérieurs à N.
 
 Lorsque la faiblesse du montant des prestations périodiques servies le justifie,
-l'Autorité de contrôle prudentiel peut dispenser l'institution ou l'union de
-remplir le tableau C.
+l'Autorité de contrôle prudentiel et de résolution peut dispenser l'institution
+ou l'union de remplir le tableau C.
 
 
 ETAT C 10

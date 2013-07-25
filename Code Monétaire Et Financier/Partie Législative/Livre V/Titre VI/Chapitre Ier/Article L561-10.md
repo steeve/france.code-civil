@@ -19,7 +19,9 @@ ont exercées des membres directs de sa famille ou des personnes connues pour lu
 4° L'opération est une opération pour compte propre ou pour compte de tiers
 effectuée avec des personnes physiques ou morales, y compris leurs filiales ou
 établissements, domiciliées, enregistrées ou établies dans un Etat ou un
-territoire mentionné au VI de l'article L. 561-15.
+territoire figurant sur les listes publiées par le Groupe d'action financière
+parmi ceux dont la législation ou les pratiques font obstacle à la lutte contre
+le blanchiment des capitaux et le financement du terrorisme.
 
 Un décret en Conseil d'Etat précise les catégories de personnes mentionnées au
 2°, la liste des produits et des opérations mentionnées au 3°, ainsi que les

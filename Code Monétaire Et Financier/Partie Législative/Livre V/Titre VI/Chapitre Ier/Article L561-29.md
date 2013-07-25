@@ -9,8 +9,9 @@ l'application des dispositions de l'article 44 de la loi n° 78-17 du 6 janvier
 1978 mentionnée ci-dessus.
 
 II.-Toutefois, sous réserve qu'elles soient en relation avec les faits
-mentionnés au I de l'article L. 561-15, le service est autorisé à communiquer
-des informations qu'il détient à l'administration des douanes et aux services de
+mentionnés au I de l'article L. 561-15 et en lien avec les missions de ces
+services, le service est autorisé à communiquer des informations qu'il détient
+aux autorités judiciaires, à l'administration des douanes et aux services de
 police judiciaire.
 
 Il peut également transmettre aux services de renseignement spécialisés des

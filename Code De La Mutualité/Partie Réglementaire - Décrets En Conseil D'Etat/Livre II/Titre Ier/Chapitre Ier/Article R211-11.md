@@ -6,4 +6,5 @@ ou de l'article L. 211-7-2 dans le délai d'un an à compter de la publication d
 la décision d'agrément, ou lorsqu'une mutuelle ou une union ne souscrit, pendant
 une période de six mois, aucun engagement au sens de l'article L. 221-1 relevant
 d'une branche ou sous-branche pour laquelle elle est agréée, elle en fait la
-déclaration à l'Autorité de contrôle prudentiel dès que ces délais sont expirés.
+déclaration à l'Autorité de contrôle prudentiel et de résolution dès que ces
+délais sont expirés.

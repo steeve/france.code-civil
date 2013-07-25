@@ -8,8 +8,8 @@ gestion adoptée parmi celles qui sont énoncées à l'article L. 224-7.
 Lorsque la mutuelle ou l'union choisit de confier les remboursements de la
 branche de protection juridique à une mutuelle ou union juridiquement distincte,
 conformément aux dispositions du b de l'article L. 224-7, elle doit adresser
-copie des statuts de cette mutuelle ou union à l'Autorité de contrôle
-prudentiel.
+copie des statuts de cette mutuelle ou union à l'Autorité de contrôle prudentiel
+et de résolution.
 
 Si cette mutuelle ou union juridiquement distincte a des liens de la nature de
 ceux qui sont définis à l'article L. 612-26 du code monétaire et financier avec

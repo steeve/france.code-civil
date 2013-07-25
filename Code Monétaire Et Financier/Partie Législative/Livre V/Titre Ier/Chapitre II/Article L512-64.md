@@ -8,4 +8,4 @@ moyenne.
 
 Le président est élu par le conseil d'administration ; le président du
 directoire est élu par le conseil de surveillance. Leur nomination est soumise à
-l'agrément de l'Autorité de contrôle prudentiel.
+l'agrément de l'Autorité de contrôle prudentiel et de résolution.

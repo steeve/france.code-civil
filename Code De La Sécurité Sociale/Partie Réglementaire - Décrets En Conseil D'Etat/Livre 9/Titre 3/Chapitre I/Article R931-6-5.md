@@ -3,8 +3,8 @@ Article R931-6-5
 Une institution de prévoyance ou une union d'institutions de prévoyance dont
 tous les agréments ont cessé de plein droit d'être valables ou ont fait l'objet
 de décisions constatant leur caducité cesse d'être soumise au contrôle de
-l'Autorité de contrôle prudentiel dès lors que l'ensemble des engagements
-résultant des bulletins d'adhésion à des règlements ou contrats souscrits par
-l'institution ou l'union ont été intégralement et définitivement réglés aux
-membres participants et bénéficiaires ou ont fait l'objet d'un transfert
-autorisé dans les conditions prévues à l'article L. 931-16.
+l'Autorité de contrôle prudentiel et de résolution dès lors que l'ensemble des
+engagements résultant des bulletins d'adhésion à des règlements ou contrats
+souscrits par l'institution ou l'union ont été intégralement et définitivement
+réglés aux membres participants et bénéficiaires ou ont fait l'objet d'un
+transfert autorisé dans les conditions prévues à l'article L. 931-16.

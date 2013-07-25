@@ -1,7 +1,7 @@
 Article L931-6
 ----
-L'Autorité de contrôle prudentiel se prononce sur une demande d'agrément
-présentée par une institution ou union qui est soit :
+L'Autorité de contrôle prudentiel et de résolution se prononce sur une demande
+d'agrément présentée par une institution ou union qui est soit :
 
 a) Un organisme subordonné à un établissement de crédit agréé ou d'une
 entreprise d'investissement agréée dans un Etat membre ou dans un autre Etat

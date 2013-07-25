@@ -1,15 +1,17 @@
 Article R532-19
 ----
-I.-Lorsque l'Autorité de contrôle prudentiel ouvre une procédure disciplinaire à
-l'encontre d'un prestataire de services d'investissement d'un autre Etat membre
-de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen opérant sur le territoire de la République française, elle
-communique à l'autorité compétente de l'Etat membre d'origine de l'établissement
-en cause la lettre mentionnée à l'article R. 612-36.
+I.-Lorsque l'Autorité de contrôle prudentiel et de résolution ouvre une
+procédure disciplinaire à l'encontre d'un prestataire de services
+d'investissement d'un autre Etat membre de l'Union européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen opérant sur le territoire de
+la République française, elle communique à l'autorité compétente de l'Etat
+membre d'origine de l'établissement en cause la lettre mentionnée à l'article R.
+612-36.
 
-La Commission des sanctions de l'Autorité de contrôle prudentiel communique
-également à ladite autorité les observations en réponse éventuellement adressées
-par l'établissement et l'informe de la convocation prévue à l'article R. 612-39.
+La Commission des sanctions de l'Autorité de contrôle prudentiel et de
+résolution communique également à ladite autorité les observations en réponse
+éventuellement adressées par l'établissement et l'informe de la convocation
+prévue à l'article R. 612-39.
 
 Elle verse à la procédure toutes les informations fournies par cette autorité
 sur les mesures qu'elle peut avoir adoptées.
@@ -19,13 +21,14 @@ la communication à l'autorité de l'Etat membre d'origine et l'audition prévue
 l'article R. 612-39.
 
 Avant de suivre la procédure prévue aux alinéas précédents, l'Autorité de
-contrôle prudentiel peut prendre, en cas d'urgence, toute mesure conservatoire
-propre à assurer la protection des personnes auxquelles sont fournis en France
-des services d'investissement ou des services connexes.
+contrôle prudentiel et de résolution peut prendre, en cas d'urgence, toute
+mesure conservatoire propre à assurer la protection des personnes auxquelles
+sont fournis en France des services d'investissement ou des services connexes.
 
 En cas d'infraction à des dispositions d'intérêt général, l'Autorité de contrôle
-prudentiel peut, sans suivre la procédure prévue aux alinéas précédents,
-prononcer l'une des sanctions disciplinaires énumérées à l'article L. 612-39.
+prudentiel et de résolution peut, sans suivre la procédure prévue aux alinéas
+précédents, prononcer l'une des sanctions disciplinaires énumérées à l'article
+L. 612-39.
 
 II.-L'Autorité des marchés financiers peut sanctionner tous manquements aux
 règles dont elle est chargée d'assurer le respect, commis en France par un

@@ -1,8 +1,9 @@
 Article L223-10-2
 ----
 I. ― Les mutuelles et unions ayant pour objet la réalisation d'opérations
-d'assurance mentionnées au b du 1° du I de l'article L. 111-1 s'informent, dans
-les conditions prévues au II du présent article, du décès éventuel de l'assuré.
+d'assurance mentionnées au b du 1° du I de l'article L. 111-1 s'informent, au
+moins chaque année, dans les conditions prévues au II du présent article, du
+décès éventuel de l'assuré.
 
 II. ― Les organismes professionnels mentionnés à l'article L. 223-10-1 sont
 autorisés à consulter les données figurant au répertoire national

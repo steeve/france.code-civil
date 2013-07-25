@@ -1,18 +1,20 @@
 Article L613-20-2
 ----
 Afin de faciliter l'exercice du contrôle des groupes sur une base consolidée,
-l'Autorité de contrôle prudentiel institue des collèges de superviseurs
-regroupant les autorités compétentes des Etats membres de l'Union européenne ou
-d'autres Etats parties à l'accord sur l'Espace économique européen. L'Autorité
-de contrôle prudentiel préside les réunions de ces collèges. Elle assure une
-coordination appropriée avec les autorités compétentes des Etats non parties à
-l'accord sur l'Espace économique européen. Elle décide quelles sont les
-autorités compétentes qui participent à chaque réunion du collège.
+l'Autorité de contrôle prudentiel et de résolution institue des collèges de
+superviseurs regroupant les autorités compétentes des Etats membres de l'Union
+européenne ou d'autres Etats parties à l'accord sur l'Espace économique
+européen. L'Autorité de contrôle prudentiel et de résolution préside les
+réunions de ces collèges. Elle assure une coordination appropriée avec les
+autorités compétentes des Etats non parties à l'accord sur l'Espace économique
+européen. Elle décide quelles sont les autorités compétentes qui participent à
+chaque réunion du collège.
 
 La constitution et le fonctionnement des collèges sont fondés sur des accords
-écrits passés par l'Autorité de contrôle prudentiel avec les autorités
-compétentes concernées. Les collèges permettent à l'Autorité de contrôle
-prudentiel et aux autres autorités compétentes concernées :
+écrits passés par l'Autorité de contrôle prudentiel et de résolution avec les
+autorités compétentes concernées. Les collèges permettent à l'Autorité de
+contrôle prudentiel et de résolution et aux autres autorités compétentes
+concernées :
 
 - d'échanger des informations ;
 

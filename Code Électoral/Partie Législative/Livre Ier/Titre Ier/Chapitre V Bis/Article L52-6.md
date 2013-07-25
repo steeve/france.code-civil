@@ -32,8 +32,8 @@ prévues au présent article. Dans ce cas, l'existence de comptes successifs ne
 constitue pas une violation de l'obligation de disposer d'un compte bancaire ou
 postal unique prévue au deuxième alinéa. Les modalités de mise en œuvre de ce
 droit sont précisées par décret. Le contrôle du respect de ce droit est assuré
-par l'Autorité de contrôle prudentiel et relève de la procédure prévue à
-l'article L. 612-31 du code monétaire et financier.
+par l'Autorité de contrôle prudentiel et de résolution et relève de la procédure
+prévue à l'article L. 612-31 du code monétaire et financier.
 
 Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a
 désigné ou au compte de campagne du candidat tête de liste lorsque le candidat

@@ -12,4 +12,4 @@ Le président du tribunal ne peut être saisi d'une demande d'ouverture d'une
 procédure de conciliation instituée par l'article L. 611-4 du code de commerce
 ou d'une procédure de sauvegarde visée à l'article L. 620-1 du même code, à
 l'égard d'une mutuelle ou d'une union mentionnée à l'article L. 211-7, qu'après
-avis conforme de l'Autorité de contrôle prudentiel.
+avis conforme de l'Autorité de contrôle prudentiel et de résolution.

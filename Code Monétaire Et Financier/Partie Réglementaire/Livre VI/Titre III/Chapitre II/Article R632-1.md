@@ -1,9 +1,10 @@
 Article R632-1
 ----
-L'Autorité de contrôle prudentiel et l'Autorité des marchés financiers peuvent
-utiliser pour l'accomplissement de leurs missions, conformément aux dispositions
-de l'article L. 632-3, les informations couvertes par le secret professionnel
-qu'ils reçoivent, notamment dans les circonstances suivantes :
+L'Autorité de contrôle prudentiel et de résolution et l'Autorité des marchés
+financiers peuvent utiliser pour l'accomplissement de leurs missions,
+conformément aux dispositions de l'article L. 632-3, les informations couvertes
+par le secret professionnel qu'ils reçoivent, notamment dans les circonstances
+suivantes :
 
 1° Pour vérifier que les conditions d'accès à l'activité des prestataires de
 services d'investissement sont remplies et pour faciliter le contrôle, sur une

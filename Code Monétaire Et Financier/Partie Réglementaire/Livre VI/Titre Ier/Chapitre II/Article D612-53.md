@@ -1,14 +1,14 @@
 Article D612-53
 ----
 Toute personne mentionnée au premier alinéa de l'article L. 612-43 doit faire
-connaître à l'Autorité de contrôle prudentiel le nom du ou des commissaires aux
-comptes qu'elle se propose de nommer ou de renouveler. Lorsqu'elle informe
-l'autorité de son intention de désigner comme commissaire aux comptes une
-société de commissaires aux comptes, elle précise le nom du commissaire aux
-comptes personne physique associé, actionnaire ou dirigeant de ladite société,
-pressenti pour exercer la mission au nom de cette société, conformément aux
-dispositions prévues au quatrième alinéa de l'article L. 822-9 du code de
-commerce.
+connaître à l'Autorité de contrôle prudentiel et de résolution le nom du ou des
+commissaires aux comptes qu'elle se propose de nommer ou de renouveler.
+Lorsqu'elle informe l'autorité de son intention de désigner comme commissaire
+aux comptes une société de commissaires aux comptes, elle précise le nom du
+commissaire aux comptes personne physique associé, actionnaire ou dirigeant de
+ladite société, pressenti pour exercer la mission au nom de cette société,
+conformément aux dispositions prévues au quatrième alinéa de l'article L. 822-9
+du code de commerce.
 
 L'Autorité dispose d'un délai de deux mois, à compter de la réception de la
 demande d'avis, pour faire connaître son avis sur la proposition de désignation

@@ -66,6 +66,10 @@ mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas
 pris en compte pour l'application de la règle de renouvellement fixée à l'alinéa
 précédent.
 
+Le président de l'Autorité des marchés financiers désigne, après avis du
+collège, un membre du collège chargé d'assurer sa suppléance en cas de vacance
+ou d'empêchement.
+
 Selon des modalités définies par décret en Conseil d'Etat, le collège est
 renouvelé par moitié tous les trente mois. La durée du mandat est décomptée à
 partir de la date de la première réunion du collège.

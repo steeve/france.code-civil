@@ -12,13 +12,13 @@ Il peut également être financé par un emprunt répondant aux conditions,
 notamment de durée de remboursement, fixées par arrêté du ministre chargé de la
 mutualité.
 
-Le fonds d'établissement est de 381 100 Euros au moins lorsque celles-ci
+Le fonds d'établissement est de 381 100 euros au moins lorsque celles-ci
 pratiquent des opérations mentionnées au b ou des opérations relevant à la fois
 du a et du b du 1° du I de l'article L. 111-1 et de 228 600 Euros au moins
 lorsqu'elles pratiquent les opérations mentionnées aux a, c, d et e du 1° du I
 du même article. Il doit être intégralement versé en espèces préalablement au
 dépôt par la mutuelle ou l'union de la demande d'agrément auprès de l'Autorité
-de contrôle prudentiel.
+de contrôle prudentiel et de résolution.
 
 Par dérogation aux dispositions de l'alinéa précédent, le montant du fonds
 d'établissement des mutuelles mentionnées à l'article R. 212-14 et aux cinq

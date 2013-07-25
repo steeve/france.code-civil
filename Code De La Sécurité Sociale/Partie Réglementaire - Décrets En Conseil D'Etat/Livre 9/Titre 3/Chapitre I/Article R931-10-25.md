@@ -19,5 +19,5 @@ peut être représentée par une créance sur ce véhicule.
 Toutefois, si un véhicule de titrisation n'est plus en mesure de respecter à
 tout moment ses engagements, les créances sur ce véhicule de titrisation ne sont
 admises en représentation des engagements relatifs aux affaires cédées à ce
-véhicule que sur autorisation de l'Autorité de contrôle prudentiel et dans les
-limites fixées par celle-ci.
+véhicule que sur autorisation de l'Autorité de contrôle prudentiel et de
+résolution et dans les limites fixées par celle-ci.

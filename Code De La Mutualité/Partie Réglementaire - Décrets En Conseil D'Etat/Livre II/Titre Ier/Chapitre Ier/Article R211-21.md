@@ -7,12 +7,12 @@ union.
 
 La mutuelle ou l'union qui s'est substituée à un autre organisme est chargée,
 pour le compte et à la place de cet organisme, de faire à l'Autorité de contrôle
-prudentiel les différentes communications prescrites par le chapitre II du titre
-Ier du livre VI du code monétaire et financier, de tenir à son siège les livres
-de comptabilité, registres ou fichiers prévus par le présent code et de mettre à
-la disposition des contrôleurs mentionnés à l'article L. 612-23 du code
-monétaire et financier tous les documents nécessaires à l'accomplissement de
-leur mission.
+prudentiel et de résolution les différentes communications prescrites par le
+chapitre II du titre Ier du livre VI du code monétaire et financier, de tenir à
+son siège les livres de comptabilité, registres ou fichiers prévus par le
+présent code et de mettre à la disposition des contrôleurs mentionnés à
+l'article L. 612-23 du code monétaire et financier tous les documents
+nécessaires à l'accomplissement de leur mission.
 
 La convention prévoit que la mutuelle ou l'union qui s'est substituée à un
 organisme doit constituer et représenter, dans les conditions fixées par

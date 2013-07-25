@@ -1,11 +1,11 @@
 Article L310-12-2
 ----
-L'Autorité de contrôle prudentiel peut habiliter, sur leur demande, des
-prestataires chargés de labelliser les contrats ouverts à la souscription
-individuelle et les règlements éligibles à une participation des collectivités
-territoriales et de leurs établissements publics en application de l'article
-88-2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires
-relatives à la fonction publique territoriale.
+L'Autorité de contrôle prudentiel et de résolution peut habiliter, sur leur
+demande, des prestataires chargés de labelliser les contrats ouverts à la
+souscription individuelle et les règlements éligibles à une participation des
+collectivités territoriales et de leurs établissements publics en application de
+l'article 88-2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions
+statutaires relatives à la fonction publique territoriale.
 
 L'habilitation peut être retirée à la demande du prestataire ou si les
 conditions mises à son octroi ne sont plus satisfaites.

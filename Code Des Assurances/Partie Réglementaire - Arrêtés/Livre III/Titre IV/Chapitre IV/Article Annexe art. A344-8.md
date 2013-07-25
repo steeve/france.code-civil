@@ -1,8 +1,8 @@
 Article Annexe art. A344-8
 ----
 I.-Les renseignements généraux du compte rendu détaillé annuel à produire à
-l'Autorité de contrôle prudentiel par les entreprises ayant leur siège social en
-France sont les suivants :
+l'Autorité de contrôle prudentiel et de résolution par les entreprises ayant
+leur siège social en France sont les suivants :
 
 a) la raison sociale de l'entreprise, son adresse, la date de sa constitution,
 les modifications apportées aux statuts en cours de l'exercice et, si de telles
@@ -77,8 +77,9 @@ le mode de répartition de cette participation entre les assurés (quotité et
 délai), et le calcul des provisions mathématiques.
 
 II. Les renseignements généraux du compte rendu détaillé annuel à produire à
-l'Autorité de contrôle prudentiel par les succursales des entreprises étrangères
-visées au 3 o et au 4 o de l'article L. 310-2 sont les suivants :
+l'Autorité de contrôle prudentiel et de résolution par les succursales des
+entreprises étrangères visées au 3 o et au 4 o de l'article L. 310-2 sont les
+suivants :
 
 a) la raison sociale de l'entreprise, l'adresse de son siège social, la date de
 sa constitution, l'adresse de son siège spécial pour la France, et, s'il y a

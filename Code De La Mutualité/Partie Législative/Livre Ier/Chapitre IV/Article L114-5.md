@@ -17,8 +17,10 @@ dans les conditions prévues à l'article L. 114-16, la limite d'âge qui s'impo
 la durée de leur mandat, les conditions de vote et de présence, les conditions
 dans lesquelles certaines attributions peuvent leur être confiées, ainsi que les
 conditions dans lesquelles les postes d'administrateur devenus vacants par décès
-ou démission ou perte de qualité d'adhérent sont pourvus jusqu'à la prochaine
-assemblée générale ;
+ou démission ou perte de qualité d'adhérent ou par cessation de mandat à la
+suite d'une décision d'opposition prise par l'Autorité de contrôle prudentiel et
+de résolution en application de l'article L. 612-23-1 du code monétaire et
+financier sont pourvus jusqu'à la prochaine assemblée générale ;
 
 6° Les modalités de composition de l'assemblée générale, les conditions de vote
 ainsi que les modalités selon lesquelles les membres peuvent s'y faire

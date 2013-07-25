@@ -15,11 +15,12 @@ retrait d'agrément, à réaliser peuvent être menées à leur terme.
 Par dérogation aux 4° et 5° de l'article 1844-7 du code civil, la dissolution
 anticipée d'un établissement de monnaie électronique ne peut être prononcée
 qu'après décision de retrait de son agrément par l'Autorité de contrôle
-prudentiel. La publication et l'inscription modificative au registre du commerce
-et des sociétés concernant le prononcé de cette dissolution mentionnent la date
-de la décision de retrait d'agrément par l'Autorité de contrôle prudentiel.
-Jusqu'à la clôture de sa liquidation, l'établissement reste soumis au contrôle
-de l'Autorité de contrôle prudentiel, qui peut prononcer l'ensemble des
-sanctions disciplinaires prévues à l'article L. 612-39 du présent code. Il ne
-peut faire état de sa qualité d'établissement de monnaie électronique sans
-préciser qu'il est en liquidation.
+prudentiel et de résolution. La publication et l'inscription modificative au
+registre du commerce et des sociétés concernant le prononcé de cette dissolution
+mentionnent la date de la décision de retrait d'agrément par l'Autorité de
+contrôle prudentiel et de résolution. Jusqu'à la clôture de sa liquidation,
+l'établissement reste soumis au contrôle de l'Autorité de contrôle prudentiel et
+de résolution, qui peut prononcer l'ensemble des sanctions disciplinaires
+prévues à l'article L. 612-39 du présent code. Il ne peut faire état de sa
+qualité d'établissement de monnaie électronique sans préciser qu'il est en
+liquidation.

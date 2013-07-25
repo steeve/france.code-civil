@@ -29,8 +29,8 @@ représentant ;
 ― le directeur général de la concurrence, de la consommation et de la répression
 des fraudes ou son représentant ;
 
-― le secrétaire général de l'Autorité de contrôle prudentiel ou son représentant
-;
+― le secrétaire général de l'Autorité de contrôle prudentiel et de résolution ou
+son représentant ;
 
 ― le secrétaire général de l'Autorité des marchés financiers ou son représentant
 ;

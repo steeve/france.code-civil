@@ -13,6 +13,6 @@ brut, sans tenir compte des recours à exercer ; les recours à recevoir font
 l'objet d'une évaluation distincte.
 
 Par dérogation aux dispositions du deuxième alinéa du présent article,
-l'entreprise peut, avec l'accord de l'Autorité de contrôle prudentiel, utiliser
-des méthodes statistiques pour l'estimation des sinistres survenus au cours des
-deux derniers exercices.
+l'entreprise peut, avec l'accord de l'Autorité de contrôle prudentiel et de
+résolution, utiliser des méthodes statistiques pour l'estimation des sinistres
+survenus au cours des deux derniers exercices.

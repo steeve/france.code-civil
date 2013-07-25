@@ -9,7 +9,7 @@ agréé conformément aux dispositions des articles L. 321-7 et L. 321-9 est
 opposable aux assurés, souscripteurs, bénéficiaires de contrats et créanciers
 pour autant que les dispositions de la première phrase du deuxième alinéa de
 l'article L. 324-1 ont été respectées et que l'Autorité de contrôle prudentiel
-n'a pas fait opposition au transfert projeté.
+et de résolution n'a pas fait opposition au transfert projeté.
 
 Le transfert est opposable à partir du jour où la décision des autorités
 compétentes des Etats concernés l'autorisant a été rendue publique par un avis

@@ -16,10 +16,10 @@ contrat, verse en une seule fois à l'organisme cessionnaire le montant de la
 somme qui lui est due en précisant, le cas échéant, la part prise en charge par
 le système fédéral de garantie.
 
-A titre exceptionnel, l'Autorité de contrôle prudentiel peut, sur la demande du
-fonds de garantie, accorder au fonds et au système fédéral de garantie une
-prolongation, qui ne saurait excéder au total trois mois, des délais prévus aux
-alinéas précédents.
+A titre exceptionnel, l'Autorité de contrôle prudentiel et de résolution peut,
+sur la demande du fonds de garantie, accorder au fonds et au système fédéral de
+garantie une prolongation, qui ne saurait excéder au total trois mois, des
+délais prévus aux alinéas précédents.
 
 Les sommes dues par le fonds de garantie et, le cas échéant, par le système
 fédéral de garantie et non versées portent intérêt aux taux éventuellement

@@ -3,7 +3,7 @@ Article L411-1
 Les compétences du Comité consultatif du secteur financier sont fixées par
 l'article L. 614-1 du code monétaire et financier ci-après reproduit :
 
-" Art.L. 614-1.- Le Comité consultatif du secteur financier est chargé d'étudier
+" Art. L. 614-1.-Le Comité consultatif du secteur financier est chargé d'étudier
 les questions liées aux relations entre, d'une part, les établissements de
 crédit, les établissements de monnaie électronique, les établissements de
 paiement, les entreprises d'investissement et les entreprises d'assurance et,
@@ -12,10 +12,10 @@ appropriées dans ce domaine, notamment sous forme d'avis ou de recommandations
 d'ordre général.
 
 Le comité peut être saisi par le ministre chargé de l'économie, par l'Autorité
-de contrôle prudentiel, par les organisations représentant les clientèles et par
-les organisations professionnelles dont ses membres sont issus. Il peut
-également se saisir de sa propre initiative à la demande de la majorité de ses
-membres.
+de contrôle prudentiel et de résolution, par les organisations représentant les
+clientèles et par les organisations professionnelles dont ses membres sont
+issus. Il peut également se saisir de sa propre initiative à la demande de la
+majorité de ses membres.
 
 Le comité est composé en majorité, et en nombre égal, de représentants des
 établissements de crédit, des établissements de monnaie électronique, des

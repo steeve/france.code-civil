@@ -1,7 +1,7 @@
 Article L313-12-1
 ----
 Les établissements de crédit fournissent aux entreprises qui sollicitent un prêt
-ou bénéficient d'un prêt une explication sur les éléments ayant conduit aux
-décisions de notation les concernant, lorsqu'elles en font la demande. Ces
-explications ou éléments ne peuvent pas être demandés par un tiers, ni lui être
-communiqués.
+ou bénéficient d'un prêt leur notation et une explication sur les éléments ayant
+conduit aux décisions de notation les concernant, lorsqu'elles en font la
+demande. Ces explications ou éléments ne peuvent pas être demandés par un tiers,
+ni lui être communiqués.

@@ -72,6 +72,6 @@ modalités d'accès ;
 10° Le droit de s'opposer sans frais à l'utilisation des données personnelles à
 des fins de prospection ainsi que les modalités d'exercice de ce droit ;
 
-11° L'adresse de l'Autorité de contrôle prudentiel mentionnée à l'article L.
-612-1 et de l'autorité administrative chargée de la concurrence et de la
-consommation, au sens de l'article L. 141-1 du code de la consommation.
+11° L'adresse de l'Autorité de contrôle prudentiel et de résolution mentionnée à
+l'article L. 612-1 et de l'autorité administrative chargée de la concurrence et
+de la consommation, au sens de l'article L. 141-1 du code de la consommation.

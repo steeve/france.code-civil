@@ -3,7 +3,8 @@ Article L526-11
 Dans un délai fixé par voie réglementaire à compter de la réception de la
 demande ou, si la demande est incomplète, dans le même délai à compter de la
 réception de toutes les informations nécessaires aux fins de la décision,
-l'Autorité de contrôle prudentiel notifie sa décision au demandeur.
+l'Autorité de contrôle prudentiel et de résolution notifie sa décision au
+demandeur.
 
 Dans le cas où la décision concerne une entreprise qui exerçait jusque-là une
 activité au titre de l'article L. 525-5 ou du 1° de l'article L. 311-4, la

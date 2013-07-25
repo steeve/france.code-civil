@@ -1,7 +1,8 @@
 Article R931-5-6
 ----
 Lorsqu'elle décide de mettre en oeuvre l'une des mesures d'assainissement
-définies à l'article L. 931-18-1, l'Autorité de contrôle prudentiel :
+définies à l'article L. 931-18-1, l'Autorité de contrôle prudentiel et de
+résolution :
 
 1° En informe d'urgence les autorités compétentes des autres Etats membres de la
 Communauté européenne ou parties à l'accord sur l'Espace économique européen ;

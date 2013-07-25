@@ -2,13 +2,14 @@ Article R510-3-1
 ----
 I. ― Au vu du programme de rétablissement mentionné à l'article R. 510-3 ou à
 défaut de communication de ce programme dans le délai d'un mois après la
-demande, l'Autorité de contrôle prudentiel peut exiger d'une mutuelle ou union
-une marge de solvabilité renforcée, supérieure à l'exigence minimale de marge
-mentionnée, selon le cas, à l'article R. 212-12, à l'article R. 212-16 ou à
-l'article R. 212-19.
+demande, l'Autorité de contrôle prudentiel et de résolution peut exiger d'une
+mutuelle ou union une marge de solvabilité renforcée, supérieure à l'exigence
+minimale de marge mentionnée, selon le cas, à l'article R. 212-12, à l'article
+R. 212-16 ou à l'article R. 212-19.
 
-II. ― L'Autorité de contrôle prudentiel peut limiter la réduction de marge de
-solvabilité prévue aux articles R. 212-12, R. 212-16 ou R. 212-19 lorsque :
+II. ― L'Autorité de contrôle prudentiel et de résolution peut limiter la
+réduction de marge de solvabilité prévue aux articles R. 212-12, R. 212-16 ou R.
+212-19 lorsque :
 
 1. Le contenu ou la qualité du programme de réassurance a subi des modifications
 sensibles depuis le dernier exercice ;
@@ -22,7 +23,7 @@ baisse d'au moins 33 % au cours du dernier exercice clos par rapport à la
 moyenne de ces éléments constitutifs de la marge constatée au cours des quatre
 exercices précédant le dernier exercice, ou lorsqu'elle estime que les résultats
 du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un
-risque de solvabilité, l'Autorité de contrôle prudentiel peut :
+risque de solvabilité, l'Autorité de contrôle prudentiel et de résolution peut :
 
 1. Soit demander à la mutuelle ou l'union de déduire des éléments constitutifs
 de la marge de solvabilité tout ou partie du montant de la moins-value latente

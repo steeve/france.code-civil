@@ -5,12 +5,12 @@ des pertes probables.
 
 La fraction des encours de prêts non provisionnés qui n'est pas couverte par les
 garanties mentionnées à l'article R. 518-61 doit donner lieu à la constitution
-d'un fonds de réserve. L'Autorité de contrôle prudentiel détermine le taux
-applicable à cette fraction pour chaque association ou chaque fondation, selon
-des modalités fixées par arrêté du ministre chargé de l'économie. Cet arrêté
-prévoit notamment les conditions dans lesquelles est pris en compte, pour la
-fixation de ce taux, le taux de défaut observé en moyenne sur les crédits
-accordés par l'association dans le passé ou par la fondation.
+d'un fonds de réserve. L'Autorité de contrôle prudentiel et de résolution
+détermine le taux applicable à cette fraction pour chaque association ou chaque
+fondation, selon des modalités fixées par arrêté du ministre chargé de
+l'économie. Cet arrêté prévoit notamment les conditions dans lesquelles est pris
+en compte, pour la fixation de ce taux, le taux de défaut observé en moyenne sur
+les crédits accordés par l'association dans le passé ou par la fondation.
 
 A tout moment, le montant total des fonds propres et ressources assimilées doit
 être au moins égal au produit de la fraction des encours mentionnée à l'alinéa

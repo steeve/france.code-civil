@@ -5,5 +5,5 @@ de solvabilité globale exercée par l'autorité de contrôle d'un Etat membre d
 l'Espace économique européen autre que la France, fait l'objet de la part de
 cette autorité d'un retrait d'agrément motivé par l'insuffisance de la
 solvabilité globale mentionnée à l'article R. 334-23, l'Autorité de contrôle
-prudentiel procède au retrait de l'agrément administratif précédemment accordé à
-la succursale française de cette entreprise.
+prudentiel et de résolution procède au retrait de l'agrément administratif
+précédemment accordé à la succursale française de cette entreprise.

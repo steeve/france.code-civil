@@ -6,6 +6,6 @@ européenne ou d'un Etat partie à l'accord sur l'Espace économique européen a
 que la France et en fonction de l'agrément qu'il y a reçu, tout établissement de
 monnaie électronique peut, sur le territoire de la France métropolitaine, dans
 les départements d'outre-mer ou à Saint-Martin, intervenir en libre prestation
-de services, sous réserve que l'Autorité de contrôle prudentiel ait été informée
-par l'autorité compétente de l'Etat d'origine, dans des conditions fixées par
-arrêté du ministre chargé de l'économie.
+de services, sous réserve que l'Autorité de contrôle prudentiel et de résolution
+ait été informée par l'autorité compétente de l'Etat d'origine, dans des
+conditions fixées par arrêté du ministre chargé de l'économie.

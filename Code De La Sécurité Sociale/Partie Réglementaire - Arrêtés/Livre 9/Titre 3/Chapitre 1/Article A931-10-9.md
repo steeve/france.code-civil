@@ -22,7 +22,8 @@ annexe au présent article.
 Toutefois, il est possible pour une institution d'utiliser une loi de maintien
 établie par ses soins et certifiée par un actuaire indépendant de cette
 institution, agréé à cet effet par l'une des associations d'actuaires reconnues
-par l'Autorité de contrôle prudentiel du code de la sécurité sociale ;
+par l'Autorité de contrôle prudentiel et de résolution du code de la sécurité
+sociale ;
 
 2° Un taux d'actualisation qui ne peut excéder 75 % du taux moyen au cours des
 deux derniers exercices des emprunts de l'Etat français, sans pouvoir dépasser

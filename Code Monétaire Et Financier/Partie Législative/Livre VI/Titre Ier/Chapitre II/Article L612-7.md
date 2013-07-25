@@ -1,6 +1,6 @@
 Article L612-7
 ----
-Le collège constitue en son sein deux sous-collèges sectoriels :
+Le collège de supervision constitue en son sein deux sous-collèges sectoriels :
 
 1° Le sous-collège sectoriel de l'assurance est composé de huit membres : le
 vice-président, le gouverneur de la Banque de France ou le sous-gouverneur

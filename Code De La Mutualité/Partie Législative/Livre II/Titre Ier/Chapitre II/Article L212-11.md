@@ -30,22 +30,22 @@ se prononcer sur la demande de transfert dans les conditions de l'article L.
 
 La demande de transfert est portée à la connaissance des créanciers par un avis
 publié au Journal officiel de la République française, qui leur impartit un
-délai de deux mois pour présenter leurs observations.L'Autorité de contrôle
-prudentiel approuve le transfert s'il lui apparaît que le transfert ne
-préjudicie pas aux intérêts des créanciers, des adhérents, des membres
-participants, de leurs ayants droit et des bénéficiaires.
+délai de deux mois pour présenter leurs observations. L'Autorité de contrôle
+prudentiel et de résolution approuve le transfert s'il lui apparaît que le
+transfert ne préjudicie pas aux intérêts des créanciers, des adhérents, des
+membres participants, de leurs ayants droit et des bénéficiaires.
 
-L'Autorité de contrôle prudentiel n'approuve le transfert que si l'entreprise
-cessionnaire dispose, compte tenu du transfert, de la marge de solvabilité
-nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire est
-partie à l'accord sur l'Espace économique européen, cette approbation est prise
-après avis des autorités de contrôle de cet Etat.
+L'Autorité de contrôle prudentiel et de résolution n'approuve le transfert que
+si l'entreprise cessionnaire dispose, compte tenu du transfert, de la marge de
+solvabilité nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise
+cessionnaire est partie à l'accord sur l'Espace économique européen, cette
+approbation est prise après avis des autorités de contrôle de cet Etat.
 
 Lorsque les risques ou les engagements transférés sont situés dans un Etat
 membre de l'Union européenne ou partie à l'accord sur l'Espace économique
-européen autre que la France, l'Autorité de contrôle prudentiel recueille
-préalablement l'avis de l'autorité de contrôle de l'Etat du risque ou de
-l'engagement.
+européen autre que la France, l'Autorité de contrôle prudentiel et de résolution
+recueille préalablement l'avis de l'autorité de contrôle de l'Etat du risque ou
+de l'engagement.
 
 Pour les transferts de portefeuilles d'opérations relevant du b du 1° du I de
 l'article L. 111-1, cette approbation est en outre fondée sur les données de

@@ -2,9 +2,10 @@ Article R111-1
 ----
 L'agrément d'un système fédéral de garantie mentionné à l'article L. 111-6 est
 accordé, sur demande de l'union chargée de le gérer, par l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.
 
-Pour accorder l'agrément, l'Autorité de contrôle prudentiel s'assure :
+Pour accorder l'agrément, l'Autorité de contrôle prudentiel et de résolution
+s'assure :
 
 a) Que les moyens administratifs, notamment d'encadrement, et les moyens
 techniques et financiers sont compatibles avec les missions que l'union se

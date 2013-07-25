@@ -1,7 +1,8 @@
 Article R612-61
 ----
-L'Autorité de contrôle prudentiel peut consulter les fonds de garantie
-compétents lorsqu'elle envisage de prendre l'une des décisions suivantes :
+L'Autorité de contrôle prudentiel et de résolution peut consulter les fonds de
+garantie compétents lorsqu'elle envisage de prendre l'une des décisions
+suivantes :
 
 1° Retrait d'agrément, sauf lorsqu'il est prononcé à titre de sanction ;
 

@@ -1,9 +1,10 @@
 Article R931-2-1
 ----
 L'agrément administratif prévu à l'article L. 931-4 est accordé par l'Autorité
-de contrôle prudentiel. Pour l'octroi de l'agrément, les opérations réalisées
-par les institutions de prévoyance et les unions d'institutions de prévoyance
-sont classées en branches et sous-branches de la manière suivante :
+de contrôle prudentiel et de résolution. Pour l'octroi de l'agrément, les
+opérations réalisées par les institutions de prévoyance et les unions
+d'institutions de prévoyance sont classées en branches et sous-branches de la
+manière suivante :
 
 1. Accidents (y compris les accidents du travail et les maladies
 professionnelles) :

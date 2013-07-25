@@ -13,5 +13,5 @@ obligations prévues au premier alinéa ou ne prend pas les mesures de
 redressement demandées.
 
 Le système fédéral de garantie informe sans délai le fonds national de garantie
-et l'Autorité de contrôle prudentiel de toute intervention financière et de
-toute mesure d'exclusion qu'il décide.
+et l'Autorité de contrôle prudentiel et de résolution de toute intervention
+financière et de toute mesure d'exclusion qu'il décide.

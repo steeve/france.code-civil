@@ -4,9 +4,9 @@ Tout participant affilié à l'institution de prévoyance ou qui a adhéré à u
 règlement ou souscrit un contrat auprès de celle-ci a la faculté d'y renoncer
 par lettre recommandée avec demande d'avis de réception pendant un délai de
 trente jours calendaires révolus à compter du moment où il est informé que
-l'adhésion a pris effet. Ce délai expire le dernier jour à vingt-quatre
-heures.S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est
-pas prorogé.
+l'adhésion a pris effet. Ce délai expire le dernier jour à vingt-quatre heures.
+S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas
+prorogé.
 
 En cas de modification apportée à ses droits et obligations, un nouveau délai de
 trente jours court à compter de la remise au participant de la notice prévue au
@@ -22,13 +22,13 @@ dernier aux participants.
 
 Pour les opérations collectives facultatives comportant une valeur de rachat ou
 de transfert, un encadré est inséré en début de contrat ou de bulletin,
-indiquant en caractères très apparents la nature de ce contrat.L'encadré
+indiquant en caractères très apparents la nature de ce contrat. L'encadré
 comprend en particulier le regroupement des frais dans une même rubrique, les
 garanties offertes, la disponibilité des sommes en cas de rachat, la
 participation aux bénéfices, ainsi que les modalités de désignation du
 bénéficiaire. Un arrêté du ministre chargé de la sécurité sociale, pris après
-avis de l'Autorité de contrôle prudentiel, fixe le format de l'encadré ainsi
-que, de façon limitative, son contenu.
+avis de l'Autorité de contrôle prudentiel et de résolution, fixe le format de
+l'encadré ainsi que, de façon limitative, son contenu.
 
 Pour les opérations individuelles comportant une valeur de rachat ou de
 transfert, le bulletin d'adhésion vaut notice si l'encadré mentionné à l'alinéa

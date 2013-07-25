@@ -12,7 +12,7 @@ l'union d'institutions de prévoyance, des risques qu'elle assume et de ses
 résultats. Sans préjudice des obligations légales et réglementaires qui leur
 sont applicables, la production de ces informations par les institutions ou les
 unions n'est requise que pour autant qu'elles ont une importance
-significative.L'annexe comporte notamment les éléments prévus ci-après.A chaque
+significative.L'annexe comporte notamment les éléments prévus ci-après. A chaque
 fois que ceci est utile à la compréhension, et notamment lorsque l'annexe donne
 le détail d'un poste de bilan ou du compte de résultat, les chiffres
 correspondants relatifs à l'exercice précédent sont indiqués de manière à
@@ -90,8 +90,8 @@ l'annexe, l'état détaillé doit, dans les mêmes délais que les comptes annue
 comptes, qui en vérifient la sincérité et la concordance avec les comptes
 annuels dans les conditions définies au troisième alinéa de l'article L. 823-10
 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne
-qui en fait la demande et à l'Autorité de contrôle prudentiel dans les
-conditions définies à l'article R. 931-11-8.
+qui en fait la demande et à l'Autorité de contrôle prudentiel et de résolution
+dans les conditions définies à l'article R. 931-11-8.
 
 A.-L'état détaillé comporte :
 
@@ -142,12 +142,12 @@ sous-compte de la nomenclature des comptes (4 chiffres) présentés dans l'ordre
 du plan de comptes et comportant en clair l'intitulé du compte divisionnaire ou
 du sous-compte.
 
-Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise.A la
+Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise. A la
 fin de chaque sous-rubrique sont portés, sur des lignes distinctes, les éléments
 à déduire (part non libérée des titres, intérêts courus non échus), la
 totalisation des valeurs en devises et la contre-valeur en francs des
 totalisations au cours de change retenu pour l'établissement des comptes annuels
-(colonnes C, D, E, F, G).A la fin de chaque rubrique, figure une ligne de
+(colonnes C, D, E, F, G). A la fin de chaque rubrique, figure une ligne de
 totalisation des valeurs ou contre-valeurs en francs français (colonnes C, D, E,
 F, G). Aucun actif ne peut figurer dans plus d'un seul tableau. Chacun des
 tableaux comporte une ligne de totalisation générale des valeurs ou
@@ -274,9 +274,9 @@ notamment pour les titres dont l'acquisition a fait l'objet d'une opération en
 devise au sens de l'article A. 931-11-2, dans la devise de l'opération initiale.
 Pour chacun des titres non libérés, le montant non libéré doit figurer dans la
 colonne " Valeur inscrite au bilan (Valeur brute) " immédiatement au-dessous de
-la ligne du libellé de la valeur.A chaque sous-totalisation (voir ci-dessus), le
-total des parties non libérées des valeurs totalisées est retranché globalement
-de cette colonne.
+la ligne du libellé de la valeur. A chaque sous-totalisation (voir ci-dessus),
+le total des parties non libérées des valeurs totalisées est retranché
+globalement de cette colonne.
 
 (5) La colonne " Correction de valeur " inclut les amortissements et provisions
 pour dépréciation ainsi que les amortissements et reprises de différences sur

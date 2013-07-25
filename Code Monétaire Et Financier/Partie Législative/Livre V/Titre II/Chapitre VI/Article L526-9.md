@@ -1,8 +1,8 @@
 Article L526-9
 ----
 Pour délivrer l'agrément à un établissement de monnaie électronique, en
-application de l'article L. 526-8, l'Autorité de contrôle prudentiel vérifie si
-celui-ci :
+application de l'article L. 526-8, l'Autorité de contrôle prudentiel et de
+résolution vérifie si celui-ci :
 
 1° Est une personne morale ;
 

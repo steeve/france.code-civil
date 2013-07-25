@@ -39,7 +39,7 @@ ou 10 % des fonds propres du conglomérat financier. Une contrepartie est soit u
 organisme isolé, soit plusieurs organismes appartenant au même groupe au sens du
 1° de l'article R. 931-10-34. Le tableau fait apparaître le montant agrégé des
 risques de contrepartie pour le secteur de l'assurance d'une part, pour le
-secteur bancaire et des entreprises d'investissement d'autre part.A cette fin,
+secteur bancaire et des entreprises d'investissement d'autre part. A cette fin,
 il est considéré que la compagnie financière holding mixte appartient au secteur
 financier le plus important.
 
@@ -123,9 +123,9 @@ type lorsque le montant total de ces transactions excède le même seuil. Pour
 chaque type de transaction intragroupe soumise à cette obligation de déclaration
 est indiqué le montant total des transactions.
 
-II.- l'Autorité de contrôle prudentiel définit, après consultation des autres
-autorités compétentes concernées et du conglomérat financier, les seuils de
-déclaration appropriés.
+II.-l'Autorité de contrôle prudentiel et de résolution définit, après
+consultation des autres autorités compétentes concernées et du conglomérat
+financier, les seuils de déclaration appropriés.
 
 Après consultation des autres autorités compétentes concernées définies au 10°
 de l'article L. 933-2 et du conglomérat financier, elle détermine les autres

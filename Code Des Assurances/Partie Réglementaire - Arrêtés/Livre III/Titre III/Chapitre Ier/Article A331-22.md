@@ -22,11 +22,11 @@ annexe.
 Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi
 de maintien établie par ses soins et certifiée par un actuaire indépendant de
 cette entreprise, agréé à cet effet par l'une des associations d'actuaires
-reconnues par l'Autorité de contrôle prudentiel ;
+reconnues par l'Autorité de contrôle prudentiel et de résolution ;
 
-2° Un taux d'actualisation qui ne peut excéder 75 p. 100 du taux moyen au cours
-des vingt-quatre derniers mois des emprunts de l'Etat français, sans pouvoir
-dépasser 4,5 p. 100.
+2° Un taux d'actualisation qui ne peut excéder 75% du taux moyen au cours des
+vingt-quatre derniers mois des emprunts de l'Etat français, sans pouvoir
+dépasser 4,5%.
 
 Ces dispositions ne s'appliquent pas aux prestations issues de contrats
 d'assurance de groupe souscrits par un établissement de crédit, ayant pour objet

@@ -9,10 +9,16 @@ et actifs mentionnés au II de l'article L. 421-1 admis aux négociations sur un
 marché réglementé ou sur un système multilatéral de négociation qui se soumet
 aux dispositions législatives ou réglementaires visant à protéger les
 investisseurs contre les opérations d'initiés, les manipulations de cours et la
-diffusion de fausses informations. Ne sont pas soumis au contrôle de l'Autorité
-des marchés financiers les marchés d'instruments créés en représentation des
-opérations de banque qui, en application de l'article L. 214-20, ne peuvent pas
-être détenus par des organismes de placement collectif en valeurs mobilières.
+diffusion de fausses informations. Elle veille également à la régularité des
+opérations effectuées sur des contrats commerciaux relatifs à des marchandises
+liés à un ou plusieurs instruments financiers. Ne sont pas soumis au contrôle de
+l'Autorité des marchés financiers les marchés d'instruments créés en
+représentation des opérations de banque qui, en application de l'article L.
+214-20, ne peuvent pas être détenus par des OPCVM. Sont soumis au contrôle de
+l'Autorité des marchés financiers les instruments financiers négociés sur un
+système multilatéral de négociation, admis à la négociation sur un tel marché ou
+pour lesquels une demande d'admission à la négociation sur un tel marché a été
+présentée.
 
 II.-L'Autorité des marchés financiers veille également au respect des
 obligations professionnelles auxquelles sont astreintes, en vertu des
@@ -37,15 +43,19 @@ d'investissement ;
 
 6° Les chambres de compensation d'instruments financiers ;
 
-7° Les organismes de placements collectifs et les sociétés de gestion
-mentionnées à l'article L. 543-1 ;
+7° Les placements collectifs mentionnés au I de l'article L. 214-1 et les
+sociétés de gestion mentionnées à l'article L. 543-1 ;
 
 7° bis Les sociétés de gestion établies dans un autre Etat membre de l'Union
 européenne ou partie à l'accord sur l'Espace économique européen ayant une
 succursale ou fournissant des services en France, qui gèrent un ou plusieurs
-organismes de placement collectif en valeurs mobilières de droit français agréés
-conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
-13 juillet 2009 ;
+OPCVM de droit français agréés conformément à la directive 2009/65/ CE du
+Parlement européen et du Conseil du 13 juillet 2009 ;
+
+7° ter Les sociétés de gestion établies dans un autre Etat membre de l'Union
+européenne ou les gestionnaires établis dans un pays tiers ayant une succursale
+ou fournissant des services en France, qui gèrent un ou plusieurs FIA au sens de
+la directive 2011/61/ UE du Parlement européen et du Conseil du 8 juin 2011 ;
 
 8° Les intermédiaires en biens divers ;
 
@@ -57,9 +67,10 @@ conformément à la directive 2009/65/ CE du Parlement européen et du Conseil d
 11° Les personnes, autres que celles mentionnées aux 1° et 7°, produisant et
 diffusant des analyses financières ;
 
-12° Les dépositaires d'organismes de placement collectif ;
+12° Les dépositaires de placements collectifs mentionnés au I de l'article L.
+214-1 ;
 
-13° Les évaluateurs immobiliers ;
+13° Les experts externes en évaluation mentionnés à l'article L. 214-24-15 ;
 
 14° Les personnes morales administrant des institutions de retraite
 professionnelle collectives mentionnées au I de l'article 8 de l'ordonnance n°
@@ -74,13 +85,18 @@ du travail ;
 17° Les associations professionnelles de conseillers en investissements
 financiers agréées mentionnées à l'article L. 541-4.
 
+L'Autorité des marchés financiers veille au respect par ces mêmes entités ou
+personnes, ainsi que par les personnes physiques placées sous leur autorité ou
+agissant pour leur compte, des dispositions des règlements européens
+applicables.
+
 Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités
 mentionnées aux 7°, 7° bis, 8°, 10° et 11° du présent II ci-dessus, pour
 lesquelles l'Autorité des marchés financiers est seule compétente, le contrôle
-s'exerce sous réserve des compétences de l'Autorité de contrôle prudentiel et,
-pour celles mentionnées aux 3° et 6°, sans préjudice des compétences conférées à
-la Banque de France par l'article L. 141-4.
+s'exerce sous réserve des compétences de l'Autorité de contrôle prudentiel et de
+résolution et, pour celles mentionnées aux 3° et 6°, sans préjudice des
+compétences conférées à la Banque de France par l'article L. 141-4.
 
 L'Autorité des marchés financiers est également chargée d'assurer le respect,
 par les prestataires de services d'investissement mentionnés à l'article L.

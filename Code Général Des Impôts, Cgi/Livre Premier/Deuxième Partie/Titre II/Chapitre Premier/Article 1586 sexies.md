@@ -73,9 +73,7 @@ plus de six mois, les loyers sont retenus à concurrence du produit de cette
 sous-location ;
 
 -les taxes sur le chiffre d'affaires et assimilées, les contributions
-indirectes, la taxe intérieure de consommation sur les produits énergétiques
-[Dispositions déclarées non conformes à la Constitution par la décision du
-Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] ;
+indirectes, la taxe intérieure de consommation sur les produits énergétiques ;
 
 -les autres charges de gestion courante, autres que les quotes-parts de résultat
 sur opérations faites en commun ;
@@ -124,8 +122,8 @@ en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en 2014,60 % en 2015,70 % en
 2016,80 % en 2017 et 90 % en 2018.
 
 III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par
-l'Autorité de contrôle prudentiel, les entreprises mentionnées à l'article L.
-531-4 du code monétaire et financier :
+l'Autorité de contrôle prudentiel et de résolution, les entreprises mentionnées
+à l'article L. 531-4 du code monétaire et financier :
 
 1. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation
 bancaires et des produits divers d'exploitation autres que les produits suivants
@@ -307,9 +305,7 @@ mois, les loyers sont retenus à concurrence du produit de cette sous-location ;
 
 -les impôts, taxes et versements assimilés, à l'exception des taxes sur le
 chiffre d'affaires et assimilées, des contributions indirectes, de la taxe
-intérieure de consommation sur les produits énergétiques [Dispositions déclarées
-non conformes à la Constitution par la décision du Conseil constitutionnel n°
-2009-599 DC du 29 décembre 2009] ;
+intérieure de consommation sur les produits énergétiques ;
 
 -les quotes-parts de résultat sur opérations faites en commun ;
 

@@ -18,7 +18,7 @@ participations ;
 crédit ou leurs agents, en particulier dans leurs relations avec la clientèle,
 ainsi que les conditions de la concurrence ;
 
-5.L'organisation des services communs ;
+5. L'organisation des services communs ;
 
 6. Les normes de gestion que les établissements de crédit doivent respecter en
 vue notamment de garantir leur liquidité, leur solvabilité et l'équilibre de
@@ -37,4 +37,12 @@ traité instituant la Communauté européenne ;
 
 10. Les règles applicables à l'organisation comptable, aux mécanismes de
 contrôle et de sécurité dans le domaine informatique ainsi que les procédures de
-contrôle interne.
+contrôle interne ;
+
+11. Les conditions dans lesquelles les établissements de crédit peuvent établir
+des succursales dans des Etats qui ne sont pas parties à l'accord sur l'Espace
+économique européen ;
+
+12. Les conditions dans lesquelles les établissements de crédit peuvent acquérir
+tout ou partie d'une branche d'activité significative sans qu'il soit porté
+préjudice à la gestion saine et prudente de ces établissements.

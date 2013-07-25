@@ -21,9 +21,9 @@ qui lui sont applicables ;
 l'union garantie au sens de l'annexe à l'article A 931-11-9, troisième alinéa.
 
 III.-La dérogation prévue au troisième alinéa de l'article R. 931-10-38 ne peut
-être accordée par l'Autorité de contrôle prudentiel que dans la mesure où elle
-ne diminue pas la qualité de la représentation des engagements réglementées, et
-dans les limites suivantes :
+être accordée par l'Autorité de contrôle prudentiel et de résolution que dans la
+mesure où elle ne diminue pas la qualité de la représentation des engagements
+réglementées, et dans les limites suivantes :
 
 -la durée, fixée initialement par l'Autorité de contrôle, ne peut excéder un
 exercice, éventuellement renouvelable dans les conditions définies par celle-ci
@@ -41,5 +41,5 @@ l'article R. 931-10-12 ;
 techniques.
 
 IV.-La dérogation peut être supprimée à tout moment par l'Autorité de contrôle
-prudentiel si celle-ci estime que les conditions l'ayant justifiée ne sont plus
-remplies.
+prudentiel et de résolution si celle-ci estime que les conditions l'ayant
+justifiée ne sont plus remplies.

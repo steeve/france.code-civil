@@ -7,8 +7,11 @@ mentionné au 5 de l'article L. 511-6 ou qui est employée par l'un de ceux-ci e
 tenu au secret professionnel.
 
 Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé
-ni à l'Autorité de contrôle prudentiel ni à la Banque de France ni à l'autorité
-judiciaire agissant dans le cadre d'une procédure pénale.
+ni à l'Autorité de contrôle prudentiel et de résolution ni à la Banque de France
+ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale, ni aux
+commissions d'enquête créées en application de l'article 6 de l'ordonnance n°
+58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées
+parlementaires.
 
 Les établissements de crédit peuvent par ailleurs communiquer des informations
 couvertes par le secret professionnel, d'une part, aux agences de notation pour

@@ -6,6 +6,7 @@ la loi n° 68-678 du 26 juillet 1968, les autorités compétentes dont relève c
 établissement peuvent exiger de lui et de ses succursales établies en France
 communication de toutes informations utiles à l'exercice de cette surveillance
 et, sous la seule réserve d'en avoir informé préalablement l'Autorité de
-contrôle prudentiel, procéder, par elles-mêmes ou par l'intermédiaire de
-personnes qu'elles mandatent à cet effet, à des contrôles sur place des
-succursales de cet établissement sur le territoire de la République française.
+contrôle prudentiel et de résolution, procéder, par elles-mêmes ou par
+l'intermédiaire de personnes qu'elles mandatent à cet effet, à des contrôles sur
+place des succursales de cet établissement sur le territoire de la République
+française.

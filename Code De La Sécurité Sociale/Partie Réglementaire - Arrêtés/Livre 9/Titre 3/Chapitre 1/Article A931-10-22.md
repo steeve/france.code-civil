@@ -11,7 +11,7 @@ connaissance des actes et documents se rapportant aux immeubles expertisés.
 
 III.-Le ou les experts adressent à l'institution, avec leur rapport, l'état de
 leurs vacations, frais et honoraires et en remettent une copie à l'Autorité de
-contrôle prudentiel. Lorsqu'elle envisage de contester le montant demandé par un
-des experts, l'institution de prévoyance ou l'union le notifie à l'Autorité de
-contrôle dans un délai de quinze jours à compter de la réception de l'état des
-vacations.
+contrôle prudentiel et de résolution. Lorsqu'elle envisage de contester le
+montant demandé par un des experts, l'institution de prévoyance ou l'union le
+notifie à l'Autorité de contrôle dans un délai de quinze jours à compter de la
+réception de l'état des vacations.

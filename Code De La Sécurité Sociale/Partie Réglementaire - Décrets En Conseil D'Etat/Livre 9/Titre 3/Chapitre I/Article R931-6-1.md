@@ -8,9 +8,10 @@ l'exception des institutions attachées à une entreprise, une institution ou un
 union ne souscrit, pendant deux exercices consécutifs, aucun bulletin d'adhésion
 à un règlement ou aucun contrat relevant d'une branche ou sous-branche pour
 laquelle elle est agréée, elle en fait immédiatement la déclaration à l'Autorité
-de contrôle prudentiel et l'agrément administratif cesse de plein droit d'être
-valable pour la souscription de nouveaux bulletins d'adhésion à des règlements
-ou de contrats relevant de la branche ou sous-branche considérée.
+de contrôle prudentiel et de résolution et l'agrément administratif cesse de
+plein droit d'être valable pour la souscription de nouveaux bulletins d'adhésion
+à des règlements ou de contrats relevant de la branche ou sous-branche
+considérée.
 
 Sans délai, l'Autorité de contrôle assure, dans les deux cas mentionnés à
 l'alinéa précédent, la publication au Journal officiel d'un avis constatant que

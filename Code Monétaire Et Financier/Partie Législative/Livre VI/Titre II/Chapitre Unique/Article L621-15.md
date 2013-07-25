@@ -2,7 +2,7 @@ Article L621-15
 ----
 I.-Le collège examine le rapport d'enquête ou de contrôle établi par les
 services de l'Autorité des marchés financiers, ou la demande formulée par le
-président de l'Autorité de contrôle prudentiel.
+président de l'Autorité de contrôle prudentiel et de résolution.
 
 S'il décide l'ouverture d'une procédure de sanction, il notifie les griefs aux
 personnes concernées. Il transmet la notification des griefs à la commission des
@@ -11,12 +11,10 @@ sanctions ne peut être saisie de faits remontant à plus de trois ans s'il n'a
 été fait pendant ce délai aucun acte tendant à leur recherche, à leur
 constatation ou à leur sanction.
 
-Un membre du collège, ayant examiné le rapport d'enquête ou de contrôle et pris
-part à la décision d'ouverture d'une procédure de sanction, est convoqué à
-l'audience. Il y assiste sans voix délibérative. Il peut être assisté ou
-représenté par les services de l'Autorité des marchés financiers. Il peut
-présenter des observations au soutien des griefs notifiés et proposer une
-sanction.
+Un membre du collège est convoqué à l'audience. Il y assiste sans voix
+délibérative. Il peut être assisté ou représenté par les services de l'Autorité
+des marchés financiers. Il peut présenter des observations au soutien des griefs
+notifiés et proposer une sanction.
 
 La commission des sanctions peut entendre tout agent des services de l'autorité.
 
@@ -31,22 +29,22 @@ prononcer une sanction à l'encontre des personnes suivantes :
 
 a) Les personnes mentionnées aux 1° à 8° et 11° à 17° du II de l'article L.
 621-9, au titre de tout manquement à leurs obligations professionnelles définies
-par les lois, règlements et règles professionnelles approuvées par l'Autorité
-des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
-612-39 ;
+par les règlements européens, les lois, règlements et règles professionnelles
+approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
+dispositions de l'article L. 612-39 ;
 
 b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de
 l'une des personnes mentionnées aux 1° à 8° et 11° à 17° du II de l'article L.
 621-9 au titre de tout manquement à leurs obligations professionnelles définies
-par les lois, règlements et règles professionnelles approuvées par l'Autorité
-des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
-612-39 ;
+par les règlements européens, les lois, règlements et règles professionnelles
+approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
+dispositions de l'article L. 612-39 ;
 
 c) Toute personne qui, sur le territoire français ou à l'étranger, s'est livrée
-ou a tenté de se livrer à une opération d'initié ou s'est livrée à une
-manipulation de cours, à la diffusion d'une fausse information ou à tout autre
-manquement mentionné au premier alinéa du I de l'article L. 621-14, dès lors que
-ces actes concernent :
+ou a tenté de se livrer à une opération d'initié, à une manipulation de cours, à
+la diffusion d'une fausse information ou s'est livrée à tout autre manquement
+mentionné au premier alinéa du I de l'article L. 621-14, dès lors que ces actes
+concernent :
 
 -un instrument financier ou un actif mentionné au II de l'article L. 421-1 admis
 aux négociations sur un marché réglementé ou sur un système multilatéral de
@@ -60,9 +58,19 @@ financiers ;
 -un instrument financier lié à un ou plusieurs instruments mentionnés à l'alinéa
 précédent ;
 
+-un contrat commercial relatif à des marchandises et lié à un ou plusieurs
+instruments mentionnés aux alinéas précédents, dans les conditions déterminées
+par le règlement général de l'Autorité des marchés financiers ;
+
+-un instrument financier négocié sur un système multilatéral de négociation,
+admis à la négociation sur un tel marché ou pour lequel une demande d'admission
+à la négociation sur un tel marché a été présentée ;
+
+-un indice tel que défini à l'article L. 465-2-1 ;
+
 d) Toute personne qui, sur le territoire français, s'est livrée ou a tenté de se
-livrer à une opération d'initié ou s'est livrée à une manipulation de cours, à
-la diffusion d'une fausse information ou à tout autre manquement mentionné au
+livrer à une opération d'initié, à une manipulation de cours, à la diffusion
+d'une fausse information ou s'est livrée à tout autre manquement mentionné au
 dernier alinéa du I de l'article L. 621-14, dès lors que ces actes concernent :
 
 -un instrument financier ou un actif mentionné au II de l'article L. 421-1 admis
@@ -73,13 +81,35 @@ une demande d'admission aux négociations sur un tel marché a été présentée
 -un instrument financier lié à un ou plusieurs instruments mentionnés à l'alinéa
 précédent ;
 
+-un contrat commercial relatif à des marchandises et lié à un ou plusieurs
+instruments mentionnés aux alinéas précédents, dans les conditions déterminées
+par le règlement général de l'Autorité des marchés financiers ;
+
+-un instrument financier négocié sur un système multilatéral de négociation,
+admis à la négociation sur un tel marché ou pour lequel une demande d'admission
+à la négociation sur un tel marché a été présentée ;
+
+-un indice tel que défini à l'article L. 465-2-1 ;
+
 e) Toute personne qui, sur le territoire français ou étranger, s'est livrée ou a
 tenté de se livrer à la diffusion d'une fausse information lors d'une opération
-d'offre au public de titres financiers.
+d'offre au public de titres financiers ;
+
+f) Toute personne qui, dans le cadre d'une enquête effectuée en application du I
+de l'article L. 621-9, sur demande des enquêteurs et sous réserve de la
+préservation d'un secret légalement protégé et opposable à l'Autorité des
+marchés financiers, refuse de donner accès à un document, quel qu'en soit le
+support, et d'en fournir une copie, refuse de communiquer des informations ou de
+répondre à une convocation, ou refuse de donner accès à des locaux
+professionnels ;
+
+g) Toute autre personne au titre de manquements aux obligations résultant des
+règlements européens entrant dans le champ de compétence de l'Autorité des
+marchés financiers.
 
 III.-Les sanctions applicables sont :
 
-a) Pour les personnes mentionnées aux 1° à 8°,11°,12°,15° à 17° du II de
+a) Pour les personnes mentionnées aux 1° à 8°, 11°, 12°, 15° à 17° du II de
 l'article L. 621-9, l'avertissement, le blâme, l'interdiction à titre temporaire
 ou définitif de l'exercice de tout ou partie des services fournis, la radiation
 du registre mentionné à l'article L. 546-1 ; la commission des sanctions peut
@@ -90,20 +120,20 @@ de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Tr�
 public ;
 
 b) Pour les personnes physiques placées sous l'autorité ou agissant pour le
-compte de l'une des personnes mentionnées aux 1° à 8°,11°,12°,15° à 17° du II de
-l'article L. 621-9, l'avertissement, le blâme, le retrait temporaire ou
+compte de l'une des personnes mentionnées aux 1° à 8°, 11°, 12°, 15° à 17° du II
+de l'article L. 621-9, l'avertissement, le blâme, le retrait temporaire ou
 définitif de la carte professionnelle, l'interdiction à titre temporaire ou
 définitif de l'exercice de tout ou partie des activités ; la commission des
 sanctions peut prononcer soit à la place, soit en sus de ces sanctions une
 sanction pécuniaire dont le montant ne peut être supérieur à 15 millions d'euros
 ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
-mentionnées aux c et d du II ou à 300 000 euros ou au quintuple des profits
+mentionnées aux c à g du II ou à 300 000 euros ou au quintuple des profits
 éventuellement réalisés dans les autres cas ; les sommes sont versées au fonds
 de garantie auquel est affiliée la personne morale sous l'autorité ou pour le
 compte de qui agit la personne sanctionnée ou, à défaut, au Trésor public ;
 
 c) Pour les personnes autres que l'une des personnes mentionnées au II de
-l'article L. 621-9, auteurs des faits mentionnés aux c et d du II, une sanction
+l'article L. 621-9, auteurs des faits mentionnés aux c à g du II, une sanction
 pécuniaire dont le montant ne peut être supérieur à 100 millions d'euros ou au
 décuple du montant des profits éventuellement réalisés ; les sommes sont versées
 au Trésor public.

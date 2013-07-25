@@ -1,9 +1,9 @@
 Article A510-1
 ----
-I. - 1° En application du premier alinéa du I de l'article R. 510-16, toute
+I.-1° En application du premier alinéa du I de l'article R. 510-16, toute
 mutuelle ou union projetant d'ouvrir une succursale ou d'exercer des activités
 en libre prestation de services doit fournir, en double exemplaire, à l'Autorité
-de contrôle prudentiel les documents et informations suivants :
+de contrôle prudentiel et de résolution les documents et informations suivants :
 
 a) La dénomination et l'adresse du siège de la mutuelle ou de l'union ;
 
@@ -34,7 +34,7 @@ c) Les informations concernant le mandataire général mentionnées à l'article
 211-2 ;
 
 d) Un programme d'activité relatif à l'établissement envisagé comportant les
-pièces mentionnées aux 3, 4 et 5 du f de l'article A. 211-1 ainsi que, pour les
+pièces mentionnées aux 3,4 et 5 du f de l'article A. 211-1 ainsi que, pour les
 cinq premiers exercices comptables d'activité, les comptes de résultat
 prévisionnels, les prévisions relatives aux moyens financiers destinés à la
 couverture des engagements et celles relatives à la trésorerie ;
@@ -42,20 +42,22 @@ couverture des engagements et celles relatives à la trésorerie ;
 e) Un programme d'activité complémentaire relatif à l'établissement envisagé
 comportant les pièces mentionnées aux 2 et 10 du f de l'article A. 211-1.
 
-II. - Le dossier communiqué par l'Autorité de contrôle prudentiel, en
-application du deuxième alinéa du I de l'article R. 510-16, aux autorités de
-l'Etat membre sur le territoire duquel la mutuelle ou l'union envisage d'opérer
-en liberté d'établissement ou en libre prestation de services comprend :
+II.-Le dossier communiqué par l'Autorité de contrôle prudentiel et de
+résolution, en application du deuxième alinéa du I de l'article R. 510-16, aux
+autorités de l'Etat membre sur le territoire duquel la mutuelle ou l'union
+envisage d'opérer en liberté d'établissement ou en libre prestation de services
+comprend :
 
-1° Une attestation de l'Autorité de contrôle prudentiel certifiant que
-l'entreprise dispose de la marge de solvabilité conformément aux dispositions de
-la section 2 du chapitre II du titre Ier du livre II du présent code ;
+1° Une attestation de l'Autorité de contrôle prudentiel et de résolution
+certifiant que l'entreprise dispose de la marge de solvabilité conformément aux
+dispositions de la section 2 du chapitre II du titre Ier du livre II du présent
+code ;
 
 2° Les éléments mentionnés aux a, c et d du 1° du I ainsi que, s'agissant de
 l'ouverture d'une succursale, les éléments mentionnés aux a, b, d et e du 2° du
 I.
 
-III. - Les documents mentionnés au I sont accompagnés de leur traduction
-certifiée conforme dans la langue officielle de l'Etat membre sur le territoire
-duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation
-de services.
+III.-Les documents mentionnés au I sont accompagnés de leur traduction certifiée
+conforme dans la langue officielle de l'Etat membre sur le territoire duquel
+elle envisage d'opérer en liberté d'établissement ou en libre prestation de
+services.

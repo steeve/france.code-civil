@@ -14,4 +14,5 @@ l'adéquation entre ces placements et les engagements de l'entreprise d'assuranc
 au titre du plan.
 
 Il désigne à cet effet un actuaire agréé par une association reconnue par
-l'Autorité de contrôle prudentiel et indépendante de l'entreprise d'assurance.
+l'Autorité de contrôle prudentiel et de résolution et indépendante de
+l'entreprise d'assurance.

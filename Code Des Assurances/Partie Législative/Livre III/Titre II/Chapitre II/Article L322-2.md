@@ -108,13 +108,33 @@ compagnie mentionnée au premier alinéa du I au sens de l'article L. 321-10
 doivent posséder l'honorabilité, la compétence ainsi que l'expérience
 nécessaires à leur fonction.
 
+Les membres du conseil d'administration ou du conseil de surveillance des
+personnes mentionnées aux 1°, 2° et 6° du B du I de l'article L. 612-2 du code
+monétaire et financier, et qui disposent d'un agrément pour l'exercice de leur
+activité, disposent de l'honorabilité, de la compétence et de l'expérience
+nécessaires.
+
+La compétence des intéressés est appréciée par l'Autorité de contrôle prudentiel
+et de résolution à partir de leur formation et de leur expérience de façon
+proportionnée à leurs attributions, notamment celles exercées en tant que
+président d'un conseil ou d'un comité. L'autorité tient compte également, dans
+l'appréciation portée sur chaque personne, de la compétence, de l'expérience et
+des attributions des autres membres de l'organe auquel elle appartient. Lorsque
+des mandats ont été antérieurement exercés, la compétence est présumée à raison
+de l'expérience acquise. Pour les nouveaux membres, l'Autorité de contrôle
+prudentiel et de résolution tient compte des formations dont ils pourront
+bénéficier tout au long de leur mandat.
+
 VIII.-Lorsqu'elle est amenée à apprécier l'honorabilité, la compétence et
 l'expérience de dirigeants et d'administrateurs qui exercent ces mêmes fonctions
 au sein d'entités autres que celles mentionnées au premier alinéa et appartenant
 au même groupe au sens de l'article L. 334-2, l'Autorité de contrôle prudentiel
-consulte les autorités compétentes au titre de ces autres entités. Elle
-communique à ces autorités les informations utiles à l'exercice de leurs
-missions.
+et de résolution consulte les autorités compétentes au titre de ces autres
+entités. Elle communique à ces autorités les informations utiles à l'exercice de
+leurs missions.
 
 IX.-Les dispositions du présent article sont applicables au mandataire général
 désigné par les entreprises opérant en régime d'établissement.
+
+X.-Un décret en Conseil d'Etat précise les conditions d'application du présent
+article.

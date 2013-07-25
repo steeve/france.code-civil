@@ -2,11 +2,11 @@ Article R613-19
 ----
 En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaires
 à l'égard d'un établissement de crédit ou d'une entreprise d'investissement, le
-fonds de garantie des dépôts mentionné à l'article L. 312-4, s'il intervient,
-informe chaque déposant du montant des créances exclues de son champ
-d'intervention dans le même temps qu'il lui indique le montant et la nature des
-créances couvertes par le mécanisme de garantie des dépôts ou par le mécanisme
-de garantie des titres prévu par le présent code.
+fonds de garantie des dépôts et de résolution mentionné à l'article L. 312-4,
+s'il intervient, informe chaque déposant du montant des créances exclues de son
+champ d'intervention dans le même temps qu'il lui indique le montant et la
+nature des créances couvertes par le mécanisme de garantie des dépôts ou par le
+mécanisme de garantie des titres prévu par le présent code.
 
 Il lui indique également que le montant des créances entrant en tout ou partie
 dans son champ d'intervention, y compris la partie excédant le plafond
@@ -20,4 +20,4 @@ R. 613-22.
 
 Le fonds de garantie informe le représentant des créanciers ou le liquidateur
 judiciaire des éventuelles prolongations de délais accordées par l'Autorité de
-contrôle prudentiel en vue de l'indemnisation des déposants.
+contrôle prudentiel et de résolution en vue de l'indemnisation des déposants.

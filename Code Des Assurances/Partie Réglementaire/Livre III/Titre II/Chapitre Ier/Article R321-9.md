@@ -1,7 +1,7 @@
 Article R321-9
 ----
-L'Autorité de contrôle prudentiel présente dans un délai de trois mois ses
-observations à l'autorité de contrôle d'un Etat non communautaire membre de
-l'Espace économique européen qui lui transmet pour avis le programme d'activités
-présenté par une entreprise française sollicitant de cette autorité l'agrément
-pour pratiquer des opérations d'assurances.
+L'Autorité de contrôle prudentiel et de résolution présente dans un délai de
+trois mois ses observations à l'autorité de contrôle d'un Etat non communautaire
+membre de l'Espace économique européen qui lui transmet pour avis le programme
+d'activités présenté par une entreprise française sollicitant de cette autorité
+l'agrément pour pratiquer des opérations d'assurances.

@@ -1,17 +1,17 @@
 Article R341-5
 ----
 Les entreprises doivent produire chaque année à l'Autorité de contrôle
-prudentiel, à des dates fixées par décision de l'Autorité de contrôle
-prudentiel, le compte rendu détaillé annuel de leurs opérations et tous états,
-tableaux ou documents de nature à permettre de contrôler leur situation
-financière, la marche de leurs opérations, l'encaissement des primes ou
-cotisations, le règlement des sinistres, l'évaluation et, pour les entreprises
-visées aux 1° et 2° de l'article R. 341-1, la représentation des provisions et
-des réserves.
+prudentiel et de résolution, à des dates fixées par décision de l'Autorité de
+contrôle prudentiel et de résolution, le compte rendu détaillé annuel de leurs
+opérations et tous états, tableaux ou documents de nature à permettre de
+contrôler leur situation financière, la marche de leurs opérations,
+l'encaissement des primes ou cotisations, le règlement des sinistres,
+l'évaluation et, pour les entreprises visées aux 1° et 2° de l'article R. 341-1,
+la représentation des provisions et des réserves.
 
-Les entreprises doivent communiquer à l'Autorité de contrôle prudentiel, sur sa
-demande, tous renseignements et documents permettant d'apprécier la valeur des
-immeubles, prêts, titres ou créances figurant dans leur bilan à quelque titre
-que ce soit et sous quelque forme que ce soit ainsi que tous autres
-renseignements sur les opérations que l'Autorité estime nécessaires à l'exercice
-du contrôle.
+Les entreprises doivent communiquer à l'Autorité de contrôle prudentiel et de
+résolution, sur sa demande, tous renseignements et documents permettant
+d'apprécier la valeur des immeubles, prêts, titres ou créances figurant dans
+leur bilan à quelque titre que ce soit et sous quelque forme que ce soit ainsi
+que tous autres renseignements sur les opérations que l'Autorité estime
+nécessaires à l'exercice du contrôle.

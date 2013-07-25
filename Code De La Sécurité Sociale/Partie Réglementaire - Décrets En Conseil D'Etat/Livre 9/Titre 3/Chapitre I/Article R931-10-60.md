@@ -1,10 +1,10 @@
 Article R931-10-60
 ----
-l'Autorité de contrôle prudentiel peut, pour apprécier les limites fixées à la
-présente section, prendre en compte les instruments financiers utilisés par les
-organismes :
+L'Autorité de contrôle prudentiel et de résolution peut, pour apprécier les
+limites fixées à la présente section, prendre en compte les instruments
+financiers utilisés par les organismes :
 
-a) Dans lesquels, d'une part, l'entreprise a investi un montant supérieur à 0, 5
+a) Dans lesquels, d'une part, l'entreprise a investi un montant supérieur à 0,5
 % de la base de dispersion définie au premier alinéa de l'article R. 931-10-22
 et dans lesquels, d'autre part, le groupe auquel appartient l'institution ou
 l'union dispose de plus de 50 % du capital ou des parts ;

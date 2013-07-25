@@ -28,6 +28,16 @@ dernier alinéa du I peuvent, s'agissant des risques liés à la durée de la vi
 humaine, prendre la forme de tables homologuées et régulièrement mises à jour
 par arrêté du ministre chargé de l'économie.
 
+II bis.-La dérogation prévue au dernier alinéa du I est applicable aux contrats
+et aux adhésions à des contrats d'assurance de groupe conclus ou effectuées au
+plus tard le 20 décembre 2012 et à ces contrats et adhésions reconduits
+tacitement après cette date.
+
+La dérogation n'est pas applicable aux contrats et aux adhésions mentionnés au
+premier alinéa du présent II bis ayant fait l'objet après le 20 décembre 2012
+d'une modification substantielle, nécessitant l'accord des parties, autre qu'une
+modification qu'une au moins des parties ne peut refuser.
+
 III.-Le présent article s'applique aux contrats d'assurance autres que ceux
 conclus dans les conditions prévues à l'article L. 911-1 du code de la sécurité
 sociale, ainsi qu'aux opérations mentionnées à l'article L. 322-2-2 du présent

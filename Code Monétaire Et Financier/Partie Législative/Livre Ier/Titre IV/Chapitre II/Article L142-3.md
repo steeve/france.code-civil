@@ -14,7 +14,7 @@ professionnelle dans les domaines financier ou économique ;
 
 4° Un représentant élu des salariés de la Banque de France ;
 
-5° Le vice-président de l'Autorité de contrôle prudentiel.
+5° Le vice-président de l'Autorité de contrôle prudentiel et de résolution.
 
 Le mandat des membres du conseil général mentionnés aux 1° à 4° est de six ans
 sous réserve des dispositions prévues au neuvième alinéa. Ils sont tenus au

@@ -13,7 +13,7 @@ lesquelles la société détient une participation directe ou indirecte ainsi
 qu'aux sociétés détenues majoritairement et de façon conjointe par cette société
 et d'autres sociétés anonymes coopératives d'intérêt collectif pour l'accession
 à la propriété, à l'exception de celles de ces filiales ou sociétés qui sont
-soumises au contrôle de l'Autorité de contrôle prudentiel.
+soumises au contrôle de l'Autorité de contrôle prudentiel et de résolution.
 
 Le contrôle s'exerce sur pièces ou sur place. Les agents chargés du contrôle sur
 place sont des agents de l'Etat habilités à cet effet de façon permanente ou

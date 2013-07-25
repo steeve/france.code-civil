@@ -10,4 +10,4 @@ II. - Les institutions de prévoyance autorisées avant la date du 10 août 1994
 par le ministre chargé de l'agriculture à fonctionner exclusivement au bénéfice
 des salariés agricoles sont maintenues. Elles sont régies par les dispositions
 du titre III du livre IX du code de la sécurité sociale et entrent dans le champ
-de compétence de l'Autorité de contrôle prudentiel.
+de compétence de l'Autorité de contrôle prudentiel et de résolution.

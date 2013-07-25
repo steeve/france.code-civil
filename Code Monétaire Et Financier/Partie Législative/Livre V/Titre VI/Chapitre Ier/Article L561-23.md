@@ -7,8 +7,8 @@ que l'organisation et les modalités de fonctionnement de ce service sont
 définies par décret en Conseil d'Etat.
 
 II.-Le service mentionné au I reçoit les déclarations prévues à l'article L.
-561-15 et les informations mentionnées aux articles L. 561-26, L. 561-27, L.
-561-30 et L. 561-31.
+561-15 et les informations mentionnées aux articles L. 561-15-1, L. 561-26, L.
+561-27, L. 561-30 et L. 561-31.
 
 Ce service recueille, analyse, enrichit et exploite tout renseignement propre à
 établir l'origine ou la destination des sommes ou la nature des opérations ayant

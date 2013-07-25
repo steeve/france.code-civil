@@ -13,4 +13,4 @@ lesquelles l'organisme est en mesure, à moyen et long terme, de faire face à
 l'ensemble de ses engagements.
 
 Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de
-contrôle prudentiel.
+contrôle prudentiel et de résolution.

@@ -19,15 +19,15 @@ exercice, entre le montant des provisions mathématiques après cessions en
 réassurance et le montant des provisions mathématiques brut de réassurance, sans
 que ce rapport puisse être inférieur à 85 %.
 
-Le " second résultat " est obtenu en multipliant un nombre représentant 0, 3 %
+Le " second résultat " est obtenu en multipliant un nombre représentant 0,3 %
 des capitaux sous risque par le rapport existant, pour le dernier exercice,
 entre le montant des capitaux sous risque après cession et rétrocession en
 réassurance et le montant des capitaux sous risque brut de réassurance, sans que
 ce rapport puisse être inférieur à 50 %.
 
 Pour les assurances temporaires en cas de décès d'une durée maximale de trois
-années, le facteur multiplicateur des capitaux sous risque est égal à 0, 1 %. Il
-est fixé à 0, 15 % desdits capitaux pour les assurances temporaires en cas de
+années, le facteur multiplicateur des capitaux sous risque est égal à 0,1 %. Il
+est fixé à 0,15 % desdits capitaux pour les assurances temporaires en cas de
 décès dont la durée est supérieure à trois années mais n'excède pas cinq années.
 
 Le capital sous risque est égal au risque décès, déduction faite de la provision
@@ -50,7 +50,7 @@ cours du dernier exercice, d'autre part, le total des impôts et taxes afférent
 auxdites cotisations.
 
 Le montant ainsi obtenu est réparti en deux tranches, respectivement inférieure
-et supérieure à 10 millions d'euros.A 18 % de la première tranche sont ajoutés
+et supérieure à 10 millions d'euros. A 18 % de la première tranche sont ajoutés
 16 % de la seconde.
 
 La somme des deux termes prévus à l'alinéa précédent est multipliée par le
@@ -99,7 +99,7 @@ gestion nettes relatives à ces opérations pour le dernier exercice ;
 -lorsque la mutuelle ou l'union assume un risque de mortalité, l'exigence
 minimale de marge est obtenue en ajoutant à l'un ou l'autre des résultats
 déterminés par application des dispositions des deux alinéas précédents un
-nombre représentant 0, 3 % des capitaux sous risque, multiplié par le rapport
+nombre représentant 0,3 % des capitaux sous risque, multiplié par le rapport
 existant, pour le dernier exercice, entre le montant des capitaux sous risque
 après cessions et rétrocessions en réassurance et le montant des capitaux sous
 risque brut de réassurance, sans que ce rapport puisse être inférieur à 50 % ;
@@ -112,7 +112,7 @@ la provision mathématique théorique mentionnée à l'article R. 222-16.
 
 En outre, pour la prise en compte de la réassurance financière limitée dans le
 ratio de réassurance mentionné au premier alinéa, l'Autorité de contrôle
-prudentiel se fonde sur le transfert de risque effectif.
+prudentiel et de résolution se fonde sur le transfert de risque effectif.
 
 Sur demande et justification de la mutuelle ou union auprès de l'Autorité de
 contrôle, et avec l'accord de celle-ci, les montants récupérables au titre des

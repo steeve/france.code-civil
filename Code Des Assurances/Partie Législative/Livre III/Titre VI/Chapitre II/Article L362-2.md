@@ -5,6 +5,6 @@ la France peut couvrir ou prendre sur le territoire de la République française
 en libre prestation de services à partir de cet établissement, des risques ou
 des engagements conformément aux agréments qui lui ont été accordés par les
 autorités de contrôle de son Etat d'origine, sous réserve que l'Autorité de
-contrôle prudentiel ait préalablement reçu de ces dernières les informations
-requises. Un arrêté fixe les modalités d'application du présent article comme il
-est dit à l'article précédent.
+contrôle prudentiel et de résolution ait préalablement reçu de ces dernières les
+informations requises. Un arrêté fixe les modalités d'application du présent
+article comme il est dit à l'article précédent.

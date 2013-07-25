@@ -15,4 +15,11 @@ d'administrateur. Il est rééligible. Le conseil d'administration peut à tout
 moment mettre un terme aux fonctions du président.
 
 Les statuts définissent la procédure applicable en cas de décès, de démission ou
-de perte de la qualité d'adhérent du président du conseil d'administration.
+de perte de la qualité d'adhérent du président du conseil d'administration ou de
+cessation de son mandat à la suite d'une décision d'opposition prise par
+l'Autorité de contrôle prudentiel et de résolution en application de l'article
+L. 612-23-1 du code monétaire et financier. A défaut de mention dans les
+statuts, le conseil d'administration peut, dans cette dernière hypothèse,
+procéder, jusqu'à la prochaine assemblée générale, à des nominations à titre
+provisoire, sans préjudice des règles fixées à l'article L. 114-16 du présent
+code.

@@ -21,4 +21,4 @@ intermédiaire, au titre de son activité d'intermédiation.
 
 Enfin, en vue du traitement d'éventuels différends, l'intermédiaire fournit les
 coordonnées et l'adresse de son service de réclamation quand il existe et de
-l'Autorité de contrôle prudentiel.
+l'Autorité de contrôle prudentiel et de résolution.

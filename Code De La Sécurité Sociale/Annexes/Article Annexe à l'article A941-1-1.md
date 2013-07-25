@@ -6,8 +6,9 @@ Les renseignements généraux sont les suivants :
 
 a) La raison sociale de l'institution, son adresse, la date de dépôt des statuts
 auprès du ministre chargé de la sécurité sociale ainsi que de l'Autorité de
-contrôle prudentiel et un exemplaire à jour des statuts lorsque ceux-ci ont été
-modifiés, accompagné le cas échéant des modifications intervenues ;
+contrôle prudentiel et de résolution et un exemplaire à jour des statuts lorsque
+ceux-ci ont été modifiés, accompagné le cas échéant des modifications
+intervenues ;
 
 b) Les nom, date et lieu de naissance, nationalité, domicile et profession de
 chaque membre du conseil d'administration ;

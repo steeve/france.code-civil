@@ -37,7 +37,7 @@ de l'Autorité des marchés financiers qui en rend compte au collège.
 
 Lorsqu'elle concerne un prestataire de services d'investissement autre qu'une
 société de gestion, la décision est également notifiée à l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.
 
 VI. - La décision de sanction mentionne, le cas échéant, ceux des frais de
 procédure qui sont à la charge de la personne à l'encontre de laquelle une

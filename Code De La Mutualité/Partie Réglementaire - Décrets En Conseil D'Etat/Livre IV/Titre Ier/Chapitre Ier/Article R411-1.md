@@ -8,7 +8,8 @@ la mutualité, ou son représentant :
 2° Vingt représentants des mutuelles, unions et fédérations nommés par arrêté du
 ministre chargé de la mutualité dans les conditions définies au chapitre III ;
 
-3° Le vice-président de l'Autorité de contrôle prudentiel ou son représentant ;
+3° Le vice-président de l'Autorité de contrôle prudentiel et de résolution ou
+son représentant ;
 
 4° Le président du directoire du fonds de garantie institué à l'article L. 431-4
 ou son représentant ;

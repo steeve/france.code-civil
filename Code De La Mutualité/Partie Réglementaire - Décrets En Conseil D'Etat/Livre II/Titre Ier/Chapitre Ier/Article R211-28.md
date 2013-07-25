@@ -4,7 +4,8 @@ La mutuelle ou union est tenue de mettre en place un dispositif permanent de
 contrôle interne.
 
 Le conseil d'administration approuve, au moins annuellement, un rapport sur le
-contrôle interne, qui est transmis à l'Autorité de contrôle prudentiel.
+contrôle interne, qui est transmis à l'Autorité de contrôle prudentiel et de
+résolution.
 
 1° La première partie de ce rapport détaille les conditions de préparation et
 d'organisation des travaux du conseil d'administration et, le cas échéant, les

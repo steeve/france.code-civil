@@ -1,6 +1,6 @@
 Article R311-5
 ----
-I. - Le contrat de crédit prévu à l'article L. 311-18 est rédigé en caractères
+I.-Le contrat de crédit prévu à l'article L. 311-18 est rédigé en caractères
 dont la hauteur ne peut être inférieure à celle du corps huit. Il comporte de
 manière claire et lisible, dans l'ordre précisé ci-dessous :
 
@@ -111,12 +111,12 @@ monétaire et financier et ses modalités d'accès ;
 
 b) Les dispositions de l'article L. 311-52 ;
 
-c) L'adresse de l'Autorité de contrôle prudentiel mentionnée à l'article L.
-612-1 du code monétaire et financier et celle de l'autorité administrative
-chargée de la concurrence et de la consommation, au sens de l'article L. 141-1
-du présent code ;
+c) L'adresse de l'Autorité de contrôle prudentiel et de résolution mentionnée à
+l'article L. 612-1 du code monétaire et financier et celle de l'autorité
+administrative chargée de la concurrence et de la consommation, au sens de
+l'article L. 141-1 du présent code ;
 
-II. - S'il y a paiement de frais et d'intérêts sans amortissement du capital, le
+II.-S'il y a paiement de frais et d'intérêts sans amortissement du capital, le
 contrat comprend un relevé des périodes et conditions de paiement des intérêts
 débiteurs et des frais annexes récurrents et non récurrents.
 
@@ -127,7 +127,7 @@ contrat de crédit ou par un contrat accessoire, et que cette modalité
 d'exécution ne garantit pas le remboursement du montant total du crédit
 consenti, le contrat le précise expressément.
 
-III. - Le tableau mentionné au e du 6° du I indique les montants, périodes et
+III.-Le tableau mentionné au e du 6° du I indique les montants, périodes et
 conditions des échéances ainsi que la ventilation de chaque échéance entre
 l'amortissement du capital, les intérêts calculés sur la base du taux débiteur
 et, le cas échéant, les coûts additionnels. Si le taux d'intérêt n'est pas fixe

@@ -3,28 +3,29 @@ Article R931-6-4
 Une institution de prévoyance ou une union d'institutions de prévoyance dont
 tous les agréments ont cessé de plein droit d'être valables ou ont fait l'objet
 de décisions constatant leur caducité soumet à l'approbation de l'Autorité de
-contrôle prudentiel, dans un délai d'un mois à partir de la date à laquelle son
-dernier agrément a cessé de plein droit d'être valable ou a fait l'objet d'une
-décision constatant sa caducité, un programme de liquidation précisant notamment
-les délais prévisibles et les conditions financières de la liquidation, ainsi
-que les moyens en personnel et en matériels mis en œuvre pour la gestion des
-engagements résiduels. Lorsque la gestion des engagements résiduels est déléguée
-à un tiers, le projet de contrat de délégation et un dossier décrivant la
-qualité du délégataire et de ses dirigeants, son organisation, sa situation
-financière et les moyens mis en œuvre sont communiqués à l'Autorité de contrôle
-prudentiel qui peut, en application de l'article L. 612-23 du code monétaire et
-financier, réaliser tous contrôles sur pièces et sur place du délégataire
-jusqu'à liquidation intégrale des engagements.
+contrôle prudentiel et de résolution, dans un délai d'un mois à partir de la
+date à laquelle son dernier agrément a cessé de plein droit d'être valable ou a
+fait l'objet d'une décision constatant sa caducité, un programme de liquidation
+précisant notamment les délais prévisibles et les conditions financières de la
+liquidation, ainsi que les moyens en personnel et en matériels mis en œuvre pour
+la gestion des engagements résiduels. Lorsque la gestion des engagements
+résiduels est déléguée à un tiers, le projet de contrat de délégation et un
+dossier décrivant la qualité du délégataire et de ses dirigeants, son
+organisation, sa situation financière et les moyens mis en œuvre sont
+communiqués à l'Autorité de contrôle prudentiel et de résolution qui peut, en
+application de l'article L. 612-23 du code monétaire et financier, réaliser tous
+contrôles sur pièces et sur place du délégataire jusqu'à liquidation intégrale
+des engagements.
 
-Si l'Autorité de contrôle prudentiel estime que le programme de liquidation
-présenté par l'institution ou l'union n'est pas conforme aux intérêts des
-membres adhérents et des membres participants, bénéficiaires et ayants droit de
-ceux-ci, elle ne l'approuve pas et peut demander la présentation d'un nouveau
-programme, dans les délais et conditions qu'elle prescrit.
+Si l'Autorité de contrôle prudentiel et de résolution estime que le programme de
+liquidation présenté par l'institution ou l'union n'est pas conforme aux
+intérêts des membres adhérents et des membres participants, bénéficiaires et
+ayants droit de ceux-ci, elle ne l'approuve pas et peut demander la présentation
+d'un nouveau programme, dans les délais et conditions qu'elle prescrit.
 
 En l'absence de programme de liquidation ou lorsque le programme présenté n'a
 pas été approuvé, ou lorsque l'institution ou l'union ne respecte pas le
-programme approuvé, l'Autorité de contrôle prudentiel prend, en application des
-articles L. 612-33 ou L. 612-34 du code monétaire et financier, toutes mesures
-conservatoires qu'elle juge nécessaires. Elle peut également faire usage des
-pouvoirs de sanction prévus à l'article L. 612-39 du même code.
+programme approuvé, l'Autorité de contrôle prudentiel et de résolution prend, en
+application des articles L. 612-33 ou L. 612-34 du code monétaire et financier,
+toutes mesures conservatoires qu'elle juge nécessaires. Elle peut également
+faire usage des pouvoirs de sanction prévus à l'article L. 612-39 du même code.

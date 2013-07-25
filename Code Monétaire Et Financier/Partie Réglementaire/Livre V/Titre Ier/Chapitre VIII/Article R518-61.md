@@ -42,9 +42,9 @@ b) 3 000 € par emprunteur lorsque le prêt est accordé à une personne physiq
 pour la réalisation d'un projet d'insertion.
 
 Les prêts accordés font l'objet d'un suivi financier pendant leur durée.
-L'Autorité de contrôle prudentiel détermine les conditions dans lesquelles les
-associations ou fondations doivent effectuer un suivi financier des prêts
-qu'elles accordent et lui en rendre compte.
+L'Autorité de contrôle prudentiel et de résolution détermine les conditions dans
+lesquelles les associations ou fondations doivent effectuer un suivi financier
+des prêts qu'elles accordent et lui en rendre compte.
 
 Les prêts doivent bénéficier d'une garantie apportée par un fonds de garantie ou
 de cautionnement agréé ou par un établissement de crédit.

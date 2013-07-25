@@ -5,13 +5,13 @@ l'engagement de ne plus réaliser, pour l'ensemble des agréments qui lui avaien
 été accordés, de nouvelles opérations.
 
 La mutuelle ou l'union en informe immédiatement l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.
 
 Dans le mois de la décision constatant la caducité de l'agrément, la mutuelle ou
-l'union soumet à l'Autorité de contrôle prudentiel un programme de liquidation
-précisant notamment les délais prévisibles et les conditions financières de la
-liquidation ainsi que les moyens en personnel et matériels mis en œuvre pour la
-gestion des engagements résiduels.
+l'union soumet à l'Autorité de contrôle prudentiel et de résolution un programme
+de liquidation précisant notamment les délais prévisibles et les conditions
+financières de la liquidation ainsi que les moyens en personnel et matériels mis
+en œuvre pour la gestion des engagements résiduels.
 
 Lorsque la gestion des engagements résiduels est déléguée à un tiers, le projet
 de contrat de délégation et un dossier décrivant la qualité du délégataire et de

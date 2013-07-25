@@ -40,5 +40,5 @@ variable ne peut être calculée par référence à un critère représentatif d
 volume d'activité de la société émettrice.
 
 IV.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
-article, notamment le contrôle exercé par l'Autorité de contrôle prudentiel sur
-ces émissions.
+article, notamment le contrôle exercé par l'Autorité de contrôle prudentiel et
+de résolution sur ces émissions.

@@ -12,4 +12,4 @@ mission.
 
 L'organisme leur communique les rapports d'inspection internes et d'audit
 externes, ainsi que les rapports d'inspection et les décisions de l'Autorité de
-contrôle prudentiel nécessaires à l'exercice de leur mission.
+contrôle prudentiel et de résolution nécessaires à l'exercice de leur mission.

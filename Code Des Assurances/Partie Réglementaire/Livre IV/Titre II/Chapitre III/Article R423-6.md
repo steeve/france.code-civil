@@ -10,9 +10,9 @@ garanti par contrat, procède à un versement en une seule fois au profit de
 chaque assuré, souscripteur de contrats, adhérent ou bénéficiaire de prestations
 contre la remise par celui-ci d'un récépissé du versement.
 
-A titre exceptionnel, l'Autorité de contrôle prudentiel peut, sur la demande du
-fonds de garantie, lui accorder une prolongation, qui ne saurait être supérieure
-à trois mois, du délai prévu à l'alinéa précédent.
+A titre exceptionnel, l'Autorité de contrôle prudentiel et de résolution peut,
+sur la demande du fonds de garantie, lui accorder une prolongation, qui ne
+saurait être supérieure à trois mois, du délai prévu à l'alinéa précédent.
 
 Le fonds met en oeuvre la garantie, selon la même procédure, si le liquidateur
 présente une demande complémentaire de versement en apportant la preuve que des

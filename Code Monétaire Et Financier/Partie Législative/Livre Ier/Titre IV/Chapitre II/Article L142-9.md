@@ -16,7 +16,10 @@ elle est chargée.
 
 Les articles L. 2323-19 et L. 2323-21 à L. 2323-24 et L. 2323-26 du code du
 travail et les articles L. 2323-78 à L2323-82 et L. 2323-86 du même code ne sont
-pas applicables à la Banque de France.
+pas applicables à la Banque de France. L'article L. 2323-86 du code du travail
+ne s'applique pas aux personnes morales de droit privé sur lesquelles la Banque
+de France exerce une influence dominante au sens de l'article L. 2331-1 du même
+code.
 
 Les dispositions du chapitre II du titre III du livre IV du même code autres que
 celles énumérées à l'alinéa précédent sont applicables à la Banque de France

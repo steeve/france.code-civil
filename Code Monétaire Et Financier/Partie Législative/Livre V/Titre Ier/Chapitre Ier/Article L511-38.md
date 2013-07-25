@@ -18,10 +18,10 @@ peut être exercée par un seul commissaire aux comptes. Lorsque cette condition
 est remplie, et que l'établissement est soumis soit aux règles de la
 comptabilité publique, soit à un régime spécifique d'approbation de ses comptes
 présentant des garanties jugées suffisantes par l'Autorité de contrôle
-prudentiel, celle-ci peut décider de lever l'obligation de certification
-mentionnée à l'alinéa précédent. Ces dérogations ne sont pas applicables lorsque
-l'établissement de crédit ou l'entreprise d'investissement est tenu d'établir
-des comptes sur base consolidée.
+prudentiel et de résolution, celle-ci peut décider de lever l'obligation de
+certification mentionnée à l'alinéa précédent. Ces dérogations ne sont pas
+applicables lorsque l'établissement de crédit ou l'entreprise d'investissement
+est tenu d'établir des comptes sur base consolidée.
 
 Les commissaires aux comptes doivent présenter toutes les garanties
 d'indépendance à l'égard des établissements de crédit, des entreprises

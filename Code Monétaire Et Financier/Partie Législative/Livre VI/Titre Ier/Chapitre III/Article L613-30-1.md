@@ -11,15 +11,15 @@ l'article L. 522-17.
 En cas d'ouverture d'une procédure de sauvegarde, de redressement ou de
 liquidation judiciaires d'un établissement de paiement, l'administrateur
 judiciaire ou le liquidateur, conjointement avec l'administrateur provisoire ou
-le liquidateur nommé, le cas échéant, par l'Autorité de contrôle prudentiel,
-vérifie que les fonds reçus des utilisateurs de services de paiement déposés ou
-investis en instruments financiers conservés dans des comptes ouverts
-spécialement à cet effet dans les conditions prévues à l'article L. 522-17 sont
-suffisants pour que l'établissement de paiement puisse remplir ses obligations
-vis-à-vis de ses utilisateurs. En cas d'insuffisance de ces fonds, il est
-procédé à une répartition proportionnelle des fonds déposés entre ces
-utilisateurs. Ces fonds sont restitués aux utilisateurs qui sont dispensés de la
-déclaration prévue à l'article L. 622-24 du code de commerce.
+le liquidateur nommé, le cas échéant, par l'Autorité de contrôle prudentiel et
+de résolution, vérifie que les fonds reçus des utilisateurs de services de
+paiement déposés ou investis en instruments financiers conservés dans des
+comptes ouverts spécialement à cet effet dans les conditions prévues à l'article
+L. 522-17 sont suffisants pour que l'établissement de paiement puisse remplir
+ses obligations vis-à-vis de ses utilisateurs. En cas d'insuffisance de ces
+fonds, il est procédé à une répartition proportionnelle des fonds déposés entre
+ces utilisateurs. Ces fonds sont restitués aux utilisateurs qui sont dispensés
+de la déclaration prévue à l'article L. 622-24 du code de commerce.
 
 Pour la créance correspondant aux fonds dont la disposition n'aura pu être
 rendue à ces utilisateurs, en raison de l'insuffisance constatée, ceux-ci sont

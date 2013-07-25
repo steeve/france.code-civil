@@ -2,15 +2,16 @@ Article L612-39
 ----
 Si l'une des personnes mentionnées au I de l'article L. 612-2, à l'exception de
 celles mentionnées aux 4° et 5° du A et au 4° du B, a enfreint une disposition
-législative ou réglementaire au respect de laquelle l'Autorité a pour mission de
-veiller ou des codes de conduite homologués applicables à sa profession, n'a pas
-remis à l'Autorité le programme de rétablissement demandé, n'a pas tenu compte
-d'une mise en garde, n'a pas déféré à une mise en demeure ou n'a pas respecté
-les conditions particulières posées ou les engagements pris à l'occasion d'une
-demande d'agrément, d'autorisation ou de dérogation prévue par les dispositions
-législatives ou réglementaires applicables, la commission des sanctions peut
-prononcer l'une ou plusieurs des sanctions disciplinaires suivantes, en fonction
-de la gravité du manquement :
+européenne, législative ou réglementaire au respect de laquelle l'Autorité a
+pour mission de veiller ou des codes de conduite homologués applicables à sa
+profession, n'a pas remis à l'Autorité le programme de rétablissement demandé ou
+le programme de formation mentionné au V de l'article L. 612-23-1, n'a pas tenu
+compte d'une mise en garde, n'a pas déféré à une mise en demeure ou n'a pas
+respecté les conditions particulières posées ou les engagements pris à
+l'occasion d'une demande d'agrément, d'autorisation ou de dérogation prévue par
+les dispositions législatives ou réglementaires applicables, la commission des
+sanctions peut prononcer l'une ou plusieurs des sanctions disciplinaires
+suivantes, en fonction de la gravité du manquement :
 
 1° L'avertissement ;
 
@@ -19,19 +20,19 @@ de la gravité du manquement :
 3° L'interdiction d'effectuer certaines opérations et toutes autres limitations
 dans l'exercice de l'activité ;
 
-4° La suspension temporaire d'un ou plusieurs dirigeants ou, dans le cas d'un
-établissement de paiement ou d'un établissement de monnaie électronique exerçant
-des activités hybrides, des personnes déclarées responsables, respectivement, de
-la gestion des activités de services de paiement ou des activités d'émission et
-de gestion de monnaie électronique, avec ou sans nomination d'administrateur
-provisoire ;
+4° La suspension temporaire d'un ou plusieurs dirigeants ou de toute autre
+personne mentionnée à l'article L. 612-23-1 ou, dans le cas d'un établissement
+de paiement ou d'un établissement de monnaie électronique exerçant des activités
+hybrides, des personnes déclarées responsables, respectivement, de la gestion
+des activités de services de paiement ou des activités d'émission et de gestion
+de monnaie électronique, avec ou sans nomination d'administrateur provisoire ;
 
-5° La démission d'office d'un ou plusieurs dirigeants ou, dans le cas d'un
-établissement de paiement ou d'un établissement de monnaie électronique exerçant
-des activités hybrides, des personnes déclarées responsables, respectivement, de
-la gestion des activités de services de paiement ou des activités d'émission et
-de gestion de monnaie électronique, avec ou sans nomination d'administrateur
-provisoire ;
+5° La démission d'office d'un ou plusieurs dirigeants ou de toute autre personne
+mentionnée à l'article L. 612-23-1 ou, dans le cas d'un établissement de
+paiement ou d'un établissement de monnaie électronique exerçant des activités
+hybrides, des personnes déclarées responsables, respectivement, de la gestion
+des activités de services de paiement ou des activités d'émission et de gestion
+de monnaie électronique, avec ou sans nomination d'administrateur provisoire ;
 
 6° Le retrait partiel d'agrément ;
 

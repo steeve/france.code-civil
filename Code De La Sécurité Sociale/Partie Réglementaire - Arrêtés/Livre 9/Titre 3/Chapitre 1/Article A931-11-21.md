@@ -1,17 +1,17 @@
 Article A931-11-21
 ----
 Lorsque, en application de l'article L. 933-4-6, l'Autorité de contrôle
-prudentiel est coordonnateur de la surveillance complémentaire des entités
-réglementées appartenant à un conglomérat financier, l'entité réglementée placée
-à la tête du conglomérat financier fournit chaque année à l'Autorité de contrôle
-prudentiel, avant le 30 avril, un dossier constitué conformément à l'annexe au
-présent article.
+prudentiel et de résolution est coordonnateur de la surveillance complémentaire
+des entités réglementées appartenant à un conglomérat financier, l'entité
+réglementée placée à la tête du conglomérat financier fournit chaque année à
+l'Autorité de contrôle prudentiel et de résolution, avant le 30 avril, un
+dossier constitué conformément à l'annexe au présent article.
 
 Lorsque le conglomérat financier n'a pas d'entité réglementée placée à sa tête,
 le dossier est transmis par la compagnie financière holding mixte ou par
-l'entité réglementée désignée par l'Autorité de contrôle prudentiel après
-consultation des autres autorités compétentes définies au 10° de l'article L.
-933-2 et du conglomérat financier.
+l'entité réglementée désignée par l'Autorité de contrôle prudentiel et de
+résolution après consultation des autres autorités compétentes définies au 10°
+de l'article L. 933-2 et du conglomérat financier.
 
 Le dossier est certifié par le représentant légal de l'entité transmettant le
 dossier, sous la formule suivante : " Le présent document, comprenant x

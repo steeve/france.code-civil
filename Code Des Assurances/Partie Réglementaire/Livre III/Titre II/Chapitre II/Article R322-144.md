@@ -1,13 +1,13 @@
 Article R322-144
 ----
 Pour les sociétés à forme tontinière dont la marge de solvabilité n'atteint pas
-le montant minimal réglementaire, l'Autorité de contrôle prudentiel peut
-requérir que les valeurs appartenant aux associations formées par lesdites
-sociétés soient déposées, aussitôt après leur acquisition ou, le cas échéant,
-inscrites en compte soit à la Caisse des dépôts et consignations, soit à la
-Banque de France, au nom de l'entreprise, avec désignation des associations
-auxquelles elles appartiennent, reproduite sur les récépissés de dépôt ou
-certificats constatant l'indisponibilité des valeurs.
+le montant minimal réglementaire, l'Autorité de contrôle prudentiel et de
+résolution peut requérir que les valeurs appartenant aux associations formées
+par lesdites sociétés soient déposées, aussitôt après leur acquisition ou, le
+cas échéant, inscrites en compte soit à la Caisse des dépôts et consignations,
+soit à la Banque de France, au nom de l'entreprise, avec désignation des
+associations auxquelles elles appartiennent, reproduite sur les récépissés de
+dépôt ou certificats constatant l'indisponibilité des valeurs.
 
 Ces valeurs ne peuvent être réalisées qu'à l'époque de la liquidation des
 associations ou en cas de remplois. Cette réalisation et ces remplois ne peuvent

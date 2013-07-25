@@ -25,8 +25,8 @@ moyen semestriel des emprunts d'Etat si la date d'échéance considérée est
 inférieure à cinq ans, 60 % du taux moyen semestriel des emprunts d'Etat sinon ;
 
 c) Sur demande de l'entreprise et après accord de l'Autorité de contrôle
-prudentiel, un taux égal au taux de rendement futur prudemment estimé des actifs
-affectés à la représentation des engagements réglementés.
+prudentiel et de résolution, un taux égal au taux de rendement futur prudemment
+estimé des actifs affectés à la représentation des engagements réglementés.
 
 2° Les provisions mathématiques à l'inventaire.
 

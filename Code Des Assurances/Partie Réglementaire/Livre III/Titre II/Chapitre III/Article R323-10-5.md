@@ -12,7 +12,8 @@ d'un mois.
 L'Autorité de contrôle peut également restreindre ou interdire la libre
 disposition des actifs de l'entreprise de réassurance.
 
-L'Autorité de contrôle prudentiel désigne un contrôleur qui doit être tenu
-informé en permanence par l'entreprise de l'élaboration du plan de financement à
-court terme.L'entreprise rend compte de la mise en œuvre des décisions et
-mesures contenus dans le plan à ce contrôleur, qui veille à son exécution.
+L'Autorité de contrôle prudentiel et de résolution désigne un contrôleur qui
+doit être tenu informé en permanence par l'entreprise de l'élaboration du plan
+de financement à court terme. L'entreprise rend compte de la mise en œuvre des
+décisions et mesures contenus dans le plan à ce contrôleur, qui veille à son
+exécution.

@@ -12,8 +12,8 @@ réserve de l'application des dispositions du b du 2 de l'article 49 B susvisé 
 collectivités locales ;
 
 4° Les contrats de prêts dans la conclusion desquels les établissements de
-crédit enregistrés par l'Autorité de contrôle prudentiel interviennent en
-qualité de prêteurs ou d'emprunteurs ;
+crédit enregistrés par l'Autorité de contrôle prudentiel et de résolution
+interviennent en qualité de prêteurs ou d'emprunteurs ;
 
 5° Les contrats de prêts réalisés sous la forme d'émission de bons de caisse par
 des banques ou d'émission publique d'obligations.

@@ -7,8 +7,8 @@ Le ministre chargé de l'économie arrête, pour les établissements de monnaie
 
 2° Les modalités selon lesquelles une modification des conditions de l'agrément
 délivré à un établissement de monnaie électronique doit faire l'objet, selon les
-cas, d'une autorisation préalable de l'Autorité de contrôle prudentiel, d'une
-déclaration ou d'une notification ;
+cas, d'une autorisation préalable de l'Autorité de contrôle prudentiel et de
+résolution, d'une déclaration ou d'une notification ;
 
 3° Les conditions des opérations que les établissements de monnaie électronique
 peuvent effectuer en particulier dans leurs relations avec la clientèle ainsi

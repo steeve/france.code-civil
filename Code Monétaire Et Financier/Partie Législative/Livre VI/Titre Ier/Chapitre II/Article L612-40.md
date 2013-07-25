@@ -1,10 +1,10 @@
 Article L612-40
 ----
 S'il apparaît qu'une compagnie financière ou une compagnie financière holding
-mixte a enfreint les dispositions législatives et réglementaires afférentes à
-son activité, la commission des sanctions peut prononcer à son encontre, en
-fonction de la gravité du manquement, un avertissement, un blâme, la suspension
-temporaire d'un ou plusieurs dirigeants, avec ou sans nomination
+mixte a enfreint les dispositions européennes, législatives et réglementaires
+afférentes à son activité, la commission des sanctions peut prononcer à son
+encontre, en fonction de la gravité du manquement, un avertissement, un blâme,
+la suspension temporaire d'un ou plusieurs dirigeants, avec ou sans nomination
 d'administrateur provisoire, ou la démission d'office d'un ou plusieurs
 dirigeants, avec ou sans nomination d'administrateur provisoire.
 

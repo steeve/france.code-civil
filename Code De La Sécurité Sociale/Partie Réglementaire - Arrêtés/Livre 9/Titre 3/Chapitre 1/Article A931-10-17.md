@@ -3,9 +3,9 @@ Article A931-10-17
 I.-Le compte financier mentionné au II de l'article A. 931-10-15 comprend, en
 recettes, la part du produit net des placements, calculée suivant les règles
 fixées au II du présent article et, en dépenses, sur autorisation de l'Autorité
-de contrôle prudentiel et après justifications, la part des résultats que
-l'institution ou l'union a dû affecter aux fonds propres pour satisfaire au
-montant minimal de la marge de solvabilité.
+de contrôle prudentiel et de résolution et après justifications, la part des
+résultats que l'institution ou l'union a dû affecter aux fonds propres pour
+satisfaire au montant minimal de la marge de solvabilité.
 
 II.-La part du produit financier à inscrire en recettes du compte financier est
 égale à la somme des deux éléments suivants :

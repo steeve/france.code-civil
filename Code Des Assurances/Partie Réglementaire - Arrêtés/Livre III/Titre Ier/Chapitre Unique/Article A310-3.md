@@ -1,9 +1,9 @@
 Article A310-3
 ----
-I. - 1° En application du premier alinéa du I de l'article R. 310-17, toute
+I.-1° En application du premier alinéa du I de l'article R. 310-17, toute
 entreprise projetant d'ouvrir une succursale ou d'exercer des activités en libre
 prestation de services doit fournir, en double exemplaire, à l'Autorité de
-contrôle prudentiel les documents et informations suivants :
+contrôle prudentiel et de résolution les documents et informations suivants :
 
 a) La dénomination et l'adresse du siège social de l'entreprise ;
 
@@ -42,7 +42,7 @@ c) Les informations concernant le mandataire général mentionnées à l'article
 321-2 ;
 
 d) Un programme d'activité relatif à l'établissement envisagé comportant les
-pièces mentionnées au g (3, 4, 5) de l'article A. 321-1 ainsi que, pour les cinq
+pièces mentionnées au g (3,4,5) de l'article A. 321-1 ainsi que, pour les cinq
 premiers exercices comptables d'activité, les comptes de résultat prévisionnels,
 les prévisions relatives aux moyens financiers destinés à la couverture des
 engagements et celles relatives à la trésorerie ;
@@ -50,21 +50,22 @@ engagements et celles relatives à la trésorerie ;
 e) Un programme d'activité complémentaire relatif à l'établissement envisagé
 comportant les pièces mentionnées au g (2 et 10) de l'article A. 321-1.
 
-II. - Le dossier communiqué par l'Autorité de contrôle prudentiel, en
-application du deuxième alinéa du I de l'article R. 310-17, aux autorités de
-l'Etat membre sur le territoire duquel l'entreprise envisage d'opérer en liberté
-d'établissement ou en libre prestation de services comprend :
+II.-Le dossier communiqué par l'Autorité de contrôle prudentiel et de
+résolution, en application du deuxième alinéa du I de l'article R. 310-17, aux
+autorités de l'Etat membre sur le territoire duquel l'entreprise envisage
+d'opérer en liberté d'établissement ou en libre prestation de services comprend
+:
 
-1° Une attestation de l'Autorité de contrôle prudentiel certifiant que
-l'entreprise dispose de la marge de solvabilité conformément aux dispositions
-des sections II ou III du chapitre IV du titre III du livre III du présent code
-;
+1° Une attestation de l'Autorité de contrôle prudentiel et de résolution
+certifiant que l'entreprise dispose de la marge de solvabilité conformément aux
+dispositions des sections II ou III du chapitre IV du titre III du livre III du
+présent code ;
 
 2° Les éléments mentionnés aux a, c, d et e du 1° du I ainsi que, s'agissant de
 l'ouverture d'une succursale, les éléments mentionnés aux a, b, d et e du 2° du
 I.
 
-III. - Les documents mentionnés au I sont accompagnés de leur traduction
-certifiée conforme dans la langue officielle de l'Etat membre sur le territoire
-duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation
-de services.
+III.-Les documents mentionnés au I sont accompagnés de leur traduction certifiée
+conforme dans la langue officielle de l'Etat membre sur le territoire duquel
+elle envisage d'opérer en liberté d'établissement ou en libre prestation de
+services.

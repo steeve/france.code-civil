@@ -14,7 +14,7 @@ comptables et présentation des comptes annuels ;
 de redressement ou un plan de financement à court terme prescrit conformément
 aux dispositions des articles R. 510-3, R. 510-3-4, R. 510-4 et R. 510-5, ou de
 ne pas exécuter dans les conditions et délais prévus le plan ou le programme qui
-a été soumis à l'Autorité de contrôle prudentiel ;
+a été soumis à l'Autorité de contrôle prudentiel et de résolution ;
 
 En cas de récidive, la peine d'amende prévue pour la récidive des contraventions
 de la cinquième classe est applicable.

@@ -10,7 +10,7 @@ Lorsque l'entreprise choisit de confier les sinistres de la branche de
 protection juridique à une entreprise juridiquement distincte, conformément aux
 dispositions du deuxième tiret du premier alinéa de l'article L. 322-2-3, elle
 doit adresser copie des statuts de cette entreprise à l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.
 
 Si cette entreprise juridiquement distincte a des liens de la nature de ceux qui
 sont définis à l'article L. 612-26 du code monétaire et financier avec une autre

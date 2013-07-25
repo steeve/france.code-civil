@@ -46,16 +46,16 @@ dispositions de l'arrêté prévu à l'article R. 933-8.
 Ils sont pris en compte à concurrence de la part de capital souscrit détenue,
 directement ou indirectement, par les entités du conglomérat financier ou,
 lorsqu'il n'y a pas de lien en capital, pour la part déterminée par l'Autorité
-de contrôle prudentiel, après consultation des autres autorités compétentes
-concernées, en fonction de la responsabilité née de la relation existant entre
-l'entité et les autres entités du conglomérat financier.
+de contrôle prudentiel et de résolution, après consultation des autres autorités
+compétentes concernées, en fonction de la responsabilité née de la relation
+existant entre l'entité et les autres entités du conglomérat financier.
 
 En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est
 pris en compte en totalité. Toutefois, dans le cas où la responsabilité de
 l'organisme de référence détenant une part de capital est limitée, strictement
-et sans ambiguïté, à cette part de capital, l'Autorité de contrôle prudentiel
-peut décider d'admettre que le déficit de l'entité est pris en compte sur une
-base proportionnelle.
+et sans ambiguïté, à cette part de capital, l'Autorité de contrôle prudentiel et
+de résolution peut décider d'admettre que le déficit de l'entité est pris en
+compte sur une base proportionnelle.
 
 Les opérations intragroupe sont éliminées d'une manière équivalente à celle
 prévue pour l'établissement des comptes consolidés ou combinés mentionnés à

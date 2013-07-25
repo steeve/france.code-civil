@@ -3,8 +3,8 @@ Article A322-1
 Pour toute opération de prise ou d'extension de participation, la demande
 d'information complémentaire prévue au II de l'article R. 322-11-2 ne peut
 s'effectuer qu'au plus tard le cinquantième jour ouvrable de la période
-d'évaluation. L'Autorité de contrôle prudentiel fait cette demande par écrit et
-précise les informations complémentaires nécessaires.
+d'évaluation. L'Autorité de contrôle prudentiel et de résolution fait cette
+demande par écrit et précise les informations complémentaires nécessaires.
 
 La période d'évaluation est alors prolongée de la période nécessaire au candidat
 acquéreur pour fournir ces informations, dans une limite de vingt jours

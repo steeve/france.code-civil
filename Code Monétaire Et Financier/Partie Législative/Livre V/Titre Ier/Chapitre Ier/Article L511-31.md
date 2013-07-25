@@ -1,7 +1,8 @@
 Article L511-31
 ----
 Les organes centraux représentent les établissements de crédit qui leur sont
-affiliés auprès de la Banque de France et de l'Autorité de contrôle prudentiel.
+affiliés auprès de la Banque de France et de l'Autorité de contrôle prudentiel
+et de résolution.
 
 Ils sont chargés de veiller à la cohésion de leur réseau et de s'assurer du bon
 fonctionnement des établissements qui leur sont affiliés. A cette fin, ils
@@ -29,23 +30,24 @@ Dans le cadre de ces compétences, ils peuvent prendre les sanctions prévues pa
 les textes législatifs et réglementaires qui leur sont propres.
 
 La perte de la qualité d'établissement affilié doit être notifiée par l'organe
-central au l'Autorité de contrôle prudentiel, qui se prononce sur l'agrément de
-l'établissement en cause.
+central au l'Autorité de contrôle prudentiel et de résolution, qui se prononce
+sur l'agrément de l'établissement en cause.
 
 Pour l'application des dispositions de la section 2 du chapitre V du titre II du
 livre II du code de commerce, les mandats sociaux détenus au sein de l'organe
 central, au sens de l'article L. 511-30 du présent code, ou des établissements
 de crédit qui lui sont affiliés doivent être décomptés pour un seul mandat.
 
-Après en avoir informé l'Autorité de contrôle prudentiel, les organes centraux
-peuvent, lorsque la situation financière des établissements concernés le
-justifie, et nonobstant toutes dispositions ou stipulations contraires, décider
-la fusion de deux ou plusieurs personnes morales qui leur sont affiliées, la
-cession totale ou partielle de leur fonds de commerce ainsi que leur
-dissolution. Les organes dirigeants des personnes morales concernées doivent au
-préalable avoir été consultés par les organes centraux. Ces derniers sont
-chargés de la liquidation des établissements de crédit qui leur sont affiliés ou
-de la cession totale ou partielle de leur fonds de commerce.
+Après en avoir informé l'Autorité de contrôle prudentiel et de résolution, les
+organes centraux peuvent, lorsque la situation financière des établissements
+concernés le justifie, et nonobstant toutes dispositions ou stipulations
+contraires, décider la fusion de deux ou plusieurs personnes morales qui leur
+sont affiliées, la cession totale ou partielle de leur fonds de commerce ainsi
+que leur dissolution. Les organes dirigeants des personnes morales concernées
+doivent au préalable avoir été consultés par les organes centraux. Ces derniers
+sont chargés de la liquidation des établissements de crédit qui leur sont
+affiliés ou de la cession totale ou partielle de leur fonds de commerce.
 
 Les organes centraux notifient toute décision d'affiliation ou de retrait
-d'affiliation à l'établissement concerné et à l'Autorité de contrôle prudentiel.
+d'affiliation à l'établissement concerné et à l'Autorité de contrôle prudentiel
+et de résolution.

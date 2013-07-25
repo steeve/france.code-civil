@@ -24,12 +24,13 @@ réglementaire octroyés par tout établissement de crédit ayant fait l'objet d
 procédure de sauvegarde ou de redressement judiciaire ouverte après le 1er
 janvier 1996 et qui n'a pu intégralement honorer ces engagements.
 
-Pour l'application de ces dispositions, le fonds de garantie des dépôts assume,
-dès l'agrément du président de son directoire, la charge financière de ces
-engagements de caution pour le compte du mécanisme de garantie des cautions
-jusqu'au premier appel des cotisations affectées à ce mécanisme. La charge
-supportée du fait de cette intervention par le fonds de garantie des dépôts est
-alors imputée sur le mécanisme de garantie des cautions.
+Pour l'application de ces dispositions, le fonds de garantie des dépôts et de
+résolution assume, dès l'agrément du président de son directoire, la charge
+financière de ces engagements de caution pour le compte du mécanisme de garantie
+des cautions jusqu'au premier appel des cotisations affectées à ce mécanisme. La
+charge supportée du fait de cette intervention par le fonds de garantie des
+dépôts et de résolution est alors imputée sur le mécanisme de garantie des
+cautions.
 
 Nonobstant les dispositions de l'article L. 621-46 du code de commerce, les
 sommes versées par le mécanisme de garantie à ce titre confèrent au fonds de

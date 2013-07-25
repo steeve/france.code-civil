@@ -10,10 +10,10 @@ ou par des crédits bancaires ;
 2° Le traitement, à ce titre, d'un nombre minimum de dossiers par an, fixé par
 arrêté du ministre chargé de l'économie ;
 
-3° La compétence requise appréciée par l'Autorité de contrôle prudentiel au vu,
-notamment, des réalisations passées, des résultats de l'activité
-d'accompagnement, du taux de remboursement des crédits et de l'aptitude à
-contrôler les risques et la gestion ;
+3° La compétence requise appréciée par l'Autorité de contrôle prudentiel et de
+résolution au vu, notamment, des réalisations passées, des résultats de
+l'activité d'accompagnement, du taux de remboursement des crédits et de
+l'aptitude à contrôler les risques et la gestion ;
 
 4° La signature d'une convention de garantie appropriée des emprunts contractés
 par l'association ou la fondation.

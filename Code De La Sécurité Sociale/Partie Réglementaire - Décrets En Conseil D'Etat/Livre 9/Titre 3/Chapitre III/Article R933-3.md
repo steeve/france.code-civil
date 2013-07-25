@@ -52,12 +52,12 @@ France ;
 détenues au travers d'une société de groupe d'assurance, l'exigence de
 solvabilité ajustée de cette dernière est égale à zéro ;
 
-l'Autorité de contrôle prudentiel peut prendre en compte les exigences de
-solvabilité et les éléments admissibles pour satisfaire ces exigences retenus
-par les autorités d'un Etat non membre de la Communauté européenne ou qui n'est
-pas partie à l'accord sur l'Espace économique européen dans lequel un organisme
-assureur apparenté ou une entreprise de réassurance a son siège et dont les
-exigences sont considérées comme équivalentes.
+L'Autorité de contrôle prudentiel et de résolution peut prendre en compte les
+exigences de solvabilité et les éléments admissibles pour satisfaire ces
+exigences retenus par les autorités d'un Etat non membre de la Communauté
+européenne ou qui n'est pas partie à l'accord sur l'Espace économique européen
+dans lequel un organisme assureur apparenté ou une entreprise de réassurance a
+son siège et dont les exigences sont considérées comme équivalentes.
 
 En outre, si une institution de prévoyance ou union applique les normes
 comptables internationales adoptées par règlement de la Commission européenne,

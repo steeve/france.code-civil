@@ -32,3 +32,7 @@ IV. - Lorsque le bénéficiaire propose au payeur un service de conversion
 monétaire, il est tenu de l'informer de tous les frais appliqués, ainsi que du
 taux de change qui sera utilisé aux fins de la conversion de l'opération de
 paiement.
+
+V. - Un décret pris sur avis du comité consultatif du secteur financier établit
+une dénomination commune des principaux frais et services bancaires que les
+banques sont tenues de respecter.

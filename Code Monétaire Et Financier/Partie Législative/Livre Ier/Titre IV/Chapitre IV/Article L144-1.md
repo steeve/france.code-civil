@@ -20,4 +20,4 @@ Elle établit au préalable les modalités de communication de ces renseignement
 et fixe les obligations déclaratives de ces entreprises.
 
 Les méthodes et modèles de notation du risque de ces entreprises sont transmis à
-l'Autorité de contrôle prudentiel.
+l'Autorité de contrôle prudentiel et de résolution.

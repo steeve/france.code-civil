@@ -32,6 +32,6 @@ rachats exceptionnels pris en compte est égal au triple du taux annuel moyen de
 rachats constatés au cours des années passées.
 
 Les mutuelles et unions transmettent les résultats du test chaque année à
-l'Autorité de contrôle prudentiel dans les quatre mois suivant la clôture de
-l'exercice, dans la forme de l'état C 6 bis défini dans l'annexe à l'article A.
-114-5.
+l'Autorité de contrôle prudentiel et de résolution dans les quatre mois suivant
+la clôture de l'exercice, dans la forme de l'état C 6 bis défini dans l'annexe à
+l'article A. 114-5.

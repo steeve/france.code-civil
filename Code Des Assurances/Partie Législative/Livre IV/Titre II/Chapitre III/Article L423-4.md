@@ -35,12 +35,13 @@ d'elles. Son président ne peut exercer ses fonctions qu'après agrément du
 ministre chargé de l'économie.
 
 Le ministre chargé de l'économie ou son représentant ainsi que le président de
-l'Autorité de contrôle prudentiel ou son représentant peuvent, à leur demande,
-être entendus par le conseil de surveillance et le directoire.
+l'Autorité de contrôle prudentiel et de résolution ou son représentant peuvent,
+à leur demande, être entendus par le conseil de surveillance et le directoire.
 
-L'Autorité de contrôle prudentiel entend le président du directoire du fonds de
-garantie pour toute question concernant une entreprise d'assurance pour laquelle
-elle envisage de mettre en oeuvre les dispositions du présent chapitre.
+L'Autorité de contrôle prudentiel et de résolution entend le président du
+directoire du fonds de garantie pour toute question concernant une entreprise
+d'assurance pour laquelle elle envisage de mettre en oeuvre les dispositions du
+présent chapitre.
 
 Le président du directoire est également entendu, à sa demande, par l'Autorité
-de contrôle prudentiel.
+de contrôle prudentiel et de résolution.

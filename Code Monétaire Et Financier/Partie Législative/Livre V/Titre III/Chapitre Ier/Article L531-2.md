@@ -16,9 +16,10 @@ d'outre-mer :
 2° a) Les entreprises d'assurance et de réassurance régies par le code des
 assurances ;
 
-b) Les organismes de placement collectif mentionnés à l'article L. 214-1, ainsi
-que les sociétés chargées de la gestion des organismes de placement collectif
-mentionnés aux 2,3 et 4 du I de l'article L. 214-1 ;
+b) Les organismes de placement collectif mentionnés au II de l'article L. 214-1,
+ainsi que les sociétés chargées de la gestion des FIA relevant du paragraphe 4
+de la sous-section 2, et de la sous-section 5 de la section 2 du chapitre IV du
+titre Ier du livre II ;
 
 c) Les institutions de retraites professionnelles mentionnées à l'article L.
 370-1 du code des assurances pour leurs opérations mentionnées à l'article L.
@@ -92,3 +93,6 @@ compte d'autres membres de ces marchés, et qui sont couvertes par la garantie
 d'un adhérent d'une chambre de compensation, lorsque la responsabilité des
 contrats conclus par ces entreprises est assumée par un adhérent d'une chambre
 de compensation.
+
+Les filiales mentionnées à l'article L. 511-47 ne peuvent bénéficier de
+l'exemption d'agrément prévue au présent article.

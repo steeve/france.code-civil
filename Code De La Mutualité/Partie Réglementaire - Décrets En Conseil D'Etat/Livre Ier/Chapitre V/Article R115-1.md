@@ -34,7 +34,7 @@ fonds ont été versés préalablement à la constitution de l'union mutualiste 
 groupe.
 
 Ces mêmes documents doivent être déposés, dans le même délai, auprès de
-l'Autorité de contrôle prudentiel.
+l'Autorité de contrôle prudentiel et de résolution.
 
 III.-Dans le même délai d'un mois, un extrait des documents mentionnés ci-dessus
 est publié dans l'un des journaux habilités à recevoir les annonces légales dans

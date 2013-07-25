@@ -1,7 +1,7 @@
 Article L931-5
 ----
 Pour accorder ou refuser l'agrément prévu aux articles L. 931-4 et L. 931-4-1,
-l'Autorité de contrôle prudentiel prend en compte :
+l'Autorité de contrôle prudentiel et de résolution prend en compte :
 
 1° La convention ou l'accord sur la base duquel l'institution a été constituée
 en application de l'article L. 931-1 ou, pour l'union, la délibération
@@ -19,13 +19,13 @@ l'article L. 931-9 ;
 5° L'engagement d'adhérer au fonds paritaire de garantie prévu à l'article L.
 931-35.
 
-L'Autorité de contrôle prudentiel refuse l'agrément lorsque l'exercice de la
-mission de surveillance de l'institution ou de l'union est susceptible d'être
-entravé soit par l'existence de liens de contrôle directs ou indirects entre
-l'institution ou l'union requérante et d'autres personnes physiques ou morales,
-soit par l'existence de dispositions législatives, réglementaires ou
-administratives d'un Etat qui n'est pas partie à l'accord sur l'Espace
-économique européen et dont relèvent une ou plusieurs de ces personnes.
+L'Autorité de contrôle prudentiel et de résolution refuse l'agrément lorsque
+l'exercice de la mission de surveillance de l'institution ou de l'union est
+susceptible d'être entravé soit par l'existence de liens de contrôle directs ou
+indirects entre l'institution ou l'union requérante et d'autres personnes
+physiques ou morales, soit par l'existence de dispositions législatives,
+réglementaires ou administratives d'un Etat qui n'est pas partie à l'accord sur
+l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
 
 L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits
 par l'institution ou l'union requérante.

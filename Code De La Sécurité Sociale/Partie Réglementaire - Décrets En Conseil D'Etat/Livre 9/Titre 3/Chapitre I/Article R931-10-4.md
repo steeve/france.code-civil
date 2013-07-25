@@ -1,7 +1,7 @@
 Article R931-10-4
 ----
 En ce qui concerne les institutions de prévoyance ou unions d'institutions de
-prévoyance agréées pour pratiquer les branches 1, 2 et 16 a mentionnées à
+prévoyance agréées pour pratiquer les branches 1,2 et 16 a mentionnées à
 l'article R. 931-2-1, l'exigence minimale de marge de solvabilité est déterminée
 soit par rapport au montant annuel des cotisations, soit par rapport à la charge
 moyenne des sinistres pour les trois derniers exercices. Le montant minimal de
@@ -33,8 +33,8 @@ d'institutions de prévoyance après cession en réassurance et le montant des
 sinistres bruts de réassurance, sans que ce rapport puisse être inférieur à 50
 %.
 
-Sous réserve de l'accord de l'Autorité de contrôle prudentiel, l'affectation des
-cotisations peut être effectuée par des méthodes statistiques.
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel et de résolution,
+l'affectation des cotisations peut être effectuée par des méthodes statistiques.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne annuelle des
 sinistres) :

@@ -62,8 +62,8 @@ comptes sont combinés, ainsi que l'indication des motifs qui justifient la
 non-combinaison de certaines entreprises ;
 
 d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité
-de contrôle prudentiel pour elle-même et pour les caisses locales qui la
-détiennent.
+de contrôle prudentiel et de résolution pour elle-même et pour les caisses
+locales qui la détiennent.
 
 2 bis. Dans les trois mois de l'acquisition des titres d'une société du groupe
 ou d'une autre société intermédiaire, l'attestation mentionnée au b bis du 1

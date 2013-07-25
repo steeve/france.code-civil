@@ -41,11 +41,11 @@ l'article L. 632-7 " sont remplacés par les mots : " du III de l'article L.
 
 c) Il est ajouté un alinéa ainsi rédigé :
 
-L'Autorité des marchés financiers et l'Autorité de contrôle prudentiel ne
-peuvent refuser d'accéder aux demandes des autorités des Etats autres que la
-France d'exercer les activités prévues au premier alinéa que lorsque la demande
-est de nature à porter atteinte à la souveraineté, à la sécurité ou à l'ordre
-public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en
-France sur la base des mêmes faits et contre les mêmes personnes, ou bien
-lorsque celles-ci ont déjà été sanctionnées par une décision passée en force de
-chose jugée pour les mêmes faits.
+L'Autorité des marchés financiers et l'Autorité de contrôle prudentiel et de
+résolution ne peuvent refuser d'accéder aux demandes des autorités des Etats
+autres que la France d'exercer les activités prévues au premier alinéa que
+lorsque la demande est de nature à porter atteinte à la souveraineté, à la
+sécurité ou à l'ordre public français ou lorsqu'une procédure pénale quelconque
+a déjà été engagée en France sur la base des mêmes faits et contre les mêmes
+personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision
+passée en force de chose jugée pour les mêmes faits.

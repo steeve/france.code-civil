@@ -1,8 +1,8 @@
 Article L526-15
 ----
 Le retrait de l'agrément d'établissement de monnaie électronique peut également
-être décidé d'office par l'Autorité de contrôle prudentiel lorsque
-l'établissement :
+être décidé d'office par l'Autorité de contrôle prudentiel et de résolution
+lorsque l'établissement :
 
 1° Ne fait pas usage de l'agrément dans un délai de douze mois ou a cessé
 d'exercer son activité pendant une période supérieure à six mois ;

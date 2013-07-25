@@ -1,19 +1,19 @@
 Article L421-9-1
 ----
-I. - Lorsque l'Autorité de contrôle prudentiel estime qu'une des entreprises
-mentionnées au premier alinéa du I de l'article L. 421-9, ou présente sur le
-marché des garanties de responsabilité civile automobile, n'est plus en mesure
-de faire face à ses engagements envers les personnes mentionnées au même
-article, elle décide de recourir au Fonds de garantie des assurances
+I.-Lorsque l'Autorité de contrôle prudentiel et de résolution estime qu'une des
+entreprises mentionnées au premier alinéa du I de l'article L. 421-9, ou
+présente sur le marché des garanties de responsabilité civile automobile, n'est
+plus en mesure de faire face à ses engagements envers les personnes mentionnées
+au même article, elle décide de recourir au Fonds de garantie des assurances
 obligatoires de dommages.
 
-Avant de prendre sa décision, l'Autorité de contrôle prudentiel consulte par
-écrit le fonds de garantie en lui indiquant qu'elle envisage de recourir à lui.
-Le fonds dispose d'un délai de quinze jours pour adresser ses observations à
-l'Autorité et son représentant peut être reçu par celle-ci durant ce délai. A
-l'expiration de ce délai, ou d'un délai plus court fixé d'un commun accord entre
-le fonds de garantie et l'Autorité, cette dernière statue sur la saisine du
-fonds et lui notifie sa décision de recourir ou non à lui.
+Avant de prendre sa décision, l'Autorité de contrôle prudentiel et de résolution
+consulte par écrit le fonds de garantie en lui indiquant qu'elle envisage de
+recourir à lui. Le fonds dispose d'un délai de quinze jours pour adresser ses
+observations à l'Autorité et son représentant peut être reçu par celle-ci durant
+ce délai. A l'expiration de ce délai, ou d'un délai plus court fixé d'un commun
+accord entre le fonds de garantie et l'Autorité, cette dernière statue sur la
+saisine du fonds et lui notifie sa décision de recourir ou non à lui.
 
 S'il conteste cette décision, le fonds peut, dans un délai de quinze jours à
 compter de celle-ci, saisir le ministre chargé de l'économie. Celui-ci peut
@@ -24,11 +24,11 @@ l'Autorité une nouvelle délibération.
 La décision de l'Autorité de recourir au fonds de garantie est immédiatement
 notifiée à l'entreprise concernée à l'issue de la procédure décrite ci-dessus.
 
-II. - Dès cette notification, l'Autorité lance un appel d'offres en vue du
+II.-Dès cette notification, l'Autorité lance un appel d'offres en vue du
 transfert du portefeuille de contrats de cette entreprise. Cet appel d'offres
 est communiqué au fonds de garantie.
 
-III. - L'Autorité retient la ou les offres qui lui paraissent le mieux préserver
+III.-L'Autorité retient la ou les offres qui lui paraissent le mieux préserver
 l'intérêt des assurés, souscripteurs de contrats, adhérents et bénéficiaires de
 prestations.
 
@@ -42,7 +42,7 @@ dispositions du présent article.
 Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en
 informe le fonds de garantie.
 
-IV. - Le transfert de tout ou partie du portefeuille ou le constat de l'échec de
+IV.-Le transfert de tout ou partie du portefeuille ou le constat de l'échec de
 la procédure de transfert emporte retrait, par l'Autorité, de tous les agréments
 administratifs de l'entreprise défaillante. Le fonds de garantie accomplit,
 jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la

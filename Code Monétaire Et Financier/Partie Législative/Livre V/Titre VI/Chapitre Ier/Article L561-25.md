@@ -1,12 +1,13 @@
 Article L561-25
 ----
 Le service mentionné à l'article L. 561-23 peut s'opposer à l'exécution d'une
-opération qui a fait l'objet d'une déclaration établie en application de
-l'article L. 561-15. Son opposition est notifiée à l'auteur de la déclaration
-selon des modalités définies par décret en Conseil d'Etat, dans un délai d'un
-jour ouvrable à compter de la date de réception de la déclaration.
+opération non encore exécutée, dont il a eu connaissance à l'occasion des
+informations qui lui ont été communiquées dans le cadre des articles L. 561-15,
+L. 561-26, L. 561-27, L. 561-30 et L. 561-31. Son opposition est notifiée au
+professionnel assujetti chargé de l'opération selon des modalités définies par
+décret en Conseil d'Etat.
 
-Dans ce cas, l'opération est reportée d'une durée de deux jours ouvrables à
+Dans ce cas, l'opération est reportée d'une durée de cinq jours ouvrables à
 compter du jour d'émission de cette notification.
 
 Le président du tribunal de grande instance de Paris peut, sur requête du
@@ -14,7 +15,7 @@ service mentionné à l'article L. 561-23, après avis du procureur de la
 République de ce siège, proroger le délai prévu au deuxième alinéa du présent
 article ou ordonner le séquestre provisoire des fonds, comptes ou titres
 concernés par la déclaration. Le procureur de la République peut présenter une
-requête ayant le même objet.L'ordonnance qui fait droit à la requête est
+requête ayant le même objet. L'ordonnance qui fait droit à la requête est
 exécutoire sur minute avant toute notification à l'auteur de la déclaration
 mentionnée à l'article L. 561-15.
 

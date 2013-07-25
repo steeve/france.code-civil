@@ -6,8 +6,8 @@ direction ou à la gestion d'un établissement de paiement ou qui est employée 
 un établissement de paiement est tenu au secret professionnel.
 
 Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé
-ni à l'Autorité de contrôle prudentiel ni à la Banque de France ni à l'autorité
-judiciaire agissant dans le cadre d'une procédure pénale.
+ni à l'Autorité de contrôle prudentiel et de résolution ni à la Banque de France
+ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
 
 Les établissements de paiement peuvent communiquer des informations couvertes
 par le secret professionnel aux personnes avec lesquelles ils négocient,
@@ -57,10 +57,11 @@ IV.-Tout établissement de paiement doit publier ses comptes annuels dans des
 conditions fixées par l'Autorité des normes comptables après avis du comité
 consultatif de la législation et de la réglementation financières.
 
-L'Autorité de contrôle prudentiel s'assure que les publications prévues
-ci-dessus sont régulièrement effectuées. Elle peut ordonner à l'établissement de
-paiement de procéder à des publications rectificatives dans le cas où des
-inexactitudes ou des omissions auraient été relevées dans les documents publiés.
+L'Autorité de contrôle prudentiel et de résolution s'assure que les publications
+prévues ci-dessus sont régulièrement effectuées. Elle peut ordonner à
+l'établissement de paiement de procéder à des publications rectificatives dans
+le cas où des inexactitudes ou des omissions auraient été relevées dans les
+documents publiés.
 
 Elle peut porter à la connaissance du public toutes informations qu'elle estime
 nécessaires.
@@ -68,4 +69,5 @@ nécessaires.
 V.-Les établissements de paiement sont tenus aux obligations des articles L.
 511-38 et L. 511-39. Toutefois, lorsqu'ils exercent d'autres activités
 conformément à l'article L. 522-3, l'avis de l'Autorité de contrôle prudentiel
-n'est pas requis pour la désignation de leurs commissaires aux comptes.
+et de résolution n'est pas requis pour la désignation de leurs commissaires aux
+comptes.

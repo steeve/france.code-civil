@@ -21,7 +21,8 @@ l'organisme acheteur, la valeur comptable dans le premier, le prix de vente et
 la référence ayant permis d'établir celui-ci.
 
 Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque
-trimestre dans les 30 jours à l'Autorité de contrôle prudentiel.
+trimestre dans les 30 jours à l'Autorité de contrôle prudentiel et de
+résolution.
 
 En outre, dans tous les cas, les rachats ou remboursements des titres et
 emprunts subordonnés effectués directement ou indirectement entre organismes

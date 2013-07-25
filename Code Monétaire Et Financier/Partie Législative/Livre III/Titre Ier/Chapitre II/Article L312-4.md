@@ -1,8 +1,15 @@
 Article L312-4
 ----
-Les établissements de crédit agréés en France adhèrent à un fonds de garantie
-des dépôts qui a pour objet d'indemniser les déposants en cas d'indisponibilité
-de leurs dépôts ou autres fonds remboursables.
+Les établissements de crédit, les compagnies financières, les compagnies
+financières holding mixtes et les entreprises d'investissement, à l'exception
+des sociétés de gestion de portefeuille, agréés en France adhèrent à un fonds de
+garantie des dépôts et de résolution qui a pour objet d'indemniser les déposants
+en cas d'indisponibilité de leurs dépôts ou autres fonds remboursables et, sur
+demande de l'Autorité de contrôle prudentiel et de résolution, d'intervenir,
+dans les conditions prévues à l'article L. 613-31-15, auprès d'un établissement
+de crédit, d'une entreprise d'investissement, autre qu'une société de gestion de
+portefeuille, d'une compagnie financière et d'une compagnie financière holding
+mixte.
 
 Sont exclus de cette indemnisation les dépôts ou autres fonds des établissements
 de crédit, des établissements de monnaie électronique, des établissements de

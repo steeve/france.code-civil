@@ -1,9 +1,10 @@
 Article L512-2
 ----
-Les entreprises soumises au contrôle de l'Autorité de contrôle prudentiel, les
-autres entreprises mentionnées à l'article L. 310-2 ou les entreprises de
-réassurance, qui recourent aux services d'intermédiaires, doivent s'assurer que
-ceux-ci sont immatriculés conformément aux dispositions de l'article L. 512-1.
+Les entreprises soumises au contrôle de l'Autorité de contrôle prudentiel et de
+résolution, les autres entreprises mentionnées à l'article L. 310-2 ou les
+entreprises de réassurance, qui recourent aux services d'intermédiaires, doivent
+s'assurer que ceux-ci sont immatriculés conformément aux dispositions de
+l'article L. 512-1.
 
 Les entreprises qui recourent à des intermédiaires ressortissants d'un Etat
 membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur

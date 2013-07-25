@@ -1,6 +1,7 @@
 Article L612-2
 ----
-I.-Relèvent de la compétence de l'Autorité de contrôle prudentiel :
+I.-Relèvent de la compétence de l'Autorité de contrôle prudentiel et de
+résolution :
 
 A.-Dans le secteur de la banque, des services de paiement et des services
 d'investissement :
@@ -86,13 +87,17 @@ du code des assurances ;
 organisme mentionné au 3° ou au 4° du B et une personne qui souhaite adhérer ou
 adhère à cet organisme ;
 
-3° Tout intermédiaire en opération de banque et en services de paiement.
+3° Tout intermédiaire en opération de banque et en services de paiement ;
 
-III.-L'Autorité de contrôle prudentiel est chargée de veiller au respect par les
-personnes mentionnées aux I et II exerçant en France en libre prestation de
-service ou libre établissement des dispositions qui leur sont applicables, en
-tenant compte de la surveillance exercée par les autorités compétentes de l'Etat
-membre où elles ont leur siège social qui sont seules chargées notamment de
-l'examen de leurs situation financière, conditions d'exploitation, solvabilité
-et de leur capacité à tenir à tout moment leurs engagements à l'égard de leurs
-assurés, adhérents, bénéficiaires et entreprises réassurées.
+Lorsqu'elle a soumis à son contrôle l'une des personnes mentionnées aux 1° à 3°
+du présent II, la section 2 du chapitre III du présent titre est applicable.
+
+III.-L'Autorité de contrôle prudentiel et de résolution est chargée de veiller
+au respect par les personnes mentionnées aux I et II exerçant en France en libre
+prestation de service ou libre établissement des dispositions qui leur sont
+applicables, en tenant compte de la surveillance exercée par les autorités
+compétentes de l'Etat membre où elles ont leur siège social qui sont seules
+chargées notamment de l'examen de leurs situation financière, conditions
+d'exploitation, solvabilité et de leur capacité à tenir à tout moment leurs
+engagements à l'égard de leurs assurés, adhérents, bénéficiaires et entreprises
+réassurées.

@@ -1,14 +1,14 @@
 Article L526-16
 ----
 Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est
-déterminée par l'Autorité de contrôle prudentiel.
+déterminée par l'Autorité de contrôle prudentiel et de résolution.
 
 Pendant cette période :
 
 1° L'établissement de monnaie électronique demeure soumis au contrôle de
-l'Autorité de contrôle prudentiel. L'Autorité de contrôle prudentiel peut
-prononcer à son encontre les sanctions disciplinaires prévues à l'article L.
-612-39, y compris la radiation ;
+l'Autorité de contrôle prudentiel et de résolution. L'Autorité de contrôle
+prudentiel et de résolution peut prononcer à son encontre les sanctions
+disciplinaires prévues à l'article L. 612-39, y compris la radiation ;
 
 2° L'établissement ne peut émettre de la monnaie électronique ;
 

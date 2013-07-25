@@ -15,20 +15,20 @@ mandataire lorsqu'ils entrent en contact avec eux. Un agent peut recevoir mandat
 de plusieurs prestataires de services de paiement.
 
 II.-Les prestataires de services de paiement font enregistrer auprès de
-l'Autorité de contrôle prudentiel les agents auxquels ils entendent recourir. A
-cet effet, ils communiquent à l'Autorité les informations lui permettant de
-vérifier que ces agents satisfont aux conditions exigées par le présent
-chapitre. Un prestataire de services de paiement peut recourir à un autre
-prestataire des services de paiement, aux fins de communiquer les informations
-nécessaires à l'enregistrement des agents.
+l'Autorité de contrôle prudentiel et de résolution les agents auxquels ils
+entendent recourir. A cet effet, ils communiquent à l'Autorité les informations
+lui permettant de vérifier que ces agents satisfont aux conditions exigées par
+le présent chapitre. Un prestataire de services de paiement peut recourir à un
+autre prestataire des services de paiement, aux fins de communiquer les
+informations nécessaires à l'enregistrement des agents.
 
 Lorsqu'un agent ne remplit plus les conditions d'enregistrement, il appartient
 au prestataire de services de paiement d'en informer l'autorité auprès de
 laquelle l'agent a été enregistré.
 
-III.-L'Autorité de contrôle prudentiel peut refuser d'enregistrer un agent si,
-après vérification, les informations fournies ne lui paraissent pas
-satisfaisantes.
+III.-L'Autorité de contrôle prudentiel et de résolution peut refuser
+d'enregistrer un agent si, après vérification, les informations fournies ne lui
+paraissent pas satisfaisantes.
 
 IV.-Les conditions d'application du présent article sont définies par un arrêté
 du ministre chargé de l'économie.

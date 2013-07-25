@@ -4,8 +4,8 @@ I. ― Lorsque, pour l'exercice de ses contrôles, le secrétaire général déc
 faire appel à des personnes qui n'appartiennent ni à ses services ni à ceux
 d'une autre autorité compétente mentionnée à l'article L. 612-23, le recours à
 ces personnes s'inscrit dans le cadre d'un protocole d'accord conclu avec
-l'Autorité de contrôle prudentiel, qui énonce les missions à mener et précise
-les conditions dans lesquelles elles doivent être exécutées.
+l'Autorité de contrôle prudentiel et de résolution, qui énonce les missions à
+mener et précise les conditions dans lesquelles elles doivent être exécutées.
 
 Le protocole d'accord comporte une clause stipulant que ces personnes agissent
 et s'organisent de manière à éviter tout conflit d'intérêts, sont averties des

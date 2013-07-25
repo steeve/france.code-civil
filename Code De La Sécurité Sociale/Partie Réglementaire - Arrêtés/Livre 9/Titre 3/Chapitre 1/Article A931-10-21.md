@@ -6,9 +6,9 @@ immédiatement procédé à une nouvelle désignation dans les mêmes formes, et
 délais sont dûment prorogés.
 
 Toutefois, si l'expert défaillant est celui de l'institution ou de l'union,
-l'Autorité de contrôle prudentiel peut requérir immédiatement du président du
-tribunal la désignation d'un expert unique, dont les conclusions lieront les
-deux parties. Elle peut formuler la même requête s'il n'a pas été répondu à sa
-demande d'expertise dans le délai prévu au deuxième alinéa de l'article A.
-931-10-20, ou si l'expert de l'institution ou de l'union n'a pas déposé son
-rapport dans le délai fixé au quatrième alinéa de cet article.
+l'Autorité de contrôle prudentiel et de résolution peut requérir immédiatement
+du président du tribunal la désignation d'un expert unique, dont les conclusions
+lieront les deux parties. Elle peut formuler la même requête s'il n'a pas été
+répondu à sa demande d'expertise dans le délai prévu au deuxième alinéa de
+l'article A. 931-10-20, ou si l'expert de l'institution ou de l'union n'a pas
+déposé son rapport dans le délai fixé au quatrième alinéa de cet article.

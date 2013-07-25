@@ -3,7 +3,7 @@ Article R351-3
 Toute demande d'agrément ou d'extension d'agrément de libre prestation de
 services prévue au deuxième alinéa de l'article L. 351-5 et à l'article L. 321-8
 doit être produite en double exemplaire auprès de l'Autorité de contrôle
-prudentiel et comporter :
+prudentiel et de résolution et comporter :
 
 1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 351-2 ;
 

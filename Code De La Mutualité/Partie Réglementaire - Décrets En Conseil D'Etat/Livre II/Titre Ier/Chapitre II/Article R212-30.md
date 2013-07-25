@@ -10,4 +10,4 @@ variation des taux d'intérêt et des cours boursiers sur leur actif et leur
 passif et des estimations comparées de l'exigibilité de leur passif et de la
 liquidité de leur actif. Les résultats de cette évaluation sont déterminés et
 présentés selon des principes généraux et dans des conditions définies par
-décision de l'Autorité de contrôle prudentiel.
+décision de l'Autorité de contrôle prudentiel et de résolution.

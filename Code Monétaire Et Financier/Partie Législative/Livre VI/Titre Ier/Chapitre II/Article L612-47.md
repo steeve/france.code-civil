@@ -1,7 +1,7 @@
 Article L612-47
 ----
-L'Autorité de contrôle prudentiel et l'Autorité des marchés financiers
-instituent un pôle commun chargé, sous leur responsabilité :
+L'Autorité de contrôle prudentiel et de résolution et l'Autorité des marchés
+financiers instituent un pôle commun chargé, sous leur responsabilité :
 
 1° De coordonner les propositions de priorités de contrôle définies par les deux
 autorités en matière de respect des obligations à l'égard de leurs clientèles
@@ -20,5 +20,5 @@ campagnes publicitaires relatives à ces produits ;
 
 4° D'offrir un point d'entrée commun habilité à recevoir les demandes des
 clients, assurés, bénéficiaires, ayants droit et épargnants susceptibles d'être
-adressées à l'Autorité de contrôle prudentiel ou à l'Autorité des marchés
-financiers.
+adressées à l'Autorité de contrôle prudentiel et de résolution ou à l'Autorité
+des marchés financiers.

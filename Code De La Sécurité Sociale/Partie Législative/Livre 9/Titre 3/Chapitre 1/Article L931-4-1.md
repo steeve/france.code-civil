@@ -3,7 +3,8 @@ Article L931-4-1
 I.-Les institutions de prévoyance et unions mentionnées au II de l'article L.
 931-1-1, qui ont la réassurance pour activité exclusive et dont le siège social
 est situé en France, ne peuvent commencer leurs opérations qu'après avoir obtenu
-un agrément administratif délivré par l'Autorité de contrôle prudentiel.
+un agrément administratif délivré par l'Autorité de contrôle prudentiel et de
+résolution.
 
 L'agrément est accordé sur demande de l'institution de prévoyance ou de l'union
 pour la réassurance des opérations relevant soit du a, soit du b et du c de
@@ -26,6 +27,6 @@ c) Soit un organisme contrôlé par une personne, physique ou morale, qui contr�
 membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
 l'Espace économique européen,
 
-L'Autorité de contrôle prudentiel consulte les autorités compétentes de l'autre
-Etat membre de la Communauté européenne ou de l'autre Etat partie à l'accord sur
-l'Espace économique européen concerné.
+L'Autorité de contrôle prudentiel et de résolution consulte les autorités
+compétentes de l'autre Etat membre de la Communauté européenne ou de l'autre
+Etat partie à l'accord sur l'Espace économique européen concerné.

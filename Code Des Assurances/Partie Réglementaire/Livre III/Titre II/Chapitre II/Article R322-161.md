@@ -1,19 +1,19 @@
 Article R322-161
 ----
-I. - 1° Les statuts des sociétés de groupe d'assurance mutuelle doivent fixer
-les conditions d'admission de retrait ou d'exclusion des entreprises affiliées
-par convention à la société de groupe d'assurance.
+I.-1° Les statuts des sociétés de groupe d'assurance mutuelle doivent fixer les
+conditions d'admission de retrait ou d'exclusion des entreprises affiliées par
+convention à la société de groupe d'assurance.
 
 Ils doivent prévoir que l'admission ou l'exclusion d'une entreprise affiliée par
 convention fait l'objet d'une déclaration préalable auprès de l'Autorité de
-contrôle prudentiel, accompagnée d'un dossier dont la composition est fixée par
-l'Autorité de contrôle prudentiel. L'Autorité peut, dans un délai de trois mois
-à compter de la réception du dossier, s'opposer à l'opération, si celle-ci
-apparaît contraire aux intérêts des assurés des entreprises affiliées par
-convention, par une décision motivée prise et adressée à la ou aux personnes
-intéressées par lettre recommandée avec accusé de réception. A défaut
-d'opposition de l'Autorité, l'opération peut être réalisée à l'expiration de ce
-délai.
+contrôle prudentiel et de résolution, accompagnée d'un dossier dont la
+composition est fixée par l'Autorité de contrôle prudentiel et de résolution.
+L'Autorité peut, dans un délai de trois mois à compter de la réception du
+dossier, s'opposer à l'opération, si celle-ci apparaît contraire aux intérêts
+des assurés des entreprises affiliées par convention, par une décision motivée
+prise et adressée à la ou aux personnes intéressées par lettre recommandée avec
+accusé de réception. A défaut d'opposition de l'Autorité, l'opération peut être
+réalisée à l'expiration de ce délai.
 
 2° Les statuts des sociétés de groupe d'assurance mutuelle doivent également :
 
@@ -51,5 +51,5 @@ le droit de demander la convocation de l'assemblée générale de ladite entrepr
 et de proposer lors de celle-ci l'élection de nouveaux candidats au poste
 d'administrateur ou de membres du conseil de surveillance.
 
-III. - Les dispositions du 4° de l'article R. 322-47 et de l'article R. 322-48
+III.-Les dispositions du 4° de l'article R. 322-47 et de l'article R. 322-48
 sont applicables aux statuts des sociétés de groupe d'assurance mutuelle.

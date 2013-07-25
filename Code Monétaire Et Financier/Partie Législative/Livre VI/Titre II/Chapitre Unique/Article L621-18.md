@@ -2,7 +2,11 @@ Article L621-18
 ----
 L'Autorité des marchés financiers s'assure que les publications prévues par les
 dispositions législatives ou réglementaires sont régulièrement effectuées par
-les émetteurs mentionnés à l'article L. 451-1-2.
+les émetteurs mentionnés à l'article L. 451-1-2 ou les émetteurs dont les titres
+sont admis aux négociations sur un système multilatéral de négociation qui se
+soumet aux dispositions législatives ou réglementaires visant à protéger les
+investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations.
 
 Elle vérifie les informations que ces émetteurs publient. A cette fin, elle peut
 exiger des émetteurs, des personnes qui les contrôlent ou sont contrôlées par

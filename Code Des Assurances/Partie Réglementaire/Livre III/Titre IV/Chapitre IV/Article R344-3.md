@@ -8,4 +8,4 @@ volume de primes supérieur à 2,5 millions d'euros, sans déduction de
 réassurance, elle doit tenir pour ces opérations un compte d'exploitation
 technique par groupe de branches, le cas échéant pour chacun de ses
 établissements, suivant le modèle défini par décision de l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.

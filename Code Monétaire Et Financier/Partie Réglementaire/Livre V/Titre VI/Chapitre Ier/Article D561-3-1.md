@@ -1,11 +1,11 @@
 Article D561-3-1
 ----
 I.-Conformément aux dispositions du deuxième alinéa du VI de l'article L. 561-3,
-l'Autorité de contrôle prudentiel peut exiger d'un établissement mentionné au
-premier alinéa du VI de ce même article que la fonction de représentant
-permanent soit exercée par une personne spécialement désignée à cet effet et à
-l'exclusion de toutes autres activités exercées pour le compte de cet
-établissement, dans les cas suivants :
+l'Autorité de contrôle prudentiel et de résolution peut exiger d'un
+établissement mentionné au premier alinéa du VI de ce même article que la
+fonction de représentant permanent soit exercée par une personne spécialement
+désignée à cet effet et à l'exclusion de toutes autres activités exercées pour
+le compte de cet établissement, dans les cas suivants :
 
 1° Lorsque le montant des opérations effectuées dans le cadre de services de
 paiement fournis en France, sur la dernière année civile, par des agents
@@ -17,13 +17,13 @@ personnes en vue de distribuer pour le compte de l'établissement la monnaie
 électronique dépasse 5 000 000 € ;
 
 3° Dans le cas où aucun des seuils mentionnés aux 1° et 2° n'est atteint,
-lorsque l'Autorité de contrôle prudentiel constate que l'application du
-dispositif de lutte contre le blanchiment des capitaux et le financement du
-terrorisme mentionné à l'article L. 561-32 mis en œuvre en France par
-l'établissement présente des insuffisances. L'Autorité de contrôle prudentiel
-peut notamment fonder son constat sur des informations communiquées par
-l'autorité compétente de l'Etat membre d'origine de l'établissement ou d'une
-autorité compétente nationale.
+lorsque l'Autorité de contrôle prudentiel et de résolution constate que
+l'application du dispositif de lutte contre le blanchiment des capitaux et le
+financement du terrorisme mentionné à l'article L. 561-32 mis en œuvre en France
+par l'établissement présente des insuffisances. L'Autorité de contrôle
+prudentiel et de résolution peut notamment fonder son constat sur des
+informations communiquées par l'autorité compétente de l'Etat membre d'origine
+de l'établissement ou d'une autorité compétente nationale.
 
 II.-Pour tout établissement de monnaie électronique mentionné au premier alinéa
 du VI de l'article L. 561-3 qui fournit des services de paiement, la désignation
@@ -43,6 +43,6 @@ l'intermédiaire de personnes en vue de distribuer pour le compte de ces
 établissements la monnaie électronique sur le territoire français.
 
 Ces établissements communiquent dans les meilleurs délais au service mentionné à
-l'article L. 561-23 ainsi qu'à l'Autorité de contrôle prudentiel les coordonnées
-du représentant permanent désigné ainsi que le nom du représentant légal si le
-représentant permanent est une personne morale.
+l'article L. 561-23 ainsi qu'à l'Autorité de contrôle prudentiel et de
+résolution les coordonnées du représentant permanent désigné ainsi que le nom du
+représentant légal si le représentant permanent est une personne morale.

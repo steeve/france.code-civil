@@ -18,11 +18,14 @@ Ce comité, ou à défaut l'organe délibérant, procède à un examen annuel :
 2° Des rémunérations, indemnités et avantages de toute nature accordés aux
 mandataires sociaux de l'entreprise ;
 
-3° De la politique de rémunération des salariés qui gèrent des organismes de
-placement collectif visés aux 1, 2, 5 et 6 du I de l'article L. 214-1 et des
-salariés, professionnels des marchés financiers, dont les activités sont
-susceptibles d'avoir une incidence significative sur l'exposition aux risques de
-l'entreprise.
+3° De la politique de rémunération des salariés qui gèrent des OPCVM, des FIA
+relevant des paragraphes 1, 2, 3, 5 et 6 de la sous-section 2, des sous-sections
+3, 4 et 5 de la section 2 du chapitre IV du titre Ier du livre II et des
+salariés, catégories de personnel, incluant les membres de leur organe exécutif,
+les preneurs de risques, les personnes exerçant une fonction de contrôle, ainsi
+que tout salarié qui, au vu de ses revenus globaux, se trouve dans la même
+tranche de rémunération, dont les activités professionnelles ont une incidence
+significative sur le profil de risque de l'entreprise ou du groupe.
 
 Le comité peut être assisté par les services de contrôle interne ou des experts
 extérieurs. Il rend régulièrement compte de ses travaux à l'organe délibérant.
@@ -37,13 +40,14 @@ peut décider d'appliquer la politique de rémunération de l'entreprise qui la
 contrôle au sens de l'article L. 233-16 du code de commerce.
 
 Lorsque les entreprises assujetties mentionnées à l'alinéa précédent font partie
-d'un groupe soumis à la surveillance de l'Autorité de contrôle prudentiel sur
-une base consolidée ou sous-consolidée, l'organe délibérant peut décider que les
-fonctions dévolues par le présent article au comité des rémunérations de
-l'entreprise assujettie sont exercées par le comité des rémunérations de
-l'entreprise au niveau de laquelle s'exerce la surveillance sur une base
-consolidée ou sous-consolidée par l'Autorité de contrôle prudentiel. Dans ce
-cas, l'organe délibérant de l'entreprise assujettie est destinataire des
-informations la concernant contenues dans l'examen annuel auquel il est procédé
-au sein de l'entreprise au niveau de laquelle s'exerce la surveillance sur une
-base consolidée ou sous-consolidée par l'Autorité de contrôle prudentiel.
+d'un groupe soumis à la surveillance de l'Autorité de contrôle prudentiel et de
+résolution sur une base consolidée ou sous-consolidée, l'organe délibérant peut
+décider que les fonctions dévolues par le présent article au comité des
+rémunérations de l'entreprise assujettie sont exercées par le comité des
+rémunérations de l'entreprise au niveau de laquelle s'exerce la surveillance sur
+une base consolidée ou sous-consolidée par l'Autorité de contrôle prudentiel et
+de résolution. Dans ce cas, l'organe délibérant de l'entreprise assujettie est
+destinataire des informations la concernant contenues dans l'examen annuel
+auquel il est procédé au sein de l'entreprise au niveau de laquelle s'exerce la
+surveillance sur une base consolidée ou sous-consolidée par l'Autorité de
+contrôle prudentiel et de résolution.

@@ -3,8 +3,8 @@ Article A931-11-20
 Les institutions de prévoyance et unions soumises à la surveillance
 complémentaire en application du premier alinéa de l'article L. 933-3 et des
 articles R. 933-1, R. 933-5 et R. 933-6 fournissent chaque année à l'Autorité de
-contrôle prudentiel, avant le 30 avril, un dossier constitué conformément aux
-annexes 1 et 2 du présent article.
+contrôle prudentiel et de résolution, avant le 30 avril, un dossier constitué
+conformément aux annexes 1 et 2 du présent article.
 
 Le dossier est certifié par le président du conseil d'administration ou le
 directeur général dans les institutions ou unions, par le mandataire général ou
@@ -15,8 +15,8 @@ certifié, sous peine de l'application des sanctions prévues à l'article L.
 ou union et de ses organismes apparentés et aux dispositions de la section XI du
 chapitre Ier du titre III du livre IX du même code. "
 
-L'Autorité de contrôle prudentiel peut dispenser une institution ou union de
-produire les éléments du dossier prévus à l'annexe 1 lorsque ce dossier est
-fourni par un organisme apparenté ou lorsque l'Autorité a attribué l'exercice de
-la surveillance complémentaire à une autre autorité conformément à l'article R.
-933-5.
+L'Autorité de contrôle prudentiel et de résolution peut dispenser une
+institution ou union de produire les éléments du dossier prévus à l'annexe 1
+lorsque ce dossier est fourni par un organisme apparenté ou lorsque l'Autorité a
+attribué l'exercice de la surveillance complémentaire à une autre autorité
+conformément à l'article R. 933-5.

@@ -21,8 +21,9 @@ Les déposants peuvent être relevés de leur forclusion dans les conditions
 prévues à l'article L. 621-46 du code de commerce et dans le délai d'un an à
 compter de la mesure de publicité prévue au premier alinéa.
 
-Le fonds de garantie des dépôts, les administrateurs désignés par l'Autorité de
-contrôle prudentiel et par le tribunal, ainsi que le liquidateur nommé par
-l'Autorité de contrôle prudentiel, fournissent au représentant des créanciers ou
-au liquidateur judiciaire toutes les informations utiles sur les contestations
-ou instances en cours relatives à ces créances.
+Le fonds de garantie des dépôts et de résolution, les administrateurs désignés
+par l'Autorité de contrôle prudentiel et de résolution et par le tribunal, ainsi
+que le liquidateur nommé par l'Autorité de contrôle prudentiel et de résolution,
+fournissent au représentant des créanciers ou au liquidateur judiciaire toutes
+les informations utiles sur les contestations ou instances en cours relatives à
+ces créances.

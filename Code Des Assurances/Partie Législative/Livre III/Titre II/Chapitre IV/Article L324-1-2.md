@@ -9,10 +9,10 @@ Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen ou à leurs succursales établies sur le territoire de
 l'Espace économique européen.
 
-L'Autorité de contrôle prudentiel n'approuve le transfert sollicité que si les
-autorités compétentes de l'Etat où le cessionnaire a son siège social attestent
-que celui-ci possède, compte tenu du transfert, la marge de solvabilité
-nécessaire.
+L'Autorité de contrôle prudentiel et de résolution n'approuve le transfert
+sollicité que si les autorités compétentes de l'Etat où le cessionnaire a son
+siège social attestent que celui-ci possède, compte tenu du transfert, la marge
+de solvabilité nécessaire.
 
 L'entreprise ou la succursale qui transfère son portefeuille en informe les
 entreprises réassurées.

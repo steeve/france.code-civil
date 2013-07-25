@@ -1,9 +1,9 @@
 Article R612-20
 ----
-I.-1° L'Autorité de contrôle prudentiel dresse chaque année les listes, arrêtées
-au 1er janvier, des personnes mentionnées au I de l'article L. 612-2 et celle
-des conglomérats financiers. Ces listes précisent le cas échéant l'activité, le
-service ou la branche pour lesquels ces personnes sont agréées.
+I.-1° L'Autorité de contrôle prudentiel et de résolution dresse chaque année les
+listes, arrêtées au 1er janvier, des personnes mentionnées au I de l'article L.
+612-2 et celle des conglomérats financiers. Ces listes précisent le cas échéant
+l'activité, le service ou la branche pour lesquels ces personnes sont agréées.
 
 2° L'Autorité est destinataire des informations données par les autorités
 compétentes des autres Etats parties à l'accord sur l'Espace économique européen

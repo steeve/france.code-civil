@@ -1,8 +1,9 @@
 Article R321-1
 ----
 L'agrément administratif prévu par l'article L. 321-1 est accordé par l'Autorité
-de contrôle prudentiel. Pour l'octroi de cet agrément, les opérations
-d'assurance sont classées en branches et sous-branches de la manière suivante :
+de contrôle prudentiel et de résolution. Pour l'octroi de cet agrément, les
+opérations d'assurance sont classées en branches et sous-branches de la manière
+suivante :
 
 1. Accidents (y compris les accidents de travail et les maladies
 professionnelles) :
@@ -58,7 +59,7 @@ moyen de transport.
 8. Incendie et éléments naturels :
 
 Tout dommage subi par les biens (autres que les biens compris dans les branches
-3, 4, 5, 6 et 7) lorsqu'il est causé par :
+3,4,5,6 et 7) lorsqu'il est causé par :
 
 a) Incendie ;
 
@@ -75,8 +76,8 @@ f) Affaissement de terrain.
 9. Autres dommages aux biens :
 
 Tout dommage subi par les biens (autres que les biens compris dans les branches
-3, 4, 5, 6 et 7) lorsque ce dommage est causé par la grêle ou la gelée, ainsi
-que par tout événement, tel le vol, autre que ceux compris dans la branche 8.
+3,4,5,6 et 7) lorsque ce dommage est causé par la grêle ou la gelée, ainsi que
+par tout événement, tel le vol, autre que ceux compris dans la branche 8.
 
 10. Responsabilité civile véhicules terrestres automoteurs :
 
@@ -95,7 +96,7 @@ maritimes (y compris la responsabilité du transporteur).
 
 13. Responsabilité civile générale :
 
-Toute responsabilité autre que celles mentionnées sous les numéros 10, 11 et 12.
+Toute responsabilité autre que celles mentionnées sous les numéros 10,11 et 12.
 
 14. Crédit :
 
@@ -148,7 +149,7 @@ Assistance aux personnes en difficulté, notamment au cours de déplacements.
 20. Vie-Décès :
 
 Toute opération comportant des engagements dont l'exécution dépend de la durée
-de la vie humaine autre que les activités visées aux branches 22, 23 et 26.
+de la vie humaine autre que les activités visées aux branches 22,23 et 26.
 
 21. Nuptialité-Natalité :
 
@@ -160,7 +161,7 @@ de naissance d'enfants.
 Toutes opérations comportant des engagements dont l'exécution dépend de la durée
 de la vie humaine et liées à un fonds d'investissement.
 
-Les branches mentionnées aux 20, 21 et 22 comportent la pratique d'assurances
+Les branches mentionnées aux 20,21 et 22 comportent la pratique d'assurances
 complémentaires au risque principal, notamment celles ayant pour objet des
 garanties en cas de décès accidentel ou d'invalidité.
 

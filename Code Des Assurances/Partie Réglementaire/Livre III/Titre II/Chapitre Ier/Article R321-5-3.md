@@ -1,10 +1,10 @@
 Article R321-5-3
 ----
 Toute décision de refus d'agrément administratif, total ou partiel, doit être
-motivée et notifiée par l'Autorité de contrôle prudentiel à l'entreprise
-concernée, après que cette dernière a été mise préalablement en demeure par
-lettre recommandée de présenter ses observations par écrit dans un délai de
-quinzaine.
+motivée et notifiée par l'Autorité de contrôle prudentiel et de résolution à
+l'entreprise concernée, après que cette dernière a été mise préalablement en
+demeure par lettre recommandée de présenter ses observations par écrit dans un
+délai de quinzaine.
 
 L'entreprise peut se pourvoir devant le Conseil d'Etat dans les deux mois de la
 notification du refus d'agrément, total ou partiel, ou de la décision implicite

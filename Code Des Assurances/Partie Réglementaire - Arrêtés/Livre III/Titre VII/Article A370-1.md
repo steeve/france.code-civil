@@ -20,5 +20,5 @@ e) La précision que les opérations concernées font ou non l'objet d'une
 comptabilité auxiliaire d'affectation.
 
 Ces documents sont transmis en langue française. L'Autorité de contrôle
-prudentiel accuse réception de ces documents. Cet accusé fait courir le délai de
-deux mois mentionné au premier alinéa de l'article L. 370-3.
+prudentiel et de résolution accuse réception de ces documents. Cet accusé fait
+courir le délai de deux mois mentionné au premier alinéa de l'article L. 370-3.

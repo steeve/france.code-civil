@@ -2,13 +2,13 @@ Article L522-16
 ----
 Tout établissement de paiement qui entend externaliser des fonctions
 opérationnelles de services de paiement en informe l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.
 
 L'externalisation de fonctions opérationnelles importantes ne peut pas être
 faite d'une manière qui nuise sérieusement à la qualité du contrôle interne de
-l'établissement de paiement et qui empêche l'Autorité de contrôle prudentiel de
-contrôler que cet établissement respecte bien toutes les obligations auxquelles
-il est soumis.
+l'établissement de paiement et qui empêche l'Autorité de contrôle prudentiel et
+de résolution de contrôler que cet établissement respecte bien toutes les
+obligations auxquelles il est soumis.
 
 Un arrêté du ministre chargé de l'économie définit les conditions d'application
 du présent article.

@@ -8,4 +8,4 @@ l'article L. 321-7.
 
 Toutefois, une telle entreprise ne peut opérer en France en libre prestation de
 services qu'après avoir obtenu un agrément délivré par l'Autorité de contrôle
-prudentiel dans les conditions prévues à l'article L. 321-8.
+prudentiel et de résolution dans les conditions prévues à l'article L. 321-8.

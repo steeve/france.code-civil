@@ -18,16 +18,17 @@ et, le cas échéant, des primes qui seront émises, au titre des contrats en co
 331-6 ; le montant ainsi calculé est inscrit en provision pour risques en cours.
 Pour l'application du présent alinéa, les sinistres sont rattachés :
 
-- à l'exercice de survenance pour les catégories 20 à 31 et pour les
-acceptations couvrant ces catégories ;
+-à l'exercice de survenance pour les catégories 20 à 31 et pour les acceptations
+couvrant ces catégories ;
 
-- à l'exercice de souscription pour les catégories 35 à 38 et pour les
+-à l'exercice de souscription pour les catégories 35 à 38 et pour les
 acceptations couvrant ces catégories.
 
-L'Autorité de contrôle prudentiel peut prescrire à une entreprise de prendre des
-dispositions appropriées pour le calcul prévu au précédent alinéa ; elle peut
-également, si le taux calculé en application du précédent alinéa apparaît
-insuffisant en raison d'évolutions récentes et significatives de la sinistralité
-ou de la tarification, prescrire l'utilisation d'un taux plus élevé ; elle peut
-également, sur la base de justifications appropriées fournies par l'entreprise,
-autoriser l'utilisation d'un taux inférieur.
+L'Autorité de contrôle prudentiel et de résolution peut prescrire à une
+entreprise de prendre des dispositions appropriées pour le calcul prévu au
+précédent alinéa ; elle peut également, si le taux calculé en application du
+précédent alinéa apparaît insuffisant en raison d'évolutions récentes et
+significatives de la sinistralité ou de la tarification, prescrire l'utilisation
+d'un taux plus élevé ; elle peut également, sur la base de justifications
+appropriées fournies par l'entreprise, autoriser l'utilisation d'un taux
+inférieur.

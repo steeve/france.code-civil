@@ -43,11 +43,11 @@ Les mutuelles ou unions adhérentes disposent d'un délai de dix jours ouvrés �
 compter de la réception de la notification prévue au premier alinéa du II pour
 verser au fonds les cotisations.
 
-Le fonds de garantie informe sans délai l'Autorité de contrôle prudentiel de
-tout retard de versement de plus d'un mois ou de tout refus de versement d'une
-mutuelle ou d'une union, afin que l'autorité mette en œuvre, le cas échéant, les
-pouvoirs qu'elle tire du chapitre II du titre Ier du livre VI du code monétaire
-et financier.
+Le fonds de garantie informe sans délai l'Autorité de contrôle prudentiel et de
+résolution de tout retard de versement de plus d'un mois ou de tout refus de
+versement d'une mutuelle ou d'une union, afin que l'autorité mette en œuvre, le
+cas échéant, les pouvoirs qu'elle tire du chapitre II du titre Ier du livre VI
+du code monétaire et financier.
 
 Les cotisations versées au fonds de garantie par les mutuelles ou unions dont
 l'adhésion au fonds a pris fin ne peuvent faire l'objet d'un reversement par

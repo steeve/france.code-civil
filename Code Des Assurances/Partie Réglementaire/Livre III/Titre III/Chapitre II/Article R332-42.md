@@ -18,4 +18,4 @@ Les titres faisant l'objet d'un retrait ou d'un virement sont estimés au dernie
 cours coté précédant le jour de l'opération.
 
 Tout retrait ou virement d'actifs ne peut être effectué que sur visa préalable
-de l'Autorité de contrôle prudentiel.
+de l'Autorité de contrôle prudentiel et de résolution.

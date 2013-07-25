@@ -1,7 +1,7 @@
 Article R931-12-11
 ----
 Sous réserve des dispositions de l'article R. 931-12-13, le fonds doit disposer
-en permanence d'un montant global de ressources égal à 0, 05 % du total des
+en permanence d'un montant global de ressources égal à 0,05 % du total des
 provisions mathématiques constatées au 31 décembre de l'année précédente pour
 l'ensemble des institutions de prévoyance et unions mentionnées à l'article L.
 931-35. Le montant global est constitué par les institutions de prévoyance et
@@ -28,13 +28,13 @@ année, pour moitié à sa restitution par le fonds à l'institution de prévoya
 ou union concernée et pour moitié à une reprise par l'institution de prévoyance
 ou union sur la réserve pour fonds de garantie.
 
-Le fonds paritaire de garantie informe l'Autorité de contrôle prudentiel de tout
-retard de versement de plus de deux mois ou de tout refus de versement d'une
-institution de prévoyance ou union, afin que l'Autorité mette en oeuvre, le cas
-échéant, les procédures de sanctions prévues à l'article L. 951-10.L'Autorité
-peut également engager une procédure de sanction si elle constate que
-l'institution de prévoyance ou l'union n'a pas doté la réserve pour fonds de
-garantie du montant prévu.
+Le fonds paritaire de garantie informe l'Autorité de contrôle prudentiel et de
+résolution de tout retard de versement de plus de deux mois ou de tout refus de
+versement d'une institution de prévoyance ou union, afin que l'Autorité mette en
+oeuvre, le cas échéant, les procédures de sanctions prévues à l'article L.
+951-10. L'Autorité peut également engager une procédure de sanction si elle
+constate que l'institution de prévoyance ou l'union n'a pas doté la réserve pour
+fonds de garantie du montant prévu.
 
 Les cotisations versées au fonds paritaire de garantie par les institutions de
 prévoyance ou unions dont l'adhésion au fonds a pris fin ne peuvent faire

@@ -20,7 +20,7 @@ suivantes, au titre de leur mission de contrôle ou de régulation :
 
 -l'Agence française de lutte contre le dopage ;
 
--L'Autorité de contrôle prudentiel ;
+-L'Autorité de contrôle prudentiel et de résolution ;
 
 -l'Autorité de la concurrence ;
 

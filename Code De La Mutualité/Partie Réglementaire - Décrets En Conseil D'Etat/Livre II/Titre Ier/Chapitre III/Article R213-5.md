@@ -3,15 +3,16 @@ Article R213-5
 Les mutuelles ou unions dont l'organisme de référence mentionné au 1° de
 l'article L. 212-7-1 est une société de groupe d'assurance, une compagnie
 financière holding mixte dont le coordonnateur est l'Autorité de contrôle
-prudentiel, une entreprise soumise au contrôle de l'Etat en application de
-l'article L. 310-1-1 du code des assurances ou une entreprise d'assurance ou de
-réassurance dont le siège social est situé dans un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen doivent
-justifier d'une solvabilité ajustée positive selon des modalités définies aux
-articles R. 213-2 à R. 213-4. Dans ce but, elles procèdent à un calcul de la
-solvabilité ajustée de leur organisme de référence dans les mêmes conditions que
-celles permettant de déterminer la marge de solvabilité d'une mutuelle ou union
-participante agréée en France et pratiquant les mêmes opérations.
+prudentiel et de résolution, une entreprise soumise au contrôle de l'Etat en
+application de l'article L. 310-1-1 du code des assurances ou une entreprise
+d'assurance ou de réassurance dont le siège social est situé dans un Etat membre
+de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen doivent justifier d'une solvabilité ajustée positive selon des
+modalités définies aux articles R. 213-2 à R. 213-4. Dans ce but, elles
+procèdent à un calcul de la solvabilité ajustée de leur organisme de référence
+dans les mêmes conditions que celles permettant de déterminer la marge de
+solvabilité d'une mutuelle ou union participante agréée en France et pratiquant
+les mêmes opérations.
 
 L'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une
 mutuelle ou une union d'assurance ou de réassurance :
@@ -25,11 +26,11 @@ III du livre IX du code de la sécurité sociale auquel elle est apparentée ;
 b) Si cette mutuelle ou cette union a pour organisme de référence une entreprise
 d'assurance ou de réassurance ou une société de groupe d'assurance ou une
 compagnie financière holding mixte dont le coordonnateur est l'Autorité de
-contrôle prudentiel ayant son siège dans un Etat non partie à l'accord sur
-l'Espace économique européen qui est également l'organisme de référence d'un ou
-plusieurs autres organismes d'assurance ou de réassurance et qu'elle est prise
-en compte dans le calcul de la marge de solvabilité de l'un de ces autres
-organismes d'assurance ou de réassurance ;
+contrôle prudentiel et de résolution ayant son siège dans un Etat non partie à
+l'accord sur l'Espace économique européen qui est également l'organisme de
+référence d'un ou plusieurs autres organismes d'assurance ou de réassurance et
+qu'elle est prise en compte dans le calcul de la marge de solvabilité de l'un de
+ces autres organismes d'assurance ou de réassurance ;
 
 c) Si cette mutuelle ou cette union a pour organisme de référence une entreprise
 d'assurance ou de réassurance ou une société de groupe d'assurance ou une

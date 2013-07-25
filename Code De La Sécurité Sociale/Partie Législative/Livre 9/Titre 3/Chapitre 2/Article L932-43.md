@@ -14,10 +14,10 @@ impôts, celles mentionnées au VII de l'article L. 144-2 du code des assurances
 sont établies séparément de la comptabilité auxiliaire d'affectation mentionnée
 à l'alinéa précédent.
 
-L'Autorité de contrôle prudentiel peut également exiger que l'entreprise
-d'assurance établisse séparément de la comptabilité mentionnée au premier alinéa
-une comptabilité auxiliaire d'affectation pour les opérations mentionnées à
-l'article L. 310-14 du code des assurances.
+L'Autorité de contrôle prudentiel et de résolution peut également exiger que
+l'entreprise d'assurance établisse séparément de la comptabilité mentionnée au
+premier alinéa une comptabilité auxiliaire d'affectation pour les opérations
+mentionnées à l'article L. 310-14 du code des assurances.
 
 Les actifs de chaque contrat sont conservés par un dépositaire unique distinct
 de l'entreprise d'assurance, qui exerce à titre principal le service mentionné

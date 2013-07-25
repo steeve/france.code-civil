@@ -3,11 +3,11 @@ Article R211-15-1
 I.-En cas de retrait de l'agrément administratif accordé à une mutuelle ou une
 union de mutuelles et dans un délai de vingt jours à compter du lendemain du
 jour de la publication au Journal officiel de la République française de la
-décision du collège de l'Autorité de contrôle prudentiel ou sa commission des
-sanctions, chaque membre participant est avisé de ce retrait d'agrément par le
-liquidateur ou, en attendant la désignation du liquidateur, par le président du
-conseil d'administration de la mutuelle ou de l'union de mutuelles, ou son
-représentant.
+décision du collège de l'Autorité de contrôle prudentiel et de résolution ou sa
+commission des sanctions, chaque membre participant est avisé de ce retrait
+d'agrément par le liquidateur ou, en attendant la désignation du liquidateur,
+par le président du conseil d'administration de la mutuelle ou de l'union de
+mutuelles, ou son représentant.
 
 Cet avis, qui rappelle la législation applicable, est adressé par lettre
 recommandée au dernier domicile connu du membre participant.
@@ -24,7 +24,7 @@ ce faire et les conséquences d'une non-observation des délais.
 
 Les avis individuels doivent être préparés sous la responsabilité des
 administrateurs de la mutuelle ou de l'union, dès lors que l'injonction en est
-adressée par l'Autorité de contrôle prudentiel.
+adressée par l'Autorité de contrôle prudentiel et de résolution.
 
 Lorsque le créancier d'assurance connu a sa résidence habituelle, son domicile
 ou son siège statutaire dans un Etat membre de la Communauté européenne ou
@@ -43,8 +43,8 @@ des opérations visées au b du 1° du I de l'article L. 111-1, l'avis mentionn�
 I du présent article reproduit le texte des articles L. 212-19 et L. 212-21. Le
 cas échéant, chaque membre participant ou ayant droit est par ailleurs informé,
 dans les mêmes conditions, des décisions prises par l'Autorité de contrôle
-prudentiel en application du deuxième alinéa de l'article L. 212-21. Lorsque la
-décision de l'Autorité de contrôle prudentiel a pour effet de fixer la date à
-laquelle les bulletins d'adhésion cessent d'avoir effet, cette communication
-intervient au plus tard vingt jours avant la date de cessation des effets du
-bulletin d'adhésion.
+prudentiel et de résolution en application du deuxième alinéa de l'article L.
+212-21. Lorsque la décision de l'Autorité de contrôle prudentiel et de
+résolution a pour effet de fixer la date à laquelle les bulletins d'adhésion
+cessent d'avoir effet, cette communication intervient au plus tard vingt jours
+avant la date de cessation des effets du bulletin d'adhésion.

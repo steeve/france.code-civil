@@ -1,13 +1,13 @@
 Article R326-1
 ----
-I. - En cas de retrait de l'agrément administratif accordé à une entreprise
+I.-En cas de retrait de l'agrément administratif accordé à une entreprise
 mentionnée à l'article L. 310-1 et dans un délai de vingt jours à compter du
 lendemain du jour de la publication au Journal officiel de la République
-française de la décision du collège de l'Autorité de contrôle prudentiel ou de
-sa commission des sanctions prononçant le retrait d'agrément, chaque
-souscripteur de contrat est avisé de ce retrait d'agrément par le liquidateur
-ou, en attendant la désignation du liquidateur, par la personne qui était
-investie dans l'entreprise des pouvoirs de direction générale ou par son
+française de la décision du collège de l'Autorité de contrôle prudentiel et de
+résolution ou de sa commission des sanctions prononçant le retrait d'agrément,
+chaque souscripteur de contrat est avisé de ce retrait d'agrément par le
+liquidateur ou, en attendant la désignation du liquidateur, par la personne qui
+était investie dans l'entreprise des pouvoirs de direction générale ou par son
 représentant.
 
 Cet avis, qui rappelle la législation applicable, est adressé par lettre
@@ -33,12 +33,12 @@ partie à l'accord sur l'Espace économique européen autre que la France, l'avi
 est également rédigé dans la langue officielle ou l'une des langues officielles
 de cet Etat.
 
-II. - Lorsque le retrait d'agrément concerne une entreprise visée aux 2° et 3°
-de l'article L. 310-1, l'avis mentionné au I reproduit le premier alinéa de
+II.-Lorsque le retrait d'agrément concerne une entreprise visée aux 2° et 3° de
+l'article L. 310-1, l'avis mentionné au I reproduit le premier alinéa de
 l'article L. 326-12 et précise la date à laquelle le contrat souscrit cessera de
 produire effet.
 
-III. - Lorsque le retrait d'agrément concerne une entreprise mentionnée au 1° de
+III.-Lorsque le retrait d'agrément concerne une entreprise mentionnée au 1° de
 l'article L. 310-1, l'avis mentionné au I reproduit le texte des articles L.
 326-9 et L. 326-13.
 

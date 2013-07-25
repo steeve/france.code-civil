@@ -1,11 +1,13 @@
 Article L612-41
 ----
 I. ― Si une personne mentionnée au 4° du B du I ou au II de l'article L. 612-2 a
-enfreint une disposition du code des assurances ou du code monétaire et
-financier qui lui est applicable, la commission des sanctions peut prononcer à
-son encontre ou, le cas échéant, à l'encontre de ses dirigeants, associés ou
-tiers ayant le pouvoir de gérer ou d'administrer, l'une ou plusieurs des
-sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
+enfreint une disposition européenne, législative ou réglementaire au respect de
+laquelle l'autorité a pour mission de veiller ou un code de conduite homologué
+applicable à sa profession, n'a pas tenu compte d'une mise en garde ou n'a pas
+déféré à une mise en demeure, la commission des sanctions peut prononcer à son
+encontre ou, le cas échéant, à l'encontre de ses dirigeants, associés ou tiers
+ayant le pouvoir de gérer ou d'administrer, l'une ou plusieurs des sanctions
+disciplinaires suivantes, en fonction de la gravité du manquement :
 
 1° L'avertissement ;
 

@@ -17,8 +17,8 @@ dirigeant est tenu de le remettre au président. Le conseil d'administration doi
 en être saisi dès qu'il est appelé à se réunir.
 
 II.-Le comité d'entreprise ou à défaut les délégués du personnel communiquent au
-président de l'Autorité de contrôle prudentiel, tout fait révélant la cessation
-des paiements de l'organisme.
+président de l'Autorité de contrôle prudentiel et de résolution, tout fait
+révélant la cessation des paiements de l'organisme.
 
 III.-Les informations concernant la mutuelle, union ou fédération communiquées
 en application du présent article ont par nature un caractère confidentiel.

@@ -17,3 +17,12 @@ assemblées générales.
 
 II. - Le I ne s'applique pas au régime de retraite complémentaire institué par
 la Caisse nationale de prévoyance de la fonction publique.
+
+III. - Le I ne s'applique pas à la convention d'assurance de groupe ayant pour
+objet la mise en œuvre du régime de la complémentaire retraite des hospitaliers,
+souscrite par le comité de gestion des œuvres sociales des établissements
+hospitaliers publics. Les affiliés à cette convention sont informés
+individuellement, trente jours au moins avant la date fixée pour la réunion de
+l'assemblée générale, de son ordre du jour. Ils sont destinataires du relevé des
+décisions votées par l'assemblée générale et peuvent, sur demande, obtenir
+communication de son procès-verbal.

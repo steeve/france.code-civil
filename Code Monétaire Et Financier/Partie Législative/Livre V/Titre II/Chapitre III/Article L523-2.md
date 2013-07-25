@@ -38,4 +38,4 @@ nécessaires définies par un arrêté du ministre chargé de l'économie.
 
 Elles en justifient dans les conditions définies par un arrêté du ministre
 chargé de l'économie, qui détermine également dans quelles conditions l'Autorité
-de contrôle prudentiel est dispensée de les vérifier.
+de contrôle prudentiel et de résolution est dispensée de les vérifier.

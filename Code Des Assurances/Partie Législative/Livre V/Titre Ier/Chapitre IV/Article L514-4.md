@@ -8,7 +8,8 @@ informe l'organisme chargé de la tenue de ce registre.
 
 II.-L'organisme chargé de la tenue du registre mentionné au I de l'article L.
 512-1 communique toute information qui lui est demandée par l'Autorité de
-contrôle prudentiel agissant dans le cadre de ses missions.
+contrôle prudentiel et de résolution agissant dans le cadre de ses missions.
 
 III.-L'organisme mentionné au I de l'article L. 512-1 communique également, à
-son initiative, toute information utile à l'Autorité de contrôle prudentiel.
+son initiative, toute information utile à l'Autorité de contrôle prudentiel et
+de résolution.

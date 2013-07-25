@@ -19,7 +19,8 @@ défaillance a entraîné son intervention aux fins d'obtenir le remboursement d
 tout ou partie des sommes versées par lui. Le fonds peut également engager une
 action en responsabilité à l'encontre des personnes mentionnées au a du 4° du II
 de l'article L. 421-9, aux fins d'obtenir le remboursement de tout ou partie des
-sommes versées par lui. Il en informe l'Autorité de contrôle prudentiel.
+sommes versées par lui. Il en informe l'Autorité de contrôle prudentiel et de
+résolution.
 
 En vue d'obtenir le remboursement de l'indemnisation des tiers victimes d'un
 dommage dont est responsable une personne morale ou une personne physique dans

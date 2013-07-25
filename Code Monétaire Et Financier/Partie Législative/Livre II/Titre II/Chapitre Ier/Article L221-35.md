@@ -10,9 +10,10 @@ fixées par le ministre chargé de l'économie, ou d'accepter sur ces comptes de
 sommes excédant les plafonds autorisés.
 
 Sans préjudice des sanctions disciplinaires qui peuvent être infligées par
-l'Autorité de contrôle prudentiel, les infractions aux dispositions du présent
-article sont punies d'une amende dont le taux est égal au montant des intérêts
-payés, sans que cette amende puisse être inférieure à 75 euros.
+l'Autorité de contrôle prudentiel et de résolution, les infractions aux
+dispositions du présent article sont punies d'une amende dont le taux est égal
+au montant des intérêts payés, sans que cette amende puisse être inférieure à 75
+euros.
 
 Un décret fixe les modalités d'application du présent article, notamment les
 conditions dans lesquelles seront constatées et poursuivies les infractions.

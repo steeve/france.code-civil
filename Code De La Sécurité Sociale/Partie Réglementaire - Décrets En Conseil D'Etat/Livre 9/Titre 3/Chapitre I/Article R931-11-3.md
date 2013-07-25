@@ -7,11 +7,11 @@ l'Autorité des normes comptables, détermine la structure et les principaux
 règles spécifiques d'utilisation des comptes et les principes généraux
 d'organisation et de fonctionnement du système comptable. Il peut, en outre,
 prescrire, lorsque cela est nécessaire pour la justification des comptes ou
-l'exercice des compétences de l'Autorité de contrôle prudentiel prudentiel, des
-modalités spécifiques d'enregistrement et de suivi extra-comptable des
-placements, des bulletins d'adhésion à un règlement ou des contrats, des
-sinistres et des opérations de réassurance, coassurance et coréassurance des
-institutions ou de leurs unions.
+l'exercice des compétences de l'Autorité de contrôle prudentiel et de résolution
+prudentiel et de résolution, des modalités spécifiques d'enregistrement et de
+suivi extra-comptable des placements, des bulletins d'adhésion à un règlement ou
+des contrats, des sinistres et des opérations de réassurance, coassurance et
+coréassurance des institutions ou de leurs unions.
 
 Les soldes des comptes utilisés par l'institution ou l'union se raccordent, par
 voie directe ou par regroupement, aux postes et sous-postes du bilan et du

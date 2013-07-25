@@ -9,8 +9,9 @@ dispositions de la section 3 du présent chapitre, à l'exception des articles L
 Les articles L. 526-21 à L. 526-26 ne s'appliquent pas aux établissements visés
 au premier alinéa du présent article.
 
-L'exemption cesse un mois après que l'Autorité de contrôle prudentiel constate
-que les conditions prévues au présent article ne sont plus remplies.
+L'exemption cesse un mois après que l'Autorité de contrôle prudentiel et de
+résolution constate que les conditions prévues au présent article ne sont plus
+remplies.
 
 Les unités de monnaie électronique incorporées dans un instrument de monnaie
 électronique émis par un établissement mentionné au premier alinéa ne peuvent
@@ -20,5 +21,5 @@ Les conditions d'application du présent article sont fixées par arrêté du
 ministre chargé de l'économie.
 
 Les établissements mentionnés au premier alinéa sont tenus d'adresser à
-l'Autorité de contrôle prudentiel une déclaration périodique par laquelle ils
-certifient qu'ils respectent ces conditions.
+l'Autorité de contrôle prudentiel et de résolution une déclaration périodique
+par laquelle ils certifient qu'ils respectent ces conditions.

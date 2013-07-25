@@ -2,9 +2,9 @@ Article R510-3-4
 ----
 I.-Après que lui a été communiqué le programme de rétablissement mentionné au I
 de l'article R. 510-3 ou à défaut de communication de ce programme dans le délai
-d'un mois après la demande, l'Autorité de contrôle prudentiel peut limiter la
-réduction de marge de solvabilité prévue au 1 et au 2 du II de l'article R.
-212-20-1 lorsque :
+d'un mois après la demande, l'Autorité de contrôle prudentiel et de résolution
+peut limiter la réduction de marge de solvabilité prévue au 1 et au 2 du II de
+l'article R. 212-20-1 lorsque :
 
 1. Le contenu ou la qualité du programme de réassurance a subi des modifications
 sensibles depuis le dernier exercice ;
@@ -18,7 +18,7 @@ cours du dernier exercice clos par rapport à la moyenne de ces éléments
 constitutifs de la marge constatée au cours des quatre exercices précédant le
 dernier exercice, et après que lui a été communiqué le programme de
 rétablissement mentionné au I de l'article R. 510-3, l'Autorité de contrôle
-prudentiel peut :
+prudentiel et de résolution peut :
 
 1. Soit demander à la mutuelle ou l'union de déduire des éléments constitutifs
 de la marge de solvabilité tout ou partie du montant de la moins-value latente

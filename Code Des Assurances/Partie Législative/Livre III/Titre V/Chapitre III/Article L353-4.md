@@ -1,11 +1,11 @@
 Article L353-4
 ----
 I.-Sous la seule réserve d'en informer préalablement l'Autorité de contrôle
-prudentiel, toute entreprise d'assurance peut prendre sur le territoire de la
-République française des engagements en régime de libre prestation de services
-lorsque le souscripteur a pris l'initiative de solliciter ces engagements auprès
-de l'entreprise d'assurance. Un décret en Conseil d'Etat fixe les documents à
-produire à l'appui de cette information.
+prudentiel et de résolution, toute entreprise d'assurance peut prendre sur le
+territoire de la République française des engagements en régime de libre
+prestation de services lorsque le souscripteur a pris l'initiative de solliciter
+ces engagements auprès de l'entreprise d'assurance. Un décret en Conseil d'Etat
+fixe les documents à produire à l'appui de cette information.
 
 Le souscripteur est réputé avoir pris l'initiative lorsque l'une au moins des
 deux situations suivantes est réalisée :

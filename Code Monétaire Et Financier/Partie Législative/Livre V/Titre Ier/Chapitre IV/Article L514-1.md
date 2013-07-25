@@ -9,9 +9,9 @@ disposition de ces personnes des moyens de paiement et réaliser avec elles des
 opérations connexes au sens de l'article L. 311-2.
 
 II.-Elles exercent leur activité après avoir obtenu l'agrément de l'Autorité de
-contrôle prudentiel. Cet agrément peut prévoir, en fonction des capacités
-techniques et financières de la caisse, que celle-ci est, en outre, habilitée à
-exercer les activités suivantes ou l'une d'entre elles :
+contrôle prudentiel et de résolution. Cet agrément peut prévoir, en fonction des
+capacités techniques et financières de la caisse, que celle-ci est, en outre,
+habilitée à exercer les activités suivantes ou l'une d'entre elles :
 
 1. L'octroi de crédits aux personnes physiques ;
 
@@ -33,8 +33,8 @@ anonymes régies par le livre II du code de commerce, créées à cet effet, don
 l'objet est limité aux activités, autres que le prêt sur gages, que peuvent
 effectuer les caisses de crédit municipal. Elles participent au capital de ces
 sociétés à concurrence de leurs apports. Lesdites sociétés sont agréées par
-l'Autorité de contrôle prudentiel dans les mêmes conditions et limites que
-celles qui sont prévues aux quatre premiers alinéas.
+l'Autorité de contrôle prudentiel et de résolution dans les mêmes conditions et
+limites que celles qui sont prévues aux quatre premiers alinéas.
 
 Les participations détenues par les caisses de crédit municipal sont cessibles.
 En vue de leur transmission universelle, les apports mentionnés à l'alinéa

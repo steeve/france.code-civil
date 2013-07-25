@@ -2,8 +2,9 @@ Article L132-9-3
 ----
 I. ― Les entreprises d'assurance mentionnées au 1° de l'article L. 310-1 du
 présent code ainsi que les institutions de prévoyance et unions régies par le
-titre III du livre IX du code de la sécurité sociale s'informent, dans les
-conditions prévues au II du présent article, du décès éventuel de l'assuré.
+titre III du livre IX du code de la sécurité sociale s'informent, au moins
+chaque année, dans les conditions prévues au II du présent article, du décès
+éventuel de l'assuré.
 
 II. ― Les organismes professionnels mentionnés à l'article L. 132-9-2 sont
 autorisés à consulter les données figurant au répertoire national

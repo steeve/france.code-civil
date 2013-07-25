@@ -5,14 +5,15 @@ d'admission de retrait ou d'exclusion des organismes affiliés à l'union
 mutualiste de groupe.
 
 Ils doivent prévoir que l'admission ou l'exclusion d'un organisme affilié fait
-l'objet d'une déclaration préalable auprès de l'Autorité de contrôle prudentiel,
-accompagnée d'un dossier dont la composition est fixée par l'Autorité de
-contrôle prudentiel. L'Autorité de contrôle prudentiel peut, dans un délai de
-trois mois à compter de la réception du dossier, s'opposer à l'opération, si
-celle-ci apparaît contraire aux intérêts des assurés des organismes affiliés,
-par une décision motivée adressée à la ou aux personnes intéressées par lettre
-recommandée avec accusé de réception. A défaut d'opposition de l'Autorité de
-contrôle prudentiel, l'opération peut être réalisée à l'expiration de ce délai.
+l'objet d'une déclaration préalable auprès de l'Autorité de contrôle prudentiel
+et de résolution, accompagnée d'un dossier dont la composition est fixée par
+l'Autorité de contrôle prudentiel et de résolution. L'Autorité de contrôle
+prudentiel et de résolution peut, dans un délai de trois mois à compter de la
+réception du dossier, s'opposer à l'opération, si celle-ci apparaît contraire
+aux intérêts des assurés des organismes affiliés, par une décision motivée
+adressée à la ou aux personnes intéressées par lettre recommandée avec accusé de
+réception. A défaut d'opposition de l'Autorité de contrôle prudentiel et de
+résolution, l'opération peut être réalisée à l'expiration de ce délai.
 
 2° Les statuts des unions mutualistes de groupe doivent également :
 

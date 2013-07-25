@@ -1,15 +1,15 @@
 Article R322-11-2
 ----
-I.-L'Autorité de contrôle prudentiel accuse réception par écrit dans un délai de
-deux jours ouvrables, après sa réception, de la notification d'une opération
-d'acquisition ou d'extension de participation mentionnée au I de l'article R.
-322-11-1.
+I.-L'Autorité de contrôle prudentiel et de résolution accuse réception par écrit
+dans un délai de deux jours ouvrables, après sa réception, de la notification
+d'une opération d'acquisition ou d'extension de participation mentionnée au I de
+l'article R. 322-11-1.
 
-L'Autorité de contrôle prudentiel dispose d'un délai de soixante jours
-ouvrables, à compter de la date de l'accusé de réception de la notification,
-pour procéder à l'évaluation de cette dernière. L'Autorité informe le candidat
-acquéreur de la date d'expiration de la période d'évaluation au moment de la
-délivrance de l'accusé de réception.
+L'Autorité de contrôle prudentiel et de résolution dispose d'un délai de
+soixante jours ouvrables, à compter de la date de l'accusé de réception de la
+notification, pour procéder à l'évaluation de cette dernière. L'Autorité informe
+le candidat acquéreur de la date d'expiration de la période d'évaluation au
+moment de la délivrance de l'accusé de réception.
 
 L'Autorité peut fixer un délai maximal pour la conclusion de la prise ou de
 l'extension de participation envisagée et, le cas échéant, le proroger.
@@ -53,11 +53,11 @@ tentative de blanchiment de capitaux ou de financement du terrorisme est en
 cours ou a eu lieu en relation avec l'opération envisagée ou que l'opération
 pourrait en augmenter le risque.
 
-IV.-Avant toute décision, l'Autorité de contrôle prudentiel consulte sans délai
-les autorités compétentes mentionnées aux articles L. 321-1, L. 321-1-1 et L.
-321-1-2, dont relève le candidat acquéreur, en vue d'obtenir toute information
-essentielle ou pertinente pour procéder à l'évaluation prévue au I, lorsque
-l'une des deux conditions suivantes est remplie :
+IV.-Avant toute décision, l'Autorité de contrôle prudentiel et de résolution
+consulte sans délai les autorités compétentes mentionnées aux articles L. 321-1,
+L. 321-1-1 et L. 321-1-2, dont relève le candidat acquéreur, en vue d'obtenir
+toute information essentielle ou pertinente pour procéder à l'évaluation prévue
+au I, lorsque l'une des deux conditions suivantes est remplie :
 
 1° Le candidat acquéreur est une entreprise d'assurance ou de réassurance, un
 établissement de crédit, une société de gestion de portefeuille ou une autre
@@ -73,8 +73,9 @@ européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
 européen ou agréés dans un secteur financier autre que celui dans lequel
 l'acquisition est envisagée.
 
-La décision prise à ce titre par l'Autorité de contrôle prudentiel mentionne les
-avis ou réserves formulés, le cas échéant, par les autorités compétentes.
+La décision prise à ce titre par l'Autorité de contrôle prudentiel et de
+résolution mentionne les avis ou réserves formulés, le cas échéant, par les
+autorités compétentes.
 
 V.-L'Autorité ne peut s'opposer à la prise ou à l'extension de participation
 envisagée que s'il existe des motifs raisonnables de le faire sur la base des

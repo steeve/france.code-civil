@@ -15,4 +15,5 @@ liquidité encourus sur les opérations à venir.
 
 Le conseil d'administration peut modifier les limites mentionnées à l'alinéa
 précédent. Dans ce cas, il rend compte de ces modifications sans délai à
-l'Autorité de contrôle prudentiel et dans le prochain rapport de solvabilité.
+l'Autorité de contrôle prudentiel et de résolution et dans le prochain rapport
+de solvabilité.

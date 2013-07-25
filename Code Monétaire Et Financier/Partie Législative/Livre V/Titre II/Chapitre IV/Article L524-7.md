@@ -42,4 +42,4 @@ l'intéressé.
 
 V.-Le procès-verbal ainsi que le ou les comptes rendus d'audition et les
 observations du changeur manuel sont transmis dans les meilleurs délais à
-l'Autorité de contrôle prudentiel.
+l'Autorité de contrôle prudentiel et de résolution.

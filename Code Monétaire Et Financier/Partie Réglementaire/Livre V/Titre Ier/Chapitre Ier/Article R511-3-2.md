@@ -1,12 +1,12 @@
 Article R511-3-2
 ----
 Lorsqu'il procède à l'évaluation de la notification prévue au I de l'article L.
-511-12-1, l'Autorité de contrôle prudentiel apprécie, aux fins de s'assurer que
-l'établissement de crédit visé par l'acquisition envisagée dispose d'une gestion
-saine et prudente et en tenant compte de l'influence probable du candidat
-acquéreur sur l'établissement de crédit, le caractère approprié du candidat
-acquéreur et la solidité financière de l'acquisition envisagée, en appliquant
-l'ensemble des critères suivants :
+511-12-1, l'Autorité de contrôle prudentiel et de résolution apprécie, aux fins
+de s'assurer que l'établissement de crédit visé par l'acquisition envisagée
+dispose d'une gestion saine et prudente et en tenant compte de l'influence
+probable du candidat acquéreur sur l'établissement de crédit, le caractère
+approprié du candidat acquéreur et la solidité financière de l'acquisition
+envisagée, en appliquant l'ensemble des critères suivants :
 
 1° La réputation du candidat acquéreur ;
 

@@ -7,8 +7,9 @@ leurs missions respectives pour l'application du présent chapitre.
 
 II.-Lorsque, dans l'accomplissement de leur mission, les autorités de contrôle
 et les ordres professionnels découvrent des faits susceptibles d'être liés au
-blanchiment des capitaux ou au financement du terrorisme, ils en informent le
-service mentionné à l'article L. 561-23.
+blanchiment des capitaux ou au financement du terrorisme ou toute somme ou
+opération visées à l'article L. 561-15, ils en informent sans délai le service
+mentionné à l'article L. 561-23.
 
 Ce service en accuse réception et peut, sur leur demande, les tenir informés des
 suites qui ont été réservées à ces informations.

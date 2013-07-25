@@ -20,7 +20,7 @@ l'article R. 332-13 et des actifs non listés à l'article R. 332-2 est limitée
 3° Rapportée à ce même montant, la valeur au bilan des actifs émis, prêtés ou
 garantis par un même organisme ou un même groupe ne peut excéder respectivement
 5 % et 10 %, sauf dérogation accordée au cas par cas par l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.
 
 Toutefois, le ratio de 5 % susmentionné peut atteindre 10 %, à condition que la
 valeur totale des titres émis et des prêts obtenus ou garantis par les

@@ -10,7 +10,8 @@ connaissance du public ;
 2. Outre la faculté de recourir aux autres modes légaux de cession et
 d'opposabilité aux tiers, la cession de créances résultant des opérations de
 crédit mentionnées à l'article L. 313-1 peut être rendue opposable aux tiers par
-accord écrit du débiteur ou par décision de l'Autorité de contrôle prudentiel ;
+accord écrit du débiteur ou par décision de l'Autorité de contrôle prudentiel et
+de résolution ;
 
 3. Les plans et comptes d'épargne logement, les livrets d'épargne d'entreprise,
 les plans et livrets d'épargne populaire, les plans d'épargne en actions, ainsi

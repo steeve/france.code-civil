@@ -16,7 +16,7 @@ Le vice-président du Conseil d'Etat désigne celui des deux conseillers d'Etat
 mentionnés au 1° qui préside la commission des sanctions.
 
 Les fonctions de membre de la commission des sanctions sont incompatibles avec
-celles de membre du collège.
+celles de membre du collège de supervision.
 
 Les membres de la commission des sanctions sont nommés pour une durée de cinq
 ans. Leur mandat est renouvelable une fois. Ils ne peuvent être âgés de plus de
@@ -31,7 +31,7 @@ renouvellement.
 Il ne peut être mis fin aux fonctions d'un membre de la commission des sanctions
 que dans les formes de la nomination, après avis conforme émis à la majorité des
 autres membres de la commission des sanctions constatant qu'il n'est plus à même
-de siéger au sein du collège du fait d'une incapacité ou d'un manquement grave à
-ses obligations empêchant la poursuite de son mandat.
+de siéger au sein du collège de supervision du fait d'une incapacité ou d'un
+manquement grave à ses obligations empêchant la poursuite de son mandat.
 
 Le régime indemnitaire des membres de la commission est fixé par décret.

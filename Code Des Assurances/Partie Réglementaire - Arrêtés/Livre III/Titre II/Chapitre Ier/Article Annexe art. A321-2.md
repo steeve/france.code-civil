@@ -103,8 +103,9 @@ casier judiciaire datant de moins de trois mois
 
 Je soussigné (nom et prénom) certifie l'exactitude des informations communiquées
 et m'engage à porter immédiatement à la connaissance de l'Autorité de contrôle
-prudentiel tout changement significatif des éléments les concernant, notamment
-ceux mentionnés aux points 12, 15 et 16 du présent formulaire.
+prudentiel et de résolution tout changement significatif des éléments les
+concernant, notamment ceux mentionnés aux points 12, 15 et 16 du présent
+formulaire.
 
 Date, lieu
 
@@ -112,9 +113,9 @@ Date, lieu
 
 En ma qualité de (fonction), je soussigné (nom et prénom) déclare que les
 informations communiquées sont à ma connaissance exactes et m'engage à porter
-immédiatement à la connaissance de l'Autorité de contrôle prudentiel tout
-changement significatif dont j'aurais connaissance, notamment les éléments
-mentionnés aux points 12, 15 et 16 du présent formulaire.
+immédiatement à la connaissance de l'Autorité de contrôle prudentiel et de
+résolution tout changement significatif dont j'aurais connaissance, notamment
+les éléments mentionnés aux points 12, 15 et 16 du présent formulaire.
 
 Date, lieu
 

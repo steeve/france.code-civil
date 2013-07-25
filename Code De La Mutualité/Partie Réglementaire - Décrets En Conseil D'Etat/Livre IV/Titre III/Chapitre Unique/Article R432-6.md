@@ -17,10 +17,10 @@ la part prise en charge par le système fédéral de garantie, au profit de chaq
 membre participant, ayant droit ou bénéficiaire de prestations contre la remise
 par celui-ci d'un récépissé du versement.
 
-A titre exceptionnel, l'Autorité de contrôle prudentiel peut, sur la demande du
-fonds de garantie, accorder au fonds et au système fédéral de garantie une
-prolongation, qui ne saurait excéder au total trois mois, des délais prévus à
-l'alinéa précédent.
+A titre exceptionnel, l'Autorité de contrôle prudentiel et de résolution peut,
+sur la demande du fonds de garantie, accorder au fonds et au système fédéral de
+garantie une prolongation, qui ne saurait excéder au total trois mois, des
+délais prévus à l'alinéa précédent.
 
 Le fonds met en œuvre la garantie, selon la même procédure, si le liquidateur
 présente une demande complémentaire de versement en apportant la preuve que des

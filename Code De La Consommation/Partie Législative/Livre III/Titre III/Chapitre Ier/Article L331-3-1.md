@@ -29,9 +29,20 @@ Le débiteur peut toutefois saisir le juge du tribunal d'instance afin qu'il
 l'autorise à accomplir l'un des actes mentionnés à l'alinéa précédent.
 
 La décision déclarant la recevabilité de la demande emporte rétablissement des
-droits à l'aide personnalisée au logement. Le déblocage des aides s'effectue au
-profit du bailleur.
+droits à l'aide personnalisée au logement et aux allocations de logement. Le
+déblocage des allocations de logement s'effectue dans les conditions prévues aux
+articles L. 542-7-1 et L. 831-8 du code de la sécurité sociale.
 
 Nonobstant toute disposition légale ou toute clause contractuelle, aucune
 indivisibilité, résiliation ou résolution d'un contrat en cours ne peut résulter
 du seul fait de la décision déclarant la recevabilité de la demande.
+
+A compter de la décision déclarant la recevabilité de la demande, le délai de
+trente jours mentionné au deuxième alinéa de l'article L. 113-3 du code des
+assurances, lorsqu'il est applicable, est porté à cent vingt jours pour les
+assurances ayant pour objet la garantie de remboursement d'un emprunt relevant
+du chapitre II du titre Ier du présent livre III et figurant dans l'état du
+passif définitivement arrêté par la commission ou le juge. Le contrat
+d'assurance correspondant ne peut pas être résilié pendant la période de
+suspension et d'interdiction des procédures d'exécution et des cessions de
+rémunération définie au premier alinéa du présent article.

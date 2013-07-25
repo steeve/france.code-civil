@@ -35,6 +35,6 @@ relatives aux 2 et 4 du I et au II.
 L'Autorité des marchés financiers s'assure de la bonne application des
 dispositions des I et II dans les conditions prévues à l'article L. 621-9. Pour
 les règles relatives aux 2 et 4 du I et au II, elle s'appuie sur les contrôles
-effectués par l'Autorité de contrôle prudentiel dans les conditions prévues pour
-les personnes mentionnées à au 2° du A du I de l'article L. 612-2 et les
-recommandations qui s'ensuivent.
+effectués par l'Autorité de contrôle prudentiel et de résolution dans les
+conditions prévues pour les personnes mentionnées à au 2° du A du I de l'article
+L. 612-2 et les recommandations qui s'ensuivent.

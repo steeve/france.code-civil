@@ -3,7 +3,10 @@ Article L533-10
 Les prestataires de services d'investissement doivent :
 
 1. Mettre en place des règles et procédures permettant de garantir le respect
-des dispositions qui leur sont applicables ;
+des dispositions qui leur sont applicables, y compris celles prévues à l'article
+11 du règlement (UE) n° 648/2012 du Parlement européen et du Conseil du 4
+juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales
+et les référentiels centraux ;
 
 2. Mettre en place des règles et procédures permettant de garantir le respect
 par les personnes placées sous leur autorité ou agissant pour leur compte, des
@@ -43,7 +46,17 @@ exprès des clients ;
 7. Sauvegarder les droits des clients sur les fonds leur appartenant. Les
 entreprises d'investissement ne peuvent en aucun cas utiliser pour leur propre
 compte les fonds déposés auprès d'elles par leurs clients sous réserve des
-dispositions des articles L. 440-7 à L. 440-10.
+dispositions des articles L. 440-7 à L. 440-10 ;
+
+8. Lorsqu'ils fournissent à une autre personne un accès direct à une plate-forme
+de négociation, signer un accord écrit contraignant avec cette personne portant
+sur les droits et obligations essentiels découlant de la fourniture de ce
+service et stipulant que le prestataire de services d'investissement conserve la
+responsabilité de garantir la conformité des négociations effectuées par son
+intermédiaire, puis mettre en place les systèmes permettant au prestataire de
+services d'investissement de vérifier le respect des engagements prescrits par
+ledit accord, s'agissant notamment de la prévention de toute perturbation du
+marché ou de tout abus de marché.
 
 Le règlement général de l'Autorité des marchés financiers précise les conditions
 d'application du présent article. Toutefois, un arrêté du ministre chargé de

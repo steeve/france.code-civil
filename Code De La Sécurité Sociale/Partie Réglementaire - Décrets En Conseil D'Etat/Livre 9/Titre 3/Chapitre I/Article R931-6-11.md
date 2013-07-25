@@ -3,11 +3,11 @@ Article R931-6-11
 I.-En cas de retrait de l'agrément administratif accordé à une institution de
 prévoyance ou une union et dans un délai de vingt jours à compter du lendemain
 du jour de la publication au Journal officiel de la République française de la
-décision de l'Autorité de contrôle prudentiel prononçant le retrait d'agrément,
-chaque membre adhérent ou membre participant est avisé de ce retrait d'agrément
-par le liquidateur ou, en attendant la désignation du liquidateur, par le
-président du conseil d'administration de l'institution de prévoyance ou de
-l'union d'institutions de prévoyance ou son représentant.
+décision de l'Autorité de contrôle prudentiel et de résolution prononçant le
+retrait d'agrément, chaque membre adhérent ou membre participant est avisé de ce
+retrait d'agrément par le liquidateur ou, en attendant la désignation du
+liquidateur, par le président du conseil d'administration de l'institution de
+prévoyance ou de l'union d'institutions de prévoyance ou son représentant.
 
 Cet avis, qui rappelle la législation applicable, fait l'objet d'une lettre
 recommandée adressée au dernier domicile connu du membre participant.

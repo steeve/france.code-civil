@@ -1,7 +1,7 @@
 Article R212-12
 ----
 En ce qui concerne les mutuelles et unions agréées pour pratiquer des opérations
-relevant des branches 1, 2, 15, 16 a et h, 17 et 18 mentionnées à l'article R.
+relevant des branches 1,2,15,16 a et h, 17 et 18 mentionnées à l'article R.
 211-2, l'exigence minimale de marge de solvabilité est déterminée soit par
 rapport au montant annuel des cotisations, soit par rapport à la charge moyenne
 des sinistres pour les trois derniers exercices. Cette exigence minimale de
@@ -32,8 +32,8 @@ sinistres demeurant à charge de l'entreprise après cession en réassurance et 
 montant des sinistres brut de réassurance, sans que ce rapport puisse être
 inférieur à 50 %.
 
-Sous réserve de l'accord de l'Autorité de contrôle prudentiel, l'affectation des
-cotisations peut être effectuée par des méthodes statistiques.
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel et de résolution,
+l'affectation des cotisations peut être effectuée par des méthodes statistiques.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne des sinistres pour
 les trois derniers exercices) :

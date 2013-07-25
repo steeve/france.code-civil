@@ -4,7 +4,8 @@ Lorsque le collège décide de l'ouverture d'une procédure de sanction, la
 notification des griefs est adressée, par lettre recommandée avec demande d'avis
 de réception, remise en main propre contre récépissé ou acte d'huissier, à la
 personne mise en cause, accompagnée du rapport d'enquête ou de contrôle ou de la
-demande formulée par le président de l'Autorité de contrôle prudentiel.
+demande formulée par le président de l'Autorité de contrôle prudentiel et de
+résolution.
 
 La notification des griefs mentionne que sera réputée faite à la personne mise
 en cause toute notification ultérieure à elle destinée et faite à l'adresse à

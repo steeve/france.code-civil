@@ -8,7 +8,7 @@ Commission nationale de l'informatique et des libertés.
 
 Médiateur du cinéma.
 
-Autorité de contrôle prudentiel.
+Autorité de contrôle prudentiel et de résolution.
 
 Conseil supérieur de l'audiovisuel.
 

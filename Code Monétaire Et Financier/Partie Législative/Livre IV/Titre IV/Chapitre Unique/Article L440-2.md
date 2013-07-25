@@ -49,15 +49,5 @@ présent code pour les prestataires de services d'investissement, en tenant
 compte de la surveillance exercée par les autorités compétentes de chaque Etat
 concerné.
 
-L'accès des établissements de crédit et des entreprises d'investissement ayant
-leur siège social dans un Etat membre de la Communauté européenne ou dans un
-autre Etat partie à l'accord sur l'Espace économique européen autre que la
-France est soumis aux mêmes critères non discriminatoires, transparents et
-objectifs que ceux qui s'appliquent aux adhérents ayant leur siège social en
-France.
-
-Une chambre de compensation peut refuser, pour des raisons commerciales
-légitimes, l'accès d'un établissement de crédit ou d'une entreprise
-d'investissement ayant son siège social dans un Etat membre de la Communauté
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen autre que la France.
+Les relations entre une chambre de compensation et une personne morale
+mentionnée aux 1 à 5 sont de nature contractuelle.

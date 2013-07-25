@@ -2,7 +2,7 @@ Article L931-4
 ----
 Les institutions de prévoyance et les unions ne peuvent commencer leurs
 opérations qu'après avoir obtenu un agrément délivré par l'Autorité de contrôle
-prudentiel.
+prudentiel et de résolution.
 
 L'agrément est accordé, sur demande de l'institution ou de l'union, pour les
 opérations d'une ou de plusieurs branches d'activité. L'institution ou l'union

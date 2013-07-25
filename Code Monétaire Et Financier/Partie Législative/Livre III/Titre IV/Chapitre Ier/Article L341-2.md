@@ -57,4 +57,8 @@ l'article L. 341-6. ;
 d'un établissement de monnaie électronique fournissant des services de paiement
 permettant l'octroi de crédit en vue de proposer un contrat de financement de
 biens ou de prestations de services répondant aux conditions prévues à la
-section 5 du chapitre Ier du titre Ier du livre III du code de la consommation.
+section 5 du chapitre Ier du titre Ier du livre III du code de la consommation ;
+
+11° A la diffusion auprès des personnes physiques ou morales d'une simple
+information publicitaire, à l'exclusion de tout document contractuel ou
+précontractuel, quel que soit le support.

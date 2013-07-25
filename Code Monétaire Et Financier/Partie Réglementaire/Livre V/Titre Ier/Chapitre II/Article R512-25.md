@@ -8,7 +8,8 @@ Le conseil d'administration de la confédération prononce les sanctions à la
 majorité des deux tiers des membres présents.
 
 Les décisions de sanctions sont motivées, elles sont portées à la connaissance
-de l'Autorité de contrôle prudentiel et notifiées à la caisse intéressée.
+de l'Autorité de contrôle prudentiel et de résolution et notifiées à la caisse
+intéressée.
 
 La radiation de la liste des caisses de crédit mutuel peut être déférée dans les
 deux mois, par la caisse intéressée ou par la fédération à laquelle elle est

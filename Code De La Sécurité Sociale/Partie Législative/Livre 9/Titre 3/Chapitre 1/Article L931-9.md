@@ -66,10 +66,24 @@ Les personnes appelées à fonder, diriger ou administrer une institution de
 prévoyance ou un groupement paritaire de prévoyance doivent posséder la
 qualification et l'honorabilité nécessaires à leur fonction.
 
-Lorsque l'Autorité de contrôle prudentiel est amenée à se prononcer sur
-l'honorabilité, la compétence et l'expérience de dirigeants et d'administrateurs
-qui exercent également ces mêmes fonctions au sein d'entités autres que celles
-mentionnées au premier alinéa et appartenant au même groupe au sens de l'article
-L. 933-2, elle consulte les autorités compétentes au titre de ces autres
-entités. Elle communique à ces autorités les informations utiles à l'exercice de
-leurs missions.
+Les membres du conseil d'administration disposent de l'honorabilité, de la
+compétence et de l'expérience nécessaires.
+
+La compétence des intéressés est appréciée par l'Autorité de contrôle prudentiel
+et de résolution à partir de leur formation et de leur expérience de façon
+proportionnée à leurs attributions, notamment celles exercées en tant que
+président d'un conseil ou d'un comité. L'autorité tient compte également, dans
+l'appréciation portée sur chaque personne, de la compétence, de l'expérience et
+des attributions des autres membres de l'organe auquel elle appartient. Lorsque
+des mandats ont été antérieurement exercés, la compétence est présumée à raison
+de l'expérience acquise. Pour les nouveaux membres, l'Autorité de contrôle
+prudentiel et de résolution tient compte des formations dont ils pourront
+bénéficier tout au long de leur mandat.
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se
+prononcer sur l'honorabilité, la compétence et l'expérience de dirigeants et
+d'administrateurs qui exercent également ces mêmes fonctions au sein d'entités
+autres que celles mentionnées au premier alinéa et appartenant au même groupe au
+sens de l'article L. 933-2, elle consulte les autorités compétentes au titre de
+ces autres entités. Elle communique à ces autorités les informations utiles à
+l'exercice de leurs missions.

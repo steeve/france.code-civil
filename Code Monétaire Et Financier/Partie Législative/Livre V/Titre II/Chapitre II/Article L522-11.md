@@ -1,10 +1,11 @@
 Article L522-11
 ----
 I.-Le retrait de l'agrément d'établissement de paiement est prononcé par
-l'Autorité de contrôle prudentiel à la demande de l'établissement.
+l'Autorité de contrôle prudentiel et de résolution à la demande de
+l'établissement.
 
-Il peut également être décidé d'office par l'Autorité de contrôle prudentiel
-lorsque l'établissement :
+Il peut également être décidé d'office par l'Autorité de contrôle prudentiel et
+de résolution lorsque l'établissement :
 
 a) Ne fait pas usage de l'agrément dans un délai de douze mois ou a cessé
 d'exercer son activité pendant une période supérieure à six mois ;
@@ -16,14 +17,14 @@ c) Ne remplit plus les conditions auxquels était subordonné son agrément ou u
 autorisation ultérieure.
 
 II.-Le retrait d'agrément prend effet à l'expiration d'une période dont la durée
-est déterminée par l'Autorité de contrôle prudentiel.
+est déterminée par l'Autorité de contrôle prudentiel et de résolution.
 
 Pendant cette période :
 
 1° L'établissement de paiement demeure soumis au contrôle de la l'Autorité de
-contrôle prudentiel. L'Autorité de contrôle prudentiel peut prononcer à son
-encontre les sanctions disciplinaires prévues à l'article L. 612-39, y compris
-la radiation ;
+contrôle prudentiel et de résolution. L'Autorité de contrôle prudentiel et de
+résolution peut prononcer à son encontre les sanctions disciplinaires prévues à
+l'article L. 612-39, y compris la radiation ;
 
 2° L'établissement ne peut fournir que les services de paiement ainsi que les
 garanties d'exécution d'opérations de paiement ou les opérations de crédit
@@ -45,19 +46,19 @@ décision de retrait d'agrément, à réaliser peuvent être menées à leur ter
 Par dérogation aux dispositions des 4° et 5° de l'article 1844-7 du code civil,
 la dissolution anticipée d'un établissement de paiement ne peut être prononcée
 qu'après décision de retrait de son agrément par l'Autorité de contrôle
-prudentiel. Par dérogation aux articles L. 123-1 et L. 237-3 du code de
-commerce, la publication et'inscription modificative au registre du commerce et
-des sociétés concernant le prononcé de cette dissolution doivent mentionner la
-date de la décision de retrait d'agrément par l'Autorité de contrôle prudentiel.
-Jusqu'à la clôture de sa liquidation, l'établissement reste soumis au contrôle
-de l'Autorité de contrôle prudentiel, qui peut prononcer l'ensemble des
-sanctions prévues à l'article L. 613-21 du présent code. Il ne peut faire état
-de sa qualité d'établissement de paiement sans préciser qu'il est en
-liquidation.
+prudentiel et de résolution. Par dérogation aux articles L. 123-1 et L. 237-3 du
+code de commerce, la publication et'inscription modificative au registre du
+commerce et des sociétés concernant le prononcé de cette dissolution doivent
+mentionner la date de la décision de retrait d'agrément par l'Autorité de
+contrôle prudentiel et de résolution. Jusqu'à la clôture de sa liquidation,
+l'établissement reste soumis au contrôle de l'Autorité de contrôle prudentiel et
+de résolution, qui peut prononcer l'ensemble des sanctions prévues à l'article
+L. 613-21 du présent code. Il ne peut faire état de sa qualité d'établissement
+de paiement sans préciser qu'il est en liquidation.
 
 IV.-La radiation d'un établissement de paiement de la liste des établissements
 de paiement agréés peut être prononcée à titre de sanction disciplinaire par
-l'Autorité de contrôle prudentiel.
+l'Autorité de contrôle prudentiel et de résolution.
 
 Pour un établissement de paiement exerçant des activités de nature hybride au
 sens de l'article L. 522-3, la radiation s'entend comme une interdiction faite à
@@ -68,12 +69,12 @@ Pour les autres établissements, la radiation entraîne la liquidation de la
 personne morale.
 
 Tout établissement qui a fait l'objet d'une telle sanction disciplinaire demeure
-soumis au contrôle de l'Autorité de contrôle prudentiel jusqu'à, respectivement,
-l'arrêt de toute activité de paiement ou la clôture de la liquidation.
-Jusque-là, il ne peut effectuer que les opérations de paiement strictement
-nécessaires à l'apurement de sa situation. Il ne peut faire état de sa qualité
-d'établissement de paiement qu'en précisant qu'il a fait l'objet d'une mesure de
-radiation.
+soumis au contrôle de l'Autorité de contrôle prudentiel et de résolution
+jusqu'à, respectivement, l'arrêt de toute activité de paiement ou la clôture de
+la liquidation. Jusque-là, il ne peut effectuer que les opérations de paiement
+strictement nécessaires à l'apurement de sa situation. Il ne peut faire état de
+sa qualité d'établissement de paiement qu'en précisant qu'il a fait l'objet
+d'une mesure de radiation.
 
 V.-Le ministre chargé de l'économie précise par arrêté les conditions
 d'application de l'article L. 522-11. Il fixe notamment les modalités selon

@@ -77,14 +77,14 @@ territoire national. Ce représentant permanent peut être désigné parmi les
 agents ou les personnes qui distribuent de la monnaie électronique, au sens de
 l'article L. 525-8. Dans des conditions déterminées par décret, quand la nature
 ou le volume de l'activité exercée en France le justifient, l'Autorité de
-contrôle prudentiel peut demander à l'établissement que cette fonction soit
-exercée par une personne spécialement désignée à cet effet et à l'exclusion de
-toutes autres activités exercées pour le compte et au nom de l'établissement de
-paiement ou de l'établissement de monnaie électronique.
+contrôle prudentiel et de résolution peut demander à l'établissement que cette
+fonction soit exercée par une personne spécialement désignée à cet effet et à
+l'exclusion de toutes autres activités exercées pour le compte et au nom de
+l'établissement de paiement ou de l'établissement de monnaie électronique.
 
 Le représentant permanent procède au nom de l'établissement aux déclarations
 prescrites aux articles L. 561-15 et L. 561-15-1. Il répond aux demandes
 formulées par le service mentionné à l'article L. 561-23, en application des
 sections 3 et 4 du présent chapitre et du chapitre II du présent titre, ainsi
-qu'à toute demande émanant de l'Autorité de contrôle prudentiel, de l'autorité
-judiciaire et des officiers de police judiciaire.
+qu'à toute demande émanant de l'Autorité de contrôle prudentiel et de
+résolution, de l'autorité judiciaire et des officiers de police judiciaire.
