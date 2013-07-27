@@ -2,7 +2,7 @@ Article R931-10-3
 ----
 I.-La marge de solvabilité mentionnée à l'article R. 931-10-1 relative aux
 institutions de prévoyance ou unions d'institutions de prévoyance agréées pour
-pratiquer les branches 1, 2 et 16 a mentionnées à l'article R. 931-2-1 est
+pratiquer les branches 1,2 et 16 a mentionnées à l'article R. 931-2-1 est
 constituée, après déduction des pertes, de la part des frais d'acquisition non
 admise en représentation des engagements réglementés et des autres éléments
 incorporels, par les éléments suivants :
@@ -38,8 +38,8 @@ mentionnés ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue
 de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
-contrôle prudentiel peut autoriser l'institution ou l'union à ne pas effectuer
-les déductions prévues aux a et b.
+contrôle prudentiel et de résolution peut autoriser l'institution ou l'union à
+ne pas effectuer les déductions prévues aux a et b.
 
 II.-La marge de solvabilité peut également être constituée par les fonds
 effectivement encaissés provenant de l'émission de titres ou emprunts
@@ -54,13 +54,13 @@ de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 2
 de cette marge. Tout remboursement effectué irrégulièrement peut, conformément
 aux dispositions de la section 6 et de la section 7 du chapitre II du titre Ier
 du livre VI du code monétaire et financier, donner lieu à des mesures de police
-ou de sanction de l'Autorité de contrôle prudentiel.
+ou de sanction de l'Autorité de contrôle prudentiel et de résolution.
 
 III.-Sur demande et justification de l'institution ou de l'union et avec
-l'accord de l'Autorité de contrôle prudentiel et des autorités de contrôle des
-Etats membres de la Communauté européenne où l'institution ou l'union exerce son
-activité, la marge de solvabilité peut également être constituée par les
-éléments suivants :
+l'accord de l'Autorité de contrôle prudentiel et de résolution et des autorités
+de contrôle des Etats membres de la Communauté européenne où l'institution ou
+l'union exerce son activité, la marge de solvabilité peut également être
+constituée par les éléments suivants :
 
 1. La moitié de la part restant à rembourser de l'emprunt pour fonds
 d'établissement ;
@@ -101,8 +101,8 @@ mentionnés ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue
 de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
-contrôle prudentiel peut autoriser l'institution ou l'union à ne pas effectuer
-les déductions prévues aux a et b.
+contrôle prudentiel et de résolution peut autoriser l'institution ou l'union à
+ne pas effectuer les déductions prévues aux a et b.
 
 En outre, l'institution ou l'union n'est pas tenue d'effectuer les déductions
 mentionnées au a et au b lorsqu'elle est soumise à une surveillance

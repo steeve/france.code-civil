@@ -4,5 +4,5 @@ Le collège crée en son sein un comité d'audit chargé notamment de délivrer 
 avis, préalable à leur adoption, sur les projets de budget et de rapport sur
 l'exécution budgétaire.
 
-Le règlement intérieur de l'Autorité de contrôle prudentiel fixe la composition
-et les missions du comité.
+Le règlement intérieur de l'Autorité de contrôle prudentiel et de résolution
+fixe la composition et les missions du comité.

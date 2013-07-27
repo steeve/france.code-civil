@@ -3,8 +3,8 @@ Article L532-1
 Pour fournir des services d'investissement, les entreprises d'investissement et
 les établissements de crédit doivent obtenir un agrément. Sous réserve des
 dispositions du troisième alinéa ci-dessous, cet agrément est délivré par
-l'Autorité de contrôle prudentiel. Il n'est pas requis pour le seul exercice
-d'un ou plusieurs des services mentionnés à l'article L. 321-2.
+l'Autorité de contrôle prudentiel et de résolution. Il n'est pas requis pour le
+seul exercice d'un ou plusieurs des services mentionnés à l'article L. 321-2.
 
 Préalablement à la délivrance d'un agrément portant sur les services mentionnés
 aux 4 ou 5 de l'article L. 321-1, les entreprises d'investissement et les

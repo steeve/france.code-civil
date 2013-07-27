@@ -19,9 +19,9 @@ la surveillance est exercée sur la base de la situation financière consolidée
 les groupes financiers ou mixtes doivent adopter des procédures de contrôle
 interne adéquates pour la production des informations et renseignements utiles
 aux fins de l'exercice de cette surveillance. Les établissements de crédit
-notifient à l'Autorité de contrôle prudentiel les transactions importantes entre
-les établissements de crédit d'un groupe mixte et la compagnie mixte ou ses
-filiales, dans les conditions définies à l'article L. 612-24.
+notifient à l'Autorité de contrôle prudentiel et de résolution les transactions
+importantes entre les établissements de crédit d'un groupe mixte et la compagnie
+mixte ou ses filiales, dans les conditions définies à l'article L. 612-24.
 
 Un arrêté du ministre chargé de l'économie définit les conditions d'application
 du présent article.
@@ -31,4 +31,5 @@ de direction, d'administration et de surveillance concernant l'efficacité des
 systèmes de contrôle interne, d'audit interne et de gestion des risques et le
 suivi des incidents révélés notamment par ces systèmes sont fixées par arrêté du
 ministre chargé de l'économie. Cet arrêté prévoit les conditions dans lesquelles
-ces informations sont transmises à l'Autorité de contrôle prudentiel.
+ces informations sont transmises à l'Autorité de contrôle prudentiel et de
+résolution.

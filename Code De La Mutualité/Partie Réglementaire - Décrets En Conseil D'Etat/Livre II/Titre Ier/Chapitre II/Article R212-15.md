@@ -34,7 +34,8 @@ proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
 concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
 peut, conformément aux dispositions de la section 6 et de la section 7 du
 chapitre II du titre Ier du livre VI du code monétaire et financier, donner lieu
-à des mesures de police ou de sanction de l'Autorité de contrôle prudentiel.
+à des mesures de police ou de sanction de l'Autorité de contrôle prudentiel et
+de résolution.
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y
 compris la part de cotisation versée par la mutuelle ou l'union et non utilisée
@@ -83,8 +84,9 @@ fonds propres applicables aux entreprises et établissements mentionnés ci-dess
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement par
 une mutuelle ou une union en vue de faciliter l'assainissement et la sauvegarde
-de cette entité, l'Autorité de contrôle prudentiel peut autoriser la mutuelle ou
-l'union à ne pas effectuer les déductions prévues aux deux alinéas précédents.
+de cette entité, l'Autorité de contrôle prudentiel et de résolution peut
+autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux
+deux alinéas précédents.
 
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions
 mentionnées au a et au b lorsqu'elle est soumise à une surveillance

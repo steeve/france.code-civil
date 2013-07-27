@@ -26,16 +26,16 @@ européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
 européen ou agréés dans un secteur financier autre que celui dans lequel
 l'acquisition est envisagée,
 
-L'Autorité de contrôle prudentiel consulte l'autorité compétente, au sens du 4°
-du I de l'article L. 517-2, afin d'évaluer notamment la qualité des actionnaires
-ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion
-d'une autre entité du même groupe.
+L'Autorité de contrôle prudentiel et de résolution consulte l'autorité
+compétente, au sens du 4° du I de l'article L. 517-2, afin d'évaluer notamment
+la qualité des actionnaires ainsi que l'honorabilité et la compétence des
+dirigeants associés à la gestion d'une autre entité du même groupe.
 
 II.-Dans les cas d'opérations d'acquisition directe ou indirecte de droits de
 vote ou de parts de capital ou d'extension de participation, l'Autorité de
-contrôle prudentiel consulte sans délai l'autorité compétente, au sens du 4° du
-I de l'article L. 517-2, dont relève le candidat acquéreur, en vue d'obtenir
-toute information essentielle ou pertinente pour procéder à l'évaluation prévue
-à l'article R. 511-3-2. La décision prise à ce titre par l'Autorité de contrôle
-prudentiel mentionne les avis ou réserves formulés, le cas échéant, par cette
-autorité compétente.
+contrôle prudentiel et de résolution consulte sans délai l'autorité compétente,
+au sens du 4° du I de l'article L. 517-2, dont relève le candidat acquéreur, en
+vue d'obtenir toute information essentielle ou pertinente pour procéder à
+l'évaluation prévue à l'article R. 511-3-2. La décision prise à ce titre par
+l'Autorité de contrôle prudentiel et de résolution mentionne les avis ou
+réserves formulés, le cas échéant, par cette autorité compétente.

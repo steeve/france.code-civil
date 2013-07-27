@@ -53,26 +53,26 @@ soumise à l'impôt sur les sociétés dans les conditions de droit commun est u
 organe central mentionné à l'article L. 511-30 du code monétaire et financier ou
 une caisse départementale ou interdépartementale mentionnée à l'article L.
 512-55 du même code titulaire d'un agrément collectif délivré par l'Autorité de
-contrôle prudentiel pour elle-même et pour les caisses locales qui la
-détiennent, elle peut se constituer seule redevable de l'impôt sur les sociétés
-dû sur l'ensemble des résultats du groupe formé par elle-même, les banques,
-caisses et sociétés mentionnées aux articles L. 512-11, L. 512-20, L. 512-55, L.
-512-60, L. 512-69 et L. 512-86 du même code soumises à l'impôt sur les sociétés
-dans les conditions de droit commun qui lui sont affiliées au sens de l'article
-L. 511-31 du même code ou bénéficiant d'un même agrément collectif délivré par
-l'Autorité de contrôle prudentiel, et les sociétés dont elle et les banques,
-caisses et sociétés précitées détiennent 95 % au moins du capital, directement
-ou indirectement par l'intermédiaire de sociétés ou d'établissements stables
-membres du groupe, ci-après désignés par les termes : " sociétés du groupe ", ou
-de sociétés ou d'établissements stables, ci-après désignés par les termes : "
-sociétés intermédiaires ", dont la société mère et ces mêmes banques, caisses et
-sociétés détiennent 95 % au moins du capital, directement ou indirectement par
-l'intermédiaire de sociétés du groupe ou de sociétés intermédiaires. Les
-conditions relatives aux liens entre les personnes morales mentionnées à la
-première phrase et à la détention des sociétés membres du groupe par ces
-personnes morales s'apprécient de manière continue au cours de l'exercice. Les
-autres dispositions du premier alinéa s'appliquent à la société mère du groupe
-formé dans les conditions prévues au présent alinéa.
+contrôle prudentiel et de résolution pour elle-même et pour les caisses locales
+qui la détiennent, elle peut se constituer seule redevable de l'impôt sur les
+sociétés dû sur l'ensemble des résultats du groupe formé par elle-même, les
+banques, caisses et sociétés mentionnées aux articles L. 512-11, L. 512-20, L.
+512-55, L. 512-60, L. 512-69 et L. 512-86 du même code soumises à l'impôt sur
+les sociétés dans les conditions de droit commun qui lui sont affiliées au sens
+de l'article L. 511-31 du même code ou bénéficiant d'un même agrément collectif
+délivré par l'Autorité de contrôle prudentiel et de résolution, et les sociétés
+dont elle et les banques, caisses et sociétés précitées détiennent 95 % au moins
+du capital, directement ou indirectement par l'intermédiaire de sociétés ou
+d'établissements stables membres du groupe, ci-après désignés par les termes : "
+sociétés du groupe ", ou de sociétés ou d'établissements stables, ci-après
+désignés par les termes : " sociétés intermédiaires ", dont la société mère et
+ces mêmes banques, caisses et sociétés détiennent 95 % au moins du capital,
+directement ou indirectement par l'intermédiaire de sociétés du groupe ou de
+sociétés intermédiaires. Les conditions relatives aux liens entre les personnes
+morales mentionnées à la première phrase et à la détention des sociétés membres
+du groupe par ces personnes morales s'apprécient de manière continue au cours de
+l'exercice. Les autres dispositions du premier alinéa s'appliquent à la société
+mère du groupe formé dans les conditions prévues au présent alinéa.
 
 Pour le calcul du taux de détention du capital, il est fait abstraction, dans la
 limite de 10 % du capital de la société, des titres émis dans les conditions

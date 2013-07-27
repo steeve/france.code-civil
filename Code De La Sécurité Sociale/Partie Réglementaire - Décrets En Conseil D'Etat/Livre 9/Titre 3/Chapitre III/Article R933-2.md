@@ -40,11 +40,11 @@ solvabilité des institutions ou unions pris en compte dans le calcul sont
 répartis de manière adéquate entre ces organismes.
 
 Lorsqu'elle vérifie le calcul de la solvabilité ajustée d'une institution ou
-d'une union, l'Autorité de contrôle prudentiel peut prendre en compte
-l'évaluation par une autre autorité compétente de la situation de solvabilité
-d'un organisme assureur apparenté dont le siège social est situé dans un autre
-Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
-économique européen.
+d'une union, l'Autorité de contrôle prudentiel et de résolution peut prendre en
+compte l'évaluation par une autre autorité compétente de la situation de
+solvabilité d'un organisme assureur apparenté dont le siège social est situé
+dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur
+l'Espace économique européen.
 
 En cas de solvabilité ajustée négative, l'Autorité de contrôle exige de
 l'institution ou union concernée qu'elle prenne les mesures nécessaires au

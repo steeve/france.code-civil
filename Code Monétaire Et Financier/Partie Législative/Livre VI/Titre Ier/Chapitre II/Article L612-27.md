@@ -28,4 +28,5 @@ de référence, au sens des articles L. 212-7-1 du code de la mutualité et L.
 Ces suites, ainsi que toute autre information transmise aux personnes contrôlées
 ou aux personnes mentionnées au précédent alinéa comportant une appréciation de
 leur situation, ne peuvent être communiquées à des tiers, en dehors des cas où
-la loi le prévoit, sans l'accord de l'Autorité de contrôle prudentiel.
+la loi le prévoit, sans l'accord de l'Autorité de contrôle prudentiel et de
+résolution.

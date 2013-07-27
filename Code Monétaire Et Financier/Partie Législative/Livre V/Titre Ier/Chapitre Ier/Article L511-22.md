@@ -6,6 +6,6 @@ l'agrément qu'il y a reçu, tout établissement de crédit peut, sur le territo
 de la France métropolitaine, des départements d'outre-mer et de Saint-Martin,
 établir des succursales pour fournir des services bancaires et intervenir en
 libre prestation de services dans les conditions définies à l'article L. 511-24,
-sous réserve que l'Autorité de contrôle prudentiel ait préalablement été
-informée par l'autorité compétente de l'Etat membre, dans des conditions fixées
-par le ministre chargé de l'économie.
+sous réserve que l'Autorité de contrôle prudentiel et de résolution ait
+préalablement été informée par l'autorité compétente de l'Etat membre, dans des
+conditions fixées par le ministre chargé de l'économie.

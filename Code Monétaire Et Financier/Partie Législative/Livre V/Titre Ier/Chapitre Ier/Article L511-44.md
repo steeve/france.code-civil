@@ -1,11 +1,11 @@
 Article L511-44
 ----
-L'Autorité de contrôle prudentiel établit et tient à jour la liste des
-organismes externes d'évaluation de crédit dont les évaluations peuvent être
-utilisées par les établissements de crédit et les entreprises d'investissement
-pour les besoins de la mise en oeuvre de la réglementation prévue par l'article
-L. 511-41. Elle précise pour chaque organisme les échelons de qualité de crédit
-auxquelles correspondent les évaluations réalisées.
+L'Autorité de contrôle prudentiel et de résolution établit et tient à jour la
+liste des organismes externes d'évaluation de crédit dont les évaluations
+peuvent être utilisées par les établissements de crédit et les entreprises
+d'investissement pour les besoins de la mise en oeuvre de la réglementation
+prévue par l'article L. 511-41. Elle précise pour chaque organisme les échelons
+de qualité de crédit auxquelles correspondent les évaluations réalisées.
 
 Un organisme ne peut être inscrit sur cette liste que si son activité et son
 expérience en matière d'évaluation du crédit sont de nature à assurer la

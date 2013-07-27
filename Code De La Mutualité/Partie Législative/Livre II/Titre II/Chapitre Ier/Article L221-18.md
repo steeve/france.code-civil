@@ -4,10 +4,16 @@ I.-1° La fourniture à distance d'opérations d'assurance individuelles à un
 consommateur est régie par les dispositions du présent titre et par celles des
 sous-sections 2 et 3 de la section 2 du chapitre Ier du titre II du livre Ier du
 code de la consommation, à l'exception des articles L. 121-20-10, L. 121-20-12
-et L. 121-20-17, ci-après reproduites : " Sous-section 2 Dispositions
-particulières aux contrats portant sur des services financiers "
+et L. 121-20-17, ci-après reproduites :
 
-" Art.L. 121-20-8.-La présente sous-section régit la fourniture de services
+" Sous-section 2
+
+
+Dispositions particulières
+
+aux contrats portant sur des services financiers "
+
+" Art. L. 121-20-8.-La présente sous-section régit la fourniture de services
 financiers à un consommateur dans le cadre d'un système de vente ou de
 prestation de services à distance organisé par le fournisseur ou par un
 intermédiaire qui, pour ce contrat, utilise exclusivement une ou plusieurs
@@ -21,7 +27,7 @@ régies par le livre II du code de la mutualité et par les institutions de
 prévoyance et unions régies par le titre III du livre IX du code de la sécurité
 sociale sans préjudice des dispositions spécifiques prévues par ces codes. "
 
-" Art.L. 121-20-9.-Pour les contrats portant sur des services financiers
+" Art. L. 121-20-9.-Pour les contrats portant sur des services financiers
 comportant une première convention de service suivie d'opérations successives ou
 d'une série d'opérations distinctes, de même nature, échelonnées dans le temps,
 les dispositions de la présente sous-section ne s'appliquent qu'à la première
@@ -36,7 +42,7 @@ sont applicables qu'à la première opération. Cependant, lorsqu'aucune opérat
 de même nature n'est effectuée pendant plus d'un an, ces dispositions
 s'appliquent à l'opération suivante, considérée comme une première opération. "
 
-" Art.L. 121-20-11.-Le consommateur doit recevoir, par écrit ou sur un autre
+" Art. L. 121-20-11.-Le consommateur doit recevoir, par écrit ou sur un autre
 support durable à sa disposition et auquel il a accès en temps utile et avant
 tout engagement, les conditions contractuelles ainsi que les informations
 mentionnées à l'article L. 121-20-10. Le fournisseur peut remplir ses
@@ -58,7 +64,7 @@ de communication à distance utilisées, à moins que cela ne soit incompatible
 avec le contrat à distance conclu ou avec la nature du service financier fourni.
 "
 
-" Art.L. 121-20-13.-I.-Les contrats pour lesquels s'applique le délai de
+" Art. L. 121-20-13.-I.-Les contrats pour lesquels s'applique le délai de
 rétractation mentionné à l'article L. 121-20-12 ne peuvent recevoir de
 commencement d'exécution par les parties avant l'arrivée du terme de ce délai
 sans l'accord du consommateur. Lorsque celui-ci exerce son droit de
@@ -90,7 +96,7 @@ tard dans les trente jours toute somme et tout bien qu'il a reçus de ce dernier
 Ce délai commence à courir à compter du jour où le consommateur communique au
 fournisseur sa volonté de se rétracter. "
 
-" Art.L. 121-20-14.-Les dispositions de l'article L. 34-5 du code des postes et
+" Art. L. 121-20-14.-Les dispositions de l'article L. 34-5 du code des postes et
 communications électroniques, reproduites à l'article L. 121-20-5, sont
 applicables aux services financiers.
 
@@ -100,22 +106,26 @@ des postes et communications électroniques ne peuvent être utilisées que si l
 consommateur n'a pas manifesté son opposition.
 
 Les mesures prévues au présent article ne doivent pas entraîner de frais pour le
-consommateur. " " Sous-section 3 Dispositions communes "
+consommateur. "
 
-" Art.L. 121-20-15.-Lorsque les parties ont choisi la loi d'un Etat non membre
+" Sous-section 3
+
+Dispositions communes "
+
+" Art. L. 121-20-15.-Lorsque les parties ont choisi la loi d'un Etat non membre
 de la Communauté européenne pour régir le contrat, le juge devant lequel est
 invoquée cette loi est tenu d'en écarter l'application au profit des
 dispositions plus protectrices de la loi de la résidence habituelle du
-consommateur assurant la transposition de la directive 97 / 7 / CE du Parlement
+consommateur assurant la transposition de la directive 97/7/ CE du Parlement
 européen et du Conseil du 20 mai 1997 concernant la protection des consommateurs
-en matière de contrats à distance et de la directive 2002 / 65 / CE du Parlement
+en matière de contrats à distance et de la directive 2002/65/ CE du Parlement
 européen et du Conseil du 23 septembre 2002, concernant la commercialisation à
 distance de services financiers auprès des consommateurs, lorsque le contrat
 présente un lien étroit avec le territoire d'un ou plusieurs Etats membres de la
 Communauté européenne ; cette condition est présumée remplie si la résidence des
 consommateurs est située dans un Etat membre. "
 
-" Art.L. 121-20-16.-Les dispositions de la présente section sont d'ordre public
+" Art. L. 121-20-16.-Les dispositions de la présente section sont d'ordre public
 ;
 
 2° Pour l'application du 1°, il y a lieu d'entendre :
@@ -226,8 +236,8 @@ V.-Un décret en Conseil d'Etat fixe les informations communiquées au membre
 participant en cas de communication par téléphonie vocale.
 
 VI.-Les infractions aux dispositions du présent article sont constatées et
-sanctionnées par l'Autorité de contrôle prudentiel dans les conditions prévues
-au livre V.
+sanctionnées par l'Autorité de contrôle prudentiel et de résolution dans les
+conditions prévues au livre V.
 
 Les infractions constituées par l'absence matérielle des éléments d'information
 prévus au III du présent article, ainsi que le refus de la mutuelle ou de

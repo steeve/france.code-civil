@@ -38,9 +38,9 @@ ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement par
 une institution ou union susmentionnées en vue de faciliter l'assainissement et
-la sauvegarde de cette entité, l'Autorité de contrôle prudentiel peut autoriser
-l'institution de prévoyance ou l'union à ne pas effectuer les déductions prévues
-aux deux alinéas précédents.
+la sauvegarde de cette entité, l'Autorité de contrôle prudentiel et de
+résolution peut autoriser l'institution de prévoyance ou l'union à ne pas
+effectuer les déductions prévues aux deux alinéas précédents.
 
 II.-La marge de solvabilité peut également être constituée par les fonds
 effectivement encaissés provenant de l'émission de titres ou emprunts
@@ -55,11 +55,12 @@ proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
 concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
 peut, conformément aux dispositions de la section 6 et de la section 7 du
 chapitre II du titre Ier du livre VI du code monétaire et financier, donner lieu
-à des mesures de police ou de sanction de l'Autorité de contrôle prudentiel.
+à des mesures de police ou de sanction de l'Autorité de contrôle prudentiel et
+de résolution.
 
 III.-Sur demande et justification de l'institution ou de l'union et avec
-l'accord de l'Autorité de contrôle prudentiel, la marge de solvabilité peut
-également être constituée par :
+l'accord de l'Autorité de contrôle prudentiel et de résolution, la marge de
+solvabilité peut également être constituée par :
 
 1. La moitié de la part restant à rembourser de l'emprunt pour fonds
 d'établissement ;
@@ -113,9 +114,9 @@ ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement par
 une institution ou union susmentionnées en vue de faciliter l'assainissement et
-la sauvegarde de cette entité, l'Autorité de contrôle prudentiel peut autoriser
-l'institution de prévoyance ou l'union à ne pas effectuer les déductions prévues
-aux deux alinéas précédents.
+la sauvegarde de cette entité, l'Autorité de contrôle prudentiel et de
+résolution peut autoriser l'institution de prévoyance ou l'union à ne pas
+effectuer les déductions prévues aux deux alinéas précédents.
 
 En outre, l'institution ou l'union n'est pas tenue d'effectuer les déductions
 mentionnées au a et au b lorsqu'elle est soumise à une surveillance

@@ -32,4 +32,5 @@ contrôlant, au sens de l' article L. 233-3 du code de commerce , un de ces
 réclamations, les coordonnées et l'adresse des personnes auxquelles elles
 doivent être transmises ;
 
-5° Les coordonnées et l'adresse de l'Autorité de contrôle prudentiel.
+5° Les coordonnées et l'adresse de l'Autorité de contrôle prudentiel et de
+résolution.

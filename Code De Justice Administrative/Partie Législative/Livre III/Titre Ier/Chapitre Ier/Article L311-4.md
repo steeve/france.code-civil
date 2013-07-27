@@ -4,7 +4,8 @@ Le Conseil d'Etat connaît, en premier et dernier ressort, des recours de pleine
 juridiction qui lui sont attribués en vertu :
 
 1° Du IV de l'article L. 612-16 du code monétaire et financier contre les
-décisions de sanction prises par l'Autorité de contrôle prudentiel ;
+décisions de sanction prises par l'Autorité de contrôle prudentiel et de
+résolution ;
 
 2° De l'article L. 313-13 du code de la construction et de l'habitation contre
 les décisions de sanction prises par le ministre chargé du logement ;

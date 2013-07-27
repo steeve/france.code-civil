@@ -1,15 +1,15 @@
 Article R322-79
 ----
-I. - Toute émission d'obligations, de titres participatifs ou de titres
+I.-Toute émission d'obligations, de titres participatifs ou de titres
 subordonnés remboursables dans les conditions et limites prévues à l'article L.
 322-2-1 doit être autorisée par l'assemblée générale délibérant comme il est dit
 à l'article R. 322-63 et faire l'objet d'une résolution spéciale dont la teneur
-est préalablement soumise à l'approbation de l'Autorité de contrôle prudentiel.
-Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés, au
-vu d'un dossier comportant une présentation détaillée des objectifs poursuivis,
-des caractéristiques des titres émis, des conséquences de l'émission sur la
-situation financière de l'entreprise concernée, ainsi que, le cas échéant, une
-description précise des cas de remboursement anticipé.
+est préalablement soumise à l'approbation de l'Autorité de contrôle prudentiel
+et de résolution. Celle-ci se prononce, en veillant à la sauvegarde des intérêts
+des assurés, au vu d'un dossier comportant une présentation détaillée des
+objectifs poursuivis, des caractéristiques des titres émis, des conséquences de
+l'émission sur la situation financière de l'entreprise concernée, ainsi que, le
+cas échéant, une description précise des cas de remboursement anticipé.
 
 A l'expiration d'un délai de deux mois à dater du dépôt du texte de la
 résolution et du dossier mentionné ci-dessus et en l'absence de décision
@@ -36,7 +36,7 @@ sociétaires.
 Le conseil d'administration ou le directoire rend compte à la prochaine
 assemblée générale de la mise en oeuvre de la résolution.
 
-II. - Les dispositions des sections III et III bis du chapitre V du décret n°
+II.-Les dispositions des sections III et III bis du chapitre V du décret n°
 67-236 du 23 mars 1967, à l'exception de celles qui concernent exclusivement les
 sociétés commerciales, sont applicables aux émissions effectuées dans les
 conditions prévues à l'article L. 322-2-1.

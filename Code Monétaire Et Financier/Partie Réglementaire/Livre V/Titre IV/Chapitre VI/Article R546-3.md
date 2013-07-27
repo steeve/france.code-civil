@@ -4,13 +4,11 @@ I. ― L'immatriculation et l'inscription sont effectuées dans un délai maximu
 deux mois à compter de la date de la réception par l'organisme mentionné au I de
 l'article R. 546-1 d'un dossier complet. L'organisme notifie au demandeur une
 attestation comportant son numéro d'immatriculation au registre et la date de
-l'enregistrement.
-
-II. ― Lorsqu'il ressort de l'examen du dossier complet que la demande
-d'inscription ne satisfait pas aux dispositions du présent code, l'organisme
-prend une décision de refus d'inscription. Cette décision est notifiée au
-demandeur, par lettre recommandée avec avis de réception, dans le délai prévu au
-I du présent article.
+l'enregistrement. II. ― Lorsqu'il ressort de l'examen du dossier complet que la
+demande d'inscription ne satisfait pas aux dispositions du présent code,
+l'organisme prend une décision de refus d'inscription. Cette décision est
+notifiée au demandeur, par lettre recommandée avec avis de réception, dans le
+délai prévu au I du présent article.
 
 III. ― L'immatriculation est renouvelée chaque année selon des modalités fixées
 par arrêté du ministre chargé de l'économie.
@@ -47,10 +45,10 @@ mentionnées aux articles L. 519-1 et L. 541-1, portent sans délai à la
 connaissance de l'organisme la cessation de cette garantie.
 
 VIII. ― L'organisme procède à la radiation du registre, sur décision de
-l'Autorité de contrôle prudentiel en application du 6° du I de l'article L.
-612-41, ou de l'Autorité des marchés financiers en application du a du III de
-l'article L. 621-15. Lorsque la personne immatriculée ne justifie plus du
-respect des obligations requises pour l'exercice de l'une ou l'autre des
+l'Autorité de contrôle prudentiel et de résolution en application du 6° du I de
+l'article L. 612-41, ou de l'Autorité des marchés financiers en application du a
+du III de l'article L. 621-15. Lorsque la personne immatriculée ne justifie plus
+du respect des obligations requises pour l'exercice de l'une ou l'autre des
 activités ou le cas échéant pour l'inscription dans l'une ou l'autre catégorie
 au titre desquelles elle est inscrite, l'organisme procède à la suppression de
 l'inscription pour l'activité ou la catégorie en question et, le cas échéant, à

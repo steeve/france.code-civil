@@ -86,7 +86,8 @@ Ces normes, homologuées par le ministre de l'économie, après avis du comité
 consultatif du secteur financier et du comité consultatif de la législation et
 de la réglementation financières, sont applicables par tout établissement de
 crédit. Le contrôle du respect de ces normes est assuré par l'Autorité de
-contrôle prudentiel et relève de la procédure prévue à l'article L. 612-31.
+contrôle prudentiel et de résolution et relève de la procédure prévue à
+l'article L. 612-31.
 
 IV.-A tout moment de la relation contractuelle, l'établissement de crédit
 fournit à la demande de l'utilisateur les termes de la convention de compte de

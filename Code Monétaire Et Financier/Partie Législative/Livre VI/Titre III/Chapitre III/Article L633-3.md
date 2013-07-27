@@ -1,7 +1,7 @@
 Article L633-3
 ----
 Lorsqu'elle est désignée comme coordonnateur, l'Autorité de contrôle prudentiel
-assure, au titre de la surveillance complémentaire :
+et de résolution assure, au titre de la surveillance complémentaire :
 
 a) La coordination de la collecte et de la diffusion de toute information utile
 dans la marche normale des affaires comme dans les situations d'urgence, et en

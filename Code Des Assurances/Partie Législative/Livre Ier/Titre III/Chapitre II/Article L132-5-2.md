@@ -13,8 +13,9 @@ caractères très apparents la nature du contrat.L'encadré comporte en particul
 le regroupement des frais dans une même rubrique, les garanties offertes et la
 disponibilité des sommes en cas de rachat, la participation aux bénéfices, ainsi
 que les modalités de désignation des bénéficiaires. Un arrêté du ministre chargé
-de l'économie, pris après avis de l'Autorité de contrôle prudentiel, fixe le
-format de cet encadré ainsi que, de façon limitative, son contenu.
+de l'économie, pris après avis de l'Autorité de contrôle prudentiel et de
+résolution, fixe le format de cet encadré ainsi que, de façon limitative, son
+contenu.
 
 La proposition ou le contrat d'assurance ou de capitalisation comprend :
 

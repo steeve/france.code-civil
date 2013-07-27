@@ -95,7 +95,8 @@ l'article L. 133-4, par les règles de fonctionnement du système. Cessent de
 produire leurs effets en droit et d'être opposables aux tiers les instructions
 qui ne sont pas devenues irrévocables au moment où le jugement est notifié au
 gestionnaire du système ou au moment où celui-ci en est informé par l'Autorité
-de contrôle prudentiel dans des conditions fixées par décret en Conseil d'Etat.
+de contrôle prudentiel et de résolution dans des conditions fixées par décret en
+Conseil d'Etat.
 
 IV.-Les dispositions du présent article sont également applicables dans le cas
 où la procédure de sauvegarde, de redressement ou de liquidation judiciaires a

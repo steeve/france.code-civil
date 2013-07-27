@@ -1,9 +1,9 @@
 Article R212-11
 ----
 I.-La marge de solvabilité mentionnée à l'article R. 212-10 des mutuelles et
-unions agréées pour pratiquer des opérations relevant des branches 1, 2, 15, 16
-a et h, 17, 18 mentionnées à l'article R. 211-2 est constituée, après déduction
-des pertes, de la part des frais d'acquisition non admise en représentation des
+unions agréées pour pratiquer des opérations relevant des branches 1,2,15,16 a
+et h, 17,18 mentionnées à l'article R. 211-2 est constituée, après déduction des
+pertes, de la part des frais d'acquisition non admise en représentation des
 engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
@@ -34,7 +34,7 @@ titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %
 cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux
 dispositions de la section 6 et de la section 7 du chapitre II du titre Ier du
 livre VI du code monétaire et financier, donner lieu à des mesures de police ou
-de sanction de l'Autorité de contrôle prudentiel.
+de sanction de l'Autorité de contrôle prudentiel et de résolution.
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y
 compris la part de cotisation versée par la mutuelle ou l'union et non utilisée
@@ -88,8 +88,8 @@ mentionnés ci-dessus.
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue
 de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
-contrôle prudentiel peut autoriser la mutuelle ou l'union à ne pas effectuer les
-déductions prévues aux a et b.
+contrôle prudentiel et de résolution peut autoriser la mutuelle ou l'union à ne
+pas effectuer les déductions prévues aux a et b.
 
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions
 mentionnées au a et au b lorsqu'elle est soumise à une surveillance

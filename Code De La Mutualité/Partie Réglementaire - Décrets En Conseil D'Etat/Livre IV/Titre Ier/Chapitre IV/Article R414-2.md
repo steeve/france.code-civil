@@ -53,8 +53,8 @@ Le délai prévu à l'alinéa précédent peut être prolongé d'un même délai
 la complexité de cette demande exige un examen approfondi.
 
 Le secrétaire général du Conseil supérieur de la mutualité informe l'Autorité de
-contrôle prudentiel de l'immatriculation ou du refus d'immatriculation des
-organismes ayant demandé leur immatriculation, lorsque ceux-ci envisagent
-d'effectuer des opérations entrant dans le champ de compétence de cette
-autorité, tel que défini au A du III de l'article L. 612-1 du code monétaire et
-financier.
+contrôle prudentiel et de résolution de l'immatriculation ou du refus
+d'immatriculation des organismes ayant demandé leur immatriculation, lorsque
+ceux-ci envisagent d'effectuer des opérations entrant dans le champ de
+compétence de cette autorité, tel que défini au A du III de l'article L. 612-1
+du code monétaire et financier.

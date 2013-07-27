@@ -13,10 +13,10 @@ aux articles L. 612-1 à L. 612-20 et L. 612-23 à L. 612-26 du code monétaire 
 financier..
 
 La surveillance complémentaire tient compte des entreprises qui sont apparentées
-aux entreprises précitées. L'Autorité de contrôle prudentiel peut décider
-d'exclure une entreprise apparentée de la surveillance complémentaire si elle
-estime que cette entreprise présente un intérêt négligeable ou contraire aux
-objectifs de cette surveillance.
+aux entreprises précitées. L'Autorité de contrôle prudentiel et de résolution
+peut décider d'exclure une entreprise apparentée de la surveillance
+complémentaire si elle estime que cette entreprise présente un intérêt
+négligeable ou contraire aux objectifs de cette surveillance.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article.
