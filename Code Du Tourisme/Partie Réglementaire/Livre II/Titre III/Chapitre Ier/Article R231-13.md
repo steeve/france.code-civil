@@ -11,6 +11,12 @@ professionnelle prévue à l'article D. 231-12 ;
 -en utilisant des véhicules non conformes aux caractéristiques prévues aux
 premier et deuxième alinéas de l'article D. 231-1 ;
 
+-en utilisant, à bord de ses véhicules, l'un des appareils, dispositifs ou
+produits prohibés par l'article R. 231-1-2 ;
+
+-en utilisant sur ses véhicules l'un des appareils, dispositifs ou produits
+prohibés par l'article R. 231-1-3 ;
+
 2° Le fait d'exercer l'activité d'exploitant de voitures de tourisme avec
 chauffeur en utilisant des véhicules sans la signalétique prévue au dernier
 alinéa de l'article D. 231-1 est puni de l'amende prévue pour les contraventions
