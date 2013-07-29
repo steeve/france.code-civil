@@ -1,7 +1,7 @@
 Article R442-8-7
 ----
-Les garanties mentionnées au 1° du I de l'article 84 de la loi n° 2012-1510 du
-29 décembre 2012 de finances rectificative pour 2012 sont délivrées pour le
+Les garanties mentionnées au I de l'article 84 de la loi n° 2012-1510 du 29
+décembre 2012 de finances rectificative pour 2012 sont délivrées pour le
 financement d'opérations d'exportation conclues avec des administrations
 publiques ou des sociétés du secteur public ou privé. Le ministre chargé de
 l'économie définit, après avis de la commission des garanties et du crédit au
