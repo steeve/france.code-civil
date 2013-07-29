@@ -167,3 +167,6 @@ autre que ceux relevant de l'article R. 1337-6, de nature à porter atteinte à 
 tranquillité du voisinage ou à la santé de l'homme dans les conditions prévues à
 l'article R. 1334-31, ou au fait d'en faciliter sciemment, par aide ou
 assistance, la préparation ou la consommation.
+
+10° Contraventions en matière d'armes réprimées par le décret n° 2013-700du 30
+juillet 2013.
