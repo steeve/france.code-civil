@@ -36,6 +36,5 @@ g) Des recommandations visant à améliorer la performance énergétique du bât
 ou de la partie de bâtiment, accompagnées d'une évaluation de leur coût et de
 leur efficacité ;
 
-h) Lorsque le bâtiment ou la partie de bâtiment est équipé d'une chaudière d'une
-puissance supérieure ou égale à 20 kilowatts, le rapport d'inspection de la
-chaudière.
+h) Le cas échéant, le dernier document en date mentionné à l'article R. 224-33
+ou R. 224-41-8 du code de l'environnement.
