@@ -5,10 +5,10 @@ d'impression ou de reproduction et d'affichage exposés avant chaque tour de
 scrutin par les candidats ou les listes est effectué, sur présentation des
 pièces justificatives, pour les imprimés suivants :
 
-a) Deux affiches identiques d'un format maximal de 594 mm X 841 mm, par
+a) Deux affiches identiques d'un format maximal de 594 mm x 841 mm, par
 emplacement prévu à l'article L. 51 ;
 
-b) Deux affiches d'un format maximal de 297 mm X 420 mm pour annoncer la tenue
+b) Deux affiches d'un format maximal de 297 mm x 420 mm pour annoncer la tenue
 des réunions électorales, par emplacement prévu à l'article L. 51 ;
 
 c) Un nombre de circulaires égal au nombre d'électeurs, majoré de 5 % ;
@@ -21,14 +21,12 @@ au nombre des imprimés admis à remboursement, des tarifs d'impression et
 d'affichage fixés par arrêté préfectoral, après avis d'une commission
 départementale comprenant :
 
--le préfet ou son représentant, président ;
+- le préfet ou son représentant, président ;
 
--le trésorier-payeur général ou son représentant ;
-
-le directeur départemental de la concurrence, de la consommation et de la
+- le directeur départemental de la concurrence, de la consommation et de la
 répression des fraudes ou son représentant ;
 
--un représentant des organisations professionnelles des imprimeurs ou des
+- un représentant des organisations professionnelles des imprimeurs ou des
 afficheurs désigné par le préfet selon la nature des tarifs à établir.
 
 La commission peut proposer des tarifs différents dans les diverses

@@ -13,7 +13,7 @@ Elle comprend :
 
 2° Un fonctionnaire désigné par le haut-commissaire ;
 
-3° Un fonctionnaire désigné par le trésorier-payeur général ;
+3° (Abrogé) ;
 
 4° Un fonctionnaire désigné par le directeur de l'office des postes et
 télécommunications.

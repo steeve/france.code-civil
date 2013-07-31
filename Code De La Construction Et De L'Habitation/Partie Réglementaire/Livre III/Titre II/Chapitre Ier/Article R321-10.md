@@ -27,7 +27,7 @@ La commission est composée des membres suivants :
 
 a) Le délégué de l'agence dans le département ou son représentant ;
 
-b) Le trésorier-payeur général ou son représentant ;
+b) (Abrogé) ;
 
 c) Un représentant des propriétaires ;
 

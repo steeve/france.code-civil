@@ -6,8 +6,6 @@ Chaque commission comprend :
 
 - un fonctionnaire désigné par le préfet ;
 
-- un fonctionnaire désigné par le trésorier-payeur général ;
-
 - un fonctionnaire désigné par le directeur départemental des postes et
 télécommunications.
 

@@ -7,8 +7,6 @@ comprend :
 
 - un fonctionnaire désigné par le préfet de Corse ;
 
-- un fonctionnaire désigné par le trésorier-payeur général de Corse ;
-
 - un fonctionnaire désigné par le chef de service de La Poste compétent pour la
 Corse.
 

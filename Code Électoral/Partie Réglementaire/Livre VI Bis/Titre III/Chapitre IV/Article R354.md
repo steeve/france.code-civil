@@ -2,9 +2,7 @@ Article R354
 ----
 Pour l'application des dispositions de l'article R. 32 :
 
-1° Les mots : " un fonctionnaire désigné par le trésorier-payeur général ” sont
-remplacés par les mots : " un fonctionnaire désigné par le directeur régional
-des finances publiques ” ;
+1° (Abrogé) ;
 
 2° Les mots : " un fonctionnaire désigné par le directeur départemental des
 postes et télécommunications ” sont remplacés par les mots : " toute personne

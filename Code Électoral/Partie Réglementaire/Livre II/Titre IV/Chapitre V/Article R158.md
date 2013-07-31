@@ -6,8 +6,6 @@ Cette commission, instituée par arrêté préfectoral, comprend :
 
 - un fonctionnaire désigné par préfet ;
 
-- un fonctionnaire désigné par le trésorier-payeur général ;
-
 - un fonctionnaire désigné par le directeur des postes et télécommunications.
 
 Un suppléant du président peut être désigné dans les mêmes conditions.

@@ -9,7 +9,7 @@ du travail et de l'emploi ;
 
 2° Le directeur départemental des affaires sanitaires et sociales ;
 
-3° Le trésorier-payeur général ;
+3° Abrogé ;
 
 4° Des élus, représentants des collectivités territoriales et de leurs
 groupements, dont un membre du conseil général, élu par ce conseil, un membre du
