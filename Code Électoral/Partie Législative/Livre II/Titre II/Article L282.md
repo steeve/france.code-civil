@@ -1,8 +1,8 @@
 Article L282
 ----
-Dans le cas où un conseiller général est député, sénateur, conseiller régional
-ou conseiller à l'Assemblée de Corse, un remplaçant lui est désigné, sur sa
-présentation, par le président du conseil général.
+Dans le cas où un conseiller départemental est député, sénateur, conseiller
+régional ou conseiller à l'Assemblée de Corse, un remplaçant lui est désigné,
+sur sa présentation, par le président du conseil départemental.
 
 Dans le cas où un conseiller régional, un conseiller à l'Assemblée de Corse, un
 conseiller à l'assemblée de Guyane ou un conseiller à l'assemblée de Martinique
