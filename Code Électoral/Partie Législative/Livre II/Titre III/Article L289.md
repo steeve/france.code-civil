@@ -5,7 +5,8 @@ présent code, l'élection des délégués et des suppléants a lieu sur la mêm
 suivant le système de la représentation proportionnelle avec application de la
 règle de la plus forte moyenne, sans panachage ni vote préférentiel. Les listes
 peuvent comprendre un nombre de noms inférieur au nombre de sièges de délégués
-et de suppléants à pourvoir.
+et de suppléants à pourvoir. Chaque liste de candidats aux fonctions de délégués
+et de suppléants est composée alternativement d'un candidat de chaque sexe.
 
 Chaque conseiller municipal ou groupe de conseillers municipaux peut présenter
 une liste de candidats aux fonctions de délégués et de suppléants.

@@ -1,7 +1,7 @@
 Article L294
 ----
-Dans les départements où sont élus trois sénateurs ou moins, l'élection a lieu
-au scrutin majoritaire à deux tours.
+Dans les départements où sont élus deux sénateurs ou moins, l'élection a lieu au
+scrutin majoritaire à deux tours.
 
 Nul n'est élu sénateur au premier tour du scrutin s'il n'a réuni :
 

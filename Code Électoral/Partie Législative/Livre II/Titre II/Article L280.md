@@ -1,9 +1,13 @@
 Article L280
 ----
-Les sénateurs sont élus dans chaque département par un collège électoral composé
-:
+La composition du collège électoral appelé à élire les sénateurs assure, dans
+chaque département, la représentation des différentes catégories de
+collectivités territoriales et de la diversité des communes, en tenant compte de
+la population qui y réside.
 
-1° Des députés ;
+Ce collège électoral est composé :
+
+1° Des députés et des sénateurs ;
 
 2° Des conseillers régionaux de la section départementale correspondant au
 département et des conseillers de l'Assemblée de Corse désignés dans les
