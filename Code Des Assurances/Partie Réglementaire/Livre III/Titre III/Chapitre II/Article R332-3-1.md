@@ -11,9 +11,9 @@ par un même organisme et des dépôts placés auprès de cet organisme, à
 l'exception :
 
 a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de
-l'O.C.D.E. ainsi que des titres émis par la caisse d'amortissement de la dette
-sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996
-relative au remboursement de la dette sociale ;
+l'O. C. D. E. ainsi que des titres émis par la caisse d'amortissement de la
+dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier
+1996 relative au remboursement de la dette sociale ;
 
 b) Des actions des sociétés d'investissement à capital variable et des parts des
 fonds communs de placement visées au 3° de l'article R. 332-2, dont le
@@ -28,10 +28,12 @@ dispersion définie à l'article R. 332-3.
 2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 9° bis à 9° ter
 et 9° sexies de l'article R. 332-2 ;
 
-3° 1 % pour les valeurs mentionnées aux 6°, 7°, 7° bis, 7° ter et 9° quinquies
-de l'article R. 332-2 et les prêts mentionnés au troisième alinéa du 1 de
-l'article R. 332-13, respectivement émises ou obtenus par une même société ou un
-même organisme.
+3° 1 % pour les valeurs mentionnées aux 2° quater, 6°, 7°, 7° bis, 7° ter, 7°
+quinquies, 9° quinquies et 12° bis de l'article R. 332-2 et les prêts mentionnés
+aux troisième et quatrième alinéas du 1° de l'article R. 332-13, respectivement
+émises ou obtenus par une même société, un même organisme ou un même
+compartiment tel que défini à l'article L. 214-169 du code monétaire et
+financier.
 
 Une entreprise ne peut affecter à la représentation de ses engagements
 réglementés plus de 50 % des actions émises par une même société mentionnée au

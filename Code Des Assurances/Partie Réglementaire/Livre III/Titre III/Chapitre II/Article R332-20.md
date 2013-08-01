@@ -21,7 +21,8 @@ valeurs sont diminuées des amortissements pratiqués. Le prix de revient des
 immeubles est celui qui ressort des travaux de construction et d'amélioration, à
 l'exclusion des travaux d'entretien proprement dits ;
 
-c) Les prêts sont évalués d'après les actes qui en font foi ;
+c) Les prêts sont évalués d'après les actes qui en font foi ou, s'ils sont
+acquis sur un marché secondaire, à leur prix d'acquisition ;
 
 d) Les nues-propriétés et les usufruits sont évalués suivant les règles
 déterminées par arrêté du ministre chargé de l'économie.

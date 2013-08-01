@@ -1,7 +1,7 @@
 Article R332-19
 ----
-I. Les valeurs amortissables énumérées aux 1°, 2°, 2° bis, 2° ter et 2° quater
-de l'article R. 332-2, autres que les obligations indexées, les parts de fonds
+I. Les valeurs amortissables énumérées aux 1°, 2°, 2° bis et 2° ter de l'article
+R. 332-2, autres que les obligations et les parts indexées, les parts de fonds
 communs de créance et les titres participatifs, sont inscrites à leur prix
 d'achat à la date d'acquisition.
 

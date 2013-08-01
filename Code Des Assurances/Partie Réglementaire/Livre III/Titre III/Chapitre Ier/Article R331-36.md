@@ -47,8 +47,10 @@ contrats non couvertes par ailleurs ;
 
 10° Provision pour risque d'exigibilité : provision destinée à faire face aux
 engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
-l'article R. 332-20. La provision à constituer est calculée dans les conditions
-définies au I de l'article R. 331-5-1 ;
+l'article R. 332-20, à l'exception des valeurs amortissables que l'entreprise
+d'assurance a la capacité et l'intention de détenir jusqu'à leur maturité. La
+provision à constituer est calculée dans les conditions définies au I de
+l'article R. 331-5-1 ;
 
 11° Provision pour risques en cours : provisions constituées en sus de la
 provision pour primes non acquises pour couvrir les risques à assumer par
