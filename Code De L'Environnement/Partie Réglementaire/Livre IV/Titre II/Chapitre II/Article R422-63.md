@@ -110,4 +110,23 @@ qui doit revêtir un caractère contradictoire ;
 
 19° En cas de cessation d'activité ou de retrait d'agrément, la dévolution du
 solde de l'actif social à la fédération départementale ou interdépartementale
-des chasseurs ou à une autre association communale agréée.
+des chasseurs, à une autre association communale de chasse agréée ou à une
+association intercommunale de chasse agréée issue d'une fusion ;
+
+20° La possibilité pour l'association communale de fusionner avec une autre
+association communale ou intercommunale issue d'une fusion, la décision étant
+prise en assemblée générale, à la majorité des deux tiers des suffrages exprimés
+;
+
+21° En cas de fusion de communes dans un département où doivent être créées des
+associations communales de chasse agréées, l'obligation pour l'association
+communale de fusionner dans le délai d'un an avec toutes les autres associations
+communales concernées par la fusion des communes, en application des
+dispositions de l'article L. 422-4 ;
+
+22° En cas de fusion de communes dans un département où la constitution
+d'associations communales de chasse agréées est facultative, l'obligation pour
+l'association communale, dans le délai d'un an, de se dissoudre ou de fusionner
+avec toutes les autres associations communales concernées par la fusion des
+communes, en application des dispositions de l'article L. 422-4 et compte tenu
+du nouveau territoire communal.
