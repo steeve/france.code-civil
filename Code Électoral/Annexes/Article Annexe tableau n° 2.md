@@ -1,23 +1,23 @@
 Article Annexe tableau n° 2
 ----
-DESIGNATION DES SECTEURS
+DÉSIGNATION des secteurs
 
-ARRONDISSEMENT constituant les secteurs
+ARRONDISSEMENTS constituant les secteurs
 
 
-NOMBRE DE SIEGES
+NOMBRE de sièges
 
 1er secteur
 
 1er
 
-3
+1
 
 2e secteur
 
 2e
 
-3
+2
 
 3e secteur
 
@@ -29,7 +29,7 @@ NOMBRE DE SIEGES
 
 4e
 
-3
+2
 
 5e secteur
 
@@ -47,7 +47,7 @@ NOMBRE DE SIEGES
 
 7e
 
-5
+4
 
 8e secteur
 
@@ -65,7 +65,7 @@ NOMBRE DE SIEGES
 
 10e
 
-6
+7
 
 11e secteur
 
@@ -95,7 +95,7 @@ NOMBRE DE SIEGES
 
 15e
 
-17
+18
 
 16e secteur
 
@@ -107,25 +107,25 @@ NOMBRE DE SIEGES
 
 17e
 
-13
+12
 
 18e secteur
 
 18e
 
-14
+15
 
 19e secteur
 
 19e
 
-12
+14
 
 20e secteur
 
 20e
 
-13
+14
 
 
 Total

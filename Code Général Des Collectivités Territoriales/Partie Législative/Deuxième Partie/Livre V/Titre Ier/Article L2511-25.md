@@ -1,9 +1,8 @@
 Article L2511-25
 ----
 Le conseil d'arrondissement est présidé par le maire d'arrondissement. Le maire
-d'arrondissement est élu au sein du conseil d'arrondissement parmi les membres
-du conseil municipal. Les fonctions de maire de la commune et de maire
-d'arrondissement sont incompatibles.
+d'arrondissement est élu au sein du conseil d'arrondissement. Les fonctions de
+maire de la commune et de maire d'arrondissement sont incompatibles.
 
 L'élection du maire d'arrondissement qui suit le renouvellement général du
 conseil municipal a lieu huit jours après celle du maire de la commune. Le
@@ -13,8 +12,7 @@ le maire de la commune.
 Le conseil d'arrondissement désigne également en son sein, parmi les conseillers
 municipaux et les conseillers d'arrondissement, un ou plusieurs adjoints. Le
 nombre de ceux-ci ne peut excéder 30 % du nombre total des membres du conseil
-d'arrondissement sans pouvoir toutefois être inférieur à quatre. L'un des
-adjoints au moins doit être conseiller municipal.
+d'arrondissement sans pouvoir toutefois être inférieur à quatre.
 
 Sous réserve des dispositions des alinéas précédents, sont applicables au maire
 d'arrondissement et à ses adjoints les dispositions des articles L. 2122-4 à L.
