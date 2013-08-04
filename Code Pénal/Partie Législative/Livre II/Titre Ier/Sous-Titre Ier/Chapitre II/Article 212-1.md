@@ -26,11 +26,7 @@ motifs d'ordre politique, racial, national, ethnique, culturel, religieux ou
 sexiste ou en fonction d'autres critères universellement reconnus comme
 inadmissibles en droit international ;
 
-9° L'arrestation, la détention ou l'enlèvement de personnes, suivis de leur
-disparition et accompagnés du déni de la reconnaissance de la privation de
-liberté ou de la dissimulation du sort qui leur est réservé ou de l'endroit où
-elles se trouvent dans l'intention de les soustraire à la protection de la loi
-pendant une période prolongée ;
+9° La disparition forcée ;
 
 10° Les actes de ségrégation commis dans le cadre d'un régime institutionnalisé
 d'oppression systématique et de domination d'un groupe racial sur tout autre

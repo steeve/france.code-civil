@@ -29,12 +29,10 @@ infractions permettant, selon la loi française, d'ordonner une telle mesure ;
 6° Si les droits d'un tiers de bonne foi rendent impossible, selon la loi
 française, l'exécution de la décision de confiscation ;
 
-7° Si, selon le certificat, la personne à l'encontre de laquelle la décision a
-été rendue n'a pas comparu en personne et n'était pas représentée lors de la
-procédure ayant abouti à la décision de confiscation, sauf si le certificat
-indique qu'elle a été informée de la procédure personnellement ou par
-l'intermédiaire de son représentant, conformément à la loi de l'Etat d'émission,
-ou qu'elle a indiqué ne pas contester la décision de confiscation ;
+7° Si, selon les indications portées dans le certificat, l'intéressé n'a pas
+comparu en personne lors du procès à l'issue duquel la confiscation a été
+prononcée sauf si, selon ces indications, il se trouve dans l'un des cas prévus
+aux 1° à 3° de l'article 695-22-1 ;
 
 8° Si les faits sur lesquels la décision est fondée relèvent de la compétence
 des juridictions françaises et que la décision de confiscation est prescrite au

@@ -24,7 +24,9 @@ des avocats.
 La chambre de l'instruction statue après s'être assurée que la demande comporte
 aussi les renseignements prévus à l'article 695-13 et avoir, le cas échéant,
 obtenu des garanties au regard des dispositions de l'article 695-32, dans le
-délai de trente jours à compter de la réception de la demande.
+délai de trente jours à compter de la réception de la demande. Cette décision
+peut faire l'objet d'un pourvoi en cassation, par le procureur général ou par la
+personne recherchée, dans les conditions énoncées aux articles 568-1 et 574-2.
 
 Le consentement est donné lorsque les agissements pour lesquels il est demandé
 constituent l'une des infractions visées à l'article 695-23, et entrent dans le

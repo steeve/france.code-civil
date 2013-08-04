@@ -19,5 +19,5 @@ délibérément négligé de tenir compte d'informations qui l'indiquaient clair
 et qui n'a pas pris toutes les mesures nécessaires et raisonnables qui étaient
 en son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer
 aux autorités compétentes aux fins d'enquête et de poursuites, alors que ce
-crime était lié à des activités relevant de sa responsabilité ou de son contrôle
+crime était lié à des activités relevant de sa responsabilité et de son contrôle
 effectifs.

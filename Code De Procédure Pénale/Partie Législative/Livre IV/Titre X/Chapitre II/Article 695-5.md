@@ -1,7 +1,7 @@
 Article 695-5
 ----
-L'unité Eurojust, agissant par l'intermédiaire de ses représentants nationaux ou
-en tant que collège, peut :
+L'unité Eurojust, agissant par l'intermédiaire du membre national ou en tant que
+collège, peut :
 
 1° Informer le procureur général des infractions dont elle a connaissance et lui
 demander de faire procéder à une enquête ou de faire engager des poursuites ;
@@ -16,3 +16,8 @@ d'enquête ;
 4° Demander au procureur général ou au juge d'instruction de lui communiquer les
 informations issues de procédures judiciaires qui sont nécessaires à
 l'accomplissement de ses tâches.
+
+L'unité Eurojust agissant par l'intermédiaire du membre national peut, en outre,
+demander au procureur général de faire prendre toute mesure d'investigation
+particulière ou toute autre mesure justifiée par les investigations ou les
+poursuites.

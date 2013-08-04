@@ -17,8 +17,8 @@ appartenant à la personne condamnée ;
 ans au plus ;
 
 5° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la
-nature, meubles ou immeubles, divis ou indivis, ayant servi à commettre
-l'infraction prévue à l'article 225-14 ;
+nature, meubles ou immeubles, divis ou indivis, ayant servi à commettre les
+infractions prévues aux articles 225-13 à 225-14-2 ;
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
 par l'article 131-5-1 ;

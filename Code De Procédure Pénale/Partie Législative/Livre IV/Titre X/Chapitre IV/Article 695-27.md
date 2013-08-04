@@ -24,3 +24,14 @@ consentir ou de s'opposer à sa remise à l'autorité judiciaire de l'Etat membr
 d'émission et des conséquences juridiques résultant de ce consentement. Il
 l'informe également qu'elle peut renoncer à la règle de la spécialité et des
 conséquences juridiques de cette renonciation.
+
+Lorsque le mandat d'arrêt européen a été émis aux fins d'exécution d'une peine
+ou d'une mesure de sûreté privative de liberté et que la personne se trouve dans
+le cas prévu au 4° de l'article 695-22-1 et n'a pas été informée dans les formes
+légales de l'existence des poursuites pénales ayant abouti à la décision de
+condamnation, elle peut demander à recevoir copie de celle-ci avant la remise.
+Le procureur général informe de cette demande l'autorité compétente de l'Etat
+membre d'émission. Dès que cette autorité lui a adressé copie de la décision, le
+procureur général la communique à l'intéressé. Cette communication est faite
+pour information. Elle ne vaut pas signification de la décision et ne fait
+courir aucun délai de recours.

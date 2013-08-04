@@ -7,8 +7,10 @@ fait l'objet de poursuites devant les juridictions françaises ou si celles-ci
 ont décidé de ne pas engager les poursuites ou d'y mettre fin ;
 
 2° Si la personne recherchée pour l'exécution d'une peine ou d'une mesure de
-sûreté privatives de liberté est de nationalité française et que les autorités
-françaises compétentes s'engagent à faire procéder à cette exécution ;
+sûreté privatives de liberté est de nationalité française ou réside
+régulièrement de façon ininterrompue depuis au moins cinq ans sur le territoire
+national et que la décision de condamnation est exécutoire sur le territoire
+français en application de l'article 728-31 ;
 
 3° Si les faits pour lesquels il a été émis ont été commis, en tout ou en
 partie, sur le territoire français ;

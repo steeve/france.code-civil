@@ -13,8 +13,3 @@ consentement de l'intéressé ainsi que de l'original ou d'une expédition du
 jugement étranger de condamnation, accompagnés, le cas échéant, d'une traduction
 officielle, le procureur de la République requiert l'incarcération immédiate du
 condamné.
-
-L'incarcération peut également être requise au vu de la décision de la chambre
-de l'instruction refusant l'exécution d'un mandat d'arrêt européen et donnant
-acte aux autorités françaises compétentes de leur engagement à faire exécuter la
-peine prononcée par une juridiction étrangère.

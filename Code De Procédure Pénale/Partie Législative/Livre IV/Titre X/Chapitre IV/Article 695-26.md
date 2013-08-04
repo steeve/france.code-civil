@@ -2,12 +2,13 @@ Article 695-26
 ----
 Dans le cas où la personne recherchée se trouve en un lieu connu sur le
 territoire national, le mandat d'arrêt émanant d'un Etat membre de l'Union
-européenne peut être adressé directement, en original ou en copie certifiée
-conforme, par tout moyen laissant une trace écrite, au procureur général
-territorialement compétent qui l'exécute après s'être assuré de la régularité de
-la requête. Dans les autres cas, le mandat d'arrêt européen est exécuté au vu de
-la transmission effectuée dans les conditions prévues au deuxième alinéa de
-l'article 695-15.
+européenne ou d'un Etat lié à l'Union européenne par un accord mentionné à la
+section 5 du présent chapitre peut être adressé directement, en original ou en
+copie certifiée conforme, par tout moyen laissant une trace écrite, au procureur
+général territorialement compétent qui l'exécute après s'être assuré de la
+régularité de la requête. Dans les autres cas, le mandat d'arrêt européen est
+exécuté au vu de la transmission effectuée dans les conditions prévues au
+deuxième alinéa de l'article 695-15.
 
 L'article 74-2 est applicable à la recherche d'une personne faisant l'objet d'un
 mandat d'arrêt européen. Les attributions du procureur de la République et du

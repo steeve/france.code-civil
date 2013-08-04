@@ -35,3 +35,13 @@ commission de l'application des peines, les dispositions du présent article ne
 sont pas applicables aux personnes condamnées pour l'une des infractions
 mentionnées à l'article 706-47 si, lorsque leur condamnation est devenue
 définitive, le casier judiciaire faisait mention d'une telle condamnation.
+
+En cas d'exécution sur le territoire de la République d'une peine prononcée à
+l'étranger, les réductions de peines accordées antérieurement à la mise à
+exécution de la peine en France restent acquises à la personne condamnée en tant
+qu'elles ont été accordées à raison de la durée de détention subie à l'étranger.
+La personne condamnée bénéficie d'un crédit de réduction de peine en application
+du présent article, calculé sur la durée de détention restant à subir en France
+à compter de son arrivée sur le territoire national, déduction faite des
+réductions de peine déjà accordées à l'étranger pour la période qui restait à
+exécuter.

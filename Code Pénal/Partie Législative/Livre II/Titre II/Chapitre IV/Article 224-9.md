@@ -20,9 +20,9 @@ commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativeme
 
 3° (Abrogé)
 
-4° S'il s'agit des crimes visés à la section 1 du présent chapitre, l'obligation
-d'accomplir un stage de responsabilité parentale, selon les modalités fixées à
-l'article 131-35-1.
+4° S'il s'agit des crimes visés aux sections 1 et 1 bis du présent chapitre,
+l'obligation d'accomplir un stage de responsabilité parentale, selon les
+modalités fixées à l'article 131-35-1.
 
 II. - En cas de condamnation pour les infractions prévues au présent chapitre,
 le prononcé de la peine complémentaire d'interdiction de détenir ou de porter,

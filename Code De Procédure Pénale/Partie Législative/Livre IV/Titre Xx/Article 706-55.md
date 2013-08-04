@@ -21,8 +21,9 @@ par les articles 311-1 à 311-13,312-1 à 312-9,313-2 et 322-1 à 322-14 du code
 pénal ;
 
 4° Les atteintes aux intérêts fondamentaux de la nation, les actes de
-terrorisme, la fausse monnaie et l'association de malfaiteurs prévus par les
-articles 410-1 à 413-12,421-1 à 421-4,442-1 à 442-5 et 450-1 du code pénal ;
+terrorisme, la fausse monnaie, l'association de malfaiteurs et les crimes et
+délits de guerre prévus par les articles 410-1 à 413-12,421-1 à 421-4,442-1 à
+442-5,450-1 et 461-1 à 461-31 du code pénal ;
 
 5° Les délits prévus par les articles L. 2353-4 et L. 2339-1 à L. 2339-11 du
 code de la défense ;

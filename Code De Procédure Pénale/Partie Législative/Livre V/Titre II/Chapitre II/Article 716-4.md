@@ -11,4 +11,5 @@ Les dispositions de l'alinéa précédent sont également applicables à la priv
 de liberté subie en exécution d'un mandat d'amener ou d'arrêt, à l'incarcération
 subie hors de France en exécution d'un mandat d'arrêt européen ou sur la demande
 d'extradition et à l'incarcération subie en application du septième alinéa de
-l'article 712-17, de l'article 712-19 et de l'article 747-3.
+l'article 712-17, de l'article 712-19, de l'article 728-67 et de l'article
+747-3.
