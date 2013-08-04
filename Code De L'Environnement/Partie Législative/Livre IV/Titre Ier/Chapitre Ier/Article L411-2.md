@@ -14,8 +14,8 @@ application du I de l'article L. 411-1 ;
 comprendre le domaine public maritime, les eaux intérieures et la mer
 territoriale ;
 
-4° La délivrance de dérogation aux interdictions mentionnées aux 1°, 2° et 3° de
-l'article L. 411-1, à condition qu'il n'existe pas d'autre solution
+4° La délivrance de dérogations aux interdictions mentionnées aux 1°, 2° et 3°
+de l'article L. 411-1, à condition qu'il n'existe pas d'autre solution
 satisfaisante et que la dérogation ne nuise pas au maintien, dans un état de
 conservation favorable, des populations des espèces concernées dans leur aire de
 répartition naturelle :
@@ -37,7 +37,7 @@ compris la propagation artificielle des plantes ;
 
 e) Pour permettre, dans des conditions strictement contrôlées, d'une manière
 sélective et dans une mesure limitée, la prise ou la détention d'un nombre
-limité et spécifié de certains spécimens ;
+limité et spécifié de certains spécimens.
 
 5° La réglementation de la recherche, de la poursuite et de l'approche, en vue
 de la prise de vues ou de son, et notamment de la chasse photographique des

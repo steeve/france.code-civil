@@ -6,4 +6,4 @@ public à leur élaboration, les décisions des personnes publiques prises en
 application de la législation nationale ou des règlements de l'Union européenne
 relatifs à la pêche maritime et à l'aquaculture marine ayant une incidence sur
 l'environnement sont soumises à participation du public dans les conditions et
-limites prévues aux articles L. 120-1 et L. 120-2 du code de l'environnement.
+limites prévues aux articles L. 120-1 à L. 120-2 du code de l'environnement .
