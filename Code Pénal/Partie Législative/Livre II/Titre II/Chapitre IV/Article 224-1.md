@@ -9,5 +9,5 @@ sont applicables à cette infraction.
 
 Toutefois, si la personne détenue ou séquestrée est libérée volontairement avant
 le septième jour accompli depuis celui de son appréhension, la peine est de cinq
-ans d'emprisonnement et de 75000 euros d'amende, sauf dans les cas prévus par
+ans d'emprisonnement et de 75 000 euros d'amende, sauf dans les cas prévus par
 l'article 224-2.
