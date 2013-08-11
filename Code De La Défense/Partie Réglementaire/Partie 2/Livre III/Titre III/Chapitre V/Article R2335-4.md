@@ -31,13 +31,14 @@ ports ou aérodromes de France ;
 transbordés de bord à bord avec mise à terre dans les ports ou aérodromes de
 France dans les cas énumérés ci-après :
 
-a) Lorsqu'il s'agit d'armes, munitions et leurs éléments de la 1re ou de la 4e
-catégorie détenus ou portés par des personnes physiques qui changent d'aéronef
-ou de navire et qui ont été autorisées par leurs autorités nationales à les
-détenir ou les porter ;
+a) Lorsqu'il s'agit d'armes, munitions et leurs éléments des catégories A et B
+détenus ou portés par des personnes physiques qui changent d'aéronef ou de
+navire et qui ont été autorisées par leurs autorités nationales à les détenir ou
+les porter ;
 
-b) Lorsqu'il s'agit d'armes, de munitions et leurs éléments de la 5e catégorie
-ou d'armes de la 6e catégorie.
+b) Lorsqu'il s'agit d'armes, de munitions et leurs éléments des 7° et 8° de la
+catégorie B, des 1°, 2°, 6°, 7° et 8° de la catégorie C, du 1° de la catégorie D
+ou d'armes classées aux a, b et c du 2° de la catégorie D.
 
 Cette dérogation peut être suspendue par le Premier ministre ;
 
@@ -45,18 +46,20 @@ Cette dérogation peut être suspendue par le Premier ministre ;
 réimportés par les exportateurs au bénéfice du régime douanier des retours ou en
 suite de régime de perfectionnement passif.
 
-7° Deux armes de chasse de la 5e catégorie importées sous le régime douanier de
-l'admission temporaire et cent cartouches par arme ;
+7° Deux armes de chasse du 1° de la catégorie C, et du 1° de la catégorie D
+importées sous le régime douanier de l'admission temporaire et cent cartouches
+par arme ;
 
 8° Les armes de poing et les munitions dont le port est autorisé par arrêté du
-ministre de l'intérieur en application de l'article 58-2 du décret du 6 mai 1995
-relatif à l'application du décret du 18 avril 1939 fixant le régime des
-matériels de guerre, armes et munitions ;
+ministre de l'intérieur en application de l'article 124 du décret n° 2013-700 du
+30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012
+relative à l'établissement d'un contrôle des armes moderne, simplifié et
+préventif ;
 
-9° Les matériels de guerre de 2e catégorie importés sous le régime douanier de
-l'admission temporaire, les véhicules ou engins chenillés devant être
-transportés par un autre véhicule muni de pneumatiques, conformément à l'article
-R. 314-1 du code de la route ;
+9° Les matériels de guerre classés aux 8°, 9°, 10°, 12°, 13° et 14° de la
+catégorie A 2 importés sous le régime douanier de l'admission temporaire, les
+véhicules ou engins chenillés devant être transportés par un autre véhicule muni
+de pneumatiques, conformément à l'article R. 314-1 du code de la route ;
 
 10° Les armes à feu, munitions et leurs éléments à percussion annulaire figurant
 aux 1°, 2° et 8° de la catégorie C ;
