@@ -37,16 +37,20 @@ réfugiés et apatrides, individuellement désignés et spécialement habilités
 leur directeur général ;
 
 5° Au titre de la lutte contre la fraude documentaire, les personnels de la
-direction des libertés publiques et des affaires juridiques individuellement
-désignés et spécialement habilités par leur directeur, les personnels des
-laboratoires de l'Institut national de police scientifique, de l'identité
-judiciaire de la police nationale et de l'institut de recherche criminelle de la
-gendarmerie nationale et les personnels du bureau de la fraude documentaire de
-la direction centrale de la police aux frontières, individuellement désignés et
-spécialement habilités, respectivement, par le directeur général de la police
-nationale et le directeur général de la gendarmerie nationale ou par les
-personnels appartenant à la catégorie A ou ayant le rang d'officier sur lesquels
-ces directeurs généraux ont autorité et auxquels ils ont donné délégation ;
+mission " délivrance sécurisée des titres ” au sein du secrétariat général du
+ministère de l'intérieur, individuellement désignés et spécialement habilités
+par le secrétaire général, les agents des préfectures et sous-préfectures
+compétents en matière de prévention et de lutte contre la fraude documentaire
+individuellement désignés et spécialement habilités par le préfet, les
+personnels des laboratoires de l'Institut national de police scientifique, de
+l'identité judiciaire de la police nationale et de l'institut de recherche
+criminelle de la gendarmerie nationale et les personnels du bureau de la fraude
+documentaire de la direction centrale de la police aux frontières,
+individuellement désignés et spécialement habilités, respectivement, par le
+directeur général de la police nationale et le directeur général de la
+gendarmerie nationale ou par les personnels appartenant à la catégorie A ou
+ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et
+auxquels ils ont donné délégation ;
 
 6° Aux seules fins de l'accomplissement des vérifications prévues ci-après :
 
