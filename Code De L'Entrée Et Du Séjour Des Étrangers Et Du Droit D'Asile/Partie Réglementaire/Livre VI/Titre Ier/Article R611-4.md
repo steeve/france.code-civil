@@ -10,8 +10,8 @@ exclusifs de leurs missions liées à l'entrée, au séjour ou à l'éloignement
 1° Les agents chargés de la réglementation des étrangers, ainsi que de celle
 relative à l'accès à la nationalité française et aux demandes de visa, et de
 leur mise en œuvre, et relevant des services centraux des ministères de
-l'intérieur (secrétariat général à l'immigration et à l'intégration, direction
-générale de la police nationale, direction générale de la gendarmerie nationale,
+l'intérieur (la direction générale des étrangers en France, direction générale
+de la police nationale, direction générale de la gendarmerie nationale,
 direction des libertés publiques et des affaires juridiques, délégation générale
 à l'outre-mer), des affaires étrangères (direction des Français à l'étranger et
 de l'administration consulaire), du budget (direction générale des douanes et
