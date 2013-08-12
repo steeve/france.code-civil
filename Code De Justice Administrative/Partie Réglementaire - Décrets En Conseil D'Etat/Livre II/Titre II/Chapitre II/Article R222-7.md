@@ -4,9 +4,11 @@ Pour la détermination de l'ordre du tableau, dans chaque grade du corps des
 tribunaux administratifs et des cours administratives d'appel, seule est prise
 en considération la date de nomination à ce grade ; en cas de nomination à la
 même date, la préséance revient au plus âgé. Dans les cours administratives
-d'appel, les présidents de chambre ont préséance sur les assesseurs. Au tribunal
+d'appel, le premier vice-président a préséance sur les présidents de chambre et
+les présidents de chambre ont préséance sur les assesseurs. Au tribunal
 administratif de Paris, le vice-président et les présidents de section ont
-préséance sur les présidents de chambre.
+préséance sur les présidents de chambre. Dans les tribunaux administratifs dotés
+d'un premier vice-président, celui-ci a préséance sur les présidents de chambre.
 
 Toutefois, les membres du corps des tribunaux administratifs et des cours
 administratives d'appel nommés dans leur grade à la suite du reclassement

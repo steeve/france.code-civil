@@ -19,6 +19,5 @@ conclusions à l'audience sur tout litige relevant des contentieux suivants :
 locaux d'habitation et à usage professionnel au sens de l'article 1496 du code
 général des impôts ainsi que contribution à l'audiovisuel public ;
 
-6° Aide personnalisée au logement ;
-
-7° Carte de stationnement pour personne handicapée.
+6° Prestation, allocation ou droit attribués au titre de l'aide ou de l'action
+sociale, du logement ou en faveur des travailleurs privés d'emploi.
