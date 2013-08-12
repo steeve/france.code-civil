@@ -5,31 +5,35 @@ et ayant atteint au moins le grade de premier conseiller ou ayant une anciennet�
 minimale de deux ans statue en audience publique et après audition du rapporteur
 public, sous réserve de l'application de l'article R. 732-1-1 :
 
-1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L.
-421-4 du code de l'urbanisme ;
+1° Sur les litiges relatifs aux prestations, allocations ou droits attribués au
+titre de l'aide ou de l'action sociale, du logement ou en faveur des
+travailleurs privés d'emploi, mentionnés à l'article R. 772-5 ;
 
-2° Sur les litiges relatifs à la situation individuelle des fonctionnaires ou
-agents de l'Etat et des autres personnes ou collectivités publiques, ainsi que
-des agents ou employés de la Banque de France, à l'exception de ceux concernant
-l'entrée au service, la discipline et la sortie du service ;
+2° Sur les litiges relatifs à la notation ou à l'évaluation professionnelle des
+fonctionnaires ou agents publics ainsi qu'aux sanctions disciplinaires
+prononcées à leur encontre qui ne requièrent pas l'intervention d'un organe
+disciplinaire collégial ;
 
-3° Sur les litiges en matière de pensions, d'aide personnalisée au logement, de
-communication de documents administratifs, de service national ;
+3° Sur les litiges en matière de pensions ;
 
-4° Sur les litiges relatifs à la redevance audiovisuelle ;
+4° Sur les litiges en matière de consultation et de communication de documents
+administratifs ou d'archives publiques ;
 
-5° Sur les recours relatifs aux taxes syndicales et aux impôts locaux autres que
-la taxe professionnelle ;
+5° Sur les litiges relatifs aux impôts locaux et à la contribution à
+l'audiovisuel public, à l'exception des litiges relatifs à la contribution
+économique territoriale ;
 
-6° Sur la mise en oeuvre de la responsabilité de l'Etat pour refus opposé à une
-demande de concours de la force publique pour exécuter une décision de justice ;
+6° Sur les litiges relatifs aux refus de concours de la force publique pour
+exécuter une décision de justice ;
 
-7° Sur les actions indemnitaires, lorsque le montant des indemnités demandées
-est inférieur au montant déterminé par les articles R. 222-14 et R. 222-15 ;
-
-8° Sur les requêtes contestant les décisions prises en matière fiscale sur des
+7° Sur les requêtes contestant les décisions prises en matière fiscale sur des
 demandes de remise gracieuse ;
 
-9° Sur les litiges relatifs aux bâtiments menaçant ruine ;
+8° Sur les litiges relatifs aux bâtiments menaçant ruine ou aux immeubles
+insalubres ;
 
-10° Sur les litiges relatifs au permis de conduire.
+9° Sur les litiges relatifs au permis de conduire ;
+
+10° Sur toute action indemnitaire ne relevant pas des dispositions précédentes,
+lorsque le montant des indemnités demandées est inférieur au montant déterminé
+par les articles R. 222-14 et R. 222-15.

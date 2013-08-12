@@ -36,15 +36,14 @@ suivantes, au titre de leur mission de contrôle ou de régulation :
 
 - la Commission de régulation de l'énergie ;
 
-- le Conseil supérieur de l'audiovisuel ;
+- le Conseil supérieur de l'audiovisuel, sous réserve des dispositions de
+l'article R. 311-2 ;
 
 - la Commission nationale de l'informatique et des libertés ;
 
-- la Commission nationale de contrôle des interceptions de sécurité ;
-
 - la Haute Autorité pour la transparence de la vie publique ;
 
-- la commission nationale d'aménagement commercial ;
+- la Commission nationale de contrôle des interceptions de sécurité ;
 
 5° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de
 la procédure devant la juridiction administrative ;
