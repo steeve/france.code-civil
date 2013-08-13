@@ -6,7 +6,5 @@ est mise en demeure par le directeur général de l'institut de régulariser sa
 situation dans le délai indiqué par cette mise en demeure.
 
 Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le
-directeur général de l'institut prononce sa radiation par une décision motivée
-qui est notifiée à la société.
-
-Le recours formé contre une décision de radiation a un caractère suspensif.
+directeur général de l'Institut saisit, à l'encontre des associés, la chambre de
+discipline prévue à l'article L. 422-10.
