@@ -25,3 +25,11 @@ Il prévoit les mesures de nature à améliorer l'efficience de l'offre de soins
 
 Il précise les modalités de coopération des acteurs de l'offre sanitaire,
 sociale et médico-sociale dans le domaine de l'organisation des soins.
+
+Il indique les zones caractérisées par une offre médicale insuffisante ou des
+difficultés dans l'accès aux soins, en raison des caractéristiques
+démographiques, sanitaires et sociales de la population, des particularités
+géographiques de la zone, du nombre et de la répartition des professionnels et
+des structures de soins et de leurs évolutions prévisibles. Ces zones peuvent
+être identiques aux zones mentionnées au cinquième alinéa de l'article L.
+1434-7.
