@@ -23,7 +23,4 @@ d'utilité publique ;
 
 6° Les références à la société d'aménagement foncier et d'établissement rural
 sont remplacées par la référence à l'opérateur foncier mentionné à l'article L.
-182-25 ;
-
-7° Sauf disposition contraire, les dispositions faisant référence aux règlements
-européens ne sont pas applicables.
+182-25.

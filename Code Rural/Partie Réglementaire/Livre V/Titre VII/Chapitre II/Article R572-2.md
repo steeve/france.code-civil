@@ -1,10 +1,8 @@
 Article R572-2
 ----
-L'article R. 521-3 ne s'applique pas à Mayotte et est remplacé par les
-dispositions suivantes :
+Pour l'application à Mayotte de l'article R. 524-13, le deuxième alinéa est
+ainsi rédigé :
 
-"Les sociétés coopératives agricoles peuvent fournir à l'union à laquelle elles
-adhèrent les services nécessaires à la réalisation de son objet statutaire. Une
-société coopérative agricole peut également mettre des immeubles, du matériel ou
-de l'outillage, notamment des moyens de transport, à la disposition d'une autre
-société coopérative".
+" En outre, la convocation à l'assemblée fait l'objet, dans le même délai, d'un
+affichage à la mairie du siège social et à celle des autres communes du ressort
+de la société coopérative. "

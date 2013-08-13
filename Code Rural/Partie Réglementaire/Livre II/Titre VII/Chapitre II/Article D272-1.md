@@ -14,7 +14,4 @@ références aux plans et schémas de Mayotte ;
 
 4° Les références aux chambres régionale ou départementale d'agriculture sont
 remplacées par la référence à la chambre de l'agriculture, de la pêche et de
-l'aquaculture de Mayotte ;
-
-5° Sauf disposition contraire, les dispositions faisant référence aux règlements
-européens ne sont pas applicables.
+l'aquaculture de Mayotte.

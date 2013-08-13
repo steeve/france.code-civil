@@ -1,3 +1,4 @@
 Article R572-3
 ----
-Le troisième alinéa de l'article R. 521-7 ne s'applique pas à Mayotte.
+Pour l'application à Mayotte des articles R. 524-29 et R. 524-37, les mots : "
+en France métropolitaine " sont remplacés par les mots : " à Mayotte ".
