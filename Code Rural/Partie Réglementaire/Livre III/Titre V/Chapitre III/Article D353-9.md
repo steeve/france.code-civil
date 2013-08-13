@@ -8,5 +8,5 @@ la formation prévus à la section 2 du chapitre II du titre V du livre III du
 présent code, ni enfin avec les avantages perçus dans le cadre d'autres contrats
 de travail ou formations mis en oeuvre par le plan de cohésion sociale. Il ne
 peut davantage être cumulé avec le revenu minimum d'insertion ou avec toute
-autre rémunération des stagiaires de la formation continue relevant du livre IX
-du code du travail.
+autre rémunération des stagiaires de la formation continue relevant du livre III
+de la sixième partie du code du travail.

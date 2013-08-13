@@ -1,3 +1,6 @@
 Article R571-11
 ----
-Le neuvième alinéa de l'article R. 511-12 n'est pas applicable à Mayotte.
+Pour l'application à Mayotte de l'article R. 511-16, le cinquième alinéa est
+ainsi rédigé :
+
+" Un représentant de la caisse de sécurité sociale de Mayotte ".

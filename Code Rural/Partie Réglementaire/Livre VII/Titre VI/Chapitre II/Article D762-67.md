@@ -8,11 +8,3 @@ A cet effet, les caisses générales adressent chaque mois à la Caisse centrale
 la mutualité sociale agricole un état, conforme au modèle arrêté par le ministre
 chargé de la sécurité sociale, et faisant apparaître la situation de la section
 d'assurance vieillesse agricole et les prévisions de recettes et de dépenses.
-
-Les états mensuels sont visés :
-
-1° Dans les départements de la Martinique et de la Réunion, par le directeur de
-la santé et du développement social ou par le directeur départemental ;
-
-2° Dans les départements de la Guadeloupe et de la Guyane, par le
-trésorier-payeur général.

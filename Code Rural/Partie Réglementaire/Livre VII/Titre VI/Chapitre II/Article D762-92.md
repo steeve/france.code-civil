@@ -34,7 +34,8 @@ Les dispositions des articles L. 732-39 et L. 732-40 sont applicables à la
 pension de retraite complémentaire obligatoire.
 
 Les dispositions des huitième à onzième et dernier alinéas de l'article D.
-732-157 sont applicables dans les départements d'outre-mer.
+732-157 sont applicables en Guadeloupe, en Guyane, à la Martinique, à La
+Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin .
 
 La décision d'attribution ou de rejet de la pension de retraite complémentaire
 obligatoire est notifiée à l'assuré en même temps que la décision d'attribution

@@ -15,11 +15,12 @@ ministre chargé de l'agriculture ;
 liste publiée par arrêté du ministre chargé de l'agriculture ;
 
 3° Soit de connaissances et de compétences suffisantes attestées par le
-directeur régional de l'alimentation, de l'agriculture et de la forêt , ou par
-le directeur de l'agriculture et de la forêt pour les départements d'outre-mer.
-Le contenu, les modalités d'évaluation des connaissances et des compétences
-ainsi que la liste des établissements habilités à participer à cette évaluation
-sont définis par arrêté du ministre chargé de l'agriculture.
+directeur régional de l'alimentation, de l'agriculture et de la forêt ou, en
+Guadeloupe, en Guyane, à la Martinique, à La Réunion ou à Mayotte, par le
+directeur de l'alimentation, de l'agriculture et de la forêt. Le contenu, les
+modalités d'évaluation des connaissances et des compétences ainsi que la liste
+des établissements habilités à participer à cette évaluation sont définis par
+arrêté du ministre chargé de l'agriculture.
 
 Les pièces constituant le dossier de demande du certificat de capacité et les
 modalités de présentation de ce dossier et de délivrance du certificat sont

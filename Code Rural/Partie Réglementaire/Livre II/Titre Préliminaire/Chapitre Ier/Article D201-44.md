@@ -13,4 +13,4 @@ interprofessionnel des semences, graines et plants ;
 
 ― les associations sanitaires régionales ;
 
-― les organismes mentionnés aux articles L. 121-2 et L. 221-1 du code forestier.
+― les organismes mentionnés aux articles L. 221-2 et L. 321-1 du code forestier.

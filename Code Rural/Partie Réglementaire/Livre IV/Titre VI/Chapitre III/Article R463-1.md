@@ -1,8 +1,9 @@
 Article R463-1
 ----
-Les articles L. 416-1 à L. 416-6 et L. 416-8 sont rendus applicables aux
-départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
-sous réserve des adaptations suivantes :
+Les articles L. 416-1 à L. 416-6 et L. 416-8 sont rendus applicables à la
+Guadeloupe, à la Guyane, à la Martinique, à La Réunion et à Mayotte ainsi qu'à
+Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon sous réserve des
+adaptations suivantes :
 
 1. L'état des lieux mentionné à l'article L. 416-6 doit être établi conformément
 aux dispositions de l'article R. 461-5 ;

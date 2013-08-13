@@ -10,9 +10,9 @@ chargé de l'outre-mer et le ministre chargé de l'agriculture, sur proposition
 des organisations professionnelles représentatives après avis des préfets
 concernés à raison de :
 
--deux représentants pour chacun des départements d'outre-mer ;
-
--trois représentants des collectivités d'outre-mer ;
+a) Guadeloupe, Guyane, Martinique, La Réunion, Mayotte : deux représentants
+chacune ; b) Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon : un
+représentant pour l'ensemble des trois collectivités ;
 
 La représentation des producteurs doit être majoritaire ;
 

@@ -7,8 +7,8 @@ en trois sections :
 d'expérimentation, d'innovation et d'évaluation en matière de gestion de
 l'espace rural ;
 
-2° Une section répartie entre les départements d'outre-mer et les collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon :
+2° Une section répartie entre la Guadeloupe, la Guyane, la Martinique, La
+Réunion, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon :
 
 a) Pour partie au prorata de la superficie totale de ces départements ou
 collectivités territoriales, après déduction de la superficie des formations
@@ -29,15 +29,15 @@ a) Pour partie au prorata de la superficie totale de chaque département ;
 
 b) Pour partie au prorata de la superficie pondérée :
 
-- des superficies toujours en herbe ;
+-des superficies toujours en herbe ;
 
-- des forêts non essentiellement productives ;
+-des forêts non essentiellement productives ;
 
-- des sols non productifs, ni altérés ni bâtis ;
+-des sols non productifs, ni altérés ni bâtis ;
 
-- des sols à roche mère affleurante ;
+-des sols à roche mère affleurante ;
 
-- des zones humides.
+-des zones humides.
 
 Ces superficies sont déterminées par référence aux derniers résultats
 disponibles de l'enquête sur l'utilisation du territoire réalisée par le service

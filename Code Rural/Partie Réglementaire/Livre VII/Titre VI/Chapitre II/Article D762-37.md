@@ -7,5 +7,6 @@ réglementaires prises pour l'application des articles L. 753-2 à L. 753-4 du
 code de la sécurité sociale, lesquelles sont étendues audit régime.
 
 Pour l'application des articles R. 732-4 et R. 732-5, le salaire horaire minimum
-garanti à prendre en considération dans chacun des départements d'outre-mer est
-celui qui résulte de la réglementation en vigueur.
+garanti à prendre en considération en Guadeloupe, en Guyane, à la Martinique, à
+La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin est celui qui
+résulte de la réglementation en vigueur.
