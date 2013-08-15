@@ -2,7 +2,7 @@ Article R5141-96
 ----
 Le directeur général de l'Agence nationale de sécurité sanitaire de
 l'alimentation, de l'environnement et du travail informe l'Agence européenne des
-médicaments, les autres Etats membres de la Communauté européenne, le directeur
+médicaments, les autres Etats membres de l'Union européenne, le directeur
 général de l'Agence nationale de sécurité du médicament et des produits de santé
 et l'entreprise assurant l'exploitation du médicament vétérinaire de tout effet
 indésirable grave présumé et de tout effet indésirable présumé sur l'être humain

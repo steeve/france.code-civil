@@ -18,4 +18,4 @@ Une dérogation à ces dispositions peut être accordée par l'agence à titre
 exceptionnel, soit pour des raisons de santé publique, soit lorsque le
 médicament ne peut être légalement commercialisé pendant la période considérée,
 soit lorsque le médicament est exclusivement destiné à l'exportation vers un
-Etat non membre de la Communauté européenne.
+Etat non membre de l'Union européenne.

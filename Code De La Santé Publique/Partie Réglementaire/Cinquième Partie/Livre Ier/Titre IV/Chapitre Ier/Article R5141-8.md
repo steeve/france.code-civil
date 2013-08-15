@@ -22,7 +22,7 @@ soumis à essai et du placebo ;
 e) S'il y a lieu, l'identité de l'importateur ;
 
 f) Les références des autorisations de mise sur le marché obtenues dans un autre
-Etat membre de la Communauté européenne ou dans un pays tiers pour le médicament
+Etat membre de l'Union européenne ou dans un pays tiers pour le médicament
 soumis à essai ainsi que celles des éventuelles décisions de refus, de
 suspension ou de retrait de ces autorisations ;
 

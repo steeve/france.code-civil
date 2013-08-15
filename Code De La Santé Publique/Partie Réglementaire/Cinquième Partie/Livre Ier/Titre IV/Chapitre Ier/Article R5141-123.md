@@ -29,10 +29,10 @@ clinique, d'une expérimentation ou d'une opération de fabrication, le recours 
 l'importation d'un médicament vétérinaire par une autre voie que le transport
 personnel par le responsable de la garde de l'animal ou des animaux et relevant
 d'une prescription obligatoire est interdit sauf lorsque le médicament provient
-d'un autre Etat membre de la Communauté européenne et lorsqu'il n'existe en
-France ni médicament vétérinaire ayant une autorisation pour cette espèce et
-pour cette indication thérapeutique, ni médicament vétérinaire ayant une
-autorisation pour le traitement des animaux d'une autre espèce mais pour la même
+d'un autre Etat membre de l'Union européenne et lorsqu'il n'existe en France ni
+médicament vétérinaire ayant une autorisation pour cette espèce et pour cette
 indication thérapeutique, ni médicament vétérinaire ayant une autorisation pour
-le traitement des animaux de la même espèce ou d'une autre espèce mais pour une
+le traitement des animaux d'une autre espèce mais pour la même indication
+thérapeutique, ni médicament vétérinaire ayant une autorisation pour le
+traitement des animaux de la même espèce ou d'une autre espèce mais pour une
 affection thérapeutique différente.

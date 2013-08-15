@@ -22,11 +22,11 @@ l'animal, à l'importation, au stockage, au contrôle de la qualité et à la
 libération des lots de médicaments vétérinaires, autres que les aliments
 médicamenteux, en provenance :
 
-a) D'Etats non membres de la Communauté européenne et non parties à l'accord sur
+a) D'Etats non membres de l'Union européenne et non parties à l'accord sur
 l'Espace économique européen ;
 
-b) Ou d'autres Etats membres de la Communauté européenne ou parties à l'accord
-sur l'Espace économique européen lorsque ces médicaments vétérinaires ont été
+b) Ou d'autres Etats membres de l'Union européenne ou parties à l'accord sur
+l'Espace économique européen lorsque ces médicaments vétérinaires ont été
 fabriqués par un établissement non autorisé au titre de l'article 44 de la
 directive 2001/82/CE du 6 novembre 2001 instituant un code communautaire relatif
 aux médicaments vétérinaires. Pour les médicaments soumis à des essais
@@ -54,14 +54,13 @@ pas propriétaire et à leur distribution en gros et en l'état ;
 
 5° Distributeur en gros de médicaments vétérinaires, l'entreprise comportant un
 ou plusieurs établissements pharmaceutiques vétérinaires se livrant à l'achat de
-médicaments vétérinaires autres que ceux soumis à des essais cliniques et que
-les aliments médicamenteux, à leur stockage et à leur distribution en gros et en
-l'état ;
+médicaments vétérinaires autres que ceux soumis à des essais cliniques, à leur
+stockage et à leur distribution en gros et en l'état ;
 
 6° Distributeur en gros spécialisé à l'exportation l'entreprise comportant un ou
 plusieurs établissements pharmaceutiques vétérinaires se livrant à l'achat de
-médicaments vétérinaires autres que ceux soumis à des essais cliniques et que
-les aliments médicamenteux, à leur stockage et à leur exportation en l'état ;
+médicaments vétérinaires autres que ceux soumis à des essais cliniques, à leur
+stockage et à leur exportation en l'état ;
 
 7° Distributeur en gros de médicaments vétérinaires antiparasitaires destinés au
 traitement externe des animaux de compagnie, l'entreprise comportant un ou
@@ -109,16 +108,16 @@ sur l'animal, à l'importation, au stockage, au contrôle de la qualité des lot
 d'aliments médicamenteux ainsi qu'au suivi et, s'il y a lieu, au retrait des
 lots d'aliments médicamenteux en provenance :
 
-a) D'Etats non membres de la Communauté européenne et non parties à l'accord sur
+a) D'Etats non membres de l'Union européenne et non parties à l'accord sur
 l'Espace économique européen ;
 
-b) Ou d'autres Etats membres de la Communauté européenne ou parties à l'accord
-sur l'Espace économique européen lorsque les aliments médicamenteux ont été
+b) Ou d'autres Etats membres de l'Union européenne ou parties à l'accord sur
+l'Espace économique européen lorsque les aliments médicamenteux ont été
 fabriqués par un établissement non autorisé au titre de l'article 4 de la
 directive 90/167/CEE du Conseil du 26 mars 1990 établissant les conditions de
 préparation, de mise sur le marché et d'utilisation des aliments médicamenteux
-pour animaux dans la Communauté. Pour les aliments médicamenteux soumis à des
-essais cliniques, les opérations de distribution, de suivi et, s'il y a lieu, de
+pour animaux dans l'Union. Pour les aliments médicamenteux soumis à des essais
+cliniques, les opérations de distribution, de suivi et, s'il y a lieu, de
 retrait sont effectuées par l'importateur, sous la responsabilité du promoteur
 mentionné à l'article R. 5141-3 ;
 

@@ -8,7 +8,7 @@ et du travail son intention de procéder à cette importation.
 
 L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
 et du travail et le titulaire d'une autorisation de mise sur le marché délivrée
-par la Communauté européenne en application du règlement (CE) n° 726/2004 du
-Parlement européen et du Conseil du 31 mars 2004 sont informés de toute
-intention de commercialiser en France le médicament vétérinaire faisant l'objet
-de l'autorisation.
+par l'Union européenne en application du règlement (CE) n° 726/2004 du Parlement
+européen et du Conseil du 31 mars 2004 sont informés de toute intention de
+commercialiser en France le médicament vétérinaire faisant l'objet de
+l'autorisation.

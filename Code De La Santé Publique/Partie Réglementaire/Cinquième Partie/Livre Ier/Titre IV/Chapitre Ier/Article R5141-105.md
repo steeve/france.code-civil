@@ -16,10 +16,10 @@ médicament vétérinaire :
 
 a) Pendant la période comprise entre la délivrance de l'autorisation de mise sur
 le marché et la mise sur le marché effective du médicament vétérinaire dans au
-moins un Etat membre de la Communauté européenne ;
+moins un Etat membre de l'Union européenne ;
 
 b) Pendant les deux premières années suivant la première mise sur le marché du
-médicament dans au moins un Etat membre de la Communauté européenne ;
+médicament dans au moins un Etat membre de l'Union européenne ;
 
 3° Annuellement pendant les deux années suivantes ;
 

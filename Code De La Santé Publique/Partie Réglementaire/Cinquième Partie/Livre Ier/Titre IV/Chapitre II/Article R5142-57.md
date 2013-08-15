@@ -4,7 +4,8 @@ Dans les établissements autorisés à fabriquer et à importer des aliments
 médicamenteux, les renseignements suivants sont consignés :
 
 1° La date de la fabrication, de l'importation, de la cession ou de la
-délivrance suivant le cas ;
+délivrance suivant le cas ainsi que, si la fabrication a été sous-traitée, la
+date de l'ordre de fabrication et la date de réception du lot ;
 
 2° La dénomination, la quantité et le numéro de lot du ou des prémélanges
 médicamenteux utilisés ;
@@ -17,6 +18,4 @@ l'aliment médicamenteux fabriqué, importé, détenu et cédé ;
 5° Le numéro de lot de l'aliment médicamenteux et la date de péremption ;
 
 6° Selon le cas, le nom et l'adresse du vétérinaire qui a établi la prescription
-ainsi que le nom et l'adresse de l'éleveur ou du détenteur d'animaux
-destinataire de l'aliment médicamenteux ou le nom et l'adresse du distributeur
-d'aliment médicamenteux auquel il a été cédé.
+ainsi que le nom et l'adresse des destinataires.

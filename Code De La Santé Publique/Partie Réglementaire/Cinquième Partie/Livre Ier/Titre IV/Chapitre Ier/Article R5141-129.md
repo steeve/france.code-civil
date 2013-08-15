@@ -7,7 +7,7 @@ organisme ou une société au sein duquel elle exerce des responsabilités
 techniques.
 
 La personne qualifiée est pharmacien ou vétérinaire. Elle est inscrite, selon le
-cas, à la section D ou E de l'ordre national des pharmaciens ou auprès du
+cas, à la section B ou E de l'ordre national des pharmaciens ou auprès du
 conseil régional de l'ordre des vétérinaires dont dépend l'installation.
 
 La personne qualifiée justifie d'une formation ou d'une expérience

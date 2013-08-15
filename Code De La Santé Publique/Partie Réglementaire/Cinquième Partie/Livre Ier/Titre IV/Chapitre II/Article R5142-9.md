@@ -34,11 +34,11 @@ notifie cette décision de prorogation au demandeur.
 
 Pour les établissements se livrant à la fabrication ou à l'importation de
 médicaments vétérinaires, à la fabrication ou à l'importation de médicaments
-soumis à des essais cliniques, à la fabrication ou à l'importation d'aliments
-médicamenteux et à l'exploitation de médicaments vétérinaires, le silence gardé
-par le directeur général vaut refus d'autorisation à l'expiration de l'un des
-délais mentionnés aux alinéas ci-dessus, courant à compter de la date de
-réception de la demande accompagnée d'un dossier complet.
+soumis à des essais cliniques et à la fabrication ou à l'importation d'aliments
+médicamenteux, le silence gardé par le directeur général vaut refus
+d'autorisation à l'expiration de l'un des délais mentionnés aux alinéas
+ci-dessus, courant à compter de la date de réception de la demande accompagnée
+d'un dossier complet.
 
 Pour les autres établissements, le silence gardé par le directeur général vaut
 autorisation tacite à l'expiration de l'un des délais mentionnés aux alinéas

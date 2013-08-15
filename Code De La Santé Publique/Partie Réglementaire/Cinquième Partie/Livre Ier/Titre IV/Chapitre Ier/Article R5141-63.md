@@ -20,8 +20,7 @@ conditionnement et de contrôle ;
 3° La dénomination commune usuelle de la ou des souches homéopathiques en se
 référant à la pharmacopée européenne, ou française lorsqu'elle y figure, ou, à
 défaut, à une pharmacopée utilisée de façon officielle dans un autre Etat membre
-de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen ;
+de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
 
 4° La ou les voies d'administration ;
 

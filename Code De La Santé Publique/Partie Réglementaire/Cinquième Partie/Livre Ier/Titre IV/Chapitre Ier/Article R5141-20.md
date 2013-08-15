@@ -9,11 +9,13 @@ par dérogation au premier alinéa de l'article R. 5141-16 :
 médicament vétérinaire de référence qui est ou a été autorisé depuis au moins
 huit ans en France, le dossier fourni à l'appui de la demande comprend, outre
 les données chimiques, pharmaceutiques et biologiques, les études de
-biodisponibilité démontrant la bioéquivalence à la spécialité de référence.
+biodisponibilité démontrant la bioéquivalence à la spécialité de référence ainsi
+que les essais évaluant les risques que le médicament vétérinaire générique peut
+présenter pour l'environnement.
 
 Si ce médicament vétérinaire est autorisé depuis moins de huit ans en France et
-qu'il est ou a été autorisé depuis au moins huit ans dans un Etat membre de la
-Communauté européenne, la procédure est également applicable.
+qu'il est ou a été autorisé depuis au moins huit ans dans un Etat membre de
+l'Union européenne, la procédure est également applicable.
 
 2° Lorsque la demande porte sur un médicament vétérinaire qui ne répond pas à la
 définition du médicament vétérinaire générique parce qu'il comporte par rapport
@@ -27,8 +29,8 @@ données pharmaceutiques, les résultats des essais non cliniques et cliniques
 appropriés déterminés en fonction de ces différences.
 
 Si ce médicament vétérinaire est autorisé depuis moins de huit ans en France et
-qu'il est ou a été autorisé depuis au moins huit ans dans un Etat membre de la
-Communauté européenne, la procédure est également applicable.
+qu'il est ou a été autorisé depuis au moins huit ans dans un Etat membre de
+l'Union européenne, la procédure est également applicable.
 
 3° Lorsque le demandeur démontre que la demande porte sur un médicament
 biologique vétérinaire similaire dont le médicament biologique vétérinaire de
@@ -39,8 +41,8 @@ la matière première ou aux procédés de fabrication du médicament biologique
 vétérinaire similaire.
 
 Si ce médicament vétérinaire est autorisé depuis moins de huit ans en France et
-qu'il est ou a été autorisé depuis au moins huit ans dans un Etat membre de la
-Communauté européenne, la procédure est également applicable.
+qu'il est ou a été autorisé depuis au moins huit ans dans un Etat membre de
+l'Union européenne, la procédure est également applicable.
 
 4° Lorsque la demande porte sur un médicament vétérinaire de même composition
 qualitative et quantitative en substances actives et de même forme
@@ -87,4 +89,17 @@ le demandeur démontre que, du fait de circonstances exceptionnelles, certains
 essais sur le terrain pour l'espèce de destination ne peuvent être réalisés pour
 des raisons dûment justifiées, notamment du fait de dispositions communautaires,
 le dossier fourni à l'appui de la demande est dispensé de comporter le résultat
-desdits essais.
+desdits essais ;
+
+10° Lorsque la demande porte sur un médicament d'usage traditionnel et dont les
+substances actives sont exclusivement une ou plusieurs substances végétales,
+telles que définies au 1° de l'article R. 5141-1, ou préparations à base de
+plantes ou une association de plusieurs substances végétales ou préparations à
+base de plantes, le dossier fourni à l'appui de la demande comporte, outre les
+données pharmaceutiques, les résultats des essais non cliniques et cliniques
+appropriés lorsque le demandeur ne peut pas démontrer par référence détaillée à
+la littérature publiée et reconnue dans la tradition de la médecine
+phytothérapeutique vétérinaire pratiquée en France ou dans l'Union européenne
+que le médicament est d'un usage bien établi depuis au moins dix ans dans un
+Etat membre de l'Union européenne ou dans un autre Etat partie à l'Espace
+économique européen et qu'il présente toute garantie d'innocuité.

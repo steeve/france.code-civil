@@ -5,17 +5,17 @@ sur le marché mentionnée à l'article L. 5141-5 ou d'un enregistrement mention
 à l'article L. 5141-9 fait l'objet, du contrôle du produit fini lorsqu'il est
 importé :
 
-1° D'un Etat non membre de la Communauté européenne et non partie à l'accord sur
+1° D'un Etat non membre de l'Union européenne et non partie à l'accord sur
 l'Espace économique européen ;
 
-2° Ou d'un autre Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen lorsqu'il a été fabriqué par un établissement
-non autorisé au titre de l'article 44 de la directive 2001 / 82 du 6 novembre
-2001 instituant un code communautaire relatif aux médicaments vétérinaires.
+2° Ou d'un autre Etat membre de l'Union européenne ou partie à l'accord sur
+l'Espace économique européen lorsqu'il a été fabriqué par un établissement non
+autorisé au titre de l'article 44 de la directive 2001 / 82 du 6 novembre 2001
+instituant un code communautaire relatif aux médicaments vétérinaires.
 
 Ce contrôle est effectué par l'établissement pharmaceutique vétérinaire de
 l'importateur dans un Etat membre ou partie à l'accord sur l'Espace économique
-européen..
+européen ou sous sa responsabilité lorsque le contrôle est sous-traité.
 
 Lorsque ces médicaments bénéficient d'une autorisation de mise sur le marché
 mentionnée à l'article L. 5141-5 ou d'un enregistrement mentionné à l'article L.

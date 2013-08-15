@@ -40,4 +40,21 @@ médicamenteux auprès d'autres fabricants d'aliments médicamenteux. Ils peuven
 laboratoire. La sous-traitance ou la prestation de contrôle sont réalisées dans
 le cadre d'un contrat écrit qui fixe, conformément aux bonnes pratiques prévues
 à l'article L. 5142-3 applicables à ces opérations, leurs obligations
-respectives.
+respectives ;
+
+5° Les exploitants de médicaments vétérinaires mentionnés au 3° de l'article R.
+5142-1 peuvent sous-traiter tout ou partie des opérations de pharmacovigilance
+mentionnées aux articles R. 5141-104 et R. 5141-105 :
+
+-soit à un autre établissement pharmaceutique vétérinaire installé en France ;
+
+-soit à un organisme installé dans un autre Etat membre de l'Union européenne et
+chargé par le titulaire de l'autorisation de mise sur le marché de réaliser ces
+opérations.
+
+Cette sous-traitance se déroule dans le cadre d'un contrat écrit qui fixe,
+conformément aux bonnes pratiques prévues à l'article L. 5142-3 applicables à
+ces opérations, les obligations respectives de l'exploitant et du sous-traitant.
+L'exploitant informe l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail afin que celle-ci soit en mesure de vérifier
+que le sous-traitant possède la compétence et les moyens suffisants.

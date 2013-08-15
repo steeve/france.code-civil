@@ -8,7 +8,7 @@ d'autorisation de mise sur le marché est constitué dans les conditions suivant
 1° Lorsque le demandeur démontre, par référence à une documentation
 bibliographique appropriée, que la demande porte sur un médicament vétérinaire
 dont la ou les substances actives sont d'un usage vétérinaire bien établi depuis
-au moins dix ans en France ou dans la Communauté européenne, le dossier fourni à
+au moins dix ans en France ou dans l'Union européenne, le dossier fourni à
 l'appui de la demande comporte, outre les données pharmaceutiques, la
 documentation bibliographique appropriée.
 

@@ -1,9 +1,9 @@
 Article R5141-47-4
 ----
 Pour obtenir une autorisation de mise sur le marché en France et dans au moins
-un autre Etat membre de la Communauté européenne, pour un médicament vétérinaire
-ne disposant d'aucune autorisation dans la Communauté européenne, le demandeur
-adresse une demande d'autorisation de mise sur le marché au directeur général de
+un autre Etat membre de l'Union européenne, pour un médicament vétérinaire ne
+disposant d'aucune autorisation dans l'Union européenne, le demandeur adresse
+une demande d'autorisation de mise sur le marché au directeur général de
 l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
 et du travail.
 
@@ -25,9 +25,9 @@ jours mentionné à l'alinéa précédent, le directeur général de l'agence sa
 groupe de coordination mentionné à l'article 31 de la directive 2001/82/ CE du
 Parlement européen et du Conseil ;
 
-2° Si le demandeur désigne un autre Etat membre de la Communauté européenne
-comme Etat de référence, le directeur général de l'agence dispose, à compter de
-la réception du projet de rapport d'évaluation, accompagné des projets de résumé
+2° Si le demandeur désigne un autre Etat membre de l'Union européenne comme Etat
+de référence, le directeur général de l'agence dispose, à compter de la
+réception du projet de rapport d'évaluation, accompagné des projets de résumé
 des caractéristiques du produit, d'étiquetage et de notice transmis par l'Etat
 de référence, d'un délai de quatre-vingt-dix jours pour se prononcer.
 

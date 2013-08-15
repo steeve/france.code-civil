@@ -2,12 +2,13 @@ Article R5142-33
 ----
 Dans les sociétés mentionnées à l'article L. 5142-1, autres que celles qui
 fabriquent, importent ou distribuent des aliments médicamenteux à l'exclusion de
-tout autre médicament vétérinaire, le pharmacien ou le vétérinaire responsable
-est :
+tout autre médicament vétérinaire et qui optent pour la dérogation prévue au
+dernier alinéa de cet article, le pharmacien ou le vétérinaire responsable est :
 
 1° Dans les sociétés anonymes autres que celles mentionnées aux articles L.
 225-57 à L. 225-93 du code de commerce, le président du conseil d'administration
-ou le directeur général ou un directeur général délégué ;
+ayant la qualité de directeur général ou le directeur général ou un directeur
+général délégué ;
 
 2° Dans les sociétés anonymes mentionnées aux articles du même code, soit le
 président du directoire, soit un autre membre du directoire ayant la qualité de
@@ -18,7 +19,9 @@ limitée, les entreprises unipersonnelles à responsabilité limitée, les soci�
 en nom collectif et les sociétés en commandite simple, un gérant ;
 
 4° Dans les sociétés par actions simplifiées, la personne physique ayant la
-qualité de président de la société ;
+qualité de président de la société ou le dirigeant auquel les statuts ont
+confié, en application de l' article L. 227-5 du code de commerce , les
+attributions mentionnées à l'article R. 5142-35 ;
 
 5° Dans les sociétés coopératives agricoles, un directeur général ou un membre
 du directoire.

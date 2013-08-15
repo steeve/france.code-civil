@@ -4,8 +4,8 @@ Le titulaire transmet sans délai au directeur général de l'Agence nationale d
 sécurité sanitaire de l'alimentation, de l'environnement et du travail, y
 compris pendant l'instruction du dossier, en en signalant la portée, toute
 donnée nouvelle dont il dispose ou a connaissance notamment les résultats
-d'études ou d'essais, effectués dans ou en dehors de la Communauté européenne
-qui pourrait entraîner une modification de l'évaluation du rapport entre les
+d'études ou d'essais, effectués dans ou en dehors de l'Union européenne qui
+pourrait entraîner une modification de l'évaluation du rapport entre les
 bénéfices et les risques liés à l'utilisation du médicament vétérinaire.
 
 Il communique également à l'agence toute interdiction ou restriction décidée par

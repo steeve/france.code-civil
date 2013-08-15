@@ -6,10 +6,10 @@ la mesure où elles correspondent aux activités de l'entreprise dans laquelle i
 exerce :
 
 1° Il organise et surveille l'ensemble des opérations pharmaceutiques de
-l'entreprise, et notamment la fabrication, la publicité, l'information, la
-pharmacovigilance, la libération, le suivi et le retrait des lots, la
-distribution, l'importation et l'exportation des médicaments vétérinaires ainsi
-que les opérations de stockage correspondantes ;
+l'entreprise, et notamment l'approvisionnement, la fabrication, la publicité,
+l'information, la pharmacovigilance, la libération, le suivi et le retrait des
+lots, la distribution, l'importation et l'exportation des médicaments
+vétérinaires ainsi que les opérations de stockage correspondantes ;
 
 2° Il veille à ce que les conditions de transport garantissent la bonne
 conservation, l'intégrité et la sécurité de ces médicaments vétérinaires ;
@@ -28,6 +28,12 @@ il donne son agrément à leur engagement et est consulté sur leur licenciement
 
 7° Il signale aux autres dirigeants de l'entreprise tout obstacle ou limitation
 à l'exercice de ces attributions.
+
+Le pharmacien ou vétérinaire responsable participe aux délibérations des organes
+de gestion, d'administration, de direction ou de surveillance, ou à celles de
+tout autre organe ayant une charge exécutive, de l'entreprise, lorsque ces
+délibérations concernent ou peuvent affecter l'exercice des missions relevant de
+sa responsabilité et énumérées du 1° au 7° du présent article.
 
 Dans le cas où un désaccord portant sur l'application des règles édictées dans
 l'intérêt de la santé publique oppose un organe de gestion, d'administration, de

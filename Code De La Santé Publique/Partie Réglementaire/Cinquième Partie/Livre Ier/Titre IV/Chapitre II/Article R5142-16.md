@@ -15,13 +15,3 @@ le vétérinaire responsable et le pharmacien ou le vétérinaire délégué jus
 que cette expérience pratique comporte des activités d'analyse qualitative des
 médicaments, d'analyse quantitative des principes actifs ainsi que d'essais et
 vérifications nécessaires pour assurer la qualité des médicaments.
-
-Dans les entreprises et leurs établissements mentionnés au 3° de l'article R.
-5142-1, le pharmacien ou le vétérinaire responsable et le ou les pharmaciens ou
-vétérinaires délégués justifient soit de l'expérience pratique prévue au premier
-alinéa, soit d'une expérience pratique d'au moins deux ans dans un établissement
-pharmaceutique assurant l'exploitation de médicaments à usage humain ou dans un
-établissement pharmaceutique vétérinaire assurant l'exploitation de médicaments
-vétérinaires, à condition que cette expérience ait consisté au moins en des
-activités de suivi des lots ou en des activités de pharmacovigilance
-vétérinaire.

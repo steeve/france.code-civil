@@ -1,8 +1,8 @@
 Article R5141-47-3
 ----
 Pour obtenir la reconnaissance en France d'une autorisation de mise sur le
-marché délivrée par un autre Etat, dit Etat de référence, membre de la
-Communauté européenne, le titulaire de cette autorisation adresse une demande
+marché délivrée par un autre Etat, dit Etat de référence, membre de l'Union
+européenne, le titulaire de cette autorisation adresse une demande
 d'autorisation de mise sur le marché au directeur général de l'Agence nationale
 de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 

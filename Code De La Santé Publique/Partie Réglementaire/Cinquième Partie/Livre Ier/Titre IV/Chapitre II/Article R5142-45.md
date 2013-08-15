@@ -18,9 +18,9 @@ l'exploitant du médicament vétérinaire de ces modifications.
 
 Lorsque des lots de médicaments vétérinaires bénéficiant d'une autorisation de
 mise sur le marché ou d'un enregistrement mentionné à l'article L. 5141-9 sont
-importés d'un autre Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen, les comptes-rendus du contrôle correspondant à
-ces lots sont reconnus par l'Agence nationale de sécurité sanitaire de
+importés d'un autre Etat membre de l'Union européenne ou partie à l'accord sur
+l'Espace économique européen, les comptes-rendus du contrôle correspondant à ces
+lots sont reconnus par l'Agence nationale de sécurité sanitaire de
 l'alimentation, de l'environnement et du travail. Ces comptes-rendus peuvent
 être détenus par l'établissement fabricant situé dans l'Etat membre ou partie
 concerné, titulaire d'une autorisation de fabrication ou d'importation
@@ -33,7 +33,7 @@ l'identité du détenteur de ces comptes-rendus.
 
 Les dispositions du troisième alinéa ci-dessus sont applicables aux lots de
 médicaments vétérinaires destinés à être expérimentés sur l'animal importés d'un
-autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
 économique européen et fabriqués par un établissement autorisé au titre de
 l'article 44 de la directive 2001/82 du 6 novembre 2001.
 
