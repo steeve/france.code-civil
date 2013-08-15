@@ -1,5 +1,5 @@
 Article R733-3
 ----
-Les rapporteurs chargés de l'instruction des affaires peuvent être pris en
-dehors du personnel affecté à la cour ; ils sont alors désignés par arrêté du
-vice-président du Conseil d'Etat, sur proposition du président de la cour.
+A tout moment de la procédure, le président de la cour ou de la formation de
+jugement à laquelle une affaire est attribuée peut renvoyer le jugement du
+recours à la formation prévue par l'article R. 732-5.

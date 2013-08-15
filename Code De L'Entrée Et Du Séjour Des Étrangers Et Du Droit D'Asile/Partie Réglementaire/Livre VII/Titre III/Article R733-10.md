@@ -1,18 +1,14 @@
 Article R733-10
 ----
-La liste des recours est communiquée sans délai par le secrétaire général de la
-cour au directeur général de l'office.
+Le recours est communiqué à l'Office français de protection des réfugiés et des
+apatrides. L'office transmet sans délai le dossier du requérant à la cour qui le
+tient à disposition de ce dernier. Les autres mémoires et pièces produits par le
+requérant sont communiqués à l'office s'ils contiennent des éléments nouveaux.
 
-Ce dernier doit transmettre le dossier de chaque requérant en possession de
-l'office dans un délai de quinze jours à compter de la date à laquelle il reçoit
-la liste des recours. Le dossier est tenu à la disposition de l'avocat du
-requérant.
+Si les pièces produites par le requérant ne peuvent, en raison de leur nombre,
+de leur volume ou de leurs caractéristiques, être communiquées à l'office dans
+les conditions prévues par l'article R. 733-12, seul l'inventaire de ces pièces
+lui est transmis de manière à lui permettre d'en prendre connaissance à la cour.
 
-Dans ce même délai, le directeur général peut demander à avoir communication de
-tout recours afin de présenter des observations dans un délai d'un mois à
-compter de cette communication.
-
-Dans le délai susmentionné de quinze jours lorsqu'il apparaît, au vu du recours,
-que la solution de l'affaire est d'ores et déjà certaine, le président de la
-cour peut décider qu'il n'y a pas lieu de communiquer le recours au directeur
-général de l'office.
+Les mémoires et pièces produits par l'office dans le cadre de la procédure sont
+communiqués au requérant.

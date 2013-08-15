@@ -1,14 +1,28 @@
 Article R733-23
 ----
-Dès réception de la réponse du ministre de l'intérieur et du ministre chargé de
-l'asile ou à l'expiration du délai, la cour se réunit sur convocation de son
-président.
+Sauf dans le cas où il est procédé à un enregistrement audiovisuel ou sonore de
+l'audience, un procès-verbal est rédigé par l'agent chargé du greffe dans
+chacune des deux salles d'audience.
 
-Les dispositions des troisième et cinquième alinéas de l'article R. 733-17 et du
-premier alinéa de l'article R. 733-18 sont applicables pour la procédure devant
-la cour.
+Chacun de ces procès-verbaux mentionne :
 
-La cour formule un avis motivé sur le maintien ou l'annulation de la mesure qui
-a provoqué la requête. Cet avis est transmis sans délai au ministre de
-l'intérieur et au ministre chargé de l'asile par lettre recommandée avec demande
-d'avis de réception.
+-le nom et la qualité de l'agent chargé de sa rédaction ;
+
+-le nom du requérant et le numéro du recours ;
+
+-lorsqu'il est fait appel à des agents extérieurs pour assurer la prise de son
+et d'image, le nom de ceux-ci ;
+
+-la date et l'heure du début de la communication audiovisuelle ;
+
+-les éventuels incidents techniques relevés lors de l'audience, susceptibles
+d'avoir perturbé la communication ;
+
+-l'heure de la fin de la communication audiovisuelle.
+
+Le cas échéant, sont également mentionnés le nom de l'avocat et le nom de
+l'interprète sur le procès-verbal établi dans la salle d'audience où ils se
+trouvent.
+
+Ces procès-verbaux attestent l'ouverture au public des deux salles d'audience,
+sous réserve de l'application du sixième alinéa de l'article R. 733-24.

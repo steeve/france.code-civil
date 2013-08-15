@@ -1,8 +1,9 @@
 Article R733-9
 ----
-Dans les cas prévus aux 1°, 2° et 4° de l'article R. 733-6, le recours doit, à
-peine d'irrecevabilité, être exercé dans le délai d'un mois à compter de la
-notification de la décision de l'office.
+Lorsqu'un recours est entaché d'une irrecevabilité susceptible d'être couverte
+après l'expiration du délai de recours, la cour ne peut le rejeter en relevant
+d'office cette irrecevabilité qu'après avoir invité son auteur à le régulariser.
 
-Dans le cas prévu au 3° du même article, le recours doit être exercé dans le
-délai de deux mois après que la fraude a été constatée.
+La demande de régularisation mentionne qu'à défaut de régularisation les
+conclusions pourront être rejetées comme irrecevables dès l'expiration du délai
+imparti qui, sauf urgence, ne peut être inférieur à quinze jours.

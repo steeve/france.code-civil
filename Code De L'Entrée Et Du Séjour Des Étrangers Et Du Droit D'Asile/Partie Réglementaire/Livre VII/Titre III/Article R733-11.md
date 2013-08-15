@@ -1,9 +1,10 @@
 Article R733-11
 ----
-Lorsque l'affaire est en état, le président de la formation de jugement peut,
-par une ordonnance, fixer la date à partir de laquelle l'instruction sera close.
-Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours.
+Lorsque le requérant est représenté par un avocat, les actes de procédure sont
+accomplis à l'égard de ce mandataire, à l'exception de la notification de l'avis
+de réception prévu à l'article R. 733-8, de l'avis d'audience prévu à l'article
+R. 733-19 et de la décision elle-même, adressés personnellement au requérant par
+lettre recommandée avec demande d'avis de réception.
 
-Les lettres recommandées avec demande d'avis de réception portant notification
-de cette ordonnance sont envoyées aux parties quinze jours au moins avant la
-date de la clôture fixée par l'ordonnance.
+L'information prévue au deuxième alinéa de l'article R. 733-13 est également
+adressée personnellement au requérant.

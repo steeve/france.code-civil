@@ -1,4 +1,4 @@
-Article R733-18-1
+Article R733-34
 ----
 La décision de renvoi d'une question en application de l'article L. 733-3 est
 prononcée par la formation visée à l'article R. 732-5.

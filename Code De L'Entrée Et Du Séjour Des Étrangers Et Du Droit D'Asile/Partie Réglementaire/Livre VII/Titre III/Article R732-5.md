@@ -1,10 +1,15 @@
 Article R732-5
 ----
-La formation de sections réunies comprend la section saisie du recours et deux
-autres sections, désignées selon un tableau établi annuellement.
+La grande formation de la cour comprend la formation de jugement saisie du
+recours, complétée par un président, deux assesseurs choisis parmi les
+personnalités mentionnées au 2° de l'article L. 732-1 et deux assesseurs choisis
+parmi les personnalités mentionnées au 3° du même article.
 
 Elle est présidée par le président de la cour et, en cas d'empêchement, par le
-plus ancien des présidents de section.
+plus ancien des vice-présidents.
 
-Le moins ancien des présidents de section, autre que le président de la section
-saisie du recours, ne siège pas.
+Les membres qui complètent ainsi la formation de jugement saisie du recours sont
+désignés selon un tableau établi annuellement.
+
+Lorsque la formation de jugement saisie du recours est celle du président de la
+cour, un deuxième président est désigné dans les mêmes conditions.
