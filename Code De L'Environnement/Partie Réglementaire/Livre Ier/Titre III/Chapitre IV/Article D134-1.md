@@ -1,19 +1,19 @@
 Article D134-1
 ----
-Le Comité national du développement durable et du Grenelle de l'environnement,
-placé auprès du ministre chargé du développement durable, assure le suivi de la
-mise en œuvre des engagements du Grenelle de l'environnement.
+Outre les missions consultatives prévues à l'article L. 133-2, le Conseil
+national de la transition écologique :
 
-Il apporte son concours à la politique du Gouvernement en faveur du
-développement durable. A ce titre, le comité est associé notamment à
-l'élaboration, au suivi et à l'évaluation de la stratégie nationale du
-développement durable et de la stratégie nationale de la biodiversité.
+1° Apporte son concours à l'élaboration, au suivi et à l'évaluation des
+objectifs de la politique nationale en faveur de la transition écologique et du
+développement durable. A ce titre, il est tenu informé, notamment, de
+l'évolution des indicateurs mentionnés au dernier alinéa de l'article L. 133-2
+ainsi que des orientations des comités stratégiques des filières industrielles
+du Conseil national de l'industrie ;
 
-Le Premier ministre et le ministre chargé du développement durable peuvent
-saisir le comité pour avis de toute question relative au développement durable,
-notamment des projets de textes législatifs et réglementaires ayant une
-incidence dans ce domaine, de tout schéma d'orientation ou de toute réforme
-ayant une portée nationale en matière d'environnement, d'aménagement et de
-développement durable.
+2° Participe à l'élaboration, au suivi et à l'évaluation des stratégies
+nationales mentionnées au 2° du même article. Les avis qu'il rend sur chacun des
+rapports annuels de suivi et d'évaluation de ces stratégies nationales sont
+joints lors de leur transmission au Parlement ;
 
-Ses avis sont rendus publics.
+3° Contribue à la préparation des négociations internationales sur
+l'environnement et le développement durable.
