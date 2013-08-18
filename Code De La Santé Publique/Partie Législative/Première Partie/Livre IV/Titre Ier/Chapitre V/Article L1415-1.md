@@ -3,10 +3,10 @@ Article L1415-1
 La mission et le statut de l'Ecole des hautes études en santé publique sont
 définis à l'article L. 756-2 du code de l'éducation ci-après reproduit :
 
-Art.L. 756-2.-L'Ecole des hautes études en santé publique, établissement public
+Art. L. 756-2.-L'Ecole des hautes études en santé publique, établissement public
 de l'Etat à caractère scientifique, culturel et professionnel, est placée sous
 la tutelle des ministres chargés de la santé, des affaires sociales, de
-l'éducation et de la recherche. Elle a pour mission :
+l'enseignement supérieur et de la recherche. Elle a pour mission :
 
 1° D'assurer la formation des personnes ayant à exercer des fonctions de
 direction, de gestion, d'inspection ou de contrôle dans les domaines sanitaires,

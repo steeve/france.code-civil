@@ -14,19 +14,14 @@ lycéenne et sur l'organisation des activités sportives, culturelles et
 périscolaires. Ses avis et ses propositions, ainsi que les comptes rendus de
 séance, sont portés à la connaissance et, le cas échéant, inscrits à l'ordre du
 jour du conseil d'administration et peuvent faire l'objet d'un affichage
-conformément aux dispositions de l'article 8-1 du décret n° 86-164 du 31 janvier
-1986 portant organisation administrative et financière des établissements
-d'enseignement dont la responsabilité et la charge incombent entièrement à
-l'Etat et portant dispositions diverses applicables aux établissements
-d'enseignement de second degré municipaux ou départementaux. Le conseil des
-délégués pour la vie lycéenne se réunit, sur convocation du chef
-d'établissement, avant chaque séance ordinaire du conseil d'administration. Il
-est, en outre, réuni en séance extraordinaire, à la demande de la moitié de ses
-membres. L'ordre du jour est arrêté par le chef d'établissement. Sont inscrites
-à l'ordre du jour toutes les questions ayant trait aux domaines définis
-ci-dessus, dont l'inscription est demandée par au moins la moitié des membres du
-conseil. Le conseil ne peut siéger valablement que si la majorité des lycéens
-est présente. Si le quorum n'est pas atteint, le chef d'établissement convoque à
-nouveau le conseil dans un délai de trois jours au minimum et de huit jours au
-maximum. Le conseil délibère alors valablement quel que soit le nombre des
-membres présents.
+conformément aux dispositions de l'article R. 511-7. Le conseil des délégués
+pour la vie lycéenne se réunit, sur convocation du chef d'établissement, avant
+chaque séance ordinaire du conseil d'administration. Il est, en outre, réuni en
+séance extraordinaire, à la demande de la moitié de ses membres. L'ordre du jour
+est arrêté par le chef d'établissement. Sont inscrites à l'ordre du jour toutes
+les questions ayant trait aux domaines définis ci-dessus, dont l'inscription est
+demandée par au moins la moitié des membres du conseil. Le conseil ne peut
+siéger valablement que si la majorité des lycéens est présente. Si le quorum
+n'est pas atteint, le chef d'établissement convoque à nouveau le conseil dans un
+délai de trois jours au minimum et de huit jours au maximum. Le conseil délibère
+alors valablement quel que soit le nombre des membres présents.

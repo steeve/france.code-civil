@@ -1,0 +1,5 @@
+Article R719-148
+----
+L'établissement tient un inventaire permanent de tous les biens mobiliers et
+immobiliers dont il dispose. Cet inventaire distingue les biens propres de
+l'établissement de ceux qui lui sont affectés ou qui sont mis à sa disposition.

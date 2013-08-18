@@ -7,8 +7,5 @@ D. 422-40 à D. 422-44. Les règles relatives aux libertés d'expression,
 d'association, de réunion et de publication dont disposent les élèves de ces
 établissements, à l'obligation d'assiduité à laquelle ils sont soumis ainsi
 qu'au conseil de discipline de l'établissement et à l'appel de ses décisions
-sont celles mentionnées aux articles 4-1 à 4-5,8-1,31,31-1 et 31-2 du décret n°
-86-164 du 31 janvier 1986 portant organisation administrative et financière des
-établissements d'enseignement dont la responsabilité et la charge incombent
-entièrement à l'Etat et portant dispositions diverses applicables aux
-établissements d'enseignement de second degré municipaux ou départementaux.
+sont celles mentionnées aux articles R. 511-2, R. 511-6 à R. 511-11, R. 511-20,
+R. 511-21, R. 511-26, R. 511-27 et R. 511-49.
