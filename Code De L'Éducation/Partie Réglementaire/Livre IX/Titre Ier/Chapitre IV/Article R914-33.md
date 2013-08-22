@@ -8,10 +8,7 @@ continuent à être régis par ce contrat pendant une période probatoire d'un a
 
 Pendant la période de stage, les maîtres sont rémunérés sur l'échelle de
 rémunération afférente à la catégorie de maître au titre de laquelle ils ont
-concouru. Ils peuvent toutefois opter pour le maintien de la rémunération qu'ils
-percevaient antérieurement, sans que cette disposition puisse avoir pour effet
-de leur assurer une rémunération supérieure à celle qui résultera de leur
-classement dans leur nouvelle échelle de rémunération.
+concouru.
 
 Les maîtres ayant obtenu un contrat provisoire bénéficient des dispositions du
 décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables

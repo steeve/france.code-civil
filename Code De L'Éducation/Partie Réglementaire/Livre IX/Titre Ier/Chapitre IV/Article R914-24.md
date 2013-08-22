@@ -11,7 +11,7 @@ l'appréciation de la durée de service exigée pour faire acte de candidature,
 sont pris en compte les services publics dans les mêmes conditions que pour les
 concours de recrutement de l'enseignement public et les services d'enseignement
 et de documentation effectués dans les établissements d'enseignement privés sous
-contrat. Il en va de même pour la formation prévue à l'article R. 914-38.
+contrat.
 
 Au titre d'une même session, un candidat ne peut s'inscrire dans une même
 section au concours d'accès aux échelles de rémunération d'enseignants et au
@@ -21,4 +21,4 @@ Les candidats à ces concours subissent les mêmes épreuves que les candidats d
 concours correspondants de l'enseignement public. Ils subissent ces épreuves
 devant le jury des concours correspondants de l'enseignement public, auquel il
 est adjoint, pour ces candidats, des représentants des établissements privés
-associés à l'Etat par contrat et ayant les titres requis pour enseigner (1).
+associés à l'Etat par contrat et ayant les titres requis pour enseigner.

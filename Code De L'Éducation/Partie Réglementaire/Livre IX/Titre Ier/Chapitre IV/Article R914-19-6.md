@@ -7,7 +7,4 @@ communes applicables aux stagiaires de l'Etat et de ses établissements publics,
 
 Pendant l'année de stage, les maîtres sont rémunérés sur l'échelle de
 rémunération afférente à la catégorie de maître au titre de laquelle ils ont
-concouru. Ils peuvent toutefois opter pour le maintien de la rémunération qu'ils
-percevaient antérieurement, sans que cette disposition puisse avoir pour effet
-de leur assurer une rémunération supérieure à celle qui résultera de leur
-classement dans leur nouvelle échelle de rémunération.
+concouru.

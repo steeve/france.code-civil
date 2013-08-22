@@ -5,9 +5,8 @@ sous contrat d'association ou de maître agréé dans les établissements sous
 contrat simple :
 
 1° S'il n'est ressortissant de l'un des Etats membres de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen, sauf dérogation accordée dans les conditions prévues par les
-dispositions applicables aux divers ordres d'enseignement ;
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+;
 
 2° S'il ne jouit de ses droits civiques dans l'Etat dont il est ressortissant ;
 

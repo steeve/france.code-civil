@@ -1,10 +1,9 @@
 Article R914-50
 ----
 Une commission nationale d'affectation est chargée de proposer au ministre
-chargé de l'éducation la désignation d'une académie :
-
-1° Pour la nomination des maîtres auxquels un contrat définitif n'a pu être
-offert selon la procédure définie à l'article R. 914-49.
+chargé de l'éducation la désignation d'une académie : 1° Pour la nomination des
+maîtres auxquels un contrat définitif n'a pu être offert selon la procédure
+définie à l'article R. 914-49.
 
 Les maîtres qui refusent, sans motif légitime, le service qui leur est proposé
 dans l'académie d'affectation perdent le bénéfice de leur admission définitive à
@@ -27,4 +26,7 @@ peut faire l'objet d'un nouvel examen par la commission nationale d'affectation.
 
 Celle-ci donne également son avis sur les demandes de changement présentées par
 des maîtres, pour un motif médical, de l'échelle de rémunération ou de la
-discipline au titre de laquelle ils sont titulaires d'un contrat définitif.
+discipline au titre de laquelle ils sont titulaires d'un contrat définitif ;
+
+3° Pour la nomination des lauréats des concours qui n'ont pu obtenir un contrat
+ou un agrément provisoire.

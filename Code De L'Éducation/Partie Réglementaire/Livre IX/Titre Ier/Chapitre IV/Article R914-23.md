@@ -1,8 +1,8 @@
 Article R914-23
 ----
-Les maîtres contractuels ou agréés qui remplissent les conditions de titres et
-de diplômes exigés dans l'enseignement public peuvent se présenter aux concours
-externes de l'enseignement public du second degré.
+Les maîtres contractuels ou agréés qui remplissent les conditions exigées des
+candidats des concours externes du second degré de l'enseignement public peuvent
+se présenter à ces concours.
 
 Les intéressés, lauréats du concours externe de l'agrégation, peuvent, s'ils en
 font la demande dans un délai fixé par arrêté du ministre chargé de l'éducation,
