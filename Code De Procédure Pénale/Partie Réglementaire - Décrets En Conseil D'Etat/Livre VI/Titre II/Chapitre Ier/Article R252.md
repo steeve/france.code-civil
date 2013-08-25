@@ -25,7 +25,9 @@ chargé du recouvrement des amendes" ;
 8° "régisseur des recettes" par "agent chargé du recouvrement des amendes" ;
 
 9° "salaire minimum interprofessionnel de croissance" par "salaire minimum
-horaire garanti".
+horaire garanti" ;
+
+10° "conseil de prud'hommes" par "tribunal du travail".
 
 II. - Pour l'application du présent code dans les îles Wallis et Futuna, les
 termes énumérés ci-après sont remplacés comme suit :

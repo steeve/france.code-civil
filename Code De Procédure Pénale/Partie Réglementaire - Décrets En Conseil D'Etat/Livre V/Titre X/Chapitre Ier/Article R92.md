@@ -2,98 +2,84 @@ Article R92
 ----
 Les frais de justice criminelle, correctionnelle et de police sont :
 
-1° Les frais de translation des prévenus ou accusés, les frais de translation
-des condamnés pour se rendre au lieu où ils sont appelés en témoignage lorsque
-cette translation ne peut être effectuée par les voitures cellulaires du service
-pénitentiaire, les frais de transport des procédures et des pièces à conviction
-;
+1° Les frais des translations et des extractions exécutées sur la réquisition de
+l'autorité judiciaire par les services de la police nationale ou les unités de
+la gendarmerie nationale ;
 
 2° Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de
 commission rogatoire et autres frais de procédure pénale en matière
 internationale ;
 
-3° Les honoraires et indemnités qui peuvent être accordés aux personnes ci-après
-:
+3° Les honoraires, émoluments et indemnités qui peuvent être accordés aux
+personnes ci-après :
 
-a) Experts et traducteurs interprètes ;
+a) Experts ;
 
 b) Personnes chargées des enquêtes sociales ou de personnalité ;
 
 c) Personnes contribuant au contrôle judiciaire ou, dans le cas prévu par le
-cinquième alinéa de l'article 471, au sursis avec mise à l'épreuve (1) ;
+cinquième alinéa de l'article 471, au sursis avec mise à l'épreuve ;
 
 d) Médiateurs du procureur de la République chargés d'une mission de médiation
 en application des dispositions du 5° de l'article 41-1 ;
 
-e) Délégués du procureur de la République chargés d'une des missions prévues par
-les 1°, 2°, 3°, 4° et 6° de l'article 41-1 ou intervenant au cours d'une
-composition pénale (1) ;
+e) Délégués du procureur de la République chargés d'une des missions prévues aux
+1°, 2°, 3°, 4° et 6° de l'article 41-1 ou intervenant au cours d'une procédure
+de composition pénale ou pour la notification d'une ordonnance pénale ;
+
+f) Interprètes traducteurs ;
+
+g) Administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R.
+53 ou qu'il a été fait application des dispositions de l'article R. 53-6 ;
+
+h) Huissiers de justice ;
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par
 application des articles R. 123 à R. 146 et aux parties civiles par application
 des articles 375-1 et 422 ;
 
-5° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les
-frais en matière de scellés ;
+5° Les frais de mise sous séquestre, ceux de saisie, de garde et de destruction
+en matière de scellés judiciaires ainsi que, si le condamné ne les a pas payés,
+les frais d'enlèvement et de garde en fourrière de son véhicule faisant l'objet
+d'une immobilisation autorisée ou prononcée à titre de peine par l'autorité
+judiciaire ;
 
-6° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou
-d'application des peines et en matière de grâces ;
+6° Les dépenses diverses de reconstitution, d'exhumation ou de travaux
+techniques exposés au cours d'une enquête préliminaire ou de flagrant délit,
+d'une procédure suivie en application des articles 74 à 74-2 ou pour
+l'instruction d'une affaire, à l'exclusion des dépenses de fonctionnement ;
 
-7° Les émoluments et indemnités alloués aux huissiers de justice ;
+7° Les frais de transport de corps exposés avant ou après la réalisation
+d'examens thanatologiques ordonnés dans le cadre d'une enquête judiciaire en
+application des articles 60,74 et 77-1 ou d'une information judiciaire ;
 
-8° Les frais de capture ;
+8° Les frais d'impression mentionnés aux articles R. 210 à R. 212 ainsi que les
+frais d'impression, d'insertion, de publication et de diffusion audiovisuelle
+des arrêts, jugements et ordonnances de justice engagés en application de
+l'article 131-35 du code pénal ;
 
-9° Les dépenses diverses de reconstitution, d'exhumation ou de travaux
-techniques exposés pour l'instruction d'une affaire particulière et pour une
-enquête préliminaire ou de flagrant délit, à l'exclusion des dépenses de
-fonctionnement ;
+9° Les frais résultant des actes accomplis par les opérateurs de communications
+électroniques pour l'exécution des réquisitions judiciaires correspondant :
 
-10° Les indemnités allouées aux magistrats et greffiers au cas de transport pour
-exercer un acte de leur fonction dans les cas prévus par la section VII du
-chapitre II du présent titre ;
+a) A la fourniture des données conservées en application du II de l'article L.
+34-1 du code des postes et des communications électroniques ;
 
-11° Les frais postaux et télégraphiques, le port des paquets pour une procédure
-pénale ;
+b) Au traitement des demandes d'interceptions ;
 
-12° Les frais des procédures suivies en application des lois concernant
-l'enfance délinquante ;
-
-13° Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les
-frais de révision et les secours aux individus relaxés ou acquittés ;
-
-14° Les indemnités accordées en application des articles 149 et 150 ;
-
-15° Les frais exposés devant les commissions prévues par l'article 706-4 ;
-
-16° Les frais de copie, droits, redevances et émoluments, dus aux greffiers des
-tribunaux de commerce pour la délivrance des pièces à l'autorité judiciaire dans
-le cadre d'une procédure pénale ;
-
-17° Les frais et dépens mis à la charge du Trésor public en cas de décision
-juridictionnelle rectifiant ou interprétant une précédente décision en matière
-pénale ;
-
-18° Les frais de recherche et de délivrance de reproductions de tous documents
+10° Les frais de recherche et de délivrance de reproductions de tous documents
 imprimés ;
 
-19° Les frais de remise ou de mise en oeuvre des conventions secrètes de moyens
-ou prestations de cryptologie engagés à la demande des autorités judiciaires par
-les organismes agréés mentionnés à l'article 28 de la loi n° 90-1170 du 29
-décembre 1990 sur la réglementation des télécommunications ;
+11° Les frais de mise en œuvre des conventions secrètes de moyens ou de
+prestations de cryptologie engagés en application de l'article 230-1 ;
 
-20° Les indemnités et vacations qui peuvent être accordées aux membres
-titulaires et suppléants de la formation de jugement de la Cour de justice de la
-République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ;
+12° Les frais exposés au cours d'une procédure de révision ou de réexamen d'une
+décision pénale définitive par un condamné reconnu innocent ainsi que la
+réparation prévue aux articles 626 et 626-7 ;
 
-21° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue
-à l'article R. 53 ou qu'il a été fait application des dispositions de l'article
-R. 53-6 ;
+13° Les réparations accordées à la suite d'une détention provisoire en
+application des articles 149 à 150 ;
 
-22° Les indemnités accordées en application de l'article 800-2 ;
+14° Les frais et dépens mis à la charge de l'Etat en cas de décision
+juridictionnelle rectifiant ou interprétant une décision en matière pénale ;
 
-23° Les frais correspondant à la fourniture des données conservées en
-application du II de l'article L. 34-1 du code des postes et des communications
-électroniques ;
-
-24° les coûts liés au traitement des demandes d'interception de communication
-électronique.
+15° Les indemnités accordées en application de l'article 800-2.

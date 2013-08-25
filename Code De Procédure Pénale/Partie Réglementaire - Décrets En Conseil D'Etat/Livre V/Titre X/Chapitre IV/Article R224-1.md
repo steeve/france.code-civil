@@ -1,27 +1,12 @@
 Article R224-1
 ----
-La procédure de certification est applicable aux frais de justice criminelle,
-correctionnelle et de police suivants :
+Relèvent de la procédure de certification prévue à l'article R. 225 :
 
-1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux
-interprètes traducteurs et aux personnes mentionnées aux articles R. 121 à R.
-121-3 ;
+1° Les frais énumérés à l'article R. 92 faisant l'objet d'une tarification fixée
+par les dispositions du titre X du livre V (Décrets en Conseil d'Etat) ;
 
-2. Frais de vérifications médicales, cliniques et biologiques en matière
-d'alcoolémie ;
+2° Les frais prévus au 9° de cet article, même non tarifés ;
 
-3. Frais de garde de scellés et de mise en fourrière ;
-
-4. Emoluments et indemnités alloués aux huissiers de justice ;
-
-5. Frais de capture ;
-
-6. Indemnités de transport et de séjour des magistrats et greffiers ;
-
-7. Frais de communication postale, télégraphique et de port des paquets ;
-
-8. Frais de consultation du registre national du commerce par le ministère
-public.
-
-La procédure de certification est également applicable aux dépenses de toute
-nature inférieures à un montant fixé par le ministre de la justice.
+3° Les frais énumérés à l'article R. 92 autres que ceux mentionnés aux 1° et 2°
+du présent article, qui sont inférieurs à un montant fixé par arrêté du ministre
+de la justice.

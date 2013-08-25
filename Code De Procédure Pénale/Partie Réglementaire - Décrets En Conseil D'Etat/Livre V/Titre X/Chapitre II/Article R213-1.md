@@ -1,6 +1,6 @@
 Article R213-1
 ----
-Les tarifs relatifs aux frais mentionnés au 23° de l'article R. 92 correspondant
+Les tarifs relatifs aux frais mentionnés au 9° de l'article R. 92 correspondant
 à la fourniture des données conservées en application du II de l'article L. 34-1
 du code des postes et des communications électroniques sont fixés par un arrêté
 du ministre de l'économie, des finances et de l'industrie et du garde des

@@ -1,9 +1,8 @@
 Article R97
 ----
-Les prévenus ou accusés peuvent être, en cas de nécessité, transférés par des
-véhicules de la gendarmerie ou de la police.
-
-Dans ce cas, une indemnité kilométrique, fixée chaque année par arrêté du garde
-des sceaux, ministre de la Justice, et du ministre chargé du Budget, est
-attribuée pour le trajet aller et retour parcouru. Son taux est uniforme quels
-que soient le type de véhicule utilisé et le nombre de personnes transportées.
+Lorsque la translation ou l'extraction est réalisée au moyen de véhicules de la
+police nationale ou de la gendarmerie nationale, une indemnité kilométrique,
+fixée chaque année par arrêté conjoint du ministre de la justice et du ministre
+chargé du budget, est attribuée au titre de chaque véhicule utilisé et du trajet
+aller et retour parcouru. Son taux est uniforme quels que soient le type de
+véhicule utilisé et le nombre de personnes transportées.

@@ -1,27 +1,13 @@
 Article R224-2
 ----
-La procédure de certification est applicable aux frais suivants énumérés à
-l'article R. 93 :
+Relèvent en outre de la procédure de certification prévue à l'article R. 225 :
 
-1. Indemnités accordées aux témoins ;
+1° Les frais énumérés à l'article R. 93 faisant l'objet d'une tarification fixée
+par une disposition réglementaire ;
 
-2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en
+2° La part contributive de l'Etat à la rétribution des auxiliaires de justice en
 matière d'aide juridictionnelle ;
 
-3. Indemnités de transport et de séjour des magistrats, des greffiers et des
-secrétaires des juridictions de l'ordre judiciaire ;
-
-4. Frais postaux des greffes des juridictions civiles nécessités par les actes
-et procédures ;
-
-5. Frais tarifés des actes faits par l'huissier de justice sur décision du
-président du tribunal de grande instance à la demande du ministère public, du
-maire, du commissaire de police ou du commandant de brigade de gendarmerie en
-matière de mesures conservatoires prises après l'ouverture d'une succession ;
-
-6° Honoraires et indemnités alloués en application de l'article R. 217-1 au
-médecin requis par le procureur de la République ou commis par le juge des
-tutelles pour établir le certificat ou l'avis médical ;
-
-7° Rémunération de la personne désignée par le juge pour entendre le mineur, en
-application de l'article 388-1 du code civil.
+3° Les frais assimilés aux frais de justice criminelle, correctionnelle et de
+police, autres que ceux mentionnés aux 1° et 2° du présent article, qui sont
+inférieurs à un montant fixé par arrêté du ministre de la justice.

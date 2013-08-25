@@ -10,3 +10,6 @@ acquit individuel ou sur celui de la personne qu'elles ont autorisée,
 spécialement et par écrit, à percevoir le montant de l'état ou mémoire. Cette
 autorisation est mise au bas de l'état et ne donne lieu à la perception d'aucun
 droit.
+
+Tout état dressé au titre du 9° de l'article R. 92 peut l'être sous forme
+dématérialisée.
