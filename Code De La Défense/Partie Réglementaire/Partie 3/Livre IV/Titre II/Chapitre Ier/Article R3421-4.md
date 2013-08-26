@@ -7,9 +7,8 @@ défense. La limite d'âge qui lui est applicable est fixée à soixante-dix ans
 Il est assisté par un vice-président, nommé par arrêté du ministre de la défense
 pour la même durée, parmi les membres du conseil d'administration.
 
-La durée du mandat des membres du conseil d'administration mentionnés aux 9°,
-10° et 11° de l'article R. 3421-3 est fixée à trois ans. Le mandat est
-renouvelable.
+La durée du mandat des membres du conseil d'administration mentionnés aux 4°, 5°
+et 6° de l'article R. 3421-3 est fixée à trois ans. Le mandat est renouvelable.
 
 En cas de vacance d'un siège pour quelque cause que ce soit, un remplaçant est
 désigné dans les mêmes conditions que le précédent titulaire pour la durée du
