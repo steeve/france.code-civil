@@ -32,7 +32,7 @@ l'industrie ;
 
 9° Transactions ;
 
-10° Créations et suppressions des comptoirs ;
+10° Créations et suppressions des missions de soutien ;
 
 11° Conditions générales de recrutement, d'emploi et de rémunération du
 personnel.
@@ -41,9 +41,13 @@ Le président peut soumettre toute autre question au conseil d'administration
 pour délibération ou avis.
 
 L'avis du conseil d'administration est demandé pour l'organisation générale de
-la direction générale de l'économat et des comptoirs.
+la direction générale de l'économat et des missions de soutien.
 
 Le conseil d'administration établit son règlement intérieur et fixe le siège
 social de l'établissement public. Tout membre du conseil peut se faire
 communiquer les documents internes et les informations nécessaires au bon
 exercice de son mandat, en respectant leur caractère confidentiel.
+
+Le conseil d'administration, sur la proposition de son président, peut décider
+la création de comités consultatifs dont il fixe la composition et les modalités
+de fonctionnement.
