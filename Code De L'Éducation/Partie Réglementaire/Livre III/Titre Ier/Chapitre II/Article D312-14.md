@@ -1,7 +1,8 @@
 Article D312-14
 ----
-Le secrétaire général du haut conseil est nommé par arrêté du ministre chargé de
-la culture et du ministre chargé de l'éducation pour une durée de trois ans. Les
-moyens du secrétariat général sont fournis conjointement par la délégation au
-développement et aux affaires internationales du ministère de la culture et par
-la direction de l'enseignement scolaire du ministère de l'éducation nationale.
+Le secrétariat du Haut Conseil de l'éducation artistique et culturelle est
+assuré par les ministères chargés de l'éducation nationale et de la culture.
+
+Les frais occasionnés par les déplacements des membres du conseil et des
+personnes qu'il appelle en consultation sont remboursés dans les conditions
+prévues par la réglementation applicable aux fonctionnaires de l'Etat.

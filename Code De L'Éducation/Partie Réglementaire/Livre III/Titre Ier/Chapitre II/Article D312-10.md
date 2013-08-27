@@ -1,8 +1,15 @@
 Article D312-10
 ----
 Les membres du Haut Conseil de l'éducation artistique et culturelle sont nommés
-par arrêté du ministre chargé de la culture et du ministre chargé de l'éducation
-pour une période de trois ans.
+pour trois ans par arrêté du ministre chargé de la culture et du ministre chargé
+de l'éducation.
 
-Un vice-président, choisi parmi les membres du haut conseil, est nommé selon les
-mêmes formes.
+Les membres mentionnés aux c, d, e et f du 1° de l'article D. 312-9 sont nommés
+sur proposition de chacun des ministres concernés.
+
+Les membres mentionnés au 2° de l'article D. 312-9 sont désignés par chacun des
+organismes concernés.
+
+Le ministre chargé de la culture et le ministre chargé de l'éducation nomment
+par arrêté un vice-président choisi parmi les membres du Haut Conseil de
+l'éducation artistique et culturelle.
