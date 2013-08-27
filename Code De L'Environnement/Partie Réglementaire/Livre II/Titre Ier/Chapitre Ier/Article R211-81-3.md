@@ -1,10 +1,13 @@
 Article R211-81-3
 ----
-I.-Le programme d'actions national est arrêté conjointement par les ministres
+I. - Le programme d'actions national est arrêté conjointement par les ministres
 chargés de l'agriculture et de l'environnement après consultation de l'Assemblée
-permanente des chambres d'agriculture et du Comité national de l'eau. Cet arrêté
-fixe notamment les délais de mise en œuvre des dispositions du programme
-d'actions national.
+permanente des chambres d'agriculture et du Comité national de l'eau, qui
+disposent chacun de deux mois pour faire connaître leur avis. A l'issue de ce
+délai, les avis sont réputés favorables.
+
+Cet arrêté fixe le contenu et les délais de mise en œuvre des mesures du
+programme d'actions national.
 
 II.-Les programmes d'actions régionaux sont arrêtés par les préfets de région
 après avoir consulté le conseil régional, la chambre régionale d'agriculture et
