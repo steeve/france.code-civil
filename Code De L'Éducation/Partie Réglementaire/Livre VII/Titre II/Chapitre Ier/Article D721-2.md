@@ -1,9 +1,10 @@
 Article D721-2
 ----
-Sont électeurs et éligibles dans les collèges mentionnés à l'article précédent,
-hormis pour l'institut universitaire de formation des maîtres de l'université de
-Corse : 1° Les enseignants-chercheurs et personnels assimilés qui assurent dans
-l'institut universitaire de formation des maîtres au moins un quart de leurs
-obligations de service de référence ; 2° Les autres enseignants, les autres
-formateurs qui assurent dans l'institut universitaire de formation des maîtres
-au moins cinquante heures annuelles d'enseignement.
+Le président du conseil de l'école est élu parmi les personnalités extérieures
+désignées par le recteur d'académie, au scrutin uninominal majoritaire à deux
+tours, à la majorité absolue des suffrages exprimés au premier tour, à la
+majorité relative au second tour. En cas d'égalité de voix à l'issue du second
+tour, le candidat le plus jeune est élu.
+
+En cas de partage égal des voix lors d'une séance du conseil de l'école, le
+président a voix prépondérante.
