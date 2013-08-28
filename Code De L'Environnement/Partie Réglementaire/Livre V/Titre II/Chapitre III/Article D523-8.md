@@ -11,3 +11,7 @@ code de la santé publique et les médicaments vétérinaires mentionnés à l'a
 L. 5141-1 du code de la santé publique.
 
 Annexes I et II à l'article D. 523-8 figurent en fin de titre.
+
+La périodicité des inspections des installations d'essais effectuées par le
+groupe interministériel des produits chimiques ne peut excéder vingt-quatre
+mois.

@@ -186,7 +186,6 @@ d'inspections d'installations d'essais et de vérifications d'études. Elle trai
 principalement des inspections d'installations d'essais, auxquelles se
 consacrent en grande partie les inspecteurs chargés de vérifier la conformité
 aux BPL. Les inspections d'installations d'essais comportent le plus souvent une
-
 vérification d'étude ou " examen " ; ces vérifications d'études devront aussi
 être menées de temps à autre, à la demande, par exemple, d'une autorité
 réglementaire. On trouvera à la fin de la présente annexe des indications
@@ -198,10 +197,7 @@ vérifier l'intégrité des données pour s'assurer que les résultats obtenus s
 d'une qualité suffisante pour que les autorités nationales réglementaires
 puissent procéder à une évaluation et prendre des décisions. Les inspections
 donnent lieu à l'établissement de rapports qui décrivent le degré de conformité
-des installations d'essais aux principes de BPL. Les installations d'essais
-doivent être inspectées de façon régulière sur une base routinière de 15 mois
-afin que l'on puisse constituer et tenir à jour des dossiers sur le respect des
-BPL par des installations d'essais.
+des installations d'essais aux principes de BPL.
 
 De plus amples précisions sur la plupart des points soulevés dans la présente
 partie de l'annexe peuvent être obtenues en se référant aux documents consensus
