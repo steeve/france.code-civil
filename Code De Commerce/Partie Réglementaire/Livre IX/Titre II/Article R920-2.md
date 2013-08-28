@@ -7,8 +7,8 @@ Pour l'application du présent code dans le Département de Mayotte, les termes
 
 9° " préfet " ou " sous-préfet " par " représentant de l'Etat à Mayotte " ;
 
-10° " chambre de commerce et d'industrie " par " chambre de commerce et
-d'industrie de Mayotte " ;
+10° "chambre de commerce et d'industrie territoriale" par "chambre de commerce
+et d'industrie de Mayotte" ;
 
 11° " chambre d'agriculture " par " chambre d'agriculture, de la pêche, et de
 l'aquaculture de Mayotte " ;
