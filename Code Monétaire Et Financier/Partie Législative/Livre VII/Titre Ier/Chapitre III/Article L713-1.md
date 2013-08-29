@@ -10,10 +10,11 @@ personne qui donne l'ordre d'effectuer un virement de fonds ;
 2° " Bénéficiaire ” : la personne qui est le destinataire final prévu des fonds
 virés ;
 
-3° " Prestataire de services de paiement ” : les établissements régis par le
-titre Ier et les chapitres Ier à III , V et VI du titre II du livre V ainsi que
-les offices des postes et télécommunications en Nouvelle-Calédonie et en
-Polynésie française, lorsqu'ils effectuent des virements de fonds :
+3° " Prestataire de services de paiement ” : les établissements autres que les
+sociétés de financement régis par le titre Ier et les chapitres Ier à III, V et
+VI du titre II du livre V ainsi que les offices des postes et télécommunications
+en Nouvelle-Calédonie et en Polynésie française, lorsqu'ils effectuent des
+virements de fonds :
 
 a) Le prestataire de services de paiement du donneur d'ordre est le prestataire
 de services de paiement qui reçoit d'un donneur d'ordre instruction de procéder

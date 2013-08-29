@@ -1,12 +1,19 @@
 Article L712-5
 ----
-En Nouvelle-Calédonie, en Polynésie française et dans le territoire des îles
-Wallis-et-Futuna, l'institut d'émission d'outre-mer assure, en liaison avec la
-Banque de France, la centralisation des incidents de paiement et des
-informations permettant d'identifier l'ensemble des comptes détenus par les
-personnes mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article
-L. 163-6. Il garantit également le respect des dispositions de l'article L.
-221-38.
+En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna,
+l'Institut d'émission d'outre-mer assure la centralisation des informations
+permettant d'identifier l'ensemble des comptes détenus par les personnes
+physiques et morales mentionnées à l'article L. 131-72 et au deuxième alinéa de
+l'article L. 163-6, sur lesquels peuvent être tirés des chèques.
+
+L'information des établissements et des personnes habilités à tenir des comptes
+sur lesquels peuvent être tirés des chèques, mentionnée au premier alinéa de
+l'article L. 131-85, situés en Nouvelle-Calédonie, en Polynésie française et
+dans les îles Wallis et Futuna, est assurée par l'Institut d'émission
+d'outre-mer.
+
+L'Institut d'émission d'outre-mer garantit également le respect des dispositions
+de l'article L. 221-38.
 
 L'institut d'émission d'outre-mer s'assure, en liaison avec la Banque de France,
 de la sécurité des moyens de paiement tels que définis à l'article L. 311-3,
