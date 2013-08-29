@@ -7,8 +7,9 @@ dans le cadre des activités définies au II de l'article L. 314-1.
 II.-A l'exception de celles du I de l'article L. 133-14, les dispositions du
 présent chapitre s'appliquent si le prestataire de services de paiement du
 bénéficiaire et celui du payeur sont situés sur le territoire de la France
-métropolitaine, dans les départements d'outre-mer, à Saint-Martin, à Mayotte ou
-à Saint-Pierre-et-Miquelon et que l'opération est réalisée en euros.
+métropolitaine, dans les départements d'outre-mer, à Saint-Martin, à
+Saint-Barthélemy, à Mayotte ou à Saint-Pierre-et-Miquelon et que l'opération est
+réalisée en euros.
 
 A l'exception de celles du I de l'article L. 133-14, les dispositions du présent
 chapitre s'appliquent également si le prestataire de services de paiement du

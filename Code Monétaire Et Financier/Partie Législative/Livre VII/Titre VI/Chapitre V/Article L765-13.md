@@ -1,7 +1,8 @@
 Article L765-13
 ----
-I.-Le titre VI du livre V ainsi que les articles L. 574-1 à L. 574-4 sont
-applicables dans les îles Wallis et Futuna dans les conditions prévues au II.
+I.-Le titre VI du livre V, à l'exception du VI de l'article L. 561-3, ainsi que
+les articles L. 574-1 à L. 574-4 sont applicables dans les îles Wallis et Futuna
+dans les conditions prévues au II.
 
 II.-1° Aux articles L. 561-2 et L. 561-20, les références aux codes des
 assurances, de la mutualité et de la sécurité sociale sont remplacées par des

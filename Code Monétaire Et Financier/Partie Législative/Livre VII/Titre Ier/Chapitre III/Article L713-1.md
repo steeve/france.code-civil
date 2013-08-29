@@ -11,9 +11,9 @@ personne qui donne l'ordre d'effectuer un virement de fonds ;
 virés ;
 
 3° " Prestataire de services de paiement ” : les établissements régis par le
-titre Ier et les chapitres Ier à III du titre II du livre V ainsi que les
-offices des postes et télécommunications en Nouvelle-Calédonie et en Polynésie
-française, lorsqu'ils effectuent des virements de fonds :
+titre Ier et les chapitres Ier à III , V et VI du titre II du livre V ainsi que
+les offices des postes et télécommunications en Nouvelle-Calédonie et en
+Polynésie française, lorsqu'ils effectuent des virements de fonds :
 
 a) Le prestataire de services de paiement du donneur d'ordre est le prestataire
 de services de paiement qui reçoit d'un donneur d'ordre instruction de procéder

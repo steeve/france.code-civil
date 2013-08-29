@@ -1,8 +1,8 @@
 Article L755-13
 ----
 I.-Pour l'application en Polynésie française des dispositions du titre VI du
-livre V relatives à la lutte contre le blanchiment de capitaux et le financement
-du terrorisme :
+livre V, à l'exception du VI de l'article L. 561-3, relatives à la lutte contre
+le blanchiment de capitaux et le financement du terrorisme :
 
 1° Aux articles L. 561-2 et L. 561-20, les références aux codes des assurances,
 de la mutualité et de la sécurité sociale sont remplacées par des références à

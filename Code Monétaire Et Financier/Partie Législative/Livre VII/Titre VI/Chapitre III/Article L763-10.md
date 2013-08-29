@@ -21,5 +21,5 @@ II.-La fourniture de services financiers à distance est régie par les
 dispositions du chapitre III du titre II du livre Ier du code de la
 consommation.
 
-III.-Les articles L. 353-1 à L. 353-4 sont également applicables dans les îles
-Wallis et Futuna.
+III.-Le deuxième alinéa de l'article L. 351-1 ainsi que les articles L. 353-1 à
+L. 353-4 sont également applicables dans les îles Wallis et Futuna.
