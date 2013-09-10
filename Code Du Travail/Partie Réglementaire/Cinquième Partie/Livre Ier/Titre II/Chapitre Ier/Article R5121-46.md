@@ -27,7 +27,10 @@ contrat de travail par un autre salarié âgé dans les conditions prévues au 2
 I de l'article L. 5121-17.
 
 L'aide est interrompue dans sa totalité en cas de départ du chef d'entreprise
-mentionné à l'article L. 5121-18.
+mentionné à l'article L. 5121-18 dans les six mois suivant le premier jour
+d'exécution du contrat de travail à durée indéterminée du jeune recruté dans les
+conditions prévues au 1° du I de l'article L. 5121-17. Lorsque le départ du chef
+d'entreprise intervient au-delà de ce délai de six mois, l'aide est maintenue.
 
 En cas de licenciement de l'un des salariés âgés mentionnés au IV de l'article
 L. 5121-17 pour une cause autre que la faute grave ou lourde ou l'inaptitude,
