@@ -78,12 +78,12 @@ Station de transit de produits minéraux pulvérulents non ensachés tels que
 ciments, plâtres, chaux, sables fillérisés ou de déchets non dangereux inertes
 pulvérulents, la capacité de transit étant :
 
-1. supérieure à 25 000 m ³
+1. supérieure à 25 000 m³
 
 
 E
 
-2. Supérieure à 5 000 m ³ mais inférieure ou égale à 25 000 m ³.
+2. Supérieure à 5 000 m³ mais inférieure ou égale à 25 000 m³.
 
 
 D
@@ -106,7 +106,7 @@ A
 
 E
 
-3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m²
+3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m².
 
 
 D
@@ -169,7 +169,7 @@ A
 
 1
 
-b) supérieure à 100 t/ j, mais inférieure ou égale à 1 500 t/j
+b) supérieure à 100 t/j, mais inférieure ou égale à 1 500 t/j
 
 
 D
@@ -201,7 +201,7 @@ A
 
 2
 
-La capacité de production étant supérieure à 20 t/j
+La capacité de production étant supérieure à 20 t/ j
 
 1
 
@@ -250,7 +250,7 @@ A
 
 3
 
-b) supérieure à 500 kg/ j, mais inférieure ou égale à 5 t/j
+b) supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
 
 
 D
@@ -383,7 +383,7 @@ a) supérieure à 500 t/j
 
 10
 
-b) supérieure à 100 t/j mais inférieure ou égale à 500 t/ j
+b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 
 4
 
@@ -591,7 +591,7 @@ plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à
 l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la
 rubrique 2564.
 
-1. Lorsqu'il y a mise en œuvre de cadmium
+1. Lorsqu'il y a mise en oeuvre de cadmium
 
 
 A
@@ -602,7 +602,7 @@ A
 
 4
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à
+2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à
 l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 2. Le volume des cuves de traitement étant :
@@ -775,14 +775,14 @@ plantes aromatiques
 
 La capacité totale des vases d'extraction destinés à la distillation étant :
 
-1. Supérieure à 50 m ³
+1. Supérieure à 50 m³
 
 
 A
 
 1
 
-2. Supérieure ou égale à 6 m ³, mais inférieure ou égale à 50 m ³
+2. Supérieure ou égale à 6 m³, mais inférieure ou égale à 50 m³
 
 2640
 
@@ -790,7 +790,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication
 industrielle, emploi de) :
 
 1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la
-mise en oeuvre dans un procédé d'une autre installation
+mise en œuvre dans un procédé d'une autre installation
 
 
 A
@@ -894,19 +894,19 @@ synthétiques) (stockage de).
 
 Le volume susceptible d'être stocké étant :
 
-1. Supérieur ou égal à 40 000 m ³ ;
+1. Supérieur ou égal à 40 000 m³ ;
 
 
 A
 
 2
 
-2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ;
+2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
 
 
 E
 
-3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
+3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 
 D
@@ -920,19 +920,19 @@ adhésifs synthétiques) (stockage de) :
 1. A l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthane, de
 polystyrène, etc., le volume susceptible d'être stocké étant :
 
-a) Supérieur ou égal à 45 000 m ³ ;
+a) Supérieur ou égal à 45 000 m³ ;
 
 
 A
 
 2
 
-b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ;
+b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
 
 
 E
 
-c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
+c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
 
 
 D
@@ -940,19 +940,19 @@ D
 2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être
 stocké étant :
 
-a) Supérieur ou égal à 80 000 m ³ ;
+a) Supérieur ou égal à 80 000 m³ ;
 
 
 A
 
 2
 
-b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ;
+b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
 
 
 E
 
-c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
+c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
 
 
 D
@@ -1068,19 +1068,19 @@ DC
 
 Le volume de déchets susceptibles d'être présents dans l'installation étant :
 
-a) Supérieur ou égal à 600 m ³
+a) Supérieur ou égal à 600 m³
 
 
 A
 
 1
 
-b) Supérieur ou égal à 300 m ³ et inférieur à 600 m ³
+b) Supérieur ou égal à 300 m³ et inférieur à 600 m³
 
 
 E
 
-c) Supérieur ou égal à 100 m ³ et inférieur à 300 m ³
+c) Supérieur ou égal à 100 m³ et inférieur à 300 m³
 
 
 DC
@@ -1092,14 +1092,14 @@ Installations de transit, regroupement ou tri de déchets d'équipements
 
 Le volume susceptible d'être entreposé étant :
 
-1. Supérieur ou égal à 1 000 m ³
+1. Supérieur ou égal à 1 000 m³
 
 
 A
 
 1
 
-2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³
+2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³
 
 
 DC
@@ -1156,19 +1156,19 @@ D
 2714
 
 Installation de transit, regroupement ou tri de déchets non dangereux de
-papiers/ cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des
+papiers/cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des
 activités visées aux rubriques 2710 et 2711.
 
 Le volume susceptible d'être présent dans l'installation étant :
 
-1. Supérieur ou égal à 1 000 m ³ ;
+1. Supérieur ou égal à 1 000 m³ ;
 
 
 A
 
 1
 
-2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
+2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 
 D
@@ -1177,7 +1177,7 @@ D
 
 Installation de transit, regroupement ou tri de déchets non dangereux de verre à
 l'exclusion des installations visées à la rubrique 2710, le volume susceptible
-d'être présent dans l'installation étant supérieur ou égal à 250 m ³.
+d'être présent dans l'installation étant supérieur ou égal à 250 m³.
 
 
 D
@@ -1185,19 +1185,19 @@ D
 2716
 
 Installation de transit, regroupement ou tri de déchets non dangereux non
-inertes à l'exclusion des installations visées aux rubriques
-2710,2711,2712,2713,2714,2715 et 2719.
+inertes à l'exclusion des installations visées aux rubriques 2710, 2711, 2712,
+2713, 2714, 2715 et 2719.
 
 Le volume susceptible d'être présent dans l'installation étant :
 
-1. Supérieur ou égal à 1 000 m ³ ;
+1. Supérieur ou égal à 1 000 m³ ;
 
 
 A
 
 1
 
-2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
+2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 
 DC
@@ -1207,7 +1207,7 @@ DC
 Installation de transit, regroupement ou tri de déchets contenant des substances
 dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
 code de l'environnement, à l'exclusion des installations visées aux rubriques
-1313, 2710, 2711, 2712 et 2719.
+2710, 2711, 2712, 2719 et 2793.
 
 La quantité susceptible d'être présente étant :
 
@@ -1222,7 +1222,7 @@ La quantité susceptible d'être présente étant :
 1. La quantité des substances dangereuses ou préparations dangereuses
 susceptible d'être présente dans l'installation étant supérieure ou égale aux
 seuils AS des rubriques d'emploi ou de stockage de ces substances ou
-préparations.
+préparations
 
 
 AS
@@ -1231,8 +1231,8 @@ AS
 
 2. La quantité des substances dangereuses ou préparations dangereuses
 susceptible d'être présente dans l'installation étant inférieure aux seuils AS
-et supérieures ou égales aux seuils A des rubriques d'emploi ou de stockage de
-ces substances ou préparations.
+et supérieure ou égale aux seuils A des rubriques d'emploi ou de stockage de ces
+substances ou préparations
 
 
 A
@@ -1244,7 +1244,7 @@ A
 Installation de transit, regroupement ou tri de déchets dangereux ou de déchets
 contenant les substances dangereuses ou préparations dangereuses mentionnées à
 l'article R. 511-10 du code de l'environnement, à l'exclusion des installations
-visées aux rubriques 1313, 2710, 2711, 2712, 2717 et 2719.
+visées aux rubriques 2710, 2711, 2712, 2717, 2719 et 2793.
 
 La quantité de déchets susceptible d'être présente dans l'installation étant :
 
@@ -1279,7 +1279,7 @@ b) Supérieure ou égale à 1 t et inférieure à 50 t
 
 Installation temporaire de transit de déchets issus de pollutions accidentelles
 marines ou fluviales ou de déchets issus de catastrophes naturelles, le volume
-susceptible d'être présent dans l'installation étant supérieur à 100 m ³.
+susceptible d'être présent dans l'installation étant supérieur à 100 m³.
 
 
 D
@@ -1334,8 +1334,8 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 Sous-produits d'origine animale, y compris débris, issues et cadavres (dépôt
 de), à l'exclusion des dépôts de peaux, des établissements de diagnostic, de
 recherche et d'enseignement et des dépôts annexés et directement liés aux
-installations dont les activités sont classées sous les rubriques 2101 à
-2150,2170,2210,2221,2230,2240 et 2690 de la présente nomenclature :
+installations dont les activités sont classées sous les rubriques 2101 à 2150,
+2170, 2210, 2221, 2230, 2240 et 2690 de la présente nomenclature :
 
 La quantité susceptible d'être présente dans l'installation étant supérieure à
 500 kg
@@ -1427,15 +1427,16 @@ totale de l'installation étant inférieure à 25 000 t
 
 Installation de traitement thermique de déchets dangereux ou de déchets
 contenant des substances dangereuses ou préparations dangereuses mentionnées à
-l'article R. 511-10 du code de l'environnement.
+l'article R. 511-10 du code de l'environnement à l'exclusion des installations
+visées à la rubrique 2793.
 
 1. Les déchets destinés à être traités contenant des substances dangereuses ou
 préparations dangereuses mentionnées à l'article R. 511-10 du code de
-l'environnement :
+l'environnement.
 
 a) La quantité de substances dangereuses ou préparations dangereuses susceptible
 d'être présente dans l'installation étant supérieure ou égale aux seuils AS des
-rubriques d'emploi ou de stockage de ces substances ou préparations ;
+rubriques d'emploi ou de stockage de ces substances ou préparations
 
 
 AS
@@ -1456,9 +1457,8 @@ A
 6
 
 2. Les déchets destinés à être traités ne contenant pas les substances
-dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
-code de l'environnement quelle que soit la quantité de déchets destinés à être
-traités.
+dangereuses ou préparations dangereuses mentionnés à l'article R. 511-10 du code
+de l'environnement
 
 
 A
@@ -1478,11 +1478,11 @@ A
 
 La capacité de traitement étant :
 
-1. Supérieure ou égale à 3 t/ h
+1. Supérieure ou égale à 3 t/h
 
 6
 
-2. Inférieure à 3 t/ h
+2. Inférieure à 3 t/h
 
 3
 
@@ -1604,15 +1604,15 @@ A
 Installation de traitement de déchets dangereux ou de déchets contenant des
 substances dangereuses ou préparations dangereuses mentionnées à l'article R.
 511-10 du code de l'environnement, à l'exclusion des installations visées aux
-rubriques 1313, 2720, 2760 et 2770.
+rubriques 2720, 2760, 2770 et 2793.
 
 1. Les déchets destinés à être traités contenant des substances dangereuses ou
 préparations dangereuses mentionnées à l'article R. 511-10 du code de
-l'environnement :
+l'environnement.
 
 a) La quantité de substances dangereuses ou préparations dangereuses susceptible
 d'être présente dans l'installation étant supérieure ou égale aux seuils AS des
-rubriques d'emploi ou de stockage de ces substances ou préparations ;
+rubriques d'emploi ou de stockage de ces substances ou préparations
 
 
 AS
@@ -1634,8 +1634,7 @@ A
 
 2. Les déchets destinés à être traités ne contenant pas les substances
 dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
-code de l'environnement, quelle que soit la quantité de déchets destinés à être
-traités.
+code de l'environnement
 
 
 A
@@ -1647,7 +1646,7 @@ A
 2791
 
 Installation de traitement de déchets non dangereux à l'exclusion des
-installations visées aux rubriques 2720,2760,2771,2780,2781 et 2782.
+installations visées aux rubriques 2720, 2760, 2771, 2780, 2781 et 2782.
 
 La quantité de déchets traités étant :
 
@@ -1677,6 +1676,109 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 
 -
 
+2793
+
+Installation de collecte, transit, regroupement, tri ou autre traitement de
+déchets de produits explosifs (*) (hors des lieux de découverte).
+
+1. Installation de collecte de déchets de produits explosifs (*) apportés par le
+producteur initial de ces déchets.
+
+La quantité équivalente totale de matière active (**) susceptible d'être
+présente dans l'installation étant :
+
+a) Supérieure à 10 t
+
+
+AS
+
+6
+
+b) Supérieure à 100 kg mais inférieure ou égale à 10 t
+
+
+A
+
+3
+
+c) Supérieure à 30 kg mais inférieure ou égale à 100 kg lorsque seuls des
+déchets relevant des divisions de risque 1.3 et 1.4 sont stockés dans
+l'installation
+
+
+DC
+
+d) Inférieure ou égale à 100 kg dans les autres cas
+
+
+DC
+
+2. Installation de transit, regroupement ou tri de déchets de produits
+explosifs.
+
+La quantité équivalente totale de matière active (**) susceptible d'être
+présente dans l'installation étant :
+
+a) Supérieure à 10 t
+
+
+AS
+
+6
+
+b) Supérieure à 100 kg mais inférieure ou égale à 10 t
+
+
+A
+
+3
+
+c) Inférieure ou égale à 100 kg
+
+
+DC
+
+3. Autre installation de traitement de déchets de produits explosifs (*)
+(mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2).
+
+La quantité équivalente totale de matière active (**) susceptible d'être
+présente dans l'installation étant :
+
+a) Supérieure à 10 t
+
+
+AS
+
+6
+
+b) Inférieure ou égale à 10 t
+
+
+A
+
+3
+
+Nota. - (*) Les produits explosifs sont définis comme appartenant à la classe 1
+des recommandations des Nations unies relatives au transport des marchandises
+dangereuses, et destinés à être utilisés pour les effets de leur explosion ou
+leurs effets pyrotechniques. Ils sont classés en divisions de risque et en
+groupes de compatibilité par arrêté ministériel.
+
+(**) La quantité équivalente totale de matière active est établie selon la
+formule :
+
+Quantité équivalente totale = A + B + C/3+ D/5 + E + F
+
+A représentant la quantité relative aux déchets classés en division de risque
+1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions
+réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la
+procédure d'acceptation en classe 1.
+
+B, C, D, E, F représentant respectivement les quantités relatives aux déchets
+classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en
+emballages fermés conformes aux dispositions réglementaires en matière de
+transport.
+
 2795
 
 Installation de lavage de fûts, conteneurs et citernes de transport de matières
@@ -1685,14 +1787,14 @@ nomenclature des installations classées ou de déchets dangereux
 
 La quantité d'eau mise en œuvre étant :
 
-1. Supérieure ou égale à 20 m ³/j ;
+1. Supérieure ou égale à 20 m³/j ;
 
 
 A
 
 1
 
-2. Inférieure à 20 m ³/j.
+2. Inférieure à 20 m³/j.
 
 
 DC
@@ -1700,15 +1802,18 @@ DC
 2910
 
 Combustion à l'exclusion des installations visées par les rubriques 2770 et
-2271.
+2771.
 
-A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz
+A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz
 naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des
-fiouls lourds ou de la biomasse, à l'exclusion des installations visées par
-d'autres rubriques de la nomenclature pour lesquelles la combustion participe à
-la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion,
-des matières entrantes, si la puissance thermique maximale de l'installation est
-:
+fiouls lourds, de la biomasse telle que définie au a ou au b (i) ou au b (iv) de
+la définition de biomasse, des produits connexes de scierie issus du b (v) de la
+définition de biomasse ou lorsque la biomasse est issue de déchets au sens de
+l'article L. 541-4-3 du code de l'environnement, à l'exclusion des installations
+visées par d'autres rubriques de la nomenclature pour lesquelles la combustion
+participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de
+combustion, des matières entrantes, si la puissance thermique nominale de
+l'installation est :
 
 A. La puissance thermique maximale de l'installation (quantité maximale de
 combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
@@ -1737,35 +1842,55 @@ supérieure ou égale à 20 MW, mais inférieure à 50 MW
 
 DC
 
-B.-Lorsque les produits consommés seuls ou en mélange sont différents de ceux
-visés en A et C et si la puissance thermique maximale de l'installation est
-supérieure à 0,1 MW
+B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux
+visés en A et C ou sont de la biomasse telle que définie au b (ii) ou au b (iii)
+ou au b (v) de la définition de biomasse, et si la puissance thermique nominale
+de l'installation est :
+
+B. La puissance thermique maximale de l'installation (quantité maximale de
+combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
+
+1. Supérieure ou égale à 20 MW
 
 
 A
 
 3
 
-B. La puissance thermique maximale de l'installation (quantité maximale de
-combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
-
 a) supérieure à 1 000 MW
 
 10
+
+2. Supérieure à 0,1 MW mais inférieure à 20 MW :
 
 b) supérieure ou égale à 50 MW mais inférieure à 1 000 MW
 
 4
 
+a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) ou
+au b (v) de la définition de biomasse, ou de biogaz autre que celui visé en
+2910-C, ou de produit autre que biomasse issu de déchets au sens de l'article L.
+541-4-3 du code de l'environnement
+
+
+E
+
 c) supérieure ou égale à 4 MW mais inférieure à 50 MW
 
 1
 
-C.-Lorsque l'installation consomme exclusivement du biogaz provenant
-d'installation classée sous la rubrique 2781-1 et si la puissance thermique
-maximale de l'installation est supérieure à 0,1 MW :
+b) Dans les autres cas
 
-1. Lorsque le biogaz est produit par une installation soumise à autorisation, ou
+
+A
+
+3
+
+C. Lorsque l'installation consomme exclusivement du biogaz provenant
+d'installation classée sous la rubrique 2781-1 et si la puissance thermique
+nominale de l'installation est supérieure à 0,1 MW :
+
+1. Lorsque le biogaz est produit par une installation soumise à autorisation ou
 par plusieurs installations classées au titre de la rubrique 2781-1
 
 
@@ -1785,14 +1910,34 @@ déclaration au titre de la rubrique 2781-1
 
 DC
 
-Nota : La puissance thermique maximale est définie comme la quantité maximale de
-combustible, exprimée en PCI, susceptible d'être consommée par seconde.
+La puissance thermique nominale correspond à la puissance thermique fixée et
+garantie par le constructeur exprimée en pouvoir calorifique inférieur et
+susceptible d'être consommée en marche continue.
 
-La biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et
-n'est ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le bois
-sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de
-poussières de ponçage ou de chutes issues de l'industrie du bois, de sa
-transformation ou de son artisanat.
+On entend par "biomasse", au sens de la rubrique 2910 :
+
+a) Les produits composés d'une matière végétale agricole ou forestière
+susceptible d'être employée comme combustible en vue d'utiliser son contenu
+énergétique ;
+
+b) Les déchets ci-après :
+
+i) Déchets végétaux agricoles et forestiers ;
+
+ii) Déchets végétaux provenant du secteur industriel de la transformation
+alimentaire, si la chaleur produite est valorisée ;
+
+iii) Déchets végétaux fibreux issus de la production de pâte vierge et de la
+production de papier à partir de pâte, s'ils sont co-incinérés sur le lieu de
+production et si la chaleur produite est valorisée ;
+
+iv) Déchets de liège ;
+
+v) Déchets de bois, à l'exception des déchets de bois qui sont susceptibles de
+contenir des composés organiques halogénés ou des métaux lourds à la suite d'un
+traitement avec des conservateurs du bois ou du placement d'un revêtement, y
+compris notamment les déchets de bois de ce type provenant de déchets de
+construction ou de démolition.
 
 2915
 
@@ -1989,9 +2134,9 @@ DC
 
 2. Lorsque l'application est faite par tout procédé autre que le "trempé"
 (pulvérisation, enduction). Si la quantité maximale de produits susceptible
-d'être mise en œuvre est :
+d'être mise en oeuvre est :
 
-2. La quantité maximale de produits susceptible d'être mise en œuvre est :
+2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 a) supérieure à 100 kg/j
 
@@ -2037,7 +2182,7 @@ b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j
 
 DC
 
-Nota.-Le régime de classement est déterminé par rapport à la quantité de
+Nota. - Le régime de classement est déterminé par rapport à la quantité de
 produits mise en oeuvre dans l'installation en tenant compte des coefficients
 ci-après. Les quantités de produits à base de liquides inflammables de 1re
 catégorie (point éclair inférieur à 55 o C) ou de liquides halogénés, dénommées
@@ -2538,9 +2683,9 @@ aux rubriques 3510 et 3520
 - reconditionnement avant de soumettre les déchets à l'une des autres activités
 énumérées aux rubriques 3510 et 3520
 
-- récupération/régénération des solvants
+- récupération/ régénération des solvants
 
-- recyclage/récupération de matières inorganiques autres que des métaux ou des
+- recyclage/ récupération de matières inorganiques autres que des métaux ou des
 composés métalliques
 
 - régénération d'acides ou de bases
@@ -2638,7 +2783,7 @@ A
 3550
 
 Stockage temporaire de déchets dangereux ne relevant pas de la rubrique 3540,
-dans l'attente d'une des activités énumérées aux rubriques 3510,3520,3540 ou
+dans l'attente d'une des activités énumérées aux rubriques 3510, 3520, 3540 ou
 3560 avec une capacité totale supérieure à 50 tonnes, à l'exclusion du stockage
 temporaire sur le site où les déchets sont produits, dans l'attente de la
 collecte
@@ -2759,7 +2904,7 @@ quantité entrant dans le calcul de la capacité de production de produits finis
 
 Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
 
-Nota 2. - La présente rubrique ne s'applique pas si la matière première est
+Nota 2.-La présente rubrique ne s'applique pas si la matière première est
 seulement du lait.
 
 3643

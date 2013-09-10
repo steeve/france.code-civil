@@ -57,7 +57,7 @@ Nitrate d'ammonium (stockage de).
 1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels
 la teneur en azote due au nitrate d'ammonium est :
 
--comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
+- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
 substances combustibles ;
 
 -supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
@@ -97,9 +97,9 @@ DC
 2. Solutions chaudes de nitrates d'ammonium dont la concentration en nitrate
 d'ammonium est supérieure à 80 % en poids.
 
-2. La quantité totale susceptible d'être présente dans l'installation étant :
-
 La quantité totale susceptible d'être présente dans l'installation étant :
+
+2. La quantité totale susceptible d'être présente dans l'installation étant :
 
 a) Supérieure ou égale à 2 500 t
 
@@ -223,13 +223,13 @@ azotés non à base de nitrates (ex : urée) ne sont pas comptabilisés.
 de l'azote nitrique dans les documents commerciaux.
 
 (*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3
-(méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n°
+(méthode 1, point 3) et la section 4 de l'annexe III du règlement européen no
 2003/2003.
 
 (**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à
 base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate
 d'ammonium est comprise entre 24,5 % et 28 % et les matières inertes ajoutées
-sont du type dolomie, calcaire et/ ou carbonate de calcium dont la pureté est
+sont du type dolomie, calcaire et/ou carbonate de calcium dont la pureté est
 d'au moins 90 %.
 
 1332
@@ -245,7 +245,7 @@ règlement européen n° 2003/2003 ou à la norme française équivalente NF U 4
 
 Cette rubrique s'applique :
 
--aux matières rejetées ou écartées au cours du processus de fabrication, au
+- aux matières rejetées ou écartées au cours du processus de fabrication, au
 nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais
 simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate
 d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant,
@@ -254,11 +254,11 @@ subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir êtr
 utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des
 rubriques 1330 et 1331-II ;
 
--aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
+- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
 azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux
 exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
 
--aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne
+- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne
 satisfont pas aux exigences de l'annexe III-2 (**).
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -974,7 +974,7 @@ A
 
 E
 
-3. Supérieur à 100 m³ mais inférieur ou égal à 3 500 m³.
+3. Supérieur à 100 m ³ mais inférieur ou égal à 3 500 m ³.
 
 
 DC
@@ -1252,19 +1252,26 @@ D
 
 1532
 
-Bois sec ou matériaux combustibles analogues, y compris les produits finis
-conditionnés (dépôt de), à l'exception des établissements recevant du public.
+Bois ou matériaux combustibles analogues y compris les produits finis
+conditionnés et les produits ou déchets répondant à la définition de la biomasse
+et visés par la rubrique 2910-A, ne relevant pas de la rubrique 1531 (stockage
+de), à l'exception des établissements recevant du public.
 
 Le volume susceptible d'être stocké étant :
 
-1. Supérieur à 20 000 m³ ;
+1. Supérieur à 50 000 m³
 
 
 A
 
 1
 
-2. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
+2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³
+
+
+E
+
+3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³
 
 
 D

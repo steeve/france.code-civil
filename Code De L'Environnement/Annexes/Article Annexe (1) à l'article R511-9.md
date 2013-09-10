@@ -1231,10 +1231,9 @@ N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxy
 de bis(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,3-propanesultone,
 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure,
 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle,
-1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, hydrazine.
-
-La quantité totale de l'une de ces substances et mélanges en contenant
-susceptible d'être présente dans l'installation étant :
+1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, hydrazine. La quantité
+totale de l'une de ces substances et mélanges en contenant susceptible d'être
+présente dans l'installation étant :
 
 1. La quantité totale de l'un de ces produits (à des concentrations en poids
 supérieures à 5 %) susceptible d'être présente dans l'installation étant :
@@ -2059,8 +2058,10 @@ D
 
 Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que
 définis à la rubrique 1000 à l'exclusion des substances visées nominativement ou
-par famille par d'autres rubriques : 1. Fabrication. La quantité totale
-susceptible d'être présente dans l'installation étant :
+par famille par d'autres rubriques :
+
+1. Fabrication. La quantité totale susceptible d'être présente dans
+l'installation étant :
 
 1. La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -2548,9 +2549,7 @@ b) Inférieure à 100 kg dans les autres cas
 
 DC
 
-Nota :
-
-(1) Les produits explosifs appartiennent à la classe 1 des marchandises
+Nota : (1) Les produits explosifs appartiennent à la classe 1 des marchandises
 dangereuses et sont classés en divisions de risque et en groupes de
 compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les
 règles relatives à l'évaluation des risques et à la prévention des accidents
@@ -2576,39 +2575,6 @@ La quantité unitaire étant supérieure à 10 g
 A
 
 3
-
-1313
-
-Produits explosifs (tri ou destruction de matières, objets et munitions et
-engins hors des lieux de découverte)
-
-La quantité totale de matière active susceptible d'être présente dans
-l'installation étant :
-
-La quantité totale de matière active autre que les cartouches de chasse et de
-tir, susceptible d'être présente dans l'installation étant :
-
-a) supérieure à 10 t
-
-
-AS
-
-6
-
-a) supérieure à 10 t
-
-10
-
-b) inférieure ou égale à 10 t
-
-
-A
-
-3
-
-b) inférieure ou égale à 10 t
-
-6
 
 1320
 

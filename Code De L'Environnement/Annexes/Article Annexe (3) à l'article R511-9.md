@@ -168,7 +168,7 @@ l'annexe 13-7 de la première partie du code de la santé publique.
 Règles de classement :
 
 1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au
-titre de la présente nomenclature dès lors qu'elles sont mises en oeuvre dans un
+titre de la présente nomenclature dès lors qu'elles sont mises en œuvre dans un
 établissement industriel ou commercial, dont une installation au moins est
 soumise à autorisation au titre d'une autre rubrique de la nomenclature.
 
@@ -457,60 +457,75 @@ A
 
 D
 
-2111 (1)
+2111
 
-Volailles, gibier à plumes (activité d'élevage, vente, etc. de) à l'exclusion
-d'activités spécifiques visées à d'autres rubriques
+Volailles, gibier à plumes (activité d'élevage, vente, etc.), à l'exclusion
+d'activités spécifiques visées à d'autres rubriques.
 
-1. plus de 30 000 animaux-équivalents
+1. Installations dont les activités sont classées au titre de la rubrique 3660
 
 
 A
 
 3
 
-2. de 20 001 à 30 000 animaux-équivalents
+2. Autres installations que celles visées au 1 et détenant un nombre
+d'animaux-équivalents :
+
+
+A
+
+3
+
+a) Supérieur à 30 000
+
+
+A
+
+3
+
+b) Supérieur à 20 000 mais inférieur ou égal à 30 000
 
 
 DC
 
-3. de 5 000 à 30 000 animaux-équivalents
+c) Supérieur à 5 000 mais inférieur ou égal à 20 000
 
 
 D
 
-Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs
+Nota. - Les volailles et gibier à plumes sont comptés en utilisant les valeurs
 suivantes exprimées en animaux-équivalents :
 
-1. caille = 0,125
+Caille = 0,125 ;
 
-2. pigeon, perdrix = 0,25
+Pigeon, perdrix = 0,25 ;
 
-3. coquelet = 0,75
+Coquelet = 0,75 ;
 
-4. poulet léger = 0,85
+Poulet léger = 0,85 ;
 
-5. poule, poulet standard, poulet label, poulet biologique, poulette, poule
-pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1
+Poule, poulet standard, poulet label, poulet biologique, poulette, poule
+pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1 ;
 
-6. poulet lourd = 1,15
+Poulet lourd = 1,15 ;
 
-7. canard à rôtir, canard prêt à gaver, canard reproducteur = 2
+Canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ;
 
-8. dinde légère = 2,20
+Dinde légère = 2,20 ;
 
-9. dinde médium, dinde reproductrice, oie = 3
+Dinde médium, dinde reproductrice, oie = 3 ;
 
-10. dinde lourde = 3,50
+Dinde lourde = 3,50 ;
 
-11. palmipèdes gras en gavage = 7
+Palmipèdes gras en gavage = 7.
 
 2112
 
 
 Couvoirs
 
-Capacité logeable d'eau moins 100 000 œufs
+Capacité logeable d'eau moins 100 000 oeufs
 
 
 D
@@ -723,26 +738,26 @@ Le poids des animaux exprimé en carcasses étant, en activité de pointe :
 
 1. Le poids de carcasses susceptibles d'être abattues étant :
 
-1. supérieur à 5 t / j
+1. supérieur à 5 t/j
 
 
 A
 
 3
 
-a) supérieur à 100 t / j
+a) supérieur à 100 t/j
 
 8
 
-b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
+b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 
 5
 
-c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
+c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
 
 2
 
-2. supérieur à 500 kg / j, mais inférieur ou égal à 5 t / j
+2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
 
 
 D
@@ -757,14 +772,14 @@ maturation de fruits et légumes, la quantité de produits entrant étant :
 
 1. La capacité de production étant :
 
-1. supérieure à 10 t / j
+1. supérieure à 10 t/j
 
 
 A
 
 1
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 3
 
@@ -772,7 +787,7 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 1
 
-2. supérieure à 2 t / j, mais inférieure ou égale à 10 t / j
+2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
 
 
 DC
@@ -826,11 +841,11 @@ A
 
 La capacité de production étant :
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 6
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 2
 
@@ -845,11 +860,11 @@ A
 
 La capacité de production étant :
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 6
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 2
 
@@ -861,7 +876,7 @@ issus du lait
 La capacité journalière de traitement exprimée en litre de lait ou
 équivalent-lait étant :
 
-1. supérieure à 70 000 l / j
+1. supérieure à 70 000 l/j
 
 
 A
@@ -1045,18 +1060,18 @@ AS
 
 6
 
-2. supérieure ou égale à 500 m³
+2. supérieure ou égale à 500 m ³
 
 
 A
 
 2
 
-2. supérieure ou égale à 500 m³
+2. supérieure ou égale à 500 m ³
 
 3
 
-3. supérieure ou égale à 50 m³
+3. supérieure ou égale à 50 m ³
 
 
 D
@@ -1111,7 +1126,7 @@ D
 
 2265
 
-Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
 
 Le volume total des réacteurs ou fermenteurs étant :
 
@@ -1243,12 +1258,12 @@ D
 Blanchisserie, laverie de linge à l'exclusion du nettoyage à sec visé par la
 rubrique 2345. La capacité de lavage de linge étant :
 
-1. Supérieure à 5 t/ j
+1. Supérieure à 5 t/j
 
 
 E
 
-2. Supérieure à 500 kg/ j, mais inférieure ou égale à 5 t/ j
+2. Supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
 
 
 D
@@ -1401,8 +1416,8 @@ A
 3
 
 2. La quantité susceptible d'être présente dans l'installation étant supérieure
-ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t /
-an, sans que la quantité susceptible d'être présente dans l'installation soit
+ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25
+t/an, sans que la quantité susceptible d'être présente dans l'installation soit
 supérieure à 1 000 l
 
 
@@ -1647,7 +1662,7 @@ pour l'implantation des constructions bénéficiant d'un permis de construire et
 des affouillements réalisés sur l'emprise des voies de circulation), lorsque les
 matériaux prélevés sont utilisés à des fins autres que la réalisation de
 l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie
-d'affouillement est supérieure à 1 000 m 2 ou lorsque la quantité de matériaux à
+d'affouillement est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à
 extraire est supérieure à 2 000 t
 
 
@@ -1673,7 +1688,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 haldes et terrils de mines et par les déchets d'exploitation de carrières (à
 l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre
 1979 pris pour l'application de l'article 130 du code minier), lorsque la
-superficie d'exploitation est supérieure à 1 000 m 2 ou lorsque la quantité de
+superficie d'exploitation est supérieure à 1 000 m² ou lorsque la quantité de
 matériaux à extraire est supérieure à 2 000 t par an
 
 
