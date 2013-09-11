@@ -1,10 +1,10 @@
 Article R361-50
 ----
-Pour l'application de l'article L. 361-3, les fonds de mutualisation sont
-constitués sous la forme d'une personne morale à but non lucratif ayant pour
-unique objet de contribuer à l'indemnisation des pertes économiques subies par
-les agriculteurs en raison d'une maladie animale ou d'organismes nuisibles aux
-végétaux ou d'un incident environnemental.
+Pour l'application de l'article L. 361-3, les fonds de mutualisation sont créés
+et gérés par une personne morale à but non lucratif ayant pour unique objet de
+contribuer à l'indemnisation des pertes économiques subies par les agriculteurs
+en raison d'une maladie animale ou d'organismes nuisibles aux végétaux ou d'un
+incident environnemental.
 
 Les fonds de mutualisation sont compétents pour l'ensemble du territoire
 national métropolitain et pour l'ensemble des activités agricoles définies à

@@ -7,19 +7,19 @@ l'Etat et de l'Union européenne.
 
 Le capital de base des fonds est constitué :
 
-1° Des cotisations des adhérents à la section commune dont les modalités de
+1° Des cotisations des affiliés à la section commune dont les modalités de
 calcul sont définies par le conseil d'administration du fonds ;
 
 2° Des ressources des sections qui peuvent comprendre :
 
-a) Les cotisations versées par les agriculteurs adhérents à ces sections selon
+a) Les cotisations versées par les agriculteurs affiliés à ces sections selon
 les modalités de calcul définies par le conseil d'administration sur proposition
 de chacune d'entre elles ;
 
 b) Les contributions des organismes à vocation sanitaire reconnus par l'autorité
 administrative ou des morales à but non lucratif les regroupant en vue de
-contribuer à l'indemnisation des pertes économiques subies par leurs adhérents
-agriculteurs, ainsi que les créances correspondantes ;
+contribuer à l'indemnisation des pertes économiques subies par leurs
+agriculteurs affiliés, ainsi que les créances correspondantes ;
 
 c) Les contributions d'autres opérateurs de la filière agricole et les créances
 correspondantes, à l'exception de celles décidées par des organisations
