@@ -1,45 +1,46 @@
 Article R*1142-1
 ----
 Le ministre de la défense prépare et met en œuvre la politique de défense
-conformément aux directives données par le Premier ministre en application de
-l'article L. 1131-1.
+conformément aux directives générales du Premier ministre. Il traduit ces
+directives en ordres et instructions pour les autorités subordonnées.
 
-I.-Au titre de l'autorité qu'il exerce sur les armées, directions et services :
+I.-Il est responsable de la préparation et, sous réserve des dispositions
+particulières relatives à la dissuasion, de l'emploi des forces. Il est
+également responsable de la sécurité des moyens militaires de défense.
 
-1° Il fixe l'organisation des armées, ainsi que des directions et services du
-ministère ;
+Il fixe l'organisation des armées ainsi que des directions et services du
+ministère.
 
-2° Il établit la programmation des effectifs, des équipements et des
-infrastructures ; il en contrôle la mise en œuvre ;
+Il établit la programmation des effectifs, des équipements et des
+infrastructures ; il en contrôle la mise en œuvre.
 
-3° Il définit la politique des ressources humaines et veille au respect des
-droits et obligations des militaires ;
+Il définit la politique des ressources humaines et veille au respect des droits
+et obligations des militaires.
 
-4° Il organise le soutien des personnels et du matériel et fixe les orientations
-de la gestion du patrimoine immobilier ;
+Il organise le soutien des personnels et du matériel et fixe les orientations de
+la gestion du patrimoine immobilier.
 
-5° Il définit les conditions de la contribution du service de santé des armées à
-la politique de santé publique ;
+Il définit les conditions de la contribution du service de santé des armées à la
+politique de santé publique.
 
-6° Il propose et met en œuvre les politiques de coopération et d'exportation
-relatives aux équipements de défense ;
+Il propose et met en œuvre les politiques de coopération et d'exportation
+relatives aux équipements de défense.
 
-7° Il définit les missions relevant de sa compétence confiées aux formations
+Il définit les missions relevant de sa compétence confiées aux formations
 spécialisées de la gendarmerie.
 
 Il définit également la mission militaire des prévôts à l'exception des missions
-de police judiciaire militaire prévues à l'article L. 411-2 du code de justice
-militaire.
+de police judiciaire militaire prévues à l'article L. 411-2 du code de la
+justice militaire.
 
 Il exerce son autorité sur les personnels militaires de la gendarmerie engagés
 dans des missions militaires à l'intérieur comme à l'extérieur du territoire
-national ;
+national.
 
-8° Il propose la nomination et l'affectation des officiers généraux.
+Il propose la nomination et l'affectation des officiers généraux.
 
-II.-Au titre de la mise en condition d'emploi et de la sécurité des armées, il
-est responsable de la sécurité des moyens militaires de défense et de la
-préparation des armées.
+II.-Il est chargé du renseignement extérieur et du renseignement d'intérêt
+militaire.
 
 III.-Au titre de la politique internationale de défense :
 
