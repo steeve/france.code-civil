@@ -12,8 +12,9 @@ financier du fonds ;
 
 4° D'accepter les dons et legs ;
 
-5° D'autoriser le directeur à passer les conventions prévues à l'article R.
-862-11, qui lui sont soumises par celui-ci.
+5° D'autoriser le directeur à passer les conventions relatives à la gestion de
+la couverture des dépenses de santé prévue à l'article L. 861-3 et du crédit
+d'impôt mentionné à l'article L. 863-1, qui lui sont soumises par celui-ci.
 
 Les procès-verbaux des séances du conseil d'administration sont communiqués au
 ministre chargé de la sécurité sociale et au ministre chargé du budget dans les

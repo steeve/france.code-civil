@@ -7,6 +7,3 @@ l'année précédente par le nombre de détenus correspondant à la moyenne des
 détenus présents le premier jour de chaque mois dans les établissements
 pénitentiaires au cours de la période comprise entre le 1er juillet de
 l'avant-dernière année et le 30 juin de l'année précédente.
-
-Le montant de la cotisation due par l'Etat fait l'objet d'un versement mensuel à
-l'Agence centrale des organismes de sécurité sociale le 5 de chaque mois.

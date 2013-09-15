@@ -29,11 +29,13 @@ civile ;
 
 7° Il conclut au nom du fonds les marchés publics et les contrats ;
 
-8° Il prépare les conventions prévues à l'article R. 862-11 et les signe après y
-avoir été autorisé par le conseil d'administration dans les conditions prévues
-au 5° du premier alinéa de l'article R. 862-4 ;
+8° Il prépare les conventions relatives à la gestion de la couverture des
+dépenses de santé prévue à l'article L. 861-3 et du crédit d'impôt mentionné à
+l'article L. 863-1 et les signe après y avoir été autorisé par le conseil
+d'administration dans les conditions prévues au 5° du premier alinéa de
+l'article R. 862-4 ;
 
-9° Il organise les contrôles visés à l'article R. 862-13 ;
+9° Il organise les vérifications mentionnées à l'article R. 862-13 ;
 
 10° Il assure le secrétariat du conseil d'administration et du conseil de
 surveillance.
