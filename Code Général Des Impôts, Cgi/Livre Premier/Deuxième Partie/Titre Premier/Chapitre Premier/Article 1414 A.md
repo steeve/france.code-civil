@@ -17,7 +17,7 @@ Guadeloupe et de la Réunion ;
 
 c. 6 953 € pour la première part de quotient familial, majoré de 1 159 € pour
 les deux premières demi-parts et de 2 778 € pour chaque demi-part supplémentaire
-à compter de la troisième, dans le département de la Guyane.
+à compter de la troisième, dans les départements de la Guyane et de Mayotte.
 
 Ces montants d'abattements sont, chaque année, indexés comme la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu.
@@ -55,7 +55,13 @@ entre le taux global de taxe d'habitation constaté dans la commune au titre de
 l'année d'imposition et ce même taux global constaté en 2000, multiplié par un
 coefficient de 1,034.
 
-Pour l'application du premier alinéa :
+A Mayotte, à compter de 2014, le montant du dégrèvement prévu au I est réduit
+d'un montant égal au produit de la base nette imposable au profit des communes
+mahoraises et de leurs établissements publics de coopération intercommunale par
+la différence entre le taux global de taxe d'habitation constaté dans la commune
+au titre de l'année d'imposition et ce même taux global constaté en 2014.
+
+Pour l'application des deux précédents alinéas :
 
 a. Lorsque les bases nettes imposables au profit de la commune, et de
 l'établissement public de coopération intercommunale à fiscalité propre sont
@@ -111,14 +117,26 @@ faisant application des taux d'abattement prévus aux 1,2 et 3 du II de l'articl
 1411 et en vigueur en 2003 pour le calcul de la part revenant à la commune ou à
 l'établissement public de coopération intercommunale.
 
+A Mayotte, lorsqu'une commune ou un établissement public de coopération
+intercommunale mahorais au profit desquels l'imposition est établie ont supprimé
+un ou plusieurs des abattements prévus au II de l'article 1411 et en vigueur en
+2014 ou en ont réduit un ou plusieurs taux par rapport à ceux en vigueur en
+2014, le montant du dégrèvement calculé dans les conditions prévues au II et au
+1 du présent III est réduit d'un montant égal à la différence positive entre,
+d'une part, le montant du dégrèvement ainsi déterminé et, d'autre part, le
+montant de celui calculé dans les mêmes conditions en tenant compte de la
+cotisation déterminée en faisant application des taux d'abattement prévus aux 1,
+2 et 3 du II de l'article 1411 et en vigueur en 2014 pour le calcul de la part
+revenant à la commune ou à l'établissement public de coopération intercommunale.
+
 Cette disposition est également applicable lorsque les abattements sont fixés en
 valeur absolue conformément au 5 du II de l'article 1411. Dans ce cas, les
-abattements afférents à l'année 2003 sont majorés dans les conditions prévues au
-deuxième alinéa du IV dudit article.
+abattements afférents à l'année 2003 ou, à Mayotte, à l'année 2014 sont majorés
+dans les conditions prévues au deuxième alinéa du IV dudit article.
 
-Pour le calcul de la réduction prévue aux deux premiers alinéas, le montant de
-l'abattement de 2003 tient compte de la correction opérée en 2011 en application
-du II quater de l'article 1411.
+Pour le calcul de la réduction prévue aux premier et troisième alinéas, le
+montant de l'abattement de 2003 tient compte de la correction opérée en 2011 en
+application du II quater de l'article 1411.
 
 3. Lorsque la cotisation de taxe d'habitation du contribuable résulte
 exclusivement de l'application des dispositions prévues aux 1 et 2, le

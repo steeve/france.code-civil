@@ -108,6 +108,18 @@ création d'une commune nouvelle et en cas de rattachement d'une commune à un
 établissement public de coopération intercommunale faisant application du régime
 prévu à l'article 1609 nonies C ou du I de l'article 1609 quinquies C.
 
+I bis. - Dans le Département de Mayotte :
+
+1° Les montants mentionnés au premier alinéa du 1 du I, à l'exception des
+montants de 250 000 €, 100 000 € et 10 000 €, sont réduits de moitié ;
+
+2° A défaut de délibération et par exception aux dispositions du 2 du I, le
+montant de la base minimum est égal à la moitié du premier montant mentionné au
+1 du I.
+
+Les montants résultant de l'application des 1° et 2° sont arrondis à l'euro le
+plus proche, la fraction d'euro égale à 0,50 est comptée pour 1.
+
 II.-Quand ils ne disposent d'aucun local ou terrain :
 
 1. Les redevables domiciliés en application d'un contrat de domiciliation

@@ -1,17 +1,17 @@
 Article 1388 ter
 ----
-I.-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de
-la Réunion et sauf délibération contraire des collectivités territoriales ou des
-groupements dotés d'une fiscalité propre, prise dans les conditions fixées à
-l'article 1639 A bis, la base d'imposition à la taxe foncière sur les propriétés
-bâties des logements à usage locatif mentionnés à l'article L. 441-1 du code de
-la construction et de l'habitation, appartenant à des organismes ou à des
-sociétés d'économie mixte cités aux articles L. 411-2, L. 472-1-1 et L. 481-1 du
-même code, fait l'objet d'un abattement de 30 % lorsque ces logements font
-l'objet de travaux d'amélioration, avec le concours financier de l'Etat en
-application du 3° de l'article L. 301-2 du même code, ayant pour objet de les
-conforter vis-à-vis des risques naturels prévisibles énumérés au I de l'article
-L. 562-1 du code de l'environnement.
+I.-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de
+Mayotte et de la Réunion et sauf délibération contraire des collectivités
+territoriales ou des groupements dotés d'une fiscalité propre, prise dans les
+conditions fixées à l'article 1639 A bis, la base d'imposition à la taxe
+foncière sur les propriétés bâties des logements à usage locatif mentionnés à
+l'article L. 441-1 du code de la construction et de l'habitation, appartenant à
+des organismes ou à des sociétés d'économie mixte cités aux articles L. 411-2,
+L. 472-1-1 et L. 481-1 du même code, fait l'objet d'un abattement de 30 %
+lorsque ces logements font l'objet de travaux d'amélioration, avec le concours
+financier de l'Etat en application du 3° de l'article L. 301-2 du même code,
+ayant pour objet de les conforter vis-à-vis des risques naturels prévisibles
+énumérés au I de l'article L. 562-1 du code de l'environnement.
 
 L'abattement est applicable pour les impositions établies au titre des cinq
 années suivant celle de l'achèvement des travaux qui doit intervenir au plus

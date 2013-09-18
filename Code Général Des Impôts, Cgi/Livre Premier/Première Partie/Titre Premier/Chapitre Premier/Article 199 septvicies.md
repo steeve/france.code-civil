@@ -273,12 +273,12 @@ délivrer ou non l'agrément doit tenir compte des besoins en logements adaptés
 la population.
 
 XI.-Les investissements mentionnés aux I et VIII et afférents à des logements
-situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy,
-Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie
-française et dans les îles Wallis et Futuna ou à des souscriptions employées
-dans les conditions définies au neuvième alinéa du VIII pour le financement de
-tels logements ouvrent droit à la réduction d'impôt prévue au présent article
-dans les mêmes conditions, sous réserve des adaptations prévues au présent XI.
+situés dans les départements d'outre-mer, Saint-Barthélemy, Saint-Martin,
+Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans
+les îles Wallis et Futuna ou à des souscriptions employées dans les conditions
+définies au neuvième alinéa du VIII pour le financement de tels logements
+ouvrent droit à la réduction d'impôt prévue au présent article dans les mêmes
+conditions, sous réserve des adaptations prévues au présent XI.
 
 a) Pour ces investissements, le taux de la réduction est égal :
 

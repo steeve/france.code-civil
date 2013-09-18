@@ -8,7 +8,9 @@ départements français d'outre-mer ;
 
 b) entre les ports d'un de ces mêmes territoires ;
 
-c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique.
+c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique ;
+
+d) Entre les ports de Mayotte et de La Réunion.
 
 2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de
 modifier le caractère de ces opérations, à moins qu'il ne soit justifié qu'au

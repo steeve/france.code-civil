@@ -3,8 +3,8 @@ Article 268
 1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à
 priser, les tabacs fine coupe destinés à rouler les cigarettes et les autres
 tabacs à fumer, destinés à être consommés dans les départements de la
-Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sont passibles d'un
-droit de consommation.
+Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de la Réunion, sont
+passibles d'un droit de consommation.
 
 Les taux et l'assiette du droit de consommation sont fixés par délibération des
 conseils généraux des départements. Ces délibérations prennent effet au plus tôt
@@ -52,7 +52,8 @@ jugées conformément aux dispositions du code des douanes.
 4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les
 cigarettes, cigares et cigarillos, tabac à fumer, tabac à mâcher et tabac à
 priser, est affecté au budget de ces départements. Il en est de même à la
-Guadeloupe et à la Martinique à compter du 1er janvier 2001.
+Guadeloupe et à la Martinique à compter du 1er janvier 2001 et à Mayotte à
+compter du 1er janvier 2014.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par
 délibération, un prix de détail des cigarettes exprimé aux 1 000 unités et un

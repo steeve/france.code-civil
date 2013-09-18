@@ -58,7 +58,7 @@ l'augmentation de la cotisation d'impôt résultant du plafonnement.
 est réduit de 30 %, dans la limite de 5 100 €, pour les contribuables domiciliés
 dans les départements de la Guadeloupe, de la Martinique et de la Réunion ;
 cette réduction est égale à 40 %, dans la limite de 6 700 €, pour les
-contribuables domiciliés dans le département de la Guyane ;
+contribuables domiciliés dans les départements de la Guyane et de Mayotte ;
 
 4. Le montant de l'impôt résultant de l'application des dispositions précédentes
 est diminué, dans la limite de son montant, de la différence entre 480 € et la

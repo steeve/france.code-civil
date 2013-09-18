@@ -28,7 +28,7 @@ Hectolitre
 
 2710-00
 
-Gazole présentant un point d'éclair inférieur à 120 °C
+Gazole présentant un point d'éclair inférieur à 120° C
 
 
 Hectolitre
@@ -38,20 +38,20 @@ Ex 3824-90 :
 
 Hectolitre
 
-- émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la
+-émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la
 teneur en eau est égale ou supérieure à 7 % en volume sans dépasser 20 % en
 volume
 
 
 Hectolitre
 
-- autre, destinée à être utilisée comme carburant
+-autre, destinée à être utilisée comme carburant
 
 
 Hectolitre
 
-2. Le taux de cette taxe est fixé par le conseil régional. Ce taux ne peut
-excéder :
+2. Le taux de cette taxe est fixé par le conseil régional et, à Mayotte, par le
+conseil général. Ce taux ne peut excéder :
 
 a) pour les essences et supercarburants, le taux de la taxe intérieure de
 consommation visée au tableau B annexé au 1 de l'article 265 ci-dessus
@@ -67,8 +67,8 @@ le taux de la taxe intérieure de consommation visé au tableau B annexé au 1 d
 l'article 265 applicable au gazole identifié à l'indice 20.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération
-totale ou partielle de la taxe par le conseil régional aux conditions qu'il
-fixe.
+totale ou partielle de la taxe par le conseil régional et, à Mayotte, par le
+conseil général aux conditions qu'il fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues
 au paragraphe ci-dessus, ce relèvement s'applique aux produits déclarés pour la

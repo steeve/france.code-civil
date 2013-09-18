@@ -25,7 +25,7 @@ IV. ― Le produit de cette taxe est obtenu en appliquant, chaque année, aux ba
 imposables la somme des taux départemental et régional de la taxe foncière sur
 les propriétés non bâties appliqués en 2010 sur le territoire de l'établissement
 public de coopération intercommunale ou de la commune, multipliée par un
-coefficient de 1, 0485.
+coefficient de 1,0485.
 
 Pour l'application du premier alinéa aux établissements publics de coopération
 intercommunale dont le territoire est situé sur plusieurs départements, le taux
@@ -54,3 +54,5 @@ janvier 2010.
 
 V. ― Le contrôle, le recouvrement, le contentieux, les garanties et sanctions
 sont régis comme en matière de taxe foncière sur les propriétés non bâties.
+
+VI.-Cette taxe n'est pas applicable à Mayotte.

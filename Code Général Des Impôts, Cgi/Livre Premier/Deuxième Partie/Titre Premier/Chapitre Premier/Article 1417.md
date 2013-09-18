@@ -9,8 +9,8 @@ supplémentaire, retenues pour le calcul de l'impôt sur le revenu afférent
 auxdits revenus. Pour la Martinique, la Guadeloupe et la Réunion, les montants
 des revenus sont fixés à 12 098 €, pour la première part, majorés de 2 890 €
 pour la première demi-part et 2 730 € pour chaque demi-part supplémentaire à
-compter de la deuxième. Pour la Guyane, ces montants sont fixés respectivement à
-12 650 €, 3 482 € et 2 730 €.
+compter de la deuxième. Pour la Guyane et Mayotte ces montants sont fixés
+respectivement à 12 650 €, 3 482 € et 2 730 €.
 
 I bis (abrogé à compter des impositions établies au titre de 2000).
 
@@ -23,9 +23,9 @@ de l'impôt sur le revenu afférent auxdits revenus. Pour la Martinique, la
 Guadeloupe et la Réunion, les montants des revenus sont fixés à 29 058 €, pour
 la première part, majorés de 6 164 € pour la première demi-part, 5 877 € pour la
 deuxième demi-part et 4 421 € pour chaque demi-part supplémentaire à compter de
-la troisième. Pour la Guyane, ces montants sont fixés à 31 843 € pour la
-première part, majorés de 6 164 € pour chacune des deux premières demi-parts, 5
-249 € pour la troisième demi-part et 4 421 € pour chaque demi-part
+la troisième. Pour la Guyane et Mayotte ces montants sont fixés à 31 843 € pour
+la première part, majorés de 6 164 € pour chacune des deux premières demi-parts,
+5 249 € pour la troisième demi-part et 4 421 € pour chaque demi-part
 supplémentaire à compter de la quatrième.
 
 III.-Les montants de revenus prévus aux I et II sont indexés, chaque année,

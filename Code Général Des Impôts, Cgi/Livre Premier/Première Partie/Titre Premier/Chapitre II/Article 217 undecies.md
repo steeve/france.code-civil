@@ -6,29 +6,29 @@ toute nature, notamment les commissions d'acquisition, à l'exception des frais
 de transport, d'installation et de mise en service amortissables, des
 investissements productifs, diminuée de la fraction de leur prix de revient
 financée par une subvention publique, qu'elles réalisent dans les départements
-de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion pour
-l'exercice d'une activité éligible en application du I de l'article 199 undecies
-B. Pour les projets d'investissement comportant l'acquisition, l'installation ou
-l'exploitation d'équipements de production d'énergie renouvelable, ce montant
-est pris en compte dans la limite d'un montant par watt installé fixé par arrêté
-conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de
-l'industrie pour chaque type d'équipement. Ce montant prend en compte les coûts
-d'acquisition et d'installation directement liés à ces équipements. La déduction
-est opérée sur le résultat de l'exercice au cours duquel l'investissement est
-réalisé, le déficit éventuel de l'exercice étant reporté dans les conditions
-prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à
-construire ou de construction d'immeuble, la déduction est opérée sur le
-résultat de l'exercice au cours duquel les fondations sont achevées. Si
-l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement
-des fondations, la somme déduite est rapportée au résultat imposable au titre de
-l'exercice au cours duquel intervient le terme de ce délai. La déduction
-s'applique également aux investissements réalisés par une société soumise au
-régime d'imposition prévu à l'article 8, à l'exclusion des sociétés en
-participation, ou un groupement mentionné aux articles 239 quater ou 239 quater
-C, dont les parts sont détenues directement par des entreprises soumises à
-l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les
-associés ou membres dans une proportion correspondant à leurs droits dans la
-société ou le groupement.
+de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de la Réunion
+pour l'exercice d'une activité éligible en application du I de l'article 199
+undecies B. Pour les projets d'investissement comportant l'acquisition,
+l'installation ou l'exploitation d'équipements de production d'énergie
+renouvelable, ce montant est pris en compte dans la limite d'un montant par watt
+installé fixé par arrêté conjoint des ministres chargés du budget, de l'énergie,
+de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend
+en compte les coûts d'acquisition et d'installation directement liés à ces
+équipements. La déduction est opérée sur le résultat de l'exercice au cours
+duquel l'investissement est réalisé, le déficit éventuel de l'exercice étant
+reporté dans les conditions prévues au I de l'article 209. Toutefois, en cas
+d'acquisition d'un immeuble à construire ou de construction d'immeuble, la
+déduction est opérée sur le résultat de l'exercice au cours duquel les
+fondations sont achevées. Si l'immeuble n'est pas achevé dans les deux ans
+suivant la date de l'achèvement des fondations, la somme déduite est rapportée
+au résultat imposable au titre de l'exercice au cours duquel intervient le terme
+de ce délai. La déduction s'applique également aux investissements réalisés par
+une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion
+des sociétés en participation, ou un groupement mentionné aux articles 239
+quater ou 239 quater C, dont les parts sont détenues directement par des
+entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est
+pratiquée par les associés ou membres dans une proportion correspondant à leurs
+droits dans la société ou le groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de
 revient des investissements réalisés par les entreprises qui excède le montant
@@ -148,7 +148,8 @@ ont été acquis ou créés.
 
 I bis.-La déduction prévue au premier alinéa du I s'applique également aux
 acquisitions ou constructions de logements neufs situés en Guadeloupe, en
-Guyane, en Martinique ou à La Réunion si les conditions suivantes sont réunies :
+Guyane, en Martinique , à Mayotte ou à La Réunion si les conditions suivantes
+sont réunies :
 
 1° L'entreprise signe avec une personne physique, dans les six mois de
 l'achèvement de l'immeuble, ou de son acquisition si elle est postérieure, un
@@ -248,9 +249,9 @@ au III.
 
 Les dispositions du premier alinéa sont également applicables aux
 investissements mentionnés au I et dont le montant total par programme et par
-exercice est supérieur à 250 000 € (1), lorsqu'ils sont réalisés par une société
-ou un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce
-même I.
+exercice est supérieur à 250 000 €, lorsqu'ils sont réalisés par une société ou
+un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce même
+I.
 
 III.-1. Pour ouvrir droit à déduction, les investissements mentionnés au I
 réalisés dans les secteurs des transports, de la navigation de plaisance, de
@@ -312,13 +313,13 @@ secteurs mentionnés au premier alinéa du 1. Il en est de même lorsque ces
 investissements sont donnés en location à une telle entreprise. L'entreprise
 propriétaire des biens ou qui les a acquis en crédit-bail joint à sa déclaration
 de résultat un état récapitulatif des investissements réalisés au cours de
-l'exercice et au titre desquels la déduction fiscale est pratiquée (1).
+l'exercice et au titre desquels la déduction fiscale est pratiquée.
 
 Le premier alinéa ne s'applique pas au secteur des transports, à l'exception des
 véhicules neufs de moins de sept places acquis par les entreprises de transports
 publics de voyageurs et affectés de façon exclusive à la réalisation desdits
 transports lorsque les conditions de transport sont conformes à un tarif
-réglementaire (1).
+réglementaire.
 
 III bis. (Abrogé).
 

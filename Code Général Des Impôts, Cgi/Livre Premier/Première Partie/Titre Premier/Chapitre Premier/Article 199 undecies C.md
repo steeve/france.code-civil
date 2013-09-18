@@ -3,9 +3,9 @@ Article 199 undecies C
 I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent
 bénéficier d'une réduction d'impôt sur le revenu à raison de l'acquisition ou de
 la construction de logements neufs dans les départements d'outre-mer, à
-Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie
-française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna
-si les conditions suivantes sont réunies :
+Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à
+Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna si les
+conditions suivantes sont réunies :
 
 1° Les logements sont donnés en location nue, dans les six mois de leur
 achèvement ou de leur acquisition si elle est postérieure et pour une durée au

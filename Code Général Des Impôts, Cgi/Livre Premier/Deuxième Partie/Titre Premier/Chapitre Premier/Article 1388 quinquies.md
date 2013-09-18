@@ -7,7 +7,8 @@ d'imposition à la taxe foncière sur les propriétés bâties des immeubles ou
 parties d'immeubles rattachés entre le 1er janvier 2009 et le 31 décembre 2018 à
 un établissement réunissant les conditions requises pour bénéficier de
 l'abattement prévu à l'article 1466 F fait l'objet d'un abattement dégressif
-lorsqu'ils sont situés en Guadeloupe, en Guyane, en Martinique ou à La Réunion.
+lorsqu'ils sont situés en Guadeloupe, en Guyane, en Martinique, à Mayotte ou à
+La Réunion.
 
 La délibération porte sur la totalité de la part revenant à chaque collectivité
 territoriale ou établissement public de coopération intercommunale.
@@ -34,10 +35,10 @@ III.-Le montant de l'abattement mentionné au II est majoré :
 1° Pour les immeubles ou parties d'immeubles qui remplissent cumulativement les
 deux conditions suivantes : être rattachés à un établissement satisfaisant aux
 conditions requises pour bénéficier de l'abattement prévu à l'article 1466 F ;
-être situés en Guyane, dans les îles des Saintes, à Marie-Galante, à La Désirade
-et dans les communes de La Réunion définies par l'article 2 du décret n° 78-690
-du 23 juin 1978 portant création d'une zone spéciale d'action rurale dans le
-département de La Réunion ;
+être situés en Guyane, à Mayotte, dans les îles des Saintes, à Marie-Galante, à
+La Désirade et dans les communes de La Réunion définies par l'article 2 du
+décret n° 78-690 du 23 juin 1978 portant création d'une zone spéciale d'action
+rurale dans le département de La Réunion ;
 
 2° Pour les immeubles ou parties d'immeubles situés dans des communes de
 Guadeloupe ou de Martinique, dont la liste est fixée par décret et qui satisfont

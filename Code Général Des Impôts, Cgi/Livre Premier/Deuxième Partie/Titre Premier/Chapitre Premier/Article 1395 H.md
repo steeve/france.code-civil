@@ -1,7 +1,7 @@
 Article 1395 H
 ----
-I.-Lorsqu'elles sont situées en Guadeloupe, en Guyane, en Martinique ou à La
-Réunion, les propriétés non bâties classées dans les première, deuxième,
+I.-Lorsqu'elles sont situées en Guadeloupe, en Guyane, en Martinique, à Mayotte
+ou à La Réunion, les propriétés non bâties classées dans les première, deuxième,
 troisième, quatrième, cinquième, sixième, huitième et neuvième catégories
 définies à l'article 18 de l'instruction ministérielle du 31 décembre 1908 sont
 exonérées de la taxe foncière sur les propriétés non bâties perçue au profit des

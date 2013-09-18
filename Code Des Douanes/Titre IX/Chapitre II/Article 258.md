@@ -10,7 +10,9 @@ effectués :
 a) Entre les ports d'un même département français d'outre-mer ;
 
 b) Entre les ports des départements de la Guadeloupe, de la Guyane et de la
-Martinique.
+Martinique ;
+
+c) Entre les ports des départements de Mayotte et de La Réunion.
 
 2° L'autorité administrative peut réserver, dans des conditions fixées par
 décret, aux navires mentionnés au 1°, les transports de certaines marchandises

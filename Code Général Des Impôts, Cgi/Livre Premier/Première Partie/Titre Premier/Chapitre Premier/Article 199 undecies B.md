@@ -3,11 +3,11 @@ Article 199 undecies B
 I. Les contribuables domiciliés en France au sens de l'article 4 B peuvent
 bénéficier d'une réduction d'impôt sur le revenu à raison des investissements
 productifs neufs qu'ils réalisent dans les départements d'outre-mer, à
-Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie
-française, à Saint-Martin, à Saint-Barthélemy, dans les îles Wallis-et-Futuna et
-les Terres australes et antarctiques françaises, dans le cadre d'une entreprise
-exerçant une activité agricole ou une activité industrielle, commerciale ou
-artisanale relevant de l'article 34.
+Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à
+Saint-Martin, à Saint-Barthélemy, dans les îles Wallis-et-Futuna et les Terres
+australes et antarctiques françaises, dans le cadre d'une entreprise exerçant
+une activité agricole ou une activité industrielle, commerciale ou artisanale
+relevant de l'article 34.
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements
 réalisés dans les secteurs d'activité suivants :
@@ -79,16 +79,15 @@ installé fixé par arrêté conjoint des ministres chargés du budget, de
 l'outre-mer et de l'énergie pour chaque type d'équipement. Ce montant prend en
 compte les coûts d'acquisition et d'installation directement liés à ces
 équipements. Le taux de la réduction d'impôt est porté à 45,9 % pour les
-investissements réalisés en Guyane dans les limites définies par les règles
-communautaires relatives aux aides d'Etat, à Mayotte, à Saint-Pierre-et-Miquelon
+investissements réalisés en Guyane et à Mayotte dans les limites définies par
+les règles communautaires relatives aux aides d'Etat, à Saint-Pierre-et-Miquelon
 ou à Wallis-et-Futuna. Les taux de 38,25 % et 45,9 % susmentionnés sont
 respectivement portés à 45,9 % et 53,55 % pour les investissements réalisés dans
 le secteur de la production d'énergie renouvelable. Le taux de la réduction
 d'impôt est porté à 45,9 % pour les travaux de rénovation et de réhabilitation
 d'hôtel, de résidence de tourisme et de village de vacances classés réalisés en
 Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes
-et antarctiques françaises, à Mayotte, à Saint-Pierre-et-Miquelon et en
-Nouvelle-Calédonie.
+et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie.
 
 Le taux de la réduction d'impôt est porté à 53,55 % pour les travaux de
 rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village
@@ -348,7 +347,7 @@ et de village de vacances classés ou des entreprises en difficultés ou qui son
 nécessaires à l'exploitation d'une concession de service public local à
 caractère industriel et commercial.
 
-III.-Les aides octroyées par Mayotte, la Polynésie française, Saint-Barthélemy,
+III.-Les aides octroyées par la Polynésie française, Saint-Barthélemy,
 Saint-Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna ainsi que la
 Nouvelle-Calédonie dans le cadre de leur compétence fiscale propre au titre de
 projets d'investissements sont sans incidence sur la détermination du montant

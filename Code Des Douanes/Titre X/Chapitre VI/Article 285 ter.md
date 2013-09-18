@@ -1,16 +1,17 @@
 Article 285 ter
 ----
-Il est institué au profit des régions de Guadeloupe, de Guyane, de Martinique et
-de la Réunion une taxe due par les entreprises de transport public aérien et
-maritime. Elle est ajoutée au prix demandé aux passagers. Elle est assise sur le
-nombre de passagers embarquant dans ces régions.
+Il est institué au profit des régions de Guadeloupe, de Guyane, de Martinique,
+de Mayotte et de la Réunion une taxe due par les entreprises de transport public
+aérien et maritime. Elle est ajoutée au prix demandé aux passagers. Elle est
+assise sur le nombre de passagers embarquant dans ces régions.
 
 Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé
-et la distance parcourue. Ils sont fixés par chaque conseil régional dans la
-limite de 4,57 euros par passager.
+et la distance parcourue. Ils sont fixés par chaque conseil régional ou par le
+conseil général de Mayotte dans la limite de 4,57 euros par passager.
 
 La taxe est due au titre des billets émis à compter du premier jour du quatrième
-mois qui suit la date de publication de la délibération du conseil régional.
+mois qui suit la date de publication de la délibération du conseil régional ou
+du conseil général de Mayotte.
 
 La taxe est constatée, recouvrée et contrôlée par le service des douanes sous
 les mêmes garanties, privilèges et sanctions qu'en matière de droits de douane.
