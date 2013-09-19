@@ -16,6 +16,11 @@ destinataire des legs et donations. Sous réserve des dispositions de l'article
 L. 6145-10, les legs et donations sont reportés sur cette collectivité ou cet
 établissement avec la même affectation.
 
-Les autorités compétentes procèdent aux nominations des personnels dont le
-nouvel établissement devient l'employeur en vertu des dispositions du deuxième
-alinéa de l'article L. 6141-7-1.
+Les personnels sont transférés dans le nouvel établissement, qui en devient
+l'employeur en vertu des dispositions du deuxième alinéa de l'article L.
+6141-7-1.
+
+Lorsqu'un établissement public de santé est créé en application du deuxième
+alinéa de l'article L. 6141-1, son premier règlement intérieur est arrêté par le
+directeur pour une période qui ne peut excéder vingt-quatre mois dans l'attente
+de la constitution du directoire et du conseil de surveillance.

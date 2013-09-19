@@ -9,7 +9,9 @@ commission.
 
 Pour les centres hospitaliers universitaires, la commission élit, en son sein,
 son président parmi les personnels enseignants et hospitaliers et son
-vice-président parmi les praticiens titulaires.
+vice-président parmi les praticiens titulaires. Toutefois, en cas d'absence de
+candidat parmi les personnels enseignants et universitaires, le président peut
+être élu parmi les praticiens titulaires de l'établissement.
 
 Le vote a lieu au scrutin uninominal secret et à la majorité absolue. Si cette
 majorité n'est pas atteinte aux deux premiers tours, un troisième tour est
