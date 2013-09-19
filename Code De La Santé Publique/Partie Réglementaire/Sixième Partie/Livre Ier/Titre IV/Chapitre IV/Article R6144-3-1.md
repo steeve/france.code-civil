@@ -1,6 +1,6 @@
 Article R6144-3-1
 ----
-I. - La composition de la commission médicale d'établissement des centres
+I.-La composition de la commission médicale d'établissement des centres
 hospitaliers universitaires est fixée comme suit :
 
 1° L'ensemble des chefs de pôle d'activités cliniques et médico-techniques
@@ -21,16 +21,24 @@ l'établissement ;
 5° Des représentants élus des personnels temporaires ou non titulaires et des
 personnels contractuels ou exerçant à titre libéral de l'établissement ;
 
-6° Un représentant élu des sages-femmes, si l'établissement dispose d'une
+6° Des représentants élus des sages-femmes, si l'établissement dispose d'une
 activité de gynécologie-obstétrique ;
 
 7° Des représentants des internes comprenant un représentant pour les internes
 de médecine générale, un pour les internes de médecine des autres spécialités,
-un pour les internes de pharmacie et un pour les internes en odontologie.
+un pour les internes de pharmacie et un pour les internes en odontologie ;
 
-Les représentants mentionnés au 3° et au 4° sont en nombre égal.
+8° Des représentants des étudiants hospitaliers comprenant un représentant pour
+les étudiants hospitaliers en médecine, un représentant pour les étudiants
+hospitaliers en pharmacie, un représentant pour les étudiants hospitaliers en
+odontologie et un représentant pour les étudiants en maïeutique.
 
-II. - Assistent en outre avec voix consultative :
+Les représentants mentionnés au 3° et au 4° sont en nombre égal. Toutefois,
+lorsque les personnels enseignants et universitaires représentent moins de 10 %
+des praticiens titulaires de l'établissement le règlement intérieur peut prévoir
+une dérogation à cette règle.
+
+II.-Assistent en outre avec voix consultative :
 
 1° Le président du directoire ou son représentant ;
 

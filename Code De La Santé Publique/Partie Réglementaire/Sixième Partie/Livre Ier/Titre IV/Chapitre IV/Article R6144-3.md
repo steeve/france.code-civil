@@ -1,6 +1,6 @@
 Article R6144-3
 ----
-I. - La composition de la commission médicale d'établissement des centres
+I.-La composition de la commission médicale d'établissement des centres
 hospitaliers est fixée comme suit :
 
 1° L'ensemble des chefs de pôle d'activités cliniques et médico-techniques de
@@ -14,7 +14,7 @@ unités fonctionnelles ;
 4° Des représentants élus des personnels temporaires ou non titulaires et des
 personnels contractuels ou exerçant à titre libéral de l'établissement ;
 
-5° Un représentant élu des sages-femmes, si l'établissement dispose d'une
+5° Des représentants élus des sages-femmes, si l'établissement dispose d'une
 activité de gynécologie-obstétrique ;
 
 6° Des représentants des internes comprenant un représentant pour les internes
@@ -22,7 +22,7 @@ de médecine générale, un représentant pour les internes de médecine des aut
 spécialités, un représentant pour les internes de pharmacie et un représentant
 pour les internes en odontologie.
 
-II. - Assistent en outre avec voix consultative :
+II.-Assistent en outre avec voix consultative :
 
 1° Le président du directoire ou son représentant ;
 
