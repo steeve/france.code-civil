@@ -1,17 +1,15 @@
 Article R300-2-2
 ----
 Le comité de gestion du Fonds national d'accompagnement vers et dans le logement
-répartit les crédits du fonds conformément aux orientations qu'il a fixées pour
-le financement d'actions d'accompagnement individualisé vers et dans le logement
-ou d'actions de gestion locative adaptée destinées à des personnes reconnues
-prioritaires et auxquelles un logement doit être attribué en urgence au sens de
-l'article L. 441-2-3-1, qui sont mises en œuvre par des organismes agréés au
-titre, selon le cas, soit des activités d'ingénierie sociale, financière et
-technique mentionnées à l'article L. 365-3, soit des activités d'intermédiation
-locative et de gestion locative sociale mentionnées à l'article L. 365-4, par
-des organismes d'habitations à loyer modéré, par des sociétés d'économie mixte
-gérant des logements sociaux ou par des associations départementales
-d'information sur le logement.
+répartit, conformément aux orientations qu'il a fixées, les crédits destinés au
+financement des actions prévues à l'article L. 300-2 qui sont mises en œuvre par
+des organismes agréés au titre soit des activités d'ingénierie sociale,
+financière et technique mentionnées à l'article L. 365-3, soit des activités
+d'intermédiation locative et de gestion locative sociale mentionnées à l'article
+L. 365-4, par des organismes d'habitations à loyer modéré, par des sociétés
+d'économie mixte gérant des logements sociaux, par des associations
+départementales d'information sur le logement ou par des centres d'action
+sociale communaux ou intercommunaux.
 
 Le versement du concours financier du fonds est subordonné à la signature d'une
 convention entre le représentant de l'Etat et le bénéficiaire du versement.
