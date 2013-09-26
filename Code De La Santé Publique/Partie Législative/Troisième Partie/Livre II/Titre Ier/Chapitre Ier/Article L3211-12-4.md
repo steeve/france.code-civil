@@ -3,11 +3,18 @@ Article L3211-12-4
 L'ordonnance du juge des libertés et de la détention prise en application des
 articles L. 3211-12 ou L. 3211-12-1 est susceptible d'appel devant le premier
 président de la cour d'appel ou son délégué. Le débat est tenu selon les
-modalités prévues à l'article L. 3211-12-2.
+modalités prévues à l'article L. 3211-12-2, à l'exception du dernier alinéa du
+I.
 
 L'appel formé à l'encontre de l'ordonnance mentionnée au premier alinéa n'est
 pas suspensif. Le premier président de la cour d'appel ou son délégué statue
 alors à bref délai dans des conditions définies par décret en Conseil d'Etat.
+Lorsque l'ordonnance mentionnée au même premier alinéa a été prise en
+application de l'article L. 3211-12-1, un avis rendu par un psychiatre de
+l'établissement d'accueil de la personne admise en soins psychiatriques sans
+consentement se prononçant sur la nécessité de poursuivre l'hospitalisation
+complète est adressé au greffe de la cour d'appel au plus tard quarante-huit
+heures avant l'audience.
 
 Toutefois, lorsque le juge des libertés et de la détention ordonne la mainlevée
 d'une mesure de soins psychiatriques sous la forme d'une hospitalisation
