@@ -9,7 +9,7 @@ l'article L. 3222-1 que lorsque les deux conditions suivantes sont réunies :
 2° Son état mental impose des soins immédiats assortis soit d'une surveillance
 médicale constante justifiant une hospitalisation complète, soit d'une
 surveillance médicale régulière justifiant une prise en charge sous la forme
-mentionnée au 2° de l'article L. 3211-2-1.
+mentionnée au 2° du I de l'article L. 3211-2-1.
 
 II.-Le directeur de l'établissement prononce la décision d'admission :
 

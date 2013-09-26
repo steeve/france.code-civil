@@ -17,8 +17,8 @@ médical est établi dans les mêmes conditions que celles prévues au deuxième
 alinéa du présent article.
 
 Lorsque les deux certificats médicaux ont conclu à la nécessité de maintenir les
-soins psychiatriques, un psychiatre de l'établissement d'accueil propose dans un
-avis motivé, établi avant l'expiration du délai de soixante-douze heures
-mentionné au troisième alinéa du présent article, la forme de la prise en charge
-mentionnée aux 1° et 2° de l'article L. 3211-2-1 et, le cas échéant, le
-programme de soins.
+soins psychiatriques, le psychiatre propose dans le certificat mentionné au
+troisième alinéa du présent article la forme de la prise en charge mentionnée
+aux 1° et 2° du I de l'article L. 3211-2-1 et, le cas échéant, le programme de
+soins. Cette proposition est motivée au regard de l'état de santé du patient et
+de l'expression de ses troubles mentaux.

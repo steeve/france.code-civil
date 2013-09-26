@@ -32,31 +32,23 @@ connaissance les informations qu'elle estime utiles sur la situation d'une
 personne faisant l'objet d'une telle mesure.
 
 II.-Le juge des libertés et de la détention ne peut statuer qu'après avoir
-recueilli l'avis du collège mentionné à l'article L. 3211-9 du présent code :
+recueilli l'avis du collège mentionné à l'article L. 3211-9 du présent code
+lorsque la personne fait l'objet d'une mesure de soins ordonnée en application
+de l'article L. 3213-7 du même code ou de l'article 706-135 du code de procédure
+pénale à la suite d'un classement sans suite, d'une décision d'irresponsabilité
+pénale ou d'un jugement ou arrêt de déclaration d'irresponsabilité pénale
+prononcés sur le fondement du premier alinéa de l'article 122-1 du code pénal et
+concernant des faits punis d'au moins cinq ans d'emprisonnement en cas
+d'atteinte aux personnes ou d'au moins dix ans d'emprisonnement en cas
+d'atteinte aux biens.
 
-1° Lorsque la personne fait l'objet d'une mesure de soins ordonnée en
-application des articles L. 3213-7 du présent code ou 706-135 du code de
-procédure pénale ou qu'elle fait l'objet de soins en application de l'article L.
-3213-1 du présent code et qu'elle a déjà fait l'objet d'une mesure de soins
-ordonnée en application des articles L. 3213-7 du présent code ou 706-135 du
-code de procédure pénale ;
-
-2° Lorsque la personne fait l'objet de soins en application de l'article L.
-3213-1 du présent code et qu'elle fait ou a déjà fait l'objet, pendant une durée
-fixée par décret en Conseil d'Etat, d'une hospitalisation dans une unité pour
-malades difficiles mentionnée à l'article L. 3222-3.
-
-Dans les cas mentionnés aux 1° et 2° du présent II, le juge ne peut en outre
-décider la mainlevée de la mesure qu'après avoir recueilli deux expertises
-établies par les psychiatres inscrits sur les listes mentionnées à l'article L.
-3213-5-1.
+Le juge ne peut, en outre, décider la mainlevée de la mesure qu'après avoir
+recueilli deux expertises établies par les psychiatres inscrits sur les listes
+mentionnées à l'article L. 3213-5-1 du présent code.
 
 Le juge fixe les délais dans lesquels l'avis du collège et les deux expertises
 prévus au présent II doivent être produits, dans une limite maximale fixée par
 décret en Conseil d'Etat. Passés ces délais, il statue immédiatement.
-
-Le présent II n'est pas applicable lorsque les mesures de soins mentionnées aux
-1° et 2° ont pris fin depuis au moins dix ans.
 
 III.-Le juge des libertés et de la détention ordonne, s'il y a lieu, la
 mainlevée de la mesure d'hospitalisation complète.

@@ -24,6 +24,6 @@ Paris, au préfet de police dans les délais prescrits les certificats médicaux
 l'article L. 3212-11 et du IV de l'article L. 3213-1 relatives à la tenue et à
 la présentation des registres ;
 
-6° D'omettre d'aviser dans le délai prescrit par l'article L. 3213-5 le
+6° D'omettre d'aviser dans le délai prescrit par l'article L. 3213-9-1 le
 représentant de l'Etat dans le département ou, à Paris, le préfet de police du
 certificat médical prévu à cet article.

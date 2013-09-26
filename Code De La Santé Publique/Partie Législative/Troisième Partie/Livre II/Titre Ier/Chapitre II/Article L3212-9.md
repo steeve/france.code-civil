@@ -17,7 +17,8 @@ que l'arrêt des soins entraînerait un péril imminent pour la santé du patien
 Le directeur de l'établissement informe alors par écrit le demandeur de son
 refus en lui indiquant les voies de recours prévues à l'article L. 3211-12.
 
-Dans ce même cas, lorsqu'un certificat établi par un psychiatre de
+Dans ce même cas, lorsqu'un certificat médical ou, en cas d'impossibilité
+d'examiner le patient, un avis médical établi par un psychiatre de
 l'établissement datant de moins de vingt-quatre heures atteste que l'état mental
 du patient nécessite des soins et compromet la sûreté des personnes ou porte
 atteinte, de façon grave, à l'ordre public, le directeur de l'établissement

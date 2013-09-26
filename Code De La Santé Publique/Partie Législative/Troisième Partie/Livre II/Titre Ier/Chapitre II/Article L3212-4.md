@@ -6,10 +6,10 @@ plus la mesure de soins, le directeur de l'établissement d'accueil prononce
 immédiatement la levée de cette mesure.
 
 Lorsque les deux certificats médicaux ont conclu à la nécessité de prolonger les
-soins, le directeur de l'établissement prononce le maintien des soins en
-retenant la forme de la prise en charge proposée par le psychiatre en
-application du même article L. 3211-2-2. Il joint à sa décision, le cas échéant,
-le programme de soins établi par le psychiatre.
+soins, le directeur de l'établissement prononce le maintien des soins pour une
+durée d'un mois, en retenant la forme de la prise en charge proposée par le
+psychiatre en application du même article L. 3211-2-2. Il joint à sa décision,
+le cas échéant, le programme de soins établi par le psychiatre.
 
 Dans l'attente de la décision du directeur de l'établissement, la personne
 malade est prise en charge sous la forme d'une hospitalisation complète.

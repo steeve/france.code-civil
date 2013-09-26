@@ -21,5 +21,5 @@ que les conditions ayant justifié la mesure de soins en application du même
 article L. 3213-1 ne sont plus réunies, ou sur proposition de la commission
 départementale des soins psychiatriques mentionnée à l'article L. 3222-5.
 
-Le présent article n'est pas applicable aux personnes mentionnées à l'article L.
-3213-8.
+Le présent article n'est pas applicable aux personnes mentionnées II de
+l'article L. 3211-12.

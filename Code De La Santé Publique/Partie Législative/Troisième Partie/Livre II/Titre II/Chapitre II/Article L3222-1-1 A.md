@@ -10,4 +10,6 @@ libéraux et les personnes mentionnées à l'article L. 6312-2.
 Ce dispositif a pour objet de faire assurer aux personnes atteintes de troubles
 mentaux, en quelque endroit qu'elles se trouvent, les soins d'urgence appropriés
 à leur état et, le cas échéant, de faire assurer leur transport vers un
-établissement de santé mentionné à l'article L. 3222-1.
+établissement de santé mentionné à l'article L. 3222-1, notamment en cas de
+nécessité de retour en hospitalisation complète dans les conditions prévues au
+second alinéa de l'article L. 3211-11.

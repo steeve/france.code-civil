@@ -1,11 +1,10 @@
 Article L3222-1-1
 ----
-Les personnes faisant l'objet de soins psychiatriques, dans les conditions
-prévues aux chapitres II et III du titre Ier du présent livre, peuvent être
-transportées à l'établissement de santé d'accueil sans leur consentement et
-lorsque cela est strictement nécessaire, par des moyens adaptés à l'état de la
-personne. Ce transport est assuré par un transporteur sanitaire agréé dans les
-conditions prévues aux articles L. 6312-1 à L. 6312-5.
+Les personnes admises en soins psychiatriques sans consentement sous la forme
+d'une hospitalisation complète, en application des chapitres II et III du titre
+Ier du présent livre, peuvent être prises en charge et transportées dans un
+établissement de santé mentionné à l'article L. 3222-1 sans leur consentement
+lorsque cela est strictement nécessaire et par des moyens adaptés à leur état.
 
 Pour les personnes nécessitant des soins psychiatriques en application de
 l'article L. 3212-1, s'agissant des mesures prises en application du 1° du II de

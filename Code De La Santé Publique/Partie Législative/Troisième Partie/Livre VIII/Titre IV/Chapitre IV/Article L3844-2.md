@@ -5,10 +5,7 @@ titre II du livre II de la présente partie sont applicables en
 Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations
 suivantes :
 
-1° A la fin de la seconde phrase du premier alinéa de l'article L. 3222-1-1, les
-mots : " agréé dans les conditions prévues aux articles L. 6312-1 et L. 6312-5 "
-sont remplacés par les mots : " conformément à la réglementation applicable
-localement " ;
+1° (Abrogé)
 
 2° L'article L. 3222-2 est ainsi rédigé :
 
@@ -34,9 +31,8 @@ représentant, le président du tribunal de première instance ou son délégué
 4° A l'article L. 3222-5, les mots : " dans chaque département, une commission
 départementale " sont remplacés par les mots : " une commission " ;
 
-5° A la fin du second alinéa de l'article L. 3222-3, à l'article L. 3222-6 et au
-premier alinéa du 3° et au 6° de l'article L. 3223-1, les mots : " en Conseil
-d'Etat " sont supprimés ;
+5° A l'article L. 3222-6 et au premier alinéa du 3° et au 6° de l'article L.
+3223-1, les mots : " en Conseil d'Etat " sont supprimés ;
 
 6° A l'intitulé du chapitre III, le mot : " départementale " est supprimé ;
 
