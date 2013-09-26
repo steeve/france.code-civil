@@ -8,8 +8,8 @@ pratiques de prescription observées au niveau régional. Il organise, notamment
 sur la base de ces travaux, des échanges réguliers sur les pratiques relatives à
 l'usage des médicaments et des produits et prestations, notamment ceux figurant
 sur la liste visée à l'article L. 162-22-7 et également, s'agissant des produits
-et prestations, ceux visés à la dernière phrase du premier alinéa ainsi qu'au
-quatrième alinéa de l'article L. 165-1.
+et prestations, ceux visés à la dernière phrase du premier alinéa de l'article
+L. 165-1.
 
 La dotation régionale prévue à l'article L. 162-22-13 peut contribuer au
 financement de cet observatoire.

@@ -1,7 +1,7 @@
 Article D162-9
 ----
 Le contrat de bon usage des médicaments et des produits et prestations mentionné
-à l'article L. 162-22-7 est conclu, pour une durée de trois à cinq ans, entre le
+à l'article L. 162-22-7 est conclu, pour une durée de cinq ans, entre le
 directeur général de l'agence régionale de santé, le médecin-conseil régional du
 régime général de l'assurance maladie et le représentant légal de
 l'établissement après avis conforme de la commission médicale d'établissement ou
