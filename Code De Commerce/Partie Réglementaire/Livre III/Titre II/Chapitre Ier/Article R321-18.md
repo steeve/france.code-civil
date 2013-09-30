@@ -4,8 +4,8 @@ Sous réserve des dispositions de l'article R. 321-65, nul ne peut diriger des
 ventes volontaires de meubles aux enchères publiques s'il ne remplit les
 conditions suivantes :
 
-1° Etre Français ou ressortissant d'un Etat autre que la France membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
+1° Etre Français ou ressortissant d'un Etat autre que la France membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
 
 2° N'avoir fait l'objet ni d'une condamnation pénale pour des faits contraires à
 l'honneur ou à la probité ni, dans la profession qu'il exerçait antérieurement,
@@ -14,13 +14,11 @@ révocation, de retrait d'agrément ou d'autorisation pour des faits de même
 nature ;
 
 3° Sous réserve des dispenses prévues aux articles R. 321-19 et R. 321-21, être
-soit titulaire d'un diplôme national en droit et d'un diplôme national
-d'histoire de l'art, d'arts appliqués, d'archéologie ou d'arts plastiques, l'un
-de ces diplômes étant au moins une licence et l'autre sanctionnant au moins un
-niveau de formation correspondant à deux années d'études supérieures, soit
-titulaire de titres ou diplômes, admis en dispense, dont la liste est fixée par
-arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
-chargé de l'enseignement supérieur ;
+soit titulaire d'un diplôme national de licence en droit et d'un diplôme
+national de licence en histoire de l'art, ou en arts appliqués, ou en
+archéologie ou en arts plastiques, soit titulaire de titres ou diplômes, admis
+en dispense, dont la liste est fixée par arrêté conjoint du garde des sceaux,
+ministre de la justice, et du ministre chargé de l'enseignement supérieur ;
 
 4° Avoir subi avec succès l'examen d'accès au stage prévu aux articles R. 321-20
 à R. 321-25 ;

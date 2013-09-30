@@ -9,7 +9,7 @@ dispositions suivantes du code sont applicables dans le Département de Mayotte 
 
 2° Le livre II, à l'exception des articles R. 229-1 à R. 229-26 et R. 252-1 ;
 
-3° Le livre III, à l'exception des articles R. 321-1 à R. 321-73 ;
+3° Le livre III, à l'exception de l'article R. 321-18-1 ;
 
 4° Le livre IV, à l'exception des articles R. 463-16, R. 470-2 à R. 470-7 ;
 
