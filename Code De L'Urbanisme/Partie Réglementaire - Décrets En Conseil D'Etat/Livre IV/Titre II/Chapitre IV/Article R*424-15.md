@@ -16,7 +16,9 @@ décision prise sur la déclaration préalable.
 En outre, dans les huit jours de la délivrance expresse ou tacite du permis ou
 de la décision de non-opposition à la déclaration préalable, un extrait du
 permis ou de la déclaration est publié par voie d'affichage à la mairie pendant
-deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre
+deux mois. Lorsqu'une dérogation ou une adaptation mineure est accordée,
+l'affichage en mairie porte sur l'intégralité de l'arrêté. L'exécution de la
+formalité d'affichage en mairie fait l'objet d'une mention au registre
 chronologique des actes de publication et de notification des arrêtés du maire
 prévu à l'article R. 2122-7 du code général des collectivités territoriales.
 

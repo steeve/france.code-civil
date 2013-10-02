@@ -17,6 +17,10 @@ Deux exemplaires supplémentaires du dossier doivent être fournis lorsque le
 projet est situé dans le coeur d'un parc national délimité en application de
 l'article L. 331-2 du code de l'environnement.
 
+Un exemplaire supplémentaire du dossier doit être fourni lorsqu'une demande de
+dérogation prévue à l'article L. 111-4-1 du code de la construction et de
+l'habitation est jointe à la demande de permis.
+
 Les arrêtés prévus par les articles R. 434-1, R. 444-1 et R. 453-1 peuvent
 prévoir que certaines pièces doivent être en outre fournies en un nombre plus
 important d'exemplaires.

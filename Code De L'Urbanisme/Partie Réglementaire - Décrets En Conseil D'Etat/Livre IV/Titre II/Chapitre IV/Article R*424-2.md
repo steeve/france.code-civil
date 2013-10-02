@@ -37,4 +37,9 @@ commerce, en cas d'avis défavorable de la commission départementale
 d'aménagement commercial ou, le cas échéant, de la Commission nationale
 d'aménagement commercial ;
 
-i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit.
+i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit ;
+
+j) Lorsque la délivrance du permis est subordonnée, en application de l'article
+L. 425-13, à l'obtention d'une dérogation prévue par l'article L. 111-4-1 du
+code de la construction et de l'habitation et que cette dérogation a été
+refusée.
