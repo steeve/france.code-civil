@@ -9,3 +9,6 @@ de l'article L. 642-1.
 
 La modification de l'aire de mise en valeur de l'architecture et du patrimoine
 emporte, le cas échéant, la modification du plan local d'urbanisme.
+
+Une aire de mise en valeur de l'architecture et du patrimoine peut être adaptée
+dans les conditions définies à l'article L. 300-6-1 du code de l'urbanisme.

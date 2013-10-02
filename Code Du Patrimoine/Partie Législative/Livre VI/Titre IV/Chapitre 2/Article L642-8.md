@@ -25,3 +25,9 @@ paysager créée antérieurement à la date d'entrée en vigueur de la loi n°
 2010-788 du 12 juillet 2010 précitée est instruite selon les dispositions du
 présent chapitre et conduit à l'établissement d'une aire de mise en valeur de
 l'architecture et du patrimoine.
+
+Les zones de protection du patrimoine architectural, urbain et paysager créées
+avant la date d'entrée en vigueur de la loi n° 2010-788 du 12 juillet 2010
+précitée peuvent être adaptées dans les conditions définies à l'article L.
+300-6-1 du code de l'urbanisme. Cette adaptation ne conduit pas à
+l'établissement d'une aire de mise en valeur de l'architecture et du patrimoine.

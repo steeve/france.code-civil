@@ -24,3 +24,6 @@ délai de deux mois à compter de la transmission du projet.
 
 Le projet de modification est approuvé par l'organe délibérant de
 l'établissement public de coopération intercommunale.
+
+Le programme local de l'habitat peut également être adapté dans les conditions
+définies à l'article L. 300-6-1 du code de l'urbanisme.

@@ -1,8 +1,8 @@
 Article L371-3
 ----
-Un document-cadre intitulé "Schéma régional de cohérence écologique" est
+Un document-cadre intitulé " Schéma régional de cohérence écologique " est
 élaboré, mis à jour et suivi conjointement par la région et l'Etat en
-association avec un comité régional "trames verte et bleue" créé dans chaque
+association avec un comité régional " trames verte et bleue " créé dans chaque
 région. Ce comité comprend notamment des représentants des collectivités
 territoriales concernées et de leurs groupements, et notamment de l'ensemble des
 départements de la région, des représentants des parcs naturels régionaux de la
@@ -30,10 +30,10 @@ périmètre du schéma. Cet avis est réputé favorable s'il n'a pas été rendu
 
 Le projet de schéma régional de cohérence écologique, assorti des avis
 recueillis, est soumis à enquête publique, réalisée conformément au chapitre III
-du titre II du livre Ier, par le représentant de l'Etat dans la région.A l'issue
-de l'enquête publique, le schéma, éventuellement modifié pour tenir notamment
-compte des observations du public, est soumis à délibération du conseil régional
-et adopté par arrêté du représentant de l'Etat dans la région.
+du titre II du livre Ier, par le représentant de l'Etat dans la région. A
+l'issue de l'enquête publique, le schéma, éventuellement modifié pour tenir
+notamment compte des observations du public, est soumis à délibération du
+conseil régional et adopté par arrêté du représentant de l'Etat dans la région.
 
 Le schéma adopté est tenu à la disposition du public.
 
@@ -85,7 +85,10 @@ Au plus tard à l'expiration d'un délai fixé par décret, le président du con
 régional et le représentant de l'Etat dans la région procèdent conjointement à
 une analyse des résultats obtenus du point de vue de la préservation et de la
 remise en bon état des continuités écologiques par la mise en œuvre du schéma
-mentionné au premier alinéa.A l'issue de cette analyse, le conseil régional
+mentionné au premier alinéa. A l'issue de cette analyse, le conseil régional
 délibère sur son maintien en vigueur ou sur sa révision. Le représentant de
 l'Etat dans région se prononce par décision dans les mêmes termes. Il est
 procédé à la révision du schéma selon la procédure prévue pour son élaboration.
+
+Le schéma régional de cohérence écologique peut être adapté dans les conditions
+définies à l'article L. 300-6-1 du code de l'urbanisme.
