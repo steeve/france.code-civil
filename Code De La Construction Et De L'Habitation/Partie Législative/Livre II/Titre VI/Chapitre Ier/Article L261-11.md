@@ -9,9 +9,9 @@ b) Son prix et les modalités de paiement de celui-ci ;
 c) Le délai de livraison ;
 
 d) Lorsqu'il revêt la forme prévue à l'article 1601-3 du code civil, reproduit à
-l'article L. 261-3 du présent code, la garantie de l'achèvement de l'immeuble ou
-du remboursement des versements effectués en cas de résolution du contrat à
-défaut d'achèvement.
+l'article L. 261-3 du présent code, la justification de la garantie financière
+prescrite à l'article L. 261-10-1, l'attestation de la garantie étant établie
+par le garant et annexée au contrat.
 
 Toutefois, lorsque la vente concerne une partie d'immeuble, le contrat peut ne
 comporter que les indications propres à cette partie, les autres précisions
