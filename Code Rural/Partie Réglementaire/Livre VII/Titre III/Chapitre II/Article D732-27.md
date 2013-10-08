@@ -1,10 +1,11 @@
 Article D732-27
 ----
 Pour pouvoir bénéficier de l'allocation de remplacement prévue à l'article L.
-732-12-1, les pères désignés à ce même article doivent remplir l'ensemble des
+732-12-1, les assurés désignés à ce même article doivent remplir l'ensemble des
 conditions suivantes :
 
-1° Justifier de l'établissement de la filiation de l'enfant à leur égard ;
+1° Adresser à l'organisme dont ils relèvent la ou les pièces justificatives
+mentionnées à l'article D. 331-4 du code de la sécurité sociale ;
 
 2° Participer de manière constante, à plein temps ou à temps partiel, aux
 travaux de l'exploitation ou de l'entreprise agricole au titre de laquelle ils
