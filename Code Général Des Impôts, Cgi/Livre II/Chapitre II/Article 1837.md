@@ -4,8 +4,8 @@ I. Celui qui a formulé frauduleusement les affirmations prescrites par les
 dispositions du livre Ier, 1ere partie, titre IV, chapitre Ier et les textes
 pris pour leur exécution, est puni de trois ans d'emprisonnement et de 45 000 €
 d'amende. Le tribunal peut également prononcer l'interdiction des droits
-civiques, civils et de famille prévue par l'article 131-26 du code pénal pour
-une durée de cinq ans au plus.
+civiques, civils et de famille prévue par les articles 131-26 et 131-26-1 du
+code pénal .
 
 Lorsque l'affirmation jugée frauduleuse émane d'un ou de plusieurs des
 cohéritiers solidaires, ou que la déclaration a été souscrite par un mandataire,

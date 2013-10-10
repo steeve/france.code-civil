@@ -25,3 +25,8 @@ possèdent ou des voix dont ils disposent, en cette qualité, un usage qu'ils
 savent contraire aux intérêts de la société, à des fins personnelles ou pour
 favoriser une autre société ou une autre entreprise dans laquelle ils sont
 intéressés directement ou indirectement.
+
+Outre les peines complémentaires prévues à l'article L. 249-1, le tribunal peut
+également prononcer à titre de peine complémentaire, dans les cas prévus au
+présent article, l'interdiction des droits civiques, civils et de famille prévue
+à l'article 131-26 du code pénal.

@@ -37,8 +37,8 @@ ou dont il a la libre disposition ;
 l'infraction ou de la chose qui en est le produit, à l'exception des objets
 susceptibles de restitution ;
 
-9° L'interdiction, suivant les modalités prévues par l'article 131-26, des
-droits civiques, civils et de famille ;
+9° L'interdiction, suivant les modalités prévues aux articles 131-26 et
+131-26-1, des droits civiques, civils et de famille ;
 
 10° L'interdiction de séjour suivant les modalités prévues par l'article 131-31
 ;

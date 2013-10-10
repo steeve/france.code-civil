@@ -1,11 +1,13 @@
 Article 432-13
 ----
-Est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende le fait, par
-une personne ayant été chargée, en tant que fonctionnaire ou agent d'une
-administration publique, dans le cadre des fonctions qu'elle a effectivement
-exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée,
-soit de conclure des contrats de toute nature avec une entreprise privée ou de
-formuler un avis sur de tels contrats, soit de proposer directement à l'autorité
+Est puni de trois ans d'emprisonnement et d'une amende de 200 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
+une personne ayant été chargée, en tant que membre du Gouvernement, titulaire
+d'une fonction exécutive locale, fonctionnaire ou agent d'une administration
+publique, dans le cadre des fonctions qu'elle a effectivement exercées, soit
+d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de
+conclure des contrats de toute nature avec une entreprise privée ou de formuler
+un avis sur de tels contrats, soit de proposer directement à l'autorité
 compétente des décisions relatives à des opérations réalisées par une entreprise
 privée ou de formuler un avis sur de telles décisions, de prendre ou de recevoir
 une participation par travail, conseil ou capitaux dans l'une de ces entreprises
