@@ -2,11 +2,7 @@ Article LO544
 ----
 I.-Sont inéligibles au conseil territorial :
 
-1° Pendant un an à compter de la décision juridictionnelle constatant
-l'inéligibilité, le président du conseil territorial et les membres de celui-ci
-qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi
-n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie
-politique ;
+1° (Abrogé) ;
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose
 jugée, de leur droit d'éligibilité en application des lois qui autorisent cette
@@ -19,15 +15,15 @@ qui ont exercé leurs fonctions à Saint-Pierre-et-Miquelon depuis moins de troi
 ans ;
 
 4° Les personnes déclarées inéligibles en application des articles L. 118-3, L.
-118-4, LO 136-1 ou LO 136-3 ;
+118-4, LO. 136-1 ou LO. 136-3 ;
 
 5° Pendant un an à compter de la décision devenue définitive du juge
 administratif prononçant sa démission d'office, le membre du conseil territorial
 qui a refusé, sans excuse valable, d'exercer certaines des fonctions qui lui
-sont dévolues par la loi, conformément à l'article LO 6431-3 du code général des
-collectivités territoriales ;
+sont dévolues par la loi, conformément à l'article LO. 6431-3 du code général
+des collectivités territoriales ;
 
-6° Le Défenseur des droits (1).
+6° Le Défenseur des droits.
 
 II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent
 leurs fonctions à Saint-Pierre-et-Miquelon ou s'ils les ont exercées depuis
