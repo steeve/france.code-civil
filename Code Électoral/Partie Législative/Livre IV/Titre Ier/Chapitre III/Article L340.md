@@ -9,10 +9,7 @@ fonctions concernent ou ont concerné tout ou partie du territoire de la région
 affectés au secrétariat général pour les affaires régionales en qualité de
 secrétaire général ou de chargé de mission ;
 
-3° Pour une durée d'un an, le président de conseil régional ou le conseiller
-régional visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11 mars
-1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même
-article.
+3° (Abrogé).
 
 Pendant la durée de ses fonctions, le Contrôleur général des lieux de privation
 de liberté ne peut être candidat à un mandat de conseiller régional s'il
