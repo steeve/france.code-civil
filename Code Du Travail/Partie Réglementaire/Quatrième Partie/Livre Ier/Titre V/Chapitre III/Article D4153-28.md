@@ -1,8 +1,13 @@
 Article D4153-28
 ----
-Il est interdit d'employer les jeunes travailleurs de moins de dix-huit ans : 1°
-Aux activités de retrait ou de confinement d'amiante ou de matériaux contenant
-de l'amiante, mentionnées à l'article R. 4412-114 ; 2° Aux activités et
-interventions susceptibles de provoquer l'émission de fibres d'amiante,
-mentionnées à l'article R. 4412-139, sur des flocages ou des calorifugeages
-contenant de l'amiante.
+I.-Il est interdit d'affecter les jeunes à des travaux impliquant l'utilisation
+ou l'entretien :
+
+1° Des machines mentionnées à l'article R. 4313-78, quelle que soit la date de
+mise en service ;
+
+2° Des machines comportant des éléments mobiles concourant à l'exécution du
+travail qui ne peuvent pas être rendus inaccessibles durant leur fonctionnement.
+
+II.-Il peut être dérogé à l'interdiction mentionnée au I dans les conditions et
+formes prévues à la section 3 du présent chapitre.

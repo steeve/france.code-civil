@@ -1,5 +1,6 @@
 Article D4153-25
 ----
-Il est interdit d'employer les jeunes travailleurs âgés de moins de seize ans au
-service des cuves, bassins, réservoirs ou récipients de toute nature contenant
-des liquides, gaz ou vapeurs inflammables, nocifs, toxiques ou corrosifs.
+Il est interdit d'affecter les jeunes à des travaux de démolition, de tranchées,
+comportant des risques d'effondrement et d'ensevelissement, notamment des
+travaux de blindage, de fouilles ou de galeries ainsi qu'à des travaux
+d'étaiement.

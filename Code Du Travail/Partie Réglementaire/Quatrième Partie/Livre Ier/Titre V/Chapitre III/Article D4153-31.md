@@ -1,6 +1,7 @@
 Article D4153-31
 ----
-Il est interdit d'employer les jeunes travailleurs de moins de dix-huit ans au
-service des appareils à pression soumis aux prescriptions du décret du 2 avril
-1926 portant règlement sur les appareils à vapeur autres que ceux placés à bord
-des bateaux.
+I. - Il est interdit en milieu professionnel d'affecter les jeunes au montage et
+démontage d'échafaudages.
+
+II. - Il peut être dérogé à l'interdiction mentionnée au I dans les conditions
+et formes prévues à la section 3 du présent chapitre.

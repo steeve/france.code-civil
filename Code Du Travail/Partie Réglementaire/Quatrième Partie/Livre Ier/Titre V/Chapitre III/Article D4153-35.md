@@ -1,7 +1,8 @@
 Article D4153-35
 ----
-Il est interdit d'employer les jeunes travailleurs âgés de moins de dix-huit ans
-aux travaux suivants et de les admettre de manière habituelle dans les locaux
-affectés à ces travaux : 1° Abattage des animaux dans les abattoirs, sauf pour
-les apprentis en dernière année ; 2° Travaux dans les ménageries d'animaux
-féroces ou venimeux.
+I. - Il est interdit d'affecter les jeunes à des travaux de coulée de verre ou
+de métaux en fusion et de les admettre de manière habituelle dans les locaux
+affectés à ces travaux.
+
+II. - Il peut être dérogé à l'interdiction mentionnée au I dans les conditions
+et formes prévues à la section 3 du présent chapitre.

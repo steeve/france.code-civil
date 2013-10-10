@@ -1,5 +1,9 @@
 Article D4153-33
 ----
-Il est interdit d'employer les jeunes travailleurs de moins de dix-huit ans aux
-travaux susceptibles de les exposer à l'action des rayonnements ionisants et de
-les admettre de manière habituelle dans les locaux affectés à ces travaux.
+I.-Il est interdit aux jeunes de procéder à des travaux impliquant les
+opérations de manipulation, de surveillance, de contrôle et d'intervention sur
+des appareils à pression soumis à suivi en service en application de l'article
+L. 557-28 du code de la l'environnement.
+
+II.-Il peut être dérogé à l'interdiction mentionnée au I dans les conditions et
+formes prévues à la section 3 du présent chapitre.
