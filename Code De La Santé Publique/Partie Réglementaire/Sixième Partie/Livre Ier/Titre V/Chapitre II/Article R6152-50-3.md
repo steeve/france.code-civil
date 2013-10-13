@@ -14,7 +14,7 @@ de l'article R. 6152-32.
 
 Sans préjudice des dispositions relatives au cumul d'activités, la rémunération
 nette perçue par le praticien hospitalier placé en recherche d'affectation est
-réduite du montant des revenus nets qu'il perçoit au titre de toute mission qui
-lui est confiée dans le cadre de la recherche d'affectation, à l'exception des
-indemnités mentionnées dans la deuxième phrase du premier alinéa du présent
-article.
+réduite du montant des revenus nets qu'il perçoit au titre de toute mission ou
+de tout stage, assurés dans le cadre de la recherche d'affectation, à
+l'exception des indemnités mentionnées dans la deuxième phrase du premier alinéa
+du présent article.

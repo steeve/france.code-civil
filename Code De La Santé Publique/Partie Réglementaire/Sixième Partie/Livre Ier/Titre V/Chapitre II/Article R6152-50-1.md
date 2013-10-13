@@ -26,6 +26,8 @@ régionale de santé, celui-ci saisit le directeur général du Centre national 
 gestion sans que les propositions et avis mentionnés au troisième alinéa soient
 requis.
 
-Le placement d'un praticien hospitalier en recherche d'affectation est décidé,
-pour une durée maximale de deux ans, par le directeur général du Centre national
-de gestion après avis de la commission statutaire nationale.
+Le placement d'un praticien hospitalier en recherche d'affectation est prononcé,
+après avis de la commission statutaire nationale et pour une durée maximale de
+deux ans, par arrêté du directeur général du Centre national de gestion qui
+exerce à son égard toutes les prérogatives reconnues à l'autorité investie du
+pouvoir de nomination.

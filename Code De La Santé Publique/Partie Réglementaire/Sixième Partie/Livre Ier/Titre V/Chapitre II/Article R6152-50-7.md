@@ -1,0 +1,7 @@
+Article R6152-50-7
+----
+Le praticien mis en disponibilité d'office en application du cinquième alinéa de
+l'article L. 6152-5-2 peut bénéficier de l'allocation d'assurance prévue à l'
+article L. 5424-1 du code du travail dans les conditions prévues aux articles L.
+5422-2 et L. 5422-3 du même code. Cette allocation lui est versée par le Centre
+national de gestion.
