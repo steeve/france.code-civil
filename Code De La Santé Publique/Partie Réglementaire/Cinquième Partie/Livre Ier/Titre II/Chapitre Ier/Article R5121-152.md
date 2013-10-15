@@ -15,19 +15,16 @@ sévérité ou l'évolution ne correspondent pas aux informations contenues dans
 résumé des caractéristiques du produit mentionné à l'article R. 5121-21 ;
 
 4° " Mésusage " : une utilisation intentionnelle et inappropriée d'un médicament
-ou d'un produit en rapport avec la dose autorisée ou prescrite, la voie
-d'administration, les indications, ou non conforme aux termes de l'autorisation
-de mise sur le marché ou de l'enregistrement ainsi qu'aux recommandations de
-bonnes pratiques ;
+ou d'un produit, non conforme à l'autorisation de mise sur le marché ou à
+l'enregistrement ainsi qu'aux recommandations de bonnes pratiques ;
 
 5° " Abus " : un usage excessif intentionnel, persistant ou sporadique, de
 médicaments ou de produits mentionnés à l'article R. 5121-150, accompagné de
 réactions physiques ou psychologiques nocives ;
 
 6° " Surdosage " : administration d'une quantité de médicament ou de produit,
-par prise ou par jour, qui est supérieure à la dose maximale recommandée dans le
-résumé des caractéristiques du produit mentionné à l'article R. 5121-1. Sont
-pris en compte les effets cumulés dus au surdosage ;
+quantité par prise ou cumulée supérieure à la dose maximale recommandée par le
+résumé des caractéristiques du produit mentionné à l'article R. 5121-1 ;
 
 7° " Etudes de sécurité post-autorisation " : toute étude portant sur un
 médicament ou un produit autorisé et visant à identifier, caractériser ou

@@ -6,7 +6,8 @@ activité de réalisation, de préparation hospitalière et de préparation
 magistrale sont soumis aux dispositions des articles R. 5121-162, R. 5121-163 à
 l'exclusion du 4°, R. 5121-164 à l'exclusion des 3° et 5° et R. 5121-165.
 
-Ils déclarent au centre régional de pharmacovigilance :
+Ils déclarent, par voie électronique, à la base de données européenne "
+Eudravigilance " :
 
 1° Tout effet indésirable grave suspecté d'être dû aux préparations
 hospitalières et magistrales qu'ils réalisent, dont ils ont connaissance, sans
