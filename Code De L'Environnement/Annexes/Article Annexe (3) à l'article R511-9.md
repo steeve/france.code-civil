@@ -168,7 +168,7 @@ l'annexe 13-7 de la première partie du code de la santé publique.
 Règles de classement :
 
 1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au
-titre de la présente nomenclature dès lors qu'elles sont mises en œuvre dans un
+titre de la présente nomenclature dès lors qu'elles sont mises en oeuvre dans un
 établissement industriel ou commercial, dont une installation au moins est
 soumise à autorisation au titre d'une autre rubrique de la nomenclature.
 
@@ -525,7 +525,7 @@ Palmipèdes gras en gavage = 7.
 
 Couvoirs
 
-Capacité logeable d'eau moins 100 000 oeufs
+Capacité logeable d'eau moins 100 000 œufs
 
 
 D
@@ -807,14 +807,8 @@ A
 
 3
 
-1. La capacité de production étant :
-
 B. - Autres installations que celles visées au A, la quantité de produits
 entrant étant :
-
-a) supérieure à 250 t/j
-
-3
 
 - supérieure à 2 t/j
 
@@ -825,10 +819,6 @@ E
 
 
 D
-
-b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
-
-1
 
 2225
 
@@ -939,7 +929,7 @@ Production par distillation d'alcools de bouche d'origine agricole
 
 La capacité de production exprimée en équivalent alcool pur étant :
 
-1. Supérieure à 1 300 hl/ j
+1. Supérieure à 1 300 hl/j
 
 
 A
@@ -951,18 +941,18 @@ l/j
 
 5
 
-2. Supérieure à 30 hl/ j et inférieure ou égale à 1 300 hl/ j
+2. Supérieure à 30 hl/j et inférieure ou égale à 1 300 hl/j
 
 
 E
 
-3. Supérieure à 0,5 hl/ j et inférieure ou égale à 30 hl/ j
+3. Supérieure à 0,5 hl/j et inférieure ou égale à 30 hl/j
 
 
 D
 
 Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux
-points 2 et 3 ci-dessus, de 30 hl/ j de capacité de production d'alcool pur est
+points 2 et 3 ci-dessus, de 30 hl/j de capacité de production d'alcool pur est
 remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
 
 2251
@@ -979,16 +969,12 @@ A
 B. Autres installations que celles visées au A, la capacité de production étant
 :
 
-1. Supérieure à 20 000 hl/ an
+1. Supérieure à 20 000 hl/an
 
 
 E
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
-
-1
-
-2. Supérieure à 500 hl/ an, mais inférieure ou égale à 20 000 hl/ an
+2. Supérieure à 500 hl/an, mais inférieure ou égale à 20 000 hl/an
 
 
 D
@@ -1060,18 +1046,18 @@ AS
 
 6
 
-2. supérieure ou égale à 500 m ³
+2. supérieure ou égale à 500 m³
 
 
 A
 
 2
 
-2. supérieure ou égale à 500 m ³
+2. supérieure ou égale à 500 m³
 
 3
 
-3. supérieure ou égale à 50 m ³
+3. supérieure ou égale à 50 m³
 
 
 D
@@ -1126,7 +1112,7 @@ D
 
 2265
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 Le volume total des réacteurs ou fermenteurs étant :
 
@@ -1399,7 +1385,7 @@ D
 2415
 
 
-Installations de mise en oeuvre de produits de préservation du bois et matériaux
+Installations de mise en œuvre de produits de préservation du bois et matériaux
 dérivés
 
 1. La quantité susceptible d'être présente dans l'installation étant supérieure
@@ -1662,7 +1648,7 @@ pour l'implantation des constructions bénéficiant d'un permis de construire et
 des affouillements réalisés sur l'emprise des voies de circulation), lorsque les
 matériaux prélevés sont utilisés à des fins autres que la réalisation de
 l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie
-d'affouillement est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à
+d'affouillement est supérieure à 1 000 m 2 ou lorsque la quantité de matériaux à
 extraire est supérieure à 2 000 t
 
 

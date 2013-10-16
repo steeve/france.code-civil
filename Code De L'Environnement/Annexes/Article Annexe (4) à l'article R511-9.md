@@ -37,7 +37,7 @@ A
 
 2
 
-a) supérieure à 5 MW
+a) Supérieure à 5 MW
 
 3
 
@@ -46,7 +46,7 @@ b) Supérieure à 200 kW, mais inférieure ou égale à 550 kW
 
 E
 
-b) supérieure à 500 kW, mais inférieure ou égale à 5 MW
+b) Supérieure à 550 kW, mais inférieure ou égale à 5 MW
 
 1
 
@@ -106,16 +106,16 @@ A
 
 E
 
-3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m².
+3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m²
 
 
 D
 
+2518
+
 Installation de production de béton prêt à l'emploi équipée d'un dispositif
 d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations
 visées par la rubrique 2522. La capacité de malaxage étant :
-
-2518
 
 a) Supérieure à 3 m 3
 
@@ -201,7 +201,7 @@ A
 
 2
 
-La capacité de production étant supérieure à 20 t/ j
+La capacité de production étant supérieure à 20 t/j
 
 1
 
@@ -591,7 +591,7 @@ plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à
 l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la
 rubrique 2564.
 
-1. Lorsqu'il y a mise en oeuvre de cadmium
+1. Lorsqu'il y a mise en œuvre de cadmium
 
 
 A
@@ -602,7 +602,7 @@ A
 
 4
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à
 l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 2. Le volume des cuves de traitement étant :
@@ -790,7 +790,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication
 industrielle, emploi de) :
 
 1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la
-mise en œuvre dans un procédé d'une autre installation
+mise en oeuvre dans un procédé d'une autre installation
 
 
 A
@@ -990,8 +990,8 @@ D
 
 -
 
-2. Utilisation d'organismes génétiquement modifiés de classe de confinement
-2,3,4
+2. Utilisation d'organismes génétiquement modifiés de classe de confinement 2,
+3, 4
 
 
 A
@@ -1137,7 +1137,7 @@ A
 Installation de transit, regroupement ou tri de métaux ou de déchets de métaux
 non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non
 dangereux, à l'exclusion des activités et installations visées aux rubriques
-2710,2711 et 2712.
+2710, 2711 et 2712.
 
 La surface étant :
 
@@ -1209,16 +1209,6 @@ dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
 code de l'environnement, à l'exclusion des installations visées aux rubriques
 2710, 2711, 2712, 2719 et 2793.
 
-La quantité susceptible d'être présente étant :
-
-1. Supérieure ou égale à 50 t
-
-10
-
-2. Inférieure à 50 t
-
-3
-
 1. La quantité des substances dangereuses ou préparations dangereuses
 susceptible d'être présente dans l'installation étant supérieure ou égale aux
 seuils AS des rubriques d'emploi ou de stockage de ces substances ou
@@ -1238,6 +1228,16 @@ substances ou préparations
 A
 
 2
+
+La quantité susceptible d'être présente étant :
+
+1. Supérieure ou égale à 50 t
+
+10
+
+2. Inférieure à 50 t
+
+3
 
 2718
 
@@ -1399,26 +1399,27 @@ Installation de stockage de déchets autre que celles mentionnées à la rubriqu
 2720 et celles relevant des dispositions de l'article L. 541-30-1 du code de
 l'environnement.
 
+Quels que soient les déchets stockés :
+
 1. Installation de stockage de déchets dangereux ;
-
-
-A
-
-2
 
 2. Installation de stockage de déchets non dangereux.
 
 
 A
 
+A
+
+2
+
 1
 
-1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la
+a) La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la
 capacité totale de l'installation étant supérieure ou égale à 25 000 t
 
 6
 
-2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité
+b) La capacité journalière autorisée étant inférieure à 10 t/j et la capacité
 totale de l'installation étant inférieure à 25 000 t
 
 3
@@ -1496,6 +1497,10 @@ ayant, le cas échéant, subi une étape de méthanisation.
 1. Compostage de matière végétale ou déchets végétaux, d'effluents d'élevage, de
 matières stercoraires :
 
+1. Non soumis à la taxe
+
+-
+
 a) La quantité de matières traitées étant supérieure ou égale à 50 t/j
 
 
@@ -1520,6 +1525,10 @@ site, de boues de station d'épuration des eaux urbaines, de papeteries,
 d'industries agroalimentaires, seuls ou en mélange avec des déchets admis dans
 une installation relevant de la rubrique 2780-1 :
 
+2. Non soumis à la taxe
+
+-
+
 a) La quantité de matières traitées étant supérieure ou égale à 20 t/j
 
 
@@ -1540,11 +1549,7 @@ A
 
 3
 
-1. Non soumis à la taxe
-
--
-
-2. La quantité de matières et déchets traités étant :
+3. La quantité de matières et déchets traités étant :
 
 a) Supérieure ou égale à 50 t/j
 
@@ -1596,6 +1601,16 @@ installations réglementées au titre d'une autre législation
 
 
 A
+
+3
+
+La quantité de déchets traités étant :
+
+a) Supérieure ou égale à 50 t/j
+
+6
+
+b) Inférieure à 50 t/j
 
 3
 
@@ -1687,6 +1702,10 @@ producteur initial de ces déchets.
 La quantité équivalente totale de matière active (**) susceptible d'être
 présente dans l'installation étant :
 
+1. Non soumis à la taxe
+
+-
+
 a) Supérieure à 10 t
 
 
@@ -1719,10 +1738,18 @@ explosifs.
 La quantité équivalente totale de matière active (**) susceptible d'être
 présente dans l'installation étant :
 
+2. Installation de transit, regroupement ou tri de déchets de produits
+explosifs, la quantité équivalente totale de matière active susceptible d'être
+présente dans l'installation étant :
+
 a) Supérieure à 10 t
 
 
 AS
+
+6
+
+a) Supérieure à 10 t
 
 6
 
@@ -1733,16 +1760,30 @@ A
 
 3
 
+b) Supérieure à 100 kg mais inférieure ou égale à 10 t
+
+2
+
 c) Inférieure ou égale à 100 kg
 
 
 DC
+
+c) Non soumis à la taxe
+
+-
 
 3. Autre installation de traitement de déchets de produits explosifs (*)
 (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2).
 
 La quantité équivalente totale de matière active (**) susceptible d'être
 présente dans l'installation étant :
+
+3. Autre installation de traitement de déchets de produits explosifs (mettant en
+œuvre un procédé autre que ceux mentionnés aux 1 et 2)
+
+La quantité équivalente totale de matière active susceptible d'être présente
+dans l'installation étant :
 
 a) Supérieure à 10 t
 
@@ -1751,12 +1792,20 @@ AS
 
 6
 
+a) Supérieure à 10 t
+
+10
+
 b) Inférieure ou égale à 10 t
 
 
 A
 
 3
+
+b) Inférieure ou égale à 10 t
+
+6
 
 Nota. - (*) Les produits explosifs sont définis comme appartenant à la classe 1
 des recommandations des Nations unies relatives au transport des marchandises
@@ -1815,8 +1864,9 @@ participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de
 combustion, des matières entrantes, si la puissance thermique nominale de
 l'installation est :
 
-A. La puissance thermique maximale de l'installation (quantité maximale de
-combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
+A. La puissance thermique nominale de l'installation (fixée et garantie par le
+constructeur, exprimée en PCI et susceptible d'être consommée en marche
+continue), étant :
 
 1. Supérieure ou égale à 20 MW
 
@@ -1825,15 +1875,15 @@ A
 
 3
 
-1. supérieure à 1 000 MW
+a) Supérieure à 1 000 MW
 
 10
 
-supérieure ou égale à 50 MW, mais inférieure à 1 000 MW
+b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW
 
 4
 
-supérieure ou égale à 20 MW, mais inférieure à 50 MW
+c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
 
 1
 
@@ -1847,8 +1897,9 @@ visés en A et C ou sont de la biomasse telle que définie au b (ii) ou au b (ii
 ou au b (v) de la définition de biomasse, et si la puissance thermique nominale
 de l'installation est :
 
-B. La puissance thermique maximale de l'installation (quantité maximale de
-combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
+B. La puissance thermique nominale de l'installation (fixée et garantie par le
+constructeur, exprimée en PCI et susceptible d'être consommée en marche
+continue), étant :
 
 1. Supérieure ou égale à 20 MW
 
@@ -1857,27 +1908,35 @@ A
 
 3
 
-a) supérieure à 1 000 MW
+a) Supérieure à 1 000 MW
 
 10
 
-2. Supérieure à 0,1 MW mais inférieure à 20 MW :
-
-b) supérieure ou égale à 50 MW mais inférieure à 1 000 MW
+b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW
 
 4
+
+
+E
+
+c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
+
+1
+
+d) Supérieure à 0,1 MW mais inférieure à 20 MW lorsque le combustible utilisé
+n'est pas de la biomasse telle que définie au b (ii) ou au b (iii) ou au b (v)
+de la définition de biomasse, ou du biogaz autre que celui visé en 2910-C, ou un
+produit autre que biomasse issu de déchets au sens de l'article L. 541-4-3 du
+code de l'environnement
+
+1
+
+2. Supérieure à 0,1 MW mais inférieure à 20 MW :
 
 a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) ou
 au b (v) de la définition de biomasse, ou de biogaz autre que celui visé en
 2910-C, ou de produit autre que biomasse issu de déchets au sens de l'article L.
 541-4-3 du code de l'environnement
-
-
-E
-
-c) supérieure ou égale à 4 MW mais inférieure à 50 MW
-
-1
 
 b) Dans les autres cas
 
@@ -1986,7 +2045,7 @@ A
 
 Refroidissement par dispersion d'eau dans un flux d'air (installations de)
 
-1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :
+1. Lorsque l'installation n'est pas du type circuit primaire fermé :
 
 a) la puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW
 
@@ -2004,12 +2063,12 @@ b) la puissance thermique évacuée maximale étant inférieure à 2 000 kW
 
 D
 
-2. Lorsque l'installation est du type "circuit primaire fermé"
+2. Lorsque l'installation est du type circuit primaire fermé
 
 
 D
 
-Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau
+Nota : Une installation est de type circuit primaire fermé lorsque l'eau
 dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs
 thermiques étanches situés à l'intérieur de la tour de refroidissement ou
 accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau
@@ -2134,9 +2193,9 @@ DC
 
 2. Lorsque l'application est faite par tout procédé autre que le "trempé"
 (pulvérisation, enduction). Si la quantité maximale de produits susceptible
-d'être mise en oeuvre est :
+d'être mise en œuvre est :
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 a) supérieure à 100 kg/j
 
@@ -2162,7 +2221,7 @@ b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 
 DC
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines
 organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre
 est :
 
@@ -2237,6 +2296,11 @@ A
 
 3
 
+
+Quelle que soit la capacité
+
+3
+
 2970
 
 Stockage géologique de dioxyde de carbone à des fins de lutte contre le
@@ -2248,6 +2312,11 @@ de la nomenclature
 AS
 
 6
+
+
+Quelle que soit la capacité
+
+3
 
 2980
 
@@ -2683,9 +2752,9 @@ aux rubriques 3510 et 3520
 - reconditionnement avant de soumettre les déchets à l'une des autres activités
 énumérées aux rubriques 3510 et 3520
 
-- récupération/ régénération des solvants
+- récupération/régénération des solvants
 
-- recyclage/ récupération de matières inorganiques autres que des métaux ou des
+- recyclage/récupération de matières inorganiques autres que des métaux ou des
 composés métalliques
 
 - régénération d'acides ou de bases
@@ -2868,6 +2937,11 @@ Traitement et transformation, à l'exclusion du seul conditionnement des matièr
 premières ci-après, qu'elles aient été ou non préalablement transformées, en vue
 de la fabrication de produits alimentaires ou d'aliments pour animaux issus :
 
+
+Quelle que soit la capacité
+
+3
+
 1. Uniquement de matières premières animales (autre que le lait exclusivement),
 avec une capacité de production supérieure à 75 t de produits finis par jour
 
@@ -2904,7 +2978,7 @@ quantité entrant dans le calcul de la capacité de production de produits finis
 
 Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
 
-Nota 2.-La présente rubrique ne s'applique pas si la matière première est
+Nota 2. - La présente rubrique ne s'applique pas si la matière première est
 seulement du lait.
 
 3643

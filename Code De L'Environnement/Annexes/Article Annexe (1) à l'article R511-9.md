@@ -90,10 +90,11 @@ attribuées les phrases de risques R. 51 ou R. 51-53 définies par l'arrêté du
 avril 1994 susmentionné.
 
 Le terme gaz désigne toute substance dont la pression de vapeur absolue est
-égale ou supérieure à 101,3 kPa à une température de 20° C. Le terme liquide
-désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se
-trouve pas à l'état solide à une température de 20° C et à une pression normale
-de 101,3 kPa.
+égale ou supérieure à 101,3 kPa à une température de 20° C.
+
+Le terme liquide désigne toute substance qui n'est pas définie comme étant un
+gaz et qui ne se trouve pas à l'état solide à une température de 20° C et à une
+pression normale de 101,3 kPa.
 
 Classification :
 
@@ -515,10 +516,22 @@ A
 
 2
 
+A. Quelle que soit la capacité
+
+6
+
 B. - Emploi ou stockage
+
+B. La quantité totale susceptible d'être présente dans l'installation étant :
+
+2
 
 1. Substances et mélanges solides ; la quantité totale susceptible d'être
 présente dans l'installation étant :
+
+1. Supérieure ou égale à 50 t
+
+2
 
 a) Supérieure ou égale à 50 t
 
@@ -535,6 +548,10 @@ D
 2. Substances et mélanges liquides ; la quantité totale susceptible d'être
 présente dans l'installation étant :
 
+2. Supérieure ou égale à 10 t
+
+2
+
 a) Supérieure ou égale à 10 t
 
 
@@ -549,6 +566,10 @@ D
 
 3. Gaz ou gaz liquéfiés ; la quantité totale susceptible d'être présente dans
 l'installation étant :
+
+3. Supérieure ou égale à 2 t
+
+2
 
 a) Supérieure ou égale à 2 t
 
@@ -676,18 +697,18 @@ a) supérieure ou égale à 200 t
 
 6
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t
+b) supérieure à 1,5 t, mais inférieure à 200 t
 
 
 A
 
 3
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t
+b) supérieure à 1,5 t, mais inférieure à 200 t
 
 3
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t
 
 
 DC
@@ -1989,8 +2010,8 @@ connexion à haute tension.
 
 Le volume des équipements susceptibles de contenir des fluides étant :
 
-1. La quantité totale de fluide susceptible d'être présente dans l'installation
-étant supérieure à 8 000 l
+1. Le volume des équipements susceptibles de contenir des fluides étant
+supérieur à 8 000 l
 
 1
 
@@ -2028,9 +2049,9 @@ D
 3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage
 temporaire.
 
-3. Quelle que soit la capacité
+3. Non soumis à la taxe.
 
-1
+-
 
 1) Fluides autres que l'hexafluorure de soufre :
 
@@ -2549,7 +2570,9 @@ b) Inférieure à 100 kg dans les autres cas
 
 DC
 
-Nota : (1) Les produits explosifs appartiennent à la classe 1 des marchandises
+Nota :
+
+(1) Les produits explosifs appartiennent à la classe 1 des marchandises
 dangereuses et sont classés en divisions de risque et en groupes de
 compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les
 règles relatives à l'évaluation des risques et à la prévention des accidents
