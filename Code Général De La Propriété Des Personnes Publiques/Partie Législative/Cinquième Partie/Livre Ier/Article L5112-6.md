@@ -12,7 +12,7 @@ occupants de constructions affectées à leur habitation édifiées avant le 1er
 janvier 1995.
 
 Les demandes de cession faites en application du présent article doivent, sous
-peine de forclusion, être déposées avant le 1er janvier 2013.
+peine de forclusion, être déposées avant le 1er janvier 2015.
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la
 date du dépôt de la demande de cession. Il est fixé selon les règles applicables
