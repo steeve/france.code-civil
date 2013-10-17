@@ -8,4 +8,5 @@ ou manifestement sous-exploité déterminé a été mis en valeur, demander la
 radiation de ce fonds.
 
 Le préfet constate la réalité de la mise en culture et demande au conseil
-général de prononcer la radiation après avis de la commission départementale.
+départemental de prononcer la radiation après avis de la commission
+départementale.

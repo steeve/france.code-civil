@@ -4,12 +4,13 @@ Les membres de ces conseils sont désignés dans les conditions suivantes :
 
 1° Les conseillers régionaux sont désignés par le conseil régional.
 
-Les conseillers généraux sont désignés par le conseil général. La répartition
-des huit sièges attribués aux conseillers généraux est effectuée selon la
-procédure suivante : chaque département désigne un nombre de représentants égal
-au rapport, arrondi à l'unité inférieure, entre huit et le nombre de
-départements de l'académie. Le ou les sièges restant éventuellement à pourvoir
-sont attribués aux départements dans l'ordre décroissant de leur population.
+Les conseillers départementaux sont désignés par le conseil départemental. La
+répartition des huit sièges attribués aux conseillers départementaux est
+effectuée selon la procédure suivante : chaque département désigne un nombre de
+représentants égal au rapport, arrondi à l'unité inférieure, entre huit et le
+nombre de départements de l'académie. Le ou les sièges restant éventuellement à
+pourvoir sont attribués aux départements dans l'ordre décroissant de leur
+population.
 
 Les maires ou conseillers municipaux sont désignés par accord entre les
 associations départementales des maires ou, à défaut, élus par le collège des
@@ -28,11 +29,10 @@ effet, le recteur d'académie et le directeur régional de l'alimentation, de
 l'agriculture et de la forêt reçoivent les propositions des organisations
 syndicales représentatives dans l'académie pour les personnels relevant du
 ministère de l'éducation nationale et dans la région pour les personnels
-relevant du ministère de l'agriculture :
-
-ils transmettent ces propositions au préfet de région. Les représentants des
-présidents d'université et directeurs d'établissements publics d'enseignement
-supérieur sont nommés par le préfet de région sur proposition du recteur.
+relevant du ministère de l'agriculture : ils transmettent ces propositions au
+préfet de région. Les représentants des présidents d'université et directeurs
+d'établissements publics d'enseignement supérieur sont nommés par le préfet de
+région sur proposition du recteur.
 
 3° Les représentants des parents d'élèves sont nommés par le préfet de région :
 sept au titre des établissements scolaires relevant du ministère de l'éducation

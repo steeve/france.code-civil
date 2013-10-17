@@ -166,7 +166,7 @@ exécutif (8) ;
 (8) L'acceptation provisoire résulte de l'exécutif pour les établissements
 publics de santé, les établissements publics sociaux et médico-sociaux, les
 centre communaux ou intercommunaux d'action sociale ; elle peut résulter du
-maire ou du président de conseil général.
+maire ou du président de conseil départemental.
 
 2. Copie de l'acte de disposition à titre gratuit ; 3. Le cas échéant, demande
 de délivrance de legs (9) ;

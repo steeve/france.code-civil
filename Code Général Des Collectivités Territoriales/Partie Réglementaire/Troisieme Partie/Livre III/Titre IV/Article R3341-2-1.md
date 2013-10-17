@@ -8,7 +8,7 @@ imputées sur les crédits qui doivent être reportés sur le budget de l'exerci
 suivant.
 
 Elles peuvent être payées jusqu'à l'ouverture de ces crédits au vu de l'état des
-restes à réaliser établi par le président du conseil général, retraçant les
-dépenses qui, engagées avant le 31 décembre de l'année précédente, n'ont pas
+restes à réaliser établi par le président du conseil départemental, retraçant
+les dépenses qui, engagées avant le 31 décembre de l'année précédente, n'ont pas
 donné lieu à mandatement avant la clôture de l'exercice. Cet état vaut ouverture
 provisoire de crédits.

@@ -1,10 +1,10 @@
 Article R110
 ----
 Tout bulletin de vote imprimé à l'occasion de l'élection des conseillers
-généraux doit comporter, à la suite du nom du candidat, le nom de la personne
-appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article
-L. 221, précédé ou suivi de l'une des mentions suivantes : " remplaçant " ou "
-suppléant ".
+départementaux doit comporter le nom de chaque membre du binôme de candidats,
+suivi pour chacun d'entre eux du nom de la personne appelée à le remplacer dans
+les cas de vacance prévus par l'article L. 221, précédé ou suivi de la mention
+suivante : " remplaçant ".
 
-Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que
-celui du candidat.
+Les noms des remplaçants doivent être imprimés en caractères de moindres
+dimensions que ceux des membres du binôme de candidats.

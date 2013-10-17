@@ -5,6 +5,6 @@ des collectivités territoriales définit les différents éléments de coûts �
 retenir pour la rémunération du service de mise à disposition de l'assistance
 technique ainsi que les modalités de tarification de celle-ci.
 
-Un arrêté du président du conseil général définit le barème de rémunération
-applicable dans le département. Cet arrêté est publié au recueil des actes
-administratifs du département.
+Un arrêté du président du conseil départemental définit le barème de
+rémunération applicable dans le département. Cet arrêté est publié au recueil
+des actes administratifs du département.

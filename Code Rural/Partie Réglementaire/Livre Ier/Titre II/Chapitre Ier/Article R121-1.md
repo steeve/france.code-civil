@@ -1,14 +1,14 @@
 Article R121-1
 ----
-Lorsque le conseil général a décidé, en application de l'article L. 121-2,
+Lorsque le conseil départemental a décidé, en application de l'article L. 121-2,
 d'instituer une commission communale ou intercommunale d'aménagement foncier,
 son président procède aux désignations qui relèvent de sa compétence et, selon
 le cas, provoque la désignation ou l'élection des membres de cette commission
 dans les conditions prévues aux articles L. 121-3, L. 121-4, L. 121-5 ou L.
 121-5-1.
 
-Le président du conseil général désigne un suppléant à chacun des membres qu'il
-désigne.
+Le président du conseil départemental désigne un suppléant à chacun des membres
+qu'il désigne.
 
 Le commissaire enquêteur, président de la commission communale ou intercommunale
 d'aménagement foncier, est désigné par le président du tribunal de grande
@@ -21,8 +21,8 @@ désigné dans les mêmes conditions.
 
 Le commissaire enquêteur président de la commission est indemnisé par le
 département des vacations effectuées et des frais de déplacement engagés pour
-l'exécution de sa mission. Le président du conseil général fixe le nombre des
-vacations qui lui sont allouées sur la base du nombre d'heures qu'il déclare
+l'exécution de sa mission. Le président du conseil départemental fixe le nombre
+des vacations qui lui sont allouées sur la base du nombre d'heures qu'il déclare
 avoir consacrées à la présidence en tenant compte de la complexité des
 opérations d'aménagement considérées. Le taux de la vacation et les modalités de
 remboursement de frais de déplacement sont ceux fixés en application de

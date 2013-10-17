@@ -9,7 +9,7 @@ représentant du préfet du département, un représentant de l'agence de l'eau 
 s'il y a lieu, un représentant du ou des établissements publics territoriaux de
 bassin compétents dans le département concerné.
 
-Les membres du comité sont nommés par le président du conseil général, en Corse,
-le cas échéant, par le président du conseil exécutif de Corse et dans les
+Les membres du comité sont nommés par le président du conseil départemental, en
+Corse, le cas échéant, par le président du conseil exécutif de Corse et dans les
 départements d'outre-mer par le président du conseil d'administration de
 l'office de l'eau.

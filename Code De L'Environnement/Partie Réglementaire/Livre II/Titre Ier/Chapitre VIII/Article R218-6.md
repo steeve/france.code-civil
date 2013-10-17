@@ -14,7 +14,7 @@ limites sont fixées par arrêté du Premier ministre ;
 
 2° Le directeur, dans les ports autonomes ;
 
-3° Le président du conseil général, dans les ports départementaux ;
+3° Le président du conseil départemental, dans les ports départementaux ;
 
 4° Le maire, dans les ports communaux ;
 

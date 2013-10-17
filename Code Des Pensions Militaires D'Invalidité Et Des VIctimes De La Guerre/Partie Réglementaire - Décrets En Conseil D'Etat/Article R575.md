@@ -1,6 +1,6 @@
 Article R575
 ----
-I.-Sous réserve des dispositions de l'article R. 577 , le conseil départemental
+I.-Sous réserve des dispositions de l'article R. 577, le conseil départemental
 pour les anciens combattants et victimes de guerre et la mémoire de la Nation
 comprend les membres suivants, nommés par arrêté préfectoral :
 
@@ -10,7 +10,7 @@ a) Le préfet, président ;
 
 b) Le maire du chef-lieu de département et, à Paris, le maire de Paris ;
 
-c) Un membre du conseil général ;
+c) Un membre du conseil départemental ;
 
 d) Le délégué militaire départemental ;
 
@@ -38,7 +38,7 @@ administrations ou organismes compétents.
 
 Les membres du deuxième collège sont nommés sur proposition des associations
 départementales qui regroupent les catégories de ressortissants qu'elles
-représentent.A cet effet, elles proposent au représentant de l'Etat dans le
+représentent. A cet effet, elles proposent au représentant de l'Etat dans le
 département deux candidatures pour chacune des catégories énumérées à l'article
 D. 432 (6°).
 

@@ -4,14 +4,15 @@ Le fonctionnement de chaque fonds régional d'aménagement foncier et urbain est
 assuré par un comité de gestion et d'engagement et un comité permanent.
 
 Le comité de gestion et d'engagement est composé de trois représentants de
-l'Etat, de trois conseillers généraux désignés par le conseil général, de trois
-conseillers régionaux désignés par le conseil régional et de deux représentants
-désignés par l'Association des maires. Il est présidé alternativement et par
-période d'un an par le président du conseil général puis par le président du
-conseil régional. Il arrête son règlement intérieur dans lequel sont fixées les
-modalités d'instruction des demandes d'aide. Il se réunit au moins une fois par
-an. Dans le cadre de modalités d'intervention définies contractuellement entre
-les contributeurs, le comité de gestion et d'engagement :
+l'Etat, de trois conseillers départementaux désignés par le conseil
+départemental, de trois conseillers régionaux désignés par le conseil régional
+et de deux représentants désignés par l'Association des maires. Il est présidé
+alternativement et par période d'un an par le président du conseil départemental
+puis par le président du conseil régional. Il arrête son règlement intérieur
+dans lequel sont fixées les modalités d'instruction des demandes d'aide. Il se
+réunit au moins une fois par an. Dans le cadre de modalités d'intervention
+définies contractuellement entre les contributeurs, le comité de gestion et
+d'engagement :
 
 -détermine les orientations générales du fonds. Il s'appuie pour ce faire, d'une
 part, sur les objectifs des schémas d'aménagement régionaux prévus aux articles
@@ -31,11 +32,11 @@ Les représentants qui, en cours de mandat, n'occupent plus les fonctions en
 raison desquelles ils ont été désignés sont réputés démissionnaires.
 
 Le comité permanent est composé de deux représentants de l'Etat, de deux
-représentants du conseil général et de deux représentants du conseil régional.
-Le comité permanent peut s'associer en tant que de besoin les représentants
-d'autres institutions ou organismes qu'il estime utiles à l'exercice de ses
-missions. Son secrétariat est assuré par la direction départementale de
-l'équipement.
+représentants du conseil départemental et de deux représentants du conseil
+régional. Le comité permanent peut s'associer en tant que de besoin les
+représentants d'autres institutions ou organismes qu'il estime utiles à
+l'exercice de ses missions. Son secrétariat est assuré par la direction
+départementale de l'équipement.
 
 Le comité permanent peut être chargé par délégation du comité de gestion et
 d'engagement de statuer sur chaque demande d'aide. En cas de désaccord entre ses

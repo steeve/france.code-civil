@@ -1,7 +1,7 @@
 Article R3123-16
 ----
-Tout membre d'un conseil général, régi par les titres Ier à IV du statut général
-de la fonction publique doit, lorsqu'il souhaite bénéficier du congé de
+Tout membre d'un conseil départemental, régi par les titres Ier à IV du statut
+général de la fonction publique doit, lorsqu'il souhaite bénéficier du congé de
 formation prévu à l'article L. 3123-11, présenter par écrit sa demande à
 l'autorité hiérarchique dont il relève trente jours au moins à l'avance en
 précisant la date et la durée de l'absence envisagée à ce titre, ainsi que la

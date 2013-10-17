@@ -22,7 +22,7 @@ donner son avis sur l'opération envisagée dans un délai de quatre mois à com
 de la transmission du dossier au maire ou au président.
 
 Lorsque les déclassements et les transferts portent sur des dépendances
-domaniales d'un département, le conseil général, saisi par le préfet d'un
+domaniales d'un département, le conseil départemental, saisi par le préfet d'un
 dossier constitué de la même manière, doit donner son avis au cours de la
 première session qui suit la communication du dossier à son président.
 

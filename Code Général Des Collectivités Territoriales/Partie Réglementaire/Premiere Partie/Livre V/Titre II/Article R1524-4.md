@@ -10,9 +10,9 @@ En cas de vacance du siège qui lui a été attribué au conseil d'administratio
 au conseil de surveillance, l'assemblée délibérante de la collectivité
 territoriale ou du groupement actionnaire désigne son représentant lors de la
 première réunion qui suit cette vacance. Toutefois, dans l'intervalle des
-sessions du conseil régional ou du conseil général la commission permanente du
-conseil régional ou celle du conseil général peut désigner à titre provisoire un
-nouveau représentant.
+sessions du conseil régional ou du conseil départemental la commission
+permanente du conseil régional ou celle du conseil départemental peut désigner à
+titre provisoire un nouveau représentant.
 
 En cas de dissolution de l'assemblée délibérante d'une collectivité territoriale
 ou d'un groupement actionnaire, de démission de l'ensemble de ses membres ou

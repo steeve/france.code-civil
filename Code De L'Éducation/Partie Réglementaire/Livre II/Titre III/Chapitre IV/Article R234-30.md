@@ -14,7 +14,7 @@ sa compétence.
 
 Sur la demande des deux tiers des membres du conseil, et sur un ordre du jour
 déterminé, le préfet de région, le président du conseil régional et le président
-du conseil général convoquent le conseil de l'éducation nationale.
+du conseil départemental convoquent le conseil de l'éducation nationale.
 
 Toute question proposée à la majorité des membres du conseil figure de droit à
 l'ordre du jour.
@@ -23,4 +23,4 @@ Le conseil de l'éducation nationale est réuni au moins deux fois par an.
 
 Le règlement intérieur du conseil de l'éducation nationale est établi par le
 préfet de région, le président du conseil régional et le président du conseil
-général et adopté par le conseil.
+départemental et adopté par le conseil.

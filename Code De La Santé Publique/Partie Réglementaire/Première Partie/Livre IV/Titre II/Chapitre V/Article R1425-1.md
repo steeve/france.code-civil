@@ -3,9 +3,10 @@ Article R1425-1
 Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon :
 
 1° La mention du président du conseil territorial se substitue à la mention du
-président du conseil général ou du président du conseil régional, ou des
-présidents de conseils généraux compétents et la mention du conseil territorial
-se substitue à la mention du conseil général ou du conseil régional ;
+président du conseil départemental ou du président du conseil régional, ou des
+présidents de conseils départementaux compétents et la mention du conseil
+territorial se substitue à la mention du conseil départemental ou du conseil
+régional ;
 
 2° La référence à Saint-Pierre-et-Miquelon se substitue à la référence au
 département et à la région et à la référence au niveau départemental ou régional
@@ -38,9 +39,4 @@ programme pluriannuel régional de gestion du risque ;
 
 8° La mention de la politique de santé menée à Saint-Pierre-et-Miquelon se
 substitue à la mention de la politique de santé régionale ou de la politique de
-santé dans la région ;
-
-9° La mention du " directeur chargé de la direction locale des finances
-publiques de Saint-Pierre-et-Miquelon " se substitue à la mention du " directeur
-départemental ou, le cas échéant, régional des finances publiques " et à celle
-du " directeur régional des finances publiques ".
+santé dans la région.

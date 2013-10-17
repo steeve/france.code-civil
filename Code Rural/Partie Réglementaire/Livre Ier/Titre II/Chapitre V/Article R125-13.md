@@ -1,7 +1,7 @@
 Article R125-13
 ----
 A l'expiration du délai d'un an défini aux articles L. 125-3, L. 125-4 et L.
-125-6, le préfet, après avoir demandé au président du conseil général de
+125-6, le préfet, après avoir demandé au président du conseil départemental de
 recueillir, selon les cas, l'avis de la commission départementale d'aménagement
 foncier ou celui de la commission communale ou intercommunale d'aménagement
 foncier constate la remise en valeur du fonds.

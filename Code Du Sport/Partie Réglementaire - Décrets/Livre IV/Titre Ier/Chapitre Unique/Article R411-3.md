@@ -33,7 +33,8 @@ chargé des sports :
 
 a) Un conseiller régional désigné par l'Association des régions de France ;
 
-b) Un conseiller général désigné par l'Assemblée des départements de France ;
+b) Un conseiller départemental désigné par l'Assemblée des départements de
+France ;
 
 c) Un maire ou adjoint au maire désigné par l'Association des maires de France ;
 

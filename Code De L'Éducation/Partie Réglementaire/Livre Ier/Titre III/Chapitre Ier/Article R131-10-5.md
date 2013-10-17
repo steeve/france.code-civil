@@ -16,14 +16,14 @@ fonction de leurs attributions respectives et du besoin d'en connaître :
 son directeur et les agents de la caisse des écoles, individuellement désignés
 par le président du comité de caisse ;
 
-- le directeur académique des services de l'éducation nationale agissant sur
+-le directeur académique des services de l'éducation nationale agissant sur
 délégation du recteur d'académie, et son ou ses représentants, individuellement
 désignés ;
 
--le président du conseil général, son ou ses représentants individuellement
-désignés et les agents des services départementaux chargés de l'aide et de
-l'action sociales, individuellement désignés par le président du conseil général
-;
+-le président du conseil départemental, son ou ses représentants
+individuellement désignés et les agents des services départementaux chargés de
+l'aide et de l'action sociales, individuellement désignés par le président du
+conseil départemental ;
 
 -le coordonnateur prévu par l'article L. 121-6-2 du code de l'action sociale et
 des familles.

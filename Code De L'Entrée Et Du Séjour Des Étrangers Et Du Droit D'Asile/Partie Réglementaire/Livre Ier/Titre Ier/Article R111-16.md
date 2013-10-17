@@ -4,8 +4,8 @@ Les demandes d'inscription sont adressées au procureur de la République près 
 tribunal de grande instance dans le ressort duquel le candidat a sa résidence.
 Le procureur instruit les demandes. Il recueille l'avis du juge des tutelles, du
 juge des enfants, du juge des libertés et de la détention, du président du
-conseil général et du directeur interrégional de la protection judiciaire de la
-jeunesse.
+conseil départemental et du directeur interrégional de la protection judiciaire
+de la jeunesse.
 
 Il transmet le dossier, pour avis de l'assemblée générale de la juridiction, au
 président du tribunal de grande instance.

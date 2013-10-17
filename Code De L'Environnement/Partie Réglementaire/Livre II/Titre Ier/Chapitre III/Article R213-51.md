@@ -2,7 +2,7 @@ Article R213-51
 ----
 I.-Les représentants de la région sont élus par le conseil régional.
 
-Les représentants du département sont élus par le conseil général.
+Les représentants du département sont élus par le conseil départemental.
 
 Les représentants des communes sont désignés par la ou les associations les plus
 représentatives des maires de chaque département.

@@ -11,6 +11,6 @@ départements proportionnellement au nombre de contraventions dénombrées l'ann
 précédente sur le territoire de ces communes et groupements, puis réparties dans
 chaque département entre les communes et groupements qui ont à faire face à des
 travaux mentionnés à l'article R. 2334-12. La répartition est faite par le
-conseil général qui arrête la liste des bénéficiaires et le montant des
+conseil départemental qui arrête la liste des bénéficiaires et le montant des
 attributions à leur verser en fonction de l'urgence et du coût des opérations à
 réaliser.

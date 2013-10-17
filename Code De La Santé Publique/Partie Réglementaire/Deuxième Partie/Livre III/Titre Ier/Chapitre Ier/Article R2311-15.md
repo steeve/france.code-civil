@@ -3,7 +3,7 @@ Article R2311-15
 Tout centre qui décide d'exercer les activités de dépistage ou de traitement
 mentionnées à l'article R. 2311-14 est tenu d'en faire la déclaration auprès du
 directeur général de l'agence régionale de santé, qui en informe le président du
-conseil général, en justifiant :
+conseil départemental, en justifiant :
 
 1° De la présence permanente d'un médecin ayant la formation requise pour
 procéder aux investigations cliniques et biologiques préalables à

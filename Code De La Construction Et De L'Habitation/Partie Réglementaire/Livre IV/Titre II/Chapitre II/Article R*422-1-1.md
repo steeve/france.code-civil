@@ -86,9 +86,9 @@ l'exclusion de ceux qui sont implantés dans le ressort territorial des
 422-2-1.
 
 La répartition est arrêtée par décisions concordantes des présidents des
-conseils généraux et des établissements publics. Ceux-ci désignent un mandataire
-chargé de notifier le résultat de la répartition au président du conseil
-d'administration ou de surveillance de la société.
+conseils départementaux et des établissements publics. Ceux-ci désignent un
+mandataire chargé de notifier le résultat de la répartition au président du
+conseil d'administration ou de surveillance de la société.
 
 Faute pour le président du conseil d'administration ou de surveillance d'avoir
 reçu notification de cette répartition, par lettre recommandée avec avis de

@@ -24,7 +24,7 @@ quatre-vingt-dix-neuf mille neuf cent quatre-vingt-dix-neuf habitants ;
 
 f) Un élu représentant les communes de cent mille habitants au moins ;
 
-g) Deux élus représentant les conseils généraux ;
+g) Deux élus représentant les conseils départementaux ;
 
 h) Un élu représentant les conseils régionaux et l'assemblée de Corse.
 

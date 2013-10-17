@@ -1,6 +1,8 @@
 Article R371-7
 ----
-Le préfet établit la liste des catégories de représentants mentionnés au 3° de
-l'article R. 371-3 et le nombre de représentants par catégorie. Il arrête la
-liste des membres de ce collège après y avoir adjoint, en tant que de besoin,
-des personnalités compétentes dans le domaine de l'habitat ou de l'hébergement.
+Les membres du conseil départemental de l'habitat siégeant au titre du 3° de
+l'article R. 371-4 sont désignés par le préfet sur proposition des organisations
+les plus représentatives dont celui-ci établit la liste. En tant que de besoin,
+pour porter à douze l'effectif de ce groupe, le préfet nomme, par arrêté
+préfectoral et après consultation du président du conseil départemental, des
+personnalités compétentes dans le domaine de l'habitat.

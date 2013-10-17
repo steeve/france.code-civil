@@ -8,5 +8,5 @@ motivées.
 En outre, pour les chemins inscrits sur le plan départemental des itinéraires de
 promenade et de randonnée, les conseils municipaux doivent, préalablement à
 toute délibération décidant de leur suppression ou de leur aliénation, avoir
-proposé au conseil général un itinéraire de substitution approprié à la pratique
-de la promenade et de la randonnée.
+proposé au conseil départemental un itinéraire de substitution approprié à la
+pratique de la promenade et de la randonnée.

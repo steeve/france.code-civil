@@ -4,10 +4,10 @@ I. ― L'autorité compétente, après avoir recueilli l'avis de la commission
 consultative d'élaboration et de suivi, soumet pour avis le projet de plan et le
 rapport environnemental prévu à l'article L. 122-6 :
 
-1° Aux conseils généraux des départements limitrophes de la zone du plan. Les
-projets de plans des départements limitrophes de la région Ile-de-France sont
-soumis à l'avis du conseil régional d'Ile-de-France. En Ile-de-France,
-l'autorité compétente recueille également l'avis des conseils généraux des
+1° Aux conseils départementaux des départements limitrophes de la zone du plan.
+Les projets de plans des départements limitrophes de la région Ile-de-France
+sont soumis à l'avis du conseil régional d'Ile-de-France. En Ile-de-France,
+l'autorité compétente recueille également l'avis des conseils départementaux des
 départements de la région ;
 
 2° Aux conseils régionaux de la zone du plan ;

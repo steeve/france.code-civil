@@ -7,9 +7,9 @@ départements sont suppléés dans les conditions ci-après :
 directeur académique des services de l'éducation nationale agissant sur
 délégation du recteur d'académie ;
 
-2° En cas d'empêchement du président du conseil général, le conseil est présidé
-par le conseiller général délégué à cet effet par le président du conseil
-général.
+2° En cas d'empêchement du président du conseil départemental, le conseil est
+présidé par le conseiller départemental délégué à cet effet par le président du
+conseil départemental.
 
 Les suppléants des présidents ont la qualité de vice-présidents.
 

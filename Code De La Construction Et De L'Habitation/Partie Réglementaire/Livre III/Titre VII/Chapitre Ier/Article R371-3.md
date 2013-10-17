@@ -1,14 +1,14 @@
 Article R371-3
 ----
 Le conseil départemental de l'habitat et de l'hébergement institué dans les
-départements d'outre-mer est présidé par le président du conseil général qui
-peut se faire représenter. Il est composé, outre son président, de trente-six
-membres nommés par arrêté préfectoral et répartis en trois groupes de même
-importance, à savoir :
+départements d'outre-mer est présidé par le président du conseil départemental
+qui peut se faire représenter. Il est composé, outre son président, de
+trente-six membres nommés par arrêté préfectoral et répartis en trois groupes de
+même importance, à savoir :
 
-1° Pour un tiers, de représentants du conseil général, du conseil régional, des
-communes et des groupements de communes du département désignés dans les
-conditions fixées à l'article R. 371-5 ;
+1° Pour un tiers, de représentants du conseil départemental, du conseil
+régional, des communes et des groupements de communes du département désignés
+dans les conditions fixées à l'article R. 371-5 ;
 
 2° Pour un tiers, de professionnels intervenant dans le département pour la
 construction, l'amélioration de l'habitat ou la mise en oeuvre des moyens

@@ -11,7 +11,7 @@ indiquent les lieux ainsi que l'adresse du site internet où le schéma peut êt
 consulté.
 
 Le schéma d'aménagement et de gestion des eaux est transmis aux maires des
-communes intéressés, aux présidents des conseils généraux, des conseils
+communes intéressés, aux présidents des conseils départementaux, des conseils
 régionaux, des chambres de commerce et d'industrie territoriales, des chambres
 d'agriculture et du comité de bassin intéressés ainsi qu'au préfet coordonnateur
 de bassin.

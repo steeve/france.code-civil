@@ -1,7 +1,7 @@
 Article R142-2
 ----
 Pour l'application des mesures de protection prévues à l'article L. 142-11, le
-préfet, sur proposition du conseil général, saisit pour avis le conseil
+préfet, sur proposition du conseil départemental, saisit pour avis le conseil
 municipal de la commune intéressée ou l'organe délibérant de l'établissement
 public de coopération intercommunale compétent, ainsi que la commission
 départementale de la nature, des paysages et des sites d'un projet tendant à

@@ -3,9 +3,9 @@ Article R2221-11
 Les fonctions de directeur sont incompatibles avec un mandat de sénateur,
 député, représentant au Parlement européen. Elles sont également incompatibles
 avec un mandat de conseiller à l'Assemblée de Corse, conseiller régional,
-conseiller général, conseiller municipal, conseiller de Paris ou conseiller
-d'arrondissement détenu dans la ou les collectivités intéressées ou dans une
-circonscription incluant cette ou ces collectivités.
+conseiller départemental, conseiller municipal, conseiller de Paris ou
+conseiller d'arrondissement détenu dans la ou les collectivités intéressées ou
+dans une circonscription incluant cette ou ces collectivités.
 
 Les fonctions de directeur sont incompatibles avec celles de membre du conseil
 d'administration ou du conseil d'exploitation de la régie.

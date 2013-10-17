@@ -2,7 +2,7 @@ Article R331-15-1
 ----
 Lorsque la décision d'octroi de l'aide est prise par le président de
 l'établissement public de coopération intercommunale ou le président du conseil
-général en application de l'article R. 331-13-1 :
+départemental en application de l'article R. 331-13-1 :
 
 1° Une majoration de l'assiette de subvention prévue au second alinéa du 1° de
 l'article R. 331-15 peut être appliquée dans les conditions prévues par les

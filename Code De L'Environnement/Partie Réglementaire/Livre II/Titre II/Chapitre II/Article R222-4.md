@@ -6,11 +6,12 @@ publient conjointement, au moins sept jours avant le début de cette mise à
 disposition, dans deux journaux régionaux ou locaux diffusés dans la région
 concernée, un avis faisant connaître la date d'ouverture de cette consultation
 et ses modalités. Cet avis est également publié sur les sites internet du
-conseil régional et de la préfecture de région. Le projet de schéma est mis à la
-disposition du public aux sièges du conseil régional, de la préfecture de
-région, des préfectures de départements et des sous-préfectures. Les
-observations du public sur le projet de schéma sont consignées sur des registres
-ouverts à cet effet.
+conseil régional et de la préfecture de région.
+
+Le projet de schéma est mis à la disposition du public aux sièges du conseil
+régional, de la préfecture de région, des préfectures de départements et des
+sous-préfectures. Les observations du public sur le projet de schéma sont
+consignées sur des registres ouverts à cet effet.
 
 Le projet de schéma est également mis à la disposition du public par voie
 électronique sur les sites internet de la préfecture de région et du conseil
@@ -20,7 +21,7 @@ par voie électronique.
 II.-Dès le début de la mise à disposition au public, le préfet de région et le
 président du conseil régional soumettent le projet de schéma pour avis :
 
-1° Aux conseils généraux des départements de la région ;
+1° Aux conseils départementaux des départements de la région ;
 
 2° Aux conseils municipaux des communes de la région ;
 

@@ -1,6 +1,6 @@
 Article R353-61
 ----
-I. - Les conventions ont une durée d'au moins neuf ans. Elles prennent effet en
+I.-Les conventions ont une durée d'au moins neuf ans. Elles prennent effet en
 application de l'article L. 353-19 à la date de leur signature.
 
 La durée des conventions fixée à l'origine ou modifiée par avenant ne peut être
@@ -22,19 +22,20 @@ La résiliation est publiée au fichier immobilier ou inscrite au livre foncier
 par le préfet, ou, lorsqu'un établissement public de coopération intercommunale
 ou un département a signé une convention mentionnée aux articles L. 301-5-1 et
 L. 301-5-2, par le président de l'établissement public de coopération
-intercommunale ou du conseil général, qu'elle soit de son initiative ou qu'elle
-émane du bailleur. Les frais correspondants sont à la charge du bailleur.
+intercommunale ou du conseil départemental, qu'elle soit de son initiative ou
+qu'elle émane du bailleur. Les frais correspondants sont à la charge du
+bailleur.
 
 Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer
 l'opération ainsi que le reversement d'un complément d'impôt en application de
 l'article 284 du code général des impôts ou le reversement d'une subvention sont
 sans effet sur la durée des conventions.
 
-II. - Dans le cas d'une acquisition ou d'une convention sans travaux faisant
-suite à une nouvelle acquisition, lorsque les loyers ne sont pas établis sur la
-base de la surface corrigée, résultant de l'application du décret n° 48-1766 du
-22 novembre 1948 et de l'article 4 du décret n° 60-1063 du 1er octobre 1960, il
-est procédé à un bilan de l'occupation sociale des logements sur la base des
+II.-Dans le cas d'une acquisition ou d'une convention sans travaux faisant suite
+à une nouvelle acquisition, lorsque les loyers ne sont pas établis sur la base
+de la surface corrigée, résultant de l'application du décret n° 48-1766 du 22
+novembre 1948 et de l'article 4 du décret n° 60-1063 du 1er octobre 1960, il est
+procédé à un bilan de l'occupation sociale des logements sur la base des
 éléments recueillis lors de l'enquête prévue à l'article L. 441-9 ou à l'article
 L. 442-5 et dans des conditions définies par arrêté du ministre chargé du
 logement.

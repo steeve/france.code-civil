@@ -16,7 +16,7 @@ commission :
 
 1° Le préfet de région ou son représentant ;
 
-2° Deux conseillers généraux désignés par le conseil général ;
+2° Deux conseillers départementaux désignés par le conseil départemental ;
 
 3° Quatre maires de communes dont la population n'excède pas 15 000 habitants,
 désignés par l'association des maires ; les maires des communes de plus de 15

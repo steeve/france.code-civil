@@ -1,10 +1,10 @@
 Article R125-2
 ----
 Dans les huit jours suivant la date de réception de la demande, le préfet
-demande au président du conseil général de saisir la commission départementale
-d'aménagement foncier qui, dans les trois mois, se prononce sur l'état
-d'inculture ou de sous-exploitation manifeste du fonds et donne son avis sur la
-possibilité d'une mise en valeur agricole ou pastorale du fonds.
+demande au président du conseil départemental de saisir la commission
+départementale d'aménagement foncier qui, dans les trois mois, se prononce sur
+l'état d'inculture ou de sous-exploitation manifeste du fonds et donne son avis
+sur la possibilité d'une mise en valeur agricole ou pastorale du fonds.
 
 La commission désigne une délégation composée d'au moins deux de ses membres,
 chargée de constater, sur les lieux mêmes, l'état du fonds. Le ou les

@@ -3,11 +3,12 @@ Article R234-33-3
 Outre les présidents et les vice-présidents, le conseil comprend :
 
 1° Quatorze membres représentant la collectivité départementale de Mayotte et
-les communes : huit conseillers généraux désignés par le conseil général et six
-maires ou conseillers municipaux soit désignés par l'association des maires de
-la collectivité, soit, s'il n'existe pas d'association des maires ou s'il en
-existe plusieurs, élus par le collège des maires dans les conditions prévues au
-troisième alinéa du 1° de l'article R. 234-3 ;
+les communes : huit conseillers départementaux désignés par le conseil
+départemental et six maires ou conseillers municipaux soit désignés par
+l'association des maires de la collectivité, soit, s'il n'existe pas
+d'association des maires ou s'il en existe plusieurs, élus par le collège des
+maires dans les conditions prévues au troisième alinéa du 1° de l'article R.
+234-3 ;
 
 2° Quatorze membres représentant les personnels titulaires de l'Etat exerçant
 leurs fonctions dans les services administratifs et les établissements

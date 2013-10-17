@@ -1,7 +1,8 @@
 Article R125-7
 ----
-Le président du conseil général soumet l'état dressé par la commission communale
-ou intercommunale à la commission départementale d'aménagement foncier.
+Le président du conseil départemental soumet l'état dressé par la commission
+communale ou intercommunale à la commission départementale d'aménagement
+foncier.
 
 Les intéressés peuvent présenter à la commission départementale leurs
 observations et réclamations. La commission départementale entend les intéressés
@@ -12,9 +13,10 @@ d'ordre et il en est donné récépissé. Il est tenu procès-verbal des dires d
 intéressés.
 
 L'avis de la commission départementale est transmis au préfet et au conseil
-général.
+départemental.
 
 L'état des fonds susceptibles d'une remise en valeur, arrêté par délibération du
-conseil général, est affiché à la mairie des communes intéressées accompagné du
-plan parcellaire des fonds et fait l'objet d'une insertion au recueil des actes
-administratifs du département et dans un journal diffusé dans le département.
+conseil départemental, est affiché à la mairie des communes intéressées
+accompagné du plan parcellaire des fonds et fait l'objet d'une insertion au
+recueil des actes administratifs du département et dans un journal diffusé dans
+le département.

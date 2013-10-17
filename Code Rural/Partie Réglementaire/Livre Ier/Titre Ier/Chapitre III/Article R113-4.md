@@ -12,7 +12,7 @@ Deux fonctionnaires nommés par le préfet ;
 
 Une personne qualifiée en matière d'économie montagnarde ;
 
-Deux conseillers généraux élus par le conseil général ;
+Deux conseillers départementaux élus par le conseil départemental ;
 
 Deux maires de communes rurales désignés par l'association départementale des
 maires ou, à défaut, élus par les maires du département ;

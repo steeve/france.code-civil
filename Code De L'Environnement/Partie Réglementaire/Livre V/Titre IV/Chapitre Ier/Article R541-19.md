@@ -5,14 +5,14 @@ commission consultative d'élaboration et de suivi.
 
 Elle comprend :
 
-1° Les présidents des conseils généraux ou leurs représentants ;
+1° Les présidents des conseils départementaux ou leurs représentants ;
 
 2° Les préfets ou leurs représentants ;
 
 3° Les présidents des conseils régionaux de la zone du plan ou leurs
 représentants ;
 
-4° Des représentants des conseils généraux désignés par eux ;
+4° Des représentants des conseils départementaux désignés par eux ;
 
 5° Des représentants des communes désignés par les associations départementales
 des maires ou, à défaut, par le collège des maires de la zone du plan, dont deux
@@ -42,9 +42,9 @@ organismes agréés en application des articles R. 543-53 à R. 543-65 ;
 
 12° Des représentants d'associations agréées de consommateurs.
 
-II.-Les présidents des conseils généraux fixent la composition de la commission,
-nomment ceux de ses membres prévus au 5° du I et aux 8° à 12° du I, et
-organisent son secrétariat.
+II.-Les présidents des conseils départementaux fixent la composition de la
+commission, nomment ceux de ses membres prévus au 5° du I et aux 8° à 12° du I,
+et organisent son secrétariat.
 
 III.-La commission définit son programme de travail et les modalités de son
 fonctionnement.

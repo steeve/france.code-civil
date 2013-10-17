@@ -8,4 +8,4 @@ Cette personne doit être médecin ou puéricultrice. Elle doit justifier de cin
 ans au moins d'exercice de cette profession avant son entrée en fonctions.
 
 La personne assurant la direction doit être agréée par le président du conseil
-général.
+départemental.

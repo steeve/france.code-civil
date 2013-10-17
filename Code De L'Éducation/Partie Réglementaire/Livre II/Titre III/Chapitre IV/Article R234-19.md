@@ -5,9 +5,9 @@ conditions suivantes :
 
 a) Les conseillers régionaux sont désignés par le conseil régional ;
 
-b) Les conseillers généraux des départements autres que celui de Paris sont
-désignés par leur conseil général. Les conseillers de Paris sont désignés par le
-conseil de Paris ;
+b) Les conseillers départementaux des départements autres que celui de Paris
+sont désignés par leur conseil départemental. Les conseillers de Paris sont
+désignés par le conseil de Paris ;
 
 c) Les maires ou conseillers municipaux sont désignés par accord entre les
 associations départementales des maires ou, à défaut, élus par le collège des

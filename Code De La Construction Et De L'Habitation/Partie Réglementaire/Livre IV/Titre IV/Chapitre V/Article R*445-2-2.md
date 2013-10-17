@@ -12,4 +12,4 @@ La délibération approuvant ou actualisant le plan stratégique de patrimoine e
 transmise au préfet signataire de la convention, au préfet du département dans
 lequel est situé le siège social de l'organisme et, le cas échéant, au maire de
 la commune ou au président de l'établissement public de coopération
-intercommunale ou du conseil général de rattachement de l'organisme.
+intercommunale ou du conseil départemental de rattachement de l'organisme.

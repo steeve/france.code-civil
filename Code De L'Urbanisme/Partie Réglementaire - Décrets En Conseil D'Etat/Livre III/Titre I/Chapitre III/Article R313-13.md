@@ -19,5 +19,5 @@ précise la catégorie dans laquelle elles doivent entrer et que ces classements
 et déclassements figurent parmi les opérations soumises à l'enquête prévue au
 premier alinéa de l'article R. 313-11. Cette dispense n'est applicable à la
 voirie départementale et communale que si l'acte d'approbation est accompagné de
-l'avis conforme, selon le cas, du président du conseil général ou du maire,
-relatif à ce classement ou déclassement.
+l'avis conforme, selon le cas, du président du conseil départemental ou du
+maire, relatif à ce classement ou déclassement.

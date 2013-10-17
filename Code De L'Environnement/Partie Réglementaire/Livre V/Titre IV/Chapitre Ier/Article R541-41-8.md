@@ -3,14 +3,14 @@ Article R541-41-8
 I. ― Dans le cas où le plan est interdépartemental, il est établi une seule
 commission consultative d'élaboration et de suivi. Elle comprend :
 
-1° Les présidents des conseils généraux ou leur représentant ;
+1° Les présidents des conseils départementaux ou leur représentant ;
 
 2° Les préfets ou leur représentant ;
 
 3° Les présidents des conseils régionaux de la zone du plan ou leur représentant
 ;
 
-4° Des représentants des conseils généraux désignés par eux ;
+4° Des représentants des conseils départementaux désignés par eux ;
 
 5° Des représentants des communes désignés par les associations départementales
 des maires ou, à défaut, par le collège des maires de la zone du plan, dont deux
@@ -39,7 +39,7 @@ production et à la gestion des déchets ;
 
 12° Des représentants d'associations agréées de consommateurs.
 
-II. ― Les présidents des conseils généraux fixent la composition de la
+II. ― Les présidents des conseils départementaux fixent la composition de la
 commission, nomment ceux de ses membres prévus au 5° du I et aux 8° à 10° du I
 et organisent son secrétariat.
 

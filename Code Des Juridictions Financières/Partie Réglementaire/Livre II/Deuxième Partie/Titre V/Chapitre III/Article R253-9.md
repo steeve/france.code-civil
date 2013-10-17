@@ -8,5 +8,6 @@ du même code. Pour l'application de ces dispositions à la collectivité de
 Saint-Pierre-et-Miquelon et à ses établissements publics, les références au
 représentant de l'Etat dans le département et à la chambre régionale des comptes
 sont respectivement remplacées par des références au représentant de l'Etat et à
-la chambre territoriale des comptes et les références au conseil général ou au
-conseil régional sont remplacées par des références au conseil territorial.
+la chambre territoriale des comptes et les références au conseil départemental
+ou au conseil régional sont remplacées par des références au conseil
+territorial.

@@ -9,4 +9,4 @@ Dans les communes où la vaccination est pratiquée gratuitement au domicile du
 médecin, ce délai est de trois mois.
 
 Dans le cas où les intéressés ne sont pas conformés à leurs obligations, le
-président du conseil général en informe le procureur de la République.
+président du conseil départemental en informe le procureur de la République.

@@ -11,7 +11,7 @@ b) Un représentant d'un établissement public de coopération intercommunale à
 fiscalité propre dont la commune siège de l'établissement est membre ou, à
 défaut, un autre représentant de la commune siège de l'établissement principal ;
 
-c) Le président du conseil général du département siège de l'établissement
+c) Le président du conseil départemental du département siège de l'établissement
 principal, ou le représentant qu'il désigne ;
 
 2° Au titre des représentants du personnel :

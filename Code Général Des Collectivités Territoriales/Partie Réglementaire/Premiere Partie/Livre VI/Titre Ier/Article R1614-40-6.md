@@ -1,9 +1,9 @@
 Article R1614-40-6
 ----
-Les présidents des conseils généraux, les présidents des conseils régionaux et
-le président du conseil exécutif de Corse transmettent chaque année, avant le 31
-mars, aux autorités académiques, pour chaque établissement public local
-d'enseignement qui relève de leur compétence :
+Les présidents des conseils départementaux, les présidents des conseils
+régionaux et le président du conseil exécutif de Corse transmettent chaque
+année, avant le 31 mars, aux autorités académiques, pour chaque établissement
+public local d'enseignement qui relève de leur compétence :
 
 a) L'effectif en nombre de personnes physiques et en équivalent temps plein
 affecté dans l'établissement au 1er janvier pour chacune des fonctions

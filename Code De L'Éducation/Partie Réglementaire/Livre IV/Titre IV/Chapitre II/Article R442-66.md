@@ -18,7 +18,7 @@ l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 a) Deux conseillers régionaux désignés par le conseil régional ;
 
-b) Deux conseillers généraux désignés par le conseil général ;
+b) Deux conseillers départementaux désignés par le conseil départemental ;
 
 c) Deux maires désignés par l'association des maires du département ou, à
 défaut, par le collège des maires du département ;

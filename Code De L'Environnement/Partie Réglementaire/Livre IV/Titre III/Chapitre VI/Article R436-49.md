@@ -17,8 +17,8 @@ transversale de la mer ;
 5° D'un représentant de propriétaires riverains de la circonscription du comité
 désigné par le préfet de région, président du comité.
 
-II.-En outre, deux conseillers régionaux et deux conseillers généraux de la
-circonscription du comité, désignés par leurs assemblées respectives, peuvent
+II.-En outre, deux conseillers régionaux et deux conseillers départementaux de
+la circonscription du comité, désignés par leurs assemblées respectives, peuvent
 participer avec voix délibérative aux travaux du comité.
 
 III.-Le nombre et les modalités de désignation des représentants mentionnés aux

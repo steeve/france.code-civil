@@ -4,12 +4,12 @@ Les sections sont placées sous la présidence du préfet ou de son représentan
 
 Sont membres de toutes les sections :
 
-1° Le président du conseil général ou son représentant ;
+1° Le président du conseil départemental ou son représentant ;
 
-2° Le directeur départemental des territoires et de la mer ou son représentant ;
+2° Le directeur départemental de l'agriculture et de la forêt ou son
+représentant ;
 
-3° Le directeur départemental ou, le cas échéant, régional des finances
-publiques ou son représentant ;
+3° Le trésorier-payeur général ou son représentant ;
 
 4° Le président de la chambre d'agriculture ou son représentant ;
 

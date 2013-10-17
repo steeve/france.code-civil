@@ -14,8 +14,8 @@ ministère de l'agriculture au titre des grands aménagements régionaux), des
 collectivités territoriales, d'organismes publics ou des instances
 communautaires. Il peut en particulier recevoir des subventions du Fonds
 national pour le développement des adductions d'eau conformément aux programmes
-établis par les conseils généraux de Corse, en application de l'article L. 371-7
-du code des communes ;
+établis par les conseils départementaux de Corse, en application de l'article L.
+371-7 du code des communes ;
 
 4° Les droits et redevances que l'établissement peut être autorisé à percevoir ;
 

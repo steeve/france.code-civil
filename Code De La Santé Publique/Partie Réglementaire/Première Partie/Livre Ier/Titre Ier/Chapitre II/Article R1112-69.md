@@ -13,7 +13,7 @@ proche ;
 2° Les militaires, à l'autorité militaire compétente ;
 
 3° Les mineurs relevant d'un service départemental d'aide sociale à l'enfance,
-au président du conseil général.
+au président du conseil départemental.
 
 Pour les mineurs relevant des dispositions relatives à la protection de
 l'enfance et de l'adolescence en danger, au directeur de l'établissement dont

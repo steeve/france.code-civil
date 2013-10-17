@@ -1,12 +1,12 @@
 Article R4421-5-2
 ----
-Lorsque le conseil des sites siège en formation dite "des carrières", il
+Lorsque le conseil des sites siège en formation dite " des carrières ", il
 comprend en outre :
 
 1° Au titre du premier collège, le directeur régional de l'industrie, de la
 recherche et de l'environnement ou son représentant ;
 
-2° Au titre du deuxième collège, le président du conseil général du lieu
+2° Au titre du deuxième collège, le président du conseil départemental du lieu
 d'exploitation de la carrière ;
 
 3° Au titre du troisième collège, huit membres dont :

@@ -19,4 +19,4 @@ indication des membres présents. Les procès-verbaux sont signés par le prési
 et par le secrétaire.
 
 Le secrétariat de la commission est assuré par un agent des services du conseil
-général.
+départemental.

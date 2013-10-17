@@ -3,8 +3,8 @@ Article R234-2
 Outre les présidents et les vice-présidents, les conseils comprennent :
 
 1° Vingt-quatre membres représentant la région, les départements et les communes
-: huit conseillers régionaux, huit conseillers généraux ainsi que huit maires ou
-conseillers municipaux ;
+: huit conseillers régionaux, huit conseillers départementaux ainsi que huit
+maires ou conseillers municipaux ;
 
 2° Vingt-quatre membres représentant les personnels titulaires de l'Etat
 exerçant leurs fonctions dans les services administratifs et les établissements

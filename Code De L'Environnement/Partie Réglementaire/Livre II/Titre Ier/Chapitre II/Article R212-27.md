@@ -10,8 +10,8 @@ identifiée par le schéma directeur d'aménagement et de gestion des eaux, le
 projet est accompagné d'un rapport justifiant la cohérence hydrographique.
 
 Ce projet est transmis pour avis par le préfet aux conseils régionaux, aux
-conseils généraux et aux communes dont le territoire est situé pour tout ou
-partie dans le périmètre ainsi qu'aux établissements publics territoriaux de
+conseils départementaux et aux communes dont le territoire est situé pour tout
+ou partie dans le périmètre ainsi qu'aux établissements publics territoriaux de
 bassin, au comité de bassin et au préfet coordonnateur de bassin intéressés. Les
 avis sont réputés favorables s'ils n'interviennent pas dans un délai de quatre
 mois.

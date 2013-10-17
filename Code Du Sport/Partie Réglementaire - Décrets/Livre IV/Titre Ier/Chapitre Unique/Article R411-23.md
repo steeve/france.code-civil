@@ -19,6 +19,6 @@ services déconcentrés de l'Etat chargés des sports ;
 régional olympique et sportif.
 
 Le président du conseil régional ou son représentant, le président du conseil
-général ou son représentant, et un maire ou adjoint au maire désigné par
+départemental ou son représentant, et un maire ou adjoint au maire désigné par
 l'association représentative des maires peuvent assister avec voix consultative
 aux séances de la commission.

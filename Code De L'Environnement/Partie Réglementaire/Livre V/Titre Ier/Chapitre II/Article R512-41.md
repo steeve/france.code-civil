@@ -12,7 +12,7 @@ délai de deux mois à compter de l'ouverture de l'enquête publique, le ministr
 avise le ou les préfets de région ou le ou les préfets des départements autres
 que ceux où l'installation doit être implantée d'avoir à saisir, dans un délai
 d'un mois, respectivement, le ou les conseils régionaux et le ou les conseils
-généraux intéressés.
+départementaux intéressés.
 
 Ne peuvent être pris en compte que les avis émis dans un délai de quatre mois.
 

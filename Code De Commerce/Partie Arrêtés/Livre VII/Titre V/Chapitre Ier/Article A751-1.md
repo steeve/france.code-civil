@@ -11,9 +11,9 @@ l'arrondissement de la commune chef-lieu ;
 3° Deux maires de communes de moins de 5 000 habitants dont un, au moins, d'une
 commune de moins de 2 000 habitants, nommés par le préfet de département ;
 
-4° Deux conseillers généraux, autres que les maires visés ci-dessus, appartenant
-à deux arrondissements différents, désignés par la commission permanente du
-conseil général ;
+4° Deux conseillers départementaux, autres que les maires visés ci-dessus,
+appartenant à deux arrondissements différents, désignés par la commission
+permanente du conseil départemental ;
 
 5° Le représentant, autre que les élus visés ci-dessus, d'un établissement
 public de coopération intercommunale compétent en matière d'aménagement de

@@ -1,6 +1,6 @@
 Article R2324-20
 ----
-L'autorisation délivrée par le président du conseil général mentionne les
+L'autorisation délivrée par le président du conseil départemental mentionne les
 prestations proposées, les capacités d'accueil et l'âge des enfants accueillis,
 les conditions de fonctionnement, notamment les jours et horaires d'ouverture,
 les effectifs ainsi que la qualification du personnel.

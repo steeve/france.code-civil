@@ -10,6 +10,6 @@ périmètre d'aménagement foncier perturbé par la réalisation du grand ouvrag
 
 2° Les dépenses relatives aux seuls travaux connexes à l'aménagement foncier
 rendus nécessaires par le projet de grand ouvrage et qui auront été approuvés
-par le conseil général, sur proposition de la commission départementale
+par le conseil départemental, sur proposition de la commission départementale
 d'aménagement foncier ainsi que les travaux résultant de l'application des
 dispositions du III de l'article L. 121-14.

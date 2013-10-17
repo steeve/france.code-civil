@@ -4,7 +4,7 @@ La personne gestionnaire d'un établissement ou d'un service précise par écrit
 les compétences et les missions confiées par délégation au professionnel qu'elle
 a chargé de la direction de l'établissement ou du service.
 
-Une copie de ce document est adressée au président du conseil général du
+Une copie de ce document est adressée au président du conseil départemental du
 département qui a délivré l'autorisation ou donné l'avis prévus respectivement
 aux articles R. 2324-20 et R. 2324-22, ainsi que, le cas échéant, au conseil de
 l'établissement ou du service.

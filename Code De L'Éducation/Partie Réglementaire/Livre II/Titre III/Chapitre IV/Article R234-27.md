@@ -4,11 +4,11 @@ Outre les présidents et les vice-présidents, le conseil comprend :
 
 1° Vingt-deux membres représentant la région, le département et les communes :
 huit conseillers régionaux désignés par le conseil régional, huit conseillers
-généraux désignés par le conseil général ainsi que six maires ou conseillers
-municipaux soit désignés par l'association des maires du département, soit, s'il
-n'existe pas d'association des maires ou s'il en existe plusieurs, élus par le
-collège des maires dans les conditions prévues au troisième alinéa du 1° de
-l'article R. 234-3 ;
+départementaux désignés par le conseil départemental ainsi que six maires ou
+conseillers municipaux soit désignés par l'association des maires du
+département, soit, s'il n'existe pas d'association des maires ou s'il en existe
+plusieurs, élus par le collège des maires dans les conditions prévues au
+troisième alinéa du 1° de l'article R. 234-3 ;
 
 2° Vingt-deux membres représentant les personnels titulaires de l'Etat exerçant
 leurs fonctions dans les services administratifs et les établissements

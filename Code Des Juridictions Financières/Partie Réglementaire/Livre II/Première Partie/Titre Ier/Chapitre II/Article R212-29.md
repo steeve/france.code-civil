@@ -20,9 +20,9 @@ Pour l'application à Mayotte de la première partie du livre II du présent cod
 1° La référence à la région, à la région d'outre-mer ou au département est
 remplacée par la référence au Département de Mayotte ;
 
-2° La référence aux conseils régionaux ou aux conseils généraux est remplacée
-par la référence au conseil général de Mayotte ;
+2° La référence aux conseils régionaux ou aux conseils départementaux est
+remplacée par la référence au conseil départemental de Mayotte ;
 
 3° La référence au président du conseil régional ou au président du conseil
-général est remplacée par la référence au président du conseil général de
+général est remplacée par la référence au président du conseil départemental de
 Mayotte.

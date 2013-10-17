@@ -35,13 +35,13 @@ France ;
 4° Deux représentants des présidents d'établissements publics de coopération
 intercommunale, sur proposition de l'Assemblée des communautés de France ;
 
-5° Deux représentants des présidents de conseils généraux, sur proposition de
-l'Assemblée des départements de France ;
+5° Deux représentants des présidents de conseils départementaux, sur proposition
+de l'Assemblée des départements de France ;
 
 3) Collège des personnalités qualifiées :
 
-1° Deux représentants de l'Union des entreprises et des salariés pour le
-logement, sur proposition de cette dernière ;
+1° Deux représentants de l'Union d'économie sociale du logement, sur proposition
+de cette dernière ;
 
 2° Un représentant des propriétaires ;
 

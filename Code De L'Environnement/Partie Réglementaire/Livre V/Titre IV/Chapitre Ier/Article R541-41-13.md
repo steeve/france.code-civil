@@ -13,9 +13,9 @@ zone couverte par le plan. En Ile-de-France, un exemplaire de ces mêmes
 documents est déposé dans ce délai à la préfecture de région ainsi que dans
 chaque préfecture de département. Un exemplaire de ces documents est adressé
 dans le même délai au ministre chargé de l'environnement, au président du
-conseil général ou, en Ile-de-France, au ministre chargé de l'environnement, au
-président du conseil régional, aux présidents des conseils généraux et aux
-préfets des départements de cette région.
+conseil départemental ou, en Ile-de-France, au ministre chargé de
+l'environnement, au président du conseil régional, aux présidents des conseils
+départementaux et aux préfets des départements de cette région.
 
 L'acte d'approbation du plan fait, en outre, l'objet d'une insertion dans deux
 journaux diffusés dans la zone couverte par le plan.

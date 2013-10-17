@@ -32,8 +32,8 @@ IV.-La convention est publiée au fichier immobilier ou inscrite au livre
 foncier, à l'initiative du préfet, ou, lorsqu'un établissement public de
 coopération intercommunale ou un département a signé la convention mentionnée
 aux articles L. 301-5-1 et L. 301-5-2, du président de l'établissement public de
-coopération intercommunale ou du conseil général. Il en va de même des éventuels
-avenants.
+coopération intercommunale ou du conseil départemental. Il en va de même des
+éventuels avenants.
 
 Les frais de publication ou d'inscription sont à la charge du propriétaire.
 

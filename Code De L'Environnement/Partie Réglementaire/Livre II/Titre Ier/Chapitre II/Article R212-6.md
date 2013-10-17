@@ -12,7 +12,7 @@ l'eau.
 
 Dès que ces documents sont établis, le président du comité de bassin les
 adresse, pour information et observations éventuelles, aux conseils régionaux,
-aux conseils généraux, aux chambres consulaires, aux conseils économiques,
+aux conseils départementaux, aux chambres consulaires, aux conseils économiques,
 sociaux et environnementaux régionaux ainsi que, lorsqu'ils existent, aux
 établissements publics territoriaux de bassin et, aux organes de gestion des
 parcs nationaux et des parcs naturels régionaux en tant qu'il les concerne.

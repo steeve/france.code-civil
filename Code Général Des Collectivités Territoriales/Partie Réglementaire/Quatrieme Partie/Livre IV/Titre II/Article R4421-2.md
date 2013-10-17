@@ -30,7 +30,7 @@ a) Le président du conseil exécutif de Corse ;
 b) Deux représentants de la collectivité territoriale de Corse, respectivement
 désignés par l'Assemblée de Corse et par le conseil exécutif de Corse ;
 
-c) Un représentant désigné par chaque conseil général ;
+c) Un représentant désigné par chaque conseil départemental ;
 
 d) Un représentant des communes de chaque département nommé par le président du
 conseil exécutif de Corse, sur proposition de l'association des maires de chaque

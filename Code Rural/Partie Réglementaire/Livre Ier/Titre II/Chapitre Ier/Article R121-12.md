@@ -9,4 +9,4 @@ plus de la moitié des membres de la commission ont participé à l'ensemble des
 séances d'instruction et sont présents lors de la délibération finale.
 
 Les décisions de la commission départementale sont notifiées aux intéressés, au
-président du conseil général et au préfet.
+président du conseil départemental et au préfet.

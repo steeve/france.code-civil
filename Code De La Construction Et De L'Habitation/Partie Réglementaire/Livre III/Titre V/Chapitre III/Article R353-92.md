@@ -28,7 +28,7 @@ Quelle que soit la partie à l'initiative de la résiliation, le préfet ou,
 lorsqu'un établissement public de coopération intercommunale ou un département a
 signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, le
 président de l'établissement public de coopération intercommunale ou du conseil
-général, publie la résiliation au fichier immobilier ou l'inscrit au livre
+départemental, publie la résiliation au fichier immobilier ou l'inscrit au livre
 foncier, par acte authentique ou administratif. Les frais sont à la charge du
 bailleur.
 

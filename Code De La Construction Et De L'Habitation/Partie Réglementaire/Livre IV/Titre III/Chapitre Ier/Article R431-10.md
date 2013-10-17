@@ -15,5 +15,5 @@ consignations, soit par l'agent judiciaire de l'Etat qui ont qualité pour le
 faire avec ou sans constatation de paiement.
 
 En cas de garantie départementale ou communale, le contrat fait mention de la
-délibération prise par le conseil général ou par le conseil municipal et
+délibération prise par le conseil départemental ou par le conseil municipal et
 indique, s'il y a lieu, les modalités de cet engagement.

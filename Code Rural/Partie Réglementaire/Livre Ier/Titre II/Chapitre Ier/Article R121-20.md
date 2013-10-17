@@ -1,12 +1,12 @@
 Article R121-20
 ----
 L'étude d'aménagement, qui prend en considération les informations portées à la
-connaissance du président du conseil général par le préfet en application de
-l'article L. 121-13, a pour objet de permettre à la commission communale ou
-intercommunale et au conseil général d'apprécier l'opportunité de la réalisation
-d'un aménagement foncier, ses modalités et son périmètre et de définir pour sa
-mise en oeuvre des recommandations permettant de respecter les objectifs énoncés
-à l'article L. 111-2.
+connaissance du président du conseil départemental par le préfet en application
+de l'article L. 121-13, a pour objet de permettre à la commission communale ou
+intercommunale et au conseil départemental d'apprécier l'opportunité de la
+réalisation d'un aménagement foncier, ses modalités et son périmètre et de
+définir pour sa mise en oeuvre des recommandations permettant de respecter les
+objectifs énoncés à l'article L. 111-2.
 
 Elle comporte, au titre de l'analyse de l'état initial du site susceptible de
 faire l'objet de l'aménagement et de son environnement, une analyse des

@@ -6,14 +6,12 @@ exécutif ou leurs représentants.
 
 Sont membres de toutes les sections :
 
--les présidents des conseils généraux ou leurs représentants ;
+-les présidents des conseils départementaux ou leurs représentants ;
 
--les directeurs départementaux des territoires et de la mer ou leurs
+-les directeurs départementaux de l'agriculture et de la forêt ou leurs
 représentants ;
 
--le directeur régional des finances publiques de Corse et du département de
-Corse-du-Sud et le directeur départemental des finances publiques de Haute-Corse
-ou leurs représentants ;
+-les trésoriers-payeurs généraux ou leurs représentants ;
 
 -le président de l'Assemblée de Corse ou son représentant ;
 

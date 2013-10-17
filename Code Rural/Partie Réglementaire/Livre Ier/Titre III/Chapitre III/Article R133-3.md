@@ -11,7 +11,7 @@ parmi les propriétaires de parcelles incluses dans le périmètre d'aménagemen
 foncier agricole et forestier répondant aux conditions fixées au premier alinéa
 de l'article R. 121-18 ;
 
-c) Un conseiller général.
+c) Un conseiller départemental.
 
 Dans le cas d'un aménagement foncier agricole et forestier intercommunal, le
 préfet fixe le nombre des propriétaires qui seront désignés au titre de chaque

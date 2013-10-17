@@ -24,7 +24,7 @@ formations dispensées ;
 
 g) Deux conseillers régionaux ;
 
-h) Un conseiller général ;
+h) Un conseiller départemental ;
 
 i) Un représentant de la commune ou, le cas échéant, du groupement de communes ;
 

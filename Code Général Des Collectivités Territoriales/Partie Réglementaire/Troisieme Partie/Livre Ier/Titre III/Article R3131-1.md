@@ -1,9 +1,10 @@
 Article R3131-1
 ----
-Le dispositif des délibérations du conseil général et des délibérations de la
-commission permanente prises par délégation ainsi que les actes du président du
-conseil général, à caractère réglementaire, sont publiés dans un recueil des
-actes administratifs du département ayant une périodicité au moins mensuelle.
+Le dispositif des délibérations du conseil départemental et des délibérations de
+la commission permanente prises par délégation ainsi que les actes du président
+du conseil départemental, à caractère réglementaire, sont publiés dans un
+recueil des actes administratifs du département ayant une périodicité au moins
+mensuelle.
 
 Ce recueil est mis à la disposition du public à l'hôtel du département. Le
 public est informé, dans les vingt-quatre heures, que le recueil est mis à sa

@@ -15,7 +15,7 @@ défaut, un représentant de chacune des deux principales communes d'origine des
 patients en nombre d'entrées en hospitalisation au cours du dernier exercice
 connu, autres que celle du siège de l'établissement principal ;
 
--le président du conseil général du département siège de l'établissement
+-le président du conseil départemental du département siège de l'établissement
 principal, ou le représentant qu'il désigne ;
 
 b) Pour les établissements publics de santé de ressort intercommunal :
@@ -33,7 +33,7 @@ défaut, un représentant de chacune des deux principales communes d'origine des
 patients en nombre d'entrées en hospitalisation au cours du dernier exercice
 connu, autres que celle mentionnée à l'alinéa précédent ;
 
--le président du conseil général du département siège de l'établissement
+-le président du conseil départemental du département siège de l'établissement
 principal, ou le représentant qu'il désigne ;
 
 c) Pour les établissements publics de santé de ressort départemental :
@@ -47,9 +47,9 @@ de chacune des deux principales communes d'origine des patients en nombre
 d'entrées en hospitalisation au cours du dernier exercice connu, autres que
 celle du siège de l'établissement principal ;
 
--le président du conseil général du département siège de l'établissement
+-le président du conseil départemental du département siège de l'établissement
 principal, ou le représentant qu'il désigne, et un autre représentant de ce
-conseil général ;
+conseil départemental ;
 
 d) Pour les établissements publics de santé de ressort régional et interrégional
 :
@@ -63,10 +63,10 @@ la principale commune d'origine des patients en nombre d'entrées en
 hospitalisation au cours du dernier exercice connu, autre que la commune siège
 de l'établissement principal ;
 
--le président du conseil général du département siège de l'établissement
+-le président du conseil départemental du département siège de l'établissement
 principal, ou le représentant qu'il désigne ;
 
--un représentant du conseil général du principal département d'origine des
+-un représentant du conseil départemental du principal département d'origine des
 patients en nombre d'entrées en hospitalisation, au cours du dernier exercice
 connu, autre que le département siège de l'établissement principal ;
 
@@ -77,18 +77,18 @@ e) Pour les établissements publics de santé de ressort national :
 -le maire de la commune siège de l'établissement, ou le représentant qu'il
 désigne ;
 
--le président du conseil général du département siège de l'établissement, ou le
-représentant qu'il désigne ;
+-le président du conseil départemental du département siège de l'établissement,
+ou le représentant qu'il désigne ;
 
 -un représentant du conseil régional de la région siège de l'établissement ;
 
 -deux autres membres représentant deux des collectivités territoriales
 mentionnées au présent e, désignées par le ministre chargé de la santé.
 
-Dans les départements d'outre-mer, un autre représentant du conseil général du
-département siège de l'établissement principal est désigné en lieu et place du
-représentant du conseil général du principal département d'origine autre que le
-département siège de l'établissement principal.
+Dans les départements d'outre-mer, un autre représentant du conseil
+départemental du département siège de l'établissement principal est désigné en
+lieu et place du représentant du conseil départemental du principal département
+d'origine autre que le département siège de l'établissement principal.
 
 2° Au titre des représentants du personnel :
 

@@ -1,6 +1,6 @@
 Article R126-11
 ----
-Lorsque le président du conseil général constate que l'enfrichement ou le
+Lorsque le président du conseil départemental constate que l'enfrichement ou le
 boisement spontané d'un terrain présente un des risques mentionnés au troisième
 alinéa de l'article L. 126-2, il informe le propriétaire par lettre recommandée
 avec demande d'avis de réception des obligations de débroussaillement qui lui

@@ -10,6 +10,6 @@ peuvent causer aux enfants ou que ces derniers peuvent causer à autrui :
 l'accueil des enfants, sont présents dans l'établissement ou le service ou
 participent avec les enfants à des activités qu'il organise.
 
-Ils sont tenus de déclarer sans délai au président du conseil général tout décès
-ou tout accident ayant entraîné une hospitalisation survenu à un enfant qui leur
-était confié.
+Ils sont tenus de déclarer sans délai au président du conseil départemental tout
+décès ou tout accident ayant entraîné une hospitalisation survenu à un enfant
+qui leur était confié.

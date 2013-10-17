@@ -5,8 +5,8 @@ mentionnés à l'article L. 3123-9-2 bénéficient de l'allocation différentiel
 fin de mandat, sous réserve de remplir les conditions prévues à l'article
 précité.
 
-L'exercice antérieur des fonctions de vice-président du conseil général, en
-l'absence de délégation du président, ne donne pas lieu au bénéfice de
+L'exercice antérieur des fonctions de vice-président du conseil départemental,
+en l'absence de délégation du président, ne donne pas lieu au bénéfice de
 l'allocation.
 
 Pour l'application des présentes dispositions, la condition de cessation de

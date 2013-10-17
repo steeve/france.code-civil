@@ -9,8 +9,8 @@ composé de vingt-neuf membres comprenant :
 
 3° Un maire désigné par l'Association des maires de France ;
 
-4° Un président de conseil général désigné par l'Assemblée des présidents de
-conseils généraux ;
+4° Un président de conseil départemental désigné par l'Assemblée des présidents
+de conseils départementaux ;
 
 5° Trois représentants des retraités et des personnes âgées désignés par le
 Comité national des retraités et des personnes âgées institué par le décret du 4

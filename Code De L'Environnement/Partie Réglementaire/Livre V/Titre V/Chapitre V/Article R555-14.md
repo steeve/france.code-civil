@@ -22,9 +22,9 @@ en outre, le cas échéant :
 
 a) Dans le cas d'une canalisation de transport de gaz relevant de la mission de
 service public définie à l'article L. 121-32 du code de l'énergie : le conseil
-général, la chambre de commerce et d'industrie, la chambre de métiers et de
-l'artisanat, les établissements publics de coopération intercommunale compétents
-pour la distribution publique de gaz ;
+départemental, la chambre de commerce et d'industrie, la chambre de métiers et
+de l'artisanat, les établissements publics de coopération intercommunale
+compétents pour la distribution publique de gaz ;
 
 b) Dans le cas où la canalisation traverse une commune littorale définie à
 l'article L. 321-2 du code de l'environnement : le conservatoire de l'espace

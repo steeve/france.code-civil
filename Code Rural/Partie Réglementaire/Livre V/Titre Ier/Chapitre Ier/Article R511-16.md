@@ -7,7 +7,7 @@ Le préfet ou son représentant, président ;
 
 Le directeur départemental de l'agriculture et de la forêt ;
 
-Un maire désigné par le conseil général ;
+Un maire désigné par le conseil départemental ;
 
 Un représentant de la caisse départementale ou pluridépartementale de mutualité
 sociale agricole.

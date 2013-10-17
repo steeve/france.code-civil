@@ -20,9 +20,6 @@ son représentant ;
 
 ― le préfet de Vendée ou son représentant ;
 
-― le directeur régional de l'environnement, de l'aménagement et du logement des
-Pays de la Loire ou son adjoint ;
-
 ― le directeur régional de l'environnement, de l'aménagement et du logement de
 Poitou-Charentes ou son adjoint ;
 
@@ -54,11 +51,11 @@ ou son représentant ;
 
 ― un représentant du conseil régional de la région Poitou-Charentes ;
 
-― un représentant du conseil général de Vendée ;
+― un représentant du conseil départemental de Vendée ;
 
-― un représentant du conseil général des Deux-Sèvres ;
+― un représentant du conseil départemental des Deux-Sèvres ;
 
-― un représentant du conseil général de Charente-Maritime ;
+― un représentant du conseil départemental de Charente-Maritime ;
 
 ― un représentant du collège des collectivités territoriales, de leurs
 groupements et des établissements publics locaux de chacune des trois

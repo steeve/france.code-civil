@@ -24,4 +24,4 @@ entrer et que ces classements et déclassements figurent parmi les opérations
 soumises à l'enquête prévue au premier alinéa du présent article. Cette dispense
 n'est applicable aux voiries nationale et départementale que si l'acte
 d'approbation est accompagné de l'avis conforme, selon le cas, du préfet ou du
-président du conseil général relatif à ce classement ou déclassement.
+président du conseil départemental relatif à ce classement ou déclassement.

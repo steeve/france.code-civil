@@ -1,6 +1,6 @@
 Article R123-11
 ----
-L'enquête publique est ouverte par le président du conseil général ou son
+L'enquête publique est ouverte par le président du conseil départemental ou son
 représentant.
 
 Le commissaire enquêteur est désigné selon les modalités prévues aux articles R.

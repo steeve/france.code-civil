@@ -2,10 +2,10 @@ Article R1434-1
 ----
 Le projet régional de santé est arrêté par le directeur général de l'agence
 régionale de santé après avis du préfet de région, du conseil régional, des
-conseils généraux, des conseils municipaux, ainsi que de la conférence régionale
-de la santé et de l'autonomie. Ces avis sont réputés avoir été rendus s'ils
-n'ont pas été reçus par l'agence dans le délai de deux mois à compter de la
-publication au recueil des actes administratifs de la préfecture de région de
+conseils départementaux, des conseils municipaux, ainsi que de la conférence
+régionale de la santé et de l'autonomie. Ces avis sont réputés avoir été rendus
+s'ils n'ont pas été reçus par l'agence dans le délai de deux mois à compter de
+la publication au recueil des actes administratifs de la préfecture de région de
 l'avis de consultation mentionné à l'article L. 1434-3.
 
 Le plan stratégique, les schémas régionaux et les programmes énumérés par

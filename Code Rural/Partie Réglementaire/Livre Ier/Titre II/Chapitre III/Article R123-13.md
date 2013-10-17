@@ -1,7 +1,7 @@
 Article R123-13
 ----
-Lorsqu'en application de l'article L. 123-4-1, le conseil général décide de
-déroger aux dispositions de l'article L. 123-4 :
+Lorsqu'en application de l'article L. 123-4-1, le conseil départemental décide
+de déroger aux dispositions de l'article L. 123-4 :
 
 1° Les dispositions de l'article R. 123-1, le deuxième alinéa de l'article R.
 123-2 et le 2° de l'article R. 123-10 ne sont pas applicables ;
@@ -9,14 +9,14 @@ déroger aux dispositions de l'article L. 123-4 :
 2° Le dossier mentionné à l'article R. 123-5 soumis à la consultation des
 propriétaires prévue par l'article R. 123-6 comprend :
 
-- un plan indiquant, pour chaque parcelle ou partie de parcelles, la contenance
+-un plan indiquant, pour chaque parcelle ou partie de parcelles, la contenance
 cadastrale, la surface, le nom du propriétaire désigné par la documentation
 cadastrale et, le cas échéant, celui de l'exploitant ;
 
-- un état indiquant, pour chaque parcelle ou partie de parcelle, les
+-un état indiquant, pour chaque parcelle ou partie de parcelle, les
 renseignements cadastraux notamment la contenance cadastrale, la surface ;
 
-- un état des propriétés indiquant, pour chaque propriétaire, les parcelles
+-un état des propriétés indiquant, pour chaque propriétaire, les parcelles
 paraissant lui appartenir avec l'indication de leur surface et tous éléments
 déterminants de la valeur des fonds et de leurs conditions d'exploitation ;
 

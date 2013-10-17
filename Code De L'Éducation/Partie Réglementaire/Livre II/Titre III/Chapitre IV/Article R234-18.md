@@ -4,9 +4,9 @@ Outre les présidents et les vice-présidents, le conseil interacadémique
 d'Ile-de-France comprend :
 
 1° Vingt-sept membres représentant la région, les départements et les communes :
-dix conseillers régionaux, sept conseillers généraux, à raison d'un conseiller
-général par département autre que le département de Paris, cinq conseillers de
-Paris ainsi que cinq maires ou conseillers municipaux ;
+dix conseillers régionaux, sept conseillers départementaux, à raison d'un
+conseiller départemental par département autre que le département de Paris, cinq
+conseillers de Paris ainsi que cinq maires ou conseillers municipaux ;
 
 2° Vingt-sept membres représentant les personnels titulaires de l'Etat exerçant
 leurs fonctions dans les services administratifs et les établissements

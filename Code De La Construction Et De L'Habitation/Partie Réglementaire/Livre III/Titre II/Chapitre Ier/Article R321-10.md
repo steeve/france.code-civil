@@ -37,8 +37,8 @@ e) Une personne qualifiée pour ses compétences dans le domaine du logement ;
 
 f) Une personne qualifiée pour ses compétences dans le domaine social ;
 
-g) Deux représentants des associés collecteurs de l'Union des entreprises et des
-salariés pour le logement.
+g) Deux représentants des associés collecteurs de l'Union d'économie sociale du
+logement.
 
 Les membres de la commission mentionnés aux c, d, e, f et g ainsi qu'un nombre
 égal de membres suppléants sont nommés pour trois ans par arrêté du préfet. Leur
@@ -52,14 +52,14 @@ dispositions prévues par le règlement général de l'agence.
 II.-Lorsqu'un département ou un établissement public de coopération
 intercommunale a conclu la convention mentionnée à l'article L. 321-1-1, la
 commission dont la composition est fixée au I est présidée de plein droit, selon
-le cas, par le président du conseil général ou son représentant ou par le
+le cas, par le président du conseil départemental ou son représentant ou par le
 président de l'établissement public de coopération intercommunale ou son
 représentant.
 
 Toutefois, le département ou l'établissement public coopération intercommunale
 peut décider que, pour la durée de la convention, la commission locale
 d'amélioration de l'habitat sera composée de membres choisis et désignés par le
-président du conseil général ou le président de l'établissement public de
+président du conseil départemental ou le président de l'établissement public de
 coopération intercommunale. La commission comprend au minimum les membres
 mentionnés au I du présent article. Le mandat des membres de la commission ne
 peut excéder six ans. La composition de la commission est notifiée au préfet du
@@ -70,12 +70,12 @@ La commission est consultée, dans son ressort territorial, sur :
 
 1° Le programme d'actions établi, dans le cadre défini par le règlement général
 de l'agence, par le président de l'établissement public de coopération
-intercommunale ou le président du conseil général ayant conclu la convention
-mentionnée à l'article L. 321-1 ;
+intercommunale ou le président du conseil départemental ayant conclu la
+convention mentionnée à l'article L. 321-1 ;
 
 2° Le rapport annuel d'activité établi par le président de l'établissement
-public de coopération intercommunale ou le président du conseil général, avant
-transmission au délégué de l'agence ;
+public de coopération intercommunale ou le président du conseil départemental,
+avant transmission au délégué de l'agence ;
 
 3° Toute convention intéressant l'amélioration de l'habitat et engageant
 l'agence ;
@@ -88,7 +88,8 @@ R. 321-21 et les recours gracieux.
 
 Elle est destinataire, au moins une fois par an, d'un état récapitulatif des
 décisions d'attribution ou de rejet prononcées par le président de
-l'établissement public de coopération intercommunale ou du conseil général.
+l'établissement public de coopération intercommunale ou du conseil
+départemental.
 
 Elle établit son règlement intérieur dans le respect des dispositions prévues
 par le règlement général de l'agence et le notifie au préfet dans le mois qui

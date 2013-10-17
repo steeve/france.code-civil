@@ -12,8 +12,8 @@ aucun cas être modifiés.
 
 Un procès-verbal récapitulatif est établi en double exemplaire en présence des
 électeurs. Il est signé par les membres du bureau centralisateur, les délégués
-des candidats ou des listes dûment habilités auprès de celui-ci et les
-présidents des autres bureaux.
+des candidats, des binômes de candidats ou des listes dûment habilités auprès de
+celui-ci et les présidents des autres bureaux.
 
 Le résultat est alors proclamé publiquement par le président du bureau
 centralisateur et affiché aussitôt par les soins du maire.

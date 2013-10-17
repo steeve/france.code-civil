@@ -61,8 +61,8 @@ conditions de location, ainsi que l'équilibre financier des ressources et des
 charges probables après exécution du programme ;
 
 8° Dans le cas où elle a obtenu la garantie du département, la commune doit
-produire la délibération par laquelle le conseil général a autorisé le préfet à
-intervenir au contrat, déterminé le montant de l'engagement pris et créé les
-ressources spécialement affectées à l'exécution de cet engagement et mises en
-recouvrement de plein droit en cas de besoin.A cette délibération sont joints,
-le cas échéant, les actes autorisant la création de ressources.
+produire la délibération par laquelle le conseil départemental a autorisé le
+préfet à intervenir au contrat, déterminé le montant de l'engagement pris et
+créé les ressources spécialement affectées à l'exécution de cet engagement et
+mises en recouvrement de plein droit en cas de besoin. A cette délibération sont
+joints, le cas échéant, les actes autorisant la création de ressources.

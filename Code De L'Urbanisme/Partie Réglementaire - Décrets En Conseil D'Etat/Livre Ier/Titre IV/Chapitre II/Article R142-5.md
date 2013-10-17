@@ -1,8 +1,8 @@
 Article R142-5
 ----
-La délibération du conseil général créant, en application de l'article L. 142-3,
-une zone de préemption, est accompagnée d'un plan de situation et d'un plan de
-délimitation.
+La délibération du conseil départemental créant, en application de l'article L.
+142-3, une zone de préemption, est accompagnée d'un plan de situation et d'un
+plan de délimitation.
 
 Cette délibération fait l'objet d'une publication au recueil officiel des actes
 du département et d'une mention dans deux journaux régionaux ou locaux diffusés

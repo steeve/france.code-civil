@@ -4,15 +4,16 @@ Dans le délai de deux mois à compter de la date de l'avis de réception postal
 du premier des accusés de réception ou d'enregistrement délivré en application
 du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005, ou de la
 décharge de la déclaration d'intention d'aliéner, le président du conseil
-général notifie au propriétaire la décision prise par le département en vertu
-des articles R. 213-8 et R. 213-9.
+départemental notifie au propriétaire la décision prise par le département en
+vertu des articles R. 213-8 et R. 213-9.
 
 Lorsque le terrain est compris dans une zone ou partie de zone où le
 Conservatoire de l'espace littoral et des rivages lacustres est territorialement
-compétent, le président du conseil général adresse sans délai une copie de la
-décision du département audit établissement, au président du conseil de rivage
-territorialement compétent, au maire de la commune intéressée et, s'il y a lieu,
-au président de l'établissement public de coopération intercommunale compétent.
+compétent, le président du conseil départemental adresse sans délai une copie de
+la décision du département audit établissement, au président du conseil de
+rivage territorialement compétent, au maire de la commune intéressée et, s'il y
+a lieu, au président de l'établissement public de coopération intercommunale
+compétent.
 
 A défaut du département, le Conservatoire de l'espace littoral et des rivages
 lacustres, la commune ou l'établissement public de coopération intercommunale
@@ -26,9 +27,9 @@ l'avis de réception postal, du premier des accusés de réception ou
 d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n°
 2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration d'intention
 d'aliéner, la décision qu'il prend en vertu des articles R. 213-8 et R. 213-9.
-Il adresse sans délai une copie de sa décision au président du conseil général
-et au maire de la commune concernée ainsi que, s'il y a lieu, au président de
-l'établissement public de coopération intercommunale compétent.
+Il adresse sans délai une copie de sa décision au président du conseil
+départemental et au maire de la commune concernée ainsi que, s'il y a lieu, au
+président de l'établissement public de coopération intercommunale compétent.
 
 La commune ou l'établissement public de coopération intercommunale compétent
 peut exercer le droit de préemption à défaut du département et à défaut du
@@ -48,5 +49,5 @@ d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n�
 d'aliéner.
 
 Il adresse sans délai une copie de cette décision au président du conseil
-général et, s'il y a lieu, au Conservatoire de l'espace littoral et des rivages
-lacustres.
+départemental et, s'il y a lieu, au Conservatoire de l'espace littoral et des
+rivages lacustres.

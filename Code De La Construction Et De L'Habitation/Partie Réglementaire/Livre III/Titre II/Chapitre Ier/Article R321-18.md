@@ -13,8 +13,8 @@ Pour les opérations et bénéficiaires mentionnés aux I et II de l'article R.
 321-12, aucune aide ne peut être accordée si les travaux ont commencé avant le
 dépôt de la demande de subvention. Toutefois, le délégué de l'agence dans le
 département ou le président de l'établissement public de coopération
-intercommunale ou du conseil général ayant conclu la convention mentionnée à
-l'article L. 321-1-1 peut, à titre exceptionnel, déroger à cette disposition,
+intercommunale ou du conseil départemental ayant conclu la convention mentionnée
+à l'article L. 321-1-1 peut, à titre exceptionnel, déroger à cette disposition,
 notamment en cas de travaux réalisés d'office par la commune ou l'Etat en
 application des articles L. 1331-29 et L. 1334-2 du code de la santé publique,
 ou des articles L. 129-2 et L. 511-2 du présent code et en cas d'application de

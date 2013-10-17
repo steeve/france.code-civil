@@ -9,8 +9,9 @@ de l'Etat en exécution des lois et règlements en vigueur, sont recouvrés :
 1° Soit en vertu de jugements ou de contrats exécutoires ;
 
 2° Soit en vertu de titres de recettes ou de rôles émis et rendus exécutoires en
-ce qui concerne le département par le président du conseil général et en ce qui
-concerne les établissements publics par l'ordonnateur de ces établissements.
+ce qui concerne le département par le président du conseil départemental et en
+ce qui concerne les établissements publics par l'ordonnateur de ces
+établissements.
 
 Les mesures d'exécution forcée pour le recouvrement de ces produits sont
 effectuées comme en matière de contributions directes.

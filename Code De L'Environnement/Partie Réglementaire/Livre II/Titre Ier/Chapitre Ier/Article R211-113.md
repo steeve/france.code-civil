@@ -14,11 +14,11 @@ périmètre proposé et affiché en mairie dans chaque commune située dans ce
 périmètre. Un registre est tenu à la disposition du public à la préfecture et en
 sous-préfecture.
 
-Le préfet recueille l'avis du conseil général, des chambres d'agriculture et de
-l'agence de l'eau ainsi que de la commission locale de l'eau si le périmètre est
-situé dans le champ d'application d'un schéma d'aménagement et de gestion des
-eaux approuvé. En l'absence d'avis émis dans le délai de deux mois de la
-saisine, l'avis est réputé favorable.
+Le préfet recueille l'avis du conseil départemental, des chambres d'agriculture
+et de l'agence de l'eau ainsi que de la commission locale de l'eau si le
+périmètre est situé dans le champ d'application d'un schéma d'aménagement et de
+gestion des eaux approuvé. En l'absence d'avis émis dans le délai de deux mois
+de la saisine, l'avis est réputé favorable.
 
 L'arrêté préfectoral qui délimite le périmètre de gestion collective et y
 désigne l'organisme unique est pris dans un délai de six mois à compter du jour

@@ -10,7 +10,7 @@ Le conseil consultatif de réussite éducative comprend :
 
 1° Le maire, président, ou son représentant ;
 
-2° Le président du conseil général ou son représentant ;
+2° Le président du conseil départemental ou son représentant ;
 
 3° Le directeur académique des services de l'éducation nationale agissant sur
 délégation du recteur d'académie ou son représentant ;

@@ -15,6 +15,6 @@ le projet de plan n'a pas été approuvé, le préfet, ou, en Ile-de-France, le
 préfet de région, se substitue, par arrêté motivé, à l'autorité compétente pour
 élaborer le plan dans les conditions du présent paragraphe. Cet arrêté est
 publié au recueil des actes administratifs de la préfecture de département et au
-recueil des délibérations du conseil général ou, en Ile-de-France, au recueil
-des actes administratifs de la préfecture de région et au recueil des
+recueil des délibérations du conseil départemental ou, en Ile-de-France, au
+recueil des actes administratifs de la préfecture de région et au recueil des
 délibérations du conseil régional.

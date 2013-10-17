@@ -6,7 +6,7 @@ résultats constatés au niveau de chaque commune. Elle comprend trois membres,
 dont un magistrat en activité ou honoraire, président, désigné par le premier
 président de la cour d'appel, une personne désignée par le représentant de
 l'Etat dans le département et une personne désignée par le président du conseil
-général.
+départemental.
 
 Un représentant de chaque groupe d'élus, parti ou groupement politique habilité
 à participer à la campagne peut assister aux opérations de la commission.

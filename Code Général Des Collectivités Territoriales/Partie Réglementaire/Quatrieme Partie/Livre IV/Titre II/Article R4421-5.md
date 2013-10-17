@@ -6,8 +6,9 @@ en outre :
 1° Au titre du premier collège : un conservateur du patrimoine affecté à la
 délégation régionale aux affaires culturelles ;
 
-2° Au titre du deuxième collège : un représentant désigné par le conseil général
-concerné par les affaires soumises à la section, ou son suppléant ;
+2° Au titre du deuxième collège : un représentant désigné par le conseil
+départemental concerné par les affaires soumises à la section, ou son suppléant
+;
 
 3° Six membres au titre du troisième collège :
 

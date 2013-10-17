@@ -5,7 +5,7 @@ La formation spécialisée dite " des carrières " exerce les compétences dévo
 R. 341-16.
 
 Les membres du deuxième collège comprennent notamment le président du conseil
-général ou son représentant ainsi qu'un maire et les membres du quatrième
+départemental ou son représentant ainsi qu'un maire et les membres du quatrième
 collège sont des représentants des exploitants de carrières et des utilisateurs
 de matériaux de carrières.
 

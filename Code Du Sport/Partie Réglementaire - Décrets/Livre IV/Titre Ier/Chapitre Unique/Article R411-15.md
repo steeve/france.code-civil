@@ -14,9 +14,9 @@ La commission délibère à la majorité des voix des membres présents ou
 représentés.
 
 Le président du conseil régional, ou son représentant, et les présidents des
-conseils généraux des départements de la région, ou leurs représentants, ainsi
-que deux maires ou adjoints au maire de communes de la région, désignés par
-l'Association des maires de France, peuvent assister avec voix consultative aux
-séances de la commission territoriale. Les coprésidents de la commission
+conseils départementaux des départements de la région, ou leurs représentants,
+ainsi que deux maires ou adjoints au maire de communes de la région, désignés
+par l'Association des maires de France, peuvent assister avec voix consultative
+aux séances de la commission territoriale. Les coprésidents de la commission
 territoriale peuvent également inviter à assister à tout ou partie des réunions
 toute personne que celle-ci souhaite entendre.

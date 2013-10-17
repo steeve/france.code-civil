@@ -10,8 +10,8 @@ préfet de Paris, ou de son représentant et comprend :
 
 1° Le président du conseil régional d'Ile-de-France ou son représentant ;
 
-2° Par roulement annuel, le président du conseil général du Val-de-Marne, de la
-Seine-Saint-Denis ou des Hauts-de-Seine ou son représentant ;
+2° Par roulement annuel, le président du conseil départemental du Val-de-Marne,
+de la Seine-Saint-Denis ou des Hauts-de-Seine ou son représentant ;
 
 3° Un président d'établissement public de coopération intercommunale ayant son
 siège dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis ou du
@@ -20,8 +20,8 @@ Val-de-Marne ou son représentant ;
 4° Le directeur régional et interdépartemental de l'alimentation, de
 l'agriculture et de la forêt d'Ile-de-France ou son représentant ;
 
-5° Le directeur régional des finances publiques d'Ile-de-France et du
-département de Paris ou son représentant ;
+5° Le trésorier-payeur général de la région d'Ile-de-France ou son représentant
+;
 
 6° Trois représentants de la chambre interdépartementale de l'agriculture
 d'Ile-de-France, dont un au titre des sociétés coopératives agricoles autres que

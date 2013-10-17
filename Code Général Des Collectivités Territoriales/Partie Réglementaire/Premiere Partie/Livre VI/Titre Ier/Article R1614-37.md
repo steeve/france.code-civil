@@ -1,9 +1,9 @@
 Article R1614-37
 ----
 Avant le 1er novembre de chaque année civile et au titre de la dernière année
-scolaire, le président du conseil général et les autorités compétentes pour
-l'organisation des transports urbains transmettent au préfet des formulaires
-normalisés indiquant :
+scolaire, le président du conseil départemental et les autorités compétentes
+pour l'organisation des transports urbains transmettent au préfet des
+formulaires normalisés indiquant :
 
 1° Les effectifs transportés et subventionnés ;
 

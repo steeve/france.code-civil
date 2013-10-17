@@ -16,8 +16,8 @@ associations agréées de protection de l'environnement intervenant en matière
 d'eau et des associations de consommateurs.
 
 Le préfet coordonnateur de bassin transmet le projet de délimitation des zones
-sensibles aux préfets intéressés, qui consultent les conseils généraux et les
-conseils régionaux et, en Corse, la collectivité territoriale, ainsi que les
+sensibles aux préfets intéressés, qui consultent les conseils départementaux et
+les conseils régionaux et, en Corse, la collectivité territoriale, ainsi que les
 chambres d'agriculture.
 
 Le préfet coordonnateur de bassin arrête la délimitation des zones sensibles

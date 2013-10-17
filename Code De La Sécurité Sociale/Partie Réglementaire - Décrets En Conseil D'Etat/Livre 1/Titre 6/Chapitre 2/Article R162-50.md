@@ -6,13 +6,13 @@ expérimentales, de leur coût et de leurs modalités de réalisation.
 Un rapport annuel d'activité est établi par la personne physique ou morale
 titulaire de l'agrément et remis, avant le 1er octobre, directeur général de
 l'agence régionale de santé de la région où se déroule l'action expérimentale.
-Ce dernier le transmet au président du conseil général, ainsi qu'aux maires des
-communes du lieu de l'expérience pour être soumis au conseil général et aux
-conseils municipaux intéressés, aux organismes d'assurance maladie signataires
-de la convention et aux syndicats représentatifs sur le plan local des
-professions de santé associés aux expériences qui lui font connaître leurs
-observations éventuelles dans le délai de deux mois suivant la réception du
-rapport. Ce rapport est également adressé au directeur régional des affaires
+Ce dernier le transmet au président du conseil départemental, ainsi qu'aux
+maires des communes du lieu de l'expérience pour être soumis au conseil
+départemental et aux conseils municipaux intéressés, aux organismes d'assurance
+maladie signataires de la convention et aux syndicats représentatifs sur le plan
+local des professions de santé associés aux expériences qui lui font connaître
+leurs observations éventuelles dans le délai de deux mois suivant la réception
+du rapport. Ce rapport est également adressé au directeur régional des affaires
 sanitaires et sociales compétent.
 
 Le rapport d'activité accompagné des observations mentionnées à l'alinéa

@@ -1,8 +1,8 @@
 Article R126-1
 ----
 Pour la mise en oeuvre des dispositions de l'article L. 126-1, le conseil
-général fixe par délibération, pour tout ou partie du territoire du département
-:
+départemental fixe par délibération, pour tout ou partie du territoire du
+département :
 
 a) Les orientations qu'il entend poursuivre en matière de réglementation des
 boisements conformément aux objectifs prévus au premier alinéa de l'article L.

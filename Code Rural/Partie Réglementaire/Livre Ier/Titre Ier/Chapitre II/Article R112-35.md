@@ -6,7 +6,7 @@ comprend trente-deux membres. Il est constitué comme suit :
 1° Dix-sept membres désignés par l'assemblée de Corse ;
 
 2° Un représentant de chacun des deux départements de Corse, désigné par les
-conseils généraux de ces départements ;
+conseils départementaux de ces départements ;
 
 3° Sept représentants des organisations professionnelles agricoles dont :
 

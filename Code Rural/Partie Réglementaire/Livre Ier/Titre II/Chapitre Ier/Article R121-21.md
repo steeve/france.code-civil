@@ -3,8 +3,8 @@ Article R121-21
 L'enquête publique prévue au II de l'article L. 121-14 est organisée
 conformément aux articles L. 123-4 et suivants et aux articles R. 123-7 à R.
 123-23 du code de l'environnement et aux présentes dispositions. Toutefois, le
-président du conseil général exerce les compétences dévolues au préfet par ces
-dispositions. Il peut se faire représenter.
+président du conseil départemental exerce les compétences dévolues au préfet par
+ces dispositions. Il peut se faire représenter.
 
 Le commissaire enquêteur est désigné selon les modalités prévues aux articles R.
 123-8 et R. 123-9 du code de l'environnement.
@@ -22,11 +22,11 @@ commission communale ou intercommunale d'aménagement foncier sur les
 recommandations contenues dans cette étude ;
 
 4° Les informations mentionnées à l'article L. 121-13, portées à la connaissance
-du président de conseil général par le préfet ;
+du président de conseil départemental par le préfet ;
 
 5° En cas d'application du deuxième alinéa de l'article L. 121-15, il indique le
 montant de la participation financière exigée des propriétaires par le conseil
-général.
+départemental.
 
 Un avis portant ces indications est notifié à tous les propriétaires de terrains
 situés à l'intérieur du périmètre, figurant au 1er janvier de l'année dans la

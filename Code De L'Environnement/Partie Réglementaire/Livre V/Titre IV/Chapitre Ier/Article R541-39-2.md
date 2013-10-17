@@ -18,5 +18,5 @@ réviser partiellement ou complètement le plan sont soumises, pour avis, à la
 commission consultative d'élaboration et de suivi du plan et au préfet de
 région. L'organe délibérant statue ensuite sur le principe et l'étendue de la
 révision par une délibération qui est publiée au recueil des délibérations du
-conseil général ou, en Ile-de-France, au recueil des délibérations du conseil
-régional.
+conseil départemental ou, en Ile-de-France, au recueil des délibérations du
+conseil régional.

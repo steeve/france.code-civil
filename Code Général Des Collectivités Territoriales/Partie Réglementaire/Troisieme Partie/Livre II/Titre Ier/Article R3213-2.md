@@ -1,8 +1,9 @@
 Article R3213-2
 ----
 L'état de toutes les propriétés du département, productives de revenus ou
-improductives, est dressé par le président du conseil général. Une copie en est
-délivrée par le président du conseil général au comptable du département.
+improductives, est dressé par le président du conseil départemental. Une copie
+en est délivrée par le président du conseil départemental au comptable du
+département.
 
 Ce comptable reçoit par la même voie une expédition en la forme de tous les
 titres de propriété, titres de rente et autres actes concernant le domaine du

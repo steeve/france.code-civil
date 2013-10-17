@@ -3,8 +3,8 @@ Article R7232-4
 L'agrément des personnes morales ou des entrepreneurs individuels mentionnés à
 l'article L. 7232-1 est délivré par le préfet du département du lieu
 d'implantation du principal établissement de la personne morale ou de
-l'entrepreneur individuel après avis du président du conseil général sur la
-capacité des personnes morales ou des entrepreneurs individuels demandant
+l'entrepreneur individuel après avis du président du conseil départemental sur
+la capacité des personnes morales ou des entrepreneurs individuels demandant
 l'agrément à assurer une prestation de qualité et sur l'affectation de moyens
 humains, matériels et financiers proportionnés à cette exigence.
 

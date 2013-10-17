@@ -1,7 +1,7 @@
 Article R652-3
 ----
 I.-Les représentants de la collectivité départementale sont élus par le conseil
-général.
+départemental.
 
 II.-Les représentants des communes et des syndicats intercommunaux sont désignés
 par la ou les associations les plus représentatives des maires de Mayotte. Deux

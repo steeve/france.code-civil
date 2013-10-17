@@ -13,7 +13,7 @@ territoriale ou sur convocation de l'un de ses présidents sur un ordre du jour
 portant sur des questions relevant de sa compétence.
 
 Sur la demande des deux tiers des membres du conseil et sur un ordre du jour
-déterminé, le préfet du département et le président du conseil général
+déterminé, le préfet du département et le président du conseil départemental
 convoquent le conseil de l'éducation nationale.
 
 Toute question proposée à la majorité des membres du conseil figure de droit à

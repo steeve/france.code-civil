@@ -20,15 +20,15 @@ partiellement prise en compte dans le calcul de l'effectif du personnel placé
 auprès des enfants. Cette prise en compte est limitée à un demi-poste au maximum
 pour les établissements ou services d'une capacité supérieure à seize places et
 inférieure ou égale à trente places. L'usage de cette faculté est subordonné à
-l'autorisation du président du conseil général pour les établissements gérés par
-une personne de droit privé, ou à son avis pour les établissements gérés par une
-collectivité publique, délivrés dans les conditions prévues aux articles R.
-2324-19 et R. 2324-21. Le président du conseil général prend en compte, pour
-donner son autorisation ou formuler son avis, la capacité de l'établissement et
-son amplitude d'ouverture, les missions déléguées au directeur, les aides dont
-il dispose, ainsi que la qualification et l'expérience des personnels chargés
-des enfants. Cette possibilité ne peut être cumulée avec celle ouverte par les
-dispositions de l'article R. 2324-37-1.
+l'autorisation du président du conseil départemental pour les établissements
+gérés par une personne de droit privé, ou à son avis pour les établissements
+gérés par une collectivité publique, délivrés dans les conditions prévues aux
+articles R. 2324-19 et R. 2324-21. Le président du conseil départemental prend
+en compte, pour donner son autorisation ou formuler son avis, la capacité de
+l'établissement et son amplitude d'ouverture, les missions déléguées au
+directeur, les aides dont il dispose, ainsi que la qualification et l'expérience
+des personnels chargés des enfants. Cette possibilité ne peut être cumulée avec
+celle ouverte par les dispositions de l'article R. 2324-37-1.
 
 Pour les établissements ou services d'une capacité supérieure à soixante places,
 la personne assurant les fonctions de directeur adjoint peut être partiellement

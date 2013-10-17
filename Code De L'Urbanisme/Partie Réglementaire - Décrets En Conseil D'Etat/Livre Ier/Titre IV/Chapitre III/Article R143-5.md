@@ -3,9 +3,9 @@ Article R143-5
 Le projet de programme d'action pour la protection et la mise en valeur des
 espaces agricoles et naturels périurbains dans un périmètre dont la création est
 projetée ou dont la délimitation a été approuvée est soumis pour accord par le
-président du conseil général aux communes incluses dans le périmètre ou aux
-établissements publics de coopération intercommunale compétents en matière de
-plan local d'urbanisme.
+président du conseil départemental aux communes incluses dans le périmètre ou
+aux établissements publics de coopération intercommunale compétents en matière
+de plan local d'urbanisme.
 
 Le projet de programme est également adressé à la chambre départementale
 d'agriculture ainsi qu'à l'Office national des forêts si le périmètre comprend

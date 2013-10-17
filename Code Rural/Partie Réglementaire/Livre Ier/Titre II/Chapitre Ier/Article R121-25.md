@@ -1,8 +1,8 @@
 Article R121-25
 ----
 Lorsqu'en application du troisième alinéa de l'article L. 121-15, le conseil
-général exige des propriétaires une participation financière, le montant de
-celle-ci est soumise à enquête publique.
+départemental exige des propriétaires une participation financière, le montant
+de celle-ci est soumise à enquête publique.
 
 L'avis d'enquête est accompagné d'un document destiné à recueillir l'accord des
 propriétaires et, le cas échéant, celui du ou des exploitants qui ont accepté de

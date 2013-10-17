@@ -2,8 +2,8 @@ Article R331-31
 ----
 Le conseil d'administration constitue en son sein un bureau comprenant le
 président du conseil d'administration, le président du conseil scientifique, un
-président de conseil régional, un président de conseil général et au moins un
-représentant de l'Etat, un représentant des collectivités territoriales et de
+président de conseil régional, un président de conseil départemental et au moins
+un représentant de l'Etat, un représentant des collectivités territoriales et de
 leurs groupements, le représentant du personnel de l'établissement et une
 personnalité nommée en raison de sa compétence.
 

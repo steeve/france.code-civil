@@ -19,7 +19,7 @@ projetées ; cette étude comporte une analyse des coûts et des avantages
 marchands.
 
 Le projet de liste et l'étude de l'impact sont transmis par les préfets
-intéressés pour avis aux conseils généraux et aux établissements publics
+intéressés pour avis aux conseils départementaux et aux établissements publics
 territoriaux de bassin concernés et, en Corse, à l'Assemblée de Corse. Les avis
 sont réputés favorables s'ils n'interviennent pas dans un délai de quatre mois à
 compter de la transmission de la demande d'avis.

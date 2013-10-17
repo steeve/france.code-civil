@@ -1,8 +1,8 @@
 Article R2324-18
 ----
 L'autorisation ou l'avis mentionnés à l'article L. 2324-1 doivent être
-sollicités auprès du président du conseil général du département dans lequel est
-implanté l'établissement ou le service demandeur.
+sollicités auprès du président du conseil départemental du département dans
+lequel est implanté l'établissement ou le service demandeur.
 
 Tout dossier de demande d'autorisation ou d'avis doit comporter les éléments
 suivants :

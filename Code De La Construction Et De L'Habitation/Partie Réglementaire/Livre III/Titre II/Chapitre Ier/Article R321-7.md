@@ -7,7 +7,7 @@ travaux des comités ou commissions prévus aux articles R. 321-6-1 à R. 321-6-
 Il assure l'exécution des délibérations, en particulier par les instructions
 qu'il transmet à cet effet aux délégués de l'agence mentionnés à l'article R.
 321-11 et aux présidents des établissements publics de coopération
-intercommunale et des conseils généraux des départements ayant conclu la
+intercommunale et des conseils départementaux des départements ayant conclu la
 convention mentionnée à l'article L. 321-1-1.
 
 II.-Il conclut les conventions mentionnées aux articles L. 312-2-1 et L.
@@ -33,8 +33,9 @@ bénéficiaire.
 
 V.-Il représente l'agence dans tous les actes de la vie civile et en justice, y
 compris pour les décisions prises au nom de l'agence par les présidents des
-établissements publics de coopération intercommunale et des conseils généraux
-des départements ayant conclu la convention mentionnée à l'article L. 321-1-1.
+établissements publics de coopération intercommunale et des conseils
+départementaux des départements ayant conclu la convention mentionnée à
+l'article L. 321-1-1.
 
 VI.-Il nomme aux emplois de l'agence et a autorité sur le personnel.
 

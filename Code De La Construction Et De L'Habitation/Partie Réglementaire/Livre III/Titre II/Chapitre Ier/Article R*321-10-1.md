@@ -1,8 +1,8 @@
 Article R*321-10-1
 ----
 Lorsqu'une convention mentionnée à l'article L. 321-1-1 a été signée, le
-président, selon le cas, du conseil général ou de l'établissement public de
-coopération intercommunale :
+président, selon le cas, du conseil départemental ou de l'établissement public
+de coopération intercommunale :
 
 1° Etablit le programme d'actions intéressant son ressort mentionné à l'article
 R. 321-10 ; 2° En application de ce programme décide de l'attribution des

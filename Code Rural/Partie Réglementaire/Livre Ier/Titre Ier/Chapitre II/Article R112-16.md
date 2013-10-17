@@ -6,7 +6,7 @@ Corse comprend vingt-huit membres. Il est constitué comme suit :
 1° Cinq membres désignés par l'assemblée de Corse ;
 
 2° Un représentant de chacun des deux départements de Corse, désignés par les
-conseils généraux de ces départements ;
+conseils départementaux de ces départements ;
 
 3° Pour chaque département de la région de Corse, un membre désigné par la
 chambre d'agriculture ;

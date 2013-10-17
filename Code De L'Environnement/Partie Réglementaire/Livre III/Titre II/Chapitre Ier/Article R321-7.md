@@ -1,7 +1,7 @@
 Article R321-7
 ----
 Lorsque la majorité calculée selon les modalités définies à l'article R. 321-6
-est acquise, le conseil général peut instituer par délibération un droit
+est acquise, le conseil départemental peut instituer par délibération un droit
 départemental de passage.
 
 Cette délibération précise, s'il y a lieu, les différences de tarifs visées au

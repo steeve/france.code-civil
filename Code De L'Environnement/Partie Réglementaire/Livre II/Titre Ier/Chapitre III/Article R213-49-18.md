@@ -6,12 +6,12 @@ président du conseil d'administration de l'établissement.
 
 Elle comprend :
 
-1° Neuf représentants de l'Etat au conseil d'administration ou leurs
-représentants et trois personnes qualifiées du conseil désignés par le président
-du conseil d'administration ;
+1° Neuf représentants de l'Etat au conseil d'administration et trois personnes
+qualifiées membres du conseil désignés par le président du conseil
+d'administration ;
 
-2° Les représentants des conseils généraux de Vendée, des Deux-Sèvres et de
-Charente-Maritime au conseil d'administration ;
+2° Les représentants des conseils départementaux de Vendée, des Deux-Sèvres et
+de Charente-Maritime au conseil d'administration ;
 
 3° Les représentants des activités agricoles, désignés sur proposition des
 chambres d'agriculture de Vendée, des Deux-Sèvres et de Charente-Maritime, au
@@ -25,10 +25,7 @@ relatif à la représentation des organisations syndicales d'exploitants agricol
 au sein de certains organismes ou commissions ;
 
 5° Trois représentants des irrigants ou de groupements d'irrigants désignés par
-chaque chambre d'agriculture représentée au conseil d'administration ;
-
-6° Toute personne désignée par le conseil d'administration en raison de ses
-compétences avec voix consultative.
+chaque chambre d'agriculture représentée au conseil d'administration.
 
 Le directeur de l'établissement a accès aux séances de la commission avec voix
 consultative. Il peut se faire assister de toute personne de son choix.

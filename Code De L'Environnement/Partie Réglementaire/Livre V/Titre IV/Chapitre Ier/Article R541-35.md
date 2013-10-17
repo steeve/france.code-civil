@@ -15,7 +15,7 @@ représentants désignés par les préfets de région ;
 5° Des directeurs des agences régionales de santé de la zone du plan ou leurs
 représentants ;
 
-6° Des présidents des conseils généraux de la zone du plan ou leurs
+6° Des présidents des conseils départementaux de la zone du plan ou leurs
 représentants ;
 
 7° De représentants des établissements publics de l'Etat, notamment de l'Agence

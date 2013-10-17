@@ -7,7 +7,7 @@ composé :
 
 1° De représentants des collectivités territoriales :
 
-a) Un conseiller général désigné par le conseil général ;
+a) Un conseiller départemental désigné par le conseil départemental ;
 
 b) Deux maires désignés par l'association départementale des maires ou, à
 défaut, élus par le collège des maires du département, convoqué à cet effet par

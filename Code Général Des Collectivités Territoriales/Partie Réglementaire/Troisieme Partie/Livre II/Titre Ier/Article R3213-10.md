@@ -7,7 +7,7 @@ compter de l'ouverture du testament. Elles comportent les nom, prénoms et
 adresse des réclamants, leur ordre et degré de parenté vis-à-vis du défunt,
 ainsi que les motifs de la réclamation.
 
-Le ministre de l'intérieur informe le président du conseil général ou le
+Le ministre de l'intérieur informe le président du conseil départemental ou le
 représentant de l'établissement légataire de ces réclamations et délivre aux
 réclamants un accusé de réception.
 

@@ -12,7 +12,7 @@ stratégique de façade :
 -au conseil maritime de façade et au Conseil national de la mer et des littoraux
 ;
 
--aux conseils régionaux et aux conseils généraux ;
+-aux conseils régionaux et aux conseils départementaux ;
 
 -aux comités de bassin dont le périmètre recouvre les eaux littorales ;
 

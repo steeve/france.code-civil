@@ -1,8 +1,8 @@
 Article R3123-20
 ----
-Les membres du conseil général chargés de mandats spéciaux par leur assemblée
-peuvent prétendre, sur justificatif de la durée réelle du déplacement, d'une
-part, au paiement d'indemnités journalières destinées à rembourser
+Les membres du conseil départemental chargés de mandats spéciaux par leur
+assemblée peuvent prétendre, sur justificatif de la durée réelle du déplacement,
+d'une part, au paiement d'indemnités journalières destinées à rembourser
 forfaitairement leurs frais supplémentaires de repas et de nuitée nécessités par
 l'exercice de ces mandats et, d'autre part, au remboursement des frais de
 transport engagés à cette occasion.

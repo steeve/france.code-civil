@@ -9,8 +9,8 @@ pour avis :
 
 2° Aux comités de bassin concernés ;
 
-3° Aux conseils généraux et régionaux des départements et régions littoraux
-ainsi qu'à la collectivité territoriale de Corse ;
+3° Aux conseils départementaux et régionaux des départements et régions
+littoraux ainsi qu'à la collectivité territoriale de Corse ;
 
 4° Aux chambres consulaires et aux agences régionales de santé des départements
 et régions littoraux, aux comités régionaux, départementaux ou

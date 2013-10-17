@@ -3,8 +3,8 @@ Article R340-2
 I.-Pour l'accomplissement de leur mission, les fonds régionaux d'aménagement
 foncier et urbain disposent notamment des ressources suivantes :
 
--des subventions allouées par l'Etat, le conseil général et le conseil régional
-;
+-des subventions allouées par l'Etat, le conseil départemental et le conseil
+régional ;
 
 -des participations de l'Union européenne ;
 

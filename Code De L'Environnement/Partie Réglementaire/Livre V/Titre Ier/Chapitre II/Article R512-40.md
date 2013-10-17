@@ -5,10 +5,10 @@ autorisées par le ministre chargé des installations classées est fixée dans 
 nomenclature des installations classées.
 
 L'autorisation d'exploiter ces installations est délivrée après avis du conseil
-général.
+départemental.
 
 Lorsque, pour l'une d'elles, en raison de sa localisation, le rayon d'affichage
 mentionné au III de l'article R. 512-14 s'étend à un département voisin ou à une
-région voisine, le conseil général de ce département, le conseil régional de la
-région dans laquelle l'installation doit être implantée ainsi que, le cas
+région voisine, le conseil départemental de ce département, le conseil régional
+de la région dans laquelle l'installation doit être implantée ainsi que, le cas
 échéant, le conseil régional de la région voisine sont également consultés.

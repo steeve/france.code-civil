@@ -26,8 +26,8 @@ e) Un directeur régional des affaires culturelles ;
 a) Trois maires ou présidents d'établissement public de coopération
 intercommunale désignés par le président de l'Association des maires de France ;
 
-b) Un président de conseil général désigné par le président de l'Assemblée des
-départements de France ;
+b) Un président de conseil départemental désigné par le président de l'Assemblée
+des départements de France ;
 
 c) Un président de conseil régional désigné par le président de l'Association
 des régions de France ;

@@ -1,6 +1,6 @@
 Article R431-57
 ----
-Les délibérations des conseils municipaux ou des conseils généraux portant
+Les délibérations des conseils municipaux ou des conseils départementaux portant
 garantie de remboursement des emprunts contractés par les organismes
 d'habitations à loyer modéré et de crédit immobilier doivent en même temps
 comporter un vote ferme des ressources nécessaires pour assurer la contribution

@@ -3,8 +3,8 @@ Article R2531-23
 En cas d'empêchement, les membres du comité visé à l'article L. 2531-12 peuvent
 se faire représenter.
 
-Le remplacement des présidents du conseil régional et des conseils généraux est
-assuré par un vice-président.
+Le remplacement des présidents du conseil régional et des conseils
+départementaux est assuré par un vice-président.
 
 Le remplacement du maire de Paris est assuré par un adjoint ou, à défaut, par un
 conseiller de Paris.

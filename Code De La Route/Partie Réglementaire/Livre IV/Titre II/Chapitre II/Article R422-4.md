@@ -3,8 +3,8 @@ Article R422-4
 Sur les ponts qui n'offriraient pas toutes les garanties nécessaires à la
 sécurité des passages, le préfet pour la voirie nationale ainsi que pour les
 routes classées à grande circulation, le président du conseil exécutif pour les
-routes nationales en Corse, le président du conseil général pour les routes
-départementales ou le maire pour la voirie communale peut prendre toutes
+routes nationales en Corse, le président du conseil départemental pour les
+routes départementales ou le maire pour la voirie communale peut prendre toutes
 dispositions de nature à assurer cette sécurité. Le maximum de la charge
 autorisée et les mesures prescrites pour la protection et l'emprunt de ces ponts
 sont, dans tous les cas, placardés à leur entrée et à leur sortie de manière à
@@ -13,7 +13,7 @@ sont, dans tous les cas, placardés à leur entrée et à leur sortie de manièr
 En cas d'urgence ou de péril imminent, le maire peut prendre les mesures
 provisoires que lui paraît commander la sécurité publique, sauf à en informer le
 préfet et, si le réseau routier départemental est concerné par ces mesures, le
-président du conseil général.
+président du conseil départemental.
 
 Les dispositions prises en application du présent article ne sont applicables ni
 aux convois et transports militaires ni aux véhicules des unités d'instruction

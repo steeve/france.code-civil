@@ -11,7 +11,7 @@ supérieur ;
 
 20 % au plus de représentants des collectivités territoriales sur le territoire
 desquelles est situé l'établissement, désignés respectivement par le conseil
-régional, le conseil général et le conseil municipal de la commune
+régional, le conseil départemental et le conseil municipal de la commune
 d'implantation, ou l'assemblée délibérante de l'établissement public de
 coopération intercommunale compétent.
 

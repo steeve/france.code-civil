@@ -1,7 +1,7 @@
 Article R311-1
 ----
 Une commission départementale des espaces, sites et itinéraires relatifs aux
-sports de nature est placée auprès du président du conseil général.
+sports de nature est placée auprès du président du conseil départemental.
 
 Cette commission comprend notamment un représentant du comité départemental
 olympique et sportif, des représentants des fédérations sportives agréées qui

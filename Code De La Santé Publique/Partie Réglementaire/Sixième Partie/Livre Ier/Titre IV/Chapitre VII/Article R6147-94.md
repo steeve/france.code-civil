@@ -6,7 +6,7 @@ des collectivités territoriales :
 a) Quatre membres élus en son sein par le conseil de Paris, dont un membre en
 qualité de vice-président ;
 
-b) Un membre élu en son sein par le conseil général des Hauts-de-Seine ;
+b) Un membre élu en son sein par le conseil départemental des Hauts-de-Seine ;
 
 c) Un membre élu en son sein par le conseil municipal de Nanterre.
 

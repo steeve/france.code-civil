@@ -13,8 +13,8 @@ départementale de Mayotte ou par l'un de ses présidents pour les questions qui
 relèvent de sa compétence.
 
 Sur la demande des deux tiers des membres du conseil, et sur un ordre du jour
-déterminé, le préfet de Mayotte et le président du conseil général convoquent le
-conseil de l'éducation nationale.
+déterminé, le préfet de Mayotte et le président du conseil départemental
+convoquent le conseil de l'éducation nationale.
 
 Toute question proposée à la majorité des membres du conseil figure de droit à
 l'ordre du jour.
@@ -22,4 +22,5 @@ l'ordre du jour.
 Le conseil de l'éducation nationale est réuni au moins deux fois par an.
 
 Le règlement intérieur du conseil de l'éducation nationale est établi par le
-préfet de Mayotte et le président du conseil général et adopté par le conseil.
+préfet de Mayotte et le président du conseil départemental et adopté par le
+conseil.

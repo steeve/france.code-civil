@@ -1,7 +1,8 @@
 Article R45
 ----
-Chaque candidat ou chaque liste en présence, habilité à désigner un assesseur,
-peut lui désigner un suppléant, pris parmi les électeurs du département.
+Chaque candidat, binôme de candidats ou chaque liste en présence, habilité à
+désigner un assesseur, peut lui désigner un suppléant, pris parmi les électeurs
+du département.
 
 Chaque conseiller municipal assesseur peut également désigner son suppléant,
 soit parmi les autres conseillers municipaux, soit parmi les électeurs de la

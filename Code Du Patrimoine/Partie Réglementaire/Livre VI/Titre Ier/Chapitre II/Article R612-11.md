@@ -15,8 +15,8 @@ départemental de la sécurité publique ou son représentant ; j) Le commandant
 groupement de la gendarmerie ou son représentant ; 2° De membres désignés : a)
 Un conservateur de musée ou son suppléant désignés par le préfet ; b) Un
 conservateur de bibliothèque ou son suppléant désignés par le préfet ; c) Deux
-conseillers généraux ou leurs suppléants désignés par le conseil général ; d)
-Trois maires ou leurs suppléants désignés par le préfet ; e) Cinq personnalités
-désignées par le préfet ; f) Deux représentants d'associations ou fondations
-ayant pour objet de favoriser la connaissance, la protection et la conservation
-du patrimoine ou leurs suppléants.
+conseillers départementaux ou leurs suppléants désignés par le conseil
+départemental ; d) Trois maires ou leurs suppléants désignés par le préfet ; e)
+Cinq personnalités désignées par le préfet ; f) Deux représentants
+d'associations ou fondations ayant pour objet de favoriser la connaissance, la
+protection et la conservation du patrimoine ou leurs suppléants.

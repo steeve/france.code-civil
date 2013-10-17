@@ -9,10 +9,11 @@ du service des domaines, à la collectivité de rattachement et en informe
 l'autorité académique ou l'autorité en tenant lieu.
 
 La collectivité de rattachement délibère sur ces propositions. Le président du
-conseil régional, le président du conseil général, le maire ou le président du
-groupement de communes compétent accorde, par arrêté, les concessions de
-logement telles qu'elles ont été fixées par la délibération de la collectivité
-de rattachement. Il signe également les conventions d'occupation précaire.
+conseil régional, le président du conseil départemental, le maire ou le
+président du groupement de communes compétent accorde, par arrêté, les
+concessions de logement telles qu'elles ont été fixées par la délibération de la
+collectivité de rattachement. Il signe également les conventions d'occupation
+précaire.
 
 Toute modification dans la nature ou la consistance d'une concession fait
 l'objet d'un arrêté pris dans les mêmes conditions.

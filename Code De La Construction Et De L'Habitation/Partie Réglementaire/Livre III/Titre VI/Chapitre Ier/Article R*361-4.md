@@ -32,8 +32,8 @@ savoir :
 
 - un sénateur désigné par le Sénat ;
 
-- deux conseillers généraux désignés par l'association des présidents des
-conseils généraux de France ;
+- deux conseillers départementaux désignés par l'association des présidents des
+conseils départementaux de France ;
 
 - trois maires désignés par l'association des maires de France ;
 
@@ -118,7 +118,7 @@ d) Pour les usagers, douze membres représentant :
 
 - la Confédération nationale du logement ;
 
-- l'Union féminine, civique et sociale ;
+- 'Union féminine, civique et sociale ;
 
 - la Confédération syndicale des familles ;
 

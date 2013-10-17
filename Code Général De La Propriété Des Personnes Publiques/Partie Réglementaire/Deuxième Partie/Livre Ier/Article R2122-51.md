@@ -1,8 +1,8 @@
 Article R2122-51
 ----
 La demande de titre d'occupation constitutif de droit réel mentionné à l'article
-R. 2122-50 est adressée au président du conseil général ou, lorsque les termes
-de la concession le prévoient expressément, au concessionnaire. Elle est
+R. 2122-50 est adressée au président du conseil départemental ou, lorsque les
+termes de la concession le prévoient expressément, au concessionnaire. Elle est
 instruite par le service du département chargé de la gestion des ports ou, si
 cette gestion lui a été confiée, par le service déconcentré compétent de l'Etat.
 Le dossier de la demande est constitué dans les conditions prévues à l'article

@@ -25,7 +25,7 @@ sécurité des enfants.
 
 II.-Les modalités et l'importance de ce concours sont définies en liaison entre
 le gestionnaire de l'établissement ou du service et le président du conseil
-général, à raison de quatre heures hebdomadaires par tranche de dix places
+départemental, à raison de quatre heures hebdomadaires par tranche de dix places
 d'accueil au minimum, et en fonction :
 
 1° De la capacité d'accueil de l'établissement ou du service ;

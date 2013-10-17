@@ -2,12 +2,12 @@ Article R2112-8
 ----
 Les états statistiques concernant, d'une part, les activités du service
 départemental et, d'autre part, la situation sanitaire au titre de la protection
-maternelle et infantile, transmis au préfet par le président du conseil général
-en application des 1° et 3° de l'article R. 1614-30 du code général des
-collectivités territoriales, sont établis par ce service.
+maternelle et infantile, transmis au préfet par le président du conseil
+départemental en application des 1° et 3° de l'article R. 1614-30 du code
+général des collectivités territoriales, sont établis par ce service.
 
 Ces documents sont présentés et analysés par le service départemental au cours
-d'une réunion organisée chaque année par le président du conseil général à
+d'une réunion organisée chaque année par le président du conseil départemental à
 laquelle participent les personnes et organismes concourant à la promotion de la
 santé de la mère et de l'enfant, notamment les représentants des établissements
 de santé et des établissements libéraux, des organismes de sécurité sociale et

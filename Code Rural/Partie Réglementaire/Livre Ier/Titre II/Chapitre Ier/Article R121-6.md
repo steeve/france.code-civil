@@ -3,7 +3,7 @@ Article R121-6
 Les décisions de la commission communale ou intercommunale d'aménagement foncier
 sont affichées, pendant quinze jours au moins, à la mairie de chacune des
 communes faisant l'objet de l'aménagement foncier. Elles sont transmises au
-président du conseil général et au préfet.
+président du conseil départemental et au préfet.
 
 Les décisions des commissions communales ou intercommunales sont, en outre,
 notifiées aux intéressés. Les réclamations formées contre ces décisions doivent

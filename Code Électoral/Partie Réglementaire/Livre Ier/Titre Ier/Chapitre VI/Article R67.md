@@ -6,9 +6,9 @@ Immédiatement après la fin du dépouillement, le procès-verbal des opération
 
 Il est établi en deux exemplaires, signés de tous les membres du bureau.
 
-Les délégués des candidats ou listes en présence sont obligatoirement invités à
-contresigner ces deux exemplaires.
+Les délégués des candidats, des binômes de candidats ou des listes en présence
+sont obligatoirement invités à contresigner ces deux exemplaires.
 
 Dès l'établissement du procès-verbal, le résultat est proclamé en public par le
-président du bureau et affiché en toutes lettres par ses soins dans la salle de
-vote.
+président du bureau de vote et affiché en toutes lettres par ses soins dans la
+salle de vote.

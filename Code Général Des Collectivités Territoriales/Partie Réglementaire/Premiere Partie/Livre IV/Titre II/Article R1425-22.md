@@ -10,8 +10,9 @@ a) Un membre de la Cour des comptes désigné sur proposition du premier
 président, un membre de l'inspection générale de l'administration et un préfet,
 et leurs suppléants ;
 
-b) Trois présidents de conseil général désignés sur proposition de l'assemblée
-permanente des présidents de conseils généraux, et leurs suppléants ;
+b) Trois présidents de conseil départemental désignés sur proposition de
+l'assemblée permanente des présidents de conseils départementaux, et leurs
+suppléants ;
 
 c) Trois maires ou présidents d'établissement public de coopération
 intercommunale, désignés sur proposition de l'Association des maires de France,

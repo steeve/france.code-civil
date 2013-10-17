@@ -4,8 +4,8 @@ I.-Dans chaque région une commission consultative d'élaboration et de suivi es
 composée :
 
 1° Du président du conseil régional ou de son représentant qui préside la
-commission, sauf dans le cas prévu au 2° et des présidents des conseils généraux
-de la région ou leurs représentants ;
+commission, sauf dans le cas prévu au 2° et des présidents des conseils
+départementaux de la région ou leurs représentants ;
 
 2° Du préfet de région ou de son représentant. Celui-ci préside la commission
 jusqu'à l'approbation du plan ou à sa révision lorsqu'il a décidé de se

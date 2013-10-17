@@ -4,9 +4,9 @@ Les attributions et obligations dévolues aux préfets par les dispositions
 relatives aux chambres départementales d'agriculture sont exercées par le préfet
 du siège de la chambre interdépartementale.
 
-Les présidents des conseils généraux des départements concernés peuvent assister
-aux séances de la chambre interdépartementale. Ils sont entendus chaque fois
-qu'ils le demandent et peuvent se faire assister ou représenter.
+Les présidents des conseils départementaux des départements concernés peuvent
+assister aux séances de la chambre interdépartementale. Ils sont entendus chaque
+fois qu'ils le demandent et peuvent se faire assister ou représenter.
 
 Les directeurs départementaux des territoires et les directeurs départementaux
 des territoires et de la mer concernés assistent à titre consultatif aux séances

@@ -1,11 +1,10 @@
 Article R164-1
 ----
-Les députés, les sénateurs, les conseillers régionaux, les conseillers à
-l'Assemblée de Corse et les conseillers généraux qui souhaitent exercer leur
-droit de vote par procuration doivent adresser une demande revêtue de leur
-signature au représentant de l'Etat dans le département à qui elle doit
-parvenir, à peine d'irrecevabilité, quarante-huit heures au moins avant le début
-du scrutin.
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse
+et les conseillers départementaux qui souhaitent exercer leur droit de vote par
+procuration doivent adresser une demande revêtue de leur signature au
+représentant de l'Etat dans le département à qui elle doit parvenir, à peine
+d'irrecevabilité, quarante-huit heures au moins avant le début du scrutin.
 
 Cette demande doit préciser la nature de l'empêchement majeur invoqué par le
 mandant, au regard des dispositions des a et c de l'article L. 71.
