@@ -1,7 +1,7 @@
 Article R272
 ----
 Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans
-leur rédaction en vigueur à la date du décret n° 2012-220 du 16 février 2012,
+leur rédaction en vigueur à la date du décret n° 2013-938 du 18 octobre 2013,
 les dispositions suivantes du livre II du code électoral (partie réglementaire)
 :
 
