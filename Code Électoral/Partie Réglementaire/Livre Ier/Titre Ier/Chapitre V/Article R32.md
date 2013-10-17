@@ -6,16 +6,15 @@ Chaque commission comprend :
 
 - un fonctionnaire désigné par le préfet ;
 
-- un fonctionnaire désigné par le directeur départemental des postes et
-télécommunications.
+- un représentant de l'opérateur chargé de l'envoi de la propagande.
 
-Un suppléant du président peut être désigné dans les mêmes conditions.
+Un suppléant du président et de chaque membre peut être désigné dans les mêmes
+conditions.
 
 Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 
-Les candidats ou leurs mandataires ou les mandataires des listes peuvent
-participer, avec voix consultative, aux travaux de la commission concernant leur
-circonscription.
+Les candidats, leurs remplaçants ou leurs mandataires peuvent participer, avec
+voix consultative, aux travaux de la commission concernant leur circonscription.
 
 Le président fixe, en accord avec le préfet, le lieu où la commission doit
 siéger.

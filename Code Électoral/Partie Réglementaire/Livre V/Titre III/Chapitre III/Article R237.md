@@ -15,8 +15,7 @@ Elle comprend :
 
 3° (Abrogé) ;
 
-4° Un fonctionnaire désigné par le directeur de l'office des postes et
-télécommunications.
+4° Un représentant de l'opérateur chargé de l'envoi de la propagande.
 
 Les mandataires des listes peuvent participer, avec voix consultative, aux
 travaux de la commission instituée dans leur province.

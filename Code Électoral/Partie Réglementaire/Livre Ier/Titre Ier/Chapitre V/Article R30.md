@@ -4,11 +4,14 @@ Les bulletins doivent être imprimés en une seule couleur sur papier blanc, d'u
 grammage compris entre 60 et 80 grammes au mètre carré et avoir les formats
 suivants :
 
-- 105 x 148 mm pour les bulletins comportant un ou deux noms ;
+- 105 x 148 mm au format paysage pour les bulletins comportant de un à quatre
+noms ;
 
-- 148 x 210 mm pour les listes comportant de trois à trente et un noms ;
+- 148 x 210 mm au format paysage pour les listes comportant de cinq à trente et
+un noms ;
 
-- 210 x 297 mm pour les listes comportant plus de trente et un noms.
+- 210 x 297 mm au format paysage pour les listes comportant plus de trente et un
+noms.
 
 Les bulletins ne peuvent pas comporter d'autres noms de personne que celui du ou
 des candidats ou de leurs remplaçants éventuels.

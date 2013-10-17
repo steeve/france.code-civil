@@ -10,9 +10,11 @@ vote, est fixé à :
 dans les communes ayant plus de 5 000 électeurs.
 
 Pour les élections où la candidature est subordonnée au dépôt obligatoire d'une
-déclaration, les emplacements sont attribués par voie de tirage au sort par
-l'autorité qui reçoit les candidatures. En cas de second tour, l'ordre retenu
-pour le premier tour est conservé entre les candidats restant en présence.
+déclaration, à l'exception des élections municipales dans les communes de moins
+de 1 000 habitants, les emplacements sont attribués par voie de tirage au sort
+par l'autorité qui reçoit les candidatures. En cas de second tour, l'ordre
+retenu pour le premier tour est conservé entre les candidats restant en
+présence.
 
 Dans les autres cas, les demandes sont déposées en mairie au plus tard le
 mercredi précédant chaque tour de scrutin à midi et les emplacements sont

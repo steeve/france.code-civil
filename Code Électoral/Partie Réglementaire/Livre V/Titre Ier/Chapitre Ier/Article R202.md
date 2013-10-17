@@ -40,9 +40,7 @@ comptes" ;
 13° "Chef du service des affaires économiques", au lieu de : "directeur
 départemental des enquêtes européennes" ;
 
-14° "Un agent désigné par le directeur de l'office des postes et
-télécommunications de la Polynésie française" au lieu de : " Un fonctionnaire
-désigné par le directeur départemental des postes et télécommunications" ;
+14° (Supprimé) ;
 
 15° "Archives de la Polynésie française", au lieu de : "archives
 départementales" ;
