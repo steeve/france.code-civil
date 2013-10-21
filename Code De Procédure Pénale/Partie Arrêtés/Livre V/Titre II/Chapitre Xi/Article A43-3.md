@@ -56,6 +56,8 @@ Quartier des mineurs du centre de semi-liberté de Maxéville (Meurthe-et-Mosell
 
 Quartier des mineurs du centre pénitentiaire de Metz (Moselle) ;
 
+Quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ;
+
 Quartier des mineurs de la maison d'arrêt de Mulhouse (Haut-Rhin) ;
 
 Quartier des mineurs du quartier de semi-liberté de la maison d'arrêt de
@@ -73,8 +75,6 @@ Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientale
 Quartier des mineurs de la maison d'arrêt de Reims (Marne) ;
 
 Quartier des mineurs du centre pénitentiaire de Remire-Montjoly (Guyane) ;
-
-Quartier des mineurs de la maison d'arrêt de Riom (Puy-de-Dôme) ;
 
 Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
 
