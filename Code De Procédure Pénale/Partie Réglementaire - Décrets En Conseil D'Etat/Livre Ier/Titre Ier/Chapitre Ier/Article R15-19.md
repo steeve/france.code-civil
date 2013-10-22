@@ -44,8 +44,7 @@ a) Le service chargé de la lutte contre l'immigration irrégulière et le trava
 illégal des étrangers, dans les départements de Paris, des Hauts-de-Seine, du
 Val-de-Marne et de la Seine-Saint-Denis ;
 
-b) L'inspection générale des services, dans les départements de Paris, des
-Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis ;
+b) (supprimé)
 
 c) La direction opérationnelle des services techniques et logistiques, dans les
 départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
