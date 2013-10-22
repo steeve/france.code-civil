@@ -5,8 +5,8 @@ des impôts est déposée au service des impôts des entreprises étrangères da
 mois qui suit la constitution, la modification ou l'extinction d'un trust défini
 à l'article 792-0 bis du même code.
 
-Cette déclaration est établie sur papier libre et comporte les indications
-suivantes :
+Cette déclaration est souscrite en langue française sur un imprimé conforme à un
+modèle établi par l'administration et comporte les indications suivantes :
 
 1° L'identification du ou des constituants ou bénéficiaires réputés constituants
 : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de

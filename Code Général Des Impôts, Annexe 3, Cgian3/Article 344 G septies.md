@@ -5,8 +5,8 @@ impôts dépose au service des impôts des entreprises étrangères, au plus tar
 15 juin de chaque année, la déclaration mentionnée au deuxième alinéa de
 l'article 1649 AB du même code.
 
-Cette déclaration est établie sur papier libre et comporte les indications
-suivantes :
+Cette déclaration est souscrite en langue française sur un imprimé conforme à un
+modèle établi par l'administration et comporte les indications suivantes :
 
 1° L'identification du ou des constituants ou bénéficiaires réputés constituants
 : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de
