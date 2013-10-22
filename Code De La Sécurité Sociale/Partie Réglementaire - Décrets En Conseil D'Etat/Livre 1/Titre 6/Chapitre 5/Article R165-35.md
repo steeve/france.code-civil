@@ -36,9 +36,7 @@ En l'absence de paiement dans un délai d'un mois, la pénalité est recouvrée 
 les conditions prévues au titre III du décret n° 2012-1246 du 7 novembre 2012
 relatif à la gestion budgétaire et comptable publique.
 
-III. ― Les montants versés à l'organisme compétent mentionné à l'article L.
-213-1 sont répartis entre le régime général d'assurance maladie, le régime
-d'assurance maladie des professions agricoles et le régime social des
-indépendants selon la clé de répartition fixée en application de l'article L.
-162-37. L'agent comptable informe le comité économique des produits de santé et
-les ministres chargés de la santé et de la sécurité sociale des montants perçus.
+III. ― Le produit de la pénalité est affecté à la Caisse nationale de
+l'assurance maladie des travailleurs salariés. L'agent comptable informe le
+comité économique des produits de santé et les ministres chargés de la santé et
+de la sécurité sociale des montants perçus.

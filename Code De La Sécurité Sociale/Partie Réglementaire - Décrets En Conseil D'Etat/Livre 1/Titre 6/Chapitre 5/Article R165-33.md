@@ -43,10 +43,7 @@ En cas de défaut de paiement dans un délai d'un mois, la pénalité est recouv
 dans les conditions prévues à l'article 192 du décret n° 2012-1246 du 7 novembre
 2012 relatif à la gestion budgétaire et comptable publique.
 
-Les montants versés à l'organisme compétent mentionné à l'article L. 213-1 sont
-répartis entre le régime général d'assurance maladie, le régime d'assurance
-maladie des professions agricoles et le régime social des indépendants, selon la
-clé de répartition fixée en application de l'article L. 162-37 du code de la
-sécurité sociale. L'agent comptable de cet organisme notifie à l'Agence
-nationale de sécurité du médicament et des produits de santé et aux ministres
-chargés de la santé et de la sécurité sociale les montants perçus.
+Le produit de la pénalité est affecté à la Caisse nationale de l'assurance
+maladie des travailleurs salariés. L'agent comptable de cet organisme notifie à
+l'Agence nationale de sécurité du médicament et des produits de santé et aux
+ministres chargés de la santé et de la sécurité sociale les montants perçus.
