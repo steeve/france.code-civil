@@ -15,12 +15,7 @@ du rapport entre le montant des crédits de paiement qui lui ont été versés e
 2007 et le montant total des crédits de paiement versés par l'Etat à l'ensemble
 des régions au titre de la dotation régionale d'équipement scolaire en 2007.
 
-De 2009 à 2011, le montant alloué à chaque région est égal à celui de 2008.
-
-A compter de 2012, le montant de la dotation revenant à chaque région est obtenu
-par application au montant de l'année précédente du taux prévisionnel de
-croissance de la formation brute de capital fixe des administrations publiques
-associé au projet de loi de finances relatif à l'année de versement.
+A compter de 2009, le montant alloué à chaque région est égal à celui de 2008.
 
 La dotation régionale d'équipement scolaire est versée aux régions en une seule
 fois au cours du troisième trimestre de l'année en cours.

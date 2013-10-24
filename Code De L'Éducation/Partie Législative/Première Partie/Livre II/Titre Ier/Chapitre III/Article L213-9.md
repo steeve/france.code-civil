@@ -17,12 +17,8 @@ crédits de paiement versés par l'Etat à l'ensemble des départements au titre
 la dotation départementale d'équipement des collèges au cours de ces mêmes
 années.
 
-De 2009 à 2011, le montant alloué à chaque département est égal à celui de 2008.
-
-A compter de 2012, le montant de la dotation revenant à chaque département est
-obtenu par application au montant de l'année précédente du taux prévisionnel de
-croissance de la formation brute de capital fixe des administrations publiques
-associé au projet de loi de finances relatif à l'année de versement.
+A compter de 2009, le montant alloué à chaque département est égal à celui de
+2008.
 
 La dotation départementale d'équipement des collèges est versée aux départements
 en une seule fois au cours du troisième trimestre de l'année en cours.
