@@ -31,11 +31,8 @@ d'émission, personnellement ou par le biais d'un représentant compétent en ve
 de la législation nationale, de son droit de former un recours et du délai pour
 le faire ;
 
-7° Si, selon le certificat, la personne condamnée n'a pas comparu en personne,
-sauf si le certificat indique qu'elle a été informée personnellement, ou par
-l'intermédiaire d'un représentant compétent en vertu de la législation
-nationale, de la procédure conformément à la législation de l'Etat d'émission,
-ou qu'elle ne contestait pas ladite sanction ;
+7° Si, selon le certificat, la personne condamnée n'a pas comparu en personne au
+procès, sauf dans les cas visés aux 1° à 3° de l'article 695-22-1 ;
 
 8° S'il est établi que la sanction pécuniaire a été prise dans le but de
 condamner une personne en raison de son sexe, de sa race, de sa religion, de son
