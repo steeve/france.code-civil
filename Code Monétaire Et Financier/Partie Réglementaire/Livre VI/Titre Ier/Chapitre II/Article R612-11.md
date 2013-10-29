@@ -1,6 +1,7 @@
 Article R612-11
 ----
-Sur proposition du secrétaire général, la formation plénière du collège :
+Sur proposition du secrétaire général, la formation plénière du collège de
+supervision :
 
 1° Adopte le budget annuel de l'Autorité et ses modifications en cours d'année ;
 

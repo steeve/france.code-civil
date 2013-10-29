@@ -17,7 +17,7 @@ III. ― Une convention entre la Banque de France, l'Autorité de contrôle
 prudentiel et de résolution et l'Etat représenté par le ministre chargé du
 recouvrement des impôts détermine notamment les modalités de transmission des
 documents et de reversement des fonds collectés. Elle est approuvée par le
-collège de l'autorité.
+collège de supervision de l'autorité.
 
 IV. ― Lorsque les créances mentionnées au II sont irrécouvrables, le comptable
 public compétent adresse à l'Autorité de contrôle prudentiel et de résolution

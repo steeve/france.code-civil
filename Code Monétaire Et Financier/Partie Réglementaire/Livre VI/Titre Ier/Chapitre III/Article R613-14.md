@@ -1,12 +1,13 @@
 Article R613-14
 ----
 Avant qu'il ne soit statué sur l'ouverture d'une procédure de sauvegarde, de
-redressement ou de liquidation judiciaires à l'égard d'un établissement de
-crédit, d'un établissement de monnaie électronique, d'un établissement de
-paiement, d'une entreprise d'investissement ou d'un adhérent d'une chambre de
-compensation, le président du tribunal saisit l'Autorité de contrôle prudentiel
-et de résolution d'une demande d'avis. Le greffier transmet cette demande sans
-délai. Il en informe le procureur de la République.
+redressement ou de liquidation judiciaires instituées par le livre VI du code de
+commerce à l'égard d'un établissement de crédit, d'un établissement de monnaie
+électronique, d'un établissement de paiement, d'une entreprise d'investissement
+ou d'un adhérent d'une chambre de compensation, le président du tribunal saisit
+l'Autorité de contrôle prudentiel et de résolution d'une demande d'avis. Le
+greffier transmet cette demande sans délai. Il en informe le procureur de la
+République.
 
 La saisine de l'Autorité de contrôle prudentiel et de résolution est écrite.
 Elle est accompagnée des pièces nécessaires à son information. Cette saisine
@@ -27,3 +28,9 @@ précise si la personne participe à un système et, dans ce cas, rappelle les
 dispositions du dernier alinéa du II de l'article L. 330-1. Il est transmis par
 tout moyen au greffier, qui le remet au président du tribunal et au procureur de
 la République. L'avis est versé au dossier.
+
+La procédure décrite aux alinéas précédents est également applicable avant qu'il
+ne soit statué sur l'ouverture de la conciliation instituée par le livre VI du
+code de commerce à l'égard d'un établissement de crédit, d'un établissement de
+monnaie électronique, d'un établissement de paiement ou d'une entreprise
+d'investissement.

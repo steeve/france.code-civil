@@ -1,8 +1,9 @@
 Article R612-2
 ----
 I.-Sur proposition de son président et à la majorité des deux tiers de ses
-membres, la formation plénière du collège de l'Autorité peut constituer une ou
-plusieurs commissions spécialisées mentionnées à l'article L. 612-8.
+membres, la formation plénière du collège de supervision de l'Autorité peut
+constituer une ou plusieurs commissions spécialisées mentionnées à l'article L.
+612-8.
 
 La décision constituant une commission spécialisée fixe :
 
