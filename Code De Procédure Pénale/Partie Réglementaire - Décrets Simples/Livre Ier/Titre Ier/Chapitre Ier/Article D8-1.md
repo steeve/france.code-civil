@@ -35,4 +35,7 @@ la police judiciaire de la direction générale de la gendarmerie nationale ;
 12° Office central de lutte contre le crime organisé ;
 
 13° Office central de lutte contre la corruption et les infractions financières
-et fiscales.
+et fiscales ;
+
+14° Office central de lutte contre les crimes contre l'humanité, les génocides
+et les crimes de guerre.
