@@ -28,7 +28,13 @@ de personenvennootschap met beperkre aansprakelijheid ;
 
 5° Pour Chypre :
 
-6° Pour le Danemark :
+6° Pour la Croatie :
+
+dionicko društvo ;
+
+društvo s ogranicenom odgovornošcu ;
+
+7° Pour le Danemark :
 
 aktieselskab ;
 
@@ -36,7 +42,7 @@ kommanditaktieselskab ;
 
 anpartsselskab ;
 
-7° Pour l'Espagne :
+8° Pour l'Espagne :
 
 la sociedad anonima ;
 
@@ -44,19 +50,19 @@ la sociedad en comandita por acciones ;
 
 la sociedad de responsabilidad limitada ;
 
-8° Pour l'Estonie :
+9° Pour l'Estonie :
 
 aktsiaselts ;
 
 osaühing ;
 
-9° Pour la Finlande :
+10° Pour la Finlande :
 
 yksityinen osakeyhtiö/privat aktiebolag ;
 
 yulkinen osakeyhtiö/publikt aktiebolag ;
 
-10° Pour la France :
+11° Pour la France :
 
 la société anonyme ;
 
@@ -66,15 +72,15 @@ la société à responsabilité limitée ;
 
 la société par actions simplifiée ;
 
-11° Pour la Grèce :
+12° Pour la Grèce :
 
-12° Pour la Hongrie :
+13° Pour la Hongrie :
 
 részvénytajrsasajg ;
 
 korlajtolt felelosségu tajrsasajg ;
 
-13° Pour l'Irlande :
+14° Pour l'Irlande :
 
 the public company limited by shares ;
 
@@ -82,7 +88,7 @@ the public company limited by guarantee and having a share capital ;
 
 the private company limited by shares or by guarantee ;
 
-14° Pour l'Italie :
+15° Pour l'Italie :
 
 sociétà per azioni ;
 
@@ -90,7 +96,7 @@ sociétà in accomandita per azioni ;
 
 sociétà a responsabilità limitata ;
 
-15° Pour la Lettonie :
+16° Pour la Lettonie :
 
 Akciju sabiedriba ;
 
@@ -98,13 +104,13 @@ sabiedriba ar ierobezotu atbildibu ;
 
 komanditsabiedriba ;
 
-16° Pour la Lituanie :
+17° Pour la Lituanie :
 
 akcine bendrove ;
 
 uzdaroji akcine bendrove ;
 
-17° Pour le Luxembourg :
+18° Pour le Luxembourg :
 
 la société anonyme ;
 
@@ -112,7 +118,7 @@ la société en commandite par actions ;
 
 la société à responsabilité limitée ;
 
-18° Pour Malte :
+19° Pour Malte :
 
 kumpanija pubblika ;
 
@@ -122,13 +128,13 @@ kumpanija privata ;
 
 private limited liability company ;
 
-19° Pour les Pays-Bas :
+20° Pour les Pays-Bas :
 
 de naamloze vennootschap ;
 
 de besloten vennootschap met beperkte aansprakelijkheid ;
 
-20° Pour la Pologne :
+21° Pour la Pologne :
 
 spojlka z ograniczona odpowiedzialnoscia ;
 
@@ -136,7 +142,7 @@ spojlka komandytowoakcyjna ;
 
 spojlka akcyjna ;
 
-21° Pour le Portugal :
+22° Pour le Portugal :
 
 sociedade anonima ;
 
@@ -144,9 +150,9 @@ sociedade en commandita por acçoes ;
 
 sociedade por quotas ;
 
-22° Pour la Roumanie :
+23° Pour la Roumanie :
 
-23° Pour le Royaume-Uni :
+24° Pour le Royaume-Uni :
 
 the public company limited by shares ;
 
@@ -154,25 +160,25 @@ the public company limited by guarantee and having a share capital ;
 
 the private company limited by shares or by guarantee ;
 
-24° Pour la Slovaquie :
+25° Pour la Slovaquie :
 
 akciovaj spolecnost ;
 
 spolecnost s rucenijm obmedzenm' ;
 
-25° Pour la Slovénie :
+26° Pour la Slovénie :
 
 delniska druzba ;
 
 druzba z omejeno odgovornostjo ;
 
-26° Pour la Suède :
+27° Pour la Suède :
 
 aktiebolag ;
 
 komaditna delniska druzba ;
 
-27° Pour la République tchèque :
+28° Pour la République tchèque :
 
 spolecnost s rucenijm omezenm ;
 
