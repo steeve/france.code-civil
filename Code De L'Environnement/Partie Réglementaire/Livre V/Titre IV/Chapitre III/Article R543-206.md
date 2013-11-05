@@ -3,9 +3,7 @@ Article R543-206
 Est puni de l'amende prévue pour les contraventions de la 5e classe le fait,
 pour un producteur :
 
-1° De mettre sur le marché des équipements électriques et électroniques sans
-respecter les dispositions prévues à l'article R. 543-175 ainsi qu'à l'arrêté
-prévu au même article ;
+1° (supprimé)
 
 2° De mettre sur le marché un équipement électrique et électronique sans avoir
 contribué à la collecte séparée des déchets d'équipements électriques et

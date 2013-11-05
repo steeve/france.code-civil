@@ -1,6 +1,6 @@
 Article R543-174
 ----
-Au sens de la présente section :
+Au sens de la présente sous-section :
 
 1° Est considérée comme producteur toute personne qui fabrique, importe ou
 introduit sur le marché national à titre professionnel des équipements

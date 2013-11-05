@@ -1,6 +1,6 @@
 Article R543-173
 ----
-Pour l'application de la présente section :
+Pour l'application de la présente sous-section :
 
 1° Sont considérés comme déchets d'équipements électriques et électroniques
 ménagers les déchets issus d'équipements électriques et électroniques provenant
