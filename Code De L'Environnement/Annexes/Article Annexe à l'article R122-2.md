@@ -4,8 +4,8 @@ CATÉGORIES D'AMÉNAGEMENTS, d'ouvrages et de travaux
 
 PROJETS soumis à étude d'impact
 
-PROJETS soumis à la procédure de "cas par cas" en application de l'annexe III de
-la directive 85/337/CE
+PROJETS soumis à la procédure de " cas par cas " en application de l'annexe III
+de la directive 85/337/ CE
 
 Installations classées pour la protection de l'environnement (ICPE)
 
@@ -253,8 +253,8 @@ par l'article L. 146-6 du même code.
 21° Extraction de minéraux ou sédiments par dragage marin ou retrait de
 matériaux lié au curage d'un cours d'eau.
 
-a) Dragage et/ou rejet y afférent en milieu marin soumis à autorisation au titre
-de l'article R. 214-1 du code de l'environnement.
+a) Dragage et/ ou rejet y afférent en milieu marin soumis à autorisation au
+titre de l'article R. 214-1 du code de l'environnement.
 
 b) Entretien de cours d'eau ou de canaux soumis à autorisation au titre de
 l'article R. 214-1 du code de l'environnement.
@@ -600,13 +600,13 @@ d'étendues semi-naturelles à l'exploitation agricole intensive.
 a) Défrichements portant sur une superficie totale, même fragmentée, égale ou
 supérieure à 25 hectares.
 
-a) Défrichements soumis à autorisation au titre de l'article L. 311-2 du code
-forestier et portant sur une superficie totale, même fragmentée, inférieure à 25
-hectares.
+a) Défrichements soumis à autorisation au titre de l' article L. 341-3 du code
+forestier et portant sur une superficie totale, même fragmentée, de plus de 0,5
+hectare et inférieure à 25 hectares.
 
-b) Défrichements ayant pour objet des opérations d'urbanisation ou
-d'implantation industrielle ou d'exploitation de matériaux en application de
-l'article R. 363-3 du code forestier.
+b) Dérogations à l'interdiction générale de défrichement mentionnée à l'article
+L. 374-1 du code forestier ayant pour objet des opérations d'urbanisation ou
+d'implantation industrielle ou d'exploitation de matériaux.
 
 c) Premiers boisements d'une superficie totale égale ou supérieure à 25
 hectares.
