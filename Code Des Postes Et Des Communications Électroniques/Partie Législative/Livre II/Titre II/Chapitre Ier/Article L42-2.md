@@ -11,18 +11,6 @@ conditions d'attribution et de modification des autorisations d'utilisation
 correspondant à ces fréquences ainsi que la durée de la procédure d'attribution,
 qui ne peut excéder un délai fixé par décret.
 
-Par dérogation au deuxième alinéa, s'agissant des fréquences affectées aux
-services de communications électroniques dans le cadre du schéma national de
-réutilisation des fréquences libérées par l'arrêt de la diffusion analogique
-institué par l'article 21 de la loi n° 86-1067 du 30 septembre 1986 relative à
-la liberté de communication, le ministre chargé des communications électroniques
-fixe, sur proposition de l'Autorité de régulation des communications
-électroniques et des postes et après avis de la Commission du dividende
-numérique instituée par le même article 21, les conditions d'attribution et de
-modification des autorisations d'utilisation correspondant à ces fréquences.
-Celles-ci tiennent prioritairement compte des impératifs d'aménagement numérique
-du territoire.
-
 Le ministre fixe également, dans les mêmes conditions, la durée de la procédure
 d'attribution, qui ne peut excéder un délai fixé par décret.
 

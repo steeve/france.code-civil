@@ -14,18 +14,9 @@ Ces sommes font l'objet d'un abattement forfaitaire de 4 %.
 III.-L'exigibilité de la taxe est constituée par le versement des sommes
 mentionnées au II.
 
-IV.-1. La taxe est calculée en appliquant un taux de 3 % à la fraction du
+IV.-1. La taxe est calculée en appliquant un taux de 0,5 % à la fraction du
 montant des versements annuels, hors taxe sur la valeur ajoutée, afférent à
-chaque service de télévision, qui excède 11 millions d'euros. Toutefois, à
-compter de 2010 et jusqu'à la mise en œuvre de la disposition mentionnée à la
-deuxième phrase du premier alinéa du VI de l'article 53 de la loi n° 86-1067 du
-30 septembre 1986 relative à la liberté de communication, ce taux est fixé à 0,5
-%.
-
-Pour les services de télévision autres que ceux diffusés par voie hertzienne
-terrestre en mode analogique, le taux est fixé à 0,25 % en 2010 et en 2011.
-
-2. (alinéa abrogé)
+chaque service de télévision, qui excède 11 millions d'euros. 2. (alinéa abrogé)
 
 3. Pour les éditeurs de services de télévision dont l'audience quotidienne
 réalisée en dehors de la France métropolitaine est supérieure à 90 % de leur
