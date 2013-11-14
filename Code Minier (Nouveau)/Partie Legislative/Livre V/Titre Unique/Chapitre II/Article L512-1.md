@@ -35,7 +35,17 @@ L. 152-1 ;
 
 9° D'exploiter une mine soumise à une obligation de constitution de garanties
 financières sans avoir constitué ou communiqué au représentant de l'Etat dans le
-département les garanties financières requises.
+département les garanties financières requises ;
 
-II. - Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains
+10° (abrogé) ;
+
+11° De détenir du mercure ou tout ou partie d'un concasseur ou d'un corps de
+pompe, depuis plus d'un mois, sans détenir le récépissé de déclaration prévu à
+l'article L. 621-13 ;
+
+12° De transporter du mercure ou tout ou partie d'un concasseur ou d'un corps de
+pompe sans détenir la copie du récépissé de déclaration prévue à l'article L.
+621-14.
+
+II.-Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains
 mentionnés à l'article L. 211-2.
