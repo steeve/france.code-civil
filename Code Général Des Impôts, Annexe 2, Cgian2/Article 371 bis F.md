@@ -3,9 +3,7 @@ Article 371 bis F
 Le professionnel de l'expertise comptable qui a conclu la convention prévue à
 l'article 371 bis B transmet à ses clients ou adhérents imposés d'après leur
 bénéfice réel, dans un délai de neuf mois suivant la clôture de leur exercice
-comptable lorsque celui-ci coïncide avec l'année civile, et dans un délai de six
-mois lorsque l'exercice comptable ne coïncide pas avec l'année civile, un
-dossier comprenant :
+comptable, un dossier comprenant :
 
 a) Les ratios et les autres éléments caractérisant la situation financière et
 économique de l'entreprise ;

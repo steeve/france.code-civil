@@ -26,7 +26,6 @@ agréé sont également offertes au représentant de l'adhérent.
 Ils ne peuvent agir en qualité de mandataires de leurs membres.
 
 Toutefois, les centres doivent recevoir mandat de leurs membres en vue de la
-télétransmission des attestations qu'ils délivrent à leurs adhérents ainsi que
-des déclarations de résultats, de leurs annexes et des autres documents les
-accompagnant selon la procédure prévue par le système de transfert des données
-fiscales et comptables.
+télétransmission des déclarations de résultats, de leurs annexes et des autres
+documents les accompagnant selon la procédure prévue par le système de transfert
+des données fiscales et comptables.

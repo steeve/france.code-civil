@@ -12,9 +12,10 @@ La demande est accompagnée d'un certificat délivré par l'administration fisca
 sur demande de l'expert-comptable, de la société d'expertise comptable, de
 l'association de gestion et de comptabilité ou de chacun de leurs dirigeants et
 administrateurs. Ce certificat atteste que l'expert-comptable, les dirigeants et
-administrateurs ne font pas l'objet de mesures prévues à l'article 1750 du code
-général des impôts ou n'ont pas fait l'objet au cours des cinq dernières années
-:
+administrateurs ont respecté leurs obligations déclaratives et de paiement en
+matière fiscale pendant la période de cinq ans qui précède la demande d'agrément
+et ne font pas l'objet des mesures prévues à l'article 1750 du code général des
+impôts ou n'ont pas fait l'objet au cours des cinq dernières années :
 
 a) D'une condamnation figurant au bulletin n° 2 prévu à l'article 775 du code de
 procédure pénale, à l'exception des condamnations pour blessures, coups ou

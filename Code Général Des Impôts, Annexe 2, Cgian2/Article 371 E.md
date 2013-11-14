@@ -12,10 +12,8 @@ organe dirigeant, à hauteur d'un maximum d'un tiers des sièges.
 Ils doivent comporter en outre les stipulations suivantes :
 
 1° Le centre fournit à ses membres adhérents imposés d'après leur bénéfice réel
-dans un délai de neuf mois suivant la clôture de leur exercice comptable lorsque
-celui-ci coïncide avec l'année civile, et dans un délai de six mois lorsque
-l'exercice comptable ne coïncide pas avec l'année civile, un dossier comprenant
-:
+dans un délai de neuf mois suivant la clôture de leur exercice comptable, un
+dossier comprenant :
 
 a. Les ratios et les autres éléments caractérisant la situation financière et
 économique de l'entreprise : la nature de ces ratios et autres éléments est
@@ -25,10 +23,10 @@ ministre de l'industrie et du ministre du commerce et de l'artisanat (1) ;
 b. Un commentaire sur la situation financière et économique de l'entreprise ;
 
 c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et
-dans l'un des délais prévus ci-dessus, le centre fournit à ses adhérents une
-analyse comparative des bilans et des comptes de résultat de l'entreprise.
-Toutefois, pour les entreprises soumises au régime simplifié d'imposition, seule
-l'analyse comparative des comptes d'exploitation doit être fournie ;
+dans le même délai de neuf mois, le centre fournit à ses adhérents une analyse
+comparative des bilans et des comptes de résultat de l'entreprise. Toutefois,
+pour les entreprises soumises au régime simplifié d'imposition, seule l'analyse
+comparative des comptes d'exploitation doit être fournie ;
 
 d. Un document de synthèse présentant une analyse des informations économiques,
 comptables et financières de l'entreprise et lui indiquant, le cas échéant, les
