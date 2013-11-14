@@ -3,7 +3,7 @@ Article L392
 Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier
 :
 
-1° Dans l'article L. 52-8, les sommes de 4 600 euros,150 euros et 15 000 euros
+1° Dans l'article L. 52-8, les sommes de 4 600 euros, 150 euros et 15 000 euros
 sont respectivement remplacées par les sommes de 545 000 francs CFP, de 18 180
 francs CFP et de 1 818 000 francs CFP.
 
@@ -145,11 +145,11 @@ la consommation.
 
 7° Les frais de transport aérien et maritime dûment justifiés, exposés à
 l'intérieur de la collectivité intéressée par les candidats aux élections
-législatives en Nouvelle-Calédonie, en Polynésie française et aux îles Wallis et
-Futuna et aux élections au congrès et aux assemblées de province de
-Nouvelle-Calédonie ou à l'assemblée de la Polynésie française ou à l'assemblée
-territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des
-dépenses électorales fixé par l'article L. 52-11.
+législatives et aux élections sénatoriales en Nouvelle-Calédonie, en Polynésie
+française et aux îles Wallis et Futuna et aux élections au congrès et aux
+assemblées de province de Nouvelle-Calédonie ou à l'assemblée de la Polynésie
+française ou à l'assemblée territoriale des îles Wallis et Futuna, ne sont pas
+inclus dans le plafond des dépenses électorales fixé par l'article L. 52-11.
 
 8° Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, le
 compte de campagne peut également être déposé auprès des services du

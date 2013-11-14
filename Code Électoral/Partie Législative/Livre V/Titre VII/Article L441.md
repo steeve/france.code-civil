@@ -4,7 +4,7 @@ Les sénateurs sont élus par un collège électoral composé :
 
 I. - En Nouvelle-Calédonie :
 
-1° Des députés ;
+1° Des députés et des sénateurs ;
 
 2° Des membres des assemblées de province ;
 
@@ -12,7 +12,7 @@ I. - En Nouvelle-Calédonie :
 
 II. - En Polynésie française :
 
-1° Des députés ;
+1° Des députés et des sénateurs ;
 
 2° Des membres de l'assemblée de la Polynésie française ;
 
@@ -20,6 +20,6 @@ II. - En Polynésie française :
 
 III. - Dans les îles Wallis et Futuna :
 
-1° Du député ;
+1° Du député et du sénateur ;
 
 2° Des membres de l'assemblée territoriale.

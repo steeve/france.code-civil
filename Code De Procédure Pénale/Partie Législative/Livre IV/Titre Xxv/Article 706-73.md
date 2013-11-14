@@ -66,7 +66,13 @@ transport commis en bande organisée prévu par l'article 224-6-1 du code pénal
 
 18° Crimes et délits punis de dix ans d'emprisonnement, contribuant à la
 prolifération des armes de destruction massive et de leurs vecteurs entrant dans
-le champ d'application de l'article 706-167.
+le champ d'application de l'article 706-167 ;
+
+19° Délit d'exploitation d'une mine ou de disposition d'une substance
+concessible sans titre d'exploitation ou autorisation, accompagné d'atteintes à
+l'environnement, commis en bande organisée, prévu à l'article L. 512-2 du code
+minier, lorsqu'il est connexe avec l'une des infractions mentionnées aux 1° à
+17° du présent article.
 
 Pour les infractions visées aux 3°, 6° et 11°, sont applicables, sauf précision
 contraire, les dispositions du présent titre ainsi que celles des titres XV, XVI

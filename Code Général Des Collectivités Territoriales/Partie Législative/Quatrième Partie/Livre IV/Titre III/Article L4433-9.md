@@ -10,7 +10,8 @@ mixtes chargés de l'élaboration et de l'approbation des schémas de cohérence
 territoriale en application aux articles L. 122-4 et L. 122-4-1 du code de
 l'urbanisme. Les chambres d'agriculture, les chambres de commerce et d'industrie
 territoriales et les chambres de métiers le sont également, à leur demande,
-ainsi que les organisations professionnelles intéressées.
+ainsi que les organisations professionnelles et les associations agréées de
+protection de l'environnement intéressées.
 
 Le projet de schéma d'aménagement, assorti des avis du conseil général et des
 conseils consultatifs régionaux, est soumis à enquête publique dans les
