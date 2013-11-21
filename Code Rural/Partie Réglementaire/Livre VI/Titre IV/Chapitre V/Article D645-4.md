@@ -1,7 +1,7 @@
 Article D645-4
 ----
 Pour toute parcelle présentant des pieds de vigne morts ou manquants, le
-rendement autorisé en application des dispositions de l'article D. 644-25 et
+rendement autorisé en application des dispositions de l'article D. 645-7 et
 entrant dans le calcul du volume pouvant être revendiqué en appellation
 d'origine contrôlée est réduit proportionnellement au pourcentage de pieds morts
 ou manquants.

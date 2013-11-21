@@ -8,13 +8,13 @@ récolte.
 
 Lorsque le volume déclaré en récolte totale est supérieur au volume pouvant être
 déclaré dans la limite du rendement autorisé en application de l'article D.
-644-25, et sous réserve du respect du rendement butoir fixé dans le cahier des
+645-7, et sous réserve du respect du rendement butoir fixé dans le cahier des
 charges de l'appellation d'origine contrôlée concernée, l'élimination du volume
 d'eau par concentration correspondant à tout ou partie de l'excédent est
 considérée comme satisfaisant aux obligations de livraison prévues à l'article
-D. 644-32.
+D. 645-14.
 
 Lorsque le volume déclaré en récolte totale est supérieur au volume pouvant être
 déclaré dans la limite du rendement butoir, le volume de vin excédentaire est
 livré en vue de sa destruction par envoi aux usages industriels en application
-de l'article D. 644-32.
+de l'article D. 645-14.

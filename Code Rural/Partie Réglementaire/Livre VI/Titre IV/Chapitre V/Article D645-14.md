@@ -1,7 +1,7 @@
 Article D645-14
 ----
 I. ― Les produits récoltés en dépassement du rendement autorisé en application
-des dispositions de l'article D. 644-25 sont livrés, sous forme de lies ou de
+des dispositions de l'article D. 645-7 sont livrés, sous forme de lies ou de
 vins, et détruits par envoi aux usages industriels avant le 15 décembre de
 l'année suivant celle de la récolte, sur engagement de l'opérateur au moment du
 dépôt de la déclaration de récolte, et sans que celui-ci puisse prétendre à une

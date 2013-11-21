@@ -2,7 +2,7 @@ Article D645-15
 ----
 I. ― Un opérateur peut revendiquer le droit à l'appellation d'origine contrôlée
 pour un volume substituable individuel autorisé en application du II de
-l'article D. 644-25 sous réserve que soit détruit par envoi aux usages
+l'article D. 645-7 sous réserve que soit détruit par envoi aux usages
 industriels un volume de vin équivalent de la même appellation et de la même
 couleur de millésimes antérieurs, produit sur la même exploitation, et ce avant
 le 31 juillet de l'année suivant celle de la récolte.
