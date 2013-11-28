@@ -1,7 +1,6 @@
 Article R632-73
 ----
-Au terme des études, la date d'obtention du diplôme d'études spécialisées de
-médecine préparé est communiquée par le directeur de l'unité de formation et de
-recherche de médecine au centre national de gestion mentionné à l'article R.
-632-67. Le versement de l'allocation cesse et l'exercice professionnel est
-considéré comme débutant à compter de cette même date.
+Le versement de l'allocation cesse à la date à laquelle a été obtenu le diplôme
+d'Etat de docteur en médecine. L'exercice professionnel est considéré comme
+débutant à compter de cette même date. Le directeur général du Centre national
+de gestion établit le nombre de mois d'engagement du signataire.
