@@ -2,12 +2,9 @@ Article Annexe 6-4
 ----
 Section 1
 
+Catégories de données à caractère personnel susceptibles d'être enregistrées
 
-Catégories de données à caractère personnel
-
-susceptibles d'être enregistrées
-
-A. - Données générales.
+A. - Données générales
 
 1° Etat civil de l'étranger ; nationalité ;
 
@@ -47,7 +44,7 @@ antérieure ;
 14° Signature du titulaire du titre de séjour et du titre de voyage.
 
 B. - Données relatives au droit au séjour, au droit au travail et au titre de
-voyage.
+voyage
 
 1° Titre de séjour : références juridiques et de gestion (dates, lieux) de la
 demande, de la délivrance, du refus et du retrait ; date et condition d'entrée
@@ -102,7 +99,7 @@ l'Union européenne et état-civil des membres de famille ;
 
 13° Références de la procédure d'accès à la nationalité française.
 
-C. - Données relatives à la procédure d'éloignement.
+C. - Données relatives à la procédure d'éloignement
 
 a) Données relatives à la mesure d'éloignement :
 
@@ -280,11 +277,10 @@ l'étranger de faire obstacle à son éloignement (O/N).
 
 Section 2
 
-Mentions figurant sur le titre de séjour ou de voyage
+Mentions figurant sur le titre de séjour ou de voyage ou le document de
+circulation
 
-ou le document de circulation délivré à l'étranger mineur
-
-A. - Mentions figurant sur le titre de séjour.
+A. - Mentions figurant sur le titre de séjour
 
 Au recto : le numéro AGDREF2, le numéro du titre, le nom, le prénom, la date
 d'expiration ou la mention validité illimitée , le lieu de délivrance, la date
@@ -295,7 +291,7 @@ photographie d'identité.
 Au verso : la date de naissance, le lieu de naissance, la nationalité, le sexe,
 l'adresse.
 
-B. - Mentions figurant sur les titres de voyage de plus d'un an.
+B. - Mentions figurant sur les titres de voyage de plus d'un an
 
 a) Titre de voyage pour réfugié (TVR) :
 
@@ -331,14 +327,18 @@ c) Titre d'identité et de voyage (TIV) :
 
 Les données mentionnées sont celles figurant au a.
 
-C. - Mentions figurant sur les documents de circulation et les titres d'identité
-républicains délivrés aux étrangers mineurs.
+C. - Mentions figurant sur les documents de circulation
+
+a) Documents de circulation et titres d'identité républicains délivrés aux
+mineurs
 
 Au recto :
 
 1° Nature du document ;
 
 2° Numéro du document ;
+
+2° bis Numéro d'enregistrement dans le système AGDREF ;
 
 3° Etat civil ;
 
@@ -366,18 +366,57 @@ Au verso :
 ans au moins ou signature de la personne qui a demandé le document si, au jour
 de la demande, le titulaire est âgé de moins de sept ans.
 
+b) Carte de frontalier :
+
+Au recto :
+
+1° Catégorie de document : carte de frontalier ;
+
+2° Numéro du titre ;
+
+3° Numéro d'enregistrement dans le système AGDREF ;
+
+4° Photographie ;
+
+5° Etat civil ;
+
+6° Date de début et de fin de validité ;
+
+7° Autorité de délivrance ;
+
+8° Zone remarque : " autorisation de séjourner par périodes maximales de 72
+heures dans les limites du bourg de Saint-Georges de l'Oyapock " ;
+
+9° Signature du titulaire.
+
+Au verso :
+
+1° Date et lieu de naissance ;
+
+2° Nationalité ;
+
+3° Sexe ;
+
+4° Adresse.
+
 
 Section 3
 
 Données contenues dans les composants électroniques
 
-A. - Données contenues dans le composant électronique du titre de séjour (TSE).
+A. - Données contenues dans le composant électronique du titre de séjour (TSE)
 
 Les données contenues sont celles mentionnées au A de la section 2 de la
-présente annexe ( mentions figurant sur le titre de séjour ), ainsi que les
-images numérisées de deux empreintes digitales.
+présente annexe (mentions figurant sur le titre de séjour), ainsi que les images
+numérisées de deux empreintes digitales.
 
 B. - Données contenues dans le composant du titre de voyage d'une durée de
-validité supérieure à un an.
+validité supérieure à un an
 
 Images numérisées de sa photographie et de deux empreintes digitales.
+
+C. - Données contenues dans le composant électronique de la carte de frontalier
+
+Les données sont celles figurant au b du C de la section 2 de la présente annexe
+(mentions figurant sur la carte de frontalier) ainsi que les images numérisées
+de deux empreintes digitales.

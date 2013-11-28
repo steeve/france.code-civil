@@ -4,8 +4,9 @@ Le traitement automatisé de données à caractère personnel mentionné à l'ar
 R. 611-1 comporte les images numérisées de la photographie et des empreintes
 digitales des dix doigts des étrangers suivants :
 
-1° Etrangers demandeurs ou titulaires d'un titre de séjour ou d'un titre de
-voyage d'une durée de validité supérieure à un an ;
+1° Etrangers demandeurs ou titulaires d'un titre de séjour, d'un titre de voyage
+d'une durée de validité supérieure à un an ou de la carte de frontalier
+mentionnée à l'annexe 6-4 ;
 
 2° Etrangers en situation irrégulière ;
 

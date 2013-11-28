@@ -5,6 +5,11 @@ La décision écrite et motivée refusant l'entrée en France à un étranger, p
 service de la police nationale ou des douanes, chargé du contrôle aux
 frontières, ou un fonctionnaire désigné par lui, titulaire au moins du grade de
 brigadier dans le premier cas et d'agent de constatation principal de deuxième
-classe dans le second ou, à Saint-Barthélemy, par le commandant d'unité de la
+classe dans le second, ou, à Saint-Barthélemy, par le commandant d'unité de la
 gendarmerie nationale ou un militaire désigné par lui, titulaire au moins du
 grade de gendarme.
+
+Dans les aérodromes affectés à titre exclusif ou principal au ministère de la
+défense, cette décision peut être également prise par le commandant d'unité de
+la gendarmerie maritime ou de la gendarmerie de l'air ou par un militaire
+désigné par lui, titulaire au moins du grade de gendarme.

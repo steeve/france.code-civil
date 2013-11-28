@@ -12,8 +12,8 @@ irréguliers en France des ressortissants étrangers et, à cet effet :
 1° De permettre aux services centraux et locaux du ministère dont relève le
 traitement d'assurer l'instruction des demandes et la fabrication des titres de
 séjour des ressortissants étrangers, de leurs titres de voyage et des documents
-de circulation délivrés aux ressortissants étrangers mineurs, ainsi que la
-gestion de leurs dossiers respectifs ;
+de circulation délivrés aux ressortissants étrangers, ainsi que la gestion de
+leurs dossiers respectifs ;
 
 2° De mieux coordonner l'action des services chargés de mettre en œuvre des
 procédures intéressant les ressortissants étrangers ;

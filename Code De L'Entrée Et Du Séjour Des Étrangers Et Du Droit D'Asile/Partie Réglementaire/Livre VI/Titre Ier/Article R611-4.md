@@ -34,18 +34,22 @@ frontières, par le directeur général de la gendarmerie nationale ou par le
 directeur régional des douanes ou, le cas échéant, le directeur général des
 douanes et droits indirects ;
 
-5° Les agents des services déconcentrés de la police nationale et de la
-gendarmerie nationale, en charge de la gestion des lieux de rétention
-administrative et de l'exécution des mesures d'éloignement, individuellement
-désignés et spécialement habilités, selon le cas, par le directeur départemental
-de la sécurité publique, le directeur départemental de la police aux frontières
-ou le commandant du groupement de gendarmerie départementale et, dans les
-départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du
-Val-de-Marne, par les directeurs de la préfecture de police chargés de l'ordre
-public et de la circulation, de la sécurité de proximité de l'agglomération
-parisienne, et du renseignement, ainsi que par le commandant du groupement de
-gendarmerie interdépartemental de Paris.
+5° Au titre de la gestion des lieux de rétention administrative, de l'exécution
+des mesures d'éloignement ou de leur mission de vérification du droit de
+circulation ou de séjour sur le territoire français prévue par les articles L.
+611-1 et L. 611-1-1, les agents des services déconcentrés de la police nationale
+et ceux des unités de la gendarmerie nationale, individuellement désignés et
+spécialement habilités, selon le cas :
 
-Toutefois, seuls les agents mentionnés aux 2°, 3° et 4° sont habilités à accéder
-aux données contenues dans le composant prévu aux articles R. 311-13-1 et R.
-321-22.
+-par le directeur départemental de la sécurité publique, le directeur
+départemental de la police aux frontières et, dans les départements de Paris,
+des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, par les
+directeurs de la préfecture de police chargés de l'ordre public et de la
+circulation, de la sécurité de proximité de l'agglomération parisienne et du
+renseignement ;
+
+-par le directeur général de la gendarmerie nationale, le commandant du
+groupement de gendarmerie interdépartemental de Paris, les commandants de
+groupement de gendarmerie départementale, les commandants de la gendarmerie dans
+les départements outre-mer, les commandants de région de gendarmerie ou les
+commandants des gendarmeries spécialisées.

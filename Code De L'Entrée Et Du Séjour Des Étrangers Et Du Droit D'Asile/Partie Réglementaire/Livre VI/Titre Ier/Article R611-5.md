@@ -37,7 +37,7 @@ réfugiés et apatrides, individuellement désignés et spécialement habilités
 leur directeur général ;
 
 5° Au titre de la lutte contre la fraude documentaire, les personnels de la
-mission " délivrance sécurisée des titres ” au sein du secrétariat général du
+mission " délivrance sécurisée des titres " au sein du secrétariat général du
 ministère de l'intérieur, individuellement désignés et spécialement habilités
 par le secrétaire général, les agents des préfectures et sous-préfectures
 compétents en matière de prévention et de lutte contre la fraude documentaire
@@ -80,21 +80,23 @@ permis de conduire ;
 
 a) Du contrôle et de la vérification de l'identité des personnes et de la
 vérification de la validité et de l'authenticité du titre de séjour, dans les
-conditions prévues à l'article L. 611-1 du présent code et aux articles 78-2 et
-78-3 du code de procédure pénale, les officiers de police judiciaire de la
-police nationale et de la gendarmerie nationale et, sur l'ordre et sous la
-responsabilité de ceux-ci, les agents de police judiciaire et agents de police
-judiciaire adjoints mentionnés aux articles 20 et 21 (1°) du code de procédure
-pénale, les agents des douanes dans les conditions prévues à l'article 67 quater
-du code des douanes ainsi que les agents des services fiscaux habilités à
-effectuer des missions de police judiciaire, individuellement désignés et
-spécialement habilités, respectivement, par le directeur général de la police
-nationale, le directeur général de la gendarmerie nationale, ou par les
-personnels appartenant à la catégorie A ou ayant le rang d'officier sur lesquels
-ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur
-régional des douanes ou, le cas échéant, le directeur général des douanes et
-droits indirects et par le magistrat mentionné à l'article 28-2 du code de
-procédure pénale ;
+conditions prévues aux articles L. 611-1 et L. 611-1-1 du présent code et aux
+articles 78-2 et 78-3 du code de procédure pénale, les officiers de police
+judiciaire de la police nationale et de la gendarmerie nationale et, sur l'ordre
+et sous la responsabilité de ceux-ci, les agents de police judiciaire et agents
+de police judiciaire adjoints mentionnés aux articles 20 et 21 (1°) du code de
+procédure pénale, les agents spécialisés, techniciens ou ingénieurs de police
+technique et scientifique, les agents des douanes dans les conditions prévues à
+l'article 67 quater du code des douanes ainsi que les agents des services
+fiscaux et les agents des douanes habilités à effectuer des missions de police
+judiciaire, individuellement désignés et spécialement habilités, respectivement,
+par le directeur général de la police nationale, le directeur général de la
+gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou
+ayant le rang d'officier sur lesquels ces directeurs ont autorité et auxquels
+ils ont donné délégation, le directeur régional des douanes ou, le cas échéant,
+le directeur général des douanes et droits indirects et par le magistrat
+mentionné à l'article 28-2 du code de procédure pénale ou par le magistrat
+délégué aux missions judiciaires de la douane ;
 
 b) Des enquêtes ou des procédures confiées par l'autorité judiciaire, les
 officiers de police judiciaire de la police ou de la gendarmerie nationales et,
@@ -146,3 +148,9 @@ b) Les agents de l'Institut national de la statistique et des études économiqu
 et des services statistiques ministériels, dans le respect de l'article 7 bis de
 la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le
 secret en matière de statistiques.
+
+11° Au titre de la délivrance des agréments des exploitants individuels et des
+dirigeants et gérants de personne morale ou de la délivrance des autorisations
+d'exercice des employés exerçant des activités privées de sécurité, les agents
+du Conseil national des activités privées de sécurité, individuellement désignés
+par son directeur et spécialement habilités par le préfet.

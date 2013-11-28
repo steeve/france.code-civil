@@ -6,14 +6,16 @@ recherche et de contrôle de l'identité des personnes, de vérification de la
 validité et de l'authenticité des titres de séjour et de voyage au sein de la
 police nationale, de la gendarmerie nationale et des douanes peuvent consulter
 les images numérisées des empreintes digitales contenues dans le composant
-électronique du titre prévu aux articles R. 311-13-1 et R. 321-22.
+électronique du titre prévu aux articles R. 311-13-1 et R. 321-22 et dans celui
+de la carte de frontalier mentionnée à l'annexe 6-4.
 
-Les agents figurant aux 5°, 7° pour une mission de vérification d'identité
-prévue par l'article 78-3 du code de procédure pénale et, dans les conditions
-qu'il prévoit, au 9° de l'article R. 611-5 peuvent consulter les images
-numérisées des empreintes digitales contenues dans le traitement mentionné à
-l'article R. 611-1 et dans le composant électronique mentionné aux articles R.
-311-13-1 et R. 321-22.
+Peuvent consulter les images numérisées des empreintes digitales contenues dans
+le traitement mentionné à l'article R. 611-1, dans le composant électronique
+mentionné aux articles R. 311-13-1 et R. 321-22 et dans celui de la carte de
+frontalier mentionnée à l'annexe 6-4 les agents figurant aux 5°, 7° pour une
+mission de vérification d'identité prévue par l'article 78-3 du code de
+procédure pénale et pour une mission de vérification du droit de circulation et
+de séjour prévue à l'article L. 611-1-1 et 9° de l'article R. 611-5.
 
 Les agents mentionnés au 3° de l'article R. 611-5 lorsqu'ils sont chargés de la
 remise des cartes de séjour, et les agents mentionnés au 4° du même article
