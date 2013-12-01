@@ -21,3 +21,6 @@ l'opposition peut être faite devant lui à l'issue de cette notification, par u
 mention portée sur l'imprimé de notification de l'ordonnance, signée par le
 procureur ou son délégué et par le prévenu. Le procureur ou son délégué en avise
 sans délai le greffier en chef.
+
+Les dispositions du présent article sont également applicables en cas
+d'opposition formée par la partie civile.
