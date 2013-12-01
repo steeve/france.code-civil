@@ -1,7 +1,7 @@
 Article R1222-8
 ----
 Le président de l'Etablissement français du sang est nommé par décret pour une
-durée de trois ans renouvelable.
+durée de cinq ans. Son mandat peut être renouvelé pour une durée de trois ans.
 
 Il assure la direction de l'établissement dans le cadre des orientations
 définies par le conseil d'administration, conformément aux dispositions de
