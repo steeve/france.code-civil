@@ -15,15 +15,7 @@ prévus aux articles R. 741-2, R. 741-5 et R. 741-15 dans le délai d'un mois
 suivant la date limite d'exigibilité des cotisations.
 
 II.-Les dispositions du I ne s'appliquent pas lorsque les majorations et
-pénalités portent sur :
-
-1° Des cotisations afférentes à des rémunérations, versées ou dues à des
-salariés, réintégrées dans l'assiette des cotisations à la suite du constat de
-l'infraction relative au travail dissimulé mentionnée à l'article L. 8221-5 du
-code du travail ;
-
-2° Des cotisations afférentes à des rémunérations, versées ou dues à des
-salariés, réintégrées dans l'assiette des cotisations à la suite du contrôle
-mentionné aux articles L. 724-7 et L. 724-11 au cours duquel l'absence de bonne
-foi a été constatée après mise en œuvre de la procédure prévue à l'article D.
-724-9.
+pénalités portent sur les cotisations et contributions mises en recouvrement à
+l'issue d'un contrôle réalisé en application de l'article L. 724-7 ou
+consécutivement à la mise en œuvre des dispositions de l'article L. 243-7-5 du
+code de la sécurité sociale.

@@ -21,7 +21,7 @@ permettre à l'organisme de recouvrement d'apprécier si les conditions requises
 par la législation sont satisfaites.
 
 Le cotisant ne peut adresser sa demande à la caisse de mutualité sociale
-agricole dès lors que lui a été notifié l'avis prévu par l'article D. 724-7.
+agricole dès lors que lui a été notifié l'avis prévu par l'article R. 724-7.
 
 II.-La demande est réputée complète si, dans le délai de trente jours à compter
 de sa réception, l'organisme de recouvrement n'a pas fait connaître au cotisant
@@ -38,7 +38,7 @@ dispositions de l'article L. 725-24, sa nouvelle décision, notifiée par lettre
 recommandée avec demande d'avis de réception, précise au cotisant les voies et
 délais de recours contre cette décision.
 
-IV. - Sur proposition du directeur général de la caisse centrale de la Mutualité
+IV.-Sur proposition du directeur général de la caisse centrale de la Mutualité
 sociale agricole faite chaque année avant le 31 mars, le ministre chargé de
 l'agriculture publie au Bulletin officiel du ministère de l'agriculture, après
 les avoir rendues anonymes, une sélection des décisions prises par les caisses

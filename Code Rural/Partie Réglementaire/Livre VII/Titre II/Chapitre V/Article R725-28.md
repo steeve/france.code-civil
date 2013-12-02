@@ -12,7 +12,7 @@ l'article L. 725-25 du présent code ;
 
 a) Au I, les références à l'article L. 243-7-2 et au cinquième alinéa de
 l'article R. 243-59 du code de la sécurité sociale sont remplacées par les
-références aux articles L. 725-25 et D. 724-9 du présent code ;
+références aux articles L. 725-25 et R. 724-9 du présent code ;
 
 b) (Abrogé)
 

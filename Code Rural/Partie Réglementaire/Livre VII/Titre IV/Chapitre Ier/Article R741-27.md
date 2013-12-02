@@ -4,7 +4,7 @@ Par dérogation aux dispositions des articles R. 741-25 et R. 741-26 l'employeur
 dont l'entreprise fait l'objet d'un examen par la commission départementale des
 chefs des services financiers et des représentants des organismes de sécurité
 sociale dans le cadre d'une reprise ou d'une restructuration financière peut
-bénéficier d'une remise intégrale ou partielle des majorations de retard
+bénéficier d'une remise intégrale ou partielle des majorations et pénalités
 afférentes aux cotisations exigibles et non réglées, dans les conditions
 suivantes :
 

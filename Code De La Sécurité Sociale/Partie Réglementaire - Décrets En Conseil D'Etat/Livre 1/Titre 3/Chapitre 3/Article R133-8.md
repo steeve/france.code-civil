@@ -5,7 +5,8 @@ Lorsqu'il ne résulte pas d'un contrôle effectué en application de l'article L
 maritime, tout redressement consécutif au constat d'un délit de travail
 dissimulé est porté à la connaissance de l'employeur ou du travailleur
 indépendant par un document daté et signé par le directeur de l'organisme de
-recouvrement, transmis par lettre recommandée avec demande d'avis de réception.
+recouvrement, transmis par tout moyen permettant de rapporter la preuve de sa
+date de réception.
 
 Ce document rappelle les références du procès-verbal pour travail dissimulé
 établi par un des agents mentionnés à l'article L. 8271-7 du code du travail et

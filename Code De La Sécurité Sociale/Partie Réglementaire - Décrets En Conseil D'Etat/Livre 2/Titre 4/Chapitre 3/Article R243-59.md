@@ -2,18 +2,16 @@ Article R243-59
 ----
 Tout contrôle effectué en application de l'article L. 243-7 est précédé de
 l'envoi par l'organisme chargé du recouvrement des cotisations d'un avis adressé
-à l'employeur ou au travailleur indépendant par lettre recommandée avec accusé
-de réception, sauf dans le cas où le contrôle est effectué pour rechercher des
-infractions aux interdictions mentionnées à l'article L. 324-9 du code du
-travail. Cet avis mentionne qu'un document présentant au cotisant la procédure
-de contrôle et les droits dont il dispose pendant son déroulement et à son
-issue, tels qu'ils sont définis par le présent code, lui sera remis dès le début
-du contrôle et précise l'adresse électronique où ce document est consultable.
-Lorsque l'avis concerne un contrôle mentionné à l'article R. 243-59-3, il
-précise l'adresse électronique où ce document est consultable et indique qu'il
-est adressé au cotisant sur sa demande, le modèle de ce document, intitulé
-"Charte du cotisant contrôlé", est fixé par arrêté du ministre chargé de la
-sécurité sociale.
+à l'employeur ou au travailleur indépendant par tout moyen permettant de
+rapporter la preuve de sa date de réception, sauf dans le cas où le contrôle est
+effectué pour rechercher des infractions aux interdictions mentionnées à
+l'article L. 8221-1 du code du travail. Cet avis fait état de l'existence d'un
+document intitulé " Charte du cotisant contrôlé " présentant au cotisant la
+procédure de contrôle et les droits dont il dispose pendant son déroulement et à
+son issue, tels qu'ils sont définis par le présent code. Il précise l'adresse
+électronique où ce document, dont le modèle est fixé par arrêté du ministre
+chargé de la sécurité sociale, est consultable, et indique qu'il est adressé au
+cotisant sur sa demande.
 
 L'employeur ou le travailleur indépendant a le droit pendant le contrôle de se
 faire assister du conseil de son choix. Il est fait mention de ce droit dans
@@ -34,13 +32,19 @@ l'employeur ou au travailleur indépendant un document daté et signé par eux
 mentionnant l'objet du contrôle, les documents consultés, la période vérifiée et
 la date de la fin du contrôle. Ce document mentionne, s'il y a lieu, les
 observations faites au cours du contrôle, assorties de l'indication de la
-nature, du mode de calcul et du montant des redressements envisagés. Le cas
-échéant, il mentionne les motifs qui conduisent à ne pas retenir la bonne foi de
-l'employeur ou du travailleur indépendant. Ce constat d'absence de bonne foi est
-contresigné par le directeur de l'organisme chargé du recouvrement. Il indique
-également au cotisant qu'il dispose d'un délai de trente jours pour répondre par
-lettre recommandée avec accusé de réception, à ces observations et qu'il a, pour
-ce faire, la faculté de se faire assister d'un conseil de son choix.
+nature, du mode de calcul et du montant des redressements et des éventuelles
+majorations et pénalités définies aux articles L. 243-7-2, L. 243-7-6 et L.
+243-7-7 envisagés. En cas de réitération d'une pratique ayant déjà fait l'objet
+d'une observation ou d'un redressement lors d'un précédent contrôle, il précise
+les éléments caractérisant le constat d'absence de mise en conformité défini à
+l'article L. 243-7-6. Le cas échéant, il mentionne les motifs qui conduisent à
+ne pas retenir la bonne foi de l'employeur ou du travailleur indépendant. Le
+constat d'absence de mise en conformité et le constat d'absence de bonne foi
+sont contresignés par le directeur de l'organisme chargé du recouvrement. Il
+indique également au cotisant qu'il dispose d'un délai de trente jours pour
+répondre par lettre recommandée avec accusé de réception, à ces observations et
+qu'il a, pour ce faire, la faculté de se faire assister d'un conseil de son
+choix.
 
 En l'absence de réponse de l'employeur ou du travailleur indépendant dans le
 délai de trente jours, l'organisme de recouvrement peut engager la mise en
@@ -55,8 +59,8 @@ du recouvrement aux observations de l'employeur ou du travailleur indépendant.
 
 L'inspecteur du recouvrement transmet à l'organisme chargé de la mise en
 recouvrement le procès-verbal de contrôle faisant état de ses observations,
-accompagné, s'il y a lieu, de la réponse de l'intéressé et de celle de
-l'inspecteur du recouvrement.
+accompagné, s'il y a lieu, de la réponse de l'intéressé et de son propre
+courrier en réponse.
 
 L'absence d'observations vaut accord tacite concernant les pratiques ayant donné
 lieu à vérification, dès lors que l'organisme de recouvrement a eu les moyens de

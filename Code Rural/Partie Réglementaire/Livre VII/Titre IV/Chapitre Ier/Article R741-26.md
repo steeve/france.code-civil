@@ -2,9 +2,9 @@ Article R741-26
 ----
 I.-Dans les cas autres que ceux mentionnés à l'article R. 741-25 et sur la
 demande écrite des intéressés, le conseil d'administration de la caisse de
-mutualité sociale agricole peut accorder, en cas de bonne foi dûment prouvée,
-une remise totale ou partielle des pénalités et des majorations de retard
-prévues à l'article R. 741-22 et au premier alinéa de l'article R. 741-23.
+mutualité sociale agricole peut accorder, une remise totale ou partielle des
+pénalités et des majorations de retard prévues à l'article R. 741-22 et au
+premier alinéa de l'article R. 741-23.
 
 Le conseil d'administration peut déléguer tout ou partie de ses pouvoirs de
 décision à la commission de recours amiable prévue à l'article R. 142-1 du code
@@ -39,20 +39,22 @@ remise des pénalités et majorations de retard prévue au premier alinéa du I 
 présent article. Toutefois, lorsque l'échéancier n'est pas respecté, une demande
 de remise doit être formulée dans les conditions prévues au même I.
 
-II.-Par dérogation, aucune remise de la majoration de retard de 5 % appliquée
-sur le montant des cotisations afférentes aux rémunérations, versées ou dues à
-des salariés, réintégrées dans l'assiette des cotisations à la suite du contrôle
-mentionné aux articles L. 724-7 et L. 724-11 ne peut être accordée lorsque
+II.-Par dérogation, il ne peut pas être accordé de remise des majorations et des
+pénalités dans les cas suivants :
+
+1° Au titre des cotisations ou contributions afférentes aux rémunérations,
+versées ou dues à des salariés, réintégrées dans l'assiette des cotisations à la
+suite des contrôles mentionnés aux articles L. 724-7 et L. 724-11 lorsque
 l'absence de bonne foi de l'employeur a été constatée après mise en œuvre de la
-procédure prévue à l'article D. 724-9.
+procédure prévue à l'article R. 724-9 ;
 
-La majoration de retard de 10 % sur le montant des cotisations afférentes à des
-rémunérations, versées ou dues à des salariés, réintégrées dans l'assiette des
-cotisations à la suite du constat de l'infraction relative au travail dissimulé
-mentionnée à l'article L. 8221-5 du code du travail ne peut pas faire l'objet de
-remise.
+2° Au titre des cotisations ou contributions afférentes aux rémunérations
+réintégrées à la suite du constat de l'infraction de travail dissimulé définie à
+l'article L. 8221-5 du code du travail ;
 
-III.-La majoration de 0, 4 % mentionnée au deuxième alinéa de l'article R.
-741-23 peut faire l'objet d'une remise, lorsque les cotisations ont été
-acquittées dans le délai de trente jours qui suit la date limite d'exigibilité
-ou en raison de circonstances exceptionnelles ou dans les cas de force majeure.
+3° Si l'employeur n'a pas dûment prouvé sa bonne foi.
+
+III.-La majoration de 0,4 % mentionnée au deuxième alinéa de l'article R. 741-23
+peut faire l'objet d'une remise, lorsque les cotisations ont été acquittées dans
+le délai de trente jours qui suit la date limite d'exigibilité ou en raison de
+circonstances exceptionnelles ou dans les cas de force majeure.
