@@ -1,15 +1,13 @@
 Article R581-60
 ----
-I. - La surface unitaire maximale des enseignes mentionnées à l'article R.
-581-59 est de 6 mètres carrés.
+Les enseignes apposées à plat sur un mur ou parallèlement à un mur ne doivent
+pas dépasser les limites de ce mur ni constituer par rapport à lui une saillie
+de plus de 0,25 mètre, ni le cas échéant, dépasser les limites de l'égout du
+toit.
 
-Elle est portée à 16 mètres carrés dans les agglomérations de plus de 10 000
-habitants ou qui font partie d'un ensemble multicommunal de plus de 100 000
-habitants ainsi que pour les activités situées dans l'emprise d'une voie rapide
-et particulièrement utiles aux personnes en déplacement.
-
-II. - Ces enseignes ne peuvent dépasser :
-
-1° 6,50 mètres de haut lorsqu'elles ont plus de 1 mètre de large ;
-
-2° 8 mètres de haut lorsqu'elles ont moins de 1 mètre de large.
+Des enseignes peuvent être installées sur un auvent ou une marquise si leur
+hauteur ne dépasse pas un mètre, devant un balconnet ou une baie si elles ne
+s'élèvent pas au-dessus du garde-corps ou de la barre d'appui du balconnet ou de
+la baie, enfin, sur le garde-corps d'un balcon si elles ne dépassent pas les
+limites de ce garde-corps et si elles ne constituent pas une saillie de plus de
+0,25 mètre par rapport à lui.
