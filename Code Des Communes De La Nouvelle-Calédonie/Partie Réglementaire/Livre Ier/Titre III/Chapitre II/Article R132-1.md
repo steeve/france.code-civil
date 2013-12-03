@@ -1,5 +1,4 @@
 Article R132-1
 ----
-Toute commune peut avoir un ou plusieurs gardes champêtres.
-
-Plusieurs communes peuvent avoir un même garde champêtre en commun.
+Les gardes champêtres sont régis par le chapitre VI du titre IV du livre V du
+code de la sécurité intérieure.
