@@ -2,9 +2,7 @@ Article R*1611-2
 ----
 Pour l'application du présent code dans les départements d'outre-mer :
 
-1° Au cinquième alinéa de l'article R. 1311-24, les mots : " et le général
-commandant les forces de gendarmerie " sont remplacés par les mots : " et les
-commandants territoriaux de la gendarmerie nationale de la zone de défense " ;
+1° (Abrogé)
 
 2° Le deuxième alinéa de l'article R. * 1311-25 est remplacé par les
 dispositions suivantes :

@@ -18,6 +18,6 @@ Le chef d'état-major des armées adresse aux commandants désignés de zone de
 défense les directives nécessaires à l'établissement des plans de défense
 opérationnelle du territoire. Ces plans, élaborés en accord avec les préfets de
 zone ou les hauts fonctionnaires de zone, doivent former un ensemble cohérent
-avec les plans généraux de protection mentionnés à l'article R. * 1311-3. Ils
-sont arrêtés par le Premier ministre ou, en cas de délégation, par le ministre
-de la défense.
+avec les plans généraux de protection mentionnés à l'article R. * 122-4 du code
+de la sécurité intérieure. Ils sont arrêtés par le Premier ministre ou, en cas
+de délégation, par le ministre de la défense.

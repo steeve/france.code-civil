@@ -3,9 +3,7 @@ Article R*1641-1-1
 Pour l'application de la présente partie du code dans les îles Wallis et Futuna
 :
 
-1° A l'article R. * 1311-3, les mots : " le décret n° 2005-1157 du 13 septembre
-2005 " sont remplacés par les mots : " l'ordonnance n° 2006-172 du 15 février
-2006 " ;
+1° (Supprimé) ;
 
 2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés
 par les dispositions suivantes :
