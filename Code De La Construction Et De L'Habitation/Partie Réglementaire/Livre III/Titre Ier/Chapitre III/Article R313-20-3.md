@@ -26,10 +26,17 @@ financières fixées par le décret prévu au dernier alinéa de l'article L. 31
 n'excède pas cinquante ans. La durée des prêts à long terme à remboursement in
 fine n'est pas inférieure à quarante ans et n'excède pas cinquante ans.
 
-4° Le taux d'intérêt de ces prêts n'excède pas un taux plafond égal au taux du
-livret A en vigueur au 31 décembre de l'année précédant la signature de la
-convention de prêt, minoré de deux points, ou au taux de 0,5 %, si le taux du
-livret A minoré de deux points est inférieur à 0,5 %. Ce taux d'intérêt est
-fixe.
+4° Le taux d'intérêt de ces prêts peut être fixe ou révisable.
+
+Lorsque le taux est fixe, il n'excède pas un taux plafond égal au taux du livret
+A en vigueur au 31 décembre de l'année précédant la signature de la convention
+de prêt, minoré de deux points. Ce taux plafond est fixé à 0,5 %, si le taux du
+livret A, minoré de deux points, est inférieur à 0,5 %.
+
+Lorsque le taux est révisable, il n'excède pas un taux plafond égal au taux du
+livret A, minoré de deux points. Le taux du prêt, déterminé lors de la
+conclusion du prêt en fonction du taux du livret A alors applicable, est révisé
+en fonction des modifications du taux du livret A, sans pouvoir conduire à un
+taux inférieur à 0,25 %.
 
 II et III. (Abrogés).
