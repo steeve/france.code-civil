@@ -1,14 +1,13 @@
 Article L621-20-3
 ----
-L'Autorité des marchés financiers peut prendre toutes les mesures requises afin
-d'assurer le bon fonctionnement des marchés au cas où l'activité d'un ou de
-plusieurs FIA sur le marché d'un instrument financier pourrait mettre en péril
-le bon fonctionnement de ce marché.
+Les procès-verbaux ou rapports d'enquête ou toute autre pièce de la procédure
+pénale ayant un lien direct avec des faits susceptibles d'être soumis à
+l'appréciation de la commission des sanctions de l'Autorité des marchés
+financiers peuvent être communiqués par le procureur de la République financier,
+le cas échéant après avis du juge d'instruction, d'office ou à leur demande :
 
-Le présent article est applicable aux FIA :
+1° Au secrétaire général de l'Autorité des marchés financiers, avant l'ouverture
+d'une procédure de sanction ;
 
-1° Relevant du II de l'article L. 214-24, à l'exclusion de ceux mentionnés à son
-dernier alinéa, et à l'exclusion des FIA relevant du I de l'article L. 214-167
-et de ceux mentionnés au second alinéa du III de l'article L. 532-9 ; et
-
-2° Relevant du 1° du III de l'article L. 214-24.
+2° Ou au rapporteur de la commission des sanctions, après l'ouverture d'une
+procédure de sanction.

@@ -9,5 +9,5 @@ est également soupçonnée ou poursuivie, sont compétents :
 morale a son siège.
 
 Ces dispositions ne sont pas exclusives de l'application éventuelle des règles
-particulières de compétence prévues par les articles 705 et 706-17 relatifs aux
-infractions économiques et financières et aux actes de terrorisme.
+particulières de compétence prévues par les articles 704-1, 705 et 706-17
+relatifs aux infractions économiques et financières et aux actes de terrorisme.

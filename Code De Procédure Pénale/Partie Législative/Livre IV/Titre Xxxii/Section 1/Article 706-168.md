@@ -23,5 +23,5 @@ L. 2339-15, L. 2341-2 et L. 2341-4 et le quatrième alinéa de l'article L.
 2342-60 du code de la défense peut être confiée, le cas échéant dans les
 conditions prévues à l'article 83-1 du présent code, à un magistrat du tribunal
 de grande instance de Paris affecté aux formations d'instruction spécialisées en
-matière économique et financière en application du dernier alinéa de l'article
-704.
+matière économique et financière en application du vingt et unième alinéa de
+l'article 704.
