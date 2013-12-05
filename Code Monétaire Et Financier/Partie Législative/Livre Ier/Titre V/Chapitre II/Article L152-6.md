@@ -8,5 +8,5 @@ aucun préjudice, le taux de l'amende est ramené à 5 % et son montant plafonn�
 
 L'infraction est constatée et l'amende recouvrée, garantie et contestée dans les
 conditions prévues pour les contraventions aux dispositions relatives au droit
-de communication de l'administration des impôts mentionnées à l'article L.
-152-3.
+de communication des administrations fiscales et douanières mentionnées à
+l'article L. 152-3.

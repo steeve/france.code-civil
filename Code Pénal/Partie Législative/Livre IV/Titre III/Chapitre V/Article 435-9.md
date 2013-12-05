@@ -1,6 +1,7 @@
 Article 435-9
 ----
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par
+Est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
 quiconque, de proposer, sans droit, à tout moment, directement ou indirectement,
 à :
 

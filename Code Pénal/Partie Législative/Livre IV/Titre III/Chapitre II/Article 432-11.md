@@ -1,6 +1,7 @@
 Article 432-11
 ----
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par
+Est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
 une personne dépositaire de l'autorité publique, chargée d'une mission de
 service public, ou investie d'un mandat électif public, de solliciter ou
 d'agréer, sans droit, à tout moment, directement ou indirectement, des offres,

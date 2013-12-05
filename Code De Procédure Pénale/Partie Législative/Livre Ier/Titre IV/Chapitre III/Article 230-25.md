@@ -2,9 +2,9 @@ Article 230-25
 ----
 Peuvent seuls utiliser les logiciels faisant l'objet du présent chapitre :
 
-1° Les agents des services de police judiciaire mentionnés à l'article 230-20,
-individuellement désignés et spécialement habilités, pour les seuls besoins des
-enquêtes dont ils sont saisis ;
+1° Les agents des services mentionnés à l'article 230-20, individuellement
+désignés et spécialement habilités, pour les seuls besoins des enquêtes dont ils
+sont saisis ;
 
 2° Les magistrats du parquet et les magistrats instructeurs, pour les recherches
 relatives aux infractions dont ils sont saisis ;

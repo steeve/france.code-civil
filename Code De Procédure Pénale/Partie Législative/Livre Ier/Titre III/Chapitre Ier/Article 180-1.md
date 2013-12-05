@@ -15,10 +15,11 @@ fait application du troisième alinéa de l'article 179.
 L'ordonnance de renvoi indique qu'en cas d'échec de la procédure de comparution
 sur reconnaissance préalable de culpabilité ou si, dans un délai de trois mois
 ou, lorsque la détention a été maintenue, dans un délai d'un mois à compter de
-celle-ci, aucune décision d'homologation n'est intervenue, le prévenu est de
-plein droit renvoyé devant le tribunal correctionnel. Si le prévenu a été
-maintenu en détention, les quatrième et cinquième alinéas du même article 179
-sont applicables.
+celle-ci, aucune décision d'homologation n'est intervenue, l'ordonnance de
+renvoi est caduque, sauf la possibilité pour le procureur de la République, dans
+un délai de quinze jours, d'assigner le prévenu devant le tribunal
+correctionnel. Si le prévenu a été maintenu en détention, les quatrième et
+cinquième alinéas du même article 179 sont applicables.
 
 Le procureur de la République peut, tout en mettant en œuvre la procédure de
 comparution sur reconnaissance préalable de culpabilité, assigner le prévenu

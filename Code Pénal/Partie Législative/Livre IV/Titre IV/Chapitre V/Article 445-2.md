@@ -1,6 +1,7 @@
 Article 445-2
 ----
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par
+Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
 une personne qui, sans être dépositaire de l'autorité publique, ni chargée d'une
 mission de service public, ni investie d'un mandat électif public exerce, dans
 le cadre d'une activité professionnelle ou sociale, une fonction de direction ou

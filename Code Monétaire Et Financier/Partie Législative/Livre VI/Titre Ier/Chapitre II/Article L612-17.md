@@ -19,6 +19,11 @@ l'activité de l'Autorité de contrôle prudentiel et de résolution ;
 quatrième alinéa du II de l'article 6 de l'ordonnance du 17 novembre 1958
 relative au fonctionnement des assemblées parlementaires ;
 
+3° bis. Au président et au rapporteur général de la commission chargée des
+finances de l'Assemblée nationale et du Sénat, dans le cadre du IV de l'article
+164 de l'ordonnance n° 58-1374 du 30 décembre 1958 portant loi de finances pour
+1959 ;
+
 4° A la Cour des comptes, dans le cadre des contrôles que la loi lui confie.
 
 III. ― Les renseignements recueillis dans les cas mentionnés au 4° du II sont

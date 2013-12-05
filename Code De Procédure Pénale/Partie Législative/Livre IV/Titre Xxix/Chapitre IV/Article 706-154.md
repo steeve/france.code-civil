@@ -13,9 +13,12 @@ L'ordonnance prise en application du premier alinéa est notifiée au ministère
 public, au titulaire du compte et, s'ils sont connus, aux tiers ayant des droits
 sur ce compte, qui peuvent la déférer à la chambre de l'instruction par
 déclaration au greffe du tribunal dans un délai de dix jours à compter de la
-notification de l'ordonnance. Cet appel n'est pas suspensif. Le titulaire du
-compte et les tiers peuvent être entendus par la chambre de l'instruction. Les
-tiers ne peuvent pas prétendre à la mise à disposition de la procédure.
+notification de l'ordonnance. Cet appel n'est pas suspensif. L'appelant ne peut
+prétendre dans ce cadre qu'à la mise à disposition des seules pièces de la
+procédure se rapportant à la saisie qu'il conteste. S'ils ne sont pas appelants,
+le titulaire du compte et les tiers peuvent néanmoins être entendus par la
+chambre de l'instruction, sans toutefois pouvoir prétendre à la mise à
+disposition de la procédure.
 
 Lorsque la saisie porte sur une somme d'argent versée sur un compte ouvert
 auprès d'un établissement habilité par la loi à tenir des comptes de dépôts,

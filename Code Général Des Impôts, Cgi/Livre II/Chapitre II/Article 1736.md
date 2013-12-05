@@ -49,23 +49,33 @@ II (Abrogé).
 III.-Entraîne l'application d'une amende égale à 5 % des sommes non déclarées le
 non-respect des obligations prévues par les articles 87, 87 A, 88 et 241.
 
-IV.-Les infractions aux dispositions du deuxième alinéa de l'article 1649 A et
-de l'article 1649 A bis sont passibles d'une amende de 1 500 € par compte ou
-avance non déclaré. Toutefois, pour l'infraction aux dispositions du deuxième
-alinéa de l'article 1649 A, ce montant est porté à 10 000 € par compte non
-déclaré lorsque l'obligation déclarative concerne un Etat ou un territoire qui
-n'a pas conclu avec la France une convention d'assistance administrative en vue
-de lutter contre la fraude et l'évasion fiscales permettant l'accès aux
-renseignements bancaires.
+IV. - 1. Les infractions au premier alinéa de l'article 1649 A sont passibles
+d'une amende de 1 500 € par ouverture ou clôture de compte non déclarée.
+
+Sauf cas de force majeure, les omissions de déclaration de modification de
+compte et les inexactitudes ou omissions constatées dans les déclarations
+mentionnées au même premier alinéa entraînent l'application d'une amende de 150
+€ par omission ou inexactitude, sans que le total des amendes applicables aux
+informations devant être produites simultanément puisse être supérieur à 10 000
+€.
+
+2. Les infractions aux dispositions du deuxième alinéa de l'article 1649 A et de
+l'article 1649 A bis sont passibles d'une amende de 1 500 € par compte ou avance
+non déclaré. Toutefois, pour l'infraction aux dispositions du deuxième alinéa de
+l'article 1649 A, ce montant est porté à 10 000 € par compte non déclaré lorsque
+l'obligation déclarative concerne un Etat ou un territoire qui n'a pas conclu
+avec la France une convention d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales permettant l'accès aux renseignements
+bancaires.
 
 Si le total des soldes créditeurs du ou des comptes à l'étranger non déclarés
 est égal ou supérieur à 50 000 € au 31 décembre de l'année au titre de laquelle
 la déclaration devait être faite, l'amende par compte non déclaré est égale à 5
 % du solde créditeur de ce même compte, sans pouvoir être inférieure aux
-montants prévus au premier alinéa du présent IV (1).
+montants prévus au premier alinéa du présent 2.
 
-IV bis.-Les infractions à l'article 1649 AB sont passibles d'une amende de 10
-000 € ou, s'il est plus élevé, d'un montant égal à 5 % des biens ou droits
+IV bis.-Les infractions à l'article 1649 AB sont passibles d'une amende de 20
+000 € ou, s'il est plus élevé, d'un montant égal à 12,5 % des biens ou droits
 placés dans le trust ainsi que des produits qui y sont capitalisés.
 
 V.-Les infractions à l'article 1649 A ter font l'objet d'une amende de 100 € par
@@ -75,9 +85,9 @@ VI.-Les infractions mentionnées à l'article 1649 A quater font l'objet d'une
 amende de 1 000 € par transformateur non déclaré et qui ne peut excéder 10 000
 €.
 
-VII. (2)- 1. En cas de manquement à ses obligations déclaratives mentionnées au
-IX de l'article 235 ter ZD, le dépositaire central acquitte une amende de 20 000
-€ pour absence de dépôt de la déclaration et, dans la limite de 20 000 € par
+VII. - 1. En cas de manquement à ses obligations déclaratives mentionnées au IX
+de l'article 235 ter ZD, le dépositaire central acquitte une amende de 20 000 €
+pour absence de dépôt de la déclaration et, dans la limite de 20 000 € par
 déclaration, de 150 € par omission ou inexactitude déclarative.
 
 2. En cas de manquement à son obligation de mise à disposition de

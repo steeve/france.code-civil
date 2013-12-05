@@ -1,6 +1,7 @@
 Article 433-2
 ----
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par
+Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
 quiconque, de solliciter ou d'agréer, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des
 avantages quelconques, pour lui-même ou pour autrui, pour abuser ou avoir abusé

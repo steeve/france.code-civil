@@ -1,6 +1,7 @@
 Article 435-4
 ----
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par
+Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
 quiconque, de proposer, sans droit, à tout moment, directement ou indirectement,
 des offres, des promesses, des dons, des présents ou des avantages quelconques à
 une personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle

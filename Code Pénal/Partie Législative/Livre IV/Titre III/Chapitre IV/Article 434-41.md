@@ -16,13 +16,13 @@ du code de la propriété intellectuelle.
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire
 ou de détourner un véhicule immobilisé ou un véhicule, une arme, tout autre
-objet ou un animal confisqués en application des articles 131-6, 131-10, 131-14
-ou 131-16.
+bien, corporel ou incorporel, ou un animal confisqués en application des
+articles 131-6, 131-10, 131-14, 131-16, 131-21 ou 131-39.
 
 Est également puni des mêmes peines le fait, par une personne recevant la
 notification d'une décision prononçant à son égard, en application des articles
 précités, la suspension ou l'annulation du permis de conduire, le retrait du
 permis de chasser ou la confiscation d'un véhicule, d'une arme, de tout autre
-objet ou d'un animal, de refuser de remettre le permis suspendu, annulé ou
-retiré, la chose ou l'animal confisqué à l'agent de l'autorité chargé de
-l'exécution de cette décision.
+bien corporel ou incorporel ou d'un animal, de refuser de remettre le permis
+suspendu, annulé ou retiré, le bien ou l'animal confisqué à l'agent de
+l'autorité chargé de l'exécution de cette décision.

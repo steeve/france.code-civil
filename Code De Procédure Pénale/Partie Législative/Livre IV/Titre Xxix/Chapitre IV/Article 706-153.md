@@ -12,6 +12,8 @@ public, au propriétaire du bien ou du droit saisi et, s'ils sont connus, aux
 tiers ayant des droits sur ce bien ou sur ce droit, qui peuvent la déférer à la
 chambre de l'instruction par déclaration au greffe du tribunal dans un délai de
 dix jours à compter de la notification de l'ordonnance. Cet appel n'est pas
-suspensif. Le propriétaire du bien ou du droit et les tiers peuvent être
-entendus par la chambre de l'instruction. Les tiers ne peuvent toutefois pas
+suspensif. L'appelant ne peut prétendre dans ce cadre qu'à la mise à disposition
+des seules pièces de la procédure se rapportant à la saisie qu'il conteste.
+S'ils ne sont pas appelants, le propriétaire du bien et les tiers peuvent
+néanmoins être entendus par la chambre de l'instruction, sans toutefois pouvoir
 prétendre à la mise à disposition de la procédure.

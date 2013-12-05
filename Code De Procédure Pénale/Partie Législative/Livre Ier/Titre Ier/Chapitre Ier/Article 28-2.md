@@ -9,10 +9,10 @@ commission rogatoire du juge d'instruction.
 
 Ces agents ont compétence pour rechercher et constater, sur l'ensemble du
 territoire national, les infractions prévues par les articles 1741 et 1743 du
-code général des impôts lorsqu'il existe des présomptions caractérisées que les
-infractions prévues par ces articles résultent d'une des conditions prévues aux
-1° à 5° de l'article L. 228 du livre des procédures fiscales, ainsi que les
-infractions qui leur sont connexes.
+code général des impôts et le blanchiment de ces infractions lorsqu'il existe
+des présomptions caractérisées que les infractions prévues par ces articles
+résultent d'une des conditions prévues aux 1° à 5° de l'article L. 228 du livre
+des procédures fiscales, ainsi que les infractions qui leur sont connexes.
 
 II.-Les agents des services fiscaux désignés dans les conditions prévues au I
 doivent, pour mener des enquêtes judiciaires et recevoir des commissions
@@ -38,7 +38,7 @@ la surveillance du procureur général et sous le contrôle de la chambre de
 l'instruction dans les conditions prévues par les articles 224 à 230. Ils sont
 placés au sein du ministère de l'intérieur.
 
-IV. - Lorsque, sur réquisition du procureur de la République ou sur commission
+IV.-Lorsque, sur réquisition du procureur de la République ou sur commission
 rogatoire d'un juge d'instruction, les agents des services fiscaux habilités
 dans les conditions prévues au II du présent article procèdent à des enquêtes
 judiciaires, ils disposent des mêmes prérogatives et obligations que celles

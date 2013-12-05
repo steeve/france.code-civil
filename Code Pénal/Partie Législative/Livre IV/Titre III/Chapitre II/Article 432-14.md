@@ -1,6 +1,7 @@
 Article 432-14
 ----
-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait par
+Est puni de deux ans d'emprisonnement et d'une amende de 200 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait par
 une personne dépositaire de l'autorité publique ou chargée d'une mission de
 service public ou investie d'un mandat électif public ou exerçant les fonctions
 de représentant, administrateur ou agent de l'Etat, des collectivités

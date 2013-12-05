@@ -1,6 +1,8 @@
 Article 434-9
 ----
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par :
+Est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
+:
 
 1° Un magistrat, un juré ou toute autre personne siégeant dans une formation
 juridictionnelle ;

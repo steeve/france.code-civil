@@ -29,3 +29,11 @@ Aucune autorité publique ne peut accorder de remise totale ou partielle de
 droits d'enregistrement, de taxe de publicité foncière, de droits de timbre, de
 taxes sur le chiffre d'affaires, de contributions indirectes et de taxes
 assimilées à ces droits, taxes et contributions.
+
+L'administration ne peut transiger :
+
+a) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les
+infractions mentionnées au code général des impôts ;
+
+b) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire
+au bon déroulement du contrôle.

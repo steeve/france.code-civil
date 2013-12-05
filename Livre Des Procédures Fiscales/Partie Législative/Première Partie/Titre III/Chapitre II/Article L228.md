@@ -16,15 +16,11 @@ de la saisine ni informé de son avis lorsque le ministre chargé du budget fait
 valoir qu'existent des présomptions caractérisées qu'une infraction fiscale pour
 laquelle existe un risque de dépérissement des preuves résulte :
 
-1° Soit de l'utilisation, aux fins de se soustraire à l'impôt, de comptes ou de
-contrats souscrits auprès d'organismes établis dans un Etat ou territoire qui
-n'a pas conclu avec la France, depuis au moins trois ans au moment des faits,
-une convention d'assistance administrative permettant l'échange de tout
-renseignement nécessaire à l'application de la législation fiscale française ;
+1° Soit de l'utilisation, aux fins de se soustraire à l'impôt de comptes ouverts
+ou de contrats souscrits auprès d'organismes établis à l'étranger ;
 
-2° Soit de l'interposition, dans un Etat ou territoire mentionné au 1°, de
-personnes physiques ou morales ou de tout organisme, fiducie ou institution
-comparable ;
+2° Soit de l'interposition de personnes physiques ou morales ou de tout
+organisme, fiducie ou institution comparable établis à l'étranger ;
 
 3° Soit de l'usage d'une fausse identité ou de faux documents au sens de
 l'article 441-1 du code pénal, ou de toute autre falsification ;

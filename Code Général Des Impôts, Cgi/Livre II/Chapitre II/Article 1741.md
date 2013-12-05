@@ -9,20 +9,24 @@ dissimulé une part des sommes sujettes à l'impôt, soit qu'il ait organisé so
 insolvabilité ou mis obstacle par d'autres manoeuvres au recouvrement de
 l'impôt, soit en agissant de toute autre manière frauduleuse, est passible,
 indépendamment des sanctions fiscales applicables, d'une amende de 500 000 € et
-d'un emprisonnement de cinq ans. Lorsque les faits ont été réalisés ou facilités
-au moyen soit d'achats ou de ventes sans facture, soit de factures ne se
-rapportant pas à des opérations réelles, ou qu'ils ont eu pour objet d'obtenir
-de l'Etat des remboursements injustifiés, leur auteur est passible d'une amende
-de 750 000 € et d'un emprisonnement de cinq ans. Lorsque les faits mentionnés à
-la première phrase ont été réalisés ou facilités au moyen soit de comptes
-ouverts ou de contrats souscrits auprès d'organismes établis dans un Etat ou un
-territoire qui n'a pas conclu avec la France, depuis au moins cinq ans au moment
-des faits, une convention d'assistance administrative permettant l'échange de
-tout renseignement nécessaire à l'application de la législation fiscale
-française, soit de l'interposition de personnes physiques ou morales ou de tout
-organisme, fiducie ou institution comparable établis dans l'un de ces Etats ou
-territoires, les peines sont portées à sept ans d'emprisonnement et à 1 000 000
-€ d'amende.
+d'un emprisonnement de cinq ans.
+
+Les peines sont portées à 2 000 000 € et sept ans d'emprisonnement lorsque les
+faits ont été commis en bande organisée ou réalisés ou facilités au moyen :
+
+1° Soit de comptes ouverts ou de contrats souscrits auprès d'organismes établis
+à l'étranger ;
+
+2° Soit de l'interposition de personnes physiques ou morales ou de tout
+organisme, fiducie ou institution comparable établis à l'étranger ;
+
+3° Soit de l'usage d'une fausse identité ou de faux documents, au sens de
+l'article 441-1 du code pénal, ou de toute autre falsification ;
+
+4° Soit d'une domiciliation fiscale fictive ou artificielle à l'étranger ;
+
+5° Soit d'un acte fictif ou artificiel ou de l'interposition d'une entité
+fictive ou artificielle.
 
 Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si
 celle-ci excède le dixième de la somme imposable ou le chiffre de 153 €.
@@ -34,6 +38,11 @@ prévues aux articles 131-26 et 131-26-1 du code pénal.
 La juridiction peut, en outre, ordonner l'affichage de la décision prononcée et
 la diffusion de celle-ci dans les conditions prévues aux articles 131-35 ou
 131-39 du code pénal.
+
+La durée de la peine privative de liberté encourue par l'auteur ou le complice
+d'un des délits mentionnés au présent article est réduite de moitié si, ayant
+averti l'autorité administrative ou judiciaire, il a permis d'identifier les
+autres auteurs ou complices.
 
 Les poursuites sont engagées dans les conditions prévues aux articles L. 229 à
 L. 231 du livre des procédures fiscales.

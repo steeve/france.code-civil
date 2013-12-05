@@ -5,7 +5,8 @@ Article 64
 chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où
 les marchandises et documents se rapportant à ces délits ainsi que les biens et
 avoirs en provenant directement ou indirectement sont susceptibles d'être
-détenus. Ils sont accompagnés d'un officier de police judiciaire.
+détenus ou d'être accessibles ou disponibles. Ils sont accompagnés d'un officier
+de police judiciaire.
 
 Les agents des douanes habilités peuvent procéder, à l'occasion de la visite, à
 la saisie des marchandises et des documents, quel qu'en soit le support, se
@@ -25,7 +26,7 @@ L'ordonnance comporte :
 -l'adresse des lieux à visiter ;
 
 -le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
-l'autorisation de procéder aux opérations de visite.
+l'autorisation de procéder aux opérations de visite ;
 
 -la mention de la faculté pour l'occupant des lieux ou son représentant, ainsi
 que l'auteur présumé des infractions mentionnées au 1, de faire appel à un
@@ -112,9 +113,10 @@ représentant ; en cas d'impossibilité, l'officier de police judiciaire requier
 deux témoins choisis en dehors des personnes relevant de son autorité ou de
 celle de l'administration des douanes.
 
-Les agents des douanes mentionnés au 1 ci-dessus, l'occupant des lieux ou son
-représentant et l'officier de police judiciaire peuvent seuls prendre
-connaissance des pièces et documents avant leur saisie.
+Les agents des douanes mentionnés au 1 ci-dessus, les personnes auxquelles ils
+ont éventuellement recours en application de l'article 67 quinquies A,
+l'occupant des lieux ou son représentant et l'officier de police judiciaire
+peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des
 droits de la défense conformément aux dispositions du troisième alinéa de
@@ -129,7 +131,7 @@ alinéa du présent b ; en cas de refus de signer, mention en est faite au
 procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens
-et avoirs saisis sont placés sous scellés.L'occupant des lieux ou son
+et avoirs saisis sont placés sous scellés. L'occupant des lieux ou son
 représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu
 en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
 
@@ -160,6 +162,42 @@ L'ordonnance du premier président de la cour d'appel est susceptible d'un
 pourvoi en cassation selon les règles prévues par le code de procédure civile.
 Le délai du pourvoi en cassation est de quinze jours.
 
+c) Lorsque l'occupant des lieux ou son représentant fait obstacle à l'accès aux
+pièces ou documents présents sur un support informatique, à leur lecture ou à
+leur saisie, mention en est portée au procès-verbal.
+
+Les agents des douanes peuvent alors procéder à la copie de ce support et saisir
+ce dernier, qui est placé sous scellés. Ils disposent de quinze jours à compter
+de la date de la visite pour accéder aux pièces ou documents présents sur le
+support informatique placé sous scellés, à leur lecture et à leur saisie ainsi
+qu'à la restitution de ce dernier et de sa copie. Ce délai est prorogé sur
+autorisation délivrée par le juge des libertés et de la détention.
+
+A la seule fin de permettre la lecture des pièces ou documents présents sur le
+support informatique placé sous scellés, les agents des douanes procèdent aux
+opérations nécessaires à leur accès ou à leur mise au clair. Ces opérations sont
+réalisées sur la copie du support.
+
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à
+l'ouverture des scellés, à la lecture et à la saisie des pièces et documents
+présents sur ce support informatique, qui ont lieu en présence de l'officier de
+police judiciaire.
+
+Un procès-verbal décrivant les opérations réalisées pour accéder à ces pièces et
+documents, à leur mise au clair et à leur lecture est dressé par les agents des
+douanes. Un inventaire des pièces et documents saisis lui est annexé, s'il y a
+lieu.
+
+Le procès-verbal et l'inventaire sont signés par les agents des douanes et par
+un officier de police judiciaire ainsi que par l'occupant des lieux ou son
+représentant ; en l'absence de celui-ci ou en cas de refus de signer, mention en
+est faite au procès-verbal.
+
+Il est procédé concomitamment à la restitution du support informatique et de sa
+copie. En l'absence de l'occupant des lieux ou de son représentant,
+l'administration accomplit alors sans délai toutes diligences pour les
+restituer.
+
 3. Les agents des douanes peuvent intervenir sans l'assistance d'un officier de
 police judiciaire :
 
@@ -170,5 +208,5 @@ b) pour la recherche des marchandises qui, poursuivies à vue sans interruption
 dans les conditions prévues par l'article 332 ci-après, sont introduites dans
 une maison ou autre bâtiment même sis en dehors du rayon.
 
-4.S'il y a refus d'ouverture des portes, les agents des douanes peuvent les
+4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les
 faire ouvrir en présence d'un officier de police judiciaire.

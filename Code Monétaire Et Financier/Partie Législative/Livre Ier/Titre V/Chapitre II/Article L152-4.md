@@ -26,6 +26,8 @@ la commission de telles infractions.
 La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du
 Trésor, mainlevée des mesures de consignation et saisie ordonnées. Il en est de
 même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+Les agents des douanes procèdent à la retenue, pour les besoins de l'enquête,
+des documents se rapportant aux sommes consignées ou en prennent copie.
 
 III.-La recherche, la constatation et la poursuite des infractions mentionnées
 au I sont effectuées dans les conditions fixées par le code des douanes.

@@ -1,8 +1,9 @@
 Article 1735 quater
 ----
 L'obstacle à l'accès aux pièces ou documents sur support informatique, à leur
-lecture ou à leur saisie, mentionné au IV bis de l'article L. 16 B du livre des
-procédures fiscales entraîne l'application d'une amende égale à :
+lecture ou à leur saisie, mentionné au IV bis de l'article L. 16 B et au 4 bis
+de l'article L. 38 du livre des procédures fiscales entraîne l'application d'une
+amende égale à :
 
 1° 10 000 €, ou 5 % des droits rappelés si ce dernier montant est plus élevé,
 lorsque cet obstacle est constaté dans les locaux occupés par le contribuable

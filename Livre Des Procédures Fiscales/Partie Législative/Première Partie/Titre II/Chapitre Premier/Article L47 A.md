@@ -41,3 +41,37 @@ de l'envoi de la proposition de rectification mentionnée à l'article L. 57.
 
 Le contribuable est informé des noms et adresses administratives des agents par
 qui ou sous le contrôle desquels les opérations sont réalisées.
+
+III. - A. - Dans le cadre du contrôle inopiné mentionné au dernier alinéa de
+l'article L. 47, lorsque la comptabilité est tenue au moyen de systèmes
+informatisés, les agents de l'administration peuvent réaliser deux copies des
+fichiers relatifs aux informations, données et traitements informatiques ainsi
+que de la documentation relative aux analyses, à la programmation et à
+l'exécution des traitements mentionnés au deuxième alinéa de l'article L. 13.
+
+Ces copies sont scellées selon des modalités définies par arrêté du ministre
+chargé du budget. Une copie est remise au contribuable ou à son représentant,
+l'autre copie est conservée par l'administration.
+
+A l'issue du délai raisonnable mentionné au dernier alinéa de l'article L. 47,
+les deux copies sont confrontées.
+
+B. - Par dérogation au I du présent article, en cas d'altération des scellés ou
+des fichiers copiés, de non-présentation de la copie des fichiers remise au
+contribuable ou du fichier des écritures comptables mentionné au même I,
+l'administration peut effectuer des tris, classements ainsi que tous calculs sur
+la copie des fichiers des écritures comptables conservée par ses soins.
+
+C. - Par dérogation au II du présent article, si l'administration envisage des
+traitements informatiques, en cas d'altération des scellés ou des fichiers
+copiés, de non-présentation de la copie remise au contribuable ou
+d'impossibilité d'effectuer tout ou partie des traitements informatiques
+nécessaires au contrôle des informations, données et traitements informatiques
+mentionnés au deuxième alinéa de l'article L. 13, l'administration peut
+effectuer ces traitements sur la copie des fichiers conservée par ses soins.
+
+D. - L'administration communique au contribuable, sous forme dématérialisée ou
+non, au choix de ce dernier, le résultat des traitements informatiques qui
+donnent lieu à des rehaussements au plus tard lors de l'envoi de la proposition
+de rectification mentionnée à l'article L. 57. L'administration détruit, avant
+la mise en recouvrement, la copie des fichiers mentionnée au A du présent III.

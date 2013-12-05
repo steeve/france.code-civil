@@ -27,8 +27,10 @@ de droit supérieure, révélée par une décision juridictionnelle ou par un av
 rendu au contentieux.
 
 Ces actions sont introduites selon les règles de délais applicables aux
-réclamations mentionnées au premier alinéa. Un décret en Conseil d'Etat fixe les
-conditions d'application du présent alinéa.
+réclamations mentionnées au premier alinéa et se prescrivent par deux ans, selon
+le cas, à compter de la mise en recouvrement du rôle ou de la notification de
+l'avis de mise en recouvrement ou, en l'absence de mise en recouvrement, du
+versement de l'impôt contesté ou de la naissance du droit à déduction.
 
 Pour l'application du troisième alinéa, sont considérés comme des décisions
 juridictionnelles ou des avis rendus au contentieux les décisions du Conseil

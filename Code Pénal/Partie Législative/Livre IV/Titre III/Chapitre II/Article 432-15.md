@@ -5,6 +5,7 @@ mission de service public, un comptable public, un dépositaire public ou l'un d
 ses subordonnés, de détruire, détourner ou soustraire un acte ou un titre, ou
 des fonds publics ou privés, ou effets, pièces ou titres en tenant lieu, ou tout
 autre objet qui lui a été remis en raison de ses fonctions ou de sa mission, est
-puni de dix ans d'emprisonnement et de 150 000 euros d'amende.
+puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le montant
+peut être porté au double du produit de l'infraction.
 
 La tentative du délit prévu à l'alinéa qui précède est punie des mêmes peines.

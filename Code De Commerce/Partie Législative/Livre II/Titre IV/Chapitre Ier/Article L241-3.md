@@ -30,3 +30,9 @@ Outre les peines complémentaires prévues à l'article L. 249-1, le tribunal pe
 également prononcer à titre de peine complémentaire, dans les cas prévus au
 présent article, l'interdiction des droits civiques, civils et de famille prévue
 à l'article 131-26 du code pénal.
+
+L'infraction définie au 4° est punie de sept ans d'emprisonnement et de 500 000
+€ d'amende lorsqu'elle a été réalisée ou facilitée au moyen soit de comptes
+ouverts ou de contrats souscrits auprès d'organismes établis à l'étranger, soit
+de l'interposition de personnes physiques ou morales ou de tout organisme,
+fiducie ou institution comparable établis à l'étranger.

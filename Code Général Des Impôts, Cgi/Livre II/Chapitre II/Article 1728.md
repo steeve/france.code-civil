@@ -38,3 +38,8 @@ le revenu réparti proportionnellement aux revenus représentatifs de chaque
 infraction. Toutefois, le taux de la majoration encourue au titre de la
 déclaration d'ensemble des revenus s'applique à la totalité de l'impôt lorsqu'il
 est supérieur à celui applicable au titre des autres déclarations.
+
+5. Pour les obligations déclaratives prévues à l'article 885 W, la majoration de
+10 % prévue au a du 1 du présent article est portée à 40 % lorsque le dépôt fait
+suite à la révélation d'avoirs à l'étranger qui n'ont pas fait l'objet des
+obligations déclaratives prévues aux articles 1649 A, 1649 AA et 1649 AB.

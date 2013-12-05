@@ -25,6 +25,10 @@ L. 2353-13 du code de la défense ;
 
 5° Les infractions prévues par les articles 324-1 à 324-9 du code pénal ;
 
+5° bis Les délits d'association de malfaiteurs prévus à l'article 450-1 du code
+pénal, lorsqu'ils ont pour objet la préparation de l'une des infractions
+mentionnées aux 1° à 5° et 6° à 8° du présent I ;
+
 6° Les infractions prévues au code de la propriété intellectuelle ;
 
 7° Les infractions prévues aux articles 56 et 57 de la loi n° 2010-476 du 12 mai
@@ -61,7 +65,7 @@ des conditions fixées par décret en Conseil d'Etat.
 Dans le mois qui suit la notification de la décision de suspension ou de retrait
 de l'habilitation, l'agent concerné peut demander au procureur général de
 rapporter cette décision. Le procureur général doit statuer dans un délai d'un
-mois.A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à
+mois. A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à
 partir du rejet de la demande, l'agent concerné peut former un recours devant la
 commission prévue à l'article 16-2. La procédure applicable devant cette
 commission est celle prévue par l'article 16-3 et ses textes d'application.

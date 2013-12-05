@@ -7,8 +7,9 @@ recouvrement, les agents habilités à cet effet par le ministre chargé des
 douanes peuvent procéder à des visites en tous lieux, même privés, où les
 pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi
 que les biens et avoirs en provenant directement ou indirectement sont
-susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le
-support. Ils sont accompagnés d'un officier de police judiciaire.
+susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à
+leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de
+police judiciaire.
 
 Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie
 des pièces et documents, quel qu'en soit le support, ainsi que des objets ou des
@@ -114,8 +115,10 @@ en dehors des personnes relevant de son autorité ou de celle de l'administratio
 des douanes et droits indirects.
 
 Les agents de l'administration des douanes et droits indirects mentionnés au 1,
-l'occupant des lieux ou son représentant et l'officier de police judiciaire
-peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+les personnes auxquelles ils ont éventuellement recours en application de
+l'article L. 103 B, l'occupant des lieux ou son représentant et l'officier de
+police judiciaire peuvent seuls prendre connaissance des pièces et documents
+avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des
 droits de la défense conformément aux dispositions du troisième alinéa de
@@ -136,6 +139,42 @@ Si l'inventaire sur place présente des difficultés, les pièces, documents, bi
 et avoirs saisis sont placés sous scellés. L'occupant des lieux ou son
 représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu
 en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
+
+4 bis. Lorsque l'occupant des lieux ou son représentant fait obstacle à l'accès
+aux pièces ou documents présents sur un support informatique, à leur lecture ou
+à leur saisie, mention en est portée au procès-verbal.
+
+Les agents habilités peuvent alors procéder à la copie de ce support et saisir
+ce dernier, qui est placé sous scellés. Ils disposent de quinze jours à compter
+de la date de la visite pour accéder aux pièces ou documents présents sur le
+support informatique placé sous scellés, à leur lecture et à leur saisie, ainsi
+qu'à la restitution de ce dernier et de sa copie. Ce délai est prorogé sur
+autorisation délivrée par le juge des libertés et de la détention.
+
+A la seule fin de permettre la lecture des pièces ou documents présents sur le
+support informatique placé sous scellés, les agents habilités procèdent aux
+opérations nécessaires à leur accès ou à leur mise au clair. Ces opérations sont
+réalisées sur la copie du support.
+
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à
+l'ouverture des scellés, à la lecture et à la saisie des pièces et documents
+présents sur ce support informatique, qui ont lieu en présence de l'officier de
+police judiciaire.
+
+Un procès-verbal décrivant les opérations réalisées pour accéder à ces pièces et
+documents, à leur mise au clair et à leur lecture est dressé par les agents
+habilités. Un inventaire des pièces et documents saisis lui est annexé, s'il y a
+lieu.
+
+Le procès-verbal et l'inventaire sont signés par les agents habilités et par un
+officier de police judiciaire ainsi que par l'occupant des lieux ou son
+représentant ; en l'absence de celui-ci ou en cas de refus de signer, mention en
+est faite au procès-verbal.
+
+Il est procédé concomitamment à la restitution du support informatique et de sa
+copie. En l'absence de l'occupant des lieux ou de son représentant,
+l'administration accomplit alors sans délai toutes diligences pour les
+restituer.
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils
 ont été établis, adressés au juge qui a délivré l'ordonnance ; une copie de ces

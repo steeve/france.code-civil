@@ -1,6 +1,8 @@
 Article 435-7
 ----
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par :
+Est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le
+montant peut être porté au double du produit tiré de l'infraction, le fait, par
+:
 
 1° Toute personne exerçant des fonctions juridictionnelles dans un Etat étranger
 ou au sein ou auprès d'une cour internationale ;
