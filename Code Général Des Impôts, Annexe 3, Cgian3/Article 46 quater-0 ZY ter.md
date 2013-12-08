@@ -73,7 +73,13 @@ pellicules magnétiques son et plus généralement de tous supports analogiques 
 numériques d'images et de son, de laboratoires de tournage, de laboratoires de
 finition, de laboratoire vidéo et de sous-titrage ;
 
-5. Au titre des dépenses de transport et de restauration : les dépenses de
-transport de biens et de matériels artistiques et techniques, ainsi que les
-dépenses de transport et de restauration des équipes artistiques et techniques,
-strictement nécessaires aux besoins de la production de l'œuvre.
+5. Au titre des dépenses de transport, de restauration et d'hébergement : les
+dépenses de transport de biens et de matériels artistiques et techniques, ainsi
+que les dépenses de transport, de restauration et d'hébergement des équipes
+artistiques et techniques, strictement nécessaires aux besoins de la production
+de l'œuvre.
+
+Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans
+la limite de 270 euros par nuitée dans la ville de Paris et les départements des
+Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans
+les autres départements.
