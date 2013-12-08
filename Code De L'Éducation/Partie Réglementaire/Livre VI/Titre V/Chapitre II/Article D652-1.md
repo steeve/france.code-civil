@@ -3,7 +3,8 @@ Article D652-1
 Les dispositions relatives à la scolarité des élèves des écoles normales
 supérieures sont fixées par :
 
-1° Le décret n° 87-695 du 26 août 1987 relatif à l'Ecole normale supérieure ;
+1° Le décret n° 2013-1140 du 9 décembre 2013 relatif à l'Ecole normale
+supérieure ;
 
 2° Le décret n° 2011-21 du 5 janvier 2011 relatif à l'Ecole normale supérieure
 de Cachan ;

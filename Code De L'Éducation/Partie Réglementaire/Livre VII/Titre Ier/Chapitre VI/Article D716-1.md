@@ -3,8 +3,8 @@ Article D716-1
 Les dispositions relatives aux écoles normales supérieures mentionnées à
 l'article L. 716-1 sont fixées par les décrets suivants :
 
-1° Ecole normale supérieure : décret n° 87-695 du 26 août 1987 relatif à l'Ecole
-normale supérieure ;
+1° Ecole normale supérieure : décret n° 2013-1140 du 9 décembre 2013 relatif à
+l'Ecole normale supérieure ;
 
 2° Ecole normale supérieure de Cachan : décret n° 2011-21 du 5 janvier 2011
 relatif à l'Ecole normale supérieure de Cachan ;
