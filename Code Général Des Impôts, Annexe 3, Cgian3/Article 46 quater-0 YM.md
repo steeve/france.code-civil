@@ -8,16 +8,15 @@ oeuvres cinématographiques ou audiovisuelles documentaires :
 
 a. Au titre des rémunérations et charges sociales afférentes aux auteurs
 énumérés à l'article L. 113-7 du code de la propriété intellectuelle : les
-avances à valoir sur les recettes d'exploitation versées par l'entreprise de
-production aux auteurs en contrepartie de la commande et de l'acquisition des
-droits nécessaires à la réalisation de l'oeuvre, ainsi que les charges sociales
-afférentes dans la mesure où elles correspondent à des cotisations sociales
-obligatoires ;
+rémunérations versées par l'entreprise de production aux auteurs en contrepartie
+de la commande et de l'acquisition des droits nécessaires à la réalisation de
+l'oeuvre, ainsi que les charges sociales afférentes dans la mesure où elles
+correspondent à des cotisations sociales obligatoires ;
 
 b. Au titre des rémunérations et charges sociales afférentes aux
-artistes-interprètes visés à l'article L. 212-4 du code de la propriété
-intellectuelle : la part de la rémunération versée par l'entreprise de
-production aux artistes-interprètes correspondant aux rémunérations minimales
+artistes-interprètes mentionnés à l'article L. 212-4 du code de la propriété
+intellectuelle et aux artistes de complément : la part de leur rémunération
+versée par l'entreprise de production correspondant aux rémunérations minimales
 prévues par les conventions collectives et accords collectifs de la production
 cinématographique ou audiovisuelle, ainsi que les charges sociales afférentes
 dans la mesure où elles correspondent à des cotisations sociales obligatoires ;
@@ -44,8 +43,10 @@ tournage, d'éclairage, de préparation et de réalisation des effets spéciaux 
 tournage, y compris les cascades, de location et de fabrication des costumes,
 coiffures et de maquillage ;
 
-2° Les dépenses de matériels techniques de tournage, à savoir : les dépenses de
-matériels de prises de vues, de machinerie, d'éclairage et de prise de son ;
+2° Les dépenses de matériels techniques de tournage, à savoir :
+
+les dépenses de matériels de prises de vues, de machinerie, d'éclairage et de
+prise de son ;
 
 3° Les dépenses de postproduction, y compris les effets spéciaux, à savoir : les
 dépenses de laboratoire image, de montage des images, d'enregistrement des voix,
@@ -56,17 +57,27 @@ numériques et de génériques et bandes-annonces ;
 laboratoire, à savoir : les dépenses de pellicules négatives image, de
 pellicules magnétiques son et plus généralement de tous supports analogiques ou
 numériques d'images et de son, de laboratoires de tournage, de laboratoires de
-finition, de laboratoire vidéo et de sous-titrage.
+finition, de laboratoire vidéo et de sous-titrage ;
+
+e. Au titre des dépenses de transport, de restauration et d'hébergement : les
+dépenses de transport de biens et de matériels artistiques et techniques, ainsi
+que les dépenses de transport, de restauration et d'hébergement des équipes
+artistiques et techniques, strictement nécessaires aux besoins de la production
+de l'œuvre.
+
+Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans
+la limite de 270 euros par nuitée dans la ville de Paris et les départements des
+Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans
+les autres départements.
 
 2. Pour les oeuvres cinématographiques ou audiovisuelles d'animation :
 
 a. Au titre des rémunérations et charges sociales afférentes aux auteurs
 énumérés à l'article L. 113-7 du code de la propriété intellectuelle : les
-avances à valoir sur les recettes d'exploitation versées par l'entreprise de
-production aux auteurs en contrepartie de la commande et de l'acquisition des
-droits nécessaires à la réalisation de l'oeuvre, ainsi que les charges sociales
-afférentes dans la mesure où elles correspondent à des cotisations sociales
-obligatoires ;
+rémunérations versées par l'entreprise de production aux auteurs en contrepartie
+de la commande et de l'acquisition des droits nécessaires à la réalisation de
+l'oeuvre, ainsi que les charges sociales afférentes dans la mesure où elles
+correspondent à des cotisations sociales obligatoires ;
 
 b. Au titre des rémunérations et charges sociales afférentes aux
 artistes-interprètes visés à l'article L. 212-4 du code de la propriété
@@ -114,4 +125,15 @@ numériques et de génériques et bandes-annonces ;
 laboratoires, à savoir : les dépenses de pellicules négatives image, de
 pellicules magnétiques son et plus généralement de tous supports analogiques ou
 numériques d'images et de son, de laboratoires de finition, de laboratoire vidéo
-et de sous-titrages.
+et de sous-titrages ;
+
+e. Au titre des dépenses de transport, de restauration et d'hébergement : les
+dépenses de transport de biens et de matériels artistiques et techniques, ainsi
+que les dépenses de transport, de restauration et d'hébergement des équipes
+artistiques et techniques, strictement nécessaires aux besoins de la production
+de l'œuvre.
+
+Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans
+la limite de 270 euros par nuitée dans la ville de Paris et les départements des
+Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans
+les autres départements.
