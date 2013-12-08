@@ -1,16 +1,20 @@
 Article D15-2
 ----
-Le rapport annuel prévu par le troisième alinéa de l'article 35 est adressé par
-le procureur de la République au procureur général avant le 31 janvier de
-l'année suivant celle à laquelle il se rapporte.
+Le procureur général adresse au ministre de la justice le rapport annuel de
+politique pénale sur l'application de la loi et des instructions générales ainsi
+que le rapport annuel sur l'activité et la gestion des parquets de son ressort,
+prévus par le troisième alinéa de l'article 35, avant le 31 mars de l'année
+suivant celle à laquelle ils se rapportent.
 
-A ce rapport sont annexés ou intégrés le rapport prévu par le troisième alinéa
-de l'article 41 concernant les mesures de garde à vue et les locaux de garde à
-vue, qui est élaboré par le procureur de la République au vu, notamment, des
-informations et des statistiques qui lui sont adressées à cette fin par les
-services et unités de police judiciaire de son ressort, ainsi que le rapport sur
-l'état et les délais de l'exécution des peines prévu par l'article 709-2.
+Les informations figurant dans ces deux rapports peuvent être regroupées dans un
+rapport unique.
 
-Le procureur général adresse au ministre de la justice une synthèse des rapports
-qui lui ont été transmis par les procureurs de la République de son ressort,
-avant le 31 mars de l'année suivant celle à laquelle ils se rapportent.
+Elles comportent une synthèse des rapports qui lui ont été transmis par les
+procureurs de la République de son ressort en application de l'article 39-1.
+
+Le procureur général communique son ou ses rapports au premier président de la
+cour d'appel, pour diffusion aux magistrats du siège avant la prochaine
+assemblée générale des magistrats du siège et du parquet au cours de laquelle il
+informe cette assemblée des conditions de mise en œuvre, dans le ressort de la
+cour, de la politique pénale et des instructions générales qui lui ont été
+adressées à cette fin par le ministre de la justice.
