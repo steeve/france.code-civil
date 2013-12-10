@@ -2,7 +2,7 @@ Article D732-47-4
 ----
 La demande de versement de cotisations s'effectue au moyen d'un formulaire
 établi par arrêté des ministres chargés de l'agriculture et de la sécurité
-sociale.A défaut pour l'assuré de démontrer sur la base d'éléments probants la
+sociale. A défaut pour l'assuré de démontrer sur la base d'éléments probants la
 réalité et la durée des périodes d'activité accomplies en qualité d'aide
 familial, la demande de versement peut être acceptée sur la base d'une
 déclaration sur l'honneur attestant :
@@ -24,8 +24,8 @@ déclaration sur l'honneur. Ne peuvent être acceptés que les témoignages des
 salariés, des aides familiaux, des apprentis ou des chefs d'exploitation ou
 d'entreprise agricole en mesure de prouver avoir exercé leur activité pendant la
 même période que l'intéressé dans une exploitation ou entreprise agricole située
-dans la même commune, les attestations sur l'honneur ne pouvant être retenues à
-cet égard.
+soit dans la même commune, soit dans une commune limitrophe, les attestations
+sur l'honneur ne pouvant être retenues à cet égard.
 
 L'intéressé produit également à l'appui de sa demande tous documents probants
 permettant d'établir la réalité :
