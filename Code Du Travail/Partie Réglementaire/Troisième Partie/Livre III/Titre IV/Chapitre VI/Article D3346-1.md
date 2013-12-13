@@ -1,7 +1,7 @@
 Article D3346-1
 ----
 Le Conseil d'orientation de la participation, de l'intéressement, de l'épargne
-salariale et de l'actionnariat salarié est composé de trente-cinq membres,
+salariale et de l'actionnariat salarié est composé de trente et un membres,
 répartis comme suit :
 
 1° Dix membres représentant les partenaires sociaux :
@@ -46,8 +46,8 @@ e) Le directeur de l'animation de la recherche, des études et des statistiques 
 
 f) Le directeur de la sécurité sociale ;
 
-3° Le président du Conseil de l'emploi, des revenus et de la cohésion sociale ou
-son représentant ;
+3° Le commissaire général à la stratégie et à la prospective ou son représentant
+;
 
 4° Le président du Conseil d'orientation pour les retraites ou son représentant
 ;
@@ -56,5 +56,5 @@ son représentant ;
 
 6° Deux députés et deux sénateurs désignés par leur assemblée respective ;
 
-7° Douze personnalités choisies en raison de leur compétence et de leur
+7° Huit personnalités choisies en raison de leur compétence et de leur
 expérience.
