@@ -143,3 +143,20 @@ satellitaire visées à l'article L. 97-2.
 autorités comptables maritimes enregistrées en France ou reconnus par la France
 qu'elle notifie à l'Union internationale des télécommunications conformément aux
 dispositions issues du règlement des télécommunications internationales.
+
+17° Elle est chargée de la gestion du dispositif de surveillance et de mesure
+des ondes électromagnétiques mentionné à l'article 42 de la loi n° 2009-967 du 3
+août 2009 de programmation relative à la mise en œuvre du Grenelle de
+l'environnement ainsi que du fonds destiné au financement du dispositif. A ce
+titre, elle assure :
+
+a) La gestion des recettes et des dépenses du fonds précité, dans les conditions
+prévues à l'article R. 20-44-20 ;
+
+b) La gestion et le traitement des demandes de mesure des ondes
+électromagnétiques sollicitées par les personnes morales définies à l'article 2
+du décret n° 2013-1162 du 14 décembre 2013 relatif au dispositif de surveillance
+et de mesure des ondes électromagnétiques ;
+
+c) La gestion des marchés et des commandes avec les organismes mentionnés à
+l'article L. 34-9-1.
