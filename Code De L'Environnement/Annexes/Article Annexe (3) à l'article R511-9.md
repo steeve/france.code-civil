@@ -764,30 +764,43 @@ D
 
 2220
 
-Alimentaires (préparation ou conservation de produits) d'origine végétale, par
+Préparation ou conservation de produits alimentaires d'origine végétale, par
 cuisson, appertisation, surgélation, congélation, lyophilisation,
 déshydratation, torréfaction, etc., à l'exclusion du sucre, de la fécule, du
 malt, des huiles, et des aliments pour le bétail mais y compris les ateliers de
-maturation de fruits et légumes, la quantité de produits entrant étant :
+maturation de fruits et légumes.
 
-1. La capacité de production étant :
-
-1. supérieure à 10 t/j
+A. Installations dont les activités sont classées au titre de la rubrique 3642
 
 
 A
 
-1
-
-a) supérieure à 200 t/j
-
 3
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+B. Autres installations que celles visées au A, la quantité de produits entrant
+étant :
 
-1
+1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours
+consécutifs en un an :
 
-2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
+a) Supérieure à 20 t/ j
+
+
+E
+
+b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j
+
+
+D
+
+2. Autres installations :
+
+a) Supérieure à 10 t/ j
+
+
+E
+
+b) Supérieure à 2 t/ j, mais inférieure ou égale à 10 t/ j
 
 
 DC
