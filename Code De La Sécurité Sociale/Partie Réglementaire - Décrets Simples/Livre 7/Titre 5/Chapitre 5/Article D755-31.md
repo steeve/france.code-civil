@@ -12,3 +12,6 @@ application du II de l'article L. 553-4 et que l'allocataire ne règle pas la
 part de dépense de logement restant à sa charge, il est fait application des
 dispositions de l'article D. 542-22-4 en cas de location et D. 542-29 en cas
 d'accession.
+
+Les dispositions des articles D. 542-22-5 et D. 542-29-1 sont applicables dans
+les départements mentionnés à l'article L. 751-1.

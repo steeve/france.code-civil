@@ -1,6 +1,6 @@
 Article D542-19
 ----
-I. - La période de non-paiement des loyers ou de non-remboursement de la dette
+I. ― La période de non-paiement des loyers ou de non-remboursement de la dette
 contractée en vue d'accéder à la propriété, à la suite de laquelle l'allocation
 de logement peut être versée entre les mains du prêteur ou du bailleur sur leur
 demande, est déterminée ainsi qu'il suit :
@@ -16,7 +16,7 @@ de prêt dans le mois suivant leurs dates d'exigibilité, soit lorsque
 l'allocataire est débiteur à l'égard du bailleur ou du prêteur d'une somme au
 moins équivalente en montant.
 
-II. - Le bailleur ou le prêteur peut alors obtenir de l'organisme payeur le
+II. ― Le bailleur ou le prêteur peut alors obtenir de l'organisme payeur le
 versement entre ses mains de l'allocation de logement au lieu et place de
 l'allocataire.
 
@@ -31,7 +31,7 @@ A l'expiration de ce délai l'organisme payeur effectue le versement de
 l'allocation de logement entre les mains du bailleur ou du prêteur, dans les
 conditions prévues aux articles D. 542-22-1 à D. 542-22-3 et D. 542-29.
 
-III. - Lorsque l'allocation est versée entre les mains du prêteur ou du
+III. ― Lorsque l'allocation est versée entre les mains du prêteur ou du
 bailleur, en application des 1° et 2° du quatrième alinéa de l'article L. 553-4
 et des e et g du 1° du I de l'article 31 du code général des impôts l'impayé est
 constitué :
@@ -60,4 +60,6 @@ En cas de suspension du paiement du loyer ou des arrérages des dettes
 contractées en vue d'accéder à la propriété consécutive à une contestation
 relative à l'étendue des obligations du débiteur et donnant lieu à instance
 judiciaire, le versement de l'allocation est suspendu par l'organisme payeur
-jusqu'à ce que la décision de justice rendue soit devenue définitive.
+jusqu'à ce que la décision de justice rendue soit devenue définitive, sauf
+lorsqu'une procédure de surendettement a été engagée devant la commission prévue
+à l'article L. 331-1 du code de la consommation.
