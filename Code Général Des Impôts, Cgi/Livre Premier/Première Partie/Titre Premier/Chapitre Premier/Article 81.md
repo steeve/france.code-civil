@@ -29,9 +29,11 @@ code de la sécurité sociale, ainsi que le montant de l'aide personnalisée au
 logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction
 et de l'habitation ;
 
-2° ter (Abrogé) ;
+2° ter Les majorations de retraite ou de pension pour charges de famille ;
 
-3° (Abrogé) ;
+3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du
+contrat de travail à salaire différé prévu par l'article L321-13 du code rural
+et de la pêche maritime ;
 
 4° a. Les pensions servies en vertu des dispositions du code des pensions
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
@@ -70,7 +72,9 @@ travail ;
 
 9° quinquies (Abrogé) ;
 
-9° septies (Abrogé) ;
+9° septies L'aide à la réinsertion familiale et sociale des anciens migrants
+dans leur pays d'origine instituée par l'article L. 117-3 du code de l'action
+sociale et des familles ;
 
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30
 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er

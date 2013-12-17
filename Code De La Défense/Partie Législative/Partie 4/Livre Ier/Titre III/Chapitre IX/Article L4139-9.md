@@ -3,12 +3,13 @@ Article L4139-9
 La disponibilité est la situation de l'officier de carrière qui, ayant accompli
 plus de quinze ans de services dont six au moins en qualité d'officier et, le
 cas échéant, satisfait aux obligations de la formation spécialisée prévue à
-l'article L. 4139-13, a été admis sur sa demande à cesser temporairement de
-servir dans les armées.
+l'article L. 4139-13, a été admis, sur demande agréée, à cesser temporairement
+de servir dans les armées.
 
-Elle est prononcée pour une période d'une durée maximum de cinq années,
-renouvelable, pendant laquelle l'officier perçoit une solde réduite des deux
-tiers. La durée totale de la disponibilité ne peut excéder dix ans.
+Elle est prononcée pour une période d'une durée maximale de cinq années, non
+renouvelable, pendant laquelle l'officier perçoit, la première année, 50 % de la
+dernière solde perçue avant la cessation du service, 40 % de cette solde la
+deuxième année et 30 % les trois années suivantes.
 
 Le temps passé en disponibilité n'est pas pris en compte pour l'avancement au
 choix ; il est pris en compte pour les droits à pension de retraite et, pour la
