@@ -1,8 +1,9 @@
 Article R72-1
 ----
-Hors de France, les procurations sont établies par acte dressé devant
-l'ambassadeur pourvu d'une circonscription consulaire ou le chef de poste
-consulaire ou devant un consul honoraire de nationalité française habilité à cet
+Hors de France, les procurations sont établies au moyen de l'un des formulaires
+administratifs mentionnés à l'article R. 72, présenté par le mandant à
+l'ambassadeur pourvu d'une circonscription consulaire ou au chef de poste
+consulaire ou à un consul honoraire de nationalité française habilité à cet
 effet par arrêté du ministre des affaires étrangères. L'ambassadeur et le chef
 de poste consulaire peuvent déléguer leur signature en cette matière, sous leur
 responsabilité, à un ou plusieurs agents relevant de leur autorité ayant la
