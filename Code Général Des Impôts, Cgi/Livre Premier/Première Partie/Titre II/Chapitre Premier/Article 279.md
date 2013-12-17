@@ -146,3 +146,7 @@ l'environnement ;
 
 i. les prestations de services fournies par des entreprises agréées en
 application du II de l'article L. 129-1 du code du travail.
+
+j) Les rémunérations versées par les collectivités territoriales et leurs
+groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens
+correspondant à l'édition d'un service de télévision locale.
