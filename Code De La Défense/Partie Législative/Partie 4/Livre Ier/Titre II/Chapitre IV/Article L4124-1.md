@@ -27,3 +27,7 @@ fixés par décret en Conseil d'Etat.
 
 Les retraités militaires sont représentés au sein du Conseil supérieur de la
 fonction militaire.
+
+Le ministre de la défense communique aux commissions compétentes de chaque
+assemblée parlementaire un rapport annuel de synthèse des travaux du Conseil
+supérieur de la fonction militaire.

@@ -9,5 +9,8 @@ des risques d'atteinte à l'ordre public ou à la sécurité des personnes et de
 biens, ainsi qu'au titre des mesures de protection ou de défense prises dans les
 secteurs de sécurité des installations prioritaires de défense mentionnés à
 l'article L. 1321-2 du code de la défense. Cette consultation est effectuée par
-des agents de la police et de la gendarmerie nationales spécialement habilités à
-cet effet.
+des agents individuellement désignés et spécialement habilités de la police et
+de la gendarmerie nationales ainsi que, dans la limite de leurs attributions et
+dans des conditions fixées par décret en Conseil d'Etat, des services de
+renseignement désignés par le ministre de la défense, aux fins de protection de
+la sécurité de leurs personnels.

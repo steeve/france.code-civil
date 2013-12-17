@@ -45,9 +45,8 @@ Officiers de l'air
 
 63
 
-Officiers du cadre spécial, commissaires des armées, officiers des corps
-techniques et administratifs, ingénieurs militaires des essences,
-administrateurs des affaires maritimes
+Commissaires des armées (1), officiers des corps techniques et administratifs,
+ingénieurs militaires des essences, administrateurs des affaires maritimes
 
 62
 
@@ -75,7 +74,8 @@ l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense
 
 Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la
 poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées,
-aumôniers militaires
+aumôniers militaires, officiers spécialistes de l'armée de terre, officiers
+logisticiens des essences
 
 66
 
@@ -106,10 +106,10 @@ ADJUDANT ou dénomination correspondante
 ADJUDANT-CHEF ou dénomination correspondante
 
 
-MAJOR
+MAJORSous
 
-Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air
-(personnel non navigant)
+-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel
+non navigant)
 
 47
 
@@ -135,11 +135,11 @@ Sous-officiers du personnel navigant de l'armée de l'air
 
 Infirmiers en soins généraux et spécialisés
 
-62
+62Militaires
 
-Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers)
-excepté ceux du corps des infirmiers en soins généraux et spécialisés, majors
-des ports (marine) et officiers mariniers de carrière des ports (marine)
+infirmiers et techniciens des hôpitaux des armées (sous-officiers) excepté ceux
+du corps des infirmiers en soins généraux et spécialisés, majors des ports
+(marine) et officiers mariniers de carrière des ports (marine)
 
 59
 

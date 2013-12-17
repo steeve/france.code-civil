@@ -1,8 +1,8 @@
 Article 697
 ----
-Dans le ressort de chaque cour d'appel, un tribunal de grande instance est
-compétent pour l'instruction et, s'il s'agit de délits, le jugement des
-infractions mentionnées à l'article 697-1.
+Dans le ressort d'une ou de plusieurs cours d'appel, un tribunal de grande
+instance est compétent pour l'instruction et, s'il s'agit de délits, le jugement
+des infractions mentionnées à l'article 697-1.
 
 Des magistrats sont affectés, après avis de l'assemblée générale, aux formations
 de jugement, spécialisées en matière militaire, de ce tribunal.

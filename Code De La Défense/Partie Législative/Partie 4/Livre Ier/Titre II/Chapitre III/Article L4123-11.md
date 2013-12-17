@@ -7,3 +7,8 @@ l'exercice de leurs fonctions que s'il est établi qu'ils n'ont pas accompli les
 diligences normales compte tenu de leurs compétences, du pouvoir et des moyens
 dont ils disposaient ainsi que des difficultés propres aux missions que la loi
 leur confie.
+
+Ces diligences normales sont appréciées en particulier au regard de l'urgence
+dans laquelle ils ont exercé leurs missions, des informations dont ils ont
+disposé au moment de leur intervention et des circonstances liées à l'action de
+combat.

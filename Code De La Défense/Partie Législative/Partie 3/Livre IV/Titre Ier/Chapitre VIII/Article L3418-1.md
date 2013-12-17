@@ -1,6 +1,8 @@
 Article L3418-1
 ----
-Les règles relatives aux missions et à l'organisation de l'Office national des
-anciens combattants et victimes de guerre sont définies par les articles L. 517
-à L. 519 du code des pensions militaires d'invalidité et des victimes de la
-guerre.
+Le foyer d'entraide de la légion étrangère est un établissement public de l'Etat
+placé sous la tutelle du ministre de la défense.
+
+L'activité du foyer d'entraide de la légion étrangère s'exerce au profit des
+militaires et des anciens militaires servant ou ayant servi à titre étranger,
+ainsi qu'à leurs familles.

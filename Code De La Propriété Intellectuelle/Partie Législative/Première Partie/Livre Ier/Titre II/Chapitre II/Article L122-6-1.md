@@ -16,11 +16,11 @@ sauvegarde lorsque celle-ci est nécessaire pour préserver l'utilisation du
 logiciel.
 
 III. La personne ayant le droit d'utiliser le logiciel peut sans l'autorisation
-de l'auteur observer, étudier ou tester le fonctionnement de ce logiciel afin de
-déterminer les idées et principes qui sont à la base de n'importe quel élément
-du logiciel lorsqu'elle effectue toute opération de chargement, d'affichage,
-d'exécution, de transmission ou de stockage du logiciel qu'elle est en droit
-d'effectuer.
+de l'auteur observer, étudier ou tester le fonctionnement ou la sécurité de ce
+logiciel afin de déterminer les idées et principes qui sont à la base de
+n'importe quel élément du logiciel lorsqu'elle effectue toute opération de
+chargement, d'affichage, d'exécution, de transmission ou de stockage du logiciel
+qu'elle est en droit d'effectuer.
 
 IV. La reproduction du code du logiciel ou la traduction de la forme de ce code
 n'est pas soumise à l'autorisation de l'auteur lorsque la reproduction ou la

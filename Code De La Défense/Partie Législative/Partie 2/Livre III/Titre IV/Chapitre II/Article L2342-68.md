@@ -7,7 +7,7 @@ inscrits au tableau 1 à des fins médicales, pharmaceutiques, de recherche ou d
 protection sans autorisation lorsque celle-ci est obligatoire, ou en violation
 des conditions de l'autorisation délivrée ;
 
-2° L'importation, l'exportation, le transit, le commerce ou le courtage de
-produits chimiques inscrits au tableau 1, à des fins médicales, pharmaceutiques,
-de recherche ou de protection, en provenance ou à destination d'un Etat non
-partie à la Convention de Paris.
+2° L'importation, l'exportation, le transit, le transfert entre Etats membres de
+l'Union européenne, le commerce ou le courtage de produits chimiques inscrits au
+tableau 1, à des fins médicales, pharmaceutiques, de recherche ou de protection,
+en provenance ou à destination d'un Etat non partie à la Convention de Paris.

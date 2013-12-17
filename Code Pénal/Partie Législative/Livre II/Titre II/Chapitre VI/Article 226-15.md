@@ -7,5 +7,5 @@ d'emprisonnement et de 45 000 euros d'amende.
 
 Est puni des mêmes peines le fait, commis de mauvaise foi, d'intercepter, de
 détourner, d'utiliser ou de divulguer des correspondances émises, transmises ou
-reçues par la voie électronique ou de procéder à l'installation d'appareils
-conçus pour réaliser de telles interceptions.
+reçues par la voie électronique ou de procéder à l'installation d'appareils de
+nature à permettre la réalisation de telles interceptions.

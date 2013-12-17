@@ -18,7 +18,10 @@ d'y pénétrer et les modalités de leur protection. Il précise les modalités 
 sommations auxquelles procède le militaire.
 
 II. - N'est pas pénalement responsable le militaire qui, dans le respect des
-règles du droit international et dans le cadre d'une opération militaire se
-déroulant à l'extérieur du territoire français, exerce des mesures de coercition
-ou fait usage de la force armée, ou en donne l'ordre, lorsque cela est
-nécessaire à l'accomplissement de sa mission.
+règles du droit international et dans le cadre d'une opération mobilisant des
+capacités militaires, se déroulant à l'extérieur du territoire français ou des
+eaux territoriales françaises, quels que soient son objet, sa durée ou son
+ampleur, y compris la libération d'otages, l'évacuation de ressortissants ou la
+police en haute mer, exerce des mesures de coercition ou fait usage de la force
+armée, ou en donne l'ordre, lorsque cela est nécessaire à l'exercice de sa
+mission.

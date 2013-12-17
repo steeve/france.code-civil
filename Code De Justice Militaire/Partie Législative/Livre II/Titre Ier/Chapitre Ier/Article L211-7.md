@@ -1,6 +1,6 @@
 Article L211-7
 ----
-En cas de découverte d'un cadavre, l'officier de police judiciaire des forces
-armées et le procureur de la République près le tribunal de grande instance de
-Paris appliquent les dispositions prévues par l'article 74 du code de procédure
-pénale.
+Pour l'application de l'article 74 du code de procédure pénale, est présumée ne
+pas avoir une cause inconnue ou suspecte la mort violente d'un militaire au
+cours d'une action de combat se déroulant dans le cadre d'une opération
+militaire hors du territoire de la République.

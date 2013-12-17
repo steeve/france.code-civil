@@ -2,10 +2,11 @@ Article L2342-8
 ----
 I.-La mise au point, la fabrication, l'acquisition, la cession, l'utilisation,
 la détention, la conservation, le stockage, l'importation, l'exportation, le
-transit, le commerce et le courtage des produits chimiques inscrits au tableau 1
-annexé à la Convention de Paris sont interdits sauf à des fins médicales,
-pharmaceutiques, de recherche ou de protection et dans des quantités limitées à
-ce que peuvent strictement justifier ces fins.
+transit, le transfert entre Etats membres de l'Union européenne, le commerce et
+le courtage des produits chimiques inscrits au tableau 1 annexé à la Convention
+de Paris sont interdits sauf à des fins médicales, pharmaceutiques, de recherche
+ou de protection et dans des quantités limitées à ce que peuvent strictement
+justifier ces fins.
 
 II.-Lorsqu'ils ne sont pas interdits au I :
 
@@ -16,7 +17,10 @@ lesquelles elle est accordée ;
 
 2° L'importation, l'exportation et le transit des produits chimiques inscrits au
 tableau 1 sont interdits lorsqu'ils sont en provenance ou à destination d'un
-Etat non partie à la Convention de Paris.
+Etat non partie à la Convention de Paris ;
+
+2° bis Le transfert entre Etats membres de l'Union européenne des produits
+chimiques inscrits au tableau 1 est soumis aux articles L. 2335-9 et suivants.
 
 Dans les autres cas, sans préjudice des dispositions communautaires applicables
 en la matière :

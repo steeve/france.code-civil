@@ -2,8 +2,9 @@ Article L2342-60
 ----
 Sont punis de vingt ans de réclusion criminelle et de 3 000 000 euros d'amende
 la mise au point, la fabrication, le stockage, la détention, la conservation,
-l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce
-ou le courtage :
+l'acquisition, la cession, l'importation, l'exportation, le transit, le
+transfert entre Etats membres de l'Union européenne, le commerce ou le courtage
+:
 
 1° D'une arme chimique autre qu'une arme chimique ancienne ou qu'une arme
 chimique abandonnée ;
@@ -19,10 +20,11 @@ en vue de commettre l'une quelconque des infractions prévues aux articles L.
 2342-57 et L. 2342-58 et aux alinéas ci-dessus, indépendamment de la commission
 effective d'une telle infraction.
 
-Sont punis des mêmes peines l'importation, l'exportation, le commerce ou le
-courtage de tout matériel de fabrication d'armes chimiques ou de tout document
-ou objet en vue de permettre ou de faciliter la violation des dispositions de la
-sous-section 1 de la première section du présent chapitre.
+Sont punis des mêmes peines l'importation, l'exportation, le commerce, le
+transfert entre Etats membres de l'Union européenne ou le courtage de tout
+matériel de fabrication d'armes chimiques ou de tout document ou objet en vue de
+permettre ou de faciliter la violation des dispositions de la sous-section 1 de
+la première section du présent chapitre.
 
 Est punie de la même peine la communication de toute information en vue de
 permettre ou de faciliter la violation des dispositions de la sous-section 1 de

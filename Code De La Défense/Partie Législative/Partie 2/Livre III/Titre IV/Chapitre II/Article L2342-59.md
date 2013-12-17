@@ -3,8 +3,9 @@ Article L2342-59
 Est puni de la réclusion criminelle à perpétuité et de 7 500 000 euros d'amende
 le fait de diriger ou d'organiser un groupement ayant pour objet l'emploi, la
 mise au point, la fabrication, le stockage, la détention, la conservation,
-l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce
-ou le courtage :
+l'acquisition, la cession, l'importation, l'exportation, le transit, le
+transfert entre Etats membres de l'Union européenne, le commerce ou le courtage
+:
 
 1° D'une arme chimique ;
 
