@@ -15,6 +15,7 @@ changement.
 
 Les avis de mise en recouvrement résultant de l'engagement par la direction
 nationale des vérifications de situations fiscales d'une procédure de
-rectification ou d'une procédure d'imposition d'office sont établis, signés et
-rendus exécutoires par le comptable chargé du pôle de recouvrement spécialisé de
-Paris Sud-Ouest.
+rectification ou d'une procédure d'imposition d'office ou du traitement par
+cette direction d'actes ou de déclarations liés à la détention d'avoirs à
+l'étranger sont établis, signés et rendus exécutoires par le comptable chargé du
+pôle de recouvrement spécialisé de Paris Sud-Ouest.
