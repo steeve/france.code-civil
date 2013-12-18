@@ -10,7 +10,7 @@ législatives et réglementaires visant à préserver la santé humaine.
 Ces inspecteurs peuvent être assistés par des experts désignés par le directeur
 général de l'agence.
 
-Les dispositions des articles L. 1421-2, L. 1421-3 et L. 1426-1 sont applicables
+Les dispositions des articles L. 1421-2, L. 1421-3 et L. 1427-1 sont applicables
 aux inspecteurs de l'agence.
 
 L'agence est destinataire des rapports de contrôle et d'inspection concernant

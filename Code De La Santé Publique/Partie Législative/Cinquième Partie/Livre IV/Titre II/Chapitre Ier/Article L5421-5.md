@@ -1,10 +1,8 @@
 Article L5421-5
 ----
-Le fait, pour le responsable d'un établissement pharmaceutique exploitant un
-médicament ou produit soumis aux dispositions du chapitre Ier du titre II du
-présent livre, de ne pas informer immédiatement l'Agence nationale de sécurité
-du médicament et des produits de santé de toute action qu'il a engagée pour en
-suspendre la commercialisation, le retirer du marché ou en retirer un lot
-déterminé ou de ne pas en indiquer la raison si celle-ci concerne l'efficacité
-du médicament ou produit ou la protection de la santé publique, est puni de 3750
-euros d'amende.
+Le fait pour toute personne exploitant un médicament ou produit de ne pas
+communiquer à l'Agence nationale de sécurité du médicament et des produits de
+santé toute interdiction ou restriction imposée par les autorités compétentes de
+tout pays dans lequel le médicament ou produit est mis sur le marché en
+application de l'article L. 5121-9-2 est puni de deux ans d'emprisonnement et de
+150 000 € d'amende.

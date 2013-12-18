@@ -8,7 +8,7 @@ Celle-ci s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
 
 Les produits saisis sont immédiatement inventoriés. L'inventaire est annexé au
 procès-verbal sur les lieux. Les originaux du procès-verbal et de l'inventaire
-sont transmis, dans les cinq jours suivant leur établissement, au juge qui a
+sont transmis, dans les cinq jours qui suivent leur clôture, au juge qui a
 ordonné la saisie.
 
 Le juge des libertés et de la détention peut, à tout moment, ordonner la

@@ -1,7 +1,7 @@
 Article L5424-6
 ----
-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende, le fait pour
-un pharmacien :
+Est puni de deux ans d'emprisonnement et de 150 000 € d'amende, le fait pour un
+pharmacien :
 
 1° D'exploiter une officine sans que les médicaments soient préparés par ou sous
 la surveillance directe d'un pharmacien ;

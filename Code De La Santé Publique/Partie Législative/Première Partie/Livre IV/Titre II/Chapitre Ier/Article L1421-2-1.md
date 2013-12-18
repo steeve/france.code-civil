@@ -15,8 +15,8 @@ des lieux ou à son représentant qui en reçoit copie intégrale contre récép
 ou émargement au procès-verbal de visite. En l'absence de l'occupant des lieux
 ou de son représentant, l'ordonnance est notifiée, après la visite, par lettre
 recommandée avec demande d'avis de réception. La notification est réputée faite
-à la date de réception figurant sur l'avis.A défaut de réception, il est procédé
-à la signification de l'ordonnance par acte d'huissier de justice.
+à la date de réception figurant sur l'avis. A défaut de réception, il est
+procédé à la signification de l'ordonnance par acte d'huissier de justice.
 
 L'acte de notification comporte mention des voies et délais de recours contre
 l'ordonnance ayant autorisé la visite et contre le déroulement des opérations de
@@ -25,7 +25,7 @@ saisi d'une demande de suspension ou d'arrêt de cette visite.
 
 III. - La visite s'effectue sous l'autorité et le contrôle du juge des libertés
 et de la détention qui l'a autorisée. Le juge des libertés et de la détention
-peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention.A
+peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention. A
 tout moment, il peut décider la suspension ou l'arrêt de la visite. La saisine
 du juge des libertés et de la détention aux fins de suspension ou d'arrêt des
 opérations de visite n'a pas d'effet suspensif.
@@ -33,8 +33,8 @@ opérations de visite n'a pas d'effet suspensif.
 IV. - La visite est effectuée en présence de l'occupant des lieux ou de son
 représentant, qui peut se faire assister d'un conseil de son choix. En l'absence
 de l'occupant des lieux, les agents chargés de la visite ne peuvent procéder à
-celle-ci qu'en présence de deux témoins qui ne sont pas placés sous leur
-autorité.
+celle-ci qu'en présence de deux témoins requis à cet effet par eux, qui ne sont
+pas placés sous leur autorité.
 
 Un procès-verbal relatant les modalités et le déroulement de l'opération et
 consignant les constatations effectuées est dressé sur-le-champ par les agents

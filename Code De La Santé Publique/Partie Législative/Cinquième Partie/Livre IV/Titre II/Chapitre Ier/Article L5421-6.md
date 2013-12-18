@@ -1,9 +1,8 @@
 Article L5421-6
 ----
-Est puni de 30 000 euros d'amende le fait pour quiconque de méconnaître les
-obligations relatives :
-
-1° A l'étiquetage, la notice et la dénomination des médicaments et produits ;
-
-2° Aux restrictions qui peuvent être apportées dans l'intérêt de la santé
-publique à la prescription et à la délivrance de certains médicaments.
+Le fait de ne pas respecter l'obligation d'informer l'Agence nationale de
+sécurité du médicament et des produits de santé de l'arrêt de la
+commercialisation d'un médicament dans un autre Etat et de ne pas lui
+communiquer le motif de cet arrêt de commercialisation en application de
+l'article L. 5121-9-4 est puni de deux ans d'emprisonnement et de 150 000 €
+d'amende.

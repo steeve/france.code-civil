@@ -3,7 +3,7 @@ Article L5426-1
 I.-Le fait ou la tentative de distribuer ou céder à titre gratuit ou onéreux des
 préparations de thérapie génique ou des préparations de thérapie cellulaire
 xénogénique sans autorisation ou lorsque l'autorisation est suspendue ou retirée
-est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende.
+est puni de cinq ans d'emprisonnement et de 375 000 €.
 
 II.-Est puni des mêmes peines le fait ou la tentative :
 
@@ -15,14 +15,16 @@ l'article L. 5124-13 ;
 ces mêmes produits sans être titulaire des autorisations prévues aux articles L.
 4211-8 et L. 4211-9.
 
-III.-Le fait ou la tentative de préparer, de conserver, de distribuer, de céder,
-d'importer et d'exporter des préparations de thérapie génique ou des
-préparations de thérapie cellulaire xénogénique sans respecter les règles de
-bonnes pratiques définies à l'article L. 5121-5 est puni d'une amende de 4 500
-Euros.
+III. - Les peines mentionnées aux I et II sont portées à sept ans
+d'emprisonnement et 750 000 € d'amende, lorsque :
 
-IV.-Les personnes morales déclarées responsables pénalement, dans les conditions
-prévues par l'article 121-2 du code pénal, des infractions définies au présent
-article encourent, outre l'amende suivant les modalités prévues par l'article
-131-38 du code pénal, la peine prévue par le 9° de l'article 131-39 du même
-code.
+1° Les délits prévus au premier alinéa ont été commis en bande organisée ;
+
+2° Ces mêmes délits ont été commis sur un réseau de télécommunication à
+destination d'un public non déterminé ;
+
+3° Ces mêmes délits ont été commis par des établissements pharmaceutiques
+autorisés conformément à l'article L. 5124-3, des courtiers déclarés
+conformément à l'article L. 5124-20, des pharmaciens d'officine titulaires de la
+licence mentionnée à l'article L. 5125-4 et des pharmaciens à usage intérieur
+mentionnés à l'article L. 5126-5 du même code.

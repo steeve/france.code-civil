@@ -6,8 +6,10 @@ médecins inspecteurs de santé publique et les inspecteurs des agences régiona
 de santé ayant la qualité de médecin habilités et assermentés dans des
 conditions fixées par décret en Conseil d'Etat ont qualité pour rechercher et
 constater les infractions aux lois et règlements relatifs aux activités et aux
-produits mentionnés à l'article L. 5311-1, à l'article L. 1151-1 ainsi qu'aux
-mesures réglementaires prises pour son application.
+produits mentionnés à l'article L. 5311-1 ainsi qu'aux dispositions du titre II
+du livre Ier du code de la consommation lorsque l'infraction porte sur un de ces
+produits, à l'article L. 1151-1 ainsi qu'aux mesures réglementaires prises pour
+son application.
 
-Les dispositions des articles L. 1421-3, L. 5411-2 et L. 5411-3 sont applicables
-à l'exercice de cette mission.
+Les dispositions des articles L. 1421-3, L. 5411-2, L. 5411-3 et L. 5411-4 sont
+applicables à l'exercice de cette mission.

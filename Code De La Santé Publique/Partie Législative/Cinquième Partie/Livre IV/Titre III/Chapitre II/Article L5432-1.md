@@ -1,11 +1,13 @@
 Article L5432-1
 ----
-Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, le fait de
-ne pas respecter les dispositions réglementaires prévues à l'article L. 5132-8 :
+I. - Est puni de cinq ans d'emprisonnement et de 375 000 € d'amende le fait dans
+le cadre d'une activité réglementée de ne pas respecter les dispositions prises
+en application de l'article L. 5132-8 :
 
 1° Fixant les conditions de production, de transport, d'importation,
-d'exportation, de détention, d'offre, de cession, d'acquisition et d'emploi de
-plantes ou substances classées comme vénéneuses ;
+d'exportation, de détention, d'offre, de cession, de prescription, de
+délivrance, d'acquisition, et d'emploi de médicaments, plantes, substances ou
+préparations classées comme vénéneuses ;
 
 2° Prohibant les opérations relatives à ces plantes ou substances ;
 
@@ -17,5 +19,18 @@ préparations.
 Dans tous les cas prévus au présent article, les tribunaux peuvent ordonner la
 confiscation des plantes ou substances saisies.
 
-Les peines sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende
-lorsque les faits ont été commis en bande organisée.
+II. - Les peines mentionnées au I sont portées à sept ans d'emprisonnement et
+750 000 € d'amende, lorsque :
+
+1° Les faits ont été commis en bande organisée ;
+
+2° Lorsque les faits d'offre, de cession ou d'acquisition ont été commis sur un
+réseau de télécommunication à destination d'un public non déterminé ;
+
+3° Les faits ont été commis en vue de faciliter, par quelque moyen que ce soit,
+notamment à l'aide d'ordonnances ou de délivrances de complaisance, le mésusage
+ou l'abus tels que définis par voie réglementaire, de médicaments, de plantes,
+de substances ou préparations classées comme vénéneuses. Ces dispositions ne
+sont pas applicables en cas de prescription d'une spécialité pharmaceutique non
+conforme à son autorisation de mise sur le marché lorsque que les conditions
+prévues par l'article L. 5121-12-1 sont respectées.
