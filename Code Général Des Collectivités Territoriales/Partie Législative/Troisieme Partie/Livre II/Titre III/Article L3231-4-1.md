@@ -1,7 +1,7 @@
 Article L3231-4-1
 ----
-Les dispositions des deuxième, troisième et quatrième alinéas de l'article L.
-3231-4 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements
+I. - Les dispositions des deuxième, troisième et quatrième alinéas de l'article
+L. 3231-4 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements
 accordés par un département :
 
 1° Pour les opérations de construction, d'acquisition ou d'amélioration de
@@ -15,3 +15,17 @@ défiscalisées ;
 
 3° En application du plan départemental prévu à l'article 2 de la loi n° 90-449
 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+
+II. - Les dispositions du quatrième alinéa de l'article L. 3231-4 ne sont pas
+applicables aux garanties d'emprunts accordées par un département pour des
+opérations d'aménagement réalisées dans les conditions définies par les articles
+L. 300-4 à L. 300-5-2 du code de l'urbanisme, à la double condition que ces
+opérations :
+
+- concernent principalement la construction de logements ;
+
+- soient situées dans des communes appartenant à une zone d'urbanisation
+continue de plus de 50 000 habitants telle que définie à l'article 232 du code
+général des impôts ou dans des communes de plus de 15 000 habitants en forte
+croissance démographique identifiées en application des dispositions du septième
+alinéa de l'article L. 302-5 du code de la construction et de l'habitation.
