@@ -1,6 +1,6 @@
 Article R3252-3
 ----
-Les seuils déterminés à l'article R. 3252-2 sont augmentés d'un montant de 1 390
+Les seuils déterminés à l'article R. 3252-2 sont augmentés d'un montant de 1 400
 € par personne à la charge du débiteur saisi ou du cédant, sur justification
 présentée par l'intéressé.
 
