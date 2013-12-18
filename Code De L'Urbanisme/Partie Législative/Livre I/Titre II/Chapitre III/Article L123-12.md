@@ -57,3 +57,10 @@ territorialement compétente.
 Dans ce cas, le plan local d'urbanisme ne devient exécutoire qu'après
 l'intervention, la publication et la transmission au préfet des modifications
 demandées.
+
+A compter du 1er janvier 2020, la publication prévue au premier alinéa de
+l'article L. 2131-1 du code général des collectivités territoriales s'effectue
+sur le portail national de l'urbanisme prévu à l'article L. 129-1 selon des
+modalités fixées par arrêté du ministre chargé de l'urbanisme. Le document
+demeure consultable en mairie ou au siège de l'établissement public compétent et
+dans les mairies des communes membres concernées.

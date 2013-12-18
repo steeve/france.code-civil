@@ -3,7 +3,12 @@ Article L122-11-1
 Le schéma de cohérence territoriale est publié et transmis au préfet dans les
 conditions définies aux articles L. 2131-1 et L. 2131-2 du code général des
 collectivités territoriales. Il est exécutoire deux mois après sa transmission
-au préfet.
+au préfet. A compter du 1er janvier 2020, la publication prévue au premier
+alinéa de l'article L. 2131-1 du code général des collectivités territoriales
+s'effectue sur le portail national de l'urbanisme prévu à l'article L. 129-1
+selon des modalités fixées par arrêté du ministre chargé de l'urbanisme. Le
+document demeure consultable au siège de l'établissement public compétent et
+dans les mairies des communes membres concernées.
 
 Toutefois, dans ce délai de deux mois, le préfet notifie par lettre motivée à
 l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 les

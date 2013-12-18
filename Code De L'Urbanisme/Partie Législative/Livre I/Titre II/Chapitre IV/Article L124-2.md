@@ -28,7 +28,10 @@ de l'établissement public de coopération intercommunale compétent. Elle est
 alors transmise par le maire ou par le président de l'établissement public de
 coopération intercommunale au préfet. Celui-ci dispose d'un délai de deux mois
 pour l'approuver. A l'expiration de ce délai, le préfet est réputé avoir
-approuvé la carte. La carte approuvée est tenue à disposition du public.
+approuvé la carte. La carte approuvée est tenue à disposition du public. A
+compter du 1er janvier 2020, cette mise à disposition du public s'effectue par
+publication sur le portail national de l'urbanisme prévu à l'article L. 129-1
+selon des modalités fixées par arrêté du ministre chargé de l'urbanisme.
 
 La carte communale est révisée selon les modalités définies à l'alinéa
 précédent. Toutefois, le projet de révision n'est soumis à la commission
