@@ -191,9 +191,7 @@ leurs membres.
 
 2.2.2.2. Ils précisent :
 
-2.2.2.2.1. Que la représentation des femmes est garantie au sein de la ou des
-instances dirigeantes en leur attribuant un nombre de sièges en proportion du
-nombre de licenciées éligibles ;
+2.2.2.2.1. (abrogé)
 
 2.2.2.2.2. Qu'un médecin siège au sein d'une des instances dirigeantes ;
 
