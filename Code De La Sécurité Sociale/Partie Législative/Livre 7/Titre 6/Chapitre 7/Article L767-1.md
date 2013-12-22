@@ -5,10 +5,10 @@ Le Centre des liaisons européennes et internationales de sécurité sociale est
 morale et de l'autonomie financière, qui assure notamment le rôle d'organisme de
 liaison entre les institutions de sécurité sociale françaises et les
 institutions de sécurité sociale étrangères pour l'application des règlements de
-la Communauté européenne et des accords internationaux de sécurité sociale. Le
-centre assure également ce rôle à l'égard des institutions des territoires et
-collectivités territoriales françaises ayant une autonomie en matière de
-sécurité sociale.
+la Communauté européenne et des accords internationaux de sécurité sociale, sous
+réserve du 10° de l'article L. 221-1. Le centre assure également ce rôle à
+l'égard des institutions des territoires et collectivités territoriales
+françaises ayant une autonomie en matière de sécurité sociale.
 
 Les missions du centre sont définies par décret en Conseil d'Etat.
 

@@ -25,11 +25,24 @@ des modalités précisées par arrêté du ministre chargé de la sécurité soc
 Ces règles prévoient l'exclusion totale ou partielle de la prise en charge de la
 majoration de participation des assurés et de leurs ayants droit visée à
 l'article L. 162-5-3 et des actes et prestations pour lesquels le patient n'a
-pas accordé l'autorisation visée à l'article L. 161-36-2. Elles prévoient
-également l'exclusion totale ou partielle de la prise en charge des dépassements
-d'honoraires sur le tarif des actes et consultations visés au 18° de l'article
-L. 162-5.
+pas accordé l'autorisation mentionnée à l'article L. 1111-15 du code de la santé
+publique. Elles prévoient également l'exclusion totale ou partielle de la prise
+en charge des dépassements d'honoraires sur le tarif des actes et consultations
+visés au 18° de l'article L. 162-5.
 
-Elles prévoient également la prise en charge totale ou partielle des prestations
-liées à la prévention, aux consultations du médecin traitant mentionné à
-l'article L. 162-5-3 et aux prescriptions de celui-ci.
+Elles prévoient, en outre, la prise en charge totale ou partielle de tout ou
+partie de la participation de l'assuré aux tarifs servant de base au calcul des
+prestations de l'assurance maladie prévue au I de l'article L. 322-2 pour les
+prestations couvertes par les régimes obligatoires, y compris les prestations
+liées à la prévention, et du forfait journalier prévu à l'article L. 174-4.
+
+Elles fixent les conditions dans lesquelles peuvent être pris en charge les
+dépassements tarifaires sur les consultations et les actes des médecins ainsi
+que les frais exposés, en sus des tarifs de responsabilité, pour les soins
+dentaires prothétiques ou d'orthopédie dentofaciale et pour certains dispositifs
+médicaux à usage individuel admis au remboursement, notamment les dispositifs
+d'optique médicale. Ces conditions peuvent comprendre des plafonds de prise en
+charge distincts par catégorie de prestations notamment ainsi que, s'agissant
+des soins dentaires prothétiques ou d'orthopédie dentofaciale et de certains
+dispositifs médicaux à usage individuel, des niveaux minimaux de prise en
+charge.
