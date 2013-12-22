@@ -14,16 +14,16 @@ b) Le produit des placements financiers des ressources susmentionnées.
 
 2° En charges :
 
-a) Les versements effectués au profit des fédérations départementales des
-chasseurs et des fonds départementaux d'indemnisation des dégâts de sangliers
-dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle pour la
-prévention et l'indemnisation des dégâts de grand gibier ;
+a) Les versements effectués au profit des fédérations départementales ou
+interdépartementales des chasseurs et des fonds départementaux d'indemnisation
+des dégâts de sangliers dans les départements du Bas-Rhin, du Haut-Rhin et de la
+Moselle pour la prévention et l'indemnisation des dégâts de grand gibier ;
 
 b) Le financement des actions de prévention des dégâts de grand gibier menées
 par la fédération nationale ;
 
-c) Le financement des charges d'expertise et de formation des experts et des
-estimateurs ;
+c) Le financement de tout ou partie des charges d'expertise et de formation des
+experts et des estimateurs ;
 
 d) Le financement des charges de personnels affectés à la prévention et à
 l'indemnisation des dégâts de grand gibier ;

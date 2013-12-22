@@ -2,9 +2,9 @@ Article R426-15
 ----
 La commission départementale de la chasse et de la faune sauvage dans sa
 formation spécialisée pour l'indemnisation des dégâts de gibier aux cultures et
-aux récoltes agricoles fixe, dans un délai de deux mois, le montant de
-l'indemnité, au vu du dossier d'expertise et, le cas échéant, des observations
-produites par le réclamant et la fédération départementale.
+aux récoltes agricoles fixe, dans un délai de quatre-vingt-dix jours, le montant
+de l'indemnité, au vu du dossier d'expertise et, le cas échéant, des
+observations produites par le réclamant et la fédération départementale.
 
 Le président de la commission départementale de la chasse et de la faune sauvage
 dans sa formation spécialisée pour l'indemnisation des dégâts de gibier aux
@@ -20,7 +20,10 @@ directement ou indirectement, un intérêt personnel.
 La décision de la commission départementale de la chasse et de la faune sauvage
 dans sa formation spécialisée pour l'indemnisation des dégâts de gibier aux
 cultures et aux récoltes agricoles est notifiée par son secrétariat au réclamant
-et au président de la fédération départementale des chasseurs par lettre
-recommandée avec accusé de réception mentionnant le délai de recours ouvert
-contre cette décision devant la Commission nationale d'indemnisation des dégâts
-de gibier.
+et au président de la fédération départementale ou interdépartementale des
+chasseurs par courrier recommandé avec demande d'avis de réception mentionnant
+le délai de recours ouvert contre cette décision devant la Commission nationale
+d'indemnisation des dégâts de gibier. Le délai de recours est fixé à trente
+jours à compter de la date de notification. En l'absence de recours au-delà de
+ce délai, la décision est considérée comme acceptée par l'exploitant et la
+fédération. Celle-ci procède alors à son exécution.

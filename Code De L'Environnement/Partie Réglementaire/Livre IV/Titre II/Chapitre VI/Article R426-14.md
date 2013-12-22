@@ -1,25 +1,34 @@
 Article R426-14
 ----
-Dans les quinze jours suivant la notification par le secrétariat de la
-commission départementale de la chasse et de la faune sauvage dans sa formation
-spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux
-récoltes agricoles au président de la fédération départementale des chasseurs du
-barème départemental d'indemnisation pour la denrée considérée, le président de
-la fédération départementale des chasseurs notifie au réclamant le montant de
-l'indemnité qu'il propose, calculé compte tenu du barème mentionné à l'article
-R. 426-8 et des conclusions de l'expertise, en lui demandant si cette
-proposition recueille son accord.
+En cas de contestation de l'expertise par l'exploitant, le dossier chiffré est
+transmis par la fédération départementale ou interdépartementale des chasseurs à
+la commission départementale de la chasse et de la faune sauvage dans sa
+formation spécialisée pour l'indemnisation des dégâts de gibier aux cultures et
+aux récoltes agricoles.
 
-En l'absence de réponse du réclamant dans les dix jours de l'envoi de sa
-proposition d'indemnisation, le président de la fédération départementale
-réitère celle-ci par lettre recommandée avec accusé de réception, mentionnant
-qu'en l'absence de réponse de la part du demandeur dans le délai d'un mois à
-compter de la réception de la proposition, celle-ci sera considérée comme
-acceptée.
+Dès lors que le réclamant accepte les conclusions de l'expertise et qu'il n'est
+pas appliqué de réduction dans les cas prévus au troisième alinéa de l'article
+L. 426-3, le dossier, sous réserve de son éligibilité, est réglé par la
+fédération au réclamant dans les quinze jours qui suivent la notification des
+barèmes par le secrétariat de la commission départementale chargée de les fixer.
+Le règlement est accompagné d'un courrier simple retraçant précisément les
+modalités de calcul de l'indemnité.
 
-L'indemnité est mise en paiement dès réception de l'accord écrit du demandeur de
-l'indemnisation ou à l'expiration du délai mentionné au précédent alinéa.
+En cas de contestation par l'exploitant des sommes versées, ce dernier saisit
+dans un délai de trente jours par courrier recommandé avec demande d'avis de
+réception la commission départementale de la chasse et de la faune sauvage dans
+sa formation spécialisée pour l'indemnisation des dégâts de gibier aux cultures
+et aux récoltes agricoles, avec copie à la fédération.
 
-En cas de refus par le réclamant du montant de l'indemnité proposée, le
-président de la fédération départementale des chasseurs transmet le dossier à la
-commission départementale d'indemnisation.
+En cas de réduction de l'indemnisation au-delà de l'abattement de 2 % défini au
+deuxième alinéa de l'article L. 426-3, tel que mentionné au cinquième alinéa de
+l'article R. 426-11, ou de déduction des frais d'expertise dans les cas prévus à
+l'article L. 426-3, l'accord préalable du réclamant est sollicité par courrier
+recommandé avec demande d'avis de réception. Le réclamant dispose d'un délai de
+trente jours pour faire connaître sa décision. A défaut de réponse de sa part
+dans ce délai, il est réputé accepter la proposition et la fédération procède
+alors au paiement de l'indemnité proposée. En cas de refus, le dossier est
+transmis par la fédération départementale ou interdépartementale des chasseurs à
+la commission départementale de la chasse et de la faune sauvage dans sa
+formation spécialisée pour l'indemnisation des dégâts de gibier aux cultures et
+aux récoltes agricoles.

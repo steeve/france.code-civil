@@ -4,7 +4,8 @@ Tout réclamant qui, ayant demandé une indemnisation en application de l'articl
 L. 426-1, obtient des responsables du dommage une indemnité à la suite, soit
 d'une action fondée sur l'article 1382 du code civil, soit d'un accord amiable,
 est tenu de déclarer le montant de cette indemnité, dans les huit jours de sa
-perception, à la fédération départementale des chasseurs.
+perception, à la fédération départementale ou interdépartementale des chasseurs
+.
 
 Si la fédération a procédé au règlement de l'indemnité, celle-ci doit lui être
 reversée, à concurrence des sommes reçues du responsable du dommage.

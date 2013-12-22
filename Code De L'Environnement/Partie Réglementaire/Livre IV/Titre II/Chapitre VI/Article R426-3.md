@@ -1,7 +1,7 @@
 Article R426-3
 ----
 I.-La Commission nationale d'indemnisation des dégâts de gibier se compose de
-onze membres :
+quinze membres :
 
 1° Un représentant du ministre chargé de la chasse, président ;
 
@@ -18,11 +18,13 @@ représentant ;
 
 6° Le président de la Fédération nationale des chasseurs, ou son représentant ;
 
-7° Trois présidents des fédérations départementales de chasseurs nommés sur
-proposition du président de la Fédération nationale des chasseurs ;
+7° Cinq présidents des fédérations départementales ou interdépartementales des
+chasseurs nommés sur proposition du président de la Fédération nationale des
+chasseurs ;
 
-8° Deux représentants des organisations nationales d'exploitants agricoles les
-plus représentatives, nommés sur proposition du ministre de l'agriculture.
+8° Quatre représentants des organisations nationales d'exploitants agricoles
+habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990,
+nommés sur proposition du ministre de l'agriculture.
 
 II.-Les membres mentionnés aux 7° et 8° du I sont nommés par arrêté du ministre
 chargé de la chasse, pour cinq ans. Au cas où l'un de ces membres vient à cesser
