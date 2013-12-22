@@ -92,12 +92,16 @@ versement ;
 valeurs ou de la clôture d'un plan d'épargne en actions défini à l'article 163
 quinquies D du code général des impôts dans les conditions ci-après :
 
-a) En cas de retrait ou de rachat entraînant la clôture du plan, le gain net est
-déterminé par différence entre, d'une part, la valeur liquidative du plan ou la
-valeur de rachat pour les contrats de capitalisation à la date du retrait ou du
-rachat et, d'autre part, la valeur liquidative ou de rachat au 1er janvier 1997
-majorée des versements effectués depuis cette date et diminuée du montant des
-sommes déjà retenues à ce titre lors des précédents retraits ou rachats ;
+a) En cas de retrait ou de rachat entraînant la clôture du plan ou en cas de
+clôture du plan en application du II de l'article L. 312-20 du code monétaire et
+financier, dans sa rédaction résultant de la loi n° 2014-617 du 13 juin 2014
+relative aux comptes bancaires inactifs et aux contrats d'assurance vie en
+déshérence, le gain net est déterminé par différence entre, d'une part, la
+valeur liquidative du plan ou la valeur de rachat pour les contrats de
+capitalisation à la date du retrait ou du rachat et, d'autre part, la valeur
+liquidative ou de rachat au 1er janvier 1997 majorée des versements effectués
+depuis cette date et diminuée du montant des sommes déjà retenues à ce titre
+lors des précédents retraits ou rachats ;
 
 b) En cas de retrait ou de rachat n'entraînant pas la clôture du plan, le gain
 net afférent à chaque retrait ou rachat est déterminé par différence entre,
