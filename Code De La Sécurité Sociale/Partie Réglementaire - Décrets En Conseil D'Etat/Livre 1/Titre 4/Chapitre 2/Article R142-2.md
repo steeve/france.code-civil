@@ -36,8 +36,7 @@ a. deux administrateurs choisis parmi les représentants des employeurs ;
 
 b. deux administrateurs choisis parmi les représentants des salariés.
 
-Les petits exploitants et les artisans ruraux n'employant pas habituellement de
-la main-d'oeuvre peuvent être désignés à l'un ou l'autre titre.
+Les petits exploitants peuvent être désignés à l'un ou l'autre titre.
 
 La commission peut valablement statuer dans les cas mentionnés aux 1° et 3° si
 l'un au moins des représentants de chaque fraction de la commission est présent

@@ -7,8 +7,9 @@ modalités définies à l'article R. 6224-1 :
 première section du registre des entreprises ;
 
 2° A la chambre d'agriculture, s'il emploie un apprenti mentionné au 7° de
-l'article L. 722-20 du code rural et de la pêche maritime, sauf si cet employeur
-relève du 6° de l'article L. 722-1 du même code ;
+l'article L. 722-20 du code rural et de la pêche maritime, sauf pour une
+entreprise artisanale rurale n'employant pas plus de deux salariés de façon
+permanente ;
 
 3° A la chambre de commerce et d'industrie territoriale, dans les autres cas à
 l'exception de ceux où l'employeur relève du secteur public au sens du chapitre

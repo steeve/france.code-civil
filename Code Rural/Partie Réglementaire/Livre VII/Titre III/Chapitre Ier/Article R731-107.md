@@ -1,16 +1,11 @@
 Article R731-107
 ----
-Les organismes assureurs doivent, par l'intermédiaire des groupements mentionnés
-au 3° de l'article R. 731-105, notifier à chaque caisse de mutualité sociale
-agricole, pour chaque mois civil et dans les vingt jours au plus suivant
-l'expiration de celui-ci :
-
-1° Le montant des cotisations exigibles, des cotisations encaissées, des
-prestations des assurances maladie et maternité payées ou rejetées au nom de
-chacun des assurés relevant d'une exploitation ou entreprise dont le siège est
-situé dans la circonscription de ladite caisse ;
-
-2° Le montant des arrérages de pension d'invalidité payés à chaque titulaire de
-pension résidant dans la même circonscription ;
-
-3° Le montant global des prélèvements de gestion correspondants.
+Le groupement mentionné à l'article L. 731-31 notifie à la caisse centrale de la
+Mutualité sociale agricole, pour chaque mois civil et dans les vingt jours au
+plus suivant l'expiration de celui-ci, le montant des cotisations exigibles, des
+cotisations encaissées, des prestations des assurances maladie, maternité et
+invalidité payées ou rejetées. Une convention conclue avec la caisse centrale de
+la Mutualité sociale agricole précise les modalités de transmission par le
+groupement de ces informations ainsi que des autres informations financières et
+comptables nécessaires à l'élaboration des comptes annuels et infra annuels du
+régime.
