@@ -8,7 +8,7 @@ application de l'article L. 143-6 ;
 Par les rapports établis et les avis formulés en application des dispositions
 prévues aux 2°, 3°, 4°, 5° et 6° de l'article 58 de la loi organique n° 2001-692
 du 1er août 2001 et aux articles LO 132-2-1, LO 132-3, L. 132-4 du présent code
-;
+et à l' article L. 6145-16 du code de la santé publique ;
 
 Par les rapports particuliers établis en application du deuxième alinéa de
 l'article L. 143-3 ;

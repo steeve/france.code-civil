@@ -7,8 +7,8 @@ résultat. Lorsque les comptes sont certifiés en application de l'article L.
 certificateur.
 
 Les délibérations relatives au compte financier et à l'affectation des résultats
-interviennent au plus tard le 30 avril de l'année suivant l'exercice auquel
-elles se rapportent.
+interviennent au plus tard le 30 juin de l'année suivant l'exercice auquel elles
+se rapportent.
 
 Si le conseil de surveillance n'a pas pris la délibération au plus tard à cette
 date, le directeur général de l'agence régionale de santé approuve les comptes

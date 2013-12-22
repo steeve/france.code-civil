@@ -21,5 +21,15 @@ le concerne, aux directeurs des caisses nationales du régime général. Ces
 directeurs adressent copie de leurs réponses au directeur chargé de la sécurité
 sociale.
 
-III.-Les projets éventuellement modifiés sont ensuite transmis au comité du
+III. - La procédure prévue au I s'applique au projet de rapport établi en vue de
+la certification prévue par l'article L. 6145-16 du code de la santé publique,
+présentant le compte rendu des vérifications que la cour a opérées en vue de
+certifier la régularité, la sincérité et la fidélité des comptes des
+établissements publics de santé dont elle assure la certification. Le projet est
+adressé aux directeurs compétents des ministères chargés de la santé et du
+budget, aux directeurs généraux des agences régionales de santé compétentes,
+ainsi que, chacun pour ce qui le concerne, aux directeurs et comptables publics
+des établissements publics de santé concernés.
+
+IV.-Les projets éventuellement modifiés sont ensuite transmis au comité du
 rapport public et des programmes conformément à l'article R. 143-5.
