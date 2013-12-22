@@ -1,37 +1,15 @@
 Article D723-229
 ----
-Les caisses de mutualité sociale agricole sont tenues de constituer, par
-affectation des excédents de gestion enregistrés dans leurs comptes de résultats
-au titre de la gestion des régimes agricoles de protection sociale, les réserves
-suivantes qui sont seules autorisées :
+Les frais de gestion administrative, d'action sanitaire et sociale et de
+contrôle médical des organismes de mutualité sociale agricole, diminués, le cas
+échéant, des recettes annexes liées à ces activités, sont financés à due
+concurrence par des dotations de la Caisse centrale de la mutualité sociale
+agricole dans la limite des autorisations budgétaires fixées par la convention
+d'objectifs et de gestion dans les conditions fixées par un règlement adopté par
+le conseil central d'administration de la Mutualité sociale agricole et approuvé
+par décision du ministre chargé de l'agriculture.
 
-1° Une réserve d'immobilisations, d'un montant égal au total des immobilisations
-corporelles et incorporelles, des prêts et des participations, déduction faite
-des avances et subventions d'équipement reçues, des provisions et des emprunts à
-long et moyen terme figurant au bilan ainsi que du montant des financements
-provenant, le cas échéant, d'une autre réserve ;
-
-2° Une réserve générale composée d'une " part technique " dont le montant est
-égal au total des comptes cotisants nets et des comptes de créances à l'égard
-des prestataires nets majoré des provisions techniques et d'une " part de
-gestion " dont le montant est égal au 1 / 6 des dépenses de fonctionnement
-réalisées par l'organisme au cours du dernier exercice ;
-
-3° Une réserve de solidarité.
-
-En outre, les caisses qui pratiquent l'assurance complémentaire prévue à
-l'article L. 727-1 doivent constituer une réserve d'assurance complémentaire
-d'un montant égal, au minimum, au sixième et, au maximum, à la moitié des
-prestations versées au cours du dernier exercice au titre de l'assurance
-complémentaire ; les caisses qui gèrent directement un service de santé au
-travail doivent constituer une réserve de santé au travail d'un montant égal, au
-minimum, au sixième et, au maximum, à la moitié des dépenses faites au cours du
-dernier exercice au titre de la santé au travail.
-
-A titre exceptionnel, des dérogations aux prescriptions ci-dessus peuvent être
-autorisées par le ministre chargé de l'agriculture et le ministre chargé de la
-sécurité sociale.
-
-Les caisses qui gèrent un régime d'accidents sont tenues de constituer, en plus
-des réserves prévues ci-dessus, les réserves prescrites par les dispositions
-législatives et réglementaires concernant ce régime.
+Ces dépenses sont affectées aux différentes branches des régimes de protection
+sociale des salariés et des non-salariés des professions agricoles selon des
+modalités fixées par arrêté conjoint des ministres chargés de l'agriculture, de
+la sécurité sociale et du budget.

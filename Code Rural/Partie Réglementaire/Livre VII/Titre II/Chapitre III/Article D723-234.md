@@ -1,7 +1,8 @@
 Article D723-234
 ----
-Ces fonds peuvent aussi être utilisés, dans la limite des crédits inscrits au
-budget, pour l'octroi de prêts entrant dans les catégories suivantes :
+Les caisses de mutualité sociale agricole peuvent, dans la limite des crédits
+inscrits à leur budget, octroyer des prêts entrant dans les catégories suivantes
+:
 
 1° Prêts destinés à l'amélioration de l'habitat prévue à l'article L. 542-9 du
 code de la sécurité sociale ;

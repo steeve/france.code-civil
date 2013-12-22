@@ -1,10 +1,9 @@
 Article D731-79
 ----
 Un abattement est appliqué à l'assiette des cotisations de prestations
-familiales dues par les artisans ruraux employeurs de main-d'œuvre salariée et
-par les exploitants agricoles, lorsque ces personnes n'exercent qu'une activité
-réduite en raison d'une invalidité durant plus de six mois et entraînant une
-incapacité de travail d'au moins 66 %.
+familiales dues par les exploitants agricoles lorsqu'ils n'exercent qu'une
+activité réduite en raison d'une invalidité durant plus de six mois et
+entraînant une incapacité de travail d'au moins 66 %.
 
 Le montant de cet abattement est constaté chaque année par arrêté des ministres
 chargés de l'agriculture, de la sécurité sociale et du budget. Il est revalorisé

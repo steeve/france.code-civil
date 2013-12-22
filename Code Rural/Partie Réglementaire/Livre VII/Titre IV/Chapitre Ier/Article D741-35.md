@@ -1,105 +1,57 @@
 Article D741-35
 ----
-Pour les salariés des professions agricoles mentionnés à l'article L. 722-20 :
+I.-Pour les salariés des professions agricoles mentionnés à l'article L. 722-20
+et pour les personnes mentionnées au deuxième alinéa de l'article L. 131-9 du
+code de la sécurité sociale, le taux de la cotisation affectée aux risques
+maladie, maternité, invalidité et décès est fixé selon les dispositions prévues
+à l'article D. 242-3 du code de la sécurité sociale, sous réserve des
+dispositions suivantes :
 
-1° Le taux de la cotisation affectée à la couverture des prestations légales de
-l'assurance maladie, maternité, invalidité et décès du régime de l'assurance
-sociale agricole est fixé à 11,78 %, soit 11,03 % à la charge de l'employeur et
-0,75 % à la charge du salarié, sur les rémunérations ou gains de l'intéressé.
-Toutefois, pour les personnes mentionnées au deuxième alinéa de l'article L.
-131-9 du code de la sécurité sociale, le taux de la cotisation est fixé à 16,53
-%, soit 11,03 % à la charge de l'employeur et 5,50 % à la charge du salarié ;
+1° Pour les assurés mentionnés à l'article 19 de la loi n° 49-1111 du 2 août
+1949 majorant les indemnités dues au titre des accidents du travail, le taux de
+cette cotisation est fixé à 18,60 % du montant de la rente perçue par l'assuré ;
 
-2° Le taux de la cotisation affectée à la couverture des prestations légales de
-l'assurance vieillesse est fixé comme indiqué dans le tableau suivant :
+2° Pour les personnels statutaires des sociétés d'intérêt collectif agricole
+d'électricité, le taux de la cotisation à la charge de l'employeur sur les
+rémunérations et gains du salarié, affectée à la couverture des prestations de
+l'assurance maladie, maternité, invalidité et décès du régime des salariés
+agricoles, est fixé au II de l'article 9 du décret n° 91-613 du 28 juin 1991
+fixant les taux des cotisations de divers régimes spéciaux de sécurité sociale ;
 
+3° Pour les fonctionnaires détachés dans des organismes agricoles et pour les
+anciens mineurs reconvertis dans un emploi salarié agricole et maintenus au
+régime spécial de la sécurité sociale dans les mines pour le risque vieillesse
+et invalidité (pensions), le taux de la cotisation, à la charge de l'employeur
+sur les rémunérations et gains du salarié, affectée à la couverture des dépenses
+de l'assurance maladie, maternité, invalidité et décès du régime des salariés
+agricoles, est fixé au 2° de l'article 1er du décret n° 67-804 du 20 septembre
+1967 portant fixation des taux de cotisations d'assurances sociales dues au
+titre de l'emploi des salariés placés sous le régime général pour une partie des
+risques.
 
-RÉMUNÉRATIONS VERSÉES
+Pour les personnes mentionnées au deuxième alinéa de l'article L. 131-9 du code
+de la sécurité sociale qui relèvent d'un régime spécial de sécurité sociale, le
+taux de la cotisation d'assurance maladie, maternité, invalidité et décès à la
+charge de ces personnes est fixé selon les modalités prévues à l'article D.
+711-4 du même code.
 
-SUR LA PART DE LA RÉMUNÉRATION
+II.-Pour les salariés des professions agricoles mentionnés à l'article L.
+722-20, le taux de la cotisation affectée à la couverture des prestations
+légales de l'assurance vieillesse est fixé selon les dispositions prévues à
+l'article D. 242-4 du code de la sécurité sociale, sous réserve des dispositions
+suivantes :
 
-dans la limite du plafond
+1° Pour les assurés mentionnés à l'article 19 de la loi n° 49-1111 du 2 août
+1949 majorant les indemnités dues au titre des accidents du travail, le taux de
+cette cotisation est fixé à 15,80 % du montant de la rente perçue par l'assuré
+dans la limite du plafond prévu à l'article L. 241-3 du code de la sécurité
+sociale ;
 
-mentionné au a du II
-
-de l'article L. 741-9
-
-
-SUR LA TOTALITÉ
-
-des rémunérations
-
-
-Employeur
-
-Salarié
-
-
-Employeur
-
-Salarié
-
-Jusqu'au 31 octobre 2012
-
-7,31 %
-
-6,65 %
-
-1,41 %
-
-0,1 %
-
-
-Du 1er novembre 2012 au 31 décembre 2013
-
-7,41 %
-
-6,75 %
-
-1,41 %
-
-0,1 %
-
-
-Du 1er janvier au 31 décembre 2014
-
-7,46 %
-
-6,80 %
-
-1,41 %
-
-0,1 %
-
-
-Du 1er janvier au 31 décembre 2015
-
-7,51 %
-
-6,85 %
-
-1,41 %
-
-0,1 %
-
-
-A compter du 1er janvier 2016
-
-7,56 %
-
-6,90 %
-
-1,41 %
-
-0,1 %
-
-Pour les assurés mentionnés à l'article 19 de la loi n° 49-1111 du 2 août 1949
-majorant les indemnités dues au titre des accidents du travail :
-
-1° Le taux de la cotisation affectée à la couverture des prestations légales de
-l'assurance maladie, maternité, invalidité et décès est fixé à 16,83 % sur le
-montant de la rente perçue par l'assuré ;
-
-2° Le taux de la cotisation affectée à la couverture des prestations légales
-d'assurance vieillesse est fixé à 14,81 % du montant de la rente, dans la limite
-du plafond mentionné au a) du II de l'article L. 741-9.
+2° Pour les anciens mineurs reconvertis dans un emploi salarié agricole et
+maintenus au régime spécial de la sécurité sociale dans les mines pour les
+risques maladie, maternité, décès et soins d'invalidité, les taux des
+cotisations, à la charge de l'employeur sur les rémunérations et gains du
+salarié, affectées à la couverture des dépenses de l'assurance vieillesse et
+invalidité (pensions) du régime des salariés agricoles, sont respectivement
+fixés à l'article 1er bis et au 4 de l'article 1er du décret n° 67-804 du 20
+septembre 1967 susmentionné.

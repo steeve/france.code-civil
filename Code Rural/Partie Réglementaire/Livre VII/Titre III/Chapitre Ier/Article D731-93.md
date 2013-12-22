@@ -14,11 +14,10 @@ cotisations déterminées par l'article D. 731-92. Cette proportion est d'un tie
 pour les aides familiaux de moins de dix-huit ans.
 
 Toutefois, en application du deuxième alinéa de l'article L. 731-36, le montant
-total de la cotisation due au titre du premier ou du deuxième alinéa du présent
-article et de la cotisation prévue aux deuxième et quatrième alinéas de
-l'article D. 731-94 ne peut excéder, pour chacune de ces personnes, le montant
-d'un plafond dont le montant est constaté chaque année par arrêté des ministres
-chargés de l'agriculture, de la sécurité sociale et du budget.
+de la cotisation due au titre du premier ou du deuxième alinéa du présent
+article ne peut excéder, pour chacune de ces personnes, le montant d'un plafond
+dont le montant est constaté chaque année par arrêté des ministres chargés de
+l'agriculture, de la sécurité sociale et du budget.
 
 Le montant de ce plafond est revalorisé annuellement en fonction de l'évolution
 du SMIC à partir du montant du plafond applicable au cours de l'année
