@@ -12,3 +12,7 @@ En cas d'absence ou d'empêchement d'un assesseur, le vice-président du Conseil
 d'Etat peut désigner par arrêté, après avis du président de la section du
 contentieux et des présidents adjoints, un conseiller d'Etat chargé des
 fonctions d'assesseur pour la durée de l'absence ou de l'empêchement.
+
+Au vu de la proposition du président de la sous-section d'affectation, le
+président de la section du contentieux peut désigner des assesseurs à l'effet de
+leur permettre de présider cette sous-section siégeant en formation de jugement.

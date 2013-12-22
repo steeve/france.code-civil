@@ -17,14 +17,24 @@ sous-section peut également décider par ordonnance de ne pas admettre :
 
 1° Les pourvois relevant d'une série qui, sans appeler de nouvelle appréciation
 ou qualification de faits, présentent à juger en droit des questions identiques
-à celles que le Conseil d'Etat statuant au contentieux a déjà tranchées ensemble
-par une même décision ou examinées ensemble par un même avis rendu en
-application de l'article L. 113-1 ;
+à celles que le Conseil d'Etat statuant au contentieux a déjà tranchées par une
+décision ou examinées par un avis rendu en application de l'article L. 113-1 ;
 
 2° Les pourvois dirigés contre les ordonnances prises en application de
-l'article R. 222-1 ;
+l'article R. 222-1 ainsi que celles prises en vertu de l'article R. 351-28 du
+code de l'action sociale et des familles, de l'article R. 242-97 du code rural
+et de la pêche maritime, des articles R. 4126-5 et R. 4234-29 du code de la
+santé publique et des articles L. 145-9, L. 145-9-2 et R. 145-20 du code de la
+sécurité sociale ;
 
-3° Les pourvois dirigés contre les ordonnances prises en application des
-articles L. 521-1, L. 521-3, L. 521-4, L. 522-3, R. 541-1 ainsi que contre les
-ordonnances rejetant les demandes présentées sur le fondement des dispositions
-du chapitre Ier du titre V du livre V.
+3° Les pourvois dirigés contre les ordonnances prises en application du livre V
+;
+
+4° Les pourvois qui ne soulèvent que des moyens irrecevables, inopérants ou
+dépourvus des précisions permettant d'en apprécier le bien-fondé, des moyens de
+régularité dénués de fondement et des moyens revenant à contester l'appréciation
+des faits à laquelle se sont souverainement livrés les juges du fond.
+
+Le président de la section du contentieux et les présidents adjoints de cette
+section peuvent statuer par ordonnance dans les cas prévus au troisième alinéa
+du présent article.
