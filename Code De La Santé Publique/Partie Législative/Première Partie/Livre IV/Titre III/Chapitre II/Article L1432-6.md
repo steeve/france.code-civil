@@ -14,10 +14,7 @@ handicapées ;
 4° Des ressources propres, dons et legs ;
 
 5° Sur une base volontaire, des versements de collectivités territoriales ou
-d'autres établissements publics ;
-
-6° Des crédits du fonds pour la modernisation des établissements de santé
-publics et privés dans des conditions définies par décret.
+d'autres établissements publics.
 
 Les contributions prévues aux 2° et 3° sont déterminées par la loi de
 financement de la sécurité sociale.
