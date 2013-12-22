@@ -16,7 +16,7 @@ contrats.
 
 Il est égal à 100 euros par personne âgée de moins de seize ans, à 200 euros par
 personne âgée de seize à quarante-neuf ans, à 350 euros par personne âgée de
-cinquante à cinquante-neuf ans et à 500 euros par personne âgée de soixante ans
+cinquante à cinquante-neuf ans et à 550 euros par personne âgée de soixante ans
 et plus. L'âge est apprécié au 1er janvier de l'année.
 
 Les contrats d'assurance complémentaire souscrits par une même personne
