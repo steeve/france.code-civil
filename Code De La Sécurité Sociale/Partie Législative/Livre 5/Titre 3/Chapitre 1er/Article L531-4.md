@@ -13,11 +13,16 @@ Son montant est fonction de la quotité de l'activité exercée ou de la formati
 suivie. Les quotités minimale et maximale de l'activité ou de la formation sont
 définies par décret.
 
+Le complément à taux partiel est attribué au travailleur non salarié en fonction
+de la quotité d'activité déclarée sur l'honneur, dès lors que cette activité ne
+lui procure pas une rémunération mensuelle nette ou un revenu professionnel
+excédant des montants définis par décret. Le complément à taux partiel peut
+également être attribué lorsque la rémunération ou le revenu perçus sont
+supérieurs à ces montants, dès lors qu'ils sont proportionnels à la réduction de
+l'activité déclarée.
+
 Les modalités selon lesquelles ce complément à taux partiel est attribué aux
-personnes mentionnées aux articles L. 751-1 et L. 772-1 du code du travail, aux
-1°, 4° et 5° de l'article L. 615-1 et à l'article L. 722-1 du présent code, aux
-articles L. 722-4, L. 722-9, L. 722-22 et L. 722-28 du code rural et de la pêche
-maritime ainsi qu'aux élus locaux sont adaptées par décret.
+élus locaux sont adaptées par décret.
 
 Ce complément à taux partiel est attribué au même taux pendant une durée
 minimale déterminée par décret. Il ne peut y avoir révision de ce taux au cours
@@ -93,7 +98,3 @@ Par exception aux dispositions de l'article L. 552-1, le droit au complément de
 libre choix d'activité prévu à l'alinéa précédent est ouvert le mois de la
 naissance, de l'adoption ou de l'arrivée au foyer de l'enfant adopté ou confié
 en vue d'adoption.
-
-VII. - Le montant du complément de libre choix d'activité est majoré lorsque la
-personne y ouvrant droit ne bénéficie pas de l'allocation de base mentionnée au
-2° de l'article L. 531-1.
