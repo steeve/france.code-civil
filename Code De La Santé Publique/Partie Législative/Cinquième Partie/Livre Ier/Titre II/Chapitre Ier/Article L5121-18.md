@@ -1,20 +1,32 @@
 Article L5121-18
 ----
-Les redevables de la taxe sont tenus d'adresser à l'Agence française de sécurité
-sanitaire des produits de santé, au plus tard le 31 mars de chaque année, une
-déclaration indiquant les médicaments et produits donnant lieu au paiement de la
-taxe. Cette déclaration est établie conformément au modèle fixé par arrêté du
-ministre chargé de la santé. Un Etat non membre de l'Union européenne ou non
-partie à l'accord sur l'Espace économique européen peut effectuer les mêmes
-démarches.
+Les redevables de la contribution prévue au I de l'article L. 245-6 du code de
+la sécurité sociale et de la taxe prévue à l'article 1600-0 O du code général
+des impôts adressent à l'agence mentionnée à l'article L. 5311-1 du présent code
+et au comité économique des produits de santé, au plus tard le 31 mars de chaque
+année, une déclaration fournissant des informations relatives aux ventes
+réalisées au cours de l'année civile précédente pour les médicaments, produits
+de santé, dispositifs médicaux et dispositifs médicaux de diagnostic in vitro
+donnant lieu au paiement de chacune de ces taxes ou contributions, ainsi qu'à
+leur régime de prise en charge ou de remboursement. Les déclarations sont
+établies conformément aux modèles fixés par décision du directeur général de
+l'agence mentionnée au même article L. 5311-1. Les redevables de la taxe prévue
+à l'article 1600-0 P du code général des impôts adressent, au plus tard le 31
+mars de chaque année, à l'agence mentionnée à l'article L. 5311-1 du présent
+code une déclaration établie conformément au modèle fixé par décision du
+directeur de l'agence mentionnée au même article L. 5311-1, fournissant des
+informations relatives aux ventes réalisées au cours de l'année civile
+précédente pour les produits cosmétiques donnant lieu au paiement de la taxe.
 
-En l'absence de déclaration dans le délai fixé ou en cas de déclaration
-inexacte, l'Agence française de sécurité sanitaire des produits de santé peut
-procéder à une taxation d'office qui entraîne l'application d'une pénalité de 10
-% pour retard de déclaration et de 50 % pour défaut ou insuffisance de
-déclaration. La déclaration est accompagnée du versement du montant de la taxe.
-A défaut de versement, la fraction non acquittée de la taxe, éventuellement
-assortie des pénalités applicables, est majorée de 10 %.
+Les ventes des médicaments exclus de l'assiette de la contribution prévue à
+l'article L. 245-6 du code de la sécurité sociale en application du III du même
+article doivent également faire l'objet de la déclaration prévue au premier
+alinéa du présent article par la personne qui assure en France l'exploitation,
+au sens de l'article L. 5124-1 du présent code, de ces médicaments.
 
-La taxe et les pénalités sont recouvrées selon les modalités prévues pour le
-recouvrement des créances des établissements publics administratifs de l'Etat.
+Toute personne qui assure en France l'exploitation, au sens du même article L.
+5124-1, et la vente en France d'un médicament ayant fait l'objet d'une
+autorisation temporaire d'utilisation mentionnée au 1° du I de l'article L.
+5121-12 est également tenue d'adresser à l'agence et au comité la déclaration
+des ventes réalisées pour ce médicament prévue au premier alinéa du présent
+article.

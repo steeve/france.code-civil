@@ -19,12 +19,8 @@ conditions fixées par décret ;
 3° des cotisations et ressources affectées aux prestations familiales des
 personnes salariées et non-salariées des régimes agricoles ;
 
-4° une fraction du produit des contributions sociales mentionnées aux articles
-L. 136-1, L. 136-6, L. 136-7, L. 136-7-1, L. 245-14 et L. 245-15, dans les
-conditions fixées aux articles L. 136-8 et L. 245-16 ; 5° Le produit de la taxe
-mentionnée au 2° bis de l'article 1001 du code général des impôts ; 6° La taxe
-exceptionnelle sur les sommes placées sur la réserve de capitalisation des
-entreprises d'assurance ;
+4° (abrogé) 5° (abrogé) 6° La taxe exceptionnelle sur les sommes placées sur la
+réserve de capitalisation des entreprises d'assurance ;
 
 7° Le prélèvement résultant de l'aménagement des règles d'imposition aux
 prélèvements sociaux de la part en euros des contrats d'assurance vie

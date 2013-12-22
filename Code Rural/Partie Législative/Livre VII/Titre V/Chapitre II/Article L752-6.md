@@ -30,11 +30,11 @@ d'incapacité qui peut être réduit ou augmenté en fonction de la gravité de
 celle-ci. La rente est revalorisée selon les coefficients prévus à l'article L.
 434-17 du code de la sécurité sociale.
 
-Dans le cas où l'incapacité permanente est totale et oblige la victime à avoir
-recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires
-de la vie, cette victime a droit à la prestation complémentaire pour recours à
-tierce personne prévue au troisième alinéa de l'article L. 434-2 du code de la
-sécurité sociale.
+Dans le cas où l'incapacité permanente oblige la victime à avoir recours à
+l'assistance d'une tierce personne pour effectuer les actes ordinaires de la
+vie, cette victime a droit à la prestation complémentaire pour recours à tierce
+personne prévue au troisième alinéa de l'article L. 434-2 du code de la sécurité
+sociale dans les conditions prévues au même alinéa.
 
 En cas d'accidents successifs, le taux ou la somme des taux d'incapacité
 permanente antérieurement reconnue constitue le point de départ de la réduction

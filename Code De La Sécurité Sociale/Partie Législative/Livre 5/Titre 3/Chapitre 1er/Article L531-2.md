@@ -11,10 +11,10 @@ prime est majoré en cas d'adoption.
 
 La date de versement de cette prime est fixée par décret.
 
-Le plafond de ressources varie selon le rang et le nombre d'enfants nés ou à
-naître. Il est majoré lorsque la charge du ou des enfants est assumée soit par
-un couple dont chaque membre dispose d'un revenu professionnel minimal, soit par
-une personne seule.
+Le plafond de ressources varie selon le nombre d'enfants nés ou à naître. Il est
+majoré lorsque la charge du ou des enfants est assumée soit par un couple dont
+chaque membre dispose d'un revenu professionnel minimal, soit par une personne
+seule.
 
 Le montant du plafond et celui de la majoration sont fixés par décret et
 revalorisés par arrêté du ministre chargé de la sécurité sociale. Ils varient

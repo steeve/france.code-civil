@@ -20,9 +20,8 @@ l'application de ces dispositions, l'employeur s'acquitte de ses obligations
 sociales auprès de l'organisme mentionné au I, qui se substitue à l'organisme de
 recouvrement mentionné à l'article L. 133-8 et à l'organisme habilité mentionné
 à l'article L. 133-5-2. Les documents établis par l'organisme mentionné au I,
-notamment le bulletin de salaire ou l'attestation d'emploi à remettre au
-salarié, sont transmis à l'employeur sous forme électronique.
-
+notamment le bulletin de paie ou le document mentionné à l'article L. 133-8 à
+remettre au salarié, sont transmis à l'employeur sous forme électronique.
 Lorsque le salarié est employé pour une durée n'excédant pas un plafond fixé par
 décret et que sa rémunération n'excède pas un montant fixé par ce même décret,
 les cotisations et contributions sociales dues peuvent être payées par avance

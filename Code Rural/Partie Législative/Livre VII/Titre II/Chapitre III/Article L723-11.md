@@ -27,8 +27,8 @@ aux articles L. 723-7, L. 723-8 et L. 723-9 qui, lorsqu'elles ont été approuv�
 par le ministre chargé de l'agriculture, sont applicables de droit dans
 l'ensemble des organismes de Mutualité sociale agricole ;
 
-3° D'assurer la gestion de risques ou de fonds dans les cas prévus par la
-législation ;
+3° D'assurer la gestion de risques, de fonds ou de budgets dans les cas prévus
+par la législation ou la réglementation ;
 
 4° De gérer les opérations de compensation en matière de gestion, d'action
 sanitaire et sociale et de contrôle médical des caisses de mutualité sociale
@@ -56,4 +56,10 @@ d'assumer des missions communes ;
 des prestations afin de détecter les fraudes et les comportements abusifs. Elle
 peut requérir la participation des caisses mentionnées à l'article L. 723-2.
 Elle peut à ce titre utiliser des traitements automatisés des données relatives
-au service des prestations.
+au service des prestations ;
+
+12° D'assurer la gestion commune de la trésorerie des organismes de mutualité
+sociale agricole mentionnés à l'article L. 723-1. L'individualisation de la
+trésorerie des différentes branches des régimes des salariés et des non-salariés
+agricoles est assurée par un suivi permanent en prévision et en réalisation
+comptable, dans des conditions fixées par décret.

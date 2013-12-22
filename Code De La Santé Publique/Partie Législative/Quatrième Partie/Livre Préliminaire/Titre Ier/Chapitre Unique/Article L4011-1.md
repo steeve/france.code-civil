@@ -8,7 +8,7 @@ professionnels de santé peuvent s'engager, à leur initiative, dans une démarc
 de coopération ayant pour objet d'opérer entre eux des transferts d'activités ou
 d'actes de soins ou de réorganiser leurs modes d'intervention auprès du patient.
 Ils interviennent dans les limites de leurs connaissances et de leur expérience
-ainsi que dans le cadre des protocoles définis aux articles L. 4011-2 et L.
+ainsi que dans le cadre des protocoles définis aux articles L. 4011-2 à L.
 4011-3.
 
 Le patient est informé, par les professionnels de santé, de cet engagement dans

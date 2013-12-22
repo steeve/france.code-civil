@@ -5,8 +5,8 @@ sur une obligation d'un montant minimal en vue de l'exécution d'un travail, de
 la fourniture d'une prestation de services ou de l'accomplissement d'un acte de
 commerce, et périodiquement jusqu'à la fin de l'exécution du contrat, que son
 cocontractant est à jour de ses obligations de déclaration et de paiement auprès
-des organismes de recouvrement mentionnés aux articles L. 213-1 et L. 752-1 du
-présent code et L. 723-3 du code rural et de la pêche maritime.
+des organismes de recouvrement mentionnés aux articles L. 213-1 , L. 611-8 et L.
+752-1 du présent code et L. 723-3 du code rural et de la pêche maritime.
 
 Cette attestation est délivrée dès lors que la personne acquitte les cotisations
 et contributions dues à leur date d'exigibilité et, le cas échéant, qu'elle a

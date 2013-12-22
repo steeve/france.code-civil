@@ -2,9 +2,8 @@ Article L139-1
 ----
 L'Agence centrale des organismes de sécurité sociale centralise la part du
 produit des contributions attribuée aux régimes obligatoires d'assurance maladie
-en application du IV et du V de l'article L. 136-8 et des articles L. 137-20, L.
-137-21 et L. 137-22 et la répartit entre les régimes obligatoires d'assurance
-maladie.
+en application du IV et du V de l'article L. 136-8 et la répartit entre les
+régimes obligatoires d'assurance maladie.
 
 Chaque régime d'assurance maladie, à l'exception de la Caisse nationale de
 l'assurance maladie des travailleurs salariés, reçoit un montant égal à celui

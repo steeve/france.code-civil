@@ -56,15 +56,19 @@ douze mois ;
 réalisé en France métropolitaine et dans les départements d'outre-mer au titre
 des spécialités génériques définies à l'article L. 5121-1 du code de la santé
 publique à l'exception de celles qui sont remboursées sur la base d'un tarif
-décidé en application de l'article L. 162-16 du présent code, bénéficiant d'une
-autorisation de mise sur le marché et inscrites sur la liste mentionnée au
-premier alinéa de l'article L. 162-17 du présent code ou sur la liste mentionnée
-à l'article L. 5123-2 du code de la santé publique ;
+décidé en application de l'article L. 162-16 du présent code ou celles pour
+lesquelles, en l'absence de tarif forfaitaire de responsabilité, le prix de
+vente au public des spécialités de référence définies au a du 5° de l'article L.
+5121-1 du code de la santé publique est identique à celui des autres spécialités
+appartenant au même groupe générique, bénéficiant d'une autorisation de mise sur
+le marché et inscrites sur la liste mentionnée au premier alinéa de l'article L.
+162-17 du présent code ou sur la liste mentionnée à l'article L. 5123-2 du code
+de la santé publique ;
 
 3° A un abattement d'un montant égal à 30 % du chiffre d'affaires hors taxes
 réalisé en France métropolitaine et dans les départements d'outre-mer au titre
 des médicaments orphelins désignés comme tels en application des dispositions du
-règlement (CE) n° 141 / 2000 du Parlement européen et du Conseil, du 16 décembre
+règlement (CE) n° 141/2000 du Parlement européen et du Conseil, du 16 décembre
 1999, concernant les médicaments orphelins, bénéficiant d'une autorisation de
 mise sur le marché et inscrits sur la liste mentionnée au premier alinéa de
 l'article L. 162-17 du présent code ou sur la liste mentionnée à l'article L.
@@ -98,21 +102,21 @@ TAUX de la contribution par tranche (en pourcentage)
 
 R &lt; 6,5 %
 
-(L. n° 2004-810, 13 août 2004, art. 73, II, 2 o ) (1) 19
+(L. n° 2004-810,13 août 2004, art. 73, II, 2 o ) (1) 19
 
 6,5 % ≤ R &lt; 12 %
 
-(L. n° 2004-810, 13 août 2004, art. 73, II, 2 o ) (1) 29
+(L. n° 2004-810,13 août 2004, art. 73, II, 2 o ) (1) 29
 
 12 % ≤ R &lt; 14 %
 
-(L. n° 2004-810, 13 août 2004, art. 73, II, 2 o ) (1) 36
+(L. n° 2004-810,13 août 2004, art. 73, II, 2 o ) (1) 36
 
 R ≥ 14 %
 
-(L. n° 2004-810, 13 août 2004, art. 73, II, 2 o ) (1) 39
+(L. n° 2004-810,13 août 2004, art. 73, II, 2 o ) (1) 39
 
 (1) NDLR : Les dispositions de l'article 73 de la loi n° 2004-810 du 13 août
 2004 s'appliquent pour la première fois à la détermination de la contribution
-due au plus tard le 1 er décembre 2005 (L. n° 2004-810, 13 août 2004, art. 73,
+due au plus tard le 1 er décembre 2005 (L. n° 2004-810,13 août 2004, art. 73,
 III)

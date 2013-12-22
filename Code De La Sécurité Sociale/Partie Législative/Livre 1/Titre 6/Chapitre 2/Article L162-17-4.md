@@ -90,8 +90,9 @@ constaté.
 La pénalité, prononcée au titre d'un retrait de visa de publicité ou de la
 non-réalisation des études mentionnées au 4° bis est recouvrée par les
 organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence
-centrale des organismes de sécurité sociale. Son produit est affecté selon les
-modalités prévues à l'article L. 162-37.
+centrale des organismes de sécurité sociale. Les articles L. 137-3 et L. 137-4
+sont applicables au recouvrement de la pénalité. Son produit est affecté selon
+les modalités prévues à l'article L. 162-37.
 
 Le recours présenté contre la décision prononçant cette pénalité est un recours
 de pleine juridiction.

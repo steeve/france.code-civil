@@ -33,14 +33,7 @@ notamment assortis de conditions de prescription et d'utilisation et subordonné
 à la réalisation par les fabricants ou leurs mandataires ou par les
 distributeurs d'études complémentaires demandées sur les produits de santé.
 
-IV bis. - Toute demande d'inscription, de renouvellement d'inscription ou de
-modification d'inscription d'un produit de santé sur la liste prévue au I est
-accompagnée du versement d'une taxe dont le barème est fixé par décret dans la
-limite de 5 580 €.
-
-Son montant est versé à la Haute Autorité de santé. Cette taxe est recouvrée
-selon les modalités prévues pour le recouvrement des créances des établissements
-publics administratifs de l'Etat.
+IV bis.-(Abrogé)
 
 V. ― Les conditions d'application du présent article, notamment les modalités de
 détermination des catégories homogènes de produits de santé concernées, les

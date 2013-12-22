@@ -43,7 +43,13 @@ assurer soit le transfert vers les organismes du régime général, soit le
 règlement vers tous organismes désignés à cet effet, conformément aux
 dispositions législatives et réglementaires en vigueur et aux stipulations
 conventionnelles prises en vertu des articles L. 123-1 et L. 123-2 et agréées
-par l'autorité compétente de l'Etat.
+par l'autorité compétente de l'Etat ;
+
+9°) D'attribuer, dans le respect des orientations définies par le Conseil
+national de pilotage des agences régionales de santé, les aides prévues au
+dernier alinéa de l'article L. 1433-1 du code de la santé publique, après avis
+du conseil de l'union mentionnée à l'article L. 182-2 du présent code et de
+l'union mentionnée à l'article L. 182-4.
 
 La caisse nationale exerce, au titre des attributions énoncées ci-dessus, un
 pouvoir de contrôle sur les caisses d'assurance retraite et de la santé au

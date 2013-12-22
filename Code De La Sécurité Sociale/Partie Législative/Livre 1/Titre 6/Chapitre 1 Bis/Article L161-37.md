@@ -45,7 +45,11 @@ laboratoires de biologie médicale ;
 
 8° Coordonner l'élaboration et assurer la diffusion d'une information adaptée
 sur la qualité des prises en charge dans les établissements de santé à
-destination des usagers et de leurs représentants.
+destination des usagers et de leurs représentants ;
+
+9° Rendre les avis mentionnés, respectivement, au dernier alinéa de l'article L.
+4011-2 du code de la santé publique et au second alinéa du I de l'article L.
+4011-2-3 du même code.
 
 Pour l'accomplissement de ses missions, la Haute Autorité de santé travaille en
 liaison notamment avec l'Agence nationale de sécurité du médicament et des

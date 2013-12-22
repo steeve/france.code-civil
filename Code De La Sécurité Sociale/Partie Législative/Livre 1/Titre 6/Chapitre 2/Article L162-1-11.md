@@ -32,6 +32,11 @@ programmes d'accompagnement des patients atteints de maladies chroniques visant
 à leur apporter des conseils en termes d'orientation dans le système de soins et
 d'éducation à la santé.
 
+Les caisses nationales d'assurance maladie peuvent mettre en place des
+programmes d'aide au sevrage tabagique visant à apporter des conseils et un
+soutien pour favoriser l'arrêt du tabac à l'attention des personnes
+bénéficiaires de la prescription d'un traitement de substitution nicotinique.
+
 Les différents régimes d'assurance maladie assurent cette mission en coordonnant
 leurs actions et veillent à mettre en commun par voie, le cas échéant, de
 conventions les moyens nécessaires.

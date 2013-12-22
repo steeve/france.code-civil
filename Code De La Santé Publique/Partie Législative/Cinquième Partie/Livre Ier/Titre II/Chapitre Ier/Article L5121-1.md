@@ -3,13 +3,22 @@ Article L5121-1
 On entend par :
 
 1° Préparation magistrale, tout médicament préparé selon une prescription
-médicale destinée à un malade déterminé, soit extemporanément en pharmacie, soit
-dans les conditions prévues à l'article L. 5125-1 ou à l'article L. 5126-2 ;
+médicale destinée à un malade déterminé en raison de l'absence de spécialité
+pharmaceutique disponible disposant d'une autorisation de mise sur le marché, de
+l'une des autorisations mentionnées aux articles L. 5121-9-1 et L. 5121-12,
+d'une autorisation d'importation parallèle ou d'une autorisation d'importation
+délivrée à un établissement pharmaceutique dans le cadre d'une rupture de stock
+d'un médicament, soit extemporanément en pharmacie, soit dans les conditions
+prévues à l'article L. 5125-1 ou à l'article L. 5126-2 ;
 
 2° Préparation hospitalière, tout médicament, à l'exception des produits de
 thérapies génique ou cellulaire, préparé selon les indications de la pharmacopée
 et en conformité avec les bonnes pratiques mentionnées à l'article L. 5121-5, en
-raison de l'absence de spécialité pharmaceutique disponible ou adaptée par une
+raison de l'absence de spécialité pharmaceutique disponible ou adaptée disposant
+d'une autorisation de mise sur le marché, de l'une des autorisations mentionnées
+aux articles L. 5121-9-1 et L. 5121-12, d'une autorisation d'importation
+parallèle ou d'une autorisation d'importation délivrée à un établissement
+pharmaceutique dans le cadre d'une rupture de stock d'un médicament, par une
 pharmacie à usage intérieur d'un établissement de santé, ou par l'établissement
 pharmaceutique de cet établissement de santé autorisé en application de
 l'article L. 5124-9 ou dans les conditions prévues à l'article L. 5126-2. Les
@@ -53,7 +62,7 @@ spécialités qui en sont génériques. Toutefois, une spécialité remplissant 
 conditions pour être une spécialité de référence, qui présente la même
 composition qualitative en substance active, la même composition quantitative en
 substance active ou, à défaut, une fraction thérapeutique active identique dans
-les limites prévues à l'annexe I de la directive 2001 / 83 / CE du Parlement
+les limites prévues à l'annexe I de la directive 2001/83/ CE du Parlement
 européen et du Conseil du 6 novembre 2001 instituant un code communautaire
 relatif aux médicaments à usage humain, et la même forme pharmaceutique qu'une
 spécialité de référence d'un groupe générique déjà existant, et dont la
@@ -97,9 +106,14 @@ d'immunité ;
 l'emploi, contient un ou plusieurs isotopes radioactifs, dénommés
 radionucléides, incorporés à des fins médicales ;
 
-8° Générateur, tout système contenant un radionucléide parent déterminé servant
-à la production d'un radionucléide de filiation obtenu par élution ou par toute
-autre méthode et utilisé dans un médicament radiopharmaceutique ;
+8° Générateur, tout système contenant un radionucléide parent déterminé en
+raison de l'absence de spécialité pharmaceutique disponible disposant d'une
+autorisation de mise sur le marché, de l'une des autorisations mentionnées aux
+articles L. 5121-9-1 et L. 5121-12, d'une autorisation d'importation parallèle
+ou d'une autorisation d'importation délivrée à un établissement pharmaceutique
+dans le cadre d'une rupture de stock d'un médicament, servant à la production
+d'un radionucléide de filiation obtenu par élution ou par toute autre méthode et
+utilisé dans un médicament radiopharmaceutique ;
 
 9° Trousse, toute préparation qui doit être reconstituée ou combinée avec des
 radionucléides dans le produit radiopharmaceutique final ;
@@ -135,7 +149,7 @@ prescription médicale à un ou plusieurs patients. Elles font l'objet d'une
 autorisation de l'Agence nationale de sécurité du médicament et des produits de
 santé pour une indication thérapeutique donnée. Cette autorisation peut être
 assortie de conditions particulières ou de restrictions d'utilisation. Elle peut
-être modifiée, suspendue ou retirée.L'Agence de la biomédecine est informée des
+être modifiée, suspendue ou retirée. L'Agence de la biomédecine est informée des
 décisions relatives à ces préparations prises en application du présent alinéa ;
 
 14° Médicament biologique, tout médicament dont la substance active est produite
@@ -144,7 +158,7 @@ et la détermination de la qualité nécessitent une combinaison d'essais
 physiques, chimiques et biologiques ainsi que la connaissance de son procédé de
 fabrication et de son contrôle ;
 
-15° Sans préjudice des articles L. 611-2 et suivants du code de la propriété
+15° a) Sans préjudice des articles L. 611-2 et suivants du code de la propriété
 intellectuelle, médicament biologique similaire, tout médicament biologique de
 même composition qualitative et quantitative en substance active et de même
 forme pharmaceutique qu'un médicament biologique de référence mais qui ne
@@ -152,12 +166,23 @@ remplit pas les conditions prévues au a du 5° du présent article pour être
 regardé comme une spécialité générique en raison de différences liées notamment
 à la variabilité de la matière première ou aux procédés de fabrication et
 nécessitant que soient produites des données précliniques et cliniques
-supplémentaires dans des conditions déterminées par voie réglementaire.
+supplémentaires dans des conditions déterminées par voie réglementaire ;
+
+Un médicament biologique ne peut être qualifié de médicament biologique de
+référence que si son autorisation a été délivrée au vu d'un dossier comportant,
+dans des conditions fixées par voie réglementaire, l'ensemble des données
+nécessaires et suffisantes à elles seules pour son évaluation ;
+
+b) Groupe biologique similaire, le regroupement d'un médicament biologique de
+référence et de ses médicaments biologiques similaires, tels que définis au a du
+présent 15°. Ils sont regroupés au sein de la liste de référence des groupes
+biologiques similaires établie par l'Agence nationale de sécurité du médicament
+et des produits de santé ;
 
 16° Médicament à base de plantes, tout médicament dont les substances actives
 sont exclusivement une ou plusieurs substances végétales ou préparations à base
 de plantes ou une association de plusieurs substances végétales ou préparations
-à base de plantes ;
+à base de plantes.
 
 17° Médicament de thérapie innovante préparé ponctuellement, tout médicament tel
 que défini dans le règlement (CE) n° 1394/2007 du Parlement européen et du

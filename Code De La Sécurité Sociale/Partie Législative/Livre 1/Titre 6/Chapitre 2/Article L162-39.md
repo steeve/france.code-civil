@@ -14,7 +14,9 @@ Cette convention détermine notamment :
 2° Les mesures appropriées pour garantir la qualité des soins dispensés aux
 assurés sociaux ;
 
-3° Les tarifs des soins thermaux pris en charge ;
+3° Les tarifs forfaitaires de responsabilité des soins thermaux pris en charge ;
+le prix limite de facturation des soins thermaux par forfait, tenant compte des
+facteurs de coûts d'exploitation ;
 
 4° Les mesures prévues en cas de manquement des établissements aux obligations
 de la convention, ainsi que la procédure permettant à ces établissements de

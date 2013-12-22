@@ -47,6 +47,6 @@ agricoles applicable en matière de cotisations d'allocations familiales ;
 
 8° Les personnes exerçant une activité de location directe ou indirecte de
 locaux d'habitation meublés ou destinés à être loués meublés à titre
-professionnel au sens du VII de l'article 151 septies du code général des
-impôts, à l'exclusion de celles relevant de l'article L. 722-1 du code rural et
-de la pêche maritime.
+professionnel au sens du 2 du IV de l'article 155 du code général des impôts, à
+l'exclusion de celles relevant de l'article L. 722-1 du code rural et de la
+pêche maritime.

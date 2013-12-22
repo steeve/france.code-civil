@@ -1,6 +1,6 @@
 Article L3332-2-1
 ----
-I. - Les départements perçoivent une part du produit de la taxe spéciale sur les
+I. ― Les départements perçoivent une part du produit de la taxe spéciale sur les
 conventions d'assurance mentionnée aux articles 991 à 1004 du code général des
 impôts, selon les modalités définies au dernier alinéa de l'article 1001 du même
 code.
@@ -9,7 +9,7 @@ Le département reçoit un produit de la taxe mentionnée au premier alinéa du
 présent I correspondant à l'application du taux de cette taxe à un pourcentage
 de l'assiette nationale de cette même taxe, calculé conformément au III.
 
-II. - A. - Pour chaque département, est calculée la différence entre les deux
+II. ― A. ― Pour chaque département, est calculée la différence entre les deux
 termes suivants :
 
 1° La somme définie au 1° du 1 du II du 1. 2 de l'article 78 de la loi n°
@@ -19,9 +19,9 @@ termes suivants :
 2009-1673 du 30 décembre 2009 de finances pour 2010, le quatrième alinéa de ce
 2° relatif à la taxe sur les conventions d'assurance n'étant pas pris en compte.
 
-B. - La différence ainsi obtenue est rapportée à la somme mentionnée au 1° du A.
+B. ― La différence ainsi obtenue est rapportée à la somme mentionnée au 1° du A.
 
-C. - Pour chaque département, lorsque le rapport calculé conformément au B est
+C. ― Pour chaque département, lorsque le rapport calculé conformément au B est
 supérieur à 10 %, le pourcentage de l'assiette de la taxe, mentionné au I, est
 égal à la différence calculée conformément au A, rapportée à la somme des
 différences calculées conformément au même A, des départements pour lesquels le
@@ -30,7 +30,7 @@ rapport prévu au B est supérieur à 10 %.
 Ce pourcentage est nul lorsque le rapport calculé conformément au même B est
 inférieur ou égal à 10 %.
 
-III. - Ces pourcentages sont fixés comme suit :
+III. ― Ces pourcentages sont fixés comme suit :
 
 
 DÉPARTEMENT
@@ -40,370 +40,370 @@ POURCENTAGE
 
 Ain
 
-0,875 1
+0,875 2
 
 
 Aisne
 
-0,703 4
+0,700 7
 
 
 Allier
 
-0,966 9
+0,960 8
 
 
 Alpes-de-Haute-Provence
 
-0,322 3
+0,324 3
 
 
 Hautes-Alpes
 
-0,239 3
+0,239 9
 
 
 Alpes-Maritimes
 
-1,346 1
+1,357 2
 
 
 Ardèche
 
-0,852 0
+0,865 1
 
 
 Ardennes
 
-0,618 4
+0,623 2
 
 
 Ariège
 
-0,424 1
+0,422 4
 
 
 Aube
 
-0,452 5
+0,455 9
 
 
 Aude
 
-0,923 4
+0,919 0
 
 
 Aveyron
 
-0,601 7
+0,603 0
 
 
 Bouches-du-Rhône
 
-3,408 2
+3,420 1
 
 
 Calvados
 
-0,000 0
+-
 
 
 Cantal
 
-0,343 9
+0,344 3
 
 
 Charente
 
-0,889 9
+0,885 9
 
 
 Charente-Maritime
 
-0,715 8
+0,713 8
 
 
 Cher
 
-0,491 7
+0,493 4
 
 
 Corrèze
 
-0,530 5
+0,534 1
 
 Côte-d'Or
 
-0,340 4
+0,344 5
 
 Côtes-d'Armor
 
-1,356 8
+1,346 8
 
 
 Creuse
 
-0,273 7
+0,272 4
 
 
 Dordogne
 
-0,705 9
+0,702 5
 
 
 Doubs
 
-1,240 8
+1,235 0
 
 
 Drôme
 
-1,266 5
+1,276 9
 
 
 Eure
 
-0,539 5
+0,541 1
 
 
 Eure-et-Loir
 
-0,582 4
+0,581 8
 
 
 Finistère
 
-1,548 1
+1,541 2
 
 
 Corse-du-Sud
 
-0,601 4
+0,602 1
 
 
 Haute-Corse
 
-0,444 6
+0,446 4
 
 
 Gard
 
-1,602 6
+1,603 5
 
 
 Haute-Garonne
 
-2,190 0
+2,195 0
 
 
 Gers
 
-0,522 3
+0,519 5
 
 
 Gironde
 
-1,962 9
+1,966 2
 
 
 Hérault
 
-1,873 4
+1,883 7
 
 
 Ille-et-Vilaine
 
-1,895 8
+1,897 6
 
 
 Indre
 
-0,321 2
+0,317 7
 
 
 Indre-et-Loire
 
-0,425 5
+0,433 1
 
 
 Isère
 
-3,203 0
+3,191 0
 
 
 Jura
 
-0,606 1
+0,602 6
 
 
 Landes
 
-0,897 4
+0,8946
 
 
 Loir-et-Cher
 
-0,444 3
+0,450 0
 
 
 Loire
 
-1,726 9
+1,723 2
 
 
 Haute-Loire
 
-0,549 8
+0,545 4
 
 
 Loire-Atlantique
 
-1,684 3
+1,689 7
 
 
 Loiret
 
-0,000 0
+-
 
 
 Lot
 
-0,351 0
+0,345 1
 
 
 Lot-et-Garonne
 
-0,635 9
+0,633 2
 
 
 Lozère
 
-0,083 0
+0,083 2
 
 
 Maine-et-Loire
 
-0,475 6
+0,472 6
 
 
 Manche
 
-1,027 3
+1,027 5
 
 
 Marne
 
-0,000 0
+-
 
 
 Haute-Marne
 
-0,332 3
+0,330 7
 
 
 Mayenne
 
-0,563 7
+0,557 4
 
 
 Meurthe-et-Moselle
 
-1,700 2
+1,694 7
 
 
 Meuse
 
-0,423 6
+0,423 2
 
 
 Morbihan
 
-1,026 4
+1,025 2
 
 
 Moselle
 
-1,368 4
+1,370 5
 
 
 Nièvre
 
-0,698 1
+0,695 3
 
 
 Nord
 
-5,056 4
+5,066 9
 
 
 Oise
 
-1,497 3
+1,490 2
 
 
 Orne
 
-0,375 2
+0,375 6
 
 
 Pas-de-Calais
 
-3,779 9
+3,761 4
 
 
 Puy-de-Dôme
 
-0,927 0
+0,924 7
 
 
 Pyrénées-Atlantiques
 
-1,121 4
+1,114 6
 
 
 Hautes-Pyrénées
 
-0,694 4
+0,692 7
 
 
 Pyrénées-Orientales
 
-1,151 7
+1,145 4
 
 
 Bas-Rhin
 
-1,986 1
+1,980 1
 
 
 Haut-Rhin
 
-1,961 5
+1,984 6
 
 
 Rhône
 
-0,000 0
+-
 
 
 Haute-Saône
 
-0,406 9
+0,407 0
 
 
 Saône-et-Loire
 
-1,005 9
+1,002 7
 
 
 Sarthe
 
-1,030 2
+1,021 5
 
 
 Savoie
 
-0,922 6
+0,931 5
 
 
 Haute-Savoie
@@ -413,123 +413,123 @@ Haute-Savoie
 
 Paris
 
-0,000 0
+-
 
 
 Seine-Maritime
 
-2,106 8
+2,105 6
 
 
 Seine-et-Marne
 
-1,620 1
+1,661 4
 
 
 Yvelines
 
-0,000 0
+-
 
 
 Deux-Sèvres
 
-0,571 5
+0,570 9
 
 
 Somme
 
-1,478 6
+1,472 5
 
 
 Tarn
 
-0,908 9
+0,903 7
 
 
 Tarn-et-Garonne
 
-0,554 4
+0,557 7
 
 
 Var
 
-1,423 6
+1,418 6
 
 
 Vaucluse
 
-1,373 6
+1,365 4
 
 
 Vendée
 
-1,518 6
+1,512 5
 
 
 Vienne
 
-0,513 1
+0,518 1
 
 
 Haute-Vienne
 
-0,687 7
+0,684 9
 
 
 Vosges
 
-1,295 4
+1,288 0
 
 
 Yonne
 
-0,574 7
+0,571 5
 
 
 Territoire de Belfort
 
-0,269 3
+0,268 0
 
 
 Essonne
 
-2,370 2
+2,356 9
 
 
 Hauts-de-Seine
 
-0,000 0
+-
 
 
 Seine-Saint-Denis
 
-3,368 2
+3,371 4
 
 
 Val-de-Marne
 
-1,863 4
+1,887 3
 
 Val-d'Oise
 
-1,014 6
+1,012 3
 
 
 Guadeloupe
 
-0,558 5
+0,561 6
 
 
 Martinique
 
-0,232 0
+0,229 6
 
 
 Guyane
 
-0,375 6
+0,374 3
 
 
 La Réunion
 
-0,000 0
+-

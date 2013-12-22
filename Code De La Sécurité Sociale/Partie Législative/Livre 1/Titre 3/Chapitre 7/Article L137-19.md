@@ -1,9 +1,8 @@
 Article L137-19
 ----
-Il est institué, au profit de la Caisse nationale de l'assurance maladie des
-travailleurs salariés, un prélèvement sur le produit des appels à des numéros
-surtaxés effectués dans le cadre des programmes télévisés et radiodiffusés
-comportant des jeux et concours.
+Il est institué, au profit de la Caisse nationale des allocations familiales, un
+prélèvement sur le produit des appels à des numéros surtaxés effectués dans le
+cadre des programmes télévisés et radiodiffusés comportant des jeux et concours.
 
 Le prélèvement est assis sur le montant des appels effectués au moyen de numéros
 audiotels ou de messages écrits adressés, net des coûts de l'opérateur de

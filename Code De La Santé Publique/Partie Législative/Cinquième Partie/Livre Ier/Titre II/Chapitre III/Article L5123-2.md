@@ -7,7 +7,13 @@ autorisation d'importation parallèle en application de l'article L. 5124-13 son
 limités, dans les conditions propres à ces médicaments fixées par le décret
 mentionné à l'article L. 162-17 du code de la sécurité sociale, aux produits
 agréés dont la liste est établie par arrêté des ministres chargés de la santé et
-de la sécurité sociale.
+de la sécurité sociale. Cette liste précise les seules indications
+thérapeutiques ouvrant droit à la prise en charge des médicaments.
+
+Les médicaments faisant l'objet des autorisations mentionnées à l'article L.
+5121-12 peuvent être achetés, fournis, pris en charge et utilisés par les
+collectivités publiques sans figurer sur la liste mentionnée au premier alinéa
+du présent article.
 
 L'inscription d'un médicament sur la liste mentionnée au premier alinéa peut, au
 vu des exigences de qualité et de sécurité des soins mettant en oeuvre ce

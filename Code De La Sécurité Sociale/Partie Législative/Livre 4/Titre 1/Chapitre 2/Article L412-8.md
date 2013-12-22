@@ -79,8 +79,9 @@ missions dans les conditions définies par décret ;
 
 8°) les personnes mentionnées à l'article 2 du décret-loi du 17 juin 1938
 relatif à la réorganisation et à l'unification du régime d'assurance des marins
-pour les accidents du travail et les maladies professionnelles survenus en
-dehors de l'exécution du contrat d'engagement maritime ;
+pour l'indemnisation des accidents du travail et des maladies professionnelles
+imputables à une faute inexcusable de l'employeur. Un décret détermine les
+conditions d'application du présent 8° ;
 
 9°) les salariés accomplissant un stage de formation dans les conditions prévues
 par les articles L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les

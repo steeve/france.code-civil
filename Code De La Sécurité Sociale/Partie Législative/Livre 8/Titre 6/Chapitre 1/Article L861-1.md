@@ -22,3 +22,9 @@ les conditions définies à l'article L. 861-3. Une action en récupération peu
 être exercée par l'organisme prestataire à l'encontre des parents du mineur
 bénéficiaire lorsque ceux-ci disposent de ressources supérieures au plafond
 mentionné au premier alinéa.
+
+Les étudiants bénéficiaires de certaines prestations mentionnées à l'article L.
+821-1 du code de l'éducation, déterminées par arrêté des ministres chargés de
+l'enseignement supérieur et de la sécurité sociale, peuvent bénéficier, à titre
+personnel, de la protection complémentaire, dans les conditions définies à
+l'article L. 861-3 du présent code.

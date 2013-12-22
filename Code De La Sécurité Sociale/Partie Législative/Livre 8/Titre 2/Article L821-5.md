@@ -13,7 +13,7 @@ Cette prescription est également applicable à l'action intentée par un organi
 payeur en recouvrement d'allocations indûment payées, sauf en cas de fraude ou
 de fausse déclaration.
 
-Les dispositions des articles L. 114-13, L. 377-2 et L. 377-4 sont applicables à
+Les dispositions des articles L. 377-2 et L. 377-4 sont applicables à
 l'allocation aux adultes handicapés.
 
 Les différends auxquels peut donner lieu l'application du présent titre et qui

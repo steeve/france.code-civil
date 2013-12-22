@@ -6,10 +6,11 @@ les ressources, peuvent être obtenues par les organismes chargés du paiement d
 l'aide selon les modalités de l'article L. 114-14 du code de la sécurité
 sociale.
 
-La fraude, la fausse déclaration, l'inexactitude ou le caractère incomplet des
-informations recueillies en application de l'alinéa précédent exposent le
-bénéficiaire, le demandeur ou le bailleur aux sanctions et pénalités prévues aux
-articles L. 114-13 et L. 114-17 du code de la sécurité sociale.
+Sans préjudice des sanctions pénales encourues, la fraude, la fausse
+déclaration, l'inexactitude ou le caractère incomplet des informations
+recueillies en application du premier alinéa du présent article exposent le
+bénéficiaire, le demandeur ou le bailleur aux sanctions et pénalités prévues à
+l'article L. 114-17 du code de la sécurité sociale.
 
 Lorsque les informations ne peuvent pas être obtenues dans les conditions
 prévues au premier alinéa, les bénéficiaires, les demandeurs ou les bailleurs

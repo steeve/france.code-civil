@@ -28,8 +28,8 @@ alcools mentionné à l'article 403 du même code ;
 produit du droit de consommation mentionné à l'article 575 du code général des
 impôts ;
 
-9° Le produit des taxes mentionnées aux articles 1010, 1609 vicies et 1618
-septies du code général des impôts ;
+9° Le produit des taxes mentionnées aux articles 1609 vicies et 1618 septies du
+code général des impôts ;
 
 10° Une fraction égale à 30,89 % du produit de la contribution sociale de
 solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale ;

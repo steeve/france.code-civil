@@ -8,7 +8,7 @@ lorsque l'une de ces activités a cessé au cours desdites années.
 
 Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul
 de l'impôt sur le revenu, éventuellement minorés de la déduction prévue au
-cinquième alinéa de l'article L. 731-14, ou, le cas échéant, de leur somme. La
+neuvième alinéa de l'article L. 731-14, ou, le cas échéant, de leur somme. La
 dotation d'installation en capital accordée aux jeunes agriculteurs ainsi que le
 montant de la différence entre l'indemnité versée en compensation de l'abattage
 total ou partiel de troupeaux en application des articles L. 221-2 ou L. 234-4
@@ -38,5 +38,5 @@ qui leur sont attachés lorsque ces terres et ces biens sont mis à la dispositi
 d'une exploitation ou d'une entreprise agricole sous forme individuelle ou
 sociétaire aux travaux de laquelle il participe effectivement. Cette majoration
 ne s'applique pas lorsque le chef d'exploitation ou d'entreprise agricole ne
-procède pas à la déduction du revenu cadastral des terres prévue au cinquième
+procède pas à la déduction du revenu cadastral des terres prévue au neuvième
 alinéa de l'article L. 731-14.

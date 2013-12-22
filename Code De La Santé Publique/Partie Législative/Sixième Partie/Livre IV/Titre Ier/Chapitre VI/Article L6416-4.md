@@ -10,6 +10,3 @@ annuelle hospitalière mentionnée à l'article L. 174-1 du code de la sécurit�
 sociale. Le versement de ces régimes métropolitains est égal à la différence
 entre le montant des dotations annuelles des établissements publics de santé et
 le produit de la contribution mentionnée précédemment.
-
-Les critères de la répartition du versement entre les régimes métropolitains
-intéressés sont fixés par voie réglementaire.

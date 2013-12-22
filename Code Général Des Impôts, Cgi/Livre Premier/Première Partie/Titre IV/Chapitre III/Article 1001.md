@@ -42,6 +42,12 @@ d'assurance maladie relatifs à des opérations collectives à adhésion obligat
 fonction de l'état de santé de l'assuré et que ces garanties respectent les
 conditions mentionnées au même article L. 871-1 ;
 
+2° ter A 14 % pour les contrats d'assurance maladie relatifs à des opérations
+individuelles et collectives à adhésion facultative et les contrats d'assurance
+maladie relatifs à des opérations collectives à adhésion obligatoire qui ne
+satisfont pas à l'ensemble des conditions prévues au 2° bis respectivement pour
+ces deux types de contrat ;
+
 3° à 19 % pour les assurances contre les risques de toute nature de navigation
 maritime ou fluviale des bateaux de sport ou de plaisance ;
 
@@ -63,4 +69,7 @@ bis.
 Le produit de la taxe est affecté aux départements, à l'exception du produit de
 la taxe afférente aux contrats visés au 2° bis, qui est affecté, par parts
 égales, à la Caisse nationale des allocations familiales et à la Caisse
+nationale de l'assurance maladie des travailleurs salariés et à l'exception
+d'une fraction du produit de la taxe afférente aux contrats mentionnés au 2° ter
+qui est affectée, pour la part correspondant à un taux de 5 %, à la Caisse
 nationale de l'assurance maladie des travailleurs salariés.

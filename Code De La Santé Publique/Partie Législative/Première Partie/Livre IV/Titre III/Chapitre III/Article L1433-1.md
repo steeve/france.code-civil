@@ -20,8 +20,18 @@ Il valide toutes les instructions qui leur sont données. Il conduit l'animation
 du réseau des agences.
 
 Il évalue périodiquement les résultats de l'action des agences et de leurs
-directeurs généraux. Il détermine les orientations nationales du fonds mentionné
-à l'article L. 1435-8. Le conseil national de pilotage veille à ce que la
-répartition entre les agences régionales de santé des financements qui leur sont
-attribués prenne en compte l'objectif de réduction des inégalités de santé
-mentionné à l'article L. 1411-1.
+directeurs généraux.
+
+Il détermine les orientations nationales du fonds mentionné à l'article L.
+1435-8.
+
+Le conseil national de pilotage veille à ce que la répartition entre les agences
+régionales de santé des financements qui leur sont attribués prenne en compte
+l'objectif de réduction des inégalités de santé mentionné à l'article L. 1411-1.
+
+Il définit les orientations stratégiques relatives aux actions et
+expérimentations nationales concourant à l'amélioration de la qualité et de la
+coordination des soins dispensés en ville. Les aides attribuées aux actions et
+expérimentations ainsi qu'à leur évaluation sont financées par une dotation des
+régimes d'assurance maladie, fixée par arrêté des ministres chargés de la
+sécurité sociale et de la santé.

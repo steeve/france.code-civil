@@ -3,7 +3,9 @@ Article L722-6
 En cas de maladie, maternité et décès, les praticiens et auxiliaires médicaux
 mentionnés à l'article L. 722-1 ont droit et ouvrent droit, selon les
 dispositions des articles L. 313-3, L. 331-1 et L. 361-4 aux prestations prévues
-par le 1° de l'article L. 321-1 et par les articles L. 331-2 et L. 361-1.
+par le 1° de l'article L. 321-1 et par les articles L. 331-2 et L. 361-1, ainsi
+qu'à celles prévues au 5° de l'article L. 321-1 selon les modalités prévues à
+l'article L. 722-8-2.
 
 Le capital décès versé par application de l'article L. 361-1 correspond à une
 fraction du montant du revenu ayant servi de base au calcul de la cotisation de

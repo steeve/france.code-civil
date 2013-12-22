@@ -20,9 +20,9 @@ prélèvement et les modalités de remboursement sont fixés par arrêté du min
 de l'économie et des finances.
 
 III bis.-Pour frais d'assiette et de recouvrement, l'Etat effectue un
-prélèvement de 0,5 % sur le montant des taxes mentionnées aux articles 1600-0 N,
-1600-0 O, 1600-0 P et 1600-0 R et sur celui des droits mentionnés à l'article
-1635 bis AE.
+prélèvement de 0,5 % sur le montant des taxes mentionnées aux articles 1600-0 O,
+1600-0 P et 1600-0 R et sur celui des droits mentionnés aux articles 1635 bis
+AE, 1635 bis AF, 1635 bis AG et 1635 bis AH.
 
 IV. (Sans objet).
 

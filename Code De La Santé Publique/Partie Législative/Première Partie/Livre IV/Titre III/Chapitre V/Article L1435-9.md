@@ -5,7 +5,9 @@ Les ressources du fonds sont constituées par :
 1° Une dotation des régimes obligatoires de base d'assurance maladie dont le
 montant est fixé chaque année par arrêté des ministres chargés de la santé, du
 budget, de la sécurité sociale, des personnes âgées et des personnes handicapées
-en fonction de l'objectif national de dépenses d'assurance maladie ;
+en fonction de l'objectif national de dépenses d'assurance maladie. Il peut être
+révisé en cours d'année pour tenir compte des transferts décidés en application
+de l'article L. 174-1-2 du code de la sécurité sociale ;
 
 2° Une dotation de l'Etat ;
 

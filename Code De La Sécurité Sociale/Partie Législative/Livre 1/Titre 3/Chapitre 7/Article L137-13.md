@@ -1,7 +1,7 @@
 Article L137-13
 ----
-I. ― Il est institué, au profit des régimes obligatoires d'assurance maladie
-dont relèvent les bénéficiaires, une contribution due par les employeurs :
+I. ― Il est institué, au profit de la Caisse nationale des allocations
+familiales, une contribution due par les employeurs :
 
 ― sur les options consenties dans les conditions prévues aux articles L. 225-177
 à L. 225-186 du code de commerce ;

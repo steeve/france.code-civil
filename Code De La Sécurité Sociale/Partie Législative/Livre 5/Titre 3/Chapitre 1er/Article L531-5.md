@@ -15,10 +15,7 @@ b) Une prise en charge partielle de la rémunération de la personne qui assure 
 garde de l'enfant.
 
 Le complément de libre choix du mode de garde est versé à la condition que le
-ménage ou la personne seule dispose d'un minimum de revenus tirés d'une activité
-professionnelle. Le montant de ce revenu diffère selon que la charge des enfants
-est assumée par un couple ou par une personne seule. Un décret précise les
-conditions dans lesquelles ces modalités sont adaptées aux non-salariés.
+ménage ou la personne seule exerce une activité professionnelle.
 
 Les situations qui sont assimilées à une activité professionnelle pour le
 bénéfice du complément et leurs modalités de prise en compte sont déterminées

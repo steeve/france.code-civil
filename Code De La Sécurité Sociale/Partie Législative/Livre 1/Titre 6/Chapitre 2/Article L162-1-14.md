@@ -1,8 +1,10 @@
 Article L162-1-14
 ----
 I. - Peuvent faire l'objet d'une pénalité prononcée par le directeur de
-l'organisme local d'assurance maladie ou de la caisse mentionnée aux articles L.
-215-1 ou L. 215-3 :
+l'organisme local d'assurance maladie, de la caisse mentionnée à l'article L.
+215-1 ou L. 215-3 ou de l'organisme local chargé de verser les prestations au
+titre des assurances obligatoires contre les accidents de travail et les
+maladies professionnelles des professions agricoles :
 
 1° Les bénéficiaires des régimes obligatoires des assurances maladie, maternité,
 invalidité, décès, accidents du travail et maladies professionnelles, de la
@@ -47,10 +49,12 @@ premier alinéa de l'article L. 251-1 du même code ;
 fausse, incomplète ou abusivement tardive à toute demande de pièce
 justificative, d'information, d'accès à une information ou à une convocation
 émanant de l'organisme local d'assurance maladie ou du service du contrôle
-médical ou de la caisse mentionnée aux articles L. 215-1 ou L. 215-3 dans le
-cadre d'un contrôle, d'une enquête ou d'une mise sous accord préalable prévus
-aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-17, L. 162-1-20 et L.
-315-1 ;
+médical, de la caisse mentionnée à l'article L. 215-1 ou L. 215-3 ou de
+l'organisme local chargé de verser les prestations au titre des assurances
+obligatoires contre les accidents de travail et les maladies professionnelles
+des professions agricoles dans le cadre d'un contrôle, d'une enquête ou d'une
+mise sous accord préalable prévus aux articles L. 114-9 à L. 114-21, L.
+162-1-15, L. 162-1-17, L. 162-1-20 et L. 315-1 ;
 
 6° Une récidive après deux périodes de mise sous accord préalable en application
 de l'article L. 162-1-15 ou lorsque le médecin n'atteint pas l'objectif de
@@ -82,11 +86,13 @@ pour la fixation de la pénalité.
 Le montant de la pénalité est doublé en cas de récidive dans un délai fixé par
 voie réglementaire.
 
-IV. - Le directeur de l'organisme local d'assurance maladie ou de la caisse
-mentionnée aux articles L. 215-1 ou L. 215-3 notifie les faits reprochés à la
-personne physique ou morale en cause afin qu'elle puisse présenter ses
-observations dans un délai fixé par voie réglementaire. A l'expiration de ce
-délai, le directeur :
+IV. - Le directeur de l'organisme local d'assurance maladie, de la caisse
+mentionnée à l'article L. 215-1 ou L. 215-3 ou de l'organisme local chargé de
+verser les prestations au titre des assurances obligatoires contre les accidents
+de travail et les maladies professionnelles des professions agricoles notifie
+les faits reprochés à la personne physique ou morale en cause afin qu'elle
+puisse présenter ses observations dans un délai fixé par voie réglementaire. A
+l'expiration de ce délai, le directeur :
 
 1° Décide de ne pas poursuivre la procédure ;
 
@@ -127,10 +133,12 @@ mêmes faits.
 
 V. - La pénalité ne peut être prononcée qu'après avis d'une commission composée
 et constituée au sein du conseil ou du conseil d'administration de l'organisme
-local d'assurance maladie ou de la caisse mentionnée aux articles L. 215-1 ou L.
-215-3. Lorsqu'est en cause une des personnes mentionnées au 3° du I, des
-représentants de la même profession ou des établissements concernés participent
-à cette commission.
+local d'assurance maladie, de la caisse mentionnée à l'article L. 215-1 ou L.
+215-3 ou de l'organisme local chargé de verser les prestations au titre des
+assurances obligatoires contre les accidents de travail et les maladies
+professionnelles des professions agricoles. Lorsqu'est en cause une des
+personnes mentionnées au 3° du I, des représentants de la même profession ou des
+établissements concernés participent à cette commission.
 
 La commission mentionnée au premier alinéa du présent V apprécie la
 responsabilité de la personne physique ou morale dans la réalisation des faits
@@ -140,22 +148,30 @@ dont elle évalue le montant.
 L'avis de la commission est adressé simultanément au directeur de l'organisme et
 à l'intéressé.
 
-VI. - Lorsque plusieurs organismes locaux d'assurance maladie ou plusieurs
-caisses mentionnées aux articles L. 215-1 ou L. 215-3 sont concernés par les
-mêmes faits mettant en cause une des personnes mentionnées au 3° ou au 4° du I,
-ils peuvent mandater le directeur de l'un d'entre eux pour instruire la
-procédure ainsi que pour prononcer et recouvrer la pénalité en leur nom.
+VI. - Lorsque plusieurs organismes locaux d'assurance maladie, plusieurs caisses
+mentionnées aux articles L. 215-1 ou L. 215-3 ou l'organisme local chargé de
+verser les prestations au titre des assurances obligatoires contre les accidents
+de travail et les maladies professionnelles des professions agricoles sont
+concernés par les mêmes faits mettant en cause une des personnes mentionnées au
+3° ou au 4° du I, ils peuvent mandater le directeur de l'un d'entre eux pour
+instruire la procédure ainsi que pour prononcer et recouvrer la pénalité en leur
+nom.
 
 La constitution et la gestion de la commission mentionnée au V peuvent être
-déléguées à un autre organisme local d'assurance maladie ou une autre caisse
-mentionnée aux articles L. 215-1 ou L. 215-3 par une convention qui doit être
-approuvée par les conseils d'administration des organismes concernés.
+déléguées à un autre organisme local d'assurance maladie, une autre caisse
+mentionnée aux articles L. 215-1 ou L. 215-3 ou à l'organisme local chargé de
+verser les prestations au titre des assurances obligatoires contre les accidents
+de travail et les maladies professionnelles des professions agricoles par une
+convention qui doit être approuvée par les conseils d'administration des
+organismes concernés.
 
 VII. - En cas de fraude établie dans des cas définis par voie réglementaire :
 
-1° Le directeur de l'organisme local d'assurance maladie ou les caisses
-mentionnées aux articles L. 215-1 ou L. 215-3 peut prononcer une pénalité sans
-solliciter l'avis de la commission mentionnée au V ;
+1° Le directeur de l'organisme local d'assurance maladie, des caisses
+mentionnées aux articles L. 215-1 ou L. 215-3 ou de l'organisme local chargé de
+verser les prestations au titre des assurances obligatoires contre les accidents
+de travail et les maladies professionnelles des professions agricoles peut
+prononcer une pénalité sans solliciter l'avis de la commission mentionnée au V ;
 
 2° Les plafonds prévus au premier alinéa du III sont portés respectivement à 200
 % et quatre fois le plafond mensuel de la sécurité sociale. Dans le cas

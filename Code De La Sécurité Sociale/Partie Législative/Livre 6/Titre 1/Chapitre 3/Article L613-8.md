@@ -10,18 +10,19 @@ règlement ne peut intervenir que si la totalité des cotisations dues a été
 acquittée avant l'expiration du même délai.
 
 Lorsque le tribunal arrête un plan de sauvegarde ou de redressement judiciaire
-en application de l'article L. 621-70 (1) du code de commerce ou lorsque la
-commission de recours amiable de la caisse mutuelle régionale accorde à l'assuré
-un étalement du paiement des cotisations, ce dernier est rétabli dans ses droits
-aux prestations à compter du prononcé du jugement ou de la prise de décision de
-la caisse mutuelle régionale, dès lors qu'il s'acquitte régulièrement des
-cotisations dues selon l'échéancier prévu ainsi que des cotisations en cours.
+en application du livre VI du code de commerce ou lorsque la commission des
+chefs des services financiers et des représentants des organismes de sécurité
+sociale et de l'assurance chômage ou la commission de recours amiable de la
+caisse du régime social des indépendants accorde à l'assuré un étalement du
+paiement des cotisations, ce dernier est rétabli dans ses droits aux prestations
+à compter du prononcé du jugement ou de la prise de décision desdites
+commissions, dès lors qu'il s'acquitte régulièrement des cotisations dues selon
+l'échéancier prévu ainsi que des cotisations en cours.
 
-Par dérogation aux dispositions du premier alinéa du présent article, l'assuré
-dont l'entreprise a fait l'objet d'une liquidation judiciaire et qui ne remplit
-plus les conditions pour relever d'un régime d'assurance maladie obligatoire
-peut bénéficier à compter du jugement de liquidation judiciaire des dispositions
-de l'article L. 161-8.
+L'assuré dont l'entreprise a fait l'objet d'une liquidation judiciaire et qui ne
+remplit plus les conditions pour relever d'un régime d'assurance maladie
+obligatoire peut bénéficier à compter du jugement de liquidation judiciaire des
+dispositions de l'article L. 161-8.
 
 Sans préjudice des dispositions de l'article L. 612-9, l'assuré qui devient
 titulaire d'une allocation ou d'une pension de vieillesse et dont les

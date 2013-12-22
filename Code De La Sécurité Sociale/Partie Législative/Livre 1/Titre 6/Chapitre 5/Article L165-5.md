@@ -21,9 +21,10 @@ considérés ; elle est reconductible, le cas échéant, chaque année.
 
 La pénalité mentionnée au deuxième alinéa est recouvrée par les organismes
 mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale
-des organismes de sécurité sociale. Son produit est affecté selon les modalités
-prévues à l'article L. 162-37. Le recours présenté contre la décision prononçant
-cette pénalité est un recours en pleine juridiction.
+des organismes de sécurité sociale. Les articles L. 137-3 et L. 137-4 sont
+applicables au recouvrement de la pénalité. Son produit est affecté selon les
+modalités prévues à l'article L. 162-37. Le recours présenté contre la décision
+prononçant cette pénalité est un recours en pleine juridiction.
 
 Les conditions d'application du présent article, notamment les modalités et
 délais de la déclaration prévue au premier alinéa, ainsi que les règles, les
