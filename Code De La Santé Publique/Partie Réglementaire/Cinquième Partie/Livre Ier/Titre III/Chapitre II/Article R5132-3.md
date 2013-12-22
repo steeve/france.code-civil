@@ -4,12 +4,14 @@ La prescription de médicaments ou produits destinés à la médecine humaine
 mentionnés à la présente section est rédigée, après examen du malade, sur une
 ordonnance et indique lisiblement :
 
-1° Le nom, la qualité et, le cas échéant, la qualification, le titre, ou la
-spécialité du prescripteur telle que définie à l'article R. 5121-91, son
-identifiant lorsqu'il existe, son adresse, sa signature, la date à laquelle
-l'ordonnance a été rédigée, et pour les médicaments à prescription hospitalière
-ou pour les médicaments à prescription initiale hospitalière, le nom de
-l'établissement ou du service de santé ;
+1° Les nom et prénoms, la qualité et, le cas échéant, le titre, ou la spécialité
+du prescripteur telle que définie à l'article R. 5121-91, son identifiant
+lorsqu'il existe, son adresse professionnelle précisant la mention " France",
+ses coordonnées téléphoniques précédées de l'indicatif international "+33" et
+son adresse électronique, sa signature, la date à laquelle l'ordonnance a été
+rédigée, et pour les médicaments à prescription hospitalière ou pour les
+médicaments à prescription initiale hospitalière, le nom de l'établissement ou
+du service de santé ;
 
 2° La dénomination du médicament ou du produit prescrit, ou le principe actif du
 médicament désigné par sa dénomination commune, la posologie et le mode
@@ -31,5 +33,5 @@ l'autorisation temporaire d'utilisation les prévoit ;
 
 6° Le cas échéant, la mention prévue à l'article R. 5125-54 ;
 
-7° Les nom et prénoms, le sexe et l'âge du malade et, si nécessaire, sa taille
-et son poids.
+7° Les nom et prénoms, le sexe, la date de naissance du malade et, si
+nécessaire, sa taille et son poids.
