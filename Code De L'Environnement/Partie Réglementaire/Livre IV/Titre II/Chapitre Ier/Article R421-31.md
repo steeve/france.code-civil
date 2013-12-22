@@ -10,7 +10,8 @@ Cette formation spécialisée se réunit sous la présidence du préfet et compo
 pour moitié des représentants des chasseurs et, selon que les affaires
 concernent l'indemnisation des dégâts aux cultures et aux récoltes agricoles ou
 l'indemnisation des dégâts aux forêts, pour moitié des représentants des
-intérêts agricoles ou des intérêts forestiers.
+intérêts agricoles désignés dans le respect des dispositions de l'article 1er du
+décret n° 90-187 du 28 février 1990 ou des intérêts forestiers.
 
 II.-Une formation spécialisée pour exercer les attributions qui lui sont
 dévolues relatives aux animaux classés nuisibles.

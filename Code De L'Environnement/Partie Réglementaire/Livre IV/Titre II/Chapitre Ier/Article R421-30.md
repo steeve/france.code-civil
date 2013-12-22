@@ -19,7 +19,9 @@ forestière non domaniale relevant du régime forestier et de l'Office national
 des forêts ;
 
 5° Le président de la chambre d'agriculture du département et d'autres
-représentants des intérêts agricoles dans le département proposés par lui ;
+représentants des intérêts agricoles dans le département proposés par lui dans
+le respect des dispositions de l'article 1er du décret n° 90-187 du 28 février
+1990 ;
 
 6° Des représentants d'associations agréées au titre de l'article L. 141-1
 actives dans le domaine de la conservation de la faune et de la protection de la
