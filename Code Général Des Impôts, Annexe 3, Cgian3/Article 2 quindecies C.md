@@ -1,12 +1,13 @@
 Article 2 quindecies C
 ----
 Pour le bénéfice de la déduction au titre de l'amortissement prévue au h du 1°
-du I de l'article 31 du code général des impôts ou de la réduction d'impôt
-prévue à l'article 199 septvicies du même code applicable aux logements acquis
-par le contribuable en vue de les réhabiliter, le contribuable fait établir par
-un contrôleur technique ou un technicien de la construction qualifié,
-indépendant des personnes physiques ou morales susceptibles de réaliser les
-travaux de réhabilitation et couvert par une assurance pour cette activité :
+du I de l'article 31 du code général des impôts ou des réductions d'impôt
+prévues aux articles 199 septvicies ou 199 novovicies du même code applicables
+aux logements acquis par le contribuable en vue de les réhabiliter, le
+contribuable fait établir par un contrôleur technique ou un technicien de la
+construction qualifié, indépendant des personnes physiques ou morales
+susceptibles de réaliser les travaux de réhabilitation et couvert par une
+assurance pour cette activité :
 
 1° Avant la réalisation des travaux, un état descriptif du logement contenant
 les rubriques fixées par un arrêté des ministres chargés du budget et du
