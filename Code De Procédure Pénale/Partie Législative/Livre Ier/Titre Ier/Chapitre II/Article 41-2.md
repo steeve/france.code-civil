@@ -132,8 +132,8 @@ président, ne statue alors que sur les seuls intérêts civils, au vu du dossie
 de la procédure qui est versé au débat. La victime a également la possibilité,
 au vu de l'ordonnance de validation, lorsque l'auteur des faits s'est engagé à
 lui verser des dommages et intérêts, d'en demander le recouvrement suivant la
-procédure d'injonction de payer, conformément aux règles prévues par le nouveau
-code de procédure civile.
+procédure d'injonction de payer, conformément aux règles prévues par le code de
+procédure civile.
 
 Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier
 judiciaire.

@@ -16,5 +16,5 @@ télécommunication audiovisuelle garantissant la confidentialité de la
 transmission. Il est alors dressé, dans chacune des deux salles d'audience
 ouvertes au public, un procès-verbal des opérations effectuées.
 
-Sous réserve de l'application de l'article 435 du nouveau code de procédure
-civile, le juge des libertés et de la détention statue publiquement.
+Sous réserve de l'application de l'article 435 du code de procédure civile, le
+juge des libertés et de la détention statue publiquement.
