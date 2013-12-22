@@ -9,4 +9,4 @@ financés sous la forme d'une dotation globale annuelle.
 
 La répartition des sommes versées à ces établissements au titre de l'alinéa
 précédent entre les régimes d'assurance maladie est effectuée chaque année
-suivant la répartition qui résulte de l'application de l'article L. 174-2.
+suivant la répartition qui résulte de l'application de l'article L. 175-2.

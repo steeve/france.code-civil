@@ -16,9 +16,8 @@ d'exploitation ou d'entreprise mentionnées au 1° de l'article L. 752-16, le
 montant de la cotisation due par les chefs d'exploitation ou d'entreprise
 agricole, après avis d'une section spécialisée du Conseil supérieur des
 prestations sociales agricoles comprenant des représentants de la Caisse
-centrale de la mutualité sociale agricole, du groupement mentionné à l'article
-L. 752-14 et des organisations représentatives des chefs d'exploitation ou
-d'entreprise agricole.
+centrale de la mutualité sociale agricole et des organisations représentatives
+des chefs d'exploitation ou d'entreprise agricole.
 
 Le montant de la contribution mentionnée au 7° bis de l'article L. 731-3 est
 pris en compte dans les éléments de calcul de la cotisation qui peuvent être

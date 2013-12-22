@@ -29,7 +29,7 @@ précédente et retenus à hauteur de 90 % de leur montant.
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par
 le taux du prélèvement prévu au 1° du III bis de l'article 125 A pour les
 intérêts des plans d'épargne-logement. Son paiement doit intervenir au plus tard
-le 25 novembre.
+le 15 octobre.
 
 2. Lors du dépôt de la déclaration en janvier, l'établissement payeur procède à
 la liquidation du prélèvement.

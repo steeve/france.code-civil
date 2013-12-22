@@ -8,4 +8,4 @@ obligatoire d'assurance maladie français, en application de l'accord mentionné
 ce même 7°.
 
 Les sommes versées sont réparties entre les régimes selon les modalités prévues
-à l'article L. 174-2.
+à l'article L. 175-2.

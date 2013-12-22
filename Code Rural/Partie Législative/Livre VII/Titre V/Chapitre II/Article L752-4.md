@@ -13,7 +13,7 @@ référence à l'article L. 433-1 est remplacée par la référence à l'article
 - la feuille d'accident mentionnée à l'article L. 432-3 s'entend de celle prévue
 à l'article L. 752-24 du présent code ;
 
-- les organismes assureurs exercent les fonctions dévolues aux caisses primaires
-d'assurance maladie.
+- les caisses de mutualité sociale agricole exercent les fonctions dévolues aux
+caisses primaires d'assurance maladie.
 
 Les modalités d'application du présent article sont déterminées par décret.

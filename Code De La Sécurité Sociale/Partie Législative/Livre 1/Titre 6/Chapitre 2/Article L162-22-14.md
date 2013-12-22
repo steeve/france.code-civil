@@ -7,6 +7,5 @@ cadre de son contrat pluriannuel d'objectifs et de moyens et de leur état
 d'avancement, ou, à défaut, dans le cadre de l'engagement contractuel spécifique
 prévu à l'article L. 162-22-13.
 
-Les modalités de versement et de prise en charge de cette dotation ainsi que les
-modalités de répartition entre les régimes des sommes versées à ce titre par les
-régimes obligatoires d'assurance maladie sont fixées à l'article L. 162-22-15.
+Les modalités de versement et de prise en charge de cette dotation sont fixées à
+l'article L. 162-22-15.

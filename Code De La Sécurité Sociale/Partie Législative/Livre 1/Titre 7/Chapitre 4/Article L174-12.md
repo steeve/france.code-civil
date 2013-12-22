@@ -10,5 +10,4 @@ total annuel défini à l'article L. 174-1-1 du présent code.
 La dotation est arrêtée par le directeur général de l'agence régionale de santé
 dans les conditions prévues au dernier alinéa de l'article L. 174-1.
 
-La dotation est versée et répartie entre les régimes dans les conditions prévues
-à l'article L. 174-2.
+La dotation est versée dans les conditions prévues à l'article L. 174-2.

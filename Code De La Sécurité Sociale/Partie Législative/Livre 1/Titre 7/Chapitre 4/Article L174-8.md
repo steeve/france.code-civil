@@ -10,10 +10,8 @@ ce rôle peut être rempli par une caisse relevant d'un autre régime, lorsque d
 un établissement ou un service le nombre de ses ressortissants est le plus
 élevé.
 
-Les sommes versées aux établissements et services pour le compte des différents
-régimes sont réparties après accord entre tous les régimes ayant une
-organisation propre. A défaut d'accord entre les régimes, un arrêté du ministre
-chargé de la sécurité sociale fixe cette répartition.
+La répartition des sommes versées aux établissements et services est fixée par
+arrêté des ministres chargés de la sécurité sociale et de la santé.
 
 Les modalités d'application des alinéas précédents sont fixées par décret en
 Conseil d'Etat.

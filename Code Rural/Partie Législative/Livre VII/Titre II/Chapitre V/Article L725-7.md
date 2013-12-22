@@ -17,11 +17,10 @@ fait application à une règle de droit supérieure, la demande de remboursement
 peut porter que sur la période postérieure au 1er janvier de la troisième année
 précédant celle où la décision révélant la non-conformité est intervenue.
 
-En cas de remboursement, les caisses de mutualité sociale agricole et les
-organismes mentionnés à l'article L. 731-30 sont en droit de demander le
-reversement des prestations servies à l'assuré ; ladite demande doit être faite
-dans un délai maximum de trois ans à compter du remboursement desdites
-cotisations.
+En cas de remboursement, les caisses de mutualité sociale agricole sont en droit
+de demander le reversement des prestations servies à l'assuré ; ladite demande
+doit être faite dans un délai maximum de trois ans à compter du remboursement
+desdites cotisations.
 
 Toutefois, lorsque la demande de remboursement des cotisations indûment versées
 n'a pas été formulée dans le délai de trois ans prévu au premier alinéa du

@@ -9,9 +9,8 @@ du ministre chargé de l'agriculture.
 
 Une commission de la prévention des accidents du travail des non-salariés
 agricoles, composée de représentants de l'Etat, de la Caisse centrale de la
-mutualité sociale agricole, des organismes assureurs et des organisations
-représentatives des chefs d'exploitation ou d'entreprise agricole, est chargée
-de définir les mesures de prévention des accidents du travail et des maladies
-professionnelles, comprenant notamment des actions de formation aux risques et
-des expertises médicales et techniques réalisées lors de l'installation des
-jeunes agriculteurs.
+mutualité sociale agricole et des organisations représentatives des chefs
+d'exploitation ou d'entreprise agricole, est chargée de définir les mesures de
+prévention des accidents du travail et des maladies professionnelles, comprenant
+notamment des actions de formation aux risques et des expertises médicales et
+techniques réalisées lors de l'installation des jeunes agriculteurs.
