@@ -25,10 +25,17 @@ charge totale ou partielle des sommes dues à ce titre. Cette prise en charge
 s'applique également aux cotisations dues aux assureurs mentionnés aux articles
 L. 731-30 et L. 752-13 après avis motivé de ces assureurs.
 
-La part ouvrière des cotisations dues au titre des salariés, la contribution
-sociale généralisée, la contribution au remboursement de la dette sociale et les
-autres contributions ne peuvent faire l'objet que d'un plan échelonné de
-paiements.
+La contribution sociale généralisée, la contribution au remboursement de la
+dette sociale et les autres contributions ne peuvent faire l'objet que d'un plan
+échelonné de paiements. Les cotisations patronales ne peuvent faire l'objet d'un
+échéancier de paiement qu'après règlement intégral de la part ouvrière des
+cotisations sociales. La demande d'échéancier de paiement est assortie de
+garanties appréciées par le conseil d'administration de la caisse de la
+Mutualité sociale agricole qui peut déléguer tout ou partie de ses pouvoirs à la
+commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité
+sociale. Il est sursis à poursuites par le recouvrement des cotisations, des
+majorations de retard et des pénalités tant que les échéances fixées par le plan
+échelonné de paiement sont honorées par le cotisant.
 
 Si au cours de la même année deux échéances successives de paiement des
 cotisations et contributions n'ont pas été honorées par le cotisant, celui-ci

@@ -17,3 +17,7 @@ apprécié dans les conditions définies aux deux alinéas précédents.
 Pour la détermination de la moyenne mentionnée aux premier et troisième alinéas,
 les mois au cours desquels aucun salarié n'est employé ne sont pas pris en
 compte.
+
+Les changements de régime de versement des cotisations entraînés par les
+modifications constatées d'une année sur l'autre prennent effet à compter du 1er
+avril suivant.

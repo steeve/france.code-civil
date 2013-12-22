@@ -7,4 +7,5 @@ sociale agricole. Ce forfait est établi compte tenu des conventions collectives
 en vigueur ou, à défaut, des salaires pratiqués dans la profession ou la région
 considérée. La durée de l'emploi est déterminée d'après les déclarations des
 intéressés ou par tout autre moyen de preuve. En cas de carence de l'organisme
-créancier, le forfait est établi par le préfet.
+créancier, le forfait est établi par le responsable du service mentionné à
+l'article R. 155-1 du code de la sécurité sociale.
