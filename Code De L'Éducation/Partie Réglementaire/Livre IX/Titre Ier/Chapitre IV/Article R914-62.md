@@ -15,7 +15,8 @@ maîtres contractuels ou agréés.
 
 La liste d'aptitude est arrêtée chaque année par le directeur académique des
 services de l'éducation nationale agissant sur délégation du recteur d'académie,
-après avis de la commission consultative mixte départementale.
+après avis de la commission consultative mixte départementale ou
+interdépartementale.
 
 Le nombre de candidats inscrits sur la liste d'aptitude départementale ne peut
 excéder de plus de 50 % le contingent des promotions fixé pour l'année

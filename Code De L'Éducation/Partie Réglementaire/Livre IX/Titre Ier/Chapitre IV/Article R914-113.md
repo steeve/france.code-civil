@@ -10,8 +10,7 @@ maîtres à l'établissement.
 
 La résiliation du contrat ou le retrait de l'agrément peut être prononcé, dans
 le cas où l'une des conditions prévues à l'article R. 914-14 n'est plus remplie,
-sans consultation de la commission consultative mixte académique ou
-départementale mentionnée aux articles R. 914-4 et R. 914-7.
+sans consultation de la commission consultative mixte compétente.
 
 La résiliation du contrat ou le retrait de l'agrément est prononcé, dans le cas
 où la condition prévue au 4° de l'article R. 914-14 n'est plus remplie, après

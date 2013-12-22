@@ -1,36 +1,16 @@
 Article R914-6
 ----
-Lorsqu'elle siège en formation spéciale en application de l'article R. 914-77,
-la commission consultative mixte départementale comprend vingt membres :
+Lorsque le recteur, en application des dispositions prévues à l'article R.
+222-36-2, a chargé un service départemental de l'éducation nationale de la
+gestion des questions individuelles intéressant les maîtres mentionnés à
+l'article R. 914-5, il peut créer, après consultation des organisations
+syndicales représentatives de ces maîtres et au moins six mois avant la date du
+scrutin, une commission consultative mixte interdépartementale chargée de donner
+son avis sur ces questions.
 
-1° Le directeur académique des services de l'éducation nationale agissant sur
-délégation du recteur d'académie, président ;
+Le nombre de sièges des représentants des maîtres au sein de cette commission
+consultative est fixé selon les modalités prévues à l'article R. 914-5.
 
-2° Neuf représentants de l'administration désignés par le recteur sur
-proposition du directeur académique des services de l'éducation nationale
-agissant sur délégation du recteur d'académie ;
-
-3° Les cinq chefs d'établissement primaire privé mentionnés au 4° de l'article
-R. 914-5 ;
-
-4° Les cinq maîtres des établissements primaires privés mentionnés au 5° de
-l'article R. 914-5.
-
-Lorsque les chefs d'établissement siégeant à la commission consultative mixte ne
-sont pas, pour la moitié au moins, des chefs d'établissement sous contrat
-d'association, cette proportion est rétablie, dans la formation spéciale, par le
-remplacement de chefs d'établissement sous contrat simple par des chefs
-d'établissement sous contrat d'association. Le directeur académique des services
-de l'éducation nationale agissant sur délégation du recteur d'académie décide du
-remplacement, sur proposition des organisations syndicales.
-
-Lorsque les maîtres siégeant à la commission consultative mixte ne sont pas,
-pour la moitié au moins, des maîtres titulaires ou contractuels, cette
-proportion est rétablie, dans la formation spéciale, par le remplacement de
-maîtres agréés par des maîtres titulaires ou contractuels figurant sur les mêmes
-listes de candidats aux élections organisées pour la constitution de la
-commission consultative mixte.
-
-Lorsque le nombre des chefs d'établissement et des maîtres est réduit en
-application de l'avant-dernier alinéa de l'article R. 914-5, le nombre des
-représentants de l'administration académique est réduit dans la même proportion.
+Les dispositions de la sous-section 3 de la section II du chapitre IV du titre
+Ier du livre IX sont applicables à la commission consultative mixte
+interdépartementale créée en application du présent article.

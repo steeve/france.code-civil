@@ -18,6 +18,10 @@ Les suppléants peuvent assister aux séances de la commission sans pouvoir
 prendre part aux débats. Ils n'ont voix délibérative qu'en l'absence des
 titulaires qu'ils remplacent.
 
+Par dérogation aux dispositions de l'alinéa précédent, le membre suppléant élu
+ou désigné en application du 1° de l'article R. 914-5 ou de l'article R. 914-8
+qui y renvoie, prend part aux débats et siège avec voix délibérative.
+
 Un maître, membre de la commission, ne peut siéger à la séance au cours de
 laquelle sa situation est examinée.
 

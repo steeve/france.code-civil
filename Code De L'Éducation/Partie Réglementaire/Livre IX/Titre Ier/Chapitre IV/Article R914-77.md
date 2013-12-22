@@ -3,9 +3,9 @@ Article R914-77
 L'autorité académique soumet les candidatures, accompagnées de l'avis des chefs
 d'établissement ou, à défaut d'avis, de la justification qu'ils ont été informés
 des candidatures par les intéressés, à la commission consultative mixte
-compétente siégeant en formation spéciale. Lorsque l'avis sur les candidatures
-est donné dans le cadre d'un accord sur l'emploi auquel l'établissement adhère,
-le chef d'établissement en informe la commission consultative mixte.
+compétente. Lorsque l'avis sur les candidatures est donné dans le cadre d'un
+accord sur l'emploi auquel l'établissement adhère, le chef d'établissement en
+informe la commission consultative mixte.
 
 Sont présentées par ordre de priorité les candidatures :
 

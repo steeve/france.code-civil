@@ -7,7 +7,7 @@ proportions que les professeurs des écoles exerçant dans l'enseignement public
 après inscription sur un tableau d'avancement établi chaque année par le
 directeur académique des services de l'éducation nationale agissant sur
 délégation du recteur d'académie, après avis de la commission consultative mixte
-départementale.
+départementale ou interdépartementale.
 
 Ils sont classés à la hors-classe conformément aux dispositions prévues à
 l'article 25 du décret n° 90-680 du 1er août 1990 portant statut particulier des

@@ -1,48 +1,32 @@
 Article R914-5
 ----
-La commission consultative mixte départementale comprend vingt membres :
+La composition de la commission consultative mixte départementale est fixée en
+application des dispositions prévues à l'article R. 914-10-2.
 
-1° Le directeur académique des services de l'éducation nationale agissant sur
-délégation du recteur d'académie, président ;
+Le nombre de sièges des représentants des maîtres des établissements
+d'enseignement privés du premier degré sous contrat est défini comme suit en
+référence aux effectifs constatés à une date fixée par arrêté du ministre chargé
+de l'éducation nationale :
 
-2° Quatre représentants de l'administration désignés par le directeur académique
-des services de l'éducation nationale agissant sur délégation du recteur
-d'académie ;
+1° Lorsque le nombre de maîtres est inférieur ou égal à soixante-dix, le nombre
+de représentants est d'un membre titulaire et d'un membre suppléant ;
 
-3° Cinq membres du personnel titulaire de l'enseignement primaire public dont un
-membre de l'enseignement primaire public spécialisé accueillant des enfants et
-adolescents handicapés. Ils comprennent, d'une part, des chefs d'établissement,
-d'autre part, des maîtres, désignés par le directeur académique des services de
-l'éducation nationale agissant sur délégation du recteur d'académie ;
+2° Lorsque le nombre de maîtres est au moins égal à soixante et onze et
+inférieur ou égal à deux cent cinquante, le nombre de représentants des maîtres
+est de deux membres titulaires et de deux membres suppléants ;
 
-4° Cinq représentants des chefs d'établissement d'enseignement primaire privé
-ayant passé avec l'Etat un contrat et n'exerçant pas la fonction de chef
-d'établissement d'enseignement secondaire et technique privé et des responsables
-pédagogiques de classes spécialisées fonctionnant dans des établissements
-primaires spécialisés sous contrat accueillant des enfants et adolescents
-handicapés. Ils sont élus par leurs collègues au scrutin de liste à la
-représentation proportionnelle à la plus forte moyenne ;
+3° Lorsque le nombre de maîtres est au moins égal à deux cent cinquante et un et
+inférieur ou égal à sept cent cinquante, le nombre de représentants des maîtres
+est de trois membres titulaires et de trois membres suppléants ;
 
-5° Cinq représentants des maîtres, contractuels ou agréés, de l'enseignement
-primaire privé et des maîtres agréés des classes spécialisées fonctionnant dans
-des établissements primaires spécialisés sous contrat accueillant des enfants et
-adolescents handicapés. Ils sont élus par leurs collègues au scrutin de liste à
-la représentation proportionnelle à la plus forte moyenne. Ces maîtres ne
-doivent pas exercer la fonction de chef d'établissement d'enseignement primaire
-privé ou de responsable pédagogique des classes spécialisées fonctionnant dans
-des établissements primaires spécialisés.
+4° Lorsque le nombre de maîtres est au moins égal à sept cent cinquante et un et
+inférieur ou égal à mille cinq cents, le nombre de représentants des maîtres est
+de quatre membres titulaires et de quatre membres suppléants ;
 
-Pour l'application des 4° et 5°, chaque liste devra comporter un nombre de
-candidats égal au double du nombre de sièges à pourvoir.
+5° Lorsque le nombre de maîtres est au moins égal à mille cinq cent un et
+inférieur ou égal à deux mille cinq cents, le nombre de représentants des
+maîtres est de cinq membres titulaires et de cinq membres suppléants ;
 
-Lorsque le nombre des chefs d'établissement et des responsables pédagogiques des
-classes spécialisées est inférieur à vingt, ou lorsque le nombre des maîtres est
-inférieur à cent, le directeur académique des services de l'éducation nationale
-agissant sur délégation du recteur d'académie peut réduire le nombre de leurs
-représentants respectifs, à la condition que le nombre des premiers reste égal à
-celui des seconds, et que la représentation des autres catégories siégeant à la
-commission soit réduite à due proportion. Dans ces cas, aucune liste ne pourra
-comporter un nombre de candidats inférieur à deux.
-
-Des suppléants sont élus ou désignés dans les mêmes conditions que les membres
-titulaires.
+6° Lorsque le nombre de maîtres est égal ou supérieur à deux mille cinq cent un,
+le nombre de représentants des maîtres est de six membres titulaires et de six
+membres suppléants.
