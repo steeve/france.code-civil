@@ -1,14 +1,9 @@
 Article L3811-1
 ----
-Les chapitres suivants du titre Ier du livre Ier de la présente partie sont
-applicables à Mayotte, sous réserve des adaptations des articles L. 3811-2 à L.
-3811-8 :
-
-1° Le chapitre Ier à l'exception de l'article L. 3111-11 ;
-
-2° Le chapitre II ;
-
-2° Les chapitres III et IV, à l'exception des alinéas 2 et 3 de l'article L.
-3114-1 ;
-
-3° Le chapitre V.
+Au deuxième alinéa de l'article L. 3112-3, les mots : " et, pour les
+bénéficiaires de l'aide médicale, dans les conditions fixées par l'article L.
+111-2 et le chapitre Ier du titre Ier du livre Ier du code de l'action sociale
+et des familles " et, le cas échéant, selon les modalités prévues à l'article L.
+182-1 du code de la sécurité sociale, sont remplacés par les mots : " et, pour
+les personnes non affiliées au régime d'assurance maladie-maternité de Mayotte,
+dans les conditions fixées par l'article L. 6416-5 ".

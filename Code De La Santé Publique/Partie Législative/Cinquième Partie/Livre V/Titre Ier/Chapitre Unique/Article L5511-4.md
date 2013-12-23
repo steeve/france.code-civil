@@ -1,9 +1,8 @@
 Article L5511-4
 ----
-Pour son application à Mayotte, le premier alinéa de l'article L. 5124-13 est
+Pour son application à Mayotte, le second alinéa de l'article L. 5126-9 est
 ainsi rédigé :
 
-" Art. L. 5124-13.-L'importation, sur le territoire douanier et sur celui de
-Mayotte, des médicaments à usage humain est soumise à une autorisation préalable
-délivrée par l'Agence nationale de sécurité du médicament et des produits de
-santé . "
+" Dans les autres établissements pénitentiaires, les détenus bénéficient des
+services de pharmacies à usage intérieur de l'établissement public de santé
+territorial de Mayotte. "
