@@ -7,7 +7,7 @@ l'article A. 335-1 et à l'aide d'un taux au plus égal au plus élevé des deux
 taux suivants :
 
 a) Un taux obtenu par composition de taux d'intérêt égaux pour les huit
-premières années à 75 % du taux moyen au cours des deux derniers exercices des
+premières années à 75 % du taux moyen au cours des trois derniers exercices des
 emprunts de l'Etat dans la devise duquel sont libellés les engagements relatifs
 à la convention, et à 60 % de ce même taux, dans la limite de 3,5 %, pour les
 exercices suivants ;
@@ -20,7 +20,3 @@ dans le cas contraire, la valeur moyenne ainsi déterminée.
 La provision mathématique théorique ne peut être inférieure à celle qui
 résulterait de l'utilisation des tables visées au premier tiret du 2° de
 l'article A. 335-1.
-
-Les entreprises peuvent répartir sur quinze années au plus les effets sur le
-calcul de la provision mathématique théorique du changement de taux d'intérêt
-utilisé pour ce calcul.
