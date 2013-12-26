@@ -31,9 +31,8 @@ maternité, invalidité et décès assises sur les rémunérations qu'il a perç
 pendant les douze mois civils précédant l'interruption de travail est au moins
 égal au montant des mêmes cotisations dues pour un salaire égal à 2 030 fois la
 valeur du salaire minimum de croissance au 1er janvier qui précède immédiatement
-le début de cette période, dont 1 015 fois au moins la valeur du salaire minimum
-de croissance au cours des six premiers mois ;
+le début de cette période ;
 
 b) Soit qu'il a effectué au moins 800 heures de travail salarié ou assimilé au
 cours des douze mois civils ou des 365 jours précédant l'interruption de
-travail, dont 200 heures au moins au cours des trois premiers mois.
+travail.

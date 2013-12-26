@@ -27,7 +27,13 @@ l'habitation ;
 à l'exception de celles mentionnées au titre V ;
 
 3° Aux personnes reconnues réfugiés, admises au titre de l'asile ou ayant
-demandé le statut de réfugié.
+demandé le statut de réfugié ;
+
+4° Aux personnes ayant accompli, en application des dispositions du chapitre II
+du titre II du livre Ier du code du service national, un volontariat
+international à l'étranger, si elles n'ont droit à aucun autre titre à leur
+retour en France aux prestations d'un régime obligatoire d'assurance maladie et
+maternité.
 
 II.-Les personnes de nationalité étrangère doivent en outre justifier qu'elles
 sont en situation régulière au regard de la législation sur le séjour des
