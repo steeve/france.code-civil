@@ -56,8 +56,8 @@ km.
 Lignes de tension supérieure ou égale à 200 kV et d'une longueur aérienne
 supérieure à 15 km.
 
-5. Création de canalisations de transport de gaz, d'hydrocarbures ou de produits
-chimiques
+5. Création de canalisations de transport de gaz naturel ou assimilé,
+d'hydrocarbures ou de produits chimiques
 
 Canalisations de transport de diamètre supérieur ou égal à 600 millimètres et de
 longueur supérieure à 200 kilomètres.

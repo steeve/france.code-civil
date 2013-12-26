@@ -33,5 +33,11 @@ L'arrêt définitif de l'exploitation de la canalisation est tacitement accordé
 l'absence d'avis contraire de l'autorité compétente pour délivrer l'autorisation
 six mois après la réception du dossier technique par celle-ci.
 
+L'accord formel ou tacite relatif à l'arrêt définitif de l'exploitation d'une
+canalisation entraîne la suppression, lorsqu'elles existent, des servitudes
+mentionnées aux a et c du A et au a du C de l'annexe de l'article R. 126-1 du
+code de l'urbanisme. Le préfet de chaque département concerné notifie cette
+suppression aux communes concernées.
+
 L'information du guichet unique en application de l'article R. 554-8 est
 réalisée par le transporteur dès que l'arrêt définitif est accordé.

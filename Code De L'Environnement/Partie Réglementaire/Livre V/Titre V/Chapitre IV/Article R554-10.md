@@ -55,14 +55,17 @@ deux tiers.
 
 Ces termes sont fixés par arrêté du ministre chargé de la sécurité des réseaux
 de transport et de distribution de telle sorte que le produit de la redevance
-mise en recouvrement pour l'année couvre, avec le produit de la redevance
+mise en recouvrement pour l'année n'excède pas, avec le produit de la redevance
 mentionné à l'article R. 554-15, l'ensemble des dépenses occasionnées durant
 cette même année pour l'exploitation, la mise à jour et la maintenance du
-guichet unique mentionné à l'article L. 554-2 auxquelles est ajouté chaque année
-pendant cinq ans, à compter de l'ouverture des services de ce guichet aux
+guichet unique mentionné à l'article L. 554-2 auxquelles sont ajoutés, d'une
+part, un cinquième des dépenses occasionnées par la création de ce guichet,
+chaque année pendant cinq ans à compter de l'ouverture de ses services aux
 exploitants d'ouvrages et aux personnes proposant des prestations de service
-mentionnées à l'article R. 554-6, un cinquième des dépenses occasionnées par la
-création de ce guichet.
+mentionnées à l'article R. 554-6 et, d'autre part, les dépenses occasionnées par
+la mise en place d'améliorations de ce guichet excédant le seul cadre de sa
+maintenance, réparties de manière égale chaque année sur une durée au plus égale
+à cinq ans à compter de leur mise en place.
 
 Lorsque la somme LS × 1,15 + LN est inférieure ou égale à L0, il n'est pas dû de
 redevance.

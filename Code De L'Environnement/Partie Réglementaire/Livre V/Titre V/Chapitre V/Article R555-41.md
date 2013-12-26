@@ -2,7 +2,7 @@ Article R555-41
 ----
 Avant la mise en service de toute canalisation de transport nouvelle soumise à
 autorisation ou de tout tronçon remplacé conformément au II de l'article R.
-555-1, le transporteur adresse au service chargé du contrôle une déclaration
+555-2, le transporteur adresse au service chargé du contrôle une déclaration
 accompagnée d'un dossier qui attestent que la canalisation est conforme aux
 dispositions de la présente sous-section, complétées, le cas échéant, par les
 dispositions de l'arrêté d'autorisation.

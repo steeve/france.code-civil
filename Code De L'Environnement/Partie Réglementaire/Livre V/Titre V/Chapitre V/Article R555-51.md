@@ -19,5 +19,5 @@ ministre de la défense.
 
 Le contrôle de la construction et de l'exploitation de toute canalisation
 concernée par le présent chapitre est exercé auprès du maître d'ouvrage lors de
-la construction et auprès du transporteur défini à l'article R. 555-2 lorsque la
+la construction et auprès du transporteur défini à l'article R. 555-1 lorsque la
 canalisation est en service.

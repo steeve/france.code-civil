@@ -2,7 +2,7 @@ Article R555-23
 ----
 I. ― Les canalisations existantes à la date de publication du décret n° 2012-615
 du 2 mai 2012 relevant des dispositions du II de l'article L. 555-14 peuvent
-continuer de fonctionner sans l'autorisation prévue à l'article R. 555-1 à
+continuer de fonctionner sans l'autorisation prévue à l'article R. 555-2 à
 condition que le transporteur se fasse connaître du préfet dans les douze mois
 suivant cette même date et qu'il lui adresse dans les mêmes délais un dossier
 comprenant les pièces prévues aux 1° et 3° à 5° de l'article R. 555-8, le plan

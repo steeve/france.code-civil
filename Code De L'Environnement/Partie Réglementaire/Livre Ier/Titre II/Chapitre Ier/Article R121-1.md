@@ -22,8 +22,8 @@ d) Création de voies navigables, ou mise à grand gabarit de canaux existants ;
 
 4° Création de lignes électriques ;
 
-5° Création de canalisations de transport de gaz, d'hydrocarbures ou de produits
-chimiques ;
+5° Création de canalisations de transport de gaz naturel ou assimilé,
+d'hydrocarbures ou de produits chimiques ;
 
 6° Supprimé ;
 

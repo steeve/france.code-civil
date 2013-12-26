@@ -15,5 +15,5 @@ Le préfet ou le préfet coordonnateur de l'instruction demande, le cas échéan
 au pétitionnaire de fournir les pièces complémentaires nécessaires en vue de
 l'examen conjoint préalable à la mise en compatibilité du plan local d'urbanisme
 d'une ou plusieurs communes concernées par le tracé de la canalisation, lorsque
-cette mise en compatibilité est nécessaire en application de l'article L. 123-16
-du code de l'urbanisme.
+cette mise en compatibilité est nécessaire en application des articles L. 123-14
+et L. 123-14-2 du code de l'urbanisme.

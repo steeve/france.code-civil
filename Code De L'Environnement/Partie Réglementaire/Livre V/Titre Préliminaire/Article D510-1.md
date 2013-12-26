@@ -12,9 +12,9 @@ projets soumis pour avis à l'Autorité de sûreté nucléaire.
 
 Il étudie tout projet de réglementation ou toute question relative aux
 installations classées pour la protection de l'environnement, aux installations
-nucléaires de base, aux canalisations de transport de gaz, d'hydrocarbures et de
-produits chimiques, aux canalisations de distribution de gaz ainsi qu'à la
-sécurité des installations d'utilisation des gaz combustibles que les ministres
-chargés de ces sujets ou que l'Autorité de sûreté nucléaire, s'agissant de
-questions relatives aux installations nucléaires de base, jugent utile de lui
-soumettre.
+nucléaires de base, aux canalisations de transport de gaz naturel ou assimilé,
+d'hydrocarbures et de produits chimiques, aux canalisations de distribution de
+gaz ainsi qu'à la sécurité des installations d'utilisation des gaz combustibles
+que les ministres chargés de ces sujets ou que l'Autorité de sûreté nucléaire,
+s'agissant de questions relatives aux installations nucléaires de base, jugent
+utile de lui soumettre.

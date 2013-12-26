@@ -47,6 +47,15 @@ l'article R. 555-42 ci-après ;
 h) Fournir les éléments indispensables pour l'élaboration par les autorités
 publiques du plan ORSEC défini par le décret du 13 septembre 2005 susvisé.
 
+Pour les installations annexes, l'étude de dangers au titre du présent chapitre
+tient lieu d'étude de dangers au titre de la réglementation des installations
+classées pour la protection de l'environnement lorsqu'une telle étude est
+obligatoire et lorsque les dispositions réglementaires relatives aux deux
+catégories d'étude de dangers ont été respectées.
+
+Toute canalisation de transport est conçue, construite et exploitée conformément
+aux dispositions et mesures prévues par son étude de dangers.
+
 Pour toute canalisation de transport en service, l'étude de dangers fait l'objet
 d'une mise à jour au moins quinquennale. Pour cette mise à jour, les
 canalisations d'un même réseau peuvent faire l'objet d'une étude de dangers

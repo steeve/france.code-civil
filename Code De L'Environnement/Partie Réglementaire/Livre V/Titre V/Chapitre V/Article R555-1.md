@@ -1,30 +1,53 @@
 Article R555-1
 ----
-I. ― Sont soumises à autorisation la construction et l'exploitation de toute
-canalisation de transport qui vérifie les conditions du 1° ou du 2° ci-après :
+I.-Les canalisations de transport mentionnées au II de l'article L. 555-1
+répondent aux caractéristiques suivantes, qu'elles soient aériennes,
+souterraines ou subaquatiques :
 
-1° Le fluide transporté est du dioxyde de carbone ou un gaz, un hydrocarbure, un
-produit chimique, se présentant dans les conditions normales de température et
-de pression sous l'une des deux formes suivantes :
+-canalisations de transport de gaz naturel ou assimilé : canalisations
+transportant soit du gaz naturel, soit un gaz dont les caractéristiques en
+permettent le transport ou l'injection dans des canalisations de transport de
+gaz naturel, dans les conditions fixées par le transporteur en application de
+l'article L. 453-4 du code de l'énergie ;
 
-― fluide gazeux inflammable ou nocif ou toxique ;
+-canalisations de transport d'hydrocarbures liquides ou liquéfiés :
+canalisations, autres que de transport de gaz naturel ou assimilé, transportant
+un des produits mentionnés aux tableaux B et C annexés à l'article 265 du code
+des douanes ;
 
-― fluide liquide inflammable ;
+-canalisations de transport de produits chimiques : canalisations, autres que de
+transport de gaz naturel ou assimilé ou d'hydrocarbures liquides ou liquéfiés,
+transportant sous forme gazeuse ou liquide un produit ou une matière autre que
+l'air et l'eau.
 
-2° La longueur de la canalisation est supérieure ou égale à 2 kilomètres ou le
-produit de son diamètre extérieur par sa longueur est supérieur ou égal à 500
-mètres carrés.
+II.-Le ministre chargé de la sécurité des canalisations de transport précise, le
+cas échéant, dans l'arrêté mentionné à l'article L. 555-3 les caractéristiques
+des terminaisons et des installations annexes comprises dans les canalisations
+mentionnées au I du présent article.
 
-Le caractère inflammable, nocif ou toxique d'un fluide s'entend au sens des
-définitions de l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen
-et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et
-à l'emballage des substances et des mélanges.
+III.-Pour l'application du présent chapitre, les définitions suivantes sont
+utilisées.
 
-II. ― Par dérogation au I du présent article, le remplacement d'une canalisation
-existante ou d'un tronçon de canalisation existante à l'intérieur de la bande de
-servitude forte définie à l'article L. 555-27, ou à défaut à l'intérieur de la
-servitude amiable mentionnée au 8° de l'article R. 555-8, n'est pas soumis à
-autorisation si la nature du fluide transporté n'est pas modifiée et si le
-diamètre et la pression maximale en service de la canalisation ne sont pas
-augmentés. Ce remplacement est soumis aux dispositions prévues par les articles
-R. 555-40 et R. 555-41.
+Le transporteur est le propriétaire d'une canalisation sauf, dans le cas d'une
+canalisation soumise à autorisation, stipulation contraire approuvée par
+l'autorité compétente pour délivrer l'autorisation.
+
+Une section de canalisation de transport mentionnée au I de l'article L. 555-1
+est une partie de canalisation de transport délimitée par deux organes
+d'isolement.
+
+Un tronçon de canalisation de transport est, au sein d'une section, un élément
+ou un ensemble d'éléments de canalisation de caractéristiques homogènes
+assemblés bout à bout.
+
+Un système de gestion de la sécurité est l'ensemble des dispositions mises en
+œuvre par le transporteur, relatives à l'organisation, aux fonctions, aux
+procédures et aux ressources de tout ordre ayant pour objet la prévention et le
+traitement des incidents et des accidents sur les canalisations de transport
+qu'il exploite.
+
+La mise en service d'une canalisation de transport est la première mise en
+mouvement du fluide transporté. L'utilisation du fluide devant être transporté
+pour la réalisation d'une épreuve mentionnée à l'article R. 555-40, ou pour le
+remplissage de la canalisation de transport à faible pression, n'est pas
+considérée comme une mise en service.
