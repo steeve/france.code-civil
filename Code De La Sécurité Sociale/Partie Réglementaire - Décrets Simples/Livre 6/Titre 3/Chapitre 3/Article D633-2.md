@@ -1,10 +1,10 @@
 Article D633-2
 ----
 Pour les assurés en activité, autres que les aides familiaux des entreprises
-artisanales, la cotisation annuelle est assise, dans la limite du plafond
-mentionné à l'article L. 633-10, sur leurs revenus provenant d'activités
-professionnelles non salariées non agricoles tels qu'ils sont définis à
-l'article L. 131-6. La valeur de ce plafond est déterminée conformément à
+artisanales, la cotisation annuelle est assise pour partie sur le revenu
+d'activité, tel que défini à l'article L. 131-6, dans la limite du plafond
+mentionné au premier alinéa de l'article L. 241-3 et pour partie sur la totalité
+de ce revenu d'activité. La valeur de ce plafond est déterminée conformément à
 l'article D. 612-6.
 
 La cotisation annuelle ne peut être calculée sur une assiette inférieure à 5,25

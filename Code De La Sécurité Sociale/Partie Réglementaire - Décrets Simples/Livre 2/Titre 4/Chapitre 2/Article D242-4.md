@@ -8,11 +8,9 @@ RÉMUNÉRATIONS VERSÉES
 
 SUR LA PART DE LA RÉMUNÉRATION
 
-dans la limite du plafond
+dans la limite du plafond prévu
 
-prévu au premier alinéa
-
-de l'article L. 241-3
+au premier alinéa de l'article L. 241-3
 
 
 SUR LA TOTALITÉ
@@ -29,27 +27,6 @@ Employeur
 
 Salarié
 
-Jusqu'au 31 octobre 2012
-
-8,30 %
-
-6,65 %
-
-1,6 %
-
-0,1 %
-
-
-Du 1er novembre 2012 au 31 décembre 2013
-
-8,40 %
-
-6,75 %
-
-1,6 %
-
-0,1 %
-
 
 Du 1er janvier au 31 décembre 2014
 
@@ -57,9 +34,9 @@ Du 1er janvier au 31 décembre 2014
 
 6,80 %
 
-1,6 %
+1,75 %
 
-0,1 %
+0,25 %
 
 
 Du 1er janvier au 31 décembre 2015
@@ -68,9 +45,9 @@ Du 1er janvier au 31 décembre 2015
 
 6,85 %
 
-1,6 %
+1,75 %
 
-0,1 %
+0,25 %
 
 
 A compter du 1er janvier 2016
@@ -79,6 +56,6 @@ A compter du 1er janvier 2016
 
 6,90 %
 
-1,6 %
+1,75 %
 
-0,1 %
+0,25 %

@@ -4,10 +4,6 @@ L'assuré qui n'a pas souscrit la déclaration de revenus prévue à l'article R
 115-5 est redevable d'une cotisation provisoire calculée et notifiée
 conformément aux dispositions de l'article R. 242-14.
 
-Cette cotisation provisoire ne peut toutefois excéder le montant de la
-cotisation due sur le plafond mentionné au deuxième alinéa de l'article L.
-633-10.
-
 La cotisation annuelle effectivement due par l'assuré qui a souscrit avec retard
 la déclaration de revenus mentionnée au premier alinéa est assortie d'une
 pénalité calculée et recouvrée dans les conditions prévues à l'article R.

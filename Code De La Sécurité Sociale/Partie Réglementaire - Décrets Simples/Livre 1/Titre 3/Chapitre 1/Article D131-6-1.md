@@ -3,8 +3,8 @@ Article D131-6-1
 Pour les travailleurs indépendants mentionnés aux a et b du 1° de l'article L.
 613-1, le taux mentionné au premier alinéa de l'article L. 133-6-8 est fixé à :
 
-a) 14 % pour les travailleurs indépendants concernés par le premier seuil prévu
-au premier alinéa du 1 de l'article 50-0 du code général des impôts ;
+a) 14,1 % pour les travailleurs indépendants concernés par le premier seuil
+prévu au premier alinéa du 1 de l'article 50-0 du code général des impôts ;
 
 b) 24,6 % pour les travailleurs indépendants concernés par le second seuil prévu
 au premier alinéa du 1 de l'article 50-0 du code général des impôts ;

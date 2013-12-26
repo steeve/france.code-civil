@@ -1,11 +1,13 @@
 Article D633-3
 ----
-Les assurés mentionnés à l'article D. 633-2 sont tenus de déclarer à l'organisme
-désigné par la convention prévue à l'article R. 115-5 et dans les conditions
-prévues audit article les revenus professionnels non salariés qu'ils ont
-réalisés au cours de l'année civile précédente.
+I. - Le taux des cotisations assises sur le revenu d'activité dans la limite du
+plafond est fixé à :
 
-A défaut, les assurés n'ayant pas déclaré leurs revenus à l'organisme désigné
-par la convention dans les délais prévus par celle-ci sont tenus de le faire à
-la caisse de base à laquelle ils sont affiliés, sous peine des sanctions prévues
-à l'article D. 633-4.
+a) 16,95 % pour l'année 2014 ;
+
+b) 17,05 % pour l'année 2015 ;
+
+c) 17,15 % à compter de l'année 2016.
+
+II. - Le taux des cotisations assises sur la totalité du revenu d'activité est
+fixé à 0,20 %.
