@@ -4,8 +4,8 @@ Le médecin, le chirurgien-dentiste, la sage-femme ou l'auxiliaire médical
 prestataire de services est soumis à la section des assurances sociales de la
 chambre disciplinaire compétente dans le ressort de laquelle il exécute l'acte
 professionnel ou, s'il s'agit d'un pharmacien, à la section des assurances
-sociales du conseil compétent dans les conditions prévues à l'article R. 4222-6
-du code de la santé publique.
+sociales du conseil compétent dans les conditions prévues au premier alinéa de
+l'article R. 4222-6 du code de la santé publique.
 
 Lorsqu'un prestataire de services est traduit devant la section des assurances
 sociales d'une chambre disciplinaire de première instance ou la section des

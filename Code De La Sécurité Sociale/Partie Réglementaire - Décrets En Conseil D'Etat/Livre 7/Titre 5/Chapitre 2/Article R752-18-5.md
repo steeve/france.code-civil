@@ -14,8 +14,8 @@ de La Réunion ou un magistrat délégué par lui.
 
 La section comprend également, d'une part, deux assesseurs proposés par le
 conseil interrégional et choisis en son sein et, d'autre part, deux assesseurs
-proposés conjointement par les deux caisses locales de sécurité sociale après
-consultation des médecins-conseils régionaux, parmi les
-chirurgiens-dentistes-conseils ou les médecins-conseils chargés du contrôle
-médical sur ces territoires. Les assesseurs sont nommés par le président du
-tribunal administratif de La Réunion.
+proposés par le médecin-conseil national du régime général de sécurité sociale,
+parmi les chirurgiens-dentistes-conseils titulaires chargés du contrôle médical,
+en dehors du ressort de la section des assurances sociales de la chambre
+disciplinaire de première instance concernée. Les assesseurs sont nommés par le
+président du tribunal administratif de La Réunion.
