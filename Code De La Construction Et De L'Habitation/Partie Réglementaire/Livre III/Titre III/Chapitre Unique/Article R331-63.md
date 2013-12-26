@@ -5,9 +5,12 @@ présente section, pour financer :
 
 1° L'acquisition de droits de construire ou de terrains destinés à la
 construction de logements, la construction de ces logements ou leur acquisition
-; sont assimilés à la construction de logements l'aménagement à usage de
-logement de locaux non destinés à l'habitation et l'agrandissement de logements
-existants, par extension ou surélévation ;
+; sont assimilés à la construction de logements l'acquisition d'un logement en
+vue de sa première occupation après la réalisation de travaux concourant à la
+production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de
+l'article 257 du code général des impôts, l'aménagement à usage de logement de
+locaux non destinés à l'habitation et l'agrandissement de logements existants,
+par extension ou surélévation ;
 
 2° (abrogé)
 
