@@ -78,7 +78,7 @@ procédure pour la réalisation d'ouvrages similaires. Sa mise en concurrence do
 nouveaux travaux ;
 
 8° Pour les marchés et les accords-cadres ayant pour objet l'achat de matières
-premières cotées et achetées en bourse ;
+premières cotées et achetées en Bourse ;
 
 9° Pour les marchés passés en application d'un accord-cadre mentionné à
 l'article 169 ;
@@ -101,9 +101,9 @@ tous invités à négocier.
 III.-Elles peuvent aussi mettre en oeuvre une procédure adaptée, dans les
 conditions prévues par l'article 146 :
 
-a) Lorsque le montant estimé du besoin est inférieur à 400 000 euros HT pour les
+a) Lorsque le montant estimé du besoin est inférieur à 414 000 euros HT pour les
 fournitures et les services, ou lorsque le montant estimé du besoin est
-inférieur à 5 000 000 € HT pour les travaux ;
+inférieur à 5 186 000 € HT pour les travaux ;
 
 b) Pour certains lots, dans les conditions prévues au III de l'article 27 ;
 
