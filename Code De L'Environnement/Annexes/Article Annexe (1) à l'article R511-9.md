@@ -1940,60 +1940,6 @@ A
 
 1
 
-1180
-
-Polychlorobiphényles, polychloroterphényles
-
-1. Utilisation de composants, appareils et matériels imprégnés contenant plus de
-30 l de produits
-
-
-D
-
-1. Non soumis à la taxe
-
--
-
-2. Dépôt de composants, d'appareils, de matériels imprégnés usagés ou de
-produits neufs ou usagés.
-
-La quantité totale de produits susceptible d'être présente dans l'installation
-étant :
-
-a) supérieure ou égale à 1 000 l
-
-
-A
-
-2
-
-2. Non soumis à la taxe
-
--
-
-b) supérieure ou égale à 100 l, mais inférieure à 1 000 l
-
-
-D
-
-3. Réparation, récupération, maintenance, décontamination (1), démontage de
-composants, appareils et matériels imprégnés, hors du lieu de service lorsque la
-quantité de produits est supérieure à 50 l
-
-
-A
-
-2
-
-3. La quantité totale de produits susceptible d'être présente dans
-l'installation est supérieure à 50 l
-
-2
-
-(1) La définition de décontamination est celle figurant à l'article 9 du décret
-du 2 février 1987 relatif à la mise sur le marché, l'utilisation et
-l'élimination des PCB et PCT.
-
 1185
 
 Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou

@@ -415,31 +415,37 @@ D
 
 2102
 
-Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou en
-plein air :
+Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein air,
+à l'exclusion d'activités spécifiques visées à d'autres rubriques :
 
-1. Plus de 450 animaux-équivalents
+1. Installations dont les activités sont classées au titre de la rubrique 3660
 
 
 A
 
 3
 
-2. De 50 à 450 animaux-équivalents
+2. Autres installations que celles visées au 1 et détenant :
+
+a) Plus de 450 animaux-équivalents
+
+
+E
+
+b) De 50 à 450 animaux-équivalents
 
 
 D
 
-Nota :
+Nota. - Les porcs à l'engrais, jeunes femelles avant la première saillie et
+animaux en élevage de multiplication ou sélection comptent pour un
+animal-équivalent.
 
--Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en
-élevage de multiplication ou sélection comptent pour un animal-équivalent,
+Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles
+utilisés pour la reproduction) comptent pour trois animaux-équivalents.
 
--Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles
-utilisés pour la reproduction) comptent pour trois animaux-équivalents,
-
--Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement
-ou sélection comptent pour 0, 2 animal-équivalent.
+Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement
+ou sélection comptent pour 0,2 animal-équivalent.
 
 2110
 
@@ -778,10 +784,8 @@ A
 3
 
 B. Autres installations que celles visées au A, la quantité de produits entrant
-étant :
-
-1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours
-consécutifs en un an :
+étant : 1. Lorsque l'installation fonctionne pendant une durée maximale de 90
+jours consécutifs en un an :
 
 a) Supérieure à 20 t/ j
 
@@ -793,9 +797,7 @@ b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j
 
 D
 
-2. Autres installations :
-
-a) Supérieure à 10 t/ j
+2. Autres installations : a) Supérieure à 10 t/ j
 
 
 E
@@ -1743,3 +1745,8 @@ n'excède pas 500 m³
 DC
 
 -
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en
+vigueur le jour de la publication de l'arrêté ministériel fixant les
+prescriptions générales applicables aux installations relevant du régime de
+l'enregistrement dans ces deux rubriques.

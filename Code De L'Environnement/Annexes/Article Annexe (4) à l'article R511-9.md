@@ -615,6 +615,11 @@ nettoyage-dégraissage visé par la rubrique 2563.
 
 1. Lorsqu'il y a mise en œuvre :
 
+
+A
+
+1
+
 1. Quelle que soit la capacité
 
 4
@@ -627,11 +632,6 @@ A
 1
 
 b) De cyanures, le volume des cuves étant supérieur à 200 l
-
-
-A
-
-1
 
 2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de
 cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de
@@ -911,13 +911,13 @@ b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
 2661
 
 Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs
-synthétiques) (transformation de)
+synthétiques) (transformation de) :
 
 1. Par des procédés exigeant des conditions particulières de température ou de
-pression (extrusion, injection, moulage, segmentation à chaud, densification,
+pression (extrusion, injection, moulage, segmentation à chaud, vulcanisation,
 etc.), la quantité de matière susceptible d'être traitée étant :
 
-a) Supérieure ou égale à 10 t/j
+a) Supérieure ou égale à 70 t/ j
 
 
 A
@@ -929,7 +929,12 @@ A
 
 1
 
-b) Supérieure ou égale à 1 t/j, mais inférieure à 10 t/j
+b) Supérieure ou égale à 10 t/ j mais inférieure à 70 t/ j
+
+
+E
+
+c) Supérieure ou égale à 1 t/ j, mais inférieure à 10 t/ j
 
 
 D
@@ -937,19 +942,17 @@ D
 2. Par tout procédé exclusivement mécanique (sciage, découpage, meulage,
 broyage, etc.), la quantité de matière susceptible d'être traitée étant :
 
-a) Supérieure ou égale à 20 t/j
+a) Supérieure ou égale à 20 t/ j
 
 
-A
-
-1
+E
 
 2. La quantité de matière susceptible d'être traitée étant supérieure ou égale à
 20 t/j
 
 1
 
-b) Supérieure ou égale à 2 t/j, mais inférieure à 20 t/j
+b) Supérieure ou égale à 2 t/ j, mais inférieure à 20 t/ j
 
 
 D
@@ -1757,6 +1760,55 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 2. Non soumis à la taxe
 
 -
+
+2792
+
+1. Installations de transit, tri, regroupement de déchets contenant des PCB/PCT
+à une concentration supérieure à 50 ppm :
+
+a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est
+supérieure ou égale à 200 t
+
+
+AS
+
+4
+
+b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est
+supérieure ou égale à 2 t et inférieure à 200 t
+
+
+A
+
+2
+
+c) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est
+inférieure à 2 t
+
+
+DC
+
+2. Installations de traitement, y compris les installations de décontamination,
+des déchets contenant des PCB/PCT à une concentration supérieure à 50 ppm, hors
+installations mobiles de décontamination :
+
+a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est
+supérieure ou égale à 200 t
+
+
+AS
+
+4
+
+b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est
+inférieure à 200 t
+
+
+A
+
+2
+
+Nota. - La concentration en PCB/PCT s'exprime en PCB totaux.
 
 2793
 
@@ -3144,3 +3196,8 @@ d'utilité publique, C : soumis au contrôle périodique prévu par l'article L.
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322
 sont supprimées. Se référer à la place aux rubriques 2770 et 2771.
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en
+vigueur le jour de la publication de l'arrêté ministériel fixant les
+prescriptions générales applicables aux installations relevant du régime de
+l'enregistrement dans ces deux rubriques.
