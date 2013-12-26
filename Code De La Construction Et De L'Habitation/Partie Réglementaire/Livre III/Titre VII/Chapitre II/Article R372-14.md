@@ -44,5 +44,5 @@ collectivités est dégradée ;
 le territoire d'une commune ayant conclu avec l'Etat une convention d'action
 foncière ;
 
-3° En Guyane, l'opération doit se situer sur le territoire d'une commune ayant
-conclu avec l'Etat une convention en faveur du logement social.
+3° En Guyane et à Mayotte, l'opération doit se situer sur le territoire d'une
+commune ayant conclu avec l'Etat une convention en faveur du logement social.

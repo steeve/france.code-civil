@@ -31,8 +31,8 @@ plus de 100 000 habitants au dernier recensement partiel connu et dans les zones
 d'urbanisation et les villes nouvelles hors de la région d'Ile-de-France (zone
 2) ;
 
-0, 25 € pour les logements situés dans les départements d'outre-mer et dans le
-reste du territoire national (zone 3).
+0, 25 € pour les logements situés en Guadeloupe, en Guyane, en Martinique, à La
+Réunion et à Mayotte et dans le reste du territoire national (zone 3).
 
 A compter du 1er janvier 2010, ces montants de supplément de loyer de référence
 sont révisés le 1er janvier de chaque année par indexation sur l'évolution de

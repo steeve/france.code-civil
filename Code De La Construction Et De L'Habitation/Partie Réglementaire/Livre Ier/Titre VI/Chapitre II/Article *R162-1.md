@@ -1,10 +1,9 @@
 Article *R162-1
 ----
-I. - Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et
-de La Réunion, les bâtiments d'habitation nouveaux et parties nouvelles de
-bâtiments d'habitation existants sont construits et aménagés de telle sorte
-qu'une protection solaire et une ventilation naturelle limitent le recours à la
-climatisation.
+I. - En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, les
+bâtiments d'habitation nouveaux et parties nouvelles de bâtiments d'habitation
+existants sont construits et aménagés de telle sorte qu'une protection solaire
+et une ventilation naturelle limitent le recours à la climatisation.
 
 Leurs caractéristiques thermiques sont telles que la consommation d'énergie du
 bâtiment ou de la partie du bâtiment concernée, pour le chauffage, dans les

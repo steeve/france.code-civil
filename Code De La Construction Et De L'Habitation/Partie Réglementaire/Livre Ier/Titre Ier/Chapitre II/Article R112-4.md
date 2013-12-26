@@ -7,5 +7,5 @@ références et caractéristiques des matériaux mis en oeuvre.
 
 Un arrêté conjoint des ministres chargés de la construction et de l'outre-mer
 précise les conditions d'application des dispositions de la présente section
-ainsi que les adaptations à la situation particulière des départements
-d'outre-mer.
+ainsi que les adaptations à la situation particulière de la Guadeloupe, de la
+Guyane, de la Martinique, de La Réunion et de Mayotte.

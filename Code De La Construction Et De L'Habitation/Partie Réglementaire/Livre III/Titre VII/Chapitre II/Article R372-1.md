@@ -1,8 +1,8 @@
 Article R372-1
 ----
 Dans les limites et conditions fixées par le présent chapitre, des subventions
-et des prêts peuvent être accordés dans les départements d'outre-mer pour
-financer :
+et des prêts peuvent être accordés en Guadeloupe, en Guyane, en Martinique, à La
+Réunion et à Mayotte pour financer :
 
 1. La construction de logements à usage locatif ;
 

@@ -11,7 +11,8 @@ Ces subventions et ces prêts peuvent être attribués :
 2° Aux sociétés d'économie mixte ayant pour objet statutaire la réalisation de
 logements ;
 
-3° Aux sociétés d'économie mixte de construction constituées dans les
-départements d'outre-mer en application de la loi n° 46-860 du 30 avril 1946
-tendant à l'établissement et à l'exécution de plans d'équipement et de
-développement économique et social des territoires et départements d'outre-mer.
+3° Aux sociétés d'économie mixte de construction constituées en Guadeloupe, en
+Guyane, en Martinique, à La Réunion et à Mayotte en application de la loi n°
+46-860 du 30 avril 1946 tendant à l'établissement et à l'exécution de plans
+d'équipement et de développement économique et social des territoires et
+départements d'outre-mer.

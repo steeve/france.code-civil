@@ -10,9 +10,9 @@ organisme d'habitations à loyer modéré ;
 2° Aux logements locatifs faisant l'objet des conventions conclues en
 application de l'article L. 351-2 ;
 
-3° Dans les départements d'outre-mer et à Saint Martin, aux logements locatifs
-sociaux des sociétés d'économie mixte construits, acquis ou améliorés à l'aide
-de prêts aidés par l'Etat.
+3° En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte et à Saint
+Martin, aux logements locatifs sociaux des sociétés d'économie mixte construits,
+acquis ou améliorés à l'aide de prêts aidés par l'Etat.
 
 II.-Lorsqu'une société d'économie mixte met en vente, en application de
 l'article L. 443-15-2, un logement conventionné vacant ou, s'il est situé dans

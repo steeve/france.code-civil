@@ -9,12 +9,13 @@ Sont électeurs et éligibles les personnes visées aux 1° et 2° de l'article 
 422-2-1, aux conditions prévues par ces dispositions, dès lors qu'elles occupent
 :
 
-- un logement faisant l'objet des conventions régies par le chapitre III du
-titre V du livre III du présent code ;
+-un logement faisant l'objet des conventions régies par le chapitre III du titre
+V du livre III du présent code ;
 
-- un logement construit, acquis ou amélioré avec le concours financier de
-l'Etat, dans les départements d'outre-mer, pour les sociétés d'économie mixte
-visées à l'article L. 472-1-1 et pour les sociétés d'économie mixte locales.
+-un logement construit, acquis ou amélioré avec le concours financier de l'Etat,
+en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, pour les
+sociétés d'économie mixte visées à l'article L. 472-1-1 et pour les sociétés
+d'économie mixte locales.
 
 Le ou les représentants des locataires sont élus pour quatre ans dans les
 conditions prévues aux 3° et 4° de l'article R. 422-2-1 sous réserve des

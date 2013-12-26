@@ -9,9 +9,10 @@ d'une notification, par lettre recommandée avec demande d'avis de réception, �
 l'organisme ayant assuré le relogement.
 
 Cette notification doit être effectuée dans le délai maximum d'un mois après la
-publication au fichier immobilier de l'acte translatif de propriété en cas
-d'aliénation et dans le délai maximum d'un mois après la délivrance du permis de
-construire en cas de reconstruction.
+publication au fichier immobilier ou, à Mayotte, l'inscription sur le livre
+foncier de l'acte translatif de propriété en cas d'aliénation et dans le délai
+maximum d'un mois après la délivrance du permis de construire en cas de
+reconstruction.
 
 Dans le premier cas, elle doit indiquer les noms et adresse de l'acquéreur.
 
