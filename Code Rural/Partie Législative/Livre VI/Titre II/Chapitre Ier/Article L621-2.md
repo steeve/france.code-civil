@@ -8,3 +8,6 @@ de l'aquaculture et de la pêche professionnelle en eau douce, sous réserve des
 missions confiées à d'autres établissements publics, notamment ceux mentionnés
 aux articles L. 313-1 et L. 642-5 et des compétences exercées par les
 organisations interprofessionnelles de ces différents secteurs.
+
+En outre, il participe à la mise en œuvre de l'aide aux personnes les plus
+démunies.
