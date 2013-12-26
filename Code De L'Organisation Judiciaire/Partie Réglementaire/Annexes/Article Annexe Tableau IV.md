@@ -86,21 +86,19 @@ Lot-et-Garonne
 
 Agen
 
-[Agen
+
+Agen
 
 Cantons d'Agen-Centre, Agen-Nord, Agen-Nord-Est, Agen-Ouest, Agen-Sud-Est,
-Astaffort, Beauville, Laplume, Laroque-Timbaut, Port Sainte-Marie, Prayssas et
-Puymirol. (3)]
+Astaffort, Beauville, Francescas, Laplume, Laroque-Timbaut, Lavardac, Mézin,
+Nérac, Port-Sainte-Marie, Prayssas et Puymirol.
 
-[Agen
 
-Cantons d'Agen-Centre, Agen-Nord, Agen-Nord-Est, Agen-Ouest, Agen-Sud-Est,
-Astaffort, Beauville, Francescas, Laplume, Laroque Timbaut, Lavardac, Mézin,
-Nérac, Port-Sainte-Marie, Prayssas et Puymirol. (4)]
+Marmande
 
-[Nérac
-
-Cantons de Francescas, Lavardac, Mézin et Nérac. (3)]
+Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras,
+Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest,
+Meilhan-sur-Garonne, Seyches et Tonneins.
 
 
 Villeneuve-sur-Lot
@@ -109,20 +107,12 @@ Cantons de Cancon, Castillonnès, Fumel, Monclar, Monflanquin, Penne-d'Agenais,
 Sainte-Livrade-sur-Lot, Tournon-d'Agenais, Villeneuve-sur-Lot-Nord,
 Villeneuve-sur-Lot-Sud et Villeréal.
 
-[Marmande (6)]
 
-Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras,
-Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest,
-Meilhan-sur-Garonne, Seyches et Tonneins.
+Dont une chambre détachée à Marmande
 
-[Marmande (5)]
-
-
-Marmande
-
-Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Dainazan, Duras,
-Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest,
-Meilhan-sur-Garonne, Seyches et Tonneins.
+Ressort de la chambre détachée à Marmande : cantons de Bouglon, Casteljaloux,
+Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais,
+Marmande-Est, Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins.
 
 Cour d'appel d'Aix-en-Provence
 
@@ -478,28 +468,14 @@ Maine-et-Loire
 
 Angers
 
-[Angers
 
-Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est,
-Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé,
-Chalonnes-sur-Loire, Le Louroux-Béconnais, Les Ponts-de-Cé,
-Saint-Georges-sur-Loire, Thouarcé et Tiercé. (3)]
-
-[Angers
-
-Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est,
-Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé,
-Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Le Lion d'Angers, Le
-Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré,
-Thouarcé et Tiercé. (4 et 5)]
-
-[Angers
+Angers
 
 Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est,
 Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé,
 Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le
 Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré,
-Seiches-sur-le-Loir, Thouarcé et Tiercé. (6)]
+Seiches-sur-le-Loir, Thouarcé et Tiercé.
 
 
 Cholet
@@ -508,33 +484,13 @@ Cantons de Beaupréau, Champtoceaux, Chemillé, Cholet 1er canton, Cholet 2e
 canton, Cholet 3e canton, Montfaucon-Montigné, Montrevault et
 Saint-Florent-le-Vieil.
 
-[Saumur (6)]
+
+Saumur
+
+Saumur
 
 Cantons d'Allonnes, Baugé, Beaufort-en-Vallée, Doué-la-Fontaine, Gennes,
 Longué-Jumelles, Montreuil-Bellay, Noyant, Saumur-Nord, Saumur-Sud et Vihiers.
-
-[Segré
-
-Cantons de Candé, Châteauneuf-sur-Sarthe, Le Lion-d'Angers, Pouancé et Segré.
-(3)]
-
-[Saumur (5)]
-
-[Baugé
-
-Cantons de Baugé, Beaufort-en-Vallée, Durtal, Longué-Jumelles, Noyant et
-Seiches-sur-le-Loir. (3)]
-
-[Saumur
-
-Cantons d'Allonnes, Doué-la-Fontaine, Gennes, Montreuil-Bellay, Saumur-Nord,
-Saumur-Sud et Vihiers. (3)]
-
-[Saumur
-
-Cantons d'Allonnes, Baugé, Beaufort-en-Vallée, Doué-la-Fontaine, Durtal, Gennes,
-Longué-Jumelles, Montreuil-Bellay, Noyant, Seiches sur-le-Loir, Saumur-Nord,
-Saumur-Sud et Vihiers. (4)]
 
 
 Mayenne
@@ -814,30 +770,10 @@ Saint-Sauveur, Saulx et Vauvillers. (3)]
 
 Jura
 
-[Dole (5)]
-
-[Arbois
-
-Cantons d'Arbois, Champagnole, Les Planches-en-Montagne, Nozeroy, Poligny,
-Salins-les-Bains et Villers-Farlay. (3)]
-
-[Dole
-
-Cantons de Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord Est,
-Dole-Sud-Ouest, Gendrey, Montbarrey, Montmirey-le-Château et
-Rochefort-sur-Nenon. (3)]
-
-[Dole
-
-Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre,
-Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey,
-Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et
-Villers-Farlay. (4)]
-
-
 Lons-le-Saunier
 
-[Dole (6)]
+
+Dole
 
 Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre,
 Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey,
@@ -854,8 +790,16 @@ Sellières et Voiteur.
 
 Saint-Claude
 
-Cantons des-Bouchoux, Moirans-en-Montagne, Morez, Saint-Claude et
+Cantons Les Bouchoux, Moirans-en-Montagne, Morez, Saint-Claude et
 Saint-Laurent-en-Grandvaux.
+
+
+Dont une chambre détachée à Dole
+
+Ressort de la chambre détachée à Dole : cantons d'Arbois, Champagnole,
+Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey,
+Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny,
+Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay.
 
 
 Territoire de Belfort
@@ -1302,8 +1246,8 @@ Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
 
 Dont une chambre détachée à Saint-Laurent-du-Maroni
 
-Ressort de la chambre détachée à Saint-Laurent-du-Maroni : Mana, Maripasoula,
-Saint-Laurent-du-Maroni
+Ressort de la chambre détachée à Saint-Laurent-du-Maroni : cantons de Mana,
+Maripasoula, Saint-Laurent-du-Maroni.
 
 Cour d'appel de Chambéry
 
@@ -1992,34 +1936,17 @@ Brive-la-Gaillarde
 Cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Brive-la-Gaillarde Centre,
 Brive-la-Gaillarde-Nord-Est, Brive-la-Gaillarde-Nord-Ouest,
 Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Donzenac, Juillac,
-Larche, Lubersac, Malemort-sur-Corrèze, Mevssac et Vigeois.
+Larche, Lubersac, Malemort-sur-Corrèze, Meyssac et Vigeois.
 
-[Tulle (6)]
 
-Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La
-Roche-Canillac, Lapleau, Mercoeur, Meymac, Neuvic, Saint-Privat, Seilhac,
-Sornac, Treignac, Tulle-Campagne-Nord, Tulle Campagne-Sud, Tulle-Urbain-Nord,
+Tulle
+
+Tulle
+
+Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Egletons, Eygurande, La
+Roche-Canillac, Lapleau, Mercœur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac,
+Treignac, Tulle-Campagne-Nord, Tulle Campagne-Sud, Tulle-Urbain-Nord,
 Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche.
-
-[Tulle (5)]
-
-[Tulle
-
-Cantons d'Argentat, Corrèze, Égletons, La Roche-Canillac, Lapleau, Mercoeur,
-Saint-Privat, Seilhac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud,
-Tulle-Urbain-Nord, Tulle-Urbain-Sud et Uzerche. (3)]
-
-[Tulle
-
-Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La
-Roche-Canillac, Lapleau, Mercoeur, Meymac, Neuvic, Saint-Privat, Seilhac,
-Sornac, Treignac, Tulle-Campagne-Nord, Tulle Campagne-Sud, Tulle-Urbain-Nord,
-Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche. (4)]
-
-[Ussel
-
-Cantons de Bort-les-Orgues, Bugcat, Eygurande, Mcymae, Ncuvic, Sornac, Ussel-Est
-et Ussel-Ouest. (3)]
 
 
 Creuse
@@ -2565,15 +2492,10 @@ Rambervillers et Xertigny. (11)]
 
 [Epinal
 
-Cantons de Bains-les-Bains, Bruyères, Bulgnéville,
-
-Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,
-
-Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,
-
-Plombière-les-Bains, Rambervillers, Remiremont,
-
-Saulxures-sur-Moselotte et Xertigny. (12 et 3)]
+Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle,
+Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,
+Plombière-les-Bains, Rambervillers, Remiremont, Saulxures-sur-Moselotte et
+Xertigny. (12 et 3)]
 
 [Mirecourt
 
@@ -2845,7 +2767,7 @@ Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris et Selles-sur-Cher.
 [Vendôme
 
 Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré,
-Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)]
+Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
 
 Cour d'appel de Paris
 
@@ -3659,60 +3581,31 @@ Cour d'appel de Rennes
 
 Côtes-d'Armor
 
-[Dinan (5)]
 
+Saint-Brieuc
 
-Dinan
-
-Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Évran, Jugon-les-Lacs,
-Matignon, Plancoët, Plélan-le-Petit et Ploubalay.
-
-[Guingamp (5)]
-
-[Guingamp
-
-Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp,
-Maël-Carhaix, Plouagat, Pontrieux, Rostrenen et Saint-Nicolas-du-Pélem. (3)]
-
-[Guingamp
+Guingamp
 
 Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La
 Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves,
 Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier.
-(4)]
-
-[Lannion
-
-Cantons de La Roche-Derrien, Lannion, Lézardrieux, Perros-Guirec,
-Plestin-les-Grèves, Plouaret et Tréguier. (3)]
 
 
 Saint-Brieuc
 
-[Loudéac
-
-Cantons de Collinée, Corlay, Gouarec, La Chèze, Loudéac, Merdrignac,
-Mûr-de-Bretagne, Plouguenast et Uzel. (3)]
-
-[Guingamp (6)]
-
-Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La
-Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves,
-Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier.
-
-[Saint-Brieuc
-
-Cantons de Châtelaudren, Étables-sur-Mer, Lamballe, Langueux, Lanvollon,
-Moncontour, Paimpol, Pléneuf-Val-André, Plérin, Ploeuc-sur-Lié, Ploufragan,
-Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest et Saint-Brieuc-Sud. (3)]
-
-[Saint-Brieuc
-
-Cantons de Châtelaudren, Collinée, Corlay, Étables-sur-Mer, Gouaree, La Chèze,
+Cantons de Châtelaudren, Collinée, Corlay, Etables-sur-Mer, Gouarec, La Chèze,
 Lamballe, Langueux, Lanvollon, Loudéac, Merdrignac, Moncontour, Mûr-de-Bretagne,
-Paimpol, Pléneuf-Val-André, Plérin, Ploeuc-sur-Lié, Ploufragan, Plouguenast,
+Paimpol, Pléneuf-Val-André, Plérin, Plœuc-sur-Lié, Ploufragan, Plouguenast,
 Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest, Saint-Brieuc-Sud et
-Uzel. (4)]
+Uzel.
+
+
+Dont une chambre détachée à Guingamp
+
+Ressort de la chambre détachée à Guingamp : cantons de Bégard,
+Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien,
+Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat,
+Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier.
 
 
 Finistère
@@ -4314,7 +4207,7 @@ Saint-Girons et Saint-Lizier.
 
 Haute-Garonne
 
-[Saint-Gaudens (5)]
+Saint-Gaudens
 
 
 Saint-Gaudens
@@ -4331,22 +4224,8 @@ Muret
 Cantons d'Auterive, Carbonne, Cintegabelle, Montesquieu-Volvestre, Muret,
 Portet-sur-Garonne, Rieumes, Rieux et Saint-Lys.
 
-[Saint-Gaudens (6)]
 
-Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse,
-Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens,
-Saint-Martory et Salies-du-Salat.
-
-[Toulouse
-
-Cantons de Blagnac, Cadours, Castanet-Tolosan, Fronton, Grenade, Léguevin,
-Montastruc-la-Conseillère, Toulouse 1er canton, Toulouse 2e canton, Toulouse 3e
-canton, Toulouse 4e canton, Toulouse 5e canton, Toulouse 6e canton, Toulouse 7e
-canton, Toulouse 8e canton, Toulouse 9e canton, Toulouse 10e canton, Toulouse
-11e canton, Toulouse 12e canton, Toulouse 13e canton, Toulouse 14e canton,
-Toulouse 15e canton, Tournefeuille, Verfeil et Villemur-sur-Tarn. (3)]
-
-[Toulouse
+Toulouse
 
 Cantons de Blagnac, Cadours, Caraman, Castanet-Tolosan, Fronton, Grenade, Lanta,
 Léguevin, Montastruc-la-Conseillère, Montgiscard, Nailloux, Revel, Toulouse 1er
@@ -4354,12 +4233,7 @@ canton, Toulouse 2e canton, Toulouse 3e canton, Toulouse 4e canton, Toulouse 5e
 canton, Toulouse 6e canton, Toulouse 7e canton, Toulouse 8e canton, Toulouse 9e
 canton, Toulouse 10e canton, Toulouse 11e canton, Toulouse 12e canton, Toulouse
 13e canton, Toulouse 14e canton, Toulouse 15e canton, Tournefeuille, Verfeil,
-Villefranche-de-Lauragais et Villemur-sur-Tarn. (4)]
-
-[Villefranche-de-Lauragais
-
-Cantons de Caraman, Lanta, Montgiscard, Nailloux, Revel et
-Villefranche-de-Lauragais. (3)]
+Villefranche-de-Lauragais et Villemur-sur-Tarn.
 
 
 Tarn
@@ -4425,7 +4299,7 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
 Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban 4e
-canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
+canton, Montauban 5e canton, Montauban 6e canton, Montpezat- de-Quercy,
 Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 Cour d'appel de Versailles
@@ -4682,10 +4556,7 @@ Nuku-Hiva
 
 Îles Marquises.
 
-
-Siège du tribunal de première instance
-
-et de la juridiction de proximité
+Siège du tribunal de première instance et de la juridiction de proximité
 
 
 Ressort

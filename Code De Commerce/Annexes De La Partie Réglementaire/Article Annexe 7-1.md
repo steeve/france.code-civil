@@ -205,29 +205,11 @@ Maine-et-Loire
 Angers
 
 
+Saumur
+
 Angers
 
-Ressort du tribunal de grande instance d'Angers
-
-
-Mayenne
-
-Laval
-
-
-Laval
-
-Ressort du tribunal de grande instance de Laval
-
-
-Sarthe
-
-Le Mans
-
-
-Le Mans
-
-Ressort du tribunal de grande instance du Mans
+Ressort des tribunaux de grande instance de d'Angers et de Saumur
 
 Cour d'appel de Bastia
 
@@ -637,29 +619,12 @@ Corrèze
 Brive-la-Gaillarde
 
 
+Tulle
+
 Brive-la-Gaillarde
 
-Ressort du tribunal de grande instance de Brive-la-Gaillarde
 
-
-Creuse
-
-Guéret
-
-
-Guéret
-
-Ressort du tribunal de grande instance de Guéret
-
-
-Haute-Vienne
-
-Limoges
-
-
-Limoges
-
-Ressort du tribunal de grande instance de Limoges
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et de Tulle
 
 Cour d'appel de Lyon
 
@@ -1294,52 +1259,17 @@ Ressort du tribunal de grande instance de Rouen
 Cour d'appel de Toulouse
 
 
-Ariège
-
-Foix
-
-
-Foix
-
-Ressort du tribunal de grande instance de Foix
-
-
 Haute-Garonne
 
 Toulouse
 
 
+Saint-Gaudens
+
 Toulouse
 
-Ressort du tribunal de grande instance de Toulouse
 
-
-Tarn
-
-Albi
-
-
-Albi
-
-Ressort du tribunal de grande instance d'Albi
-
-
-Castres
-
-Castres
-
-
-Ressort du tribunal de grande instance de Castres
-
-Tarn-et-Garonne
-
-
-Montauban
-
-Montauban
-
-
-Ressort du tribunal de grande instance de Montauban
+Ressort des tribunaux de grande instance de Toulouse et de Saint-Gaudens
 
 Cour d'appel de Versailles
 
