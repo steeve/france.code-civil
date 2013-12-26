@@ -252,7 +252,8 @@ logement, des transports et de l'espace et du ministre délégué au budget ;
 
 -règlement du 14 mai 1973 régissant les personnels non titulaires du institut
 français des sciences et technologies des transports, de l'aménagement et des
-réseaux et des centres d'études techniques de l'équipement ;
+réseaux et des centre d'études et d'expertise sur les risques, l'environnement,
+la mobilité et l'aménagement ;
 
 -règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non
 titulaires employés au service d'études techniques des routes et autoroutes ;
