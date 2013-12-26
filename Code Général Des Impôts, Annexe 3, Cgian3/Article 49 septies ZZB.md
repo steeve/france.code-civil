@@ -12,4 +12,8 @@ figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expirati
 de la période de six mois mentionnée au c du II de l'article R. *319-14 du code
 de la construction et de l'habitation pour la communication par l'établissement
 de crédit des informations concernant les avances qui font apparaître un
-avantage indûment perçu par l'emprunteur.
+avantage indûment perçu par l'emprunteur. Par dérogation, les éléments de nature
+à modifier le montant du crédit d'impôt en raison de l'avantage indûment perçu
+par l'emprunteur mentionné à l'article R. 319-30 du même code doivent figurer
+sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration de la
+période de neuf mois mentionnée à la deuxième phrase du même article.

@@ -1,6 +1,6 @@
 Article R319-16
 ----
-L'avance peut être accordée pour financer les travaux d'économie d'énergie,
+I. - L'avance peut être accordée pour financer les travaux d'économie d'énergie,
 réalisés par des professionnels sur un logement situé sur le territoire national
 et n'ayant pas été commencés avant l'émission de l'avance, suivants :
 
@@ -42,3 +42,7 @@ par des dispositifs ne consommant pas d'énergie. Un arrêté conjoint des
 ministres en charge de l'économie, du logement, de l'environnement et du budget
 définit les caractéristiques techniques de ces systèmes ouvrant droit à
 l'attribution d'une avance remboursable.
+
+II. - L'avance mentionnée au VI ter de l'article 244 quater U du code général
+des impôts peut être accordée pour financer des travaux correspondant à au moins
+l'une des catégories mentionnées au 1° du I

@@ -8,11 +8,14 @@ a) Soit pour le compte de l'emprunteur dans un logement dont il est propriétair
 ;
 
 b) Soit pour le compte du syndicat de copropriété, dont est membre l'emprunteur,
-sur les parties et équipements communs ou sur les parties privatives à usage
-commun de la copropriété dont fait partie un logement dont est propriétaire
-l'emprunteur ;
+sur les parties et équipements communs ou sur les parties privatives en cas de
+travaux d'intérêt collectif prévus au g de l'article 25 de la loi n° 65-557 du
+10 juillet 1965 dans la copropriété dont fait partie un logement dont est
+propriétaire l'emprunteur ;
 
 c) Soit concomitamment pour le compte de l'emprunteur dans un logement dont il
 est propriétaire et pour le compte du syndicat de copropriété, dont est membre
 l'emprunteur, sur les parties et équipements communs ou sur les parties
-privatives à usage commun de la copropriété dont fait partie ce logement.
+privatives en cas de travaux d'intérêt collectif prévus au g de l'article 25 de
+la loi n° 65-557 du 10 juillet 1965 dans la copropriété dont fait partie ce
+logement.
