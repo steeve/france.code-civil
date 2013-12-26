@@ -6,6 +6,8 @@ dans l'établissement, ou d'y être détachés ou mis à disposition, et de ne p
 être en congé de longue durée. Les personnels scientifiques des bibliothèques en
 fonctions dans un service interétablissements de coopération documentaire votent
 dans l'établissement de rattachement de ce service. Ils ne prennent part qu'aux
-élections visées aux articles D. 719-5 et D. 719-6. Les personnels scientifiques
-des bibliothèques en fonctions dans un service commun de la documentation ne
-prennent part qu'aux élections visées aux articles D. 719-5 et D. 719-6.
+élections au conseil d'administration et au conseil académique ou au conseil
+scientifique et au conseil des études et de la vie universitaire ou aux organes
+en tenant lieu . Les personnels scientifiques des bibliothèques en fonctions
+dans un service commun de la documentation ne prennent part qu'aux élections
+précitées.

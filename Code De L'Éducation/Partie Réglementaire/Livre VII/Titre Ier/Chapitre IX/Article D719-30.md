@@ -5,6 +5,6 @@ urne par collège. Le bureau de vote vérifie les urnes qui doivent être fermé
 au commencement du scrutin et le demeurer jusqu'à sa clôture. Lorsque la durée
 du scrutin est supérieure à une journée, il est procédé publiquement à
 l'apposition de scellés sur l'urne par une personne désignée à cet effet par le
-président de l'université ou le directeur de l'établissement, chaque jour à la
-fermeture des bureaux de vote. Les scellés sont déposés dans les mêmes
-conditions à la réouverture des bureaux.
+président ou le directeur de l'établissement, chaque jour à la fermeture des
+bureaux de vote. Les scellés sont déposés dans les mêmes conditions à la
+réouverture des bureaux.

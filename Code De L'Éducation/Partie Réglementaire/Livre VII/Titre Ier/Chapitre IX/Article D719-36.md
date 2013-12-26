@@ -9,4 +9,4 @@ Les bulletins blancs et nuls sont annexés au procès-verbal ainsi que les
 enveloppes non réglementaires et contresignés par les membres du bureau. Chacun
 des bulletins annexés doit porter mention des causes de l'annexion. A l'issue
 des opérations électorales, chaque bureau de vote dresse un procès-verbal qui
-est remis au président de l'université ou au directeur de l'établissement.
+est remis au président ou au directeur de l'établissement.

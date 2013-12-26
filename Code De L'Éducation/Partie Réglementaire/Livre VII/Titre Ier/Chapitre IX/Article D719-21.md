@@ -15,28 +15,30 @@ de fois le quotient électoral. Un suppléant est élu avec chaque membre titula
 élu. Les sièges non répartis par application des dispositions précédentes sont
 attribués successivement aux listes qui comportent les plus forts restes.
 Lorsqu'une liste a obtenu un nombre de voix inférieur au quotient électoral, ce
-nombre de voix tient lieu de reste. Lorsque plusieurs listes ont le même reste,
-le siège revient à la liste ayant obtenu le plus grand nombre de suffrages. Si
-les listes en cause ont recueilli le même nombre de suffrages, le siège est
-attribué par tirage au sort. Lorsque le nombre de sièges attribués à une liste
-dépasse le nombre de candidats présentés par cette liste, les sièges excédant ce
-nombre ne sont pas attribués. Il est alors procédé à une élection partielle. Les
-sièges sont attribués aux candidats d'après l'ordre de présentation de la liste.
-Pour l'élection des représentants des usagers, pour chaque liste, il est procédé
-dans la limite du nombre de sièges obtenus par celle-ci à l'élection des
-titulaires, et à l'élection d'un nombre égal de suppléants, dans l'ordre de
-présentation des candidats de la liste. Chaque membre suppléant ainsi désigné
-s'associe avec un membre titulaire dans l'ordre de présentation de la liste.
-Lorsqu'un représentant des personnels perd la qualité au titre de laquelle il a
-été élu ou lorsque son siège devient vacant, il est remplacé, pour la durée du
-mandat restant à courir, par le candidat de la même liste venant immédiatement
-après le dernier candidat élu. En cas d'impossibilité, il est procédé à un
-renouvellement partiel. Lorsqu'un représentant titulaire des usagers perd la
-qualité au titre de laquelle il a été élu ou lorsque son siège devient vacant,
-il est remplacé, pour la durée du mandat restant à courir, par son suppléant qui
-devient titulaire. Lorsque le siège d'un représentant suppléant devient vacant
-pour quelque cause que ce soit, il est attribué, pour la durée du mandat restant
-à courir, au premier des candidats non élu de la même liste. Lorsque le siège
+nombre de voix tient lieu de reste. Si plusieurs listes ont le même reste pour
+l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué
+au plus jeune des candidats susceptibles d'être proclamés élus.
+
+Lorsque le nombre de sièges attribués à une liste dépasse le nombre de candidats
+présentés par cette liste, les sièges excédant ce nombre ne sont pas attribués.
+Il est alors procédé à une élection partielle. Les sièges sont attribués aux
+candidats d'après l'ordre de présentation de la liste. Pour l'élection des
+représentants des usagers, pour chaque liste, il est procédé dans la limite du
+nombre de sièges obtenus par celle-ci à l'élection des titulaires, et à
+l'élection d'un nombre égal de suppléants, dans l'ordre de présentation des
+candidats de la liste. Chaque membre suppléant ainsi désigné s'associe avec un
+membre titulaire dans l'ordre de présentation de la liste. Lorsqu'un
+représentant des personnels perd la qualité au titre de laquelle il a été élu ou
+lorsque son siège devient vacant, il est remplacé, pour la durée du mandat
+restant à courir, par le candidat de la même liste venant immédiatement après le
+dernier candidat élu. En cas d'impossibilité, il est procédé à un renouvellement
+partiel. Lorsqu'un représentant titulaire des usagers perd la qualité au titre
+de laquelle il a été élu ou lorsque son siège devient vacant, il est remplacé,
+pour la durée du mandat restant à courir, par son suppléant qui devient
+titulaire. Lorsque le siège d'un représentant suppléant devient vacant pour
+quelque cause que ce soit, il est attribué, pour la durée du mandat restant à
+courir, au premier des candidats non élu de la même liste. Lorsque le siège
 vacant d'un représentant titulaire ne peut plus être pourvu dans l'ordre de
 présentation de la liste par application des dispositions prévues au présent
 alinéa, il est procédé à un renouvellement partiel. Lorsqu'il y a un seul siège
