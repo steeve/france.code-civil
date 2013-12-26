@@ -28,4 +28,9 @@ résolution ;
 
 2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen au cours des
 vingt-quatre derniers mois des emprunts de l'Etat français, sans pouvoir
-dépasser 3,5 %.
+dépasser 3,5 % ;
+
+3° Dans le cas des rentes allouées au titre des accidents survenus à compter du
+1er janvier 2013 et dont le montant est revalorisé en application de la loi n°
+51-695 du 24 mai 1951 ou de la loi n° 74-1118 du 27 décembre 1974, un taux
+d'inflation égal à 2,25 %.
