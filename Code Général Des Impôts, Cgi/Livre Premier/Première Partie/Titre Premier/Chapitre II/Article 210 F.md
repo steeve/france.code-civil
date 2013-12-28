@@ -28,15 +28,14 @@ mentionnés au 4° de l'article L. 351-2 du même code ou d'un organisme
 bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L.
 365-2 dudit code.
 
-Pour l'application du premier alinéa du présent article, les locaux à usage de
-bureaux s'entendent, d'une part, des bureaux proprement dits et de leurs
-dépendances immédiates et indispensables destinés à l'exercice d'une activité de
-quelque nature que ce soit et, d'autre part, des locaux professionnels destinés
-à l'exercice d'activités libérales ou utilisés par des associations ou
-organismes privés poursuivant ou non un but lucratif. Les locaux à usage
-commercial s'entendent des locaux destinés à l'exercice d'une activité de
-commerce de détail ou de gros et de prestations de services à caractère
-commercial ou artisanal.
+Pour l'application du premier alinéa, les locaux à usage de bureaux s'entendent,
+d'une part, des bureaux proprement dits et de leurs dépendances immédiates et
+indispensables destinés à l'exercice d'une activité de quelque nature que ce
+soit et, d'autre part, des locaux professionnels destinés à l'exercice
+d'activités libérales ou utilisés par des associations ou organismes privés
+poursuivant ou non un but lucratif. Les locaux à usage commercial s'entendent
+des locaux destinés à l'exercice d'une activité de commerce de détail ou de gros
+et de prestations de services à caractère commercial ou artisanal.
 
 II.-L'application du I est subordonnée à la condition que la société
 cessionnaire s'engage à transformer le local acquis en local à usage
@@ -56,7 +55,7 @@ l'engagement de transformation dans le délai restant à courir.
 
 Le non-respect de l'engagement de transformation par la société cessionnaire ou
 la société absorbante qui s'y est substituée entraîne l'application de l'amende
-prévue au III de l'article 1764 du présent code. Par dérogation, cette amende
-n'est pas due lorsque la société cessionnaire ou la société absorbante ne
-respecte pas l'engagement de transformation en raison de circonstances
-exceptionnelles indépendantes de sa volonté.
+prévue au III de l'article 1764. Par dérogation, cette amende n'est pas due
+lorsque la société cessionnaire ou la société absorbante ne respecte pas
+l'engagement de transformation en raison de circonstances exceptionnelles
+indépendantes de sa volonté.
