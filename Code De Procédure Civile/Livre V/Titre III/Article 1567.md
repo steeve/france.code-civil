@@ -1,4 +1,6 @@
 Article 1567
 ----
-La requête n'est pas assujettie à l'acquittement de la contribution pour l'aide
-juridique prévue par l'article 1635 bis Q du code général des impôts.
+Les dispositions des articles 1565 et 1566 sont applicables à la transaction
+conclue sans qu'il ait été recouru à une médiation, une conciliation ou une
+procédure participative. Le juge est alors saisi par la partie la plus diligente
+ou l'ensemble des parties à la transaction.

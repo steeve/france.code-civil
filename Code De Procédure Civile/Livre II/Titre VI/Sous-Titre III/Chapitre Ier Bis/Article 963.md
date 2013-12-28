@@ -1,24 +1,27 @@
 Article 963
 ----
-Sont compétents pour prononcer l'irrecevabilité de l'appel en application des
-articles 62 à 62-5 :
+Lorsque l'appel entre dans le champ d'application de l'article 1635 bis P du
+code général des impôts, les parties justifient, à peine d'irrecevabilité de
+l'appel ou des défenses selon le cas, de l'acquittement du droit prévu à cet
+article.
 
--le premier président ;
+Sauf en cas de demande d'aide juridictionnelle, l'auteur de l'appel principal en
+justifie lors de la remise de sa déclaration d'appel et les autres parties lors
+de la remise de leur acte de constitution par l'apposition de timbres mobiles ou
+par la remise d'un justificatif lorsque le droit pour l'indemnisation de la
+profession d'avoué a été acquitté par voie électronique. En cas de requête
+conjointe, les appelants justifient de l'acquittement du droit lors de la remise
+de leur requête.
 
--le président de la chambre à laquelle l'affaire est distribuée ;
+Lorsque la partie a sollicité le bénéfice de l'aide juridictionnelle, elle joint
+la décision accordant cette aide à l'acte assujetti à l'acquittement du droit. A
+défaut de décision rendue sur la demande d'aide juridictionnelle, l'acte est
+accompagné de la copie de cette demande. Si cette demande d'aide
+juridictionnelle est déclarée caduque ou rejetée ou que la décision l'octroyant
+est retirée, le demandeur justifie, à peine d'irrecevabilité, de l'acquittement
+du droit dans le mois suivant, selon le cas, la notification de la caducité ou
+la date à laquelle le rejet ou le retrait est devenu définitif.
 
--selon le cas, le conseiller de la mise en état jusqu'à la clôture de
-l'instruction ou le magistrat chargé d'instruire l'affaire jusqu'à l'audience
-prévue pour les débats ;
-
--la formation de jugement.
-
-Ils statuent, le cas échéant, sur les demandes fondées sur l'article 700.
-
-La décision d'irrecevabilité prononcée par le conseiller de la mise en état ou
-le magistrat chargé d'instruire l'affaire peut être déférée à la cour dans les
-conditions respectivement prévues par les articles 916 et 945.
-
-Lorsqu'elle émane du premier président ou du président de la chambre, la
-décision peut faire l'objet du recours ouvert contre les décisions de la
-juridiction.
+L'irrecevabilité est constatée d'office par le magistrat ou la formation
+compétents. Les parties n'ont pas qualité pour soulever cette irrecevabilité.
+Elles sont avisées de la décision par le greffe.

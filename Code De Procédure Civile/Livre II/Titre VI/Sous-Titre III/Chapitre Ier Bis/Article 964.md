@@ -1,26 +1,31 @@
 Article 964
 ----
-Lorsque l'appel entre dans le champ d'application de l'article 1635 bis P du
-code général des impôts, les parties justifient, à peine d'irrecevabilité de
-l'appel ou des défenses selon le cas, de l'acquittement du droit prévu à cet
-article.
+Sont compétents pour prononcer l'irrecevabilité de l'appel en application de
+l'article 963 :
 
-Sauf en cas de demande d'aide juridictionnelle, l'auteur de l'appel principal en
-justifie lors de la remise de sa déclaration d'appel et les autres parties lors
-de la remise de leur acte de constitution par l'apposition de timbres mobiles ou
-par la remise d'un justificatif lorsque le droit pour l'indemnisation de la
-profession d'avoué a été acquitté par voie électronique. En cas de requête
-conjointe, les appelants justifient de l'acquittement du droit lors de la remise
-de leur requête.
+-le premier président ;
 
-Lorsque la partie a sollicité le bénéfice de l'aide juridictionnelle, elle joint
-la décision accordant cette aide à l'acte assujetti à l'acquittement du droit. A
-défaut de décision rendue sur la demande d'aide juridictionnelle, l'acte est
-accompagné de la copie de cette demande. Si cette demande d'aide
-juridictionnelle est déclarée caduque ou rejetée ou que la décision l'octroyant
-est retirée, le demandeur justifie, à peine d'irrecevabilité, de l'acquittement
-du droit dans le mois suivant, selon le cas, la notification de la caducité ou
-la date à laquelle le rejet ou le retrait est devenu définitif.
+-le président de la chambre à laquelle l'affaire est distribuée ;
 
-L'irrecevabilité est constatée et, le cas échéant, rapportée dans les conditions
-prévues par les articles 62-5 et 963.
+-selon le cas, le conseiller de la mise en état jusqu'à la clôture de
+l'instruction ou le magistrat chargé d'instruire l'affaire jusqu'à l'audience
+prévue pour les débats ;
+
+-la formation de jugement.
+
+A moins que les parties aient été convoquées ou citées à comparaître à une
+audience, ils peuvent statuer sans débat. Ils statuent, le cas échéant, sur les
+demandes fondées sur l'article 700.
+
+Saisis dans un délai de quinze jours suivant leur décision, ils rapportent, en
+cas d'erreur, l'irrecevabilité, sans débat. Le délai de recours contre la
+décision d'irrecevabilité court à compter de la notification de la décision qui
+refuse de la rapporter.
+
+La décision d'irrecevabilité prononcée par le conseiller de la mise en état ou
+le magistrat chargé d'instruire l'affaire peut être déférée à la cour dans les
+conditions respectivement prévues par les articles 916 et 945.
+
+Lorsqu'elle émane du premier président ou du président de la chambre, la
+décision peut faire l'objet du recours ouvert contre les décisions de la
+juridiction.

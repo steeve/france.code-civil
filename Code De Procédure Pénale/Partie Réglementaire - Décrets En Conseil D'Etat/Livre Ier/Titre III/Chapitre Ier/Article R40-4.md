@@ -15,6 +15,3 @@ exemplaires.
 La remise est constatée par le greffe qui en mentionne la date sur chaque
 exemplaire, dont l'un est immédiatement restitué, et qui adresse un exemplaire
 aux personnes énumérées aux 1° à 3° autres que l'auteur du recours.
-
-Le recours formé par le demandeur n'est pas assujetti à l'acquittement de la
-contribution pour l'aide juridique prévue par le code général des impôts.

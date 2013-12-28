@@ -3,8 +3,7 @@ Article R2141-10
 La demande aux fins d'autorisation d'accueil d'embryon ou la demande de
 renouvellement de cette autorisation, formulée par un couple répondant aux
 conditions de l'article L. 2141-6, est portée devant le président du tribunal de
-grande instance ou son délégué. La contribution pour l'aide juridique prévue par
-l'article 1635 bis Q du code général des impôts n'est pas due.
+grande instance ou son délégué.
 
 Le tribunal compétent est :
 

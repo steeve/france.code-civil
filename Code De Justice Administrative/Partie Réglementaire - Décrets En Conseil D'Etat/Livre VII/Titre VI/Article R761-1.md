@@ -1,9 +1,7 @@
 Article R761-1
 ----
-Les dépens comprennent la contribution pour l'aide juridique prévue à l'article
-1635 bis Q du code général des impôts, ainsi que les frais d'expertise,
-d'enquête et de toute autre mesure d'instruction dont les frais ne sont pas à la
-charge de l'Etat.
+Les dépens comprennent les frais d'expertise, d'enquête et de toute autre mesure
+d'instruction dont les frais ne sont pas à la charge de l'Etat.
 
 Sous réserve de dispositions particulières, ils sont mis à la charge de toute
 partie perdante sauf si les circonstances particulières de l'affaire justifient
