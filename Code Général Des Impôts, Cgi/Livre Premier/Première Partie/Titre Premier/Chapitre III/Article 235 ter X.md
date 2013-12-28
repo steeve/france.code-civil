@@ -26,10 +26,30 @@ aux sinistres d'un exercice déterminé a été augmenté à la clôture d'un ex
 ultérieur, les sommes réintégrées sont réputées provenir par priorité de la
 dotation la plus récemment pratiquée.
 
-La taxe est acquittée dans les cinq mois de la clôture de l'exercice. Elle est
-liquidée, déclarée et recouvrée comme en matière de taxes sur le chiffre
-d'affaires et sous les mêmes garanties et sanctions.
+La taxe est déclarée et liquidée :
 
-Ces dispositions ne s'appliquent pas aux provisions constituées à raison des
-opérations de réassurance par les entreprises pratiquant la réassurance de
-dommages.
+1° Pour les redevables de la taxe sur la valeur ajoutée, sur l'annexe à la
+déclaration mentionnée au 1 de l'article 287 déposée au titre du mois d'avril ou
+du deuxième trimestre de l'année au cours de laquelle la taxe prévue au présent
+article est due ou, pour les redevables dont l'exercice comptable ne coïncide
+pas avec l'année civile, au titre du quatrième mois ou du deuxième trimestre qui
+suit la clôture de l'exercice ;
+
+2° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime
+simplifié d'imposition prévu à l'article 302 septies A, sur la déclaration
+annuelle mentionnée au 3 de l'article 287 déposée dans le courant de l'année au
+cours de laquelle la taxe est due ;
+
+3° Pour les personnes non redevables de la taxe sur la valeur ajoutée, sur
+l'annexe à la déclaration prévue au 1 du même article 287 déposée auprès du
+service chargé du recouvrement dont relève leur siège ou principal établissement
+au plus tard le 25 juin de l'année au cours de laquelle la taxe prévue au
+présent article est due.
+
+La taxe est acquittée lors du dépôt de la déclaration. Elle est recouvrée comme
+en matière de taxes sur le chiffre d'affaires et sous les mêmes garanties et
+sanctions.
+
+Les dispositions du présent article ne s'appliquent pas aux provisions
+constituées à raison des opérations de réassurance par les entreprises
+pratiquant la réassurance de dommages.
