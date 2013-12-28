@@ -6,7 +6,7 @@ exceptionnelle égale à une fraction de cet impôt calculé sur leurs résultat
 imposables, aux taux mentionnés à l'article 219, des exercices clos à compter du
 31 décembre 2011 et jusqu'au 30 décembre 2015.
 
-Cette contribution est égale à 5 % de l'impôt sur les sociétés dû, déterminé
+Cette contribution est égale à 10,7 % de l'impôt sur les sociétés dû, déterminé
 avant imputation des réductions et crédits d'impôt et des créances fiscales de
 toute nature.
 
