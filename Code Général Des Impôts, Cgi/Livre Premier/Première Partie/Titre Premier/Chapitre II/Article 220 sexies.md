@@ -79,10 +79,9 @@ France, dès lors qu'il n'existe pas de lien de dépendance, au sens du 12 de
 l'article 39, entre cette personne et l'entreprise de production bénéficiaire du
 crédit d'impôt.
 
-Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui
-concerne les œuvres cinématographiques et audiovisuelles d'animation. Il est
-porté à 30 % pour les œuvres cinématographiques dont le budget de production est
-inférieur à 7 millions d'euros.
+Le taux mentionné au premier alinéa du présent 1 est, en ce qui concerne les
+œuvres cinématographiques, porté à 30 % lorsque le budget de production est
+inférieur à 4 millions d'euros.
 
 2. Les auteurs, artistes-interprètes et personnels de la réalisation et de la
 production mentionnés au 1 doivent être, soit de nationalité française, soit
@@ -116,7 +115,7 @@ cinématographique ne peut excéder 4 millions d'euros.
 
 2. La somme des crédits d'impôt calculés au titre d'une même œuvre audiovisuelle
 ne peut excéder 1 250 € par minute produite et livrée pour une œuvre de fiction,
-1 150 € par minute produite et livrée pour une œuvre documentaire et 3 000 € par
+1 150 € par minute produite et livrée pour une œuvre documentaire et 1 300 € par
 minute produite et livrée pour une œuvre d'animation.
 
 La somme des crédits d'impôt est portée à 5 000 € maximum par minute produite et
