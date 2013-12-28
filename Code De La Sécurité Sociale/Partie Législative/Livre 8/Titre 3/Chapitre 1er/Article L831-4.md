@@ -11,7 +11,7 @@ spécifiques, lorsque le demandeur est âgé de moins de vingt-cinq ans et qu'il
 bénéficie d'un contrat de travail autre qu'un contrat à durée indéterminée.
 
 Les paramètres de calcul de l'allocation sont révisés chaque année au 1er
-janvier. Sont indexés sur l'évolution de l'indice de référence des loyers défini
+octobre. Sont indexés sur l'évolution de l'indice de référence des loyers défini
 à l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les
 rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre
 1986 les paramètres suivants :

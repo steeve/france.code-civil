@@ -1,8 +1,9 @@
 Article 137 bis
 ----
-I. Les sommes ou valeurs réparties par un fonds commun de placement constituent
-des revenus de capitaux mobiliers perçus par les porteurs de parts à la date de
-cette répartition.
+I. Les sommes ou valeurs réparties par un fonds commun de placement, à
+l'exclusion des distributions mentionnées aux 7 et 7 bis du II de l'article
+150-0 A, constituent des revenus de capitaux mobiliers perçus par les porteurs
+de parts à la date de cette répartition.
 
 Les sommes non réparties entre les porteurs de parts d'un fonds commun de
 placement à la date de son absorption, opérée conformément à la réglementation

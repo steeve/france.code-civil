@@ -24,11 +24,11 @@ La délibération porte sur la totalité de la part revenant à chaque commune o
 
 II. ― Le I ne s'applique pas aux propriétés non bâties qui bénéficient des
 exonérations totales prévues aux articles 1394 B, aux 1° et 1° bis de l'article
-1395, au II des articles 1395 B et 1395 D, aux articles 1395 E et 1395 F ainsi
-qu'à l'article 1649.
+1395, au II de l'article 1395 B, aux articles 1395 E et 1395 F ainsi qu'à
+l'article 1649.
 
 L'exonération prévue au I s'applique après les exonérations partielles prévues à
-l'article 1394 B bis, au 1° ter de l'article 1395 et au I de l'article 1395 D.
+l'article 1394 B biset au 1° ter de l'article 1395.
 
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
 l'article 1394 C et celles prévues au I sont remplies, l'exonération prévue à

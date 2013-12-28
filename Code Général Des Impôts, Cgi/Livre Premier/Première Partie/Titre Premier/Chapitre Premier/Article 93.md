@@ -114,15 +114,7 @@ des éléments affectés à l'exercice de la profession.
 quater constituent des éléments d'actif affectés à l'exercice de l'activité non
 commerciale pour l'application du présent article.
 
-7. Les sommes perçues postérieurement à la cession à titre onéreux par le cédant
-d'une entreprise individuelle exerçant une activité industrielle, commerciale ou
-artisanale en raison de son activité au profit du cessionnaire pendant la
-période de trois mois précédant la cession sont soumises à l'impôt sur le revenu
-sous déduction d'un abattement de 1 550 €.
-
-Cette disposition s'applique si l'âge du cédant à la date de cession excède,
-dans la limite de cinq ans, celui auquel lui est ouvert le droit à une pension
-de retraite et si le cédant cesse d'exercer une activité de chef d'entreprise.
+7. (Abrogé).
 
 8. Sur demande expresse des contribuables soumis au régime de la déclaration
 contrôlée qui exercent une activité professionnelle au sens du 1 de l'article

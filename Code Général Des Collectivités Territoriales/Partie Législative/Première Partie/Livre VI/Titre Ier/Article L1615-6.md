@@ -1,17 +1,20 @@
 Article L1615-6
 ----
-I.-Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour la
-taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses réelles
-d'investissement, définies par décret en Conseil d'Etat, un taux de compensation
-forfaitaire de 16,176 %. En 2002, le taux de compensation forfaitaire est fixé à
-15,656 %. A compter de 2003, ce taux est fixé à 15,482 %.
+I. - Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour
+la taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses
+réelles d'investissement, définies par décret en Conseil d'Etat, un taux de
+compensation forfaitaire de 16,176 %. En 2002, le taux de compensation
+forfaitaire est fixé à 15,656 %. A compter de 2003, ce taux est fixé à 15,482 %.
 
 Le taux de compensation forfaitaire de 15,482 % est applicable aux dépenses
 d'investissement éligibles réalisées à compter du 1er avril 2000 par les
 communautés de communes, les communautés de villes et les communautés
 d'agglomération.
 
-II.-Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur
+Le taux de compensation forfaitaire est fixé à 15,761 % pour les dépenses
+éligibles réalisées à compter du 1er janvier 2014.
+
+II. - Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur
 ajoutée mentionnés à l'article L. 1615-2, autres que ceux mentionnés aux
 deuxième, troisième, sixième, neuvième, dixième et onzième alinéas du présent
 II, les dépenses réelles d'investissement à prendre en considération pour la
@@ -117,7 +120,7 @@ la région auxquels elles succèdent pour les attributions du fonds de
 compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses
 d'investissement.
 
-III.-Les dépenses réelles d'investissement réalisées par les bénéficiaires du
+III. - Les dépenses réelles d'investissement réalisées par les bénéficiaires du
 Fonds de compensation pour la taxe sur la valeur ajoutée et visant à réparer les
 dommages directement causés par des intempéries exceptionnelles reconnues par
 décret, et situés dans des communes ayant fait l'objet d'une constatation de

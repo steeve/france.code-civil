@@ -24,7 +24,17 @@ dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
 conclu avec la France une convention d'assistance administrative en vue de
 lutter contre la fraude et l'évasion fiscales ;
 
--30 % pour tous les autres revenus.
+-30 % pour tous les autres revenus. Toutefois, les personnes physiques qui ne
+sont pas fiscalement domiciliées en France au sens de l'article 4 B qui
+bénéficient de distributions mentionnées aux f bis et f ter du I de l'article
+164 B peuvent demander le remboursement de l'excédent de la retenue à la source
+de 30 % lorsque cette retenue à la source excède la différence entre, d'une
+part, le montant de l'impôt qui résulterait de l'application de l'article 197 A
+à la somme des distributions précitées, réduites, le cas échéant, de
+l'abattement mentionné au 1 ter de l'article 150-0 D, et des autres revenus de
+source française imposés dans les conditions de l'article 197 A au titre de la
+même année et, d'autre part, le montant de l'impôt établi dans les conditions
+prévues à ce même article 197 A sur ces autres revenus.
 
 2. Le taux de la retenue à la source prévue au 2 de l'article 119 bis est fixé à
 75 % pour les produits mentionnés aux articles 108 à 117 bis et payés hors de

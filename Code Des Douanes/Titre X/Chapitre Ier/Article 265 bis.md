@@ -6,29 +6,31 @@ exonération des taxes intérieures de consommation lorsqu'ils sont destinés à
 
 a) autrement que comme carburant ou combustible ;
 
-b) comme carburant ou combustible à bord des aéronefs, à l'exclusion des
-aéronefs de tourisme privé.
+b) Comme carburant ou combustible à bord des aéronefs utilisés par leur
+propriétaire ou la personne qui en a la disposition à la suite d'une location,
+d'un affrètement ou à tout autre titre à des fins commerciales, notamment pour
+les besoins d'opérations de transport de personnes, de transport de marchandises
+ainsi que pour la réalisation de prestations de services à titre onéreux.
+L'exonération s'applique également aux aéronefs utilisés pour les besoins des
+autorités publiques ;
 
-Pour l'application du présent b, sont considérés comme aéronefs de tourisme
-privé les aéronefs utilisés, selon le cas, par leur propriétaire ou la personne
-qui en a la disposition dans le cadre d'une location ou à tout autre titre, à
-des fins autres que commerciales ;
-
-c) comme carburant ou combustible pour la navigation maritime dans les eaux
-communautaires, y compris la pêche, autre qu'à bord de bateaux de plaisance
-privés.
-
-Pour l'application du présent c, sont considérés comme bateaux de plaisance
-privés les bateaux utilisés, selon le cas, par leur propriétaire ou la personne
-qui en a la disposition dans le cadre d'une location ou à tout autre titre, à
-des fins autres que commerciales ;
+c) Comme carburant ou combustible à bord des navires de pêche, des navires
+utilisés par leur propriétaire ou la personne qui en a la disposition à la suite
+d'une location, d'un affrètement ou à tout autre titre à des fins commerciales,
+notamment pour les besoins d'opérations de transport de personnes, de transport
+de marchandises ainsi que pour la réalisation de prestations de services à titre
+onéreux. L'exonération s'applique également aux navires utilisés pour les
+besoins des autorités publiques ;
 
 d) Comme carburant ou combustible par le ministère de la défense. Cette
 exonération est accordée par voie de remboursement pour les produits consommés
 du 1er janvier 2006 au 1er janvier 2009. Toutefois, cette exonération ne
-s'applique pas aux produits pétroliers utilisés dans le cadre des actions n° s
-01,02,03 et 04 du programme n° 152 " Gendarmerie nationale " de la mission
-interministérielle " Sécurité ".
+s'applique pas aux produits pétroliers utilisés dans le cadre des actions n os
+01, 02, 03 et 04 du programme n° 152 " Gendarmerie nationale " de la mission
+interministérielle " Sécurité " ;
+
+e) Comme carburant ou combustible pour le transport de marchandises sur les
+voies navigables intérieures.
 
 2. Les carburants destinés aux moteurs d'avions sont exonérés de la taxe
 intérieure de consommation lorsqu'ils sont utilisés dans le cadre de la

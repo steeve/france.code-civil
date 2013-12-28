@@ -47,10 +47,9 @@ a) du montant des charges déduites en application des articles 163 unvicies et
 application de l'article 163 quatervicies ;
 
 a bis) du montant de l'abattement mentionné au 2° du 3 de l'article 158 , du
-montant de l'abattement prévu au 1 de l'article 150-0 D, du montant des
-plus-values en report d'imposition en application du I de l'article 150-0 D bis,
-du montant de l'abattement prévu à l'article 150-0 D ter et du montant des
-plus-values soumises au prélèvement prévu à l'article 244 bis B ;
+montant de l'abattement prévu au 1 de l'article 150-0 D, du montant de
+l'abattement prévu à l'article 150-0 D ter et du montant des plus-values
+soumises au prélèvement prévu à l'article 244 bis B ;
 
 b) du montant des bénéfices exonérés en application des articles 44 sexies, 44
 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44
@@ -70,8 +69,8 @@ application d'une convention internationale relative aux doubles impositions
 ainsi que de ceux exonérés en application des articles 163 quinquies B à 163
 quinquies C bis ;
 
-d) Du montant des plus-values exonérées en application du 3 du I et des 1, 1 bis
-et 7 du III de l'article 150-0 A ;
+d) Du montant des plus-values exonérées en application des 1 et 1 bis (1) du III
+de l'article 150-0 A ;
 
 e) Des sommes correspondant aux droits visés au dernier alinéa de l'article L.
 3153-3 du code du travail.

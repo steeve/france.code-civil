@@ -7,8 +7,8 @@ réparties entre les communes et les établissements publics à fiscalité propr
 métropole selon les modalités suivantes :
 
 1° Bénéficient d'une attribution au titre du fonds, sous réserve que leur effort
-fiscal calculé en application du V de l'article L. 2336-2 soit supérieur à 0,75
-:
+fiscal calculé en application du V de l'article L. 2336-2 soit supérieur à 0,8
+en 2014 et à 0,9 en 2015 :
 
 a) 60 % des ensembles intercommunaux classés en fonction décroissante d'un
 indice synthétique de ressources et de charges ;

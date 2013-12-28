@@ -33,9 +33,8 @@ retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il es
 prévu par les conventions internationales.
 
 c) En ce qui concerne les dividendes et produits distribués par les sociétés
-d'investissement visées aux 1° bis et 1° bis A de l'article 208, les sociétés de
-développement régional visées au 1° ter de l'article précité et les sociétés de
-capital-risque visées au 3° septies du même article au titre de l'exercice
+d'investissement visées aux 1° bis et 1° bis A de l'article 208 et les sociétés
+de capital-risque visées au 3° septies du même article au titre de l'exercice
 précédent, la société ou personne morale actionnaire a droit à l'imputation
 d'une quote-part du montant total des crédits d'impôt attachés aux produits du
 portefeuille encaissés, au cours de cet exercice, par la société distributrice.

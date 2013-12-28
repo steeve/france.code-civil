@@ -4,31 +4,31 @@ I. (Sans objet)
 
 II.-1) Les distributions par les sociétés de capital-risque qui remplissent les
 conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
-précitée, prélevées sur des plus-values nettes de cessions de titres réalisées
-par la société au cours des exercices clos à compter du 31 décembre 2001 sont
-imposées dans les conditions prévues au 2 de l'article 200 A lorsque
-l'actionnaire est une personne physique fiscalement domiciliée en France au sens
-de l'article 4 B, ou soumises à la retenue à la source prévue au 2 de l'article
-119 bis lorsqu'elles sont payées dans un Etat ou territoire non coopératif au
-sens de l'article 238-0 A, ou soumises à cette même retenue à la source aux taux
-de 19 % pour les gains réalisés avant le 1er janvier 2013 et de 45 % pour ceux
-réalisés à compter de cette même date lorsque l'actionnaire est une personne
-physique fiscalement domiciliée hors de France. Toutefois, les personnes
-physiques qui ne sont pas fiscalement domiciliées en France au sens de l'article
-4 B peuvent demander le remboursement de l'excédent du prélèvement de 45 %
-lorsque ce prélèvement excède la différence entre, d'une part, le montant de
-l'impôt qui résulterait de l'application de l'article 197 A à la somme des
-distributions mentionnées au présent alinéa et des autres revenus de source
-française imposés dans les conditions de ce même article 197 A au titre de la
-même année et, d'autre part, le montant de l'impôt établi dans les conditions
-prévues audit article 197 A sur ces autres revenus.
+portant diverses dispositions d'ordre économique et financier, prélevées sur des
+plus-values nettes de cessions de titres réalisées par la société au cours des
+exercices clos à compter du 31 décembre 2001 sont imposées dans les conditions
+prévues au 2 de l'article 200 A lorsque l'actionnaire est une personne physique
+fiscalement domiciliée en France au sens de l'article 4 B, ou soumises à la
+retenue à la source prévue au 2 de l'article 119 bis lorsqu'elles sont payées
+dans un Etat ou territoire non coopératif au sens de l'article 238-0 A, ou
+soumises à cette même retenue à la source aux taux de 30 % (1) lorsque
+l'actionnaire est une personne physique fiscalement domiciliée hors de France.
+Toutefois, les personnes physiques qui ne sont pas fiscalement domiciliées en
+France au sens de l'article 4 B peuvent demander le remboursement de l'excédent
+du prélèvement de 30 % (1) lorsque ce prélèvement excède la différence entre,
+d'une part, le montant de l'impôt qui résulterait de l'application de l'article
+197 A à la somme des distributions mentionnées au présent alinéa, réduites, le
+cas échéant, de l'abattement mentionné au 1 ter de l'article 150-0 D, et des
+autres revenus de source française imposés dans les conditions de ce même
+article 197 A au titre de la même année et, d'autre part, le montant de l'impôt
+établi dans les conditions prévues audit article 197 A sur ces autres revenus.
 
 Toutefois, lorsque ces distributions sont afférentes à des actions donnant lieu
 à des droits différents sur l'actif net ou les produits de la société et
 attribuées en fonction de la qualité de la personne et sont versées aux salariés
-ou dirigeants mentionnés au premier alinéa du 8 du II de l'article 150-0 A, le
-taux mentionné au 2 de l'article 200 A s'applique sous réserve du respect des
-conditions suivantes :
+ou dirigeants mentionnés au premier alinéa du 8 du II de l'article 150-0 A, les
+modalités d'imposition prévues au 2 de l'article 200 A s'appliquent sous réserve
+du respect des conditions suivantes :
 
 1° Ces actions ont été souscrites ou acquises, moyennant un prix correspondant à
 la valeur des actions, par le salarié ou le dirigeant bénéficiaire de la

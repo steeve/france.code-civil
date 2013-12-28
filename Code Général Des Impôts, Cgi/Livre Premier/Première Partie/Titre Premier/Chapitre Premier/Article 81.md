@@ -29,11 +29,9 @@ code de la sécurité sociale, ainsi que le montant de l'aide personnalisée au
 logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction
 et de l'habitation ;
 
-2° ter Les majorations de retraite ou de pension pour charges de famille ;
+2° ter (Abrogé) ;
 
-3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du
-contrat de travail à salaire différé prévu par l'article L321-13 du code rural
-et de la pêche maritime ;
+3° (Abrogé) ;
 
 4° a. Les pensions servies en vertu des dispositions du code des pensions
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
@@ -72,9 +70,7 @@ travail ;
 
 9° quinquies (Abrogé) ;
 
-9° septies L'aide à la réinsertion familiale et sociale des anciens migrants
-dans leur pays d'origine instituée par l'article L. 117-3 du code de l'action
-sociale et des familles ;
+9° septies (Abrogé) ;
 
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30
 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er
@@ -251,9 +247,10 @@ volontaires ou à leurs ayants droit, en application du titre III de la loi n°
 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de
 sapeurs-pompiers ;
 
-30° Le pécule modulable d'incitation des militaires à une seconde carrière,
-versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décembre
-2008 de finances pour 2009 ;
+30° Le pécule modulable d'incitation au départ des militaires, versé en
+application du I de l'article 38 de la loi n° 2013-1168 du 18 décembre 2013
+relative à la programmation militaire pour les années 2014 à 2019 et portant
+diverses dispositions concernant la défense et la sécurité nationale ;
 
 30° bis L'indemnité de départ volontaire versée en application du I de l'article
 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;

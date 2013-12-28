@@ -33,7 +33,7 @@ a) Les évacuations sanitaires d'urgence ;
 b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92
 du Conseil du 23 juillet 1992 concernant les licences des transporteurs aériens.
 
-II.-Le tarif de la taxe est le suivant :
+II.-1. Le tarif de la taxe est le suivant :
 
 4,31 € par passager embarqué à destination de la France, d'un autre Etat membre
 de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace
@@ -55,10 +55,10 @@ Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage
 total déclaré par chaque entreprise le mois considéré, arrondi à la tonne
 inférieure.
 
-Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fourni
-par l'administration de l'aviation civile, le nombre de passagers et la masse de
-fret et de courrier embarqués le mois précédent pour les vols effectués au
-départ de la France.
+2. Les entreprises de transport aérien déclarent, au plus tard le dernier jour
+de chaque mois, sur un imprimé fourni par l'administration de l'aviation civile,
+le nombre de passagers et la masse de fret et de courrier embarqués le mois
+précédent pour les vols effectués au départ de la France.
 
 Toutefois, les entreprises de transport aérien qui ont déclaré au cours de
 l'année précédente un montant de taxe égal ou inférieur à 12 000 € sont admises
@@ -73,9 +73,10 @@ souscrit mensuellement ses déclarations dans les conditions fixées au huitièm
 alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit
 l'année de dépassement.
 
-Ces déclarations, mensuelles ou trimestrielles, accompagnées du paiement de la
-taxe due, sont adressées aux comptables du budget annexe " Contrôle et
-exploitation aériens ".
+3. Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables
+du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les
+redevables acquittent la taxe ainsi que la contribution additionnelle prévue au
+VI, par virement bancaire.
 
 III.-Les quotités du produit de la taxe affectées respectivement au budget
 annexe " Contrôle et exploitation aériens " et au budget général sont
@@ -147,7 +148,11 @@ l'article 1729 A est applicable.
 prescription est suspendue et interrompue dans les conditions de droit commun et
 notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-4. (abrogé à compter du 1er janvier 2001).
+4. Le droit de reprise par les services de la direction générale de l'aviation
+civile, tant en ce qui concerne le contrôle des redevables défaillants
+déclaratifs que le contrôle des insuffisances déclaratives ou de paiement,
+s'exerce dans les mêmes conditions que celles prévues à l'article L. 176 du
+livre des procédures fiscales.
 
 V.-Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est
 assuré par les agents comptables du budget annexe " contrôle et exploitation
@@ -158,27 +163,48 @@ Le contentieux est suivi par la direction générale de l'aviation civile. Les
 réclamations sont présentées, instruites et jugées comme en matière de taxes sur
 le chiffre d'affaires.
 
-VI.-Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet
-d'une majoration au profit du fonds de solidarité pour le développement. Un
-décret fixe le montant de cette majoration, dans la limite respectivement de 1 €
-et de 4 €, ou, lorsque le passager peut bénéficier sans supplément de prix à
-bord de services auxquels l'ensemble des passagers ne pourrait accéder
-gratuitement, de 10 € et de 40 €.
+VI.-1. Les montants mentionnés aux deuxième et troisième alinéas du II font
+l'objet d'une contribution additionnelle, dénommée taxe de solidarité sur les
+billets d'avion, perçue, dans la limite du plafond prévu au I de l'article 46 de
+la loi n° 2011-1977 de finances pour 2012, par le fonds de solidarité pour le
+développement créé par l'article 22 de la loi n° 2005-1720 du 30 décembre 2005
+de finances rectificative pour 2005.
 
-La majoration est perçue selon la destination finale du passager. Elle n'est pas
-perçue lorsqu'il est en correspondance. Est considéré comme passager en
-correspondance celui qui remplit les trois conditions suivantes :
+Le tarif de cette taxe, perçue en fonction de la destination finale du passager,
+est fixé à :
 
-a) L'arrivée a eu lieu par voie aérienne sur l'aéroport considéré ou sur un
-aéroport faisant partie du même système aéroportuaire au sens du règlement (CEE)
-n° 2408/92 du Conseil, du 23 juillet 1992, concernant l'accès des transporteurs
-aériens communautaires aux liaisons aériennes intracommunautaires ;
+a) 1,13 €, pour chaque passager embarqué à destination de la France, d'un autre
+Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur
+l'Espace économique européen ou de la Confédération suisse ;
 
-b) Le délai maximum entre les heures programmées respectives de l'arrivée et du
-départ n'excède pas vingt-quatre heures ;
+b) 4,51 €, pour chaque passager embarqué à destination d'un autre Etat.
+
+Ces tarifs sont portés, respectivement, à 11,27 € et à 45,07 € lorsque le
+passager peut bénéficier sans supplément de prix à bord de services auxquels
+l'ensemble des passagers ne peut accéder gratuitement.
+
+2. Cette taxe n'est pas perçue lorsque le passager est en correspondance. Est
+considéré comme passager en correspondance celui qui remplit les trois
+conditions suivantes :
+
+a) L'arrivée a eu lieu par voie aérienne sur l'aéroport considéré ou sur l'un
+des aéroports appartenant au même système aéroportuaire desservant la même ville
+ou agglomération ;
+
+b) Le délai entre les heures programmées respectives de l'arrivée et du départ
+n'excède pas vingt-quatre heures ;
 
 c) L'aéroport de destination finale est distinct de celui de provenance initiale
-et ne fait pas partie du même système aéroportuaire.
+et ne fait pas partie du même système aéroportuaire tel que mentionné au a.
 
-Ces sommes sont recouvrées dans les conditions fixées au V. Elles sont reversées
-mensuellement à l'Agence française de développement.
+Pour l'application du a, un décret précise les aéroports faisant partie d'un
+même système aéroportuaire.
+
+3. La taxe de solidarité sur les billets d'avion est contrôlée dans les
+conditions prévues au IV du présent article et suivant les délais de
+prescription du droit de reprise prévus à l'article L. 176 du livre des
+procédures fiscales en matière de taxes sur le chiffre d'affaires.
+
+4. La taxe de solidarité sur les billets d'avion est recouvrée dans les
+conditions fixées au V du présent article. Elle est reversée mensuellement à
+l'Agence française de développement.

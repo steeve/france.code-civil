@@ -31,3 +31,33 @@ d'abonder la dotation prévue à l'article L. 4332-8.
 
 Pour 2012, le montant de la dotation forfaitaire de chaque région est égal au
 montant perçu en 2011.
+
+A compter de 2014, le montant de la dotation forfaitaire des régions et de la
+collectivité territoriale de Corse est égal à celui mis en répartition en 2013,
+minoré de 184 millions d'euros.
+
+Les régions d'outre-mer subissent une minoration de leur dotation forfaitaire
+dans les conditions suivantes :
+
+1° Le montant total des minorations supportées par les régions d'outre-mer est
+déterminé en appliquant au montant total de la minoration de la dotation
+forfaitaire des régions et de la collectivité territoriale de Corse le rapport,
+minoré de 6 %, entre la population des régions d'outre-mer, telle qu'elle
+résulte du dernier recensement, et la population de l'ensemble des régions et de
+la collectivité territoriale de Corse ;
+
+2° Cette minoration est répartie entre les régions d'outre-mer au prorata des
+recettes totales de leur budget principal, telles que constatées au 1er janvier
+2014 dans les derniers comptes de gestion disponibles.
+
+Après application de la minoration aux régions d'outre-mer prévue aux 1° et 2°,
+la baisse de la dotation forfaitaire est répartie entre les régions de métropole
+et la collectivité territoriale de Corse au prorata des recettes totales de leur
+budget principal, telles que constatées au 1er janvier 2014 dans les derniers
+comptes de gestion disponibles.
+
+Si, pour une région ou la collectivité territoriale de Corse, la minoration
+excède le montant perçu au titre de la dotation forfaitaire en 2014, la
+différence est prélevée sur les compensations mentionnées au III de l'article 37
+de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014 ou, à défaut,
+sur les douzièmes prévus à l'article L. 4331-2-1.

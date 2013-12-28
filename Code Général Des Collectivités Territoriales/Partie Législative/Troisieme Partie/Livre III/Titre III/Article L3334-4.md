@@ -11,11 +11,11 @@ prévue à l'article L. 3334-3 et de la dotation de compensation prévue à
 l'article L. 3334-7-1 est répartie par le comité des finances locales entre la
 dotation de péréquation urbaine et la dotation de fonctionnement minimale, sous
 réserve en 2005 des dispositions du quatrième alinéa de l'article L. 3334-7.
-Dans les conditions prévues au quatrième alinéa de l'article L. 3334-3, le
-comité des finances locales peut majorer les montants consacrés à l'augmentation
-de la dotation de péréquation urbaine et de la dotation de fonctionnement
-minimale d'un montant ne pouvant excéder 5 % des ressources affectées l'année
-précédente au titre de chacune des deux dotations.
+Dans les conditions prévues à l'article L. 3334-3, le comité des finances
+locales peut majorer les montants consacrés à l'augmentation de la dotation de
+péréquation urbaine et de la dotation de fonctionnement minimale d'un montant ne
+pouvant excéder 5 % des ressources affectées l'année précédente au titre de
+chacune des deux dotations.
 
 Pour l'application du précédent alinéa en 2005, la masse à laquelle s'applique
 le choix du comité des finances locales est constituée, pour la dotation de
@@ -59,4 +59,5 @@ avant accroissement éventuel par le comité des finances locales, est majoré d
 20 millions d'euros, financés, d'une part, à hauteur de 10 millions d'euros par
 la minoration mentionnée à l'article L. 3334-3 et, d'autre part, à la même
 hauteur par l'augmentation pour 2013 de la dotation globale de fonctionnement
-des départements prévue à l'article L. 3334-1.
+des départements prévue à l'article L. 3334-1. En 2014, ce montant est majoré
+d'au moins 10 millions d'euros.

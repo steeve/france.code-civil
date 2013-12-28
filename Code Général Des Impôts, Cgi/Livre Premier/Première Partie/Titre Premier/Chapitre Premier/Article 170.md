@@ -27,14 +27,14 @@ prélèvements libératoires prévus au II de l'article 125-0 A et aux I bis, II
 III, second alinéa du 4° et deuxième alinéa du 9° du III bis de l'article 125 A
 (2), le montant des prestations de retraite soumis au prélèvement libératoire
 prévu au II de l'article 163 bis, le montant des plus-values en report
-d'imposition en application de l'article 150-0 B ter et du I de l'article 150-0
-D bis, le montant de l'abattement mentionné à l'article 150-0 D ter, le montant
-des plus-values soumises au prélèvement prévu à l'article 244 bis B (1), les
-revenus exonérés en application des articles 163 quinquies B à 163 quinquies C
-bis , le montant des plus-values exonérées en application du 1° bis du II de
-l'article 150 U, les plus-values exonérées en application du 3 du I et des 1, 1
-bis et 7 du III de l'article 150-0 A et le montant net imposable des plus-values
-mentionnées aux articles 150 U à 150 UD.
+d'imposition en application de l'article 150-0 B ter, le montant des abattements
+mentionnés au 1 de l'article 150-0 D et à l'article 150-0 D ter, le montant des
+plus-values soumises au prélèvement prévu à l'article 244 bis B (1), les revenus
+exonérés en application des articles 163 quinquies B à 163 quinquies C bis , le
+montant des plus-values exonérées en application du 1° bis du II de l'article
+150 U, les plus-values exonérées en application des 1 et 1 bis (1) du III de
+l'article 150-0 A et le montant net imposable des plus-values mentionnées aux
+articles 150 U à 150 UD.
 
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.

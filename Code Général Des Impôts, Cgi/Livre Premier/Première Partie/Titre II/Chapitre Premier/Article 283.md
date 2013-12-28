@@ -53,10 +53,22 @@ modifiant la directive 96/61/ CE du Conseil, et d'autres unités pouvant être
 utilisées par les opérateurs en vue de se conformer à cette directive, la taxe
 est acquittée par l'assujetti bénéficiaire du transfert.
 
-2 octies. - Pour les services de communications électroniques, à l'exclusion de
+2 octies. Pour les services de communications électroniques, à l'exclusion de
 ceux soumis à la taxe prévue à l'article 302 bis KH, la taxe est acquittée par
 l'acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur
 ajoutée en France.
+
+2 nonies. Pour les travaux de construction, y compris ceux de réparation, de
+nettoyage, d'entretien, de transformation et de démolition effectués en relation
+avec un bien immobilier par une entreprise sous-traitante, au sens de l'article
+1er de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance, pour
+le compte d'un preneur assujetti, la taxe est acquittée par le preneur.
+
+2 decies. Lorsqu'il est constaté une urgence impérieuse tenant à un risque de
+fraude à la taxe sur la valeur ajoutée présentant un caractère soudain, massif
+et susceptible d'entraîner pour le Trésor des pertes financières considérables
+et irréparables, un arrêté du ministre chargé du budget prévoit que la taxe est
+acquittée par l'assujetti destinataire des biens ou preneur des services.
 
 3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture
 est redevable de la taxe du seul fait de sa facturation.

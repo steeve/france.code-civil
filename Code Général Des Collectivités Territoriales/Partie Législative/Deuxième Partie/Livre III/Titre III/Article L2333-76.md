@@ -13,8 +13,24 @@ redevance d'enlèvement des ordures ménagères au profit de ce dernier.
 L'établissement public de coopération intercommunale issu de la fusion en
 application de l'article L. 5211-41-3 ou le syndicat mixte issu de la fusion en
 application de l'article L. 5711-2 doit prendre la délibération afférente à la
-redevance d'enlèvement des ordures ménagères avant le 1er mars de l'année qui
-suit celle de la fusion.
+redevance d'enlèvement des ordures ménagères avant le 1er mars de la quatrième
+année qui suit celle de la fusion.
+
+A défaut de délibération, le régime applicable en matière de redevance
+d'enlèvement des ordures ménagères sur le territoire des établissements publics
+de coopération intercommunale ou des syndicats mixtes ayant fait l'objet de la
+fusion ou sur le territoire des communes incluses dans le périmètre de
+l'établissement public issu de la fusion est maintenu pour une durée qui ne peut
+excéder les cinq années. Pour l'application de ces dispositions, l'établissement
+public de coopération intercommunale ou le syndicat mixte issu de la fusion
+perçoit la redevance en lieu et place des établissements publics de coopération
+intercommunale ou des syndicats mixtes ayant fait l'objet de la fusion.
+
+Les deuxième et troisième alinéas sont également applicables en cas de
+rattachement d'une commune à un établissement public de coopération
+intercommunale à fiscalité propre ou en cas d'adhésion d'une commune ou d'un
+établissement public de coopération intercommunale à fiscalité propre à un
+syndicat mixte.
 
 A défaut de délibération, le régime applicable en matière de redevance
 d'enlèvement des ordures ménagères sur le territoire des établissements publics
@@ -32,7 +48,7 @@ coopération intercommunale à fiscalité propre disposant de l'ensemble de la
 compétence prévue à l'article L. 2224-13 et qui adhèrent, pour l'ensemble de
 cette compétence, à un syndicat mixte peuvent décider :
 
--soit d'instituer et de percevoir la redevance pour leur propre compte, en
+- soit d'instituer et de percevoir la redevance pour leur propre compte, en
 fixant eux-mêmes les modalités de tarification, dans le cas où le syndicat mixte
 ne l'aurait pas instituée avant le 1er juillet d'une année pour être applicable
 à compter de l'année suivante ; lorsque le syndicat mixte décide postérieurement
@@ -41,7 +57,7 @@ impôts, la délibération prise par le syndicat ne s'applique pas sur le
 territoire de l'établissement public de coopération intercommunale sauf si ce
 dernier rapporte sa délibération ;
 
--soit de percevoir la redevance en lieu et place du syndicat mixte qui l'aurait
+- soit de percevoir la redevance en lieu et place du syndicat mixte qui l'aurait
 instituée sur l'ensemble du périmètre syndical.
 
 Par dérogation aux dispositions du premier alinéa du présent article, les

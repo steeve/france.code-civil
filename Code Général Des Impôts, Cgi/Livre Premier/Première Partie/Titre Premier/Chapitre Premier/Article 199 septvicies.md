@@ -59,12 +59,11 @@ La réduction d'impôt n'est pas applicable aux logements dont le droit de
 propriété est démembré ou aux logements appartenant à une société non soumise à
 l'impôt sur les sociétés dont le droit de propriété des parts est démembré. Elle
 n'est pas non plus applicable aux immeubles classés ou inscrits au titre des
-monuments historiques ou ayant fait l'objet d'un agrément ministériel ou ayant
-reçu le label délivré par la Fondation du patrimoine, mentionnés au premier
-alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt
-mentionné à l'article R. 331-1 du code de la construction et de l'habitation
-ayant fait l'objet d'un dépôt de permis de construire à compter du 1er janvier
-2010.
+monuments historiques ou ayant reçu le label délivré par la Fondation du
+patrimoine, mentionnés au premier alinéa du 3° du I de l'article 156, et aux
+logements financés au moyen d'un prêt mentionné à l'article R. 331-1 du code de
+la construction et de l'habitation ayant fait l'objet d'un dépôt de permis de
+construire à compter du 1er janvier 2010.
 
 II. ― La réduction d'impôt n'est applicable qu'aux logements dont les
 caractéristiques thermiques et la performance énergétique sont conformes aux

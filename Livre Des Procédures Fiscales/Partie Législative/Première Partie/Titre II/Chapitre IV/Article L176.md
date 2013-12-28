@@ -34,11 +34,12 @@ matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 3
 décembre de la troisième année suivant celle au cours de laquelle se termine
 cette période.
 
-Dans les cas prévus aux II et III de l'article 284 du code général des impôts,
-le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième
-année suivant celle au cours de laquelle les conditions auxquelles est
-subordonné l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du
-même code ont cessé d'être remplies.
+Dans les cas prévus aux II, II bis et III de l'article 284 du code général des
+impôts, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
+troisième année suivant celle au cours de laquelle les conditions auxquelles est
+subordonné l'octroi des taux prévus, respectivement, aux 2 à 12 du I de
+l'article 278 sexies et au premier alinéa de l'article 279-0 bis A du même code
+ont cessé d'être remplies.
 
 La taxe mentionnée sur les déclarations souscrites par les assujettis membres
 d'un groupe mentionné à l'article 1693 ter du code général des impôts qui a

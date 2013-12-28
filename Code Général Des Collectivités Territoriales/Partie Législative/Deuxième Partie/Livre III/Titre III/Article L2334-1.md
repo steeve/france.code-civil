@@ -6,7 +6,7 @@ d'une dotation d'aménagement.
 
 Le montant de la dotation globale de fonctionnement mentionnée au premier alinéa
 est égal à la différence entre le montant de la dotation prévue à l'article L.
-1613-3 et le montant des dotations prévues aux articles L. 3334-1 et L. 4332-4.
+1613-1 et le montant des dotations prévues aux articles L. 3334-1 et L. 4332-4.
 
 Pour chacune des années 2005 à 2009, la progression de la dotation globale de
 fonctionnement des communes et de leurs groupements est affectée en priorité, à

@@ -31,18 +31,30 @@ sécurité sociale ;
 janvier 2002).
 
 1° quater Les cotisations ou primes versées aux régimes de prévoyance
-complémentaire auxquels le salarié est affilié à titre obligatoire, à condition,
-lorsque ces cotisations ou primes financent des garanties portant sur le
-remboursement ou l'indemnisation de frais occasionnés par une maladie, une
-maternité ou un accident, que ces garanties respectent les conditions
-mentionnées à l'article L. 871-1 du code de la sécurité sociale.
+complémentaire obligatoires et collectifs, au sens du sixième alinéa de
+l'article L. 242-1 du code de la sécurité sociale, à condition, lorsque ces
+cotisations ou primes financent des garanties portant sur le remboursement ou
+l'indemnisation de frais occasionnés par une maladie, une maternité ou un
+accident, que ces garanties respectent les conditions mentionnées à l'article L.
+871-1 du code de la sécurité sociale.
 
-Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles
-dans la limite, y compris les versements de l'employeur, d'un montant égal à la
-somme de 7 % du montant annuel du plafond mentionné à l'article L. 241-3 du code
-de la sécurité sociale et de 3 % de la rémunération annuelle brute, sans que le
-total ainsi obtenu puisse excéder 3 % de huit fois le montant annuel du plafond
-précité. En cas d'excédent, celui-ci est ajouté à la rémunération ;
+Les cotisations ou les primes mentionnées au premier alinéa du présent 1° quater
+s'entendent, s'agissant des cotisations à la charge de l'employeur, de celles
+correspondant à des garanties autres que celles portant sur le remboursement ou
+l'indemnisation de frais occasionnés par une maladie, une maternité ou un
+accident.
+
+Les cotisations à la charge de l'employeur correspondant à des garanties portant
+sur le remboursement ou l'indemnisation de frais occasionnés par une maladie,
+une maternité ou un accident sont ajoutées à la rémunération prise en compte
+pour la détermination des bases d'imposition.
+
+Les cotisations ou les primes déductibles en application des deux premiers
+alinéas le sont dans la limite d'un montant égal à la somme de 5 % du montant
+annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale
+et de 2 % de la rémunération annuelle brute, sans que le total ainsi obtenu
+puisse excéder 2 % de huit fois le montant annuel du plafond précité. En cas
+d'excédent, celui-ci est ajouté à la rémunération.
 
 2° Les cotisations ou primes versées aux régimes de retraite supplémentaire, y
 compris ceux gérés par une institution mentionnée à l'article L. 370-1 du code
@@ -71,7 +83,7 @@ favorables, aux cotisations ou primes versées aux régimes de retraite et de
 prévoyance complémentaires auxquels le salarié était affilié à titre obligatoire
 avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
 
-2°-0 ter Dans les limites prévues au deuxième alinéa du 1° quater, les
+2°-0 ter Dans les limites prévues au dernier alinéa du 1° quater, les
 cotisations versées aux régimes de prévoyance complémentaire et, dans les
 limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées
 aux régimes de retraite complémentaire répondant aux conditions fixées à

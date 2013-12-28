@@ -21,19 +21,7 @@ dans une clause contractuelle de complément de prix visée au premier alinéa e
 imposé dans les mêmes conditions au titre de l'année de la cession ou de
 l'apport.
 
-3. Lorsque les droits détenus directement ou indirectement par le cédant avec
-son conjoint, leurs ascendants et leurs descendants ainsi que leurs frères et
-sœurs dans les bénéfices sociaux d'une société soumise à l'impôt sur les
-sociétés ou à un impôt équivalent et ayant son siège dans un Etat membre de
-l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention d'assistance
-administrative en vue de lutter contre la fraude et l'évasion fiscales ont
-dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq
-dernières années, la plus-value réalisée lors de la cession de ces droits,
-pendant la durée de la société, à l'une des personnes mentionnées au présent
-alinéa, est exonérée si tout ou partie de ces droits sociaux n'est pas revendu à
-un tiers dans un délai de cinq ans. A défaut, la plus-value est imposée au nom
-du premier cédant au titre de l'année de la revente des droits au tiers.
+3. Abrogé (1).
 
 4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels
 l'option pour l'imputation des pertes a été exercée dans les conditions du
@@ -47,8 +35,8 @@ II.-Les dispositions du I sont applicables :
 
 1. (Abrogé) ;
 
-2. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à
-l'article 163 quinquies D en cas de retrait de titres ou de liquidités ou de
+2. Au gain net réalisé depuis l'ouverture d'un plan d'épargne en actions défini
+à l'article 163 quinquies D en cas de retrait de titres ou de liquidités ou de
 rachat avant l'expiration de la cinquième année dans les mêmes conditions. Cette
 disposition n'est pas applicable aux sommes ou valeurs retirées ou rachetées,
 lorsqu'elles sont affectées, dans les trois mois suivant le retrait ou le
@@ -60,7 +48,7 @@ sont utilisées à la souscription en numéraire au capital initial d'une socié
 l'exploitant d'une entreprise individuelle créée depuis moins de trois mois à la
 date du versement ;
 
-2 bis. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions
+2 bis. Au gain net réalisé depuis l'ouverture d'un plan d'épargne en actions
 défini à l'article 163 quinquies D en cas de clôture après l'expiration de la
 cinquième année lorsqu'à la date de cet événement la valeur liquidative du plan
 ou de rachat du contrat de capitalisation est inférieure au montant des
@@ -75,7 +63,8 @@ commerce et l'industrie non cotées ;
 
 4. Au gain net retiré des rachats d'actions de sociétés d'investissement à
 capital variable et au gain net résultant des rachats de parts de fonds communs
-de placement définis au 2 du III ou de la dissolution de tels fonds ;
+de placement définis au 2 du III ou de la dissolution de tels fonds ou sociétés
+;
 
 4 bis. Au gain net retiré des rachats d'actions de sociétés de placement à
 prépondérance immobilière à capital variable mentionnées au 3° nonies de
@@ -96,25 +85,31 @@ la durée à l'émission est supérieure à cinq ans.
 
 7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de
 distribution d'une fraction des actifs d'un fonds commun de placement à risques
-ou d'un fonds professionnel de capital investissement dans les conditions du IX
-de l'article L. 214-28 du code monétaire et financier, à l'excédent du montant
-des sommes ou valeurs distribuées sur le montant des apports, ou le prix
+, d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code
+monétaire et financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676
+du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, d'un
+fonds professionnel de capital d'investissement ou d'une entité de même nature
+constituée sur le fondement d'un droit étranger, à l'excédent du montant des
+sommes ou valeurs distribuées sur le montant des apports, ou le prix
 d'acquisition des parts s'il est différent du montant des apports ;
+
+7 bis. Sous réserve de l'application de l'article 163 quinquies B, du 8 du
+présent II et du 2 du III, en cas de distribution de plus-values par un
+organisme de placement collectif en valeurs mobilières ou par un placement
+collectif relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L.
+214-147 et L. 214-152 à L. 214-166 du code monétaire et financier, ou par une
+entité de même nature constituée sur le fondement d'un droit étranger ;
 
 8. Aux gains nets réalisés, directement, par personne interposée ou par
 l'intermédiaire d'une fiducie, par les salariés ou par les dirigeants soumis au
 régime fiscal des salariés, des sociétés de capital-risque, des sociétés de
-gestion de fonds communs de placement à risques ou de fonds professionnels
-spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans
-sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant
-le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital
-investissement ou de sociétés de capital-risque, ou des sociétés qui réalisent
-des prestations de services liées à la gestion des fonds communs de placement à
-risques ou des sociétés de capital-risque, lors de la cession ou du rachat de
-parts de fonds communs de placement à risques ou de fonds professionnels
-spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans
-sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant
-le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital
+gestion de tels fonds ou de sociétés de capital-risque, ou des sociétés qui
+réalisent des prestations de services liées à la gestion des fonds précités ou
+des sociétés de capital-risque, lors de la cession ou du rachat de parts de
+fonds communs de placement à risques ou de fonds professionnels spécialisés
+relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction
+antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
+juridique de la gestion d'actifs ou de fonds professionnels de capital
 investissement ou d'actions de sociétés de capital-risque donnant lieu à des
 droits différents sur l'actif net ou les produits du fonds ou de la société et
 attribuées en fonction de la qualité de la personne, sous réserve du respect des
@@ -153,8 +148,8 @@ actions.
 
 Ces dispositions s'appliquent également dans les mêmes conditions :
 
-1° Aux distributions mentionnées au 7 perçues par les personnes visées au
-premier alinéa du présent 8 et afférentes à des parts de fonds communs de
+1° Aux distributions mentionnées aux 7 et 7 bis perçues par les personnes visées
+au premier alinéa du présent 8 et afférentes à des parts de fonds communs de
 placement à risques ou de fonds professionnels spécialisés relevant de l'article
 L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
 l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
@@ -226,25 +221,7 @@ long terme lorsque les conditions fixées par l'article 163 bis A sont respecté
 6. Aux profits réalisés dans le cadre des placements en report par les
 contribuables qui effectuent de tels placements.
 
-7. Sur option expresse, aux cessions de parts ou actions de sociétés qui
-bénéficient du statut de jeune entreprise innovante réalisant des projets de
-recherche et de développement défini à l'article 44 sexies-0 A si :
-
-1° Les parts ou actions cédées ont été souscrites à compter du 1er janvier 2004
-;
-
-2° Le cédant a conservé les titres cédés, depuis leur libération, pendant une
-période d'au moins trois ans au cours de laquelle la société a effectivement
-bénéficié du statut mentionné au premier alinéa ;
-
-3° Le cédant, son conjoint et leurs ascendants et descendants n'ont pas détenu
-ensemble, directement ou indirectement, plus de 25 % des droits dans les
-bénéfices de la société et des droits de vote depuis la souscription des titres
-cédés.
-
-Cette option peut également être exercée lorsque la cession intervient dans les
-cinq ans qui suivent la fin du régime mentionné au premier alinéa, toutes autres
-conditions étant remplies.
+7. Abrogé (1).
 
 IV.-Le I ne s'applique pas aux partages qui portent sur des valeurs mobilières,
 des droits sociaux et des titres assimilés, dépendant d'une succession ou d'une

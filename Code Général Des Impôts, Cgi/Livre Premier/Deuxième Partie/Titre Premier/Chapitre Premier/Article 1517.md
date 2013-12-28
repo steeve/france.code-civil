@@ -3,8 +3,7 @@ Article 1517
 I. 1. Il est procédé, annuellement, à la constatation des constructions
 nouvelles et des changements de consistance ou d'affectation des propriétés
 bâties et non bâties. Il en va de même pour les changements de caractéristiques
-physiques ou d'environnement quand ils entraînent une modification de plus d'un
-dixième de la valeur locative.
+physiques ou d'environnement.
 
 Les collectivités territoriales et les établissements publics de coopération
 intercommunale dotés d'une fiscalité propre peuvent, par une délibération

@@ -16,11 +16,7 @@ négociations sur un marché réglementé avant ce délai ;
 1° bis A-Les sociétés d'investissement à capital variable pour les bénéfices
 réalisés dans le cadre de leur objet légal ;
 
-1° ter-Les sociétés de développement régional constituées et fonctionnant
-conformément aux dispositions du décret n° 55-876 du 30 juin 1955 et des textes
-qui l'ont complété et modifié pour la partie des bénéfices provenant des
-produits nets de leur portefeuille ou des plus-values qu'elles réalisent sur la
-vente des titres ou parts sociales faisant partie de ce portefeuille ;
+1° ter (Abrogé) ;
 
 1° quater et 1° quinquies (Abrogés à compter du 1er janvier 1993) ;
 

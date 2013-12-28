@@ -111,7 +111,7 @@ mentionnés au présent article sont amortis pour un montant égal à la fractio
 prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou
 provisions.
 
-Sans préjudice de l'application des dispositions du seizième alinéa du 5° du 1
+Sans préjudice de l'application des dispositions du quinzième alinéa du 5° du 1
 de l'article 39, les provisions non utilisées conformément à leur objet avant la
 fin de la cinquième année suivant celle de leur constitution sont rapportées aux
 bénéfices soumis à l'impôt au titre de ladite année.

@@ -37,11 +37,7 @@ attribuées ;
 4° Les crédits votés à cet effet par le conseil régional ;
 
 5° Le produit de la contribution au développement de l'apprentissage prévue à
-l'article 1599 quinquies A du code général des impôts ;
-
-6° Le montant des ressources fiscales attribuées aux régions mentionnées aux
-articles 41 et 140 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour
-2014.
+l'article 1599 quinquies A du code général des impôts.
 
 Chaque région, ainsi que la collectivité territoriale de Corse et la
 collectivité départementale de Mayotte, reçoit une part du produit de cette

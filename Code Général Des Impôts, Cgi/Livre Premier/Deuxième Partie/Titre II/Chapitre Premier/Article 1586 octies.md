@@ -1,6 +1,6 @@
 Article 1586 octies
 ----
-I.-1. La cotisation sur la valeur ajoutée des entreprises est due par le
+I. - 1. La cotisation sur la valeur ajoutée des entreprises est due par le
 redevable qui exerce l'activité au 1er janvier de l'année d'imposition.
 
 2. Toutefois, en cas d'apport, de cession d'activité, de scission d'entreprise
@@ -10,7 +10,7 @@ code civil, la cotisation sur la valeur ajoutée des entreprises est due
 de l'année et auquel l'activité est transmise lorsque l'opération intervient au
 cours de l'année d'imposition.
 
-II.-1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième
+II. - 1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième
 jour ouvré suivant le 1er mai de l'année suivant celle au titre de laquelle la
 cotisation sur la valeur ajoutée des entreprises est due, d'une déclaration par
 les entreprises mentionnées au I de l'article 1586 ter auprès du service des
@@ -46,7 +46,7 @@ soit dans les conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou
 au 1 de l'article 202 soit au jour du jugement d'ouverture de la procédure
 collective.
 
-III.-La valeur ajoutée est imposée dans la commune où le contribuable la
+III. - La valeur ajoutée est imposée dans la commune où le contribuable la
 produisant dispose de locaux ou emploie des salariés exerçant leur activité plus
 de trois mois.
 
@@ -63,7 +63,7 @@ dans les conditions prévues aux articles 1499 et 1501 représentent plus de 20 
 de la valeur locative des immobilisations imposables à la cotisation foncière
 des entreprises et la valeur locative des immobilisations industrielles évaluées
 dans les conditions prévues aux mêmes articles 1499 et 1501 sont pondérés par un
-coefficient de 2.
+coefficient de 5.
 
 Toutefois, lorsqu'un contribuable dispose, dans plus de dix communes,
 d'établissements comprenant des installations de production d'électricité
@@ -102,7 +102,7 @@ ajoutée du contribuable est répartie entre les communes où le contribuable
 dispose d'immobilisations imposables à la cotisation foncière des entreprises au
 prorata de leur valeur locative. Dans ce second cas, la valeur locative des
 immobilisations industrielles évaluée dans les conditions prévues aux articles
-1499 et 1501 est pondérée par un coefficient de 2.
+1499 et 1501 est pondérée par un coefficient de 5.
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent
 d'aucun établissement en France mais qui y exercent une activité de location

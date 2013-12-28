@@ -37,8 +37,8 @@ dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplô
 équivalent, elles sont prises en compte pour le double de leur montant pendant
 les vingt-quatre premiers mois suivant leur premier recrutement à condition que
 le contrat de travail de ces personnes soit à durée indéterminée et que
-l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année
-précédente ;
+l'effectif du personnel de recherche salarié de l'entreprise ne soit pas
+inférieur à celui de l'année précédente ;
 
 b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de
 l'article L. 611-7 du code de la propriété intellectuelle, au profit des
@@ -57,8 +57,8 @@ compter du 1er janvier 2000).
 3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires
 d'un doctorat ou d'un diplôme équivalent pendant les vingt-quatre premiers mois
 suivant leur premier recrutement à la condition que le contrat de travail de ces
-personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne
-soit pas inférieur à celui de l'année précédente.
+personnes soit à durée indéterminée et que l'effectif du personnel de recherche
+salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature
 confiées à :
@@ -226,10 +226,11 @@ Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, le
 dépenses prévues aux a à k doivent être des dépenses retenues pour la
 détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les
 sociétés dans les conditions de droit commun et, à l'exception des dépenses
-prévues aux e bis et j, correspondre à des opérations localisées au sein de
-l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention d'assistance
-administrative en vue de lutter contre la fraude et l'évasion fiscales.
+prévues aux e, e bis, j et des frais mentionnés aux 4° et 5° du k, correspondre
+à des opérations localisées au sein de l'Union européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen ayant conclu avec la France
+une convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales.
 
 Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du
 crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du

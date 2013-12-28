@@ -3,51 +3,52 @@ Article 167 bis
 I.-1. Les contribuables fiscalement domiciliés en France pendant au moins six
 des dix années précédant le transfert de leur domicile fiscal hors de France
 sont imposables lors de ce transfert au titre des plus-values latentes
-constatées sur les droits sociaux, valeurs, titres ou droits mentionnés au
-présent 1 qu'ils détiennent, directement ou indirectement, à la date du
-transfert hors de France de leur domicile fiscal lorsque les membres de leur
-foyer fiscal détiennent une ou plusieurs participations, directes ou indirectes,
-d'au moins 1 % dans les bénéfices sociaux d'une société, à l'exception des
-sociétés visées au 1° bis A de l'article 208, ou une ou plusieurs
-participations, directes ou indirectes, dans ces mêmes sociétés dont la valeur,
-définie selon les conditions prévues au 2 du présent I, excède 1,3 million
-d'euros lors de ce transfert. Les contribuables fiscalement domiciliés en France
-pendant au moins six années au cours des dix dernières années sont imposables
-lors du transfert de leur domicile fiscal hors de France sur la valeur des
-créances trouvant leur origine dans une clause de complément de prix mentionnée
-au 2 du I de l'article 150-0 A.
+constatées sur les droits sociaux, valeurs, titres ou droits mentionnés au 1 du
+I de l'article 150-0 A détenus, directement ou indirectement, par les membres de
+leur foyer fiscal à la date de ce transfert lorsque ces mêmes droits sociaux,
+valeurs, titres ou droits représentent au moins 50 % des bénéfices sociaux d'une
+société ou lorsque la valeur globale desdits droits sociaux, valeurs, titres ou
+droits, déterminée dans les conditions prévues au premier alinéa du 2 du présent
+I, excède 800 000 € à cette même date.
 
-2. La plus-value constatée dans les conditions du 1 du présent I est déterminée
-par différence entre la valeur des droits sociaux ou valeurs mobilières lors du
-transfert du domicile fiscal hors de France, déterminée selon les règles prévues
-aux articles 758 et 885 T bis, et leur prix d'acquisition par le contribuable
-ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la
-détermination des droits de mutation.
+Les contribuables fiscalement domiciliés en France pendant au moins six années
+au cours des dix dernières années sont imposables lors du transfert de leur
+domicile fiscal hors de France sur la valeur des créances trouvant leur origine
+dans une clause de complément de prix mentionnée au 2 du I de l'article 150-0 A.
 
-Lorsque les titres mentionnés au 1 du présent I ont été reçus lors d'une
-opération d'échange bénéficiant du sursis d'imposition prévu à l'article 150-0 B
-avant le transfert de domicile fiscal du contribuable, la plus-value constatée
-est calculée à partir du prix ou de la valeur d'acquisition des titres remis à
-l'échange diminué de la soulte reçue ou majoré de la soulte versée lors de
-l'échange.
+2. La plus-value constatée dans les conditions du premier alinéa du 1 du présent
+I est déterminée par différence entre la valeur des droits sociaux, valeurs,
+titres ou droits lors du transfert du domicile fiscal hors de France, déterminée
+selon les règles prévues aux articles 758 et 885 T bis, et leur prix
+d'acquisition par le contribuable ou, en cas d'acquisition à titre gratuit, leur
+valeur retenue pour la détermination des droits de mutation.
 
-Les créances mentionnées au second alinéa du 1 du présent I sont évaluées à leur
-valeur réelle au moment du transfert du domicile fiscal hors de France de leur
-titulaire.
+Lorsque les droits sociaux, valeurs, titres ou droits mentionnés au premier
+alinéa du 1 du présent I ont été reçus lors d'une opération d'échange
+bénéficiant du sursis d'imposition prévu à l'article 150-0 B avant le transfert
+de domicile fiscal du contribuable, la plus-value constatée est calculée à
+partir du prix ou de la valeur d'acquisition des titres remis à l'échange
+diminué de la soulte reçue ou majoré de la soulte versée lors de l'échange.
 
-2 bis. La plus-value latente calculée dans les conditions prévues au premier
-alinéa du 2 est réduite de l'abattement pour durée de détention prévu au 1 de
-l'article 150-0 D dans les conditions prévues à ce même 1.
+Les créances mentionnées au dernier alinéa du 1 du présent I sont évaluées à
+leur valeur réelle au moment du transfert du domicile fiscal hors de France de
+leur titulaire.
+
+2 bis. La plus-value calculée dans les conditions prévues au premier alinéa du 2
+du présent I est réduite, le cas échéant, de l'abattement mentionné au 1 de
+l'article 150-0 D, dans les conditions prévues aux 1 à 1 quinquies de ce même
+article.
 
 Pour l'application du premier alinéa du présent 2 bis à l'abattement prévu au 1
 de l'article 150-0 D, le transfert du domicile fiscal est assimilé à une cession
 à titre onéreux.
 
-3. La plus-value calculée dans les conditions prévues au 2 est réduite de
-l'abattement pour durée de détention prévuà l'article 150-0 D ter, lorsque les
-conditions mentionnées au même article sont remplies.
+3. La plus-value calculée dans les conditions prévues au premier alinéa du 2 du
+présent I est réduite, le cas échéant, des abattements mentionnés au 1 du I de
+l'article 150-0 D ter, dans les conditions et suivant les modalités prévues à ce
+même article et aux 1,1 quater et 1 quinquies de l'article 150-0 D.
 
-Pour l'application du premier alinéa du présent 3 à l'abattement prévu à
+Pour l'application du premier alinéa du présent 3 aux abattements mentionnés à
 l'article 150-0 D ter, le transfert du domicile fiscal est assimilé à une
 cession à titre onéreux si les conditions suivantes sont cumulativement remplies
 :
@@ -56,45 +57,40 @@ a) Le contribuable a fait valoir ses droits à la retraite avant le transfert de
 son domicile fiscal ;
 
 b) Le contribuable domicilié fiscalement hors de France cède les titres
-mentionnés au 1 dans les deux ans suivant son départ à la retraite.
+mentionnés au premier alinéa du 1 dans les deux ans suivant son départ à la
+retraite.
 
 4. Abrogé.
 
-5. Les moins-values calculées selon les modalités prévues au 2 ne sont pas
-imputables sur les plus-values calculées selon les mêmes modalités ni sur
-d'autres plus-values, quelles que soient leurs modalités d'imposition.
+5. Les moins-values latentes calculées selon les modalités prévues au premier
+alinéa du 2 ne sont pas imputables sur les plus-values calculées selon les mêmes
+modalités ni sur d'autres plus-values, quelles que soient leurs modalités
+d'imposition.
 
 II.-Lorsqu'un contribuable transfère son domicile fiscal hors de France, les
 plus-values de cession ou d'échange de droits sociaux, valeurs, titres ou droits
-mentionnés au 1 du I du présent article dont l'imposition a été reportée en
-application du II de l'article 92 B, de l'article 92 B decies et des I ter et II
-de l'article 160, dans leur rédaction en vigueur avant le 1er janvier 2000, de
-l'article 150-0 C, dans sa rédaction en vigueur avant le 1er janvier 2006, des
-articles 150-0 B bis, 150-0 B ter et 150-0 D bis sont également imposables lors
-de ce transfert.
+dont l'imposition a été reportée en application du II de l'article 92 B, de
+l'article 92 B decies et des I ter et II de l'article 160, dans leur rédaction
+en vigueur avant le 1er janvier 2000, de l'article 150-0 C, dans sa rédaction en
+vigueur avant le 1er janvier 2006 et, des articles 150-0 B bis et 150-0 B ter
+sont également imposables lors de ce transfert.
 
 II bis. 1.-L'impôt sur le revenu relatif aux plus-values et créances déterminées
-dans les conditions prévues aux I et II du présent article, à l'exception de
-celles imposées dans les conditions prévues au 2 du présent II bis, est égal à
-la différence entre, d'une part, le montant de l'impôt résultant de
-l'application de l'article 197 à l'ensemble des revenus de sources française et
-étrangère mentionnés au 1 de l'article 167 auxquels s'ajoutent les plus-values
-et créances imposables en vertu des I et II du présent article, à l'exception de
-celles imposées dans les conditions prévues au 2 du présent II bis, et, d'autre
-part, le montant de l'impôt établi dans les conditions prévues à l'article 197
-pour les seuls revenus de sources française et étrangère mentionnés au 1 de
-l'article 167.
+dans les conditions prévues aux I et II du présent article est égal à la
+différence entre, d'une part, le montant de l'impôt résultant de l'application
+de l'article 197 à l'ensemble des revenus de sources française et étrangère
+mentionnés au 1 de l'article 167 auxquels s'ajoutent les plus-values et créances
+imposables en vertu des I et II du présent article et, d'autre part, le montant
+de l'impôt établi dans les conditions prévues à l'article 197 pour les seuls
+revenus de sources française et étrangère mentionnés au 1 de l'article 167.
 
 Le taux d'imposition des plus-values et créances mentionnées aux I et II du
 présent article et imposées dans les conditions du premier alinéa du présent 1
 est égal au rapport entre, d'une part, l'impôt calculé dans les conditions du
 même premier alinéa et, d'autre part, la somme des plus-values et créances
-déterminées dans les conditions des I et II à l'exception de celles imposées
-dans les conditions du 2 du présent II bis.
+déterminées dans les conditions des I et II.
 
-2. Les plus-values et créances mentionnées aux I et II peuvent être, sur option
-du contribuable, imposées dans les conditions prévues au 2 bis de l'article 200
-A lorsque les conditions prévues à ce même 2 bis sont remplies.
+2. Abrogé.
 
 Pour l'application du premier alinéa du présent 2 aux plus-values latentes
 constatées dans les conditions du I, le transfert du domicile fiscal est
@@ -113,14 +109,14 @@ fiscales ainsi qu'une convention d'assistance mutuelle en matière de
 recouvrement ayant une portée similaire à celle prévue par la directive 2010/24/
 UE du Conseil, du 16 mars 2010, concernant l'assistance mutuelle en matière de
 recouvrement des créances relatives aux taxes, impôts, droits et autres mesures,
-il est sursis au paiement de l'impôt afférent aux plus-values constatées dans
-les conditions prévues au I du présent article ou aux plus-values imposables en
-application du II.
+il est sursis au paiement de l'impôt afférent aux plus-values et créances
+constatées dans les conditions prévues au I du présent article et aux
+plus-values imposables en application du II.
 
 V.-1. Sur demande expresse du contribuable, il peut également être sursis au
-paiement de l'impôt afférent aux plus-values constatées dans les conditions
-prévues au I ou aux plus-values imposables en application du II lorsque le
-contribuable :
+paiement de l'impôt afférent aux plus-values et créances constatées dans les
+conditions prévues au I et aux plus-values imposables en application du II
+lorsque le contribuable :
 
 a) Transfère son domicile fiscal hors de France dans un Etat autre que ceux
 visés au IV ;
@@ -136,24 +132,19 @@ mentionnés précédemment.
 
 Dans les cas mentionnés aux a et b du présent V, le sursis de paiement est
 subordonné à la condition que le contribuable déclare le montant des plus-values
-constatées dans les conditions du I ou imposables en application du II, désigne
-un représentant établi en France autorisé à recevoir les communications
-relatives à l'assiette, au recouvrement et au contentieux de l'impôt et
-constitue auprès du comptable public compétent, préalablement à son départ, des
-garanties propres à assurer le recouvrement de la créance du Trésor.
+et créances constatées dans les conditions du I ou imposables en application du
+II, désigne un représentant établi en France autorisé à recevoir les
+communications relatives à l'assiette, au recouvrement et au contentieux de
+l'impôt et constitue auprès du comptable public compétent, préalablement à son
+départ, des garanties propres à assurer le recouvrement de la créance du Trésor.
 
 Le montant des garanties que le contribuable est tenu de constituer
 préalablement à son transfert de domicile fiscal hors de France pour bénéficier
-du sursis de paiement prévu au présent 1 est égal à :
-
-1° 19 % du montant total des plus-values et créances mentionnées aux I et II et
-imposées dans les conditions prévues au 2 du II bis ;
-
-2° 30 % du montant total des plus-values et créances mentionnées aux I et II et
-imposées dans les conditions prévues au 1 du II bis.
+du sursis de paiement prévu au présent 1 est égal à 30 % du montant total des
+plus-values et créances mentionnées aux I et II.
 
 Dans le mois suivant la réception de l'avis d'imposition émis au titre de
-l'impôt afférent aux plus-values et créances mentionnées au 2° du présent 1, le
+l'impôt afférent aux plus-values et créances mentionnées aux I et II, le
 contribuable constitue, le cas échéant, un complément de garanties pour assurer
 le recouvrement de l'impôt calculé dans les conditions du 1 du II bis à hauteur
 de la différence entre ce montant d'impôt et le montant de la garantie
@@ -185,26 +176,32 @@ intervient l'un des événements suivants :
 
 a) La cession, le rachat, le remboursement ou l'annulation des droits sociaux,
 valeurs, titres ou droits pour lesquels des plus-values ont été constatées dans
-les conditions du I ou dont l'acquisition a ouvert droit au bénéfice des
-dispositions mentionnées au II, à l'exception des cessions auxquelles les
-reports d'imposition prévus aux articles 150-0 B ter et 150-0 D bis s'appliquent
-(2). La cession s'entend des transmissions à titre onéreux, à l'exception des
-opérations d'échange entrant dans le champ d'application de l'article 150-0 B ;
+les conditions du I ou dont l'acquisition intervenue avant le transfert du
+domicile fiscal hors de France a ouvert droit au bénéfice des dispositions
+mentionnées au II de l'article 92 B, à l'article 92 B decies et aux I ter et II
+de l'article 160, dans leur rédaction en vigueur avant le 1er janvier 2000, et à
+l'article 150-0 C, dans sa rédaction en vigueur avant le 1er janvier 2006, à
+l'exception des cessions auxquelles les reports d'imposition prévus à l'article
+150-0 B ter s'appliquent. La cession s'entend des transmissions à titre onéreux,
+à l'exception des opérations d'échange ou d'apport intervenues après le
+transfert du domicile fiscal hors de France, entrant dans le champ d'application
+des articles 150-0 B ou 150-0 B ter et portant sur des droits sociaux, valeurs,
+titres ou droits pour lesquels des plus-values ont été constatées dans les
+conditions du I du présent article.
 
-b) La donation de droits sociaux, valeurs, titres ou droits pour lesquels des
-plus-values ont été constatées dans les conditions du I du présent article, sauf
-si le donateur démontre que la donation n'est pas faite à seule fin d'éluder
-l'impôt calculé en application du II bis, ou celle de titres pour lesquels des
-plus-values de cession ou d'échange ont été reportées en application de
-l'article 92 B decies, du dernier alinéa du 1 du I ter et du II de l'article
-160, dans leur rédaction en vigueur avant le 1er janvier 2000, de l'article
-150-0 C, dans sa rédaction en vigueur avant le 1er janvier 2006, ou de l'article
-150-0 B bis.
+b) La donation de :
 
-Les droits, valeurs ou titres mentionnés aux a et b du présent 1 s'entendent de
-ceux mentionnés au 1 du I du présent article ou reçus lors d'une opération
-d'échange entrant dans le champ d'application de l'article 150-0 B intervenue
-après le transfert de domicile fiscal hors de France ;
+1° Droits sociaux, valeurs, titres ou droits pour lesquels des plus-values ont
+été constatées dans les conditions du I lorsque le donateur est fiscalement
+domicilié dans un Etat autre que ceux mentionnés au IV, sauf s'il démontre que
+la donation n'est pas faite avec pour motif principal d'éluder l'impôt établi
+dans les conditions du II bis ;
+
+2° Titres pour lesquels des plus-values de cession ou d'échange ont été
+reportées en application de l'article 92 B decies, du dernier alinéa du 1 du I
+ter et du II de l'article 160, dans leur rédaction en vigueur avant le 1er
+janvier 2000, de l'article 150-0 C, dans sa rédaction en vigueur avant le 1er
+janvier 2006, ou de l'article 150-0 B bis ;
 
 c) Le décès du contribuable, pour l'impôt calculé en application du II bis
 afférent aux plus-values mentionnées à l'article 92 B decies, au dernier alinéa
@@ -212,36 +209,49 @@ du 1 du I ter et au II de l'article 160, dans leur rédaction en vigueur avant l
 1er janvier 2000, à l'article 150-0 C, dans sa rédaction en vigueur avant le 1er
 janvier 2006, ou à l'article 150-0 B bis ;
 
-d) La perception d'un complément de prix, l'apport ou la cession de la créance
-pour les créances mentionnées au second alinéa du 1 du I du présent article ;
+d) La perception d'un complément de prix, ainsi que, pour les créances
+mentionnées au second alinéa du 1 du I, l'apport de la créance, sa cession à
+titre onéreux ou sa donation lorsque le donateur est fiscalement domicilié dans
+un Etat autre que ceux mentionnés au IV, sauf s'il démontre que la donation
+n'est pas faite avec pour motif principal d'éluder l'impôt établi dans les
+conditions du II bis ;
 
-d bis) L'expiration du délai de réinvestissement mentionné au a du 3° du II de
-l'article 150-0 D bis, pour l'impôt afférent au montant de la plus-value de
-cession reportée en application du même article, net des prélèvements sociaux,
-qui n'a pas été réinvesti dans les conditions prévues à ce même a ;
+d bis) Abrogé ;
 
-e) La transmission, le rachat ou l'annulation, avant l'expiration du délai de
-cinq ans mentionné au III bis de l'article 150-0 D bis, des titres et droits
-reçus en contrepartie de l'apport en numéraire conformément au II du même
-article 150-0 D bis, pour l'impôt afférent aux plus-values de cession reportées
-en application dudit article ;
+e) Abrogé ;
 
 f) La cession à titre onéreux, le rachat, le remboursement ou l'annulation des
 titres ou droits reçus en rémunération de l'apport ou des titres ou droits
 apportés ou des parts ou droits dans les sociétés ou groupements interposés
 conformément à l'article 150-0 B ter, pour l'impôt afférent aux plus-values de
-cession reporté en application du même article.
+cession reportées en application du même article.
 
-2. A l'expiration d'un délai de huit ans suivant le transfert de domicile fiscal
-hors de France ou lorsque le contribuable transfère de nouveau son domicile
-fiscal en France si cet événement est antérieur, l'impôt calculé dans les
-conditions du II bis afférent aux plus-values latentes mentionnées au premier
-alinéa du 1 du I, est dégrevé d'office, ou restitué s'il avait fait l'objet d'un
-paiement immédiat lors du transfert de domicile fiscal hors de France, lorsque
-les titres mentionnés au même alinéa ou les titres reçus lors d'une opération
-d'échange entrant dans le champ d'application de l'article 150-0 B intervenue
-après le transfert de domicile fiscal hors de France demeurent, à cette date,
-dans le patrimoine du contribuable.
+1 bis. Pour l'impôt afférent aux plus-values constatées dans les conditions du
+I, les droits sociaux, valeurs, titres ou droits mentionnés aux a et b du 1 du
+présent VII s'entendent :
+
+1° De ceux mentionnés au premier alinéa du 1 du I ;
+
+2° De ceux reçus lors d'une opération d'échange ou d'apport entrant dans le
+champ d'application de l'article 150-0 B intervenue après le transfert du
+domicile fiscal hors de France ;
+
+3° De ceux mentionnés aux 1°, 2° et 3° du I de l'article 150-0 B ter lorsque les
+titres sur lesquels une plus-value a été constatée dans les conditions du I du
+présent article lors du transfert du domicile fiscal hors de France ont fait
+l'objet, après ce transfert, d'une opération d'apport entrant dans le champ
+d'application de l'article 150-0 B ter ;
+
+2. A l'expiration d'un délai de quinze ans suivant le transfert de domicile
+fiscal hors de France ou lorsque le contribuable transfère de nouveau son
+domicile fiscal en France si cet événement est antérieur, l'impôt calculé dans
+les conditions du II bis afférent aux plus-values latentes mentionnées au
+premier alinéa du 1 du I, est dégrevé d'office, ou restitué s'il avait fait
+l'objet d'un paiement immédiat lors du transfert de domicile fiscal hors de
+France, lorsque les titres mentionnés au même alinéa ou les titres reçus lors
+d'une opération d'échange entrant dans le champ d'application de l'article 150-0
+B intervenue après le transfert de domicile fiscal hors de France demeurent, à
+cette date, dans le patrimoine du contribuable.
 
 L'impôt calculé dans les conditions du II bis afférent aux plus-values latentes
 mentionnées au premier alinéa du 1 du I est également dégrevé, ou restitué s'il
@@ -253,6 +263,14 @@ opération d'échange entrant dans le champ d'application de l'article 150-0 B
 intervenue après le transfert de domicile fiscal hors de France, si le donateur
 démontre que cette opération n'est pas faite à seule fin d'éluder l'impôt.
 
+L'impôt calculé dans les conditions du même II bis afférent aux plus-values
+mentionnées au premier alinéa du 1 du I est également dégrevé, pour sa fraction
+se rapportant aux droits sociaux, valeurs, titres ou droits mentionnés au même
+alinéa faisant l'objet d'une cession ou d'un rachat entrant dans le champ
+d'application du III de l'article 150-0 A, à la condition que le contribuable
+soit fiscalement domicilié dans un Etat mentionné au IV du présent article à la
+date de cette cession ou de ce rachat.
+
 3. Lorsque le contribuable transfère de nouveau son domicile fiscal en France et
 que les titres auxquels se rapporte la plus-value imposable dans les conditions
 prévues au II figurent dans son patrimoine, il est, pour l'impôt afférent à ces
@@ -263,28 +281,27 @@ Lorsque le contribuable transmet à titre gratuit, alors qu'il est domicilié ho
 de France, des titres dont l'acquisition a ouvert droit au bénéfice des
 dispositions du II de l'article 92 B ou de celles du premier alinéa du 1 ou du 4
 du I ter de l'article 160, dans leur rédaction en vigueur avant le 1er janvier
-2000, la fraction de l'impôt établi dans les conditions du II bis du présent
-article se rapportant aux titres ainsi transmis est dégrevée ou, si elle avait
-fait l'objet d'un paiement immédiat lors du transfert du domicile fiscal hors de
-France, restituée.
-
-L'impôt établi dans les conditions du II bis du présent article et afférent aux
-plus-values de cession reportées en application de l'article 150-0 D bis est
-dégrevé, ou restitué s'il avait fait l'objet d'un paiement immédiat lors du
-transfert du domicile fiscal hors de France, à l'expiration du délai de cinq ans
-mentionné au deuxième alinéa du III bis du même article 150-0 D bis.
+2000, ou de l'article 150-0 B ter, la fraction de l'impôt établi dans les
+conditions du II bis du présent article se rapportant aux titres ainsi transmis
+est dégrevée ou, si elle avait fait l'objet d'un paiement immédiat lors du
+transfert du domicile fiscal hors de France, restituée.
 
 4. L'impôt calculé en application du II bis se rapportant aux créances
-mentionnées au second alinéa du 1 du I est dégrevé, ou restitué s'il avait fait
+mentionnées au dernier alinéa du 1 du I est dégrevé, ou restitué s'il avait fait
 l'objet d'un paiement immédiat lors du transfert du domicile fiscal hors de
-France, en cas de retour en France ou, lorsque le contribuable est encore
-fiscalement domicilié à l'étranger, lors de son décès ou de la donation des
-créances, si le donateur démontre que cette dernière opération n'est pas faite à
-seule fin d'éluder l'impôt établi dans les conditions du II bis. L'impôt est
-dégrevé ou restitué pour la fraction se rapportant à la créance encore dans le
-patrimoine du contribuable au jour du décès ou de la donation, déduction faite
-des éventuels compléments de prix perçus entre la date du transfert du domicile
-fiscal hors de France et celle du décès ou de la donation.
+France, en cas de rétablissement du domicile fiscal en France ou, lorsque le
+contribuable est encore fiscalement domicilié à l'étranger, lors de son décès ou
+de la donation des créances, lorsque le donateur est fiscalement domicilié dans
+un Etat mentionné au IV ou, s'il est fiscalement domicilié dans un autre Etat, à
+la condition que le donateur démontre que cette dernière opération n'est pas
+faite avec pour motif principal d'éluder l'impôt établi dans les conditions du
+II bis. L'impôt est dégrevé ou restitué pour la fraction se rapportant à la
+créance encore dans le patrimoine du contribuable au jour du rétablissement du
+domicile fiscal en France ou du décès ou pour la fraction se rapportant à la
+créance ayant fait l'objet d'une donation, déduction faite des éventuels
+compléments de prix perçus entre la date du transfert du domicile fiscal hors de
+France et celle du rétablissement du domicile fiscal en France, du décès ou de
+la donation.
 
 VIII.-1. Si, à la survenance de l'un des événements mentionnés aux a et b du 1
 du VII, le montant de la plus-value de cession ou, en cas d'acquisition à titre
@@ -303,8 +320,8 @@ domicile fiscal hors de France, d'autre part.
 
 Le surplus d'impôt est dégrevé d'office ou restitué s'il avait fait l'objet d'un
 paiement immédiat lors du transfert de domicile fiscal hors de France. Dans ce
-cas, le contribuable fournit, à l'appui de la déclaration mentionnée au IX, les
-éléments de calcul retenus.
+cas, le contribuable fournit, à l'appui de la déclaration mentionnée au premier
+alinéa du 3 du IX, les éléments de calcul retenus.
 
 2. Si, à la survenance de l'un des événements mentionnés aux a et b du 1 du VII,
 le contribuable réalise une perte ou constate que les titres ont une valeur
@@ -322,12 +339,6 @@ plus-value latente constatée conformément au I sur les titres concernés par
 ladite cession est retenu dans la limite de son montant assis sur l'assiette
 réduite de ce nouvel abattement.
 
-La moins-value réalisée lors de l'un des événements mentionnés aux a et b du 1
-du VII et relative à des titres pour lesquels une plus-value avait été constatée
-conformément au I lors du transfert de domicile fiscal du contribuable hors de
-France est également réduite, le cas échéant, du montant de l'abattement prévu
-au 1 de l'article 150-0 D ou à l'article 150-0 D ter.
-
 4. Si, lors de la survenance de l'un des événements prévus au a du 1 du VII, du
 présent article le contribuable réalise une plus-value imposée en France
 conformément aux dispositions de l'article 244 bis B, l'impôt calculé dans les
@@ -336,47 +347,52 @@ I sur les titres concernés par l'un des événements précités est dégrevé o
 restitué s'il avait fait l'objet d'un paiement l'année suivant le transfert de
 domicile fiscal hors de France.
 
-La moins-value mentionnée au second alinéa du 3 du présent VIII, diminuée le cas
-échéant des abattements mentionnés au 1 de l'article 150-0 D et à l'article
-150-0 D ter dans les conditions prévues au second alinéa du 3 du présent VIII,
-réalisée dans un Etat mentionné au IV est imputable, dans les conditions prévues
-au 11 de l'article 150-0 D, sur les plus-values imposables en application de
-l'article 244 bis B ou, lorsque le contribuable transfère de nouveau son
-domicile fiscal en France, sur les plus-values imposables conformément à
-l'article 150-0 A.
+4 bis. La moins-value réalisée par un contribuable fiscalement domicilié dans un
+Etat mentionné au IV lors de l'un des événements mentionnés au a du 1 du VII et
+relative à des titres pour lesquels une plus-value avait été constatée
+conformément au I lors du transfert de son domicile fiscal hors de France,
+réduite, le cas échéant, des abattements mentionnés au 1 de l'article 150-0 D ou
+à l'article 150-0 D ter est imputable, dans les conditions prévues au 11 de
+l'article 150-0 D :
+
+a) Sur les plus-values réalisées par ce même contribuable lors de la survenance
+de l'un des événements mentionnés au a du 1 du VII du présent article et
+relatives à des titres pour lesquels une plus-value avait été constatée
+conformément au I lors du transfert de son domicile fiscal hors de France ;
+
+b) Sur les plus-values imposables en application de l'article 244 bis B ;
+
+c) Lorsque le contribuable transfère de nouveau son domicile fiscal en France,
+sur les plus-values imposables conformément à l'article 150-0 A.
+
+La moins-value de cession ou de rachat de droits sociaux, valeurs, titres ou
+droits déterminée conformément aux articles 150-0 A ou 244 bis B, réduite, le
+cas échéant, des abattements mentionnés au 1 de l'article 150-0 D ou à l'article
+150-0 D ter, est imputable, dans les conditions prévues au 11 de l'article 150-0
+D, sur les plus-values mentionnées au a du présent 4 bis.
 
 5. L'impôt éventuellement acquitté par le contribuable dans son Etat de
-résidence dans les cas prévus au a du 1 du VII est imputable sur l'impôt
-définitif dû en application du I et des 1 et 3 du présent VIII, à proportion du
-rapport entre l'assiette définitive de l'impôt calculée en application des mêmes
-I et 1 et 3 du présent VIII, d'une part, et l'assiette de l'impôt acquitté hors
-de France, d'autre part, et dans la limite de l'impôt définitif dû en France.
+résidence dans les cas prévus au a du 1 du VII est imputable, dans la limite de
+l'impôt définitif dû en France :
 
-VIII bis.-1. Si, lors de la survenance de la cession à titre onéreux des titres,
-les conditions prévues au 2 bis de l'article 200 A sont remplies alors qu'elles
-ne l'étaient pas au titre de l'année du transfert de domicile fiscal hors de
-France et que le contribuable opte pour l'imposition de la plus-value latente
-constatée conformément au I du présent article dans les conditions prévues à ce
-même 2 bis, l'impôt sur le revenu calculé en application du 1 du II bis du
-présent article afférent à la plus-value latente constatée conformément au I sur
-les titres concernés par l'un des événements précités est retenu dans la limite
-de son montant recalculé en appliquant à la plus-value latente constatée dans
-les conditions du même I le taux de 19 %.
+a) Sur les prélèvements sociaux afférents à la plus-value calculée en
+application du premier alinéa du 2 du I et des 1 et 4 bis du présent VIII, à
+proportion du rapport entre, d'une part, cette même plus-value et, d'autre part,
+l'assiette de l'impôt acquitté hors de France ;
 
-Le surplus d'impôt sur le revenu est dégrevé ou restitué. Dans ce cas, le
-contribuable fournit, à l'appui de la déclaration mentionnée au 3 du IX, les
-éléments de calcul retenus.
+b) Puis, pour le reliquat, sur l'impôt sur le revenu afférent à la plus-value
+calculée en application des 2 à 3 du I et des 1,3 et 4 bis du présent VIII, à
+proportion du rapport entre, d'une part, cette même plus-value et, d'autre part,
+l'assiette de l'impôt acquitté hors de France.
 
-2. Le présent 2 est applicable lorsque les conditions suivantes sont remplies :
+VIII bis.-1. (abrogé)
 
-a) Les plus-values et créances déterminées dans les conditions prévues aux I et
-II ont été imposées dans les conditions du 1 du II bis au titre de l'année du
-transfert de domicile fiscal hors de France ; b) Le contribuable ne bénéficie
-pas du 1 du présent VIII bis au titre de la plus-value latente constatée
-conformément au I concernée par l'un des événements prévus au VII.
+2. a (abrogé)
 
-Lors de la survenance de chaque événement prévu au même VII, le montant d'impôt
-sur le revenu dû, à dégrever ou à restituer, est calculé en appliquant à la
+b. (abrogé)
+
+Lors de la survenance de chaque événement prévu au VII, le montant d'impôt sur
+le revenu dû, à dégrever ou à restituer, est calculé en appliquant à la
 plus-value ou créance définitive concernée par ledit événement le taux
 d'imposition défini au second alinéa du 1 du II bis.
 
@@ -387,49 +403,49 @@ en retenant le montant d'impôt ainsi calculé correspondant à la seule plus-va
 ou créance concernée par l'événement mentionné au VII.
 
 Cette option, qui doit être exercée lors de la survenance du premier événement
-prévu au même VII affectant une plus-value ou une créance mentionnée aux I ou
-II, est irrévocable et s'applique à l'ensemble des plus-values et créances
-déterminées dans les conditions prévues à ces mêmes I et II.
+prévu au VII affectant une plus-value ou une créance mentionnée aux I ou II, est
+irrévocable et s'applique à l'ensemble des plus-values et créances déterminées
+dans les conditions prévues à ces mêmes I et II.
 
 Le surplus d'impôt sur le revenu est dégrevé ou restitué. Dans ce cas, le
 contribuable fournit, à l'appui de la déclaration mentionnée au 3 du IX, les
 éléments de calcul retenus.
 
 IX.-1. Le contribuable qui transfère son domicile fiscal hors de France est tenu
-de déclarer les plus-values imposables en application des I et II sur la
-déclaration mentionnée au 1 de l'article 170 l'année suivant celle du transfert
-dans le délai prévu à l'article 175.
+de déclarer les plus-values et les créances imposables en application des I et
+II sur la déclaration mentionnée au 1 de l'article 170 l'année suivant celle du
+transfert dans le délai prévu à l'article 175.
 
 2. Lorsqu'il bénéficie du sursis de paiement, il déclare chaque année sur la
 déclaration mentionnée au 1 du présent IX le montant cumulé des impôts en sursis
 de paiement et indique sur un formulaire établi par l'administration, joint en
-annexe, le montant des plus-values constatées conformément aux I et II et
-l'impôt afférent aux titres pour lesquels le sursis de paiement n'est pas
-expiré.
+annexe, le montant des plus-values et des créances constatées conformément aux I
+et II et l'impôt afférent aux plus-values et aux créances pour lesquelles le
+sursis de paiement n'est pas expiré.
 
 3. Dans le délai prévu à l'article 175, il déclare, l'année suivant celle de
 l'expiration du sursis de paiement, sur le même formulaire joint à la
 déclaration prévue au 1 de l'article 170, la nature et la date de l'événement
 entraînant l'expiration du sursis de paiement ainsi que le montant de l'impôt
-exigible afférent aux plus-values constatées dans les conditions du I du présent
-article et modifiées, le cas échéant, dans les conditions du VIII, ou imposables
-en application du II. Il fournit, à l'appui de cette déclaration, les éléments
-de calcul retenus. L'impôt définitif est acquitté au moment du dépôt de ce
-formulaire.
+exigible afférent aux plus-values et aux créances constatées dans les conditions
+du I du présent article et modifiées, le cas échéant, dans les conditions du
+VIII, ou imposables en application du II. Il fournit, à l'appui de cette
+déclaration, les éléments de calcul retenus. L'impôt définitif est acquitté au
+moment du dépôt de ce formulaire.
 
 Lorsque le contribuable n'a pas bénéficié d'un sursis de paiement en application
-des IV et V, il demande, lors de la survenance de l'un des événements prévus aux
-a et b du 1 du VII et lorsqu'il se trouve dans l'un des cas prévus aux 1 et 2 du
-VIII, la restitution de l'impôt calculé en application du II bis et acquitté
-l'année suivant son transfert de domicile fiscal hors de France afférent à la
-plus-value latente constatée sur les titres concernés par l'un des événements
-précités.
+des IV et V, il demande, dans le délai prévu à l'article 175, l'année suivant la
+survenance de l'un des événements prévus aux a et b du 1 du VII et lorsqu'il se
+trouve dans l'un des cas prévus au VIII, la restitution de l'impôt calculé en
+application du II bis et acquitté l'année suivant son transfert de domicile
+fiscal hors de France afférent à la plus-value latente constatée sur les titres
+et créances concernés par l'un des événements précités.
 
-Lors de la survenance de l'un des événements prévus aux 2 et 3 du VII, il
-déclare la nature et la date de ces événements et demande le dégrèvement ou la
-restitution de l'impôt calculé dans les conditions prévues au II bis afférent
-aux plus-values constatées sur les titres concernés par l'un des événements
-précités.
+L'année suivant la survenance de l'un des événements prévus aux 2 à 4 du VII du
+présent article et dans le délai prévu à l'article 175, le contribuable déclare
+la nature ainsi que la date de ces événements et demande le dégrèvement ou la
+restitution de l'impôt calculé en application du II bis afférent aux plus-values
+constatées sur les titres et créances concernés par l'un de ces événements.
 
 4. Le défaut de production de la déclaration et du formulaire mentionnés au 2 ou
 l'omission de tout ou partie des renseignements qui doivent y figurer entraîne

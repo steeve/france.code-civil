@@ -39,15 +39,23 @@ n'a pas un revenu fiscal de référence excédant la limite prévue au II de
 l'article 1417 du présent code et si la cession intervient dans un délai
 inférieur à deux ans suivant l'entrée dans l'établissement ;
 
-2° Qui constituent l'habitation en France des personnes physiques, non
-résidentes en France, ressortissantes d'un Etat membre de l'Union européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
-avec la France une convention d'assistance administrative en vue de lutter
-contre la fraude et l'évasion fiscales, dans la limite d'une résidence par
-contribuable, à la double condition que le cédant ait été fiscalement domicilié
-en France de manière continue pendant au moins deux ans à un moment quelconque
-antérieurement à la cession et qu'il ait la libre disposition du bien au moins
-depuis le 1er janvier de l'année précédant celle de cette cession ;
+2° Au titre de la cession d'un logement situé en France lorsque le cédant est
+une personne physique, non résidente de France, ressortissante d'un Etat membre
+de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales et à la
+condition qu'il ait été fiscalement domicilié en France de manière continue
+pendant au moins deux ans à un moment quelconque antérieurement à la cession.
+
+L'exonération mentionnée au premier alinéa du présent 2° s'applique, dans la
+limite d'une résidence par contribuable et de 150 000 € de plus-value nette
+imposable, aux cessions réalisées :
+
+a) Au plus tard le 31 décembre de la cinquième année suivant celle du transfert
+par le cédant de son domicile fiscal hors de France ;
+
+b) Sans condition de délai, lorsque le cédant a la libre disposition du bien au
+moins depuis le 1er janvier de l'année précédant celle de la cession ;
 
 3° Qui constituent les dépendances immédiates et nécessaires des biens
 mentionnés aux 1° et 2°, à la condition que leur cession intervienne
@@ -78,24 +86,26 @@ En cas de cession d'un bien dont le droit de propriété est démembré, le seui
 15 000 € s'apprécie au regard de chaque quote-part indivise en pleine propriété
 ;
 
-7° Qui sont cédés avant le 31 décembre 2011 à un organisme d'habitations à loyer
-modéré, à une société d'économie mixte gérant des logements sociaux, à
-l'association mentionnée à l'article L. 313-34 du code de la construction et de
-l'habitation, aux sociétés civiles immobilières dont cette association détient
-la majorité des parts pour les logements visés au 4° de l'article L. 351-2 du
-code de la construction et de l'habitation ou à un organisme bénéficiant de
-l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 du code de
-la construction et de l'habitation.
+7° Qui sont cédés avant le 31 décembre 2011 et du 1er janvier 2014 au 31
+décembre 2015 à un organisme d'habitations à loyer modéré, à une société
+d'économie mixte gérant des logements sociaux, à l'association mentionnée à
+l'article L. 313-34 du code de la construction et de l'habitation, aux sociétés
+civiles immobilières dont cette association détient la majorité des parts pour
+les logements visés au 4° de l'article L. 351-2 du code de la construction et de
+l'habitation ou à un organisme bénéficiant de l'agrément relatif à la maîtrise
+d'ouvrage prévu à l'article L. 365-2 du code de la construction et de
+l'habitation.
 
-8° Qui sont cédés avant le 31 décembre 2011 à une collectivité territoriale, à
-un établissement public de coopération intercommunale compétent ou à un
-établissement public foncier mentionné aux articles L. 321-1 et L. 324-1 du code
-de l'urbanisme en vue de leur cession à l'un des organismes mentionnés au 7° ;
-en cas de non respect de cette condition dans un délai d'un an à compter de
-l'acquisition des biens, la collectivité territoriale ou l'établissement public
-de coopération intercommunale compétent reverse à l'Etat le montant dû au titre
-du I ; ce délai est porté à trois ans pour les cessions réalisées par un
-établissement public foncier au profit de l'un des organismes mentionnés au 7°.
+8° Qui sont cédés avant le 31 décembre 2011 et du 1er janvier 2014 au 31
+décembre 2015 à une collectivité territoriale, à un établissement public de
+coopération intercommunale compétent ou à un établissement public foncier
+mentionné aux articles L. 321-1 et L. 324-1 du code de l'urbanisme en vue de
+leur cession à l'un des organismes mentionnés au 7° ; en cas de non respect de
+cette condition dans un délai d'un an à compter de l'acquisition des biens, la
+collectivité territoriale ou l'établissement public de coopération
+intercommunale compétent reverse à l'Etat le montant dû au titre du I ; ce délai
+est porté à trois ans pour les cessions réalisées par un établissement public
+foncier au profit de l'un des organismes mentionnés au 7°.
 
 9° Au titre de la cession d'un droit de surélévation au plus tard le 31 décembre
 2014, à condition que le cessionnaire s'engage à réaliser et à achever des

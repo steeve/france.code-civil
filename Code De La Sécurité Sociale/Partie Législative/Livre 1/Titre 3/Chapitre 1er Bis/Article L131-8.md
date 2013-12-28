@@ -73,6 +73,8 @@ pour 1999 (n° 98-1194 du 23 décembre 1998), pour une fraction correspondant à
 h) Au fonds mentionné à l'article L. 862-1 du présent code, pour une fraction
 correspondant à 3,15 %.
 
-L'Agence centrale des organismes de sécurité sociale et les fonds mentionnés au
-présent article est chargée de centraliser et répartir le produit des taxes et
-des impôts mentionnés, dans les conditions prévues au présent article.
+L'Agence centrale des organismes de sécurité sociale est chargée de centraliser
+et de répartir entre leurs affectataires le produit des taxes et des impôts
+mentionnés au présent article. La répartition entre les affectataires est
+effectuée en appliquant les fractions définies au présent article pour leur
+valeur en vigueur à la date du fait générateur de ces taxes et impôts.

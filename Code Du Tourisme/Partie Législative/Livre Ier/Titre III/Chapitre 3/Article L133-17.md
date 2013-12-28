@@ -8,7 +8,7 @@ cessent de produire leurs effets dans les conditions suivantes :
 1° (Abrogé) ;
 
 2° Ceux dont la publication est intervenue avant le 1er janvier 1969 cessent de
-produire leurs effets le 1er janvier 2014 ;
+produire leurs effets le 1er janvier 2018 ;
 
 3° Ceux dont la publication est intervenue à compter du 1er janvier 1969 cessent
 de produire leurs effets le 1er janvier 2018.

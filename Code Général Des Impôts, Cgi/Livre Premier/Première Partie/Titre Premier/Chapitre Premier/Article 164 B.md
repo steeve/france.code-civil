@@ -77,7 +77,16 @@ cession de droits sociaux, ainsi que ceux mentionnés au 6 du II du même articl
 retirés du rachat par une société émettrice de ses propres titres, lorsque les
 droits détenus directement ou indirectement par le cédant ou l'actionnaire ou
 l'associé dont les titres sont rachetés, sont émis par une société soumise à
-l'impôt sur les sociétés et ayant son siège en France;
+l'impôt sur les sociétés et ayant son siège en France ;
+
+f bis) Les distributions mentionnées au 7 du II de l'article 150-0 A afférentes
+à des éléments d'actif situés en France, à l'exception de celles effectuées par
+des entités constituées sur le fondement d'un droit étranger ;
+
+f ter) Les distributions mentionnées au 7 bis du même II prélevées sur des
+plus-values nettes de cession d'éléments d'actif situés en France, à l'exception
+des distributions de plus-values par des entités constituées sur le fondement
+d'un droit étranger ;
 
 g. Les sommes, y compris les salaires, payées à compter du 1er janvier 1990,
 correspondant à des prestations artistiques ou sportives fournies ou utilisées

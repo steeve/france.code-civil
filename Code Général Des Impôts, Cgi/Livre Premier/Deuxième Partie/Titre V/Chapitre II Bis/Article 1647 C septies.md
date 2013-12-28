@@ -2,14 +2,14 @@ Article 1647 C septies
 ----
 I. ― Les redevables de la cotisation foncière des entreprises et les entreprises
 temporairement exonérées de cet impôt au titre de l'un ou plusieurs de leurs
-établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 K ,
-1466 A et 1466 C à 1466 E peuvent bénéficier d'un crédit d'impôt, pris en charge
-par l'Etat et égal à 750 € par salarié employé depuis au moins un an au 1er
-janvier de l'année d'imposition dans l'établissement au titre duquel le crédit
-d'impôt est demandé, lorsque les conditions suivantes sont réunies :
+établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 L, 1466
+A, 1466 C et 1466 D peuvent bénéficier d'un crédit d'impôt, pris en charge par
+l'Etat et égal à 750 € par salarié employé depuis au moins un an au 1er janvier
+de l'année d'imposition dans l'établissement au titre duquel le crédit d'impôt
+est demandé, lorsque les conditions suivantes sont réunies :
 
 1° L'établissement relève d'une micro-entreprise au sens de l'article 2 de
-l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008
 déclarant certaines catégories d'aides compatibles avec le marché commun en
 application des articles 87 et 88 du traité (Règlement général d'exemption par
 catégorie) ;
@@ -49,5 +49,5 @@ situé dans une zone autre que celles visées au 3 ter de l'article 42 de la loi
 n° 95-115 du 4 février 1995 précitée n'ouvrent pas droit au crédit d'impôt.
 
 VII. ― Le bénéfice du crédit d'impôt est subordonné au respect du règlement (CE)
-n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des
+n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis.

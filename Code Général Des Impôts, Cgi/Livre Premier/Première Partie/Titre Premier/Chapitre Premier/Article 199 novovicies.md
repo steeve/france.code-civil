@@ -68,11 +68,10 @@ l'impôt sur les sociétés, autre qu'une société civile de placement immobili
 dont le droit de propriété des parts est démembré.
 
 Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre
-des monuments historiques ou ayant fait l'objet d'un agrément ministériel ou
-ayant reçu le label délivré par la " Fondation du patrimoine ”, mentionnés au
-premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen
-d'un prêt mentionné à l'article R. 331-1 du code de la construction et de
-l'habitation.
+des monuments historiques ou ayant reçu le label délivré par la " Fondation du
+patrimoine ”, mentionnés au premier alinéa du 3° du I de l'article 156, et aux
+logements financés au moyen d'un prêt mentionné à l'article R. 331-1 du code de
+la construction et de l'habitation.
 
 E. ― Un contribuable ne peut, pour un même logement, bénéficier à la fois du m
 du 1° du I de l'article 31, de l'une des réductions d'impôt prévues aux articles

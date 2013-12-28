@@ -43,11 +43,11 @@ long terme d'ensemble. Lorsque, en application du troisième alinéa de l'articl
 223 F, la société mère comprend dans la plus ou moins-value nette à long terme
 d'ensemble la plus ou moins-value non prise en compte lors de sa réalisation, la
 fraction de la provision qui n'a pas été retenue en application de la deuxième
-phrase du présent alinéa, ni rapportée en application du dix-septième alinéa du
-5° du 1 de l'article 39, est, selon le cas, retranchée de la plus-value nette à
+phrase du présent alinéa, ni rapportée en application du seizième alinéa du 5°
+du 1 de l'article 39, est, selon le cas, retranchée de la plus-value nette à
 long terme d'ensemble ou ajoutée à la moins-value nette à long terme d'ensemble.
 Le montant des provisions rapportées en application de la première phrase du
-dix-septième alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
+seizième alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
 complémentaires non retenues en application du présent alinéa est déduit de la
 plus-value nette à long terme d'ensemble ou ajouté à la moins-value nette à long
 terme d'ensemble si les sociétés citées aux première et troisième phrases de cet

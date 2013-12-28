@@ -1,6 +1,6 @@
 Article 1388 bis
 ----
-I.-La base d'imposition à la taxe foncière sur les propriétés bâties des
+I. - La base d'imposition à la taxe foncière sur les propriétés bâties des
 logements à usage locatif mentionnés à l'article L. 441-1 du code de la
 construction et de l'habitation, appartenant à l'un des organismes cités à
 l'article L. 411-2 du même code ou à une société d'économie mixte et ayant
@@ -12,7 +12,7 @@ lorsque ces logements sont situés en zones urbaines sensibles mentionnées au 3
 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire.
 
-II.-L'abattement prévu au I est réservé aux logements faisant l'objet d'une
+II. - L'abattement prévu au I est réservé aux logements faisant l'objet d'une
 convention passée entre le propriétaire et le représentant de l'Etat dans le
 département, relative à l'entretien et à la gestion du parc, ayant pour but
 d'améliorer la qualité du service rendu aux locataires.
@@ -24,15 +24,16 @@ années 2008 et 2009 lorsqu'une convention a été conclue ou renouvelée en 200
 ainsi qu'aux impositions établies au titre de l'année 2010 lorsqu'une convention
 a été conclue ou renouvelée en 2009.
 
-II bis.-Ouvrent également droit à l'abattement prévu au I les logements faisant
-l'objet d'une convention d'utilité sociale définie à l'article L. 445-1 du code
-de la construction et de l'habitation passée entre le propriétaire et l'Etat.
+II bis. - Ouvrent également droit à l'abattement prévu au I les logements
+faisant l'objet d'une convention d'utilité sociale définie à l'article L. 445-1
+du code de la construction et de l'habitation passée entre le propriétaire et
+l'Etat.
 
 Cet abattement s'applique aux impositions établies au titre des années 2011 à
-2013 sous réserve de la signature de la convention d'utilité sociale avant le
+2014 sous réserve de la signature de la convention d'utilité sociale avant le
 1er juillet 2011.
 
-III.-Pour bénéficier de l'abattement prévu au I, les organismes concernés
+III. - Pour bénéficier de l'abattement prévu au I, les organismes concernés
 doivent adresser au service des impôts du lieu de situation des biens, avant le
 1er janvier de l'année suivant celle de la signature de la convention, une
 déclaration conforme au modèle établi par l'administration comportant tous les
@@ -42,4 +43,4 @@ modalités de financement de la construction ou de l'acquisition. Lorsque la
 déclaration est souscrite hors délai, l'abattement s'applique pour la période
 restant à courir après le 31 décembre de l'année de la souscription.
 
-IV.-(périmé).
+IV. - (périmé).

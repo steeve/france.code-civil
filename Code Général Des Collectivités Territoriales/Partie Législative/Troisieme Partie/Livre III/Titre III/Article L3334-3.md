@@ -40,3 +40,33 @@ pour chaque département à 10 % de la garantie, ou pour le département de Pari
 A compter de 2011, la dotation forfaitaire du département de Paris est égale à
 la dotation perçue l'année précédente, sous réserve de la minoration prévue au
 présent article.
+
+A compter de 2014, le montant de la dotation forfaitaire des départements de
+métropole et d'outre-mer, à l'exception du Département de Mayotte, est minoré de
+476 millions d'euros. Cette minoration est répartie entre les départements en
+fonction du produit de leur population, telle que définie à l'article L. 3334-2,
+par un indice synthétique. Cet indice synthétique est constitué :
+
+a) Du rapport entre le revenu par habitant du département et le revenu moyen par
+habitant de l'ensemble des départements. La population prise en compte est celle
+issue du dernier recensement ;
+
+b) Du rapport entre le taux moyen national d'imposition de taxe foncière sur les
+propriétés bâties pour l'ensemble des départements et le taux de cette taxe du
+département. Les taux retenus sont ceux de l'année précédant l'année de
+répartition.
+
+L'indice synthétique est obtenu par addition des montants obtenus au a et au b,
+en pondérant le premier par 70 % et le second par 30 %.
+
+Si, pour un département, la minoration excède le montant perçu au titre de la
+dotation forfaitaire en 2014, la différence est prélevée sur les compensations
+mentionnées au III de l'article 37 de la loi n° 2013-1278 du 29 décembre 2013 de
+finances pour 2014 ou, à défaut, sur les douzièmes prévus à l'article L.
+3332-1-1. Toutefois, si, pour le département de Paris, la minoration excède le
+montant perçu au titre de la dotation forfaitaire en 2014, la différence est
+prélevée sur les compensations mentionnées au même III ou, à défaut, sur la
+dotation forfaitaire de la commune de Paris prévue à l'article L. 2334-7. Le
+département de Paris rembourse à la commune de Paris, le cas échéant, le montant
+ainsi prélevé sur sa dotation forfaitaire. Ce remboursement constitue une
+dépense obligatoire du département de Paris, au sens de l'article L. 3321-1.

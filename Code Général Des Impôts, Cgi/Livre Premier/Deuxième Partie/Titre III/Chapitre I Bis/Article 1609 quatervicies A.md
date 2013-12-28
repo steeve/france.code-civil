@@ -1,18 +1,30 @@
 Article 1609 quatervicies A
 ----
-I.-Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue au
-profit des personnes publiques ou privées exploitant des aérodromes pour
-lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au
-décollage supérieure ou égale à 20 tonnes a dépassé vingt mille lors de l'une
-des cinq années civiles précédentes.
+I.-Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue, dans
+la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28
+décembre 2011 de finances pour 2012, par lespersonnes publiques ou privées
+exploitant des aérodromes pour lesquels le nombre annuel des mouvements
+d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes a
+dépassé vingt mille lors de l'une des cinq années civiles précédentes.
 
-Cette taxe est également perçue au profit des personnes publiques ou privées
-exploitant un aérodrome pour lequel le nombre annuel des mouvements d'aéronefs
-de masse maximale au décollage supérieure ou égale à deux tonnes a dépassé
-cinquante mille lors de l'une des cinq années civiles précédentes, si les plans
-d'exposition au bruit ou de gêne sonore de cet aérodrome possèdent un domaine
-d'intersection avec les plans d'exposition au bruit ou de gêne sonore d'un
-aérodrome présentant les caractéristiques définies au premier alinéa.
+Cette taxe est également perçue, dans la limite du plafond prévu au I de
+l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012,
+par les personnes publiques ou privées exploitant un aérodrome pour lequel le
+nombre annuel des mouvements d'aéronefs de masse maximale au décollage
+supérieure ou égale à deux tonnes a dépassé cinquante mille lors de l'une des
+cinq années civiles précédentes, si les plans d'exposition au bruit ou de gêne
+sonore de cet aérodrome possèdent un domaine d'intersection avec les plans
+d'exposition au bruit ou de gêne sonore d'un aérodrome présentant les
+caractéristiques définies au premier alinéa.
+
+Chaque exploitant mentionné aux deux premiers alinéas du présent I perçoit le
+produit de la taxe sur les nuisances sonores aériennes collectée au titre de
+chacun des aérodromes qu'il exploite, dans la limite d'un plafond individuel
+fixé par référence au plafond prévu au I du même article 46.
+
+Ce plafond individuel est obtenu pour chaque bénéficiaire en répartissant le
+montant prévu au même I au prorata des recettes réelles, avant plafonnement,
+encaissées pour le bénéficiaire l'année de référence.
 
 II.-La taxe est due par tout exploitant d'aéronefs ou, à défaut, leur
 propriétaire. Elle ne s'applique pas :
@@ -42,7 +54,7 @@ avances qu'elles ont consenties pour financer des travaux de réduction des
 nuisances sonores prévus par des conventions passées avec l'exploitant de
 l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16
 du code de l'environnement et du ministre chargé de l'aviation civile. Dans le
-cas prévu au second alinéa du I et lorsque l'exploitant est identique pour les
+cas prévu au deuxième alinéa du I et lorsque l'exploitant est identique pour les
 deux aérodromes, une partie du produit de la taxe perçue au titre de l'un des
 deux aérodromes concernés peut chaque année être affectée par l'exploitant au
 financement des aides aux riverains de l'autre aérodrome.
@@ -72,9 +84,9 @@ sommes dues pour le premier mois du trimestre est inférieur à 1 000 €, les
 éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par
 l'administration de l'aviation civile.
 
-La déclaration mensuelle ou trimestrielle, accompagnée du paiement de la taxe
-due, est adressée aux comptables du budget annexe " contrôle et exploitation
-aériens ".
+Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables du
+budget annexe " Contrôle et exploitation aériens ". Concomitamment, les
+redevables acquittent la taxe, par virement bancaire.
 
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au
 dernier jour du deuxième mois suivant la période mensuelle ou trimestrielle
@@ -122,11 +134,13 @@ Les frais entraînés par la saisie conservatoire sont à la charge du redevable
 
 Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 
-4. Le droit de rectification de la taxe par les services de la direction
-générale de l'aviation civile s'exerce jusqu'à l'expiration d'un délai de trois
-ans suivant le mois ou le trimestre civil au titre duquel la taxe est due. La
-prescription est suspendue et interrompue dans les conditions de droit commun et
-notamment par le dépôt d'une déclaration dans les conditions visées au 2.
+4. Le droit de reprise de la taxe par les services de la direction générale de
+l'aviation civile, tant en ce qui concerne le contrôle des redevables
+défaillants déclaratifs que le contrôle des insuffisances déclaratives ou de
+paiement, s'exerce dans les mêmes conditions que celles prévues à l'article L.
+176 du livre des procédures fiscales. La prescription est suspendue et
+interrompue dans les conditions de droit commun et notamment par le dépôt d'une
+déclaration dans les conditions mentionnées au 2 du présent VI.
 
 VII.-Le contentieux est suivi par la direction générale de l'aviation civile.
 Les réclamations sont présentées, instruites et jugées comme en matière de taxes

@@ -37,14 +37,16 @@ l'article 81 ;
 5° (abrogé à compter du 30 juin 2000)
 
 5° bis Les produits et plus-values que procurent les placements effectués dans
-le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ;
-toutefois, à compter de l'imposition des revenus de 1997, les produits procurés
-par des placements effectués en actions ou parts de sociétés qui ne sont pas
-admises aux négociations sur un marché réglementé, à l'exception des intérêts
-versés dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10
-septembre 1947 portant statut de la coopération aux titres de capital de
-sociétés régies par cette loi, ne bénéficient de cette exonération que dans la
-limite de 10 % du montant de ces placements ;
+le cadre d'un plan d'épargne en actions défini à l'article 163 quinquies D ;
+toutefois, les produits procurés par des placements effectués en actions ou
+parts de sociétés qui ne sont pas admises aux négociations sur un marché
+réglementé, au sens des articles L. 421-1 ou L. 422-1 du code monétaire et
+financier, ou sur un système multilatéral de négociation, au sens des articles
+L. 424-1 ou L. 424-9 du même code à l'exception des intérêts versés dans les
+conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947
+portant statut de la coopération aux titres de capital de sociétés régies par
+cette loi, ne bénéficient de cette exonération que dans la limite de 10 % du
+montant de ces placements ;
 
 5° ter La rente viagère, lorsque le plan d'épargne en actions défini à l'article
 163 quinquies D se dénoue après huit ans par le versement d'une telle rente ;
@@ -103,10 +105,7 @@ effectivement à la création ou au rachat d'une entreprise artisanale ;
 ouvert et fonctionnant dans les conditions et limites prévues à l'article L.
 221-27 du code monétaire et financier ;
 
-9° quinquies Les intérêts des sommes inscrites sur les livrets
-d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
-loi n° 84-578 du 9 juillet 1984 modifiée sur le développement de l'initiative
-économique.
+9° quinquies (Abrogé).
 
 9° sexies Les intérêts perçus en rémunération de prêts, d'une durée maximum de
 dix ans, consentis au profit d'un enfant, d'un petit-enfant ou d'un
@@ -203,15 +202,20 @@ obligations déclaratives des contribuables et des intermédiaires.
 
 23° Les intérêts des sommes déposées sur un compte épargne d'assurance pour la
 forêt constitué dans les conditions prévues aux articles L. 352-1 à L. 352-5 du
-code forestier. L'exonération s'applique dans la limite de la fraction des
-intérêts correspondant au taux de rémunération de 2 %.
+code forestier, dans leur rédaction antérieure à l'entrée en vigueur de la loi
+n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013.
+L'exonération s'applique dans la limite de la fraction des intérêts
+correspondant au taux de rémunération de 2 %.
 
 L'exonération mentionnée au précédent alinéa est remise en cause au titre de
 l'année de survenance de l'un des cas mentionnés aux 1° et 2° de l'article L.
-352-5 du même code.
+352-5 du même code, dans sa rédaction antérieure à l'entrée en vigueur de la
+même loi.
 
 A compter de la cession partielle de la surface de bois et forêts assurée dans
-les conditions définies au 3° de l'article L. 352-1 du même code, la fraction
-des intérêts exonérés est celle afférente au plafond de versements recalculé
-après la cession dans les conditions mentionnées au premier alinéa de l'article
-L. 352-2 du même code.
+les conditions définies au 3° de l'article L. 352-1 du même code, dans sa
+rédaction antérieure à l'entrée en vigueur de la même loi, la fraction des
+intérêts exonérés est celle afférente au plafond de versements recalculé après
+la cession dans les conditions mentionnées au premier alinéa de l'article L.
+352-2 du même code, dans sa rédaction antérieure à l'entrée en vigueur de la
+même loi.

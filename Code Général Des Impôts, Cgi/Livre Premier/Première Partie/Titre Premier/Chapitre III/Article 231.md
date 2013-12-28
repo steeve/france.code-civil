@@ -4,9 +4,9 @@ Article 231
 celles correspondant aux prestations de sécurité sociale versées par l'entremise
 de l'employeur, sont soumises à une taxe égale à 4,25 % de leur montant évalué
 selon les règles prévues à l'article L. 136-2 du code de la sécurité sociale,
-sans qu'il soit toutefois fait application du deuxième alinéa du I du même
-article. Cette taxe est à la charge des entreprises et organismes qui emploient
-ces salariés, à l'exception des collectivités locales, de leurs régies
+sans qu'il soit toutefois fait application du deuxième alinéa du I et du 6° du
+II du même article. Cette taxe est à la charge des entreprises et organismes qui
+emploient ces salariés, à l'exception des collectivités locales, de leurs régies
 personnalisées mentionnées à l'article L. 1412-2 du code général des
 collectivités territoriales et de leurs groupements, des services départementaux
 de lutte contre l'incendie, des centres d'action sociale dotés d'une

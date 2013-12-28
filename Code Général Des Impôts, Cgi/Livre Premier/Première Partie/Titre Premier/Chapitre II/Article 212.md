@@ -1,12 +1,39 @@
 Article 212
 ----
 I.-Les intérêts afférents aux sommes laissées ou mises à disposition d'une
-entreprise par une entreprise liée directement ou indirectement au sens du 12 de
-l'article 39 sont déductibles dans la limite de ceux calculés d'après le taux
-prévu au premier alinéa du 3° du 1 de l'article 39 ou, s'ils sont supérieurs,
-d'après le taux que cette entreprise emprunteuse aurait pu obtenir
-d'établissements ou d'organismes financiers indépendants dans des conditions
-analogues.
+entreprise par une entreprise liée, directement ou indirectement, au sens du 12
+de l'article 39, sont déductibles :
+
+a) Dans la limite de ceux calculés d'après le taux prévu au premier alinéa du 3°
+du 1 du même article 39 ou, s'ils sont supérieurs, d'après le taux que cette
+entreprise emprunteuse aurait pu obtenir d'établissements ou d'organismes
+financiers indépendants dans des conditions analogues ;
+
+b) Et, sous réserve que l'entreprise débitrice démontre, à la demande de
+l'administration, que l'entreprise qui a mis les sommes à sa disposition est, au
+titre de l'exercice en cours, assujettie à raison de ces mêmes intérêts à un
+impôt sur le revenu ou sur les bénéfices dont le montant est au moins égal au
+quart de l'impôt sur les bénéfices déterminé dans les conditions de droit
+commun.
+
+Dans l'hypothèse où l'entreprise prêteuse est domiciliée ou établie à
+l'étranger, l'impôt sur les bénéfices déterminé dans les conditions de droit
+commun s'entend de celui dont elle aurait été redevable en France sur les
+intérêts perçus si elle y avait été domiciliée ou établie.
+
+Lorsque l'entreprise prêteuse est une société ou un groupement soumis au régime
+d'imposition prévu à l'article 8 du présent code ou un organisme de placement
+collectif relevant des articles L. 214-1 à L. 214-191 du code monétaire et
+financier ou un organisme de même nature constitué sur le fondement d'un droit
+étranger et situé dans un Etat membre de l'Union européenne ou dans un autre
+Etat ou territoire ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales et qui
+n'est pas un Etat non coopératif au sens de l'article 238-0 A du présent code,
+le présent b ne s'applique que s'il existe également des liens de dépendance, au
+sens du 12 de l'article 39, entre cette société, ce groupement ou cet organisme
+et un ou plusieurs détenteurs de parts de cette société, de ce groupement ou de
+cet organisme. Dans cette hypothèse, l'impôt sur ces intérêts est apprécié au
+niveau de ces détenteurs de parts.
 
 II.-1. Lorsque le montant des intérêts servis par une entreprise à l'ensemble
 des entreprises liées directement ou indirectement au sens du 12 de l'article 39
@@ -51,8 +78,8 @@ cette gestion centralisée ;
 et 2 de l'article L. 313-7 du code monétaire et financier.
 
 Ces dispositions ne s'appliquent pas non plus aux intérêts dus par les
-établissements de crédit mentionnés à l'article L. 511-9 du code monétaire et
-financier.
+établissements de crédit ou les sociétés de financement mentionnés à l'article
+L. 511-1 du code monétaire et financier.
 
 Les sommes et intérêts mentionnés au premier alinéa, ainsi que les intérêts
 servis à ces entreprises ou ces établissements pour les opérations prévues aux

@@ -104,10 +104,10 @@ semblables durant la même année ou les six années suivantes ;
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
 fonciers des dix années suivantes ; cette disposition n'est pas applicable aux
 propriétaires de monuments classés monuments historiques, inscrits à
-l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ou
-ayant reçu le label délivré par la " Fondation du patrimoine " en application de
-l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis
-favorable du service départemental de l'architecture et du patrimoine.
+l'inventaire supplémentaire ou ayant reçu le label délivré par la " Fondation du
+patrimoine " en application de l'article L. 143-2 du code du patrimoine si ce
+label a été accordé sur avis favorable du service départemental de
+l'architecture et du patrimoine.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
 dépenses autres que les intérêts d'emprunt effectuées sur des locaux
@@ -166,11 +166,7 @@ undecies A et imputer un déficit foncier sur le revenu global.
 
 4° (abrogé à compter de l'imposition des revenus de 1996) ;
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
-octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de
-l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur
-les profits de même nature réalisés au cours de la même année ou des six années
-suivantes ;
+5° (abrogé)
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
 terme d'instruments financiers ou d'options négociables ou sur des bons d'option
@@ -207,12 +203,10 @@ ayant accédé à l'indépendance ;
 
 1° ter. Dans les conditions fixées par décret, les charges foncières afférentes
 aux immeubles classés monuments historiques ou inscrits à l'inventaire
-supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en
-raison de leur caractère historique ou artistique particulier et qui auront été
-agréés à cet effet par le ministre chargé du budget, ou en raison du label
-délivré par la " Fondation du patrimoine " en application de l'article L. 143-2
-du code du patrimoine si ce label a été accordé sur avis favorable du service
-départemental de l'architecture et du patrimoine ;
+supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national ou
+en raison du label délivré par la " Fondation du patrimoine " en application de
+l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis
+favorable du service départemental de l'architecture et du patrimoine ;
 
 1° quater (sans objet).
 

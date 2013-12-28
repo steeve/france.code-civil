@@ -1,11 +1,11 @@
 Article 1383 D
 ----
-I. - Les collectivités territoriales et leurs établissements publics de
+I.-Les collectivités territoriales et leurs établissements publics de
 coopération intercommunale dotés d'une fiscalité propre peuvent, par une
 délibération de portée générale prise dans les conditions prévues au I de
 l'article 1639 A bis, exonérer de taxe foncière sur les propriétés bâties pour
 une durée de sept ans les immeubles appartenant à une entreprise créée jusqu'au
-31 décembre 2013 et, répondant, au cours de la période de référence mentionnée à
+31 décembre 2016 et, répondant, au cours de la période de référence mentionnée à
 l'article 1467 A, aux conditions fixées par les 1°, 3°, 4°, 5° de l'article 44
 sexies-0 A et dans lesquels elle exerce son activité au 1er janvier de l'année
 d'imposition. Lorsque l'immeuble appartient à une entreprise existant au 1er
@@ -20,8 +20,8 @@ de la deuxième année qui suit la période mentionnée au premier alinéa penda
 laquelle l'entreprise ne remplit plus l'une des conditions fixées par les 1°,
 3°, 4° et 5° de l'article 44 sexies-0 A.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
-/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis.
 
 Lorsque les conditions requises pour bénéficier de l'une des exonérations
@@ -30,7 +30,7 @@ sont remplies, le contribuable doit opter pour l'un ou l'autre de ces régimes
 avant le 1er janvier de l'année au titre de laquelle l'exonération prend effet.
 L'option est irrévocable et vaut pour l'ensemble des collectivités.
 
-II. - Pour les immeubles susceptibles d'être exonérés en application du I, une
+II.-Pour les immeubles susceptibles d'être exonérés en application du I, une
 déclaration doit être souscrite avant le 1er janvier de la première année à
 compter de laquelle le redevable peut, au titre d'un immeuble concerné,
 bénéficier de l'exonération. Cette déclaration comporte tous les éléments

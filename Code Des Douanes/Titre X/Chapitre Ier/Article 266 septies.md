@@ -17,7 +17,8 @@ l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes
 d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique,
 d'hydrocarbures non méthaniques, solvants, de benzène et d'hydrocarbures
 aromatiques polycycliques et autres composés organiques volatils, d'arsenic, de
-mercure, de sélénium ainsi que de poussières totales en suspension ;
+mercure, de sélénium, de plomb, de zinc, de chrome, de cuivre, de nickel, de
+cadmium, de vanadium ainsi que de poussières totales en suspension ;
 
 3. (Alinéa abrogé) ;
 

@@ -13,7 +13,3 @@ la valeur des deux tiers de la somme correspondant à 2 080 fois le taux du
 salaire minimum interprofessionnel de croissance en vigueur, soit au jour du
 partage consécutif au décès de l'exploitant, soit au plus tard à la date du
 règlement de la créance, si ce règlement intervient du vivant de l'exploitant.
-
-Les sommes attribuées à l'héritier de l'exploitant au titre du contrat de
-travail à salaire différé sont exemptes de l'impôt sur le revenu en application
-de l'article 81 du code général des impôts.

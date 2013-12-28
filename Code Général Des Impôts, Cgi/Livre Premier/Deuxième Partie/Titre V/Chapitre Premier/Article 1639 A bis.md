@@ -13,20 +13,6 @@ ainsi que les délibérations fixant le périmètre de la zone d'activités
 économiques visée au premier alinéa du 2° du III de l'article 1379-0 bis, sont
 prises dans les conditions prévues au premier alinéa.
 
-Par exception aux dispositions du premier alinéa, les délibérations prévues à
-l'article 1647 D au titre de l'exercice 2013 peuvent être prises ou modifiées
-jusqu'au 21 janvier 2013. Le maire ou le président de l'établissement public de
-coopération intercommunale transmet la délibération prise sur le fondement du
-présent alinéa au comptable public assignataire de la commune ou de
-l'établissement public de coopération intercommunale au plus tard le deuxième
-jour ouvré suivant le 21 janvier 2013. A défaut de nouvelle délibération prise à
-cette date, le montant de la base minimum applicable pour les contribuables dont
-le montant du chiffre d'affaires ou des recettes hors taxes au cours de la
-période de référence définie à l'article 1467 A est compris entre 100 000 € et
-250 000 € est le montant de la base minimum fixé par les délibérations
-antérieures de la collectivité pour les contribuables dont le montant du chiffre
-d'affaires ou des recettes hors taxes est supérieur à 100 000 €.
-
 II.-1. Les délibérations des communes et de leurs établissements publics de
 coopération intercommunale instituant la taxe d'enlèvement des ordures ménagères
 conformément à l'article 1520, au VI de l'article 1379-0 bis et à l'article 1609

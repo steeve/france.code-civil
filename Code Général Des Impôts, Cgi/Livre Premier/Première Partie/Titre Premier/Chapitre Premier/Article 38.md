@@ -53,22 +53,22 @@ initialement comptabilisés sont déterminés à la clôture de chaque exercice 
 fonction du dernier cours de change et pris en compte pour la détermination du
 résultat imposable de l'exercice.
 
-Lorsque des établissements de crédit ou des entreprises d'investissement
-mentionnés au premier alinéa de l'article 38 bis A évaluent les titre libellés
-en monnaie étrangère à la clôture de chaque exercice en fonction du dernier
-cours de change connu, les écarts de conversion constatés sont pris en compte
-pour la détermination du résultat imposable de l'exercice. A la clôture de
-chaque exercice, le prix de revient des titres est augmenté ou diminué, selon
-les cas, des écarts de conversion mentionnés à ce même alinéa. Toutefois,
-lorsque les établissements ou les entreprises concernés détiennent des titres
-d'investissement mentionnés à l'article 38 bis B et des titres de participation,
-libellés en monnaie étrangère et dont l'acquisition a été financée en francs ou
-en euros, les écarts de conversion mentionnés au présent alinéa et constatés sur
-ces titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ;
-dans ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas
-compte des écarts de conversion. Ces dispositions sont applicables aux écarts de
-change relatifs à la période postérieure à l'ouverture du premier exercice clos
-à compter du 31 décembre 1990.
+Lorsque des établissements de crédit, des sociétés de financement ou des
+entreprises d'investissement mentionnés au premier alinéa de l'article 38 bis A
+évaluent les titre libellés en monnaie étrangère à la clôture de chaque exercice
+en fonction du dernier cours de change connu, les écarts de conversion constatés
+sont pris en compte pour la détermination du résultat imposable de l'exercice. A
+la clôture de chaque exercice, le prix de revient des titres est augmenté ou
+diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa.
+Toutefois, lorsque les établissements ou les entreprises concernés détiennent
+des titres d'investissement mentionnés à l'article 38 bis B et des titres de
+participation, libellés en monnaie étrangère et dont l'acquisition a été
+financée en francs ou en euros, les écarts de conversion mentionnés au présent
+alinéa et constatés sur ces titres ne sont pas pris en compte dans le résultat
+fiscal de l'exercice ; dans ce cas, sur le plan fiscal, le prix de revient de
+ces titres ne tient pas compte des écarts de conversion. Ces dispositions sont
+applicables aux écarts de change relatifs à la période postérieure à l'ouverture
+du premier exercice clos à compter du 31 décembre 1990.
 
 Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à la
 même date, les écarts de conversion afférents aux devises, créances, dettes et
@@ -80,15 +80,16 @@ l'introduction de l'euro.
 
 Les dispositions du premier alinéa ne sont pas applicables, sur option
 irrévocable, aux prêts libellés en monnaie étrangère consentis, à compter du 1er
-janvier 2001, par des entreprises autres que les établissements de crédit et les
-entreprises d'investissement mentionnés à l'article 38 bis A, pour une durée
-initiale et effective d'au moins trois ans, à une société dont le siège social
-est situé dans un Etat ne participant pas à la monnaie unique et dont elles
-détiennent directement ou indirectement plus de la moitié du capital de manière
-continue pendant toute la période du prêt. Corrélativement, la valeur fiscale de
-ces prêts ne tient pas compte des écarts de conversion constatés sur le plan
-comptable. Les dispositions du présent alinéa ne sont pas applicables aux prêts
-faisant l'objet d'une couverture du risque de change.
+janvier 2001, par des entreprises autres que les établissements de crédit, les
+sociétés de financement et les entreprises d'investissement mentionnés à
+l'article 38 bis A, pour une durée initiale et effective d'au moins trois ans, à
+une société dont le siège social est situé dans un Etat ne participant pas à la
+monnaie unique et dont elles détiennent directement ou indirectement plus de la
+moitié du capital de manière continue pendant toute la période du prêt.
+Corrélativement, la valeur fiscale de ces prêts ne tient pas compte des écarts
+de conversion constatés sur le plan comptable. Les dispositions du présent
+alinéa ne sont pas applicables aux prêts faisant l'objet d'une couverture du
+risque de change.
 
 L'option mentionnée au quatrième alinéa est exercée pour chaque prêt. Elle
 résulte de la non-application des dispositions du premier alinéa au titre de
@@ -149,12 +150,12 @@ diminué à concurrence des sommes réparties qui n'ont pas été imposées en
 application du présent alinéa.
 
 Le premier alinéa du présent 2° s'applique également aux sommes reçues par un
-fonds commun de placement à risques ou un fonds professionnel de capital
-investissement, qui remplit les conditions prévues au II ou au III bis de
+fonds commun de placement à risques, ou un fonds professionnel de capital
+investissement qui remplit les conditions prévues au II ou au III bis de
 l'article 163 quinquies B, provenant :
 
 a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à
-risques ou d'un fonds professionnel de capital investissement, prévues au IX de
+risques, ou d'un fonds professionnel de capital investissement prévues aau IX de
 l'article L. 214-28 du code monétaire et financier ;
 
 b) Des distributions d'une entité mentionnée au 2° du II de l'article L. 214-28
@@ -162,7 +163,7 @@ du même code, autre qu'un fonds commun de placement à risques, qu'un fonds
 professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et
 financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
 2013 modifiant le cadre juridique de la gestion d'actifs ou qu'un fonds
-professionnel de capital investissement, constituée dans un Etat ou territoire
+professionnel de capital investissement constituée dans un Etat ou territoire
 ayant conclu avec la France une convention fiscale qui contient une clause
 d'assistance administrative en vue de lutter contre la fraude ou l'évasion
 fiscale, prélevées sur des plus-values réalisées par l'entité lors de la cession
@@ -304,9 +305,9 @@ Pour les opérations réalisées au cours d'exercices clos à compter du 31 déc
 1994, les dispositions du présent 7 ne sont pas applicables si l'un des
 coéchangistes remet à l'échange des actions émises lors d'une augmentation de
 capital réalisée depuis moins de trois ans par une société qui détient
-directement ou indirectement une participation supérieure à 5 % du capital de
+directement ou indirectement une participation supérieure à 5% du capital de
 l'autre société avec laquelle l'échange est réalisé ou par une société dont plus
-de 5 % du capital est détenu directement ou indirectement par cette autre
+de 5% du capital est détenu directement ou indirectement par cette autre
 société.
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
@@ -371,7 +372,7 @@ de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations ;
 souscription et sa valeur de remboursement est considérée, pour l'imposition du
 souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis
 avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de
-l'article 238 septies B que si son montant excède 15 % de la valeur actuelle de
+l'article 238 septies B que si son montant excède 15% de la valeur actuelle de
 l'obligation ;
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de
@@ -383,9 +384,9 @@ pas été exercés.
 code de commerce n'a pas d'incidence sur les résultats imposables, par
 dérogation aux 1 et 2 du présent article ;
 
-2° Toutefois, les dispositions du dix-septième alinéa du 5° du 1 de l'article 39
+2° Toutefois, les dispositions du seizième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart
-d'équivalence négatif, qui correspond à la dépréciation définie au dix-huitième
+d'équivalence négatif, qui correspond à la dépréciation définie au dix-septième
 alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
 L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
 l'impôt.

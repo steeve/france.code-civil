@@ -28,11 +28,6 @@ délivrée une carte de séjour d'une durée d'un an au plus au titre de l'artic
 L. 313-7. La taxe de renouvellement n'est acquittée qu'une fois par période d'un
 an.
 
-L'étranger titulaire de la carte de séjour portant la mention : " étudiant " ou
-" stagiaire " qui se voit délivrer une carte de séjour à un autre titre acquitte
-le montant de la taxe prévue pour la délivrance d'un premier titre de séjour,
-mentionnée au A.
-
 C.-La délivrance, le renouvellement et la fourniture de duplicata des documents
 de circulation délivrés aux étrangers mineurs au titre des articles L. 321-3 et
 L. 321-4 donnent lieu à la perception, d'une taxe dont le montant est de 45

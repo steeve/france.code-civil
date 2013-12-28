@@ -11,8 +11,8 @@ connexes nécessaires à leur implantation ou, à l'exception des opérations
 réalisées en vue de l'affectation à une association cultuelle d'un édifice du
 culte ouvert au public, de leur restauration, de la réparation, de
 l'entretien-maintenance ou de la mise en valeur de ce bien ou, jusqu'au 31
-décembre 2013, liée aux besoins de la justice, de la police ou de la gendarmerie
-nationales ou, jusqu'au 31 décembre 2013, liée aux besoins d'un service
+décembre 2017, liée aux besoins de la justice, de la police ou de la gendarmerie
+nationales ou, jusqu'au 31 décembre 2017, liée aux besoins d'un service
 départemental d'incendie et de secours. Ce bail emphytéotique est dénommé bail
 emphytéotique administratif.
 

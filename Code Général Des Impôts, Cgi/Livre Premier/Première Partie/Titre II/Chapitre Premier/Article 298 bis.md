@@ -1,6 +1,6 @@
 Article 298 bis
 ----
-I. Pour leurs opérations agricoles, les exploitants agricoles sont placés sous
+I. - Pour leurs opérations agricoles, les exploitants agricoles sont placés sous
 le régime du remboursement forfaitaire prévu aux articles 298 quater et 298
 quinquies. Ils sont dispensés du paiement de la taxe sur la valeur ajoutée et
 des obligations qui incombent aux assujettis.
@@ -40,7 +40,7 @@ naissance ;
 soumis à l'ensemble des dispositions prévues par le présent code. Toutefois,
 l'article 302 septies A ne leur est pas applicable.
 
-II. Sont soumis de plein droit au régime simplifié prévu au I :
+II. - Sont soumis de plein droit au régime simplifié prévu au I :
 
 1° Les exploitants agricoles dont les activités sont, par leur nature ou leur
 importance, assimilables à celles exercées par des industriels ou des
@@ -91,12 +91,12 @@ l'article 260.
 coopératives d'utilisation de matériel agricole et les coopératives
 d'insémination artificielle.
 
-II bis.-Par dérogation aux dispositions des I et II, en cas de décès d'un
+II bis. - Par dérogation aux dispositions des I et II, en cas de décès d'un
 exploitant soumis au régime simplifié, ce régime continue de s'appliquer dans
 les mêmes conditions au conjoint, à l'héritier ou à l'indivision reprenant
 l'exploitation.
 
-III. Les conditions et les modalités de l'option mentionnée au deuxième alinéa
+III. - Les conditions et les modalités de l'option mentionnée au deuxième alinéa
 du I sont fixées par décret en Conseil d'Etat. Ce décret peut notamment prévoir
 l'identification ou le marquage des animaux et la tenue d'une comptabilité
 matière les concernant.
@@ -106,10 +106,10 @@ valeur ajoutée en application du II, sont précisées en tant que de besoin par
 décret en Conseil d'Etat, après avis des organisations professionnelles
 intéressées.
 
-III bis. Les recettes accessoires commerciales et non commerciales, passibles de
-la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis pour
-ses opérations agricoles au régime simplifié prévu au I peuvent être imposées
-selon ce régime lorsqu'au titre de la période couvrant les trois années
+III bis. - Les recettes accessoires commerciales et non commerciales, passibles
+de la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis
+pour ses opérations agricoles au régime simplifié prévu au I peuvent être
+imposées selon ce régime lorsqu'au titre de la période couvrant les trois années
 d'imposition précédentes, la moyenne annuelle des recettes accessoires, taxes
 comprises, de ces trois années n'excède pas 50 000 € et 30 % de la moyenne
 annuelle des recettes, taxes comprises, provenant de ses activités agricoles, au
@@ -130,16 +130,8 @@ recettes accessoires commerciales et non commerciales susvisées, n'excède pas,
 au titre de la période annuelle d'imposition précédente, 100 000 € et 50 % du
 montant des recettes taxes comprises de ses activités agricoles.
 
-IV. En cas de cession ou de cessation de leur activité, les exploitants
+IV. - En cas de cession ou de cessation de leur activité, les exploitants
 agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au
 1° du I ou, le cas échéant, au quatrième alinéa du I de l'article 1693 bis.
 
-V. - Les exploitants agricoles qui relèvent du régime simplifié prévu aux I et
-II peuvent, par dérogation aux dispositions du I de l'article 1693 bis, imputer
-sur le montant des acomptes trimestriels prévus au même article 1693 bis
-acquittés au titre de l'année 2012 ou du premier exercice ouvert en 2012, dans
-la limite du montant de l'acompte, à hauteur de 64 % de la taxe sur la valeur
-ajoutée qui a grevé les achats, réglés au cours du trimestre civil précédant
-l'échéance de l'acompte, de produits antiparasitaires, sous réserve que ceux-ci
-aient fait l'objet soit d'une homologation, soit d'une autorisation de vente
-délivrée par le ministre chargé de l'agriculture.
+V. - (abrogé)

@@ -295,7 +295,7 @@ ouverts à compter du 1er janvier 2007.
 
 a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante
 et l'entreprise cessionnaire au sens du 12 de l'article 39, la déduction des
-moins-values de cession de titres de participation définis au dix-huitième
+moins-values de cession de titres de participation définis au dix-septième
 alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a sexies-0 bis
 du présent I, et détenus depuis moins de deux ans, intervient à la première des
 dates suivantes :

@@ -1,14 +1,14 @@
 Article L2573-46
 ----
-I.-Les articles L. 2333-76 à L. 2333-78, à l'exception de son deuxième alinéa,
-sont applicables aux communes de la Polynésie française sous réserve des
-dispositions prévues aux II et III.
+I. - Les articles L. 2333-76 à L. 2333-78, à l'exception de ses deuxième à
+quatrième alinéas, sont applicables aux communes de la Polynésie française sous
+réserve des dispositions prévues aux II et III.
 
-II.-Pour l'application des cinquième et septième alinéas de l'article L.
+II. - Pour l'application des septième et neuvième alinéas de l'article L.
 2333-76, les mots : " ou la taxe prévue à l'article 1520 du code général des
 impôts " sont supprimés.
 
-III.-Pour l'application de l'article L. 2333-78 :
+III. - Pour l'application de l'article L. 2333-78 :
 
 1° La date du : " 1er janvier 1993 " est remplacée par celle du : " 1er janvier
 2009 ".

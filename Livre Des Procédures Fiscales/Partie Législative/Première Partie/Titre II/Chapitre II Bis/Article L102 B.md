@@ -24,9 +24,8 @@ Le registre des opérations mentionné au 9 de l'article 298 sexdecies F est
 conservé pendant dix ans à compter du 31 décembre de l'année de l'opération.
 
 II. - Lorsqu'ils ne sont pas déjà visés au I, les informations, données ou
-traitements soumis au contrôle prévu au deuxième alinéa de l'article L. 13
-doivent être conservés sur support informatique jusqu'à l'expiration du délai
-prévu au premier alinéa de l'article L. 169. La documentation relative aux
-analyses, à la programmation et à l'exécution des traitements doit être
-conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle
-elle se rapporte.
+traitements soumis au contrôle prévu au IV de l'article L. 13 doivent être
+conservés sur support informatique jusqu'à l'expiration du délai prévu au
+premier alinéa de l'article L. 169. La documentation relative aux analyses, à la
+programmation et à l'exécution des traitements doit être conservée jusqu'à
+l'expiration de la troisième année suivant celle à laquelle elle se rapporte.

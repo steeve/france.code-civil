@@ -23,10 +23,10 @@ III. ― Le taux des prélèvements de solidarité mentionnés au I est fixé à
 IV. ― Le produit des prélèvements de solidarité mentionnés au I est affecté à
 hauteur de :
 
-1° 1,45 point au fonds mentionné à l'article L. 262-24 du code de l'action
-sociale et des familles ;
+1° 1,37 % au fonds mentionné à l'article L. 262-24 du code de l'action sociale
+et des familles ;
 
-2° 0,45 point au fonds mentionné à l'article L. 351-6 du code de la construction
-et de l'habitation ;
+2° 0,53 % au fonds mentionné à l'article L. 351-6 du code de la construction et
+de l'habitation ;
 
-3° 0,1 point au fonds mentionné à l'article L. 5423-24 du code du travail.
+3° 0,1 % au fonds mentionné à l'article L. 5423-24 du code du travail.

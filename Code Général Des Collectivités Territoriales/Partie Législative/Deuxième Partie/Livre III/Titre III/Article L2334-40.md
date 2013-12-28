@@ -5,9 +5,9 @@ urbain.
 
 Peuvent bénéficier de cette dotation les communes de métropole éligibles l'année
 précédente à la dotation de solidarité urbaine et de cohésion sociale prévue à
-l'article L. 2334-15 qui figurent parmi les cent premières d'un classement de
-ces communes établi chaque année en fonction de critères tirés notamment de la
-proportion de population résidant dans des quartiers inclus dans les zones
+l'article L. 2334-15 qui figurent parmi les cent-vingt premières d'un classement
+de ces communes établi chaque année en fonction de critères tirés notamment de
+la proportion de population résidant dans des quartiers inclus dans les zones
 prioritaires de la politique de la ville, du revenu fiscal moyen des habitants
 de ces quartiers et du potentiel financier. Ces critères sont appréciés l'année
 précédant celle au titre de laquelle est répartie la dotation de développement
@@ -22,12 +22,12 @@ commune.
 Les crédits de la dotation de développement urbain sont répartis entre les
 départements :
 
-1° Pour deux tiers, en tenant compte de la quote-part définie à l'article L.
+1° Pour trois quarts, en tenant compte de la quote-part définie à l'article L.
 2334-41 et du nombre de communes éligibles dans chaque département ainsi que de
 leur classement selon les critères prévus au deuxième alinéa du présent article
 ;
 
-2° Pour un tiers, en tenant compte du nombre de communes éligibles dans chaque
+2° Pour un quart, en tenant compte du nombre de communes éligibles dans chaque
 département comprises dans la première moitié du classement et de leur
 classement selon les critères prévus au même deuxième alinéa.
 

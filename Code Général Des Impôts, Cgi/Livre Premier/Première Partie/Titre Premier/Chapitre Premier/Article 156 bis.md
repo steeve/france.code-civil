@@ -1,21 +1,18 @@
 Article 156 bis
 ----
 I. ― Le bénéfice des dispositions de l'article 156 propres aux immeubles classés
-ou inscrits au titre des monuments historiques, ayant fait l'objet d'un agrément
-par le ministre chargé du budget en raison de leur caractère historique ou
-artistique particulier ou ayant reçu le label délivré par la Fondation du
-patrimoine en application de l'article L. 143-2 du code du patrimoine, est
-subordonné à l'engagement de leur propriétaire de conserver la propriété de ces
-immeubles pendant une période d'au moins quinze années à compter de leur
-acquisition, y compris lorsque celle-ci est antérieure au 1er janvier 2009.
+ou inscrits au titre des monuments historiques, ou ayant reçu le label délivré
+par la Fondation du patrimoine en application de l'article L. 143-2 du code du
+patrimoine, est subordonné à l'engagement de leur propriétaire de conserver la
+propriété de ces immeubles pendant une période d'au moins quinze années à
+compter de leur acquisition, y compris lorsque celle-ci est antérieure au 1er
+janvier 2009.
 
 II. ― Le bénéfice des dispositions de l'article 156 propres aux immeubles
-classés ou inscrits au titre des monuments historiques, ayant fait l'objet d'un
-agrément par le ministre chargé du budget en raison de leur caractère historique
-ou artistique particulier ou ayant reçu le label délivré par la Fondation du
-patrimoine en application de l'article L. 143-2 du code du patrimoine, n'est pas
-ouvert aux immeubles détenus par des sociétés civiles non soumises à l'impôt sur
-les sociétés.
+classés ou inscrits au titre des monuments historiques, ou ayant reçu le label
+délivré par la Fondation du patrimoine en application de l'article L. 143-2 du
+code du patrimoine, n'est pas ouvert aux immeubles détenus par des sociétés
+civiles non soumises à l'impôt sur les sociétés.
 
 Les dispositions du premier alinéa ne sont pas applicables aux immeubles détenus
 par des sociétés civiles non soumises à l'impôt sur les sociétés et ayant fait
@@ -40,11 +37,11 @@ par la société entre la date de la déclaration d'ouverture de chantier prévu
 l'article R. 424-16 du code de l'urbanisme et celle de l'acquisition de leurs
 parts par les personnes concernées, sous réserve :
 
-a. - que les parts sociales aient été acquises au plus tard le 31 décembre de la
+a.-que les parts sociales aient été acquises au plus tard le 31 décembre de la
 deuxième année qui suit celle de la déclaration de chantier précitée ;
 
-b. - et que ces charges aient été intégralement remboursées à la société agréée,
-à proportion de leurs parts, par les associés personnes physiques.
+b.-et que ces charges aient été intégralement remboursées à la société agréée, à
+proportion de leurs parts, par les associés personnes physiques.
 
 III. ― Le cas échéant, le revenu global ou le revenu net foncier de l'année au
 cours de laquelle l'engagement mentionné au I ou au II n'est pas respecté et des
@@ -66,11 +63,10 @@ compris lorsque cette acquisition ne porte que sur un droit de propriété
 démembré.
 
 V. ― Le bénéfice des dispositions de l'article 156 propres aux immeubles classés
-ou inscrits au titre des monuments historiques, ayant fait l'objet d'un agrément
-par le ministre chargé du budget en raison de leur caractère historique ou
-artistique particulier ou ayant reçu le label délivré par la Fondation du
-patrimoine en application de l'article L. 143-2 du code du patrimoine, n'est pas
-ouvert aux immeubles ayant fait l'objet d'une division à compter du 1er janvier
-2009 sauf si cette division fait l'objet d'un agrément délivré par le ministre
-du budget, après avis du ministre de la culture, lorsque l'intérêt patrimonial
-du monument et l'importance des charges relatives à son entretien la justifient.
+ou inscrits au titre des monuments historiques, ou ayant reçu le label délivré
+par la Fondation du patrimoine en application de l'article L. 143-2 du code du
+patrimoine, n'est pas ouvert aux immeubles ayant fait l'objet d'une division à
+compter du 1er janvier 2009 sauf si cette division fait l'objet d'un agrément
+délivré par le ministre du budget, après avis du ministre de la culture, lorsque
+l'intérêt patrimonial du monument et l'importance des charges relatives à son
+entretien la justifient.

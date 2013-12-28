@@ -406,9 +406,8 @@ Pour un même logement, les dispositions du présent h sont exclusives de
 l'application des dispositions du deuxième alinéa du 3° du I de l'article 156 et
 des articles 199 undecies ou 199 undecies A. Elles ne s'appliquent pas aux
 monuments classés monuments historiques, inscrits à l'inventaire supplémentaire
-ou ayant fait l'objet d'un agrément ministériel ou ayant reçu le label délivré
-par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de
-l'article 156.
+ou ayant reçu le label délivré par la Fondation du patrimoine, mentionnés au
+premier alinéa du 3° du I de l'article 156.
 
 La déduction au titre de l'amortissement des logements acquis neufs, en l'état
 futur d'achèvement ou que le contribuable fait construire n'est applicable

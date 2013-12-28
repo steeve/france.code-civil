@@ -1,16 +1,16 @@
 Article 244 quater U
 ----
-I.-1. Les établissements de crédit mentionnés à l'article L. 511-1 du code
-monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le
-revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen ayant conclu avec la France une convention d'assistance administrative
-en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un
-crédit d'impôt au titre d'avances remboursables ne portant pas intérêt versées
-au cours de l'année d'imposition ou de l'exercice pour financer des travaux
-d'amélioration de la performance énergétique globale de logements achevés avant
-le 1er janvier 1990 et utilisés ou destinés à être utilisés en tant que
-résidence principale.
+I.-1. Les établissements de crédit et les sociétés de financement mentionnés à
+l'article L. 511-1 du code monétaire et financier passibles de l'impôt sur les
+sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège
+dans un Etat membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre d'avances
+remboursables ne portant pas intérêt versées au cours de l'année d'imposition ou
+de l'exercice pour financer des travaux d'amélioration de la performance
+énergétique globale de logements achevés avant le 1er janvier 1990 et utilisés
+ou destinés à être utilisés en tant que résidence principale.
 
 2. Les travaux mentionnés au 1 sont constitués :
 
@@ -43,7 +43,8 @@ par des dispositifs ne consommant pas d'énergie ;
 4° (alinéa supprimé)
 
 Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° sont
-fixées par décret.
+fixées par décret. Ce décret fixe également les critères de qualification de
+l'entreprise exigés pour les travaux mentionnés aux 1° et 2° (1).
 
 3. L'avance remboursable sans intérêt peut être consentie aux personnes
 suivantes :
@@ -79,21 +80,25 @@ donnent en location ou s'engagent à donner en location (1).
 4. Le montant de l'avance remboursable ne peut excéder la somme de 30 000 € par
 logement.
 
-5. L'emprunteur fournit à l'établissement de crédit mentionné au 1, à l'appui de
-sa demande d'avance remboursable sans intérêt, un descriptif et un devis
-détaillés des travaux envisagés. Il transmet, dans un délai de deux ans à
-compter de la date d'octroi de l'avance par l'établissement de crédit mentionné
-au 1, tous les éléments justifiant que les travaux ont été effectivement
-réalisés conformément au descriptif et au devis détaillés et satisfont aux
-conditions prévues aux 1 et 2. Un décret fixe les modalités d'application du
-présent 5.
+5. L'emprunteur fournit à l'établissement de crédit ou la société de financement
+mentionné au 1, à l'appui de sa demande d'avance remboursable sans intérêt, un
+descriptif et un devis détaillés des travaux envisagés. Il transmet, dans un
+délai de deux ans à compter de la date d'octroi de l'avance par l'établissement
+de crédit ou la société de financement mentionné au 1, tous les éléments
+justifiant que les travaux ont été effectivement réalisés conformément au
+descriptif et au devis détaillés et satisfont aux conditions prévues aux 1 et 2.
+Toutefois, lorsque l'avance est consentie dans les conditions prévues au VI bis,
+ce délai est porté à trois ans (2). Un décret fixe les modalités d'application
+du présent 5.
 
 6. Il ne peut être accordé qu'une seule avance remboursable par logement.
 
 7. Les dépenses de travaux financées par une avance remboursable peuvent ouvrir
 droit au crédit d'impôt sur le revenu prévu à l'article 200 quater lorsque le
 montant des revenus du foyer fiscal tel que défini au IV de l'article 1417
-n'excède pas un plafond, fixé par décret dans une limite de 30 000 €,
+n'excède pas un plafond, de 25 000 € pour une personne célibataire, veuve ou
+divorcée, 35 000 € pour un couple soumis à imposition commune et 7 500 €
+supplémentaires par personne à charge au sens des articles 196 à 196 B (2),
 l'avant-dernière année précédant celle de l'offre de l'avance.
 
 8. (alinéa supprimé)
@@ -109,11 +114,12 @@ actualisée des montants perçus au titre d'un prêt de mêmes montant et durée
 remboursement, consenti à des conditions normales de taux à la date d'émission
 de l'offre de prêt ne portant pas intérêt.
 
-Le crédit d'impôt fait naître au profit de l'établissement de crédit une
-créance, inaliénable et incessible, d'égal montant. Cette créance constitue un
-produit imposable rattaché à hauteur d'un cinquième au titre de l'exercice au
-cours duquel l'établissement de crédit a versé des avances remboursables sans
-intérêt et par fractions égales sur les quatre exercices suivants.
+Le crédit d'impôt fait naître au profit de l'établissement de crédit ou la
+société de financement une créance, inaliénable et incessible, d'égal montant.
+Cette créance constitue un produit imposable rattaché à hauteur d'un cinquième
+au titre de l'exercice au cours duquel l'établissement de crédit ou la société
+de financement a versé des avances remboursables sans intérêt et par fractions
+égales sur les quatre exercices suivants.
 
 En cas de fusion, la créance de la société absorbée est transférée à la société
 absorbante. En cas de scission ou d'apport partiel d'actif, la créance est
@@ -123,23 +129,26 @@ société scindée ou apporteuse soit transféré à la société bénéficiaire
 apports.
 
 III.-Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une
-convention entre l'établissement de crédit mentionné au 1 du I et l'Etat,
-conforme à une convention type approuvée par arrêté conjoint des ministres
-chargés de l'économie, du logement et de l'environnement.
+convention entre l'établissement de crédit ou la société de financement
+mentionné au 1 du I et l'Etat, conforme à une convention type approuvée par
+arrêté conjoint des ministres chargés de l'économie, du logement et de
+l'environnement.
 
-IV.-Une convention conclue entre l'établissement de crédit mentionné au 1 du I
-et la société chargée de gérer le Fonds de garantie de l'accession sociale à la
-propriété mentionnée à l'article L. 312-1 du code de la construction et de
-l'habitation définit les modalités de déclaration par l'établissement de crédit
-des avances remboursables, le contrôle de l'éligibilité des avances
-remboursables et le suivi des crédits d'impôt.
+IV.-Une convention conclue entre l'établissement de crédit ou la société de
+financement mentionné au 1 du I et la société chargée de gérer le Fonds de
+garantie de l'accession sociale à la propriété mentionnée à l'article L. 312-1
+du code de la construction et de l'habitation définit les modalités de
+déclaration par l'établissement de crédit ou la société de financement des
+avances remboursables, le contrôle de l'éligibilité des avances remboursables et
+le suivi des crédits d'impôt.
 
 V.-La société chargée de gérer le Fonds de garantie de l'accession sociale à la
 propriété mentionnée au IV est tenue de fournir à l'administration fiscale, dans
-les quatre mois de la clôture de l'exercice de chaque établissement de crédit,
-les informations relatives aux avances remboursables sans intérêt versées par
-chaque établissement de crédit, le montant total des crédits d'impôt
-correspondants obtenus ainsi que leur suivi.
+les quatre mois de la clôture de l'exercice de chaque établissement de crédit ou
+société de financement, les informations relatives aux avances remboursables
+sans intérêt versées par chaque établissement de crédit ou société de
+financement, le montant total des crédits d'impôt correspondants obtenus ainsi
+que leur suivi.
 
 VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L,
 ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C

@@ -38,13 +38,13 @@ fiscal de référence connu. La population prise en compte est celle issue du
 dernier recensement.
 
 L'indice synthétique de ressources et de charges est obtenu par addition des
-rapports définis aux a et b du présent 2° en pondérant le premier par 80 % et le
-second par 20 % ;
+rapports définis aux a et b du présent 2° en pondérant le premier par 75 % et le
+second par 25 % ;
 
 3° La somme des prélèvements opérés en application du 2° du présent I et de ceux
 supportés par les communes en application de l'article L. 2531-13 au titre de
 l'année précédente ne peut excéder, pour chaque ensemble intercommunal ou chaque
-commune mentionnés au 1° du présent I, 11 % du produit qu'ils ont perçu au titre
+commune mentionnés au 1° du présent I, 13 % du produit qu'ils ont perçu au titre
 des ressources mentionnées aux 1° à 5° du I de l'article L. 2336-2.
 
 II. - Le prélèvement calculé pour chaque ensemble intercommunal conformément aux

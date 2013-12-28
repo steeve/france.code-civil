@@ -13,10 +13,11 @@ valeurs figurant sur le plan peuvent être effectuées au cours des huit années
 suivant l'ouverture du plan sans entraîner la clôture, à la condition que ces
 sommes ou valeurs soient affectées, dans les trois mois suivant le retrait ou le
 rachat, au financement de la création ou de la reprise d'une entreprise dont le
-titulaire du plan, son conjoint, son ascendant ou son descendant assure
-personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs
-sont utilisées à la souscription en numéraire au capital initial d'une société,
-à l'achat d'une entreprise existante ou lorsqu'elles sont versées au compte de
-l'exploitant d'une entreprise individuelle créée depuis moins de trois mois à la
-date du versement. Toutefois, aucun versement n'est possible après le premier
-retrait ou le premier rachat.
+titulaire du plan, son conjoint, ou partenaire lié par un pacte civil de
+solidarité, son ascendant ou son descendant assure personnellement
+l'exploitation ou la direction et lorsque ces sommes ou valeurs sont utilisées à
+la souscription en numéraire au capital initial d'une société, à l'achat d'une
+entreprise existante ou lorsqu'elles sont versées au compte de l'exploitant
+d'une entreprise individuelle créée depuis moins de trois mois à la date du
+versement. Toutefois, aucun versement n'est possible après le premier retrait ou
+le premier rachat.

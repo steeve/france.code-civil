@@ -1,6 +1,6 @@
 Article 279
 ----
-La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui
+La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui
 concerne :
 
 a. Les prestations relatives :
@@ -47,20 +47,16 @@ jeux et manèges forains à l'exception des appareils automatiques autres que ce
 qui sont assimilés à des loteries foraines en application de l'article L. 322-5
 du code de la sécurité intérieure ;
 
-b bis a. (Abrogé).
+b bis a. (Abrogé) ;
 
 b ter. les droits d'entrée pour la visite des parcs zoologiques et botaniques,
 des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 
 b quater. les transports de voyageurs ;
 
-b quinquies. les droits d'entrée dans les salles de spectacles
-cinématographiques quels que soient le procédé de fixation ou de transmission et
-la nature du support des oeuvres ou documents audiovisuels qui sont présentés ;
+b quinquies. (Abrogé) ;
 
-b sexies. Les prestations correspondant au droit d'utilisation des animaux à des
-fins d'activités physiques et sportives et de toutes installations agricoles
-nécessaires à cet effet ;
+b sexies. (Abrogé) ;
 
 b septies. les travaux sylvicoles et d'exploitation forestière réalisés au
 profit d'exploitants agricoles, y compris les travaux d'entretien des sentiers
@@ -78,7 +74,7 @@ forfaitaire l'accès à un réseau de communications électroniques au sens du 2
 l'article L. 32 du code des postes et des communications électroniques.
 Néanmoins, lorsque les droits de distribution des services de télévision ont été
 acquis en tout ou partie contre rémunération par le fournisseur des services, le
-taux réduit de 7 % est applicable à la part de l'abonnement correspondante.
+taux réduit de 10 % est applicable à la part de l'abonnement correspondante.
 Cette part est égale, en fonction du choix opéré par le distributeur des
 services, soit aux sommes payées, par usager, pour l'acquisition des droits
 susmentionnés, soit au prix auquel les services correspondant aux mêmes droits
@@ -110,7 +106,10 @@ oeuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portan
 sur les oeuvres cinématographiques et sur les livres.
 
 Cette disposition n'est pas applicable aux cessions de droits portant sur des
-oeuvres d'architecture et des logiciels ;
+oeuvres d'architecture et des logiciels, ainsi qu'aux cessions de droits
+patrimoniaux portant sur des œuvres cinématographiques représentées au cours des
+séances de spectacles cinématographiques mentionnées à l'article L. 214-1 du
+code du cinéma et de l'image animée ou dans le cadre de festivals de cinéma ;
 
 h. Les prestations de collecte, de tri et de traitement des déchets visés aux
 articles L. 2224-13 et L. 2224-14 du code général des collectivités

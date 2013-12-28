@@ -1,6 +1,6 @@
 Article L2334-7
 ----
-I. - A compter de 2005, la dotation forfaitaire comprend :
+I.-A compter de 2005, la dotation forfaitaire comprend :
 
 1° Une dotation de base destinée à tenir compte des charges liées à l'importance
 de sa population.
@@ -64,15 +64,15 @@ l'ensemble des communes bénéficient d'une attribution au titre de la garantie
 fiscal par habitant est supérieur ou égal à 0,75 fois le potentiel fiscal moyen
 par habitant constaté pour l'ensemble des communes, ce montant est diminué, dans
 les conditions prévues à l'article L. 2334-7-1, en proportion de leur population
-et de l'écart relatif entre le potentiel fiscal par habitant de la commune et le
-potentiel fiscal moyen par habitant constaté pour l'ensemble des communes. Cette
-minoration ne peut être supérieure à 6 % de la garantie perçue l'année
-précédente. Le potentiel fiscal pris en compte pour l'application du présent
-alinéa est celui calculé l'année précédente en application de l'article L.
-2334-4 . La population prise en compte pour la détermination du potentiel fiscal
-par habitant est corrigée par un coefficient logarithmique dont la valeur varie
-de 1 à 2 en fonction croissante de la population de la commune tel que défini
-pour l'application du 1° du présent I ;
+et de l'écart relatif entre le potentiel fiscal par habitant de la commune et
+0,75 fois le potentiel fiscal moyen par habitant constaté pour l'ensemble des
+communes. Cette minoration ne peut être supérieure à 6 % de la garantie perçue
+l'année précédente. Le potentiel fiscal pris en compte pour l'application du
+présent alinéa est celui calculé l'année précédente en application de l'article
+L. 2334-4. La population prise en compte pour la détermination du potentiel
+fiscal par habitant est corrigée par un coefficient logarithmique dont la valeur
+varie de 1 à 2 en fonction croissante de la population de la commune tel que
+défini pour l'application du 1° du présent I ;
 
 5° Une dotation en faveur des communes des parcs nationaux et des parcs naturels
 marins. Cette dotation comprend une première fraction dont le montant est
@@ -90,7 +90,7 @@ situé au sein d'un parc naturel marin mentionné au même article L. 334-3. Le
 montant de la première fraction est fixé à 3,2 millions d'euros et celui de
 chacune des deux autres fractions à 150 000 €.
 
-II. - Le taux de croissance de la dotation forfaitaire est égal au taux
+II.-Le taux de croissance de la dotation forfaitaire est égal au taux
 d'évolution de la somme des composantes de cette dotation par rapport à la somme
 des montants versés l'année précédente en application du I, hors les montants
 prévus au 3° du même I. A compter de 2011, pour le calcul de ce taux de
@@ -128,16 +128,16 @@ finances pour 1999 précitée, minoré du montant prélevé en 2003 sur la fisca
 Si le montant prélevé en 2003 sur la fiscalité excède le montant perçu en 2003
 au titre de la dotation forfaitaire et du I du D de l'article 44 de la loi de
 finances pour 1999 précitée, la différence est prélevée sur le produit des
-impôts directs locaux de la commune et évolue chaque année comme la dotation
-forfaitaire. Pour les communes membres d'un établissement public de coopération
-intercommunale soumis pour la première fois à compter de 2004 aux dispositions
-de l'article 1609 nonies C du code général des impôts, les crédits correspondant
-à la compensation antérieurement perçue en application du I du D de l'article 44
-de la loi de finances pour 1999 précitée sont versés à l'établissement en lieu
-et place des communes. A cet effet, l'ensemble des crédits correspondant à la
-compensation antérieurement perçue en application du I du D de l'article 44 de
-la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
-forfaitaire.
+impôts directs locaux de la commune et 0,75 fois évolue chaque année comme la
+dotation forfaitaire. Pour les communes membres d'un établissement public de
+coopération intercommunale soumis pour la première fois à compter de 2004 aux
+dispositions de l'article 1609 nonies C du code général des impôts, les crédits
+correspondant à la compensation antérieurement perçue en application du I du D
+de l'article 44 de la loi de finances pour 1999 précitée sont versés à
+l'établissement en lieu et place des communes. A cet effet, l'ensemble des
+crédits correspondant à la compensation antérieurement perçue en application du
+I du D de l'article 44 de la loi de finances pour 1999 précitée sont identifiés
+au sein de la dotation forfaitaire.
 
 Pour les communes et établissements publics de coopération intercommunale à
 fiscalité propre, lorsque le montant de la compensation prévue au D de l'article

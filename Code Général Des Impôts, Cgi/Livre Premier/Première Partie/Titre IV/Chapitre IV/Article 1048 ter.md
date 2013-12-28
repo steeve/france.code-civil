@@ -9,7 +9,9 @@ constitutifs d'un droit réel immobilier délivrés soit par l'Etat ou l'un de s
 de l'article 13 de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de
 partenariat, soit par les collectivités territoriales, leurs groupements ou
 leurs établissements publics, en application des I à III de l'article L. 1311-5
-et de l'article L. 1414-16 du code général des collectivités territoriales ;
+et de l'article L. 1414-16 du code général des collectivités territoriales,
+ainsi que les baux emphytéotiques administratifs conclus en application de
+l'article L. 2341-1 du code général de la propriété des personnes publiques ;
 
 2° Les actes portant bail consentis en application de l'article L. 2122-15
 ducode général de la propriété des personnes publiques au profit de l'Etat ;

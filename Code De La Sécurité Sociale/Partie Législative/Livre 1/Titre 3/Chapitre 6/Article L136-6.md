@@ -14,17 +14,15 @@ c) Des revenus de capitaux mobiliers ;
 
 d) (Abrogé)
 
-e) Des plus-values, gains en capital et profits réalisés sur les marchés à terme
-d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
-négociables, soumis à l'impôt sur le revenu, de même que des distributions
-définies aux 7 et 8 du II de l'article 150-0 A du code général des impôts et du
-gain défini à l'article 150 duodecies du même code ;
+e) Des plus-values, gains en capital et profits soumis à l'impôt sur le revenu,
+de même que des distributions définies aux 7, 7 bis et 8 du II de l'article
+150-0 A du code général des impôts et du gain défini à l'article 150 duodecies
+du même code ;
 
 e bis) Des plus-values et des créances mentionnées au I et au II de l'article
 167 bis du code général des impôts ;
 
-e ter) Les gains nets placés en report d'imposition en application des I et II
-de l'article 150-0 D bis du code général des impôts ;
+e ter) Abrogé (1) ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
@@ -39,17 +37,14 @@ code général des impôts, ainsi que, pour les revenus de capitaux mobiliers, d
 dépenses effectuées en vue de l'acquisition et de la conservation du revenu.
 
 Il n'est pas fait application à la contribution du dégrèvement ou de la
-restitution prévus à l'expiration d'un délai de huit ans au 2 du VII de
-l'article 167 bis du code général des impôts et du dégrèvement prévu au premier
-alinéa du 4 du VIII du même article.
+restitution prévus au dernier alinéa du 2 du VII et au premier alinéa du 4 du
+VIII de l'article 167 bis du code général des impôts (2).
 
 Sont également soumis à cette contribution :
 
 1° (Abrogé)
 
-2° Les gains nets exonérés en application du 3 du I de l'article 150-0 A du même
-code ainsi que les plus-values exonérées en application du 3 du I et du 7 du III
-du même article ;
+2° (Abrogé) (1)
 
 3° Les plus-values à long terme exonérées en application de l'article 151
 septies A du même code ;

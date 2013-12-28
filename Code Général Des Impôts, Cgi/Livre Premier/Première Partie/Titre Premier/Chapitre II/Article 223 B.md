@@ -57,10 +57,10 @@ long terme d'ensemble du groupe. Lorsqu'en application du troisième alinéa de
 l'article 223 F, la société mère comprend dans le résultat d'ensemble le
 résultat ou la plus ou moins-value non pris en compte lors de sa réalisation, la
 fraction de la provision qui n'a pas été déduite en application de la deuxième
-phrase du présent alinéa, ni rapportée en application du seizième alinéa du 5°
+phrase du présent alinéa, ni rapportée en application du quinzième alinéa du 5°
 du 1 de l'article 39, est retranchée du résultat d'ensemble. Celui-ci est
-également minoré du montant des provisions rapportées en application du seizième
-alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
+également minoré du montant des provisions rapportées en application du
+quinzième alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
 complémentaires non retenues en application du présent alinéa si les sociétés
 citées aux première et troisième phrases de cet alinéa ou détenues, directement
 ou indirectement, par les sociétés intermédiaires citées à la deuxième phrase du

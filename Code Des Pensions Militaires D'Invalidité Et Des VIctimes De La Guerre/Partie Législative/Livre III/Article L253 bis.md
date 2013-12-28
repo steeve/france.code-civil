@@ -30,4 +30,6 @@ de formations constituant les forces supplétives françaises.
 
 Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans
 plusieurs des pays mentionnés au premier alinéa est reconnue équivalente à la
-participation aux actions de feu ou de combat exigée au cinquième alinéa.
+participation aux actions de feu ou de combat exigée au cinquième alinéa, y
+compris lorsque ces services se sont poursuivis au-delà du 2 juillet 1962 dès
+lors qu'ils n'ont connu aucune interruption.

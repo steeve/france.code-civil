@@ -11,3 +11,5 @@ la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 En 2012, ce montant est égal à 41 389 752 000 €.
 
 En 2013, ce montant est égal à 41 505 415 000 €.
+
+En 2014, ce montant est égal à 40 121 044 000 €.

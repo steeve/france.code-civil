@@ -3,39 +3,165 @@ Article 150-0 D
 1. Les gains nets mentionnés au I de l'article 150-0 A sont constitués par la
 différence entre le prix effectif de cession des titres ou droits, net des frais
 et taxes acquittés par le cédant, et leur prix effectif d'acquisition par
-celui-ci ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la
-détermination des droits de mutation.
+celui-ci diminué, le cas échéant, des réductions d'impôt effectivement obtenues
+dans les conditions prévues à l'article 199 terdecies-0 A, ou, en cas
+d'acquisition à titre gratuit, leur valeur retenue pour la détermination des
+droits de mutation.
 
-Les gains nets des cessions à titre onéreux d'actions, de parts de sociétés, de
-droits portant sur ces parts ou actions ou de titres représentatifs de ces mêmes
-parts, actions ou droits, les compléments de prix mentionnés au 2 du I de
-l'article 150-0 A, ainsi que les distributions d'une fraction des actifs d'un
-fonds commun de placement à risques ou d'un fonds professionnel spécialisé
-relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction
-antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
-juridique de la gestion d'actifs ou d'un fonds professionnel de capital
-investissement mentionnées au 7 et à l'avant-dernier alinéa du 8 du II du même
-article, les distributions de plus-values mentionnées au dernier alinéa du même
-8, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, pour lesquels
-le contribuable n'a pas opté pour l'imposition au taux forfaitaire de 19 %
-prévue au 2 bis de l'article 200 A, sont réduits d'un abattement égal à :
+Les gains nets de cession à titre onéreux d'actions, de parts de sociétés, de
+droits portant sur ces actions ou parts ou de titres représentatifs de ces mêmes
+actions, parts ou droits, mentionnés au I de l'article 150-0 A, ainsi que les
+distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du
+même article, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C
+sont réduits d'un abattement déterminé dans les conditions prévues, selon le
+cas, au 1 ter ou au 1 quater du présent article.
 
-a) 20 % de leur montant lorsque les actions, parts, droits ou titres sont
-détenus depuis au moins deux ans et moins de quatre ans à la date de la cession
-;
-
-b) 30 % de leur montant lorsque les actions, parts, droits ou titres sont
-détenus depuis au moins quatre ans et moins de six ans à la date de la cession ;
-
-c) 40 % de leur montant lorsque les actions, parts, droits ou titres sont
-détenus depuis au moins six ans.
+Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la
+cession d'actions, de parts ou de droits mentionnés au deuxième alinéa du
+présent 1, est réduit de l'abattement prévu au même alinéa et appliqué lors de
+cette cession.
 
 L'abattement précité ne s'applique pas à l'avantage mentionné à l'article 80 bis
 constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007.
 
-Pour l'application de cet abattement, la durée de détention est décomptée à
-partir de la date de souscription ou d'acquisition des actions, parts, droits ou
-titres, et :
+1 bis (Supprimé)
+
+1 ter. L'abattement mentionné au 1 est égal à :
+
+a) 50 % du montant des gains nets ou des distributions lorsque les actions,
+parts, droits ou titres sont détenus depuis au moins deux ans et moins de huit
+ans à la date de la cession ou de la distribution ;
+
+b) 65 % du montant des gains nets ou des distributions lorsque les actions,
+parts, droits ou titres sont détenus depuis au moins huit ans à la date de la
+cession ou de la distribution.
+
+Cet abattement s'applique aux gains nets de cession à titre onéreux ou de rachat
+de parts ou d'actions d'organismes de placement collectif en valeurs mobilières
+ou de placements collectifs, relevant des articles L. 214-24-24 à L. 214-32-1,
+L. 214-139 à L. 214-147 et L. 214-152 à L. 214-166 du code monétaire et
+financier, ou de dissolution de tels organismes ou placements, à condition
+qu'ils emploient plus de 75 % de leurs actifs en parts ou actions de sociétés.
+Ce quota doit être respecté au plus tard lors de la clôture de l'exercice
+suivant celui de la constitution de l'organisme ou du placement collectif et, de
+manière continue, jusqu'à la date de la cession ou du rachat des actions, parts
+ou droits ou de la dissolution de cet organisme ou placement collectif.
+Toutefois, cette condition ne s'applique pas aux gains nets mentionnés au 8 du
+II de l'article 150-0 A du présent code et aux gains nets de cession ou de
+rachat de parts de fonds communs de placement à risques mentionnés aux articles
+L. 214-28, L. 214-30 et L. 214-31 du code monétaire et financier et de parts ou
+actions de fonds professionnels de capital investissement mentionnés à l'article
+L. 214-159 du même code.
+
+L'abattement précité s'applique aux distributions mentionnées aux 7 et 7 bis du
+II de l'article 150-0 A du présent code, à condition que les fonds mentionnés à
+ce même 7 et les organismes ou les placements collectifs mentionnés à ce même 7
+bis emploient plus de 75 % de leurs actifs en actions ou parts de sociétés ou en
+droits portant sur ces actions ou parts. Ce quota doit être respecté au plus
+tard lors de la clôture de l'exercice suivant celui de la constitution du fonds,
+de l'organisme ou du placement collectif et de manière continue jusqu'à la date
+de la distribution. Toutefois, cette condition ne s'applique pas aux
+distributions effectuées par des fonds communs de placement à risques mentionnés
+aux articles L. 214-28, L. 214-30 et L. 214-31 du code monétaire et financier et
+de fonds professionnels de capital investissement mentionnés à l'article L.
+214-159 du même code.
+
+Les conditions mentionnées aux quatrième et cinquième alinéas du présent 1 ter
+s'appliquent également aux entités de même nature constituées sur le fondement
+d'un droit étranger.
+
+Par dérogation aux mêmes quatrième et cinquième alinéas, pour les organismes
+constitués avant le 1er janvier 2014, le quota de 75 % doit être respecté au
+plus tard lors de la clôture du premier exercice ouvert à compter de cette même
+date et de manière continue jusqu'à la date de la cession, du rachat ou de la
+dissolution ou jusqu'à la date de la distribution.
+
+1 quater. A.-Par dérogation au 1 ter, lorsque les conditions prévues au B du
+présent 1 quater sont remplies, les gains nets sont réduits d'un abattement égal
+à :
+
+1° 50 % de leur montant lorsque les actions, parts ou droits sont détenus depuis
+au moins un an et moins de quatre ans à la date de la cession ;
+
+2° 65 % de leur montant lorsque les actions, parts ou droits sont détenus depuis
+au moins quatre ans et moins de huit ans à la date de la cession ;
+
+3° 85 % de leur montant lorsque les actions, parts ou droits sont détenus depuis
+au moins huit ans à la date de la cession.
+
+B.-L'abattement mentionné au A s'applique :
+
+1° Lorsque la société émettrice des droits cédés respecte l'ensemble des
+conditions suivantes :
+
+a) Elle est créée depuis moins de dix ans et n'est pas issue d'une
+concentration, d'une restructuration, d'une extension ou d'une reprise
+d'activités préexistantes. Cette condition s'apprécie à la date de souscription
+ou d'acquisition des droits cédés ;
+
+b) Elle répond à la définition prévue au e du 2° du I de l'article 199
+terdecies-0 A. Cette condition est appréciée à la date de clôture du dernier
+exercice précédant la date de souscription ou d'acquisition de ces droits ou, à
+défaut d'exercice clos, à la date du premier exercice clos suivant la date de
+souscription ou d'acquisition de ces droits ;
+
+c) Elle respecte la condition prévue au f du même 2° ;
+
+d) Elle est passible de l'impôt sur les bénéfices ou d'un impôt équivalent ;
+
+e) Elle a son siège social dans un Etat membre de l'Union européenne ou dans un
+autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec
+la France une convention d'assistance administrative en vue de lutter contre la
+fraude et l'évasion fiscales ;
+
+f) Elle exerce une activité commerciale, industrielle, artisanale, libérale ou
+agricole, à l'exception de la gestion de son propre patrimoine mobilier ou
+immobilier.
+
+Lorsque la société émettrice des droits cédés est une société holding
+animatrice, au sens du dernier alinéa du VI quater du même article 199
+terdecies-0 A, le respect des conditions mentionnées au présent 1° s'apprécie au
+niveau de la société émettrice et de chacune des sociétés dans laquelle elle
+détient des participations.
+
+Les conditions prévues aux quatrième à avant-dernier alinéas du présent 1°
+s'apprécient de manière continue depuis la date de création de la société ;
+
+2° Lorsque le gain est réalisé dans les conditions prévues à l'article 150-0 D
+ter ; (1)
+
+3° Lorsque le gain résulte de la cession de droits, détenus directement ou
+indirectement par le cédant avec son conjoint, leurs ascendants et descendants
+ainsi que leurs frères et sœurs, dans les bénéfices sociaux d'une société
+soumise à l'impôt sur les sociétés ou à un impôt équivalent et ayant son siège
+dans un Etat membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales qui ont dépassé ensemble 25 % de ces bénéfices à un moment
+quelconque au cours des cinq dernières années, pendant la durée de la société, à
+l'une des personnes mentionnées au présent 3°, si tout ou partie de ces droits
+sociaux n'est pas revendu à un tiers dans un délai de cinq ans. A défaut, la
+plus-value, réduite, le cas échéant, de l'abattement mentionné au 1 ter, est
+imposée au nom du premier cédant au titre de l'année de la revente des droits au
+tiers. (1)
+
+C.-L'abattement mentionné au A ne s'applique pas :
+
+1° Aux gains nets de cession ou de rachat de parts ou d'actions d'organismes de
+placement collectif en valeurs mobilières ou de placements collectifs, relevant
+des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L. 214-147 et L. 214-152 à
+L. 214-166 du code monétaire et financier, ou d'entités de même nature
+constituées sur le fondement d'un droit étranger, ou de dissolution de tels
+organismes, placements ou entités ;
+
+2° Aux distributions mentionnées aux 7 et 7 bis, aux deux derniers alinéas du 8
+du II de l'article 150-0 A, à l'article 150-0 F et au 1 du II de l'article 163
+quinquies C du présent code, y compris lorsqu'elles sont effectuées par des
+entités de même nature constituées sur le fondement d'un droit étranger.
+
+1 quinquies. Pour l'application de l'abattement mentionné au 1, la durée de
+détention est décomptée à partir de la date de souscription ou d'acquisition des
+actions, parts, droits ou titres, et :
 
 1° En cas de cession d'actions, parts, droits ou titres effectuée par une
 personne interposée, à partir de la date de souscription ou d'acquisition des
@@ -92,21 +218,33 @@ patrimoine fiduciaire lors de l'acquisition de ces droits, à partir de la date
 d'acquisition ou de souscription des actions, parts, droits ou titres par la
 fiducie dans les autres situations.
 
-Le III de l'article 150-0 D ter est applicable dans les mêmes conditions à
-l'abattement prévu au présent 1.
+En cas de cessions antérieures de titres ou droits de la société concernée pour
+lesquels le gain net a été déterminé en retenant un prix d'acquisition calculé
+suivant la règle de la valeur moyenne pondérée d'acquisition prévue au premier
+alinéa du 3, le nombre de titres ou droits cédés antérieurement est réputé avoir
+été prélevé en priorité sur les titres ou droits acquis ou souscrits aux dates
+les plus anciennes.
 
-Pour les distributions d'une fraction des actifs d'un fonds commun de placement
-à risques ou d'un fonds professionnel spécialisé relevant de l'article L. 214-37
-du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
-2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs
-ou d'un fonds professionnel de capital investissement mentionnées au 7 et à
-l'avant-dernier alinéa du 8 du II de l'article 150-0 A et pour les distributions
-de plus-values mentionnées au dernier alinéa du même 8, à l'article 150-0 F et
-au 1 du II de l'article 163 quinquies C, la durée de détention est décomptée à
-partir de la date d'acquisition ou de souscription des titres du fonds, de
-l'entité ou de la société de capital-risque concerné.
+Pour les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8
+du II de l'article 150-0 A, à l'article 150-0 F et au 1 du II de l'article 163
+quinquies C, la durée de détention est décomptée à partir de la date
+d'acquisition ou de souscription des titres du fonds, de l'entité ou de la
+société de capital-risque concerné.
 
-1 bis (Supprimé)
+Pour l'application du dernier alinéa du 1 ter du présent article, en cas de
+cession à titre onéreux ou de rachat de parts ou d'actions d'organismes de
+placement collectif en valeurs mobilières ou de placements collectifs,
+constitués avant le 1er janvier 2014, ou en cas de distributions effectuées par
+de tels organismes, la durée de détention est décomptée :
+
+-à partir de la date de souscription ou d'acquisition de ces parts ou actions,
+lorsque les parts ou actions ont été souscrites ou acquises à une date où
+l'organisme respecte le quota d'investissement mentionné aux quatrième et
+cinquième alinéas du même 1 ter ;
+
+-à partir de la date de respect du quota d'investissement mentionné à
+l'avant-dernier alinéa du présent 1 quinquies lorsque les parts ou actions ont
+été souscrites ou acquises à une date antérieure.
 
 2. Le prix d'acquisition des titres ou droits à retenir par le cessionnaire pour
 la détermination du gain net de cession des titres ou droits concernés est, le
@@ -152,12 +290,12 @@ le prix d'acquisition est réputé égal à leur valeur à la date où le cédan
 cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter
 de l'article 157.
 
-6. Le gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à
-l'article 163 quinquies D s'entend de la différence entre la valeur liquidative
-du plan ou la valeur de rachat pour les contrats de capitalisation à la date du
-retrait et le montant des versements effectués sur le plan depuis la date de son
-ouverture, à l'exception de ceux afférents aux retraits ou rachats n'ayant pas
-entraîné la clôture du plan.
+6. Le gain net réalisé depuis l'ouverture d'un plan d'épargne en actions défini
+à l'article 163 quinquies D s'entend de la différence entre la valeur
+liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à
+la date du retrait et le montant des versements effectués sur le plan depuis la
+date de son ouverture, à l'exception de ceux afférents aux retraits ou rachats
+n'ayant pas entraîné la clôture du plan.
 
 7. Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à
 long terme est réputé égal au dernier cours coté au comptant de ces titres
@@ -179,7 +317,7 @@ versements effectués à titre de loyers.
 différence entre le montant du remboursement et le prix ou la valeur
 d'acquisition ou de souscription des titres rachetés, diminuée du montant du
 revenu distribué imposable à l'impôt sur le revenu au titre du rachat dans les
-conditions prévues aux articles 109, 112, 120 et 161.
+conditions prévues aux articles 109,112,120 et 161.
 
 9. En cas de vente ultérieure ou de rachat mentionné au 6 du II de l'article
 150-0 A de titres reçus à l'occasion d'une opération mentionnée à l'article

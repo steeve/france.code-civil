@@ -32,7 +32,7 @@ IV.-Le produit des contributions mentionnées au I est versé :
 un taux de 0,87 % ;
 
 2° Au fonds institué par l'article L. 135-1 pour la part correspondant à un taux
-de 0,85 % ;
+de 0,892 % ;
 
 3° A la Caisse nationale de solidarité pour l'autonomie visée à l'article 8 de
 la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie des
@@ -77,3 +77,9 @@ chapitre, dans les conditions prévues au présent article.
 
 2. Il en est de même pour les produits recouvrés simultanément aux contributions
 mentionnées aux articles L. 136-6 et L. 136-7.
+
+3. Pour l'application du présent VI, le montant global des contributions et
+prélèvements sociaux mentionnés à l'article L. 138-21 qui est reversé par l'Etat
+à l'agence est réparti entre les affectataires de ces contributions et
+prélèvements au prorata des taux des contributions et prélèvements qui leur sont
+affectés à la date de leur fait générateur.

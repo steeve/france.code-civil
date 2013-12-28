@@ -2,7 +2,12 @@ Article L2113-20
 ----
 I. - Les communes nouvelles mentionnées à l'article L. 2113-1 bénéficient des
 différentes parts de la dotation forfaitaire des communes prévues aux articles
-L. 2334-7 à L. 2334-12.
+L. 2334-7 à L. 2334-12. Pour une durée de trois ans à compter du 1er janvier
+2014, les dispositions prévues à l'article L. 2334-7-3 ne s'appliquent pas aux
+communes nouvelles mentionnées à l'article L. 2113-1 regroupant une population
+inférieure ou égale à 10 000 habitants et créées avant le 1er janvier 2016 ainsi
+qu'aux communes nouvelles créées avant le renouvellement général des conseils
+municipaux en 2014.
 
 II. - La dotation de base et la dotation proportionnelle à la superficie de ces
 communes sont calculées conformément à l'article L. 2334-7.

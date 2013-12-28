@@ -6,7 +6,7 @@ politique et générale, soit un service de presse en ligne reconnu en applicati
 de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime
 juridique de la presse, consacré pour une large part à l'information politique
 et générale, sont autorisées à constituer une provision déductible du résultat
-imposable des exercices 1997 à 2013, en vue de faire face aux dépenses suivantes
+imposable des exercices 1997 à 2014, en vue de faire face aux dépenses suivantes
 :
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure
@@ -78,7 +78,7 @@ d'actifs non amortissables sont rapportées, par parts égales, au bénéfice
 imposable de l'exercice au cours duquel ces éléments sont acquis et des quatre
 exercices suivants.
 
-7. Sans préjudice de l'application des dispositions du seizième alinéa du 5° du
+7. Sans préjudice de l'application des dispositions du quinzième alinéa du 5° du
 1 de l'article 39, les provisions non utilisées conformément à leur objet avant
 la fin de la cinquième année suivant celle de leur constitution sont rapportées
 aux bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant

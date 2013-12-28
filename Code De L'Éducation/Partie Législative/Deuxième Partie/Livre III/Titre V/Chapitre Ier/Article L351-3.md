@@ -4,27 +4,16 @@ Lorsque la commission mentionnée à l'article L. 146-9 du code de l'action
 sociale et des familles constate que la scolarisation d'un enfant dans une
 classe de l'enseignement public ou d'un établissement mentionné à l'article L.
 442-1 du présent code requiert une aide individuelle dont elle détermine la
-quotité horaire, cette aide peut notamment être apportée par un assistant
-d'éducation recruté conformément aux modalités définies à l'avant-dernier alinéa
-de l'article L. 916-1.
+quotité horaire, cette aide peut notamment être apportée par un accompagnant des
+élèves en situation de handicap recruté conformément aux modalités définies à
+l'article L. 917-1.
 
 Si cette scolarisation n'implique pas une aide individuelle mais que les besoins
 de l'élève justifient qu'il bénéficie d'une aide mutualisée, la commission
 mentionnée à l'article L. 146-9 du code de l'action sociale et des familles en
-arrête le principe. Cette aide mutualisée est apportée par un assistant
-d'éducation recruté dans les conditions fixées au premier alinéa de l'article L.
-916-1 du présent code.
-
-Si l'aide nécessaire à l'élève handicapé ne comporte pas de soutien pédagogique,
-ces assistants d'éducation mentionnés aux deux premiers alinéas du présent
-article peuvent être recrutés sans condition de diplôme.
-
-Les personnels en charge de l'aide à l'inclusion scolaire exercent leurs
-fonctions auprès des élèves pour lesquels une aide a été reconnue nécessaire par
-décision de la commission mentionnée à l'article L. 146-9 du code de l'action
-sociale et des familles. Leur contrat de travail précise le nom des écoles et
-des établissements scolaires au sein desquels ils sont susceptibles d'exercer
-leurs fonctions.
+arrête le principe. Cette aide mutualisée est apportée par un accompagnant des
+élèves en situation de handicap recruté dans les conditions fixées à l'article
+L. 917-1 du présent code.
 
 L'aide individuelle mentionnée au premier alinéa du présent article peut, après
 accord entre l'autorité de l'Etat compétente en matière d'éducation et la

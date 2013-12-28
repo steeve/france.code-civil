@@ -11,12 +11,12 @@ article.
 II. ― L'exonération s'applique :
 
 1° Aux entreprises, employeurs et organismes mentionnés au premier alinéa de
-l'article L. 2211-1 du code du travail, occupant dix salariés au plus. Si
-l'effectif vient à dépasser le seuil de dix salariés, le bénéfice intégral de
-l'exonération est maintenu dans la limite des dix salariés précédemment occupés
-ou, en cas de départ, remplacés. Un décret fixe les conditions dans lesquelles
-le bénéfice de l'exonération est acquis dans le cas où l'effectif d'une
-entreprise passe au-dessous de onze salariés ;
+l'article L. 2211-1 du code du travail, occupant moins de onze salariés. Si
+l'effectif vient à atteindre ou dépasser le seuil de onze salariés, le bénéfice
+intégral de l'exonération est maintenu dans la limite des onze salariés
+précédemment occupés ou, en cas de départ, remplacés. Un décret fixe les
+conditions dans lesquelles le bénéfice de l'exonération est acquis dans le cas
+où l'effectif d'une entreprise passe au-dessous de onze salariés ;
 
 2° Aux entreprises, quel que soit leur effectif, du secteur du bâtiment et des
 travaux publics, de l'industrie, de la restauration, de la presse, de la
@@ -47,30 +47,46 @@ Saint-Barthélemy ou de Saint-Martin, ou la liaison entre les ports de ces
 départements ou collectivités ou la liaison entre les ports de La Réunion et de
 Mayotte.
 
-III. ― Le montant de l'exonération est calculé chaque mois civil, pour chaque
-salarié, en fonction de sa rémunération telle que définie à l'article L. 242-1.
-Lorsque la rémunération horaire est inférieure à un seuil égal au salaire
-minimum de croissance majoré de 40 %, le montant de l'exonération est égal au
-montant des cotisations à la charge de l'employeur au titre des assurances
-sociales et des allocations familiales. A partir de ce seuil, la part de la
-rémunération sur laquelle est calculée l'exonération décroît et devient nulle
-lorsque la rémunération horaire est égale à 3,8 fois le salaire minimum de
-croissance.
+III. ― A. - Pour les entreprises mentionnées au I de l'article 244 quater C du
+code général des impôts et, au titre des rémunérations définies aux quatrième et
+cinquième phrases du même I, pour les organismes mentionnés à l'article 207 du
+même code, l'exonération est calculée selon les modalités suivantes :
+
+Le montant de l'exonération est calculé chaque mois civil, pour chaque salarié,
+en fonction de sa rémunération telle que définie à l'article L. 242-1. Lorsque
+la rémunération horaire est inférieure à un seuil égal au salaire minimum de
+croissance majoré de 40 %, le montant de l'exonération est égal au montant des
+cotisations à la charge de l'employeur au titre des assurances sociales et des
+allocations familiales. A partir de ce seuil, la part de la rémunération sur
+laquelle est calculée l'exonération décroît et devient nulle lorsque la
+rémunération horaire est égale à 2,6 fois le salaire minimum de croissance.
 
 Pour les employeurs dont l'effectif est inférieur à onze salariés, lorsque la
 rémunération horaire est supérieure à un seuil égal au salaire minimum de
-croissance majoré de 40 % et inférieure à un seuil égal à 2,2 fois le salaire
+croissance majoré de 40 % et inférieure à un seuil égal à 1,8 fois le salaire
 minimum de croissance, la rémunération est exonérée des cotisations à la charge
 de l'employeur au titre des assurances sociales et des allocations familiales,
 dans la limite de la part correspondant à une rémunération horaire égale au
-salaire minimum de croissance majoré de 40 %. A partir du seuil de 2,2 fois le
+salaire minimum de croissance majoré de 40 %. A partir du seuil de 1,8 fois le
 salaire minimum de croissance, la part de la rémunération sur laquelle est
 calculée l'exonération décroît et devient nulle lorsque la rémunération horaire
-est égale à 3,8 fois le salaire minimum de croissance.
+est égale à 2,8 fois le salaire minimum de croissance.
+
+B. - Pour les entreprises, employeurs et organismes autres que ceux mentionnés
+au A :
+
+1° La rémunération horaire mentionnée aux deux derniers alinéas du A à partir de
+laquelle l'exonération devient nulle est égale à 3,8 fois le salaire minimum de
+croissance ;
+
+2° Le seuil de la rémunération horaire mentionné au dernier alinéa du A en deçà
+duquel la rémunération est exonérée dans la limite de la part correspondant à
+une rémunération horaire égale au salaire minimum de croissance majoré de 40 %
+est égal à 2,2 fois le salaire minimum de croissance.
 
 IV. ― Par dérogation au III, le montant de l'exonération est calculé selon les
-modalités prévues au dernier alinéa du présent IV pour les entreprises situées
-en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Saint-Martin
+modalités prévues aux deux derniers alinéas du présent IV pour les entreprises
+situées en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Saint-Martin
 respectant les conditions suivantes :
 
 1° Employer moins de deux cent cinquante salariés et avoir réalisé un chiffre
@@ -129,14 +145,22 @@ exercice.
 
 Pour les entreprises mentionnées au présent IV, lorsque la rémunération horaire
 est supérieure à un seuil égal au salaire minimum de croissance majoré de 60 %
-et inférieure à un seuil égal à 2,5 fois le salaire minimum de croissance, la
+et inférieure à un seuil égal à 2 fois le salaire minimum de croissance, la
 rémunération est exonérée des cotisations à la charge de l'employeur au titre
 des assurances sociales et des allocations familiales, dans la limite de la part
 correspondant à une rémunération égale au salaire minimum de croissance majoré
-de 60 %. A partir du seuil de 2,5 fois le salaire minimum de croissance, la part
+de 60 %. A partir du seuil de 2 fois le salaire minimum de croissance, la part
 de la rémunération sur laquelle est calculée l'exonération décroît et devient
-nulle lorsque la rémunération horaire est égale à 4,5 fois le salaire minimum de
+nulle lorsque la rémunération horaire est égale à 3 fois le salaire minimum de
 croissance.
+
+Par dérogation à l'avant-dernier alinéa du présent IV, pour les employeurs
+mentionnés au B du III du présent article, le seuil de la rémunération horaire
+en deçà duquel la rémunération est exonérée dans la limite de la part
+correspondant à une rémunération égale au salaire minimum de croissance majoré
+de 60 % est égal à 2,5 fois le salaire minimum de croissance et la rémunération
+horaire à partir de laquelle l'exonération devient nulle est égale à 4,5 fois le
+salaire minimum de croissance.
 
 V. ― Pour l'application du présent article, l'effectif pris en compte est celui
 qui est employé par l'entreprise dans chacune des collectivités mentionnées au

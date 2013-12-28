@@ -10,14 +10,14 @@ au taux de :
 Les opérations visées au 1° et 3° du A de l'article 278-0 bis et à l'article 278
 bis portant sur des produits livrés en Corse ;
 
-Les prestations de services visées aux B, C, E et F de l'article 278-0 bis et
+Les prestations de services visées aux B, C, et E à H de l'article 278-0 bis et
 aux a à b nonies de l'article 279 ;
 
 3° (Disposition devenue sans objet) ;
 
 4° (Abrogé) ;
 
-5° 8 % en ce qui concerne :
+5° 10 % en ce qui concerne :
 
 a. Les travaux immobiliers ainsi que les opérations visées au I de l'article 257
 ;
@@ -32,6 +32,8 @@ d. Les ventes à consommer sur place autres que celles visées au a bis de
 l'article 279 ;
 
 e. Les ventes d'électricité effectuées en basse tension ;
+
+f. Les opérations mentionnées à l'article 279-0 bis A ;
 
 6° 13 % en ce qui concerne :
 

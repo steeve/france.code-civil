@@ -1,7 +1,7 @@
 Article L331-3
 ----
 La part départementale de la taxe d'aménagement est instituée par délibération
-du conseil général dans les conditions fixées au huitième alinéa de l'article L.
+du conseil général dans les conditions fixées au neuvième alinéa de l'article L.
 331-2 en vue de financer, d'une part, la politique de protection des espaces
 naturels sensibles prévue à l'article L. 142-1 ainsi que les dépenses prévues à
 l'article L. 142-2 et, d'autre part, les dépenses des conseils d'architecture,

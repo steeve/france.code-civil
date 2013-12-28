@@ -15,7 +15,7 @@ présent article.
 
 La pension de conjoint survivant mentionnée aux alinéas précédents est majorée
 de l'indice de pension 360 lorsque le bénéficiaire du droit à pension était, à
-son décès, titulaire d'une pension dont l'indice était égal ou supérieur à 11
+son décès, titulaire d'une pension dont l'indice était égal ou supérieur à 10
 000 points.
 
 La pension calculée dans les conditions prévues à l'article L. 51 est majorée de

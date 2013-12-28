@@ -28,8 +28,9 @@ e) Aux stations radioélectriques, prévue à l'article 1519 H ;
 
 f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz
 naturel, aux canalisations de transport de gaz naturel, aux stations de
-compression du réseau de transport de gaz naturel et aux canalisations de
-transport d'autres hydrocarbures prévue à l'article 1519 HA ;
+compression du réseau de transport de gaz naturel, aux canalisations de
+transport d'autres hydrocarbures et aux canalisations de transport de produits
+chimiques prévue à l'article 1519 HA ;
 
 2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non
 bâties, prévue à l'article 1519 I.

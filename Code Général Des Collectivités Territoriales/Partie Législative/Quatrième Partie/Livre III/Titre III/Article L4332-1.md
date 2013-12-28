@@ -16,9 +16,9 @@ façon à compenser intégralement les charges résultant de toute modification 
 l'Etat des normes fixées pour ces rémunérations. Un décret en Conseil d'Etat
 fixe les modalités d'application du présent alinéa ;
 
-Les crédits mentionnés à l'alinéa précédent sont diminués en 2005, 2006 et à
-compter de 2007 d'un montant de respectivement 197, 2 millions d'euros, 395, 84
-millions d'euros et 593, 76 millions d'euros, en valeur 2005 et à indexer chaque
+Les crédits mentionnés à l'alinéa précédent sont diminués en 2005,2006 et à
+compter de 2007 d'un montant de respectivement 197,2 millions d'euros, 395,84
+millions d'euros et 593,76 millions d'euros, en valeur 2005 et à indexer chaque
 année selon le taux d'évolution de la dotation globale de fonctionnement.
 
 2° Les crédits transférés par l'Etat dont le montant est égal aux versements au
@@ -32,7 +32,11 @@ attribuées ;
 4° Les crédits votés à cet effet par le conseil régional ;
 
 5° Le produit de la contribution au développement de l'apprentissage prévue à
-l'article 1599 quinquies A du code général des impôts.
+l'article 1599 quinquies A du code général des impôts ;
+
+6° Le montant des ressources fiscales attribuées aux régions mentionnées aux
+articles 41 et 140 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour
+2014.
 
 Chaque région, ainsi que la collectivité territoriale de Corse et la
 collectivité départementale de Mayotte, reçoit une part du produit de cette

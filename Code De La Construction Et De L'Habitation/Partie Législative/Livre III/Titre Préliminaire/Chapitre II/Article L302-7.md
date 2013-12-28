@@ -18,19 +18,22 @@ compte administratif afférent au pénultième exercice.
 
 Le prélèvement n'est pas effectué s'il est inférieur à la somme de 4 000 €.
 
-Le prélèvement est diminué du montant des dépenses exposées par la commune,
-pendant le pénultième exercice, au titre des subventions foncières mentionnées à
-l'article L. 2254-1 du code général des collectivités territoriales, des travaux
-de viabilisation, de dépollution ou de fouilles archéologiques des terrains ou
-des biens immobiliers mis ensuite à disposition pour la réalisation de logements
-sociaux, des moins-values correspondant à la différence entre le prix de cession
-de terrains ou de biens immobiliers donnant lieu à la réalisation effective de
-logements sociaux et leur valeur vénale estimée par le service des domaines et
-de la création d'emplacements d'aire permanente d'accueil des gens du voyage,
-aménagée en application de la loi n° 2000-614 du 5 juillet 2000 relative à
-l'accueil et à l'habitat des gens du voyage. Dans le cas de mise à disposition
-par bail emphytéotique, bail à construction ou bail à réhabilitation de terrains
-ou d'immeubles à un maître d'ouvrage pour la réalisation de logements locatifs
+Le prélèvement est diminué du montant des dépenses exposées par la commune, et
+le cas échéant, uniquement pour l'année 2012, de celles exposées sur le
+territoire de cette commune par l'établissement public de coopération
+intercommunale auquel elle appartient, pendant le pénultième exercice, au titre
+des subventions foncières mentionnées à l'article L. 2254-1 du code général des
+collectivités territoriales, des travaux de viabilisation, de dépollution ou de
+fouilles archéologiques des terrains ou des biens immobiliers mis ensuite à
+disposition pour la réalisation de logements sociaux, des moins-values
+correspondant à la différence entre le prix de cession de terrains ou de biens
+immobiliers donnant lieu à la réalisation effective de logements sociaux et leur
+valeur vénale estimée par le service des domaines et de la création
+d'emplacements d'aire permanente d'accueil des gens du voyage, aménagée en
+application de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à
+l'habitat des gens du voyage. Dans le cas de mise à disposition par bail
+emphytéotique, bail à construction ou bail à réhabilitation de terrains ou
+d'immeubles à un maître d'ouvrage pour la réalisation de logements locatifs
 sociaux, le montant éventuellement pris en compte est égal à la différence entre
 les montants capitalisés du loyer pratiqué pour le terrain ou l'immeuble donné à
 bail et ceux du loyer estimé par le service des domaines.

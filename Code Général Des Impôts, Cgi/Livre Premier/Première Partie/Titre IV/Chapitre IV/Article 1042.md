@@ -21,3 +21,13 @@ général des collectivités territoriales ne donnent lieu à aucune perception 
 profit du Trésor, sous réserve que la décision de l'assemblée délibérante
 compétente pour décider de l'opération fasse référence à la disposition
 législative en cause et soit annexée à l'acte.
+
+III.-Sous réserve du I de l'article 257, les acquisitions faites, à l'amiable et
+à titre onéreux, des immeubles domaniaux reconnus inutiles par le ministre de la
+défense et ayant bénéficié du dispositif prévu à l'article 67 de la loi n°
+2008-1425 du 27 décembre 2008 de finances pour 2009, par des sociétés publiques
+locales créées en application de l'article L. 1531-1 du code général des
+collectivités territoriales ou par des sociétés publiques locales d'aménagement
+créées en application de l'article L. 327-1 du code de l'urbanisme et qui
+agissent en tant que concessionnaire de l'opération d'aménagement ne donnent
+lieu à aucune perception au profit du Trésor public.

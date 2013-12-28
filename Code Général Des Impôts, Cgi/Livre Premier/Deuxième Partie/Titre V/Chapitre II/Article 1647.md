@@ -36,8 +36,8 @@ d'enregistrement perçus au profit des départements en application de l'article
 b. 2,14 % en sus du montant de la taxe de publicité foncière ou des droits
 d'enregistrement perçus au profit des départements au taux de 0,70 % ;
 
-c. 2 % sur le montant de la contribution au développement de l'apprentissage
-mentionnée à l'article 1599 quinquies A.
+c. 1,25 % sur le montant du produit net de la taxe d'apprentissage mentionnée à
+l'article 1599 ter A.
 
 VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1 % sur le montant de la taxe mentionnée à l'article 302 bis ZB.
@@ -76,11 +76,12 @@ dans les conditions prévues par le VIII de l'article L. 612-20 du code monétai
 et financier.
 
 XVII.-Pour frais d'assiette et de recouvrement, l'Etat prélève 0,5 % des sommes
-recouvrées au titre de la majoration au profit du fonds de solidarité pour le
-développement de la taxe de l'aviation civile prévue au VI de l'article 302 bis
-K, ainsi que sur le montant de la taxe d'aéroport et de sa majoration
-mentionnées à l'article 1609 quatervicies et sur le montant de la taxe sur les
-nuisances sonores aériennes mentionnée à l'article 1609 quatervicies A.
+recouvrées au titre de la contribution additionnelle, dénommée taxe de
+solidarité sur les billets d'avion, au profit du fonds de solidarité pour le
+développement prévue au VI de l'article 302 bis K, ainsi que sur le montant de
+la taxe d'aéroport et de sa majoration mentionnées à l'article 1609 quatervicies
+et sur le montant de la taxe sur les nuisances sonores aériennes mentionnée à
+l'article 1609 quatervicies A.
 
 Les sommes prélevées en application du premier alinéa du présent XVII par les
 agents comptables du budget annexe " Contrôle et exploitation aériens "
