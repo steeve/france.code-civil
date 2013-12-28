@@ -1,20 +1,19 @@
 Article 50-0
 ----
-1. Les entreprises dont le chiffre d'affaires annuel, ajusté s'il y a lieu au
-prorata du temps d'exploitation au cours de l'année civile, n'excède pas 82 200
-€ hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre
-des marchandises, objets, fournitures et denrées à emporter ou à consommer sur
-place, ou de fournir le logement, à l'exclusion de la location directe ou
-indirecte de locaux d'habitation meublés ou destinés à être loués meublés,
-autres que ceux mentionnés aux 1° à 3° du III de l'article 1407, ou 32 900 €
-hors taxes s'il s'agit d'autres entreprises, sont soumises au régime défini au
-présent article pour l'imposition de leurs bénéfices.
+1. Sont soumises au régime défini au présent article pour l'imposition de leurs
+bénéfices les entreprises dont le chiffre d'affaires hors taxes, ajusté s'il y a
+lieu au prorata du temps d'exploitation au cours de l'année de référence,
+respecte les limites mentionnées au 1° du I de l'article 293 B, s'il s'agit
+d'entreprises relevant de la première catégorie définie au dernier alinéa du
+présent 1, ou les limites mentionnées au 2° du même I, s'il s'agit d'entreprises
+relevant de la deuxième catégorie.
 
 Lorsque l'activité d'une entreprise se rattache aux deux catégories définies au
-premier alinéa, le régime défini au présent article n'est applicable que si son
-chiffre d'affaires hors taxes global annuel n'excède pas 82 200 € et si le
-chiffre d'affaires hors taxes annuel afférent aux activités de la 2e catégorie
-ne dépasse pas 32 900 €.
+dernier alinéa, le régime défini au présent article n'est applicable que si son
+chiffre d'affaires hors taxes global respecte les limites mentionnées au 1° du I
+dudit article 293 B et si le chiffre d'affaires hors taxes afférent aux
+activités de la 2e catégorie respecte les limites mentionnées au 2° du I du même
+article 293 B.
 
 Le résultat imposable, avant prise en compte des plus ou moins-values provenant
 de la cession des biens affectés à l'exploitation, est égal au montant du
@@ -27,31 +26,32 @@ Les plus ou moins-values mentionnées au troisième alinéa sont déterminées e
 imposées dans les conditions prévues aux articles 39 duodecies à 39 quindecies,
 sous réserve des dispositions de l'article 151 septies. Pour l'application de la
 phrase précédente, les abattements mentionnés au troisième alinéa sont réputés
-tenir compte des amortissements pratiqués selon le mode linéaire.
-
-Sous réserve des dispositions du b du 2, ce régime demeure applicable pour
-l'établissement de l'imposition due au titre des deux premières années au cours
-desquelles les chiffres d'affaires mentionnés aux premier et deuxième alinéas
-sont dépassés.
-
-Les dispositions du cinquième alinéa ne sont pas applicables en cas de
-changement d'activité.
-
-Les seuils mentionnés aux deux premiers alinéas sont actualisés chaque année
-dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu et arrondis à la centaine d'euros la plus
-proche.
-
-2. Sont exclus de ce régime :
-
-a. Les contribuables qui exploitent plusieurs entreprises dont le total des
-chiffres d'affaires excède les limites mentionnées au premier alinéa du 1,
-appréciées, s'il y a lieu, dans les conditions prévues au deuxième alinéa de ce
-même 1 ;
+tenir compte des amortissements pratiqués selon le mode linéaire. Le régime
+défini au présent article continue de s'appliquer jusqu'au 31 décembre de
+l'année au cours de laquelle le chiffre d'affaires hors taxes dépasse le montant
+mentionné au b du 1° du I de l'article 293 B, s'il s'agit d'entreprises relevant
+de la première catégorie définie au dernier alinéa du présent 1, ou le montant
+mentionné au b du 2° du même I, s'il s'agit d'entreprises relevant de la
+deuxième catégorie. Lorsque l'activité des entreprises se rattache aux deux
+catégories, ce régime continue de s'appliquer jusqu'au 31 décembre de l'année au
+cours de laquelle le chiffre d'affaires hors taxes global dépasse le montant
+mentionné au b du 1° dudit I ou le chiffre d'affaires hors taxes afférent aux
+activités de la deuxième catégorie dépasse le montant mentionné au b du 2° du
+même I. Pour l'application du présent 1, les entreprises relevant de la première
+catégorie sont celles dont le commerce principal est de vendre des marchandises,
+objets, fournitures et denrées à emporter ou à consommer sur place, ou de
+fournir le logement, à l'exclusion de la location, directe ou indirecte, de
+locaux d'habitation meublés ou destinés à être loués meublés, autres que ceux
+mentionnés aux 1° à 3° du III de l'article 1407. Les entreprises relevant de la
+deuxième catégorie sont celles qui ne relèvent pas de la première catégorie. 2.
+Sont exclus de ce régime : a. Les contribuables qui exploitent plusieurs
+entreprises dont le total des chiffres d'affaires excède les limites mentionnées
+au premier alinéa du 1, appréciées, s'il y a lieu, dans les conditions prévues
+au deuxième alinéa de ce même 1 ;
 
 b. Les contribuables qui ne bénéficient pas des dispositions du I (1) de
 l'article 293 B. Cette exclusion prend effet à compter du 1er janvier de l'année
-de leur assujettissement à la taxe sur la valeur ajoutée ;
+qui suit celle de leur assujettissement à la taxe sur la valeur ajoutée ;
 
 c. Les sociétés ou organismes dont les résultats sont imposés selon le régime
 des sociétés de personnes défini à l'article 8 ;

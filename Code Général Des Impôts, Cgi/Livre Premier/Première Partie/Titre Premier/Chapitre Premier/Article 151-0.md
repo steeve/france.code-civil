@@ -13,21 +13,21 @@ sur le revenu de l'année précédant celle au titre de laquelle l'option est
 exercée. Cette limite est majorée respectivement de 50 % ou 25 % par demi-part
 ou quart de part supplémentaire ;
 
-3° L'option pour le régime prévu à l'article L. 133-6-8 du code de la sécurité
-sociale a été exercée.
+3° Ils sont soumis au régime prévu à l'article L. 133-6-8 du code de la sécurité
+sociale.
 
 II.-Les versements sont liquidés par application, au montant du chiffre
 d'affaires ou des recettes hors taxes de la période considérée, des taux
 suivants :
 
-1° 1 % pour les entreprises concernées par le premier seuil prévu au premier
-alinéa du 1 de l'article 50-0 ;
+1° 1 % pour les contribuables soumis au régime défini à l'article 50-0 et
+concernés par les limites mentionnées au 1° du I de l'article 293 B ;
 
-2° 1,7 % pour les entreprises concernées par le second seuil prévu au premier
-alinéa du 1 de l'article 50-0 ;
+2° 1,7 % pour les contribuables soumis au régime défini à l'article 50-0 et
+concernés par les limites mentionnées au 2° du I du même article 293 B ;
 
-3° 2,2 % pour les contribuables concernés par le seuil prévu au 1 de l'article
-102 ter.
+3° 2,2 % pour les contribuables soumis au régime défini à l'article 102 ter et
+concernés par les limites mentionnées au 2° du I dudit article 293 B.
 
 III.-Les versements libèrent de l'impôt sur le revenu établi sur la base du
 chiffre d'affaires ou des recettes annuels, au titre de l'année de réalisation
@@ -37,11 +37,11 @@ imposables dans les conditions visées au quatrième alinéa du 1 de l'article 5
 et au deuxième alinéa du 1 de l'article 102 ter.
 
 IV.-L'option prévue au premier alinéa du I est adressée à l'organisme mentionné
-au deuxième alinéa de l'article L. 133-6-8 du code de la sécurité sociale au
-plus tard le 31 décembre de l'année précédant celle au titre de laquelle elle
-est exercée et, en cas de création d'activité, au plus tard le dernier jour du
-troisième mois qui suit celui de la création. L'option s'applique tant qu'elle
-n'a pas été expressément dénoncée dans les mêmes conditions.
+à l'article L. 611-8 du code de la sécurité sociale au plus tard le 31 décembre
+de l'année précédant celle au titre de laquelle elle est exercée et, en cas de
+création d'activité, au plus tard le dernier jour du troisième mois qui suit
+celui de la création. L'option s'applique tant qu'elle n'a pas été expressément
+dénoncée dans les mêmes conditions.
 
 Elle cesse toutefois de s'appliquer dans les cas suivants :
 
@@ -54,10 +54,9 @@ l'excédent est restitué ;
 
 2° Au titre de la deuxième année civile suivant celle au cours de laquelle le
 montant des revenus du foyer fiscal du contribuable, tel que défini au IV de
-l'article 1417, excède le seuil défini au 2° du I ;
+l'article 1417, excède le seuil défini au 2° du I.
 
-3° Au titre de l'année civile à raison de laquelle le régime prévu à l'article
-L. 133-6-8 du code de la sécurité sociale ne s'applique plus.
+3° (Abrogé).
 
 V.-Les versements mentionnés au I sont effectués suivant la périodicité, selon
 les règles et sous les garanties et sanctions applicables au recouvrement des

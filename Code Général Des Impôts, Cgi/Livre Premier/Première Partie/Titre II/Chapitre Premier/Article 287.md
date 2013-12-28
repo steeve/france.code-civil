@@ -17,15 +17,14 @@ Lorsque la taxe exigible annuellement est inférieure à 4 000 €, ils sont adm
 déposer leurs déclarations par trimestre civil.
 
 3. Les redevables placés sous le régime simplifié d'imposition prévu à l'article
-302 septies A déposent au titre de chaque exercice une déclaration qui détermine
-la taxe due au titre de la période et le montant des acomptes trimestriels pour
-la période ultérieure.
+302 septies A , à l'exception de ceux mentionnés au 3 bis, déposent au titre de
+chaque exercice une déclaration qui détermine la taxe due au titre de la période
+et le montant des acomptes semestriels pour la période ultérieure.
 
-Des acomptes trimestriels sont versés en avril, juillet, octobre et décembre.
-Ils sont égaux au quart de la taxe due au titre de l'exercice précédent avant
-déduction de la taxe sur la valeur ajoutée relative aux biens constituant des
-immobilisations, à l'exception de l'acompte dû en décembre qui est égal au
-cinquième de cette taxe. Le complément d'impôt éventuellement exigible est versé
+Des acomptes semestriels sont versés en juillet et en décembre. Ils sont égaux,
+respectivement, à 55 % et 40 % de la taxe due au titre de l'exercice précédent
+avant déduction de la taxe sur la valeur ajoutée relative aux biens constituant
+des immobilisations. Le complément d'impôt éventuellement exigible est versé
 lors du dépôt de la déclaration annuelle mentionnée au premier alinéa.
 
 S'il estime que le montant des acomptes déjà versés au titre de l'exercice est
@@ -35,13 +34,13 @@ recouvrement de ladite taxe, avant la date d'exigibilité du prochain versement 
 effectuer, une déclaration datée et signée.
 
 S'il estime que la taxe due à raison des opérations réalisées au cours d'un
-trimestre, après imputation de la taxe sur la valeur ajoutée relative aux biens
+semestre, après imputation de la taxe sur la valeur ajoutée relative aux biens
 constituant des immobilisations, est inférieure d'au moins 10 % au montant de
 l'acompte correspondant, calculé selon les modalités prévues au deuxième alinéa,
 le redevable peut diminuer à due concurrence le montant de cet acompte, en
 remettant au comptable chargé du recouvrement, au plus tard à la date
 d'exigibilité de l'acompte, une déclaration datée et signée. Si ces opérations
-ont été réalisées au cours d'une période inférieure à trois mois, la modulation
+ont été réalisées au cours d'une période inférieure à six mois, la modulation
 n'est admise que si la taxe réellement due est inférieure d'au moins 10 % à
 l'acompte réduit au prorata du temps.
 
@@ -55,13 +54,17 @@ Dans ce cas, le montant total de l'impôt exigible est acquitté lors du dépôt
 la déclaration annuelle mentionnée au premier alinéa.
 
 Les nouveaux redevables sont autorisés, lors de leur première année
-d'imposition, à acquitter la taxe sur la valeur ajoutée par acomptes
-trimestriels dont ils déterminent eux-mêmes le montant mais dont chacun doit
-représenter au moins 80 % de l'impôt réellement dû pour le trimestre
-correspondant.
+d'imposition, à acquitter la taxe sur la valeur ajoutée par acomptes semestriels
+dont ils déterminent eux-mêmes le montant mais dont chacun doit représenter au
+moins 80 % de l'impôt réellement dû pour le semestre correspondant.
 
 Les conditions d'application du présent 3, notamment les modalités de versement
 et de remboursement des acomptes, sont fixées par décret en Conseil d'Etat.
+
+3 bis. Les redevables dont le chiffre d'affaires est inférieur aux limites
+fixées à l'article 302 septies A et dont le montant de la taxe exigible au titre
+de l'année précédente est supérieur à 15 000 € déposent mensuellement la
+déclaration mentionnée au 1 du présent article.
 
 4. En cas de cession ou de cessation d'une activité professionnelle, les
 redevables sont tenus de souscrire dans les trente jours la déclaration prévue

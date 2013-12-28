@@ -18,9 +18,8 @@ effectué par télérèglement.
 
 4. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement.
 
-5. Les entreprises soumises à l'impôt sur les sociétés, qu'elles en soient
-redevables ou non, acquittent la taxe sur les salaires mentionnée à l'article
-231 par télérèglement.
+5. Les paiements de la taxe sur les salaires mentionnée à l'article 231 sont
+effectués par télérèglement.
 
 6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent
 également être effectués par télérèglement.

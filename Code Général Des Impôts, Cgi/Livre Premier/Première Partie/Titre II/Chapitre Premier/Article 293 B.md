@@ -1,6 +1,6 @@
 Article 293 B
 ----
-I.-Pour leurs livraisons de biens et leurs prestations de services, les
+I. - Pour leurs livraisons de biens et leurs prestations de services, les
 assujettis établis en France, à l'exclusion des redevables qui exercent une
 activité occulte au sens du troisième alinéa de l'article L. 169 du livre des
 procédures fiscales, bénéficient d'une franchise qui les dispense du paiement de
@@ -21,7 +21,7 @@ a) 32 900 € l'année civile précédente ;
 b) Ou 34 900 € l'année civile précédente, lorsque la pénultième année il n'a pas
 excédé le montant mentionné au a.
 
-II.-1. Le I cesse de s'appliquer :
+II. - 1. Le I cesse de s'appliquer :
 
 a) Aux assujettis dont le chiffre d'affaires de l'année en cours dépasse le
 montant mentionné au b du 1° du I ;
@@ -35,8 +35,8 @@ ajoutée pour les prestations de services et les livraisons de biens effectuées
 compter du premier jour du mois au cours duquel ces chiffres d'affaires sont
 dépassés.
 
-III.-Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42 600
-€ :
+III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42
+600 € :
 
 1. Pour les opérations réalisées par les avocats et les avocats au Conseil
 d'Etat et à la Cour de cassation, dans le cadre de l'activité définie par la
@@ -51,7 +51,7 @@ l'esprit, à l'exception des architectes ;
 artistes-interprètes visés à l'article L. 212-1 du code de la propriété
 intellectuelle.
 
-IV.-Pour leurs livraisons de biens et leurs prestations de services qui n'ont
+IV. - Pour leurs livraisons de biens et leurs prestations de services qui n'ont
 pas bénéficié de l'application de la franchise prévue au III, ces assujettis
 bénéficient également d'une franchise lorsque le chiffre d'affaires
 correspondant réalisé au cours de l'année civile précédente n'excède pas 17 500
@@ -61,12 +61,13 @@ Cette disposition ne peut pas avoir pour effet d'augmenter le chiffre d'affaires
 limite de la franchise afférente aux opérations mentionnées au 1, au 2 ou au 3
 du III.
 
-V.-Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont
+V. - Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont
 le chiffre d'affaires de l'année en cours dépasse respectivement 52 400 € et 21
 100 €. Ils deviennent redevables de la taxe sur la valeur ajoutée pour les
 prestations de services et pour les livraisons de biens effectuées à compter du
 premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
-VI.-Les seuils mentionnés aux I à V sont actualisés chaque année dans la même
-proportion que la limite supérieure de la première tranche du barème de l'impôt
-sur le revenu et arrondis à la centaine d'euros la plus proche.
+VI. - Les seuils mentionnés aux I à V sont actualisés tous les trois ans dans la
+même proportion que l'évolution triennale de la limite supérieure de la première
+tranche du barème de l'impôt sur le revenu et arrondis à la centaine d'euros la
+plus proche.

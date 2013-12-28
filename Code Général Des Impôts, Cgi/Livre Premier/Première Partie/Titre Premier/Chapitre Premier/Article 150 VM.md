@@ -17,7 +17,7 @@ régime dont il relève, sa déclaration soit en même temps que celle prévue �
 l'article 287 et relative à la période d'imposition au cours de laquelle
 l'exigibilité de la taxe forfaitaire prévue à l'article 150 VI est intervenue,
 soit au plus tard à la date de paiement de l'acompte, prévu au 3 de l'article
-287, afférent au trimestre au cours duquel l'exigibilité de la taxe forfaitaire
+287, afférent au semestre au cours duquel l'exigibilité de la taxe forfaitaire
 est intervenue ;
 
 2° Pour les exportations ou pour les cessions dans un pays tiers de biens

@@ -3,25 +3,28 @@ Article 302 septies A
 I. Il est institué par décret en Conseil d'Etat un régime simplifié de
 liquidation des taxes sur le chiffre d'affaires dues par les personnes dont le
 chiffre d'affaires, ajusté s'il y a lieu au prorata du temps d'exploitation au
-cours de l'année civile, n'excède pas 783 000 €, s'il s'agit d'entreprises dont
-le commerce principal est de vendre des marchandises, objets, fournitures et
-denrées à emporter ou à consommer sur place ou de fournir le logement, ou 236
-000 €, s'il s'agit d'autres entreprises. Ces limites s'apprécient en faisant
-abstraction de la taxe sur la valeur ajoutée et des taxes assimilées.
+titre de l'année civile précédente, n'excède pas 783 000 €, s'il s'agit
+d'entreprises dont le commerce principal est de vendre des marchandises, objets,
+fournitures et denrées à emporter ou à consommer sur place ou de fournir le
+logement, ou 236 000 €, s'il s'agit d'autres entreprises. Ces limites
+s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des
+taxes assimilées.
 
 II. Le régime simplifié prévu au I demeure applicable pour l'établissement de
-l'imposition due au titre de la première année au cours de laquelle les chiffres
-d'affaires limites prévus pour ce régime sont dépassés. Cette imposition est
-établie compte tenu de ces dépassements.
+l'imposition due au titre de la première année suivant celle au cours de
+laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés.
+Cette imposition est établie compte tenu de ces dépassements.
 
-Ces dispositions ne sont pas applicables si le chiffre d'affaires excède 863 000
-€ s'il s'agit d'entreprises dont le commerce principal est de vendre des
-marchandises, objets, fournitures et denrées à emporter ou à consommer sur place
-ou de fournir le logement, et 267 000 € s'il s'agit d'autres entreprises.
+Ces dispositions ne sont pas applicables si le chiffre d'affaires de l'année en
+cours excède 863 000 € s'il s'agit d'entreprises dont le commerce principal est
+de vendre des marchandises, objets, fournitures et denrées à emporter ou à
+consommer sur place ou de fournir le logement, et 267 000 € s'il s'agit d'autres
+entreprises.
 
-II bis. - Les seuils mentionnés aux I et II sont actualisés chaque année dans la
-même proportion que la limite supérieure de la première tranche du barème de
-l'impôt sur le revenu et arrondis au millier d'euros le plus proche.
+II bis. - Les seuils mentionnés aux I et II sont actualisés tous les trois ans
+dans la même proportion que l'évolution triennale de la limite supérieure de la
+première tranche du barème de l'impôt sur le revenu et arrondis au millier
+d'euros le plus proche.
 
 III. La régularisation de la taxe sur la valeur ajoutée due au titre d'un
 exercice doit intervenir dans les trois mois qui suivent la clôture de cet

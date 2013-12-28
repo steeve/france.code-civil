@@ -35,7 +35,11 @@ quatre mois à compter de la date du début de l'activité. Toutefois, lorsque l
 durée du premier exercice est inférieure à quatre mois, l'option doit être
 exercée au plus tard à la date de clôture de cet exercice.
 
-V. Pour l'application des dispositions du présent article et des II et IV de
+V. Les recettes à retenir pour l'appréciation des limites prévues au b du II
+correspondent aux créances acquises déterminées dans les conditions prévues au 2
+bis de l'article 38.
+
+Pour l'application des dispositions du présent article et des II et IV de
 l'article 151 septies, les recettes provenant d'opérations d'élevage ou de
 culture portant sur des animaux ou des produits appartenant à des tiers sont
 multipliées par cinq.
