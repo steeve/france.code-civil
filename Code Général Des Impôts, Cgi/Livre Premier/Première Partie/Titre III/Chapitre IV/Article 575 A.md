@@ -55,8 +55,8 @@ Tabacs à mâcher
 
 0
 
-Le minimum de perception mentionné à l'article 575 est fixé à 195 € pour mille
-cigarettes et à 90 € pour mille cigares ou cigarillos.
+Le minimum de perception mentionné à l'article 575 est fixé à 210 € pour mille
+cigarettes et à 92 € pour mille cigares ou cigarillos.
 
-Il est fixé par kilogramme à 125 € pour les tabacs fine coupe destinés à rouler
+Il est fixé par kilogramme à 143 € pour les tabacs fine coupe destinés à rouler
 les cigarettes et à 70 € pour les autres tabacs à fumer.
