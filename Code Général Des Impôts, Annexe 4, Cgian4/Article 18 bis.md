@@ -33,17 +33,6 @@ supérieure ou égale à 6 m2.K/W ;
 
 2° Matériaux d'isolation thermique des parois vitrées :
 
-jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres composées en tout ou
-partie de polychlorure de vinyle (PVC), avec un coefficient de transmission
-thermique (Uw) inférieur ou égal à 1,4 watt par mètre carré Kelvin (W/m2.K) ;
-
-jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres composées en tout ou
-partie de bois, autres que celles mentionnées ci-dessus, avec un coefficient de
-transmission thermique (Uw) inférieur ou égal à 1,6 W/m2.K ;
-
-jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres métalliques avec un
-coefficient de transmission thermique (Uw) inférieur ou égal à 1,8 W/m2.K ;
-
 Fenêtres ou porte-fenêtres avec un coefficient de transmission thermique (Uw)
 inférieur ou égal à 1,3 watt par mètre carré Kelvin (W/m2.K) et un facteur de
 transmission solaire (Sw) supérieur ou égal à 0,3 ou un coefficient de
@@ -60,8 +49,8 @@ de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,1 W/m2.K 
 
 Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde
 fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique
-(Uw) est inférieur ou égal à 1,8 W/m2.K et, à partir du 1er janvier 2013, le
-facteur de transmission solaire (Sw) supérieur ou égal à 0,32 ;
+(Uw) est inférieur ou égal à 1,8 W/m2.K et le facteur de transmission solaire
+(Sw) supérieur ou égal à 0,32 ;
 
 3° Volets isolants : volets isolants caractérisés par une résistance thermique
 additionnelle apportée par l'ensemble volet-lame d'air ventilé supérieure à 0,22
@@ -97,7 +86,7 @@ sanitaire dans le cas de production combinée d'eau chaude sanitaire et d'eau
 destinée au chauffage, compteurs individuels d'énergie thermique et répartiteurs
 de frais de chauffage ;
 
-3. Intégration à un logement neuf ou acquisition :
+3. Acquisition :
 
 a) Equipements de production d'énergie utilisant une source d'énergie
 renouvelable :
@@ -108,9 +97,7 @@ CSTBat ou Solar Keymark ou équivalente, dans la limite d'un plafond de dépense
 fixé à 1 000 €, toutes taxes comprises, par mètre carré hors tout de capteurs
 solaires;
 
-2° Systèmes de fourniture d'électricité à partir de l'énergie solaire respectant
-les normes EN 61215 ou NF EN 61646, dans la limite d'un plafond de dépenses fixé
-à 3 200 €, toutes taxes comprises, par kilowatt-crête de puissance installée ;
+2° (abrogé)
 
 3° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant
 à l'énergie hydraulique ;
@@ -146,12 +133,10 @@ b. Pour les foyers fermés et les inserts de cheminées intérieures : norme NF 
 
 c. Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815.
 
-6° Chaudières autres que celles mentionnées au 1 et au a du 2, fonctionnant au
-bois ou autres biomasses, de rendement énergétique, selon les référentiels des
-normes en vigueur, supérieur ou égal à 80 % pour les équipements à chargement
-manuel (norme NF EN 303. 5 ou EN 12809), supérieur ou égal à 85 % pour les
-équipements à chargement automatique (norme NF EN 303. 5 ou EN 12809), dont la
-puissance est inférieure à 300 kW ;
+6° Chaudières autres que celles mentionnées au a du 2, fonctionnant au bois ou
+autres biomasses, respectant les seuils de rendement énergétique et d'émissions
+de polluants de la classe 5 de la norme NF EN 303.5, dont la puissance est
+inférieure à 300 kW ;
 
 b) De pompes à chaleur spécifiques, sous réserve qu'elles respectent une
 intensité maximale au démarrage de 45 A en monophasé ou de 60 A en triphasé,
@@ -199,14 +184,14 @@ de référence
 
 Air ambiant
 
-2,3
+2,4
 
 + 52,5°
 
 
 Air extérieur
 
-2,3
+2,4
 
 + 52,5°
 
@@ -237,64 +222,6 @@ chaleur et l'immeuble ;
 Matériels nécessaires à l'équilibrage et à la mesure de la chaleur qui visent à
 opérer une répartition correcte de celle-ci. Ces matériels peuvent être
 installés, selon le cas, avec le poste de livraison, dans les parties communes
-de l'immeuble collectif ou dans le logement.
+de l'immeuble collectif ou dans le logement ;
 
-d) D'équipements de récupération des eaux de pluie collectées à l'aval de
-toitures inaccessibles constitués :
-
-1° De l'ensemble des éléments suivants :
-
--d'une crapaudine, installée en haut de chaque descente de gouttière acheminant
-l'eau vers le stockage ;
-
--soit d'un système de dérivation des eaux de pluie vers le stockage installé sur
-une descente de gouttières (en cas de descente unique), soit d'un regard
-rassemblant l'intégralité des eaux récupérées ;
-
--d'un dispositif de filtration par dégrillage, démontable pour nettoyage, de
-maille inférieure à 5 mm, placé en amont du stockage ;
-
--d'un dispositif de stockage, à l'exclusion des systèmes réhabilités comprenant
-une ou plusieurs cuves reliées entre elles, répondant aux exigences minimales
-suivantes :
-
--étanche ;
-
--résistant à des variations de remplissage ;
-
--non translucide ;
-
--fermé, recouvert d'un couvercle solide et sécurisé ;
-
--comportant un dispositif d'aération muni d'une grille anti-moustiques, et
-
--équipé d'une arrivée d'eau noyée, d'un système de trop-plein muni d'un clapet
-anti-retour (sauf dans le cas où le trop-plein s'effectue par l'arrivée d'eau) ;
-
--vidangeable, nettoyable intégralement et permettant d'avoir un accès manuel à
-tout point de la paroi ;
-
--des conduites de liaison entre le système de dérivation et le stockage et entre
-le trop plein et le pied de la gouttière dérivée ;
-
--d'un robinet de soutirage verrouillable ;
-
--d'une plaque apparente et scellée à demeure, au-dessus du robinet de soutirage,
-portant d'une manière visible la mention : eau non potable et un pictogramme
-caractéristique.
-
-2° En cas d'usage des eaux de pluie ainsi collectées à l'intérieur des
-habitations, dans les conditions et limites définies par un arrêté conjoint des
-ministres en charge de l'écologie et de la santé, de l'ensemble des éléments
-complémentaires suivants :
-
--d'une pompe, immergée ou de surface, ou d'un surpresseur, d'une puissance
-inférieure à 1 kilowatt ;
-
--d'un réservoir d'appoint doté d'une disconnexion de type AA ou AB au sens de la
-norme NF EN 1717 ;
-
--d'un ensemble d'étiquetage / marquage des canalisations de distribution à
-l'exclusion des canalisations elles-mêmes ;
-
--de compteurs.
+d) (Abrogé).
