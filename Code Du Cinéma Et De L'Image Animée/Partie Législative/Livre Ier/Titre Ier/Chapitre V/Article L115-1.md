@@ -3,9 +3,9 @@ Article L115-1
 Est affecté au Centre national du cinéma et de l'image animée le produit d'une
 taxe assise sur le prix des entrées aux séances organisées par les exploitants
 d'établissements de spectacles cinématographiques situés en France
-métropolitaine, quels que soient le procédé de fixation ou de transmission et la
-nature du support des œuvres ou documents cinématographiques ou audiovisuels qui
-y sont représentés.
+métropolitaine ou dans les départements d'outre-mer, quels que soient le procédé
+de fixation ou de transmission et la nature du support des œuvres ou documents
+cinématographiques ou audiovisuels qui y sont représentés.
 
 Les exploitants et les représentations concernés sont ceux soumis au présent
 code.

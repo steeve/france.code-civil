@@ -1,9 +1,9 @@
 Article L2334-41
 ----
 Les communes des départements d'outre-mer perçoivent une quote-part de la
-dotation de développement urbain prévue à l'article L. 2334-40. Cette quote-part
-est calculée en appliquant aux trois quarts du montant total de la dotation de
-développement urbain le rapport, majoré de 33 %, existant, d'après le dernier
+dotation politique de la ville prévue à l'article L. 2334-40. Cette quote-part
+est calculée en appliquant aux trois quarts du montant total de la dotation
+politique de la ville le rapport, majoré de 33 %, existant, d'après le dernier
 recensement, entre la population totale des communes des départements
 d'outre-mer et la population totale des communes des départements de métropole
 et d'outre-mer.

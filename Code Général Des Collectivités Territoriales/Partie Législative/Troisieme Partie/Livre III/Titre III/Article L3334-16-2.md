@@ -4,7 +4,7 @@ Il est institué un fonds de mobilisation départementale pour l'insertion sous 
 forme d'un prélèvement sur les recettes de l'Etat et dont bénéficient les
 départements, à l'exception du Département de Mayotte, et les collectivités de
 Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon. Il est doté de
-2006 à 2015 de 500 millions d'euros par an.
+2006 à 2017 de 500 millions d'euros par an.
 
 I.-Ce fonds est constitué de trois parts :
 
@@ -92,7 +92,8 @@ rapport entre la moyenne du nombre total des contrats d'insertion par l'activit�
 mentionnés à l'article L. 522-8 du code de l'action sociale et des familles, des
 contrats d'accompagnement dans l'emploi mentionnés à l'article L. 5134-20 du
 code du travail, des contrats d'accès à l'emploi mentionnés à l'article L.
-5522-5 du même code et des emplois d'avenir mentionnés à l'article L. 5134-112
+5522-5 du même code, des contrats à durée déterminée mentionnés à l'article L.
+5132-15-1 dudit code et des emplois d'avenir mentionnés à l'article L. 5134-112
 dudit code conclus en faveur de bénéficiaires dont les ressources sont
 inférieures au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code
 de l'action sociale et des familles applicable au foyer, constaté dans chaque
@@ -104,9 +105,10 @@ chargé du travail.
 
 Le solde de la troisième part est réparti entre les départements de métropole
 proportionnellement au rapport entre la moyenne du nombre des contrats
-d'accompagnement dans l'emploi mentionnés à l' article L. 5134-20 du code du
+d'accompagnement dans l'emploi mentionnés à l'article L. 5134-20 du code du
 travail, des contrats initiative-emploi mentionnés à l'article L. 5134-65 du
-même code et des emplois d'avenir mentionnés à l'article L. 5134-112 dudit code
+même code, des contrats à durée déterminée mentionnés à l'article L. 5132-15-1
+dudit code et des emplois d'avenir mentionnés à l'article L. 5134-112 dudit code
 conclus en faveur de bénéficiaires dont les ressources sont inférieures au
 montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
 sociale et des familles applicable au foyer, constaté par le ministre chargé du

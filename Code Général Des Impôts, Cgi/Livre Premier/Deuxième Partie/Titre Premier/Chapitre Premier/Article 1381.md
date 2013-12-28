@@ -17,10 +17,11 @@ commerce ou l'industrie, même s'ils sont seulement retenus par des amarres ;
 indispensable et immédiate de ces constructions à l'exception des terrains
 occupés par les serres affectées à une exploitation agricole ;
 
-5° Les terrains non cultivés employés à un usage commercial ou industriel, tels
-que chantiers, lieux de dépôt de marchandises et autres emplacements de même
-nature, soit que le propriétaire les occupe, soit qu'il les fasse occuper par
-d'autres à titre gratuit ou onéreux ;
+5° A l'exception de ceux mentionnés au dernier alinéa de l'article 1393, les
+terrains non cultivés employés à un usage commercial ou industriel, tels que
+chantiers, lieux de dépôt de marchandises et autres emplacements de même nature,
+soit que le propriétaire les occupe, soit qu'il les fasse occuper par d'autres à
+titre gratuit ou onéreux ;
 
 6° Les terrains sur lesquels sont édifiées des installations exonérées en
 application du 11° de l'article 1382 ;
