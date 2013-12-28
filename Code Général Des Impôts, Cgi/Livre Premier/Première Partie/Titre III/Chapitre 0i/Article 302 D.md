@@ -69,13 +69,13 @@ figurer dans celle-ci ;
 
 3° (abrogé)
 
-4° Sans que cela fasse obstacle aux dispositions du 9° de l'article 458 et des
-articles 575 G et 575 H, lors de la constatation de la détention, en France,
-d'alcools, de boissons alcooliques et de tabacs manufacturés à des fins
-commerciales pour lesquels le détenteur ne peut prouver, par la production d'un
-document d'accompagnement, d'une facture ou d'un ticket de caisse, selon le cas,
-qu'ils circulent en régime suspensif de l'impôt ou que l'impôt a été acquitté en
-France ou y a été garanti conformément aux articles 302 U bis ou 302 V bis.
+4° Sans que cela fasse obstacle aux dispositions du 9° de l'article 458, lors de
+la constatation de la détention, en France, d'alcools, de boissons alcooliques
+et de tabacs manufacturés à des fins commerciales pour lesquels le détenteur ne
+peut prouver, par la production d'un document d'accompagnement, d'une facture ou
+d'un ticket de caisse, selon le cas, qu'ils circulent en régime suspensif de
+l'impôt ou que l'impôt a été acquitté en France ou y a été garanti conformément
+aux articles 302 U bis ou 302 V bis.
 
 Pour établir que ces produits sont détenus en France à des fins commerciales,
 l'administration tient compte des éléments suivants :

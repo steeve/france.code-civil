@@ -6,14 +6,18 @@ Les recettes du budget de la communauté de communes comprennent :
 l'article 1379-0 bis du code général des impôts, ainsi que celles mentionnées au
 V du même article.
 
-La communauté de communes peut en outre percevoir, au titre de la compétence
+La communauté de communes peut, en outre, percevoir, au titre de la compétence
 d'autorité organisatrice de la distribution publique d'électricité mentionnée à
 l'article L. 2224-31, sous réserve que cette compétence ne soit pas déjà exercée
 par une autorité mentionnée à l'article L. 5212-24, la taxe communale sur la
-consommation finale d'électricité prévue à l'article L. 2333-2 au lieu et place
-des communes membres dont la population est inférieure à 2 000 habitants. Dans
-ce cas, elle est recouvrée sans frais par le gestionnaire du réseau de
-distribution ou le fournisseur ;
+consommation finale d'électricité dans les conditions prévues aux articles L.
+2333-2 à L. 2333-5 en lieu et place de toutes ses communes membres. Dans ce cas,
+la taxe est recouvrée dans les conditions de droit commun. La communauté de
+communes peut reverser à une commune une fraction de la taxe perçue sur le
+territoire de celle-ci, par délibérations concordantes prises dans les
+conditions prévues au premier alinéa du I de l'article 1639 A bis du code
+général des impôts. Un tel reversement ne peut excéder 50 % du montant total
+perçu sur le territoire de la commune concernée ;
 
 2° Le revenu des biens, meubles ou immeubles, de la communauté de communes ;
 
@@ -31,4 +35,7 @@ assurés ;
 
 8° Le produit du versement destiné aux transports en commun prévu à l'article L.
 2333-64, lorsque la communauté est compétente pour l'organisation des transports
-urbains.
+urbains ;
+
+9° La dotation de compensation de la réforme de la taxe professionnelle et le
+reversement du Fonds national de garantie individuelle des ressources.

@@ -18,7 +18,7 @@ au III bis du même article 208 C ou d'une société agréée par l'Autorité de
 marchés financiers et ayant pour objet principal l'acquisition ou la
 construction d'immeubles en vue de la location, ou la détention directe ou
 indirecte de participations dans des personnes morales mentionnées à l'article 8
-et aux 1,2 et 3 de l'article 206 dont l'objet social est identique ;
+et aux 1, 2 et 3 de l'article 206 dont l'objet social est identique ;
 
 c) D'un organisme d'habitations à loyer modéré, d'une société d'économie mixte
 gérant des logements sociaux, de l'association mentionnée à l'article L. 313-34
@@ -36,6 +36,10 @@ d'activités libérales ou utilisés par des associations ou organismes privés
 poursuivant ou non un but lucratif. Les locaux à usage commercial s'entendent
 des locaux destinés à l'exercice d'une activité de commerce de détail ou de gros
 et de prestations de services à caractère commercial ou artisanal.
+
+Le présent I ne s'applique pas aux cessions réalisées entre un cédant et un
+cessionnaire qui ont entre eux des liens de dépendance, au sens du 12 de
+l'article 39.
 
 II.-L'application du I est subordonnée à la condition que la société
 cessionnaire s'engage à transformer le local acquis en local à usage

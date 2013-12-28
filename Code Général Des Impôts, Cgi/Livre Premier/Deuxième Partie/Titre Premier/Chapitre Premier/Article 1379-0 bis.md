@@ -1,6 +1,6 @@
 Article 1379-0 bis
 ----
-I. ― Perçoivent la cotisation foncière des entreprises, la cotisation sur la
+I. - Perçoivent la cotisation foncière des entreprises, la cotisation sur la
 valeur ajoutée des entreprises, les composantes de l'imposition forfaitaire sur
 les entreprises de réseaux, prévues aux articles 1519 D, 1519 E, 1519 F, 1519 G,
 1519 H et 1519 HA, la taxe foncière sur les propriétés bâties, la taxe foncière
@@ -26,7 +26,7 @@ pour l'application des dispositions relatives à la taxe professionnelle ;
 
 5° Les communautés ou les syndicats d'agglomération nouvelle.
 
-II. ― Perçoivent la taxe foncière sur les propriétés bâties, la taxe foncière
+II. - Perçoivent la taxe foncière sur les propriétés bâties, la taxe foncière
 sur les propriétés non bâties, la cotisation foncière des entreprises et la taxe
 d'habitation dans les conditions prévues à l'article 1636 B sexies, et la
 cotisation sur la valeur ajoutée des entreprises dans les conditions prévues à
@@ -39,7 +39,7 @@ l'application, à compter du 1er janvier 2002, de l'article 1609 nonies C ;
 2° Les communautés de communes dont le nombre d'habitants est inférieur ou égal
 à 500 000, à l'exception de celles mentionnées au 3° du I.
 
-III. ― 1. Peuvent percevoir la cotisation foncière des entreprises et la
+III. - 1. Peuvent percevoir la cotisation foncière des entreprises et la
 cotisation sur la valeur ajoutée des entreprises selon le régime fiscal prévu au
 I de l'article 1609 quinquies C :
 
@@ -67,7 +67,7 @@ juillet 1999 précitée, de districts ayant opté pour ces mêmes dispositions.
 prise à la majorité simple des membres de leur conseil, faire application du II
 de l'article 1609 quinquies C.
 
-IV. ― Les établissements publics de coopération intercommunale mentionnés aux II
+IV. - Les établissements publics de coopération intercommunale mentionnés aux II
 et III peuvent opter pour le régime fiscal prévu au I.
 
 Cette décision doit être prise par l'organe délibérant de l'établissement public
@@ -79,7 +79,7 @@ laquelle leur création prend fiscalement effet. Elle ne peut être rapportée
 pendant la période d'unification des taux prévue au III de l'article 1609 nonies
 C.
 
-V. ― Les établissements publics de coopération intercommunale à fiscalité propre
+V. - Les établissements publics de coopération intercommunale à fiscalité propre
 peuvent se substituer à leurs communes membres pour les dispositions relatives à
 l'imposition forfaitaire sur les pylônes prévue à l'article 1519 A, et la
 perception du produit de cette taxe, sur délibérations concordantes de
@@ -99,8 +99,8 @@ bâties prévue à l'article 1519 I et la perception de son produit, sur
 délibérations concordantes de l'établissement public et des communes concernées
 prises dans les conditions prévues au I de l'article 1639 A bis.
 
-V bis.-Sans préjudice des dispositions du 2 du II de l'article 1609 quinquies C
-et du I bis de l'article 1609 nonies C, les établissements publics de
+V bis. - Sans préjudice des dispositions du 2 du II de l'article 1609 quinquies
+C et du I bis de l'article 1609 nonies C, les établissements publics de
 coopération intercommunale à fiscalité propre perçoivent :
 
 1° 50 % de l'imposition forfaitaire sur les entreprises de réseaux relative aux
@@ -110,7 +110,7 @@ installations de production d'électricité utilisant l'énergie mécanique du v
 2° 50 % de la composante de l'imposition forfaitaire sur les entreprises de
 réseaux relative aux stockages souterrains de gaz naturel.
 
-VI. ― 1. Sont substitués aux communes pour l'application des dispositions
+VI. - 1. Sont substitués aux communes pour l'application des dispositions
 relatives à la taxe d'enlèvement des ordures ménagères :
 
 1° Les communautés urbaines ;
@@ -146,25 +146,19 @@ l'établissement public de coopération intercommunale sauf si ce dernier rappor
 sa délibération ;
 
 b) Soit de percevoir cette taxe en lieu et place du syndicat mixte qui l'aurait
-instituée sur l'ensemble du périmètre syndical.
+instituée sur l'ensemble du périmètre syndical. VII. - Les établissements
+publics de coopération intercommunale à fiscalité propre sont substitués à leurs
+communes membres pour l'application des dispositions relatives à la taxe sur la
+consommation finale d'électricité prévue à l'article L. 2333-2 du code général
+des collectivités territoriales lorsque ces établissements publics exercent la
+compétence d'autorité organisatrice de la distribution publique d'électricité
+mentionnée à l'article L. 2224-31 du même code.
 
-VII.-Les communautés d'agglomération peuvent se substituer à leurs communes
-membres dont la population est inférieure ou égale à 2 000 habitants pour la
-perception de la taxe communale sur la consommation finale d'électricité
-mentionnée à l'article L. 2333-2 du code général des collectivités
-territoriales.
-
-VIII.-Les communautés d'agglomération peuvent percevoir la taxe de séjour,
-lorsqu'elle répond aux conditions fixées aux articles L. 5211-21 et L. 5722-6 du
-code général des collectivités territoriales, et la taxe communale sur la
-consommation finale d'électricité dans les conditions prévues aux articles L.
-2333-2 à L. 2333-5 du même code, en lieu et place des communes membres dont la
-population est inférieure ou égale à 2 000 habitants. Dans ce cas, celle-ci est
-recouvrée sans frais par le gestionnaire du réseau de distribution ou le
-fournisseur. Le taux de la taxe ne peut dépasser 8 %.
-
-IX.-Les métropoles, les communautés urbaines, les communautés d'agglomération et
-les communautés de communes sont substituées à leurs communes membres pour
-l'application des dispositions relatives à la taxe de balayage prévue à
-l'article 1528 lorsqu'elles assurent le balayage de la superficie des voies
-livrées à la circulation publique.
+VIII. - Les établissements publics de coopération intercommunale à fiscalité
+propre peuvent percevoir la taxe de séjour ou la taxe de séjour forfaitaire,
+dans les conditions prévues à l'article L. 5211-21 du code général des
+collectivités territoriales. IX. - Les métropoles, les communautés urbaines, les
+communautés d'agglomération et les communautés de communes sont substituées à
+leurs communes membres pour l'application des dispositions relatives à la taxe
+de balayage prévue à l'article 1528 lorsqu'elles assurent le balayage de la
+superficie des voies livrées à la circulation publique.

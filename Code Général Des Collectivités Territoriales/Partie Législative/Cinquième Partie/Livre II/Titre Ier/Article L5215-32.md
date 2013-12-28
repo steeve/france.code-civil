@@ -6,6 +6,19 @@ Les recettes du budget de la communauté urbaine comprennent :
 l'article 1379-0 bis du code général des impôts, ainsi que celles mentionnées
 aux V et V bis du même article ;
 
+La communauté urbaine peut, en outre, percevoir, au titre de la compétence
+d'autorité organisatrice de la distribution publique d'électricité mentionnée à
+l'article L. 2224-31, sous réserve que cette compétence ne soit pas déjà exercée
+par une autorité mentionnée à l'article L. 5212-24, la taxe communale sur la
+consommation finale d'électricité dans les conditions prévues aux articles L.
+2333-2 à L. 2333-5 en lieu et place de toutes ses communes membres. Dans ce cas,
+la taxe est recouvrée dans les conditions de droit commun. La communauté urbaine
+peut reverser à une commune une fraction de la taxe perçue sur le territoire de
+celle-ci, par délibérations concordantes prises dans les conditions prévues au
+premier alinéa du I de l'article 1639 A bis du code général des impôts. Un tel
+reversement ne peut excéder 50 % du montant total perçu sur le territoire de la
+commune concernée ;
+
 2° Soit le produit de la taxe d'enlèvement des ordures ménagères, de la
 redevance d'enlèvement des ordures ménagères sur les terrains de camping, de la
 redevance spéciale, soit le produit de la redevance pour enlèvement des ordures,
