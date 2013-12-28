@@ -2,9 +2,10 @@ Article 242 septies
 ----
 L'activité professionnelle consistant à obtenir pour autrui les avantages
 fiscaux prévus aux articles 199 undecies A, 199 undecies B, 199 undecies C, 217
-undecies et 217 duodecies ne peut être exercée que par les entreprises inscrites
-sur un registre tenu par le représentant de l'Etat dans le département ou la
-collectivité dans lequel ces entreprises ont leur siège social.
+undecies, 217 duodecies, 244 quater W ou 244 quater X ne peut être exercée que
+par les entreprises inscrites sur un registre tenu par le représentant de l'Etat
+dans le département ou la collectivité dans lequel ces entreprises ont leur
+siège social.
 
 Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux
 conditions suivantes :
@@ -29,10 +30,11 @@ mentionnées au premier alinéa sont déclarées annuellement à l'administratio
 fiscale, quel que soit le montant de l'investissement ouvrant droit aux
 avantages fiscaux mentionnés au premier alinéa. Pour chaque opération sont
 précisés la nature et le montant de l'investissement, son lieu de situation, les
-conditions de son exploitation, l'identité de l'exploitant, le montant de la
-base éligible à l'avantage en impôt, la part de l'avantage en impôt rétrocédée,
-le cas échéant, à l'exploitant ainsi que le montant de la commission
-d'acquisition et de tout honoraire demandés aux clients.
+conditions de son exploitation, l'identité de l'exploitant, les noms et adresses
+des investisseurs, le montant de la base éligible à l'avantage en impôt, la part
+de l'avantage en impôt rétrocédée, le cas échéant, à l'exploitant ainsi que le
+montant de la commission d'acquisition et de tout honoraire demandés aux
+clients.
 
 Lorsque l'investissement est exploité dans une collectivité d'outre-mer ou en
 Nouvelle-Calédonie, l'administration fiscale transmet au représentant de l'Etat

@@ -22,7 +22,7 @@ logements sont loués en vue de leur sous-location dans les conditions prévues
 aux 1°, 2° et 3° du I de l'article 199 undecies C ou lorsque ces opérations sont
 financées à l'aide d'un prêt aidé ou d'une subvention de l'Etat accordé dans les
 conditions prévues par les articles R. 372-1 et R. 372-20 à R. 372-24 du code de
-la construction et de l'habitation.
+la construction et de l'habitation ou à l'article 244 quater X.
 
 L'application du taux réduit est subordonnée à la condition que les personnes
 physiques accédant à la propriété justifient bénéficier d'une aide dans les

@@ -19,29 +19,29 @@ présent 1.
 au titre des investissements mentionnés à la première phrase des vingt-sixième
 et vingt-septième alinéas du I de l'article 199 undecies B ainsi que les reports
 résultant d'une réduction d'impôt au titre des mêmes investissements sont
-retenus pour 37,5 % de leur montant.
+retenus pour 34 % de leur montant.
 
 3. Pour l'appréciation de la limite mentionnée au b du 1, la réduction d'impôt
 au titre des investissements mentionnés à la deuxième phrase du vingt-sixième
 alinéa du I de l'article 199 undecies B ainsi que les reports résultant d'une
-réduction d'impôt au titre des mêmes investissements sont retenus pour 47,37 %
-de leur montant.
+réduction d'impôt au titre des mêmes investissements sont retenus pour 44 % de
+leur montant.
 
 3 bis. Pour l'appréciation de la limite mentionnée au a du 1, la réduction
 d'impôt acquise au titre des investissements mentionnés à l'article 199 undecies
 C ainsi que les reports résultant d'une réduction d'impôt au titre des mêmes
-investissements sont retenus pour 35 % de leur montant.
+investissements sont retenus pour 30 % de leur montant.
 
 4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues
 en application des 2,3 et 3 bis peuvent être imputées dans la limite annuelle :
 
--de cinq fois le tiers du montant mentionné au b du 1 pour la fraction non
-retenue en application du 2 ;
+-de trente-trois fois le dix-septième du montant mentionné au b du 1 pour la
+fraction non retenue en application du 2 ;
 
--de treize fois le septième du montant mentionné au a du 1 pour la fraction non
+-de sept fois le troisième du montant mentionné au a du 1 pour la fraction non
 retenue en application du 3 bis ;
 
--de dix fois le neuvième du montant mentionné au b du 1 pour la fraction non
+-de quatorze fois le onzième du montant mentionné au b du 1 pour la fraction non
 retenue en application du 3.
 
 II. ― Lorsque le contribuable personne physique réalise directement des
@@ -58,8 +58,10 @@ undecies C et des reports de ces réductions d'impôt, dont l'imputation est
 admise pour un contribuable au titre d'une même année d'imposition, peut être
 porté, sur option du contribuable, à 15 % du revenu de l'année considérée
 servant de base au calcul de l'impôt sur le revenu dans les conditions prévues
-au I de l'article 197. Le plafond optionnel fixé au premier alinéa du présent
-III s'applique dans l'ordre d'imputation suivant :
+au I de l'article 197.
+
+Le plafond optionnel fixé au premier alinéa du présent III s'applique dans
+l'ordre d'imputation suivant :
 
 a) A la somme de la réduction d'impôt sur le revenu mentionnée à l'article 199
 undecies C et des reports de cette réduction d'impôt, dans la limite de 15 % du
