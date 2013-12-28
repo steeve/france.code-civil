@@ -58,7 +58,7 @@ territoriales ;
 
 2° Pour les besoins de leur extraction et de leur production ;
 
-3° Pour la consommation des particuliers, y compris sous forme collective ;
+3° (Abrogé) ;
 
 4° Par les entreprises de valorisation de la biomasse dont les achats de
 combustibles et d'électricité utilisés pour cette valorisation représentent au
@@ -69,9 +69,35 @@ volontaires de réduction de gaz à effet de serre permettant d'atteindre des
 objectifs environnementaux équivalents ou d'accroître leur rendement
 énergétique.
 
-6. La taxe intérieure de consommation est assise sur la quantité d'énergie
-livrée, exprimée en mégawattheures, après arrondissement au mégawattheure le
-plus voisin. Le tarif de la taxe est fixé à 1,19 par mégawattheure.
+6. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité
+d'énergie livrée. Elle est déterminée conformément au tableau ci-dessous :
+
+TARIF (EN EUROS)
+
+
+DÉSIGNATION DES PRODUITS
+
+UNITÉ DE PERCEPTION
+
+2014
+
+2015
+
+2016
+
+2701,2702 et 2704 : houilles, lignites et cokes destinés à être utilisés comme
+combustibles
+
+
+Mégawattheure
+
+2,29
+
+4,75
+
+7,21
+
+Le montant du tarif total est arrondi au mégawattheure le plus voisin.
 
 7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France
 sont tenus de se faire enregistrer auprès de l'administration des douanes et
@@ -90,22 +116,17 @@ indirects pour effectuer en leurs lieu et place les obligations qui leur
 incombent et acquitter la taxe intérieure de consommation.
 
 3° La taxe est acquittée, selon une périodicité trimestrielle, auprès de
-l'administration des douanes et droits indirects.
-
-Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les
-autres cas, consommées par un utilisateur final au titre d'un trimestre, pour
-lesquelles la taxe est devenue exigible, sont portées sur une déclaration
-déposée dans un délai de deux mois suivant le trimestre concerné. La taxe
-correspondante est acquittée lors du dépôt de la déclaration.
-
-La forme de la déclaration d'acquittement et les modalités déclaratives sont
-définies par arrêté du ministre chargé du budget.
-
-La déclaration d'acquittement peut être effectuée par voie électronique ;
-
-4° Les fournisseurs communiquent chaque année à l'administration des douanes la
-liste de leurs clients non domestiques, selon les modalités définies par arrêté
-du ministre chargé du budget.
+l'administration des douanes et droits indirects. Les quantités d'énergie
+livrées à un utilisateur final ou importées ou, dans les autres cas, consommées
+par un utilisateur final au titre d'un trimestre, pour lesquelles la taxe est
+devenue exigible, sont portées sur une déclaration déposée dans un délai de deux
+mois suivant le trimestre concerné. La taxe correspondante est acquittée lors du
+dépôt de la déclaration. La forme de la déclaration d'acquittement et les
+modalités déclaratives sont définies par arrêté du ministre chargé du budget. La
+déclaration d'acquittement peut être effectuée par voie électronique ; 4° Les
+fournisseurs communiquent chaque année à l'administration des douanes la liste
+de leurs clients non domestiques, selon les modalités définies par arrêté du
+ministre chargé du budget.
 
 8. Les personnes qui ont reçu des produits mentionnés au 1 sans que ces produits
 soient soumis à la taxe intérieure de consommation dans les cas prévus au 4 ou
