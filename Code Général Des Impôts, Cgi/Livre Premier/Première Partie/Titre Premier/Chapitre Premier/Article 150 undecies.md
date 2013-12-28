@@ -13,8 +13,8 @@ ou aux articles 150 ter et 150 septies à condition qu'aucune personne physique
 agissant directement ou par personne interposée ne possède plus de 10 p. 100 des
 parts du fonds.
 
-2. Le profit ou la perte est déterminé dans les conditions définies aux 1 et 2
-de l'article 150-0 D.
+2. Le profit ou la perte est déterminé dans les conditions définies au premier
+alinéa du 1 et au 2 de l'article 150-0 D.
 
 3. Un décret précise les modalités d'application du présent article ainsi que
 les obligations déclaratives des contribuables et des intermédiaires.
