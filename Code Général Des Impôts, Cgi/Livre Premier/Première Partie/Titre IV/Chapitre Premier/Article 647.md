@@ -6,9 +6,9 @@ des droits inscrits sur le livre foncier de Mayotte, à l'exclusion des
 privilèges et hypothèques mentionnés au i du 1° de l'article 2521 du code civil.
 La nouvelle formalité prend nom de " formalité fusionnée ".
 
-Sont exclus de ce régime : les décisions judiciaires, les mutations à titre
-gratuit, les baux de plus de douze ans à durée limitée, et les actes pour
-lesquels il est impossible de procéder à la formalité fusionnée.
+Sont exclus de ce régime : les décisions judiciaires, les baux de plus de douze
+ans à durée limitée, et les actes pour lesquels il est impossible de procéder à
+la formalité fusionnée.
 
 II. L'enregistrement des actes soumis à cette formalité et assujettis
 obligatoirement à la publicité foncière ou de ceux portant sur des droits devant
