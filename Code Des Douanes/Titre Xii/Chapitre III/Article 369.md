@@ -13,10 +13,10 @@ b) Libérer les contrevenants de la confiscation des objets ayant servi à masqu
 la fraude ;
 
 c) Réduire le montant des sommes tenant lieu de confiscation des marchandises de
-fraude jusqu'au tiers de la valeur de ces marchandises ;
+fraude ;
 
-d) Réduire le montant des amendes fiscales jusqu'au tiers de leur montant
-minimal, sous réserve des dispositions de l'article 437 ;
+d) Réduire le montant des amendes fiscales jusqu'à un montant inférieur à leur
+montant minimal ;
 
 e) En ce qui concerne les sanctions fiscales visées au c et au d du présent 1,
 limiter ou supprimer la solidarité de certains condamnés ;
@@ -30,12 +30,13 @@ peut, en ce qui concerne les sommes tenant lieu de confiscation et les amendes
 fiscales, limiter l'étendue de la solidarité à l'égard de certains d'entre eux
 seulement. Dans ce cas, le tribunal prononce tout d'abord les sanctions fiscales
 applicables aux autres contrevenants et auxquelles ceux-ci seront solidairement
-tenus. 2. (paragraphe abrogé).
+tenus.
+
+2. (paragraphe abrogé).
 
 3. Lorsque les marchandises saisies ne sont pas explicitement prohibées au titre
 de la réglementation douanière, les tribunaux peuvent en donner mainlevée avant
-de juger définitivement le tout, moyennant caution solvable ou consignation de
-la valeur.
+de juger définitivement le tout.
 
 4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes
 fraudées ou indûment obtenues ni de la confiscation des marchandises dangereuses

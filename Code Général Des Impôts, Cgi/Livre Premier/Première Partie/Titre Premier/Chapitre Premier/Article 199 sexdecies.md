@@ -81,7 +81,9 @@ a) Les personnes autres que celles mentionnées au 4 ;
 b) Les personnes mentionnées au 4 qui ont supporté ces dépenses à la résidence
 d'un ascendant.
 
-6. L'aide est accordée sur présentation des pièces justifiant du paiement des
-salaires et des cotisations sociales, de l'identité du bénéficiaire, de la
-nature et du montant des prestations réellement effectuées payées à
-l'association, l'entreprise ou l'organisme définis au 1.
+6. Les sommes mentionnées au 1 ouvrent droit au bénéfice de l'aide, sous réserve
+que le contribuable soit en mesure de présenter, à la demande de
+l'administration fiscale, les pièces justifiant du paiement des salaires et des
+cotisations sociales, de l'identité du bénéficiaire, de la nature et du montant
+des prestations réellement effectuées payées à l'association, l'entreprise ou
+l'organisme définis au 1.

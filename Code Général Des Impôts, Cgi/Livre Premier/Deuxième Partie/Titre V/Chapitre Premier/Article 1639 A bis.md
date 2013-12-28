@@ -1,12 +1,12 @@
 Article 1639 A bis
 ----
-I. Sous réserve des dispositions de l'article 1466, les délibérations des
-collectivités locales et des organismes compétents relatives à la fiscalité
-directe locale, autres que celles fixant soit les taux, soit les produits des
-impositions, et que celles instituant la taxe d'enlèvement des ordures ménagères
-doivent être prises avant le 1er octobre pour être applicables l'année suivante.
-Elles sont soumises à la notification prévue à l'article 1639 A au plus tard
-quinze jours après la date limite prévue pour leur adoption.
+I.-Les délibérations des collectivités locales et des organismes compétents
+relatives à la fiscalité directe locale, autres que celles fixant soit les taux,
+soit les produits des impositions, et que celles instituant la taxe d'enlèvement
+des ordures ménagères doivent être prises avant le 1er octobre pour être
+applicables l'année suivante. Elles sont soumises à la notification prévue à
+l'article 1639 A au plus tard quinze jours après la date limite prévue pour leur
+adoption.
 
 Les délibérations prévues au 2° du 1 et au 2 du III de l'article 1379-0 bis
 ainsi que les délibérations fixant le périmètre de la zone d'activités
@@ -89,7 +89,7 @@ en cas de modification de périmètre d'un établissement public de coopération
 intercommunale suivant l'intégration d'une commune ou d'un établissement de
 coopération intercommunale.
 
-IV. ― En cas de rattachement d'une commune ou d'un établissement public de
+IV.-En cas de rattachement d'une commune ou d'un établissement public de
 coopération intercommunale ne faisant pas application des dispositions de
 l'article 1522 bis à un établissement public de coopération intercommunale ou à
 un syndicat mixte en faisant application, l'application de ces dispositions sur

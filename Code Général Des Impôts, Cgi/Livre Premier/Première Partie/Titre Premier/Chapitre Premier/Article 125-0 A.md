@@ -1,6 +1,6 @@
 Article 125-0 A
 ----
-I. Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux
+I. 1° Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux
 placements de même nature souscrits auprès d'entreprises d'assurance établies en
 France sont, lors du dénouement du contrat, soumis à l'impôt sur le revenu.
 
@@ -24,6 +24,40 @@ soumis à imposition commune sur la somme des produits acquis à compter du 1er
 janvier 1998, ou constatés à compter de la même date pour les bons ou contrats
 en unités de compte visés au deuxième alinéa de l'article L. 131-1 du code des
 assurances.
+
+2° La transformation partielle ou totale d'un bon ou contrat mentionné au 1° du
+présent I, dont les primes versées sont affectées à l'acquisition de droits qui
+ne sont pas exprimés en unités de compte mentionnés au deuxième alinéa du même
+article L. 131-1, en un bon ou contrat mentionné au même 1° dont une part ou
+l'intégralité des primes versées sont affectées à l'acquisition de droits
+exprimés en unités de compte susvisées ou de droits donnant lieu à la
+constitution d'une provision de diversification n'entraîne pas les conséquences
+fiscales d'un dénouement.
+
+Il en est de même pour :
+
+a) La transformation partielle ou totale d'un bon ou contrat mentionné audit 1°,
+dont les primes versées ne sont pas affectées à l'acquisition de droits pouvant
+donner lieu à la constitution d'une provision de diversification, en un bon ou
+contrat mentionné au même 1° dont une part ou l'intégralité des primes sont
+affectées à l'acquisition de droits donnant lieu à la constitution d'une
+provision de diversification. Si le contrat a fait l'objet, au cours des six
+mois précédant la transformation, de conversions d'engagements autres que ceux
+exprimés en unités de compte ou donnant lieu à la constitution d'une provision
+de diversification en engagements exprimés en unités de compte, seuls les
+engagements autres que ceux exprimés en unités de compte ou donnant lieu à la
+constitution d'une provision de diversification peuvent faire l'objet de la
+conversion mentionnée au dernier alinéa du présent 2° ;
+
+b) La transformation partielle ou totale des contrats relevant du chapitre II du
+titre IV du livre Ier du code des assurances en un contrat dont une part des
+engagements peut être affectée à l'acquisition de droits en euros.
+
+Le premier alinéa et le a du présent 2° s'appliquent sous réserve que la
+transformation donne lieu à la conversion d'au moins 10 % des engagements,
+autres que ceux exprimés en unités de compte ou donnant lieu à la constitution
+d'une provision de diversification, en engagements donnant lieu à la
+constitution d'une provision de diversification.
 
 I. bis Les produits attachés aux bons ou contrats mentionnés au I d'une durée
 égale ou supérieure à six ans pour les bons ou contrats souscrits entre le 1er
@@ -118,11 +152,11 @@ du chapitre IV du titre Ier du livre II du code monétaire et financier.
 
 I quinquies.-1. Sont exonérés d'impôt sur le revenu les produits attachés aux
 bons ou contrats de capitalisation et placements de même nature mentionnés au I,
-souscrits à compter du 1er janvier 2005, d'une durée égale ou supérieure à huit
-ans et dans lesquels les primes versées sont représentées par une ou plusieurs
-unités de compte constituées de parts ou d'actions d'organismes de placement
-collectif en valeurs mobilières, de placements collectifs relevant des
-paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du
+souscrits du 1er janvier 2005 au 31 décembre 2013, d'une durée égale ou
+supérieure à huit ans et dans lesquels les primes versées sont représentées par
+une ou plusieurs unités de compte constituées de parts ou d'actions d'organismes
+de placement collectif en valeurs mobilières, de placements collectifs relevant
+des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du
 sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du
 chapitre IV du titre Ier du livre II du code monétaire et financier ou
 d'organismes de même nature établis soit dans un autre Etat membre de l'Union

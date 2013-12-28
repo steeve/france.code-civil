@@ -21,10 +21,10 @@ ces derniers au prorata de leurs activités.
 
 Cette disposition n'est pas applicable aux sociétés d'intérêt collectif agricole
 lorsque les associés visés à l'article L. 522-1 du code rural et de la pêche
-maritime et les établissements de crédit détiennent directement ou par
-l'intermédiaire de leurs filiales 80 % ou plus du capital ou des voix et que les
-associés visés aux 1°,2° et 3° du même article détiennent moins de 50 % du
-capital ou des voix ;
+maritime, les établissements de crédit et les sociétés de financement détiennent
+directement ou par l'intermédiaire de leurs filiales 80 % ou plus du capital ou
+des voix et que les associés visés aux 1°,2° et 3° du même article détiennent
+moins de 50 % du capital ou des voix ;
 
 6° La fraction éventuelle des ristournes déduites en vertu des 1°,2° et 5° qui
 dépasse 50 % des excédents pouvant être répartis d'un exercice est réintégrée au
@@ -40,6 +40,23 @@ sociétés coopératives ouvrières de production dont la majorité du capital e
 détenue par une autre société coopérative ouvrière de production dans les
 conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant
 statut des sociétés coopératives ouvrières de production ;
+
+Le 2° est toutefois applicable aux sociétés coopératives ouvrières de production
+issues de la transformation d'autres sociétés dans les conditions prévues aux
+articles 48 à 52 de la loi n° 78-763 du 19 juillet 1978 précitée et pour
+lesquelles les associés non coopérateurs s'engagent, au moment de la
+transformation et dans des conditions fixées par décret, à céder un nombre de
+parts sociales suffisant pour permettre aux associés coopérateurs de détenir au
+moins 50 % du capital de la société au plus tard à la clôture du septième
+exercice qui suit celui de la transformation en société coopérative ouvrière de
+production.
+
+En cas de non-respect de l'engagement mentionné au deuxième alinéa du présent
+7°, la société rapporte au résultat imposable du septième exercice suivant celui
+de la transformation en société coopérative ouvrière de production une somme
+correspondant aux distributions déduites. Les droits correspondants sont majorés
+de l'intérêt de retard prévu à l'article 1727 du présent code, décompté à partir
+de l'exercice au cours duquel les distributions ont été déduites ;
 
 8° En ce qui concerne les groupements d'employeurs fonctionnant dans les
 conditions prévues aux articles L. 1253-1 à L. 1253-18 du code du travail, les

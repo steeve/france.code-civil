@@ -52,7 +52,7 @@ public de coopération intercommunale doté d'une fiscalité propre prise dans l
 conditions prévues au I de l'article 1639 A bis, les entreprises sont exonérées
 de cotisation foncière des entreprises pour les créations et extensions
 d'établissements qu'elles réalisent entre le 1er janvier 2007 et le 31 décembre
-2013 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de
+2014 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de
 la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire.
 
@@ -201,9 +201,9 @@ prévues à l'article 1477, les éléments entrant dans le champ d'application d
 l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
-des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465,1465
-A, 1465 B, 1466 C, 1466 D ou 1466 E et de celles prévues aux I, I quinquies A, I
-quinquies B ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
+des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1464 L,
+1465,1465 A, 1465 B, 1466 C ou 1466 D et de celles prévues aux I, I quinquies A,
+I quinquies B ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
 régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour
 le dépôt de la déclaration afférente à la première année au titre de laquelle
 l'exonération prend effet.

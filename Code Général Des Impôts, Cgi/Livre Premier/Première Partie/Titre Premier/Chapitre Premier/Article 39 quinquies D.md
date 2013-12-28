@@ -1,6 +1,6 @@
 Article 39 quinquies D
 ----
-Les entreprises qui construisent ou font construire, avant le 1er janvier 2014,
+Les entreprises qui construisent ou font construire, avant le 1er janvier 2015,
 des immeubles à usage industriel ou commercial pour les besoins de leur
 exploitation dans les zones de revitalisation rurale mentionnées à l'article
 1465 A ou dans les zones de redynamisation urbaine mentionnées au A du 3 de
@@ -11,7 +11,7 @@ leur prix de revient, la valeur résiduelle étant amortissable sur la durée
 normale d'utilisation.
 
 Les dispositions du premier alinéa s'appliquent également aux travaux de
-rénovation, réalisés avant le 1er janvier 2014, dans des immeubles utilisés dans
+rénovation, réalisés avant le 1er janvier 2015, dans des immeubles utilisés dans
 les conditions visées au même alinéa.
 
 Les dispositions du premier et du deuxième alinéas s'appliquent aux entreprises

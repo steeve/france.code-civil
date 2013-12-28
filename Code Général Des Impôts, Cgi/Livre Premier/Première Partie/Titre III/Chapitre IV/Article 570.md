@@ -41,7 +41,7 @@ II. Selon les modalités fixées par décret, les personnes désignées au 3 de
 l'article 565 sont soumises aux obligations suivantes :
 
 1° Livrer des tabacs manufacturés aux seuls acheteurs-revendeurs mentionnés au
-dixième alinéa de l'article 568 ;
+douzième alinéa de l'article 568 ;
 
 2° Conserver la propriété des tabacs jusqu'à leur entrée sous le régime
 suspensif mentionné au 1° de l'article 302 F ter.

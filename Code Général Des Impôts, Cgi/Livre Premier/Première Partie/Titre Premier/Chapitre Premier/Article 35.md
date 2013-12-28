@@ -36,11 +36,12 @@ ou d'industrie ;
 7° bis (Abrogé à compter de la date d'entrée en vigueur du I de l'article 26 de
 la loi n° 96-1182 du 30 décembre 1996, JO du 31) ;
 
-8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger,
-directement ou par personne interposée, des opérations sur un marché à terme
-d'instruments financiers ou d'options négociables ou sur des bons d'option, à
-condition qu'elles aient opté pour ce régime dans les quinze jours du début du
-premier exercice d'imposition à ce titre. L'option est irrévocable.
+8° Personnes qui, à titre professionnel, effectuent, directement, par personne
+interposée ou par l'intermédiaire d'une fiducie, des opérations sur des contrats
+financiers, également dénommés " instruments financiers à terme ”, mentionnés au
+III de l'article L. 211-1 du code monétaire et financier, à condition qu'elles
+aient opté pour ce régime dans les quinze jours du début du premier exercice
+d'imposition à ce titre. L'option est irrévocable.
 
 Ces dispositions s'appliquent aux personnes qui effectuent, directement ou par
 personne interposée, des opérations à terme sur marchandises sur un marché

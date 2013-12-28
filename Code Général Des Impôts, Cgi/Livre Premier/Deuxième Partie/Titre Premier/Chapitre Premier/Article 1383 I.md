@@ -29,19 +29,19 @@ territoriale ou établissement public de coopération intercommunale doté d'une
 fiscalité propre.
 
 Lorsque les conditions requises pour bénéficier de l'une des exonérations
-prévues aux articles 1383 A, 1383 C bis, 1383 D, 1383 F ou 1383 H et de celle
-prévue au présent article sont satisfaites, le contribuable doit opter pour l'un
-ou l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle
-l'exonération prend effet.L'option est irrévocable et vaut pour l'ensemble des
+prévues aux articles 1383 A, 1383 C bis, 1383 D ou 1383 H et de celle prévue au
+présent article sont satisfaites, le contribuable doit opter pour l'un ou
+l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle
+l'exonération prend effet. L'option est irrévocable et vaut pour l'ensemble des
 collectivités territoriales et établissements publics de coopération
 intercommunale.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
-/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des
 entreprises propriétaires d'un immeuble dans une zone d'aide à finalité
 régionale, le bénéfice de l'exonération est subordonné au respect de l'article
-13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant
+13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant
 certaines catégories d'aides compatibles avec le marché commun en application
 des articles 87 et 88 du traité (règlement général d'exemption par catégorie).
 

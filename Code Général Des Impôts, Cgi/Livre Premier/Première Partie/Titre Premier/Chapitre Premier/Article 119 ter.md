@@ -1,24 +1,24 @@
 Article 119 ter
 ----
-1 La retenue à la source prévue au 2 de l'article 119 bis n'est pas applicable
+1. La retenue à la source prévue au 2 de l'article 119 bis n'est pas applicable
 aux dividendes distribués à une personne morale qui remplit les conditions
 énumérées au 2 du présent article par une société ou un organisme soumis à
 l'impôt sur les sociétés au taux normal.
 
-2 Pour bénéficier de l'exonération prévue au 1, la personne morale doit
+2. Pour bénéficier de l'exonération prévue au 1, la personne morale doit
 justifier auprès du débiteur ou de la personne qui assure le paiement de ces
 revenus qu'elle est le bénéficiaire effectif des dividendes et qu'elle remplit
 les conditions suivantes :
 
-a) Avoir son siège de direction effective dans un Etat membre de la Communauté
+a) Avoir son siège de direction effective dans un Etat membre de l'Union
 européenne et n'être pas considérée, aux termes d'une convention en matière de
 double imposition conclue avec un Etat tiers, comme ayant sa résidence fiscale
-hors de la Communauté ;
+hors de l'Union ;
 
 b) Revêtir l'une des formes énumérées sur une liste établie par arrêté du
-ministre chargé de l'économie conformément à l'annexe à la directive du Conseil
-des communautés européennes n° 90-435 du 23 juillet 1990 modifiée par la
-directive 2003 / 123 / CE du Conseil, du 22 décembre 2003 ;
+ministre chargé de l'économie conformément à la partie A de l'annexe I à la
+directive 2011/96/ UE du Conseil du 30 novembre 2011 concernant le régime fiscal
+commun applicable aux sociétés mères et filiales d'Etats membres différents ;
 
 c) Détenir directement, de façon ininterrompue depuis deux ans ou plus, 25 % au
 moins du capital de la personne morale qui distribue les dividendes, ou prendre
@@ -40,14 +40,14 @@ e) (abrogé).
 2 bis. Les dispositions du 1 s'appliquent aux dividendes distribués aux
 établissements stables des personnes morales remplissant les conditions fixées
 au 2, lorsque ces établissements stables sont situés en France ou dans un autre
-Etat membre de la Communauté européenne.
+Etat membre de l'Union européenne.
 
-3 Les dispositions du 1 ne s'appliquent pas lorsque les dividendes distribués
+3. Les dispositions du 1 ne s'appliquent pas lorsque les dividendes distribués
 bénéficient à une personne morale contrôlée directement ou indirectement par un
-ou plusieurs résidents d'Etats qui ne sont pas membres de la Communauté, sauf si
-cette personne morale justifie que la chaîne de participations n'a pas comme
-objet principal ou comme un de ses objets principaux de tirer avantage des
+ou plusieurs résidents d'Etats qui ne sont pas membres de l'Union, sauf si cette
+personne morale justifie que la chaîne de participations n'a pas comme objet
+principal ou comme un de ses objets principaux de tirer avantage des
 dispositions du 1.
 
-4 Un décret précise en tant que de besoin les modalités d'application des
+4. Un décret précise en tant que de besoin les modalités d'application des
 présentes dispositions.

@@ -34,20 +34,43 @@ l'activité de vente de tabac antérieur à l'extension de l'objet social ;
 par décret.
 
 Le droit de licence mentionné au premier alinéa est de 20,44 % de la remise
-mentionnée au 3° du I de l'article 570 pour les cigares et cigarillos et de
-20,60 % de la même remise pour les autres produits du tabac. Le droit de licence
-est exigible à la livraison des tabacs manufacturés au débitant. Il est liquidé
-par les fournisseurs mentionnés au 1 de l'article 565, au plus tard le 25 de
-chaque mois, sur la base d'une déclaration des quantités livrées au débitant au
-cours du mois précédent transmise à l'administration. Il est acquitté, à la date
-de la liquidation, auprès de l'administration, par les mêmes fournisseurs et
-pour le compte des débitants. Une caution garantissant le paiement du
-prélèvement est exigée des fournisseurs.L'administration restitue au débitant
-les sommes qu'elle a encaissées au titre du droit de licence sur la part du
-chiffre d'affaires inférieure ou égale au seuil cité au premier alinéa, sur la
-base d'une déclaration mensuelle des livraisons effectuées à chaque débitant,
-adressée par les fournisseurs au plus tard le quinzième jour du mois suivant. Un
-décret fixe les modalités et conditions d'application du présent alinéa.
+mentionnée au 3° du I de l'article 570 pour les cigares et cigarillos.
+
+Pour les autres produits du tabac, le taux du droit de licence appliqué sur
+cette même remise est fixé conformément au tableau ci-après :
+
+(En %)
+
+
+ANNÉE
+
+TAUX
+
+2014
+
+20,36
+
+2015
+
+20,25
+
+2016
+
+20,14
+
+Le droit de licence est exigible à la livraison des tabacs manufacturés au
+débitant. Il est liquidé par les fournisseurs mentionnés au 1 de l'article 565,
+au plus tard le 25 de chaque mois, sur la base d'une déclaration des quantités
+livrées au débitant au cours du mois précédent transmise à l'administration. Il
+est acquitté, à la date de la liquidation, auprès de l'administration, par les
+mêmes fournisseurs et pour le compte des débitants. Une caution garantissant le
+paiement du prélèvement est exigée des fournisseurs. L'administration restitue
+au débitant les sommes qu'elle a encaissées au titre du droit de licence sur la
+part du chiffre d'affaires inférieure ou égale au seuil cité au premier alinéa,
+sur la base d'une déclaration mensuelle des livraisons effectuées à chaque
+débitant, adressée par les fournisseurs au plus tard le quinzième jour du mois
+suivant. Un décret fixe les modalités et conditions d'application du présent
+alinéa.
 
 Le droit de licence mentionné au premier alinéa est constaté, recouvré et
 contrôlé suivant les règles propres aux contributions indirectes.

@@ -32,4 +32,5 @@ III.-La consommation de produits énergétiques réalisée dans l'enceinte des
 taxes intérieures de consommation mentionnées aux articles 265 et 266 quater
 lorsque cette consommation est effectuée pour la production des produits
 énergétiques eux-mêmes ou pour la production de tout ou partie de l'énergie
-nécessaire à leur fabrication.
+nécessaire à leur fabrication. Les éléments justificatifs permettant de n'être
+pas soumis aux taxes sont déterminés par décret.

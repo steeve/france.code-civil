@@ -1,13 +1,13 @@
 Article 212 bis
 ----
-I.-Les charges financières nettes afférentes aux sommes laissées ou mises à
+I. - Les charges financières nettes afférentes aux sommes laissées ou mises à
 disposition d'une entreprise non membre d'un groupe, au sens de l'article 223 A,
-sont réintégrées au résultat pour une fraction égale à 15 % de leur montant.
+sont réintégrées au résultat pour une fraction égale à 25 % (1) de leur montant.
 
-II.-Le I ne s'applique pas lorsque le montant total des charges financières
+II. - Le I ne s'applique pas lorsque le montant total des charges financières
 nettes de l'entreprise est inférieur à trois millions d'euros.
 
-III.-Pour l'application des I et II, le montant des charges financières nettes
+III. - Pour l'application des I et II, le montant des charges financières nettes
 est entendu comme le total des charges financières venant rémunérer des sommes
 laissées ou mises à disposition de l'entreprise, diminué du total des produits
 financiers venant rémunérer des sommes laissées ou mises à disposition par
@@ -20,11 +20,16 @@ prestations accessoires facturés au preneur en cas d'opération de crédit-bail
 de location avec option d'achat ou de location de biens mobiliers conclue entre
 entreprises liées au sens du 12 de l'article 39.
 
-IV.-Pour l'application du I, le montant des charges financières est diminué des
-fractions des charges financières non admises en déduction en application du IX
-de l'article 209 et de l'article 212.
+IV. - Pour l'application du I, le montant des charges financières est diminué
+des fractions des charges financières non admises en déduction en application du
+IX de l'article 209 et de l'article 212.
 
-V.-Le même I ne s'applique pas aux charges financières supportées par le
+IV bis. - Pour l'application du I, le montant des charges financières nettes est
+diminué des charges financières afférentes aux contrats de financement des
+stocks de produits faisant l'objet d'une obligation réglementaire de
+conservation et dont le cycle de rotation est supérieur à trois ans.
+
+V. - Le même I ne s'applique pas aux charges financières supportées par le
 délégataire, concessionnaire et partenaire privé, afférentes aux biens acquis ou
 construits par lui dans le cadre :
 
@@ -54,4 +59,4 @@ concessionnaire ou partenaire privé dans le cadre de contrats mentionnés aux 1
 
 Le présent V s'applique aux charges financières supportées dans le cadre des
 contrats mentionnés aux 1° à 5° déjà signés à la date de promulgation de la loi
-n° du de finances pour 2013 (1).
+n° du de finances pour 2013 (2).

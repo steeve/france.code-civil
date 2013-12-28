@@ -147,10 +147,11 @@ prévu au I est remis en cause, sauf si le remboursement fait suite à la
 liquidation judiciaire de la société à l'exception des parts investies dans des
 entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail
 et agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans
-des établissements de crédit dont 80 % de l'ensemble des prêts et des
-investissements sont effectués en faveur d'entreprises solidaires mentionnées
-audit article, pour lesquelles le remboursement doit intervenir après le 31
-décembre de la cinquième année suivant celle de la souscription.
+des établissements de crédit ou des sociétés de financement dont 80 % de
+l'ensemble des prêts et des investissements sont effectués en faveur
+d'entreprises solidaires mentionnées audit article, pour lesquelles le
+remboursement doit intervenir après le 31 décembre de la cinquième année suivant
+celle de la souscription.
 
 2. En cas de non-respect de la condition de conservation prévue au premier
 alinéa du 1 par suite d'une fusion ou d'une scission au sens de l'article 817 A,
@@ -206,15 +207,15 @@ sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce mont
 à un moment quelconque au cours des cinq années précédant la souscription des
 parts du fonds ;
 
-c) Le fonds doit respecter au minimum le quota d'investissement de 60 % prévu au
+c) Le fonds doit respecter au minimum le quota d'investissement de 70 % prévu au
 I de l'article L. 214-30 du code monétaire et financier et au I de l'article L.
 214-31 du même code. Si le fonds n'a pas pour objet d'investir plus de 50 % de
 son actif au capital de jeunes entreprises innovantes définies à l'article 44
 sexies-0 A, ce quota doit être atteint à hauteur de 50 % au moins au plus tard
-douze mois à compter de la date de clôture de la période de souscription fixée
-dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à
+quinze mois à compter de la date de clôture de la période de souscription fixée
+dans le prospectus complet du fonds, laquelle ne peut excéder quatorze mois à
 compter de la date de constitution du fonds, et à hauteur de 100 % au plus tard
-le dernier jour du douzième mois suivant.
+le dernier jour du quinzième mois suivant.
 
 Les versements servant de base au calcul de l'avantage fiscal sont retenus après
 imputation des droits ou frais d'entrée et à proportion du quota
@@ -300,10 +301,10 @@ des secteurs de la construction navale, de l'industrie houillère ou de la
 sidérurgie ;
 
 d) Les versements au titre de souscriptions mentionnés au 1 des I et III
-n'excèdent pas, par entreprise cible, un montant fixé par décret et qui ne peut
-dépasser le plafond autorisé par la Commission européenne s'agissant des aides
-d'Etat visant à promouvoir les investissements en capital-investissement dans
-les petites et moyennes entreprises ou les entreprises innovantes.
+n'excèdent pas, par entreprise cible, le plafond autorisé par la Commission
+européenne s'agissant des aides d'Etat visant à promouvoir les investissements
+en capital-investissement dans les petites et moyennes entreprises ou les
+entreprises innovantes.
 
 (1) Par dérogation au premier alinéa du présent d, cette condition n'est pas
 applicable pour les versements au titre de souscriptions effectuées au capital

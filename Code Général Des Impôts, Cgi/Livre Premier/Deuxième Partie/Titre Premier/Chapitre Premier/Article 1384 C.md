@@ -44,13 +44,13 @@ immobilière du Nord-Pas-de-Calais créé par l'article 191 de la loi n° 2000-1
 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains
 lorsque ces logements sont améliorés au moyen d'une aide financière de l'Agence
 nationale de l'habitat et qu'ils font l'objet d'une convention avec cette agence
-fixant les conditions de leur occupation et le niveau de ressources auquel est
-soumise leur attribution dans des conditions définies par décret.L'exonération
-de quinze ans est applicable à compter de l'année qui suit celle de l'achèvement
-des travaux d'amélioration pour les logements dont lesdits travaux sont achevés
-depuis le 1er juillet 2004. La durée de l'exonération est portée à vingt-cinq
-ans lorsque la décision de subvention intervient entre le 1er juillet 2004 et le
-31 décembre 2014.
+ou avec l'Etat fixant les conditions de leur occupation et le niveau de
+ressources auquel est soumise leur attribution dans des conditions définies par
+décret. L'exonération de quinze ans est applicable à compter de l'année qui suit
+celle de l'achèvement des travaux d'amélioration pour les logements dont lesdits
+travaux sont achevés depuis le 1er juillet 2004. La durée de l'exonération est
+portée à vingt-cinq ans lorsque la décision de subvention intervient entre le
+1er juillet 2004 et le 31 décembre 2014.
 
 Pour bénéficier de l'exonération, le propriétaire doit satisfaire aux
 obligations déclaratives prévues au I pour les immeubles mentionnés au 4° de

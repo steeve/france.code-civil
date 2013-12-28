@@ -2,7 +2,7 @@ Article 44 quindecies
 ----
 I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les
 entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31
-décembre 2013, soumises de plein droit ou sur option à un régime réel
+décembre 2014, soumises de plein droit ou sur option à un régime réel
 d'imposition de leurs résultats et qui exercent une activité industrielle,
 commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1
 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les

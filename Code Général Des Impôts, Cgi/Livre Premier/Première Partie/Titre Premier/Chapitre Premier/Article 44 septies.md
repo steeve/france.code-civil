@@ -89,7 +89,7 @@ d'intensité d'aide diffèrent, le bénéfice exonéré ne peut excéder la somm
 limites calculées pour chacune des zones éligibles.
 
 5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier
-2007 et jusqu'au 31 décembre 2013 dans les zones d'aide à finalité régionale.
+2007 et jusqu'au 31 décembre 2014 dans les zones d'aide à finalité régionale.
 
 Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n°
 1628/2006 de la Commission du 24 octobre 2006 concernant l'application des

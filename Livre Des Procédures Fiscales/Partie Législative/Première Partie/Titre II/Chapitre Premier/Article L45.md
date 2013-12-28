@@ -4,17 +4,16 @@ Article L45
 l'assiette de l'ensemble des impôts ou taxes dus par le contribuable qu'ils
 vérifient.
 
-2. En matière d'impôts directs et de taxes assises sur les primes d'assurance,
-lorsque la situation d'un ou plusieurs contribuables présente un intérêt commun
-ou complémentaire pour plusieurs Etats membres de la Communauté européenne,
-l'administration peut convenir avec les administrations des autres Etats membres
-de procéder à des contrôles simultanés, chacune sur le territoire de l'Etat dont
-elle relève, en vue d'échanger les renseignements ainsi obtenus.
+2. Pour l'application de la législation fiscale lorsque la situation d'un ou
+plusieurs contribuables présente un intérêt commun ou complémentaire pour
+plusieurs Etats membres de l'Union européenne, l'administration peut convenir
+avec les administrations des autres Etats membres de procéder à des contrôles
+simultanés, chacune sur le territoire de l'Etat membre dont elle relève, en vue
+d'échanger les renseignements ainsi obtenus.
 
 3. Les fonctionnaires des administrations des autres Etats membres de l'Union
 européenne dûment habilités par l'autorité requérante par un mandat écrit et
-autorisés par l'administration française peuvent, selon des modalités fixées par
-décret en Conseil d'Etat :
+autorisés par l'administration française peuvent :
 
 a) Etre présents dans les bureaux où les agents exécutent leurs tâches ;
 

@@ -20,7 +20,7 @@ L. 214-30 du code monétaire et financier, au I de l'article L. 214-31 du même
 code ou au VI ter de l'article 199 terdecies-0 A, la société de gestion du fonds
 est redevable d'une amende égale à 20 % du montant des investissements qui
 permettraient d'atteindre, selon le cas, la moitié au moins ou la totalité du
-quota d'investissement de 60 %. Le montant de cette amende est toutefois limité
+quota d'investissement de 70 %. Le montant de cette amende est toutefois limité
 au montant des sommes qui lui sont dues par le fonds au titre des frais de
 gestion pour l'exercice concerné.
 

@@ -1,7 +1,7 @@
 Article L214-30
 ----
 I.-Les fonds communs de placement dans l'innovation sont des fonds communs de
-placement à risques dont l'actif est constitué, pour 60 % au moins, de titres
+placement à risques dont l'actif est constitué, pour 70 % au moins, de titres
 financiers, parts de société à responsabilité limitée et avances en compte
 courant, tels que définis au I et au 1° du II de l'article L. 214-28 et qui sont
 émis par des sociétés ayant leur siège dans un Etat membre de l'Union européenne
@@ -36,10 +36,10 @@ l'innovation et désigné par décret.
 
 Les dispositions des IV et V de l'article L. 214-28 s'appliquent dans les mêmes
 conditions aux fonds communs de placement dans l'innovation sous réserve du
-respect du II du présent article et du quota d'investissement de 60 % qui leur
+respect du II du présent article et du quota d'investissement de 70 % qui leur
 est propre.
 
-II.-Sont également éligibles au quota d'investissement de 60 % mentionné au I
+II.-Sont également éligibles au quota d'investissement de 70 % mentionné au I
 les titres mentionnés au III de l'article L. 214-28 dans la limite, pour les
 titres qui sont admis aux négociations sur un marché réglementé, de 20 % de
 l'actif du fonds, sous réserve que la société émettrice réponde aux conditions
@@ -94,7 +94,7 @@ première souscription ou acquisition de ces titres par ce fonds.
 En cas de cession par une société mère mentionnée au premier alinéa du IV de
 titres de filiales mentionnées au d de ce même IV remettant en cause le seuil de
 détention de 75 %, les titres de cette société mère cessent d'être pris en
-compte dans le quota d'investissement de 60 %.
+compte dans le quota d'investissement de 70 %.
 
 VI.-Pour l'appréciation, pour le I, des liens de dépendance existant entre deux
 sociétés, ces liens sont réputés exister :
@@ -104,3 +104,14 @@ capital social de l'autre ou y exerce de fait le pouvoir de décision ;
 
 2° Ou bien lorsqu'elles sont placées l'une et l'autre dans les conditions
 définies à l'alinéa précédent sous le contrôle d'une même tierce société.
+
+VII.-L'Autorité des marchés financiers refuse d'agréer la constitution d'un
+fonds commun de placement dans l'innovation lorsque, au cours d'une période
+fixée par décret, chacun des fonds communs de placement dans l'innovation et des
+fonds d'investissement de proximité constitués par la société de gestion
+concernée présente un montant total de souscriptions inférieur à un seuil fixé
+par décret et lorsque l'ensemble des fonds de capital investissement, mentionnés
+aux articles L. 214-27 et suivants, et des fonds professionnels de capital
+investissement, mentionnés à l'article L. 214-159, gérés par la société de
+gestion représente un montant total des actifs sous gestion inférieur à un seuil
+fixé par décret (1).

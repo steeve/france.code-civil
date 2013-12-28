@@ -222,10 +222,10 @@ quatervicies.
 6 bis.-Les gains nets de cession de valeurs mobilières, droits sociaux et titres
 assimilés sont déterminés conformément aux articles 150-0 A à 150-0 E. Sont
 également imposables dans cette catégorie les profits réalisés sur les marchés
-d'instruments financiers et assimilés, déterminés conformément aux articles 150
-ter à 150 undecies, les distributions de plus-values mentionnées à l'article
-150-0 F et au 1 du II de l'article 163 quinquies C lorsque l'actionnaire est une
-personne physique fiscalement domiciliée en France.
+d'instruments financiers et assimilés, déterminés conformément à l'article 150
+ter, les distributions de plus-values mentionnées à l'article 150-0 F et au 1 du
+II de l'article 163 quinquies C lorsque l'actionnaire est une personne physique
+fiscalement domiciliée en France.
 
 6 ter.-Les plus-values latentes sur droits sociaux, valeurs, titres ou droits,
 les créances trouvant leur origine dans une clause de complément de prix et

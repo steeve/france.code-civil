@@ -160,8 +160,8 @@ agréé dont le siège est situé dans un Etat membre de l'Union européenne ou 
 un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
 avec la France une convention d'assistance administrative en vue de lutter
 contre la fraude et l'évasion fiscales, la réduction d'impôt obtenue fait
-l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai de
-dépôt de déclaration les pièces justificatives attestant que cet organisme
+l'objet d'une reprise, sauf si le contribuable produit, à la demande de
+l'administration fiscale, les pièces justificatives attestant que cet organisme
 poursuit des objectifs et présente des caractéristiques similaires aux
 organismes dont le siège est situé en France répondant aux conditions fixées par
 le présent article.
@@ -170,31 +170,17 @@ Un décret fixe les conditions d'application du présent 4 bis et notamment la
 durée de validité ainsi que les modalités de délivrance, de publicité et de
 retrait de l'agrément.
 
-5. Le bénéfice des dispositions du 1, du 1 ter, du 2 bis et du 4 bis est
-subordonné à la condition que soient jointes à la déclaration des revenus des
-pièces justificatives, répondant à un modèle fixé par un arrêté attestant le
-total du montant et la date des versements ainsi que l'identité des
-bénéficiaires. A défaut, la réduction d'impôt est refusée sans proposition de
-rectification préalable.
+5. Les versements ouvrent droit au bénéfice de la réduction d'impôt, sous
+réserve que le contribuable soit en mesure de présenter, à la demande de
+l'administration fiscale, les pièces justificatives répondant à un modèle fixé
+par l'administration attestant du montant et de la date des versements ainsi que
+de l'identité des bénéficiaires.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les
 cotisations d'un montant égal ou inférieur à 3 000 € ne mentionnent pas la
 dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les
 modalités d'application de cette disposition.
 
-6. Par dérogation aux dispositions du premier alinéa du 5, le bénéfice de la
-réduction d'impôt est accordé aux contribuables qui transmettent la déclaration
-de leurs revenus par voie électronique, en application de l'article 1649 quater
-B ter, à la condition que soient mentionnés sur cette déclaration l'identité de
-chaque organisme bénéficiaire et le montant total des versements effectués au
-profit de chacun d'entre eux au titre de l'année d'imposition des revenus.
+6. (Abrogé).
 
-L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations
-versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas,
-les versements sont d'un montant égal ou inférieur à 3 000 €.
-
-La réduction d'impôt accordée est remise en cause lorsque ces contribuables ne
-peuvent pas justifier des versements effectués par la présentation des pièces
-justificatives mentionnées au premier alinéa du 5.
-
-7. Abrogé
+7. (Abrogé).

@@ -10,6 +10,8 @@ code.
 La réduction d'impôt est égale à 50 % des cotisations versées prises dans la
 limite de 1 000 € par foyer fiscal.
 
-La réduction d'impôt est accordée sur présentation de la quittance de versement
-de la cotisation visée par le comptable public compétent de la commune ou du
-groupement de communes concerné.
+La cotisation versée ouvre droit au bénéfice de la réduction d'impôt, sous
+réserve que le contribuable soit en mesure de présenter, à la demande de
+l'administration fiscale, la quittance de versement de la cotisation visée par
+le comptable public compétent de la commune ou du groupement de communes
+concerné.

@@ -15,3 +15,8 @@ III.-L'obligation de secret professionnel, telle qu'elle est définie à l'artic
 226-13 du code pénal, s'applique à toutes les personnes appelées à l'occasion de
 leurs fonctions ou attributions à intervenir dans l'assiette, le contrôle, le
 recouvrement ou le contentieux des redevances.
+
+Toutefois, les éléments nécessaires au calcul de ces redevances et constituant
+des informations relatives à l'environnement, au sens de l'article L. 124-2 du
+présent code, peuvent être mis à disposition du public, dans des conditions
+fixées par décret en Conseil d'Etat.

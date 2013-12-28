@@ -23,13 +23,11 @@ a transféré les sommes correspondant à la retenue (1).
 3 Les dispositions du 1 ne s'appliquent pas lorsque la société étrangère remplit
 les conditions suivantes :
 
-a) Avoir son siège de direction effective dans un Etat membre de la Communauté
+a) Avoir son siège de direction effective dans un Etat membre de l'Union
 européenne ;
 
 b) Y être passible de l'impôt sur les sociétés, sans possibilité d'option et
-sans en être exonérée (2).
+sans en être exonérée et sans bénéficier d'une exonération spécifique sur les
+bénéfices mentionnés au 1.
 
 (1) Voir Annexe II, art. 380 à 382.
-
-(2) Ces dispositions sont applicables aux bénéfices réalisés au titre des
-exercices clos à compter du 31 décembre 1997.

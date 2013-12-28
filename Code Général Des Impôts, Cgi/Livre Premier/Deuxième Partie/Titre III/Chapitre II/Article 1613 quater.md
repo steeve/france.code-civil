@@ -25,6 +25,10 @@ deux chiffres après la virgule, le deuxième chiffre étant augmenté d'une uni
 si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté
 du ministre chargé du budget, publié au Journal officiel.
 
+Pour son application à Mayotte, le montant mentionné au premier alinéa du
+présent II est fixé à 3,31 € au 1er janvier 2014, à 4,31 € au 1er janvier 2015,
+à 5,31 € au 1er janvier 2016 et à 7,31 € au 1er janvier 2017.
+
 III. ― 1. La contribution est due à raison des boissons mentionnées au I par
 leurs fabricants établis en France, leurs importateurs et les personnes qui
 réalisent en France des acquisitions intracommunautaires, sur toutes les

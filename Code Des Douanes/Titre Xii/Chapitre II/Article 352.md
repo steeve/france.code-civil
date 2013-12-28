@@ -7,10 +7,8 @@ articles 236 à 239 du code des douanes communautaire, sont présentées à
 l'administration dans les délais et conditions fixées par décret en Conseil
 d'Etat.
 
-La réclamation mentionnée à l'alinéa précédent doit être présentée au directeur
-régional des douanes du lieu de paiement ou du lieu où se situent les
-marchandises. Le directeur régional des douanes statue sur cette demande dans un
-délai de quatre mois à compter de sa réception.
+L'autorité administrative compétente statue sur ces demandes dans un délai de
+quatre mois à compter de leur réception.
 
 L'action contre la décision de l'administration, prise à la suite de cette
 réclamation, doit être introduite devant le tribunal désigné à l'article 358 du
@@ -18,7 +16,7 @@ présent code, dans les trois mois à compter de la notification de la décision
 l'administration ou, à défaut de réponse, à l'expiration du délai de quatre mois
 prévu à l'alinéa précédent.
 
-2.L'action contre une décision de l'administration, prise à la suite d'une
+2. L'action contre une décision de l'administration, prise à la suite d'une
 demande de remise ou de remboursement fondée sur les articles 236 à 239 du code
 des douanes communautaire, doit être présentée devant le tribunal désigné à
 l'article 358 du présent code dans les trois mois à compter de la notification

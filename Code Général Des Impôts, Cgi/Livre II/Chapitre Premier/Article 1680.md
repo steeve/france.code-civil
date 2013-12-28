@@ -1,11 +1,9 @@
 Article 1680
 ----
-1. Les impôts et taxes visés par le présent code sont payables en argent, dans
-la limite de 3 000 €, à la caisse du comptable chargé du recouvrement, ou
-suivant les modes de paiement autorisés par le ministre chargé du budget ou par
-décret.
+Les impositions de toute nature et les recettes recouvrées par un titre
+exécutoire mentionné à l'article L. 252 A du livre des procédures fiscales sont
+payables en espèces, dans la limite de 300 €, à la caisse du comptable public
+chargé du recouvrement.
 
-2 et 3. (Abrogés).
-
-4. Les arrérages échus de rentes sur l'Etat peuvent être affectés au paiement de
+Les arrérages échus de rentes sur l'Etat peuvent être affectés au paiement de
 l'impôt direct.

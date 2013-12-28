@@ -64,14 +64,12 @@ contrôlée et recouvrée selon les mêmes règles d'assiette, d'exigibilité, d
 liquidation, de recouvrement et de contrôle que l'impôt sur les sociétés et sous
 les mêmes garanties et sanctions.
 
-3. Pour les personnes relevant du régime défini à l'article 8, la taxe est
-déclarée, contrôlée et recouvrée, respectivement, selon les mêmes règles
-d'assiette, d'exigibilité, de liquidation, de recouvrement et de contrôle et
-sous les mêmes garanties et sanctions que l'impôt sur le revenu, au prorata des
-droits des associés personnes physiques, et selon les mêmes règles d'assiette,
-d'exigibilité, de liquidation, de recouvrement et de contrôle et sous les mêmes
-garanties et sanctions que l'impôt sur les sociétés, au prorata des droits des
-associés soumis à cet impôt.
+3. Pour les sociétés ou groupements dont les bénéfices sont imposés au nom des
+associés, la taxe est déclarée et acquittée par ces sociétés ou groupements
+auprès du comptable de la direction générale des finances publiques compétent au
+plus tard à la date prévue pour le dépôt de la déclaration de leur résultat. La
+taxe est contrôlée et recouvrée selon les mêmes garanties et sanctions qu'en
+matière d'impôt sur les sociétés.
 
 V. ― La taxe n'est pas déductible des revenus soumis à l'impôt sur le revenu ou
 du résultat imposable à l'impôt sur les sociétés.

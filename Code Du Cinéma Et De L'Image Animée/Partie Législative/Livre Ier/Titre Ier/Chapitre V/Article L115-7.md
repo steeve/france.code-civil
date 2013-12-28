@@ -6,9 +6,10 @@ La taxe est assise sur le montant hors taxe sur la valeur ajoutée :
 de télévision édités :
 
 a) Des sommes versées par les annonceurs et les parrains, pour la diffusion de
-leurs messages publicitaires et de parrainage, aux redevables concernés ou aux
-régisseurs de messages publicitaires et de parrainage. Ces sommes font l'objet
-d'un abattement forfaitaire de 4 % ;
+leurs messages publicitaires et de parrainage y compris sur les services de
+télévision de rattrapage, aux redevables concernés ou aux régisseurs de messages
+publicitaires et de parrainage. Ces sommes font l'objet d'un abattement
+forfaitaire de 4 % ;
 
 b) Du produit de la contribution à l'audiovisuel public encaissé par les
 redevables concernés, à l'exception de la société nationale de programme France

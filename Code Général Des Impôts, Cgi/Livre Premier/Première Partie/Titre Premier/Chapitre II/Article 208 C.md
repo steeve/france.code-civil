@@ -1,6 +1,6 @@
 Article 208 C
 ----
-I.-Les sociétés d'investissements immobiliers cotées s'entendent des sociétés
+I. - Les sociétés d'investissements immobiliers cotées s'entendent des sociétés
 par actions cotées sur un marché réglementé respectant les prescriptions de la
 directive 2004/39/ CE du Parlement européen et du Conseil du 21 avril 2004
 concernant les marchés d'instruments financiers, modifiant les directives
@@ -36,7 +36,7 @@ chacune, directement ou indirectement, moins de 2 % du capital et des droits de
 vote. Cette condition s'apprécie au premier jour du premier exercice
 d'application du présent régime.
 
-II.-Les sociétés d'investissements immobiliers cotées visées au I et leurs
+II. - Les sociétés d'investissements immobiliers cotées visées au I et leurs
 filiales détenues, individuellement ou conjointement par plusieurs sociétés
 d'investissements immobiliers cotées, à 95 % au moins, directement ou
 indirectement, de manière continue au cours de l'exercice, soumises à l'impôt
@@ -54,14 +54,14 @@ régime.
 Les bénéfices exonérés provenant des opérations de location des immeubles et de
 la sous-location des immeubles pris en crédit-bail ou dont la jouissance a été
 conférée à titre temporaire par l'Etat, une collectivité territoriale ou un de
-leurs établissements publics sont obligatoirement distribués à hauteur de 85 %
+leurs établissements publics sont obligatoirement distribués à hauteur de 95 %
 avant la fin de l'exercice qui suit celui de leur réalisation.
 
 Les bénéfices exonérés provenant de la cession des immeubles, de droits réels
 énumérés au sixième alinéa, des droits afférents à un contrat de crédit-bail
 portant sur un immeuble et des participations dans des personnes visées à
 l'article 8 ou dans des filiales soumises au présent régime sont obligatoirement
-distribués à hauteur de 50 % avant la fin du deuxième exercice qui suit celui de
+distribués à hauteur de 60 % avant la fin du deuxième exercice qui suit celui de
 leur réalisation.
 
 Sont exonérés les produits des participations prélevés sur des bénéfices
@@ -89,7 +89,7 @@ détenus en pleine propriété, ainsi que de ceux exploités en tant que titulai
 d'un usufruit ou en tant que preneur d'un bail à construction ou d'un bail
 emphytéotique.
 
-II bis.-Les plus-values de cession d'immeubles, de droits réels et de droits
+II bis. - Les plus-values de cession d'immeubles, de droits réels et de droits
 afférents à un contrat de crédit-bail portant sur un immeuble, mentionnés au II,
 entre une société d'investissements immobiliers cotée et ses filiales visées au
 II ou au III bis ou entre sociétés placées sous le régime d'imposition prévu au
@@ -103,7 +103,7 @@ du 3 et au 5 de l'article 210 A. Les réintégrations, prescrites au d du 3 de
 l'article 210 A, constituent des éléments du résultat soumis aux obligations de
 distribution mentionnées au deuxième alinéa du II.
 
-II ter.-Lorsque des produits sont distribués ou réputés distribués par une
+II ter. - Lorsque des produits sont distribués ou réputés distribués par une
 société d'investissements immobiliers cotée visée au I à un associé autre qu'une
 personne physique détenant, directement ou indirectement, au moins 10 % du
 capital de cette société et que les produits perçus par cet associé ne sont pas
@@ -135,15 +135,15 @@ comme en matière d'impôt sur les sociétés et sous les mêmes garanties et
 sanctions. Il n'est ni imputable, ni restituable. Il n'est pas admis en charge
 déductible pour la détermination du résultat de la société distributrice.
 
-III.-L'option doit être notifiée au plus tard avant la fin du quatrième mois de
-l'ouverture de l'exercice au titre duquel l'entreprise souhaite être soumise au
-présent régime, à l'exception de l'exercice clos en 2003 pour lequel l'option
+III. - L'option doit être notifiée au plus tard avant la fin du quatrième mois
+de l'ouverture de l'exercice au titre duquel l'entreprise souhaite être soumise
+au présent régime, à l'exception de l'exercice clos en 2003 pour lequel l'option
 doit être notifiée avant le 30 septembre 2003.
 
 Cette option est irrévocable.
 
-III bis.-Les sociétés soumises à l'impôt sur les sociétés mentionnées au 3° du I
-de l'article L. 214-36 du code monétaire et financier et qui ont un objet
+III bis. - Les sociétés soumises à l'impôt sur les sociétés mentionnées au 3° du
+I de l'article L. 214-36 du code monétaire et financier et qui ont un objet
 identique à celui des sociétés d'investissements immobiliers cotées visées au I
 peuvent opter dans les conditions du III pour le régime d'imposition prévu au II
 lorsqu'elles sont détenues à 95 % au moins, directement ou indirectement et de
@@ -154,7 +154,7 @@ sociétés de placement à prépondérance immobilière à capital variable ment
 au 3° nonies de l'article 208 et une ou plusieurs sociétés d'investissements
 immobiliers cotées visées au I.
 
-IV.-En cas de sortie du présent régime de la société d'investissements
+IV. - En cas de sortie du présent régime de la société d'investissements
 immobiliers cotée dans les dix années suivant l'option, les plus-values imposées
 au taux visé au IV de l'article 219 font l'objet d'une imposition au taux prévu
 au I dudit article au titre de l'exercice de sortie sous déduction de l'impôt
@@ -216,5 +216,5 @@ pas fait application des conséquences liées à la sortie du régime de la soci
 acquise, dans la mesure où celle-ci demeure filiale jusqu'à expiration de la
 période de dix ans mentionnée au premier alinéa.
 
-V.-Un décret fixe les conditions de l'option et les obligations déclaratives des
-sociétés mentionnées aux II et III bis soumises au présent régime.
+V. - Un décret fixe les conditions de l'option et les obligations déclaratives
+des sociétés mentionnées aux II et III bis soumises au présent régime.

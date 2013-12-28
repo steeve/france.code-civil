@@ -12,5 +12,3 @@ de crédit mutuel, une caisse de crédit municipal ou un centre de chèques post
 dans ses conditions générales de commercialisation, ou un livret A ou un compte
 spécial sur livret du Crédit mutuel relevant du 2 du I de l'article 146 de la
 loi n° 2008-776 du 4 août 2008 de modernisation de l'économie.
-
-Ces opérations n'entraîneront aucun frais pour le contribuable.

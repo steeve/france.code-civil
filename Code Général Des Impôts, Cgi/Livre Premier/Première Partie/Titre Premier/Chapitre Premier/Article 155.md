@@ -66,9 +66,9 @@ III.-1. Les charges et produits mentionnés au 1 du II sont retenus, suivant leu
 nature, pour la détermination :
 
 1° Des revenus fonciers, des revenus de capitaux mobiliers, des profits
-mentionnés aux articles 150 ter à 150 undecies ou des plus-values de cession à
-titre onéreux de biens ou droits de toute nature mentionnées aux articles 150-0
-A à 150 VH, selon les règles applicables à ces catégories de revenus ;
+mentionnés à l'article 150 ter ou des plus-values de cession à titre onéreux de
+biens ou droits de toute nature mentionnées aux articles 150-0 A à 150 VH, selon
+les règles applicables à ces catégories de revenus ;
 
 2° D'un bénéfice, distinct du bénéfice net, imposable dans les conditions
 prévues aux 1°,1° bis,1° ter ou 2° du I de l'article 156.

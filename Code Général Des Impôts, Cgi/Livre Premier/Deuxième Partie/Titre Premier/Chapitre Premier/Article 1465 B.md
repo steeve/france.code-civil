@@ -1,7 +1,7 @@
 Article 1465 B
 ----
 L'article 1465 s'applique également pour les opérations réalisées à compter du
-1er janvier 2009 et jusqu'au 31 décembre 2013 dans les zones d'aide à
+1er janvier 2009 et jusqu'au 31 décembre 2014 dans les zones d'aide à
 l'investissement des petites et moyennes entreprises et dans les limites prévues
 par l'article 15 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008
 déclarant certaines catégories d'aides compatibles avec le marché commun en

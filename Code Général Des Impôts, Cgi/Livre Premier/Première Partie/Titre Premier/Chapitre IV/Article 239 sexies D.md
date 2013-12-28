@@ -7,7 +7,7 @@ la cession d'immeubles à usage industriel et commercial pris en location par un
 contrat de crédit-bail d'une durée effective d'au moins quinze ans.
 
 Ces dispositions s'appliquent aux opérations conclues entre le 1er janvier 1996
-et le 31 décembre 2013 pour la location, par un contrat de crédit-bail,
+et le 31 décembre 2014 pour la location, par un contrat de crédit-bail,
 d'immeubles situés dans les zones d'aide à finalité régionale, dans les zones de
 revitalisation rurale définies au II de l'article 1465 A et dans les zones de
 redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 du

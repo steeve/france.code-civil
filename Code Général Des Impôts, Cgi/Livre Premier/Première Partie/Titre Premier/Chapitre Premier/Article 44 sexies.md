@@ -29,7 +29,7 @@ redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 
 4 février 1995 d'orientation pour l'aménagement et le développement du
 territoire ;
 
-2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2013, dans les zones
+2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2014, dans les zones
 d'aide à finalité régionale.
 
 Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en

@@ -1,11 +1,11 @@
 Article 230 H
 ----
-I. - Il est institué une contribution supplémentaire à l'apprentissage.
+I.-Il est institué une contribution supplémentaire à l'apprentissage.
 
 Cette contribution est due par les entreprises de deux cent cinquante salariés
 et plus qui sont redevables de la taxe d'apprentissage en application de
-l'article 224 et dont l'effectif annuel moyen, pour l'ensemble des catégories
-suivantes, est inférieur à un seuil :
+l'article 1599 ter A et dont l'effectif annuel moyen, pour l'ensemble des
+catégories suivantes, est inférieur à un seuil :
 
 1° Les salariés sous contrat de professionnalisation ou d'apprentissage ;
 
@@ -38,8 +38,8 @@ entreprises de deux cent cinquante salariés et plus et justifiant, par rapport 
 l'année précédente, que la progression est atteinte dans les proportions prévues
 par l'accord au titre de l'année considérée.
 
-II. - Cette contribution est assise sur les rémunérations retenues pour
-l'assiette de la taxe d'apprentissage en application des articles 225 et 225 A
+II.-Cette contribution est assise sur les rémunérations retenues pour l'assiette
+de la taxe d'apprentissage en application des articles 1599 ter B et 1599 ter C
 du présent code.
 
 Elle est calculée aux taux suivants :
@@ -67,21 +67,26 @@ seuils définis au I s'apprécient sans prendre en compte les salariés titulair
 d'un contrat de travail mentionné au 2° de l'article L. 1251-1 du même code et
 la contribution n'est pas due sur les rémunérations versées à ces salariés.
 
-IV. ― Les dépenses visées aux articles 226 bis, 227 et 227 bis ne sont pas
-admises en exonération de la contribution mentionnée au I.
+IV. ― Les dépenses visées aux articles 1599 ter E, 1599 ter F et 1599 ter G ne
+sont pas admises en exonération de la contribution mentionnée au I.
 
-Les articles 230 C, 230 D, 230 G et les I et III de l'article 1678 quinquies
-sont applicables à cette contribution. Pour les établissements mentionnés à
-l'article 230 B, les taux prévus au II sont réduits à 52 % de leur montant.
+Les articles 1599 ter K, 1599 ter L, 1599 ter M et les I et III de l'article
+1678 quinquies sont applicables à cette contribution. Pour les établissements
+mentionnés à l'article 1599 ter J, les taux prévus au II sont réduits à 52 % de
+leur montant.
 
 V. ― Le montant de la contribution mentionnée au I est versé aux organismes
 collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du
-travail avant le 1er mars de l'année suivant celle du versement des salaires.A
+travail avant le 1er mars de l'année suivant celle du versement des salaires. A
 défaut de versement ou en cas de versement insuffisant à la date précitée, le
 montant de la contribution est versé au comptable public compétent selon les
 modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance
 constatée.
 
-Les organismes mentionnés au premier alinéa reversent au comptable public
-compétent les sommes perçues en application du même alinéa au plus tard le 30
-avril de la même année. ¶
+Le produit de la contribution supplémentaire à l'apprentissage est affecté aux
+centres de formation d'apprentis et aux sections d'apprentissage, selon les
+modalités définies en application du II de l'article L. 6241-2 du code du
+travail.
+
+Les organismes mentionnés au premier alinéa reversent les sommes perçues en
+application du même premier alinéa au plus tard le 31 mai de la même année.

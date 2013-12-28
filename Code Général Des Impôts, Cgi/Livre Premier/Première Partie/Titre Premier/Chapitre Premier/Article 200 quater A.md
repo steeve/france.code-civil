@@ -66,11 +66,13 @@ le cas échéant, dans les cas prévus aux 2° et 3° du a du 1, des dépenses
 figurant sur une attestation fournie par le vendeur ou le constructeur du
 logement.
 
-Le crédit d'impôt est accordé sur présentation de l'attestation mentionnée au
-premier alinéa ou des factures, autres que les factures d'acompte, des
-entreprises ayant réalisé les travaux et comportant, outre les mentions prévues
-à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la
-désignation et le montant des équipements et travaux mentionnés au 1.
+Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt, sous
+réserve que le contribuable soit en mesure de présenter, à la demande de
+l'administration fiscale, l'attestation mentionnée au premier alinéa du présent
+6 ou les factures, autres que des factures d'acompte, des entreprises ayant
+réalisé les travaux et comportant, outre les mentions prévues à l'article 289,
+l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le
+montant des équipements et travaux mentionnés au 1.
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des
 réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits

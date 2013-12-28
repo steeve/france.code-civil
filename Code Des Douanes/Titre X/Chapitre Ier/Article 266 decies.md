@@ -1,10 +1,12 @@
 Article 266 decies
 ----
 1. Les lubrifiants mentionnés au a du 4 du I de l'article 266 sexies, donnent
-lieu sur demande à remboursement de la taxe afférente lorsque l'utilisation
-particulière des lubrifiants ne produit pas d'huiles usagées ou lorsque ces
-lubrifiants sont expédiés à destination d'un Etat membre de la Communauté
-européenne, exportés ou livrés à l'avitaillement.
+lieu sur demande du redevable de la taxe générale sur les activités polluantes
+ou de celui qui l'a supportée à remboursement de la taxe afférente, dans les
+conditions prévues à l'article 352, lorsque l'utilisation particulière des
+lubrifiants ne produit pas d'huiles usagées ou lorsque ces lubrifiants sont
+expédiés à destination d'un Etat membre de l'Union européenne, exportés ou
+livrés à l'avitaillement.
 
 2. Les personnes mentionnées au 2 du I de l'article 266 sexies, membres des
 organismes de surveillance de la qualité de l'air prévus par l'article 3 de la
@@ -19,9 +21,11 @@ concurrence de 25 % des cotisations de taxe dues.
 3. Les préparations pour lessives, y compris les préparations auxiliaires de
 lavage, les produits adoucissants ou assouplissants pour le linge, les matériaux
 d'extraction, les sacs de caisse à usage unique en matière plastique, mentionnés
-respectivement aux 5, 6 et 10 du I de l'article 266 sexies donnent lieu, sur
-demande, à remboursement de la taxe acquittée lorsqu'ils sont expédiés à
-destination d'un Etat membre de la Communauté européenne ou exportés.
+respectivement aux 5,6 et 10 du I de l'article 266 sexies donnent lieu, sur
+demande du redevable de la taxe générale sur les activités polluantes ou de
+celui qui l'a supportée, à remboursement de la taxe acquittée, dans les
+conditions prévues à l'article 352, lorsqu'ils sont expédiés à destination d'un
+Etat membre de l'Union européenne ou exportés.
 
 4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent
 répercuter la taxe afférente dans les contrats conclus avec les personnes
@@ -34,21 +38,21 @@ répercuter la taxe afférente dans les contrats conclus avec les personnes
 physiques ou morales auxquelles elles vendent les produits correspondants.
 
 6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4
-et aux 5, 6 et 10 du I de l'article 266 sexies sont autorisées à acquérir ou
+et aux 5,6 et 10 du I de l'article 266 sexies sont autorisées à acquérir ou
 importer, en suspension de la taxe générale sur les activités polluantes, ces
 mêmes produits qu'elles destinent à une livraison à l'exportation ou vers un
-autre Etat membre de la Communauté européenne, dans la limite de la taxe
-générale sur les activités polluantes qui aurait été acquittée au cours de
-l'année précédente si les livraisons avaient été soumises à la taxe.
+autre Etat membre de l'Union européenne, dans la limite de la taxe générale sur
+les activités polluantes qui aurait été acquittée au cours de l'année précédente
+si les livraisons avaient été soumises à la taxe.
 
 Pour bénéficier des dispositions du premier alinéa, les intéressés doivent,
 selon le cas, adresser à leurs fournisseurs ou remettre au service des douanes
 et droits indirects dont ils dépendent une attestation visée par ledit service,
 certifiant que les produits sont destinés à faire l'objet, en l'état ou après
 transformation, d'une livraison à l'exportation ou vers un autre Etat membre de
-la Communauté européenne. Cette attestation doit comporter l'engagement
-d'acquitter la taxe générale sur les activités polluantes au cas où les produits
-ne recevraient pas la destination qui a motivé la suspension.
+l'Union européenne. Cette attestation doit comporter l'engagement d'acquitter la
+taxe générale sur les activités polluantes au cas où les produits ne recevraient
+pas la destination qui a motivé la suspension.
 
 Pour l'application du deuxième alinéa, toute personne qui a été autorisée à
 acquérir ou importer des produits visés ci-dessus en suspension de la taxe

@@ -1,12 +1,20 @@
 Article 44 duodecies
 ----
 I.-Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31
-décembre 2013 dans les bassins d'emploi à redynamiser définis au 3 bis de
+décembre 2014 dans les bassins d'emploi à redynamiser définis au 3 bis de
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire sont exonérés d'impôt sur le
 revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des
 activités implantées dans le bassin d'emploi et réalisés jusqu'au terme du
 quatre-vingt-troisième mois suivant le début d'activité dans le bassin d'emploi.
+Les contribuables qui créent des activités à compter du 1er janvier 2014
+bénéficient de l'exonération mentionnée à la première phrase du présent alinéa à
+raison des bénéfices provenant des activités implantées dans le bassin d'emploi
+et réalisés jusqu'au terme du cinquante-neuvième mois suivant le début
+d'activité dans le bassin d'emploi. Les contribuables mentionnés à la deuxième
+phrase du présent alinéa perdent le bénéfice de l'exonération à compter de
+l'exercice au cours duquel ils procèdent à une distribution de dividendes à
+leurs actionnaires.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité
 industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de
@@ -52,8 +60,9 @@ b) Produits correspondant aux subventions, libéralités et abandons de créance
 
 c) Produits de créances et d'opérations financières pour le montant qui excède
 le montant des frais financiers engagés au cours du même exercice ou de la même
-année d'imposition si le contribuable n'est pas un établissement de crédit visé
-à l'article L. 511-1 du code monétaire et financier ;
+année d'imposition si le contribuable n'est pas un établissement de crédit ou
+une société de financement visé à l'article L. 511-1 du code monétaire et
+financier ;
 
 d) Produits tirés des droits de la propriété industrielle et commerciale lorsque
 ces droits n'ont pas leur origine dans l'activité exercée dans un bassin

@@ -47,9 +47,9 @@ conditions prévues au huitième alinéa du 1 de l'article 242 ter et à l'artic
 II (Abrogé).
 
 III.-Entraîne l'application d'une amende égale à 5 % des sommes non déclarées le
-non-respect des obligations prévues par les articles 87, 87 A, 88 et 241.
+non-respect des obligations prévues par les articles 87,87 A, 88 et 241.
 
-IV. - 1. Les infractions au premier alinéa de l'article 1649 A sont passibles
+IV.-1. Les infractions au premier alinéa de l'article 1649 A sont passibles
 d'une amende de 1 500 € par ouverture ou clôture de compte non déclarée.
 
 Sauf cas de force majeure, les omissions de déclaration de modification de
@@ -85,8 +85,8 @@ VI.-Les infractions mentionnées à l'article 1649 A quater font l'objet d'une
 amende de 1 000 € par transformateur non déclaré et qui ne peut excéder 10 000
 €.
 
-VII. - 1. En cas de manquement à ses obligations déclaratives mentionnées au IX
-de l'article 235 ter ZD, le dépositaire central acquitte une amende de 20 000 €
+VII.-1. En cas de manquement à ses obligations déclaratives mentionnées au IX de
+l'article 235 ter ZD, le dépositaire central acquitte une amende de 20 000 €
 pour absence de dépôt de la déclaration et, dans la limite de 20 000 € par
 déclaration, de 150 € par omission ou inexactitude déclarative.
 
@@ -94,8 +94,16 @@ déclaration, de 150 € par omission ou inexactitude déclarative.
 l'administration des informations mentionnées au X du même article 235 ter ZD,
 le dépositaire central acquitte une amende de 20 000 €.
 
-VIII. - Le défaut de production, sur demande de l'administration, de
-l'attestation mentionnée à l'article 242 quater par les personnes qui assurent
-le paiement des revenus mentionnés au premier alinéa du 1 du I de l'article 117
-quater et au premier alinéa du I de l'article 125 A entraîne l'application d'une
-amende de 150 €.
+VIII.-Le défaut de production, sur demande de l'administration, de l'attestation
+mentionnée à l'article 242 quater par les personnes qui assurent le paiement des
+revenus mentionnés au premier alinéa du 1 du I de l'article 117 quater et au
+premier alinéa du I de l'article 125 A entraîne l'application d'une amende de
+150 €.
+
+IX.-Les infractions à l'article 242 ter E sont passibles d'une amende de 100 €
+par profit ou par perte non déclaré et qui ne peut excéder 50 000 € par
+déclaration. L'amende n'est pas applicable, en cas de première infraction
+commise au cours de l'année civile en cours et des trois années précédentes,
+lorsque les intéressés ont réparé leur omission soit spontanément, soit à la
+première demande de l'administration avant la fin de l'année au cours de
+laquelle la déclaration devait être souscrite.

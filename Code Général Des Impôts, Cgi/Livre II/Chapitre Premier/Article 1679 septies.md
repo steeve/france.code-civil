@@ -32,8 +32,8 @@ valeur ajoutée des entreprises dans la proportion entre :
 
 -d'une part, le montant total correspondant aux exonérations et abattements de
 cotisations foncières des entreprises au titre de l'année précédente, en
-application du 3° de l'article 1459, des articles 1464 à 1464 I et des articles
-1465 à 1466 F ;
+application du 3° de l'article 1459, des articles 1464 à 1464 I, de l'article
+1464 L et des articles 1465 à 1466 F ;
 
 -et, d'autre part, le montant visé au septième alinéa majoré du montant total
 des cotisations foncières des entreprises dû au titre de l'année précédente.

@@ -10,7 +10,7 @@ sur les propriétés bâties pour une durée de cinq ans. Le bénéfice des
 exonérations prenant effet en 2006 dans les zones mentionnées au deuxième alinéa
 du B du 3 de l'article 42 de la même loi, et de celles prenant effet à compter
 de 2013 dans les zones franches urbaines définies au même B, est subordonné au
-respect du règlement (CE) n° 1998 /2006 de la Commission du 15 décembre 2006
+respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 L'exonération s'applique aux immeubles rattachés, entre le 1er janvier 2006 et
@@ -22,15 +22,18 @@ Elle s'applique à compter du 1er janvier 2006 ou à compter du 1er janvier de
 l'année qui suit celle où est intervenu le rattachement à un établissement
 remplissant les conditions requises, si elle est postérieure.
 
-Les dispositions de la dernière phrase du deuxième alinéa du I de l'article 1383
-F et des deuxième à quatrième alinéas de l'article 1383 C s'appliquent au
-présent article.
+L'exonération cesse définitivement de s'appliquer à compter du 1er janvier de la
+deuxième année qui suit la période de référence, mentionnée à l'article 1467 A,
+pendant laquelle le redevable ne remplit plus les conditions requises.
+
+Les deuxième à quatrième alinéas de l'article 1383 C s'appliquent au présent
+article.
 
 Lorsque les conditions requises pour bénéficier des exonérations prévues aux
-articles 1383 A à 1383 D et 1383 F sont remplies, le contribuable doit opter
-pour l'un ou l'autre de ces régimes avant le 1er janvier de la première année au
-titre de laquelle l'exonération prend effet.L'option est irrévocable et vaut
-pour l'ensemble des collectivités.
+articles 1383 A à 1383 D sont remplies, le contribuable doit opter pour l'un ou
+l'autre de ces régimes avant le 1er janvier de la première année au titre de
+laquelle l'exonération prend effet. L'option est irrévocable et vaut pour
+l'ensemble des collectivités.
 
 Les obligations déclaratives des personnes et organismes concernés par les
 exonérations prévues au présent article sont fixées par décret.

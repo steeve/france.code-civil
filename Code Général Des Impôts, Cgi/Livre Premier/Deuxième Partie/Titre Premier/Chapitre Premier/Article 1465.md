@@ -3,15 +3,16 @@ Article 1465
 Dans les zones définies par l'autorité compétente où l'aménagement du territoire
 le rend utile, les communes et leurs établissements publics de coopération
 intercommunale dotés d'une fiscalité propre peuvent, par une délibération de
-portée générale, exonérer de la cotisation foncière des entreprises en totalité
-ou en partie les entreprises qui procèdent sur leur territoire, soit à des
-extensions ou créations d'activités industrielles ou de recherche scientifique
-et technique, ou de services de direction, d'études, d'ingénierie et
-d'informatique, soit à une reconversion dans le même type d'activités, soit à la
-reprise d'établissements en difficulté exerçant le même type d'activités. Cette
+portée générale prise dans les conditions prévues au I de l'article 1639 A bis,
+exonérer de la cotisation foncière des entreprises en totalité ou en partie les
+entreprises qui procèdent sur leur territoire, soit à des extensions ou
+créations d'activités industrielles ou de recherche scientifique et technique,
+ou de services de direction, d'études, d'ingénierie et d'informatique, soit à
+une reconversion dans le même type d'activités, soit à la reprise
+d'établissements en difficulté exerçant le même type d'activités. Cette
 délibération ne peut avoir pour effet de reporter de plus de cinq ans
 l'application du régime d'imposition de droit commun. Pour les opérations
-réalisées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013, les
+réalisées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2014, les
 exonérations s'appliquent dans les zones d'aide à finalité régionale.
 
 Lorsqu'il s'agit d'extensions ou de créations d'établissements industriels ou de
@@ -56,7 +57,7 @@ de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre
 de la cotisation foncière des entreprises.
 
 Le bénéfice de l'exonération est subordonné au respect de l'article 13 du
-règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
+règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines
 catégories d'aides compatibles avec le marché commun en application des articles
 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
@@ -64,7 +65,7 @@ Lorsque l'entreprise ne satisfait pas aux conditions mentionnées au deuxième
 alinéa de l'article 1465 B et que l'opération est réalisée à compter du 1er
 janvier 2007 dans une zone d'aide à finalité régionale limitée aux petites et
 moyennes entreprises, le bénéfice de l'exonération est subordonné au respect du
-règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent

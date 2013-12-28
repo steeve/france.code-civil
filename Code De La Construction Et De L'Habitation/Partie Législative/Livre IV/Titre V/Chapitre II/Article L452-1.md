@@ -4,12 +4,15 @@ La Caisse de garantie du logement locatif social est un établissement public
 national à caractère administratif. Elle gère un fonds de garantie de prêts au
 logement social. Elle est substituée de plein droit dans les droits et
 obligations de la Caisse de garantie du logement social visée à l'article L.
-431-1, à compter du 1er janvier 2001. Elle contribue, dans les conditions fixées
-à l'article L. 452-1-1, à la mise en œuvre de la politique du logement en
-matière de développement de l'offre de logement locatif social et de rénovation
-urbaine. Elle contribue, notamment par des concours financiers, à la prévention
-des difficultés financières et au redressement des organismes d'habitations à
-loyer modéré, des sociétés d'économie mixte et des organismes bénéficiant de
+431-1, à compter du 1er janvier 2001.
+
+Elle contribue, dans les conditions fixées à l'article L. 452-1-1, à la mise en
+œuvre de la politique du logement en matière de développement de l'offre de
+logement locatif social et de rénovation urbaine.
+
+Elle contribue, notamment par des concours financiers, à la prévention des
+difficultés financières et au redressement des organismes d'habitations à loyer
+modéré, des sociétés d'économie mixte et des organismes bénéficiant de
 l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 pour ce
 qui concerne leur activité locative sociale, pour leur permettre en particulier
 d'assurer la qualité de l'habitat.
@@ -22,9 +25,12 @@ actions de formation ou de soutien technique au profit des organismes
 d'habitations à loyer modéré et des sociétés d'économie mixte pour leur
 permettre de mener des actions ou opérations de renouvellement urbain.
 
-Elle contribue, dans les conditions prévues au II de l'article 5 de la loi n°
-2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre
-l'exclusion, au financement de l'Agence nationale pour la rénovation urbaine.
+A compter de l'année 2014 et jusqu'en 2024, la Caisse de garantie du logement
+locatif social verse chaque année à l'Agence nationale pour la rénovation
+urbaine un concours financier de 30 millions d'euros pour la mise en œuvre des
+actions de rénovation urbaine et de renouvellement urbain prévues par la loi n°
+2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la
+rénovation urbaine.
 
 Elle concourt, par ses participations aux frais de l'union et des fédérations
 groupant les organismes d'habitations à loyer modéré et aux frais de la

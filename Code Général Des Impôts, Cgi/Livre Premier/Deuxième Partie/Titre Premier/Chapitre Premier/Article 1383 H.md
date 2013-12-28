@@ -9,7 +9,7 @@ territoire sont exonérés de taxe foncière sur les propriétés bâties pour u
 durée de cinq ans.
 
 L'exonération s'applique aux immeubles rattachés, entre le 1er janvier 2007 et
-le 31 décembre 2013 inclus, à un établissement remplissant les conditions
+le 31 décembre 2014 inclus, à un établissement remplissant les conditions
 requises pour bénéficier de l'exonération prévue au I quinquies A de l'article
 1466 A. Elle s'applique à compter du 1er janvier de l'année qui suit celle où
 est intervenu le rattachement à un établissement remplissant les conditions

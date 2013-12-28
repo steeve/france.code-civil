@@ -90,12 +90,12 @@ autres que Paris et les communes du département des Hauts-de-Seine ;
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France.
 
 Par dérogation, les communes de la région d'Ile-de-France éligibles à la fois,
-pour l'année en cause, à la dotation de solidarité urbaine et de cohésion
-sociale et au bénéfice du fonds de solidarité des communes de la région
-d'Ile-de-France, respectivement prévus aux articles L. 2334-15 et L. 2531-12 du
-code général des collectivités territoriales, sont, quelle que soit leur
-situation géographique, classées pour le calcul de la taxe dans la troisième
-circonscription.
+pour l'année précédant celle de l'imposition (1), à la dotation de solidarité
+urbaine et de cohésion sociale et au bénéfice du fonds de solidarité des
+communes de la région d'Ile-de-France, respectivement prévus aux articles L.
+2334-15 et L. 2531-12 du code général des collectivités territoriales, sont,
+quelle que soit leur situation géographique, classées pour le calcul de la taxe
+dans la troisième circonscription.
 
 Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à
 usage de bureaux, un tarif réduit est appliqué pour les locaux possédés par
@@ -193,10 +193,10 @@ mentionnées aux a à c :
 
 0,67
 
-e) Ces tarifs sont actualisés par arrêté du ministre chargé de l'économie au 1er
-janvier de chaque année en fonction du dernier indice du coût de la construction
-publié par l'Institut national de la statistique et des études économiques. Les
-valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
+e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction du
+dernier indice du coût de la construction publié par l'Institut national de la
+statistique et des études économiques. Les valeurs sont arrondies, s'il y a
+lieu, au centime d'euro supérieur.
 
 VI bis-Pour l'application des dispositions des V et VI, les parcs d'exposition
 et locaux à usage principal de congrès sont assimilés à des locaux de stockage.

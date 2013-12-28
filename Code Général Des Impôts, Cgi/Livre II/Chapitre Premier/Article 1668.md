@@ -57,13 +57,17 @@ groupe.
 
 2. Il est procédé à une liquidation de l'impôt dû à raison des résultats de la
 période d'imposition mentionnée par la déclaration prévue au 1 de l'article 223.
+
 S'il résulte de cette liquidation un complément d'impôt, il est acquitté lors du
 dépôt du relevé de solde au plus tard le 15 du quatrième mois qui suit la
-clôture de l'exercice ou, si aucun exercice n'est clos en cours d'année, le 15
-mai de l'année suivante. Si la liquidation fait apparaître que les acomptes
-versés sont supérieurs à l'impôt dû, l'excédent, défalcation faite des autres
-impôts directs dus par l'entreprise, est restitué dans les trente jours de la
-date de dépôt du relevé de solde.
+clôture de l'exercice. Si l'exercice est clos au 31 décembre ou si aucun
+exercice n'est clos en cours d'année, le relevé de solde est à déposer au plus
+tard le 15 mai de l'année suivante.
+
+Si la liquidation fait apparaître que les acomptes versés sont supérieurs à
+l'impôt dû, l'excédent, défalcation faite des autres impôts directs dus par
+l'entreprise, est restitué dans les trente jours à compter de la date de dépôt
+du relevé de solde et de la déclaration prévue au 1 de l'article 223.
 
 3. (Transféré sous le 5).
 

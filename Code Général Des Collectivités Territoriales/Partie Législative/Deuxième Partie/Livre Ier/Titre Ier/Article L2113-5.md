@@ -1,6 +1,6 @@
 Article L2113-5
 ----
-I.-En cas de création d'une commune nouvelle en lieu et place de communes
+I. - En cas de création d'une commune nouvelle en lieu et place de communes
 appartenant à un même établissement public de coopération intercommunale à
 fiscalité propre, l'arrêté portant création de ladite commune nouvelle emporte
 également suppression de l'établissement public de coopération intercommunale à
@@ -22,10 +22,6 @@ personne morale dans les contrats conclus par l'établissement public de
 coopération intercommunale supprimé et les communes n'entraîne aucun droit à
 résiliation ou à indemnisation pour le cocontractant.
 
-La création de la commune nouvelle est effectuée à titre gratuit et ne donne
-lieu au paiement d'aucune indemnité ni d'aucun droit, taxe, salaire ou
-honoraires.
-
 L'ensemble des personnels de l'établissement public de coopération
 intercommunale supprimé et des communes dont est issue la commune nouvelle est
 réputé relever de cette dernière dans les conditions de statut et d'emploi qui
@@ -39,7 +35,7 @@ La commune nouvelle est substituée à l'établissement public de coopération
 intercommunale supprimé et aux communes dont elle est issue dans les syndicats
 dont ils étaient membres.
 
-II.-Lorsque la commune nouvelle est issue de communes contiguës membres
+II. - Lorsque la commune nouvelle est issue de communes contiguës membres
 d'établissements publics de coopération intercommunale à fiscalité propre
 distincts, le conseil municipal de la commune nouvelle délibère dans le mois de
 sa création sur l'établissement public dont elle souhaite être membre.
@@ -70,7 +66,7 @@ Le retrait du ou des autres établissements publics de coopération intercommuna
 établissements publics précités sont membres, dans les conditions fixées au
 troisième alinéa de l'article L. 5211-19.
 
-III.-Par dérogation au II, si l'une des communes contiguës dont est issue la
+III. - Par dérogation au II, si l'une des communes contiguës dont est issue la
 commune nouvelle est membre d'une communauté urbaine ou d'une métropole, un
 arrêté du représentant de l'Etat dans le département prononce le rattachement de
 la commune nouvelle à cette communauté urbaine ou à cette métropole. Jusqu'à cet
@@ -84,7 +80,11 @@ Le retrait du ou des autres établissements publics de coopération intercommuna
 établissements publics précités sont membres, dans les conditions fixées au
 troisième alinéa de l'article L. 5211-19.
 
-IV.-L'arrêté du représentant de l'Etat dans le département prononçant la
+IV. - L'arrêté du représentant de l'Etat dans le département prononçant la
 création de la commune nouvelle peut prévoir que sera opérée une nouvelle
 dévolution de tout ou partie des biens ou des droits distincts de ceux de la
 commune nouvelle, y compris l'excédent disponible.
+
+V. - La création de la commune nouvelle est effectuée à titre gratuit et ne
+donne lieu au paiement d'aucune indemnité, ni d'aucuns droit, taxe, salaire ou
+honoraires.

@@ -8,7 +8,9 @@ Sont exonérés des droits de mutation à titre gratuit :
 
 3° les parts d'intérêts détenues dans un groupement forestier à concurrence des
 trois-quarts de la fraction de la valeur nette correspondant aux biens visés au
-a ci-après, à condition :
+a ci-après et les sommes déposées sur un compte d'investissement forestier et
+d'assurance prévu au chapitre II du titre V du livre III du code forestier, à
+condition :
 
 a. que l'acte constatant la donation ou la déclaration de la succession soit
 appuyé d'un certificat délivré sans frais par le directeur départemental des
@@ -26,7 +28,7 @@ les terrains pastoraux appartenant au groupement sont susceptibles d'un régime
 d'exploitation normale ;
 
 b. que le groupement forestier prenne, selon le cas, l'un des engagements prévus
-au b du 2° du 2 ;
+au b du 2° du 2 et au b du 3 ;
 
 Ce groupement doit s'engager en outre :
 
@@ -104,11 +106,11 @@ du code forestier ;
 b. qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
 pris pour lui et ses ayants cause :
 
--soit d'appliquer pendant trente ans aux bois et forêts objets de la mutation
+- soit d'appliquer pendant trente ans aux bois et forêts objets de la mutation
 l'une des garanties de gestion durable prévues aux articles L. 124-1 à L. 124-4
 et à l'article L. 313-2 dudit code ;
 
--soit lorsque, au moment de la mutation, aucune garantie de gestion durable
+- soit lorsque, au moment de la mutation, aucune garantie de gestion durable
 n'est appliquée aux bois et forêts en cause, de présenter dans le délai de trois
 ans à compter de la mutation et d'appliquer jusqu'à l'expiration du délai de
 trente ans précité une telle garantie. Dans cette situation, le bénéficiaire
@@ -117,9 +119,9 @@ du 28 juin 1930 aux bois et forêts pendant le délai nécessaire à la présent
 de l'une des garanties de gestion durable.
 
 En cas de transmission de bois et forêts à l'Etat ou aux collectivités et
-organismes mentionnés à l'article 1042, l'engagement est réputé définitivement
-satisfait à concurrence d'une fraction de la valeur des biens exonérée
-déterminée par le rapport entre la superficie des biens objets de la
+organismes mentionnés aux I et II de l'article 1042 , l'engagement est réputé
+définitivement satisfait à concurrence d'une fraction de la valeur des biens
+exonérée déterminée par le rapport entre la superficie des biens objets de la
 transmission et la superficie totale des biens sur lesquels l'engagement a été
 souscrit. La même règle s'applique aux mutations de jouissance ou de propriété
 au profit d'établissements ou de sociétés, en vue de la réalisation
@@ -236,13 +238,25 @@ En cas de transmission de propriétés non bâties, qui sont incluses dans les
 espaces naturels délimités en application des articles L. 331-2, L. 332-2 à L.
 332-2-2, L. 341-2 et L. 414-1 du code de l'environnement et de leurs textes
 d'application, ou délimités en application de l'article L. 146-6 du code de
-l'urbanisme, à l'Etat ou aux collectivités et organismes mentionnés à l'article
-1042 du présent code, l'engagement est réputé définitivement satisfait à
-concurrence d'une fraction de la valeur des biens exonérée, celle-ci étant
-déterminée par le rapport entre la superficie des biens objets de la
+l'urbanisme, à l'Etat ou aux collectivités et organismes mentionnés aux I et II
+de l'article 1042 du présent code, l'engagement est réputé définitivement
+satisfait à concurrence d'une fraction de la valeur des biens exonérée, celle-ci
+étant déterminée par le rapport entre la superficie des biens objets de la
 transmission et la superficie totale des biens sur lesquels l'engagement a été
 souscrit. La même règle s'applique aux mutations de jouissance ou de propriété
 au profit d'établissements ou de sociétés, en vue de la réalisation
 d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
 donner lieu à l'établissement d'une servitude d'utilité publique au titre de
 ladite mutation.
+
+3. Les sommes, à concurrence des trois quarts de leur montant, déposées sur le
+compte d'investissement forestier et d'assurance mentionné aux articles L. 352-1
+à L. 352-5 du code forestier, à condition : a) Que l'acte constatant la donation
+ou la déclaration de succession soit appuyé d'un certificat délivré par le
+directeur départemental des territoires ou le directeur départemental des
+territoires et de la mer attestant que les bois et forêts du titulaire du compte
+sont susceptibles de présenter une des garanties de gestion durable prévues à
+l'article L. 124-1 du code forestier ; b) Qu'il contienne l'engagement par
+l'héritier, le légataire ou le donataire, pris pour lui et ses ayants cause,
+d'employer les sommes objets de la mutation conformément aux articles L. 352-3
+et L. 352-4 du même code pendant trente ans.

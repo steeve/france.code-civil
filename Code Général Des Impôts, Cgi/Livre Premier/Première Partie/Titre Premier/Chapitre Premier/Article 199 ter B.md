@@ -10,7 +10,8 @@ trois années suivant celle au titre de laquelle elle est constatée puis, s'il 
 a lieu, la fraction non utilisée est remboursée à l'expiration de cette période.
 
 La créance est inaliénable et incessible, sauf dans les cas et conditions prévus
-par les articles L. 313-23 à L. 313-35 du code monétaire et financier.
+par les articles L. 214-169 à L. 214-190 et L. 313-23 à L. 313-35 du code
+monétaire et financier.
 
 En cas de fusion ou d'opération assimilée intervenant au cours de la période
 mentionnée à la dernière phrase du premier alinéa, la fraction de la créance qui

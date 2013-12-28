@@ -32,7 +32,7 @@ qui sont émises pour leur compte ;
 2° Les personnes qui produisent de l'électricité et l'utilisent pour leurs
 propres besoins.
 
-4.L'électricité n'est pas soumise à la taxe mentionnée au 1 dans les cas
+4. L'électricité n'est pas soumise à la taxe mentionnée au 1 dans les cas
 suivants :
 
 1° Lorsqu'elle est principalement utilisée dans des procédés métallurgiques,
@@ -52,7 +52,7 @@ produits énergétiques, pour les besoins de la production des produits
 énergétiques eux-mêmes ou pour ceux de la production de tout ou partie de
 l'énergie nécessaire à leur fabrication.
 
-5.L'électricité est exonérée de la taxe mentionnée au 1 lorsqu'elle est :
+5. L'électricité est exonérée de la taxe mentionnée au 1 lorsqu'elle est :
 
 1° Utilisée pour la production de l'électricité et pour le maintien de la
 capacité de production de l'électricité ;
@@ -121,8 +121,12 @@ Les fournisseurs d'électricité non établis en France désignent une personne 
 y est établie et a été enregistrée auprès de l'administration des douanes et
 droits indirects pour effectuer en leur lieu et place les obligations qui leur
 incombent et acquitter la taxe intérieure sur la consommation finale
-d'électricité.A défaut, la taxe est due par le destinataire du produit soumis à
+d'électricité. A défaut, la taxe est due par le destinataire du produit soumis à
 accise.
+
+Les fournisseurs communiquent chaque année à l'administration des douanes la
+liste de leurs clients non domestiques, selon les modalités définies par arrêté
+du ministre chargé du budget.
 
 9. La taxe est acquittée, selon une périodicité trimestrielle, auprès de
 l'administration des douanes et des droits indirects.
@@ -137,6 +141,14 @@ dispensés de l'obligation d'établir la déclaration.
 
 La forme de la déclaration d'acquittement et les modalités déclaratives sont
 définies par arrêté du ministre chargé du budget.
+
+La déclaration d'acquittement peut être effectuée par voie électronique.
+
+10. Lorsque l'électricité a été normalement soumise à la taxe intérieure de
+consommation alors qu'elle a été employée en tout ou partie par l'utilisateur
+final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 du
+présent article, l'utilisateur final peut demander le remboursement de la taxe
+ou de la fraction de taxe, dans les conditions prévues à l'article 352.
 
 Un décret détermine les modalités d'application de l'assiette de la taxe lorsque
 les livraisons d'électricité donnent lieu, de la part des fournisseurs, à des
