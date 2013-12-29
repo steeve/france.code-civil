@@ -418,6 +418,8 @@ Commerces de gros et de détail
 
 Ameublement (établissements de commerce de détail).
 
+Bricolage (établissements de commerce de détail) (1)
+
 Débits de tabac.
 
 Distribution de carburants et lubrifiants pour automobiles (postes de).
