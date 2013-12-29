@@ -63,8 +63,3 @@ de leurs droits. Les parties concernées ne peuvent utiliser cette pièce, qui
 demeure couverte par le secret protégé par la loi, que dans le cadre de la
 procédure devant la Haute Autorité et des voies de recours éventuelles contre
 les décisions de celle-ci.
-
-IV.-Les décisions prises par le président de la Haute Autorité en application
-des dispositions du présent article ne peuvent être contestées qu'à l'occasion
-du recours dirigé contre les décisions de la Haute Autorité rendues en
-application des articles R. 331-68 à R. 331-70.
