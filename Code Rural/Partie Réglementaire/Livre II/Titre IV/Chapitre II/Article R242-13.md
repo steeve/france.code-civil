@@ -1,6 +1,8 @@
 Article R242-13
 ----
-Chaque électeur a la faculté, le jour du scrutin, de déposer lui-même entre les
-mains du président du bureau de vote son bulletin inséré dans les deux
-enveloppes mentionnées à l'article R. 242-12. La séance est ouverte au moins une
-heure avant l'heure fixée pour le dépouillement du scrutin.
+Pour les électeurs ne disposant pas d'un accès à internet, un ordinateur
+permettant de se connecter au site de vote est mis à leur disposition, aux
+heures et jours ouvrables pendant la période de vote et dans des conditions
+permettant la confidentialité du vote, dans chaque département concerné par les
+élections. Lors du vote, l'électeur peut se faire assister par une personne de
+son choix.

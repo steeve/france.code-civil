@@ -1,27 +1,39 @@
 Article R242-30
 ----
-Si des vacances se produisent parmi les membres des conseils régionaux et du
-conseil supérieur de l'ordre par suite de décès, démission ou pour toute autre
-cause, il est procédé aux élections complémentaires dans les mêmes conditions de
-vote dans les trois mois qui suivent la déclaration de vacance faite à la
-diligence du bureau. En ce cas, les fonctions des nouveaux membres expirent à
-l'époque où auraient cessé celles des membres qu'ils remplacent. Si des
-élections sont annulées par arrêté du ministre chargé de l'agriculture pris en
-vertu du présent article ou par décision d'une juridiction administrative, le
-ministre chargé de l'agriculture fixe par arrêté la date des nouvelles élections
-dans un délai qui ne pourra excéder huit semaines à compter de la publication au
-Journal officiel de la République française de l'arrêté portant annulation des
-élections ou de la notification de la décision de la juridiction administrative
-précitée.
+I. - Si une vacance parmi les membres d'un conseil régional ou du Conseil
+supérieur de l'ordre par suite de décès, démission ou pour toute autre cause,
+est de nature à entraîner la tenue de nouvelles élections en application du II
+du présent article, le bureau du Conseil supérieur de l'ordre la déclare, le cas
+échéant, après en avoir été informé par le conseil régional concerné, auprès du
+ministre chargé de l'agriculture.
 
-Les démissions, tant au conseil supérieur qu'aux conseils régionaux, doivent
-être adressées par lettres recommandées au président du conseil supérieur ou au
-président du conseil régional qui en accuse réception et déclare, s'il y a lieu,
-le poste vacant, sous réserve des dispositions ci-après :
+Les démissions, tant au Conseil supérieur qu'aux conseils régionaux, doivent
+être adressées par lettres recommandées au président du Conseil supérieur ou au
+président du conseil régional qui en accuse réception.
 
-Si une vacance se produit dans l'année précédant la date des élections pour le
-renouvellement de membres du conseil, elle ne donne pas lieu à élection
-complémentaire. Toutefois, cette disposition n'est pas applicable en cas de
-démissions collectives ou de vacances dépassant la moitié des membres composant
-ledit conseil et empêchant le fonctionnement des chambres de discipline prévues
-à l'article L. 242-5.
+II. - Lorsqu'un conseil régional ou le Conseil supérieur de l'ordre a perdu, par
+l'effet des vacances survenues, le quart de ses membres, il est, dans le délai
+de deux mois à compter de la déclaration de vacance, procédé à des élections
+complémentaires dans les conditions prévues aux sous-sections 3 et 4.
+
+Toutefois, dans l'année qui précède la date des élections pour le renouvellement
+des membres du conseil concerné, les élections complémentaires ne sont
+obligatoires qu'au cas où ce conseil a perdu plus de la moitié de ses membres.
+
+Lorsque l'élection complémentaire intervient au moment des élections pour le
+renouvellement de membres du conseil, ou lorsqu'elle fait suite à plusieurs
+vacances pour des mandats restant à courir de durées différentes, le conseil
+procède, lors de sa première réunion, par voie de tirage au sort à la
+désignation du ou des membres dont le mandat ne court que jusqu'à l'élection
+suivante, sauf volonté exprimée par un ou plusieurs des élus de réduire la durée
+de leur mandat.
+
+III. - En cas d'annulation des élections par décision d'une juridiction
+administrative, le ministre chargé de l'agriculture fixe par arrêté la date des
+nouvelles élections dans un délai qui ne pourra excéder deux mois à compter de
+la notification de la décision d'annulation.
+
+Le conseil procède, lors de sa première réunion, par voie de tirage au sort à la
+désignation des membres dont le mandat ne court que jusqu'à l'élection suivante,
+sauf volonté exprimée par un ou plusieurs des élus de réduire la durée de leur
+mandat à trois ans.

@@ -1,4 +1,5 @@
 Article R242-20
 ----
-Les membres du conseil supérieur de l'ordre sont élus par les membres des
-conseils régionaux. Chaque électeur dispose d'une voix.
+Chaque associé d'une société d'exercice en commun est individuellement électeur
+et éligible au Conseil supérieur de l'ordre sans que la société soit elle-même
+électrice ou éligible.

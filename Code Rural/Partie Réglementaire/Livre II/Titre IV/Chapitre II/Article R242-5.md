@@ -14,11 +14,9 @@ Les élections du bureau ont lieu à bulletin secret, à la majorité absolue au
 premier tour, à la majorité relative au second tour. En cas d'égalité de
 suffrages entre deux candidats, le plus âgé est proclamé élu.
 
-Le président a voix prépondérante.
+Les délibérations du conseil sont prises à la majorité des voix. En cas
+d'égalité, le président a voix prépondérante.
 
 En cas de décès, démission ou cessation de fonctions d'un membre du bureau, il
 est procédé immédiatement à son remplacement dans les conditions prévues pour
 son élection. Le nouvel élu achève le mandat de son prédécesseur.
-
-Les fonctions de membre d'un conseil régional de l'ordre sont incompatibles avec
-celles de membre du conseil supérieur.

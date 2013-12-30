@@ -1,15 +1,14 @@
 Article R242-16
 ----
-Les enveloppes intérieures sont réunies et comptées, elles sont ensuite
-décachetées et les bulletins qui en sont extraits sont pointés par les membres
-du bureau. Celles qui portent une marque ou mention sont jointes au
-procès-verbal sans être décachetées.
+Sont proclamés élus les candidats ayant obtenu le plus grand nombre de voix
+jusqu'à concurrence du nombre de sièges à pourvoir. En cas d'égalité de
+suffrages entre deux candidats, le plus âgé est proclamé élu.
 
-Les bulletins blancs, ceux ne contenant pas une désignation suffisante ou dans
-lesquels les votants se sont fait connaître, les bulletins trouvés dans des
-enveloppes non réglementaires, les bulletins écrits sur papiers de couleur, les
-bulletins ou enveloppes portant des signes intérieurs ou extérieurs de
-reconnaissance, les bulletins ou enveloppes portant des mentions injurieuses
-pour des candidats ou pour des tiers n'entrent pas en compte dans le résultat du
-dépouillement. Ils sont déclarés nuls et annexés au procès-verbal ainsi que les
-enveloppes non réglementaires.
+Ne peuvent pas être membres élus d'un même conseil de l'ordre deux associés
+appartenant à une même société de vétérinaires. Le cas échéant, seul celui qui
+recueille le plus de voix est élu.
+
+Les votes blancs ou nuls ne font pas partie des suffrages exprimés.
+
+Le président du bureau de vote établit et signe un procès-verbal des opérations
+de dépouillement.

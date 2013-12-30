@@ -1,10 +1,16 @@
 Article R242-12
 ----
-Les vétérinaires peuvent voter par correspondance. Dans ce cas, l'électeur place
-son bulletin de vote dans une enveloppe remise par l'ordre régional. Cette
-enveloppe timbrée du cachet dudit ordre ne doit porter aucune marque ou mention.
-Cette enveloppe fermée est incluse dans une seconde enveloppe qui est expédiée,
-fermée, sous pli recommandé au directeur départemental des services vétérinaires
-du chef-lieu de région. Cette seconde enveloppe doit porter à peine de nullité
-l'indication du nom et de l'adresse de l'électeur et la mention : "Election à
-l'ordre des vétérinaires".
+Pour voter, l'électeur se connecte au système à l'aide de son identifiant et de
+son mot de passe ; il coche sur la liste des candidats les noms des personnes
+qu'il entend élire. Il ne peut, à peine de nullité de son vote, cocher un nombre
+de noms supérieur au nombre de sièges à pourvoir.
+
+Le vote est chiffré dès son émission sur le terminal utilisé par l'électeur,
+avant sa transmission au fichier " urne électronique " . La liaison entre le
+terminal de vote et le serveur hébergeant le fichier " urne électronique " est
+également chiffrée.
+
+Après avoir validé son vote, l'électeur dispose d'un accusé de réception
+électronique.
+
+Un vote validé est définitif et ne peut être modifié.

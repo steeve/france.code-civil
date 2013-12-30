@@ -1,8 +1,9 @@
 Article R242-18
 ----
-Le bureau adresse, dans les trois jours, la liste des nouveaux élus et le
-procès-verbal des opérations de dépouillement avec les pièces qui s'y rapportent
-au ministre chargé de l'agriculture.
+Le bureau de vote transmet, dans les trois jours, la liste des nouveaux élus et
+le procès-verbal des opérations de dépouillement au ministre chargé de
+l'agriculture, au président du Conseil supérieur et au président du conseil
+régional .
 
-Il transmet également la liste des nouveaux élus et copie du procès-verbal des
-élections au président du conseil supérieur et au président du conseil régional.
+Le ministre chargé de l'agriculture publie la liste des élus au Bulletin
+officiel du ministère chargé de l'agriculture.

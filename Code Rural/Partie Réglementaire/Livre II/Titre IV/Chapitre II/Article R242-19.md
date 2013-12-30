@@ -1,17 +1,13 @@
 Article R242-19
 ----
-S'il y a lieu à un second tour de scrutin, les électeurs sont avisés dans les
-conditions prévues à l'article R. 242-8. Cet avis précisera les résultats
-complets du premier tour de scrutin, le nombre des sièges restant à pourvoir et
-la date extrême à laquelle devront parvenir les bulletins de vote. La
-notification sera accompagnée d'un bulletin de vote et d'une nouvelle enveloppe
-spéciale pour le vote par correspondance.
+Jusqu'à l'expiration des délais de recours et, lorsqu'une action contentieuse a
+été engagée, jusqu'à la décision juridictionnelle définitive, les fichiers
+supports comprenant la copie des programmes sources et exécutables, les fichiers
+d'émargement, de résultats et de sauvegarde sont conservés sous scellés, sous le
+contrôle de la commission technique nationale.
 
-Les candidats du premier tour seront réputés maintenir leur candidature au
-second tour s'ils n'en ont pas opéré le retrait dans les dix jours suivant le
-premier tour, par lettre recommandée adressée au président du conseil régional.
-Les candidatures pour le second tour devront être présentées dans le même délai
-et selon les mêmes modalités.
+La procédure de décompte des votes enregistrés doit, si nécessaire, être
+exécutée de nouveau.
 
-Le deuxième tour de scrutin aura lieu suivant les formalités indiquées aux
-articles R. 242-8 à R. 242-16.
+A l'expiration de ces délais, il est procédé à la destruction des fichiers
+supports sous le contrôle de la commission technique nationale.

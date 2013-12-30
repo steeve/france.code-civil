@@ -1,7 +1,10 @@
 Article R242-8
 ----
-Si tous les sièges à pourvoir n'ont pu l'être au premier tour, il sera procédé à
-un deuxième tour de scrutin dans les mêmes conditions de vote six semaines après
-le premier tour.
+Le vote a lieu par voie électronique par internet.
 
-Seront élus les candidats qui auront obtenu le plus grand nombre de voix.
+Le recours au vote électronique est organisé dans le respect des principes
+fondamentaux qui commandent les opérations électorales, notamment la sincérité
+des opérations électorales, l'accès au vote de tous les électeurs, le secret du
+scrutin, le caractère personnel, libre et anonyme du vote, l'intégrité des
+suffrages exprimés, la surveillance effective du scrutin et le contrôle a
+posteriori par le juge de l'élection.
