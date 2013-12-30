@@ -1,6 +1,6 @@
 Article R20-30-1
 ----
-I. - Tout opérateur chargé, en application de l'article L. 35-2, de fournir la
+I.-Tout opérateur chargé, en application de l'article L. 35-2, de fournir la
 composante ou un des éléments de la composante du service universel mentionné au
 1° de l'article L. 35-1 fournit dans la zone géographique pour laquelle il a été
 désigné à toute personne relevant du champ d'application défini à l'article R.
@@ -26,6 +26,10 @@ composante du service universel permet le règlement prépayé de ces prestation
 
 Il fournit les services complémentaires au service universel qu'il est tenu
 d'assurer dans les conditions prévues par son cahier des charges.
+
+Cet opérateur fournit l'offre de tarifs spécifiques à certaines catégories de
+personnes rencontrant des difficultés particulières dans l'accès au service
+téléphonique en raison de leur revenu prévue à l'article R. 20-34.
 
 II. ― L'opérateur chargé, en application de l'article L. 35-2, de fournir le
 raccordement à un réseau fixe ouvert au public mentionné au I effectue cette
@@ -54,7 +58,3 @@ communication ou partiellement payés par celui-ci ;
 
 ― interdiction des messages textuels ou messages multimédias à taux majorés ou
 d'autres applications de type similaire.
-
-Cet opérateur fournit l'offre de tarifs spécifiques à certaines catégories de
-personnes rencontrant des difficultés particulières dans l'accès au service
-téléphonique en raison de leur revenu prévue à l'article R. 20-34.
