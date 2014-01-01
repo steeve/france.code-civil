@@ -10,7 +10,7 @@ FIA des instruments financiers, y compris des instruments du marché monétaire,
 de type identique ou leur équivalent en valeur monétaire sans retard inutile, La
 responsabilité du dépositaire n'est pas engagée s'il prouve que la perte résulte
 d'un événement extérieur et que l'ensemble des conditions de l'article 101 du
-règlement délégué n° 231/2013 de la Commission du 19 décembre 2012 sont
+règlement délégué (UE) n° 231/2013 de la Commission du 19 décembre 2012 sont
 remplies.
 
 Le dépositaire est responsable à l'égard du FIA ou à l'égard des porteurs de

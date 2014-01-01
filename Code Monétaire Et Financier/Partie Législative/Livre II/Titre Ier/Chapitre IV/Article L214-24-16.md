@@ -5,8 +5,8 @@ un expert externe en évaluation, le FIA ou sa société de gestion doit être e
 mesure de démontrer à l'Autorité des marchés financiers que :
 
 1° Cet expert fait l'objet d'un enregistrement professionnel obligatoire reconnu
-par des dispositions législatives ou réglementaires, ou par des règles de
-conduite professionnelles ;
+par des dispositions législatives ou est soumis à des dispositions législatives
+ou réglementaires ou à des règles de conduite professionnelles ;
 
 2° Cet expert offre des garanties professionnelles suffisantes pour exercer
 efficacement sa fonction d'évaluation.

@@ -21,7 +21,7 @@ décret.
 
 Pour l'application du présent article, les produits et plus-values réalisés par
 une société mentionnée au 2° du I de l'article L. 214-36 et par un fonds de
-placement immobilier, un fonds de placement immobilier professionnel ou un
+placement immobilier, un fonds professionnel de placement immobilier ou un
 organisme de droit étranger, tels que mentionnés à la dernière phrase du 1° de
 l'article L. 214-37, sont réputés avoir été réalisés par le fonds de placement
 immobilier à concurrence de ses droits directs ou indirects dans cette société

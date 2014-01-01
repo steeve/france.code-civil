@@ -112,7 +112,7 @@ et jusqu'au 31 décembre 2013 dans les zones d'aide à finalité régionale, le
 bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
 1628/2006 de la Commission du 24 octobre 2006 précité.
 
-4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut
+4. Le bénéfice exonéré des entreprises en application des 1,2 et 3 ne peut
 dépasser 42 000 000 €.
 
 Par ailleurs, lorsque les coûts éligibles sont égaux ou supérieurs à 25 000 000
@@ -135,7 +135,7 @@ détermination de ce pourcentage, les participations de sociétés de
 capital-risque, des fonds communs de placement à risques, des fonds
 professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
 financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
-2013 modifiant le cadre juridique de la gestion d'actifs des fonds
+2013 modifiant le cadre juridique de la gestion d'actifs, des fonds
 professionnels de capital investissement, des sociétés de développement
 régional, des sociétés financières d'innovation et des sociétés unipersonnelles
 d'investissement à risque ne sont pas prises en compte à la condition qu'il

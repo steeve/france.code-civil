@@ -9,6 +9,6 @@ droits de vote de la société détenue par le FIA dans tous les cas où cette p
 atteint ou franchit, à la hausse ou à la baisse, les seuils de 10 %, 20 %, 30 %,
 50 % et 75 %.
 
-L'alinéa précédent est également applicable au FIA ou à sa société de gestion
+Le I de l'article L. 214-24-21 est applicable au FIA ou à sa société de gestion
 qui acquiert, sans contrôle, une participation dans une société mentionnée à
 l'alinéa précédent.

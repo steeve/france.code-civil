@@ -1,13 +1,14 @@
 Article L214-24-2
 ----
-I. - Toute société de gestion de portefeuille française ou tout gestionnaire
-établi dans un pays tiers, qui se propose de commercialiser, avec un passeport,
-auprès de clients professionnels, des parts ou actions d'un FIA établi dans un
-Etat membre de l'Union européenne ou un pays tiers, dans un Etat membre de
-l'Union européenne autre que la France, transmet au préalable à l'Autorité des
-marchés financiers un dossier de notification pour chaque FIA concerné.
+I.-Toute société de gestion de portefeuille française ou tout gestionnaire
+établi dans un pays tiers dont l'Etat membre de référence est la France, qui se
+propose de commercialiser, avec un passeport, auprès de clients professionnels,
+des parts ou actions d'un FIA établi dans un Etat membre de l'Union européenne
+ou un pays tiers, dans un Etat membre de l'Union européenne autre que la France,
+transmet au préalable à l'Autorité des marchés financiers un dossier de
+notification pour chaque FIA concerné.
 
-II. - Lorsque la commercialisation auprès de clients professionnels concerne des
+II.-Lorsque la commercialisation auprès de clients professionnels concerne des
 parts ou actions d'un FIA nourricier au sens du IV de l'article L. 214-24,
 établi dans un Etat membre de l'Union européenne, cette commercialisation est
 soumise à la condition que le FIA maître au sens du IV de l'article L. 214-24
@@ -21,7 +22,7 @@ de pays tiers ou des FIA nourriciers au sens du IV de l'article L. 214-24
 établis dans l'Union européenne et qui ne remplissent pas les exigences
 mentionnées au précédent alinéa.
 
-III. - L'Autorité des marchés financiers notifie sans délai au FIA ou à son
+III.-L'Autorité des marchés financiers notifie sans délai au FIA ou à son
 gestionnaire la transmission par ses soins du dossier mentionné au I à
 l'autorité compétente de l'Etat d'accueil. Elle joint une attestation indiquant
 que le gestionnaire du FIA concerné est agréé pour gérer le FIA selon une
@@ -30,7 +31,7 @@ stratégie d'investissement spécifique.
 Les parts ou actions du FIA peuvent être commercialisées dans l'Etat d'accueil à
 compter de la date de la notification mentionnée à l'alinéa précédent.
 
-IV. - Pour la commercialisation de parts ou actions d'un FIA établi dans l'Union
+IV.-Pour la commercialisation de parts ou actions d'un FIA établi dans l'Union
 européenne, lorsque le FIA relève d'une autorité compétente autre que l'Autorité
 des marchés financiers, celle-ci informe également les autorités compétentes
 dont relève le FIA de la possibilité pour la société de gestion de portefeuille
@@ -48,7 +49,7 @@ des marchés financiers que cette société de gestion de portefeuille ou ce
 gestionnaire peut commencer la commercialisation des parts ou actions du FIA
 dans les Etats membres d'accueil.
 
-V. - En cas de modification substantielle des informations communiquées dans le
+V.-En cas de modification substantielle des informations communiquées dans le
 dossier de notification, la société de gestion de portefeuille française ou le
 gestionnaire du FIA concerné en avertit par écrit l'Autorité des marchés
 financiers au moins un mois avant de mettre en œuvre ladite modification, ou
@@ -76,8 +77,8 @@ parts ou actions du FIA avec la présente section ou le respect par la société
 gestion de portefeuille ou le gestionnaire des dispositions législatives et
 réglementaires applicables aux sociétés de gestion de portefeuille.
 
-VI. - La lettre de notification du gestionnaire mentionnée au I et l'attestation
+VI.-La lettre de notification du gestionnaire mentionnée au I et l'attestation
 mentionnée au III sont fournies dans une langue usuelle en matière financière.
 
-VII. - Le règlement général de l'Autorité des marchés financiers précise les
+VII.-Le règlement général de l'Autorité des marchés financiers précise les
 conditions d'application du présent article.

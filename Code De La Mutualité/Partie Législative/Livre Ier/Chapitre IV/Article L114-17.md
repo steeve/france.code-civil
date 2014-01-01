@@ -36,7 +36,13 @@ modalités de répartition pour l'année écoulée de la participation aux excé
 ;
 
 h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du
-code de commerce.
+code de commerce lorsque les conditions prévues au sixième alinéa du même
+article sont remplies. Les mutuelles, unions ou fédérations qui font partie d'un
+groupe, au sens de l'article L. 212-7 du présent code, ne sont pas tenues de
+publier ces informations lorsque celles-ci sont publiées dans le rapport de
+gestion du groupe de manière détaillée et individualisée par mutuelle, union ou
+fédération, et que ces mutuelles, unions ou fédérations indiquent comment y
+accéder dans leur propre rapport de gestion.
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les
 comptes consolidés ou combinés, lorsque la mutuelle, l'union ou la fédération

@@ -6,9 +6,11 @@ sur les emballages ménagers est défini pour être mis en œuvre au plus tard a
 d'harmonisation et de médiation des filières de collecte sélective et de
 traitement des déchets du Conseil national des déchets.
 
-Au plus tard le 1er janvier 2012, tout produit recyclable soumis à un dispositif
-de responsabilité élargie des producteurs fait l'objet d'une signalétique
-commune informant le consommateur que ce produit relève d'une consigne de tri.
+A l'exclusion des emballages ménagers en verre, tout produit recyclable soumis à
+un dispositif de responsabilité élargie des producteurs mis sur le marché à
+compter du 1er janvier 2015 fait l'objet d'une signalétique commune informant le
+consommateur que ce produit relève d'une consigne de tri. Un décret en Conseil
+d'Etat précise les conditions d'application du présent alinéa.
 
 Au plus tard le 1er juillet 2011, tout établissement de vente au détail de plus
 de 2 500 mètres carrés proposant en libre-service des produits alimentaires et

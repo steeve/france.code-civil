@@ -43,8 +43,10 @@ immeubles ou droits immobiliers ;
 
 c) Ou qui prennent la forme de sociétés de placement à prépondérance immobilière
 à capital variable ou de fonds de placement immobilier régis par les articles L.
-214-33 et suivants du code monétaire et financier ou ceux qui sont soumis à une
-réglementation équivalente dans l'Etat ou le territoire où ils sont établis ;
+214-33 et suivants du code monétaire et financier qui ne sont pas constitués
+sous la forme mentionnée à l'article L. 214-148 du même code ou ceux qui sont
+soumis à une réglementation équivalente dans l'Etat ou le territoire où ils sont
+établis ;
 
 d) Ou qui communiquent chaque année ou prennent et respectent l'engagement de
 communiquer à l'administration fiscale, sur sa demande, la situation, la

@@ -2,9 +2,9 @@ Article L533-13-1
 ----
 I. ― Lorsque les instruments financiers proposés aux clients donnent lieu à la
 publication de documents d'information conformément aux articles L. 214-23-1, L.
-214-109 ou L. 412-1, les prestataires de services d'investissement établissent
-des conventions avec les personnes responsables de la publication de ces
-documents d'information.
+214-25, L. 214-53 ou L. 412-1, les prestataires de services d'investissement
+établissent des conventions avec les personnes responsables de la publication de
+ces documents d'information.
 
 Ces conventions prévoient notamment :
 

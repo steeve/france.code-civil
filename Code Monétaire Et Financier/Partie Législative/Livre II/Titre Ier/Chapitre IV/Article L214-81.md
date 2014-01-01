@@ -38,7 +38,7 @@ II.-Le fonds de placement immobilier distribue :
 a) Actifs immobiliers mentionnés au 1° du I de l'article L. 214-36 que le fonds
 détient directement ou par l'intermédiaire, selon le cas, d'une société
 mentionnée à l'article L. 214-80 ou d'un fonds de placement immobilier, d'un
-fonds de placement immobilier professionnel, ou d'un organisme de droit étranger
+fonds professionnel de placement immobilier, ou d'un organisme de droit étranger
 similaire mentionné à la dernière phrase du 1° de l'article L. 214-37, au titre
 de l'année de leur réalisation. Pour la détermination du montant à distribuer,
 les produits nets sont diminués d'un abattement forfaitaire égal à 1,5 % du prix

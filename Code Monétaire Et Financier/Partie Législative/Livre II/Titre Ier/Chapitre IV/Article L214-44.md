@@ -5,3 +5,5 @@ l'Autorité des marchés financiers, tout porteur ou actionnaire informe la
 personne mentionnée dans le document d'information prévu au III de l'article L.
 214-35 dès lors qu'il franchit le seuil de 10 % des parts ou actions de
 l'organisme de placement collectif immobilier.
+
+L'article L. 214-24-46 est applicable aux FIA relevant du présent article.

@@ -23,12 +23,12 @@ en application de l'article L. 151-2 ;
 3° Les produits relevant de l'article L. 214-42 dans sa rédaction antérieure à
 l'ordonnance n° 2011-915 du 1er août 2011 relative aux OPCVM et à la
 modernisation du cadre juridique de la gestion d'actifs et de l'article L.
-214-43 :
+214-169 ;
 
 4° Les instruments financiers qui ne sont pas admis aux négociations sur les
 marchés réglementés définis aux articles L. 421-4 et L. 422-1 ou sur les marchés
 étrangers reconnus définis à l'article L. 423-1, à l'exception des parts ou
-actions d'OPCVM ou de FIA relevant des paragraphes 1, 2 et 6 de la sous-section
+actions d'OPCVM ou de FIA relevant des paragraphes 1,2 et 6 de la sous-section
 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3,
 ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II,
 des titres financiers offerts au public après établissement d'un document
