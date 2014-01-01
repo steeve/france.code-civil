@@ -70,8 +70,6 @@ Fédération française de planeur ultra-léger motorisé : ULM info.
 
 Fédération française de la randonnée pédestre : Balises comités.
 
-Fédération française de rugby : Rugby mag.
-
 Fédération française de sauvetage et de secourisme : Préserver et sauver.
 
 Fédération française de savate, boxe française et disciplines associées : La
