@@ -15,12 +15,12 @@ ou d'un mandataire désigné à cet effet.
 Lorsque le maître de l'ouvrage ne recourt pas à un crédit spécifique ou
 lorsqu'il y recourt partiellement, et à défaut de garantie résultant d'une
 stipulation particulière, le paiement est garanti par un cautionnement solidaire
-consenti par un établissement de crédit, une entreprise d'assurance ou un
-organisme de garantie collective, selon des modalités fixées par décret en
-Conseil d'Etat. Tant qu'aucune garantie n'a été fournie et que l'entrepreneur
-demeure impayé des travaux exécutés, celui-ci peut surseoir à l'exécution du
-contrat après mise en demeure restée sans effet à l'issue d'un délai de quinze
-jours.
+consenti par un établissement de crédit, une société de financement, une
+entreprise d'assurance ou un organisme de garantie collective, selon des
+modalités fixées par décret en Conseil d'Etat. Tant qu'aucune garantie n'a été
+fournie et que l'entrepreneur demeure impayé des travaux exécutés, celui-ci peut
+surseoir à l'exécution du contrat après mise en demeure restée sans effet à
+l'issue d'un délai de quinze jours.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas lorsque le maître de
 l'ouvrage conclut un marché de travaux pour son propre compte et pour la
