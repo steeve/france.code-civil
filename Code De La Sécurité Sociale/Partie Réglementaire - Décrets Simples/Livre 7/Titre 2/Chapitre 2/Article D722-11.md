@@ -1,13 +1,18 @@
 Article D722-11
 ----
-La cotisation due par les assurés en activité est payable chaque année et
-d'avance avant le 1er juin.
+La cotisation provisionnelle mentionnée au deuxième alinéa de l'article L.
+131-6-2 due par les assurés en activité est payable chaque année et d'avance
+avant le 5 février. En cas de début ou de reprise d'activité en cours d'année,
+la cotisation provisionnelle est payable le premier jour du mois civil suivant
+la date de début ou de reprise d'activité.
 
-En cas de fractionnement prévu à l'article D. 722-4, les cotisations sont
-payables respectivement avant les 1er juin, 1er septembre, 1er décembre et 1er
-mars. Lors de l'affiliation d'un assuré, les cotisations dues au prorata de la
-période s'écoulant entre la date d'effet de l'affiliation et la plus prochaine
-échéance sont versées à cette échéance.
+Par dérogation au premier alinéa, les assurés peuvent demander à s'acquitter de
+leur cotisation provisionnelle en quatre fractions trimestrielles égales. Ces
+dernières sont payables respectivement avant les 5 février, 5 mai, 5 août et 5
+novembre. En cas de début ou de reprise d'activité en cours d'année, la
+cotisation provisionnelle est payable à la date de la première échéance ou, à
+défaut, le premier jour du mois civil suivant la date de début ou de reprise
+d'activité.
 
 En cas de non-paiement à l'échéance fixée ci-dessus, il est fait application, à
 l'encontre des assurés, des majorations prévues par l'article R. 243-18, qui
