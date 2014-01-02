@@ -16,5 +16,5 @@ séparées par un terre-plein central ;
 à 60 km/h pour les véhicules articulés ou avec remorque dont le poids total est
 supérieur à 12 tonnes.
 
-4° 50 km/h en agglomération. Toutefois, cette vitesse maximale est relevée à 80
+4° 50 km/h en agglomération. Toutefois, cette vitesse maximale est relevée à 70
 km/h sur le boulevard périphérique de Paris.

@@ -12,5 +12,5 @@ de transport exceptionnel, est limitée à :
 les véhicules possédant des caractéristiques particulières définies par arrêté
 du ministre chargé des transports ;
 
-3° 50 km/h en agglomération. Toutefois cette vitesse maximale est relevée à 80
+3° 50 km/h en agglomération. Toutefois cette vitesse maximale est relevée à 70
 km/h sur le boulevard périphérique de Paris.
