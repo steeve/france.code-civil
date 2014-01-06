@@ -10,6 +10,9 @@ comprenant :
 -au moins un représentant de l'organisation professionnelle d'employeurs ou de
 salariés la plus représentative ;
 
--en tant que de besoin, un ou plusieurs techniciens qualifiés titulaires au
-minimum du brevet d'Etat d'éducateur sportif du premier degré, option " plongée
-subaquatique ", ou son équivalent.
+- en tant que de besoin, un ou plusieurs techniciens qualifiés titulaires du
+brevet d'Etat d'éducateur sportif du premier degré, option " plongée
+subaquatique ", du diplôme d'Etat de la jeunesse, de l'éducation populaire et du
+sport spécialité " perfectionnement sportif ", mention " plongée subaquatique "
+ou du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du
+sport, spécialité " performance sportive ", mention " plongée subaquatique ".

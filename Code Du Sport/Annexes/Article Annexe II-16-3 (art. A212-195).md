@@ -2,85 +2,193 @@ Article Annexe II-16-3 (art. A212-195)
 ----
 ÉPREUVE D'APTITUDE
 
-1. Test technique de sécurité
+L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en
+sécurité la plongée subaquatique dans l'une des conditions d'exercices suivantes
+:
 
-Le test technique de sécurité vise à vérifier la capacité du candidat à prévenir
-le risque et à gérer la situation en cas d'accident. Ce test comporte trois
-épreuves qui se déroulent dans l'ordre suivant, chacune étant éliminatoire.
+-encadrement en autonomie de la randonnée subaquatique, enseignement et
+encadrement de la plongée subaquatique dans les conditions techniques et de
+sécurité définies aux articles A. 322-71 et suivants du code du sport (épreuve
+d'aptitude BPJEPS) ; ou
 
-1.1. Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en
-plongée libre. Cette épreuve permet de vérifier la capacité du candidat à gérer
-une situation d'accident survenu à un plongeur. Elle consiste, pour le candidat
-équipé de palmes, masque et tuba :
+-enseignement, animation, encadrement de la plongée subaquatique ou entraînement
+de ses pratiquants dans les conditions techniques et de sécurité définies aux
+articles A. 322-71 et suivants du code du sport (épreuve d'aptitude DEJEPS).
 
-- à réaliser, sur un parcours balisé, une nage de deux cents mètres ;
+Epreuve d'aptitude BPJEPS
 
-- à descendre à une profondeur comprise entre quatre et six mètres ;
+1. Test technique de sécurité.
 
-- à remonter un mannequin normalisé, puis à le remorquer en sécurité, les voies
+Ce test de sécurité comporte quatre épreuves qui doivent se dérouler
+chronologiquement ; chaque épreuve non validée est éliminatoire.
+
+a) Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en
+plongée libre :
+
+Cette épreuve permet de vérifier la capacité du candidat à gérer une situation
+d'accident survenu à un plongeur. Elle consiste à effectuer, à l'aide d'un
+mannequin, un sauvetage à moins de six mètres de profondeur à l'aide de tout
+matériel individuel approprié, dans les conditions suivantes :
+
+-réaliser, sur un parcours balisé une nage de cent mètres ;
+
+-descendre à une profondeur comprise entre quatre et six mètres et tenir une
+apnée de vingt secondes minimum en déplacement ;
+
+-après une récupération de dix secondes au maximum en surface, redescendre à la
+même profondeur et remonter un mannequin de 1,5 kg de poids apparent ;
+
+-remonter un mannequin normalisé, puis à le remorquer en sécurité, les voies
 respiratoires hors de l'eau, sur une distance de cent mètres.
+
+Le port du vêtement isothermique complété, au choix du candidat, d'une ceinture
+de lest, est obligatoire lorsque la température de l'eau est inférieure à 20° C.
+Lorsque cette température est égale ou supérieure à 20° C, le port du vêtement
+isothermique est laissé au choix du candidat. La durée maximale de cette épreuve
+est de huit minutes.
+
+Le candidat doit maintenir le mannequin, les voies aériennes hors de l'eau en
+utilisant une prise et une tenue du mannequin applicables à une victime réelle.
+
+La non-réalisation en totalité de l'épreuve définie est éliminatoire.
+
+Le candidat ne dispose que d'une seule tentative pour réaliser l'épreuve dans sa
+totalité. Toutefois, si le candidat échoue dans la récupération du mannequin, il
+peut faire une seconde tentative, le chronomètre n'étant pas arrêté.
+
+L'utilisation d'un mannequin de 1,5 kg de poids apparent est obligatoire.
+
+b) Epreuve d'assistance d'un plongeur en difficulté en milieu naturel :
+
+Cette épreuve permet de vérifier la capacité du candidat équipé d'un scaphandre
+autonome à gérer une situation d'accident survenue à un plongeur équipé lui-même
+d'un scaphandre autonome.
+
+Elle porte sur la remontée en sécurité d'un plongeur en difficulté en utilisant
+tout moyen d'une profondeur de vingt-cinq mètres et doit permettre d'évaluer
+également le tractage jusqu'à l'embarcation et le déséquipement.
+
+c) Epreuve de premiers secours appliquée à l'activité en milieu naturel :
+
+Cette épreuve permet de vérifier la capacité du candidat à gérer une situation
+d'accident survenu à un plongeur.
+
+Le candidat doit prendre en charge une victime depuis la surface de l'eau,
+organiser son hissage à bord, effectuer un bilan, réaliser les gestes de premier
+secours et mettre en place la chaîne des secours en mer selon le dispositif
+légal français.
+
+d) Conduite de palanquée à quarante mètres :
+
+Cette épreuve permet de vérifier la capacité du candidat à conduire une plongée
+d'exploration en zone profonde (quarante mètres).
+
+Elle porte sur la vérification des capacités du candidat à prendre en charge une
+palanquée dans les conditions de pratique en zone profonde incluant notamment le
+dispositif réglementaire français.
+
+Le candidat réagira en tant que de besoin aux incidents simulés par deux
+examinateurs placés dans le rôle de pratiquants encadrés. Seront pris en compte
+dans l'évaluation, la qualité de la descente, la conduite de palanquée à
+quarante mètres, la réalisation de tests définis par le jury, les réactions aux
+situations proposées par le jury, la dernière d'entre elle conduisant à une
+assistance de plongeur en difficulté de la profondeur d'intervention au support
+de surface.
+
+2. Test de vérification des connaissances théoriques et pratiques en matière de
+sécurité.
+
+Ce test réalisé à l'oral et d'une durée de quarante minutes maximale, vise à
+vérifier la capacité du candidat à diriger et à organiser la plongée.
+
+Il porte sur les connaissances spécifiques à la plongée en France :
+règlementation de l'activité, organisation et mise en œuvre des secours,
+caractéristiques de la plongée en zone profonde jusqu'à quarante mètres (causes
+et prévention des accidents...).
+
+Après une préparation de vingt minutes maximum sans document, le candidat expose
+au jury ses choix d'organisation et de conduite de la plongée à quarante mètres.
+Il est interrogé par le jury sur les choix avancés et la qualité de sa
+prestation.
+
+Epreuve d'aptitude DEJEPS
+
+1. Test technique de sécurité.
+
+Ce test de sécurité comporte 4 épreuves qui doivent se dérouler
+chronologiquement ; chaque épreuve non validée est éliminatoire.
+
+a) Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en
+plongée libre :
+
+Cette épreuve permet de vérifier la capacité du candidat à gérer une situation
+d'accident survenu à un plongeur. Elle consiste, pour le candidat équipé de
+palmes, masque et tuba à réaliser, sur un parcours balisé, une nage de deux
+cents mètres, à descendre à une profondeur de dix mètres et en remonter un
+mannequin normalisé d'un poids apparent de 1,5 kg en moins de cinq minutes, puis
+à le remorquer en sécurité, les voies respiratoires hors de l'eau, sur une
+distance de cent mètres.
 
 Le port du vêtement isothermique, complété, au choix du candidat, d'une ceinture
 de lest, est obligatoire lorsque la température de l'eau est inférieure à 20° C.
 Lorsque cette température est égale ou supérieure à 20° C, le port du vêtement
-isothermique est laissé au choix du candidat. La durée maximale de cette épreuve
-est de dix minutes.
+isothermique est laissé au choix du candidat.
 
-1.2. Epreuve de gestion d'une situation d'urgence d'un plongeur en scaphandre
+La durée maximale de cette épreuve est de huit minutes.
+
+b) Epreuve d'assistance d'un plongeur en difficulté en milieu naturel :
 
 Cette épreuve permet de vérifier la capacité du candidat équipé d'un scaphandre
 autonome à gérer une situation d'accident survenu à un plongeur équipé d'un
 scaphandre autonome.
 
-Le départ s'effectue à cent mètres maximum du bateau ou d'un point fixe et à une
-profondeur de vingt-cinq mètres.
+Elle porte sur la remontée en sécurité d'un plongeur en difficulté en utilisant
+tout moyen d'une profondeur de vingt-cinq mètres.
 
-Les équipements ou moyens techniques permettant de remonter en sécurité le
-plongeur en difficulté sont laissés au choix du candidat.
+c) Epreuve de premiers secours appliqué à l'activité en milieu naturel :
 
-Arrivé en surface, le candidat alerte la surveillance. Il ramène en sécurité le
-plongeur en difficulté jusqu'au bateau ou au point fixe.
+Cette épreuve permet de vérifier la capacité du candidat à gérer une situation
+d'accident survenu à un plongeur.
 
-1.3. Epreuve d'organisation et de conduite d'une plongée d'exploration dans
-l'espace lointain
+Le candidat devra prendre en charge une victime depuis la surface de l'eau,
+organiser son hissage à bord, effectuer un bilan, réaliser les gestes de premier
+secours et mettre en place la chaîne des secours en mer selon le dispositif
+légal français.
+
+d) Conduite de palanquée à cinquante mètres
 
 Cette épreuve permet de vérifier la capacité du candidat à organiser et à
-conduire une plongée d'exploration, dont le jury fixe les caractéristiques. Elle
-consiste :
+conduire une plongée d'exploration en zone profonde et à assister un élève en
+difficulté.
 
-― à organiser une plongée qui comporte un profil de décompression avec palier ;
+Elle porte sur la vérification des capacités du candidat à organiser l'immersion
+et à prendre en charge une palanquée dans les conditions de pratique en zone
+profonde incluant notamment le dispositif légal français.
 
-― à conduire la palanquée entre trente-cinq et quarante mètres de profondeur ;
+Le candidat réagira en tant que de besoin aux incidents simulés par deux
+examinateurs placés dans le rôle de pratiquants encadrés.
 
-― à faire le bilan de la plongée aux membres de la palanquée.
+Cette épreuve s'effectuera en pleine eau, sur un fond supérieur à cinquante
+mètres.
 
-Le candidat bénéficie d'un temps maximal de préparation d'une demi-heure. La
-durée maximale de la plongée est d'une heure. Elle est suivie d'un entretien
-avec les membres du jury, visant à expliciter les choix d'organisation mis en
-œuvre.
+Seront pris en compte dans l'évaluation la qualité de la descente, la conduite
+de palanquée à cinquante mètres, la réalisation de tests définis par le jury,
+les réactions aux situations proposées par le jury, la dernière d'entre elles
+conduisant à une assistance de plongeur en difficulté de la profondeur
+d'intervention au support de surface.
 
 2. Test de vérification des connaissances théoriques et pratiques en matière de
-sécurité
+sécurité.
 
-Ce test vise à vérifier la capacité du candidat à diriger et à organiser la
-plongée, soit :
+Ce test réalisé à l'oral et d'une durée de quarante minutes maximale vise à
+vérifier la capacité du candidat à diriger et à organiser la plongée.
 
-― à faire des choix de navigation appliqués à l'utilisation du bateau support de
-plongée ;
+Il porte sur les connaissances spécifiques à la plongée en France :
+réglementation de l'activité, organisation et mise en œuvre des secours,
+caractéristiques de la plongée profonde jusqu'à soixante mètres (causes et
+prévention des accidents...).
 
-― à organiser la pratique de palanquées de plongeurs de niveaux différents ;
-
-― à procéder à l'installation matérielle sur le site de plongée ;
-
-― à organiser la sécurité, la surveillance et les premiers secours sur le site.
-
-Il consiste en un exposé d'une durée maximale de vingt minutes, suivi d'un
-entretien de même durée avec le jury. L'exposé et l'entretien se déroulent en
-français.
-
-Le jury soumet au candidat un cas pratique de direction de plongée. Le candidat
-bénéficie d'un temps maximal de préparation de trente minutes, sans document.
-
-L'exposé du candidat porte sur ses choix de direction de plongée en fonction de
-la réglementation relative à la plongée et des conditions liées à
-l'environnement.
+Après une préparation de vingt minutes maximum sans document, le candidat expose
+au jury ses choix d'organisation et de conduite de la plongée à cinquante mètres
+qu'il a dirigée pour le d du test de sécurité. Il est interrogé par le jury sur
+les choix avancés et la qualité de sa prestation.
