@@ -3,8 +3,11 @@ Article A212-211
 L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou
 en partie le déclarant, dans les conditions prévues à l'article R. 212-90-1 et
 au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à
-encadrer les pratiquants en sécurité dans l'une des trois spécialités
-mentionnées à l'article A. 212-210. Pour chacune de ces trois spécialités, elle
+encadrer les pratiquants en sécurité dans l'une des trois mentions du brevet
+professionnel de la jeunesse de l'éducation populaire et du sport (BPJEPS)
+spécialité " parachutisme " ou dans la mention du diplôme d'Etat de la jeunesse,
+de l'éducation populaire et du sport (DEJEPS) spécialité " perfectionnement
+sportif " figurant à l'article A. 212-210. Pour chacune de ces mentions, elle
 comporte deux tests :
 
 1° Un test de vérification des connaissances théoriques et pratiques en matière
