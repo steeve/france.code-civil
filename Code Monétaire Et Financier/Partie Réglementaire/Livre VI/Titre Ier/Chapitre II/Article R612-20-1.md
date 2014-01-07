@@ -28,7 +28,7 @@ poursuivre son activité à la suite d'un changement de situation.
 V. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une
 fois par an à la Commission européenne et à l'Autorité bancaire européenne le
 nombre et la nature des cas dans lesquels elle a pris les mesures mentionnées au
-deuxième alinéa de l'article R. 613-28.
+deuxième alinéa de l'article R. 613-31.
 
 VI. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une
 fois par an à l'Autorité bancaire européenne et à la Commission européenne les
