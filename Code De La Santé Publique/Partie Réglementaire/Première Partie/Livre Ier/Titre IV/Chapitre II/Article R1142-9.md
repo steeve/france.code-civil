@@ -9,5 +9,11 @@ Elle ne peut délibérer que si sept au moins de ses membres en exercice sont
 présents. Dans le cas contraire, une nouvelle séance se tient, sans obligation
 de quorum, au terme d'un délai de quinze jours.
 
+Un ou plusieurs membres, médecins ou chirurgiens-dentistes de la Commission
+nationale des accidents médicaux, désignés par son président ou son
+vice-président, peuvent assister, avec l'accord du président ou du président
+adjoint de la commission, à une ou plusieurs de ses séances, sans voix
+délibérative ni consultative.
+
 Les avis de la commission sont adoptés à la majorité des membres présents. En
 cas de partage égal des voix, celle du président est prépondérante.

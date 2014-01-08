@@ -42,7 +42,9 @@ alinéa.
 Le formulaire prévu à l'article R. 1142-13 comporte une mention précisant au
 demandeur que les informations qu'il transmet à la commission qu'il a saisie
 peuvent être communiquées à la commission nationale pour l'accomplissement de
-ses missions.
+ses missions et que des membres de cette commission peuvent assister aux séances
+de la commission de conciliation et d'indemnisation dans les conditions prévues
+à l'article R. 1142-9.
 
 Une information sur l'utilisation des données personnelles par la commission
 nationale figure sur son site internet ainsi que sur celui de l'office mentionné

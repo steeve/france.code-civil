@@ -11,7 +11,9 @@ l'expert a réalisé les missions qui lui ont été confiées au cours de la pé
 écoulée depuis sa précédente inscription.
 
 Ils s'assurent que le candidat a actualisé ses connaissances en matière de
-responsabilité médicale et procèdent à leur évaluation.
+responsabilité médicale et procèdent à leur évaluation. Ils recueillent l'avis
+des présidents des commissions mentionnées à l'article L. 1142-5 et, le cas
+échéant, les avis mentionnés au troisième alinéa de l'article R. 1142-30-2.
 
 La demande de renouvellement de l'inscription sur la liste nationale des experts
 en accidents médicaux est adressée dans les conditions de l'article R. 1142-30,

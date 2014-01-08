@@ -1,7 +1,7 @@
 Article R1142-10
 ----
-Le secrétariat de la commission est placé sous l'autorité du président. Il est
-assuré par des personnels mis à sa disposition par l'office.
+Le secrétariat de la commission est placé sous l'autorité fonctionnelle du
+président. Il est assuré par des personnels mis à sa disposition par l'office.
 
 La commission adopte un règlement intérieur conforme à un règlement type établi
 par un arrêté du ministre chargé de la santé qui définit les conditions de son
@@ -10,6 +10,10 @@ de préparation des avis, la répartition des tâches entre le président, le ca
 échéant les présidents adjoints et les membres de la commission ainsi que les
 travaux qui peuvent être confiés à des personnels de l'office mis à disposition
 de la commission en application de l'article L. 1142-6.
+
+Le président et le ou les présidents adjoints ainsi que les membres titulaires
+et suppléants des commissions sont soumis aux dispositions des articles L.
+1451-1 et R. 1451-1 à R. 1451-4.
 
 Les membres de la commission et les médiateurs mentionnés à l'article R. 1142-23
 déclarent, s'il y a lieu, qu'ils ont un lien direct ou indirect, d'ordre

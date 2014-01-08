@@ -20,9 +20,9 @@ cas échéant, dans les commissions mentionnées à l'article L. 1142-5 de
 conciliation et d'indemnisation des accidents médicaux, des affections
 iatrogènes et des infections nosocomiales.
 
-Il a autorité sur l'ensemble des personnels, à l'exception des magistrats placés
-en détachement pour exercer la présidence des commissions mentionnées à
-l'article L. 1142-5 ou la suppléance de la présidence.
+Il exerce l'autorité hiérarchique sur l'ensemble des personnels, à l'exception
+des magistrats placés en détachement pour exercer la présidence des commissions
+mentionnées à l'article L. 1142-5 ou la suppléance de la présidence.
 
 Il représente l'établissement en justice et dans tous les actes de la vie
 civile.
@@ -42,7 +42,8 @@ récursoires exercées en application des articles L. 1142-15, L. 1142-17, L.
 
 Le directeur informe chaque commission de conciliation et d'indemnisation des
 accidents médicaux, des affections iatrogènes et des infections nosocomiales de
-la suite donnée par l'office à ses avis.
+la suite donnée par l'office à ses avis. Lorsqu'il refuse de suivre l'avis d'une
+commission, il communique à celle-ci les motifs de sa décision.
 
 Il informe le directeur de l'agence régionale de santé concerné des infections
 nosocomiales dont il indemnise les victimes en application de l'article L.

@@ -13,7 +13,7 @@ Outre son président, le conseil d'orientation comprend :
 4° Un représentant du directeur de l'hospitalisation et de l'organisation des
 soins ;
 
-5° Un représentant du directeur général de l'action sociale ;
+5° Un représentant du directeur général de la cohésion sociale ;
 
 6° Un représentant du directeur général du Trésor ;
 
