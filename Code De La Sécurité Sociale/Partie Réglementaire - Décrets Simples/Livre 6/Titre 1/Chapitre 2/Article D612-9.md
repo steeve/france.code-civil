@@ -6,13 +6,16 @@ cotisations de base. Le deuxième alinéa de l'article D. 612-6 n'est pas
 applicable aux cotisations supplémentaires.
 
 Le taux de la cotisation annuelle dont sont redevables les assurés cotisant
+ainsi que les conjoints collaborateurs mentionnés à l'article D. 613-28
 bénéficiaires du régime d'indemnités journalières des artisans, des industriels
 et commerçants est fixé à 0,7 % dans la limite de cinq fois le plafond de la
 sécurité sociale.
 
 La cotisation annuelle, y compris celle due au titre des première et deuxième
 années d'activité, ne peut être calculée sur une assiette inférieure à 40 % de
-la valeur du plafond de la sécurité sociale.
+la valeur du plafond de la sécurité sociale. La cotisation due par les conjoints
+collaborateurs est calculée sur une assiette égale à 40 % de la valeur du
+plafond de la sécurité sociale.
 
 Le paiement de la cotisation annuelle supplémentaire s'effectue selon les mêmes
 modalités que la cotisation annuelle de base.
