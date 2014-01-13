@@ -12,9 +12,8 @@ biologiques au service des patients et des praticiens ;
 de pronostic, aux cliniciens et aux biologistes qui s'adressent à eux lorsqu'ils
 suspectent une affection de l'embryon ou du foetus ;
 
-3° De poser l'indication de recourir au diagnostic biologique effectué à partir
-des cellules prélevées sur l'embryon in vitro, telle que mentionnée aux articles
-R. 2131-23 et R. 2131-26-1 ;
+3° De poser l'indication de recourir au diagnostic préimplantatoire, telle que
+mentionnée aux articles R. 2131-23 et R. 2131-26-1 ;
 
 4° D'organiser des actions de formation théorique et pratique destinées aux
 praticiens concernés par le diagnostic prénatal des diverses affections de

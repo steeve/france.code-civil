@@ -38,7 +38,7 @@ endovasculaire, en cardiologie ;
 16° Traitement de l'insuffisance rénale chronique par épuration extrarénale ;
 
 17° Activités cliniques et biologiques d'assistance médicale à la procréation et
-activités de diagnostic prénatal ;
+activités biologiques de diagnostic prénatal ;
 
 18° Traitement du cancer ;
 

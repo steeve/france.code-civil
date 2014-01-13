@@ -4,10 +4,12 @@ Lorsque dans un centre pluridisciplinaire de diagnostic prénatal autorisé en
 application de l'article R. 2131-13 sont constatés des manquements aux
 dispositions du présent chapitre, le directeur général de l'Agence de la
 biomédecine peut, à tout moment, retirer l'autorisation de ce centre après avis
-de son conseil d'orientation.
+de son conseil d'orientation et information de l'agence régionale de santé
+concernée.
 
 En cas d'urgence, l'autorisation peut, à titre conservatoire, être suspendue
-pour une durée maximale de trois mois.
+pour une durée maximale de trois mois après information de l'agence régionale de
+santé concernée.
 
 Avant toute décision de suspension ou de retrait d'autorisation, le titulaire de
 l'autorisation est mis en demeure de mettre fin à ces manquements ou de

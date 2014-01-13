@@ -12,7 +12,7 @@ médecin et du centre pluridisciplinaire de diagnostic prénatal dans lequel
 celui-ci exerce. Le centre conserve une copie de l'attestation, dans des
 conditions en garantissant la confidentialité. Le couple est informé que seule
 la pathologie liée à l'anomalie génétique parentale susceptible d'être transmise
-peut être recherchée chez l'embryon au cours des analyses conduisant à ce
+peut être recherchée chez l'embryon au cours des examens conduisant à ce
 diagnostic.
 
 Si l'indication d'un diagnostic sur l'embryon n'est pas retenue, les motifs en
