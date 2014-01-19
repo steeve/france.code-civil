@@ -47,6 +47,10 @@ Les régimes de retraite légalement obligatoires et les services de l'Etat
 chargés de la liquidation des pensions sont tenus d'adresser périodiquement, à
 titre de renseignement, un relevé de la situation individuelle de l'assuré au
 regard de l'ensemble des droits qu'il s'est constitués dans ces régimes.
+L'assuré bénéficie d'un service en ligne lui donnant accès à tout moment à son
+relevé actualisé, l'informant sur les régimes dont il relève et lui permettant
+de réaliser certaines démarches administratives et d'échanger avec les régimes
+concernés des documents dématérialisés.
 
 IV.-Dans des conditions fixées par décret, à partir d'un certain âge et selon
 une périodicité déterminée par le décret susmentionné, chaque personne reçoit,
