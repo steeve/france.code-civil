@@ -7,10 +7,7 @@ favorisant son évolution professionnelle, ainsi que de progresser d'au moins un
 niveau de qualification au cours de sa vie professionnelle. Elle constitue un
 élément déterminant de sécurisation des parcours professionnels et de la
 promotion des salariés. Une stratégie nationale coordonnée est définie et mise
-en œuvre par l'Etat, les régions et les partenaires sociaux, dans les conditions
-prévues au 2° de l'article L. 6123-1. Cette stratégie est déclinée dans chaque
-région dans le cadre du comité régional de l'emploi, de la formation et de
-l'orientation professionnelles.
+en œuvre par l'Etat, les régions et les partenaires sociaux.
 
 Elle comporte une formation initiale, comprenant notamment l'apprentissage, et
 des formations ultérieures, qui constituent la formation professionnelle
@@ -39,7 +36,10 @@ compte est alimenté :
 vue de favoriser l'accès à l'une des qualifications mentionnées à l'article L.
 6314-1, en particulier pour les personnes qui ont quitté le système scolaire de
 manière précoce ou qui, à l'issue de leur formation initiale, n'ont pas obtenu
-de qualification professionnelle reconnue.
+de qualification professionnelle reconnue ;
+
+3° En cas d'utilisation des points inscrits sur le compte personnel de
+prévention de la pénibilité, dans les conditions prévues à l'article L. 4162-5.
 
 Peuvent être mobilisés en complément du compte les autres dispositifs de
 formation auxquels son titulaire peut prétendre.

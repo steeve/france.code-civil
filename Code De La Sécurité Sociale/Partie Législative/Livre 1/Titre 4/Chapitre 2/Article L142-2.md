@@ -1,7 +1,8 @@
 Article L142-2
 ----
 Le tribunal des affaires de sécurité sociale connaît en première instance des
-litiges relevant du contentieux général de la sécurité sociale ainsi que de ceux
+litiges relevant du contentieux général de la sécurité sociale, de ceux relatifs
+à l'application de l'article L. 4162-13 du code du travail ainsi que de ceux
 relatifs au recouvrement des contributions, versements et cotisations mentionnés
 aux articles L. 143-11-6, L. 1233-66, L. 1233-69, L. 351-3-1 et L. 351-14 du
 code du travail.

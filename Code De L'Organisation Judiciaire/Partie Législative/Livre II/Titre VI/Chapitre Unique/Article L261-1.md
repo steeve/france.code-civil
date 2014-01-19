@@ -21,10 +21,10 @@ peines ;
 6° Au code rural et de la pêche maritime en ce qui concerne le tribunal
 paritaire des baux ruraux ;
 
-7° Au code de la sécurité sociale en ce qui concerne le tribunal des affaires de
-sécurité sociale, le tribunal du contentieux de l'incapacité et la Cour
-nationale de l'incapacité et de la tarification de l'assurance des accidents du
-travail ;
+7° Au code de la sécurité sociale et, le cas échéant, au code du travail en ce
+qui concerne le tribunal des affaires de sécurité sociale, le tribunal du
+contentieux de l'incapacité et la Cour nationale de l'incapacité et de la
+tarification de l'assurance des accidents du travail ;
 
 8° Au code du travail en ce qui concerne le conseil de prud'hommes ;
 
