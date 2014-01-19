@@ -80,4 +80,4 @@ délai maximum séparant son départ de l'entreprise et son retour dans celle-ci
 Les dispositions du premier alinéa ne sont pas opposables à l'assuré qui demande
 le bénéfice d'une pension au titre d'une retraite progressive prévue par des
 dispositions législatives ou réglementaires, notamment par les articles L.
-351-15 du présent code et L. 732-29 du code rural.
+351-15 du présent code et L. 732-29 du code rural et de la pêche maritime.
