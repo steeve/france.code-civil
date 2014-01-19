@@ -3,9 +3,9 @@ Article L135-6
 Il est créé un établissement public de l'Etat à caractère administratif, dénommé
 " Fonds de réserve pour les retraites ", placé sous la tutelle de l'Etat.
 
-Ce fonds a pour mission principale de gérer les sommes qui lui sont affectées
-afin de constituer des réserves destinées à contribuer à la pérennité des
-régimes de retraite.
+I. - Ce fonds a pour mission principale de gérer les sommes qui lui sont
+affectées afin de constituer des réserves destinées à contribuer à la pérennité
+des régimes de retraite.
 
 Les réserves sont constituées au profit des régimes obligatoires d'assurance
 vieillesse visés à l'article L. 222-1 et aux 1° et 2° de l'article L. 621-3
@@ -19,12 +19,19 @@ sociale afin de participer au financement des déficits, au titre des exercices
 les modalités de ces versements sont fixés par convention entre les deux
 établissements.
 
-Le Fonds de réserve pour les retraites assure également la gestion financière
-d'une partie de la contribution exceptionnelle, forfaitaire et libératoire due à
-la Caisse nationale d'assurance vieillesse des travailleurs salariés en
-application du 3° de l'article 19 de la loi n° 2004-803 du 9 août 2004 relative
-au service public de l'électricité et du gaz et aux entreprises électriques et
-gazières.
+II. - Les réserves qui excèdent la couverture des engagements mentionnés au
+dernier alinéa du I peuvent être affectées par la loi de financement de la
+sécurité sociale au financement, le cas échéant, de la correction de
+déséquilibres financiers conjoncturels des régimes de retraite ou du fonds
+mentionné au deuxième alinéa du même I, notamment ceux identifiés dans les
+conditions prévues à l'article L. 114-4.
+
+III. - Le Fonds de réserve pour les retraites assure également la gestion
+financière d'une partie de la contribution exceptionnelle, forfaitaire et
+libératoire due à la Caisse nationale d'assurance vieillesse des travailleurs
+salariés en application du 3° de l'article 19 de la loi n° 2004-803 du 9 août
+2004 relative au service public de l'électricité et du gaz et aux entreprises
+électriques et gazières.
 
 Les conditions et les résultats de la gestion de cette partie de la contribution
 sont retracés chaque année dans l'annexe des comptes du fonds. Cette partie de

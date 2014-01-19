@@ -1,21 +1,16 @@
 Article L634-6
 ----
-Le service d'une pension de vieillesse liquidée au titre des régimes d'assurance
-vieillesse des professions artisanales, industrielles et commerciales et dont
-l'entrée en jouissance intervient à compter d'un âge fixé par décret en Conseil
-d'Etat est subordonné à la cessation définitive des activités relevant du ou
-desdits régimes.
-
-Les dispositions du premier alinéa ne font pas obstacle à l'exercice par
-l'assuré d'une activité procurant des revenus inférieurs à des seuils adaptés
-selon les zones géographiques concernées et déterminés dans des conditions
-fixées par décret.
+Les dispositions du premier alinéa de l'article L. 161-22 ne font pas obstacle à
+l'exercice par l'assuré d'une activité procurant des revenus inférieurs à des
+seuils adaptés selon les zones géographiques concernées et déterminés dans des
+conditions fixées par décret.
 
 Lorsque l'assuré reprend une activité lui procurant des revenus supérieurs à
-ceux prévus à l'alinéa précédent, il en informe la caisse compétente et le
-service de la pension est suspendu.
+ceux prévus à l'alinéa précédent, il en informe la caisse compétente et la
+pension servie par ce régime est réduite à due concurrence du dépassement, dans
+des conditions fixées par décret.
 
-Par dérogation aux trois précédents alinéas, et sous réserve que l'assuré ait
+Par dérogation aux deux premiers alinéas, et sous réserve que l'assuré ait
 liquidé ses pensions de vieillesse personnelles auprès de la totalité des
 régimes légaux ou rendus légalement obligatoires, de base et complémentaires,
 français et étrangers, ainsi que des régimes des organisations internationales
@@ -29,5 +24,13 @@ l'assuré justifie d'une durée d'assurance et de périodes reconnues équivalen
 mentionnée au deuxième alinéa du même article au moins égale à la limite
 mentionnée au même alinéa.
 
-Les dispositions du premier alinéa ne sont pas opposables à l'assuré qui demande
-le bénéfice de sa pension au titre de l'article L. 634-3-1.
+La pension due par un régime de retraite légalement obligatoire dont l'âge
+d'ouverture des droits, le cas échéant sans minoration, est supérieur à l'âge
+prévu à l'article L. 161-17-2 n'est pas retenue pour apprécier la condition de
+liquidation de l'ensemble des pensions de retraite, et ce jusqu'à ce que
+l'assuré ait atteint l'âge à partir duquel il peut liquider cette pension ou, en
+cas de minoration, l'âge auquel celles-ci prennent fin.
+
+Les dispositions du premier alinéa de l'article L. 161-22 ne sont pas opposables
+à l'assuré qui demande le bénéfice de sa pension au titre de l'article L.
+634-3-1.

@@ -2,10 +2,8 @@ Article L634-3-3
 ----
 La condition d'âge prévue au premier alinéa de l'article L. 351-1 est abaissée
 dans des conditions fixées par décret pour les assurés handicapés qui ont
-accompli, alors qu'ils étaient atteints d'une incapacité permanente au moins
-égale à un taux fixé par décret ou qu'ils bénéficiaient de la reconnaissance de
-la qualité de travailleur handicapé mentionnée à l'article L. 5213-1 du code du
-travail, une durée d'assurance dans les régimes d'assurance vieillesse des
+accompli, alors qu'ils étaient atteints d'une incapacité permanente d'au moins
+50 %, une durée d'assurance dans les régimes d'assurance vieillesse des
 travailleurs non salariés des professions artisanales, industrielles et
 commerciales et, le cas échéant, dans un ou plusieurs autres régimes
 obligatoires au moins égale à une limite définie par décret, tout ou partie de

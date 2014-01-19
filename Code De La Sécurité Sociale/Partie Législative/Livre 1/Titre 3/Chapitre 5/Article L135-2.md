@@ -88,11 +88,7 @@ vieillesse de base, dans le salaire de base mentionné à l'article L. 351-1, de
 indemnités journalières mentionnées au même article ;
 
 11° Les sommes correspondant à la prise en charge mentionnée au dernier alinéa
-de l'article L. 6243-3 du code du travail ;
-
-12° Le financement d'avantages non contributifs instaurés au bénéfice des
-retraités de l'ensemble des régimes, lorsque les dispositions les instituant le
-prévoient.
+de l'article L. 6243-3 du code du travail.
 
 Les sommes mentionnées aux a, b, d, e, f et g du 4°, au 7° et au 10° sont
 calculées sur une base forfaitaire dans des conditions fixées par décret en

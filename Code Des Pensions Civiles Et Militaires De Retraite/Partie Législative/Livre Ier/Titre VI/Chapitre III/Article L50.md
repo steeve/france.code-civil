@@ -1,17 +1,18 @@
 Article L50
 ----
-I. - En cas de décès d'un fonctionnaire civil ou militaire par suite d'un
+I.-En cas de décès d'un fonctionnaire civil ou militaire par suite d'un
 attentat, d'une lutte dans l'exercice de ses fonctions, d'un acte de dévouement
 dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, une
-pension de réversion est concédée aux conjoints.A cette pension de réversion
+pension de réversion est concédée aux conjoints. A cette pension de réversion
 s'ajoute soit la moitié de la rente viagère d'invalidité dont aurait pu
 bénéficier le fonctionnaire, soit la pension prévue au code des pensions
 militaires d'invalidité, de manière à ce que le total ne soit pas inférieur à un
 montant correspondant à la valeur de l'indice majoré 227 au 1er janvier 2004,
-revalorisé dans les conditions de l'article L. 16.
+revalorisé dans les conditions prévues à l'article L. 341-6 du code de la
+sécurité sociale.
 
-II. - Le total des pensions et, selon les cas, de la rente viagère d'invalidité
-ou de la pension militaire d'invalidité attribuables aux conjoints survivants et
+II.-Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou
+de la pension militaire d'invalidité attribuables aux conjoints survivants et
 aux orphelins ne peut être inférieur à celui de la pension et de la rente
 viagère d'invalidité ou de la pension militaire d'invalidité dont le
 fonctionnaire ou le militaire aurait pu bénéficier, si le décès intervient dans
@@ -48,7 +49,7 @@ contrôle dans le domaine des affaires maritimes sous l'autorité ou à la
 disposition du ministre chargé de la mer est tué en service au cours d'une
 mission de contrôle ou de surveillance.
 
-III. - Le total des pensions et, selon les cas, de la rente viagère ou de la
+III.-Le total des pensions et, selon les cas, de la rente viagère ou de la
 pension militaire d'invalidité attribuables aux conjoints survivants et aux
 orphelins est porté à 100 % du traitement ou de la solde de base détenu par le
 fonctionnaire ou le militaire au jour de son décès lorsqu'un fonctionnaire, un

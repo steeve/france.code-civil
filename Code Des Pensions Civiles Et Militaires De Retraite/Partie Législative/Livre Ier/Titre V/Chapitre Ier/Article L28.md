@@ -19,21 +19,21 @@ Le montant de la rente d'invalidité est fixé à la fraction du traitement ou d
 la solde de base définis à l'article L. 15 égale au pourcentage d'invalidité. Si
 le montant de ce traitement ou de cette solde de base dépasse un montant
 correspondant à la valeur de l'indice majoré 681 au 1er janvier 2004, revalorisé
-dans les conditions prévues à l'article L. 16, la fraction dépassant cette
-limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de
-la fraction excédant dix fois ce montant brut.
+dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale,
+la fraction dépassant cette limite n'est comptée que pour le tiers. Toutefois,
+il n'est pas tenu compte de la fraction excédant dix fois ce montant brut.
 
 Le taux d'invalidité est déterminé compte tenu d'un barème indicatif fixé par
 décret.
 
-La rente d'invalidité est liquidée, concédée et payée dans les mêmes conditions
-et suivant les mêmes modalités que la pension.
+La rente d'invalidité est liquidée, concédée, payée et revalorisée dans les
+mêmes conditions que la pension prévue à l'article L. 27.
 
 Le total de la pension et de la rente d'invalidité est élevé au produit du
 pourcentage maximum prévu à l'article L. 13 par le traitement mentionné à
-l'article L. 15 et revalorisé dans les conditions prévues à l'article L. 16
-lorsque le fonctionnaire civil est mis à la retraite à la suite d'un attentat ou
-d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un
-intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou
-plusieurs personnes. Toutefois, le taux de l'invalidité rémunérable doit être au
-moins égal à 60 %.
+l'article L. 15 et revalorisé dans les conditions prévues à l'article L. 341-6
+du code de la sécurité sociale lorsque le fonctionnaire civil est mis à la
+retraite à la suite d'un attentat ou d'une lutte dans l'exercice de ses
+fonctions ou d'un acte de dévouement dans un intérêt public ou pour avoir exposé
+ses jours pour sauver la vie d'une ou plusieurs personnes. Toutefois, le taux de
+l'invalidité rémunérable doit être au moins égal à 60 %.

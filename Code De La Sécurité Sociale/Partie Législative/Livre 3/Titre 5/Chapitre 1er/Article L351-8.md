@@ -12,7 +12,8 @@ leur qualité d'aidant familial telle que définie à l'article L. 245-12 du cod
 de l'action sociale et des familles qui atteignent l'âge de soixante-cinq ans
 dans des conditions déterminées par décret en Conseil d'Etat ;
 
-1° ter Les assurés handicapés qui atteignent l'âge de soixante-cinq ans ;
+1° ter Les assurés justifiant d'une incapacité permanente au moins égale à un
+taux fixé par décret, qui atteignent l'âge mentionné à l'article L. 161-17-2 ;
 
 2°) les assurés reconnus inaptes au travail dans les conditions prévues à
 l'article L. 351-7 ;

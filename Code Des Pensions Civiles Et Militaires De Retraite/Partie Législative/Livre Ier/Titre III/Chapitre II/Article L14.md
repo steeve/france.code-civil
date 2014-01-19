@@ -26,13 +26,14 @@ résultant des dispositions du 1° et du 2° du présent I est pris en
 considération.
 
 Le coefficient de minoration n'est pas applicable aux fonctionnaires handicapés
-dont l'incapacité permanente est au moins égale à 80 % ou mis à la retraite pour
-invalidité ainsi qu'aux fonctionnaires âgés d'au moins soixante-cinq ans qui
-bénéficient d'un nombre minimum de trimestres fixé par décret au titre de la
-majoration de durée d'assurance prévue à l'article L. 12 ter ou qui, pendant une
-durée et dans des conditions fixées par décret, ont apporté une aide effective à
-leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de
-l'article L. 245-3 du code de l'action sociale et des familles.
+dont l'incapacité permanente est au moins égale à un taux fixé par décret ou mis
+à la retraite pour invalidité ainsi qu'aux fonctionnaires âgés d'au moins
+soixante-cinq ans qui bénéficient d'un nombre minimum de trimestres fixé par
+décret au titre de la majoration de durée d'assurance prévue à l'article L. 12
+ter ou qui, pendant une durée et dans des conditions fixées par décret, ont
+apporté une aide effective à leur enfant bénéficiaire de l'élément de la
+prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et
+des familles.
 
 Le coefficient de minoration n'est pas applicable aux pensions de réversion
 lorsque la liquidation de la pension dont le fonctionnaire aurait pu bénéficier
@@ -93,7 +94,7 @@ d'assurance, à l'exclusion de celles accordées au titre des enfants et du
 handicap, prévues par les dispositions législatives et réglementaires, quel que
 soit le régime de retraite de base au titre duquel elles ont été acquises, ne
 sont pas prises en compte pour le calcul de la durée d'assurance mentionnée au
-premier alinéa du présent III . Un décret fixe la liste des bonifications et
+premier alinéa du présent III. Un décret fixe la liste des bonifications et
 majorations de durée auxquelles s'applique le présent alinéa.
 
 Sont pris en compte pour ce calcul les trimestres entiers cotisés.

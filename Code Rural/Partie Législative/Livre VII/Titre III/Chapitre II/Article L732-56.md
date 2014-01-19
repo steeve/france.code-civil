@@ -55,3 +55,35 @@ obligatoire les personnes ayant, à compter du 1er janvier 2011 ou
 postérieurement à cette date, la qualité d'aide familial telle que définie au 2°
 de l'article L. 722-10 ou la qualité de collaborateur d'exploitation ou
 d'entreprise agricole telle que définie à l'article L. 321-5.
+
+V.-Bénéficient également du présent régime les personnes ayant, pour les
+périodes antérieures au 1er janvier 2003, exercé à titre exclusif ou principal
+en qualité de chef d'exploitation ou d'entreprise agricole lorsque l'assuré ne
+justifie pas d'une durée minimale d'assurance à ce titre et les personnes ayant,
+pour les périodes antérieures au 1er janvier 2011, exercé à titre exclusif ou
+principal en qualité d'aide familial défini à l'article L. 732-34, en qualité de
+conjoint participant aux travaux défini au même article L. 732-34 ou en qualité
+de collaborateur d'exploitation ou d'entreprise agricole défini à l'article L.
+732-35 dont la retraite servie à titre personnel a pris effet :
+
+1° Avant le 1er janvier 1997 et qui justifient d'un minimum de périodes
+d'assurance au titre d'activités non salariées agricoles accomplies à titre
+exclusif ou principal ;
+
+2° Entre le 1er janvier 1997 et le 1er janvier 2014 et qui justifient, dans un
+ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de
+périodes reconnues équivalentes, au moins égale à la durée requise par l'article
+L. 732-25 pour ouvrir droit à une pension à taux plein du régime d'assurance
+vieillesse des professions non salariées agricoles et d'un minimum de périodes
+d'assurance au titre d'activités non salariées agricoles accomplies à titre
+exclusif ou principal.
+
+Un décret détermine le nombre maximal d'années retenues pour le bénéfice du
+régime et les durées minimales d'assurance requises.
+
+VI.-Les personnes dont la retraite servie à titre personnel prend effet après le
+31 décembre 2013 et qui remplissent les conditions de durée d'assurance
+mentionnées au 2° du V bénéficient du présent régime pour les périodes
+accomplies à titre exclusif ou principal en qualité de chef d'exploitation ou
+d'entreprise agricole d'aide familial, de conjoint participant aux travaux ou de
+collaborateur d'exploitation ou d'entreprise agricole définies au même V.

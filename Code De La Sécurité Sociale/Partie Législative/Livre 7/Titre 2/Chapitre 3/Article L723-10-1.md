@@ -33,18 +33,19 @@ cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale
 une limite définie par décret, tout ou partie de cette durée totale ayant donné
 lieu à cotisations à la charge de l'assuré. Un décret précise les modalités
 d'application du présent II, et notamment les conditions dans lesquelles, le cas
-échéant, une partie des périodes de service national peut être réputée avoir
-donné lieu au versement de cotisations.
+échéant, peuvent être réputées avoir donné lieu au versement de cotisations
+certaines périodes d'assurance validées en application de l'article L. 351-3 ou
+de dispositions légales ou réglementaires ayant le même objet, applicables à des
+régimes obligatoires de base d'assurance vieillesse, selon les conditions
+propres à chacun de ces régimes.
 
 III.-La condition d'âge prévue au premier alinéa du I est abaissée, dans des
 conditions fixées par décret, pour les assurés handicapés qui ont accompli,
-alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un
-taux fixé par décret ou qu'ils bénéficiaient de la reconnaissance de la qualité
-de travailleur handicapé mentionnée à l'article L. 5213-1 du code du travail,
-une durée d'assurance dans le régime d'assurance vieillesse de base des avocats
-et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins
-égale à une limite définie par décret, tout ou partie de cette durée ayant donné
-lieu à cotisations à la charge de l'assuré.
+alors qu'ils étaient atteints d'une incapacité permanente d'au moins 50 %, une
+durée d'assurance dans le régime d'assurance vieillesse de base des avocats et,
+le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale
+à une limite définie par décret, tout ou partie de cette durée ayant donné lieu
+à cotisations à la charge de l'assuré.
 
 La pension des intéressés est majorée en fonction de la durée ayant donné lieu à
 cotisations considérée, dans des conditions précisées par décret.

@@ -11,7 +11,7 @@ du présent code ;
 -des principes de l'action sociale et médico-sociale énoncés aux articles L.
 116-1 et L. 116-2 du code de l'action sociale et des familles ;
 
--des principes fondamentaux affirmés à l'article L. 111-2-1 du code de la
+-des principes fondamentaux affirmés au I de l'article L. 111-2-1 du code de la
 sécurité sociale.
 
 Les agences régionales de santé contribuent au respect de l'objectif national de
@@ -19,6 +19,6 @@ dépenses d'assurance maladie.
 
 Leurs compétences s'exercent sans préjudice et dans le respect de celles des
 collectivités territoriales et des établissements et agences mentionnés aux
-articles L. 1222-1, L. 1323-1, L. 1336-1, L. 1413-2, L. 1418-1 et L. 5311-1 du
-présent code ainsi qu'aux articles L. 312-8 du code de l'action sociale et des
-familles et L. 161-37 du code de la sécurité sociale.
+articles L. 1222-1, L. 1313-1, L. 1413-2, L. 1418-1 et L. 5311-1 du présent code
+ainsi qu'aux articles L. 312-8 du code de l'action sociale et des familles et L.
+161-37 du code de la sécurité sociale.

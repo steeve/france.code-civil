@@ -1,14 +1,13 @@
 Article L643-2
 ----
-Sont prises en compte par le régime d'assurance vieillesse de base des
+I.-Sont prises en compte par le régime d'assurance vieillesse de base des
 professions libérales, pour l'assurance vieillesse, sous réserve du versement de
 cotisations fixées dans des conditions, définies par décret, garantissant la
 neutralité actuarielle et dans la limite totale de douze trimestres d'assurance
 :
 
 1° Les périodes d'études accomplies dans les écoles et classes visées à
-l'article L. 381-4 et n'ayant pas donné lieu à affiliation à un régime
-d'assurance vieillesse lorsque le régime d'assurance vieillesse de base des
+l'article L. 381-4 lorsque le régime d'assurance vieillesse de base des
 professions libérales est le premier régime d'affiliation à l'assurance
 vieillesse après lesdites études ; ces périodes d'études doivent avoir donné
 lieu à l'obtention d'un diplôme, l'admission dans les grandes écoles et classes
@@ -20,3 +19,10 @@ en compte ;
 2° Les années civiles ayant donné lieu à affiliation au régime d'assurance
 vieillesse de base des professions libérales à quelque titre que ce soit, au
 titre desquelles il est retenu un nombre de trimestres inférieur à quatre.
+
+II.-Par dérogation aux conditions prévues au I, le montant du versement de
+cotisations prévu pour la prise en compte des périodes mentionnées au 1° du même
+I peut être abaissé par décret pour les périodes de formation initiale, dans des
+conditions et limites tenant notamment au délai de présentation de la demande,
+fixé à dix ans à compter de la fin des études, et au nombre de trimestres
+éligibles à ce montant spécifique.

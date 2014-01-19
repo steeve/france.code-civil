@@ -18,4 +18,5 @@ visés au I de l'article L. 732-56 à compter du 1er janvier 2003.
 Les frais de gestion visés à l'article L. 732-58 sont couverts par un
 prélèvement sur le montant des cotisations, dans une limite fixée par décret.
 
-Un décret fixe le taux de la cotisation.
+L'arrêté mentionné à l'article L. 732-60-1 ou, à défaut, le décret mentionné au
+dernier alinéa du même article fixe le ou les taux de cotisation.

@@ -11,6 +11,9 @@ traitement, ou à l'expiration d'un délai de douze mois à compter de sa mise e
 congé si celle-ci a été prononcée en application de l'article 36 (2°) de
 l'ordonnance du 4 février 1959 relative au statut général des fonctionnaires ou
 à la fin du congé qui lui a été accordé en application de l'article 36 (3°) de
-ladite ordonnance. L'intéressé a droit à la pension rémunérant les services,
-sous réserve que ses blessures ou maladies aient été contractées ou aggravées au
-cours d'une période durant laquelle il acquérait des droits à pension.
+ladite ordonnance. L'intéressé a droit à la pension rémunérant les services
+prévue au 2° du I de l'article L. 24 du présent code, sous réserve que ses
+blessures ou maladies aient été contractées ou aggravées au cours d'une période
+durant laquelle il acquérait des droits à pension. Par dérogation à l'article L.
+16 du même code, cette pension est revalorisée dans les conditions fixées à
+l'article L. 341-6 du code de la sécurité sociale.

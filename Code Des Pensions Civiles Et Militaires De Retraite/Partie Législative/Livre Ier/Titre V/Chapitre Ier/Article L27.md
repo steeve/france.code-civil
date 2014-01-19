@@ -11,3 +11,8 @@ l'expiration d'un délai de douze mois à compter de sa mise en congé si cette
 dernière a été prononcée en application des 2° et 3° de l'article 34 de la même
 loi ou à la fin du congé qui lui a été accordé en application du 4° du même
 article.
+
+L'intéressé a droit à la pension rémunérant les services prévue au 2° du I de
+l'article L. 24 du présent code. Par dérogation à l'article L. 16 du même code,
+cette pension est revalorisée dans les conditions fixées à l'article L. 341-6 du
+code de la sécurité sociale.

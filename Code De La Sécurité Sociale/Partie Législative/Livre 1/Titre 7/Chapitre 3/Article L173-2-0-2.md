@@ -6,5 +6,8 @@ dispositions que celles de l'article L. 351-4, et l'autre dans un régime spéci
 de retraite, les conditions pour bénéficier de périodes d'assurance accordées au
 titre de l'accouchement, de la grossesse, de l'adoption ou de l'éducation d'un
 enfant, il est fait application des seules règles du régime dont relève la mère
-de l'enfant. La liste des avantages attribuables dans les régimes spéciaux
-soumis aux règles prévues au présent article est fixée par décret.
+de l'enfant ; lorsque les deux parents sont de même sexe, il est fait
+application des règles d'un seul des régimes, en application d'une règle de
+priorité entre régimes définie par décret en Conseil d'Etat. La liste des
+avantages attribuables dans les régimes spéciaux soumis aux règles prévues au
+présent article est fixée par décret.

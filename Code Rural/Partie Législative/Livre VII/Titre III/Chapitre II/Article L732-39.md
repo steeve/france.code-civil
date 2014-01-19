@@ -14,8 +14,8 @@ Les dispositions des alinéas précédents ne sont pas applicables aux assurés
 ayant obtenu, avant le 1er janvier 1986, le service d'une pension de vieillesse
 liquidée postérieurement au 31 mars 1983 dans un des régimes énumérés au premier
 alinéa de l'article L. 161-22 du code de la sécurité sociale ou d'une pension de
-vieillesse liquidée postérieurement au 30 juin 1984 dans un des régimes énumérés
-au premier alinéa de l'article L. 634-6 du code de la sécurité sociale.
+vieillesse liquidée postérieurement au 30 juin 1984 dans un régime d'assurance
+vieillesse des professions artisanales, industrielles et commerciales.
 
 Par dérogation aux deux premiers alinéas, et sous réserve que l'assuré ait
 liquidé ses pensions de vieillesse personnelles auprès de la totalité des
@@ -44,7 +44,13 @@ justifient des conditions fixées aux a et b du présent article peuvent cumuler
 leur pension de vieillesse non salariée agricole avec une activité
 professionnelle non salariée agricole exercée sur une exploitation ou entreprise
 agricole donnant lieu à assujettissement du chef d'exploitation ou d'entreprise
-agricole.
+agricole. La pension due par un régime de retraite légalement obligatoire dont
+l'âge d'ouverture des droits, le cas échéant sans minoration, est supérieur à
+l'âge prévu à l'article L. 161-17-2 du code de la sécurité sociale n'est pas
+retenue pour apprécier la condition de liquidation de l'ensemble des pensions de
+retraite, et ce jusqu'à ce que l'assuré ait atteint l'âge à partir duquel il
+peut liquider cette pension ou, en cas de minoration, l'âge auquel celles-ci
+prennent fin.
 
 Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2°, 3°,
 4°, 5° et 7° de l'article L. 161-22 du code de la sécurité sociale.
