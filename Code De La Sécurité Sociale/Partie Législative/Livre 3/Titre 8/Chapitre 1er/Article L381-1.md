@@ -18,15 +18,12 @@ dont il assume la charge remplissent les conditions d'âge et de nombre qui sont
 fixées par décret.
 
 La personne bénéficiaire de l'allocation journalière de présence parentale est
-affiliée à l'assurance vieillesse du régime général, sous réserve que ses
-ressources ou celles du ménage soient inférieures à un plafond fixé par décret.
+affiliée à l'assurance vieillesse du régime général.
 
 Est également affiliée obligatoirement à l'assurance vieillesse du régime
-général de sécurité sociale, pour autant que ses ressources ou celles du ménage
-ne dépassent pas le plafond du complément familial, la personne bénéficiaire du
-congé de soutien familial prévu à l'article L. 225-20 du code du travail. Cette
-affiliation est subordonnée à la production de justificatifs, définis par
-décret.
+général de sécurité sociale , la personne bénéficiaire du congé de soutien
+familial prévu à l'article L. 225-20 du code du travail. Cette affiliation est
+subordonnée à la production de justificatifs, définis par décret.
 
 Le travailleur non salarié mentionné aux articles L. 611-1 ou L. 722-1 du
 présent code, à l'article L. 722-4 du code rural et de la pêche maritime ou au
@@ -40,18 +37,16 @@ jusqu'au quatrième degré ou de l'ascendant, du descendant ou du collatéral
 jusqu'au quatrième degré de son conjoint, de son concubin ou de la personne avec
 laquelle il a conclu un pacte civil de solidarité, présentant un handicap ou une
 perte d'autonomie d'une particulière gravité, est affilié obligatoirement, pour
-une durée de trois mois, à l'assurance vieillesse du régime général, pour autant
-que ses ressources ou celles du ménage ne dépassent pas le plafond du complément
-familial. Cette affiliation peut être renouvelée, dans la limite d'une durée
-maximale d'une année. Elle n'est pas subordonnée à la radiation du travailleur
-non salarié du centre de formalités des entreprises dont il relève. Elle est
-subordonnée à la production de justificatifs, définis par décret.
+une durée de trois mois, à l'assurance vieillesse du régime général . Cette
+affiliation peut être renouvelée, dans la limite d'une durée maximale d'une
+année. Elle n'est pas subordonnée à la radiation du travailleur non salarié du
+centre de formalités des entreprises dont il relève. Elle est subordonnée à la
+production de justificatifs, définis par décret.
 
 En outre, est affilié obligatoirement à l'assurance vieillesse du régime général
-de sécurité sociale, pour autant que ses ressources ou celles du ménage ne
-dépassent pas le plafond du complément familial et qu'elle n'exerce aucune
-activité professionnelle ou seulement une activité à temps partiel la personne
-et, pour un couple, l'un ou l'autre de ses membres :
+de sécurité sociale et qu'elle n'exerce aucune activité professionnelle ou
+seulement une activité à temps partiel la personne et, pour un couple, l'un ou
+l'autre de ses membres :
 
 1°) ayant la charge d'un enfant handicapé qui n'est pas admis dans un internat,
 dont l'incapacité permanente est au moins égale à un taux fixé par décret et qui
