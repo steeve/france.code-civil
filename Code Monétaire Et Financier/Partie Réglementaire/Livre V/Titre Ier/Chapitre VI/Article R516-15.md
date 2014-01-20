@@ -35,13 +35,12 @@ arrêté du ministre chargé de l'économie.
 Le comité spécialisé pour les opérations à l'étranger comprend cinq
 représentants de l'Etat, dont deux nommés par arrêté du ministre des affaires
 étrangères, deux nommés par arrêté du ministre chargé de l'économie et un nommé
-par arrêté du ministre chargé de l'immigration et du développement solidaire.
+par arrêté du ministre chargé de l'immigration.
 
 Le comité spécialisé pour l'appui aux initiatives des organisations non
 gouvernementales comprend quatre représentants de l'Etat dont deux nommés par
 arrêté du ministre des affaires étrangères, un nommé par arrêté du ministre
-chargé de l'économie et un nommé par arrêté du ministre chargé de l'immigration
-et du développement solidaire.
+chargé de l'économie et un nommé par arrêté du ministre chargé de l'immigration.
 
 Chacun de ces comités spécialisés comprend en outre :
 
