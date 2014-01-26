@@ -13,7 +13,7 @@ conformément à l'article 3 de la loi n° 85-30 du 9 janvier 1985 précitée, l
 comités de massif concernés sont consultés sur le projet de fusion. Leur avis
 est réputé favorable s'ils ne se sont pas prononcés à l'expiration d'un délai de
 quatre mois suivant la notification, par le représentant de l'Etat dans la
-région, des délibérations du conseil régional et des conseils généraux
+région, des délibérations du conseil régional et des conseils départementaux
 intéressés.
 
 II. ― Le Gouvernement ne peut donner suite à la demande que si ce projet de

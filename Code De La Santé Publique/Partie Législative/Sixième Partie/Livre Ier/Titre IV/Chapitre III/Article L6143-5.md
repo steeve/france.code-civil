@@ -6,10 +6,10 @@ Le conseil de surveillance est composé comme suit :
 groupements ou de la métropole, désignés en leur sein par les organes
 délibérants des collectivités territoriales, de leurs groupements ou de la
 métropole, parmi lesquels figurent le maire de la commune siège de
-l'établissement principal ou son représentant, le président du conseil général
-ou son représentant et le président de la métropole ou son représentant, y
-compris dans les métropoles du Grand Paris, de Lyon et d'Aix-Marseille-Provence
-;
+l'établissement principal ou son représentant, le président du conseil
+départemental ou son représentant et le président de la métropole ou son
+représentant, y compris dans les métropoles du Grand Paris, de Lyon et
+d'Aix-Marseille-Provence ;
 
 2° Au plus cinq représentants du personnel médical et non médical de
 l'établissement public, dont un représentant élu parmi les membres de la
