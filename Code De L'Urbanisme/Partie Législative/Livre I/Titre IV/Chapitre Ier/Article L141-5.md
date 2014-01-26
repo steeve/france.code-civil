@@ -13,15 +13,15 @@ d'intérêt national, ainsi que de la chambre interdépartementale d'agriculture
 d'Ile-de-France, de la société d'aménagement foncier et d'établissement rural de
 l'Ile-de-France, de l'Office national des forêts et des associations agréées
 pour la protection de l'environnement présentes dans le périmètre d'intervention
-de l'Etablissement public de Paris-Saclay.
+de l'Etablissement public d'aménagement de Paris-Saclay.
 
 Cette zone comprend au moins 2 300 hectares de terres consacrées à l'activité
 agricole situées sur les communes figurant à l'annexe B précitée.
 
 Pour l'exercice de ses missions, l'organe délibérant de l'Etablissement public
-de Paris-Saclay définit les secteurs indispensables au développement du pôle
-scientifique et technologique. Ces secteurs ne peuvent être inclus dans la zone
-de protection.
+d'aménagement de Paris-Saclay définit les secteurs indispensables au
+développement du pôle scientifique et technologique. Ces secteurs ne peuvent
+être inclus dans la zone de protection.
 
 La zone est délimitée après enquête publique conduite dans les conditions
 définies par le chapitre III du titre II du livre Ier du code de
