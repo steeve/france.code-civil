@@ -18,4 +18,8 @@ fonction de l'état de santé.
 
 Les mutuelles et les unions visées au présent article ne peuvent instaurer de
 différences dans le niveau des prestations qu'en fonction des cotisations payées
-ou de la situation de famille des intéressés.
+ou de la situation de famille des intéressés ou lorsque l'assuré choisit de
+recourir à un professionnel de santé, un établissement de santé ou un service de
+santé avec lequel les mutuelles, unions ou fédérations ont conclu une convention
+dans les conditions mentionnées à l'article L. 863-8 du code de la sécurité
+sociale.
