@@ -1,6 +1,6 @@
 Article L5219-1
 ----
-I. ― Il est créé au 1er janvier 2016 un établissement public de coopération
+I. - Il est créé au 1er janvier 2016 un établissement public de coopération
 intercommunale à fiscalité propre à statut particulier dénommé la métropole du
 Grand Paris , qui regroupe :
 
@@ -52,7 +52,7 @@ avec l'appui de l'Agence foncière et technique de la région parisienne, de
 l'Atelier international du Grand Paris, des agences d'urbanisme et de toute
 autre structure utile.
 
-II. ― La métropole du Grand Paris est soumise au chapitre VII du présent titre
+II. - La métropole du Grand Paris est soumise au chapitre VII du présent titre
 Ier, sous réserve des dispositions du présent chapitre. Elle exerce de plein
 droit, en lieu et place de ses communes membres, les compétences suivantes :
 
@@ -85,10 +85,14 @@ d) Aménagement, entretien et gestion des aires d'accueil des gens du voyage ;
 
 3° En matière de politique de la ville :
 
-a) Dispositifs contractuels de développement urbain, de développement local et
-d'insertion économique et sociale ;
+a) Elaboration du diagnostic du territoire et définition des orientations du
+contrat de ville ;
 
-b) Dispositifs locaux de prévention de la délinquance ;
+b) Animation et coordination des dispositifs contractuels de développement
+urbain, de développement local et d'insertion économique et sociale ainsi que
+des dispositifs locaux de prévention de la délinquance ;
+
+c) Programmes d'actions définis dans le contrat de ville ;
 
 4° En matière de développement et d'aménagement économique, social et culturel :
 
@@ -136,12 +140,12 @@ métropole exerce l'intégralité des compétences transférées.
 Les actions de développement économique de la métropole prennent en compte les
 orientations définies par le conseil régional.
 
-III. ― Les communes membres de la métropole du Grand Paris peuvent transférer à
+III. - Les communes membres de la métropole du Grand Paris peuvent transférer à
 celle-ci certaines de leurs compétences dans les conditions prévues à l'article
 L. 5211-17. Pour l'application du même article L. 5211-17, les conditions de
 majorité requises sont celles prévues au II de l'article L. 5211-5.
 
-IV. ― La métropole du Grand Paris élabore un plan local d'urbanisme dans les
+IV. - La métropole du Grand Paris élabore un plan local d'urbanisme dans les
 conditions prévues au chapitre III du titre II du livre Ier du code de
 l'urbanisme, sous réserve des dispositions du présent IV. Le plan regroupe les
 plans de territoire élaborés par les conseils de territoire qui tiennent lieu de
@@ -174,7 +178,7 @@ schéma régional de l'habitat et de l'hébergement en Ile-de-France.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent IV.
 
-V. ― La métropole du Grand Paris définit et met en œuvre des programmes d'action
+V. - La métropole du Grand Paris définit et met en œuvre des programmes d'action
 en vue de lutter contre la pollution de l'air et de favoriser la transition
 énergétique, notamment en améliorant l'efficacité énergétique des bâtiments et
 en favorisant le développement des énergies renouvelables et celui de l'action
@@ -255,7 +259,7 @@ intéressé.
 L'Etat peut mettre à la disposition de la métropole du Grand Paris les
 établissements publics d'aménagement de l'Etat.
 
-VI. ― Afin de favoriser la construction de logements neufs, la réhabilitation
+VI. - Afin de favoriser la construction de logements neufs, la réhabilitation
 des logements anciens et la résorption de l'habitat indigne, l'Etat peut
 déléguer par convention à la métropole du Grand Paris, sur sa demande, dès lors
 qu'elle dispose d'un plan métropolitain de l'habitat et de l'hébergement
