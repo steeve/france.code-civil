@@ -1,14 +1,14 @@
 Article L5731-2
 ----
-Le pôle métropolitain regroupe des établissements publics de coopération
-intercommunale à fiscalité propre formant un ensemble de plus de 300 000
-habitants.L'un d'entre eux compte plus de 150 000 habitants.
+I. - Le pôle métropolitain regroupe des établissements publics de coopération
+intercommunale à fiscalité propre sous réserve que l'un d'entre eux compte plus
+de 100 000 habitants.
 
 Par dérogation au précédent alinéa, le pôle métropolitain peut regrouper, sur un
 territoire d'un seul tenant et sans enclave, des établissements publics de
-coopération intercommunale à fiscalité propre formant un ensemble de plus de 300
-000 habitants et comprenant au moins un établissement public de coopération
-intercommunale de plus de 50 000 habitants limitrophe d'un Etat étranger.
+coopération intercommunale à fiscalité propre comprenant au moins un
+établissement public de coopération intercommunale de plus de 50 000 habitants
+limitrophe d'un Etat étranger
 
 Le représentant de l'Etat dans le département siège du pôle métropolitain
 notifie pour avis le projet de création à l'assemblée délibérante de chaque
@@ -20,3 +20,8 @@ est réputée favorable.
 Cette création peut être décidée par arrêté du représentant de l'Etat dans le
 département siège de l'établissement public de coopération intercommunale à
 fiscalité propre dont la population est la plus importante.
+
+II. - A la demande du conseil syndical du pôle métropolitain, les régions ou les
+départements sur le territoire desquels se situe le siège des établissements
+publics de coopération intercommunale membres peuvent adhérer au pôle
+métropolitain.

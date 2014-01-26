@@ -97,3 +97,7 @@ territoire de la commune.
 
 24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux
 associations dont elle est membre.
+
+Les délégations consenties en application du 3° du présent article prennent fin
+dès l'ouverture de la campagne électorale pour le renouvellement du conseil
+municipal.

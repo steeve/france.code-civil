@@ -3,9 +3,11 @@ Article L1241-4
 Le Syndicat des transports d'Ile-de-France peut assurer la maîtrise d'ouvrage ou
 désigner le ou les maîtres d'ouvrage de projets d'infrastructures nouvelles
 destinées au transport public de voyageurs, dans la limite des compétences
-reconnues à l'établissement public Réseau ferré de France. Le Syndicat des
-transports d'Ile-de-France et la Régie autonome des transports parisiens
-exercent conjointement, dans la limite des compétences reconnues à
+reconnues à l'établissement public Réseau ferré de France et à l'établissement
+public Société du Grand Paris.
+
+Le Syndicat des transports d'Ile-de-France et la Régie autonome des transports
+parisiens exercent conjointement, dans la limite des compétences reconnues à
 l'établissement public Réseau ferré de France, la maîtrise d'ouvrage des
 opérations, décidées à partir du 1er janvier 2010, ayant pour objet les
 aménagements, les extensions ou les prolongements directs, dépendants ou

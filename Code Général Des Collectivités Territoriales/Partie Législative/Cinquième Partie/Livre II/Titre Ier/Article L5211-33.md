@@ -11,8 +11,8 @@ percevoir une attribution par habitant inférieure à la dotation par habitant
 perçue l'année précédente.
 
 A compter du 1er janvier 2003, les communautés urbaines perçoivent une dotation
-d'intercommunalité dans les conditions prévues au deuxième alinéa du I de
-l'article L. 5211-30.
+d'intercommunalité dans les conditions prévues au 2 du I de l'article L.
+5211-30.
 
 Les communautés urbaines faisant application des dispositions de l'article 1609
 nonies C du code général des impôts et qui sont issues de la transformation de

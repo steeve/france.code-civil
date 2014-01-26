@@ -7,9 +7,10 @@ d'intercommunalité calculée selon les modalités définies aux articles L. 521
 à L. 5211-35-1.
 
 Pour les communautés de communes, les communautés d'agglomération, les
-communautés urbaines, les métropoles et les syndicats d'agglomération nouvelle,
-les ressources de la dotation d'intercommunalité sont prélevées sur la dotation
-d'aménagement prévue à l'article L. 2334-13.
+communautés urbaines, les métropoles, y compris celle d'Aix-Marseille-Provence,
+la métropole de Lyon et les syndicats d'agglomération nouvelle, les ressources
+de la dotation d'intercommunalité sont prélevées sur la dotation d'aménagement
+prévue à l'article L. 2334-13.
 
 A compter de 2014, le montant de la dotation d'intercommunalité des
 établissements publics de coopération intercommunale à fiscalité propre de

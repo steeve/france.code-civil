@@ -26,7 +26,7 @@ réputée favorable.
 Le périmètre de l'établissement public de coopération intercommunale à fiscalité
 propre ne peut être identique à celui d'un département.
 
-II.-Sans préjudice des dispositions de l'article L. 5217-2, la création de
+II.-Sans préjudice des dispositions de l'article L. 5217-1, la création de
 l'établissement public de coopération intercommunale peut être décidée par
 arrêté du ou des représentants de l'Etat dans le ou les départements concernés
 après accord des conseils municipaux des communes intéressées sur l'arrêté

@@ -1,9 +1,11 @@
 Article L5217-14
 ----
-Tout accroissement net de charges résultant des transferts de compétences
-effectués entre la région ou le département et la métropole conformément à
-l'article L. 5217-4 est accompagné du transfert concomitant à la métropole des
-ressources nécessaires à l'exercice normal de ces compétences. Ces ressources
-sont équivalentes aux dépenses effectuées, à la date du transfert, par la région
-ou le département au titre des compétences transférées. Elles assurent la
-compensation intégrale des charges transférées.
+Les charges correspondant à l'exercice des compétences transférées font l'objet
+d'une évaluation préalable au transfert desdites compétences. Cette évaluation
+revêt un caractère contradictoire.
+
+Le montant des dépenses résultant des accroissements et diminutions de charges
+est constaté, pour chaque compétence transférée et pour chaque collectivité, au
+sein des conventions de transfert respectivement prévues aux IV et V de
+l'article L. 5217-2, après consultation de la commission prévue à l'article L.
+5217-17 et sous le contrôle de la chambre régionale des comptes.

@@ -8,7 +8,8 @@ incombant aux offices publics de l'habitat les charges suivantes :
 
 2° Les dotations aux amortissements dérogatoires ;
 
-3° Les dotations aux provisions ;
+3° Les dotations aux provisions, notamment pour risques liés à la souscription
+de produits financiers ;
 
 4° Les dotations aux amortissements des charges à répartir sur plusieurs
 exercices.

@@ -16,11 +16,12 @@ arrêtées par le préfet de police, après avis du maire de Paris, en cas de
 manifestation de voie publique à caractère revendicatif, festif, sportif ou
 culturel.
 
-Le préfet de police fixe, après avis du maire de Paris, les règles de
-circulation et de stationnement sur certains axes pour tenir compte des
-conditions de circulation dans l'agglomération parisienne et en région
-d'Ile-de-France. Un décret précisera les voies concernées ainsi que les
-conditions de l'application du présent alinéa.
+Sur les axes permettant d'assurer la continuité des itinéraires principaux dans
+l'agglomération parisienne et la région d'Ile-de-France, dont la liste est fixée
+par décret, les règles de circulation et de stationnement sont déterminées par
+le maire de Paris après avis conforme du préfet de police. Lorsque cet avis est
+défavorable, il est motivé au regard des enjeux du projet présenté par le maire
+de Paris.
 
 Pour l'application des dispositions du présent article, le contrôle
 administratif et le pouvoir de substitution sont exercés, au nom de l'Etat, par

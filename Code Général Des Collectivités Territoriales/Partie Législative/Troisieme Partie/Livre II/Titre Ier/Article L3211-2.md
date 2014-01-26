@@ -61,3 +61,7 @@ territoire du département ;
 associations dont il est membre.
 
 Le président informe le conseil des actes pris dans le cadre de ces délégations.
+
+Les délégations consenties en application du 1° du présent article prennent fin
+dès l'ouverture de la campagne électorale pour le renouvellement du conseil
+général.

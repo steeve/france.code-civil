@@ -3,6 +3,10 @@ Article L2213-1
 Le maire exerce la police de la circulation sur les routes nationales, les
 routes départementales et les voies de communication à l'intérieur des
 agglomérations, sous réserve des pouvoirs dévolus au représentant de l'Etat dans
+le département sur les routes à grande circulation. A l'extérieur des
+agglomérations, le maire exerce également la police de la circulation sur les
+voies du domaine public routier communal et du domaine public routier
+intercommunal, sous réserve des pouvoirs dévolus au représentant de l'Etat dans
 le département sur les routes à grande circulation.
 
 Les conditions dans lesquelles le maire exerce la police de la circulation sur

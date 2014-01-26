@@ -13,7 +13,9 @@ des II et III de l'article L. 2513-3 ;
 prévues par les dispositions législatives et réglementaires en vigueur au profit
 des services départementaux d'incendie et de secours ;
 
--la participation de la communauté urbaine de Marseille Provence Métropole.
+-la participation de la communauté urbaine de Marseille Provence Métropole ;
+
+- la participation du conseil général des Bouches-du-Rhône.
 
 La commune de Marseille peut en outre recevoir, au titre des missions d'intérêt
 général effectuées par le bataillon de marins-pompiers de Marseille, des

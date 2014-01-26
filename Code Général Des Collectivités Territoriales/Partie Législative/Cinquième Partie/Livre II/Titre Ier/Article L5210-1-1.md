@@ -118,3 +118,15 @@ respecter le 2° du III, une commune enclavée dans un département différent d
 celui auquel elle est administrativement rattachée peut appartenir à un
 établissement public de coopération intercommunale à fiscalité propre dont le
 siège est fixé dans son département de rattachement.
+
+VII. - Dans les départements de l'Essonne, de Seine-et-Marne, du Val-d'Oise et
+des Yvelines, les établissements publics de coopération intercommunale à
+fiscalité propre dont le siège se situe dans l'unité urbaine de Paris, telle que
+définie par l'Institut national de la statistique et des études économiques,
+regroupent plusieurs communes d'un seul tenant et sans enclave formant un
+ensemble d'au moins 200 000 habitants. Toutefois, il peut être dérogé à ce seuil
+démographique par le représentant de l'Etat dans le département pour tenir
+compte des caractéristiques de certains espaces, en prenant en compte des
+particularités de la géographie physique, le nombre de communes membres, la
+densité de population ou la superficie des établissements publics de coopération
+intercommunale à fiscalité propre concernés.

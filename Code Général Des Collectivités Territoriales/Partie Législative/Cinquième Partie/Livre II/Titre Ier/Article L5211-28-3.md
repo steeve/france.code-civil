@@ -5,7 +5,12 @@ communes membres peuvent décider, sur délibérations concordantes de l'organe
 délibérant et de chacun des conseils municipaux des communes membres, de
 procéder à l'unification de l'un ou de plusieurs des impôts directs suivants :
 la taxe d'habitation, la taxe foncière sur les propriétés bâties, la taxe
-foncière sur les propriétés non bâties.
+foncière sur les propriétés non bâties. Dans les métropoles régies par les
+articles L. 5217-1 et L. 5218-1, cet accord doit être exprimé par les deux tiers
+au moins des conseils municipaux des communes membres de la métropole
+représentant plus de la moitié de la population totale de celle-ci, ou par la
+moitié au moins des conseils municipaux des communes représentant les deux tiers
+de la population.
 
 Pour chaque taxe dont l'unification est décidée, le taux de la taxe est voté par
 l'organe délibérant de l'établissement public de coopération intercommunale dans

@@ -47,6 +47,14 @@ préventive prescrits pour les opérations d'aménagement ou de travaux sur le
 territoire de la région ;
 
 12° D'autoriser, au nom de la région, le renouvellement de l'adhésion aux
-associations dont elle est membre.
+associations dont elle est membre ;
+
+13° De procéder, après avis du comité régional de programmation, à l'attribution
+et à la mise en œuvre des subventions liées à la gestion des fonds européens
+dont la région est l'autorité de gestion
 
 Le président informe le conseil des actes pris dans le cadre de ces délégations.
+
+Les délégations consenties en application du 1° du présent article prennent fin
+dès l'ouverture de la campagne électorale pour le renouvellement du conseil
+régional.

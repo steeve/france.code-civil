@@ -31,12 +31,11 @@ coopération intercommunale assure la représentation de l'ensemble des communes
 III. - Chaque organe délibérant est composé de délégués dont le nombre est
 établi à partir du tableau ci-dessous.
 
-POPULATION MUNICIPALE DE L'ÉTABLISSEMENT public de coopération intercommunale
+POPULATION MUNICIPALE DE L'ÉTABLISSEMENT public de coopération intercommunale à
+fiscalité propre
 
-à fiscalité propre
 
 NOMBRE de sièges
-
 
 De moins de 3 500 habitants
 
@@ -156,6 +155,11 @@ est réduit à due concurrence du nombre de sièges nécessaire pour que, à l'i
 d'une nouvelle application des 1° à 3° du présent IV, cette commune dispose d'un
 nombre total de sièges inférieur ou égal à celui de ses conseillers municipaux ;
 
+4° bis Dans la métropole d'Aix-Marseille-Provence, sont attribués en supplément,
+à la représentation proportionnelle à la plus forte moyenne, aux communes ayant
+bénéficié de la répartition des sièges prévue au 1° du présent IV, 20 % de la
+totalité des sièges, répartis en application des 1° et 2° du même IV.
+
 5° En cas d'égalité de la plus forte moyenne entre des communes lors de
 l'attribution du dernier siège, chacune de ces communes se voit attribuer un
 siège.
@@ -166,12 +170,13 @@ définis au deuxième alinéa du III, 10 % du nombre total de sièges issus de
 l'application des III et IV sont attribués aux communes selon les modalités
 prévues au IV. Dans ce cas, il ne peut être fait application du VI.
 
-VI. - Les communes peuvent créer et répartir un nombre de sièges inférieur ou
-égal à 10 % du nombre total de sièges issu de l'application des III et IV. Cette
-décision est prise à la majorité des deux tiers des conseils municipaux des
-communes intéressées représentant plus de la moitié de la population totale de
-celles-ci ou par la moitié au moins des conseils municipaux des communes
-représentant les deux tiers de la population totale.
+VI. - A l'exception des communes de la métropole d'Aix-Marseille-Provence, les
+communes peuvent créer et répartir un nombre de sièges inférieur ou égal à 10 %
+du nombre total de sièges issu de l'application des III et IV. Cette décision
+est prise à la majorité des deux tiers des conseils municipaux des communes
+intéressées représentant plus de la moitié de la population totale de celles-ci
+ou par la moitié au moins des conseils municipaux des communes représentant les
+deux tiers de la population totale.
 
 Pour les communautés urbaines et les métropoles, cette décision peut fixer pour
 une commune un nombre de sièges supérieur à la moitié des sièges de l'organe

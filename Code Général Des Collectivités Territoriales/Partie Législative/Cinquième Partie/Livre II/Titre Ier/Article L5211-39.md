@@ -2,8 +2,7 @@ Article L5211-39
 ----
 Le président de l'établissement public de coopération intercommunale adresse
 chaque année, avant le 30 septembre, au maire de chaque commune membre un
-rapport retraçant l'activité de l'établissement et l'utilisation des crédits
-engagés par l'établissement dans chaque commune, accompagné du compte
+rapport retraçant l'activité de l'établissement accompagné du compte
 administratif arrêté par l'organe délibérant de l'établissement. Ce rapport fait
 l'objet d'une communication par le maire au conseil municipal en séance publique
 au cours de laquelle les délégués de la commune à l'organe délibérant de

@@ -8,4 +8,6 @@ jouent un rôle éducatif en liaison avec les enseignants.
 
 Ils contribuent à la qualité de l'accueil et du cadre de vie et assurent la
 sécurité, le service de restauration, la protection sanitaire et sociale et,
-dans les internats, l'hébergement des élèves.
+dans les internats, l'hébergement des élèves. Dans les lycées agricoles, ils
+contribuent au transport pédagogique des élèves nécessaire aux enseignements
+réguliers.

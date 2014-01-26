@@ -5,8 +5,9 @@ président, d'un ou plusieurs vice-présidents et, éventuellement, d'un ou de
 plusieurs autres membres.
 
 Le nombre de vice-présidents est déterminé par l'organe délibérant, sans que ce
-nombre puisse être supérieur à 20 % de l'effectif total de l'organe délibérant
-ni qu'il puisse excéder quinze vice-présidents.
+nombre puisse être supérieur à 20 %, arrondi à l'entier supérieur, de l'effectif
+total de l'organe délibérant ni qu'il puisse excéder quinze vice-présidents.
+Pour les métropoles, le nombre de vice-présidents est fixé à vingt.
 
 Toutefois, si l'application de la règle définie à l'alinéa précédent conduit à
 fixer à moins de quatre le nombre des vice-présidents, ce nombre peut être porté
@@ -15,8 +16,8 @@ fixer à moins de quatre le nombre des vice-présidents, ce nombre peut être po
 L'organe délibérant peut, à la majorité des deux tiers, fixer un nombre de
 vice-présidents supérieur à celui qui résulte de l'application des deuxième et
 troisième alinéas, sans pouvoir dépasser 30 % de son propre effectif et le
-nombre de quinze. Dans ce cas, les deuxième et troisième alinéas de l'article L.
-5211-12 sont applicables.
+nombre de quinze ou, s'il s'agit d'une métropole, de vingt. Dans ce cas, les
+deuxième et troisième alinéas de l'article L. 5211-12 sont applicables.
 
 Le mandat des membres du bureau prend fin en même temps que celui des membres de
 l'organe délibérant.
@@ -49,3 +50,10 @@ et de politique de la ville.
 Lors de chaque réunion de l'organe délibérant, le président rend compte des
 travaux du bureau et des attributions exercées par délégation de l'organe
 délibérant.
+
+Les délégations relatives à la réalisation des emprunts destinés au financement
+des investissements prévus par le budget et aux opérations financières utiles à
+la gestion des emprunts, y compris les opérations de couverture des risques de
+taux et de change, consenties en application du présent article prennent fin dès
+l'ouverture de la campagne électorale pour le renouvellement général des
+conseils municipaux.

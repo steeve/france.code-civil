@@ -20,22 +20,23 @@ de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relative
 alinéa de l'article 76 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant
 statut général des fonctionnaires des communes et des groupements de communes de
 la Polynésie française ainsi que de leurs établissements publics administratifs
-". IV. ― Pour l'application de l'article L. 5211-4-2 :
+".
 
-1° Au quatrième alinéa, le mot : " communaux ” est remplacé par les mots : " des
-communes de la Polynésie française ” ;
+IV.-Pour l'application de l'article L. 5211-4-2 :
 
-2° Au cinquième alinéa, les références : " aux articles 39,40,61,64 à
-73,75,78,79, aux sixième à huitième alinéas de l'article 89 et suivants et aux
-articles 92 à 98 de la loi n° 84-53 du 26 janvier 1984 portant dispositions
-statutaires relatives à la fonction publique territoriale ” sont remplacées par
-les références : " aux articles 44,50,56 à 60, aux sixième à huitième alinéas et
-suivants de l'article 63 et aux articles 66 à 68 et 70 de l'ordonnance n°
-2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes
-et des groupements de communes de la Polynésie française ainsi que de leurs
-établissements publics administratifs ” ;
+1° Le troisième alinéa est ainsi rédigé :
 
-3° A la fin de l'avant-dernier alinéa, la référence : " du troisième alinéa de
-l'article 111 de la loi n° 84-53 du 26 janvier 1984 précitée ” est remplacée par
+" Les services communs interviennent en dehors de l'exercice direct des
+compétences de l'établissement et de ses communes membres. Ils peuvent être
+chargés de l'exercice de missions fonctionnelles en matière de gestion du
+personnel, à l'exception des missions confiées au centre de gestion et de
+formation de Polynésie française mentionné aux articles 31,32 et 33 de
+l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des
+fonctionnaires des communes et des groupements de communes de la Polynésie
+française ainsi que de leurs établissements publics administratifs. " ;
+
+2° Au sixième alinéa, le mot : " communaux " est remplacé par les mots : " des
+communes de la Polynésie française " et la référence : " du troisième alinéa de
+l'article 111 de la loi n° 84-53 du 26 janvier 1984 précitée " est remplacée par
 la référence : " du dernier alinéa de l'article 76 de l'ordonnance n° 2005-10 du
-4 janvier 2005 précitée ”.
+4 janvier 2005 précitée ".

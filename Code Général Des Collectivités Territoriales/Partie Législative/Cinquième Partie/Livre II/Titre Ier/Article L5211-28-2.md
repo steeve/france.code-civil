@@ -5,7 +5,11 @@ coopération intercommunale à fiscalité propre peut percevoir, en lieu et plac
 de ses communes membres, les montants dont elles bénéficient au titre de la
 dotation globale de fonctionnement prévue aux articles L. 2334-1 et suivants,
 sur délibérations concordantes de l'organe délibérant et de chacun des conseils
-municipaux des communes membres.
+municipaux des communes membres. Dans les métropoles régies par les articles L.
+5217-1 et L. 5218-1, cet accord doit être exprimé par les deux tiers au moins
+des conseils municipaux des communes membres de la métropole représentant plus
+de la moitié de la population totale de celle-ci, ou par la moitié au moins des
+conseils municipaux des communes représentant les deux tiers de la population.
 
 L'établissement public de coopération intercommunale verse chaque année à
 l'ensemble de ses communes membres une dotation de reversement dont le montant

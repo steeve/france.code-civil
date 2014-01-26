@@ -29,3 +29,12 @@ groupements de collectivités concernés sont associés, à leur demande, à
 l'élaboration du schéma directeur. La même procédure s'applique lorsque les
 personnes publiques qui ont élaboré le schéma directeur entendent le faire
 évoluer.
+
+Lorsque le territoire de la région ne comporte qu'un seul schéma directeur
+territorial d'aménagement numérique élaboré par le conseil régional, ce schéma
+directeur peut être remplacé ou révisé par le volet consacré à l'aménagement
+numérique du schéma régional d'aménagement et de développement du territoire.
+Lorsque le territoire de la région est couvert par plusieurs schémas directeurs
+territoriaux d'aménagement numérique, les personnes publiques les ayant élaborés
+et la région définissent conjointement une stratégie d'aménagement numérique du
+territoire régional dans les conditions prévues au troisième alinéa.

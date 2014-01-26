@@ -28,4 +28,13 @@ conseillers départementaux, des conseillers municipaux et des conseillers
 communautaires, et modifiant le calendrier électoral, l'Etat peut autoriser la
 constitution d'une communauté d'agglomération, au sens du premier alinéa,
 lorsque celle-ci forme un ensemble d'au moins 30 000 habitants et comprend la
-commune la plus peuplée du département. ;
+commune la plus peuplée du département.
+
+A titre expérimental et pendant une durée maximale de dix-huit mois à compter de
+la promulgation de la loi n° 2014-58 du 27 janvier 2014 de modernisation de
+l'action publique territoriale et d'affirmation des métropoles, l'Etat peut
+autoriser la constitution d'une communauté d'agglomération, au sens du premier
+alinéa, lorsque celle-ci forme un ensemble d'au moins 25 000 habitants autour
+d'une commune centre de plus de 15 000 habitants et que la majorité des communes
+membres, dont la commune centre, sont des communes littorales au sens de
+l'article L. 321-2 du code de l'environnement.

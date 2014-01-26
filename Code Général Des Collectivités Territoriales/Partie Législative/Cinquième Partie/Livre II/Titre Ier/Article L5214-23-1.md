@@ -7,9 +7,9 @@ habitants, et qu'elles sont situées en zone de revitalisation rurale de montagn
 et comprennent au moins dix communes dont un chef-lieu de canton ou la totalité
 des communes d'un canton ou bien, lorsqu'elle est supérieure à 50 000 habitants,
 n'inclut pas de commune centre ou de commune chef-lieu de département de plus de
-15 000 habitants, sont éligibles à la dotation prévue au onzième alinéa de
-l'article L. 5211-29 lorsqu'elles exercent au moins quatre des sept groupes de
-compétences suivants :
+15 000 habitants, sont éligibles à la dotation prévue au quatrième alinéa du II
+de l'article L. 5211-29 lorsqu'elles exercent au moins quatre des sept groupes
+de compétences suivants :
 
 1° En matière de développement économique : aménagement, entretien et gestion de
 zones d'activité industrielle, commerciale, tertiaire, artisanale ou touristique

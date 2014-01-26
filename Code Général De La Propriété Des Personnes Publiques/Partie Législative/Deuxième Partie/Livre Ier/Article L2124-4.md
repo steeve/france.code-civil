@@ -13,11 +13,12 @@ Tout contrat de concession doit déterminer la largeur de l'espace mentionné au
 dernier alinéa de l'article L. 321-9 du même code en tenant compte des
 caractéristiques des lieux.
 
-Les concessions sont accordées par priorité aux communes ou groupements de
-communes ou, après leur avis si elles renoncent à leur priorité, à des personnes
-publiques ou privées après publicité et mise en concurrence préalable. Les
-éventuels sous-traités d'exploitation sont également accordés après publicité et
-mise en concurrence préalable.
+Les concessions sont accordées par priorité aux métropoles et, en dehors du
+territoire de celles-ci, aux communes ou groupements de communes ou, après leur
+avis si les métropoles, communes ou groupements renoncent à leur priorité, à des
+personnes publiques ou privées après publicité et mise en concurrence préalable.
+Les éventuels sous-traités d'exploitation sont également accordés après
+publicité et mise en concurrence préalable.
 
 Les concessions de plage et les sous-traités d'exploitation sont portés à la
 connaissance du public par le concessionnaire.

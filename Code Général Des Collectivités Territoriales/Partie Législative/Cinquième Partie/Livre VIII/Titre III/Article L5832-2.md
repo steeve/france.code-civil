@@ -25,7 +25,7 @@ II.-Sont applicables à Mayotte à compter du 1er janvier 2014 :
 
 10° Les articles L. 5216-1 à L. 5216-10 ;
 
-11° Les articles L. 5217-1 à L. 5217-19.
+11° Les articles L. 5217-1 à L. 5217-21.
 
 III.-Pour l'application à Mayotte du premier alinéa de l'article L. 5216-10, les
 mots : " la publication de la loi n° 99-586 du 12 juillet 1999 relative au

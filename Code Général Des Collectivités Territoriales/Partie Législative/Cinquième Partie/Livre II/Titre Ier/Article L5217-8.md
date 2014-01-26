@@ -1,10 +1,13 @@
 Article L5217-8
 ----
-Le conseil de la métropole est présidé par le président du conseil de la
-métropole. Il est composé de conseillers de la métropole.
+La conférence métropolitaine est une instance de coordination entre la métropole
+et les communes membres, au sein de laquelle il peut être débattu de tous sujets
+d'intérêt métropolitain ou relatifs à l'harmonisation de l'action de ces
+collectivités.
 
-Les articles L. 5215-16 à L. 5215-18, L. 5215-21, L. 5215-22, L. 5215-26 à L.
-5215-29, L. 5215-40 et L. 5215-42 sont applicables aux métropoles.
+Cette instance est présidée de droit par le président du conseil de la métropole
+et comprend les maires des communes membres.
 
-Pour l'application de l'article L. 5215-40, l'extension du périmètre de la
-métropole est décidée par décret.
+Elle se réunit au moins deux fois par an, à l'initiative du président du conseil
+de la métropole ou à la demande de la moitié des maires, sur un ordre du jour
+déterminé.

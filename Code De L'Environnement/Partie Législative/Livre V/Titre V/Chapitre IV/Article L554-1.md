@@ -1,12 +1,15 @@
 Article L554-1
 ----
-I.-Les travaux réalisés à proximité des réseaux souterrains, aériens ou
+I. - Les travaux réalisés à proximité des réseaux souterrains, aériens ou
 subaquatiques de transport ou de distribution sont effectués dans des conditions
 qui ne sont pas susceptibles de porter atteinte à la continuité de
 fonctionnement de ces réseaux, à l'environnement, à la sécurité des travailleurs
-et des populations situées à proximité du chantier ou à la vie économique.
+et des populations situées à proximité du chantier ou à la vie économique. Il en
+va de même pour les travaux réalisés à proximité des ouvrages construits en vue
+de prévenir les inondations et les submersions, lesquels bénéficient des
+dispositions prévues au présent chapitre au profit des réseaux précités.
 
-II.-Lorsque des travaux sont réalisés à proximité d'un réseau mentionné au I,
+II. - Lorsque des travaux sont réalisés à proximité d'un réseau mentionné au I,
 des dispositions techniques et organisationnelles sont mises en œuvre, dès le
 début du projet et jusqu'à son achèvement, sous leur responsabilité et à leurs
 frais, par le responsable du projet de travaux, par les exploitants des réseaux
@@ -17,7 +20,7 @@ pour mettre en œuvre l'alinéa précédent, des dispositions particulières son
 appliquées par le responsable du projet de travaux pour respecter l'objectif
 prévu au I.
 
-III.-Des mesures contractuelles sont prises par les responsables de projet de
+III. - Des mesures contractuelles sont prises par les responsables de projet de
 travaux pour que les entreprises exécutant les travaux ne subissent pas de
 préjudice lié au respect des obligations prévues au II, notamment en cas de
 découverte fortuite d'un réseau durant le chantier ou en cas d'écart notable
@@ -50,4 +53,7 @@ dispositions du second alinéa du II ;
 
 5° Les dispositions qui sont portées dans le contrat qui lie le responsable du
 projet de travaux et les entreprises de travaux pour l'application du présent
-article.
+article ;
+
+6° Les adaptations nécessaires à l'application du présent chapitre aux ouvrages
+construits en vue de prévenir les inondations et les submersions.

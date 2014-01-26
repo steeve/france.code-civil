@@ -1,31 +1,10 @@
 Article L5211-30
 ----
-I. - Les sommes affectées à chacune des catégories d'établissements publics de
+I.-1. Les sommes affectées à chacune des catégories d'établissements publics de
 coopération intercommunale mentionnées au I de l'article L. 5211-29 sont
 réparties entre les établissements après prélèvement des sommes nécessaires à
 l'application des dispositions de l'article L. 5211-33, à raison de 30 % pour la
-dotation de base et de 70 % pour la dotation de péréquation. A compter du 1er
-janvier 2009, la somme affectée à la catégorie des communautés urbaines est
-répartie de telle sorte que l'attribution revenant à chacune d'entre elles soit
-égale au produit de sa population par la dotation moyenne par habitant de la
-catégorie des communautés urbaines, augmenté, le cas échéant, d'une garantie. En
-2009, cette dotation moyenne est fixée à 60 euros par habitant.
-
-Les communautés urbaines ayant perçu, au titre de cette même catégorie, en 2008,
-une attribution de la dotation d'intercommunalité bénéficient d'une garantie
-lorsque le montant prévu au 1° ci-dessous est supérieur au montant prévu au 2°.
-Elle est égale en 2009 à la différence entre :
-
-1° Le montant de la dotation d'intercommunalité perçue par la communauté urbaine
-en 2008, indexé selon un taux fixé par le comité des finances locales, qui ne
-peut excéder le taux d'évolution pour 2009 de la dotation forfaitaire prévue à
-l'article L. 2334-7 ;
-
-2° Le produit de sa population au 1er janvier 2009 par le montant moyen
-mentionné au troisième alinéa du présent I.
-
-A compter de 2011, le montant de la dotation totale par habitant due à chaque
-communauté urbaine est égal à celui perçu en 2010.
+dotation de base et de 70 % pour la dotation de péréquation.
 
 Chaque établissement public de coopération intercommunale doté d'une fiscalité
 propre mentionné au premier alinéa perçoit, par prélèvement sur le montant total
@@ -42,12 +21,29 @@ l'établissement public de coopération intercommunale et pondérée, le cas
 échéant, par le coefficient d'intégration fiscale de l'établissement public de
 coopération intercommunale.
 
-La majoration prévue au onzième alinéa de l'article L. 5211-29 est affectée aux
-communautés de communes visées à l'article L. 5214-23-1. Elle s'ajoute à leur
-dotation de base et est répartie comme cette dernière entre les communautés de
-communes concernées. II. - Le potentiel fiscal des établissements publics de
-coopération intercommunale à fiscalité propre est déterminé en additionnant les
-montants suivants : 1° Le produit déterminé par l'application aux bases
+La majoration prévue au quatrième alinéa du II de l'article L. 5211-29 est
+affectée aux communautés de communes visées à l'article L. 5214-23-1. Elle
+s'ajoute à leur dotation de base et est répartie comme cette dernière entre les
+communautés de communes concernées.
+
+2. Toutefois, chaque établissement public de coopération intercommunale de la
+catégorie des communautés urbaines et des métropoles, y compris celle
+d'Aix-Marseille-Provence, et la métropole de Lyon bénéficient d'une dotation
+d'intercommunalité calculée dans les conditions suivantes :
+
+a) Son montant est égal au produit de leur population par une dotation moyenne
+par habitant, fixée à 60 €, augmenté le cas échéant d'une garantie ;
+
+b) Cette garantie est égale à la différence constatée entre le montant par
+habitant de la dotation d'intercommunalité perçue au titre de l'année précédente
+et le montant par habitant perçu en application du a, multipliée par leur
+population au 1er janvier de l'année de répartition. Pour le calcul de la
+garantie des métropoles au titre de la première année suivant leur création, le
+montant par habitant de la dotation d'intercommunalité perçue au titre de
+l'année précédente est celui de l'établissement public de coopération
+intercommunale préexistant. II.-Le potentiel fiscal des établissements publics
+de coopération intercommunale à fiscalité propre est déterminé en additionnant
+les montants suivants : 1° Le produit déterminé par l'application aux bases
 intercommunales d'imposition de taxe d'habitation, de taxe foncière sur les
 propriétés bâties, de taxe foncière sur les propriétés non bâties et de
 cotisation foncière des entreprises du taux moyen national d'imposition à
@@ -89,10 +85,11 @@ les produits perçus par les groupements au titre de chacune de ces taxes et la
 somme des bases des groupements. Les ressources et produits retenus sont ceux
 bruts de la dernière année dont les résultats sont connus.
 
-III. - 1° Le coefficient d'intégration fiscale, qui est défini pour les
-communautés urbaines, les métropoles, les syndicats d'agglomération nouvelle et
-les communautés d'agglomération, est égal, pour chacun de ces établissements
-publics, au rapport entre :
+III.-1° Le coefficient d'intégration fiscale, qui est défini pour les
+communautés urbaines, les métropoles, y compris celle d'Aix-Marseille-Provence,
+la métropole de Lyon, les syndicats d'agglomération nouvelle et les communautés
+d'agglomération, est égal, pour chacun de ces établissements publics, au rapport
+entre :
 
 a) Les recettes provenant de la taxe d'habitation, de la taxe foncière sur les
 propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
@@ -199,7 +196,7 @@ professionnelle les produits de compensation relais perçus en 2010 par les
 communes et établissements publics de coopération intercommunale en application
 du II de l'article 1640 B du code général des impôts.
 
-IV. - Les dépenses de transfert retenues pour déterminer le coefficient
+IV.-Les dépenses de transfert retenues pour déterminer le coefficient
 d'intégration fiscale des communautés d'agglomération, des métropoles ainsi que
 des communautés urbaines et des communautés de communes faisant application des
 dispositions de l'article 1609 nonies C du code général des impôts sont
@@ -211,14 +208,14 @@ correspondent à la dotation de coopération prévue à l'article L. 5334-8 du
 présent code, telle que constatée dans le dernier compte administratif
 disponible.
 
-V. - Le coefficient d'intégration fiscale des communautés de communes ayant opté
+V.-Le coefficient d'intégration fiscale des communautés de communes ayant opté
 pour l'application des dispositions de l'article 1609 nonies C du code général
 des impôts est pris en compte, pour le calcul des dotations de base et de
 péréquation, à hauteur de 10 % en 2000. Ce seuil augmente de 10 points par an
 pour atteindre 100 % en 2009.
 
-VI. - A compter du 1er janvier 2003, la dotation des communautés urbaines est
-répartie selon les dispositions fixées aux deuxième et troisième alinéas du I.
+VI.-A compter du 1er janvier 2003, la dotation des communautés urbaines est
+répartie selon les dispositions fixées au I.
 
-VII. - La population à prendre en compte pour l'application de la présente
+VII.-La population à prendre en compte pour l'application de la présente
 sous-section est celle résultant des conditions prévues à l'article L. 2334-2.

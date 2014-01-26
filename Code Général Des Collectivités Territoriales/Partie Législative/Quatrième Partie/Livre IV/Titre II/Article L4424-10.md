@@ -29,11 +29,12 @@ code.
 
 II.-Le plan d'aménagement et de développement durable de Corse vaut schéma
 régional des infrastructures et des transports au sens de l'article L. 1213-1 du
-code des transports. A ce titre, il comprend tout ou partie des analyses,
-objectifs et actions prévus pour ce schéma à l'article L. 1213-3 du même code et
-par les dispositions réglementaires prises pour son application. Les
-dispositions du plan relatives aux services collectifs de transport s'imposent
-aux plans départementaux des transports.
+code des transports et schéma régional de l'intermodalité, au sens de l'article
+L. 1213-3-1 du même code. A ce titre, il comprend tout ou partie des analyses,
+objectifs et actions prévus pour ces schémas aux articles L. 1213-3 et L.
+1213-3-1 du même code et par les dispositions réglementaires prises pour leur
+application. Les dispositions du plan relatives aux services collectifs de
+transport s'imposent aux plans départementaux des transports.
 
 III.-Le plan d'aménagement et de développement durable de Corse vaut, pour les
 secteurs qu'il détermine, schéma de mise en valeur de la mer au sens de

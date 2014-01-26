@@ -3,6 +3,8 @@ Article L321-1
 L'Etat peut créer des établissements publics fonciers en considération d'enjeux
 d'intérêt général en matière d'aménagement et de développement durable.
 
+La région d'Ile-de-France compte un seul établissement public foncier de l'Etat.
+
 Les établissements publics fonciers mettent en place des stratégies foncières
 afin de mobiliser du foncier et de favoriser le développement durable et la
 lutte contre l'étalement urbain. Ces stratégies contribuent à la réalisation de

@@ -1,6 +1,6 @@
 Article L5211-4-1
 ----
-I.-Le transfert de compétences d'une commune à un établissement public de
+I. - Le transfert de compétences d'une commune à un établissement public de
 coopération intercommunale entraîne le transfert du service ou de la partie de
 service chargé de sa mise en oeuvre. Toutefois, dans le cadre d'une bonne
 organisation des services, une commune peut conserver tout ou partie du service
@@ -39,20 +39,20 @@ statutaires relatives à la fonction publique territoriale.
 Il en est de même lorsqu'à l'inverse, par suite de modifications des statuts de
 la communauté, des personnels de celle-ci sont transférés à des communes.
 
-II.-Lorsqu'une commune a conservé tout ou partie de ses services dans les
+II. - Lorsqu'une commune a conservé tout ou partie de ses services dans les
 conditions prévues au premier alinéa du I, ces services sont en tout ou partie
 mis à disposition de l'établissement public de coopération intercommunale auquel
 la commune adhère pour l'exercice des compétences de celui-ci.
 
-III.-Les services d'un établissement public de coopération intercommunale
+III. - Les services d'un établissement public de coopération intercommunale
 peuvent être en tout ou partie mis à disposition d'une ou plusieurs de ses
 communes membres, pour l'exercice de leurs compétences, lorsque cette mise à
 disposition présente un intérêt dans le cadre d'une bonne organisation des
 services.
 
-IV.-Dans le cadre des mises à disposition prévues aux II et III, une convention
-conclue entre l'établissement public de coopération intercommunale et chaque
-commune intéressée en fixe les modalités après consultation des comités
+IV. - Dans le cadre des mises à disposition prévues aux II et III, une
+convention conclue entre l'établissement public de coopération intercommunale et
+chaque commune intéressée en fixe les modalités après consultation des comités
 techniques compétents. Cette convention prévoit notamment les conditions de
 remboursement par la commune ou l'établissement public bénéficiaire de la mise à
 disposition des frais de fonctionnement du service. Les modalités de ce
@@ -74,3 +74,17 @@ l'établissement public de coopération intercommunale ou du maire. Ils sont
 placés, pour l'exercice de leurs fonctions, sous son autorité fonctionnelle. Les
 modalités de cette mise à disposition sont réglées par la convention prévue au
 premier alinéa du présent IV.
+
+V. - Le coefficient de mutualisation des services d'un établissement public de
+coopération intercommunale à fiscalité propre est égal au rapport entre :
+
+1° La rémunération, toutes charges comprises, de l'ensemble des personnels
+affectés au sein de services ou parties de service fonctionnels employés par
+l'établissement public, y compris les fonctionnaires et agents transférés ou mis
+à sa disposition en application des I à III ;
+
+2° La rémunération, toutes charges comprises, de l'ensemble des personnels
+affectés au sein de services ou parties de service fonctionnels dans toutes les
+communes membres et au sein de l'établissement public.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent V.

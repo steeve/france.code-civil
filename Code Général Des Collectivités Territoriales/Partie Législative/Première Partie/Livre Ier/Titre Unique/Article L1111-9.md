@@ -1,50 +1,73 @@
 Article L1111-9
 ----
-I. ― Afin de faciliter la clarification des interventions publiques sur le
-territoire de la région et de rationaliser l'organisation des services des
-départements et des régions, le président du conseil régional et les présidents
-des conseils généraux des départements de la région peuvent élaborer
-conjointement, dans les six mois qui suivent l'élection des conseillers
-territoriaux, un projet de schéma d'organisation des compétences et de
-mutualisation des services. Chaque métropole constituée sur le territoire de la
-région est consultée de plein droit à l'occasion de son élaboration, de son
-suivi et de sa révision.
+I. ― Les compétences des collectivités territoriales dont le présent article
+prévoit que l'exercice nécessite le concours de plusieurs collectivités
+territoriales ou groupements de collectivités territoriales sont mises en œuvre
+dans le respect des règles suivantes :
 
-Ce schéma fixe :
+1° Les délégations de compétence sont organisées dans le cadre de la convention
+territoriale d'exercice concerté prévue au V de l'article L. 1111-9-1 ;
 
-a) Les délégations de compétences de la région aux départements et des
-départements à la région ;
+2° La participation minimale du maître d'ouvrage, prévue au deuxième alinéa du
+III de l'article L. 1111-10, est fixée à 30 % du montant total des financements
+apportés par des personnes publiques ;
 
-b) L'organisation des interventions financières respectives de la région et des
-départements en matière d'investissement et de fonctionnement des projets
-décidés ou subventionnés par une collectivité territoriale ou un groupement de
-collectivités territoriales ;
+3° A l'exception des opérations figurant dans le contrat de plan conclu entre
+l'Etat et la région, les projets relevant de ces compétences peuvent bénéficier
+de subventions d'investissement et de fonctionnement soit de la région, soit
+d'un département.
 
-c) Les conditions d'organisation et de mutualisation des services.
+II. ― La région est chargée d'organiser, en qualité de chef de file, les
+modalités de l'action commune des collectivités territoriales et de leurs
+établissements publics pour l'exercice des compétences relatives :
 
-Le schéma porte au moins sur les compétences relatives au développement
-économique, à la formation professionnelle, à la construction, à l'équipement et
-à l'entretien des collèges et des lycées, aux transports, aux infrastructures,
-voiries et réseaux, à l'aménagement des territoires ruraux et aux actions
-environnementales. Il peut également concerner toute compétence exclusive ou
-partagée de la région et des départements.
+1° A l'aménagement et au développement durable du territoire ;
 
-Il est approuvé par délibérations concordantes du conseil régional et de chacun
-des conseils généraux des départements de la région.
+2° A la protection de la biodiversité ;
 
-Il est mis en œuvre par les conventions prévues aux articles L. 1111-8 et L.
-5111-1-1.
+3° Au climat, à la qualité de l'air et à l'énergie ;
 
-Les compétences déléguées en application des alinéas précédents sont exercées au
-nom et pour le compte des collectivités territoriales délégantes.
+4° Au développement économique ;
 
-II.-Afin d'étudier et débattre de tous sujets concernant l'exercice de
-compétences pour lesquelles une concertation est prévue par la loi et de tous
-domaines nécessitant une harmonisation entre les deux niveaux de collectivités,
-il est créé une instance de concertation entre la région et les départements
-dénommée " conférence des exécutifs ". Cette instance est composée du président
-du conseil régional, des présidents des conseils généraux, des présidents des
-conseils de métropoles, des présidents des communautés urbaines, des présidents
-des communautés d'agglomération et d'un représentant par département des
-communautés de communes situées sur le territoire régional. Elle se réunit à
-l'initiative du président du conseil régional au moins une fois par an.
+5° Au soutien de l'innovation ;
+
+6° A l'internationalisation des entreprises ;
+
+7° A l'intermodalité et à la complémentarité entre les modes de transports ;
+
+8° Au soutien à l'enseignement supérieur et à la recherche.
+
+III. ― Le département est chargé d'organiser, en qualité de chef de file, les
+modalités de l'action commune des collectivités territoriales et de leurs
+établissements publics pour l'exercice des compétences relatives à :
+
+1° L'action sociale, le développement social et la contribution à la résorption
+de la précarité énergétique ;
+
+2° L'autonomie des personnes ;
+
+3° La solidarité des territoires.
+
+Il est consulté par la région en préalable à l'élaboration du contrat de plan
+conclu entre l'Etat et la région en application de la loi n° 82-653 du 29
+juillet 1982portant réforme de la planification afin de tenir compte des
+spécificités de son territoire.
+
+IV. ― La commune ou l'établissement public de coopération intercommunale à
+fiscalité propre auquel elle a transféré ses compétences est chargé d'organiser,
+en qualité de chef de file, les modalités de l'action commune des collectivités
+territoriales et de leurs établissements publics pour l'exercice des compétences
+relatives :
+
+1° A la mobilité durable ;
+
+2° A l'organisation des services publics de proximité ;
+
+3° A l'aménagement de l'espace ;
+
+4° Au développement local.
+
+V. ― Les modalités de l'action commune des collectivités territoriales et de
+leurs groupements pour l'exercice des compétences mentionnées aux II à IV sont
+débattues par la conférence territoriale de l'action publique prévue à l'article
+L. 1111-9-1.

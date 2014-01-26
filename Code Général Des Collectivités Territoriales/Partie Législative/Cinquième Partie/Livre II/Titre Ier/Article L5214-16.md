@@ -14,7 +14,7 @@ artisanale, touristique, portuaire ou aéroportuaire d'intérêt communautaire s
 inclus dans cette compétence ;
 
 II.-La communauté de communes doit par ailleurs exercer dans les mêmes
-conditions des compétences relevant d'au moins un des six groupes suivants :
+conditions des compétences relevant d'au moins trois des six groupes suivants :
 
 1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre
 de schémas départementaux et soutien aux actions de maîtrise de la demande
@@ -47,9 +47,9 @@ l'article L. 123-5 du code de l'action sociale et des familles ;
 III.-La définition des compétences transférées au sein de chacun des groupes est
 fixée par la majorité qualifiée requise pour la création de la communauté.
 
-IV.-L'intérêt communautaire des compétences exercées au sein des groupes
-mentionnés aux I et II est déterminé à la majorité qualifiée requise pour la
-création de la communauté de communes.
+IV.-Lorsque l'exercice des compétences mentionnées aux I et II est subordonné à
+la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé à la
+majorité des deux tiers du conseil de la communauté de communes.
 
 Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté
 prononçant le transfert de compétence.A défaut, la communauté de communes exerce

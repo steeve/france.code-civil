@@ -2,7 +2,7 @@ Article L5215-1
 ----
 La communauté urbaine est un établissement public de coopération intercommunale
 regroupant plusieurs communes d'un seul tenant et sans enclave qui forment, à la
-date de sa création, un ensemble de plus de 450 000 habitants et qui s'associent
+date de sa création, un ensemble de plus de 250 000 habitants et qui s'associent
 au sein d'un espace de solidarité, pour élaborer et conduire ensemble un projet
 commun de développement urbain et d'aménagement de leur territoire.
 

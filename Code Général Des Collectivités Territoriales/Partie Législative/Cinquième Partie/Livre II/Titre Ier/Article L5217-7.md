@@ -1,114 +1,84 @@
 Article L5217-7
 ----
-I. ― Le transfert à la métropole des compétences obligatoires du département
-mentionnées au 1 du II de l'article L. 5217-4 entraîne le transfert à celle-ci
-du service ou de la partie de service du département chargé de leur mise en
-œuvre, après avis des comités techniques compétents, selon les modalités
-définies ci-après.
+I.-Les articles L. 5215-16 à L. 5215-18, L. 5215-21, L. 5215-26 à L. 5215-29, L.
+5215-40 et L. 5215-42 sont applicables aux métropoles.
 
-Dans un délai de six mois à compter de la création de la métropole, une ou
-plusieurs conventions conclues entre le président du conseil général et le
-président du conseil de la métropole constatent la liste des services ou parties
-de service qui sont, pour l'exercice de leurs missions, mis à disposition de la
-métropole en vue de leur transfert après consultation des comités techniques
-compétents. La ou les conventions fixent les modalités et la date du transfert
-définitif de chaque service ou partie de service. Ces services ou parties de
-service sont placés sous l'autorité du président du conseil de la métropole.
+Pour l'application de l'article L. 5211-17, les conditions de majorité requises
+sont celles prévues à l'article L. 5211-5.
 
-Toutefois, lorsque le département, dans le cadre d'une bonne organisation des
-services, décide de conserver une partie des services concernés par un transfert
-de compétences, la ou les conventions prévues au présent I peuvent prévoir que
-ces parties de service sont mises en tout ou partie à disposition de la
-métropole pour l'exercice de ses compétences.
+II.-Lorsqu'une partie des communes membres d'un syndicat de communes ou d'un
+syndicat mixte fait partie d'une métropole, du fait de la création de cette
+métropole, de la fusion d'établissements publics de coopération intercommunale
+pour constituer une métropole ou de la transformation d'un établissement public
+de coopération intercommunale en métropole, et que cette métropole est incluse
+en totalité dans le syndicat, cette création, cette fusion ou cette
+transformation vaut retrait du syndicat des communes membres de la métropole
+pour les compétences mentionnées au I de l'article L. 5217-2 que le syndicat
+exerce. Ce retrait s'effectue dans les conditions fixées à l'article L.
+5211-25-1 et au troisième alinéa de l'article L. 5211-19. A défaut d'accord
+entre l'organe délibérant du syndicat et le conseil municipal concerné sur la
+répartition des biens ou du produit de leur réalisation et du solde de l'encours
+de la dette mentionnés au 2° de l'article L. 5211-25-1, cette répartition est
+fixée par arrêté du ou des représentants de l'Etat dans le ou les départements
+concernés. Cet arrêté est pris dans un délai de six mois suivant la saisine du
+ou des représentants de l'Etat dans le ou les départements concernés par
+l'organe délibérant de l'établissement public de coopération intercommunale ou
+de l'une des communes concernées.
 
-A défaut de convention passée dans le délai précité, le représentant de l'Etat
-dans le département siège de la métropole propose, dans le délai d'un mois, un
-projet de convention au président du conseil général et au président du conseil
-de la métropole. Ils disposent d'un délai d'un mois pour signer le projet de
-convention qui leur a été transmis.A défaut de signature du projet proposé par
-le représentant de l'Etat, la convention est établie par arrêté du ministre
-chargé des collectivités territoriales.
+Pour l'exercice des compétences transférées autres que celles mentionnées au I
+de l'article L. 5217-2, la métropole est substituée au sein du syndicat aux
+communes qui la composent. Cette substitution ne modifie pas les attributions du
+syndicat de communes, qui devient syndicat mixte au sens de l'article L. 5711-1,
+ou du syndicat mixte intéressé. Elle ne modifie pas non plus le périmètre dans
+lequel ce syndicat exerce ses compétences.
 
-II. ― Le transfert à la métropole des compétences obligatoires de la région
-mentionnées au 1 du III de l'article L. 5217-4 entraîne le transfert à celle-ci
-du service ou de la partie de service de la région chargé de leur mise en œuvre,
-après avis des comités techniques compétents, selon les modalités définies
-ci-après.
+III.-Lorsqu'une partie des communes membres d'un syndicat de communes ou d'un
+syndicat mixte est associée avec des communes extérieures à ce syndicat dans une
+métropole, du fait de la création de cette métropole, de la fusion
+d'établissements publics de coopération intercommunale pour constituer une
+métropole ou de la transformation d'un établissement public de coopération
+intercommunale en métropole, cette création, cette fusion ou cette
+transformation vaut retrait du syndicat des communes membres de la métropole
+pour les compétences transférées et dans les conditions prévues au premier
+alinéa du II. Elle vaut substitution de la métropole aux communes pour les
+compétences transférées et dans les conditions prévues au second alinéa du même
+II.
 
-Dans un délai de six mois à compter de la création de la métropole, une ou
-plusieurs conventions conclues entre le président du conseil régional et le
-président du conseil de la métropole constatent la liste des services ou parties
-de service qui sont, pour l'exercice de leurs missions, mis à disposition de la
-métropole en vue de leur transfert après consultation des comités techniques
-compétents. La ou les conventions fixent les modalités et la date du transfert
-définitif de chaque service ou partie de service. Ces services ou parties de
-service sont placés sous l'autorité du président de la métropole.
+IV.-Lorsque le périmètre d'une métropole est étendu par adjonction d'une ou de
+plusieurs communes membres d'un ou de plusieurs syndicats de communes ou
+syndicats mixtes, cette extension vaut retrait des communes des syndicats ou
+substitution de la métropole aux communes au sein des syndicats dans les cas et
+conditions prévus aux II et III.
 
-A défaut de convention passée dans le délai précité, le représentant de l'Etat
-dans le département siège de la métropole propose, dans le délai d'un mois, un
-projet de convention au président du conseil régional et au président du conseil
-de la métropole. Ils disposent d'un délai d'un mois pour signer le projet de
-convention qui leur a été transmis.A défaut de signature du projet proposé par
-le représentant de l'Etat, la convention est établie par arrêté du ministre
-chargé des collectivités territoriales.
+Lorsque les compétences d'une métropole sont étendues, conformément à l'article
+L. 5211-17, à des compétences antérieurement déléguées par tout ou partie des
+communes qui la composent à un ou plusieurs syndicats de communes ou syndicats
+mixtes, la métropole est substituée à ces communes au sein du ou des syndicats
+dans les conditions mentionnées au second alinéa du II du présent article.
 
-III. ― Les fonctionnaires et les agents non titulaires du département, de la
-région et de leurs établissements publics, affectés à des services ou des
-parties de service mis, en application des conventions ou arrêtés mentionnés aux
-I et II du présent article et au 2 des II et III de l'article L. 5217-4, à
-disposition de la métropole, sont de plein droit mis à disposition contre
-remboursement, à titre individuel, du président du conseil de la métropole et
-placés, pour l'exercice de leurs fonctions, sous son autorité.
+V.-Lorsque la métropole est substituée à des communes au sein d'un syndicat de
+communes ou d'un syndicat mixte pour l'exercice d'une compétence, la proportion
+des suffrages des représentants de la métropole au titre de cette compétence
+dans la totalité des suffrages du comité syndical est équivalente à la
+proportion de la population des communes que la métropole représente dans la
+population totale du territoire inclus dans le syndicat de communes ou le
+syndicat mixte.
 
-IV. ― A la date d'entrée en vigueur des transferts définitifs des services ou
-parties de service auxquels ils sont affectés, les agents non titulaires de
-droit public du département et de la région exerçant leurs fonctions dans un
-service ou une partie de service transféré à la métropole deviennent des agents
-non titulaires de la métropole et les fonctionnaires territoriaux exerçant leurs
-fonctions dans un service ou une partie de service transféré à la métropole sont
-affectés de plein droit à la métropole.
-
-Les agents conservent, s'ils y ont intérêt, le bénéfice du régime indemnitaire
-qui leur était applicable ainsi que, à titre individuel, les avantages acquis en
-application du troisième alinéa de l'article 111 de la loi n° 84-53 du 26
-janvier 1984 portant dispositions statutaires relatives à la fonction publique
-territoriale. Les agents non titulaires conservent, à titre individuel, le
-bénéfice des stipulations de leur contrat. Les services antérieurement accomplis
-en qualité d'agent non titulaire du département ou de la région sont assimilés à
-des services accomplis dans la métropole.
-
-V. ― Les fonctionnaires de l'Etat détachés à la date du transfert auprès du
-département ou de la région en application du III de l'article 109 de la loi n°
-2004-809 du 13 août 2004 relative aux libertés et responsabilités locales et
-affectés dans un service ou une partie de service transféré à la métropole sont
-réintégrés pour ordre dans leur corps d'origine et placés en position de
-détachement sans limitation de durée auprès de la métropole.
-
-VI. ― Sans préjudice des dispositions du sixième alinéa de l'article L. 5217-6,
-les charges correspondant aux services transférés par le département et par la
-région sont évaluées dans les conditions définies aux articles L. 5217-15 à L.
-5217-19.
-
-VII. ― A la date du transfert à la métropole des services ou parties de service
-exerçant les compétences en matière de gestion des routes classées dans le
-domaine public routier départemental, les ouvriers des parcs et ateliers
-jusqu'alors mis à disposition sans limitation de durée du président du conseil
-général en application de l'article 10 de la loi n° 2009-1291 du 26 octobre 2009
-relative au transfert aux départements des parcs de l'équipement et à
-l'évolution de la situation des ouvriers des parcs et ateliers sont mis à
-disposition sans limitation de durée du président de la métropole.
-
-A cette même date, les fonctionnaires mis à disposition du président du conseil
-général en application de l'article 7 de la loi n° 2009-1291 du 26 octobre 2009
-précitée ou détachés sans limitation de durée auprès du conseil général en
-application de l'article 8 de la même loi sont respectivement mis à disposition
-du président de la métropole ou placés en position de détachement sans
-limitation de durée.
-
-VIII. ― Aucun emploi territorial permanent, de titulaire ou de non-titulaire, à
-temps complet ou à temps partiel, ne peut être créé dans les trois ans suivant
-les transferts de services ou parties de service prévus au présent article et au
-2 des II et III de l'article L. 5217-4, en remplacement des agents transférés à
-la métropole en application des mêmes dispositions. Les créations d'emplois
-nouveaux doivent être justifiées exclusivement par l'augmentation des besoins
-des services existants ou par la création de nouveaux services.
+VI.-Par dérogation aux II à V du présent article, lorsqu'une partie des communes
+d'un syndicat de communes ou d'un syndicat mixte fait partie d'une métropole
+dont le périmètre est totalement ou partiellement inclus dans le périmètre de ce
+syndicat, la métropole est substituée, au sein du syndicat, pour la compétence
+d'autorité concédante de la distribution publique d'électricité prévue au g du
+6° du I de l'article L. 5217-2, aux communes qui la composent, par dérogation au
+premier alinéa du I de l'article L. 5215-22. Cette substitution ne modifie pas
+les attributions du syndicat de communes, qui devient un syndicat mixte, au sens
+de l'article L. 5711-1, ou du syndicat mixte intéressé. Elle ne modifie pas non
+plus le périmètre dans lequel ce syndicat exerce ses compétences. Le nombre de
+suffrages dont disposent les représentants de la métropole dans le comité
+syndical est proportionnel à la population des communes que la métropole
+représente au titre de cette compétence, sans pouvoir excéder la moitié du
+nombre total de suffrages. Les statuts des syndicats mixtes existant à la date
+de promulgation de la loi n° 2014-58 du 27 janvier 2014 de modernisation de
+l'action publique territoriale et d'affirmation des métropoles doivent être mis
+en conformité avec le présent VI dans un délai de six mois à compter de la
+publication de la même loi.

@@ -9,7 +9,10 @@ région, l'implantation des grands équipements d'infrastructures et de transpor
 la localisation préférentielle des extensions urbaines, des activités
 industrielles, portuaires, artisanales, agricoles, forestières, touristiques et
 relatives aux énergies renouvelables ainsi que celles relatives aux nouvelles
-technologies de l'information et de la communication.
+technologies de l'information et de la communication. Le schéma d'aménagement
+régional définit les principes permettant d'assurer la combinaison des
+différents modes de transports et la coordination des politiques de mobilité
+mises en place par les autorités organisatrices.
 
 Le schéma d'aménagement fait l'objet d'une évaluation environnementale dans les
 conditions définies par les articles L. 121-10 à L. 121-15 du code de

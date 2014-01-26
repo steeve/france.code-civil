@@ -11,8 +11,8 @@ L. 121-1 du code de l'urbanisme.
 
 Il fixe les orientations fondamentales en matière de protection et de mise en
 valeur du territoire, de développement agricole, rural et forestier, de pêche et
-d'aquaculture, d'habitat, de transports, d'infrastructures et de réseaux de
-communication et de développement touristique.
+d'aquaculture, d'habitat, de transports, d'intermodalité d'infrastructures et de
+réseaux de communication et de développement touristique.
 
 Il définit les principes de l'aménagement de l'espace qui en résultent et il
 détermine notamment les espaces naturels, agricoles et forestiers ainsi que les

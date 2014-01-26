@@ -9,8 +9,8 @@ en pôle urbain de développement, au développement d'une communauté urbaine e
 son évolution en pôle régional ou au développement d'une métropole et à son
 évolution en pôle européen, selon le cas. Il ne peut toutefois inclure, sans
 leur accord, les communes membres d'une communauté de communes dont
-l'éligibilité à la dotation prévue au onzième alinéa de l'article L. 5211-29 a
-été constatée dans les conditions fixées à l'article L. 5214-23-1.
+l'éligibilité à la dotation prévue au quatrième alinéa du II de l'article L.
+5211-29 a été constatée dans les conditions fixées à l'article L. 5214-23-1.
 
 Le projet d'extension du périmètre de l'établissement public est arrêté par le
 représentant de l'Etat dans le département lorsque les communes font partie du
@@ -29,7 +29,7 @@ celle-ci est supérieure au quart de la population totale concernée. A défaut 
 délibération dans le délai de trois mois à compter de la notification du projet
 d'extension de périmètre, l'accord est réputé donné.
 
-Sans préjudice des dispositions de l'article L. 5217-2, l'extension du périmètre
+Sans préjudice des dispositions de l'article L. 5217-1, l'extension du périmètre
 de l'établissement public et la transformation de cet établissement en un autre
 établissement public de coopération intercommunale sont prononcées par le même
 arrêté du ou des représentants de l'Etat dans le ou les départements. Cet arrêté

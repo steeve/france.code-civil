@@ -8,6 +8,13 @@ toute occupation future. En outre, il finance, dans les mêmes limites, les
 dépenses de prévention liées aux évacuations temporaires et au relogement des
 personnes exposées.
 
+Il contribue, en outre, au financement des études et travaux de prévention
+contre les risques naturels dont les collectivités territoriales assurent la
+maîtrise d'ouvrage dans les communes couvertes par un plan de prévention des
+risques naturels prévisibles approuvé ou prescrit, ainsi qu'au financement des
+opérations menées dans le cadre des programmes d'actions de prévention contre
+les inondations validés par la commission mixte inondation.
+
 Il peut également, sur décision préalable de l'Etat et selon des modalités et
 conditions fixées par décret en Conseil d'Etat, contribuer au financement des
 mesures de prévention intéressant des biens couverts par un contrat d'assurance
