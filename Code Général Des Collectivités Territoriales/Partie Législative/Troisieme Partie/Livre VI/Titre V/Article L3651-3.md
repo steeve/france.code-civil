@@ -9,10 +9,10 @@ n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la
 fonction publique territoriale.
 
 II.-Les services ou parties de service des communes qui participent à l'exercice
-des compétences mentionnées à l'article L. 3641-1 et attributions mentionnées au
-9 du I de l'article L. 3642-2 sont transférés à la métropole de Lyon, dans les
-conditions prévues à l'article L. 5211-4-1. Pour l'application de ce même
-article, l'autorité territoriale est le président du conseil de la métropole.
+des compétences mentionnées à l'article L. 3641-1 sont transférés à la métropole
+de Lyon, dans les conditions prévues à l'article L. 5211-4-1. Pour l'application
+de ce même article, l'autorité territoriale est le président du conseil de la
+métropole.
 
 III.-Les services ou parties de service du département qui participent à
 l'exercice des compétences mentionnées à l'article L. 3641-2 sont transférés à
@@ -54,10 +54,10 @@ le bénéfice des stipulations de leur contrat. Les services antérieurement
 accomplis en qualité d'agent non titulaire du département sont assimilés à des
 services accomplis dans la métropole.
 
-Les fonctionnaires de l'Etat et hospitaliers détachés à la date du transfert
-auprès du département et affectés dans un service ou une partie de service
-transféré à la métropole de Lyon sont placés en position de détachement auprès
-de la métropole de Lyon pour la durée de leur détachement restant à courir.
+Les fonctionnaires de l'Etat détachés à la date du transfert auprès du
+département et affectés dans un service ou une partie de service transféré à la
+métropole de Lyon sont placés en position de détachement auprès de la métropole
+de Lyon pour la durée de leur détachement restant à courir.
 
 IV.-Les services ou parties de service de l'Etat qui participent à l'exercice
 des compétences mentionnées à l'article L. 3641-5 sont mis à disposition de la

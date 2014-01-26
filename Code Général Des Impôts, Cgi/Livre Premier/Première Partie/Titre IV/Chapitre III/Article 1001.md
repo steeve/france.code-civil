@@ -66,10 +66,12 @@ Les risques d'incendie couverts par des assurances ayant pour objet des risques
 de transport sont compris dans les risques désignés sous le 3° ou sous le 5°
 bis.
 
-Le produit de la taxe est affecté aux départements, à l'exception du produit de
-la taxe afférente aux contrats visés au 2° bis, qui est affecté, par parts
-égales, à la Caisse nationale des allocations familiales et à la Caisse
-nationale de l'assurance maladie des travailleurs salariés et à l'exception
-d'une fraction du produit de la taxe afférente aux contrats mentionnés au 2° ter
-qui est affectée, pour la part correspondant à un taux de 5 %, à la Caisse
-nationale de l'assurance maladie des travailleurs salariés.
+Le produit de la taxe est affecté aux départements et à la métropole de Lyon,
+dans les conditions prévues au 2° de l'article L. 3662-1 du code général des
+collectivités territoriales, à l'exception du produit de la taxe afférente aux
+contrats visés au 2° bis, qui est affecté, par parts égales, à la Caisse
+nationale des allocations familiales et à la Caisse nationale de l'assurance
+maladie des travailleurs salariés et à l'exception d'une fraction du produit de
+la taxe afférente aux contrats mentionnés au 2° ter qui est affectée, pour la
+part correspondant à un taux de 5 %, à la Caisse nationale de l'assurance
+maladie des travailleurs salariés.

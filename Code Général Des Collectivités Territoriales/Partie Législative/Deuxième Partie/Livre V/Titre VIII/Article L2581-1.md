@@ -1,8 +1,6 @@
 Article L2581-1
 ----
-La présente partie du code est applicable aux communes de l'archipel de
-Saint-Pierre-et-Miquelon. Pour cette application il y a lieu de lire :
-
-1° "Collectivité territoriale" au lieu de : "département" ;
-
-2° "Conseil général" au lieu de : "conseil régional".
+Les communes situées sur le territoire de la métropole de Lyon fixé à l'article
+L. 3611-1 sont soumises aux règles applicables aux autres communes, sous réserve
+des dispositions législatives qui leur sont propres, notamment celles de
+l'article L. 3641-1.

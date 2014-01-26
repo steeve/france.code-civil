@@ -93,30 +93,5 @@ le taux de l'année est majoré dans les conditions prévues audit alinéa.
 
 V. (Périmé)
 
-VI.-Le conseil de la métropole de Lyon vote le taux de la cotisation foncière
-des entreprises dans les limites prévues au b du 1, au 2, au 3 et au 5 du I de
-l'article 1636 B sexies, sous réserve des dispositions du VII de l'article 1636
-B septies.
-
-Pour l'application des 1,2,3 et 5 du I de l'article 1636 B sexies :
-
-1° La référence aux taux moyens nationaux de cotisation foncière des entreprises
-est remplacée par la référence au taux moyen constaté l'année précédente au
-niveau national pour l'ensemble des établissements publics de coopération
-intercommunale soumis à l'article 1609 nonies C ;
-
-2° La référence au taux moyen national de chacune des autres taxes directes est
-remplacée par la référence au taux moyen de chacune des autres taxes directes
-constaté l'année précédente au niveau national pour l'ensemble des
-établissements publics de coopération intercommunale soumis à l'article 1609
-nonies C ;
-
-3° La référence au taux moyen pondéré de la taxe d'habitation et des taxes
-foncières est remplacée par la référence au taux moyen pondéré de la taxe
-d'habitation et des taxes foncières de la métropole de Lyon ;
-
-4° La référence au taux moyen pondéré de la taxe d'habitation et des taxes
-foncières calculé au niveau national est remplacée par la référence au taux
-moyen pondéré de la taxe d'habitation et des taxes foncières constaté l'année
-précédente au niveau national pour l'ensemble des établissements publics de
-coopération intercommunale soumis à l'article 1609 nonies C.
+VI. ― Les II, III et IV du présent article ne s'appliquent pas à la métropole de
+Lyon.

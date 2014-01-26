@@ -2,7 +2,7 @@ Article L4133-3
 ----
 Les fonctions de président de conseil régional sont incompatibles avec
 l'exercice d'une des fonctions électives suivantes : président d'un conseil
-général, maire.
+général, maire, le président du conseil de la métropole de Lyon.
 
 Les fonctions de président de conseil régional sont également incompatibles avec
 celles de membre de la Commission européenne, membre du directoire de la Banque

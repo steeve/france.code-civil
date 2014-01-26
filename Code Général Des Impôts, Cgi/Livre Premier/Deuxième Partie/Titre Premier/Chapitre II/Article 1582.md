@@ -8,7 +8,10 @@ qu'elles auraient perçue pour ces mêmes volumes en application du mode de calc
 de la surtaxe en vigueur avant le 1er janvier 2002.
 
 Lorsque le produit de cette surtaxe excède le montant des ressources ordinaires
-de la commune pour l'exercice précédent, le surplus est attribué au département.
+de la commune pour l'exercice précédent, le surplus est attribué au département
+ou, pour le produit correspondant aux sources d'eaux minérales situées dans le
+périmètre fixé à l'article L. 3611-1 du code général des collectivités
+territoriales, à la métropole de Lyon.
 
 Toutefois, lorsque les communes qui perçoivent cette surtaxe exécutent, après
 avis favorable du préfet des travaux d'assainissement entrant dans la catégorie

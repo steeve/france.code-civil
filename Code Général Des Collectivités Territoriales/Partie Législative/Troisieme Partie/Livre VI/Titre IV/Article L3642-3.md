@@ -32,11 +32,11 @@ commune.
 
 III.-Les agents de police municipale recrutés par la métropole de Lyon sont
 nommés par le président du conseil de la métropole, agréés par le représentant
-de l'Etat dans le département et par le procureur de la République, puis
+de l'Etat dans la métropole et par le procureur de la République, puis
 assermentés dans les conditions prévues à l'article L. 511-2 du même code.
 
-L'agrément peut être retiré ou suspendu par le représentant de l'Etat dans le
-département ou par le procureur de la République après consultation du président
+L'agrément peut être retiré ou suspendu par le représentant de l'Etat dans la
+métropole ou par le procureur de la République après consultation du président
 du conseil de la métropole. Toutefois, en cas d'urgence, l'agrément peut être
 suspendu par le procureur de la République sans qu'il soit procédé à cette
 consultation.

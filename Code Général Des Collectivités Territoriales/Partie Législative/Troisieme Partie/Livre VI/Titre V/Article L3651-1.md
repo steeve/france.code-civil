@@ -2,10 +2,9 @@ Article L3651-1
 ----
 Les biens et droits, à caractère mobilier ou immobilier, situés sur le
 territoire de la métropole de Lyon et utilisés pour l'exercice des compétences
-mentionnées aux articles L. 3641-1 et L. 3641-2 ainsi que pour l'exercice des
-attributions mentionnées au 9 du I de l'article L. 3642-2 sont mis de plein
-droit à la disposition de la métropole par les communes situées sur son
-territoire et par le département du Rhône.
+mentionnées aux articles L. 3641-1 et L. 3641-2 sont mis de plein droit à la
+disposition de la métropole par les communes situées sur son territoire et par
+le département du Rhône.
 
 En application de l'article L. 1321-4, les biens et droits mentionnés au premier
 alinéa du présent article sont transférés en pleine propriété dans le patrimoine
@@ -25,8 +24,7 @@ du conseil de la métropole et le président du conseil général du Rhône, pro
 au transfert définitif de propriété.
 
 Les transferts sont réalisés à titre gratuit et ne donnent lieu au paiement
-d'aucune indemnité ou taxe ni d'aucuns droit, salaire ou honoraires, notamment
-de la contribution prévue à l'article 879 du code général des impôts.
+d'aucune indemnité ou taxe ni d'aucuns droit, salaire ou honoraires.
 
 La métropole de Lyon est substituée de plein droit, pour l'exercice de ses
 compétences, aux communes, au département du Rhône et à la communauté urbaine de

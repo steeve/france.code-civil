@@ -28,11 +28,9 @@ La métropole de Lyon est substituée à la communauté urbaine de Lyon au sein 
 pôle métropolitain, des syndicats mixtes ou de tout établissement public dont
 elle est membre.
 
-La métropole de Lyon et le département du Rhône sont membres de droit des
-syndicats mixtes auxquels appartient le département du Rhône au 31 décembre 2014
-lorsque ces syndicats sont compétents sur leur territoire respectif. Ils sont
-également membres de droit des syndicats mixtes qui assurent la gestion
-d'équipements portuaires ou aéroportuaires.
+La métropole de Lyon est membre de droit des syndicats mixtes auxquels, à la
+date de la première réunion du conseil de la métropole, appartient le
+département du Rhône. Ce département demeure membre de droit de ces syndicats.
 
 Lorsque la métropole de Lyon transfère à un syndicat mixte chargé des transports
 les compétences d'infrastructures de transports collectifs urbains, de gestion

@@ -16,15 +16,3 @@ supérieur à un. Si, après deux tours de scrutin, aucune liste n'a obtenu la
 majorité absolue, il est procédé à un troisième tour de scrutin et l'élection a
 lieu à la majorité relative. En cas d'égalité de suffrages, les candidats de la
 liste ayant la moyenne d'âge la plus élevée sont élus.
-
-Le conseil de la métropole procède à l'élection des membres de la commission
-permanente autres que le président et les vice-présidents au scrutin uninominal
-majoritaire. Si, après deux tours de scrutin, aucun candidat n'a obtenu la
-majorité absolue, il est procédé à un troisième tour de scrutin et l'élection a
-lieu à la majorité relative. En cas d'égalité de suffrages, l'élection est
-acquise au plus âgé.
-
-Lorsqu'il y a lieu, en cas de vacance, de procéder au remplacement d'un siège de
-membre de la commission permanente autre que le président, il est fait
-application des dispositions des deux alinéas précédents dans la limite du
-nombre de sièges à pourvoir.

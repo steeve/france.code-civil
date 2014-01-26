@@ -14,21 +14,13 @@ par le département du Rhône avant la création de la métropole de Lyon. Le
 montant de cette garantie est réparti entre la métropole de Lyon et le
 département du Rhône au prorata de la population de chacune de ces
 collectivités. Le montant de la garantie perçu par le département du Rhône et la
-métropole de Lyon évolue selon les modalités définies audit article L. 3334-3 ;
+métropole de Lyon évolue selon les modalités définies audit article L. 3334-3.
+Ces recettes sont inscrites au budget spécial prévu à l'article L. 3661-1 ;
 
-3° D'une dotation de compensation en application de l'article L. 3334-7-1. Le
-montant de cette dotation de compensation perçu par le département du Rhône
-avant la création de la métropole de Lyon est réparti entre la métropole de Lyon
-et le département du Rhône au prorata de la population telle que définie à
-l'article L. 3334-2. Le montant de la dotation de compensation de la métropole
-de Lyon et du département du Rhône évolue conformément aux modalités définies à
-l'article L. 3334-7-1 ;
+3° D'une dotation de compensation, en application de l'article L. 3334-7-1 ;
 
 4° Le cas échéant, d'une dotation de péréquation, en application des articles L.
 3334-4 et L. 3334-6 à L. 3334-7 ;
-
-En 2015, les quatre derniers alinéas de l'article L. 3334-6-1 ne sont pas
-applicables au département du Rhône et à la métropole de Lyon.
 
 5° Du produit des amendes de police relatives à la circulation routière destiné
 aux collectivités territoriales, mentionné au b du 2° du B du I de l'article 49
