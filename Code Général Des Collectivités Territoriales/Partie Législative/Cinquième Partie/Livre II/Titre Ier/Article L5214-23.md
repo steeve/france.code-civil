@@ -38,4 +38,7 @@ assurés ;
 urbains ;
 
 9° La dotation de compensation de la réforme de la taxe professionnelle et le
-reversement du Fonds national de garantie individuelle des ressources.
+reversement du Fonds national de garantie individuelle des ressources ;
+
+10° Le cas échéant, le produit des taxes prévues aux articles 1528,1529,1530 et
+1530 bis du code général des impôts.

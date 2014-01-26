@@ -157,8 +157,16 @@ mentionnée à l'article L. 2224-31 du même code.
 VIII. - Les établissements publics de coopération intercommunale à fiscalité
 propre peuvent percevoir la taxe de séjour ou la taxe de séjour forfaitaire,
 dans les conditions prévues à l'article L. 5211-21 du code général des
-collectivités territoriales. IX. - Les métropoles, les communautés urbaines, les
-communautés d'agglomération et les communautés de communes sont substituées à
-leurs communes membres pour l'application des dispositions relatives à la taxe
-de balayage prévue à l'article 1528 lorsqu'elles assurent le balayage de la
-superficie des voies livrées à la circulation publique.
+collectivités territoriales.
+
+IX. - Les métropoles, les communautés urbaines, les communautés d'agglomération
+et les communautés de communes sont substituées à leurs communes membres pour
+l'application des dispositions relatives à la taxe de balayage prévue à
+l'article 1528 lorsqu'elles assurent le balayage de la superficie des voies
+livrées à la circulation publique.
+
+X. - Les métropoles, la métropole de Lyon, les communautés urbaines, les
+communautés d'agglomération et les communautés de communes peuvent se substituer
+à leurs communes membres pour l'application des dispositions relatives à la taxe
+pour la gestion des milieux aquatiques et la prévention des inondations prévue à
+l'article 1530 bis.
