@@ -20,8 +20,7 @@ l'érosion des sols ;
 
 5° La défense contre les inondations et contre la mer ;
 
-6° La lutte contre la pollution des eaux terrestres et marines, y compris les
-pollutions marines orphelines ;
+6° La lutte contre la pollution ;
 
 7° La protection et la conservation des eaux superficielles et souterraines ;
 
@@ -48,7 +47,7 @@ lui a été confiée.
 I bis.-Lorsqu'un projet visé aux 1°, 2° et 5° du I dépassant un seuil financier
 fixé par décret est situé dans le périmètre d'un établissement public
 territorial de bassin visé à l'article L. 213-12, le préfet saisit pour avis le
-président de cet établissement.A défaut de réponse dans un délai de deux mois,
+président de cet établissement. A défaut de réponse dans un délai de deux mois,
 l'avis est réputé favorable.
 
 II.-L'étude, l'exécution et l'exploitation desdits travaux peuvent être
@@ -56,9 +55,10 @@ concédées notamment à des sociétés d'économie mixte. Les concessionnaires 
 fondés à percevoir le prix des participations prévues à l'article L. 151-36 du
 code rural et de la pêche maritime.
 
-III.-Il est procédé à une seule enquête publique au titre de l'article L. 151-37
-du code rural et de la pêche maritime, des articles L. 214-1 à L. 214-6 du
-présent code et, s'il y a lieu, de la déclaration d'utilité publique.
+III.-Il est procédé à une seule enquête publique réalisée conformément au
+chapitre III du titre II du livre Ier du présent code au titre de l'article L.
+151-37 du code rural et de la pêche maritime, des articles L. 214-1 à L. 214-6
+du présent code et, s'il y a lieu, de la déclaration d'utilité publique.
 
 IV.-Sous réserve des décisions de justice passées en force de chose jugée, les
 servitudes de libre passage des engins d'entretien dans le lit ou sur les berges
