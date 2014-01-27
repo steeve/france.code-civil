@@ -61,12 +61,12 @@ catégorie A 2 importés sous le régime douanier de l'admission temporaire, les
 véhicules ou engins chenillés devant être transportés par un autre véhicule muni
 de pneumatiques, conformément à l'article R. 314-1 du code de la route ;
 
-10° Les armes à feu, munitions et leurs éléments à percussion annulaire figurant
-aux 1°, 2° et 8° de la catégorie C ;
+10° Les armes à feu et leurs éléments à percussion annulaire figurant aux 1°, 2°
+et 8° de la catégorie C ;
 
 11° Les douilles non amorcées et non chargées du c du 1° de la catégorie D et
-les projectiles des munitions classées en catégorie B, aux 6° et 7° de la
-catégorie C et en catégorie D.
+les projectiles des munitions classées aux 6° et 7° de la catégorie C et en
+catégorie D.
 
 Ce régime est prévu par le règlement n° 2913/92 du Conseil des Communautés
 européennes du 12 octobre 1992 établissant le code des douanes communautaires.
