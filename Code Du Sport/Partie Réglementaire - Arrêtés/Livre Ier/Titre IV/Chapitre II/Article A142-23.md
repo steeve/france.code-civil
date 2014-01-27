@@ -14,5 +14,5 @@ c) Trois représentants du Conseil national des employeurs associatifs (CNEA).
 
 2° En ce qui concerne les salariés :
 
-Huit représentants proposés par les organisations syndicales représentatives du
-secteur (CFDT, CFE-CGC, CFTC, CGT, CGT-FO, CNES, FNASS, UNSA).
+Huit représentants proposés par les organisations syndicales mentionnées au 2°
+de l'article A. 142-20.

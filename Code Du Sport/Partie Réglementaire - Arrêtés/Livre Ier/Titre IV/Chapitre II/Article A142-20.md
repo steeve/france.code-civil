@@ -37,9 +37,8 @@ h) Union nationale des syndicats autonomes (UNSA).
 3° Douze représentants des pouvoirs publics, dont onze désignés par les
 ministres concernés :
 
-a) Trois représentants du ministre chargé de la jeunesse et du ministre chargé
-des sports, dont un chef de service déconcentré régional chargé de la jeunesse
-et des sports ou son représentant ;
+a) Deux représentants du ministre chargé de la jeunesse et du ministre chargé
+des sports ;
 
 b) Un représentant du ministre de l'éducation nationale ;
 
@@ -47,8 +46,7 @@ c) Un représentant du ministre de l'enseignement supérieur ;
 
 d) Un représentant du ministre chargé des affaires sociales ;
 
-e) Un représentant du ministre chargé de la formation professionnelle et du
-tourisme ;
+e) Un représentant du ministre chargé de la formation professionnelle ;
 
 f) Un représentant du ministre de l'intérieur ;
 
@@ -58,16 +56,20 @@ h) Un représentant du ministre chargé de la culture ;
 
 i) Un représentant du ministre de la défense ;
 
-j) Un représentant du centre d'études et de recherche sur les qualifications
+j) Un représentant du ministre chargé du tourisme ;
+
+k) Un représentant du centre d'études et de recherche sur les qualifications
 désigné par son président.
 
-4° Dix personnalités qualifiées choisies en raison de leur compétence, dans le
-domaine des qualifications et des formations :
+4° Treize personnalités qualifiées choisies en raison de leur compétence, dans
+le domaine des qualifications et des formations :
 
-a) Sept personnalités désignées par le ministre chargé de la jeunesse et le
-ministre chargé des sports, dont des représentants du corps de l'inspection et
-des corps des personnels techniques et pédagogiques des ministères chargés de la
-jeunesse et des sports ;
+a) Neuf personnalités désignées par le ministre chargé de la jeunesse et le
+ministre chargé des sports, dont un chef de service déconcentré régional chargé
+de la jeunesse et des sports ou son représentant, un représentant des
+établissements de formation mentionnés à l'article L. 211-1 du code du sport,
+des représentants du corps de l'inspection et des corps des personnels
+techniques et pédagogiques du ministère chargé de la jeunesse et des sports ;
 
 b) Deux personnalités proposées, respectivement, par le président du Comité pour
 les relations nationales et internationales des associations de jeunesse et
@@ -75,7 +77,9 @@ d'éducation populaire (CNAJEP) et par le président du Comité national olympiq
 et sportif français (CNOSF) ;
 
 c) Un représentant du Centre national de la fonction publique territoriale
-(CNFPT).
+(CNFPT) ;
+
+d) Un représentant de l'Association des régions de France (ARF).
 
 Siègent de droit les présidents et vice-présidents des sous-commissions.
 

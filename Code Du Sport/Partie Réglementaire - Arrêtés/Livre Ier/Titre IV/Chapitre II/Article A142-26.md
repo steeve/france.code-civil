@@ -1,9 +1,9 @@
 Article A142-26
 ----
-La présidence de chaque sous-commission est assurée pour deux ans par l'un de
-ses membres choisi alternativement dans le collège des employeurs et dans celui
-des salariés. Le président est assisté d'un vice-président appartenant à l'autre
-collège.
+La présidence de chaque sous-commission est assurée pour deux ans et demi par
+l'un de ses membres choisi alternativement dans le collège des employeurs et
+dans celui des salariés. Le président est assisté d'un vice-président
+appartenant à l'autre collège.
 
 Le collège chargé de la première présidence est différent de celui qui assure la
 première présidence de la commission professionnelle consultative des métiers du
