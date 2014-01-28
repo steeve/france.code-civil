@@ -25,10 +25,10 @@ procédé au transfert de son portefeuille de contrats à un autre organisme
 mentionné à la présente section dans les conditions prévues à l'article L.
 324-1.
 
-A défaut, il peut être mis fin à ses opérations par arrêté conjoint du ministre
-de l'agriculture et de l'Autorité de contrôle prudentiel et de résolution. Les
-règles applicables à cet effet sont celles qui sont fixées par la réglementation
-en vigueur pour le retrait de l'agrément administratif.
+A défaut, il peut être mis fin à ses opérations par décision de l'Autorité de
+contrôle prudentiel et de résolution. Les règles applicables à cet effet sont
+celles qui sont fixées par la réglementation en vigueur pour le retrait de
+l'agrément administratif.
 
 La décision mettant fin aux opérations produit les effets de la décision portant
 retrait de l'agrément administratif.

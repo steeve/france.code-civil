@@ -7,12 +7,11 @@ d'observer les règles de gestion qui leur seraient normalement applicables,
 lorsque, avant de commencer leurs opérations, ils ont souscrit auprès d'une
 société ou caisse assujettie aux dispositions de la présente section et agréée à
 cet effet ou, lorsqu'il s'agit de la réassurance d'une caisse régionale, auprès
-d'une entreprise d'assurance mentionnée au dernier alinéa de l'article R.
-322-120 un traité de réassurance substituant ladite société ou caisse à
-l'organisme réassuré, pour la constitution des garanties prévues par la
-réglementation susmentionnée et l'exécution des engagements d'assurance pris par
-l'organisme réassuré. Ce traité doit porter sur l'ensemble des opérations
-pratiquées par l'organisme réassuré.
+de l'organe central défini à l'article L. 322-27-1 un traité de réassurance
+substituant ladite société ou caisse à l'organisme réassuré, pour la
+constitution des garanties prévues par la réglementation susmentionnée et
+l'exécution des engagements d'assurance pris par l'organisme réassuré. Ce traité
+doit porter sur l'ensemble des opérations pratiquées par l'organisme réassuré.
 
 Ces organismes sont notamment dispensés de l'obligation de constituer un fonds
 d'établissement et une marge de solvabilité.
@@ -23,6 +22,6 @@ premier alinéa du présent article.
 
 Ces organismes ne sont pas soumis à l'obligation de désigner un commissaire aux
 comptes mentionnée à l'article R. 322-67, ni à l'obligation de désigner un
-directeur général mentionnée à l'article R. 322-53-2. Les dispositions du
-deuxième alinéa du III de l'article R. 322-53 et des III à VI de l'article R.
-322-55-4 ne leur sont pas applicables.
+directeur général mentionnée à l'article R. 322-53-2. Les dispositions des III à
+VI de l'article R. 322-55-4, de l'article R. 322-106-7 et de l'article R.
+322-106-11 ne leur sont pas applicables.

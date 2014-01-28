@@ -1,11 +1,12 @@
 Article R322-119-1
 ----
-Les organismes mentionnés à l'article 1235 du code rural sont dispensés pour
-leur constitution des formalités prévues aux articles R. 322-51 et R. 322-52.
+Les organismes mentionnés à l'article L. 771-1 du code rural et de la pêche
+maritime sont dispensés pour leur constitution des formalités prévues aux
+articles R. 322-51 et R. 322-52.
 
 Leur constitution prend effet à compter du dépôt de leurs statuts à la mairie de
 la commune du siège social, fait conformément aux dispositions de l'article R.
-411-1 du code du travail.
+2131-1 du code du travail.
 
 Dans le mois du dépôt de leurs statuts, ces organismes doivent publier dans un
 des journaux habilités à recevoir les annonces légales dans le département de
@@ -20,7 +21,9 @@ société ou de la caisse.
 Sont soumis aux formalités de dépôt et de publicité ci-dessus prescrites tous
 actes et délibérations ayant pour objet la modification des statuts ou la
 continuation de la société ou de la caisse au-delà du terme fixé pour sa durée
-ou la dissolution de la société ou la caisse avant ce terme.
+ou la dissolution de la société ou la caisse avant ce terme ou la fusion de la
+société ou de la caisse avec une autre société ou caisse entrant dans le champ
+d'application de la présente section.
 
 Toute personne peut prendre communication des statuts déposés en mairie et s'en
 faire délivrer une copie à ses frais.

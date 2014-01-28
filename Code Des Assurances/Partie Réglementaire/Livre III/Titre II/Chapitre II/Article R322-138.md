@@ -6,4 +6,7 @@ caisse mentionnée à l'article R. 322-132, qui agit pour le compte des organism
 auxquels elle est substituée dans les conditions prévues aux articles R. 322-132
 à R. 322-137. L'avis et l'arrêté de transfert de portefeuille, mentionnés à
 l'article L. 324-1, mentionnent dans ce cas, en annexe, les organismes concernés
-par le transfert.
+par le transfert. Ces formalités ne sont pas applicables aux transferts de
+portefeuille entre organismes mentionnés à l'article R. 322-132 auxquels est
+substituée la même société ou la caisse mentionnée à l'article R. 322-132 dans
+les conditions prévues aux articles R. 322-132 à R. 322-137.
