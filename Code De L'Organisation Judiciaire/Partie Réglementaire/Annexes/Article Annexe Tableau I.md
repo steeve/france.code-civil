@@ -350,8 +350,9 @@ TRIBUNAUX DE GRANDE INSTANCE
 
 ET TRIBUNAUX D'INSTANCE
 
-Présidents des tribunaux de grande instance et procureurs de la République près
-lesdits tribunaux
+Présidents des tribunaux de grande instance, procureurs de la République près
+lesdits tribunaux et procureur de la République financier près le tribunal de
+grande instance de Paris
 
 
 AUDIENCE
@@ -387,20 +388,20 @@ Blanche, plissée.
 
 Solennelle (et cérémonies publiques).
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris
-et le procureur de la République près cette juridiction : rouge, à grandes
-manches.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris,
+le procureur de la République et le procureur de la République financier près
+cette juridiction : rouge, à grandes manches.
 
 Comme ci-dessus.
 
 Comme ci-dessus.
 
-De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de
+De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de
 Paris et de Versailles : de soie noire, avec franges.
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris
-et le procureur de la République près cette juridiction : de velours noir, avec
-quatre galons d'or.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris,
+le procureur de la République et le procureur de la République financier près
+cette juridiction : de velours noir, avec quatre galons d'or.
 
 Comme ci-dessus.
 
@@ -558,7 +559,7 @@ Comme ci-dessus.
 
 Auditeurs de justice
 
-ROBE
+AUDIENCE
 
 
 SIMARRE
@@ -591,7 +592,7 @@ Juridictions de proximité
 Juges de proximité
 
 
-MÉDAILLE
+AUDIENCE
 
 BRONZE
 
@@ -618,7 +619,7 @@ vertical par un liseré noir d'une largeur de 5 mm.
 
 Greffiers en chef et greffiers
 
-JURIDICTION
+AUDIENCE
 
 
 GRADE

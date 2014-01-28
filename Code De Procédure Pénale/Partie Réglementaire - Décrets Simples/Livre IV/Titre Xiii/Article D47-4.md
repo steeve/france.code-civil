@@ -4,9 +4,9 @@ Les personnes titulaires d'un diplôme national sanctionnant une formation d'une
 durée au moins égale à quatre années d'études supérieures après le baccalauréat,
 remplissant les conditions d'accès à la fonction publique et justifiant d'une
 expérience professionnelle minimale de quatre années peuvent exercer les
-fonctions d'assistant spécialisé auprès d'un tribunal de grande instance visé à
-l'article 704, si le diplôme valide une formation dans l'une au moins des
-matières suivantes :
+fonctions d'assistant spécialisé auprès d'un tribunal de grande instance visé
+aux articles 52-1, 704, 705 et 705-1, si le diplôme valide une formation dans
+l'une au moins des matières suivantes :
 
 I.-Comptabilité ;
 
