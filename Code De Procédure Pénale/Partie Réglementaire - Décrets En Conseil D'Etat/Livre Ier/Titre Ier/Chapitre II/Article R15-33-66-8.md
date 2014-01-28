@@ -11,9 +11,9 @@ l'organisation judiciaire :
 fonctions pénales de l'ensemble des juridictions ;
 
 -les procureurs de la République et les magistrats du siège exerçant des
-fonctions pénales des juridictions mentionnées aux articles 704, 706-2, 706-17,
-706-75, 706-107 et 706-108 pour le traitement de l'ensemble des procédures
-susceptibles de relever de leur compétence territoriale élargie ;
+fonctions pénales des juridictions mentionnées aux articles 704, 705, 705-1,
+706-2, 706-17, 706-75, 706-107 et 706-108 pour le traitement de l'ensemble des
+procédures susceptibles de relever de leur compétence territoriale élargie ;
 
 -les procureurs généraux pour le traitement des procédures en application des
 dispositions des articles 35 et 37.
