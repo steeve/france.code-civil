@@ -3,24 +3,15 @@ Article R5462-1
 Est puni de l'amende prévue pour les contraventions de cinquième classe le fait
 :
 
-1° Pour le fabricant d'un dispositif de diagnostic médical in vitro ou son
-mandataire, de ne pas tenir à la disposition du directeur général de l'Agence
-nationale de sécurité du médicament et des produits de santé les déclarations de
-conformité et les documentations techniques établies dans le cadre des
-procédures de certification, ainsi que les décisions et rapports des organismes
-habilités ayant participé à ces procédures, dans les conditions mentionnées à
-l'article R. 5221-18 ;
+1° Pour un établissement de santé, un syndicat interhospitalier, un groupement
+de coopération sanitaire utilisateur de dispositifs médicaux de diagnostic in
+vitro ou un établissement de transfusion sanguine mentionné à l'article R.
+5222-10, de ne pas désigner un correspondant de réactovigilance ou de ne pas en
+communiquer le nom au directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé ;
 
-2° Pour le fabricant d'un dispositif de diagnostic médical in vitro ou son
-mandataire, de ne pas présenter, sur demande des agents mentionnés à l'article
-L. 5462-1, les déclarations de conformité et les documentations techniques
-établies dans le cadre des procédures de certification, ainsi que les décisions
-et rapports des organismes habilités ayant participé à ces procédures, dans les
-conditions mentionnées à l'article R. 5221-18 ;
-
-3° Pour toute personne qui se livre à la fabrication, la mise sur le marché, la
-distribution, l'importation ou l'exportation d'un dispositif de diagnostic
-médical in vitro, de ne pas procéder à la déclaration auprès de l'Agence
-nationale de sécurité du médicament et des produits de santé, mentionnée à
-l'article L. 5221-3, dans les conditions prévues par les articles R. 5221-35 à
-R. 5221-37.
+2° Pour le professionnel de santé ayant eu connaissance d'une défaillance ou
+d'une altération d'un dispositif médical de diagnostic in vitro susceptible
+d'entraîner des effets néfastes pour la santé des personnes, de s'abstenir de le
+signaler sans délai à l'Agence nationale de sécurité du médicament et des
+produits de santé.
