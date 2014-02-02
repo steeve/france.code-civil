@@ -8,5 +8,4 @@ date.
 Toutefois, les articles A. 111-2 à A. 111-5 ne sont pas applicables aux contrats
 et adhésions mentionnés à l'alinéa précédent ayant fait l'objet après le 20
 décembre 2012 d'une modification substantielle, nécessitant l'accord des
-parties, autre qu'une modification dont les modalités sont prévues dans les
-contrats.
+parties, autre qu'une modification qu'une au moins des parties ne peut refuser.
