@@ -17,13 +17,13 @@ Télévisions au titre de ses services de télévision spécifiques à l'outre-m
 des autres ressources publiques ;
 
 c) Des sommes versées directement ou indirectement par les opérateurs de
-communications électroniques aux redevables concernés, ou aux personnes en
-assurant l'encaissement, à raison des appels téléphoniques à revenus partagés,
-des connexions à des services télématiques et des envois de minimessages qui
-sont liés à la diffusion de leurs programmes, à l'exception des programmes
-servant une grande cause nationale ou d'intérêt général ;
+communications électroniques aux redevables concernés, à raison des appels
+téléphoniques à revenus partagés, des connexions à des services télématiques et
+des envois de minimessages qui sont liés à la diffusion de leurs programmes, à
+l'exception des programmes servant une grande cause nationale ou d'intérêt
+général ;
 
-2° (1) Pour les distributeurs de services de télévision :
+2° Pour les distributeurs de services de télévision :
 
 a) Des abonnements et autres sommes acquittés par les usagers en rémunération
 d'un ou plusieurs services de télévision. Le produit de ces abonnements et
