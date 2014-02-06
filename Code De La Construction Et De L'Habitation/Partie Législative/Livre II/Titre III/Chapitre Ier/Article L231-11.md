@@ -3,9 +3,8 @@ Article L231-11
 Au cas où le contrat défini à l'article L. 231-1 prévoit la révision du prix,
 celle-ci ne peut être calculée qu'en fonction de la variation d'un indice
 national du bâtiment tous corps d'état mesurant l'évolution du coût des facteurs
-de production dans le bâtiment, publié par le ministre chargé de la construction
-et de l'habitation, et, au choix des parties, selon l'une des deux modalités
-ci-après :
+de production dans le bâtiment, publié par l'autorité administrative, et, au
+choix des parties, selon l'une des deux modalités ci-après :
 
 a) Révision du prix d'après la variation de l'indice entre la date de la
 signature du contrat et la date fixée à l'article L. 231-12, le prix ainsi
@@ -33,7 +32,7 @@ contrat n'est pas révisable.
 L'indice et la limite prévus ci-dessus sont définis par décret en Conseil
 d'Etat. Cette limite, destinée à tenir compte des frais fixes, des
 approvisionnements constitués et des améliorations de productivité, doit être
-comprise entre 60% et 80% de la variation de l'indice.
+comprise entre 60 % et 80 % de la variation de l'indice.
 
 L'indice servant de base pour le calcul de la révision est le dernier indice
 publié au jour de la signature du contrat. La variation prise en compte résulte

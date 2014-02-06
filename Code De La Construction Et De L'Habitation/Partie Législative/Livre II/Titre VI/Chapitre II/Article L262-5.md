@@ -3,8 +3,7 @@ Article L262-5
 Au cas où le contrat défini à l'article L. 262-1 prévoit la révision du prix,
 celle-ci ne peut être calculée qu'en fonction de la variation d'un indice
 national du bâtiment tous corps d'état mesurant l'évolution du coût des facteurs
-de production dans le bâtiment et publié par le ministre chargé de la
-construction et de l'habitation.
+de production dans le bâtiment et publié par l'autorité administrative.
 
 La révision ne peut être faite sur chaque paiement ou dépôt que dans une limite
 exprimée en pourcentage de la variation de cet indice.

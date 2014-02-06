@@ -11,6 +11,6 @@ décision du ministre chargé de l'économie et des finances et publiés au Bull
 officiel de la concurrence et de la consommation.
 
 L'index BT 01 est publié mensuellement au Journal officiel par le ministre
-chargé de la construction et de l'habitation.
+chargé de l'économie et des finances.
 
-La limite mentionnée à l'article L. 231-11 est fixée à 70 p. 100.
+La limite mentionnée à l'article L. 231-11 est fixée à 70%.
