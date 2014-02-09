@@ -1870,11 +1870,17 @@ d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux
 premiers niveaux de compétition. Encadrement et conduite de cycles
 d'apprentissage permettant la préparation aux grades.
 
-BP JEPS, spécialité basket-ball .
+BP JEPS, spécialité "basket-ball".
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et
 d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de
 compétition en basket-ball.
+
+BP JEPS, spécialité "patinage sur glace".
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et
+d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de
+compétition en patinage sur glace.
 
 Unités capitalisables complémentaires associées à la spécialité " activités
 aquatiques "
@@ -2661,6 +2667,37 @@ CQP technicien sportif de cheerleading .
 
 Encadrement en autonomie de séances d'entraînement en cheerleading pour tout
 public.
+
+CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive".
+
+Encadrement en autonomie du canoë-kayak en eau calme et en eau vive pour tout
+public, sur tout support ou embarcation propulsée à la pagaie dans les
+conditions techniques et de sécurité définies aux articles A. 322-42 et suivants
+du code du sport.
+
+A l'exclusion du raft. Jusqu'en classe II incluse, avec des passages de classe
+III non successifs.
+
+CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".
+
+Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public,
+sur tout support ou embarcation propulsée à la pagaie dans les conditions
+techniques et de sécurité définies aux articles A. 322-42 et suivants du code du
+sport.
+
+Jusqu'à 1 mille d'un abri. Par vent de force 3 Beaufort maximum sur le site
+d'évolution.
+
+CQP "technicien sportif de rugby à XV ".
+
+Encadrement en autonomie de séances d'entraînement en rugby à XV des catégories
+de moins de 15 ans, jusqu'en fédérale 2.
+
+CQP "animateur de patinoire", option " hockey sur glace".
+
+Encadrement en autonomie de séances d'initiation et de découverte des activités
+en patinoire. Encadrement en autonomie du hockey sur glace jusqu'aux premiers
+niveaux de compétition, pour un public de moins de treize ans.
 
 F.-Diplômes délivrés par le ministère chargé de la santé
 
