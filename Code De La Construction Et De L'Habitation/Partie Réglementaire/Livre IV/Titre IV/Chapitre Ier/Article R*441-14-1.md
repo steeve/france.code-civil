@@ -16,9 +16,9 @@ répondent aux caractéristiques suivantes :
 application de l'article L. 441-1-4 ;
 
 -être dépourvues de logement. Le cas échéant, la commission apprécie la
-situation du demandeur au regard du logement ou de l'hébergement dont il peut
-disposer en vertu de l'obligation d'aliments définie par les articles 205 et
-suivants du code civil ;
+situation du demandeur logé ou hébergé par ses ascendants en tenant notamment
+compte de son degré d'autonomie, de son âge, de sa situation familiale et des
+conditions de fait de la cohabitation portées à sa connaissance ;
 
 -être logées dans des locaux impropres à l'habitation, ou présentant un
 caractère insalubre ou dangereux. Le cas échéant, la commission tient compte des

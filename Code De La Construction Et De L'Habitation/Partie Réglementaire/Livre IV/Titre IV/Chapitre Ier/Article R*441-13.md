@@ -21,12 +21,16 @@ sont désignés par le maire de Paris.
 Le préfet désigne, en outre :
 
 -un représentant des organismes d'habitations à loyer modéré ou des sociétés
-d'économie mixte de construction et de gestion de logements sociaux et un
-représentant des autres propriétaires bailleurs ;
+d'économie mixte de construction et de gestion de logements sociaux ;
+
+- un représentant des organismes intervenant pour le logement des personnes
+défavorisées dans le parc privé et agréés au titre des activités de maîtrise
+d'ouvrage mentionnées à l'article L. 365-2 ou des activités d'intermédiation
+locative et de gestion locative sociale mentionnées à l'article L. 365-4 ;
 
 -un représentant des organismes chargés de la gestion d'une structure
-d'hébergement, d'un établissement ou d'un logement de transition, d'un
-logement-foyer ou d'une résidence hôtelière à vocation sociale ;
+d'hébergement, d'un logement de transition, d'un logement-foyer ou d'une
+résidence hôtelière à vocation sociale ;
 
 -un représentant d'une association de locataires affiliée à une organisation
 siégeant à la commission nationale de concertation mentionnée à l'article 41 de
@@ -42,7 +46,7 @@ Un ou plusieurs suppléants sont désignés, dans les mêmes conditions que le
 titulaire, pour chaque membre, à l'exception de la personnalité qualifiée.
 
 Les membres de la commission et leurs suppléants sont nommés par arrêté du
-préfet pour une durée de trois ans, renouvelable une seule fois. Les membres
+préfet pour une durée de trois ans, renouvelable deux fois. Les membres
 titulaires ou suppléants démissionnaires ou décédés sont remplacés par de
 nouveaux membres nommés, selon les mêmes modalités, pour la durée du mandat
 restant à courir.
