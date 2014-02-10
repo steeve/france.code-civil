@@ -4,7 +4,8 @@ La commission de médiation prévue à l'article L. 441-2-3 est ainsi composée 
 
 -trois représentants de l'Etat, désignés par le préfet ;
 
--un représentant du département désigné par le président du conseil général ;
+-un représentant du département désigné par le président du conseil
+départemental ;
 
 -un représentant des établissements publics de coopération intercommunale qui
 ont conclu l'accord collectif intercommunal mentionné à l'article L. 441-1-1,
