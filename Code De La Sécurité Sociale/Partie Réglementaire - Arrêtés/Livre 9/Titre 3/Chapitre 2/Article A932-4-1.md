@@ -52,20 +52,16 @@ janvier 2007, et à l'aide d'un taux au plus égal au plus élevé des deux taux
 suivants :
 
 a) Un taux obtenu par composition de taux d'intérêt égaux pour les huit
-premières années à 75 % du taux moyen au cours des deux derniers exercices des
+premières années à 75 % du taux moyen au cours des trois derniers exercices des
 emprunts de l'Etat dans la devise duquel sont libellés les engagements relatifs
 au règlement, et à 60 % de ce même taux, dans la limite de 3,5 %, pour les
 exercices suivants ;
 
 b) Un taux de 1,5 %, si ce taux est inférieur à la valeur moyenne, au cours des
-deux derniers exercices, du taux de rendement réel des actifs représentant la
+trois derniers exercices, du taux de rendement réel des actifs représentant la
 provision technique mentionnée à l'article R. 932-4-4, ou, dans le cas
 contraire, la valeur moyenne ainsi déterminée.
 
 Les institutions et les unions peuvent répartir sur une période allant jusqu'à
 l'exercice 2015 inclus les effets sur le calcul de la provision mathématique
 théorique du changement de taux d'intérêt utilisé pour ce calcul.
-
-Les institutions ou unions peuvent répartir sur une période de quinze ans au
-plus les effets sur le niveau de la provision mathématique théorique résultant
-de l'utilisation des tables mentionnées au premier alinéa du IV.
