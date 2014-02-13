@@ -1,17 +1,32 @@
 Article R1341-12
 ----
-La toxicovigilance comporte :
+I.-Les professionnels de santé déclarent sans délai à l'organisme chargé de la
+toxicovigilance territorialement compétent tout cas d'intoxication humaine
+qu'ils constatent et présentant pour la personne intoxiquée l'un des critères de
+gravité suivants :
 
-1° Le signalement par les professionnels de santé et les organismes mentionnés à
-l'article R. 1341-22 de toute information relative aux cas d'intoxications
-aiguës ou chroniques et aux effets toxiques potentiels ou avérés résultant de
-produits ou de substances naturels ou de synthèse ou de situations de pollution,
-à l'exception de celles relevant de systèmes nationaux particuliers de
-vigilance, notamment celui de pharmacovigilance ;
+1° Décès ;
 
-2° L'expertise, l'enregistrement et l'exploitation de ces informations
-scientifiques et statistiques ainsi que de celles détenues par l'organisme agréé
-prévu à l'article L. 1342-1 ;
+2° Mise en jeu du pronostic vital ;
 
-3° La réalisation et le suivi d'études ou de travaux dans le domaine de la
-toxicité pour l'homme d'un produit, d'une substance ou d'une pollution.
+3° Incapacité temporaire ou permanente ;
+
+4° Hospitalisation de plus de vingt-quatre heures.
+
+II.-Les professionnels de santé déclarent en outre :
+
+1° Les cas d'intoxication faisant l'objet des dispositifs de surveillance
+spécialisée mentionnés sur une liste fixée par arrêté du ministre chargé de la
+santé ;
+
+2° Les cas d'intoxication qui, bien que ne répondant pas à l'un des critères
+mentionnés au I, leur paraissent avoir un caractère inhabituel ou présenter un
+risque pour la santé publique.
+
+III.-Les professionnels de santé informent la personne ou, en cas de décès et
+dans le respect des dispositions de l'article L. 1110-4, ses ayants droit de la
+transmission des données de santé la concernant.
+
+IV.-Les dispositions du présent article ne s'appliquent pas lorsque la
+déclaration relève d'un autre système réglementé de vigilance relatif aux
+produits définis aux articles L. 5311-1, L. 5141-1 et R. 1323-1.

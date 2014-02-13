@@ -1,10 +1,8 @@
 Article D6141-42
 ----
-Les centres ont accès, sous réserve des dispositions de l'article R. 1341-10, à
-la composition de toute préparation dans les conditions et selon les modalités
-définies aux articles L. 1341-1 à L. 1343-3 et R. 1341-8 à R. 1341-10.
-
-Ils ont accès, sous réserve des dispositions de l'article R. 1342-20, aux
-informations sur les substances ou préparations dangereuses mentionnées à
-l'article L. 1342-1, dans les conditions et selon les modalités définies aux
-articles R. 1341-8 et R. 1342-19.
+Les centres antipoison ont accès aux données rendues anonymes détenues par les
+agences de sécurité sanitaire définies aux articles L. 1313-1 et L. 5311-1 dans
+le cadre des systèmes de vigilance relatifs aux produits mentionnés aux articles
+L. 5311-1, L. 5141-1 et R. 1323-1 ainsi qu'aux données du système d'information
+de la toxicovigilance dans le respect des dispositions des articles R. 1341-28
+et R. 1341-29.

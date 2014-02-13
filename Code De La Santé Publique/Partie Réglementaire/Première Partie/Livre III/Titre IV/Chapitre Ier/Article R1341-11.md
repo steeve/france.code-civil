@@ -1,5 +1,6 @@
 Article R1341-11
 ----
-La toxicovigilance a pour objet la surveillance des effets toxiques pour l'homme
-d'un produit, d'une substance ou d'une pollution aux fins de mener des actions
-d'alerte, de prévention, de formation et d'information.
+La survenue de tout effet toxique pour l'homme faisant suite à une exposition
+unique ou répétée à un mélange ou une substance, naturelle ou de synthèse,
+disponible sur le marché ou présent dans l'environnement, constitue un cas
+d'intoxication.

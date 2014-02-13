@@ -5,7 +5,7 @@ Haut Conseil de la santé publique par les ministres chargés de l'agriculture, 
 l'industrie et de la santé peuvent notamment :
 
 1° Interdire l'usage de certains types de contenants ou d'emballages pour des
-substances ou préparations dangereuses ;
+substances ou mélanges dangereux ;
 
 2° Rendre obligatoires des systèmes de protection à l'épreuve des enfants et
 refermables ;

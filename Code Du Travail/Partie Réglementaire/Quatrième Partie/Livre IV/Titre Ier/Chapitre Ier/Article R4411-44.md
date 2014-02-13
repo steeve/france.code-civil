@@ -1,24 +1,16 @@
 Article R4411-44
 ----
-Les dispositions de la présente sous-section ne s'appliquent pas aux substances
-et aux mélanges suivants :
+L'organisme mentionné à l'article L. 4411-4 est habilité à fournir à toute
+personne qui en fait la demande et intéressée par la protection des
+travailleurs, notamment au médecin du travail et aux membres des comités
+d'hygiène et de sécurité des conditions de travail, les renseignements qu'il
+détient relatifs :
 
-1° Produits radioactifs auxquels s'applique le titre V du présent livre ;
+1° Aux dangers que présente une substance ou un mélange qui la contient ;
 
-2° Déchets définis au II de l'article L. 541-1 du code de l'environnement ;
+2° Aux précautions à prendre dans son emploi, son stockage, son transport ou son
+élimination ;
 
-3° Médicaments à usage humain ou vétérinaire mentionnés à l'article L. 5111-1 du
-code de la santé publique et produits cosmétiques mentionnés à l'article L.
-5131-1 du même code ;
-
-4° Produits phytopharmaceutiques définis au 1 de l'article 2 du règlement (CE)
-n° 1107/2009 ;
-
-5° Munitions, matières explosives et explosifs ;
-
-6° Denrées alimentaires destinées au consommateur final ;
-
-7° Aliments pour animaux destinés au consommateur final ;
-
-8° Matières fertilisantes et supports de culture au sens du chapitre V du titre
-V du livre II du code rural et de la pêche maritime.
+3° A la nature et à la teneur de toute substance dangereuse contenue dans un
+mélange, à l'exclusion des informations relevant du secret industriel et
+commercial.

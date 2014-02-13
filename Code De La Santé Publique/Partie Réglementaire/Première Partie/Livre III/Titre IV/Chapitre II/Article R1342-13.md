@@ -1,21 +1,13 @@
 Article R1342-13
 ----
-Dans les trente jours qui suivent la première mise sur le marché d'une substance
-ou d'une préparation mentionnée au premier alinéa de l'article L. 1342-1, et
-considérée comme très toxique, toxique ou corrosive en application de l'article
-L. 5132-2, le fabricant, l'importateur ou le vendeur qui a procédé à la mise sur
-le marché de cette substance ou de cette préparation doit adresser à l'organisme
-agréé prévu à l'article L. 1342-1 les informations nécessaires à la prévention
-des effets de ce produit sur la santé et au traitement des affections induites
-par ledit produit.
+La déclaration prévue à l'article L. 1342-1 est établie pour tout mélange classé
+comme dangereux dans les trente jours qui suivent sa mise sur le marché. Elle
+est adressée à un organisme désigné par arrêté des ministres chargés de la
+santé, du travail, de l'environnement et de l'agriculture, qui garantit la
+sécurité des déclarations par voie électronique, la confidentialité de
+l'ensemble des données lors de leur transmission et de leur conservation et le
+respect des dispositions des articles R. 1341-28 et R. 1341-29.
 
-Une fois par an, les fabricants, les importateurs ou les vendeurs adressent,
-s'il y a lieu, à l'organisme agréé une liste actualisée de ces substances et
-préparations qu'ils ont mises sur le marché ainsi que les informations
-correspondantes.
-
-Sur demande de l'organisme agréé et dans les délais fixés par celui-ci en
-fonction des circonstances, en particulier de l'urgence, ils sont en outre tenus
-de fournir, pour toute substance ou préparation figurant sur la liste, les
-éléments complémentaires nécessaires à l'appréciation du risque et
-indispensables au médecin dans le cadre de son intervention.
+La déclaration est transmise par cet organisme aux organismes chargés de la
+toxicovigilance et à l'organisme mentionné à l'article L. 4411-4 du code du
+travail.

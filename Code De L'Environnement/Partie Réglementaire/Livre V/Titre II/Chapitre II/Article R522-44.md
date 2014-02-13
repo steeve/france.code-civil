@@ -1,8 +1,7 @@
 Article R522-44
 ----
-L'organisme agréé, prévu à l'article L. 522-13 pour recevoir les informations
-relatives aux produits biocides mis sur le marché, est désigné par un arrêté
-conjoint des ministres chargés, respectivement, du travail, de l'agriculture, de
-l'environnement et de la santé.
-
-Ces informations sont adressées par voie électronique.
+Les informations relatives aux produits biocides mis sur le marché, mentionnées
+au II de l'article L. 522-2, sont adressées par voie électronique à l'organisme
+désigné par arrêté des ministres chargés de la santé, du travail, de
+l'environnement et de l'agriculture mentionné à l'article R. 1342-13 du code de
+la santé publique.

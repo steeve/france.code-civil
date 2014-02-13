@@ -10,8 +10,7 @@ et L. 5141-2 ;
 
 3° (Abrogé) ;
 
-4° Aux produits phytopharmaceutiques définis au 1 de l'article 2 du règlement
-(CE) n° 1107/2009 ;
+4° (Abrogé) ;
 
 5° Aux denrées alimentaires et leurs composants ;
 

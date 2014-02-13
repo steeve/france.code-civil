@@ -1,20 +1,15 @@
 Article R1341-7
 ----
-L'organisme agréé assure la conservation, l'exploitation et la transmission des
-informations reçues.
+L'organisme mentionné à l'article L. 4411-4 du code du travail et les organismes
+chargés de la toxicovigilance qui ont reçu des informations en application de
+l'article R. 1341-2 du présent code en assurent la conservation, l'exploitation
+et la transmission dans le respect des dispositions des articles R. 1341-28 et
+R. 1341-29.
 
-En cas d'intoxication, il est habilité à communiquer aux médecins des centres
-antipoison inscrits sur la liste nationale prévue à l'article L. 6141-4, tout
-renseignement qu'il détient et notamment la composition des préparations. En cas
-d'intoxication concernant le public, les médecins inspecteurs de santé publique
-et les ingénieurs sanitaires ont accès à la totalité des informations concernant
-les préparations suspectes par l'intermédiaire des médecins des centres
-antipoison.
-
-Lorsqu'est en cause la protection des travailleurs, l'organisme agréé est
-également habilité à fournir ces mêmes renseignements aux inspecteurs du
-travail, aux médecins inspecteurs du travail, aux ingénieurs conseils des
-caisses d'assurance retraite et de la santé au travail mentionnés à l'article R.
-422-4 du code de la sécurité sociale et aux agents chargés du contrôle de la
-prévention, agréés et assermentés, mentionnés à l'article L. 724-8 du code rural
-et de la pêche maritime.
+En cas d'intoxication, le personnel désigné au sein des agences régionales de
+santé et ayant qualité de médecin, pharmacien ou ingénieur peut avoir accès par
+l'intermédiaire des organismes chargés de la toxicovigilance et dans les
+conditions assurant la confidentialité des données, à tout renseignement utile
+concernant les substances et les mélanges suspects. S'il s'agit de données
+couvertes par le secret médical, seuls des médecins ainsi désignés peuvent y
+avoir accès.
