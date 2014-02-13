@@ -1,6 +1,8 @@
 Article D4261-7
 ----
-Le secrétaire général du conseil supérieur et son adjoint sont désignés par
-arrêté du ministre de la défense, pour un mandat de deux ans renouvelable. Ils
-exercent ces fonctions à temps plein. Le secrétaire général peut être suppléé
-dans ses fonctions par son adjoint.
+L'assemblée plénière est composée de l'ensemble des membres du Conseil supérieur
+de la réserve militaire.
+
+Le ministre de la défense et le secrétaire général du conseil supérieur peuvent
+demander la participation, avec voix consultative, de toute personne dont le
+concours peut être utile aux travaux de l'assemblée plénière.

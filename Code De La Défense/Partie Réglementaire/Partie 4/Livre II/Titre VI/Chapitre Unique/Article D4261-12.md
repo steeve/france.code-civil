@@ -1,6 +1,10 @@
 Article D4261-12
 ----
-Le ministre de la défense et le secrétaire général du conseil supérieur peuvent
-demander la participation, avec voix consultative, de toute personne dont le
-concours peut être utile aux travaux du conseil supérieur et du conseil
-restreint.
+Les délibérations de l'assemblée plénière, du conseil restreint, de la
+commission de la consultation, de la commission du partenariat, de la commission
+de la promotion de l'esprit de défense et des groupes de travail ne sont pas
+publiques.
+
+Tout membre, ou toute personne appelée à participer aux séances et travaux du
+conseil supérieur, est soumis à l'obligation de discrétion pour tous les faits
+et documents dont il a connaissance en cette qualité ou dans ce cadre.

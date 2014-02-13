@@ -1,9 +1,15 @@
 Article D4261-17
 ----
-L'assemblée plénière délibère valablement sur l'ordre du jour, quel que soit le
-nombre des membres présents. Elle émet des avis ou des recommandations à la
-majorité des suffrages exprimés. Un procès-verbal est établi après chaque séance
-de l'assemblée plénière et transmis dans le délai de quinze jours aux membres du
-Conseil supérieur. Il y est fait mention des votes ou des avis divergents. Ce
-procès-verbal est signé par l'autorité qui a présidé la séance et contresigné
-par le secrétaire général ou son adjoint.
+Le conseil restreint :
+
+1° Prépare les travaux de l'assemblée plénière ;
+
+2° Approuve le projet de rapport annuel évaluant l'état de la réserve militaire,
+préparé par le secrétaire général ;
+
+3° Définit et coordonne les actions de la commission de la consultation, de la
+commission du partenariat, de la commission de la promotion de l'esprit de
+défense et des groupes de travail ;
+
+4° Propose au ministre de la défense le thème de la journée nationale du
+réserviste.

@@ -1,6 +1,14 @@
 Article D4261-16
 ----
-L'ordre du jour de l'assemblée plénière est fixé par le président sur
-proposition du conseil restreint. Sauf urgence, il est adressé aux intéressés un
-mois au moins avant la date de l'assemblée. Les demandes d'avis du ministre de
-la défense sont inscrites par priorité à l'ordre du jour.
+L'assemblée plénière délibère valablement sur l'ordre du jour, quel que soit le
+nombre des membres présents.
+
+Elle émet des avis ou des recommandations, adoptés à la majorité des suffrages
+exprimés.
+
+Un procès-verbal est établi après chaque séance de l'assemblée plénière.
+
+Il est transmis dans un délai de quinze jours aux membres du conseil supérieur.
+Il y est fait mention des votes ou des avis divergents. Ce procès-verbal est
+signé par l'autorité qui a présidé la séance et contresigné par le secrétaire
+général ou son adjoint.

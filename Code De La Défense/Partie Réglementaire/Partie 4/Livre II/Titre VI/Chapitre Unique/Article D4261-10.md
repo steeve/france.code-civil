@@ -1,9 +1,19 @@
 Article D4261-10
 ----
-Le secrétaire général du conseil supérieur ou le conseil restreint peuvent
-constituer des groupes de travail chargés d'examiner des questions spécifiques.
-Ces groupes de travail sont constitués pour une durée de six mois maximum. Ils
-comprennent des personnalités désignées en raison de leurs compétences dans le
-domaine traité. Ces personnalités peuvent être choisies hors du conseil
-supérieur, avec l'accord du secrétaire général. Les responsables des groupes de
-travail sont désignés par le secrétaire général du conseil supérieur.
+Les membres des collèges définis à l'article D. 4261-2 siègent dans une ou
+plusieurs des commissions du Conseil supérieur de la réserve militaire. Ces
+commissions sont :
+
+1° La commission de la consultation ;
+
+2° La commission du partenariat ;
+
+3° La commission de la promotion de l'esprit de défense.
+
+Les membres de ces commissions sont nommés par le secrétaire général du conseil
+supérieur sur proposition du conseil restreint parmi les membres volontaires du
+Conseil supérieur de la réserve militaire.
+
+Le ministre de la défense et le secrétaire général du conseil supérieur peuvent
+demander la participation, avec voix consultative, de toute personne dont le
+concours peut être utile aux travaux d'une de ces commissions.
