@@ -14,7 +14,7 @@ alinéa de l'article L. 611-6.
 
 Les administrations financières, les organismes de sécurité sociale, les
 institutions gérant le régime d'assurance chômage prévu par les articles L.
-351-3 et suivants du code du travail et les institutions régies par le livre IX
+5422-1 et suivants du code du travail et les institutions régies par le livre IX
 du code de la sécurité sociale peuvent consentir des remises de dettes dans les
 conditions fixées à l'article L. 626-6 du présent code. Des cessions de rang de
 privilège ou d'hypothèque ou l'abandon de ces sûretés peuvent être consenties

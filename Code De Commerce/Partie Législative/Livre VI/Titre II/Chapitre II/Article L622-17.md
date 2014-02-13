@@ -8,15 +8,15 @@ payées à leur échéance.
 II.-Lorsqu'elles ne sont pas payées à l'échéance, ces créances sont payées par
 privilège avant toutes les autres créances, assorties ou non de privilèges ou
 sûretés, à l'exception de celles garanties par le privilège établi aux articles
-L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail, des frais de
-justice nés régulièrement après le jugement d'ouverture pour les besoins du
-déroulement de la procédure et de celles garanties par le privilège établi par
-l'article L. 611-11 du présent code.
+L. 3253-2, L. 3253-4 et L. 7313-8 du code du travail, des frais de justice nés
+régulièrement après le jugement d'ouverture pour les besoins du déroulement de
+la procédure et de celles garanties par le privilège établi par l'article L.
+611-11 du présent code.
 
 III.-Leur paiement se fait dans l'ordre suivant :
 
 1° Les créances de salaires dont le montant n'a pas été avancé en application
-des articles L. 143-11-1 à L. 143-11-3 du code du travail ;
+des articles L. 3253-6, L. 3253-8 à L. 3253-12 du code du travail ;
 
 2° Les prêts consentis ainsi que les créances résultant de l'exécution des
 contrats poursuivis conformément aux dispositions de l'article L. 622-13 et dont

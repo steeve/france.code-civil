@@ -8,11 +8,11 @@ titre III du présent livre relatives aux nullités de certains actes s'applique
 
 Toutefois, pour l'application de l'article L. 625-1, le liquidateur cité devant
 le conseil de prud'hommes ou, à défaut, le demandeur appelle devant la
-juridiction prud'homale les institutions visées à l'article L. 143-11-4 du code
+juridiction prud'homale les institutions visées à l'article L. 3253-14 du code
 du travail.
 
 Pour l'application de l'article L. 625-3 du présent code, les institutions
-mentionnées à l'article L. 143-11-4 du code du travail sont mises en cause par
-le liquidateur ou, à défaut, par les salariés requérants, dans les dix jours du
+mentionnées à l'article L. 3253-14 du code du travail sont mises en cause par le
+liquidateur ou, à défaut, par les salariés requérants, dans les dix jours du
 jugement d'ouverture de la procédure de liquidation judiciaire ou du jugement la
 prononçant.

@@ -17,7 +17,7 @@ ou cédé un bien en garantie.
 
 L'action en relevé de forclusion ne peut être exercée que dans le délai de six
 mois. Ce délai court à compter de la publication du jugement d'ouverture ou,
-pour les institutions mentionnées à l'article L. 143-11-4 du code du travail, de
+pour les institutions mentionnées à l'article L. 3253-14 du code du travail, de
 l'expiration du délai pendant lequel les créances résultant du contrat de
 travail sont garanties par ces institutions. Pour les créanciers titulaires
 d'une sûreté publiée ou liés au débiteur par un contrat publié, il court à
