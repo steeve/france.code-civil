@@ -138,7 +138,7 @@ donner des consultations au titre du décret du 29 octobre 1936 relatif aux
 cumuls de retraites, de rémunérations et de fonctions, dans le cadre d'activités
 de recherche et d'innovation, ainsi que ceux qui sont autorisés à apporter leur
 concours scientifique à une entreprise qui assure la valorisation de leurs
-travaux au titre de l'article L. 413-8 du code de la recherche. Toutefois, ces
+travaux au titre de l'article L. 531-8 du code de la recherche. Toutefois, ces
 dispositions ne sont pas applicables, sur leur demande, aux personnes inscrites
 auprès des unions de recouvrement des cotisations de sécurité sociale et
 d'allocations familiales en qualité de travailleurs indépendants lorsque

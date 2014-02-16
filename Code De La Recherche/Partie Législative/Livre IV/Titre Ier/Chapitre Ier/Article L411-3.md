@@ -11,7 +11,7 @@ recherche au sein du même organisme, entre les services publics de toute nature
 les différents établissements publics de recherche et les établissements
 d'enseignement supérieur, et entre ces services et établissements et les
 entreprises. Les missions réalisées dans le cadre du dispositif prévu aux
-articles L. 413-1 et suivants sont intégrées à l'évaluation du personnel de
+articles L. 531-1 et suivants sont intégrées à l'évaluation du personnel de
 recherche lors de sa réintégration au sein de son corps d'origine.
 
 Ces statuts doivent permettre aux chercheurs, tout en poursuivant leurs travaux

@@ -18,7 +18,7 @@ mise en valeur de l'environnement, afin notamment de favoriser une gestion
 durable de la pêche maritime et des élevages marins ;
 
 e) D'exercer, dans le secteur de la pêche maritime et des élevages marins, les
-fonctions prévues à l'article L. 342-2 du code de la recherche ;
+fonctions prévues à l'article L. 521-2 du code de la recherche ;
 
 f) D'émettre des avis sur les questions dont il peut être saisi dans le cadre de
 l'élaboration des dispositions législatives et réglementaires applicables aux

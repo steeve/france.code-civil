@@ -13,7 +13,7 @@ portant dispositions statutaires relatives à la fonction publique hospitalière
 de la corruption et à la transparence de la vie économique et des procédures
 publiques ;
 
-4° Les articles L. 413-1 à L. 413-16 du code de la recherche.
+4° Les articles L. 531-1 à L. 531-16 du code de la recherche.
 
 II.-Les dispositions d'application de l'article 25 de la loi n° 83-634 du 13
 juillet 1983 précitée aux personnels mentionnés aux 1° à 4° de l'article L.
