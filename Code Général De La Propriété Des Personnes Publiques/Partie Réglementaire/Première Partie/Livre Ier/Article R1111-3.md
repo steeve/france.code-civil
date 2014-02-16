@@ -2,8 +2,8 @@ Article R1111-3
 ----
 La remise, au titre de la dation en paiement prévue par le code général des
 impôts, est effectuée selon la procédure fixée par les articles 384 A, 384 A
-bis, 384 A ter et 384 A quater de l'annexe II de ce même code pour les
-catégories de biens suivantes :
+bis, 384 A ter de l'annexe II de ce même code pour les catégories de biens
+suivantes :
 
 1° Les œuvres d'art, livres, objets de collection et documents, de haute valeur
 artistique ou historique ;

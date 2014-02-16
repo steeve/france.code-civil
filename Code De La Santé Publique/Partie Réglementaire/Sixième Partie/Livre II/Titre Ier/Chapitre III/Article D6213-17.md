@@ -6,5 +6,4 @@ se soumettent pas habituellement aux contrôles de qualité correspondant à leu
 activité.
 
 Le ministre peut demander à l'agence communication des résultats d'un
-laboratoire déterminé ; dans ce cas, ils sont accompagnés d'un avis de la
-commission du contrôle de qualité.
+laboratoire déterminé.

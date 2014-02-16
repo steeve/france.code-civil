@@ -28,8 +28,7 @@ départements de France ;
 Les représentants des ministres sont nommés sur proposition de chacun d'entre
 eux ;
 
-4° Le président du Conseil supérieur des transports terrestres et de
-l'intermodalité ;
+4° (Abrogé) ;
 
 5° Trois représentants des entreprises de transport aérien désignés après avis
 des organisations professionnelles intéressées ;

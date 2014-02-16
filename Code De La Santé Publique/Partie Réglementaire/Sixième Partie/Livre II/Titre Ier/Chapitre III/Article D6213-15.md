@@ -7,6 +7,4 @@ Le directeur général de l'Agence nationale de sécurité du médicament et des
 produits de santé dresse annuellement un rapport sur l'activité de l'agence dans
 le domaine du contrôle de qualité comportant notamment un état détaillé des
 charges de fonctionnement afférentes à ce contrôle. Ce rapport est adressé au
-ministre chargé de la santé et communiqué également à la Commission du contrôle
-de qualité des analyses et à la Commission nationale permanente de biologie
-médicale.
+ministre chargé de la santé.
