@@ -9,7 +9,8 @@ prévues ci-dessous sans entraîner de gêne pour l'exécution du service
 hospitalier ou pour les autres malades.
 
 Le chef de l'établissement pénitentiaire doit donner également tous
-renseignements utiles à l'autorité préfectorale pour la mettre en mesure de
-prescrire l'escorte et la garde du détenu hospitalisé par les services de police
-ou de gendarmerie et, d'une façon générale, pour arrêter les mesures propres à
-éviter tout incident compte tenu de la personnalité du sujet.
+renseignements utiles au préfet de département ou, dans le département des
+Bouches-du-Rhône, au préfet de police des Bouches-du-Rhône pour la mettre en
+mesure de prescrire l'escorte et la garde du détenu hospitalisé par les services
+de police ou de gendarmerie et, d'une façon générale, pour arrêter les mesures
+propres à éviter tout incident compte tenu de la personnalité du sujet.

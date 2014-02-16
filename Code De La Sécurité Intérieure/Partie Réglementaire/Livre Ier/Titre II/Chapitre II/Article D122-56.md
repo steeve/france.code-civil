@@ -1,11 +1,12 @@
 Article D122-56
 ----
-Le comité départemental de sécurité, placé auprès du préfet de département, et,
-à Paris, auprès du préfet de police, concourt à la mise en œuvre, dans le
-département, de la politique publique en matière de sécurité intérieure. Il est
-régi par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin
-2006 relatif à la réduction du nombre et à la simplification de la composition
-de diverses commissions administratives.
+Le comité départemental de sécurité, placé auprès du préfet de département, à
+Paris auprès du préfet de police et, dans le département des Bouches-du-Rhône,
+auprès du préfet de police des Bouches-du-Rhône, concourt à la mise en œuvre,
+dans le département, de la politique publique en matière de sécurité intérieure.
+Il est régi par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7
+juin 2006 relatif à la réduction du nombre et à la simplification de la
+composition de diverses commissions administratives.
 
 Il a notamment pour attributions :
 

@@ -1,7 +1,8 @@
 Article D234
 ----
 Le conseil d'évaluation est présidé par le préfet du département dans lequel est
-situé l'établissement pénitentiaire.
+situé l'établissement pénitentiaire ou, dans le département des
+Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 Le président du tribunal de grande instance dans le ressort duquel est situé
 l'établissement et le procureur de la République près ledit tribunal sont

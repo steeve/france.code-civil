@@ -3,8 +3,9 @@ Article R*1311-25
 Le préfet de zone préside le comité de défense de zone.
 
 Ce comité comprend le préfet délégué pour la défense et la sécurité, les préfets
-des départements, le directeur régional des finances publiques dont la
-circonscription comprend le chef-lieu de la zone de défense et de sécurité,
+des départements et, dans la zone de défense et de sécurité Sud, le préfet de
+police des Bouches-du-Rhône, le directeur régional des finances publiques dont
+la circonscription comprend le chef-lieu de la zone de défense et de sécurité,
 l'officier général de zone de défense et de sécurité, s'il y a lieu le général
 commandant la région terre et l'amiral commandant la région maritime, le général
 commandant la défense aérienne et les opérations aériennes, le général
