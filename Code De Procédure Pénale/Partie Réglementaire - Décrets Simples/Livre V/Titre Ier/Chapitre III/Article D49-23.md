@@ -1,7 +1,7 @@
 Article D49-23
 ----
 Conformément aux dispositions de l'article 712-21, et sous réserve des
-dispositions des deux derniers alinéas du présent article et de l'article D.
+dispositions des trois derniers alinéas du présent article et de l'article D.
 147-15, les mesures de réduction de peine entraînant la libération immédiate du
 condamné, de permission de sortir, de placement à l'extérieur, de semi-liberté,
 de fractionnement et suspension des peines, de placement sous surveillance
@@ -20,8 +20,8 @@ suivi socio-judiciaire est encouru :
 concubin de la victime ou le partenaire lié à celle-ci par un pacte civil de
 solidarité, ou par son ancien conjoint, son ancien concubin ou l'ancien
 partenaire lié à celle-ci par un pacte civil de solidarité, prévus par les
-articles 222-8 (6°),222-10 (6°),222-12 (6°),222-13 (6°),222-14 et 222-18-3 du
-code pénal ;
+articles 222-8 (6°), 222-10 (6°), 222-12 (6°), 222-13 (6°), 222-14 et 222-18-3
+du code pénal ;
 
 4° Les crimes et délits de violences commis sur un mineur de quinze ans par un
 ascendant légitime, naturel ou adoptif ou par toute autre personne ayant
@@ -56,7 +56,7 @@ condamné une expertise datant de moins de deux ans, y compris si celle-ci a ét
 réalisée avant la condamnation.
 
 Sauf lorsqu'il s'agit d'une condamnation prononcée pour une infraction
-mentionnée à l'article 706-47 et qui est visée aux 2°,5°,6° et 9° ci-dessus ou
+mentionnée à l'article 706-47 et qui est visée aux 2°, 5°, 6° et 9° ci-dessus ou
 constitue un meurtre ou un assassinat commis sur un mineur ou en récidive
 légale, le juge de l'application des peines peut également, avec l'accord du
 procureur de la République, ordonner par ordonnance motivée une permission de
@@ -64,6 +64,15 @@ sortir sans expertise préalable ; il en est de même pour les autres décisions
 d'aménagement de la peine, par ordonnance ou jugement spécialement motivé
 faisant état de la non-nécessité d'une expertise au regard des circonstances de
 l'infraction et de la personnalité de son auteur.
+
+En outre, quel que soit le délit ou le crime pour lequel la personne a été
+condamnée, le juge de l'application des peines peut, en cas d'urgence et avec
+l'accord du procureur de la République, ordonner sans expertise psychiatrique
+préalable une mesure de suspension de peine conformément aux dispositions de
+l'article 720-1-1 lorsqu'il résulte d'un certificat médical, établi par le
+médecin responsable de la structure sanitaire dans laquelle la personne est
+prise en charge ou par son remplaçant, que le pronostic vital de la personne est
+engagé.
 
 En cas de condamnations multiples, si la peine prononcée pour une infraction
 mentionnée aux 1° à 10° a déjà été exécutée en totalité, les dispositions de
