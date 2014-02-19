@@ -62,7 +62,18 @@ situation économique et sociale des habitants et futurs habitants et de son
 évolution prévisible. Cette typologie doit notamment préciser l'offre de
 logements locatifs sociaux (prêts locatifs sociaux et prêts locatifs à usage
 social) et très sociaux (prêts locatifs aidés d'intégration) ainsi que l'offre
-privée conventionnée ANAH sociale et très sociale ;
+privée conventionnée ANAH sociale et très social. Cette typologie peut également
+préciser, dans les secteurs mentionnés à l'article L. 302-16, l'offre de
+logements intermédiaires définie à cet article. Pour l'application de cette
+disposition, les logements appartenant à un organisme d'habitation à loyer
+modéré ou à une société d'économie mixte mentionnée à l'article L. 481-1 dont le
+loyer prévu au bail est au plus égal aux plafonds fixés au titre IX du livre
+III, et destinés à des personnes de revenu intermédiaire dont les ressources ne
+dépassent pas les plafonds fixés au titre IX du livre III, ainsi que les
+logements financés à l'aide d'un prêt mentionné à ce même titre IX, sont
+assimilés à des logements intermédiaires au sens de l'article L. 302-16
+lorsqu'ils ont été achevés ou ont fait l'objet d'une demande de permis de
+construire déposée avant le 1er mars 2014 ;
 
 -les réponses apportées aux besoins particuliers des personnes mal logées,
 défavorisées ou présentant des difficultés particulières ;

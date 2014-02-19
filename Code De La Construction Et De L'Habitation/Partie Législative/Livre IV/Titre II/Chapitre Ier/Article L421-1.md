@@ -80,5 +80,92 @@ pour les mêmes immeubles ;
 et aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de
 vente d'immeuble à construire prévu aux articles L. 261-1 et suivants.
 
+Les offices publics de l'habitat ont aussi pour objet de créer des filiales qui
+auront pour seul objet de construire et gérer, dans les communes appartenant à
+une zone d'urbanisation continue de plus de 50 000 habitants telle que définie à
+l'article 232 du code général des impôts ainsi que dans les communes de plus de
+15 000 habitants en forte croissance démographique définies par décret pris en
+application du septième alinéa de l'article L. 302-5 du présent code, des
+logements locatifs intermédiaires :
+
+1° Faisant l'objet d'une aide directe ou indirecte, sous quelque forme que ce
+soit, accordée par l'Etat, une collectivité locale ou l'un de ses groupements,
+ou par toute autre personne morale et conditionnée au respect, pendant une
+certaine durée, des conditions prévues aux 2° et 3° ;
+
+2° Destinés à être occupés, à titre de résidence principale, pendant la durée
+fixée lors de l'attribution de l'aide mentionnée au 1°, par des personnes
+physiques dont les ressources n'excèdent pas des plafonds, fixés par décret en
+fonction de la typologie du ménage, de la localisation et du mode d'occupation
+du logement, lesquels ne sauraient être inférieurs aux plafonds prévus au
+chapitre unique du titre III du livre III ;
+
+3° Dont le loyer, n'excède pas, pendant la durée mentionnée au 2°, des plafonds
+fixés par décret en fonction de la localisation du logement, de son type et, le
+cas échéant, de son mode de financement, lesquels ne sauraient être inférieurs
+aux plafonds prévus au chapitre unique du titre III du livre III.
+
+Le ministre chargé du logement peut s'opposer, selon des modalités fixées par
+décret en Conseil d'Etat, à la création de telles filiales si celle-ci est de
+nature à porter atteinte à la capacité de l'organisme mère de remplir ses
+missions en matière de logement social, notamment de construction et de
+rénovation de logements locatifs sociaux. A défaut d'opposition motivée du
+ministre dans un délai de trois mois à compter de la transmission de la décision
+de création, cette dernière est exécutoire.
+
+Ces filiales ne peuvent pas elles-mêmes créer d'autres filiales. Elles peuvent
+prendre des participations dans des sociétés ayant pour objet la construction et
+la gestion de logements intermédiaires définis aux 1° à 3° ci-dessus lorsqu'une
+telle participation leur permet d'exercer un contrôle conjoint sur cette société
+dans les conditions mentionnées à l'article L. 233-3 du code de commerce.
+
+Ces filiales ne peuvent avoir d'administrateurs communs avec ceux de l'office
+actionnaire, à l'exclusion des personnes représentant les collectivités
+territoriales ou leurs groupements. Il en va de même des sociétés contrôlées par
+ces filiales.
+
+Pour la constitution du capital de la filiale :
+
+a) L'office public de l'habitat peut apporter en nature, au vu d'un rapport
+annexé aux statuts et établi sous sa responsabilité par un commissaire aux
+apports désigné à l'unanimité des futurs associés ou à défaut par une décision
+de justice à la demande du futur associé le plus diligent, les logements
+intermédiaires qu'il possède répondant aux conditions mentionnées aux 1° à 3°
+ci-dessus. Toute autre forme de concours financier ne peut être issue que des
+activités ne relevant pas du service d'intérêt général défini à l'article L.
+411-2.
+
+Pour l'application de l'alinéa précédent, les logements appartenant à un office
+public de l'habitat dont le loyer prévu au bail est au plus égal aux plafonds
+fixés au titre IX du livre III, et destinés à des personnes de revenu
+intermédiaire dont les ressources ne dépassent pas les plafonds fixés au titre
+IX du livre III ainsi que les logements financés à l'aide d'un prêt mentionné à
+ce même titre IX sont assimilés à des logements intermédiaires définis aux 1° à
+3° ci-dessus lorsqu'ils ont fait l'objet d'une demande de permis de construire
+déposée avant le 1er mars 2014 ;
+
+b) Lorsque les conditions mentionnées au a ne sont pas réunies, le capital de la
+filiale créée par l'office public de l'habitat est fixé à un euro. Les fonds
+propres nécessaires au financement de l'activité sont apportés par les associés
+n'ayant pas le statut d'organismes d'habitations à loyer modéré ou par des tiers
+sous forme d'avances en comptes courants ou de prêts participatifs.
+
+Le représentant de l'Etat dans la région peut s'opposer, selon des modalités
+fixées par décret en Conseil d'Etat, à une augmentation de capital de la filiale
+réalisée par l'organisme mère si les conditions fixées aux a et b ci-dessus ne
+sont pas respectées ou si cette opération est de nature à porter atteinte à la
+capacité de cet organisme de remplir ses missions en matière de logement social,
+notamment de construction et de rénovation de logements locatifs sociaux. A
+défaut d'opposition motivée du représentant de l'Etat dans la région dans un
+délai de trois mois à compter de la transmission de la décision d'augmentation
+de capital, cette dernière est exécutoire.
+
+Les autres formes de concours financiers à la filiale opérés par l'organisme
+mère autres que l'augmentation de capital doivent respecter les conditions du
+marché et donner obligatoirement lieu à remboursement. Toute prestation réalisée
+par l'organisme mère pour le compte de la filiale est opérée à un prix qui ne
+peut être inférieur au prix de revient et doit faire l'objet d'une convention
+réglementée.
+
 Un décret en Conseil d'Etat précise les attributions des offices publics de
 l'habitat et détermine les modalités de leur fonctionnement.

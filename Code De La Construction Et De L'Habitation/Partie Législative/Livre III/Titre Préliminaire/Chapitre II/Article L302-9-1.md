@@ -51,3 +51,8 @@ la subvention foncière versée par l'Etat dans le cadre de la convention, sans
 que cette contribution puisse excéder la limite de 13 000 € par logement
 construit ou acquis en Ile-de-France et 5 000 € par logement construit ou acquis
 sur le reste du territoire.
+
+Lorsqu'une commune fait l'objet d'un arrêté préfectoral de carence au titre du
+présent article, les dispositions relatives à l'offre de logement intermédiaire
+prévues par les documents de planification et de programmation sont privées
+d'effet.
