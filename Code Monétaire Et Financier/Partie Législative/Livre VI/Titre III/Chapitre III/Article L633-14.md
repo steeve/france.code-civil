@@ -28,7 +28,7 @@ dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen
 les autorités compétentes concernées peuvent également appliquer d'autres
 méthodes qu'elles jugent appropriées. Ces méthodes doivent avoir été validées
 par l'Autorité de contrôle prudentiel et de résolution, lorsqu'elle remplit les
-conditions fixées par l'article L. 334-9 pour être coordonnateur, après
+conditions fixées par l'article L. 633-2 pour être coordonnateur, après
 consultation des autres autorités compétentes concernées. Les autorités
 compétentes concernées peuvent notamment exiger la constitution d'une compagnie
 financière holding mixte ayant son siège social dans un Etat membre ou dans un

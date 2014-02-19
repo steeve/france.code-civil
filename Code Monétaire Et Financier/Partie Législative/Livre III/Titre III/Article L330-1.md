@@ -32,7 +32,7 @@ financiers :
 
 1° Les établissements de crédit et les entreprises d'investissement ayant leur
 siège social ou, à défaut de siège social, leur direction effective dans un Etat
-membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
 l'Espace économique européen ;
 
 2° Les institutions ou entreprises mentionnées à l'article L. 518-1 ;
@@ -54,16 +54,16 @@ activité, d'exercice et de contrôle équivalentes à celles en vigueur en Fran
 
 L'accès des établissements de crédit et des entreprises d'investissement ayant
 leur siège social ou, à défaut de siège social, leur direction effective dans un
-autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord
-sur l'Espace économique européen est soumis aux mêmes critères non
-discriminatoires, transparents et objectifs que ceux qui s'appliquent aux
-participants ayant leur siège social en France.
+autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur
+l'Espace économique européen est soumis aux mêmes critères non discriminatoires,
+transparents et objectifs que ceux qui s'appliquent aux participants ayant leur
+siège social en France.
 
 Un système de règlement et de livraison d'instruments financiers peut refuser,
 pour des raisons commerciales légitimes, l'accès d'un établissement de crédit ou
 d'une entreprise d'investissement ayant leur siège social ou, à défaut de siège
-social, leur direction effective dans un autre Etat membre de la Communauté
-européenne ou un autre Etat partie à l'accord sur l'Espace économique européen.
+social, leur direction effective dans un autre Etat membre de l'Union européenne
+ou un autre Etat partie à l'accord sur l'Espace économique européen.
 
 Lorsqu'une procédure de sauvegarde, de redressement ou de liquidation judiciaire
 est ouverte à l'encontre d'un participant à un système de règlement

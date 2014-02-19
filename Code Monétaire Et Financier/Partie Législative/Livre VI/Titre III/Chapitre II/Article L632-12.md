@@ -5,8 +5,8 @@ peuvent être étendus aux personnes morales mentionnées à l'article L. 612-26
 situées dans un autre Etat membre de l'Union européenne ou dans un autre Etat
 partie à l'accord sur l'Espace économique européen. L'Autorité demande aux
 autorités compétentes de l'autre Etat membre de l'Union européenne ou de l'autre
-Etat partie à l'accord sur l'Espace économique européen qu'elles procèdent à
-cette vérification. Avec l'autorisation de ces autorités, elle peut désigner des
+Etat partie à l'accord sur l'Espace économique européen qu'elles procèdent à ces
+contrôles. Avec l'autorisation de ces autorités, elle peut désigner des
 représentants pour procéder aux contrôles. Lorsqu'elle ne procède pas elle-même
 à la vérification, l'Autorité de contrôle prudentiel peut, si elle le souhaite,
 y être associée.

@@ -4,7 +4,7 @@ Dans les conditions fixées par décret en Conseil d'Etat, sont assimilés aux
 prêts et expositions mentionnés aux articles L. 513-3 et L. 513-4 les parts et
 titres de créances émis par des organismes de titrisation ainsi que les parts ou
 titres de créances émis par des entités similaires soumises au droit d'un Etat
-membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+membre de l'Union européenne ou partie à l'accord sur l'Espace économique
 européen, des Etats Unis d'Amérique, de la Suisse, du Japon, du Canada, de
 l'Australie ou de la Nouvelle-Zélande, dès lors que les conditions suivantes
 sont respectées :
@@ -25,7 +25,7 @@ supportant le risque de défaillance des débiteurs de créances ;
 établi par un organisme externe d'évaluation reconnu par l'Autorité de contrôle
 prudentiel conformément à l'article L. 511-44 ;
 
-3. Ces entités similaires doivent être soumises au droit d'un Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen dès
+3. Ces entités similaires doivent être soumises au droit d'un Etat membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen dès
 lors que l'actif est constitué pour tout ou partie de prêts ou expositions
 mentionnés à l'article L. 513-3.

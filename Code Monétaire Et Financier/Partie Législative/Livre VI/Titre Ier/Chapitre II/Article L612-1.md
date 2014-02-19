@@ -1,6 +1,6 @@
 Article L612-1
 ----
-I.-L'Autorité de contrôle prudentiel et de résolution, autorité administrative
+I. - L'Autorité de contrôle prudentiel et de résolution, autorité administrative
 indépendante, veille à la préservation de la stabilité du système financier et à
 la protection des clients, assurés, adhérents et bénéficiaires des personnes
 soumises à son contrôle.
@@ -13,7 +13,7 @@ du code de la mutualité, du livre III du code de la consommation, des codes de
 conduite homologués ainsi que de toute autre disposition législative et
 réglementaire dont la méconnaissance entraîne celle des dispositions précitées.
 
-II.-Elle est chargée :
+II. - Elle est chargée :
 
 1° D'examiner les demandes d'autorisations ou de dérogations individuelles qui
 lui sont adressées et de prendre les décisions prévues par les dispositions
@@ -29,7 +29,7 @@ règlement ;
 2° D'exercer une surveillance permanente de la situation financière et des
 conditions d'exploitation des personnes mentionnées au I de l'article L. 612-2 ;
 elle contrôle notamment le respect de leurs exigences de solvabilité ainsi que,
-pour les personnes mentionnées aux 1° à 4° et 8° et 9° du A du I de l'article L.
+pour les personnes mentionnées aux 1° à 4° et 8° à 10° du A du I de l'article L.
 612-2, des règles relatives à la préservation de leur liquidité et, pour les
 personnes mentionnées aux 1° à 3°, 5°, 7° et 8° du B du I du même article,
 qu'elles sont en mesure de tenir à tout moment les engagements qu'elles ont pris
@@ -39,7 +39,12 @@ Parlement européen et du Conseil du 4 juillet 2012 précité, elle contrôle
 également le respect des obligations et conditions prévues à l'article 3, au 2
 de l'article 4 et à l'article 11 du même règlement par celles des personnes
 soumises à son contrôle qui sont également des contreparties financières au sens
-du 8 de l'article 2 dudit règlement
+du 8 de l'article 2 dudit règlement ;
+
+2° bis De fixer l'exigence de coussin applicable aux établissements d'importance
+systémique mondiale et aux autres établissements d'importance systémique et de
+veiller au respect de l'exigence globale de coussin de fonds propres définie aux
+articles L. 511-41-1 A et L. 533-2-1 ;
 
 3° De veiller au respect par les personnes soumises à son contrôle des règles
 destinées à assurer la protection de leur clientèle, résultant notamment de
@@ -71,7 +76,7 @@ connaissance du public toute information qu'elle estime nécessaire à
 l'accomplissement de ses missions, sans que lui soit opposable le secret
 professionnel mentionné à l'article L. 612-17.
 
-III.-Dans l'accomplissement de ses missions, l'Autorité de contrôle prudentiel
+III. - Dans l'accomplissement de ses missions, l'Autorité de contrôle prudentiel
 et de résolution prend en compte les objectifs de stabilité financière dans
 l'ensemble de l'Espace économique européen et de mise en œuvre convergente des
 dispositions nationales et communautaires en tenant compte des bonnes pratiques
@@ -79,3 +84,11 @@ et recommandations issues des dispositifs de supervision communautaires. Elle
 coopère avec les autorités compétentes des autres Etats. En particulier, au sein
 de l'Espace économique européen, elle apporte son concours aux structures de
 supervision des groupes transfrontaliers.
+
+IV. - Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968
+relative à la communication de documents et renseignements d'ordre économique,
+commercial, industriel, financier ou technique à des personnes physiques ou
+morales étrangères, l'Autorité de contrôle prudentiel et de résolution peut,
+dans les conditions et limites fixées par décret en Conseil d'Etat, transmettre
+à la Commission européenne des informations couvertes par le secret
+professionnel.

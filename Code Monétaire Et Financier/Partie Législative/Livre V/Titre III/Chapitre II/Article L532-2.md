@@ -15,13 +15,12 @@ montant de leur participation ; l'Autorité apprécie la qualité de ces
 actionnaires au regard de la nécessité de garantir une gestion saine et prudente
 de l'entreprise d'investissement ;
 
-4. Est dirigée effectivement par deux personnes au moins possédant
-l'honorabilité nécessaire et l'expérience adéquate à leur fonction, en vue de
-garantir sa gestion saine et prudente. Un arrêté du ministre chargé de
-l'économie pris conformément à l'article L. 611-3 fixe les conditions dans
-lesquelles une entreprise d'investissement peut, par dérogation, être dirigée
-effectivement par une seule personne. Il précise les mesures qui doivent être
-prises pour garantir la gestion saine et prudente de l'entreprise concernée ;
+4. Est dirigée effectivement par deux personnes au moins. Un arrêté du ministre
+chargé de l'économie pris conformément à l'article L. 611-3 fixe les conditions
+dans lesquelles une entreprise d'investissement peut, par dérogation, être
+dirigée effectivement par une seule personne. Il précise les mesures qui doivent
+être prises pour garantir la gestion saine et prudente de l'entreprise concernée
+;
 
 5. Dispose d'un programme d'activité pour chacun des services qu'elle entend
 exercer qui précise les conditions dans lesquelles elle envisage de fournir les
@@ -43,6 +42,9 @@ l'entreprise et d'autres personnes physiques ou morales, soit par l'existence de
 dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à
 l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de
 ces personnes.
+
+L'Autorité refuse l'agrément si les dispositions des articles L. 533-25 et L.
+533-26 ne sont pas respectées.
 
 L'entreprise d'investissement doit satisfaire à tout moment aux conditions de
 son agrément.

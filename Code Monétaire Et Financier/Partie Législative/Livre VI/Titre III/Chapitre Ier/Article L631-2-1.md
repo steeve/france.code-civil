@@ -23,11 +23,22 @@ systémique et toute menace à la stabilité financière. Il peut rendre publics
 avis ou recommandations ;
 
 4° Il peut, sur proposition du gouverneur de la Banque de France, imposer aux
-personnes définies au 1° et au a du 2° du A du I de l'article L. 612-2 des
-obligations en matière de fonds propres plus contraignantes que les normes de
-gestion arrêtées par le ministre chargé de l'économie au titre du 6 de l'article
-L. 611-1, en vue d'éviter une croissance excessive du crédit ou de prévenir un
-risque aggravé de déstabilisation du système financier ;
+personnes mentionnées au 1° et au 9° du A du I de l'article L. 612-2 ainsi
+qu'aux personnes définies à l'article L. 533-2-1 la mise en place d'un coussin
+contra-cyclique prévu au 1° du II de l'article L. 511-41-1 A et à l'article L.
+533-2-1 ;
+
+4° bis Il peut, sur proposition du gouverneur de la Banque de France, imposer
+aux personnes mentionnées au 1° et au 9° du A du I de l'article L. 612-2 ainsi
+qu'aux personnes définies à l'article L. 533-2-1 la mise en place d'un coussin
+pour le risque systémique prévu au 4° du II de l'article L. 511-41-1 A et à
+l'article L. 533-2-1 ;
+
+4° ter Il peut, sur proposition du gouverneur de la Banque de France, président
+de l'Autorité de contrôle prudentiel et de résolution, prendre les mesures
+prévues à l'article 458 du règlement (UE) n° 575/2013 du Parlement européen et
+du Conseil du 26 juin 2013, à l'égard des entreprises auxquelles cet article est
+applicable ainsi qu'à l'égard des sociétés de financement ;
 
 5° Il peut fixer, sur proposition du gouverneur de la Banque de France, des
 conditions d'octroi de crédit par les personnes soumises au contrôle de
@@ -55,10 +66,12 @@ normes comptables veillent, pour ce qui les concerne, à la mise en œuvre des
 décisions du Haut Conseil de stabilité financière.
 
 Le gouverneur de la Banque de France peut décider de rendre publique la
-proposition qu'il formule au titre des 4° et 5° du présent article.
+proposition qu'il formule au titre des 4° à 5° du présent article.
 
-Les décisions du Haut Conseil de stabilité financière mentionnées aux mêmes 4°
-et 5° peuvent faire l'objet d'un recours en annulation devant le Conseil d'Etat.
+Les décisions du Haut Conseil de stabilité financière mentionnées aux mêmes 4° à
+5° peuvent faire l'objet d'un recours en annulation devant le Conseil d'Etat.
+
+Les décisions mentionnées aux 4° et 4° bis font l'objet d'une publication.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent
 article.

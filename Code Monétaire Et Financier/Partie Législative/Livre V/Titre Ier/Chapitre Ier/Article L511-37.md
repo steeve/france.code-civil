@@ -8,7 +8,9 @@ comptables après avis du Comité consultatif de la législation et de la
 réglementation financières.
 
 L'Autorité de contrôle prudentiel et de résolution s'assure que les publications
-prévues au présent article sont régulièrement effectuées. Elle peut ordonner aux
+prévues au présent article, dans le règlement (UE) n° 575/2013 du Parlement
+européen et du Conseil du 26 juin 2013 et, pour les sociétés de financement, à
+l'article L. 511-99, sont régulièrement effectuées. Elle peut ordonner aux
 personnes mentionnées à l'alinéa précédent de procéder à des publications
 rectificatives dans le cas où des inexactitudes ou des omissions auraient été
 relevées dans les documents publiés.

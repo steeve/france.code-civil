@@ -4,13 +4,11 @@ I. ― Les filiales dédiées à la réalisation des activités mentionnées au 
 l'article L. 511-47 sont agréées par l'Autorité de contrôle prudentiel et de
 résolution comme entreprises d'investissement ou, le cas échéant et par
 dérogation aux dispositions du même article L. 511-47, comme établissements de
-crédit.
-
-Lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de résolution
-en tant qu'établissements de crédit, ces filiales ne peuvent ni recevoir des
-dépôts garantis au sens de l'article L. 312-4 ni fournir des services de
-paiement aux clients dont les dépôts bénéficient de la garantie mentionnée au
-même article L. 312-4.
+crédit. Lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de
+résolution en tant qu'établissements de crédit, ces filiales ne peuvent ni
+recevoir des dépôts garantis au sens de l'article L. 312-4 ni fournir des
+services de paiement aux clients dont les dépôts bénéficient de la garantie
+mentionnée au même article L. 312-4.
 
 Les filiales mentionnées au I de l'article L. 511-47 doivent respecter,
 individuellement ou de manière sous-consolidée, les normes de gestion prévues à
@@ -18,15 +16,15 @@ l'article L. 511-41, dans des conditions fixées par arrêté du ministre charg�
 l'économie.
 
 Sans préjudice des dispositions de l'article L. 511-41-2, les établissements de
-crédit, compagnies financières ou compagnies financières holding mixtes qui
-contrôlent les filiales mentionnées au I de l'article L. 511-47 sont tenus de
-respecter les normes de gestion mentionnées à l'article L. 511-41 sur la base de
-leur situation financière consolidée en excluant de celle-ci les filiales
+crédit, compagnies financières holding ou compagnies financières holding mixtes
+qui contrôlent les filiales mentionnées au I de l'article L. 511-47 sont tenus
+de respecter les normes de gestion mentionnées à l'article L. 511-41 sur la base
+de leur situation financière consolidée en excluant de celle-ci les filiales
 mentionnées au présent article, dans les conditions prévues par arrêté du
 ministre chargé de l'économie.
 
-La souscription par les établissements de crédit, compagnies financières ou
-compagnies financières holding mixtes qui contrôlent ces filiales à une
+La souscription par les établissements de crédit, compagnies financières holding
+ou compagnies financières holding mixtes qui contrôlent ces filiales à une
 augmentation de capital de ces filiales est soumise à autorisation préalable de
 l'Autorité de contrôle prudentiel et de résolution.
 
@@ -43,12 +41,11 @@ qui les contrôlent, de manière à n'entretenir aucune confusion dans l'esprit 
 leurs créanciers et cocontractants.
 
 Les personnes mentionnées à l'article L. 511-13 ou, selon le cas, à l'article L.
-532-2 qui assurent la détermination effective de l'orientation de l'activité de
-ces filiales ne peuvent assurer la détermination effective de l'orientation de
-l'activité, au sens de ces mêmes articles, de l'établissement de crédit, de la
-compagnie financière ou de la compagnie financière holding mixte qui les
-contrôlent, ou de leurs filiales autres que celles mentionnées au présent
-article.
+532-2 qui assurent la direction effective de l'activité de ces filiales ne
+peuvent assurer la direction effective de l'activité, au sens de ces mêmes
+articles, de l'établissement de crédit, de la compagnie financière holding ou de
+la compagnie financière holding mixte qui les contrôlent, ou de leurs filiales
+autres que celles mentionnées au présent article.
 
 II. ― Les filiales mentionnées au I ne peuvent réaliser les opérations suivantes
 :

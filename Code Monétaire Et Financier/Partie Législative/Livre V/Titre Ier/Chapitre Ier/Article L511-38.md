@@ -26,7 +26,10 @@ base consolidée.
 
 Les commissaires aux comptes doivent présenter toutes les garanties
 d'indépendance à l'égard des établissements de crédit, des sociétés de
-financement, des entreprises d'investissement ou des compagnies financières
-contrôlés. Les dispositions du livre VII du code de commerce sont applicables
-aux commissaires aux comptes de tout établissement de crédit, société de
-financement, entreprise d'investissement ou compagnie financière.
+financement, des entreprises d'investissement, des entreprises mères de société
+de financement, des compagnies financières holding ou des compagnies financières
+holding mixtes contrôlés. Les dispositions du livre VII du code de commerce sont
+applicables aux commissaires aux comptes de tout établissement de crédit,
+société de financement, entreprise d'investissement, entreprise mère de société
+de financement, compagnie financière holding ou compagnie financière holding
+mixte.

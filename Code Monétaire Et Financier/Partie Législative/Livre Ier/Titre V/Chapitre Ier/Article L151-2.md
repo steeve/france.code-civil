@@ -16,9 +16,9 @@ c) La constitution et la liquidation des investissements étrangers en France ;
 d) L'importation et l'exportation de l'or ainsi que tous autres mouvements
 matériels de valeurs entre la France et l'étranger ;
 
-2. Prescrire le rapatriement des créances sur l'étranger hors Communauté
-européenne nées de l'exportation de marchandises, de la rémunération de services
-et, d'une manière générale, de tous revenus ou produits à l'étranger ;
+2. Prescrire le rapatriement des créances sur l'étranger hors Union européenne
+nées de l'exportation de marchandises, de la rémunération de services et, d'une
+manière générale, de tous revenus ou produits à l'étranger ;
 
 3. Habiliter des intermédiaires pour réaliser les opérations mentionnées aux 1,
 a et d ci-dessus.

@@ -11,8 +11,8 @@ unique la compensation d'instruments financiers et aux personnes morales ayant
 pour activité principale ou unique la conservation et l'administration
 d'instruments financiers et concernant :
 
-1. Le montant du capital exigé en fonction des services qu'entend exercer le
-prestataire de services d'investissement ;
+1. Le montant du capital initial exigé en fonction des services qu'entend
+exercer le prestataire de services d'investissement ;
 
 2. Les normes mentionnées aux 5,6,7 et 10 et, le cas échéant, 8 de l'article L.
 611-1.

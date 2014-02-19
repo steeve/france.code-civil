@@ -25,8 +25,8 @@ sont liées ;
 
 8° Aux institutions de gestion de retraite supplémentaire qui lui sont liées ;
 
-9° Aux agents et aux personnes auxquelles des fonctions opérationnelles
-importantes ou essentielles sont confiées.
+9° Aux agents et aux personnes auxquelles sont confiées des fonctions ou
+activités opérationnelles.
 
 Les faits recueillis à l'occasion de cette extension du contrôle peuvent être
 communiqués par le secrétaire général à la personne mentionnée au premier alinéa

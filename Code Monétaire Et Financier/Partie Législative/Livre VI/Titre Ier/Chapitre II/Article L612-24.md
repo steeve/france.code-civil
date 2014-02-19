@@ -12,6 +12,24 @@ mission. Il peut demander à ces personnes la communication des rapports des
 commissaires aux comptes et, d'une manière générale, de tous documents
 comptables dont il peut, en tant que de besoin, demander la certification.
 
+Le secrétaire général de l'Autorité de contrôle prudentiel et de résolution peut
+demander aux filiales des établissements de crédit, des entreprises
+d'investissement, des sociétés de financement, des compagnies financières
+holding, des compagnies financières holding mixtes, des compagnies holding
+mixtes, des entreprises mères de société de financement, des entreprises mères
+mixtes de société de financement ainsi qu'aux tiers auprès desquels ces
+personnes ont externalisé des fonctions ou activités opérationnelles tous
+renseignements, documents, quel qu'en soit le support, et en obtenir la copie
+ainsi que tous éclaircissements ou justifications nécessaires à
+l'accomplissement de ses missions.
+
+Le secrétaire général de l'Autorité de contrôle prudentiel et de résolution peut
+également, pour la surveillance d'un établissement de crédit, d'une société de
+financement ou d'une entreprise d'investissement qui n'est pas inclus dans le
+périmètre de consolidation, demander à l'entreprise mère de cet établissement de
+crédit, société de financement ou entreprise d'investissement de lui communiquer
+toute information nécessaire dans les conditions prévues à l'alinéa précédent.
+
 L'Autorité de contrôle prudentiel et de résolution collecte auprès des personnes
 mentionnées au B du I de l'article L. 612-2, pour le compte de l'Institut
 national de la statistique et des études économiques et des services

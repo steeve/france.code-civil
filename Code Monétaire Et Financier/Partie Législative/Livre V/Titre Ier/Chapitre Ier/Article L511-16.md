@@ -22,6 +22,6 @@ prononcé de cette dissolution doivent mentionner la date de la décision de
 retrait d'agrément par l'Autorité de contrôle prudentiel et de résolution.
 Jusqu'à la clôture de sa liquidation, l'entreprise reste soumise au contrôle de
 l'Autorité de contrôle prudentiel et de résolution, qui peut prononcer
-l'ensemble des sanctions prévues à l'article L. 612-39 du présent code. Elle ne
+l'ensemble des sanctions prévues aux articles L. 612-39 ou L. 612-40. Elle ne
 peut faire état de sa qualité d'établissement de crédit ou de société de
 financement, selon les cas, sans préciser qu'elle est en liquidation.

@@ -43,16 +43,16 @@ des caisses d'épargne et des banques populaires.
 
 Les membres du directoire sont proposés par le conseil d'orientation et de
 surveillance. Le directoire de l'organe central des caisses d'épargne et des
-banques populaires s'assure qu'ils présentent l'honorabilité nécessaire et
-l'expérience adéquate pour cette fonction et propose leur agrément au conseil de
-surveillance de l'organe central des caisses d'épargne et des banques
-populaires. Lorsque celui-ci a délivré l'agrément, le conseil d'orientation et
-de surveillance de la caisse d'épargne et de prévoyance procède à la nomination
-des membres du directoire.
+banques populaires s'assure qu'ils disposent de l'honorabilité, des
+connaissances, des compétences et de l'expérience nécessaires à l'exercice de
+cette fonction et propose leur agrément au conseil de surveillance de l'organe
+central des caisses d'épargne et des banques populaires. Lorsque celui-ci a
+délivré l'agrément, le conseil d'orientation et de surveillance de la caisse
+d'épargne et de prévoyance procède à la nomination des membres du directoire.
 
-Sans préjudice de l'application des dispositions de l'article L. 612-39,
-l'agrément peut être retiré par le conseil de surveillance de l'organe central
-des caisses d'épargne et des banques populaires, sur proposition de son
+Sans préjudice de l'application des dispositions de l'article L. 612-39 ou L.
+612-40, l'agrément peut être retiré par le conseil de surveillance de l'organe
+central des caisses d'épargne et des banques populaires, sur proposition de son
 directoire et après consultation du conseil d'orientation et de surveillance de
 la caisse d'épargne et de prévoyance concernée. Le retrait d'agrément emporte
 révocation du mandat de l'intéressé.

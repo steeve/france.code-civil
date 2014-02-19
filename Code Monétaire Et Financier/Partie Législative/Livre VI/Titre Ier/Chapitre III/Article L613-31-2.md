@@ -9,7 +9,7 @@ des tiers.
 Lorsqu'elles sont prises en France et qu'elles affectent ces droits, ces mesures
 sont :
 
-1° Les mesures mentionnées au 2° du I de l'article L. 612-33 ou au 3° de
+1° Les mesures mentionnées au 3° du I de l'article L. 612-33 ou au 3° de
 l'article L. 612-39 ;
 
 2° Abrogé.

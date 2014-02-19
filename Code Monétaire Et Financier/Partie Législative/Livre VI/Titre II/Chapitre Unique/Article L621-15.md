@@ -31,14 +31,14 @@ a) Les personnes mentionnées aux 1° à 8° et 11° à 17° du II de l'article 
 621-9, au titre de tout manquement à leurs obligations professionnelles définies
 par les règlements européens, les lois, règlements et règles professionnelles
 approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
-dispositions de l'article L. 612-39 ;
+dispositions des articles L. 612-39 et L. 612-40 ;
 
 b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de
 l'une des personnes mentionnées aux 1° à 8° et 11° à 17° du II de l'article L.
 621-9 au titre de tout manquement à leurs obligations professionnelles définies
 par les règlements européens, les lois, règlements et règles professionnelles
 approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
-dispositions de l'article L. 612-39 ;
+dispositions des articles L. 612-39 et L. 612-40 ;
 
 c) Toute personne qui, sur le territoire français ou à l'étranger, s'est livrée
 ou a tenté de se livrer à une opération d'initié, à une manipulation de cours, à

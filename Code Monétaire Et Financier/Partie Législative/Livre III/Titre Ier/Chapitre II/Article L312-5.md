@@ -21,8 +21,8 @@ notamment par la cession de son fonds de commerce.
 
 III.-L'Autorité de contrôle prudentiel et de résolution peut également saisir le
 fonds de garantie des dépôts et de résolution de la situation d'un établissement
-de crédit, d'une entreprise d'investissement, d'une compagnie financière et
-d'une compagnie financière holding mixte, qui correspond aux prévisions de
+de crédit, d'une entreprise d'investissement, d'une compagnie financière holding
+et d'une compagnie financière holding mixte, qui correspond aux prévisions de
 l'article L. 613-31-15 et donne lieu à la mise en œuvre des mesures prévues à
 l'article L. 613-31-16.
 

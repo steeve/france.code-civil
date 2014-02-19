@@ -20,3 +20,6 @@ règles fixées par le présent article, l'article L. 631-1 et les articles L.
 La coopération prévue au premier alinéa ne peut être refusée au motif que les
 actes sur lesquels porte le contrôle ou l'enquête ne contreviennent pas à une
 disposition législative ou réglementaire en vigueur en France.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent
+article.

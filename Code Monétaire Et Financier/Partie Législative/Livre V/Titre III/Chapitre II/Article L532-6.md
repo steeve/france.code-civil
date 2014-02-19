@@ -15,17 +15,17 @@ déterminée par l'Autorité de contrôle prudentiel et de résolution.
 
 Pendant cette période :
 
-1.L'entreprise d'investissement demeure soumise au contrôle de l'Autorité de
+1. L'entreprise d'investissement demeure soumise au contrôle de l'Autorité de
 contrôle prudentiel et de l'Autorité des marchés financiers. L'Autorité de
 contrôle prudentiel et de résolution et l'Autorité des marchés financiers
-peuvent prononcer les sanctions disciplinaires prévues à l'article L. 612-39 et
-les sanctions prévues à l'article L. 621-15 à l'encontre de toute entreprise
-d'investissement ayant fait l'objet d'un retrait d'agrément ;
+peuvent prononcer les sanctions disciplinaires prévues aux articles L. 612-39 et
+L. 612-40 et les sanctions prévues à l'article L. 621-15 à l'encontre de toute
+entreprise d'investissement ayant fait l'objet d'un retrait d'agrément ;
 
 2. Elle ne peut effectuer que des opérations strictement nécessaires à
 l'apurement de ses services d'investissements ;
 
-3.L'entreprise ne peut faire état de sa qualité d'entreprise d'investissement
+3. L'entreprise ne peut faire état de sa qualité d'entreprise d'investissement
 qu'en précisant que son agrément est en cours de retrait.
 
 Les titres émis par cette entreprise qui ne sont pas négociables sur un marché
@@ -49,6 +49,6 @@ prudentiel et de résolution ou par l'Autorité des marchés financiers. Jusqu'�
 clôture de sa liquidation, l'entreprise reste soumise au contrôle de l'Autorité
 de contrôle prudentiel et de résolution ou de l'Autorité des marchés financiers,
 qui peuvent prononcer l'ensemble des sanctions prévues, selon les cas, aux
-articles L. 612-39 et L. 621-15 du présent code. L'entreprise ne peut faire état
-de sa qualité d'entreprise d'investissement sans préciser qu'elle est en
-liquidation.
+articles L. 612-39, L. 612-40 et L. 621-15 du présent code. L'entreprise ne peut
+faire état de sa qualité d'entreprise d'investissement sans préciser qu'elle est
+en liquidation.

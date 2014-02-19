@@ -28,10 +28,10 @@ autorisation préalable.
 
 Le conseil d'orientation et de surveillance veille au respect des
 réglementations générales de la profession bancaire et des dispositions
-législatives et réglementaires applicables aux caisses de crédit municipal. A
-cette fin, il opère les vérifications et les contrôles qu'il juge opportuns et
-se fait communiquer les documents qu'il estime utiles à l'accomplissement de sa
-mission.
+législatives, réglementaires ou européennes directement applicables aux caisses
+de crédit municipal. A cette fin, il opère les vérifications et les contrôles
+qu'il juge opportuns et se fait communiquer les documents qu'il estime utiles à
+l'accomplissement de sa mission.
 
 La commune où la caisse a son siège est considérée comme l'actionnaire ou le
 sociétaire unique de l'établissement pour l'application des dispositions de

@@ -10,7 +10,13 @@ Les entreprises soumises au contrôle de l'Etat en application de l'article L.
 d'une société de groupe mixte d'assurance, font également l'objet d'une
 surveillance complémentaire selon les modalités prévues au présent article et
 aux articles L. 612-1 à L. 612-20 et L. 612-23 à L. 612-26 du code monétaire et
-financier..
+financier.
+
+Les entreprises soumises au contrôle de l'Etat en application de l'article L.
+310-1 et de l'article L. 310-1-1, ayant leur siège social en France et filiales
+d'une compagnie financière holding mixte au sens de l'article L. 517-4 du code
+monétaire et financier, font également l'objet d'une surveillance complémentaire
+selon les modalités prévues au présent article.
 
 La surveillance complémentaire tient compte des entreprises qui sont apparentées
 aux entreprises précitées. L'Autorité de contrôle prudentiel et de résolution

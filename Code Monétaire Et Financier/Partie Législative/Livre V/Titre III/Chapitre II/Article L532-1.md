@@ -21,5 +21,5 @@ article. Il précise, notamment, les conditions dans lesquelles les décisions
 sont prises et notifiées ainsi que les dispositions particulières applicables
 aux entreprises d'investissement constituant des filiales directes ou indirectes
 d'entreprises d'investissement ou d'établissement de crédit qui soit ont été
-agréés dans un autre Etat membre de la Communauté européenne, soit ne relèvent
-pas du droit de l'un de ces Etats.
+agréés dans un autre Etat membre de l'Union européenne, soit ne relèvent pas du
+droit de l'un de ces Etats.

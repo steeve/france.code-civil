@@ -8,4 +8,4 @@ d'investissement par l'Autorité de contrôle prudentiel et de résolution, apr�
 avis de l'Autorité des marchés financiers. L'avis de cette dernière porte sur
 les conditions mentionnées aux a, b et d du paragraphe 5 de l'article 59 du
 règlement précité. L'autorisation est retirée selon la même procédure, sans
-préjudice des sanctions prévues à l'article L. 612-39.
+préjudice des sanctions prévues aux articles L. 612-39 et L. 612-40.

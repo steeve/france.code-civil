@@ -12,7 +12,7 @@ l'article L. 312-5 est envisagée, celui-ci a accès, par l'intermédiaire de
 l'autorité, à l'ensemble des documents comptables, juridiques, administratifs et
 financiers relatifs à la situation et aux éléments d'actif et de passif de
 l'établissement qui seraient susceptibles de faire l'objet de son intervention,
-y compris les documents couverts par le secret professionnel mentionné à
+y compris les documents couverts par le secret professionnel mentionné au I de
 l'article L. 511-33, ainsi qu'aux rapports des commissaires aux comptes.
 
 III.-Le fonds de garantie des dépôts et de résolution peut communiquer les

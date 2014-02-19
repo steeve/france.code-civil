@@ -8,4 +8,5 @@ octroyer des crédits mentionnés à l'article L. 313-1.
 II.-Les sociétés de financement sont des personnes morales, autres que des
 établissements de crédit, qui effectuent à titre de profession habituelle et
 pour leur propre compte des opérations de crédit dans les conditions et limites
-définies par leur agrément.
+définies par leur agrément. Elles sont des établissements financiers au sens du
+4 de l'article L. 511-21.

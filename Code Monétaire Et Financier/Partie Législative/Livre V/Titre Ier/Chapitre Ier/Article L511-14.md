@@ -1,8 +1,5 @@
 Article L511-14
 ----
-L'Autorité statue dans un délai de douze mois à compter de la réception de la
-demande d'agrément. Tout refus d'agrément est notifié au demandeur.
-
-L'Autorité de contrôle prudentiel et de résolution établit et tient à jour la
-liste des établissements de crédit qui est publiée au Journal officiel de la
-République française.
+L'Autorité statue sur une demande de l'agrément mentionné à l'article L. 511-10
+dans des délais fixés par décret en Conseil d'Etat. Tout refus d'agrément est
+notifié au demandeur.

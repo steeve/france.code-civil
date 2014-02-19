@@ -3,11 +3,11 @@ Article L440-2
 Seuls peuvent adhérer aux chambres de compensation :
 
 1. Les établissements de crédit ayant leur siège social dans un Etat membre de
-la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen ;
 
 2. Les entreprises d'investissement ayant leur siège social dans un Etat membre
-de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen ;
 
 3. Les personnes morales dont les membres ou associés sont indéfiniment et
@@ -22,12 +22,12 @@ compensation d'instruments financiers ;
 
 5. Dans des conditions fixées par le règlement général de l'Autorité des marchés
 financiers, les établissements de crédit, et les entreprises d'investissement,
-qui ont leur siège social dans un Etat qui n'est ni membre de la Communauté
-européenne ni partie à l'accord sur l'Espace économique européen, ainsi que les
-personnes morales ayant pour objet principal ou unique l'activité de
-compensation d'instruments financiers qui ne sont pas établis sur le territoire
-de la France métropolitaine ou des départements d'outre-mer ou du Département de
-Mayotte ou à Saint-Barthélemy ou à Saint-Martin.
+qui ont leur siège social dans un Etat qui n'est ni membre de l'Union européenne
+ni partie à l'accord sur l'Espace économique européen, ainsi que les personnes
+morales ayant pour objet principal ou unique l'activité de compensation
+d'instruments financiers qui ne sont pas établis sur le territoire de la France
+métropolitaine ou des départements d'outre-mer ou du Département de Mayotte ou à
+Saint-Barthélemy ou à Saint-Martin.
 
 Les organismes mentionnés aux 1 à 4 sont soumis, pour leur activité de
 compensation d'instruments financiers, aux obligations législatives et

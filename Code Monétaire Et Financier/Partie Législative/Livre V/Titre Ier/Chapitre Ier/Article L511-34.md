@@ -6,17 +6,16 @@ l'application du 2° du présent article, d'un groupe au sens des articles L.
 322-1-2, L. 322-1-3 et L. 334-2 du code des assurances et au sens des articles
 L. 111-4-2 et L. 212-7-1 du code de la mutualité et L. 933-2 du code de la
 sécurité sociale, ou d'un groupe mixte ou d'un conglomérat financier auquel
-appartiennent des établissements de crédit ou entreprises d'investissement ayant
-leur siège social dans un Etat membre de la Communauté européenne ou Etat partie
-à l'accord sur l'Espace économique européen ou dans un Etat où sont applicables
-les accords prévus aux articles L. 632-7, L. 632-13 et L. 632-16 du présent code
-sont tenues, nonobstant toutes dispositions contraires, de transmettre à des
+appartiennent des entités réglementées au sens de l'article L. 517-2 ayant leur
+siège social dans un Etat membre de l'Union européenne ou Etat partie à l'accord
+sur l'Espace économique européen ou dans un Etat où sont applicables les accords
+prévus aux articles L. 632-7, L. 632-13 et L. 632-16 du présent code sont
+tenues, nonobstant toutes dispositions contraires, de transmettre à des
 entreprises du même groupe ayant leur siège social dans l'un de ces Etats :
 
 1° Les renseignements relatifs à leur situation financière nécessaires à
 l'organisation de la surveillance sur base consolidée et de la surveillance
-complémentaire de ces établissements de crédit, sociétés de financement ou
-entreprises d'investissement ;
+complémentaire de ces entités réglementées ou sociétés de financement ;
 
 2° Les informations nécessaires à l'organisation de la lutte contre le
 blanchiment des capitaux et contre le financement du terrorisme ;

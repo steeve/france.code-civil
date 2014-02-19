@@ -23,7 +23,11 @@ L. 542-1 ;
 
 3° Les établissements de paiement ;
 
-4° Les compagnies financières et les compagnies financières holding mixtes ;
+4° Les compagnies financières holding et les compagnies financières holding
+mixtes ;
+
+4° bis Les compagnies holding mixtes pour les seules dispositions qui leur sont
+applicables en vertu de l'article L. 517-10 ;
 
 5° Les changeurs manuels ;
 
@@ -33,7 +37,12 @@ L. 542-1 ;
 
 8° Les établissements de monnaie électronique ;
 
-9° Les sociétés de financement.
+9° Les sociétés de financement ;
+
+10° Les entreprises mères de société de financement ;
+
+11° Les entreprises mères mixtes de société de financement pour les seules
+dispositions qui leur sont applicables en vertu de l'article L. 517-10.
 
 Le contrôle de l'Autorité s'exerce sur l'activité de prestation de services
 d'investissement des personnes mentionnées aux 1° et 2° sous réserve de la
@@ -99,6 +108,6 @@ personnes mentionnées aux I et II exerçant en France en libre prestation de
 service ou libre établissement des dispositions qui leur sont applicables, en
 tenant compte de la surveillance exercée par les autorités compétentes de l'Etat
 membre où elles ont leur siège social qui sont seules chargées notamment de
-l'examen de leurs situation financière, conditions d'exploitation, solvabilité
-et de leur capacité à tenir à tout moment leurs engagements à l'égard de leurs
-assurés, adhérents, bénéficiaires et entreprises réassurées.
+l'examen de leurs situation financière, conditions d'exploitation, solvabilité,
+liquidité et de leur capacité à tenir à tout moment leurs engagements à l'égard
+de leurs assurés, adhérents, bénéficiaires et entreprises réassurées.

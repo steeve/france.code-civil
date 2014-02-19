@@ -9,8 +9,8 @@ aux entités réglementées répondant à l'un des critères suivants :
 siège social dans un Etat membre ou dans un autre Etat partie à l'accord sur
 l'Espace économique européen ;
 
-3° Elle est liée à une autre entité du secteur financier au sens du 3° de
-l'article L. 511-20.
+3° Elle est liée, au sens du I de l'article L. 517-3, à une autre entité du
+secteur financier.
 
 II.-Dans des cas autres que ceux mentionnés au I et à l'article L. 633-14,
 lorsque des personnes détiennent une participation dans une ou plusieurs entités
@@ -23,4 +23,4 @@ comprises dans cet ensemble doit être effectuée comme s'il constituait un
 conglomérat financier.
 
 Pour appliquer cette surveillance complémentaire, les conditions énoncées aux 2°
-et 3° du I de l'article L. 517-3 doivent être remplies.
+et 3° du II de l'article L. 517-3 doivent être remplies.

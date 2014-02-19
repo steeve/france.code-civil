@@ -23,3 +23,6 @@ leurs missions, dans le respect des conditions posées par les règlements les
 ayant institués. L'Autorité de contrôle prudentiel et de résolution et
 l'Autorité des marchés financiers peuvent, à cet effet, transmettre des
 informations couvertes par le secret professionnel.
+
+Les conditions d'application du présent article sont fixées par décret en
+Conseil d'Etat.

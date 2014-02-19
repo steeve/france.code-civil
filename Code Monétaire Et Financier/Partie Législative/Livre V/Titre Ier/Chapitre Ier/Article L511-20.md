@@ -1,11 +1,21 @@
 Article L511-20
 ----
-I.-Est une filiale d'un établissement de crédit, d'une société de financement,
-d'une entreprise d'investissement, d'une compagnie financière ou d'une compagnie
-financière holding mixte l'entreprise sur laquelle est exercé un contrôle
-exclusif au sens de l'article L. 233-16 du code de commerce, ou une influence
-dominante en raison de l'existence de liens de solidarité importants et durables
-résultant d'engagements financiers, de dirigeants ou de services communs.
+I.-Une entreprise mère est une entreprise qui contrôle de manière exclusive, au
+sens de l'article L. 233-16 du code de commerce, une ou plusieurs autres
+entreprises ou qui exerce sur elles une influence dominante en raison de
+l'existence de liens de solidarité importants et durables résultant
+d'engagements financiers, de dirigeants ou de services communs.
+
+Est une filiale d'un établissement de crédit, d'une société de financement,
+d'une entreprise d'investissement, d'une entreprise mère de société de
+financement, d'une compagnie financière holding, d'une compagnie financière
+holding mixte, d'une compagnie holding mixte ou d'une entreprise mère mixte de
+société de financement l'entreprise sur laquelle est exercé un contrôle exclusif
+au sens de l'article L. 233-16 du code de commerce, ou une influence dominante
+en raison de l'existence de liens de solidarité importants et durables résultant
+d'engagements financiers, de dirigeants ou de services communs. La filiale d'une
+filiale est considérée comme filiale de l'entreprise mère qui est à la tête de
+ces entreprises.
 
 II.-Constitue une participation le fait de détenir, directement ou
 indirectement, au moins 20 % des droits de vote ou du capital d'une entreprise,
@@ -27,7 +37,7 @@ est applicable.
 IV.-L'expression : " groupe financier " désigne l'ensemble ne constituant pas un
 conglomérat financier formé par les filiales, directes ou indirectes, d'un
 établissement de crédit, d'une entreprise d'investissement, ou d'une compagnie
-financière, et par les entreprises à caractère financier sur lesquelles
+financière holding, et par les entreprises à caractère financier sur lesquelles
 l'entreprise mère exerce un contrôle conjoint au sens de l'article L. 233-16 du
 code de commerce.
 
@@ -35,8 +45,4 @@ Les entreprises à caractère financier mentionnées à l'alinéa précédent so
 définies par voie réglementaire.
 
 V.-L'expression : " groupe mixte " désigne l'ensemble formé par les filiales,
-directes ou indirectes, d'une entreprise mère qui n'est pas une compagnie
-financière, un établissement de crédit, une entreprise d'investissement ou une
-compagnie financière holding mixte au sens de l'article L. 517-4 mais dont l'une
-au moins des filiales est un établissement de crédit ou une entreprise
-d'investissement. L'entreprise mère d'un groupe mixte est une compagnie mixte.
+directes ou indirectes, d'une compagnie holding mixte.

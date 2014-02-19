@@ -1,6 +1,6 @@
 Article L312-4
 ----
-Les établissements de crédit, les companies financières, les companies
+Les établissements de crédit, les companies financières holding, les companies
 financières holding mixtes et les entreprises d'investissement, à l'exception
 des sociétés de gestion de portefeuille, agréés en France adhèrent à un fonds de
 garantie des dépôts et de résolution qui a pour objet d'indemniser les déposants

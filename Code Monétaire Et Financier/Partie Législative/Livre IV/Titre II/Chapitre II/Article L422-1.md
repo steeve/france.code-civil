@@ -1,20 +1,19 @@
 Article L422-1
 ----
-I.-Tout marché réglementé d'un Etat membre de la Communauté européenne ou d'un
-autre Etat partie à l'accord sur l'Espace économique européen qui fonctionne
-sans requérir la présence effective de personnes physiques peut offrir, sur le
+I.-Tout marché réglementé d'un Etat membre de l'Union européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen qui fonctionne sans
+requérir la présence effective de personnes physiques peut offrir, sur le
 territoire de la France métropolitaine et des départements d'outre-mer et du
 Département de Mayotte et de Saint-Barthélemy et de Saint-Martin, les moyens
 d'accès à ce marché.
 
 II.-Lorsque l'Autorité des marchés financiers a des raisons claires et
-démontrables d'estimer qu'un marché réglementé d'un autre Etat membre de la
-Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen qui offre des moyens d'accès sur le territoire de la France
-métropolitaine et des départements d'outre-mer et du Département de Mayotte et
-de Saint-Barthélemy et de Saint-Martin enfreint les obligations qui lui
-incombent, elle en fait part à l'autorité compétente de l'Etat d'origine dudit
-marché réglementé.
+démontrables d'estimer qu'un marché réglementé d'un autre Etat membre de l'Union
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+qui offre des moyens d'accès sur le territoire de la France métropolitaine et
+des départements d'outre-mer et du Département de Mayotte et de Saint-Barthélemy
+et de Saint-Martin enfreint les obligations qui lui incombent, elle en fait part
+à l'autorité compétente de l'Etat d'origine dudit marché réglementé.
 
 Si, en dépit des mesures prises par l'autorité compétente de l'Etat d'origine ou
 en raison du caractère inadéquat de ces mesures, le marché réglementé continue

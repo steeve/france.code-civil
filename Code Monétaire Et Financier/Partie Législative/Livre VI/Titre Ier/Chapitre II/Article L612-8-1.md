@@ -18,7 +18,9 @@ de cassation, ou son représentant ;
 6° Le président du directoire du fonds de garantie des dépôts et de résolution
 ou son représentant.
 
-Par dérogation aux dispositions de l'article L. 612-12, un décret en Conseil
+Par dérogation aux dispositions des articles L. 612-12, L. 612-23 et L. 612-26,
+du second alinéa du I de l'article L. 612-19 et aux règles relatives à la
+direction des services prévues à l'article L. 612-15, un décret en Conseil
 d'Etat fixe les conditions d'organisation et de fonctionnement des services
 chargés de préparer les travaux du collège de résolution. Le directeur chargé de
 ces services est nommé par arrêté du ministre chargé de l'économie, sur

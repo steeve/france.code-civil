@@ -8,8 +8,8 @@ sont assurés :
 intermédiaires habilités mentionnés à l'article L. 211-4, sur la Caisse des
 dépôts et consignations, et sur les organismes et les personnes qui lui sont
 soumis en vertu de l'article L. 612-2, à l'exception des personnes mentionnées
-aux 4°, 6° et 7° du A, aux 6°, 7° et 8° du B du I et au 3° du II de cet article
-;
+aux 4°, 4° bis, 6°, 7°, 10° et 11° du A, aux 6°, 7° et 8° du B du I et au 3° du
+II de cet article ;
 
 b) A cette fin, le contrôle de l'Autorité de contrôle prudentiel et de
 résolution sur la Caisse des dépôts et consignations est exercé, dans les
@@ -24,7 +24,7 @@ mesures appropriées pour améliorer ses procédures ou son organisation.
 L'Autorité de contrôle prudentiel et de résolution peut également prononcer à
 son encontre, soit à la place, soit en sus des sanctions prévues aux 1° et 2° de
 l'article L. 612-39, compte tenu de la gravité des manquements, une sanction
-pécuniaire d'un montant maximal égal au décuple du capital minimum auquel sont
+pécuniaire d'un montant maximal égal au décuple du capital initial auquel sont
 astreintes les banques. Les sommes correspondantes sont recouvrées par le Trésor
 public et versées au budget de l'Etat.
 

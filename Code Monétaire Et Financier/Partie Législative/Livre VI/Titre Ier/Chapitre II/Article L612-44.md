@@ -56,3 +56,10 @@ l'Autorité de contrôle prudentiel et de résolution et, le cas échéant, des
 organes centraux mentionnés à l'article L. 511-30 ; leur responsabilité ne peut
 être engagée pour les informations ou divulgations de faits auxquelles ils
 procèdent en exécution des obligations qui résultent de ces dispositions.
+
+A moins qu'un motif impérieux ne s'y oppose, les faits ou décisions mentionnés
+au II sont transmis simultanément au président du conseil d'administration ou de
+surveillance de l'établissement de crédit, de la société de financement ou de
+l'entreprise d'investissement concerné, qui en informe ce conseil ainsi qu'aux
+membres du directoire et aux personnes mentionnées à l'article L. 511-13 et au 4
+de l'article L. 532-2.

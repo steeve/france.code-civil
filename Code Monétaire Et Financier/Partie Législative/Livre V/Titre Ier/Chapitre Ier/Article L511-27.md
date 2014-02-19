@@ -7,7 +7,7 @@ est déterminée par le ministre chargé de l'économie.
 
 A moins que l'Autorité de contrôle prudentiel et de résolution n'ait des raisons
 de douter, compte tenu de ce projet, de l'adéquation des structures
-administratives ou de la situation financière de l'établissement de crédit, il
+administratives ou de la situation financière de l'établissement de crédit, elle
 communique ces informations, dans les trois mois à compter de leur réception
 régulière, à l'autorité compétente de l'Etat membre d'accueil et en avise
 l'établissement concerné.
@@ -24,6 +24,9 @@ l'Autorité de contrôle prudentiel et de résolution. Cette déclaration est
 assortie d'informations dont la nature est déterminée par le ministre chargé de
 l'économie.
 
-Le ministre chargé de l'économie détermine les conditions dans lesquelles les
-informations mentionnées aux alinéas précédents sont communiquées à l'autorité
-compétente de l'autre Etat membre.
+Un arrêté du ministre chargé de l'économie détermine, d'une part, les
+informations qui doivent être communiquées à l'Autorité de contrôle prudentiel
+et de résolution préalablement à un changement de la situation de
+l'établissement et, d'autre part, les conditions dans lesquelles ces
+informations, ainsi que celles mentionnées aux alinéas précédents, sont
+communiquées à l'autorité compétente de l'Etat membre d'accueil.

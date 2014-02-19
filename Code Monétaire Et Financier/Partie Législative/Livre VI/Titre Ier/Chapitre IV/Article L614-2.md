@@ -3,11 +3,11 @@ Article L614-2
 Le Comité consultatif de la législation et de la réglementation financières est
 saisi pour avis par le ministre chargé de l'économie de tout projet de loi ou
 d'ordonnance et de toute proposition de règlement ou de directive communautaires
-avant son examen par le Conseil des Communautés européennes, traitant de
-questions relatives au secteur de l'assurance, au secteur bancaire, aux
-émetteurs de monnaie électronique, aux prestataires de services de paiement et
-aux entreprises d'investissement, à l'exception des textes portant sur
-l'Autorité des marchés financiers ou entrant dans les compétences de celle-ci.
+avant son examen par le Conseil de l'Union européenne, traitant de questions
+relatives au secteur de l'assurance, au secteur bancaire, aux émetteurs de
+monnaie électronique, aux prestataires de services de paiement et aux
+entreprises d'investissement, à l'exception des textes portant sur l'Autorité
+des marchés financiers ou entrant dans les compétences de celle-ci.
 
 Les projets de décret ou d'arrêté, autres que les mesures individuelles,
 intervenant dans les mêmes domaines ne peuvent être adoptés qu'après l'avis du

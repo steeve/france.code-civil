@@ -28,8 +28,7 @@ sont autorisées à procéder à une offre au public ;
 composés exclusivement de sociétés par actions satisfaisant aux conditions
 prévues au 2 ;
 
-6. Les institutions de la Communauté européenne et les organisations
-internationales ;
+6. Les institutions de l'Union européenne et les organisations internationales ;
 
 7. La caisse d'amortissement de la dette sociale instituée par l'article 1er de
 l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette

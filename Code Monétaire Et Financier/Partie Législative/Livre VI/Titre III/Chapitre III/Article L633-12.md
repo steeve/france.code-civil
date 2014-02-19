@@ -18,7 +18,8 @@ l'article L. 517-9, ou n'ont pas répondu à une recommandation, ou n'ont pas te
 compte d'une mise en garde, ou n'ont pas respecté les conditions particulières
 posées ou les engagements pris au titre de la surveillance complémentaire, ou
 n'ont pas déféré à une injonction, elle peut, à l'encontre de la compagnie
-financière holding mixte prononcer les sanctions prévues à l'article L. 612-40.
+financière holding mixte prononcer les sanctions prévues aux articles L. 612-39
+et L. 612-40.
 
 III.-Les autorités compétentes sectorielles, y compris l'Autorité de contrôle
 prudentiel et de résolution, peuvent faire usage, aux fins de la surveillance

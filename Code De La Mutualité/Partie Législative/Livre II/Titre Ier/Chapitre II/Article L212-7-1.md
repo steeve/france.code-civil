@@ -53,35 +53,11 @@ présent chapitre. Il en est de même pour les entités appartenant à des group
 coopératifs régis par les dispositions similaires dans la législation qui leur
 est applicable ;
 
-8° L'expression " entité réglementée " désigne une mutuelle ou une union régie
-par le livre II du présent code, un établissement de crédit ou une entreprise
-d'investissement ayant son siège social dans un Etat membre ou dans un autre
-Etat partie à l'accord sur l'Espace économique européen ;
+8° Abrogé
 
-9° L'expression " compagnie financière holding mixte " désigne un organisme de
-référence autre qu'une entité réglementée qui, avec ses organismes subordonnés,
-dont l'un au moins est une entité réglementée ayant son siège dans un Etat
-membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen,
-constitue un conglomérat financier ;
+9° Abrogé
 
-10° L'expression " secteur financier " désigne un secteur composé d'une ou
-plusieurs entités appartenant aux secteurs suivants :
-
-a) Le secteur bancaire et des services d'investissement, qui comprend les
-établissements de crédit, les entreprises d'investissement, les établissements
-financiers ou les entreprises à caractère financier dont le siège social est
-situé dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ;
-
-b) Le secteur des assurances, qui comprend les entreprises d'assurance, les
-sociétés de groupe d'assurance, les mutuelles, les unions de mutuelles, les
-institutions de prévoyance, les unions d'institutions de prévoyance, les
-groupements paritaires de prévoyance ou les sociétés de réassurance dont le
-siège social est situé dans un Etat membre ou dans un autre Etat partie à
-l'accord sur l'Espace économique européen ;
-
-Le secteur financier comprend également, le cas échéant, une ou plusieurs
-compagnies financières holding mixtes ;
+10° Abrogé
 
 11° L'expression " autorité compétente " désigne toute autorité nationale d'un
 Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique
@@ -101,18 +77,8 @@ e) Les établissements de crédit ;
 
 f) Les entreprises d'investissement ;
 
-12° L'expression " autorité compétente concernée " désigne :
-
-1° Toute autorité compétente des Etats responsable de la surveillance
-sectorielle consolidée ou combinée des entités réglementées appartenant à un
-conglomérat financier ;
-
-2° Le coordonnateur désigné conformément à l'article L. 212-7-9, s'il est
-différent des autorités mentionnées au point a ;
-
-3° Les autres autorités compétentes, lorsque les autorités mentionnées aux 1° et
-2° le jugent opportun ;
+12° Abrogé
 
 13° L'expression " règles sectorielles " désigne les règles concernant la
 surveillance prudentielle des entités réglementées et les règles concernant la
-surveillance complémentaire instituée à l'article L. 212-7-2.
+surveillance complémentaire instituée à l'article L. 212-7-2du présent code.

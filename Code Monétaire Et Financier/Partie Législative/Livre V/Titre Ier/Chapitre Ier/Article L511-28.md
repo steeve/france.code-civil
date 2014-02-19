@@ -15,7 +15,7 @@ assurer la qualité et le contrôle de leur gestion ainsi que pour la garantie d
 leurs engagements par les entreprises mères.
 
 Si l'établissement remplit les conditions mentionnées au précédent alinéa,
-l'Autorité de contrôle prudentiel et de résolution, à moins qu'il n'ait des
+l'Autorité de contrôle prudentiel et de résolution, à moins qu'elle n'ait des
 raisons de douter, compte tenu de ce projet, de l'adéquation des structures
 administratives ou de la situation financière de l'établissement financier,
 communique les informations concernant le projet dans les trois mois à compter
@@ -25,21 +25,28 @@ l'établissement concerné.
 Les établissements financiers désirant exercer pour la première fois leurs
 activités sur le territoire d'un autre Etat membre, en libre prestation de
 services, sont tenus d'en faire la déclaration à l'Autorité de contrôle
-prudentiel et de résolution.
+prudentiel et de résolution. Cette déclaration est assortie d'informations dont
+la nature est déterminée par un arrêté du ministre chargé de l'économie.
 
 Ils doivent également justifier qu'ils remplissent les conditions mentionnées au
 deuxième alinéa du présent article.
 
+Un arrêté du ministre chargé de l'économie détermine les informations qui
+doivent être communiquées à l'Autorité de contrôle prudentiel et de résolution
+préalablement à un changement de la situation de l'établissement et celles qui
+doivent être communiquées à l'autorité compétente de l'Etat membre d'accueil.
+
 L'établissement financier exerçant ses activités dans un autre Etat membre dans
 le cadre des dispositions du présent article est soumis aux dispositions des
-articles L. 511-13, L. 511-33 et L. 511-39, et, ainsi qu'aux arrêtés adoptés par
-le ministre chargé de l'économie, pour ceux d'entre eux qui prévoient que leur
-champ d'application comprend cette catégorie d'établissements. Il est contrôlé
-par l'Autorité de contrôle prudentiel et de résolution dans les conditions
-fixées par les articles L. 612-1 et L. 612-23 à L. 612-27 ; il peut faire
-l'objet des mesures et sanctions prévues aux articles L. 511-41-3, L. 612-30 à
-L. 612-34 et L. 612-39. La radiation prévue au 7° de l'article L. 612-39 doit
-être comprise comme le retrait du bénéfice du régime défini au présent article.
+articles L. 511-13, L. 511-33, L. 511-39, L. 511-51 à L. 511-54, et, ainsi
+qu'aux arrêtés adoptés par le ministre chargé de l'économie, pour ceux d'entre
+eux qui prévoient que leur champ d'application comprend cette catégorie
+d'établissements. Il est contrôlé par l'Autorité de contrôle prudentiel et de
+résolution dans les conditions fixées par les articles L. 612-1 et L. 612-23 à
+L. 612-27 ; il peut faire l'objet des mesures et sanctions prévues aux articles
+L. 511-41-3, L. 612-30 à L. 612-34, L. 612-39 et L. 612-40. La radiation prévue
+au 7° de l'article L. 612-39 et au 5° du I de l'article L. 612-40 doit être
+comprise comme le retrait du bénéfice du régime défini au présent article.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions
 d'application du présent article et de l'article L. 511-27.

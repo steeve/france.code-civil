@@ -6,5 +6,5 @@ dispositions de l'article L. 233-14 du code de commerce, le procureur de la
 République, l'Autorité de contrôle prudentiel et de résolution ou tout
 actionnaire peut demander au juge de suspendre, jusqu'à régularisation de la
 situation, l'exercice des droits de vote attachés aux actions ou parts sociales
-d'établissements de crédit ou d'établissements financiers détenues
-irrégulièrement, directement ou indirectement.
+d'établissements de crédit ou d'établissements financiers au sens de l'article
+L. 511-21 détenues irrégulièrement, directement ou indirectement.

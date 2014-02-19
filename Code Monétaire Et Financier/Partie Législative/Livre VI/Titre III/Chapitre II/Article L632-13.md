@@ -13,7 +13,7 @@ non :
 
 1. L'extension des contrôles sur place aux succursales ou filiales implantées à
 l'étranger d'un établissement de crédit, d'une entreprise d'investissement ou
-d'une compagnie financière de droit français ;
+d'une compagnie financière holding de droit français ;
 
 2. La réalisation par l'Autorité de contrôle prudentiel et de résolution, à la
 demande de ces autorités étrangères, de contrôles sur place sur des

@@ -25,8 +25,8 @@ budget de l'Autorité de contrôle prudentiel et de résolution.
 
 II. ― Les dispositions applicables en matière d'assiette sont les suivantes :
 
-A. ― Pour les personnes mentionnées aux 1°, 2°, 3°, 4°, 8° et 9° du A de
-l'article L. 612-2, l'assiette est constituée par :
+A. ― Pour les personnes mentionnées aux 1° à 4° et 8° à 10° du A de l'article L.
+612-2, l'assiette est constituée par :
 
 1° Les exigences minimales en fonds propres permettant d'assurer le respect des
 ratios de couverture prévus par les articles L. 511-41, L. 522-14, L. 526-27 et
@@ -46,10 +46,10 @@ sous-consolidée. Dans ce dernier cas, l'assiette sur base consolidée de
 l'entreprise mère est diminuée des montants pris en compte au titre de
 l'imposition d'une personne sur base sociale ou sous-consolidée ;
 
-2° Les normes de représentation de capital minimum permettant de répondre aux
-exigences posées par les articles L. 511-11 et L. 532-2, définies au cours de
-l'exercice clos l'année civile précédente lorsque les exigences en fonds propres
-ne sont pas applicables.
+2° Les normes de capital initial permettant de répondre aux exigences posées par
+les articles L. 511-11 et L. 532-2, définies au cours de l'exercice clos l'année
+civile précédente lorsque les exigences en fonds propres ne sont pas
+applicables.
 
 B. ― Pour les entreprises mentionnées au B de l'article L. 612-2, l'assiette est
 constituée par les primes ou cotisations émises et acceptées au cours de
@@ -64,13 +64,14 @@ C. ― Compte tenu des modalités particulières de contrôle dont elles font
 l'objet, les personnes suivantes acquittent une contribution forfaitaire :
 
 1° Les changeurs manuels, les personnes mentionnées au 4° du B du I de l'article
-L. 612-2 et les personnes mentionnées au A du même I ne devant respecter ni
-ratio de couverture au titre des articles L. 511-41 et L. 533-2 ni normes de
-représentation de capital minimal au titre des articles L. 511-11 et L. 532-2,
-acquittent chacun une contribution forfaitaire comprise entre 500 € et 1 500 €,
-fixée par arrêté du ministre chargé de l'économie et, pour les personnes
-mentionnées au 4° du B du I de l'article L. 612-2, par arrêté des ministres
-chargés de l'économie, de la mutualité et de la sécurité sociale ;
+L. 612-2 et les personnes mentionnées au A du même I, à l'exception de celles
+mentionnées aux 4° bis et 11°, ne devant respecter ni ratio de couverture au
+titre des articles L. 511-41 et L. 533-2 ni normes de capital initial au titre
+des articles L. 511-11 et L. 532-2, acquittent chacun une contribution
+forfaitaire comprise entre 500 € et 1 500 €, fixée par arrêté du ministre chargé
+de l'économie et, pour les personnes mentionnées au 4° du B du I de l'article L.
+612-2, par arrêté des ministres chargés de l'économie, de la mutualité et de la
+sécurité sociale ;
 
 2° Les courtiers et sociétés de courtage d'assurance en assurance et en
 réassurance mentionnés à l'article L. 511-1 du code des assurances ainsi que les
@@ -83,7 +84,11 @@ de l'économie. Les personnes exerçant simultanément une activité de courtage
 assurance et en réassurance et une activité d'intermédiaire en opérations de
 banque et en services de paiement ou une autre activité soumise à contribution
 au profit de l'Autorité de contrôle prudentiel et de résolution n'acquittent
-qu'une seule contribution.
+qu'une seule contribution ;
+
+3° Les personnes mentionnées aux 4° bis et 11° du A du I de l'article L. 612-2
+acquittent chacune une contribution forfaitaire comprise entre 5 000 € et 15 000
+€, fixée par arrêté du ministre chargé de l'économie.
 
 III. ― Le taux de la contribution visée au A et au B du II du présent article
 est compris entre :
@@ -108,9 +113,9 @@ IV. ― Pour les personnes mentionnées au A et au B du II du présent article,
 l'Autorité de contrôle prudentiel et de résolution liquide la contribution sur
 la base des déclarations fournies par les assujettis dans le cadre du contrôle
 des ratios de couverture prévus par les articles L. 511-41, L. 522-14 et L.
-533-2, des normes de représentation de capital minimum nécessaires au respect
-des articles L. 511-11 et L. 532-2 du présent code et de la marge de solvabilité
-prévue à l'article L. 310-12 du code des assurances.
+533-2, des normes de capital initial nécessaires au respect des articles L.
+511-11 et L. 532-2 du présent code et de la marge de solvabilité prévue à
+l'article L. 310-12 du code des assurances.
 
 V. ― La contribution est recouvrée de la manière suivante :
 

@@ -39,3 +39,6 @@ conseil de surveillance dans les fonctions de président. Cette délégation est
 donnée pour une durée limitée et n'est pas renouvelable. Elle doit faire l'objet
 d'une notification auprès de l'Autorité de contrôle prudentiel et de résolution,
 dans les conditions fixées à l'article L. 612-23-1.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent
+article.

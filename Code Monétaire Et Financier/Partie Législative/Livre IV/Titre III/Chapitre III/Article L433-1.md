@@ -21,18 +21,18 @@ la Communauté européenne ou d'un autre Etat partie à l'Espace économique
 européen pour la première fois en France.
 
 Lorsque la première admission mentionnée au 2° est intervenue simultanément dans
-plusieurs Etats membres de la Communauté européenne ou d'autres Etats parties à
+plusieurs Etats membres de l'Union européenne ou d'autres Etats parties à
 l'accord sur l'Espace économique européen avant le 20 mai 2006, l'Autorité des
 marchés financiers fixe les règles mentionnées au I lorsqu'elle a été déclarée
 autorité compétente pour le contrôle de l'offre par les autorités de contrôle
-des autres Etats membres de la Communauté européenne concernés. A défaut,
-lorsque cette déclaration n'est pas intervenue dans les quatre semaines suivant
-le 20 mai 2006, l'Autorité des marchés financiers fixe les règles mentionnées au
-I lorsqu'elle a été déclarée autorité compétente pour le contrôle de l'offre par
+des autres Etats membres de l'Union européenne concernés. A défaut, lorsque
+cette déclaration n'est pas intervenue dans les quatre semaines suivant le 20
+mai 2006, l'Autorité des marchés financiers fixe les règles mentionnées au I
+lorsqu'elle a été déclarée autorité compétente pour le contrôle de l'offre par
 la société qui fait l'objet de l'offre.
 
 Lorsque la première admission mentionnée au 2° intervient simultanément dans
-plusieurs Etats membres de la Communauté européenne ou d'autres Etats parties à
+plusieurs Etats membres de l'Union européenne ou d'autres Etats parties à
 l'accord sur l'Espace économique européen après le 20 mai 2006, l'Autorité des
 marchés financiers fixe les règles lorsqu'elle a été déclarée compétente pour le
 contrôle de l'offre par la société qui fait l'objet de l'offre.
@@ -45,9 +45,9 @@ de l'offre en informe cette dernière, qui rend cette décision publique.
 III. - Le règlement général de l'Autorité des marchés financiers fixe les
 conditions dans lesquelles les règles mentionnées au I s'appliquent aux offres
 publiques visant des instruments financiers émis par des sociétés dont le siège
-statutaire est établi hors d'un Etat membre de la Communauté européenne ou d'un
-autre Etat partie à l'accord sur l'Espace économique européen et qui sont admis
-aux négociations sur un marché réglementé français.
+statutaire est établi hors d'un Etat membre de l'Union européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen et qui sont admis aux
+négociations sur un marché réglementé français.
 
 IV. - Le règlement général de l'Autorité des marchés financiers peut également
 fixer les conditions dans lesquelles les règles prévues au I s'appliquent aux

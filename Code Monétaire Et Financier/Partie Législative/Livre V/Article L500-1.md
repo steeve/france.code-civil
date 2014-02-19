@@ -105,4 +105,4 @@ devant le tribunal de grande instance du domicile du condamné.
 
 VII.-Le fait pour une personne de ne pas faire l'objet de l'incapacité prévue au
 présent article ne préjuge pas de l'appréciation, par l'autorité compétente, du
-respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
+respect des conditions nécessaires à l'accès ou à l'exercice de l'activité.

@@ -53,8 +53,8 @@ surveillance permanente sur une base consolidée ;
 sociétés locales d'épargne ainsi que les modifications devant y être apportées ;
 
 10° D'agréer les personnes appelées, conformément à l'article L. 511-13, à
-assurer la détermination effective de l'orientation de l'activité des
-établissements et sociétés affiliés ;
+assurer la direction effective de l'activité des établissements et sociétés
+affiliés ;
 
 11° D'appeler les cotisations nécessaires à l'accomplissement de ses missions
 d'organe central ;

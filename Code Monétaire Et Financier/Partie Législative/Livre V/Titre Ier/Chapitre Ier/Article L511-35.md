@@ -8,5 +8,5 @@ financières.
 
 Les cinquième et sixième alinéas de l'article L. 225-102-1 du même code sont
 applicables aux établissements de crédit, aux sociétés de financement, aux
-entreprises d'investissement et aux compagnies financières, quelle que soit leur
-forme juridique.
+entreprises d'investissement, aux entreprises mères de société de financement et
+aux compagnies financières holding, quelle que soit leur forme juridique.

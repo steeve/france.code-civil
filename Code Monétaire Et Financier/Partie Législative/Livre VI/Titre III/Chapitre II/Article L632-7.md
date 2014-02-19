@@ -40,20 +40,19 @@ procédures collectives des entreprises d'investissement, ou dans toute autre
 procédure analogue ;
 
 e) Responsables de la surveillance des personnes chargées du contrôle légal des
-comptes des entreprises mentionnées au a du présent article,
+comptes des entreprises mentionnées au a du présent II ;
 
-pour autant que les informations communiquées bénéficient de garanties de secret
-professionnel au moins équivalentes à celles auxquelles sont soumises les
-autorités françaises parties à ces accords. Cet échange d'informations doit être
-destiné à l'exécution des missions desdites autorités ou personnes.
+f) Chargées de la gestion des systèmes de garantie des dépôts et des systèmes
+d'indemnisation des investisseurs.
 
-III.-Lorsqu'elles proviennent d'une autorité d'un autre Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
-ou d'un pays tiers, les informations ne peuvent être divulguées sans l'accord
-exprès de l'autorité qui les a communiquées et, le cas échéant, aux seules fins
-pour lesquelles elle a donné son accord.
+Les informations communiquées bénéficient de garanties de secret professionnel
+au moins équivalentes à celles auxquelles sont soumises les autorités françaises
+parties à ces accords.
 
-IV. - L'Autorité des marchés financiers donne son autorisation expresse
+Cet échange d'informations doit être destiné à l'exécution des missions desdites
+autorités ou personnes.
+
+III. - L'Autorité des marchés financiers donne son autorisation expresse
 préalablement à toute transmission, par les autorités compétentes d'un pays
 tiers aux autorités d'autres pays tiers, de données et analyses de données
 relatives aux FIA et à leurs gestionnaires qu'elle leur a communiquées

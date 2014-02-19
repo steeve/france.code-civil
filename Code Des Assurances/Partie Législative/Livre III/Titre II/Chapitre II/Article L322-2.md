@@ -3,10 +3,11 @@ Article L322-2
 I.-Nul ne peut, à quelque titre que ce soit, diriger, gérer ou administrer une
 entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou de
 l'article L. 310-1-1, une société de groupe d'assurance définie à l'article L.
-322-1-2, une compagnie financière holding mixte définie à l'article L. 334-2, ni
-être membre d'un organe collégial de contrôle de ces entreprises, sociétés ou
-compagnies, ni disposer du pouvoir de signer pour leur compte, s'il a fait
-l'objet depuis moins de dix ans d'une condamnation définitive :
+322-1-2, une compagnie financière holding mixte définie à l'article L. 517-4 du
+code monétaire et financier, ni être membre d'un organe collégial de contrôle de
+ces entreprises, sociétés ou compagnies, ni disposer du pouvoir de signer pour
+leur compte, s'il a fait l'objet depuis moins de dix ans d'une condamnation
+définitive :
 
 1° Pour crime ;
 

@@ -9,7 +9,7 @@ autres que l'entreprise d'assurance elle-même.
 Lorsqu'elles sont prises en France, ces mesures sont, lorsqu'elles affectent ces
 droits :
 
-1° Les mesures mentionnées au 2°, 3° et 4° du I de l'article L. 612-33 du code
+1° Les mesures mentionnées au 3°, 4° et 7° du I de l'article L. 612-33 du code
 monétaire et financier ;
 
 2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et

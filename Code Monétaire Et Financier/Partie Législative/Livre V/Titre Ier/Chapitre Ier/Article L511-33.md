@@ -1,6 +1,6 @@
 Article L511-33
 ----
-Tout membre d'un conseil d'administration et, selon le cas, d'un conseil de
+I.-Tout membre d'un conseil d'administration et, selon le cas, d'un conseil de
 surveillance et toute personne qui à un titre quelconque participe à la
 direction ou à la gestion d'un établissement de crédit, d'une société de
 financement ou d'un organisme mentionné au 5 de l'article L. 511-6 ou qui est
@@ -53,3 +53,22 @@ ces personnes peuvent à leur tour communiquer les informations couvertes par le
 secret professionnel dans les mêmes conditions que celles visées au présent
 article aux personnes avec lesquelles elles négocient, concluent ou exécutent
 les opérations énoncées ci-dessus.
+
+II.-Le personnel des établissements de crédit, des sociétés de financement, des
+compagnies financières holding, des compagnies financières holding mixtes et des
+entreprises mères de société de financement soumis au contrôle de l'Autorité de
+contrôle prudentiel et de résolution, ainsi que le personnel des prestataires
+externes de ces personnes, peuvent signaler à l'Autorité les manquements et
+infractions potentiels ou avérés au règlement (UE) n° 575/2013 du Parlement
+européen et du Conseil du 26 juin 2013, aux dispositions du présent titre et du
+titre III du présent livre ou d'un règlement pris pour leur application ou de
+toute autre disposition législative ou réglementaire dont la méconnaissance
+entraîne celle des dispositions précitées. Les signalements sont faits sous
+forme écrite et accompagnés de tout élément de nature à établir la réalité des
+faits signalés.
+
+L'Autorité de contrôle prudentiel et de résolution recueille les signalements
+dans des conditions qui garantissent la protection des personnes signalant les
+manquements, notamment en ce qui concerne leur identité, et la protection des
+données à caractère personnel relatives aux personnes concernées par les
+signalements.
