@@ -1,6 +1,6 @@
 Article R5132-43
 ----
-Lorsque l'aide à l'accompagnement dans les ateliers et chantiers d'insertion est
-obtenue à la suite de fausses déclarations ou lorsque l'aide est détournée de
-son objet, le préfet résilie la convention et demande le reversement de l'aide
-indûment perçue.
+Lorsque l'aide financière est obtenue à la suite de fausses déclarations ou
+lorsque la convention est détournée de son objet, le préfet résilie la
+convention après avoir observé la procédure prévue à l'article R. 5132-32. Les
+sommes indûment perçues donnent alors lieu à reversement.

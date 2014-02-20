@@ -1,10 +1,13 @@
 Article R5132-38
 ----
-Le montant annuel de l'aide à l'accompagnement est déterminé, par le préfet, en
-fonction : 1° Du nombre d'ateliers et chantiers d'insertion portés par
-l'organisme conventionné ; 2° Des caractéristiques du public accueilli ; 3° Du
-nombre de salariés embauchés ; 4° Des modalités d'accompagnement de ces
-salariés, notamment de la qualité du projet d'accompagnement et des partenariats
-conclus avec les acteurs institutionnels locaux pouvant contribuer à l'insertion
-sociale et professionnelle de ces salariés ; 5° De l'objectif de taux de retour
-à l'emploi retenu.
+L'aide financière est versée à l'organisme conventionné au titre d'un atelier ou
+chantier d'insertion pour chaque poste de travail occupé à temps plein. Le cas
+échéant, le montant de l'aide est réduit à due proportion de l'occupation des
+postes.
+
+Son montant socle, le montant maximum de la part modulée dans la limite d'un
+pourcentage du montant socle et ses conditions de versement sont fixés par
+arrêté conjoint des ministres chargés de l'emploi et du budget. Un arrêté
+conjoint du ministre chargé de l'emploi et du ministre chargé du budget
+revalorise, chaque année, cette aide en fonction de l'évolution du salaire
+minimum de croissance à compter du 1er janvier 2015.

@@ -1,7 +1,9 @@
 Article R5132-11
 ----
-Les conventions mentionnées à l'article L. 5132-7 sont conclues, après avis du
-conseil départemental pour l'insertion par l'activité économique, entre
-l'association candidate au statut d'association intermédiaire pour tout ou
-partie de ses activités d'insertion et le préfet du département dans lequel
-l'association a son siège.
+Après consultation du conseil départemental de l'insertion par l'activité
+économique et en tenant compte de l'offre existante pour assurer un
+développement équilibré des actions d'insertion, le préfet peut conclure les
+conventions prévues à l'article L. 5132-7 avec des associations candidates au
+statut d'association intermédiaire contribuant à l'insertion professionnelle des
+personnes mentionnées à l'article L. 5132-1. Cette convention peut porter sur
+tout ou partie des activités d'insertion des associations candidates.
