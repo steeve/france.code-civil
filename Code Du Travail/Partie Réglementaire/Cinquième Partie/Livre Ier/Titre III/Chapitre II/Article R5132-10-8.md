@@ -1,4 +1,4 @@
-Article R5132-3
+Article R5132-10-8
 ----
 La convention peut être conclue pour une durée maximale de trois ans avec des
 structures présentant des perspectives de viabilité économique ; elle peut être
@@ -7,9 +7,9 @@ renouvelée selon la même procédure.
 Les stipulations financières des conventions pluriannuelles font l'objet
 d'avenants annuels.
 
-La structure transmet chaque année au préfet ses comptes annuels et un bilan
-d'activité précisant pour les salariés en insertion, les actions mises en œuvre
-et leurs résultats à l'issue du parcours dans la structure.
+La structure transmet chaque année ses comptes annuels et un bilan d'activité
+précisant pour les salariés en insertion, les actions mises en œuvre et leurs
+résultats à l'issue du parcours dans la structure.
 
 Ce document précise les réalisations en termes de suivi, d'accompagnement social
 et professionnel, d'encadrement des personnes présentant des difficultés
