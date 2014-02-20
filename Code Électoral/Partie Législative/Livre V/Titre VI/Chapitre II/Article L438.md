@@ -1,23 +1,22 @@
 Article L438
 ----
 Les dispositions du chapitre II du titre IV du livre Ier du présent code, dans
-leur rédaction à la date d'entrée en vigueur de la loi n° 2013-403 du 17 mai
-2013 relative à l'élection des conseillers départementaux, des conseillers
-municipaux et des conseillers communautaires, et modifiant le calendrier
-électoral, sont applicables en Polynésie française dans les communes de moins de
-1 000 habitants, ainsi que dans les communes de moins de 3 500 habitants
-composées de communes associées.
+leur rédaction à la date d'entrée en vigueur de la loi n° 2014-172 du 21 février
+2014 visant à reconnaître le vote blanc aux élections, sont applicables en
+Polynésie française dans les communes de moins de 1 000 habitants, dans les
+communes de moins de 3 500 habitants composées de communes associées, ainsi que
+dans les communes de 3 500 habitants et plus composées d'au moins une commune
+associée de moins de 1 000 habitants.
 
 Pour l'application en Polynésie française de l'article L. 255-1, les mots :
-"comprises dans une commune de 20 000 habitants ou plus" sont supprimés
+"comprises dans une commune de 20 000 habitants ou plus" sont supprimés.
 
 Les dispositions du chapitre III du titre IV du livre Ier du présent code, dans
-leur rédaction à la date d'entrée en vigueur de la loi n° 2013-403 du 17 mai
-2013 relative à l'élection des conseillers départementaux, des conseillers
-municipaux et des conseillers communautaires, et modifiant le calendrier
-électoral sont applicables en Polynésie française dans les communes de 1 000
-habitants et plus, ainsi que dans les communes de 3 500 habitants et plus
-composées de communes associées.
+leur rédaction à la date d'entrée en vigueur de la loi n° 2014-172 du 21 février
+2014 visant à reconnaître le vote blanc aux élections sont applicables en
+Polynésie française dans les communes de 1 000 habitants et plus, ainsi que dans
+les communes de 3 500 habitants et plus composées de communes associées dont
+chaque commune associée compte 1 000 habitants et plus.
 
 Pour leur application en Polynésie française, les deuxième et troisième alinéas
 de l'article L. 261 sont remplacés par un alinéa ainsi rédigé :

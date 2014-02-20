@@ -1,10 +1,9 @@
 Article L388
 ----
 Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction
-à la date d'entrée en vigueur de la loi n° 2013-403 du 17 mai 2013 relative à
-l'élection des conseillers départementaux, des conseillers municipaux et des
-conseillers communautaires, et modifiant le calendrier électoral, à l'exception
-des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection :
+en vigueur à la date de promulgation de la loi n° 2014-172 du 21 février 2014
+visant à reconnaître le vote blanc aux élections, à l'exception des articles L.
+15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection :
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles
 Wallis et Futuna ;

@@ -24,7 +24,11 @@ portés sur les bulletins sont relevés par deux scrutateurs au moins sur des
 listes préparées à cet effet. Si une enveloppe contient plusieurs bulletins, le
 vote est nul quand les bulletins portent des listes et des noms différents. Les
 bulletins multiples ne comptent que pour un seul quand ils désignent la même
-liste ou le même candidat.
+liste ou le même candidat. Les bulletins blancs sont décomptés séparément et
+annexés au procès-verbal. Ils n'entrent pas en compte pour la détermination des
+suffrages exprimés, mais il en est fait spécialement mention dans les résultats
+des scrutins. Une enveloppe ne contenant aucun bulletin est assimilée à un
+bulletin blanc.
 
 Dans les bureaux de vote dotés d'une machine à voter, le président, à la fin des
 opérations de vote, rend visibles les compteurs totalisant les suffrages obtenus

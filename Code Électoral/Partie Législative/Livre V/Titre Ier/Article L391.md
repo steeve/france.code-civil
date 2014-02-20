@@ -3,7 +3,7 @@ Article L391
 Pour les élections mentionnées à l'article L. 388, n'entrent pas en compte dans
 les résultats du dépouillement et sont annexés au procès-verbal :
 
-1° Les bulletins blancs ;
+1° (Abrogé) ;
 
 2° Les bulletins manuscrits ;
 
