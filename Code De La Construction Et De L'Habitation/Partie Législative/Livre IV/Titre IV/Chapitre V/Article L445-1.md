@@ -25,7 +25,12 @@ sociaux et le développement de l'offre foncière ;
 -l'énoncé de la politique patrimoniale et d'investissement de l'organisme,
 comprenant notamment un plan de mise en vente à leurs locataires des logements à
 usage locatif détenus par l'organisme et les orientations retenues pour le
-réinvestissement des fonds provenant de la vente ;
+réinvestissement des fonds provenant de la vente. Cet énoncé comporte les
+mesures d'information à l'égard des locataires en cas de vente, cession ou
+fusion ;
+
+- les modalités de la concertation locative avec les locataires, dans le cadre
+fixé à l'article 44 bis de la loi n° 86-1290 du 23 décembre 1986 précitée ;
 
 -les engagements pris par l'organisme sur la qualité du service rendu aux
 locataires ;
@@ -83,7 +88,7 @@ de l'avenant susvisé, les conventions globales de patrimoine sont qualifiées d
 conventions d'utilité sociale. Si l'organisme d'habitations à loyer modéré n'a
 pas transmis le projet d'avenant dans un délai de trois mois à compter de la
 promulgation de la loi n° 2011-525 du 17 mai 2011 précitée, les sanctions
-prévues au neuvième alinéa du présent article sont applicables.
+prévues au dixième alinéa du présent article sont applicables.
 
 Dans un délai de six mois à compter de la promulgation de la loi n° 2011-525 du
 17 mai 2011 précitée, les organismes d'habitations à loyer modéré n'ayant pas de

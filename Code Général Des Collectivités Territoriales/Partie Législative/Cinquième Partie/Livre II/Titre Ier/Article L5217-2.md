@@ -59,10 +59,14 @@ d) Aménagement, entretien et gestion des aires d'accueil des gens du voyage ;
 
 4° En matière de politique de la ville :
 
-a) Dispositifs contractuels de développement urbain, de développement local et
-d'insertion économique et sociale ;
+a) Elaboration du diagnostic du territoire et définition des orientations du
+contrat de ville ;
 
-b) Dispositifs locaux de prévention de la délinquance et d'accès au droit ;
+b) Animation et coordination des dispositifs contractuels de développement
+urbain, de développement local et d'insertion économique et sociale ainsi que
+des dispositifs locaux de prévention de la délinquance ;
+
+c) Programmes d'actions définis dans le contrat de ville ;
 
 5° En matière de gestion des services d'intérêt collectif :
 

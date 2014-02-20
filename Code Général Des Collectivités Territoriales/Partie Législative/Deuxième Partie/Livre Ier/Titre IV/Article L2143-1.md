@@ -18,3 +18,8 @@ allouer chaque année des crédits pour leur fonctionnement.
 Les communes dont la population est comprise entre 20 000 et 79 999 habitants
 peuvent appliquer les présentes dispositions. Dans ce cas, les articles L.
 2122-2-1 et L. 2122-18-1 s'appliquent.
+
+Dans chaque commune soumise à l'obligation de création d'un conseil de quartier,
+le maire peut décider que le conseil citoyen prévu à l'article 7 de la loi n°
+2014-173 du 21 février 2014 de programmation pour la ville et la cohésion
+urbaine se substitue au conseil de quartier.

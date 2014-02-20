@@ -15,4 +15,5 @@ famille ou de sa grossesse, de ses caractéristiques génétiques, de son
 appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une
 nation ou une race, de ses opinions politiques, de ses activités syndicales ou
 mutualistes, de ses convictions religieuses, de son apparence physique, de son
-nom de famille ou en raison de son état de santé ou de son handicap.
+nom de famille, de son lieu de résidence ou en raison de son état de santé ou de
+son handicap.

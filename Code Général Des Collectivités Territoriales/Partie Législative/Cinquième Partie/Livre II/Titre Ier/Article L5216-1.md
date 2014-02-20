@@ -20,7 +20,14 @@ délibération défavorable à l'arrêté dressant la liste des communes ou si p
 quart des conseils municipaux des communes membres de l'établissement existant
 s'opposent au retrait de ladite commune. Ces communes s'associent au sein d'un
 espace de solidarité, en vue d'élaborer et conduire ensemble un projet commun de
-développement urbain et d'aménagement de leur territoire.
+développement urbain et d'aménagement de leur territoire. Lorsque la communauté
+d'agglomération comprend un ou plusieurs quartiers prioritaires de la politique
+de la ville, ce projet commun intègre un volet relatif à la cohésion sociale et
+urbaine permettant de définir les orientations de la communauté d'agglomération
+en matière de politique de la ville et de renforcement des solidarités entre ses
+communes membres. Il détermine les modalités selon lesquelles les compétences de
+la communauté d'agglomération concourent aux objectifs de cohésion sociale et
+territoriale.
 
 A titre expérimental et pendant une durée maximale de trois ans à compter de la
 promulgation de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des

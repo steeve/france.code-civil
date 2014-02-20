@@ -38,26 +38,28 @@ satisfaire les besoins en logements et en places d'hébergement, dans le respect
 de la mixité sociale et en assurant une répartition équilibrée et diversifiée de
 l'offre de logements, en précisant :
 
--les objectifs d'offre nouvelle ;
+- les objectifs d'offre nouvelle ;
 
--les actions à mener en vue de l'amélioration et de la réhabilitation du parc
+- les actions à mener en vue de l'amélioration et de la réhabilitation du parc
 existant, qu'il soit public ou privé. A cette fin, il précise les opérations
 programmées d'amélioration de l'habitat et les actions de lutte contre l'habitat
 indigne ;
 
--les actions et opérations de requalification des quartiers anciens dégradés au
+- les actions et opérations de requalification des quartiers anciens dégradés au
 sens de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour
 le logement et la lutte contre l'exclusion ;
 
--les actions et opérations de renouvellement urbain, et notamment les actions de
-rénovation urbaine au sens de la loi n° 2003-710 du 1er août 2003 d'orientation
-et de programmation pour la ville et la rénovation urbaine, impliquant la
-démolition et la reconstruction de logements sociaux, la démolition de logements
-situés dans des copropriétés dégradées, assorties d'un plan de revalorisation du
-patrimoine conservé et des mesures envisagées pour améliorer la qualité urbaine
-des quartiers intéressés et des services offerts aux habitants ;
+- les actions et opérations de rénovation urbaine et de renouvellement urbain,
+notamment celles mentionnées par la loi n° 2003-710 du 1er août 2003
+d'orientation et de programmation pour la ville et la rénovation urbaine,
+impliquant la démolition et la reconstruction de logements sociaux, la
+démolition de logements situés dans des copropriétés dégradées, assorties d'un
+plan de revalorisation du patrimoine conservé et des mesures envisagées pour
+améliorer la qualité urbaine des quartiers intéressés et des services offerts
+aux habitants ainsi que de la prise en compte du relogement des habitants et des
+objectifs des politiques de peuplement ;
 
--la typologie des logements à construire au regard d'une évaluation de la
+- la typologie des logements à construire au regard d'une évaluation de la
 situation économique et sociale des habitants et futurs habitants et de son
 évolution prévisible. Cette typologie doit notamment préciser l'offre de
 logements locatifs sociaux (prêts locatifs sociaux et prêts locatifs à usage
@@ -75,24 +77,24 @@ assimilés à des logements intermédiaires au sens de l'article L. 302-16
 lorsqu'ils ont été achevés ou ont fait l'objet d'une demande de permis de
 construire déposée avant le 1er mars 2014 ;
 
--les réponses apportées aux besoins particuliers des personnes mal logées,
+- les réponses apportées aux besoins particuliers des personnes mal logées,
 défavorisées ou présentant des difficultés particulières ;
 
--les réponses apportées aux besoins particuliers des étudiants.
+- les réponses apportées aux besoins particuliers des étudiants.
 
 Le programme local de l'habitat comprend un programme d'actions détaillé par
 commune et, le cas échéant, par secteur géographique. Le programme d'actions
 détaillé indique pour chaque commune ou secteur :
 
--le nombre et les types de logements à réaliser ;
+- le nombre et les types de logements à réaliser ;
 
--les moyens, notamment fonciers, à mettre en œuvre pour atteindre les objectifs
+- les moyens, notamment fonciers, à mettre en œuvre pour atteindre les objectifs
 et principes fixés ;
 
--l'échéancier prévisionnel de réalisation de logements et du lancement
+- l'échéancier prévisionnel de réalisation de logements et du lancement
 d'opérations d'aménagement de compétence communautaire ;
 
--les orientations relatives à l'application du b de l'article L. 123-2, des 15°
+- les orientations relatives à l'application du b de l'article L. 123-2, des 15°
 et 16° de l'article L. 123-1 et de l'article L. 127-1 du code de l'urbanisme.
 
 Un programme local de l'habitat est élaboré dans les communautés de communes

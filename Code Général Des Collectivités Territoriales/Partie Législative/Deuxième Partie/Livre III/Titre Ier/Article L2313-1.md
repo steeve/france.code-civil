@@ -59,12 +59,22 @@ font l'objet d'une insertion dans une publication locale diffusée dans la
 commune.
 
 Les communes et leurs groupements de 10 000 habitants et plus ayant institué la
-taxe d'enlèvement des ordures ménagères conformément aux articles 1520, 1609
+taxe d'enlèvement des ordures ménagères conformément aux articles 1520,1609
 quater, 1609 quinquies C et 1379-0 bis du code général des impôts et qui
 assurent au moins la collecte des déchets ménagers retracent dans un état
 spécial annexé aux documents budgétaires, d'une part, le produit perçu de la
 taxe précitée, et d'autre part, les dépenses, directes et indirectes, afférentes
 à l'exercice de la compétence susmentionnée.
+
+Les établissements publics de coopération intercommunale et les communes
+signataires de contrats de ville définis à l'article 6 de la loi n° 2014-173 du
+21 février 2014 de programmation pour la ville et la cohésion urbaine présentent
+annuellement un état, annexé à leur budget, retraçant les recettes et les
+dépenses correspondant aux engagements pris dans le cadre de ces contrats. Y
+figurent l'ensemble des actions conduites et des moyens apportés par les
+différentes parties au contrat, notamment les départements et les régions, en
+distinguant les moyens qui relèvent de la politique de la ville de ceux qui
+relèvent du droit commun.
 
 Pour l'ensemble des communes, les documents budgétaires sont assortis d'états
 portant sur la situation patrimoniale et financière de la collectivité ainsi que

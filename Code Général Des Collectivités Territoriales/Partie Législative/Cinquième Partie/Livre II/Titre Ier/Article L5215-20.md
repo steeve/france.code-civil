@@ -48,12 +48,11 @@ défavorisées ;
 c) Opérations programmées d'amélioration de l'habitat, actions de réhabilitation
 et résorption de l'habitat insalubre ;
 
-4° En matière de politique de la ville dans la communauté :
-
-a) Dispositifs contractuels de développement urbain, de développement local et
-d'insertion économique et sociale ;
-
-b) Dispositifs locaux de prévention de la délinquance ;
+4° En matière de politique de la ville : élaboration du diagnostic du territoire
+et définition des orientations du contrat de ville ; animation et coordination
+des dispositifs contractuels de développement urbain, de développement local et
+d'insertion économique et sociale ainsi que des dispositifs locaux de prévention
+de la délinquance ; programmes d'actions définis dans le contrat de ville ;
 
 5° En matière de gestion des services d'intérêt collectif :
 

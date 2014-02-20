@@ -25,10 +25,11 @@ L'agence participe, sous l'autorité du représentant de l'Etat territorialement
 compétent, à l'élaboration et à la mise en œuvre du volet sanitaire des plans de
 secours et de défense.
 
-L'agence est associée à l'élaboration et à la mise en œuvre des programmes
-d'action prévus par l'article 1er de la loi n° 2003-710 du 1er août 2003
-d'orientation et de programmation pour la ville et la rénovation urbaine, dans
-le domaine de la santé.
+L'agence contribue à la réalisation des objectifs de la politique de la ville
+définis à l'article 1er de la loi n° 2014-173 du 21 février 2014 de
+programmation pour la ville et la cohésion urbaine. A ce titre, elle est
+associée à l'élaboration, à la mise en œuvre et à l'évaluation des contrats de
+ville prévus à l'article 6 de la même loi et en est signataire.
 
 Elle fournit aux autorités compétentes les avis sanitaires nécessaires à
 l'élaboration des plans et programmes ou de toute décision impliquant une

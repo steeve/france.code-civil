@@ -24,7 +24,8 @@ c) A des interventions à caractère très social dans le domaine du logement,
 notamment sous la forme d'opérations relatives au logement ou à l'hébergement
 des personnes défavorisées et de dépenses d'accompagnement social ;
 
-d) A la mise en œuvre du programme national de rénovation urbaine ;
+d) A la mise en œuvre du programme national de rénovation urbaine et du nouveau
+programme national de renouvellement urbain ;
 
 e) A la mise en œuvre du programme national de requalification des quartiers
 anciens dégradés ainsi qu'au soutien à l'amélioration du parc privé ;

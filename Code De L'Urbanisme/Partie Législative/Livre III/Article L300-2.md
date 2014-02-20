@@ -1,6 +1,6 @@
 Article L300-2
 ----
-I. - Font l'objet d'une concertation associant, pendant toute la durée de
+I. ― Font l'objet d'une concertation associant, pendant toute la durée de
 l'élaboration du projet, les habitants, les associations locales et les autres
 personnes concernées :
 
@@ -11,9 +11,11 @@ local d'urbanisme ;
 
 3° Les opérations d'aménagement ayant pour effet de modifier de façon
 substantielle le cadre de vie ou l'activité économique, dont la liste est
-arrêtée par décret en Conseil d'Etat.
+arrêtée par décret en Conseil d'Etat ;
 
-II. - Les objectifs poursuivis et les modalités de la concertation sont fixés
+4° Les projets de renouvellement urbain.
+
+II. ― Les objectifs poursuivis et les modalités de la concertation sont fixés
 par :
 
 1° Le préfet lorsque la révision du document d'urbanisme ou l'opération sont à
@@ -43,14 +45,14 @@ les objectifs poursuivis et les modalités de la concertation sont fixés par le
 conseil municipal ou par l'organe délibérant de l'établissement public de
 coopération intercommunale.
 
-III. - A l'issue de la concertation, l'autorité mentionnée au II en arrête le
+III. ― A l'issue de la concertation, l'autorité mentionnée au II en arrête le
 bilan.
 
 Lorsque le projet fait l'objet d'une enquête publique réalisée conformément au
 chapitre III du titre II du livre Ier du code de l'environnement, le bilan de la
 concertation est joint au dossier de l'enquête.
 
-IV. - Les documents d'urbanisme et les opérations mentionnées aux I et II ne
+IV. ― Les documents d'urbanisme et les opérations mentionnées aux I et II ne
 sont pas illégaux du seul fait des vices susceptibles d'entacher la
 concertation, dès lors que les modalités définies par la décision ou la
 délibération prévue au II ont été respectées. Les autorisations d'occuper ou

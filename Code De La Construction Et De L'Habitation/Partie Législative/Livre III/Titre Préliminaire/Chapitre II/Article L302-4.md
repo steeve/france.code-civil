@@ -9,7 +9,11 @@ réglementaires relatives à la politique du logement entrées en vigueur après
 adoption ;
 
 b) Pour tenir compte des évolutions du contexte démographique, économique et
-social.
+social ;
+
+c) Pour prendre en compte les objectifs des projets de rénovation urbaine et de
+renouvellement urbain mentionnés par la loi n° 2003-710 du 1er août 2003
+d'orientation et de programmation pour la ville et la rénovation urbaine.
 
 Lorsque le périmètre de l'établissement public de coopération intercommunale est
 étendu à une ou plusieurs communes, le programme local de l'habitat peut faire

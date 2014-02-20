@@ -8,7 +8,7 @@ et comprennent au moins dix communes dont un chef-lieu de canton ou la totalité
 des communes d'un canton ou bien, lorsqu'elle est supérieure à 50 000 habitants,
 n'inclut pas de commune centre ou de commune chef-lieu de département de plus de
 15 000 habitants, sont éligibles à la dotation prévue au quatrième alinéa du II
-de l'article L. 5211-29 lorsqu'elles exercent au moins quatre des sept groupes
+de l'article L. 5211-29 lorsqu'elles exercent au moins quatre des huit groupes
 de compétences suivants :
 
 1° En matière de développement économique : aménagement, entretien et gestion de
@@ -25,6 +25,13 @@ communautaire ;
 4° Politique du logement social d'intérêt communautaire et action, par des
 opérations d'intérêt communautaire, en faveur du logement des personnes
 défavorisées ;
+
+4° bis En matière de politique de la ville : élaboration du diagnostic du
+territoire et définition des orientations du contrat de ville ; animation et
+coordination des dispositifs contractuels de développement urbain, de
+développement local et d'insertion économique et sociale ainsi que des
+dispositifs locaux de prévention de la délinquance ; programmes d'actions
+définis dans le contrat de ville ;
 
 5° Collecte et traitement des déchets des ménages et déchets assimilés ;
 
