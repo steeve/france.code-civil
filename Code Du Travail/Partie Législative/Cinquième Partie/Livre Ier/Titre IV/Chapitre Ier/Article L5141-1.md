@@ -33,8 +33,8 @@ mentionné à l'article L. 127-1 du code de commerce, sous réserve qu'elles
 remplissent l'une des conditions prévues aux 1° à 6° à la date de conclusion de
 ce contrat ;
 
-8° Les personnes physiques créant une entreprise implantée au sein d'une zone
-urbaine sensible ;
+8° Les personnes physiques créant une entreprise implantée au sein d'un quartier
+prioritaire de la politique de la ville ;
 
 9° Les bénéficiaires du complément de libre choix d'activité mentionné à
 l'article L. 531-4 du code de la sécurité sociale.

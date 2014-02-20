@@ -23,16 +23,15 @@ disposition de personnes défavorisées mentionnées au II de l'article L. 301-1
 
 Lorsqu'une personne physique a acquis soit un logement vacant auprès d'un
 organisme d'habitations à loyer modéré, soit un logement locatif appartenant à
-une société d'économie mixte ou à l'association mentionnée à l'article L. 313-34
-et faisant l'objet d'une convention conclue en application de l'article L. 351-2
-et devenu vacant, soit un logement auparavant acquis par une telle société en
-application du septième alinéa du présent article et devenu vacant, elle ne peut
-se porter acquéreur d'un autre logement vacant appartenant à un organisme
-d'habitations à loyer modéré ou appartenant à une société d'économie mixte ou à
-l'association mentionnée à l'article L. 313-34 et faisant l'objet d'une
-convention conclue en application de l'article L. 351-2 ou acquis par une telle
-société en application du septième alinéa du présent article, sous peine
-d'entacher de nullité le contrat de vente de cet autre logement.
+une société d'économie mixte et faisant l'objet d'une convention conclue en
+application de l'article L. 351-2 et devenu vacant, soit un logement auparavant
+acquis par une telle société en application du septième alinéa du présent
+article et devenu vacant, elle ne peut se porter acquéreur d'un autre logement
+vacant appartenant à un organisme d'habitations à loyer modéré ou appartenant à
+une société d'économie mixte et faisant l'objet d'une convention conclue en
+application de l'article L. 351-2 ou acquis par une telle société en application
+du septième alinéa du présent article, sous peine d'entacher de nullité le
+contrat de vente de cet autre logement.
 
 Nonobstant les dispositions du premier ou du deuxième alinéa du présent article,
 les logements peuvent être vendus à un autre organisme d'habitations à loyer

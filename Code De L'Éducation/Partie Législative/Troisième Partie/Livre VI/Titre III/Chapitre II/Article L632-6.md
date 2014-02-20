@@ -33,11 +33,10 @@ contrat d'engagement de service public choisissent leur futur lieu d'exercice
 sur une liste nationale de lieux d'exercice où l'offre médicale est insuffisante
 ou la continuité de l'accès aux soins menacée, en priorité les zones de
 revitalisation rurale visées à l'article 1465 A du code général des impôts et
-les zones urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115
-du 4 février 1995 d'orientation pour l'aménagement et le développement du
-territoire. Cette liste est établie par le Centre national de gestion sur
-proposition des agences régionales de santé. Elles arrêtent les lieux d'exercice
-conformément aux conditions définies par voie réglementaire.
+les quartiers prioritaires de la politique de la ville. Cette liste est établie
+par le Centre national de gestion sur proposition des agences régionales de
+santé. Elles arrêtent les lieux d'exercice conformément aux conditions définies
+par voie réglementaire.
 
 Le directeur général de l'agence régionale de santé dans le ressort duquel ils
 exercent leurs fonctions peut, à leur demande et à tout moment, changer le lieu

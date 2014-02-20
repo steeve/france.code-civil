@@ -6,9 +6,9 @@ l'emploi et à la qualification professionnelle.
 Il est ouvert aux jeunes âgés de seize à vingt-cinq ans révolus dont le niveau
 de formation est inférieur à celui d'un diplôme de fin de second cycle long de
 l'enseignement général, technologique ou professionnel, aux jeunes âgés de seize
-à vingt-cinq ans révolus qui résident en zone urbaine sensible ainsi qu'aux
-jeunes titulaires du contrat d'insertion dans la vie sociale défini à l'article
-L. 5131-4.
+à vingt-cinq ans révolus qui résident dans un quartier prioritaire de la
+politique de la ville ainsi qu'aux jeunes titulaires du contrat d'insertion dans
+la vie sociale défini à l'article L. 5131-4.
 
 Le contrat jeune en entreprise donne lieu :
 

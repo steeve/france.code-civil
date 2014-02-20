@@ -8,9 +8,8 @@ bénéficié d'une exonération prévue aux articles 1384, 1384 A, au II bis de
 l'article 1385 ou acquis avant le 1er janvier 1998 en vue de leur location avec
 le concours financier de l'Etat en application du 3° de l'article L. 351-2 du
 code de la construction et de l'habitation, fait l'objet d'un abattement de 30 %
-lorsque ces logements sont situés en zones urbaines sensibles mentionnées au 3
-de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire.
+lorsque ces logements sont situés dans un quartier prioritaire de la politique
+de la ville.
 
 II. - L'abattement prévu au I est réservé aux logements faisant l'objet d'une
 convention passée entre le propriétaire et le représentant de l'Etat dans le

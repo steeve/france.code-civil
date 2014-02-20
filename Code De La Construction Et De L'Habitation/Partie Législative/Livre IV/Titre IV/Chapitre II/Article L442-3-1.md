@@ -7,8 +7,8 @@ nonobstant les plafonds de ressources prévus à l'article L. 441-1.
 Le loyer principal du nouveau logement doit être inférieur à celui du logement
 d'origine.
 
-Les conditions d'une aide à la mobilité et d'une aide au stockage des meubles
-prises en charge par le bailleur sont définies par décret.
+Les conditions d'une aide à la mobilité prise en charge par le bailleur sont
+définies par décret.
 
 Dans les logements situés sur les territoires définis au 7° de l'article 10 de
 la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de
@@ -27,6 +27,10 @@ soixante-cinq ans, aux locataires présentant un handicap au sens de l'article L
 personne présentant un tel handicap et, selon des modalités définies par décret,
 aux locataires présentant une perte d'autonomie physique ou psychique, ou ayant
 à leur charge une personne présentant une telle perte d'autonomie. Il ne
-s'applique pas non plus aux logements situés dans les zones urbaines sensibles
-définies au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
-d'orientation pour l'aménagement et le développement du territoire.
+s'applique pas non plus aux logements situés dans les quartiers prioritaires de
+la politique de la ville.
+
+Ces dispositions demeurent non applicables aux locataires bénéficiant de cet
+avantage et résidant, au plus tard le 31 décembre 2014, dans les quartiers
+classés en zones urbaines sensibles qui n'auront pas été classés, à compter du
+1er janvier 2015, en quartiers prioritaires de la politique de la ville.

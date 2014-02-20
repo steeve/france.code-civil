@@ -20,12 +20,10 @@ emplois d'avenir professeur lorsqu'ils effectuent leurs études dans une académ
 ou dans une discipline connaissant des besoins particuliers de recrutement et
 qu'ils justifient :
 
-1° Soit d'avoir résidé pendant une durée minimale dans une zone urbaine sensible
-au sens du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation
-pour l'aménagement et le développement du territoire, dans une zone de
-revitalisation rurale au sens de l'article 1465 A du code général des impôts,
-dans un département d'outre-mer, à Saint-Barthélemy, à Saint-Martin ou à
-Saint-Pierre-et-Miquelon ;
+1° Soit d'avoir résidé pendant une durée minimale dans un quartier prioritaire
+de la politique de la ville, dans une zone de revitalisation rurale au sens de
+l'article 1465 A du code général des impôts, dans un département d'outre-mer, à
+Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon ;
 
 2° Soit d'avoir effectué pendant une durée minimale leurs études secondaires
 dans un établissement situé dans l'une de ces zones ou relevant de l'éducation

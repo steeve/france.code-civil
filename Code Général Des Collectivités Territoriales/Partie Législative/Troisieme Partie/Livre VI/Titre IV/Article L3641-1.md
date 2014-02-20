@@ -39,12 +39,20 @@ a) Programme local de l'habitat ; b) Politique du logement ; aides financières
 au logement social ; actions en faveur du logement social ; actions en faveur du
 logement des personnes défavorisées ; c) Amélioration du parc immobilier bâti,
 réhabilitation et résorption de l'habitat insalubre ; d) Aménagement, entretien
-et gestion des aires d'accueil des gens du voyage ; 4° En matière de politique
-de la ville : a) Dispositifs contractuels de développement urbain, de
-développement local et d'insertion économique et sociale ; b) Dispositifs locaux
-de prévention de la délinquance et d'accès au droit ; 5° En matière de gestion
-des services d'intérêt collectif : a) Assainissement et eau ; b) Création,
-gestion, extension et translation des cimetières et sites cinéraires
+et gestion des aires d'accueil des gens du voyage ;
+
+4° En matière de politique de la ville :
+
+a) Elaboration du diagnostic du territoire et définition des orientations du
+contrat de ville ;
+
+b) Animation et coordination des dispositifs contractuels de développement
+urbain, de développement local et d'insertion économique et sociale ainsi que
+des dispositifs locaux de prévention de la délinquance ;
+
+c) Programmes d'actions définis dans le contrat de ville ; 5° En matière de
+gestion des services d'intérêt collectif : a) Assainissement et eau ; b)
+Création, gestion, extension et translation des cimetières et sites cinéraires
 métropolitains, ainsi que création, gestion et extension des crématoriums
 métropolitains ; c) Abattoirs, abattoirs marchés et marchés d'intérêt national ;
 d) Services d'incendie et de secours, dans les conditions fixées au chapitre IV

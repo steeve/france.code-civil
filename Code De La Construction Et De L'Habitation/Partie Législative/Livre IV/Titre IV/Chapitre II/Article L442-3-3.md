@@ -33,6 +33,10 @@ un dépassement du double des plafonds de ressources, atteignent leur
 soixante-cinquième anniversaire et aux locataires présentant un handicap au sens
 de l'article L. 114 du code de l'action sociale et des familles ou ayant à leur
 charge une personne présentant un tel handicap. Il ne s'applique pas non plus
-aux logements situés dans les zones urbaines sensibles définies au 3 de
-l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire.
+aux logements situés dans les quartiers prioritaires de la politique de la
+ville.
+
+Il demeure non applicable aux locataires bénéficiant de cet avantage et
+résidant, au plus tard le 31 décembre 2014, dans les quartiers classés en zones
+urbaines sensibles qui n'auront pas été classés, à compter du 1er janvier 2015,
+en quartiers prioritaires de la politique de la ville.

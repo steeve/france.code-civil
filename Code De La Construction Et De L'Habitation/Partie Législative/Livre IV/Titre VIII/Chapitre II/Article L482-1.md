@@ -23,6 +23,10 @@ soixante-cinq ans, aux locataires présentant un handicap au sens de l'article L
 personne présentant un tel handicap et, selon des modalités définies par décret,
 aux locataires présentant une perte d'autonomie physique ou psychique, ou ayant
 à leur charge une personne présentant une telle perte d'autonomie. Il ne
-s'applique pas non plus aux logements situés dans les zones urbaines sensibles
-définies au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
-d'orientation pour l'aménagement et le développement du territoire.
+s'applique pas non plus aux logements situés dans les quartiers prioritaires de
+la politique de la ville.
+
+Ces dispositions demeurent non applicables aux locataires bénéficiant de cet
+avantage et résidant, au plus tard le 31 décembre 2014, dans les quartiers
+classés en zones urbaines sensibles qui n'auront pas été classés, à compter du
+1er janvier 2015, en quartiers prioritaires de la politique de la ville.
