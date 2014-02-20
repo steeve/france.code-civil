@@ -18,7 +18,9 @@ peut, à sa demande, être entendu par la commission conformément au cinquième
 alinéa de l'article L. 331-3.
 
 La décision de recevabilité est également notifiée à la caisse d'allocations
-familiales dont relève le débiteur.
+familiales ou à la caisse de mutualité sociale agricole dont relève le débiteur,
+en vue du rétablissement de l'aide personnalisée au logement ou des allocations
+de logement en application du quatrième alinéa de l'article L. 331-3-1.
 
 Lorsque la commission est destinataire d'un recours, son secrétariat le
 transmet, avec le dossier, au greffe du tribunal d'instance.

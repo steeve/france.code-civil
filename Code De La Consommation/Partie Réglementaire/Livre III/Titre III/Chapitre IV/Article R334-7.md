@@ -1,10 +1,9 @@
 Article R334-7
 ----
-Dans les deux mois, selon le cas, de sa saisine ou de l'expiration du délai
-prévu à l'article R. 334-6, la commission notifie, par lettre recommandée avec
-demande d'avis de réception, au débiteur et aux créanciers les mesures qu'elle
-entend imposer en application de l'article L. 331-7 ou qu'elle recommande en
-application des articles L. 331-7-1 et L. 331-7-2.
+La commission notifie, par lettre recommandée avec demande d'avis de réception,
+au débiteur et aux créanciers les mesures qu'elle entend imposer en application
+de l'article L. 331-7 ou qu'elle recommande en application des articles L.
+331-7-1 et L. 331-7-2.
 
 En cas d'application du 3° de l'article L. 331-7 ou de l'article L. 331-7-1,
 cette lettre énonce les éléments qui motivent spécialement sa décision.

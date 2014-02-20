@@ -8,8 +8,9 @@ ou l'interdiction produit effet, selon les cas, jusqu'à l'approbation du plan
 conventionnel de redressement prévu à l'article L. 331-6, jusqu'à la décision
 imposant les mesures prévues par l'article L. 331-7, jusqu'à l'homologation des
 mesures recommandées en application des articles L. 331-7-1, L. 331-7-2 et L.
-332-5 ou jusqu'au jugement d'ouverture d'une procédure de rétablissement
-personnel avec liquidation judiciaire, sans pouvoir excéder un an. Elle
+332-5, jusqu'au jugement prononçant un rétablissement personnel sans liquidation
+judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement
+personnel avec liquidation judiciaire, sans pouvoir excéder deux ans. Elle
 reproduit les dispositions des deuxième et troisième alinéas de l'article L.
 331-3-1.
 

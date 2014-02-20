@@ -19,4 +19,4 @@ soit jusqu'à l'expiration du délai mentionné à l'alinéa précédent, soit, 
 débiteur use de la faculté prévue à ce même alinéa, jusqu'à la décision imposant
 les mesures prévues par l'article L. 331-7 ou jusqu'à l'homologation par le juge
 des mesures recommandées en application des articles L. 331-7-1 et L. 331-7-2,
-sans pouvoir excéder un an.
+sans pouvoir excéder deux ans.

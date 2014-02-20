@@ -9,4 +9,4 @@ régularisé par suite de l'effacement total de la créance correspondante.
 
 L'attestation est établie et adressée au débiteur par le greffe lors de l'envoi
 de l'ordonnance prévue au premier alinéa de l'article R. 334-22 ou du jugement
-prévu aux articles R. 334-26, R. 334-72 et R. 334-73.
+prévu aux articles R. 334-26, R. 334-27-2, R. 334-72 et R. 334-73.

@@ -10,7 +10,7 @@ avant la date prévue pour la vente.
 Cette demande indique les nom, prénoms et adresse du débiteur ainsi que ceux des
 créanciers poursuivants ou, pour les personnes morales, leur dénomination et
 leur siège social. Elle précise les causes graves et dûment justifiées invoquées
-à l'appui de la demande.Y sont annexés un état des revenus du débiteur, un
+à l'appui de la demande. Y sont annexés un état des revenus du débiteur, un
 relevé des éléments actifs et passifs de son patrimoine et la liste des
 procédures d'exécution diligentées à l'encontre de ses biens, des cessions de
 rémunération qu'il a consenties et des mesures d'expulsion de son logement,
@@ -18,8 +18,8 @@ rémunération qu'il a consenties et des mesures d'expulsion de son logement,
 
 Le jugement statuant sur le report de la date d'adjudication est notifié par
 lettre recommandée avec demande d'avis de réception par le greffe du juge chargé
-de la saisie immobilière à la commission, au débiteur ainsi qu'au créancier
-poursuivant et aux créanciers inscrits.
+de la saisie immobilière au débiteur ainsi qu'au créancier poursuivant et aux
+créanciers inscrits. La commission en est avisée par lettre simple.
 
 La notification indique que ce jugement n'est susceptible ni d'appel, ni
 d'opposition.

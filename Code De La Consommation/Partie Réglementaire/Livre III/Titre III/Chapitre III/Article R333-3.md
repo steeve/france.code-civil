@@ -27,8 +27,8 @@ l'encontre des biens du débiteur ainsi que des cessions de rémunération qu'il
 consenties et portant sur les dettes autres qu'alimentaires. Elle précise que
 cette suspension et cette interdiction sont acquises jusqu'à l'homologation par
 le juge de la recommandation ou jusqu'au jugement d'ouverture de la procédure de
-rétablissement personnel avec liquidation judiciaire, sans pouvoir excéder un
-an. La recommandation aux fins de rétablissement personnel sans liquidation
+rétablissement personnel avec liquidation judiciaire, sans pouvoir excéder deux
+ans. La recommandation aux fins de rétablissement personnel sans liquidation
 judiciaire ou la saisine du juge du tribunal d'instance aux fins d'ouverture
 d'une procédure de rétablissement personnel avec liquidation judiciaire est
 notifiée par lettre recommandée avec demande d'avis de réception, ou remise
