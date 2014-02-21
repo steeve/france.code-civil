@@ -1,17 +1,15 @@
 Article L511-49
 ----
 Les entreprises d'investissement, établissements de crédit, compagnies
-financières et compagnies financières holding mixtes, ainsi que leurs filiales
-mentionnées à l'article L. 511-48 qui réalisent des opérations sur instruments
-financiers, assignent à leurs unités internes chargées de ces opérations des
-règles d'organisation et de fonctionnement de nature à assurer le respect des
-articles L. 511-47 et L. 511-48.
-
-Ils s'assurent notamment que le contrôle du respect de ces règles est assuré de
-manière adéquate par le système de contrôle interne mentionné à l'article L.
-511-41 et que les règles de bonne conduite et autres obligations
-professionnelles assignées à leurs services sont conformes aux III et IV de
-l'article L. 621-7.
+financières holding et compagnies financières holding mixtes, ainsi que leurs
+filiales mentionnées à l'article L. 511-48 qui réalisent des opérations sur
+instruments financiers, assignent à leurs unités internes chargées de ces
+opérations des règles d'organisation et de fonctionnement de nature à assurer le
+respect des articles L. 511-47 et L. 511-48. Ils s'assurent notamment que le
+contrôle du respect de ces règles est assuré de manière adéquate par
+ledispositif de gouvernance prévu à l'article L. 511-55 et que les règles de
+bonne conduite et autres obligations professionnelles assignées à leurs services
+sont conformes aux III et IV de l'article L. 621-7.
 
 Ils communiquent à l'Autorité de contrôle prudentiel et de résolution ainsi que,
 pour ce qui la concerne, à l'Autorité des marchés financiers la description de
