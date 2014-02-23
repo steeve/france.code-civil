@@ -1,19 +1,15 @@
 Article L5431-6
 ----
-Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour les
-fabricants, leurs représentants, les personnes pour le compte desquelles les
-produits cosmétiques sont fabriqués ou les responsables de la mise sur le marché
-des produits cosmétiques importés d'un Etat qui n'est ni membre de l'Union
-européenne, ni partie à l'accord sur l'Espace économique européen :
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour la
+personne responsable, déterminée par l'article 4 du règlement (CE) n° 1223/2009
+du Parlement européen et du Conseil, du 30 novembre 2009, relatif aux produits
+cosmétiques :
 
 1° De mettre sur le marché à titre gratuit ou onéreux un produit cosmétique sans
-tenir à disposition des autorités de contrôle le dossier mentionné au troisième
-alinéa de l'article L. 5131-6 ;
+tenir à disposition des autorités de contrôle mentionnées à l'article L. 5431-1,
+à l'adresse indiquée sur l'étiquetage de ce produit, le dossier d'information
+prévu au paragraphe 1 de l'article 11 du même règlement ;
 
 2° De mettre sur le marché à titre gratuit ou onéreux un produit cosmétique sans
-que le dossier mentionné au troisième alinéa de l'article L. 5131-6 comporte les
-mentions obligatoires prévues par le 3° de l'article L. 5131-11 ;
-
-3° De ne pas transmettre à l'Agence nationale de sécurité du médicament et des
-produits de santé , sur sa demande, l'une des informations mentionnées à
-l'article L. 5131-10.
+que le dossier d'information mentionné à l'article 11 dudit règlement comporte
+les mentions obligatoires prévues au paragraphe 2 du même article.

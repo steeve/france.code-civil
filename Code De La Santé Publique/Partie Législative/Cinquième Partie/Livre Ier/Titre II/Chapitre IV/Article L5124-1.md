@@ -15,4 +15,4 @@ de thérapie innovante mentionnés au 17° de l'article L. 5121-1 peuvent égale
 4211-9-1.
 
 Les personnes se livrant à une activité de courtage de médicaments mentionnée à
-l'article L. 5121-19 ne sont pas soumises aux dispositions du présent chapitre.
+l'article L. 5124-19 ne sont pas soumises aux dispositions du présent chapitre.

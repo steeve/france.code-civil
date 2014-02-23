@@ -5,6 +5,11 @@ attribuée pour un médicament dérivé du sang que lorsqu'il est préparé à p
 de sang ou de composants du sang prélevés dans les conditions définies aux
 articles L. 1221-3 à L. 1221-7.
 
+Dans des conditions déterminées par voie réglementaire, un médicament mentionné
+au premier alinéa peut être marqué d'un pictogramme " Label éthique " indiquant
+qu'il est issu de sang ou de composants du sang prélevés dans les conditions
+définies aux articles L. 1221-3 à L. 1221-7.
+
 Toutefois, à titre exceptionnel, une autorisation de mise sur le marché peut,
 par dérogation, être délivrée à un médicament préparé à partir de sang ou de
 composants de sang prélevés dans des conditions non conformes au second alinéa

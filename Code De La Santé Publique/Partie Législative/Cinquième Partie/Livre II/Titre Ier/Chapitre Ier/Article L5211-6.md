@@ -21,4 +21,8 @@ l'Agence nationale de sécurité du médicament et des produits de santé en
 application de cet article ;
 
 6° Les modalités de l'évaluation des données cliniques des dispositifs médicaux
-mentionnées à l'article L. 5211-3-2.
+mentionnées à l'article L. 5211-3-2 ;
+
+7° Les modalités de délivrance des dispositifs médicaux prescrits dans un autre
+Etat membre de l'Union européenne ainsi que les modalités de prescription des
+dispositifs médicaux en vue de leur délivrance dans un autre Etat membre.

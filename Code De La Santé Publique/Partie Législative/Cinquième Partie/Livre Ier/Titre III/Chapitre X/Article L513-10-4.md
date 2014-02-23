@@ -1,5 +1,7 @@
 Article L513-10-4
 ----
-Les modalités d'application du présent chapitre et les règles relatives à la
-composition ainsi que les exigences de qualité et de sécurité des produits de
-tatouage sont déterminées par décret en Conseil d'Etat.
+Les produits de tatouage mis sur le marché ne doivent pas nuire à la santé
+humaine lorsqu'ils sont appliqués dans les conditions normales ou
+raisonnablement prévisibles d'utilisation compte tenu, notamment, de la
+présentation du produit, des mentions portées sur l'étiquetage ainsi que de
+toute autre information destinée aux consommateurs.

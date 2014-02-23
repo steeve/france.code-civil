@@ -1,30 +1,12 @@
 Article L5131-6
 ----
-Un produit cosmétique ne peut être mis sur le marché à titre gratuit ou onéreux
-que :
-
--si son récipient et son emballage comportent le nom ou la raison sociale et
-l'adresse du fabricant ou du responsable de la mise sur le marché, établi dans
-un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
-économique européen, ainsi que les autres mentions prévues par le décret
-mentionné au 1° de l'article L. 5131-11 ; en cas de pluralité d'adresses, celle
-qui est soulignée désigne le lieu de détention du dossier prévu à l'alinéa
-suivant ;
-
--et si le fabricant, ou son représentant, ou la personne pour le compte de
-laquelle le produit cosmétique est fabriqué, ou le responsable de la mise sur le
-marché d'un produit cosmétique importé pour la première fois d'un Etat non
-membre de l'Union européenne ou non partie à l'accord sur l'Espace économique
-européen tient effectivement à la disposition des autorités de contrôle, à
-l'adresse mentionnée ci-dessus, un dossier rassemblant toutes informations
-utiles au regard des dispositions des articles L. 5131-4 et L. 5131-5, notamment
-sur la formule qualitative et quantitative, les spécifications physico-chimiques
-et microbiologiques, les conditions de fabrication et de contrôle, l'évaluation
-de la sécurité pour la santé humaine, les effets indésirables de ce produit
-cosmétique, et les preuves de ses effets revendiqués lorsque la nature de
-l'effet ou du produit le justifie.
-
-L'obligation d'indiquer dans le dossier la formule du produit ne s'applique pas
-aux parfums proprement dits ni aux compositions parfumantes pour lesquels les
-informations sont limitées au numéro de code de la composition parfumante et à
-l'identité de son fournisseur.
+En cas de doute sérieux quant à la sécurité d'une substance entrant dans la
+composition d'un produit cosmétique, l'Agence nationale de sécurité du
+médicament et des produits de santé peut mettre en demeure la personne
+responsable de ce produit de lui communiquer les informations mentionnées à
+l'article 24 du règlement (CE) n° 1223/2009 du Parlement européen et du Conseil,
+du 30 novembre 2009, précité. Cette mise en demeure peut être assortie d'une
+astreinte au plus égale à 500 € par jour de retard à compter de la date fixée
+par l'agence. Le montant maximal de l'astreinte mise en recouvrement ne peut
+être supérieur au montant maximal de l'amende prévue à l'article L. 5431-9 du
+présent code.

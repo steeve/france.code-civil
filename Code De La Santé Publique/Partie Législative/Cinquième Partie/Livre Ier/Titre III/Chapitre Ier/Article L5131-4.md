@@ -1,7 +1,10 @@
 Article L5131-4
 ----
-Les produits cosmétiques mis sur le marché ne doivent pas nuire à la santé
-humaine lorsqu'ils sont appliqués dans les conditions normales ou
-raisonnablement prévisibles d'utilisation compte tenu, notamment, de la
-présentation du produit, des mentions portées sur l'étiquetage ainsi que de
-toutes autres informations destinées aux consommateurs.
+L'Agence nationale de sécurité du médicament et des produits de santé publie les
+principes de bonnes pratiques de laboratoire applicables aux études de sécurité
+non cliniques destinées à évaluer la sécurité des produits cosmétiques pour la
+mise en œuvre de l'article 10 du règlement (CE) n° 1223/2009 du Parlement
+européen et du Conseil, du 30 novembre 2009, précité, ainsi que les règles
+applicables à l'inspection et à la vérification des bonnes pratiques de
+laboratoire. Elle définit les règles relatives à la délivrance des documents
+attestant le respect de ces bonnes pratiques.

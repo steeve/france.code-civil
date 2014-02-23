@@ -21,8 +21,9 @@ secours minière est responsable du contenu du site internet qu'il édite et des
 conditions dans lesquelles l'activité de commerce électronique de médicaments
 s'exerce.
 
-Les pharmaciens adjoints ayant reçu délégation du pharmacien d'officine peuvent
-participer à l'exploitation du site internet de l'officine de pharmacie.
+Les pharmaciens adjoints ayant reçu délégation de l'un des pharmaciens
+mentionnés au sixième alinéa peuvent participer à l'exploitation du site
+internet de l'officine de pharmacie.
 
 Les pharmaciens remplaçant de titulaires d'officine ou gérants d'officine après
 décès du titulaire peuvent exploiter le site internet de l'officine créé

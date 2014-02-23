@@ -1,12 +1,25 @@
 Article L5131-5
 ----
-La fabrication des produits cosmétiques doit être réalisée en conformité avec
-les bonnes pratiques de fabrication dont les principes sont définis par décision
-de l'Agence nationale de sécurité du médicament et des produits de santé .
-L'évaluation de la sécurité pour la santé humaine de ces produits doit être
-exécutée en conformité avec les bonnes pratiques de laboratoire dont les
-principes sont définis dans les mêmes conditions. Les règles générales relatives
-aux modalités d'inspection et de vérification des bonnes pratiques de
-laboratoire pour les produits cosmétiques ainsi qu'à la délivrance de documents
-attestant de leur respect sont définies par décision de l'Agence nationale de
-sécurité du médicament et des produits de santé .
+I. - Toute personne responsable et tout distributeur de produits cosmétiques
+peuvent déclarer, en complément de leurs obligations découlant de l'article 23
+du règlement (CE) n° 1223/2009 du Parlement européen et du Conseil, du 30
+novembre 2009, précité, les autres effets indésirables à l'Agence nationale de
+sécurité du médicament et des produits de santé.
+
+II. - Tout professionnel de santé ayant connaissance d'un effet indésirable
+grave, au sens du p du paragraphe 1 de l'article 2 du même règlement,
+susceptible de résulter de l'utilisation d'un produit cosmétique le déclare,
+sans délai, à l'Agence nationale de sécurité du médicament et des produits de
+santé. Il peut déclarer, en outre, les autres effets indésirables dont il a
+connaissance. Il peut, d'autre part, déclarer les effets susceptibles de
+résulter d'un mésusage.
+
+Tout utilisateur professionnel peut procéder à la déclaration d'effets
+indésirables à l'Agence nationale de sécurité du médicament et des produits de
+santé. Il peut, d'autre part, déclarer les effets susceptibles de résulter d'un
+mésusage.
+
+Tout consommateur de produits cosmétiques peut procéder à la déclaration
+d'effets indésirables à l'Agence nationale de sécurité du médicament et des
+produits de santé. Il peut, d'autre part, déclarer les effets susceptibles de
+résulter d'un mésusage.
