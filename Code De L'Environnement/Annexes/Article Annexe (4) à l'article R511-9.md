@@ -615,11 +615,6 @@ nettoyage-dégraissage visé par la rubrique 2563.
 
 1. Lorsqu'il y a mise en œuvre :
 
-
-A
-
-1
-
 1. Quelle que soit la capacité
 
 4
@@ -631,7 +626,21 @@ A
 
 1
 
+1.a. Lorsqu'il y a mise en œuvre de cadmium
+
+1
+
 b) De cyanures, le volume des cuves étant supérieur à 200 l
+
+
+A
+
+1
+
+1.b. Lorsqu'il y a mise en œuvre de cyanures, le volume des cuves étant
+supérieur à 200 l
+
+1
 
 2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de
 cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de
@@ -676,6 +685,10 @@ Nettoyage, décapage des métaux par traitement thermique :
 
 1. La capacité volumique du four étant :
 
+1. La capacité volumique du four étant supérieure à 2 000 l
+
+1
+
 a) Supérieure à 2 000 l
 
 
@@ -692,6 +705,10 @@ DC
 
 
 A
+
+1
+
+2. Quelle que soit la capacité
 
 1
 
@@ -2535,12 +2552,20 @@ A
 
 3
 
+a. Quelle que soit la capacité
+
+3
+
 b) Opérations de forgeage à l'aide de marteaux dont l'énergie de frappe dépasse
 50 kilojoules par marteau et pour lesquelles la puissance calorifique mise en
 œuvre est supérieure à 20 MW
 
 
 A
+
+3
+
+b. Quelle que soit la capacité
 
 3
 
