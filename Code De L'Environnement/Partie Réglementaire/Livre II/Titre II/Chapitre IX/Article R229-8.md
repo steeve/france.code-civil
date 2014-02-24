@@ -15,9 +15,8 @@ L'arrêté est publié au Journal officiel et le préfet en communique un exempl
 à chaque exploitant par voie électronique.
 
 Pour les équipements et installations mentionnés au premier alinéa de l'article
-L. 593-3 et pour les installations classées mentionnées au deuxième alinéa de ce
-même article, l'Autorité de sûreté nucléaire assure cette publication et
-effectue cette communication aux exploitants.
+L. 593-3, l'Autorité de sûreté nucléaire assure cette publication et effectue
+cette communication aux exploitants.
 
 II.-L'administrateur national du registre européen inscrit, au plus tard le 28
 février de chaque année, au compte des exploitants, la quantité de quotas prévue
@@ -26,4 +25,10 @@ pour chaque installation par l'arrêté prévu au I.
 III.-Un arrêté du ministre chargé de l'environnement et du ministre chargé de
 l'industrie fixe les conditions et les méthodologies de calcul de l'affectation
 et de la délivrance de ces quotas, y compris à titre provisoire, pour chaque
-installation.
+installation classée pour la protection de l'environnement.
+
+Un arrêté du ministre chargé de la sûreté nucléaire fixe les conditions et les
+méthodologies de calcul de l'affectation et de la délivrance de ces quotas, y
+compris à titre provisoire pour chaque équipement et installation nécessaire à
+l'exploitation d'une installation nucléaire de base mentionnés au premier alinéa
+de l'article L. 593-3.

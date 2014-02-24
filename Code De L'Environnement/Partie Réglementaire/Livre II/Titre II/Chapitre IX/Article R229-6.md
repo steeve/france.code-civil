@@ -22,7 +22,10 @@ procédé concerné est utilisé ou non pour un secteur ou sous-secteur considé
 comme exposé à un risque important de fuite de carbone conformément à la
 décision 2010/2/ UE de la Commission établissant, conformément à la directive
 2003/87/ CE du Parlement européen et du Conseil, la liste des secteurs et
-sous-secteurs considérés comme exposés aux fuites de carbone.
+sous-secteurs considérés comme exposés aux fuites de carbone. Lorsqu'une
+sous-installation est implantée dans le périmètre d'une installation nucléaire
+de base, l'Autorité de sûreté nucléaire se substitue au préfet pour effectuer
+cette détermination.
 
 Lorsqu'une installation incluse dans le système d'échange a produit et exporté
 de la chaleur mesurable vers une installation ou une autre entité non incluse
@@ -32,7 +35,10 @@ secteur ou sous-secteur considéré comme exposé à un risque important de fuit
 carbone conformément à la décision 2010/2/ UE de la Commission, sauf si le
 préfet établit que le consommateur de la chaleur mesurable fait partie d'un
 secteur ou sous-secteur considéré comme exposé à un risque important de fuite de
-carbone conformément à la décision précitée.
+carbone conformément à la décision précitée. Lorsque l'installation est
+implantée dans le périmètre d'une installation nucléaire de base, l'Autorité de
+sûreté nucléaire se substitue au préfet pour établir que ce consommateur fait
+partie d'un secteur ou sous-secteur considéré comme exposé au risque ci-dessus.
 
 La somme des intrants, des extrants et des émissions de chaque sous-installation
 ne dépasse pas les intrants, les extrants et les émissions totales de

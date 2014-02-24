@@ -9,7 +9,7 @@ l'Etat. A titre exceptionnel, un versement complémentaire de l'Etat peut
 contribuer à la couverture de ces coûts.
 
 Un arrêté conjoint du ministre chargé de l'environnement, du ministre chargé des
-finances et du ministre chargé de l'aviation civile, fixe chaque année, après
-avis du directeur général de la Caisse des dépôts et consignations, le montant
-des frais de tenue de compte applicables aux détenteurs de comptes pour l'année
-en cours.
+finances, du ministre chargé de la sûreté nucléaire et du ministre chargé de
+l'aviation civile, fixe chaque année, après avis du directeur général de la
+Caisse des dépôts et consignations, le montant des frais de tenue de compte
+applicables aux détenteurs de comptes pour l'année en cours.

@@ -19,4 +19,6 @@ Pour les équipements et installations mentionnés au premier alinéa de l'artic
 L. 593-3 et pour les installations classées mentionnées au deuxième alinéa de ce
 même article, l'autorité administrative et l'autorité compétente mentionnée au
 II de l'article L. 229-18 ainsi que l'autorité habilitée à prononcer les
-sanctions prévues au présent paragraphe sont l'Autorité de sûreté nucléaire.
+sanctions prévues au présent paragraphe sont l'Autorité de sûreté nucléaire. De
+même, cette autorité exerce les attributions de l'inspection des installations
+classées mentionnées au deuxième alinéa du présent article.

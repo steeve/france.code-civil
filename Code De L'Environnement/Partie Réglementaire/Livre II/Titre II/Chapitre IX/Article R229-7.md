@@ -55,7 +55,9 @@ Par dérogation à l'alinéa 2 du I, dans le cas des produits visés par les
 référentiels de produits figurant à l'annexe III de la décision 2011/278/ UE du
 27 avril 2011, le préfet détermine le niveau d'activité historique relatif au
 produit sur la base de la valeur médiane de la production annuelle historique,
-suivant les formules indiquées à ladite annexe.
+suivant les formules indiquées à ladite annexe. Lorsque l'installation est
+implantée dans le périmètre d'une installation nucléaire de base, ce niveau
+d'activité historique est déterminé par l'Autorité de sûreté nucléaire.
 
 Les installations en place qui ne sont en activité qu'occasionnellement, et
 notamment les installations de réserve ou de secours et les installations

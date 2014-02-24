@@ -35,8 +35,8 @@ de l'Etat et pour celui des autres utilisateurs ainsi que les conditions,
 notamment d'équilibre financier, d'exercice de ces différentes missions.
 
 IV.-Un arrêté conjoint du ministre chargé de l'environnement, du ministre chargé
-de l'économie, des finances et de l'industrie et du ministre chargé de
-l'aviation civile approuve les conventions types établies pour chaque catégorie
-de compte, à conclure à l'ouverture de tout compte, entre la Caisse des dépôts
-et consignations, administrateur national du registre européen, et chaque
-titulaire de comptes.
+de l'économie, des finances et de l'industrie, du ministre chargé de la sûreté
+nucléaire et du ministre chargé de l'aviation civile approuve les conventions
+types établies pour chaque catégorie de compte, à conclure à l'ouverture de tout
+compte, entre la Caisse des dépôts et consignations, administrateur national du
+registre européen, et chaque titulaire de comptes.

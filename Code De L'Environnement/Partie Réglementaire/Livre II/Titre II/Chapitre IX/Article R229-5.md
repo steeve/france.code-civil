@@ -1,31 +1,37 @@
 Article R229-5
 ----
-La présente sous-section s'applique aux installations classées pour la
-protection de l'environnement effectuant du raffinage, captant, transportant ou
-stockant du dioxyde de carbone, produisant ou transformant des métaux ferreux et
-non ferreux, produisant de l'énergie, des produits minéraux, des produits
-chimiques, du papier ou de la pâte à papier et répondant aux critères fixés au
-tableau annexé au présent article, au titre de leurs rejets de dioxyde de
-carbone, de protoxyde d'azote et d'hydrocarbures perfluorés dans l'atmosphère, à
-l'exception des installations ou parties d'installations utilisées pour la
-recherche, le développement et l'expérimentation de nouveaux produits et
-procédés, et des installations utilisant exclusivement de la biomasse. Elle
-s'applique aux installations nucléaires de base lorsqu'elles utilisent des
-installations de combustion de combustibles dans des installations dont la
-puissance calorifique totale de combustion est supérieure à 20 MW.
+La présente sous-section s'applique aux équipements et installations nécessaires
+à l'exploitation d'une installation nucléaire de base mentionnés au premier
+alinéa de l'article L. 593-3 et aux installations classées pour la protection de
+l'environnement effectuant du raffinage, captant, transportant ou stockant du
+dioxyde de carbone, produisant ou transformant des métaux ferreux et non
+ferreux, produisant de l'énergie, des produits minéraux, des produits chimiques,
+du papier ou de la pâte à papier et répondant aux critères fixés au tableau
+annexé au présent article, au titre de leurs rejets de dioxyde de carbone, de
+protoxyde d'azote et d'hydrocarbures perfluorés dans l'atmosphère, à l'exception
+des installations ou parties d'installations utilisées pour la recherche, le
+développement et l'expérimentation de nouveaux produits et procédés, et des
+installations utilisant exclusivement de la biomasse.
 
 Tableau de l'article R. 229-5
 
 Catégories d'activités et d'installations
 
-I. - Les valeurs seuils mentionnées ci-dessous se rapportent soit à des
-capacités de production, soit à des caractéristiques techniques, notamment de
-rendement. Si un même exploitant exerce plusieurs activités relevant de la même
-rubrique de la nomenclature des installations classées dans une même
-installation ou sur un même site, les capacités de ces activités ou les
-puissances calorifiques de combustion de ces installations s'additionnent.
+I.-Les valeurs seuils mentionnées ci-dessous se rapportent soit à des capacités
+de production, soit à des caractéristiques techniques, notamment de rendement.
+Si un même exploitant exerce plusieurs activités relevant de la même rubrique de
+la nomenclature des installations classées dans une même installation ou sur un
+même site, les capacités de ces activités ou les puissances calorifiques de
+combustion de ces installations s'additionnent.
 
-II. - Pour calculer la puissance calorifique totale de combustion d'une
+Si un même exploitant exerce plusieurs des activités, qui sont répertoriées dans
+le tableau ci-dessous, au sein d'équipements et installations mentionnés au
+premier alinéa de l'article L. 593-3 et dans le périmètre d'une même
+installation nucléaire de base, les capacités de ces activités ou les puissances
+calorifiques de combustion de ces équipements et installations de combustion
+s'additionnent.
+
+II.-Pour calculer la puissance calorifique totale de combustion d'une
 installation afin de décider de son inclusion dans le système d'échange de
 quotas d'émissions de gaz à effet de serre, il est procédé par addition des
 puissances calorifiques de combustion de toutes les unités techniques qui la
@@ -49,7 +55,7 @@ la plus puissante des deux unités techniques, l'unité de secours ou l'unité
 remplacée. Toutefois, les unités techniques de secours des installations
 nucléaires de base ne relèvent pas du système d'échange de quotas d'émission.
 
-III. - Si une unité met en œuvre une activité dont le seuil n'est pas exprimé en
+III.-Si une unité met en œuvre une activité dont le seuil n'est pas exprimé en
 puissance calorifique totale de combustion, c'est le seuil utilisé pour cette
 activité qui détermine l'inclusion dans le système d'échange de quotas
 d'émission.

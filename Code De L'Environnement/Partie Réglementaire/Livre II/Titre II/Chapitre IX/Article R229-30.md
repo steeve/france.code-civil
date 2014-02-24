@@ -10,3 +10,7 @@ de quotas restitués.
 
 Sur le fondement de ce rapport, l'inspecteur des installations classées, dresse,
 le cas échéant, un procès-verbal de manquement.
+
+Pour les équipements et installations mentionnés au premier alinéa de l'article
+L. 593-3, le procès-verbal de manquement mentionné au deuxième alinéa du présent
+article est dressé par l'inspecteur de la sûreté nucléaire.
