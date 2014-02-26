@@ -45,7 +45,9 @@ préalable ;
 statuer sur les demandes d'autorisation en application de l'article L. 111-10 ;
 
 12° Le périmètre des secteurs dans lesquels un programme d'aménagement
-d'ensemble a été approuvé en application de l'article L. 332-9 ;
+d'ensemble a été approuvé en application de l'article L. 332-9 dans sa rédaction
+antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de
+finances rectificative pour 2010 ;
 
 13° Le périmètre des secteurs situés au voisinage des infrastructures de
 transports terrestres, dans lesquels des prescriptions d'isolement acoustique
@@ -70,8 +72,8 @@ l'organe délibérant de l'établissement public de coopération intercommunale
 compétent dans lesquels le premier alinéa de l'article L. 111-6-2 ne s'applique
 pas ;
 
-19° Le périmètre des secteurs relatif au taux de la taxe d'aménagement, en
-application de l'article L. 331-14 ;
+19° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en
+application de l'article L. 331-14 et L. 331-15 ;
 
 20° Le périmètre des secteurs affectés par un seuil minimal de densité, en
-application de l'article L. 331-36.
+application de l'article L. 331-36

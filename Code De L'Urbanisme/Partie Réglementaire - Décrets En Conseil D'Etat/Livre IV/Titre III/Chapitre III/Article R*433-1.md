@@ -10,8 +10,9 @@ d'urbanisme ni dans un secteur constructible délimité par une carte communale 
 
 b) Ou lorsque le terrain est situé dans un secteur sauvegardé ou un périmètre de
 restauration immobilière créé en application des articles L. 313-1 à L. 313-15
-du code de l'urbanisme, dans un site inscrit ou classé en application des
-articles L. 341-1 et suivants du code de l'environnement, dans le champ de
-visibilité d'un monument historique tel que défini par le code du patrimoine,
-dans une zone de protection du patrimoine architectural, urbain et paysager, ou
-dans une aire de mise en valeur de l'architecture et du patrimoine.
+du code de l'urbanisme, dans un site inscrit, dans un site classé ou en instance
+de classement en application des articles L. 341-1 et suivants du code de
+l'environnement, dans le champ de visibilité d'un monument historique tel que
+défini par le code du patrimoine, dans une zone de protection du patrimoine
+architectural, urbain et paysager, ou dans une aire de mise en valeur de
+l'architecture et du patrimoine.

@@ -2,7 +2,7 @@ Article R*423-48
 ----
 Lorsque la demande précise que le demandeur accepte de recevoir à une adresse
 électronique les réponses de l'autorité compétente, les notifications peuvent
-lui être adressées par courrier électronique.
+lui être adressées par échange électronique.
 
 Dans ce cas, le demandeur est réputé avoir reçu ces notifications à la date à
 laquelle il les consulte à l'aide de la procédure électronique. Un accusé de

@@ -5,9 +5,12 @@ Doivent être précédés de la délivrance d'un permis d'aménager :
 a) Les lotissements :
 
 -qui prévoient la création ou l'aménagement de voies, d'espaces ou d'équipements
-communs internes au lotissement ;
+communs à plusieurs lots destinés à être bâtis et propres au lotissement. Les
+équipements pris en compte sont les équipements dont la réalisation est à la
+charge du lotisseur ;
 
--ou qui sont situés dans un site classé ou dans un secteur sauvegardé ;
+-ou qui sont situés dans un secteur sauvegardé, dans un site classé ou en
+instance de classement ;
 
 b) Les remembrements réalisés par une association foncière urbaine libre régie
 par le chapitre II du titre II du livre III, lorsqu'ils prévoient la réalisation

@@ -1,8 +1,8 @@
 Article *R421-20
 ----
-Dans les secteurs sauvegardés dont le périmètre a été délimité, les sites
-classés et les réserves naturelles doivent être précédés de la délivrance d'un
-permis d'aménager :
+Dans les secteurs sauvegardé, les sites classés ou en instance de classement et
+les réserves naturelles doivent être précédés de la délivrance d'un permis
+d'aménager :
 
 -les aménagements mentionnés aux h, i et j de l'article R. 421-19, quelle que
 soit leur importance ;

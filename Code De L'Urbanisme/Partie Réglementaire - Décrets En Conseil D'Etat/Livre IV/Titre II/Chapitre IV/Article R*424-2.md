@@ -5,10 +5,11 @@ décision expresse dans le délai d'instruction vaut décision implicite de reje
 dans les cas suivants :
 
 a) Lorsque les travaux sont soumis à l'autorisation du ministre de la défense ou
-à une autorisation au titre des sites classés ou des réserves naturelles ;
+à une autorisation au titre des sites classés ou en instance de classement ou
+des réserves naturelles ;
 
 b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des
-sites ;
+sites ou par le ministre chargé de la protection des réserves naturelles ;
 
 c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un
 immeuble classé au titre des monuments historiques ;

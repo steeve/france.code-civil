@@ -24,19 +24,18 @@ met, le cas échéant, à la charge de l'association foncière urbaine de
 remembrement.
 
 Dans le cas où sont exigées la participation pour le financement d'équipements
-publics exceptionnels mentionnée au c de l'article L. 332-12 ou la participation
-forfaitaire mentionnée au d du même article, l'arrêté en fixe le montant et
+publics exceptionnels mentionnée au b de l'article L. 332-12 ou la participation
+forfaitaire mentionnée au c du même article, l'arrêté en fixe le montant et
 énonce le mode d'évaluation de ce dernier.
 
-Lorsque la participation forfaitaire inclut une cession gratuite de terrain,
-l'arrêté détermine la superficie à céder et en mentionne la valeur déterminée
-par le directeur des services fiscaux.
-
 Lorsque la participation forfaitaire inclut le versement de la participation
-prévue à l'article L. 332-9 dans les programmes d'aménagement d'ensemble et que
-l'association s'en acquitte en tout ou en partie, conformément à l'article L.
-332-10 sous forme d'exécution de travaux ou d'apport de terrain, l'arrêté
-mentionne :
+prévue à l'article L. 332-9 dans sa rédaction antérieure à l'entrée en vigueur
+de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010,
+dans les programmes d'aménagement d'ensemble et que l'association s'en acquitte
+en tout ou en partie, conformément à l'article L. 332-10 dans sa rédaction
+antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de
+finances rectificative pour 2010, sous forme d'exécution de travaux ou d'apport
+de terrain, l'arrêté mentionne :
 
 -les caractéristiques de travaux et leur valeur déterminées d'un commun accord
 par l'association et le préfet ;

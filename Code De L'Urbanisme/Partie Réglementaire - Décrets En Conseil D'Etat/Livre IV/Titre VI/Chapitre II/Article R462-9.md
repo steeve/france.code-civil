@@ -7,5 +7,5 @@ le maître de l'ouvrage de déposer un dossier modificatif ou de mettre les
 travaux en conformité avec l'autorisation accordée.
 
 Cette mise en demeure est notifiée par lettre recommandée avec demande d'avis de
-réception postal. Elle peut être envoyée par courrier électronique dans les cas
+réception postal. Elle peut être envoyée par échange électronique dans les cas
 prévus à l'article R. 423-48. Elle rappelle les sanctions encourues.

@@ -6,8 +6,8 @@ travaux exécutés sur des constructions existantes, à l'exception des travaux
 d'entretien ou de réparations ordinaires, et les changements de destination des
 constructions existantes suivants :
 
-a) Les travaux de ravalement et les travaux ayant pour effet de modifier
-l'aspect extérieur d'un bâtiment existant ;
+a) Les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment
+existant, à l'exception des travaux de ravalement ;
 
 b) Les changements de destination d'un bâtiment existant entre les différentes
 destinations définies à l'article R*123-9 ; pour l'application du présent
@@ -43,3 +43,7 @@ urbaine d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu,
 d'au plus quarante mètres carrés de surface de plancher ou d'emprise au sol
 lorsque cette création conduit au dépassement de l'un des seuils fixés à
 l'article R*431-2 du présent code.
+
+g) la transformation de plus de cinq mètres carrés de surface close et couverte
+non comprise dans la surface de plancher de la construction en un local
+constituant de la surface de plancher.

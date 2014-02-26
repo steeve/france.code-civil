@@ -6,5 +6,8 @@ périmètre a été délimité :
 
 a) Les murs de soutènement ;
 
-b) Tous ouvrages d'infrastructure terrestre, maritime ou fluviale tels que les
-voies, ponts, infrastructures portuaires ou aéroportuaires.
+b) Tous les ouvrages d'infrastructure terrestre, maritime, fluviale, portuaire
+ou aéroportuaire ainsi que les outillages, les équipements ou les installations
+techniques directement liés à leur fonctionnement, à leur exploitation ou au
+maintien de la sécurité de la circulation maritime, fluviale, ferroviaire,
+routière ou aérienne.

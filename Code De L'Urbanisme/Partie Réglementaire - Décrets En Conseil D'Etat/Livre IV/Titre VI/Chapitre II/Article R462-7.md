@@ -5,11 +5,11 @@ Le récolement est obligatoire :
 a) Lorsque les travaux concernent un immeuble inscrit au titre des monuments
 historiques en application de l'article L. 621-25 du code du patrimoine, ou
 lorsqu'ils sont situés dans un secteur sauvegardé créé en application de
-l'article L. 313-1 du présent code ou dans un site classé en application des
-articles L. 341-1 et L. 341-2 du code de l'environnement ; il est alors effectué
-en liaison avec l'architecte des Bâtiments de France ou le cas échéant le
-représentant du ministre chargé des monuments historiques ou du ministre chargé
-des sites ;
+l'article L. 313-1 du présent code ou dans un site classé ou en instance de
+classement en application des articles L. 341-1 et L. 341-2 du code de
+l'environnement ; il est alors effectué en liaison avec l'architecte des
+Bâtiments de France ou le cas échéant le représentant du ministre chargé des
+monuments historiques ou du ministre chargé des sites ;
 
 b) Lorsqu'il s'agit de travaux soumis aux dispositions des articles R. 122-1 à
 R. 122-29 du code de la construction et de l'habitation relatifs aux immeubles
