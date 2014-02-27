@@ -1,16 +1,9 @@
 Article R716-29
 ----
-La cotisation prévue à l'article L. 716-3 est recouvrée selon les modalités et
-sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre
-d'affaires.
-
-Cette cotisation est due au titre de l'année à la fin de laquelle a expiré le
-délai d'un an prévu à l'article L. 716-3. Le versement de la cotisation doit
-accompagner le dépôt de la déclaration prévue à l'article R. 716-28.
-
-La commission prévue à l'article 1651 ou à l'article 1651 H du code général des
-impôts n'est pas appelée à intervenir dans la procédure de rectification de la
-déclaration mentionnée à l'article R. 716-28.
+La cotisation prévue à l'article L. 716-3 est due au titre de l'année à la fin
+de laquelle a expiré le délai d'un an prévu au premier alinéa de cet article. Le
+versement de la cotisation accompagne le dépôt du bordereau prévu au deuxième
+alinéa du même article.
 
 Les réclamations sont présentées, instruites et jugées comme en matière de taxes
 sur le chiffre d'affaires.
