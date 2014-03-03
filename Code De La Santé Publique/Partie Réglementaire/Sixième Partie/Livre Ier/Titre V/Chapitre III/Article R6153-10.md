@@ -45,9 +45,11 @@ conditions prévues au 1° du présent article ;
 selon des modalités fixées par arrêté des ministres chargés du budget, de
 l'enseignement supérieur et de la santé ;
 
-4° A partir de la quatrième année, les internes bénéficient d'une prime de
-responsabilité dont le montant est fixé par arrêté des ministres chargés du
-budget, de l'enseignement supérieur et de la santé ;
+4° Une prime de responsabilité, versée aux internes de médecine générale
+lorsqu'ils accomplissent un stage autonome en soins primaires ambulatoires
+supervisé et aux internes de médecine, pharmacie et odontologie à partir de leur
+quatrième année d'internat, dont le montant est fixé par arrêté des ministres
+chargés du budget, de l'enseignement supérieur et de la santé ;
 
 5° Des indemnités pour participation, en dehors des obligations de service, à
 des enseignements et aux jurys de concours, à l'enseignement et à la formation
@@ -62,4 +64,13 @@ la matière aux personnels relevant de la fonction publique hospitalière ;
 
 7° Les internes de première et deuxième année perçoivent une indemnité de
 sujétion dont le montant est fixé par arrêté des ministres chargés du budget, de
-l'enseignement supérieur et de la santé.
+l'enseignement supérieur et de la santé ;
+
+8° Une indemnité forfaitaire de transport, versée aux internes qui accomplissent
+un stage ambulatoire dont le lieu est situé à une distance de plus de quinze
+kilomètres, tant du centre hospitalier universitaire auquel ils sont rattachés
+administrativement que de leur domicile. Cette indemnité n'est cumulable avec
+aucun dispositif de prise en charge totale ou partielle de frais de transport
+directement versé à l'intéressé. Un arrêté des ministres chargés du budget, de
+l'enseignement supérieur et de la santé en fixe le montant et les modalités de
+versement.

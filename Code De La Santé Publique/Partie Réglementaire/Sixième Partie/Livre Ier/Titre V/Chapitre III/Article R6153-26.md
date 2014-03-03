@@ -12,7 +12,8 @@ année renouvelable une fois ;
 2° Etudes ou recherches présentant un intérêt général :
 
 La durée de l'interruption ne peut, en ce cas, excéder une année renouvelable
-une fois ;
+une fois sauf dans le cas de la préparation d'une thèse de doctorat, pour
+laquelle la durée d'interruption est de trois ans ;
 
 3° Stage de formation ou de perfectionnement en France ou à l'étranger :
 
