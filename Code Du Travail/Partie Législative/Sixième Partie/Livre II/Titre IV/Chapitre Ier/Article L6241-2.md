@@ -10,4 +10,9 @@ la taxe d'apprentissage mentionnés au chapitre II.
 
 Après versement au Trésor de la part prévue au deuxième alinéa, l'employeur peut
 se libérer du versement du solde du quota en apportant des concours financiers
-dans les conditions prévues aux articles L. 6241-4 à L. 6241-6.
+dans les conditions prévues aux articles L. 6241-4 à L. 6241-6 pour un total ne
+pouvant dépasser 21 % du montant de la taxe d'apprentissage due.
+
+Le total des dépenses libératoires effectuées par l'employeur au titre de
+l'article L. 6241-8 ne peut pas dépasser 23 % du montant de la taxe
+d'apprentissage due.
