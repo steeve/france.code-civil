@@ -9,4 +9,4 @@ apprentissage.
 Cette unité est créée dans le cadre d'une convention entre cet établissement et
 un centre de formation d'apprentis.
 
-Le contenu de la convention est déterminé par décret.
+Le contenu de la convention est déterminé par la région.

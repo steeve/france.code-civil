@@ -13,8 +13,8 @@ préjudice aux organismes de protection sociale ;
 ― les articles L. 351-12 et L. 651-1 du code de la construction et de
 l'habitation ;
 
-― les articles L. 5124-1, L. 5135-1, L. 5413-1, L. 5429-1, L. 5429-3 et L.
-5522-28 du code du travail ;
+― les articles L. 5124-1, L. 5413-1, L. 5429-1, L. 5429-3 et L. 5522-28 du code
+du travail ;
 
 ― l'article 22 de la loi n° 68-690 du 31 juillet 1968 portant diverses
 dispositions d'ordre économique et financier.

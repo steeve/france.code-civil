@@ -89,9 +89,9 @@ des avis et des vœux sur ces questions.
 Elles peuvent être consultées par le conseil régional sur le schéma régional
 d'aménagement et de développement du territoire mentionné à l'article L. 4251-1
 du code général des collectivités territoriales, sur le contrat de plan régional
-de développement des formations professionnelles mentionné à l'article L. 214-13
-du code de l'éducation et, plus généralement, sur tout dispositif d'appui aux
-entreprises dont la région envisage la création.
+de développement des formations et de l'orientation professionnelles mentionné à
+l'article L. 214-13 du code de l'éducation et, plus généralement, sur tout
+dispositif d'appui aux entreprises dont la région envisage la création.
 
 Elles peuvent être consultées, à leur demande, sur l'élaboration des schémas de
 cohérence territoriale et des plans locaux d'urbanisme mentionnés à l'article L.

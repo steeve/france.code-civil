@@ -1,6 +1,6 @@
 Article L6252-6
 ----
-Le contrôle prévu aux 2° et 3° de l'article L. 6252-4 est exercé concurremment
+Le contrôle prévu aux 2° à 4° de l'article L. 6252-4 est exercé concurremment
 par les corps d'inspection compétents en matière d'apprentissage et les agents
 de contrôle mentionnés à l'article L. 6361-5.
 

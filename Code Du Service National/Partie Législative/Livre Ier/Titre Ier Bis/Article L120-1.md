@@ -35,11 +35,11 @@ fondation reconnue d'utilité publique ;
 international en entreprise mentionnés au chapitre II du titre II du présent
 livre, le volontariat de solidarité internationale régi par la loi n° 2005-159
 du 23 février 2005 relative au contrat de volontariat de solidarité
-internationale ou le service volontaire européen défini par la décision n° 1031
-/ 2000 / CE du Parlement européen et du Conseil, du 13 avril 2000, établissant
-le programme d'action communautaire " Jeunesse ” et par la décision n° 1719 /
-2006 / CE du Parlement européen et du Conseil, du 15 novembre 2006, établissant
-le programme " Jeunesse en action ” pour la période 2007-2013.
+internationale ou le service volontaire européen défini par la décision n°
+1031/2000/ CE du Parlement européen et du Conseil, du 13 avril 2000, établissant
+le programme d'action communautaire " Jeunesse ” et par la décision n°
+1719/2006/ CE du Parlement européen et du Conseil, du 15 novembre 2006,
+établissant le programme " Jeunesse en action ” pour la période 2007-2013.
 
 III. ― L'Etat délivre à la personne volontaire, à l'issue de sa mission, une
 attestation de service civique et un document qui décrit les activités exercées
@@ -51,8 +51,8 @@ modalités d'exécution du contrat de service civique prévues par l'article L.
 volontaire le souhaite, ce document est intégré à son livret de compétences
 mentionné à l'article 11 de la loi n° 2009-1437 du 24 novembre 2009 relative à
 l'orientation et à la formation professionnelle tout au long de la vie et à son
-passeport orientation et formation mentionné à l'article L. 6315-2 du code du
-travail.
+passeport d'orientation, de formation et de compétences mentionné au II de
+l'article L. 6323-8 du code du travail.
 
 Le service civique est valorisé dans les cursus des établissements secondaires
 et des établissements dispensant des formations sanctionnées par un diplôme

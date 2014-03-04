@@ -7,11 +7,17 @@ collectif ou un plan d'action non conforme aux articles L. 5121-10, L. 5121-11
 et L. 5121-12, elle met en demeure l'entreprise ou l'établissement public de
 régulariser sa situation.
 
+Lorsqu'elle constate qu'une entreprise mentionnée à l'article L. 5121-8 n'est
+pas couverte par un accord collectif ou un plan d'action ou un accord de branche
+étendu, ou est couverte par un accord collectif ou un plan d'action non conforme
+aux articles L. 5121-10 à L. 5121-12, elle met en demeure l'entreprise de
+régulariser sa situation.
+
 En cas d'absence de régularisation par l'entreprise ou l'établissement public,
-la pénalité prévue à l'article L. 5121-9 s'applique. Le montant de la pénalité
-est plafonné à 1 % des rémunérations ou gains, au sens du premier alinéa de
-l'article L. 242-1 du code de la sécurité sociale ou du premier alinéa de
-l'article L. 741-10 du code rural et de la pêche maritime, versés aux
+la pénalité prévue aux articles L. 5121-8 et L. 5121-9 s'applique. Le montant de
+la pénalité est plafonné à 1 % des rémunérations ou gains, au sens du premier
+alinéa de l'article L. 242-1 du code de la sécurité sociale ou du premier alinéa
+de l'article L. 741-10 du code rural et de la pêche maritime, versés aux
 travailleurs salariés ou assimilés au cours des périodes pendant lesquelles
 l'entreprise ou l'établissement public n'est pas couvert par un accord collectif
 ou un plan d'action conforme aux articles L. 5121-10, L. 5121-11 et L. 5121-12

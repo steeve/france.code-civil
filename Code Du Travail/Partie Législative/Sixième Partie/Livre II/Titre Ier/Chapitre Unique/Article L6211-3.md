@@ -1,14 +1,16 @@
 Article L6211-3
 ----
-Le développement de l'apprentissage fait l'objet de contrats d'objectifs et de
-moyens conclus entre :
+Pour le développement de l'apprentissage, la région peut conclure des contrats
+d'objectifs et de moyens avec :
 
 1° L'Etat ;
 
-2° La région ;
+2° Les organismes consulaires ;
 
-3° Les chambres consulaires ;
-
-4° Une ou plusieurs organisations représentatives d'employeurs et de salariés.
+3° Une ou plusieurs organisations syndicales de salariés et d'organisations
+professionnelles d'employeurs représentatives.
 
 D'autres parties peuvent également être associées à ces contrats.
+
+Ces contrats doivent intégrer le développement de la mixité professionnelle et
+des mesures visant à lutter contre la répartition sexuée des métiers.

@@ -47,13 +47,3 @@ travailleur handicapé entraîne la perte d'une aide associée à un binôme.
 V. ― Un décret en Conseil d'Etat définit les cas dans lesquels le départ des
 salariés mentionnés aux I à IV n'entraîne pas la perte d'une aide associée à un
 binôme.
-
-VI. ― Pour les entreprises mentionnées à l'article L. 5121-8 couvertes par un
-accord collectif d'entreprise ou de groupe ou par un plan d'action, l'aide est
-accordée, après validation par l'autorité administrative compétente de l'accord
-collectif ou du plan d'action, pour les embauches réalisées à compter de la date
-de transmission à l'autorité administrative compétente de l'accord collectif ou
-du plan d'action. Pour les entreprises mentionnées au même article couvertes par
-un accord de branche étendu, l'aide est accordée pour les embauches réalisées à
-compter de la date de transmission à l'autorité administrative compétente du
-diagnostic mentionné à l'article L. 5121-10.

@@ -6,7 +6,8 @@ prévues pour les régions aux articles L. 214-12 à L. 214-16 du code de
 l'éducation.
 
 Elle élabore avec l'Etat et les collectivités territoriales concernées le
-contrat de plan régional de développement des formations professionnelles.
+contrat de plan régional de développement des formations et de l'orientation
+professionnelles.
 
 Ce contrat de plan est signé par le président du conseil exécutif de Corse au
 nom de la collectivité territoriale après consultation des départements et du
@@ -16,8 +17,8 @@ territoriale de Corse au nom de l'Etat et, en ce qui concerne la formation
 initiale, par l'autorité académique.
 
 Le suivi et l'évaluation de ce contrat de plan sont assurés selon des modalités
-générales définies par le Conseil national de la formation professionnelle tout
-au long de la vie.
+générales définies par le Conseil national de l'emploi, de la formation et de
+l'orientation professionnelles.
 
 A l'occasion de la mise en oeuvre de ce contrat de plan, la collectivité
 territoriale de Corse signe une convention, notamment avec l'Association

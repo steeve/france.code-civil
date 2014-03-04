@@ -1,9 +1,12 @@
 Article L6326-3
 ----
 La préparation opérationnelle à l'emploi collective permet à plusieurs
-demandeurs d'emploi de bénéficier d'une formation nécessaire à l'acquisition des
-compétences requises pour occuper des emplois correspondant à des besoins
-identifiés par un accord de branche ou, à défaut, par un conseil
+demandeurs d'emploi et salariés recrutés en contrat à durée déterminée ou
+indéterminée conclu en application de l'article L. 5134-19-1, ou en contrat à
+durée déterminée conclu en application de l'article L. 1242-3 avec un employeur
+relevant de l'article L. 5132-4 de bénéficier d'une formation nécessaire à
+l'acquisition des compétences requises pour occuper des emplois correspondant à
+des besoins identifiés par un accord de branche ou, à défaut, par un conseil
 d'administration d'un organisme collecteur paritaire agréé.
 
 Le contrat de travail qui peut être conclu à l'issue de la préparation

@@ -14,6 +14,9 @@ ou l'établissement, ainsi que les syndicats affiliés à une organisation
 syndicale représentative au niveau national et interprofessionnel y sont
 également invités par courrier.
 
-Dans le cas d'un renouvellement du comité, cette invitation est faite un mois
+Dans le cas d'un renouvellement du comité, cette invitation est faite deux mois
 avant l'expiration du mandat des membres en exercice. Le premier tour des
 élections a lieu dans la quinzaine précédant l'expiration de ce mandat.
+
+L'invitation à négocier mentionnée au présent article doit parvenir au plus tard
+quinze jours avant la date de la première réunion de négociation.

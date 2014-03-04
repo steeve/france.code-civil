@@ -1,14 +1,14 @@
 Article L5132-15-1
 ----
-Les ateliers et chantiers d'insertion peuvent conclure avec des personnes sans
-emploi rencontrant des difficultés sociales et professionnelles particulières
-des contrats à durée déterminée en application de l'article L. 1242-3.
+Les ateliers et chantiers d'insertion, quel que soit leur statut juridique,
+peuvent conclure avec des personnes sans emploi rencontrant des difficultés
+sociales et professionnelles particulières des contrats à durée déterminée en
+application de l'article L. 1242-3.
 
-Ces contrats peuvent, aux fins de développer l'expérience et les compétences du
-salarié, prévoir, par avenant, une période d'immersion auprès d'un autre
-employeur dans les conditions prévues à l'article L. 8241-2. Un décret détermine
-la durée et les conditions d'agrément et d'exécution de cette période
-d'immersion.
+Pendant l'exécution de ces contrats, une ou plusieurs conventions conclues en
+vertu de l'article L. 5135-4 peuvent prévoir une période de mise en situation en
+milieu professionnel auprès d'un autre employeur dans les conditions prévues au
+chapitre V du présent titre.
 
 La durée de ces contrats ne peut être inférieure à quatre mois.
 
@@ -22,29 +22,35 @@ renouvellement ne peut excéder le terme de l'action concernée.
 
 A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des
 personnes reconnues travailleurs handicapés rencontrent des difficultés
-particulières qui font obstacle à leur insertion durable dans l'emploi, ce
-contrat de travail peut être prolongé au-delà de la durée maximale prévue. Cette
-prolongation peut être accordée par l'institution mentionnée à l'article L.
-5312-1 après examen de la situation du salarié au regard de l'emploi, de la
-capacité contributive de l'employeur et des actions d'accompagnement et de
-formation conduites dans le cadre de la durée initialement prévue du contrat.
+particulières qui font obstacle à leur insertion , quel que soit leur statut
+juridique, durable dans l'emploi, ce contrat de travail peut être prolongé
+au-delà de la durée maximale prévue. Cette prolongation peut être accordée par
+l'institution mentionnée à l'article L. 5312-1 après examen de la situation du
+salarié au regard de l'emploi, de la capacité contributive de l'employeur et des
+actions d'accompagnement et de formation conduites dans le cadre de la durée
+initialement prévue du contrat.
 
 La durée hebdomadaire de travail du salarié embauché dans ce cadre ne peut être
-inférieure à vingt heures. Elle peut varier sur tout ou partie de la période
-couverte par le contrat sans dépasser la durée légale hebdomadaire. Les périodes
-travaillées permettent de valider des trimestres de cotisations d'assurance
-vieillesse dans les conditions de l'article L. 351-2 du code de la sécurité
-sociale.
+inférieure à vingt heures, sauf lorsque le contrat le prévoit pour prendre en
+compte les difficultés particulièrement importantes de l'intéressé. Elle peut
+varier sur tout ou partie de la période couverte par le contrat sans dépasser la
+durée légale hebdomadaire. Les périodes travaillées permettent de valider des
+trimestres de cotisations d'assurance vieillesse dans les conditions de
+l'article L. 351-2 du code de la sécurité sociale.
 
 Ce contrat peut être suspendu, à la demande du salarié, afin de lui permettre :
 
-1° En accord avec son employeur, d'effectuer une évaluation en milieu de travail
-prescrite par l'institution mentionnée à l'article L. 5312-1 du présent code ou
-une action concourant à son insertion professionnelle ;
+1° En accord avec son employeur, d'effectuer une période de mise en situation en
+milieu professionnel dans les conditions prévues au chapitre V du présent titre
+ou une action concourant à son insertion professionnelle ;
 
 2° D'accomplir une période d'essai afférente à une offre d'emploi visant une
 embauche en contrat de travail à durée indéterminée ou à durée déterminée au
 moins égale à six mois.
 
-En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette
-période d'essai, le contrat est rompu sans préavis.
+En cas d'embauche à l'issue de cette période de mise en situation en milieu
+professionnel, d'une action concourant à son insertion professionnelle, ou de
+cette période d'essai, le contrat est rompu sans préavis.
+
+Un décret définit les conditions dans lesquelles la dérogation à la durée
+hebdomadaire de travail minimale prévue au septième alinéa peut être accordée.

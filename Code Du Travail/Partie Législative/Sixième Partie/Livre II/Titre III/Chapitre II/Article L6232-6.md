@@ -7,4 +7,4 @@ que celui chargé de l'éducation, au sein d'une section d'apprentissage créée
 dans les conditions prévues par une convention conclue entre cet établissement,
 toute personne morale mentionnée à l'article L. 6232-1 et la région.
 
-Le contenu de la convention est déterminé par décret.
+Le contenu de la convention est déterminé par la région.

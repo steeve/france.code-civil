@@ -14,5 +14,8 @@ syndicale représentative au niveau national et interprofessionnel y sont
 également invités par courrier.
 
 Dans le cas d'un renouvellement de l'institution, cette invitation est effectuée
-un mois avant l'expiration du mandat des délégués en exercice. Le premier tour
+deux mois avant l'expiration du mandat des délégués en exercice. Le premier tour
 des élections a lieu dans la quinzaine précédant l'expiration de ce mandat.
+
+L'invitation à négocier mentionnée au présent article doit parvenir au plus tard
+quinze jours avant la date de la première réunion de négociation.

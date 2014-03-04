@@ -18,4 +18,6 @@ d'apprentis ;
 5° L'affectation des sommes prélevées au titre de la taxe d'apprentissage ;
 
 6° Les conditions de mise en oeuvre des conventions d'aide au choix
-professionnel des élèves de classe préparatoire à l'apprentissage.
+professionnel des élèves de classe préparatoire à l'apprentissage ;
+
+7° Les conditions de formation des maîtres d'apprentissage.

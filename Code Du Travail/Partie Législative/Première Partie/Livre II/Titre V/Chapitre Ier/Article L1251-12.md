@@ -24,4 +24,4 @@ ordinairement. Dans ce cas, la durée initiale du contrat ne peut être inférie
 à six mois.
 
 Elle est portée à trente-six mois afin d'être égale à celle du cycle de
-formation effectué en apprentissage conformément à l'article L. 6222-7.
+formation effectué en apprentissage conformément à l'article L. 6222-7-1.

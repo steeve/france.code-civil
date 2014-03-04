@@ -9,8 +9,8 @@ L'aide relative à l'emploi d'avenir peut être attribuée aux employeurs suivan
 
 3° Les autres personnes morales de droit public, à l'exception de l'Etat ;
 
-4° Les groupements d'employeurs mentionnés à l'article L. 1253-1 qui organisent
-des parcours d'insertion et de qualification ;
+4° Les groupements d'employeurs pour l'insertion et la qualification mentionnés
+à l'article L. 1253-1 ;
 
 5° Les structures d'insertion par l'activité économique mentionnées à l'article
 L. 5132-4 ;

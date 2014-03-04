@@ -26,6 +26,22 @@ au répertoire national des certifications professionnelles, à la demande des
 organismes ou instances les ayant créés et après avis conforme de la Commission
 nationale de la certification professionnelle.
 
+Ces organismes ou instances garantissent tout au long de la période de validité
+de l'enregistrement :
+
+1° La transparence de l'information donnée au public sur la certification qu'ils
+délivrent ;
+
+2° La qualité du processus de certification ;
+
+3° Lorsqu'ils sont à la tête d'un réseau d'organismes de formation qui délivrent
+la même certification, la qualité de la certification délivrée par chacun des
+membres du réseau.
+
+Ces engagements sont précisés sur un cahier des charges défini par arrêté du
+ministre chargé de la formation professionnelle, sur proposition de la
+Commission nationale de la certification professionnelle.
+
 La Commission nationale de la certification professionnelle établit et actualise
 le répertoire national des certifications professionnelles. Elle veille à la
 cohérence, à la complémentarité et au renouvellement des diplômes et des titres

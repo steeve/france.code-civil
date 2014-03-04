@@ -1,7 +1,7 @@
 Article L6321-8
 ----
-Lorsque, en application des disposition de la présente sous-section, tout ou
-partie de la formation se déroule en dehors du temps de travail, l'entreprise
+Lorsque le salarié suit une action de formation dans le cadre du plan de
+formation ayant pour objet le développement des compétences, l'entreprise
 définit avec le salarié, avant son départ en formation, la nature des
 engagements auxquels elle souscrit dès lors que l'intéressé aura suivi avec
 assiduité la formation et satisfait aux évaluations prévues.

@@ -10,9 +10,9 @@ construction ou d'extension des établissements que l'Etat s'engage à doter des
 postes qu'il juge indispensables à leur fonctionnement administratif et
 pédagogique. Cette liste est arrêtée compte tenu du programme prévisionnel des
 investissements et des engagements conclus dans le cadre du contrat de plan
-régional de développement des formations professionnelles et de la convention
-annuelle définis aux articles L. 214-13 et L. 214-13-1, et après accord de la
-commune d'implantation et de la collectivité compétente.
+régional de développement des formations et de l'orientation professionnelles et
+de la convention annuelle définis aux articles L. 214-13 et L. 214-13-1, et
+après accord de la commune d'implantation et de la collectivité compétente.
 
 Dans les zones de revitalisation rurale visées à l'article 1465 A du code
 général des impôts, les services compétents de l'Etat engagent, avant toute

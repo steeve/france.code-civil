@@ -13,5 +13,4 @@ présent livre, les infractions suivantes :
 
 5° Cumuls irréguliers d'emplois ;
 
-6° Fraude ou fausse déclaration prévue aux articles L. 5124-1, L. 5135-1 et L.
-5429-1.
+6° Fraude ou fausse déclaration prévue aux articles L. 5124-1 et L. 5429-1.

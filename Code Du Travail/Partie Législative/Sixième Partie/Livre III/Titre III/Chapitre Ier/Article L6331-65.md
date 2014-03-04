@@ -13,3 +13,8 @@ alinéa du même article. Le taux de cette contribution est de 0,1 %.
 
 Les contributions prévues aux 1° et 2° du présent article ne sont pas exclusives
 de financements par les sociétés d'auteurs.
+
+Pour permettre la gestion des droits inscrits ou mentionnés dans le compte
+personnel de formation des artistes auteurs et leur compatibilité avec les
+droits mis en place au titre du présent article, le décret prévu à l'article L.
+6323-8 peut prévoir des aménagements spécifiques.

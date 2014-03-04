@@ -14,4 +14,7 @@ d'apprentissage ;
 d'obtention du diplôme ou du titre préparé ;
 
 5° L. 6223-3 et L. 6223-4, relatifs aux obligations de l'employeur en matière de
-formation.
+formation ;
+
+6° Et du second alinéa de l'article L. 6222-24, relatif à la durée du temps de
+travail dans l'entreprise.

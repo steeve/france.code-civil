@@ -4,10 +4,10 @@ Outre les personnes mentionnées à l'article L. 412-2, bénéficient également
 dispositions du présent livre, sous réserve des prescriptions spéciales du
 décret en Conseil d'Etat :
 
-1°) les délégués à la sécurité des ouvriers mineurs pour les accidents survenus
+1° les délégués à la sécurité des ouvriers mineurs pour les accidents survenus
 par le fait ou à l'occasion de leur service ;
 
-2°) a. les étudiants ou les élèves des établissements d'enseignement technique
+2° a. les étudiants ou les élèves des établissements d'enseignement technique
 pour les accidents survenus au cours de cet enseignement ainsi que par le fait
 ou à l'occasion des stages auxquels il donne lieu ; les écoles et les cours
 d'enseignement commercial donnant à des élèves réguliers ou intermittents un
@@ -44,7 +44,7 @@ formation professionnelle ne faisant pas l'objet d'un contrat de travail et
 n'entrant pas dans le cadre de la formation professionnelle continue telle que
 définie par le livre IX du code du travail ;
 
-3°) les personnes accomplissant un stage de réadaptation fonctionnelle ou de
+3° les personnes accomplissant un stage de réadaptation fonctionnelle ou de
 rééducation professionnelle dans les conditions prévues par le présent code, les
 victimes menant des actions de formation professionnelle ou d'autres actions
 d'évaluation, d'accompagnement, d'information et de conseil dans les conditions
@@ -57,67 +57,67 @@ dans les écoles administrées par l'office national des anciens combattants et
 victimes de la guerre, pour les accidents survenus par le fait ou à l'occasion
 de la réadaptation ou de la rééducation ;
 
-4°) les pupilles de l'éducation surveillée, pour les accidents survenus par le
+4° les pupilles de l'éducation surveillée, pour les accidents survenus par le
 fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par
 un décret ;
 
-5°) les détenus exécutant un travail pénal, les condamnés exécutant un travail
+5° les détenus exécutant un travail pénal, les condamnés exécutant un travail
 d'intérêt général et les personnes effectuant un travail non rémunéré dans le
 cadre d'une composition pénale pour les accidents survenus par le fait ou à
 l'occasion de ce travail, dans les conditions déterminées par décret ;
 
-6°) les personnes qui participent bénévolement au fonctionnement d'organismes à
+6° les personnes qui participent bénévolement au fonctionnement d'organismes à
 objet social créés en vertu ou pour l'application d'un texte législatif ou
 réglementaire, dans la mesure où elles ne bénéficient pas à un autre titre des
 dispositions du présent livre. Un décret détermine la nature des organismes
 mentionnés par la présente disposition ; il peut en établir la liste ;
 
-7°) les salariés désignés, en application de l'article L. 992-8 du code du
+7° les salariés désignés, en application de l'article L. 992-8 du code du
 travail, pour siéger dans une commission, un conseil ou un comité administratifs
 ou paritaires, pour les accidents survenus par le fait ou à l'occasion de leurs
 missions dans les conditions définies par décret ;
 
-8°) les personnes mentionnées à l'article 2 du décret-loi du 17 juin 1938
-relatif à la réorganisation et à l'unification du régime d'assurance des marins
-pour l'indemnisation des accidents du travail et des maladies professionnelles
+8° les personnes mentionnées à l'article 2 du décret-loi du 17 juin 1938 relatif
+à la réorganisation et à l'unification du régime d'assurance des marins pour
+l'indemnisation des accidents du travail et des maladies professionnelles
 imputables à une faute inexcusable de l'employeur. Un décret détermine les
 conditions d'application du présent 8° ;
 
-9°) les salariés accomplissant un stage de formation dans les conditions prévues
+9° les salariés accomplissant un stage de formation dans les conditions prévues
 par les articles L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les
 accidents survenus par le fait ou à l'occasion de cette formation ;
 
-10°) Les bénéficiaires du montant forfaitaire mentionné au 2° de l'article L.
+10° Les bénéficiaires du montant forfaitaire mentionné au 2° de l'article L.
 262-2 du code de l'action sociale et des familles, pour les accidents survenus
 par le fait ou à l'occasion des actions favorisant leur insertion, dans des
 conditions déterminées par décret ;
 
-11°) Les demandeurs d'emploi, pour les accidents survenus par le fait ou à
-l'occasion de leur participation à des actions d'aide à la création d'entreprise
-ou d'orientation, d'évaluation ou d'accompagnement de la recherche d'emploi
-dispensées ou prescrites par l'institution mentionnée à l'article L. 311-7 du
-code du travail ;
+11° Les bénéficiaires d'actions d'aide à la création d'entreprise ou d'actions
+d'orientation, d'évaluation ou d'accompagnement dans la recherche d'emploi
+dispensées ou prescrites par Pôle emploi ou par les organismes mentionnés aux
+2°, 3° et 5° de l'article L. 5135-2 du code du travail, au titre des accidents
+survenus par le fait ou à l'occasion de leur participation à ces actions ;
 
-12°) Les salariés désignés, dans les conditions définies à l'article L. 225-8 du
+12° Les salariés désignés, dans les conditions définies à l'article L. 225-8 du
 code du travail, pour siéger dans une instance instituée par une disposition
 législative ou réglementaire auprès d'une autorité de l'Etat pour les accidents
 survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne
 bénéficient pas à un autre titre des dispositions du présent article ;
 
-13°) Les personnes ayant souscrit un service civique dans les conditions prévues
+13° Les personnes ayant souscrit un service civique dans les conditions prévues
 aux titres Ier bis et II du livre Ier du code du service national ;
 
-14°) Dans des conditions fixées par décret, les personnes bénéficiaires d'un
+14° Dans des conditions fixées par décret, les personnes bénéficiaires d'un
 appui à la création ou à la reprise d'une activité économique au titre de
 l'article L. 127-1 du code de commerce ;
 
-14°) bis Les personnes mentionnées au 2 de l'article 200 octies du code général
+14° bis Les personnes mentionnées au 2 de l'article 200 octies du code général
 des impôts ;
 
-15°) Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code du
-service national;
+15° Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code du
+service national ;
 
-16°) Les titulaires de mandats locaux.
+16° Les titulaires de mandats locaux.
 
 Les dispositions de l'article L. 434-1 du présent code ne sont pas applicables
 aux personnes mentionnées aux a, b et f du 2°.

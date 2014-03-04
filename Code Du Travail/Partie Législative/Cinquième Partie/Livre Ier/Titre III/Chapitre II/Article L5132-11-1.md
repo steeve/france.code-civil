@@ -4,11 +4,10 @@ Les associations intermédiaires peuvent conclure avec des personnes sans emploi
 rencontrant des difficultés sociales et professionnelles particulières des
 contrats à durée déterminée en application de l'article L. 1242-3.
 
-Ces contrats peuvent, aux fins de développer l'expérience et les compétences du
-salarié, prévoir, par avenant, une période d'immersion auprès d'un autre
-employeur dans les conditions prévues à l'article L. 8241-2. Un décret détermine
-la durée et les conditions d'agrément et d'exécution de cette période
-d'immersion.
+Pendant l'exécution de ces contrats, une ou plusieurs conventions conclues en
+vertu de l'article L. 5135-4 peuvent prévoir une période de mise en situation en
+milieu professionnel auprès d'un autre employeur dans les conditions prévues au
+chapitre V du présent titre.
 
 La durée de ces contrats ne peut être inférieure à quatre mois.
 
@@ -38,13 +37,14 @@ sociale.
 
 Ce contrat peut être suspendu, à la demande du salarié, afin de lui permettre :
 
-1° En accord avec son employeur, d'effectuer une évaluation en milieu de travail
-prescrite par l'institution mentionnée à l'article L. 5312-1 du présent code ou
-une action concourant à son insertion professionnelle ;
+1° En accord avec son employeur, d'effectuer une période de mise en situation en
+milieu professionnel dans les conditions prévues au chapitre V du présent titre
+ou une action concourant à son insertion professionnelle ;
 
 2° D'accomplir une période d'essai afférente à une offre d'emploi visant une
 embauche en contrat de travail à durée indéterminée ou à durée déterminée au
 moins égale à six mois.
 
-En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette
-période d'essai, le contrat est rompu sans préavis.
+En cas d'embauche à l'issue de cette période de mise en situation en milieu
+professionnel, d'une action concourant à son insertion professionnelle, ou de
+cette période d'essai, le contrat est rompu sans préavis.

@@ -1,4 +1,4 @@
 Article L5112-2
 ----
-Un décret en Conseil d'Etat précise les conditions d'application de la présente
-section.
+Un décret en Conseil d'Etat précise les conditions d'application du présent
+chapitre.

@@ -7,5 +7,5 @@ ne peut être antérieure de plus de trois mois, ni postérieure de plus de troi
 mois au début du cycle du centre de formation d'apprentis que suit l'apprenti.
 
 En cas de dérogation ou de suspension du contrat pour une raison indépendante de
-la volonté de l'apprenti, la durée du contrat est prolongée jusqu'à l'expiration
-de ce cycle.
+la volonté de l'apprenti, la durée du contrat ou de la période d'apprentissage
+est prolongée jusqu'à l'expiration de ce cycle.

@@ -12,9 +12,9 @@ prévisionnel des formations de l'enseignement agricole et sur les demandes
 d'ouverture des établissements privés.
 
 Le comité régional de l'enseignement agricole est consulté sur le projet de
-contrat de plan régional de développement des formations professionnelles des
-jeunes prévu par l'article L. 214-13 du code de l'éducation et sur le projet
-régional de l'enseignement agricole.
+contrat de plan régional de développement des formations et de l'orientation
+professionnelles des jeunes prévu par l'article L. 214-13 du code de l'éducation
+et sur le projet régional de l'enseignement agricole.
 
 Le schéma prévisionnel régional prévu à l'article L. 214-1 du code de
 l'éducation et le plan régional de développement des informations

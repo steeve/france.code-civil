@@ -18,5 +18,6 @@ professionnalisants en entreprise.
 Une même entreprise ne peut accueillir un jeune en stage plus d'une fois par an.
 
 A tout moment, le bénéficiaire du présent article peut signer un contrat
-d'apprentissage d'une durée comprise entre un et trois ans et réduite du nombre
-de mois écoulés depuis le début du cycle de formation.
+d'apprentissage. Dans ce cas, la durée du contrat ou de la période
+d'apprentissage est réduite du nombre de mois écoulés depuis le début du cycle
+de formation.

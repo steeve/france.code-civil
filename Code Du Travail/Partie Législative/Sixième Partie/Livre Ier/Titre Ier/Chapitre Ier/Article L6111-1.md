@@ -7,7 +7,10 @@ favorisant son évolution professionnelle, ainsi que de progresser d'au moins un
 niveau de qualification au cours de sa vie professionnelle. Elle constitue un
 élément déterminant de sécurisation des parcours professionnels et de la
 promotion des salariés. Une stratégie nationale coordonnée est définie et mise
-en œuvre par l'Etat, les régions et les partenaires sociaux.
+en œuvre par l'Etat, les régions et les partenaires sociaux, dans les conditions
+prévues au 2° de l'article L. 6123-1. Cette stratégie est déclinée dans chaque
+région dans le cadre du comité régional de l'emploi, de la formation et de
+l'orientation professionnelles.
 
 Elle comporte une formation initiale, comprenant notamment l'apprentissage, et
 des formations ultérieures, qui constituent la formation professionnelle

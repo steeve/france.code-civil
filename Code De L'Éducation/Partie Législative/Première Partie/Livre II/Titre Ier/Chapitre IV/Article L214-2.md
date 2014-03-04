@@ -10,7 +10,10 @@ L'Etat transfère aux régions les crédits qu'il accordait à ces initiatives.
 En cohérence avec les stratégies nationales de l'enseignement supérieur et de
 recherche, la région définit un schéma régional de l'enseignement supérieur, de
 la recherche et de l'innovation qui détermine les principes et les priorités de
-ses interventions.
+ses interventions. Ce schéma inclut un volet relatif à l'intervention des
+établissements d'enseignement supérieur au titre de la formation professionnelle
+continue, en cohérence avec le contrat de plan régional de développement des
+formations et de l'orientation professionnelles mentionné à l'article L. 214-13.
 
 Les collectivités territoriales et les établissements publics de coopération
 intercommunale qui accueillent des sites universitaires ou des établissements de

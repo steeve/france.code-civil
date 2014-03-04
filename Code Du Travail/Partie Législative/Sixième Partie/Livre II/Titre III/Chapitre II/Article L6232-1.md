@@ -1,13 +1,12 @@
 Article L6232-1
 ----
 La création des centres de formation d'apprentis fait l'objet de conventions
-conclues entre l'Etat, dans le cas des centres à recrutement national, la
-région, dans tous les autres cas et :
+conclues, sur le territoire régional, entre la région et :
 
 1° Les organismes de formation gérés paritairement par les organisations
 professionnelles d'employeurs et les syndicats de salariés ;
 
-2° Les collectivités locales ;
+2° Les autres collectivités territoriales ;
 
 3° Les établissements publics ;
 

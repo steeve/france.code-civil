@@ -1,10 +1,9 @@
 Article L6222-7
 ----
-La durée du contrat d'apprentissage est au moins égale à celle du cycle de
-formation qui fait l'objet du contrat.
+Le contrat d'apprentissage peut être conclu pour une durée limitée ou pour une
+durée indéterminée.
 
-Elle peut varier entre un et trois ans, sous réserve des cas de prolongation
-prévus à l'article L. 6222-11.
-
-Elle est fixée en fonction du type de profession et du niveau de qualification
-préparés.
+Lorsqu'il est conclu pour une durée indéterminée, le contrat débute par la
+période d'apprentissage, pendant laquelle il est régi par le présent titre. A
+l'issue de cette période, la relation contractuelle est régie par les titres II
+et III du livre II de la première partie, à l'exception de l'article L. 1221-19.

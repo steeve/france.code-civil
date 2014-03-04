@@ -13,14 +13,14 @@ et par des représentants élus des personnels et des étudiants, élus au scrut
 secret par collèges distincts. Les établissements publics de recherche sont
 représentés par des dirigeants de ces établissements nommés par le ministre
 chargé de la recherche et des représentants élus des personnels. Le Conseil
-national de la formation professionnelle tout au long de la vie, prévu à la
-section 1 du chapitre III du titre II du livre Ier de la sixième partie du code
-du travail, et le Conseil national de l'enseignement supérieur et de la
-recherche agricole, agroalimentaire et vétérinaire, prévu à l'article L. 814-3
-du code rural et de la pêche maritime, désignent leurs représentants qui siègent
-avec voix consultative. Les représentants des grands intérêts nationaux sont
-nommés conjointement par le ministre chargé de l'enseignement supérieur et par
-le ministre chargé de la recherche.
+national de l'emploi, de la formation et de l'orientation professionnelles,
+prévu à la section 1 du chapitre III du titre II du livre Ier de la sixième
+partie du code du travail, et le Conseil national de l'enseignement supérieur et
+de la recherche agricole, agroalimentaire et vétérinaire, prévu à l'article L.
+814-3 du code rural et de la pêche maritime, désignent leurs représentants qui
+siègent avec voix consultative. Les représentants des grands intérêts nationaux
+sont nommés conjointement par le ministre chargé de l'enseignement supérieur et
+par le ministre chargé de la recherche.
 
 Le conseil est présidé par le ministre chargé de l'enseignement supérieur ou par
 le ministre chargé de la recherche, en fonction de l'ordre du jour.

@@ -15,3 +15,7 @@ L. 2314-3-1.
 A défaut d'accord, l'autorité administrative fixe le nombre et la composition
 des collèges électoraux ainsi que le nombre des sièges et leur répartition entre
 les collèges par application des dispositions du présent titre.
+
+La saisine de l'autorité administrative suspend le processus électoral jusqu'à
+la décision administrative et entraîne la prorogation des mandats des élus en
+cours jusqu'à la proclamation des résultats du scrutin.

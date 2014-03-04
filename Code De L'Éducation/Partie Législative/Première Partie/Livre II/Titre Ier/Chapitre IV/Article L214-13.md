@@ -1,63 +1,82 @@
 Article L214-13
 ----
-I. - Le contrat de plan régional de développement des formations
-professionnelles a pour objet de définir une programmation à moyen terme des
-actions de formation professionnelle des jeunes et des adultes et d'assurer un
-développement cohérent de l'ensemble des filières de formation en favorisant un
-accès équilibré des femmes et des hommes à chacune de ces filières de formation.
-Il comporte des actions d'information et de formation destinées à favoriser leur
-insertion sociale. Il définit également les priorités relatives à l'information,
-à l'orientation et à la validation des acquis de l'expérience.
+I.-Le contrat de plan régional de développement des formations et de
+l'orientation professionnelles a pour objet l'analyse des besoins à moyen terme
+du territoire régional en matière d'emplois, de compétences et de qualifications
+et la programmation des actions de formation professionnelle des jeunes et des
+adultes, compte tenu de la situation et des objectifs de développement
+économique du territoire régional.
 
-Ce contrat de plan détermine les objectifs communs aux différents acteurs sur le
-territoire régional, notamment en termes de filières de formation
-professionnelle initiale et continue, sur la base d'une analyse des besoins en
-termes d'emplois et de compétences par bassin d'emploi. Il porte sur l'ensemble
-du territoire régional et peut être décliné par bassin d'emploi.
+Ce contrat de plan définit, sur le territoire régional et, le cas échéant, par
+bassin d'emploi :
 
-Le contrat de plan régional est élaboré par la région au sein du comité de
-coordination régional de l'emploi et de la formation professionnelle sur la base
-des documents d'orientation présentés par le président du conseil régional, le
-représentant de l'Etat dans la région, l'autorité académique et les
-organisations d'employeurs et de salariés. Le comité procède à une concertation
-avec les collectivités territoriales concernées, l'institution mentionnée à
-l'article L. 5312-1 du code du travail et des représentants d'organismes de
-formation professionnelle, notamment l'Association nationale pour la formation
-professionnelle des adultes en sa qualité de membre du Conseil national de
-l'emploi.
+1° Les objectifs dans le domaine de l'offre de conseil et d'accompagnement en
+orientation, dans le cadre de l'article L. 6111-3, afin d'assurer
+l'accessibilité aux programmes disponibles ;
 
-Le contrat de plan régional est signé par le président du conseil régional au
-nom de la région après consultation des départements et adoption par le conseil
-régional, par le représentant de l'Etat dans la région au nom de l'Etat et par
-l'autorité académique. Il engage les parties représentées au sein du comité de
-coordination régional de l'emploi et de la formation professionnelle.
+2° Les objectifs en matière de filières de formation professionnelle initiale et
+continue. Ces objectifs tiennent compte de l'émergence de nouvelles filières et
+de nouveaux métiers dans le domaine de la transition écologique et énergétique ;
 
-Le suivi et l'évaluation de ce contrat de plan sont assurés par le comité de
-coordination régional de l'emploi et de la formation professionnelle selon des
-modalités générales définies par le Conseil national de la formation
-professionnelle tout au long de la vie.
+3° Dans sa partie consacrée aux jeunes, un schéma de développement de la
+formation professionnelle initiale, favorisant une représentation équilibrée des
+femmes et des hommes dans chacune des filières, incluant le cycle d'enseignement
+professionnel initial dispensé par les établissements d'enseignement artistique
+et valant schéma régional des formations sociales et schéma régional des
+formations sanitaires. Ce schéma comprend des dispositions relatives à
+l'hébergement et à la mobilité de ces jeunes, destinées à faciliter leur
+parcours de formation ;
 
-Le contrat de plan régional est établi après chaque renouvellement du conseil
-régional et prend effet le 1er juin de la première année civile suivant le début
-de la mandature.
+4° Dans sa partie consacrée aux adultes, les actions de formation
+professionnelle ayant pour but de favoriser l'accès, le maintien et le retour à
+l'emploi ;
 
-II. - Le contrat de plan régional de développement des formations
-professionnelles pour sa partie consacrée aux jeunes couvre l'ensemble des
-filières de formation des jeunes préparant l'accès à l'emploi et veille à
-assurer une représentation équilibrée des femmes et des hommes dans ces filières
-de formation professionnelle. Il inclut le cycle d'enseignement professionnel
-initial dispensé par les établissements d'enseignement artistique.
+5° Un schéma prévisionnel de développement du service public régional de
+l'orientation ;
 
-Il vaut schéma prévisionnel d'apprentissage, schéma régional des formations
-sociales et schéma régional des formations sanitaires.
+6° Les priorités relatives à l'information, à l'orientation et à la validation
+des acquis de l'expérience.
 
-III. - Le contrat de plan régional de développement des formations
-professionnelles, pour sa partie consacrée aux adultes, couvre l'ensemble des
-actions de formation professionnelle visant à favoriser l'accès, le maintien et
-le retour à l'emploi.
+Les conventions annuelles conclues en application de l'article L. 214-13-1 du
+présent code, s'agissant des cartes régionales des formations professionnelles
+initiales, et de l'article L. 6121-3 du code du travail et du IV du présent
+article, s'agissant des conventions sectorielles, concourent à la mise en œuvre
+de la stratégie définie par le contrat de plan régional.
 
-IV. - Des conventions annuelles d'application précisent, pour l'Etat et la
-région, la programmation et les financements des actions.
+II.-Le contrat de plan régional de développement des formations et de
+l'orientation professionnelles est élaboré par la région au sein du comité
+régional de l'emploi, de la formation et de l'orientation professionnelles
+mentionné à l'article L. 6123-3 du code du travail sur la base des documents
+d'orientation présentés par le président du conseil régional, le représentant de
+l'Etat dans la région, les autorités académiques, les organisations syndicales
+de salariés et les organisations professionnelles d'employeurs. Le comité
+procède à une concertation avec les collectivités territoriales concernées,
+l'institution mentionnée à l'article L. 5312-1 du même code, les organismes
+consulaires, des représentants de structures d'insertion par l'activité
+économique et des représentants d'organismes de formation professionnelle,
+notamment l'Association nationale pour la formation professionnelle des adultes.
+
+Le contrat de plan régional est établi dans l'année qui suit le renouvellement
+du conseil régional.
+
+Le contrat de plan régional adopté par le comité régional de l'emploi, de la
+formation et de l'orientation professionnelles est signé par le président du
+conseil régional après consultation des départements et approbation par le
+conseil régional, ainsi que par le représentant de l'Etat dans la région et par
+les autorités académiques. Il est proposé à la signature des organisations
+syndicales de salariés et des organisations professionnelles d'employeurs
+représentées au sein du comité régional de l'emploi, de la formation et de
+l'orientation professionnelles.
+
+Un décret en Conseil d'Etat, pris après avis du Conseil national de l'emploi, de
+la formation et de l'orientation professionnelles mentionné à l'article L.
+6123-1 dudit code, fixe les modalités du suivi et de l'évaluation des contrats
+de plan régionaux.
+
+III. (abrogé)
+
+IV.-Des conventions annuelles d'application précisent, pour l'Etat et la région,
+la programmation et les financements des actions.
 
 Elles sont signées par le président du conseil régional, le représentant de
 l'Etat dans la région ainsi que, selon leur champ d'application, par les divers
@@ -70,7 +89,7 @@ institution. Elles précisent, en matière d'orientation et de formation
 professionnelles, les conditions de mise en œuvre de la convention prévue à
 l'article L. 5312-11 du même code.
 
-V. - L'Etat, une ou plusieurs régions, une ou plusieurs organisations
+V.-L'Etat, une ou plusieurs régions, une ou plusieurs organisations
 représentatives des milieux socioprofessionnels et, le cas échéant,
 l'institution mentionnée à l'article L. 5312-1 du code du travail peuvent
 conclure des contrats fixant des objectifs de développement coordonné des
@@ -94,7 +113,7 @@ au développement de l'apprentissage conformément à l'article L. 6211-3 du cod
 du travail. Ces contrats peuvent prendre la forme d'une annexe aux contrats
 visés à l'alinéa précédent.
 
-VI. - Dans le cadre du contrat de plan régional de développement des formations
+VI.-Dans le cadre du contrat de plan régional de développement des formations
 professionnelles, chaque région arrête annuellement un programme régional
 d'apprentissage et de formation professionnelle continue, après avis du comité
 de coordination régional de l'emploi et de la formation professionnelle.
