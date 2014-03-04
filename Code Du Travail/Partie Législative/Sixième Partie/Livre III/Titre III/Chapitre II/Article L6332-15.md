@@ -9,12 +9,13 @@ charge est limitée à un plafond horaire et à une durée maximale déterminés
 décret.
 
 Ces organismes peuvent également prendre en charge, dans la limite de plafonds
-mensuels et de durées maximales déterminés par décret, les coûts liés à
-l'exercice de la fonction tutorale engagés par les entreprises pour les salariés
-bénéficiaires de contrats de professionnalisation ou de périodes de
-professionnalisation. Cette prise en charge fait l'objet d'un plafond spécifique
-lorsque les contrats de professionnalisation sont conclus avec les personnes
-mentionnées à l'article L. 6325-1-1.
+mensuels et de durées maximales déterminés par décret, les dépenses engagées par
+l'entreprise pour la formation pédagogique des maîtres d'apprentissage ainsi que
+les coûts liés à l'exercice de la fonction tutorale engagés par les entreprises
+pour les salariés bénéficiaires de contrats de professionnalisation ou de
+périodes de professionnalisation. Cette prise en charge fait l'objet d'un
+plafond spécifique lorsque les contrats de professionnalisation sont conclus
+avec les personnes mentionnées à l'article L. 6325-1-1.
 
 Ces organismes peuvent également prendre en charge, dans les mêmes conditions,
 une partie des dépenses de tutorat externe à l'entreprise engagées pour les

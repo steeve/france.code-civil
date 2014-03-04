@@ -1,8 +1,10 @@
 Article L6331-2
 ----
-Les employeurs de moins de dix salariés consacrent au financement des actions
-définies à l'article L. 6331-1 un pourcentage minimal du montant des
-rémunérations versées pendant l'année en cours s'élevant à 0,55 %.
+L'employeur de moins de dix salariés verse à l'organisme collecteur paritaire
+agréé désigné par l'accord de la branche dont il relève ou, à défaut, à
+l'organisme collecteur paritaire agréé au niveau interprofessionnel un
+pourcentage minimal du montant des rémunérations versées pendant l'année en
+cours s'élevant à 0,55 %.
 
 Les rémunérations sont entendues au sens des règles prévues aux chapitres Ier et
 II du titre IV du livre II du code de la sécurité sociale, ou au chapitre II du

@@ -2,7 +2,7 @@ Article L6324-7
 ----
 Les actions de la période de professionnalisation peuvent se dérouler pour tout
 ou partie en dehors du temps de travail à l'initiative soit du salarié dans le
-cadre du droit individuel à la formation prévu à l'article L. 6323-1, soit de
+cadre du compte personnel de formation prévu à l'article L. 6323-1, soit de
 l'employeur, après accord écrit du salarié, en application de l'article L.
 6321-6.
 

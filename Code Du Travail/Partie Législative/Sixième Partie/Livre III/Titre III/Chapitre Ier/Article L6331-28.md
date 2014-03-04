@@ -1,9 +1,9 @@
 Article L6331-28
 ----
-Lorsque les dépenses justifiées par l'employeur en application des dispositions
-de la présente sous-section sont inférieures à la participation prévue par
-l'article L. 6331-9, l'employeur effectue au Trésor un versement égal à la
-différence constatée.
+Lorsque l'employeur n'a pas effectué les reversements prévus à l'article L.
+6331-11, il verse au Trésor public une somme égale à la différence entre le
+montant prévu au premier alinéa de l'article L. 6331-10 et le montant des
+dépenses effectivement consacrées au compte personnel de formation et à son
+abondement.
 
-Ce versement est opéré en même temps que le dépôt de la déclaration de l'année
-de cette régularisation.
+Les deux derniers alinéas de l'article L. 6331-30 s'appliquent à ce versement.

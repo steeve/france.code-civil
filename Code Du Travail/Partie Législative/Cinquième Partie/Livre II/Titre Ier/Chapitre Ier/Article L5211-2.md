@@ -1,9 +1,12 @@
 Article L5211-2
 ----
-Des politiques concertées d'accès à la formation et à la qualification
-professionnelles des personnes handicapées, visant à créer les conditions
-collectives d'exercice du droit au travail des personnes handicapées, sont
-définies et mises en oeuvre par :
+La région est chargée, dans le cadre du service public régional de la formation
+professionnelle défini à l'article L. 6121-2, de l'accès à la formation et à la
+qualification professionnelle des personnes handicapées.
+
+Elle définit et met en œuvre un programme régional d'accès à la formation et à
+la qualification professionnelle des personnes handicapées en concertation avec
+:
 
 1° L'Etat ;
 
@@ -15,7 +18,7 @@ handicapés ;
 4° Le fonds pour l'insertion des personnes handicapées dans la fonction publique
 ;
 
-5° Les régions ;
+5° (Abrogé)
 
 6° Les organismes de protection sociale ;
 

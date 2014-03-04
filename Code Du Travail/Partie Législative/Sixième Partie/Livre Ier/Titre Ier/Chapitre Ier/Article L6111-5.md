@@ -1,11 +1,9 @@
 Article L6111-5
 ----
-Selon des modalités définies par décret en Conseil d'Etat et sur le fondement de
-normes de qualité élaborées par le délégué visé à l'article L. 6123-3 après avis
-public du Conseil national de la formation professionnelle tout au long de la
-vie, peuvent être reconnus comme participant au service public de l'orientation
-tout au long de la vie les organismes qui proposent dans un lieu unique à toute
-personne un ensemble de services lui permettant :
+Sur le fondement de normes de qualité élaborées par la région à partir d'un
+cahier des charges qu'elle arrête, peuvent être reconnus comme participant au
+service public régional de l'orientation tout au long de la vie les organismes
+qui proposent à toute personne un ensemble de services lui permettant :
 
 1° De disposer d'une information exhaustive et objective sur les métiers, les
 compétences et les qualifications nécessaires pour les exercer, les dispositifs

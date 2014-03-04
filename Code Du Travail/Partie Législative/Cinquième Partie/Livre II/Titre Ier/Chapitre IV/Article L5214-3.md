@@ -11,7 +11,10 @@ financement d'actions d'innovation et de recherche dont bénéficient les
 intéressés dans l'entreprise ;
 
 2° A des mesures nécessaires à l'insertion et au suivi des travailleurs
-handicapés dans leur vie professionnelle.
+handicapés dans leur vie professionnelle ;
+
+3° Au financement de tout ou partie des actions de formation professionnelle
+préqualifiantes et certifiantes des demandeurs d'emploi handicapés.
 
 Les actions définies au présent article peuvent concerner les entreprises non
 assujetties à l'obligation d'emploi prévue par l'article L. 5212-2 lorsqu'elles

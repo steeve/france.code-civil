@@ -1,8 +1,5 @@
 Article L6323-9
 ----
-La mise en oeuvre du droit individuel à la formation relève de l'initiative du
-salarié, en accord avec son employeur.
-
-Le choix de l'action de formation envisagée, qui peut prendre en compte les
-priorités définies à l'article L. 6323-8, est arrêté par accord écrit du salarié
-et de l'employeur.
+Tous les ans, à compter du 1er juin 2015, le Conseil national de l'emploi, de la
+formation et de l'orientation professionnelles remet au Parlement un rapport
+évaluant la mise en œuvre et l'utilisation du compte personnel de formation.

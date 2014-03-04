@@ -7,7 +7,10 @@ favorisant son évolution professionnelle, ainsi que de progresser d'au moins un
 niveau de qualification au cours de sa vie professionnelle. Elle constitue un
 élément déterminant de sécurisation des parcours professionnels et de la
 promotion des salariés. Une stratégie nationale coordonnée est définie et mise
-en œuvre par l'Etat, les régions et les partenaires sociaux.
+en œuvre par l'Etat, les régions et les partenaires sociaux, dans les conditions
+prévues au 2° de l'article L. 6123-1. Cette stratégie est déclinée dans chaque
+région dans le cadre du comité régional de l'emploi, de la formation et de
+l'orientation professionnelles.
 
 Elle comporte une formation initiale, comprenant notamment l'apprentissage, et
 des formations ultérieures, qui constituent la formation professionnelle
@@ -19,27 +22,11 @@ valider les acquis de son expérience, notamment professionnelle ou liée à
 l'exercice de responsabilités syndicales.
 
 Afin de favoriser son accès à la formation professionnelle tout au long de la
-vie, chaque personne dispose dès son entrée sur le marché du travail,
-indépendamment de son statut, d'un compte personnel de formation. Le compte
-personnel de formation est comptabilisé en heures et mobilisé par la personne
-lorsqu'elle accède à une formation à titre individuel, qu'elle soit salariée ou
-demandeuse d'emploi. Il est intégralement transférable en cas de changement ou
-de perte d'emploi et ne peut en aucun cas être débité sans l'accord exprès de
-son titulaire. Le service public de l'orientation mentionné à l'article L.
-6111-3 est organisé pour assurer l'information, le conseil et l'accompagnement
-des personnes qui envisagent de mobiliser leur compte personnel de formation. Le
-compte est alimenté :
-
-1° Chaque année selon les modalités prévues aux articles L. 6323-1 à L. 6323-5 ;
-
-2° Par des abondements complémentaires, notamment par l'Etat ou la région, en
-vue de favoriser l'accès à l'une des qualifications mentionnées à l'article L.
-6314-1, en particulier pour les personnes qui ont quitté le système scolaire de
-manière précoce ou qui, à l'issue de leur formation initiale, n'ont pas obtenu
-de qualification professionnelle reconnue ;
-
-3° En cas d'utilisation des points inscrits sur le compte personnel de
-prévention de la pénibilité, dans les conditions prévues à l'article L. 4162-5.
+vie, chaque personne dispose dès son entrée sur le marché du travail et jusqu'à
+la retraite, indépendamment de son statut, d'un compte personnel de formation
+qui contribue à l'acquisition d'un premier niveau de qualification ou au
+développement de ses compétences et de ses qualifications en lui permettant, à
+son initiative, de bénéficier de formations.
 
 Peuvent être mobilisés en complément du compte les autres dispositifs de
 formation auxquels son titulaire peut prétendre.

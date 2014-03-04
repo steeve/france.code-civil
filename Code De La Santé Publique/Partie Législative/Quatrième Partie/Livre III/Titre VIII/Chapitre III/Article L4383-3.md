@@ -6,6 +6,11 @@ puériculture, des ambulanciers et des cadres de santé fait l'objet d'une
 autorisation délivrée par le président du conseil régional, après avis du
 directeur général de l'agence régionale de santé.
 
+Les instituts ou écoles autorisés par le président du conseil régional à
+dispenser une formation paramédicale initiale ou une formation continue pour les
+demandeurs d'emplois participent au service public régional de la formation
+professionnelle.
+
 Le président du conseil régional agrée, après avis du directeur général de
 l'agence régionale de santé, les directeurs des instituts ou écoles de formation
 mentionnés au premier alinéa.

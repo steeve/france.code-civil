@@ -1,24 +1,16 @@
 Article L6331-11
 ----
-Le versement opéré au titre du congé individuel de formation, du congé de bilan
-de compétences, du congé pour examen et du congé pour validation des acquis de
-l'expérience est utilisé pour financer exclusivement :
+Lorsqu'un accord d'entreprise a été conclu sur le fondement de l'article L.
+6331-10, l'employeur adresse chaque année à l'organisme collecteur paritaire
+agréé auquel il verse la contribution mentionnée à l'article L. 6331-9 une
+déclaration faisant état des dépenses qu'il consacre au financement du compte
+personnel de formation des salariés et à son abondement. Cette déclaration est
+transmise pour information à l'autorité administrative.
 
-1° Dans les limites fixées par l'autorité administrative, les dépenses
-d'information des salariés sur ces congés ainsi que les dépenses
-d'accompagnement du salarié dans le choix de son orientation professionnelle et
-d'appui à l'élaboration de son projet ;
-
-2° La rémunération des salariés en congé, les cotisations de sécurité sociale y
-afférentes à la charge de l'employeur, les charges légales et contractuelles
-assises sur ces rémunérations, les frais de formation, de bilan de compétences
-et de validation des acquis de l'expérience exposés dans le cadre de ces congés
-et, le cas échéant, tout ou partie des frais de transport et d'hébergement ;
-
-3° Le remboursement aux employeurs de moins de cinquante salariés de tout ou
-partie de l'indemnité de fin de contrat versée en application de l'article L.
-1243-8 au salarié recruté par contrat à durée déterminée pour remplacer un
-salarié parti en congé individuel de formation ;
-
-4° Dans les limites fixées par l'autorité administrative, les frais de gestion
-des organismes collecteurs paritaires agréés.
+A l'issue d'une période de trois années civiles qui suit l'entrée en vigueur de
+l'accord, les fonds que l'employeur n'a pas consacrés au financement du compte
+personnel de formation et à son abondement sont reversés à l'organisme
+collecteur paritaire agréé mentionné au premier alinéa du présent article, au
+titre des financements destinés au financement du compte personnel de formation,
+dans des conditions et délai fixés par voie réglementaire. A défaut de
+reversement dans ce délai, l'article L. 6331-28 s'applique.

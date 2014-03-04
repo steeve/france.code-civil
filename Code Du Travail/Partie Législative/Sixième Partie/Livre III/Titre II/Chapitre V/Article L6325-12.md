@@ -8,7 +8,7 @@ Ces bénéficiaires et la nature de ces qualifications sont définis par convent
 ou accord collectif de branche ou, à défaut, par accord collectif conclu entre
 les organisations représentatives d'employeurs et de salariés signataires de
 l'accord constitutif d'un organisme collecteur paritaire interprofessionnel
-agréé au titre de la professionnalisation et du droit individuel à la formation.
+agréé.
 
 La nature de ces qualifications peut être définie par un accord conclu au niveau
 national et interprofessionnel.

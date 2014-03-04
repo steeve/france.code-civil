@@ -27,16 +27,17 @@ disposer l'organisme collecteur paritaire agréé et les conditions d'utilisatio
 de ces fonds pour le financement des actions mentionnées à l'article L. 6332-21
 ;
 
-6° Les conditions d'utilisation des versements, les règles applicables aux
-excédents financiers est susceptible de disposer l'organisme collecteur
-paritaire agréé au titre des sections particulières prévues aux articles L.
-6332-3 et L. 6332-3-1 ainsi que les modalités de fonctionnement de ces sections
-;
+6° Les conditions d'utilisation des versements ainsi que les modalités de
+fonctionnement des sections prévues à l'article L. 6332-3 ;
 
-7° La définition et les modalités de fixation du plafond des dépenses relatives
-aux frais de gestion et d'information des organismes collecteurs paritaires
-agréés. Ce plafond est fixé par arrêté du ministre chargé de la formation
-professionnelle. Il est composé d'une part fixe exprimée en pourcentage de la
-collecte et d'une part variable déterminée pour chaque organisme collecteur
-paritaire agréé par la convention d'objectifs et de moyens mentionnée à
-l'article L. 6332-1-1.
+7° La définition et les modalités de fixation du plafond des dépenses pouvant
+être négociées dans le cadre de la convention prévue au dernier alinéa de
+l'article L. 6332-1-1 relatives aux frais de gestion et d'information des
+organismes collecteurs paritaires agréés ;
+
+8° Les règles d'affectation à chacune des sections mentionnées à l'article L.
+6332-3 des fonds collectés par les organismes collecteurs paritaires agréés ;
+
+9° Les modalités selon lesquelles s'opère le versement au fonds paritaire de
+sécurisation des parcours professionnels des fonds destinés au financement du
+congé individuel de formation prévu à l'article L. 6332-3-6.

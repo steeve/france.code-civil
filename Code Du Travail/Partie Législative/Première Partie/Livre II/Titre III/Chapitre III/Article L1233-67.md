@@ -17,12 +17,8 @@ mentionné au 10° de l'article L. 1233-68. Les régimes social et fiscal
 applicables à ce solde sont ceux applicables aux indemnités compensatrices de
 préavis.
 
-Après l'adhésion au contrat de sécurisation professionnelle, le bénéficiaire ne
-peut se prévaloir des articles L. 6323-17 et L. 6323-18. La somme correspondant
-au solde du nombre d'heures acquises au titre du droit individuel à la formation
-multiplié par le montant forfaitaire mentionné au deuxième alinéa de l'article
-L. 6332-14 est affectée au financement des mesures du contrat de sécurisation
-professionnelle.
+Après l'adhésion au contrat de sécurisation professionnelle, le bénéficiaire
+peut mobiliser le compte personnel de formation mentionné à l'article L. 6323-1.
 
 Pendant l'exécution du contrat de sécurisation professionnelle, le salarié est
 placé sous le statut de stagiaire de la formation professionnelle.

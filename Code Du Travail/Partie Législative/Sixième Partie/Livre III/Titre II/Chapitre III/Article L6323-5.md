@@ -1,10 +1,6 @@
 Article L6323-5
 ----
-Les droits acquis annuellement au titre du droit individuel à la formation
-peuvent être cumulés sur une durée de six ans. Au terme de cette durée et à
-défaut de son utilisation en tout ou partie, le droit individuel à la formation
-reste plafonné à cent vingt heures.
-
-Ce plafond s'applique également aux salariés à temps partiel, quel que soit le
-nombre d'années cumulées, sur la base des droits annuels acquis à due proportion
-du temps.
+Les heures complémentaires mobilisées à l'appui d'un projet de formation sur le
+fondement du II de l'article L. 6323-4 sont mentionnées dans le compte sans y
+être inscrites. Elles ne sont pas prises en compte pour le calcul du plafond
+mentionné à l'article L. 6323-11.

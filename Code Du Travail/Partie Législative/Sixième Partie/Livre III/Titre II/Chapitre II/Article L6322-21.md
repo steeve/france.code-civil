@@ -1,8 +1,8 @@
 Article L6322-21
 ----
 La demande de prise en charge du salarié bénéficiaire d'un congé individuel de
-formation est adressée à l'organisme paritaire agréé auquel l'employeur verse la
-contribution destinée au financement de ce congé.
+formation est adressée à l'organisme paritaire agréé pour la prise en charge du
+congé individuel de formation.
 
 Pour les salariés des entreprises non assujetties à l'obligation de financement
 des actions de formation définie à l'article L. 6331-9, l'organisme compétent

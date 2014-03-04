@@ -7,4 +7,7 @@ fixées à l'article L. 6341-4, sont :
 1° Les stages suivis par les salariés à l'initiative de leur employeur ;
 
 2° Les stages suivis par les travailleurs non salariés prévus à l'article L.
-6341-8.
+6341-8 ;
+
+3° Les stages en direction des demandeurs d'emploi qui ne relèvent plus du
+régime d'assurance chômage, mentionnés à l'article L. 6341-7.

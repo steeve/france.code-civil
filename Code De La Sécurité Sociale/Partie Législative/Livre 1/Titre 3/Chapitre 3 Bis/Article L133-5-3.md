@@ -16,7 +16,9 @@ sécurité sociale, de la gestion d'un régime de retraite complémentaire
 obligatoire en application du chapitre Ier du titre II du livre IX ou de la
 gestion d'un régime de protection sociale complémentaire institué en application
 de l'article L. 911-1, les caisses assurant le service des congés payés,
-l'institution mentionnée à l'article L. 5312-1 du code du travail ainsi que les
+l'institution mentionnée à l'article L. 5312-1 du code du travail, l'organisme
+chargé de la gestion du système d'information du compte personnel de formation
+mentionné au III de l'article L. 6323-8 du code du travail, ainsi que les
 services de l'Etat.
 
 II. ― L'employeur qui souscrit la déclaration sociale nominative est réputé, à

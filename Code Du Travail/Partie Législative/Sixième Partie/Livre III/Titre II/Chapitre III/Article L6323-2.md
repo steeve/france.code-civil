@@ -1,9 +1,7 @@
 Article L6323-2
 ----
-Pour le calcul des droits ouverts au titre du droit individuel à la formation,
-la période d'absence du salarié pour un congé de maternité, d'adoption, de
-présence parentale, de soutien familial ou pour un congé parental d'éducation
-est intégralement prise en compte.
-
-Pour les salariés à temps partiel, la durée du droit individuel à la formation
-est calculée à due proportion du temps.
+Le compte personnel de formation est comptabilisé en heures et mobilisé par la
+personne, qu'elle soit salariée ou à la recherche d'un emploi, afin de suivre, à
+son initiative, une formation. Le compte ne peut être mobilisé qu'avec l'accord
+exprès de son titulaire. Le refus du titulaire du compte de le mobiliser ne
+constitue pas une faute.

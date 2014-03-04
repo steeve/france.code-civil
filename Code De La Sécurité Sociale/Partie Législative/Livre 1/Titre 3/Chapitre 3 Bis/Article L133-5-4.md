@@ -8,13 +8,14 @@ ressortir le montant des rémunérations versées à chacun de ses salariés ou
 assimilés au cours de l'année précédente.
 
 Les données de cette déclaration servent à l'ouverture et au calcul des droits
-des salariés aux assurances sociales, à la vérification des déclarations de
-cotisations sociales de l'employeur, à la détermination du taux de certaines
-cotisations ainsi qu'à l'accomplissement par les administrations et organismes
-destinataires de leurs missions. Au moyen de cette déclaration unique,
-l'employeur accomplit les déclarations mentionnées aux articles 87,240 et 241 du
-code général des impôts et aux articles L. 1221-18, L. 1441-8 et L. 5212-5 du
-code du travail ainsi que les déclarations dont la liste est fixée par décret.
+des salariés en matière d'assurances sociales, de prévention de la pénibilité et
+de formation, à la vérification des déclarations de cotisations sociales de
+l'employeur, à la détermination du taux de certaines cotisations ainsi qu'à
+l'accomplissement par les administrations et organismes destinataires de leurs
+missions. Au moyen de cette déclaration unique, l'employeur accomplit les
+déclarations mentionnées aux articles 87,240 et 241 du code général des impôts
+et aux articles L. 1221-18, L. 1441-8 et L. 5212-5 du code du travail ainsi que
+les déclarations dont la liste est fixée par décret.
 
 II. ― La déclaration annuelle des données sociales est effectuée par voie
 électronique selon une norme d'échanges qui peut servir à l'accomplissement

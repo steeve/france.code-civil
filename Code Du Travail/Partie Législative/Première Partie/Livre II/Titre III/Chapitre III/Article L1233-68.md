@@ -19,8 +19,8 @@ renouvelables une fois par dérogation à l'article L. 1243-13, et des contrats 
 travail temporaire prévus à l'article L. 1251-7 ;
 
 4° Le contenu des mesures mentionnées à l'article L. 1233-65 ainsi que les
-modalités selon lesquelles elles sont financées, notamment au titre du droit
-individuel à la formation, et mises en œuvre par l'un des organismes assurant le
+modalités selon lesquelles elles sont financées, notamment au titre du compte
+personnel de formation, et mises en œuvre par l'un des organismes assurant le
 service public de l'emploi, y concourant ou y participant mentionnés aux
 articles L. 5311-2 à L. 5311-4 ;
 

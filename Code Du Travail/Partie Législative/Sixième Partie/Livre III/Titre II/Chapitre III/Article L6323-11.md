@@ -1,8 +1,12 @@
 Article L6323-11
 ----
-Les actions de formation exercées dans le cadre du droit individuel à la
-formation se déroulent en dehors du temps de travail.
+L'alimentation du compte se fait à hauteur de vingt-quatre heures par année de
+travail à temps complet jusqu'à l'acquisition d'un crédit de cent vingt heures,
+puis de douze heures par année de travail à temps complet, dans la limite d'un
+plafond total de cent cinquante heures.
 
-Toutefois, une convention ou un accord collectif de branche ou d'entreprise peut
-prévoir que le droit individuel à la formation s'exerce en partie pendant le
-temps de travail.
+Lorsque le salarié n'a pas effectué une durée de travail à temps complet sur
+l'ensemble de l'année, l'alimentation est calculée à due proportion du temps de
+travail effectué, sous réserve de dispositions plus favorables prévues par un
+accord d'entreprise, de groupe ou de branche qui prévoit un financement
+spécifique à cet effet, selon des modalités fixées par décret en Conseil d'Etat.

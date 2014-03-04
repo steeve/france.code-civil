@@ -5,7 +5,8 @@ L'Etat exerce un contrôle administratif et financier sur :
 1° Les activités en matière de formation professionnelle continue conduites par
 :
 
-a) Les organismes collecteurs paritaires agréés ;
+a) Les organismes paritaires agréés pour collecter ou gérer les fonds de la
+formation professionnelle continue ;
 
 b) Les organismes habilités à percevoir la contribution de financement
 mentionnée aux articles L. 6331-48 et L. 6331-54 ;

@@ -4,14 +4,14 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la
 présente section, notamment :
 
 1° Les modalités de reversement par les organismes collecteurs paritaires agréés
-des sommes mentionnées aux 1° et 2° de l'article L. 6332-19 ;
+des sommes mentionnées au 1° de l'article L. 6332-19 ;
 
-2° La nature des disponibilités et des charges mentionnées au 3° de l'article L.
+2° La nature des disponibilités et des charges mentionnées au 2° de l'article L.
 6332-19 ;
 
 3° Les conditions dans lesquelles les sommes reçues par le fonds paritaire de
 sécurisation des parcours professionnels sont affectées par l'accord mentionné
-au cinquième alinéa de l'article L. 6332-21 ;
+au neuvième alinéa de l'article L. 6332-21 ;
 
 4° Les documents et pièces relatifs à leur gestion que les organismes
 collecteurs paritaires agréés communiquent au fonds paritaire de sécurisation
@@ -32,5 +32,8 @@ L. 6361-5 ;
 convention-cadre mentionnés à l'article L. 6332-21 ;
 
 8° Les conditions dans lesquelles, en l'absence de fonds agréé, les organismes
-collecteurs paritaires agréés déposent leurs disponibilités sur un compte
-unique.
+collecteurs paritaires agréés déposent leurs disponibilités sur un compte unique
+;
+
+9° Les modalités de la répartition des fonds mentionnée au 7° de l'article L.
+6332-21.

@@ -17,7 +17,7 @@ instituts privés recrutent, gèrent et rémunèrent leurs personnels.
 
 Lorsque l'école ou l'institut relève d'un établissement public mentionné au
 titre Ier ou au titre IV du livre VII du code de l'éducation, les dispositions
-du présent article et de la dernière phrase de l'article L. 4383-2 du présent
-code font l'objet d'une convention entre la région et l'établissement public,
+du présent article et du dernier alinéa de l'article L. 4383-2 du présent code
+font l'objet d'une convention entre la région et l'établissement public,
 laquelle tient lieu de l'autorisation et de l'agrément prévus à l'article L.
 4383-3 du présent code.

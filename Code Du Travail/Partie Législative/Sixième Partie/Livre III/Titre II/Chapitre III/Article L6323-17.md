@@ -1,16 +1,15 @@
 Article L6323-17
 ----
-En cas de licenciement non consécutif à une faute lourde, et si le salarié en
-fait la demande avant la fin du préavis, la somme correspondant au solde du
-nombre d'heures acquises au titre du droit individuel à la formation et non
-utilisées, multiplié par le montant forfaitaire visé au deuxième alinéa de
-l'article L. 6332-14, permet de financer tout ou partie d'une action de bilan de
-compétences, de validation des acquis de l'expérience ou de formation.A défaut
-d'une telle demande, la somme n'est pas due par l'employeur. Lorsque l'action
-mentionnée au premier alinéa est réalisée pendant l'exercice du préavis, elle se
-déroule pendant le temps de travail.
+Les formations financées dans le cadre du compte personnel de formation ne sont
+pas soumises à l'accord de l'employeur lorsqu'elles sont suivies en dehors du
+temps de travail.
 
-En cas de démission, le salarié peut demander à bénéficier de son droit
-individuel à la formation sous réserve que l'action de bilan de compétences, de
-validation des acquis de l'expérience ou de formation soit engagée avant la fin
-du préavis.
+Lorsqu'elles sont suivies en tout ou partie pendant le temps de travail, le
+salarié doit demander l'accord préalable de l'employeur sur le contenu et le
+calendrier de la formation et l'employeur lui notifie sa réponse dans des délais
+déterminés par décret. L'absence de réponse de l'employeur vaut acceptation.
+L'accord préalable de l'employeur sur le contenu de la formation n'est toutefois
+pas requis lorsque la formation est financée au titre des heures créditées sur
+le compte personnel de formation en application de l'article L. 6323-13, ou
+lorsqu'elle vise les formations mentionnées aux I et III de l'article L. 6323-6,
+ainsi que dans des cas prévus par accord de branche, d'entreprise ou de groupe.

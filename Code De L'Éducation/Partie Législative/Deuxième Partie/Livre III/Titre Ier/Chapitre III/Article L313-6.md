@@ -16,4 +16,4 @@ d'enseignement.
 
 Le conseil d'administration de cet établissement public comprend notamment des
 représentants des familles, des parents d'élèves de l'enseignement public et de
-l'enseignement privé et des étudiants.
+l'enseignement privé, des étudiants, ainsi que des représentants des régions.
