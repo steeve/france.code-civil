@@ -91,8 +91,9 @@ quote-part est répartie entre les départements d'outre-mer par application du
 rapport entre la moyenne du nombre total des contrats d'insertion par l'activité
 mentionnés à l'article L. 522-8 du code de l'action sociale et des familles, des
 contrats d'accompagnement dans l'emploi mentionnés à l'article L. 5134-20 du
-code du travail et des contrats d'accès à l'emploi mentionnés à l'article L.
-5522-5 du même code conclus en faveur de bénéficiaires dont les ressources sont
+code du travail, des contrats d'accès à l'emploi mentionnés à l'article L.
+5522-5 du même code et des emplois d'avenir mentionnés à l'article L. 5134-112
+dudit code conclus en faveur de bénéficiaires dont les ressources sont
 inférieures au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code
 de l'action sociale et des familles applicable au foyer, constaté dans chaque
 département d'outre-mer à la fin des quatre trimestres de l'année qui précède
@@ -103,15 +104,16 @@ chargé du travail.
 
 Le solde de la troisième part est réparti entre les départements de métropole
 proportionnellement au rapport entre la moyenne du nombre des contrats
-d'accompagnement dans l'emploi mentionnés à l'article L. 5134-20 du code du
-travail et des contrats initiative-emploi mentionnés à l'article L. 5134-65 du
-même code conclus en faveur de bénéficiaires dont les ressources sont
-inférieures au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code
-de l'action sociale et des familles applicable au foyer, constaté par le
-ministre chargé du travail dans chaque département de métropole à la fin des
-quatre trimestres de l'année qui précède l'année au titre de laquelle le
-versement est réalisé, et la moyenne du nombre total de ces contrats constatée à
-ces mêmes dates pour l'ensemble des départements de métropole.
+d'accompagnement dans l'emploi mentionnés à l' article L. 5134-20 du code du
+travail, des contrats initiative-emploi mentionnés à l'article L. 5134-65 du
+même code et des emplois d'avenir mentionnés à l'article L. 5134-112 dudit code
+conclus en faveur de bénéficiaires dont les ressources sont inférieures au
+montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
+sociale et des familles applicable au foyer, constaté par le ministre chargé du
+travail dans chaque département de métropole à la fin des quatre trimestres de
+l'année qui précède l'année au titre de laquelle le versement est réalisé, et la
+moyenne du nombre total de ces contrats constatée à ces mêmes dates pour
+l'ensemble des départements de métropole.
 
 V.-Lorsqu'il est constaté un écart positif entre la somme de la dotation
 calculée dans les conditions prévues aux II à IV et de la compensation

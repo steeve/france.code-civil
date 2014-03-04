@@ -1,11 +1,5 @@
 Article 1599 ter C
 ----
-Il est accordé un dégrèvement de 45 p. 100 sur la cotisation de taxe foncière
-sur les propriétés non bâties perçue au titre de 1991 au profit de la région sur
-les propriétés non bâties classées dans la catégorie des prés, prairies
-naturelles, herbages et pâturages.
-
-Il n'est pas effectué de dégrèvement d'un montant inférieur à 50 F.
-
-Le montant du dégrèvement bénéficie au fermier dans les conditions prévues à
-l'article 1er de la loi n° 57-1260 du 12 décembre 1957.
+Pour l'assiette de la taxe d'apprentissage, le salaire versé aux apprentis est
+retenu après l'abattement prévu en application du premier alinéa de l'article L.
+6243-2 du code du travail.
