@@ -1,11 +1,11 @@
 Article L335-5
 ----
-I. ― Les diplômes ou les titres à finalité professionnelle sont obtenus par les
+I.-Les diplômes ou les titres à finalité professionnelle sont obtenus par les
 voies scolaire et universitaire, par l'apprentissage, par la formation
 professionnelle continue ou, en tout ou en partie, par la validation des acquis
 de l'expérience.
 
-II. ― Toute personne justifiant d'une activité professionnelle salariée, non
+II.-Toute personne justifiant d'une activité professionnelle salariée, non
 salariée, bénévole ou de volontariat ou ayant exercé des responsabilités
 syndicales ou occupé une fonction de conseiller municipal, de conseiller général
 ou de conseiller régional en rapport direct avec le contenu de la certification
@@ -54,7 +54,7 @@ titres en cause ou aux conditions d'exercice des professions auxquelles ils
 permettent d'accéder. Le jury fixe les contrôles complémentaires prévus au
 septième alinéa du présent II.
 
-III. ― Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au
+III.-Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au
 nom de l'Etat ou par des établissements publics ayant une mission de formation
 peut dispenser un candidat désirant l'acquérir des titres ou diplômes requis
 pour le préparer. Cette dispense doit se fonder sur les compétences
