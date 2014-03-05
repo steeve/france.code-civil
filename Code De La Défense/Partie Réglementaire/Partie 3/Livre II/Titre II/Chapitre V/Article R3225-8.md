@@ -8,7 +8,9 @@ conditions prévues par le titre 2 du livre II de la première partie du présen
 code.
 
 Le commandant de la région de gendarmerie situé au siège de la zone de défense
+est, pour l'exercice de ses attributions en matière de sécurité intérieure,
+placé sous l'autorité du préfet de zone de défense et de sécurité. Il peut
+recevoir de ce dernier délégation de signature en matière d'ordonnancement
+secondaire pour les formations de gendarmerie nationale de son ressort. Il
 dispose d'attributions particulières définies par arrêté du ministre de
-l'intérieur. Il peut recevoir délégation de signature du préfet de zone en
-matière d'ordonnancement secondaire pour les formations de gendarmerie nationale
-de son ressort.
+l'intérieur.
