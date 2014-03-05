@@ -2,16 +2,16 @@ Article R313-22-1
 ----
 L'étranger mentionné au I ou au II de l'article L. 313-11-1 qui souhaite
 séjourner en France auprès de son conjoint ou parent titulaire du statut de
-résident de longue durée-CE dans un autre Etat membre de l'Union européenne et
+résident de longue durée-UE dans un autre Etat membre de l'Union européenne et
 admis au séjour en France en application de l'article L. 313-4-1 doit présenter
 les pièces suivantes :
 
 1° La justification qu'il est autorisé à résider légalement, en qualité de
 membre de famille, sur le territoire de l'Etat membre de l'Union européenne qui
-a accordé le statut de résident de longue durée-CE à son conjoint ou parent ;
+a accordé le statut de résident de longue durée-UE à son conjoint ou parent ;
 
-2° De la justification que son entretien sera assuré par des ressources stables
-et régulières, indépendamment des prestations familiales et des allocations
+2° La justification que son entretien sera assuré par des ressources stables et
+régulières, indépendamment des prestations familiales et des allocations
 mentionnées au III de l'article L. 313-11-1 ; les ressources stables du
 demandeur et de son conjoint ou parent contribuant à la prise en charge
 effective de ses besoins sont appréciées par référence au montant du salaire

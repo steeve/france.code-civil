@@ -18,8 +18,8 @@ nationalité française lui est devenue opposable ;
 
 4° Soit dans le courant des deux derniers mois précédant l'expiration de la
 carte de séjour dont il est titulaire, sauf s'il est titulaire du statut de
-résident de longue durée-CE accordé par la France en application de l'article L.
-314-8.
+résident de longue durée-UE accordé par la France en application des articles L.
+314-8 et L. 314-8-2.
 
 A l'échéance de ce délai et en l'absence de présentation de demande de
 renouvellement de sa carte de séjour, il justifie à nouveau des conditions
@@ -28,11 +28,11 @@ visa est requise pour la première délivrance de la carte de séjour.
 
 Par dérogation au premier alinéa, lorsqu'il sollicite la délivrance d'une carte
 de séjour temporaire dans les conditions mentionnées à l'article L. 313-4-1,
-l'étranger titulaire de la carte de résident de longue durée-CE accordée dans un
+l'étranger titulaire de la carte de résident de longue durée-UE accordée dans un
 autre Etat membre de l'Union européenne doit présenter sa demande dans les trois
 mois qui suivent son entrée en France.
 
 Disposent du même délai pour présenter leur demande, lorsqu'ils sollicitent la
-délivrance d'une carte de séjour temporaire portant la mention vie privée et
-familiale en application de l'article L. 313-11-1, le conjoint mentionné au I et
-l'enfant entré mineur sur le territoire mentionné au II de cet article.
+délivrance d'une carte de séjour temporaire portant la mention " vie privée et
+familiale " en application de l'article L. 313-11-1, le conjoint mentionné au I
+et l'enfant entré mineur sur le territoire mentionné au II de cet article.

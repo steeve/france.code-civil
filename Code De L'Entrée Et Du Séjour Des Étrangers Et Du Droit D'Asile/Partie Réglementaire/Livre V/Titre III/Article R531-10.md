@@ -1,7 +1,7 @@
 Article R531-10
 ----
 I. - Les dispositions du troisième alinéa de l'article L. 531-2 sont applicables
-à l'étranger titulaire du statut de résident longue durée-CE accordé par un
+à l'étranger titulaire du statut de résident longue durée-UE accordé par un
 autre Etat membre de l'Union européenne qui aura soit séjourné sur le territoire
 français plus de trois mois consécutifs sans se conformer aux dispositions de
 l'article L. 313-4-1, soit fait l'objet d'un refus de délivrance ou de

@@ -11,7 +11,7 @@ cet enseignement ou de ce stage.
 
 La durée de validité de la carte de séjour temporaire délivrée en application de
 l'article L. 313-11-1 aux membres de la famille de l'étranger titulaire du
-statut de résident de longue durée-CE dans un autre Etat membre de l'Union
+statut de résident de longue durée-UE dans un autre Etat membre de l'Union
 européenne et admis au séjour en France ne peut dépasser celle de la carte de
-séjour temporaire délivrée au résident de longue durée-CE en application de
+séjour temporaire délivrée au résident de longue durée-UE en application de
 l'article L. 313-4-1.

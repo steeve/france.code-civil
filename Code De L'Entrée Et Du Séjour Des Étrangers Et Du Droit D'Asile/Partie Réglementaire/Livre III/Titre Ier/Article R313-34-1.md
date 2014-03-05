@@ -1,11 +1,11 @@
 Article R313-34-1
 ----
-L'étranger titulaire de la carte de résident de longue durée-CE dans un autre
+L'étranger titulaire de la carte de résident de longue durée-UE dans un autre
 Etat membre de l'Union européenne qui sollicite la délivrance d'une carte de
 séjour temporaire en application de l'article L. 313-4-1 doit présenter les
 pièces suivantes :
 
-1° La carte de résident de longue durée-CE en cours de validité délivrée par
+1° La carte de résident de longue durée-UE en cours de validité délivrée par
 l'Etat membre de l'Union européenne qui lui a accordé ce statut sur son
 territoire ;
 
@@ -27,4 +27,4 @@ locataire du logement ;
 4° La justification qu'il bénéficie d'une assurance maladie ;
 
 5° Les pièces exigées pour la délivrance de l'une des cartes de séjour
-temporaire prévues à l'article L. 313-4-1 selon le motif du séjour invoqué.
+temporaires prévues à l'article L. 313-4-1 selon le motif du séjour invoqué.

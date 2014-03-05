@@ -25,13 +25,13 @@ d) D'une carte de séjour temporaire délivrée en application de l'article L.
 313-11, à l'exception des étrangers mentionnés aux 3° et 11° de cet article, ou
 des articles L. 313-13, L. 313-14 et L. 316-1 ;
 
-e) (alinéa supprimé) ;
+e) (Alinéa supprimé) ;
 
 f) D'une carte de résident délivrée en application des dispositions des articles
-L. 314-8, L. 314-9 et L. 314-11, lorsque l'étranger n'a pas signé le contrat
-d'accueil et d'intégration à un autre titre ;
+L. 314-8 , L. 314-8-2, L. 314-9 et L. 314-11, lorsque l'étranger n'a pas signé
+le contrat d'accueil et d'intégration à un autre titre ;
 
-g) D'un visa pour un séjour d'une durée supérieure à trois mois mentionné au 4°
+g) D'un visa pour un séjour d'une durée supérieure à trois mois mentionné au 4°,
 au 7°, au 9° ou au 11° de l'article R. 311-3.
 
 II.-Le contrat d'accueil et d'intégration peut également être souscrit par
