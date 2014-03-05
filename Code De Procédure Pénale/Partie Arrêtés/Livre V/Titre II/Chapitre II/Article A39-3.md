@@ -15,6 +15,9 @@ Condé-sur-Sarthe (Orne) ;
 - quartier pour peines aménagées du centre pénitentiaire de Fresnes (Villejuif,
 Val-de-Marne) ;
 
+- quartier pour peines aménagées du centre pénitentiaire de Longuenesse
+(Pas-de-Calais) ;
+
 - quartier pour peines aménagées du centre pénitentiaire de Marseille
 (Bouches-du-Rhône) ;
 
