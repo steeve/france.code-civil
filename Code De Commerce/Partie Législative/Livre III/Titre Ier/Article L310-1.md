@@ -7,9 +7,9 @@ commercial à la suite d'une décision, quelle qu'en soit la cause, de cessation
 de suspension saisonnière ou de changement d'activité, ou de modification
 substantielle des conditions d'exploitation.
 
-Les liquidations sont soumises à déclaration préalable auprès de l'autorité
-administrative dont relève le lieu de la liquidation. Cette déclaration comporte
-la cause et la durée de la liquidation qui ne peut excéder deux mois. Elle est
+Les liquidations sont soumises à déclaration préalable auprès du maire de la
+commune dont relève le lieu de la liquidation. Cette déclaration comporte la
+cause et la durée de la liquidation qui ne peut excéder deux mois. Elle est
 accompagnée d'un inventaire des marchandises à liquider. Lorsque l'événement
 motivant la liquidation n'est pas intervenu au plus tard dans les six mois qui
 suivent la déclaration, le déclarant est tenu d'en informer l'autorité
