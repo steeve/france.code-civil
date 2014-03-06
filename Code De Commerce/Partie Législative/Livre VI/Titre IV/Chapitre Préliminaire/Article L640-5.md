@@ -1,8 +1,8 @@
 Article L640-5
 ----
 Lorsqu'il n'y a pas de procédure de conciliation en cours, le tribunal peut
-également se saisir d'office ou être saisi sur requête du ministère public aux
-fins d'ouverture de la procédure de liquidation judiciaire.
+également être saisi sur requête du ministère public aux fins d'ouverture de la
+procédure de liquidation judiciaire.
 
 Sous cette même réserve, la procédure peut aussi être ouverte sur l'assignation
 d'un créancier, quelle que soit la nature de sa créance. Toutefois, lorsque le
