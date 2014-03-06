@@ -418,7 +418,7 @@ Commerces de gros et de détail
 
 Ameublement (établissements de commerce de détail).
 
-Bricolage (établissements de commerce de détail) (1)
+Bricolage (établissements de commerce de détail).
 
 Débits de tabac.
 
