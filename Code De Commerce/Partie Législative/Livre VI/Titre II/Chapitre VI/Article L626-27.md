@@ -22,7 +22,7 @@ et emporte déchéance de tout délai de paiement accordé.
 
 II.-Dans les cas mentionnés aux deuxième et troisième alinéas du I, le tribunal
 est saisi par un créancier, le commissaire à l'exécution du plan ou le ministère
-public. Il peut également se saisir d'office.
+public.
 
 III.-Après résolution du plan et ouverture de la nouvelle procédure, les
 créanciers soumis à ce plan sont dispensés de déclarer leurs créances et
