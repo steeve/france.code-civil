@@ -17,8 +17,8 @@ Le comité comprend, outre son président :
 5° Le directeur de la recherche, des études, de l'évaluation et des statistiques
 ou son représentant ;
 
-6° Le président de la mission interministérielle de lutte contre la drogue et la
-toxicomanie ou son représentant ;
+6° Le président de la mission interministérielle de lutte contre les drogues et
+les conduites addictives ou son représentant ;
 
 7° Le délégué interministériel à la ville ou son représentant ;
 
