@@ -7,9 +7,9 @@ d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle
 est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de
 vidéogrammes ou de l'entreprise de communication audiovisuelle.
 
-Est punie des mêmes peines toute importation ou exportation de phonogrammes ou
-de vidéogrammes réalisée sans l'autorisation du producteur ou de
-l'artiste-interprète, lorsqu'elle est exigée.
+Sont punis des mêmes peines l'importation, l'exportation, le transbordement ou
+la détention aux fins précitées de phonogrammes ou de vidéogrammes réalisée sans
+l'autorisation du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
 
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement de
 la rémunération due à l'auteur, à l'artiste-interprète ou au producteur de

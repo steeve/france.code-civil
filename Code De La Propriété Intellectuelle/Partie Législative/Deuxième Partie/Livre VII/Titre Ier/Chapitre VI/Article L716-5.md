@@ -9,7 +9,7 @@ Toute partie à un contrat de licence est recevable à intervenir dans l'instanc
 en contrefaçon engagée par une autre partie afin d'obtenir la réparation du
 préjudice qui lui est propre.
 
-L'action en contrefaçon se prescrit par trois ans.
+L'action en contrefaçon se prescrit par cinq ans.
 
 Est irrecevable toute action en contrefaçon d'une marque postérieure enregistrée
 dont l'usage a été toléré pendant cinq ans, à moins que son dépôt n'ait été

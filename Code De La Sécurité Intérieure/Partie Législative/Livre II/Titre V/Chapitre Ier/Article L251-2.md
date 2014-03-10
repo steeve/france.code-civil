@@ -9,7 +9,7 @@ constatation des infractions aux règles de la circulation ; 5° La prévention 
 atteintes à la sécurité des personnes et des biens dans des lieux
 particulièrement exposés à des risques d'agression, de vol ou de trafic de
 stupéfiants ainsi que la prévention, dans des zones particulièrement exposées à
-ces infractions, des fraudes douanières prévues par le second alinéa de
+ces infractions, des fraudes douanières prévues par le dernier alinéa de
 l'article 414 du code des douanes et des délits prévus à l'article 415 du même
 code portant sur des fonds provenant de ces mêmes infractions ; 6° La prévention
 d'actes de terrorisme, dans les conditions prévues au chapitre III du titre II

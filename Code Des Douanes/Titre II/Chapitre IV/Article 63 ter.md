@@ -32,5 +32,8 @@ autorisés à mettre en oeuvre les dispositions du présent article pour le
 contrôle des opérations douanières ou agricoles réalisées dans les autres Etats
 membres de la Communauté européenne.
 
-Le présent article ne s'applique pas à la partie des locaux et lieux cités au
-premier alinéa qui est également affectée au domicile privé.
+Le présent article s'applique à la partie affectée à usage privatif des locaux
+et lieux mentionnés au premier alinéa lorsque leur occupant ou son représentant
+en donne l'assentiment exprès. Cet assentiment fait l'objet d'une déclaration
+signée par l'intéressé et recueillie sur place, annexée au procès-verbal
+mentionné au troisième alinéa.

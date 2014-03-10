@@ -1,7 +1,9 @@
 Article L722-1
 ----
-Toute atteinte portée à une indication géographique engage la responsabilité
-civile de son auteur.
+Toute atteinte portée à une indication géographique en violation de la
+protection qui lui est accordée par le droit de l'Union européenne ou la
+législation nationale constitue une contrefaçon engageant la responsabilité de
+son auteur.
 
 Pour l'application du présent chapitre, on entend par " indication géographique
 " :
@@ -21,3 +23,8 @@ organisation commune du marché vitivinicole ;
 d) Les dénominations géographiques prévues par la réglementation communautaire
 établissant les règles générales relatives à la définition, à la désignation et
 à la présentation des boissons spiritueuses.
+
+Sont interdits la production, l'offre, la vente, la mise sur le marché,
+l'importation, l'exportation, le transbordement, l'utilisation ou la détention à
+ces fins de biens dont la présentation porte atteinte ou est susceptible de
+porter atteinte à une indication géographique.

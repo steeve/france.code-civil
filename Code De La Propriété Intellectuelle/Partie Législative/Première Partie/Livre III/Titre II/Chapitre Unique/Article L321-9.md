@@ -13,12 +13,11 @@ avant l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
 
 Elles peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à
 compter de la fin de la cinquième année suivant la date de leur mise en
-répartition, sans préjudice des demandes de paiement des droits non prescrits.
-La répartition des sommes correspondantes, qui ne peut bénéficier à un organisme
-unique, est soumise à un vote de l'assemblée générale de la société, qui se
-prononce à la majorité des deux tiers. A défaut d'une telle majorité, une
-nouvelle assemblée générale, convoquée spécialement à cet effet, statue à la
-majorité simple.
+répartition. La répartition des sommes correspondantes, qui ne peut bénéficier à
+un organisme unique, est soumise à un vote de l'assemblée générale de la
+société, qui se prononce à la majorité des deux tiers. A défaut d'une telle
+majorité, une nouvelle assemblée générale, convoquée spécialement à cet effet,
+statue à la majorité simple.
 
 Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un
 rapport des sociétés de perception et de répartition des droits au ministre

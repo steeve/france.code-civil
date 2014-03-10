@@ -5,7 +5,7 @@ infractions s'y rattachant, de faciliter la constatation des infractions
 criminelles ou liées à la criminalité organisée au sens de l'article 706-73 du
 code de procédure pénale, des infractions de vol et de recel de véhicules volés,
 des infractions de contrebande, d'importation ou d'exportation commises en bande
-organisée, prévues et réprimées par le deuxième alinéa de l'article 414 du code
+organisée, prévues et réprimées par le dernier alinéa de l'article 414 du code
 des douanes, ainsi que la constatation, lorsqu'elles portent sur des fonds
 provenant de ces mêmes infractions, de la réalisation ou de la tentative de
 réalisation des opérations financières définies à l'article 415 du même code et

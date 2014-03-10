@@ -42,3 +42,9 @@ elle-même principalement dérivée de la variété initiale ;
 3° Sauf en ce qui concerne les différences résultant de la dérivation, est
 conforme à la variété initiale dans l'expression des caractères essentiels
 résultant du génotype ou de la combinaison de génotypes de la variété initiale.
+
+V.-Sous réserve des dispositions de l'article L. 623-24-1, sont interdits, à
+défaut de consentement du titulaire du certificat d'obtention végétale, la
+production, l'offre, la vente, la mise sur le marché, l'importation,
+l'exportation, le transbordement, l'utilisation ou la détention à ces fins du
+matériel de reproduction ou de multiplication de la variété protégée.

@@ -3,15 +3,17 @@ Article L623-27-1
 La contrefaçon peut être prouvée par tous moyens.
 
 A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit
-de faire procéder en tout lieu et par tous huissiers, assistés d'experts
-désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
-juridiction civile compétente, soit à la description détaillée, avec ou sans
-prélèvement d'échantillons, soit à la saisie réelle des objets prétendus
-contrefaisants ainsi que de tout document s'y rapportant.
+de faire procéder en tout lieu et par tous huissiers, le cas échéant assistés
+d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur
+requête par la juridiction civile compétente, soit à la description détaillée,
+avec ou sans prélèvement d'échantillons, soit à la saisie réelle des objets
+prétendus contrefaisants ainsi que de tout document s'y rapportant. L'ordonnance
+peut autoriser la saisie réelle de tout document se rapportant aux objets
+prétendus contrefaisants en l'absence de ces derniers.
 
-La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des
-matériels et instruments utilisés pour produire ou distribuer les objets
-prétendus contrefaisants.
+La juridiction peut ordonner, aux mêmes fins probatoires, la description
+détaillée ou la saisie réelle des matériels et instruments utilisés pour
+produire ou distribuer les objets prétendus contrefaisants.
 
 Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
 par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du

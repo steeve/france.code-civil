@@ -6,4 +6,5 @@ communautaire des obtentions végétales ainsi que pour d'autres espèces qui
 peuvent être énumérées par décret en Conseil d'Etat, les agriculteurs ont le
 droit d'utiliser sur leur propre exploitation, sans l'autorisation de
 l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la
-récolte qu'ils ont obtenu par la mise en culture d'une variété protégée.
+récolte qu'ils ont obtenu par la mise en culture d'une variété protégée. Cette
+utilisation ne constitue pas une contrefaçon.

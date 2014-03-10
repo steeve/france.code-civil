@@ -8,8 +8,8 @@ toute contrefaçon est un délit.
 La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie
 de trois ans d'emprisonnement et de 300 000 euros d'amende.
 
-Seront punis des mêmes peines le débit, l'exportation et l'importation des
-ouvrages contrefaisants.
+Seront punis des mêmes peines le débit, l'exportation, l'importation, le
+transbordement ou la détention aux fins précitées des ouvrages contrefaisants.
 
 Lorsque les délits prévus par le présent article ont été commis en bande
 organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000

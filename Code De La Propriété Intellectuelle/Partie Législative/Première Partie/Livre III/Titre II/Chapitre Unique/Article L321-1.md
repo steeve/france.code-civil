@@ -10,5 +10,5 @@ sociétés civiles régulièrement constituées ont qualité pour ester en justi
 pour la défense des droits dont elles ont statutairement la charge.
 
 Les actions en paiement des droits perçus par ces sociétés civiles se
-prescrivent par dix ans à compter de la date de leur perception, ce délai étant
+prescrivent par cinq ans à compter de la date de leur perception, ce délai étant
 suspendu jusqu'à la date de leur mise en répartition.

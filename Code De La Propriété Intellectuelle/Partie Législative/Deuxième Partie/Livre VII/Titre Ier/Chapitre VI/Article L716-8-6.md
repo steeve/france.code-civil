@@ -1,6 +1,7 @@
 Article L716-8-6
 ----
-Les officiers de police judiciaire peuvent procéder, dès la constatation des
-infractions prévues aux articles L. 716-9 et L. 716-10, à la saisie des produits
-fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et
-des matériels spécialement installés en vue de tels agissements.
+Lorsque le demandeur utilise les informations qui lui sont communiquées par
+l'administration des douanes, par dérogation à l'article 59 bis du code des
+douanes, à d'autres fins que celles prévues au présent chapitre,
+l'administration des douanes abroge, suspend ou refuse de renouveler ladite
+demande.

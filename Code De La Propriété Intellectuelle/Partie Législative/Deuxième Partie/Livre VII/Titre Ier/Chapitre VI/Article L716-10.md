@@ -26,5 +26,6 @@ d'exercice par un pharmacien de la faculté de substitution prévue à l'article
 5125-23 du code de la santé publique.
 
 Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un
-réseau de communication au public en ligne, les peines sont portées à cinq ans
-d'emprisonnement et à 500 000 euros d'amende.
+réseau de communication au public en ligne ou lorsque les faits portent sur des
+marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal,
+les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.

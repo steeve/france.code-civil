@@ -4,8 +4,9 @@ Il est interdit à tout tiers :
 
 - de reproduire la topographie protégée ;
 
-- d'exploiter commercialement ou importer à cette fin une telle reproduction ou
-tout produit semi-conducteur l'incorporant.
+- d'exploiter commercialement ou de détenir, transborder, utiliser, exporter ou
+importer à cette fin une telle reproduction ou tout produit semi-conducteur
+l'incorporant.
 
 Cette interdiction ne s'étend pas :
 

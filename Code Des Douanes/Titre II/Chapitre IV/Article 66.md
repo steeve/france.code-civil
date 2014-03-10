@@ -1,20 +1,21 @@
 Article 66
 ----
-1. Les fonctionnaires des douanes ont accès dans les bureaux de poste
-sédentaires ou ambulants, y compris les salles de tri, en correspondance directe
-avec l'extérieur, pour y rechercher, en présence des agents des postes, les
-envois, clos ou non, d'origine intérieure ou extérieure, à l'exception des
-envois en transit, renfermant ou paraissant renfermer des objets de la nature de
-ceux visés au présent article.
+1. Pour la recherche et la constatation des infractions prévues au présent code,
+les agents des douanes ont accès aux locaux des prestataires de services postaux
+et des entreprises de fret express, définies à l'article 67 sexies, où sont
+susceptibles d'être détenus des envois renfermant ou paraissant renfermer des
+marchandises et des sommes, titres ou valeurs se rapportant à ces infractions.
+Cet accès ne s'applique pas à la partie des locaux qui est affectée à usage
+privé.
 
-2. La Poste est autorisée à soumettre au contrôle douanier, dans les conditions
-prévues par les conventions et arrangements de l'Union postale universelle, les
-envois frappés de prohibition à l'importation, passibles de droits ou taxes
-perçus par le service des douanes ou soumis à des restrictions ou formalités à
-l'entrée.
+Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures,
+lorsque l'accès au public est autorisé ou lorsque sont en cours des activités de
+tri, de transport, de manutention ou d'entreposage.
 
-3. La Poste est également autorisée à soumettre au contrôle douanier les envois
-frappés de prohibition à l'exportation, passibles de droits en taxes perçus par
-le service des douanes ou soumis à des restrictions ou formalités à la sortie.
+2. Chaque intervention se déroule en présence de l'opérateur contrôlé ou de son
+représentant et fait l'objet d'un procès-verbal relatant le déroulement des
+opérations de contrôle, dont une copie lui est remise, au plus tard, dans les
+cinq jours suivant son établissement.
 
-4. Il ne peut, en aucun cas, être porté atteinte au secret des correspondances.
+3. Dans le cadre de ces interventions, il ne peut, en aucun cas, être porté
+atteinte au secret des correspondances.

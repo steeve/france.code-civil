@@ -10,13 +10,23 @@ Cette retenue est immédiatement notifiée au propriétaire de la marque
 enregistrée ou au bénéficiaire du droit exclusif d'exploitation. Le procureur de
 la République est également informé de ladite mesure.
 
-Lors de la notification visée au deuxième alinéa, la nature et la quantité
-réelle ou estimée des marchandises est communiquée au propriétaire de la marque
-enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation
-à l'article 59 bis du code des douanes.
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du
+présent article, la nature et la quantité réelle ou estimée ainsi que des images
+des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire
+du droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des
+douanes. Ces informations peuvent également être communiquées avant la mise en
+œuvre de la mesure de retenue prévue au présent article.
 
-La mesure de retenue est levée de plein droit si le propriétaire de la marque
-enregistrée ou le bénéficiaire du droit exclusif d'exploitation n'a pas déposé
-la demande prévue par l'article L. 716-8 du présent code dans un délai de trois
-jours ouvrables à compter de la notification de la retenue visée au deuxième
-alinéa du présent article.
+La mesure de retenue est levée de plein droit si l'administration des douanes
+n'a pas reçu du propriétaire de la marque enregistrée ou du bénéficiaire du
+droit exclusif d'exploitation la demande prévue à l'article L. 716-8 du présent
+code, déposée dans un délai de quatre jours ouvrables à compter de la
+notification de la retenue mentionnée à la première phrase du deuxième alinéa du
+présent article.
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article,
+le délai de dix jours ouvrables mentionné au quatrième alinéa de l'article L.
+716-8 commence à courir à compter de l'acceptation de cette demande par
+l'administration des douanes.
+
+Le présent article n'est pas applicable aux marchandises périssables.

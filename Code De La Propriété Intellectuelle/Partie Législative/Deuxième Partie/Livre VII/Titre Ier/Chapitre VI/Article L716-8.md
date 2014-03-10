@@ -6,32 +6,41 @@ marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation,
 assortie des justifications de son droit, retenir dans le cadre de ses contrôles
 les marchandises que celui-ci prétend constituer une contrefaçon.
 
-Le procureur de la République, le demandeur ainsi que le déclarant ou le
-détenteur des marchandises sont informés sans délai, par les services douaniers,
-de la retenue à laquelle ces derniers ont procédé.
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le
+procureur de la République est également informé de ladite mesure par
+l'administration des douanes.
 
-Lors de l'information visée au deuxième alinéa, la nature et la quantité réelle
-ou estimée des marchandises sont communiquées au propriétaire de la marque
-enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation
-à l'article 59 bis du code des douanes.
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du
+présent article, la nature, la quantité réelle ou estimée ainsi que des images
+des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire
+du droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des
+douanes. Ces informations peuvent également être communiquées avant la mise en
+œuvre de la mesure de retenue prévue par le présent article.
 
-La mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans
-le délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de
-denrées périssables, à compter de la notification de la retenue des
-marchandises, de justifier auprès des services douaniers soit de mesures
-conservatoires décidées par la juridiction civile compétente, soit de s'être
-pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les
-garanties destinées à l'indemnisation éventuelle du détenteur des marchandises
-au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+Sous réserve des procédures prévues aux articles L. 716-8-4 et L. 716-8-5, la
+mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans le
+délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de denrées
+périssables, à compter de la notification de la retenue des marchandises, de
+justifier auprès des services douaniers soit de mesures conservatoires décidées
+par la juridiction civile compétente, soit de s'être pourvu par la voie civile
+ou la voie correctionnelle et d'avoir constitué les garanties destinées à
+l'indemnisation éventuelle du détenteur des marchandises au cas où la
+contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une
+plainte auprès du procureur de la République. L'administration des douanes peut
+proroger le délai de dix jours, prévu au présent alinéa, de dix jours ouvrables
+maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai,
+le procureur de la République et le détenteur des marchandises en sont informés.
 
 Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées
-par la juridiction civile compétente sont à la charge du demandeur.
+par la juridiction civile compétente sont à la charge du demandeur, sous réserve
+des procédures prévues aux articles L. 716-8-4 et L. 716-8-5.
 
 Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le
 demandeur peut obtenir de l'administration des douanes communication des nom et
 adresse de l'expéditeur, de l'importateur, du destinataire des marchandises
-retenues ou de leur détenteur, ainsi que de leur quantité, leur origine et leur
-provenance par dérogation à l'article 59 bis du code des douanes, relatif au
+retenues ou de leur détenteur, ainsi que des images de ces marchandises et des
+informations sur leur quantité, leur origine, leur provenance et leur
+destination par dérogation à l'article 59 bis du code des douanes, relatif au
 secret professionnel auquel sont tenus les agents de l'administration des
 douanes.
 

@@ -35,8 +35,9 @@ destinées à assurer l'indemnisation éventuelle du défendeur si l'action en
 contrefaçon est ultérieurement jugée non fondée ou les mesures annulées.
 
 Lorsque les mesures prises pour faire cesser une atteinte aux droits sont
-ordonnées avant l'engagement d'une action au fond, le demandeur doit se
-pourvoir, par la voie civile ou pénale, dans un délai fixé par voie
-réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à
-motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des
-dommages et intérêts qui peuvent être réclamés.
+ordonnées avant l'engagement d'une action au fond, le demandeur doit, dans un
+délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou
+pénale, soit déposer une plainte auprès du procureur de la République. A défaut,
+sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les
+mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui
+peuvent être réclamés.
