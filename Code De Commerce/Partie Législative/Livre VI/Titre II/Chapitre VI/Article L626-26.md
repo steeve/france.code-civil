@@ -2,7 +2,9 @@ Article L626-26
 ----
 Une modification substantielle dans les objectifs ou les moyens du plan ne peut
 être décidée que par le tribunal, à la demande du débiteur et sur le rapport du
-commissaire à l'exécution du plan.
+commissaire à l'exécution du plan. Lorsque la situation du débiteur permet une
+modification substantielle du plan au profit des créanciers, la saisine du
+tribunal peut émaner du commissaire à l'exécution du plan.
 
 L'article L. 626-6 est applicable.
 

@@ -46,6 +46,21 @@ soit dans les conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou
 au 1 de l'article 202 soit au jour du jugement d'ouverture de la procédure
 collective.
 
+Par exception, en cas d'ouverture d'une procédure de sauvegarde, de redressement
+judiciaire ou de liquidation judiciaire lorsqu'il n'est pas mis fin à la
+poursuite de l'activité, à défaut de pouvoir procéder à la liquidation
+définitive de la cotisation sur la valeur ajoutée des entreprises due au titre
+de l'année du jugement d'ouverture de la procédure collective, seule la
+déclaration mentionnée au dernier alinéa de l'article 1679 septies doit être
+souscrite dans un délai de soixante jours décompté au jour de ce jugement. Cette
+déclaration doit mentionner une estimation du montant de la cotisation sur la
+valeur ajoutée des entreprises due au titre de l'année au cours de laquelle la
+procédure collective a été ouverte, déterminée en fonction du chiffre d'affaires
+et de la valeur ajoutée mentionnés dans la dernière déclaration de résultat
+exigée. Cette obligation déclarative anticipée ne se substitue pas aux
+obligations déclaratives mentionnées au 1 du II du présent article et au dernier
+alinéa de l'article 1679 septies.
+
 III. - La valeur ajoutée est imposée dans la commune où le contribuable la
 produisant dispose de locaux ou emploie des salariés exerçant leur activité plus
 de trois mois.

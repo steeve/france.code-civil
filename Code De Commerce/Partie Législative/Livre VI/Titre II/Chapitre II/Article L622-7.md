@@ -18,6 +18,9 @@ commissoire.
 II.-Le juge-commissaire peut autoriser le débiteur à faire un acte de
 disposition étranger à la gestion courante de l'entreprise, à consentir une
 hypothèque, un gage ou un nantissement ou à compromettre ou transiger.
+Néanmoins, si cet acte est susceptible d'avoir une incidence déterminante sur
+l'issue de la procédure, le juge-commissaire ne peut statuer qu'après avoir
+recueilli l'avis du ministère public.
 
 Le juge-commissaire peut aussi l'autoriser à payer des créances antérieures au
 jugement, pour retirer le gage ou une chose légitimement retenue ou encore pour
@@ -25,8 +28,7 @@ obtenir le retour de biens et droits transférés à titre de garantie dans un
 patrimoine fiduciaire, lorsque ce retrait ou ce retour est justifié par la
 poursuite de l'activité. Ce paiement peut en outre être autorisé pour lever
 l'option d'achat d'un contrat de crédit-bail, lorsque cette levée d'option est
-justifiée par la poursuite de l'activité et que le paiement à intervenir est
-d'un montant inférieur à la valeur vénale du bien objet du contrat.
+justifiée par la poursuite de l'activité.
 
 III.-Tout acte ou tout paiement passé en violation des dispositions du présent
 article est annulé à la demande de tout intéressé ou du ministère public,

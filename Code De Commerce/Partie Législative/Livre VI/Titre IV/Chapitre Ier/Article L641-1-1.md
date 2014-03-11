@@ -23,6 +23,10 @@ l'administrateur demande son remplacement, le président du tribunal, saisi à
 cette fin par le juge-commissaire, est compétent pour y procéder. Il statue par
 ordonnance.
 
+Le juge-commissaire statue par ordonnance, dans les meilleurs délais, sur les
+demandes de saisine du tribunal aux fins de remplacement qui lui sont adressées
+en application du présent article.
+
 Le comité d'entreprise ou, à défaut, les délégués du personnel ou, à défaut, les
 salariés de l'entreprise peuvent seuls procéder au remplacement du représentant
 des salariés.

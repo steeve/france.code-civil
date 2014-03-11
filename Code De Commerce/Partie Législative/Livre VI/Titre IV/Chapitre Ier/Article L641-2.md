@@ -8,6 +8,7 @@ des seuils fixés par décret.
 
 Si le tribunal dispose des éléments lui permettant de vérifier que les
 conditions mentionnées au premier alinéa sont réunies, il statue sur cette
-application dans le jugement de liquidation judiciaire. Dans le cas contraire,
-le président du tribunal statue au vu d'un rapport sur la situation du débiteur
-établi par le liquidateur dans le mois de sa désignation.
+application dans le jugement de liquidation judiciaire et peut confier au
+liquidateur la mission de réaliser l'inventaire dans cette procédure. Dans le
+cas contraire, le président du tribunal statue au vu d'un rapport sur la
+situation du débiteur établi par le liquidateur dans le mois de sa désignation.

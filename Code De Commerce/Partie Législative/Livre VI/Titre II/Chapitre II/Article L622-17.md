@@ -32,4 +32,7 @@ IV.-Les créances impayées perdent le privilège que leur confère le II du pr�
 article si elles n'ont pas été portées à la connaissance de l'administrateur et,
 à défaut, du mandataire judiciaire ou, lorsque ces organes ont cessé leurs
 fonctions, du commissaire à l'exécution du plan ou du liquidateur, dans le délai
-d'un an à compter de la fin de la période d'observation.
+d'un an à compter de la fin de la période d'observation. Lorsque cette
+information porte sur une créance déclarée pour le compte du créancier en
+application de l'article L. 622-24, elle rend caduque cette déclaration si le
+juge n'a pas statué sur l'admission de la créance.

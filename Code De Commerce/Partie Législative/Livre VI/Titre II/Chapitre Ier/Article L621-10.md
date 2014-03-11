@@ -5,6 +5,13 @@ en font la demande. Lorsqu'il désigne plusieurs contrôleurs, il veille à ce
 qu'au moins l'un d'entre eux soit choisi parmi les créanciers titulaires de
 sûretés et qu'un autre soit choisi parmi les créanciers chirographaires.
 
+Les administrations financières, les organismes et les institutions mentionnées
+au premier alinéa de l'article L. 626-6 sont désignés contrôleurs s'ils en font
+la demande ; s'il est saisi de plusieurs demandes à ce titre, le
+juge-commissaire désigne un seul contrôleur parmi eux. Sont également désignées
+contrôleur, si elles en font la demande, les institutions mentionnées à
+l'article L. 3253-14 du code du travail.
+
 Aucun parent ou allié jusqu'au quatrième degré inclusivement du débiteur
 personne physique ou des dirigeants de la personne morale, ni aucune personne
 détenant directement ou indirectement tout ou partie du capital de la personne

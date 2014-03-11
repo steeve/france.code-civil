@@ -22,7 +22,9 @@ le tribunal désigne un administrateur judiciaire pour administrer l'entreprise.
 Dans ce cas, l'administrateur exerce les prérogatives conférées au liquidateur
 par les articles L. 641-11-1 et L. 641-12. Il prépare le plan de cession, passe
 les actes nécessaires à sa réalisation et, dans les conditions prévues à
-l'article L. 631-17, peut procéder aux licenciements.
+l'article L. 631-17, peut procéder aux licenciements. Le ministère public peut
+proposer le nom d'un administrateur judiciaire à la désignation du tribunal qui
+ne peut le rejeter que par décision spécialement motivée.
 
 Lorsque l'administrateur ne dispose pas des sommes nécessaires à la poursuite de
 l'activité, il peut, sur autorisation du juge-commissaire, se les faire remettre

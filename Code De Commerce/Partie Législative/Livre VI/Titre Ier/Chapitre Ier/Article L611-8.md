@@ -17,3 +17,12 @@ si les conditions suivantes sont réunies :
 l'entreprise ;
 
 3° L'accord ne porte pas atteinte aux intérêts des créanciers non signataires.
+
+III. - Lorsque le président du tribunal constate l'accord ou que le tribunal
+homologue celui-ci, il peut, à la demande du débiteur, désigner le conciliateur
+en tant que mandataire à l'exécution de l'accord pendant la durée de cette
+exécution. En cas de difficultés faisant obstacle à l'exécution de sa mission,
+le mandataire désigné présente sans délai un rapport, selon le cas, au président
+du tribunal ou au tribunal, qui peut alors mettre fin à sa mission par décision
+notifiée au débiteur. Ce dernier peut également, à tout moment, solliciter la
+fin de cette mission.

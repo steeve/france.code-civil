@@ -14,15 +14,10 @@ Le débiteur accomplit également les actes et exerce les droits et actions qui 
 sont pas compris dans la mission du liquidateur ou de l'administrateur lorsqu'il
 en a été désigné.
 
-II.-Lorsque le débiteur est une personne morale, les dirigeants sociaux en
-fonction lors du prononcé du jugement de liquidation judiciaire le demeurent,
-sauf disposition contraire des statuts ou décision de l'assemblée générale. En
-cas de nécessité, un mandataire peut être désigné en leur lieu et place par
+II. - Lorsque le débiteur est une personne morale, un mandataire peut être
+désigné, en cas de nécessité, au lieu et place des dirigeants sociaux par
 ordonnance du président du tribunal sur requête de tout intéressé, du
 liquidateur ou du ministère public.
-
-Le siège social est réputé fixé au domicile du représentant légal de
-l'entreprise ou du mandataire désigné.
 
 III.-Lorsque le débiteur est une personne physique, il ne peut exercer, au cours
 de la liquidation judiciaire, aucune des activités mentionnées au premier alinéa
@@ -30,3 +25,8 @@ de l'article L. 640-2. Toutefois, le débiteur entrepreneur individuel à
 responsabilité limitée peut poursuivre l'exercice d'une ou de plusieurs de ces
 activités, si celles-ci engagent un patrimoine autre que celui visé par la
 procédure.
+
+IV. - Le liquidateur ne peut, sauf accord du débiteur, réaliser les biens ou
+droits acquis au titre d'une succession ouverte après l'ouverture ou le prononcé
+de la liquidation judiciaire, ni provoquer le partage de l'indivision pouvant en
+résulter.

@@ -5,10 +5,13 @@ est envisageable, il autorise la poursuite de l'activité et il fixe le délai
 dans lequel les offres de reprise doivent parvenir au liquidateur et à
 l'administrateur lorsqu'il en a été désigné.
 
-Toutefois, si les offres reçues en application de l'article L. 631-13
+Toutefois, si les offres reçues en application de l'article L. 631-13 ou
+formulées dans le cadre des démarches effectuées par le mandataire ad hoc ou le
+conciliateur désigné en application des articles L. 611-3 ou L. 611-6
 remplissent les conditions prévues au II du présent article et sont
 satisfaisantes, le tribunal peut décider de ne pas faire application de l'alinéa
-précédent.
+précédent. L'avis du ministère public est recueilli lorsque l'offre a été reçue
+par le mandataire ad hoc ou le conciliateur.
 
 II.-Toute offre doit être écrite et comporter l'indication :
 

@@ -1,10 +1,11 @@
 Article L641-14
 ----
-Les dispositions des chapitres IV et V du titre II du présent livre relatives à
-la détermination du patrimoine du débiteur et au règlement des créances
-résultant du contrat de travail ainsi que les dispositions du chapitre II du
-titre III du présent livre relatives aux nullités de certains actes s'appliquent
-à la procédure de liquidation judiciaire.
+Les dispositions des chapitres IV, à l'exception de celles de l'article L.
+624-17, et V du titre II du présent livre relatives à la détermination du
+patrimoine du débiteur et au règlement des créances résultant du contrat de
+travail ainsi que les dispositions du chapitre II du titre III du présent livre
+relatives aux nullités de certains actes s'appliquent à la procédure de
+liquidation judiciaire.
 
 Toutefois, pour l'application de l'article L. 625-1, le liquidateur cité devant
 le conseil de prud'hommes ou, à défaut, le demandeur appelle devant la

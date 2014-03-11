@@ -23,7 +23,7 @@ toujours être fait surenchère.
 
 Pour les adjudications réalisées en application des alinéas qui précèdent, le
 paiement du prix au liquidateur et des frais de la vente emportent purge des
-hypothèques et de tout privilège du chef du débiteur.L'adjudicataire ne peut,
+hypothèques et de tout privilège du chef du débiteur. L'adjudicataire ne peut,
 avant d'avoir procédé à ces paiements, accomplir un acte de disposition sur le
 bien à l'exception de la constitution d'une hypothèque accessoire à un contrat
 de prêt destiné à l'acquisition de ce bien.
@@ -32,8 +32,8 @@ Le liquidateur répartit le produit des ventes et règle l'ordre entre les
 créanciers, sous réserve des contestations qui sont portées devant le juge de
 l'exécution.
 
-En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en
-considération de la situation personnelle et familiale du débiteur, lui accorder
+En cas de liquidation judiciaire d'un débiteur, personne physique, le tribunal
+peut, en considération de sa situation personnelle et familiale, lui accorder
 des délais de grâce dont il détermine la durée pour quitter sa maison
 d'habitation principale.
 

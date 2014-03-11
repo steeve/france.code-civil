@@ -6,7 +6,9 @@ des intérêts résultant de contrats de prêt conclus pour une durée égale ou
 supérieure à un an ou de contrats assortis d'un paiement différé d'un an ou
 plus. Les personnes physiques coobligées ou ayant consenti une sûreté
 personnelle ou ayant affecté ou cédé un bien en garantie peuvent se prévaloir
-des dispositions du présent alinéa.
+des dispositions du présent alinéa. Nonobstant les dispositions de l'article
+1154 du code civil, les intérêts échus de ces créances ne peuvent produire des
+intérêts.
 
 Le jugement d'ouverture suspend jusqu'au jugement arrêtant le plan ou prononçant
 la liquidation toute action contre les personnes physiques coobligées ou ayant

@@ -1,11 +1,12 @@
 Article L631-22
 ----
 A la demande de l'administrateur, le tribunal peut ordonner la cession totale ou
-partielle de l'entreprise si le débiteur est dans l'impossibilité d'en assurer
-lui-même le redressement. Les dispositions de la section 1 du chapitre II du
-titre IV, à l'exception du I de l'article L. 642-2, et l'article L. 642-22 sont
-applicables à cette cession. Le mandataire judiciaire exerce les missions
-dévolues au liquidateur.
+partielle de l'entreprise si le ou les plans proposés apparaissent manifestement
+insusceptibles de permettre le redressement de l'entreprise ou en l'absence de
+tels plans. Les dispositions de la section 1 du chapitre II du titre IV, à
+l'exception du I de l'article L. 642-2, et l'article L. 642-22 sont applicables
+à cette cession. Le mandataire judiciaire exerce les missions dévolues au
+liquidateur.
 
 L'administrateur reste en fonction pour passer tous les actes nécessaires à la
 réalisation de la cession.

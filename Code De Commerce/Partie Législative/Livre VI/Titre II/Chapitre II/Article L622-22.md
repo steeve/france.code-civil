@@ -7,3 +7,6 @@ mandataire judiciaire et, le cas échéant, l'administrateur ou le commissaire �
 l'exécution du plan nommé en application de l'article L. 626-25 dûment appelés,
 mais tendent uniquement à la constatation des créances et à la fixation de leur
 montant.
+
+Le débiteur, partie à l'instance, informe le créancier poursuivant de
+l'ouverture de la procédure dans les dix jours de celle-ci.

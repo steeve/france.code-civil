@@ -37,7 +37,7 @@ fractions annuelles égales du montant du principal restant dû.
 Les délais de paiement imposés en application des quatrième et cinquième alinéas
 ne peuvent excéder la durée du plan.
 
-Pour les contrats de crédit-bail, les délais prévus au présent article prennent
-fin si, avant leur expiration, le crédit preneur lève l'option d'achat. Celle-ci
-ne peut être levée si, sous déduction des remises acceptées, l'intégralité des
-sommes dues en vertu du contrat n'a pas été réglée.
+Le crédit preneur peut, à l'échéance, lever l'option d'achat avant l'expiration
+des délais prévus au présent article. Il doit alors payer l'intégralité des
+sommes dues dans la limite de la réduction dont elles font l'objet dans le plan
+sous forme de remises ou de délais.

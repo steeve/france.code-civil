@@ -27,3 +27,8 @@ La convention en exécution de laquelle le débiteur constituant conserve l'usag
 ou la jouissance de biens ou droits transférés à titre de garantie dans un
 patrimoine fiduciaire ne peut être cédée au cessionnaire, sauf accord des
 bénéficiaires du contrat de fiducie.
+
+Le cocontractant dont le contrat n'a pas fait l'objet de la cession prévue par
+le deuxième alinéa peut demander au juge-commissaire qu'il en prononce la
+résiliation si la poursuite de son exécution n'en est pas demandée par le
+liquidateur.

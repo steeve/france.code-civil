@@ -19,6 +19,7 @@ la société ;
 6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à
 l'article 1844-5 ;
 
-7° Par l'effet d'un jugement ordonnant la liquidation judiciaire ;
+7° Par l'effet d'un jugement ordonnant la clôture de la liquidation judiciaire
+pour insuffisance d'actif ;
 
 8° Pour toute autre cause prévue par les statuts.

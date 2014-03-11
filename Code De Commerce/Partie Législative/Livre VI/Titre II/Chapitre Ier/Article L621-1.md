@@ -2,8 +2,7 @@ Article L621-1
 ----
 Le tribunal statue sur l'ouverture de la procédure, après avoir entendu ou
 dûment appelé en chambre du conseil le débiteur et les représentants du comité
-d'entreprise ou, à défaut, des délégués du personnel. Il peut également entendre
-toute personne dont l'audition lui paraît utile.
+d'entreprise ou, à défaut, des délégués du personnel.
 
 En outre, lorsque le débiteur exerce une profession libérale soumise à un statut
 législatif ou réglementaire ou dont le titre est protégé, le tribunal statue

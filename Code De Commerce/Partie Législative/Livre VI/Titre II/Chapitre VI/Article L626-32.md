@@ -18,7 +18,11 @@ conclus avant l'ouverture de la procédure.
 La décision est prise à la majorité des deux tiers du montant des créances
 obligataires détenues par les porteurs ayant exprimé leur vote, nonobstant toute
 clause contraire et indépendamment de la loi applicable au contrat d'émission.
-Ne prennent pas part au vote les créanciers obligataires pour lesquels le projet
-de plan ne prévoit pas de modification des modalités de paiement ou prévoit un
-paiement intégral en numéraire dès l'arrêté du plan ou dès l'admission de leurs
-créances.
+Pour les porteurs bénéficiaires d'une fiducie constituée à titre de garantie par
+le débiteur, sont seuls pris en compte les montants de leurs créances
+obligataires non assorties d'une telle sûreté. Ne prennent pas part au vote les
+créanciers obligataires pour lesquels le projet de plan ne prévoit pas de
+modification des modalités de paiement ou prévoit un paiement intégral en
+numéraire dès l'arrêté du plan ou dès l'admission de leurs créances. Les
+dispositions du quatrième alinéa de l'article L. 626-30-2 sont applicables au
+vote de l'assemblée générale.

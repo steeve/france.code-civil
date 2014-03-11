@@ -1,8 +1,9 @@
 Article L628-8
 ----
-Les dispositions de l'article 1er de la loi n° 75-1256 du 27 décembre 1975
-relative à certaines ventes de biens immeubles dans les départements du
-Haut-Rhin, du Bas-Rhin et de la Moselle cessent d'être applicables aux ventes
-forcées d'immeubles compris dans le patrimoine d'un débiteur ayant fait l'objet
-d'une procédure de redressement judiciaire ouverte postérieurement au 1er
-janvier 1986.
+Le tribunal arrête le plan dans les conditions prévues à l'article L. 626-31
+dans un délai de trois mois à compter du jugement d'ouverture.
+
+A défaut d'arrêté de plan dans ce délai, le tribunal met fin à la procédure.
+
+Les dispositions du quatrième alinéa de l'article L. 626-18 ne sont pas
+applicables.

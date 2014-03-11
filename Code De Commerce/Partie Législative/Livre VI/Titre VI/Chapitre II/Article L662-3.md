@@ -13,3 +13,6 @@ mesures prises en application des chapitres Ier et III du titre V ont lieu en
 audience publique. Le président du tribunal peut décider qu'ils ont lieu en
 chambre du conseil si l'une des personnes mises en cause le demande avant leur
 ouverture.
+
+Le tribunal peut entendre toute personne dont l'audition lui paraît utile, et
+notamment, il peut entendre le représentant de l'Etat à sa demande.

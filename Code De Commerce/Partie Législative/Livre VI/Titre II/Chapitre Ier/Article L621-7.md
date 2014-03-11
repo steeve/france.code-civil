@@ -14,8 +14,12 @@ ou l'autorité compétente dont, le cas échéant, il relève peut saisir le
 ministère public à cette même fin.
 
 Le débiteur peut demander au juge-commissaire de saisir le tribunal aux fins de
-remplacer l'administrateur ou l'expert. Dans les mêmes conditions, tout
-créancier peut demander le remplacement du mandataire judiciaire.
+remplacer l'administrateur, le mandataire judiciaire ou l'expert. Dans les mêmes
+conditions, tout créancier peut demander le remplacement de l'administrateur ou
+du mandataire judiciaire.
+
+Le juge-commissaire statue par ordonnance, dans les meilleurs délais, sur la
+demande de remplacement qui lui est adressée de saisir le tribunal à cette fin
 
 Par dérogation aux alinéas qui précèdent, lorsque l'administrateur ou le
 mandataire judiciaire demande son remplacement, le président du tribunal, saisi

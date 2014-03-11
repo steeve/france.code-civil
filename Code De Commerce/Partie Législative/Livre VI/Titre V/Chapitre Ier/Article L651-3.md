@@ -8,9 +8,6 @@ par la majorité des créanciers nommés contrôleurs lorsque le liquidateur n'a
 engagé l'action prévue au même article, après une mise en demeure restée sans
 suite dans un délai et des conditions fixés par décret en Conseil d'Etat.
 
-Le juge-commissaire ne peut ni siéger dans la formation de jugement, ni
-participer au délibéré.
-
 Les dépens et frais irrépétibles auxquels a été condamné le dirigeant ou
 l'entrepreneur individuel à responsabilité limitée sont payés par priorité sur
 les sommes versées pour combler le passif.

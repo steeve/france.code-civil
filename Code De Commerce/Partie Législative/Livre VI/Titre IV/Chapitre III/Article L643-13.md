@@ -12,5 +12,9 @@ greffe du tribunal les fonds nécessaires aux frais des opérations. Le montant
 des frais consignés lui est remboursé par priorité sur les sommes recouvrées à
 la suite de la reprise de la procédure.
 
+La reprise de la procédure produit ses effets rétroactivement pour tous les
+actifs du débiteur que le liquidateur aurait dû réaliser avant la clôture de la
+procédure de liquidation judiciaire.
+
 Si les actifs du débiteur consistent en une somme d'argent, la procédure prévue
 au chapitre IV du présent titre est de droit applicable.

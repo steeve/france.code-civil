@@ -9,10 +9,14 @@ procédure en un redressement judiciaire, si les conditions de l'article L. 631-
 sont réunies, ou prononce la liquidation judiciaire, si les conditions de
 l'article L. 640-1 sont réunies.
 
-A la demande du débiteur, il décide également la conversion en redressement
-judiciaire si l'adoption d'un plan de sauvegarde est manifestement impossible et
-si la clôture de la procédure conduirait, de manière certaine et à bref délai, à
-la cessation des paiements.
+A la demande du débiteur ou, à la demande de l'administrateur, du mandataire
+judiciaire ou du ministère public, lorsqu'aucun plan n'a été adopté conformément
+aux dispositions de l'article L. 626-30-2 et, le cas échéant, de l'article L.
+626-32 par les comités mentionnés à la section 3 du chapitre VI du présent
+titre, il décide également la conversion en redressement judiciaire si
+l'adoption d'un plan de sauvegarde est manifestement impossible et si la clôture
+de la procédure conduirait, de manière certaine et à bref délai, à la cessation
+des paiements.
 
 Il statue après avoir entendu ou dûment appelé le débiteur, l'administrateur, le
 mandataire judiciaire, les contrôleurs et les représentants du comité

@@ -12,14 +12,12 @@ déclaration au passif.
 II. - L'administrateur a seul la faculté d'exiger l'exécution des contrats en
 cours en fournissant la prestation promise au cocontractant du débiteur.
 
-Lorsque la prestation porte sur le paiement d'une somme d'argent, celui-ci doit
-se faire au comptant, sauf pour l'administrateur à obtenir l'acceptation, par le
-cocontractant du débiteur, de délais de paiement. Au vu des documents
-prévisionnels dont il dispose, l'administrateur s'assure, au moment où il
-demande l'exécution, qu'il disposera des fonds nécessaires à cet effet.S'il
-s'agit d'un contrat à exécution ou paiement échelonnés dans le temps,
-l'administrateur y met fin s'il lui apparaît qu'il ne disposera pas des fonds
-nécessaires pour remplir les obligations du terme suivant.
+Au vu des documents prévisionnels dont il dispose, l'administrateur s'assure, au
+moment où il demande l'exécution du contrat, qu'il disposera des fonds
+nécessaires pour assurer le paiement en résultant. S'il s'agit d'un contrat à
+exécution ou paiement échelonnés dans le temps, l'administrateur y met fin s'il
+lui apparaît qu'il ne disposera pas des fonds nécessaires pour remplir les
+obligations du terme suivant.
 
 III. - Le contrat en cours est résilié de plein droit :
 

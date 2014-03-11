@@ -10,7 +10,9 @@ L'interdiction mentionnée au premier alinéa peut également être prononcée �
 l'encontre de toute personne mentionnée à l'article L. 653-1 qui, de mauvaise
 foi, n'aura pas remis au mandataire judiciaire, à l'administrateur ou au
 liquidateur les renseignements qu'il est tenu de lui communiquer en application
-de l'article L. 622-6 dans le mois suivant le jugement d'ouverture.
+de l'article L. 622-6 dans le mois suivant le jugement d'ouverture ou qui aura,
+sciemment, manqué à l'obligation d'information prévue par le second alinéa de
+l'article L. 622-22.
 
 Elle peut également être prononcée à l'encontre de toute personne mentionnée à
 l'article L. 653-1 qui a omis de demander l'ouverture d'une procédure de

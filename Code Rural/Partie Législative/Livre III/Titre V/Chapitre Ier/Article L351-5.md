@@ -2,7 +2,8 @@ Article L351-5
 ----
 Le président du tribunal, qui nomme un conciliateur en application de l'article
 L. 351-4, peut également prononcer la suspension provisoire des poursuites pour
-un délai n'excédant pas deux mois.
+un délai n'excédant pas deux mois. Ce délai peut être prorogé pour la même
+durée.
 
 Cette décision suspend ou interdit toute action en justice de la part de tous
 les créanciers dont la créance a son origine antérieurement à ladite décision et
@@ -25,6 +26,4 @@ décision, ou de désintéresser les cautions qui acquitteraient des créances n
 antérieurement, ainsi que de faire un acte de disposition étranger à la gestion
 normale de l'exploitation ou de consentir une hypothèque ou un nantissement.
 
-Les dispositions de l'article 55 de la loi n° 85-98 du 25 janvier 1985 relative
-au redressement et à la liquidation judiciaires des entreprises sont
-applicables.
+Les dispositions de l'article L. 622-28 du code de commerce sont applicables.

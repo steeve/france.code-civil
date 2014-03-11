@@ -23,15 +23,22 @@ familial.
 La qualité de mandataire judiciaire inscrit sur la liste ne fait pas obstacle à
 l'exercice d'une activité de consultation dans les matières relevant de la
 qualification de l'intéressé, ni à l'accomplissement des mandats de mandataire
-ad hoc et de conciliateur prévus aux articles L. 611-3 et L. 611-6 du présent
-code et par l'article L. 351-4 du code rural et de la pêche maritime, de
-commissaire à l'exécution du plan ou de liquidateur amiable des biens d'une
-personne physique ou morale, d'expert judiciaire et de séquestre judiciaire.
-Cette activité et ces mandats, à l'exception des mandats de mandataire ad hoc,
-de conciliateur et de commissaire à l'exécution du plan, ne peuvent être exercés
-qu'à titre accessoire. La même personne ne peut exercer successivement les
-fonctions de conciliateur puis de mandataire judiciaire avant l'expiration d'un
-délai d'un an lorsqu'il s'agit d'une même entreprise.
+ad hoc, de conciliateur et de mandataire à l'exécution de l'accord prévus aux
+articles L. 611-3, L. 611-6 et L. 611-8 du présent code et par l'article L.
+351-4 du code rural et de la pêche maritime, de commissaire à l'exécution du
+plan ou de liquidateur amiable des biens d'une personne physique ou morale,
+d'expert judiciaire et de séquestre judiciaire. Cette activité et ces mandats, à
+l'exception des mandats de mandataire ad hoc, de conciliateur, de mandataire à
+l'exécution de l'accord et de commissaire à l'exécution du plan, ne peuvent être
+exercés qu'à titre accessoire. La même personne ne peut exercer successivement
+les fonctions de conciliateur et de mandataire judiciaire avant l'expiration
+d'un délai d'un an à moins qu'elle ait été chargée, dans le cadre de la
+conciliation, de la mission d'organiser une cession partielle ou totale de
+l'entreprise. Le tribunal peut, en outre, lors de l'ouverture de la procédure de
+sauvegarde ou de redressement judiciaire et après avoir recueilli l'avis du
+ministère public, déroger à cette incompatibilité si celle-ci n'apparaît pas
+faire obstacle à l'exercice, par le mandataire judiciaire, de la mission prévue
+par le premier alinéa de l'article L. 622-20.
 
 Les conditions du présent article sont, à l'exception du quatrième alinéa,
 applicables aux personnes morales inscrites.

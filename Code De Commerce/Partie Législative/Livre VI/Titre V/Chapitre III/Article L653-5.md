@@ -25,4 +25,6 @@ procédure, fait obstacle à son bon déroulement ;
 6° Avoir fait disparaître des documents comptables, ne pas avoir tenu de
 comptabilité lorsque les textes applicables en font obligation, ou avoir tenu
 une comptabilité fictive, manifestement incomplète ou irrégulière au regard des
-dispositions applicables.
+dispositions applicables ;
+
+7° Avoir déclaré sciemment, au nom d'un créancier, une créance supposée.

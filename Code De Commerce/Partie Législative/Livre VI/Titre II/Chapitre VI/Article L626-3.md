@@ -19,4 +19,7 @@ Les engagements pris par les actionnaires ou associés ou par de nouveaux
 souscripteurs sont subordonnés dans leur exécution à l'acceptation du plan par
 le tribunal.
 
-Les clauses d'agrément sont réputées non écrites.
+En cas d'augmentation du capital social prévu par le projet de plan, les
+associés ou actionnaires peuvent bénéficier de la compensation à concurrence du
+montant de leurs créances admises et dans la limite de la réduction dont elles
+sont l'objet dans le projet de plan.

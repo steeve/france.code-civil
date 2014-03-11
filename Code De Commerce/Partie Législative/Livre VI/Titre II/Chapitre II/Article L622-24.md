@@ -3,13 +3,21 @@ Article L622-24
 A partir de la publication du jugement, tous les créanciers dont la créance est
 née antérieurement au jugement d'ouverture, à l'exception des salariés,
 adressent la déclaration de leurs créances au mandataire judiciaire dans des
-délais fixés par décret en Conseil d'Etat. Les créanciers titulaires d'une
-sûreté publiée ou liés au débiteur par un contrat publié sont avertis
-personnellement ou, s'il y a lieu, à domicile élu. Le délai de déclaration court
-à l'égard de ceux-ci à compter de la notification de cet avertissement.
+délais fixés par décret en Conseil d'Etat. Lorsque le créancier a été relevé de
+forclusion conformément à l'article L. 622-26, les délais ne courent qu'à
+compter de la notification de cette décision ; ils sont alors réduits de moitié.
+Les créanciers titulaires d'une sûreté publiée ou liés au débiteur par un
+contrat publié sont avertis personnellement ou, s'il y a lieu, à domicile élu.
+Le délai de déclaration court à l'égard de ceux-ci à compter de la notification
+de cet avertissement.
 
 La déclaration des créances peut être faite par le créancier ou par tout préposé
-ou mandataire de son choix.
+ou mandataire de son choix. Le créancier peut ratifier la déclaration faite en
+son nom jusqu'à ce que le juge statue sur l'admission de la créance.
+
+Lorsque le débiteur a porté une créance à la connaissance du mandataire
+judiciaire, il est présumé avoir agi pour le compte du créancier tant que
+celui-ci n'a pas adressé la déclaration de créance prévue au premier alinéa.
 
 La déclaration des créances doit être faite alors même qu'elles ne sont pas
 établies par un titre. Celles dont le montant n'est pas encore définitivement
@@ -22,7 +30,14 @@ déclaration sont admises à titre provisionnel pour leur montant déclaré. En 
 toujours faites sous réserve des impôts et autres créances non établis à la date
 de la déclaration. Sous réserve des procédures judiciaires ou administratives en
 cours, leur établissement définitif doit, à peine de forclusion, être effectué
-dans le délai prévu à l'article L. 624-1.
+dans le délai prévu à l'article L. 624-1. Toutefois, si une procédure
+administrative d'établissement de l'impôt a été mise en œuvre, l'établissement
+définitif des créances qui en font l'objet doit être effectué avant le dépôt au
+greffe du compte rendu de fin de mission par le mandataire judiciaire. Le délai
+de cet établissement définitif est suspendu par la saisine de l'une des
+commissions mentionnées à l'article L. 59 du livre des procédures fiscales
+jusqu'à la date de réception par le contribuable ou son représentant de l'avis
+de cette commission ou celle d'un désistement.
 
 Les institutions mentionnées à l'article L. 3253-14 du code du travail sont
 soumises aux dispositions du présent article pour les sommes qu'elles ont

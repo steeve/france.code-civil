@@ -1,8 +1,9 @@
 Article L611-10-2
 ----
 Les personnes coobligées ou ayant consenti une sûreté personnelle ou ayant
-affecté ou cédé un bien en garantie peuvent se prévaloir des dispositions de
-l'accord constaté ou homologué.
+affecté ou cédé un bien en garantie peuvent se prévaloir des mesures accordées
+au débiteur en application du cinquième alinéa de l'article L. 611-7 ainsi que
+des dispositions de l'accord constaté ou homologué.
 
 L'accord homologué entraîne la levée de plein droit de toute interdiction
 d'émettre des chèques conformément à l'article L. 131-73 du code monétaire et

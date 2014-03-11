@@ -5,7 +5,7 @@ de l'article L. 661-10 du code de commerce, sont entendues par la juridiction
 compétente :
 
 1° Lors d'une procédure de sauvegarde dans les situations prévues aux articles
-L. 621-1, L. 622-10, L. 626-4, L. 626-9 et L. 626-26 du code de commerce ;
+L. 621-1, L. 622-10, L. 626-9 et L. 626-26 du code de commerce ;
 
 2° Lors d'une procédure de redressement judiciaire dans les situations et
 conditions prévues aux articles L. 631-7, L. 631-15 (II), L. 631-19 (I) et L.

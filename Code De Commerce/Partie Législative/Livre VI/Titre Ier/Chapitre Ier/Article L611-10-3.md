@@ -9,4 +9,5 @@ homologué.
 
 Le président du tribunal ou le tribunal qui décide la résolution de l'accord
 peut aussi prononcer la déchéance de tout délai de paiement accordé en
-application du cinquième alinéa de l'article L. 611-7.
+application du cinquième alinéa de l'article L. 611-7 ou du second alinéa de
+l'article L. 611-10-1.
