@@ -1,7 +1,7 @@
 Article L45-2
 ----
-Dans le respect des principes rappelés à l'article L. 45-1, l'enregistrement ou
-le renouvellement des noms de domaine peut être refusé ou le nom de domaine
+.-Dans le respect des principes rappelés à l'article L. 45-1, l'enregistrement
+ou le renouvellement des noms de domaine peut être refusé ou le nom de domaine
 supprimé lorsque le nom de domaine est :
 
 1° Susceptible de porter atteinte à l'ordre public ou aux bonnes mœurs ou à des

@@ -9,7 +9,7 @@ Le ministre chargé des communications électroniques désigne, par arrêté,
 l'office d'enregistrement de chaque domaine, après consultation publique, pour
 une durée fixée par voie réglementaire.
 
-Chaque office d'enregistrement établit chaque année un rapport d'activité qu'il
+Chaque office d'enregistrement établit chaque année un rapport d'activité, qu'il
 transmet au ministre chargé des communications électroniques.
 
 Le ministre chargé des communications électroniques veille au respect par les

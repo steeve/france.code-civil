@@ -5,7 +5,7 @@ règles non discriminatoires et transparentes, garantissant le respect de la
 liberté de communication, de la liberté d'entreprendre et des droits de
 propriété intellectuelle.
 
-Les noms de domaines sont attribués pour une durée limitée et renouvelable.
+Les noms de domaine sont attribués pour une durée limitée et renouvelable.
 
 Sous réserve des dispositions de l'article L. 45-2, le nom de domaine est
 attribué au demandeur éligible ayant le premier fait régulièrement parvenir sa

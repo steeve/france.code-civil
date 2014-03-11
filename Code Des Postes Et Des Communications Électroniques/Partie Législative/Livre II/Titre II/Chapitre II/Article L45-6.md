@@ -6,7 +6,7 @@ de domaine lorsque le nom de domaine entre dans les cas prévus à l'article L.
 45-2.
 
 L'office statue sur cette demande dans un délai de deux mois suivant sa
-réception, selon une procédure contradictoire fixée par son règlement intérieur
+réception, selon une procédure contradictoire fixée par son règlement intérieur,
 qui peut prévoir l'intervention d'un tiers choisi dans des conditions
 transparentes, non discriminatoires et rendues publiques. Le règlement intérieur
 fixe notamment les règles déontologiques applicables aux tiers et garantit le

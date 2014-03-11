@@ -1,8 +1,8 @@
 Article L45-4
 ----
 L'attribution des noms de domaine est assurée par les offices d'enregistrement,
-par l'intermédiaire des bureaux d'enregistrement.L'exercice de leur mission ne
-confère ni aux offices, ni aux bureaux d'enregistrement de droits de propriété
+par l'intermédiaire des bureaux d'enregistrement. L'exercice de leur mission ne
+confère ni aux offices ni aux bureaux d'enregistrement de droits de propriété
 intellectuelle sur les noms de domaine.
 
 Les bureaux d'enregistrement sont accrédités, selon des règles non
