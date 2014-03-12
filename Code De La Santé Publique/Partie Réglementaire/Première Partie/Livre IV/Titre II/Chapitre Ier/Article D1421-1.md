@@ -84,3 +84,7 @@ la sécurité sanitaire. Elle prépare les contrats passés avec ces établissem
 questions de santé publique et de sécurité sanitaire au sein des instances
 européennes et internationales ainsi qu'à l'élaboration des textes au sein de
 ces instances.
+
+La direction générale de la santé est dirigée par un directeur général, assisté,
+pour l'ensemble de ses attributions, par un directeur portant le titre de
+directeur général adjoint.
