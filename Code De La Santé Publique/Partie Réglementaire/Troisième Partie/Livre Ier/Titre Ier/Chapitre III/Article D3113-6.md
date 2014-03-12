@@ -11,7 +11,8 @@ b) Brucellose ;
 
 c) Charbon ;
 
-c) 1. Chikungunya ;
+c) 1. Chikungunya, dans les départements et collectivités figurant sur une liste
+fixée par arrêté du ministre chargé de la santé ;
 
 d) Choléra ;
 
