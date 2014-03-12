@@ -6,7 +6,10 @@ prud'hommes ne peut dépasser les durées fixées au tableau ci-après :
 
 DÉSIGNATION des conseils de prud'hommes
 
-NOMBRE MAXIMUM d'heures indemnisables
+
+NOMBRE MAXIMUM
+
+d'heures indemnisables
 
 
 Conseils comportant 40 conseillers ou moins
@@ -30,4 +33,4 @@ Conseils de Bobigny, Lyon, Marseille et Nanterre
 
 Conseil de Paris
 
-72 heures par mois
+100 heures par mois

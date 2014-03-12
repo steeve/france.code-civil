@@ -6,19 +6,25 @@ caractérisé, notamment du fait de l'identité d'une partie, de l'objet ou de l
 cause, et qui n'auraient pas fait l'objet d'une jonction, ne peut dépasser les
 durées fixées au tableau ci-après :
 
-NOMBRE DE DÉCISIONS à rédiger
 
-NOMBRE MAXIMUM d'heures indemnisables
+NOMBRE DE DÉCISIONS
+
+à rédiger
+
+
+NOMBRE MAXIMUM
+
+d'heures indemnisables
 
 2 à 25
 
 3 heures
 
-2 à 50
+26 à 50
 
 5 heures
 
-2 à 100
+51 à 100
 
 7 heures
 
