@@ -12,8 +12,7 @@ c) La participation aux assemblées générales du conseil, aux assemblées de
 section ou de chambre et à la formation restreinte prévue à l'article R. 1423-27
 ;
 
-d) La participation aux réunions préparatoires à ces assemblées prévues par le
-règlement intérieur du conseil ;
+d) La participation aux réunions préparatoires aux assemblées prévues au c ;
 
 e) La participation aux commissions prévues par des dispositions législatives ou
 réglementaires ou instituées par le règlement intérieur ;
@@ -34,9 +33,9 @@ c) La participation à l'audience de la formation de référé, du bureau de
 conciliation ou du bureau de jugement, ainsi qu'à l'audience de départage ;
 
 d) L'étude d'un dossier postérieure à l'audience à laquelle l'affaire est
-examinée et préalable au délibéré, lorsque la formation de référé ou le bureau
-de jugement, hors le cas où ils siègent en audience de départage, la décide et
-la confie à deux de ses membres, l'un employeur, l'autre salarié ;
+examinée et préalable au délibéré par deux membres, l'un employeur, l'autre
+salarié, de la formation de référé ou du bureau de jugement, qui sont désignés,
+dans ce cas, par le président du bureau ;
 
 e) La participation au délibéré ;
 
