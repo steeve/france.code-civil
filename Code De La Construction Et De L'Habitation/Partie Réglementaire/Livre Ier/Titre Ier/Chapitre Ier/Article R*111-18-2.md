@@ -1,7 +1,8 @@
 Article R*111-18-2
 ----
-Les dispositions architecturales et les aménagements propres à assurer
-l'accessibilité des logements situés dans les bâtiments d'habitation collectifs
+I. ― Les dispositions architecturales, les aménagements et les équipements
+propres à assurer l'accessibilité des logements situés dans les bâtiments
+d'habitation collectifs et autres que ceux visés au II du présent article
 doivent satisfaire aux obligations ci-après :
 
 1. Pour tous les logements :
@@ -50,4 +51,58 @@ personne handicapée.
 
 Le ministre chargé de la construction et le ministre chargé des personnes
 handicapées déterminent les caractéristiques techniques applicables aux
-aménagements et équipements mentionnés au présent article.
+aménagements et équipements mentionnés au présent I.
+
+II. ― Lorsqu'une opération de construction comporte des logements, situés dans
+des bâtiments d'habitation collectifs, destinés à l'occupation temporaire ou
+saisonnière dont la gestion et l'entretien sont organisés et assurés de façon
+permanente, les dispositions architecturales, les aménagements et les
+équipements propres à assurer l'accessibilité de ces logements doivent présenter
+:
+
+a) Des caractéristiques communes applicables à tous ces logements garantissant
+qu'ils puissent être visités par une personne handicapée et occupés par une
+personne sourde, malentendante, aveugle, malvoyante ou présentant une déficience
+mentale ;
+
+b) Pour un pourcentage d'entre eux, calculé au regard de l'ensemble de ces
+logements prévus dans l'opération de construction et destinés à être gérés par
+la même personne physique ou morale, des caractéristiques supplémentaires et des
+équipements permettant, sans travaux préalables, l'accès des personnes
+handicapées aux pièces de l'unité de vie et un usage de leurs fonctions.
+Lorsque, au regard du nombre de pièces à vivre, plusieurs types de logements
+destinés à l'occupation temporaire ou saisonnière dont la gestion et l'entretien
+sont organisés et assurés de façon permanente existent, ces différents types
+doivent être représentés de manière proportionnée parmi les logements soumis aux
+caractéristiques supplémentaires ;
+
+c) Pour chaque bâtiment d'habitation collectif, un cabinet d'aisances commun
+accessible.
+
+En outre, des prestations propres à assurer la qualité de séjour des personnes
+handicapées, telles que des équipements, des matériels, un accueil ou un service
+personnalisé, sont proposées par le gestionnaire des logements.
+
+Pour l'application des dispositions du troisième alinéa de l'article L. 111-7-1,
+le maître d'ouvrage transmet au représentant de l'Etat dans le département,
+préalablement aux travaux, les éléments permettant de vérifier que les logements
+considérés sont des logements destinés à l'occupation temporaire ou saisonnière
+dont la gestion et l'entretien sont organisés et assurés de façon permanente et
+que les dispositions prévues par le présent II sont respectées. Ces éléments
+sont transmis en trois exemplaires sauf s'ils sont transmis par voie
+électronique.
+
+Le représentant de l'Etat dans le département notifie sa décision motivée, dans
+les trois mois qui suivent la réception des éléments, après avoir consulté la
+commission compétente en application de l'article R. 111-19-30. A défaut de
+réponse de la commission dans un délai de deux mois à compter de la transmission
+de la demande d'avis, celui-ci est réputé favorable.
+
+A défaut de réponse du représentant de l'Etat dans le département dans le délai
+de trois mois à compter de la date à laquelle il a reçu la demande d'accord,
+celui-ci est réputé acquis.
+
+Le ministre chargé de la construction détermine par arrêté les conditions
+d'application du II du présent article, notamment les caractéristiques,
+équipements et prestations prévus par celui-ci et les modalités de calcul du
+pourcentage de logements devant présenter des caractéristiques supplémentaires.
