@@ -29,8 +29,8 @@ personne de son choix ;
 2° Le directeur de l'Agence de l'eau Loire-Bretagne ou son représentant ;
 
 3° Quatre autres représentants de l'Etat et de ses établissements publics au
-conseil d'administration, désignés par le président du conseil d'administration
-;
+conseil d'administration ou leurs représentants, désignés par le président du
+conseil d'administration ;
 
 4° Cinq représentants des collectivités territoriales au conseil
 d'administration, désignés par et parmi ces représentants ;

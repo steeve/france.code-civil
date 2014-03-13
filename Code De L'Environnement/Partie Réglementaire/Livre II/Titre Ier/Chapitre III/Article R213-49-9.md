@@ -20,8 +20,25 @@ son représentant ;
 
 ― le préfet de Vendée ou son représentant ;
 
-― sept représentants désignés par arrêté conjoint du ministre chargé de
-l'environnement et du ministre chargé de l'agriculture ;
+― le directeur régional de l'environnement, de l'aménagement et du logement des
+Pays de la Loire ou son adjoint ;
+
+― le directeur régional de l'environnement, de l'aménagement et du logement de
+Poitou-Charentes ou son adjoint ;
+
+― le directeur régional de l'alimentation, de l'agriculture et de la forêt des
+Pays de la Loire ou son adjoint ;
+
+― le directeur régional de l'alimentation, de l'agriculture et de la forêt de
+Poitou-Charentes ou son adjoint ;
+
+― le directeur départemental des territoires et de la mer de Charente-Maritime
+ou son adjoint ;
+
+― le directeur départemental des territoires des Deux-Sèvres ou son adjoint ;
+
+― le directeur départemental des territoires et de la mer de la Vendée ou son
+adjoint ;
 
 ― le directeur général de l'Agence de l'eau Loire-Bretagne ou son représentant ;
 

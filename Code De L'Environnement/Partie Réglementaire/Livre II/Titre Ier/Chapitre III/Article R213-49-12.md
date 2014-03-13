@@ -2,9 +2,15 @@ Article R213-49-12
 ----
 Le bureau exécutif du conseil d'administration est formé du président, des deux
 vice-présidents, du directeur général de l'Agence de l'eau Loire-Bretagne ou de
-son représentant, de deux représentants de l'Etat, d'un membre représentant les
-collectivités territoriales et leurs groupements, d'un membre représentant les
-usagers et les organismes intéressés et d'une personne qualifiée.
+son représentant, de deux représentants de l'Etat. Par ailleurs, il comprend un
+membre issu des représentants nommés au collège des collectivités territoriales
+et de leurs groupements du conseil d'administration visés aux alinéas 1 à 5 du
+2° de l'article R. 213-49-9 faisant partie de la catégorie de collectivités à
+laquelle le premier vice-président n'appartient pas, un membre issu des
+représentants nommés au collège des usagers et des organismes intéressés du
+conseil d'administration visés aux alinéas 1 et 3 du 3° de l'article R. 213-49-9
+faisant partie de la catégorie à laquelle le second vice-président n'appartient
+pas et d'une personne qualifiée.
 
 Les représentants de l'Etat siégeant au bureau exécutif sont désignés par le
 président du conseil d'administration et les autres représentants sont élus par
