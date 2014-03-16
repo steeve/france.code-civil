@@ -1,6 +1,6 @@
 Article L331-6
 ----
-La commission a pour mission de concilier les parties en vue de l'élaboration
+I.-La commission a pour mission de concilier les parties en vue de l'élaboration
 d'un plan conventionnel de redressement approuvé par le débiteur et ses
 principaux créanciers.
 
@@ -20,6 +20,11 @@ concernent le remboursement de prêts contractés pour l'achat d'un bien
 immobilier constituant la résidence principale et dont le plan permet d'éviter
 la cession par le débiteur.
 
-Les créances figurant dans l'état du passif définitivement arrêté par la
-commission ou le juge ne peuvent produire d'intérêts ou générer de pénalités de
-retard jusqu'à la mise en œuvre du plan.
+II.-Toutefois, lorsque la situation du débiteur, sans qu'elle soit
+irrémédiablement compromise au sens du troisième alinéa de l'article L. 330-1,
+ne permet pas de prévoir le remboursement de la totalité de ses dettes et que la
+mission de conciliation de la commission paraît de ce fait manifestement vouée à
+l'échec, la commission peut, après avoir mis les parties en mesure de fournir
+leurs observations et sous réserve de l'application de l'article L. 333-1-1,
+imposer directement la mesure prévue au 4° de l'article L. 331-7 ou recommander
+les mesures prévues aux articles L. 331-7-1 et L. 331-7-2.

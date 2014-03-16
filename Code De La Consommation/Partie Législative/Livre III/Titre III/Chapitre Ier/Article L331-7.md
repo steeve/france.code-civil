@@ -26,13 +26,14 @@ ce titre. Durant cette période, seules les sommes dues au titre du capital
 peuvent être productives d'intérêts dont le taux n'excède pas le taux de
 l'intérêt légal.
 
-La commission réexamine, à l'issue de la période de suspension, la situation du
-débiteur. En fonction de celle-ci, la commission peut imposer ou recommander
-tout ou partie des mesures prévues au présent article et par les articles L.
-331-7-1 et L. 331-7-2, à l'exception d'une nouvelle suspension. Elle peut, le
-cas échéant, recommander un rétablissement personnel sans liquidation judiciaire
-ou saisir le juge aux fins d'ouverture d'une procédure de rétablissement
-personnel avec liquidation judiciaire.
+Si, à l'expiration de la période de suspension, le débiteur saisit de nouveau la
+commission, celle-ci réexamine sa situation. En fonction de celle-ci, la
+commission peut imposer ou recommander tout ou partie des mesures prévues au
+présent article et par les articles L. 331-7-1 et L. 331-7-2, à l'exception
+d'une nouvelle suspension. Elle peut, le cas échéant, recommander un
+rétablissement personnel sans liquidation judiciaire ou saisir le juge aux fins
+d'ouverture d'une procédure de rétablissement personnel avec liquidation
+judiciaire.
 
 Pour l'application du présent article, la commission prend en compte la
 connaissance que pouvait avoir chacun des créanciers, lors de la conclusion des
@@ -58,8 +59,3 @@ les mesures prévues par le présent article sont combinées avec tout ou partie
 celles prévues par les articles L. 331-7-1 et L. 331-7-2, l'ensemble de ces
 mesures n'est exécutoire qu'à compter de l'homologation de ces dernières par le
 juge.
-
-Les créances figurant dans l'état du passif définitivement arrêté par la
-commission ou le juge ne peuvent produire d'intérêts ou générer de pénalités de
-retard jusqu'à ce que les mesures prévues au présent article soient opposables
-au créancier.
