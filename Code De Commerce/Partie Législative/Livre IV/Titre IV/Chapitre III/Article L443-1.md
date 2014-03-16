@@ -1,7 +1,7 @@
 Article L443-1
 ----
-A peine d'une amende de 75 000 euros, le délai de paiement, par tout producteur,
-revendeur ou prestataire de services, ne peut être supérieur :
+Le délai de paiement, par tout producteur, revendeur ou prestataire de services,
+ne peut être supérieur :
 
 1° A trente jours après la fin de la décade de livraison pour les achats de
 produits alimentaires périssables et de viandes congelées ou surgelées, de
@@ -17,15 +17,19 @@ destiné à la consommation et de viandes fraîches dérivées ;
 alcooliques passibles des droits de consommation prévus à l'article 403 du code
 général des impôts ;
 
-4° A défaut d'accords interprofessionnels conclus en application du livre VI du
+4° A quarante-cinq jours fin de mois ou soixante jours à compter de la date
+d'émission de la facture pour les achats de raisins et de moûts destinés à
+l'élaboration de vins ainsi que de boissons alcooliques passibles des droits de
+circulation prévus à l'article 438 du code général des impôts, sauf dispositions
+dérogatoires figurant :
+
+a) Dans des décisions interprofessionnelles prises en application de la loi du
+12 avril 1941 portant création d'un comité interprofessionnel du vin de
+Champagne ;
+
+b) Ou dans des accords interprofessionnels pris en application du livre VI du
 code rural et de la pêche maritime et rendus obligatoires par voie réglementaire
-à tous les opérateurs sur l'ensemble du territoire métropolitain ou de décisions
-interprofessionnelles prises en application de la loi du 12 avril 1941 portant
-création d'un comité interprofessionnel du vin de Champagne pour ce qui concerne
-les délais de paiement, à quarante-cinq jours fin de mois ou soixante jours à
-compter de la date d'émission de la facture pour les achats de raisins et de
-moûts destinés à l'élaboration de vins ainsi que de boissons alcooliques
-passibles des droits de circulation prévus à l'article 438 du même code.
+à tous les opérateurs sur l'ensemble du territoire métropolitain.
 
 Pour les livraisons de marchandises qui font l'objet d'une importation dans le
 territoire fiscal des départements de la Guadeloupe, de la Martinique, de la
@@ -36,3 +40,12 @@ de la marchandise au port de destination finale. Lorsque la marchandise est mise
 à la disposition de l'acheteur, ou de son représentant, en métropole, le délai
 est décompté à partir du vingt et unième jour suivant la date de cette mise à
 disposition ou à partir de la date du dédouanement si celle-ci est antérieure.
+
+Les manquements aux dispositions du présent article ainsi qu'aux dispositions
+relatives aux délais de paiement des accords mentionnés au b du 4° sont
+passibles d'une amende administrative dont le montant ne peut excéder 75 000 €
+pour une personne physique et 375 000 € pour une personne morale. L'amende est
+prononcée dans les conditions prévues à l'article L. 465-2 du présent code. Le
+montant de l'amende encourue est doublé en cas de réitération du manquement dans
+un délai de deux ans à compter de la date à laquelle la première décision de
+sanction est devenue définitive.

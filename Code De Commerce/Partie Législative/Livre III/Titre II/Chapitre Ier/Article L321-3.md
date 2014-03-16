@@ -3,7 +3,9 @@ Article L321-3
 Le fait de proposer, en agissant comme mandataire du propriétaire, un bien aux
 enchères publiques à distance par voie électronique pour l'adjuger au
 mieux-disant des enchérisseurs constitue une vente aux enchères par voie
-électronique, soumise aux dispositions du présent chapitre.
+électronique, soumise aux dispositions du présent chapitre. La seule
+circonstance qu'une confirmation, conforme aux dispositions de l'article 1369-5
+du code civil, soit exigée est sans incidence sur la qualification de la vente.
 
 Les opérations de courtage aux enchères réalisées à distance par voie
 électronique se caractérisant par l'absence d'adjudication au mieux-disant des

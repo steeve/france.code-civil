@@ -12,3 +12,10 @@ l'article 1er de la directive précitée.
 Le juge peut à ce titre ordonner, le cas échéant sous astreinte, la suppression
 d'une clause illicite ou abusive dans tout contrat ou type de contrat proposé ou
 destiné au consommateur.
+
+Les associations et les organismes mentionnés au premier alinéa peuvent
+également demander au juge de déclarer que cette clause est réputée non écrite
+dans tous les contrats identiques conclus par le même professionnel avec des
+consommateurs, y compris les contrats qui ne sont plus proposés, et de lui
+ordonner d'en informer à ses frais les consommateurs concernés par tous moyens
+appropriés.

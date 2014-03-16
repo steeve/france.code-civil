@@ -1,15 +1,14 @@
 Article L215-17
 ----
-En matière de contrôle bactériologique ou de pureté biologique, exception faite
-du cas où l'intéressé a déclaré s'en rapporter à l'expert unique, désigné par le
-procureur de la République ou le juge d'instruction, ce dernier commet deux
-experts à l'expertise de l'échantillon prélevé.
+En matière de contrôle bactériologique ou de pureté biologique, le procureur de
+la République ou le juge d'instruction commet deux experts à l'expertise de
+l'échantillon prélevé, exception faite du cas où l'intéressé a déclaré s'en
+rapporter à l'expert unique désigné dans les mêmes conditions.
 
 Le premier de ces experts est choisi parmi les directeurs de laboratoires
 compétents.
 
-Le second expert, commis par le procureur de la République ou le juge
-d'instruction, est l'expert ou son suppléant choisi par l'intéressé dans la
+Le second expert est l'expert ou son suppléant choisi par l'intéressé dans la
 discipline concernée sur les listes prévues à l'article 157 du code de procédure
 pénale.
 

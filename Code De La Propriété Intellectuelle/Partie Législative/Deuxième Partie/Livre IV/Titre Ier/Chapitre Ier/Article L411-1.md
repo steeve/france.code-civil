@@ -18,7 +18,9 @@ délivrance ou enregistrement et à la surveillance de leur maintien ; il
 centralise le registre du commerce et des sociétés et le Bulletin officiel des
 annonces civiles et commerciales ; il assure la diffusion des informations
 techniques, commerciales et financières contenues dans les titres de propriété
-industrielle et instruments centralisés de publicité légale ;
+industrielle et instruments centralisés de publicité légale ; il statue sur les
+demandes d'homologation ou de modification des cahiers des charges des
+indications géographiques définies à l'article L. 721-2 ;
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit
 national et international aux besoins des innovateurs et des entreprises ; à ce

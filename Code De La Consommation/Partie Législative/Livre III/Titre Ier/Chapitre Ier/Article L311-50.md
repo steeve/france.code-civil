@@ -1,6 +1,6 @@
 Article L311-50
 ----
-Sera puni d'une amende de 30 000 euros :
+Sera puni d'une amende de 300 000 euros :
 
 1° Le prêteur ou le vendeur qui, en infraction aux dispositions des articles L.
 311-14 et L. 311-40, réclame ou reçoit de l'emprunteur ou de l'acheteur un
@@ -22,3 +22,14 @@ rétractation ;
 6° Celui qui fait signer par un même client une ou plusieurs offres de contrat
 de crédit d'un montant total en capital supérieur à la valeur payable à crédit
 du bien acheté ou de la prestation de services fournie.
+
+Les personnes physiques déclarées coupables encourent également à titre de
+peines complémentaires l'interdiction, suivant les modalités prévues à l'article
+131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession
+commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler
+à un titre quelconque, directement ou indirectement, pour leur propre compte ou
+pour le compte d'autrui, une entreprise commerciale ou industrielle ou une
+société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée
+de cinq ans. Elles peuvent être prononcées cumulativement.

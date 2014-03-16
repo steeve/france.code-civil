@@ -57,7 +57,7 @@ européenne ou les gestionnaires établis dans un pays tiers ayant une succursal
 ou fournissant des services en France, qui gèrent un ou plusieurs FIA au sens de
 la directive 2011/61/ UE du Parlement européen et du Conseil du 8 juin 2011 ;
 
-8° Les intermédiaires en biens divers ;
+8° Les intermédiaires en biens divers mentionnés au I de l'article L. 550-1 ;
 
 9° Les personnes habilitées à procéder au démarchage mentionnées aux articles L.
 341-3 et L. 341-4 ;

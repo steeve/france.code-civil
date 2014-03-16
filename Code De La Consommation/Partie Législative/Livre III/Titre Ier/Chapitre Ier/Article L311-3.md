@@ -16,8 +16,8 @@ supérieur à 75 000 €, à l'exception de celles, mentionnées à l'article L.
 remboursable dans un délai d'un mois ;
 
 4° Les opérations de crédit comportant un délai de remboursement ne dépassant
-pas trois mois qui ne sont assorties d'aucun intérêt ou d'aucuns frais ou
-seulement de frais d'un montant négligeable ;
+pas trois mois qui ne sont assorties d'aucun intérêt ni d'aucuns frais ou
+seulement d'intérêts et de frais d'un montant négligeable ;
 
 5° Les opérations mentionnées au 3 de l'article L. 511-6 du code monétaire et
 financier ;

@@ -25,5 +25,5 @@ la période pendant laquelle le risque n'a pas couru, période calculée à comp
 de ladite date d'effet. A défaut de remboursement dans ces conditions, les
 sommes dues sont productives d'intérêts au taux légal.
 
-Les dispositions du présent article ne sont applicables ni aux assurances sur la
-vie ni aux contrats de groupe et autres opérations collectives.
+Les dispositions du présent article ne s'appliquent ni aux assurances sur la
+vie, ni aux assurances de groupe relevant de l'article L. 141-1.

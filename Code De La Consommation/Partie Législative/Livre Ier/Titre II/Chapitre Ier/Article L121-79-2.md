@@ -1,6 +1,6 @@
 Article L121-79-2
 ----
-Est puni de 15 000 € d'amende le fait :
+Est puni de 150 000 € d'amende le fait :
 
 1° Pour tout professionnel, de soumettre à un consommateur une offre tendant à
 la conclusion de tout contrat ou groupe de contrats visés aux articles L. 121-60

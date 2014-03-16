@@ -110,11 +110,10 @@ mentionnés à l'article L. 134-1 du code des juridictions financières et de to
 autre organisme ou personne chargé d'une mission de service public toutes les
 informations nécessaires à l'accomplissement de leur mission.
 
-II bis.-L'autorité administrative chargée de l'inspection des personnes
-mentionnées au 15° de l'article L. 561-2 du présent code assure le contrôle du
-respect des obligations prévues au premier alinéa du même article, dans les
-conditions définies aux articles L. 450-1 à L. 450-3 et L. 450-8 du code de
-commerce.
+II bis.- L'autorité administrative chargée de l'inspection des personnes
+mentionnées aux 8° et 15° de l'article L. 561-2 du présent code assure le
+contrôle du respect des obligations prévues aux chapitres Ier et II du présent
+titre, dans les conditions prévues au titre V du livre IV du code de commerce.
 
 II ter.-L'autorité administrative chargée de l'inspection des personnes
 mentionnées au 9° de l'article L. 561-2 du présent code a accès, durant les

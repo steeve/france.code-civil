@@ -17,3 +17,10 @@ ventes, du temps qui y est consacré et, le cas échéant, du volume global des
 ventes volontaires de meubles aux enchères publiques réalisées dans le ressort
 du tribunal de grande instance. Ils ne peuvent être mandatés que par le
 propriétaire des biens.
+
+Hormis les cas prévus à l'article L. 321-36, la dénomination " ventes aux
+enchères publiques " est réservée aux ventes organisées et réalisées par les
+personnes mentionnées au présent article.
+
+Tout autre usage de cette dénomination est passible des sanctions prévues à
+l'article L. 121-6 du code de la consommation.

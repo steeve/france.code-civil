@@ -1,9 +1,12 @@
 Article L136-1
 ----
-Le professionnel prestataire de services informe le consommateur par écrit, au
-plus tôt trois mois et au plus tard un mois avant le terme de la période
-autorisant le rejet de la reconduction, de la possibilité de ne pas reconduire
-le contrat qu'il a conclu avec une clause de reconduction tacite.
+Le professionnel prestataire de services informe le consommateur par écrit, par
+lettre nominative ou courrier électronique dédiés, au plus tôt trois mois et au
+plus tard un mois avant le terme de la période autorisant le rejet de la
+reconduction, de la possibilité de ne pas reconduire le contrat qu'il a conclu
+avec une clause de reconduction tacite. Cette information, délivrée dans des
+termes clairs et compréhensibles, mentionne, dans un encadré apparent, la date
+limite de résiliation.
 
 Lorsque cette information ne lui a pas été adressée conformément aux
 dispositions du premier alinéa, le consommateur peut mettre gratuitement un

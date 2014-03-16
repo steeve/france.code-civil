@@ -22,7 +22,6 @@ Ce prix comprend les marges prévues par la décision mentionnée à l'article L
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article, et notamment les procédures et délais de fixation des prix.
 
-Sont constatées et poursuivies, dans les conditions fixées par le titre VI de
-l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et
-de la concurrence, les infractions aux conventions et arrêtés mentionnés
+Sont constatées et poursuivies, dans les conditions prévues au titre V du livre
+IV du code de commerce, les infractions aux conventions et arrêtés mentionnés
 ci-dessus.

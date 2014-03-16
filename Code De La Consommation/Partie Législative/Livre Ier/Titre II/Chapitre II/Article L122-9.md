@@ -18,4 +18,4 @@ salons ;
 
 5° Soit lorsque la transaction a été conclue dans une situation d'urgence ayant
 mis la victime de l'infraction dans l'impossibilité de consulter un ou plusieurs
-professionnels qualifiés, tiers ou contrat.
+professionnels qualifiés, tiers au contrat.

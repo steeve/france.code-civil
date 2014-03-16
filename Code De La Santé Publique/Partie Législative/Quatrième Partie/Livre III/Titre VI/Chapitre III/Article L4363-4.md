@@ -1,13 +1,13 @@
 Article L4363-4
 ----
-Est puni de 3750 euros d'amende le fait :
+Est puni de 3 750 € d'amende le fait de délivrer ou de vendre :
 
-1° De diriger ou de gérer, sans remplir les conditions requises pour l'exercice
-de la profession d'opticien-lunetier, un établissement commercial dont l'objet
-principal est l'optique-lunetterie, une succursale d'un tel établissement ou un
-rayon d'optique-lunetterie des magasins ;
+1° Des lentilles de contact oculaire correctrices en méconnaissance des
+conditions de délivrance à un primo-porteur mentionnées à l'article L. 4362-9-1
+;
 
-2° De colporter des verres correcteurs d'amétropie ;
+2° Des verres correcteurs en méconnaissance de l'article L. 4362-10 ;
 
-3° De délivrer un verre correcteur à une personne âgée de moins de 16 ans sans
-ordonnance médicale.
+3° Des lentilles de contact oculaire correctrices ou des verres correcteurs en
+méconnaissance des obligations à la charge des prestataires de vente en ligne
+mentionnées à l'article L. 4362-10-1.

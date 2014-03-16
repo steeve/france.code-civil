@@ -24,7 +24,12 @@ la situation financière de l'emprunteur, ou de laisser entendre que le prêt
 améliore la situation financière ou le budget de l'emprunteur, entraîne une
 augmentation de ressources, constitue un substitut d'épargne ou accorde une
 réserve automatique d'argent immédiatement disponible sans contrepartie
-financière identifiable.
+financière identifiable. Lorsqu'une publicité compare le montant des échéances
+d'un ou plusieurs crédits antérieurs, et le cas échéant d'autres dettes, à celui
+d'une échéance résultant d'une opération de regroupement de crédits, elle
+mentionne de manière claire et apparente, d'une part, la somme des coûts totaux
+des crédits antérieurs et, d'autre part, le coût total du crédit postérieur à
+l'opération précitée.
 
 Il est interdit également dans toute publicité de mentionner l'existence d'une
 période de franchise de paiement de loyers ou de remboursement des échéances du
@@ -37,5 +42,5 @@ Il est interdit dans toute publicité de proposer sous quelque forme que ce soit
 des lots promotionnels liés à l'acceptation d'une offre préalable de crédit.
 
 Toute publicité, à l'exception des publicités radiodiffusées, contient, quel que
-soit le support utilisé, la mention suivante : Un crédit vous engage et doit
-être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
+soit le support utilisé, la mention suivante : "Un crédit vous engage et doit
+être remboursé. Vérifiez vos capacités de remboursement avant de vous engager".

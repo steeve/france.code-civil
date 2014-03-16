@@ -24,8 +24,11 @@ ne pas respecter une décision de fermeture administrative, ou d'arrêt d'une ou
 plusieurs activités d'un établissement, prise en vertu des articles L. 206-2, L.
 233-1 et L. 235-2.
 
-III.-Est puni de quatre ans d'emprisonnement et de 75 000 euros d'amende le fait
-pour un exploitant :
+III.-Est puni de quatre ans d'emprisonnement et d'une amende de 600 000 €, dont
+le montant peut être porté, de manière proportionnée aux avantages tirés du
+manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois
+derniers chiffres d'affaires annuels connus à la date des faits le fait pour un
+exploitant :
 
 -de mettre sur le marché un produit d'origine animale ou une denrée en contenant
 préjudiciable à la santé au sens de l'article 14 du règlement (CE) n° 178/2002
@@ -63,4 +66,4 @@ presse écrite, soit par tout moyen de communication au public par voie
 électronique.
 
 V.-Les personnes morales encourent également les peines complémentaires prévues
-par les 2°,4°,7°,8° et 9° de l'article 131-39 du code pénal.
+par les 2°, 4°, 7°, 8° et 9° de l'article 131-39 du code pénal.

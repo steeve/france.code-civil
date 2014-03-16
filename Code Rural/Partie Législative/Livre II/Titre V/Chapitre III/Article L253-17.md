@@ -1,6 +1,9 @@
 Article L253-17
 ----
-Est puni de six mois d'emprisonnement et de 30 000 € d'amende :
+Est puni de six mois d'emprisonnement et d'une amende de 150 000 €, dont le
+montant peut être porté, de manière proportionnée aux avantages tirés du
+manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois
+derniers chiffres d'affaires annuels connus à la date des faits :
 
 1° Le fait de procéder sans permis à des essais ou expérimentations d'un produit
 phytopharmaceutique soumis à l'obligation de détention du permis

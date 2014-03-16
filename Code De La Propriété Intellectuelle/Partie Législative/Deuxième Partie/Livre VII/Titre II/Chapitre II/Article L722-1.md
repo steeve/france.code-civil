@@ -11,18 +11,10 @@ Pour l'application du présent chapitre, on entend par " indication géographiqu
 a) Les appellations d'origine définies à l'article L. 115-1 du code de la
 consommation ;
 
-b) Les appellations d'origine protégées et les indications géographiques
-protégées prévues par la réglementation communautaire relative à la protection
-des indications géographiques et des appellations d'origine des produits
-agricoles et des denrées alimentaires ;
+b) Les indications géographiques définies à l'article L. 721-2 ;
 
-c) Les noms des vins de qualité produits dans une région déterminée et les
-indications géographiques prévues par la réglementation communautaire portant
-organisation commune du marché vitivinicole ;
-
-d) Les dénominations géographiques prévues par la réglementation communautaire
-établissant les règles générales relatives à la définition, à la désignation et
-à la présentation des boissons spiritueuses.
+c) Les appellations d'origine et les indications géographiques protégées en
+vertu du droit de l'Union européenne ;
 
 Sont interdits la production, l'offre, la vente, la mise sur le marché,
 l'importation, l'exportation, le transbordement, l'utilisation ou la détention à

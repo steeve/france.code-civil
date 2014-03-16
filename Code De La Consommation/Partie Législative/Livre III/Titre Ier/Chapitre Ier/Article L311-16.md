@@ -45,31 +45,36 @@ L'emprunteur doit pouvoir s'opposer aux modifications proposées, lors de la
 reconduction du contrat, jusqu'au moins vingt jours avant la date où celles-ci
 deviennent effectives, en utilisant un bordereau-réponse annexé aux informations
 écrites communiquées par le prêteur. Un décret précisera les caractéristiques de
-ce bordereau ainsi que les mentions devant y figurer.L'emprunteur peut également
-demander à tout moment la réduction de sa réserve de crédit, la suspension de
-son droit à l'utiliser ou la résiliation de son contrat. Dans ce dernier cas, il
-est tenu de rembourser, aux conditions du contrat, le montant de la réserve
-d'argent déjà utilisé.
+ce bordereau ainsi que les mentions devant y figurer. L'emprunteur peut
+également demander à tout moment la réduction du montant maximal de crédit
+consenti, la suspension de son droit à l'utiliser ou la résiliation de son
+contrat. Dans ce dernier cas, il est tenu de rembourser, aux conditions du
+contrat, le montant du crédit déjà utilisé.
 
 En cas de refus des nouvelles conditions de taux ou de remboursement proposées
 lors de la reconduction du contrat, l'emprunteur est tenu de rembourser aux
-conditions précédant les modifications proposées le montant de la réserve
-d'argent déjà utilisé, sans pouvoir, toutefois, procéder à une nouvelle
-utilisation de l'ouverture de crédit.
+conditions précédant les modifications proposées le montant du crédit déjà
+utilisé, sans pouvoir, toutefois, procéder à une nouvelle utilisation de
+l'ouverture de crédit.
 
-Si, pendant deux années consécutives, le contrat d'ouverture de crédit ou tout
-moyen de paiement associé n'ont fait l'objet d'aucune utilisation, le prêteur
-qui entend proposer la reconduction du contrat adresse à l'emprunteur, à
-l'échéance de la deuxième année, un document annexé aux conditions de cette
-reconduction. Ce document indique l'identité des parties, la nature de
-l'opération, le montant du crédit disponible, le taux annuel effectif global
-ainsi que le montant des remboursements par échéance et par fractions de crédit
-utilisées.A défaut pour l'emprunteur de retourner ce document, signé et daté, au
-plus tard vingt jours avant la date d'échéance du contrat, ce dernier est
-résilié de plein droit à cette date. Lorsque l'ouverture de crédit est assortie
-de l'usage d'une carte de crédit, le prélèvement de la cotisation liée au
-bénéfice de ce moyen de paiement ne fait pas obstacle à la mise en œuvre du
-présent alinéa.
+Si, pendant un an, le contrat d'ouverture de crédit ou tout moyen de paiement
+associé n'ont fait l'objet d'aucune utilisation, le prêteur qui entend proposer
+la reconduction du contrat adresse à l'emprunteur, à l'échéance de l'année
+écoulée, un document annexé aux conditions de cette reconduction. Ce document
+indique l'identité des parties, la nature de l'opération, le montant du crédit
+disponible, le taux annuel effectif global ainsi que le montant des
+remboursements par échéance et par fractions de crédit utilisées. A défaut pour
+l'emprunteur de retourner ce document, signé et daté, au plus tard vingt jours
+avant la date d'échéance du contrat, le prêteur suspend à cette date le droit
+d'utilisation du crédit par l'emprunteur. Ladite suspension ne peut être levée
+qu'à la demande de l'emprunteur et après vérification de la solvabilité de ce
+dernier dans les conditions fixées à l'article L. 311-9. Dans le cas où
+l'emprunteur n'a pas demandé la levée de la suspension à l'expiration du délai
+d'un an suivant la date de la suspension de son contrat de crédit, le contrat
+est résilié de plein droit. Lorsque l'ouverture de crédit est assortie de
+l'usage d'une carte de crédit, le prélèvement de la cotisation liée au bénéfice
+de ce moyen de paiement ne fait pas obstacle à la mise en œuvre du présent
+alinéa.
 
 La capitalisation des intérêts est soumise aux dispositions de l'article 1154 du
 code civil.

@@ -8,10 +8,10 @@ locale, ne concernent pas des faits relevant des articles 81 et 82 du traité
 instituant la Communauté européenne et sous réserve que le chiffre d'affaires
 que chacune d'entre elles a réalisé en France lors du dernier exercice clos ne
 dépasse pas 50 millions d'euros et que leurs chiffres d'affaires cumulés ne
-dépassent pas 100 millions d'euros.
+dépassent pas 200 millions d'euros.
 
 Le ministre chargé de l'économie peut également, dans les mêmes conditions, leur
-proposer de transiger. Le montant de la transaction ne peut excéder 75 000 € ou
+proposer de transiger. Le montant de la transaction ne peut excéder 150 000 € ou
 5 % du dernier chiffre d'affaires connu en France si cette valeur est plus
 faible. Les modalités de la transaction sont fixées par décret en Conseil
 d'Etat. L'exécution dans les délais impartis des obligations résultant de

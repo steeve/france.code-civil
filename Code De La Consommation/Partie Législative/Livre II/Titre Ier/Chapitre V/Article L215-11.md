@@ -1,8 +1,12 @@
 Article L215-11
 ----
-Dans le cas où la présomption de fraude ou de falsification résulte de l'analyse
-faite au laboratoire, l'auteur présumé de la fraude ou de la falsification est
-avisé, par le procureur de la République, qu'il peut prendre communication du
-rapport du laboratoire et qu'un délai de trois jours francs lui est imparti pour
-présenter ses observations et pour faire connaître s'il réclame l'expertise
-contradictoire prévue à l'article L. 215-9.
+Le procureur de la République, s'il estime, au vu des procès-verbaux dressés par
+les agents mentionnés à l'article L. 215-1 ou du rapport d'essai ou d'analyse
+et, au besoin, après enquête préalable, que des poursuites doivent être engagées
+ou une information ouverte, saisit, suivant le cas, le tribunal ou le juge
+d'instruction.
+
+S'il y a lieu à expertise, celle-ci est ordonnée et exécutée selon les
+prescriptions et dans les formes prévues aux articles 156 à 169 du code de
+procédure pénale, sous les réserves mentionnées aux articles de la présente
+section.

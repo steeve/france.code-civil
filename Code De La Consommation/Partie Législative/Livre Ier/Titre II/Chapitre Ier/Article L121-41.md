@@ -1,10 +1,6 @@
 Article L121-41
 ----
-Seront punis d'une amende de 37 500 euros les organisateurs des opérations
-définies au premier alinéa de l'article L. 121-36 qui n'auront pas respecté les
-conditions exigées par la présente section. Le tribunal peut ordonner la
-publication de sa décision, aux frais du condamné, par tous moyens appropriés.
-En cas d'infraction particulièrement grave, il peut en ordonner l'envoi à toutes
-les personnes sollicitées par lesdites opérations. Lorsqu'il en ordonne
-l'affichage, il y est procédé dans les conditions et sous les peines prévues par
-l'article 131-35 du code pénal.
+Tout manquement aux articles L. 121-36 à L. 121-38 est passible d'une amende
+administrative dont le montant ne peut excéder 15 000 € pour une personne
+physique et 75 000 € pour une personne morale. L'amende est prononcée dans les
+conditions prévues à l'article L. 141-1-2.

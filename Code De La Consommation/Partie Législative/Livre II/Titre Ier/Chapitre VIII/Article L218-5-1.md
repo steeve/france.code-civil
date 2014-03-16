@@ -1,8 +1,8 @@
 Article L218-5-1
 ----
-Lorsque les agents mentionnés à l'article L. 215-1 constatent qu'une prestation
-de services n'est pas conforme à la réglementation en vigueur prise en
-application du présent livre, ils peuvent en ordonner la mise en conformité,
+Lorsqu'il est constaté qu'une prestation de services n'est pas conforme à la
+réglementation en vigueur prise en application du présent livre, les agents
+mentionnés au I de l'article L. 215-1 peuvent en ordonner la mise en conformité,
 dans un délai qu'ils fixent.
 
 Cette mise en conformité peut concerner les produits et équipements mis à

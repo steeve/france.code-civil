@@ -45,8 +45,8 @@ gestionnaire du réseau de distribution et les modalités de remboursement ou de
 compensation en cas d'erreur ou de retard de facturation ou lorsque les niveaux
 de qualité des services prévus dans le contrat ne sont pas atteints ;
 
-13° L'existence du droit de rétractation prévu aux articles L. 121-20 et L.
-121-25 du présent code ;
+13° L'existence du droit de rétractation prévu aux articles L. 121-21 et L.
+121-21-1 du présent code ;
 
 14° Les conditions et modalités de résiliation du contrat ;
 
@@ -67,6 +67,15 @@ Ces informations sont mises à la disposition du consommateur par écrit ou sur
 support durable préalablement à la conclusion du contrat. Le consommateur n'est
 engagé que par sa signature.
 
-Toutefois, il peut être dérogé aux obligations visées à l'alinéa précédent
-lorsqu'un consommateur qui emménage dans un site a expressément demandé à
-bénéficier immédiatement de la fourniture d'énergie.
+Par dérogation à l'alinéa précédent et au premier alinéa de l'article L.
+121-21-5, si le consommateur qui emménage dans un site sollicite un fournisseur
+et souhaite que l'exécution de son contrat conclu à distance commence avant la
+fin du délai de rétractation mentionné à l'article L. 121-21, le fournisseur
+recueille sa demande expresse, par tous moyens, et transmet le contrat au
+consommateur conformément à l'article L. 121-88 accompagné du formulaire de
+rétractation mentionné au 2° du I de l'article L. 121-17.
+
+Aucune somme n'est due par le consommateur en cas d'exercice de son droit de
+rétractation si sa demande expresse n'a pas été recueillie conformément à
+l'avant-dernier alinéa du présent article ou si le fournisseur n'a pas respecté
+l'obligation d'information prévue au 4° du I de l'article L. 121-17.

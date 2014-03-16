@@ -10,7 +10,7 @@ Outre les informations mentionnées à l'article L. 121-87, il comporte les
 déterminée ;
 
 2° Les modalités d'exercice du droit de rétractation prévu aux articles L.
-121-20 et L. 121-25 ;
+121-21 et L. 121-21-1 ;
 
 3° Les coordonnées du gestionnaire de réseau auquel est raccordé le client ;
 

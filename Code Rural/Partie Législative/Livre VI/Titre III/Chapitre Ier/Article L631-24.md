@@ -15,7 +15,8 @@ mentionnés au premier alinéa les produits qu'ils ont acceptés lors de la
 livraison ; cette interdiction ne s'applique pas en cas de non-conformité des
 produits à des normes légales ou réglementaires. Sauf stipulations contraires,
 ces contrats sont renouvelables par tacite reconduction pour une période
-équivalente à celle pour laquelle ils ont été conclus.
+équivalente à celle pour laquelle ils ont été conclus. Les trois premiers
+alinéas de l'article L. 441-8 du code de commerce leur sont applicables.
 
 Ils peuvent être rendus obligatoires :
 

@@ -77,23 +77,27 @@ m) L'acquittement des taxes dues par l'exploitant pour couvrir les coûts
 administratifs occasionnés par la mise en oeuvre des dispositions du présent
 livre, dans les conditions prévues par les lois de finances ;
 
-n) L'information, notamment sur les conditions contractuelles de fourniture du
-service, et la protection des utilisateurs. Ces règles incluent le droit, pour
-les utilisateurs professionnels qui le demandent à ce que le contrat qu'ils
-concluent avec un opérateur comporte les informations mentionnées à l'article L.
-121-83 du code de la consommation relatives aux prestations qu'ils ont
-souscrites ainsi que l'obligation, pour les fournisseurs, de mettre à
-disposition des utilisateurs les informations mentionnées à l'article L.
-121-83-1 du code de la consommation ;
+n) L'information des utilisateurs, dans la mesure où cette information est
+nécessaire à la mise en œuvre des dispositions du présent code ou des décisions
+prises en application de celui-ci ;
+
+n bis) Les informations devant figurer dans le contrat conclu avec un
+utilisateur professionnel, à la demande de ce dernier, et comprenant celles
+mentionnées à l'article L. 121-83 du code de la consommation relatives aux
+prestations qu'il a souscrites ;
+
+n ter) L'obligation de mettre à disposition des utilisateurs professionnels les
+informations mentionnées à l'article L. 121-83-1 du code de la consommation,
+selon les modalités prévues à ce même article ;
 
 o) Un accès des utilisateurs finals handicapés à des services de communications
 électroniques à un tarif abordable et aux services d'urgence, équivalent à celui
 dont bénéficie la majorité des utilisateurs finals.
 
 Un décret fixe les modalités d'application du présent article, notamment le
-contenu du dossier de déclaration et celui des informations visées à la deuxième
-phrase du n, et précise, en tant que de besoin, selon les différentes catégories
-de réseaux et de services, les règles mentionnées aux a à o.
+contenu du dossier de déclaration et celui des informations visées aux n bis et
+n ter, et précise, en tant que de besoin, selon les différentes catégories de
+réseaux et de services, les règles mentionnées aux a à o.
 
 II.-Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des
 communications électroniques supérieur à un seuil fixé par arrêté des ministres

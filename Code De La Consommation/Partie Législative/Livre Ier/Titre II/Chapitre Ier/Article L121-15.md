@@ -18,13 +18,10 @@ Moselle, du Bas-Rhin et du Haut-Rhin ;
 avec les dispositions de l'article L. 3132-29 du code du travail ;
 
 4° Sur une manifestation commerciale soumise à la déclaration prévue à l'article
-L. 740-2 du code de commerce et qui n'a pas fait l'objet de cette déclaration.
+L. 762-2 du code de commerce et qui n'a pas fait l'objet de cette déclaration.
 
-Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu
-des alinéas précédents est puni d'une amende de 37 500 euros. Le maximum de
-l'amende peut être porté à 50 % du montant des dépenses consacrées à la
-publicité illégale.
-
-Le tribunal peut ordonner la cessation de la publicité interdite aux frais des
-personnes reconnues coupables des infractions définies aux alinéas qui
-précèdent.
+Tout annonceur qui diffuse ou fait diffuser une publicité interdite en vertu du
+présent article est passible d'une amende administrative dont le montant ne peut
+excéder 15 000 € pour une personne physique et 75 000 € pour une personne
+morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2 du présent code.

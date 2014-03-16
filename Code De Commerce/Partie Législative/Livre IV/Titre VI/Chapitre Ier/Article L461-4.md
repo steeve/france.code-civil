@@ -5,7 +5,7 @@ rapporteur général nommé par arrêté du ministre chargé de l'économie apr�
 du collège.
 
 Ces services procèdent aux investigations nécessaires à l'application des titres
-II et III du présent livre.
+II, III et VI du présent livre.
 
 Les rapporteurs généraux adjoints, les rapporteurs permanents ou non permanents
 et les enquêteurs des services d'instruction sont nommés par le rapporteur

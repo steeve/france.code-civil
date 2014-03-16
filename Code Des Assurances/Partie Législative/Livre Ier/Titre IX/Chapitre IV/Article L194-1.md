@@ -1,10 +1,13 @@
 Article L194-1
 ----
 Les titres Ier, II et III du présent livre, à l'exception des articles L. 112-7,
-L. 112-8, L. 122-7, L. 125-1, à L. 125-6, L. 132-30 et L. 132-31, sont
-applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
-antérieurement à la promulgation de la loi n° 91-716 du 26 juillet 1991 portant
-diverses dispositions d'ordre économique et financier.
+L. 112-8, L. 112-10, L. 113-15-2, L. 122-7, L. 125-1 à L. 125-6, L. 132-30 et L.
+132-31, sont applicables dans les îles Wallis et Futuna dans leur rédaction en
+vigueur antérieurement à la promulgation de la loi n° 91-716 du 26 juillet 1991
+portant diverses dispositions d'ordre économique et financier.
+
+Les articles L. 112-10 et L. 113-15-2 sont applicables dans les îles Wallis et
+Futuna, à l'exception de l'avant-dernier alinéa de l'article L. 113-15-2.
 
 Les articles L. 122-7 et L. 125-1 à L. 125-6 sont applicables dans les îles
 Wallis et Futuna dans leur rédaction en vigueur le 1er juillet 2000, à

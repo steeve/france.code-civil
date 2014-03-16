@@ -2,8 +2,8 @@ Article L253-14
 ----
 Les agents mentionnés à l'article L. 215-1 du code de la consommation sont
 habilités à rechercher et constater les infractions au présent chapitre et aux
-textes pris pour son application, dans les conditions prévues aux chapitres II à
-IV du titre Ier du livre II du même code.
+textes pris pour son application, dans les conditions prévues au livre II du
+même code.
 
 Sont également habilités, pour procéder à la recherche et à la constatation des
 infractions aux dispositions relatives à la mise sur le marché et à
@@ -13,5 +13,4 @@ leurs fonctions ou attributions. Sous réserve de l'application des dispositions
 du code des douanes relatives à la recherche, à la constatation et à la
 poursuite des infractions douanières prévue au présent chapitre, ces agents
 devront se conformer aux procédures utilisées pour la mise en œuvre des
-dispositions prévues aux chapitres II à VI du titre Ier du livre II du code de
-la consommation.
+dispositions prévues au livre II du code de la consommation.

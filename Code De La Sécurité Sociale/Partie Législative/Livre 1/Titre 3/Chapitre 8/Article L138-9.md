@@ -19,9 +19,8 @@ hors taxes correspondant au tarif forfaitaire de responsabilité.
 
 Les infractions aux dispositions prévues au présent article sont passibles des
 sanctions pénales applicables aux infractions mentionnées à l'article L. 162-38.
-Les dispositions du titre VI de l'ordonnance n° 86-1243 du 1er décembre 1986
-relative à la liberté des prix et de la concurrence sont applicables à ces mêmes
-infractions.
+Ces infractions sont constatées et poursuivies dans les conditions prévues au
+titre V du livre IV du code de commerce.
 
 Toutefois, ce plafonnement ne s'applique pas pendant la durée de validité d'un
 accord de bonnes pratiques commerciales, agréé par le ministre chargé de la

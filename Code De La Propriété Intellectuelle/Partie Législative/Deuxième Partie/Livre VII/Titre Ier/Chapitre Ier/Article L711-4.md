@@ -13,7 +13,7 @@ l'esprit du public ;
 c) A un nom commercial ou à une enseigne connus sur l'ensemble du territoire
 national, s'il existe un risque de confusion dans l'esprit du public ;
 
-d) A une appellation d'origine protégée ;
+d) A une appellation d'origine protégée ou à une indication géographique ;
 
 e) Aux droits d'auteur ;
 

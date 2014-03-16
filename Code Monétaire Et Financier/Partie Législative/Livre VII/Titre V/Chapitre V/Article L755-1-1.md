@@ -1,11 +1,11 @@
 Article L755-1-1
 ----
-I. - Le chapitre Ier du titre Ier du livre V est applicable en Polynésie
+I.-Le chapitre Ier du titre Ier du livre V est applicable en Polynésie
 française, à l'exception des articles L. 511-12, L. 511-21 à L. 511-28 et des
 1°, 3° et 4° de l'article L. 511-34. Les articles L. 571-1 à L. 571-9 sont
 également applicables en Polynésie française.
 
-II. - 1. Pour son application en Polynésie française, l'article L. 511-46 est
+II.-1. Pour son application en Polynésie française, l'article L. 511-46 est
 ainsi rédigé :
 
 " Au sein des établissements de crédit et des sociétés de financement mentionnés
@@ -42,7 +42,7 @@ systèmes de gestion des risques.
 
 " Toutefois, sur décision de l'organe délibérant, cette mission peut être
 confiée à un comité distinct, régi par les dispositions des deuxième et neuvième
-alinéas."
+alinéas. "
 
 2. Pour l'application des articles L. 511-35 et L. 511-39, les références au
 code de commerce sont remplacées par les références aux dispositions applicables
@@ -70,5 +70,5 @@ l'article 80 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la
 cohésion sociale et bénéficiant à ce titre de garanties publiques " sont
 supprimés ;
 
-Le second alinéa de l'article L. 571-4 est applicable à l'office des postes et
+Le dernier alinéa de l'article L. 571-4 est applicable à l'office des postes et
 télécommunications.

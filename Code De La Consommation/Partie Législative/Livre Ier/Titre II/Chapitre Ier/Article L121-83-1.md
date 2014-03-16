@@ -2,11 +2,13 @@ Article L121-83-1
 ----
 Tout fournisseur de services de communications électroniques au sens du 6° de
 l'article L. 32 du code des postes et des communications électroniques met à la
-disposition des consommateurs et tient à jour dans ses points de vente et par un
-moyen téléphonique ou électronique accessible en temps réel à un tarif
-raisonnable les informations suivantes :
+disposition des consommateurs, sous une forme claire, comparable, actualisée et
+facilement accessible, et tient à jour dans ses points de vente et par un moyen
+téléphonique ou électronique accessible en temps réel à un tarif raisonnable les
+informations suivantes :
 
--les informations visées à l'article L. 121-83 du présent code ;
+-les informations visées aux articles L. 111-1, L. 121-83 et, le cas échéant, L.
+121-18 du présent code ;
 
 -les produits et services destinés aux consommateurs handicapés ;
 

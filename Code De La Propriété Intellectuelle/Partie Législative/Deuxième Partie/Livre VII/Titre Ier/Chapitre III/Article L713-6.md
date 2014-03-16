@@ -9,7 +9,12 @@ employant son nom patronymique ;
 
 b) Référence nécessaire pour indiquer la destination d'un produit ou d'un
 service, notamment en tant qu'accessoire ou pièce détachée, à condition qu'il
-n'y ait pas de confusion dans leur origine.
+n'y ait pas de confusion dans leur origine ;
+
+c) Indication géographique définie à l'article L. 721-2, sauf lorsque la marque,
+compte tenu de sa renommée, de sa notoriété et de la durée de son usage, est à
+l'origine exclusive de la réputation ou de la connaissance par le consommateur
+du produit pour lequel une indication géographique est demandée.
 
 Toutefois, si cette utilisation porte atteinte à ses droits, le titulaire de
 l'enregistrement peut demander qu'elle soit limitée ou interdite.

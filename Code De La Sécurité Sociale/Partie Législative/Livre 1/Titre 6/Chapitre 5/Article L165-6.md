@@ -23,9 +23,9 @@ aux conditions définies à l'alinéa précédent, un arrêté fixe, après avis
 comité économique des produits de santé, les obligations mentionnées à l'alinéa
 précédent s'imposant aux distributeurs.
 
-Les dispositions du titre VI de l'ordonnance n° 86-1243 du 1er décembre 1986
-relative à la liberté des prix et de la concurrence sont applicables aux
-infractions à cet arrêté.
+Les infractions à l'arrêté mentionné au troisième alinéa sont constatées et
+poursuivies dans les conditions prévues au titre V du livre IV du code de
+commerce.
 
 Les accords nationaux signés par les organismes nationaux d'assurance maladie et
 une ou plusieurs organisations nationales syndicales des distributeurs de

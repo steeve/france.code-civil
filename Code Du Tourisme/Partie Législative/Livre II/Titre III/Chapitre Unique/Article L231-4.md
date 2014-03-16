@@ -1,3 +1,4 @@
 Article L231-4
 ----
-Les conditions d'application du présent chapitre sont fixées par décret.
+L'exercice de l'activité de chauffeur de voiture de tourisme est subordonné à la
+délivrance d'une carte professionnelle par l'autorité administrative.

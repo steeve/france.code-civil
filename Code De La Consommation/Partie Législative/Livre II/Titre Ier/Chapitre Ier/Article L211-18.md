@@ -1,18 +1,9 @@
 Article L211-18
 ----
-Quelle que soit la loi applicable au contrat, l'acheteur qui a sa résidence
-habituelle dans un Etat membre de la Communauté européenne ne peut être privé de
-la protection que lui assurent les dispositions prises par cet Etat en
-application de la directive 1999/44/CE du Parlement européen et du Conseil du 25
-mai 1999 et qui ont un caractère impératif :
-
-- si le contrat a été conclu dans l'Etat du lieu de résidence habituelle de
-l'acheteur ;
-
-- ou si le contrat a été précédé dans cet Etat d'une offre spécialement faite ou
-d'une publicité et des actes accomplis par l'acheteur nécessaires à la
-conclusion dudit contrat ;
-
-- ou si le contrat a été conclu dans un Etat où l'acheteur s'est rendu à la
-suite d'une proposition de voyage ou de séjour faite, directement ou
-indirectement, par le vendeur pour l'inciter à contracter.
+Lorsque la loi qui régit le contrat est celle d'un Etat n'appartenant pas à
+l'Union européenne, le consommateur ne peut être privé de la protection que lui
+assurent les dispositions prises par un Etat membre de l'Union européenne en
+application de la directive 1999/44/CE du Parlement européen et du Conseil, du
+25 mai 1999, sur certains aspects de la vente et des garanties des biens de
+consommation et qui ont un caractère impératif lorsque le contrat présente un
+lien étroit avec le territoire de cet Etat membre.

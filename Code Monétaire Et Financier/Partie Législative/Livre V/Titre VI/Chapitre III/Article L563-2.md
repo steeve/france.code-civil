@@ -21,10 +21,13 @@ L'Autorité de régulation des jeux en ligne peut adresser aux opérateurs de je
 ou de paris en ligne non autorisés en vertu d'un droit exclusif ou de l'agrément
 mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à
 l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et
-de hasard en ligne, par tout moyen propre à établir la date d'envoi, une mise en
-demeure rappelant les sanctions encourues et les dispositions de l'alinéa
-suivant, enjoignant à ces opérateurs de respecter cette interdiction et les
-invitant à présenter leurs observations dans un délai de huit jours.
+de hasard en ligne et à toute personne proposant une quelconque offre de jeux
+d'argent et de hasard en ligne en contravention aux dispositions du titre II du
+livre III du code de la sécurité intérieure, par tout moyen propre à établir la
+date d'envoi, une mise en demeure rappelant les sanctions encourues et les
+dispositions de l'alinéa suivant, enjoignant à ces opérateurs de respecter cette
+interdiction et les invitant à présenter leurs observations dans un délai de
+huit jours.
 
 A l'issue de ce délai, en cas d'inexécution par l'opérateur intéressé de
 l'injonction de cesser son activité illicite d'offre de paris ou de jeux

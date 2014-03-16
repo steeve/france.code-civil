@@ -35,10 +35,9 @@ l'usure, le niveau et l'évolution des taux d'intérêt des prêts aux particuli
 Le comité examine également les modalités de financement des établissements de
 crédit et des sociétés de financement et analyse le niveau, l'évolution et les
 composantes de leurs marges. Outre le gouverneur de la Banque de France, le
-comité comprend un député, un sénateur et le directeur général du Trésor et de
-la politique économique. Il se réunit à l'initiative de son président au moins
-une fois par trimestre et pendant deux ans. Il établit un rapport annuel qui est
-remis au Parlement et au Gouvernement.
+comité comprend un député, un sénateur et le directeur général du Trésor. Il se
+réunit à l'initiative de son président au moins une fois par semestre. Il
+établit un rapport annuel qui est remis au Parlement et au Gouvernement.
 
 Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6
 ne sont pas applicables aux prêts accordés à une personne physique agissant pour

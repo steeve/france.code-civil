@@ -1,6 +1,9 @@
 Article L253-15
 ----
-Est puni de deux ans d'emprisonnement et de 75 000 € d'amende :
+Est puni de deux ans d'emprisonnement et d'une amende de 300 000 €, dont le
+montant peut être porté, de manière proportionnée aux avantages tirés du
+manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois
+derniers chiffres d'affaires annuels connus à la date des faits :
 
 1° Le fait de détenir en vue de la vente, d'offrir en vue de la vente ou de
 céder, sous toute autre forme, à titre gratuit ou onéreux, ainsi que le fait de

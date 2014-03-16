@@ -4,9 +4,8 @@ Lorsque le droit d'organiser des paris est consenti par une fédération sportiv
 ou par un organisateur de manifestations sportives mentionné au premier alinéa
 de l'article L. 331-5 à des opérateurs de paris en ligne, le projet de contrat
 devant lier ces derniers est, préalablement à sa signature, transmis pour avis à
-l'Autorité de régulation des jeux en ligne et à l'Autorité de la concurrence,
-qui se prononcent dans un délai de quinze jours à compter de la date de
-réception de ce document.
+l'Autorité de régulation des jeux en ligne qui se prononce dans un délai d'un
+mois à compter de la date de réception de ce document.
 
 L'organisateur de manifestations ou de compétitions sportives peut donner mandat
 à la fédération délégataire ou agréée concernée ou au comité mentionné à

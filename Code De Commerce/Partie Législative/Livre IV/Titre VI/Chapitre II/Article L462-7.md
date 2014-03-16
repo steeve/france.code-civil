@@ -12,6 +12,13 @@ Toutefois, la prescription est acquise en toute hypothèse lorsqu'un délai de d
 ans à compter de la cessation de la pratique anticoncurrentielle s'est écoulé
 sans que l'Autorité de la concurrence ait statué sur celle-ci.
 
+L'ouverture d'une procédure devant l'Autorité de la concurrence, une autorité
+nationale de concurrence d'un autre Etat membre de l'Union européenne ou la
+Commission européenne interrompt la prescription de l'action civile.
+L'interruption résultant de l'ouverture de cette procédure produit ses effets
+jusqu'à la date à laquelle la décision de ces autorités ou, en cas de recours,
+de la juridiction compétente est définitive.
+
 Le délai mentionné au troisième alinéa est suspendu jusqu'à la notification à
 l'Autorité de la concurrence d'une décision juridictionnelle irrévocable lorsque
 :

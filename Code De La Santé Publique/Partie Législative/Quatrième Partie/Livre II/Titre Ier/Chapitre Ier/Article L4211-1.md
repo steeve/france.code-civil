@@ -6,8 +6,7 @@ présent code :
 1° La préparation des médicaments destinés à l'usage de la médecine humaine ;
 
 2° La préparation des objets de pansements et de tous articles présentés comme
-conformes à la pharmacopée, la préparation des produits destinés à l'entretien
-ou l'application des lentilles oculaires de contact ;
+conformes à la pharmacopée ;
 
 3° La préparation des générateurs, trousses ou précurseurs mentionnés à
 l'article L. 5121-1 ;
@@ -30,7 +29,8 @@ premier âge, c'est-à-dire de moins de quatre mois, dont les caractéristiques
 sont fixées par arrêté des ministres chargés de la consommation et de la santé ;
 
 8° La vente au détail et toute dispensation de dispositifs médicaux de
-diagnostic in vitro destinés à être utilisés par le public.
+diagnostic in vitro destinés à être utilisés par le public, à l'exception des
+tests destinés au diagnostic de la grossesse ainsi que des tests d'ovulation.
 
 La fabrication et la vente en gros des drogues simples et des substances
 chimiques destinées à la pharmacie sont libres à condition que ces produits ne

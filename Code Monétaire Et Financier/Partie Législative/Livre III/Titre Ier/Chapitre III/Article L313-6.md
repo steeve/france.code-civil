@@ -61,7 +61,7 @@ Le fichier recense également les mesures prises en vertu des articles L. 331-7,
 L. 331-7-1 et L. 331-7-2 qui sont communiquées à la Banque de France par la
 commission ou le greffe du juge du tribunal d'instance lorsqu'elles sont
 soumises à son homologation.L'inscription est conservée pendant toute la durée
-d'exécution de ces mesures, sans pouvoir excéder huit ans.
+d'exécution de ces mesures, sans pouvoir excéder sept ans.
 
 Lorsque les mesures du plan conventionnel mentionnées à l'article L. 331-6 et
 celles prises en application des articles L. 331-7, L. 331-7-1 et L. 331-7-2
@@ -74,14 +74,14 @@ prescrits successivement, dans le cadre d'une révision ou d'un renouvellement d
 plan ou des mesures, un plan conventionnel mentionné à l'article L. 331-6 et des
 mesures prises en application des articles L. 331-7, L. 331-7-1 et L. 331-7-2,
 l'inscription est maintenue pendant la durée globale d'exécution du plan et des
-mesures sans pouvoir excéder huit ans.
+mesures sans pouvoir excéder sept ans.
 
 Pour les personnes ayant bénéficié de la procédure de rétablissement personnel,
 les informations relatives aux mentions correspondantes sont radiées à
 l'expiration d'une période de cinq ans à compter de la date d'homologation ou de
 clôture de la procédure. La même durée de cinq ans est applicable aux personnes
-physiques ayant fait l'objet d'une liquidation judiciaire en application de
-l'article L. 670-6 du code de commerce.
+physiques ayant fait l'objet d'une liquidation judiciaire en application de l'
+article L. 670-6 du code de commerce .
 
 IV.-La Banque de France est déliée du secret professionnel pour la diffusion,
 aux établissements et aux organismes visés au deuxième alinéa du I, des
@@ -98,8 +98,8 @@ visés au deuxième alinéa du I de remettre à quiconque copie des informations
 contenues dans le fichier, sous peine des sanctions prévues aux articles 226-21
 et 226-22 du code pénal. Cette interdiction ne s'applique pas aux intéressés,
 lesquels exercent leur droit d'accès aux informations les concernant contenues
-dans le fichier conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978
-précitée.
+dans le fichier conformément à l' article 39 de la loi n° 78-17 du 6 janvier
+1978 précitée .
 
 La collecte des informations contenues dans le fichier par des personnes autres
 que la Banque de France, les établissements et les organismes visés au deuxième

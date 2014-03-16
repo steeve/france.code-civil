@@ -6,7 +6,9 @@ l'agrément prévu à l'article L. 218-6.
 
 Est puni d'une peine de deux ans d'emprisonnement et de 15 000 euros d'amende le
 fait de ne pas exécuter les mesures ordonnées en application des dispositions du
-présent chapitre.
+présent chapitre. Le montant de l'amende peut être porté à 30 000 € lorsque les
+produits ou services concernés par ces mesures présentent ou sont susceptibles
+de présenter un danger pour la santé publique ou la sécurité des consommateurs.
 
 Les infractions faisant l'objet des sanctions prévues au présent article sont
 constatées par les agents mentionnés à l'article L. 215-1 dans les conditions

@@ -18,8 +18,8 @@ contact ;
 
 6° Les produits de tatouage.
 
-A cet effet, ils disposent des pouvoirs prévus au titre Ier du livre II du code
-de la consommation.
+A cet effet, ils disposent des pouvoirs prévus au livre II du code de la
+consommation.
 
 Ces agents peuvent communiquer à l'Agence nationale de sécurité du médicament et
 des produits de santé les informations et documents recueillis dans les

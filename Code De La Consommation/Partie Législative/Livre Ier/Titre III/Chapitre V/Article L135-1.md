@@ -1,7 +1,8 @@
 Article L135-1
 ----
-Nonobstant toute stipulation contraire, les dispositions de l'article L. 132-1
-sont applicables lorsque la loi qui régit le contrat est celle d'un Etat
-n'appartenant pas à l'Union européenne, que le consommateur ou le
-non-professionnel a son domicile sur le territoire de l'un des Etats membres de
-l'Union européenne et que le contrat y est proposé, conclu ou exécuté.
+Nonobstant toute stipulation contraire, le consommateur ne peut être privé de la
+protection que lui assurent les dispositions prises par un Etat membre de
+l'Union européenne en application de la directive 93/13/CEE du Conseil, du 5
+avril 1993, concernant les clauses abusives dans les contrats conclus avec les
+consommateurs lorsque le contrat présente un lien étroit avec le territoire d'un
+Etat membre.

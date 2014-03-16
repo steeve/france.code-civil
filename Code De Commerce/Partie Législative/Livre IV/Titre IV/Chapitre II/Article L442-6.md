@@ -13,8 +13,10 @@ opération d'animation commerciale, d'une acquisition ou d'un investissement, en
 particulier dans le cadre de la rénovation de magasins ou encore du
 rapprochement d'enseignes ou de centrales de référencement ou d'achat. Un tel
 avantage peut également consister en une globalisation artificielle des chiffres
-d'affaires ou en une demande d'alignement sur les conditions commerciales
-obtenues par d'autres clients ;
+d'affaires, en une demande d'alignement sur les conditions commerciales obtenues
+par d'autres clients ou en une demande supplémentaire, en cours d'exécution du
+contrat, visant à maintenir ou accroître abusivement ses marges ou sa
+rentabilité ;
 
 2° De soumettre ou de tenter de soumettre un partenaire commercial à des
 obligations créant un déséquilibre significatif dans les droits et obligations
@@ -54,13 +56,7 @@ de revente hors réseau faite au distributeur lié par un accord de distribution
 sélective ou exclusive exempté au titre des règles applicables du droit de la
 concurrence ;
 
-7° De soumettre un partenaire à des conditions de règlement qui ne respectent
-pas le plafond fixé au neuvième alinéa de l'article L. 441-6 ou qui sont
-manifestement abusives, compte tenu des bonnes pratiques et usages commerciaux,
-et s'écartent au détriment du créancier, sans raison objective, du délai indiqué
-au huitième alinéa de l'article L. 441-6. Est notamment abusif le fait, pour le
-débiteur, de demander au créancier, sans raison objective, de différer la date
-d'émission de la facture ;
+7° (Abrogé) ;
 
 8° De procéder au refus ou retour de marchandises ou de déduire d'office du
 montant de la facture établie par le fournisseur les pénalités ou rabais
@@ -82,12 +78,13 @@ conformément à l'article L. 112-6 du code de la consommation ;
 sans respecter les règles définies aux II et III de l'article L. 441-2 du
 présent code ;
 
-12° De ne pas joindre aux fruits et légumes frais destinés à la vente ou à la
-revente à un professionnel établi en France, lors de leur transport sur le
-territoire national, le document prévu à l'article L. 441-3-1 ;
-
-13° De bénéficier de remises, rabais et ristournes à l'occasion de l'achat de
-fruits et légumes frais en méconnaissance de l'article L. 441-2-2.
+12° De passer, de régler ou de facturer une commande de produits ou de
+prestations de services à un prix différent du prix convenu résultant de
+l'application du barème des prix unitaires mentionné dans les conditions
+générales de vente, lorsque celles-ci ont été acceptées sans négociation par
+l'acheteur, ou du prix convenu à l'issue de la négociation commerciale faisant
+l'objet de la convention prévue à l'article L. 441-7, modifiée le cas échéant
+par avenant, ou de la renégociation prévue à l'article L. 441-8.
 
 II.-Sont nuls les clauses ou contrats prévoyant pour un producteur, un
 commerçant, un industriel ou une personne immatriculée au répertoire des
@@ -148,16 +145,6 @@ La juridiction peut ordonner l'exécution de sa décision sous astreinte.
 
 Les litiges relatifs à l'application du présent article sont attribués aux
 juridictions dont le siège et le ressort sont fixés par décret.
-
-Ces juridictions peuvent consulter la Commission d'examen des pratiques
-commerciales prévue à l'article L. 440-1 sur les pratiques définies au présent
-article et relevées dans les affaires dont celles-ci sont saisies. La décision
-de saisir la commission n'est pas susceptible de recours. La commission fait
-connaître son avis dans un délai maximum de quatre mois à compter de sa saisine.
-Il est sursis à toute décision sur le fond de l'affaire jusqu'à réception de
-l'avis ou, à défaut, jusqu'à l'expiration du délai de quatre mois susmentionné.
-Toutefois, des mesures urgentes ou conservatoires nécessaires peuvent être
-prises.L'avis rendu ne lie pas la juridiction.
 
 IV.-Le juge des référés peut ordonner, au besoin sous astreinte, la cessation
 des pratiques abusives ou toute autre mesure provisoire.

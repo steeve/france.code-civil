@@ -80,9 +80,10 @@ l'interopérabilité des services au niveau européen ;
 11° A l'utilisation et à la gestion efficaces des fréquences radioélectriques et
 des ressources de numérotation ;
 
-12° A un niveau élevé de protection des consommateurs, grâce notamment à la
-fourniture d'informations claires, notamment par la transparence des tarifs et
-des conditions d'utilisation des services de communications électroniques
+12° A un niveau élevé de protection des consommateurs, conjointement avec le
+ministre chargé de la consommation, grâce notamment à la fourniture
+d'informations claires, notamment par la transparence des tarifs et des
+conditions d'utilisation des services de communications électroniques
 accessibles au public ;
 
 12° bis. ― A un niveau élevé de protection de l'environnement et de la santé de

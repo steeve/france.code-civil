@@ -1,6 +1,6 @@
 Article L237-3
 ----
-I.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
+I.-Est puni de deux ans d'emprisonnement et de 300 000 € d'amende :
 
 1° Le fait d'introduire sur le territoire métropolitain ou en Guadeloupe, en
 Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy ou à
@@ -28,9 +28,14 @@ en mesure de présenter aux agents chargés des contrôles prévus à l'article 
 5° Le fait de ne pas respecter les prescriptions édictées en application de
 l'article L. 236-9.
 
-Les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende
+Les peines sont portées à cinq ans d'emprisonnement et à 600 000 euros d'amende
 lorsque les infractions définies aux précédents alinéas ont entraîné des
 atteintes graves pour la santé humaine ou animale.
+
+Les amendes prononcées en application du présent I peuvent être portées, de
+manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre
+d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires
+annuels connus à la date des faits.
 
 II.-Les personnes physiques encourent également les peines complémentaires
 suivantes :
