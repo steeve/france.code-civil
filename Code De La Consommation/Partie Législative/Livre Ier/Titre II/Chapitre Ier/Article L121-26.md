@@ -1,23 +1,14 @@
 Article L121-26
 ----
-Avant l'expiration du délai de réflexion prévu à l'article L. 121-25, nul ne
-peut exiger ou obtenir du client, directement ou indirectement, à quelque titre
-ni sous quelque forme que ce soit une contrepartie quelconque ni aucun
-engagement ni effectuer des prestations de services de quelque nature que ce
-soit.
+La présente section régit la fourniture de services financiers à un consommateur
+dans le cadre d'un système de vente ou de prestation de services à distance
+organisé par le fournisseur ou par un intermédiaire qui, pour ce contrat,
+utilise exclusivement une ou plusieurs techniques de communication à distance
+jusqu'à, et y compris, la conclusion du contrat.
 
-Toutefois, la souscription à domicile d'abonnement à une publication quotidienne
-et assimilée, au sens de l'article 39 bis du code général des impôts, n'est pas
-soumise aux dispositions de l'alinéa précédent dès lors que le consommateur
-dispose d'un droit de résiliation permanent, sans frais ni indemnité, assorti du
-remboursement, dans un délai de quinze jours, des sommes versées au prorata de
-la durée de l'abonnement restant à courir.
-
-En outre, les engagements ou ordres de paiement ne doivent pas être exécutés
-avant l'expiration du délai prévu à l'article L. 121-25 et doivent être
-retournés au consommateur dans les quinze jours qui suivent sa rétractation.
-
-Les dispositions du deuxième alinéa s'appliquent aux souscriptions à domicile
-proposées par les associations et entreprises agréées par l'Etat ayant pour
-objet la fourniture de services mentionnés à l'article L. 7231-1 du code du
-travail sous forme d'abonnement.
+Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du
+livre V du code monétaire et financier ainsi qu'aux opérations pratiquées par
+les entreprises régies par le code des assurances, par les mutuelles et unions
+régies par le livre II du code de la mutualité et par les institutions de
+prévoyance et unions régies par le titre III du livre IX du code de la sécurité
+sociale sans préjudice des dispositions spécifiques prévues par ces codes.

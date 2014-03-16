@@ -1,12 +1,26 @@
 Article L121-21
 ----
-Est soumis aux dispositions de la présente section quiconque pratique ou fait
-pratiquer le démarchage, au domicile d'une personne physique, à sa résidence ou
-à son lieu de travail, même à sa demande, afin de lui proposer l'achat, la
-vente, la location, la location-vente ou la location avec option d'achat de
-biens ou la fourniture de services.
+Le consommateur dispose d'un délai de quatorze jours pour exercer son droit de
+rétractation d'un contrat conclu à distance, à la suite d'un démarchage
+téléphonique ou hors établissement, sans avoir à motiver sa décision ni à
+supporter d'autres coûts que ceux prévus aux articles L. 121-21-3 à L. 121-21-5.
+Toute clause par laquelle le consommateur abandonne son droit de rétractation
+est nulle.
 
-Est également soumis aux dispositions de la présente section le démarchage dans
-les lieux non destinés à la commercialisation du bien ou du service proposé et
-notamment l'organisation par un commerçant ou à son profit de réunions ou
-d'excursions afin de réaliser les opérations définies à l'alinéa précédent.
+Le délai mentionné au premier alinéa du présent article court à compter du jour
+:
+
+1° De la conclusion du contrat, pour les contrats de prestation de services et
+ceux mentionnés à l'article L. 121-16-2 ;
+
+2° De la réception du bien par le consommateur ou un tiers, autre que le
+transporteur, désigné par lui, pour les contrats de vente de biens et les
+contrats de prestation de services incluant la livraison de biens.
+
+Dans le cas d'une commande portant sur plusieurs biens livrés séparément ou dans
+le cas d'une commande d'un bien composé de lots ou de pièces multiples dont la
+livraison est échelonnée sur une période définie, le délai court à compter de la
+réception du dernier bien ou lot ou de la dernière pièce.
+
+Pour les contrats prévoyant la livraison régulière de biens pendant une période
+définie, le délai court à compter de la réception du premier bien.

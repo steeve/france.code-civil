@@ -2,10 +2,10 @@ Article L113-3
 ----
 Tout vendeur de produit ou tout prestataire de services doit, par voie de
 marquage, d'étiquetage, d'affichage ou par tout autre procédé approprié,
-informer le consommateur sur les prix, les limitations éventuelles de la
-responsabilité contractuelle et les conditions particulières de la vente, selon
-des modalités fixées par arrêtés du ministre chargé de l'économie, après
-consultation du Conseil national de la consommation.
+informer le consommateur sur les prix et les conditions particulières de la
+vente et de l'exécution des services, selon des modalités fixées par arrêtés du
+ministre chargé de l'économie, après consultation du Conseil national de la
+consommation.
 
 Dans les collectivités relevant de l'article 73 de la Constitution et dans les
 collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin, de

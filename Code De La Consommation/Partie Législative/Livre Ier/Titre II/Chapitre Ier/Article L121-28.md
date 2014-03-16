@@ -1,16 +1,23 @@
 Article L121-28
 ----
-Toute infraction aux dispositions des articles L. 121-23, L. 121-24, L. 121-25
-et L. 121-26 sera punie d'une peine d'emprisonnement d'un an et d'une amende de
-3 750 euros ou de l'une de ces deux peines seulement.
+Le consommateur reçoit, par écrit ou sur un autre support durable à sa
+disposition et auquel il a accès en temps utile et avant tout engagement, les
+conditions contractuelles ainsi que les informations mentionnées à l'article L.
+121-27. Elles sont fournies au consommateur conformément aux dispositions
+législatives et réglementaires spécifiques à chaque produit, instrument
+financier ou service proposé.
 
-Les personnes physiques déclarées coupables encourent également à titre de
-peines complémentaires l'interdiction, suivant les modalités prévues par
-l'article 131-27 du code pénal, soit d'exercer une fonction publique ou
-d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion
-de l'exercice de laquelle l'infraction a été commise, soit d'exercer une
-profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou
-de contrôler à un titre quelconque, directement ou indirectement, pour leur
-propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent
-être prononcées cumulativement.
+Le fournisseur exécute ses obligations de communication immédiatement après la
+conclusion du contrat, lorsque celui-ci a été conclu à la demande du
+consommateur en utilisant une technique de communication à distance ne
+permettant pas la transmission des informations précontractuelles et
+contractuelles sur un support papier ou sur un autre support durable. Dans ce
+cas et lorsque le contrat porte sur une opération mentionnée au premier alinéa
+de l'article L. 311-42, le fournisseur n'est tenu de communiquer au consommateur
+que les seules informations contractuelles.
+
+A tout moment au cours de la relation contractuelle, le consommateur a le droit,
+s'il en fait la demande, de recevoir les conditions contractuelles sur un
+support papier. En outre, le consommateur a le droit de changer les techniques
+de communication à distance utilisées, à moins que cela ne soit incompatible
+avec le contrat à distance conclu ou avec la nature du service financier fourni.

@@ -1,19 +1,6 @@
 Article L121-22
 ----
-Ne sont pas soumises aux dispositions des articles L. 121-23 à L. 121-29 les
-activités pour lesquelles le démarchage fait l'objet d'une réglementation par un
-texte législatif particulier.
-
-Ne sont pas soumis aux dispositions des articles L. 121-23 à L. 121-28 :
-
-1° Les ventes à domicile de denrées ou de produits de consommation courante
-faites par des professionnels ou leurs préposés au cours de tournées fréquentes
-ou périodiques dans l'agglomération où est installé leur établissement ou dans
-son voisinage ;
-
-2° et 3° (paragraphes abrogés).
-
-4° Les ventes, locations ou locations-ventes de biens ou les prestations de
-services lorsqu'elles ont un rapport direct avec les activités exercées dans le
-cadre d'une exploitation agricole, industrielle, commerciale ou artisanale ou de
-toute autre profession.
+Tout manquement aux articles L. 121-18, L. 121-19 à L. 121-19-3 et L. 121-20 est
+passible d'une amende administrative dont le montant ne peut excéder 3 000 €
+pour une personne physique et 15 000 € pour une personne morale. L'amende est
+prononcée dans les conditions prévues à l'article L. 141-1-2.

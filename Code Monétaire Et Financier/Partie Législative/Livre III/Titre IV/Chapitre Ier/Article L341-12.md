@@ -31,7 +31,7 @@ vérifier ce dernier, les modalités selon lesquelles sera conclu le contrat, en
 particulier le lieu et la date de signature de celui-ci ;
 
 6° L'existence ou l'absence du droit de rétractation, prévu selon les cas, à
-l'article L. 121-20-15 du code de la consommation ou à l'article L. 341-16 du
+l'article L. 121-29 du code de la consommation ou à l'article L. 341-16 du
 présent code, ainsi que ses modalités d'exercice ;
 
 7° La loi applicable aux relations précontractuelles ainsi qu'au contrat, et

@@ -1,17 +1,15 @@
 Article L121-20
 ----
-Le consommateur dispose d'un délai de sept jours francs pour exercer son droit
-de rétractation sans avoir à justifier de motifs ni à payer de pénalités, à
-l'exception, le cas échéant, des frais de retour.
+Sans préjudice de l'article L. 121-19-1, le professionnel qui contacte un
+consommateur par téléphone en vue de conclure ou de modifier un contrat portant
+sur la vente d'un bien ou sur la fourniture d'un service indique au début de la
+conversation son identité, le cas échéant l'identité de la personne pour le
+compte de laquelle il effectue cet appel et la nature commerciale de celui-ci.
 
-Le délai mentionné à l'alinéa précédent court à compter de la réception pour les
-biens ou de l'acceptation de l'offre pour les prestations de services.
+A la suite d'un démarchage par téléphone, le professionnel adresse au
+consommateur, sur papier ou sur support durable, une confirmation de l'offre
+qu'il a faite et reprenant toutes les informations mentionnées au I de l'article
+L. 121-17.
 
-Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies,
-le délai d'exercice du droit de rétractation est porté à trois mois. Toutefois,
-lorsque la fourniture de ces informations intervient dans les trois mois à
-compter de la réception des biens ou de l'acceptation de l'offre, elle fait
-courir le délai de sept jours mentionné au premier alinéa.
-
-Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou
-chômé, il est prorogé jusqu'au premier jour ouvrable suivant.
+Le consommateur n'est engagé par cette offre qu'après l'avoir signée et acceptée
+par écrit ou avoir donné son consentement par voie électronique.

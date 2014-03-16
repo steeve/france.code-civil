@@ -25,8 +25,8 @@ de l'article L. 211-18 peuvent réaliser sous forme électronique les opération
 mentionnées au I du présent article dans les conditions prévues par le présent
 chapitre et par les articles 1369-4 à 1369-6 du code civil, L. 121-15-1 à L.
 121-15-3 du code de la consommation et la section 2 du chapitre Ier du titre II
-du livre Ier du même code, à l'exception des dispositions prévues à
-l'avant-dernier alinéa de l'article L. 121-20-3.
+du livre Ier du même code, à l'exception des dispositions prévues au premier
+alinéa de l'article L. 121-19-4.
 
 III.-Les organismes locaux de tourisme bénéficiant du soutien de l'Etat, des
 collectivités territoriales ou de leurs groupements peuvent se livrer ou
