@@ -7,8 +7,8 @@ indemnité :
 du contrat de crédit par l'emprunteur, informé le vendeur de l'attribution du
 crédit ;
 
-2° Ou si l'emprunteur a, dans ce même délai de sept jours, exercé son droit de
-rétractation.
+2° Ou si l'emprunteur a exercé son droit de rétractation dans le délai prévu à
+l'article L. 311-12.
 
 Toutefois, lorsque l'emprunteur, par une demande expresse, sollicite la
 livraison ou la fourniture immédiate du bien ou de la prestation de services,

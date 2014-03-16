@@ -1,8 +1,48 @@
 Article L121-29
 ----
-Les dispositions du chapitre VIII du titre II du livre 1er du code de commerce
-sont applicables aux personnes qui effectuent des opérations de vente à
-domicile.
+I.-Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour
+exercer son droit de rétractation, sans avoir à justifier de motif ni à
+supporter de pénalités.
 
-L'entreprise est civilement responsable des démarcheurs, même indépendants, qui
-agissent pour son compte.
+Le délai pendant lequel peut s'exercer le droit de rétractation court à compter
+du jour où :
+
+1° Le contrat à distance est conclu ;
+
+2° Le consommateur reçoit les conditions contractuelles et les informations,
+conformément à l'article L. 121-28, si cette dernière date est postérieure à
+celle mentionnée au 1° du présent I.
+
+II.-Le droit de rétractation ne s'applique pas :
+
+1° A la fourniture d'instruments financiers mentionnés à l'article L. 211-1 du
+code monétaire et financier ainsi qu'aux services de réception-transmission et
+exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1 du
+même code ;
+
+2° Aux contrats exécutés intégralement par les deux parties à la demande
+expresse du consommateur avant que ce dernier n'exerce son droit de rétractation
+;
+
+3° Aux contrats de crédit immobilier définis à l'article L. 312-2 du présent
+code ;
+
+4° Aux contrats de prêts viagers hypothécaires définis à l'article L. 314-1.
+
+III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article L.
+121-60.
+
+IV.-Pour les contrats de crédit affecté définis au 9° de l'article L. 311-1
+conclus selon une technique de communication à distance, le délai de
+rétractation de quatorze jours ne peut pas être réduit.
+
+L'exercice du droit de rétractation emporte résolution de plein droit du contrat
+de vente ou de prestation de services.
+
+Si le bien ou la prestation de services à financer ne sont pas vendus à distance
+et que le consommateur, par une demande expresse, sollicite la livraison ou la
+fourniture immédiate du bien ou du service, l'exercice du droit de rétractation
+n'emporte résolution de plein droit du contrat de vente ou de prestation de
+services que s'il intervient dans un délai de trois jours à compter de la
+conclusion du contrat de crédit. Toute livraison ou fourniture anticipée est à
+la charge du vendeur, qui en supporte tous les risques.
