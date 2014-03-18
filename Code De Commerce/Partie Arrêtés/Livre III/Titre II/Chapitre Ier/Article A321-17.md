@@ -9,7 +9,10 @@ jury destinée à apprécier la culture générale du candidat ; la note est aff
 d'un coefficient 4 ; 2° Une interrogation d'une durée de quinze minutes portant
 sur une matière juridique autre que celle qui a été traitée à l'écrit par le
 candidat ainsi que sur des matières économiques et comptables ; la note est
-affectée d'un coefficient 3 ; 3° Une interrogation d'une durée de quinze minutes
-portant sur une langue vivante étrangère choisie par le candidat lors du dépôt
-de son dossier parmi la liste figurant à l'annexe 3-4 au présent livre ; la note
-est affectée d'un coefficient 1.
+affectée d'un coefficient 3 ; 3° Une épreuve d'anglais consistant en une
+interrogation d'une durée de quinze minutes ; la note est affectée d'un
+coefficient 1 ;
+
+4° Une interrogation facultative, d'une durée de quinze minutes, portant sur la
+langue vivante étrangère choisie par le candidat lors du dépôt de son dossier ;
+la note est affectée d'un coefficient 1.
