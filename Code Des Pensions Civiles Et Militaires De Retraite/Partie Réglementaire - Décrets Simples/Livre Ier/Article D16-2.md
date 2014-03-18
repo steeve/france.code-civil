@@ -2,13 +2,11 @@ Article D16-2
 ----
 I. ― Pour l'application de la condition de durée d'assurance ayant donné lieu à
 cotisations à la charge des fonctionnaires définie à l'article D. 16-1, sont
-réputées avoir donné lieu à cotisations :
-
-1° Les périodes de service national, à raison d'un trimestre par période d'au
-moins quatre-vingt-dix jours, consécutifs ou non dans la limite de quatre
-trimestres. Lorsque la période couvre deux années civiles, elle peut être
-affectée à l'une ou l'autre de ces années, la solution la plus favorable étant
-retenue ;
+réputées avoir donné lieu à cotisations : 1° Les périodes de service national, à
+raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs
+ou non dans la limite de quatre trimestres. Lorsque la période couvre deux
+années civiles, elle peut être affectée à l'une ou l'autre de ces années, la
+solution la plus favorable étant retenue ;
 
 2° Les périodes pendant lesquelles les fonctionnaires ont été placés en congé de
 maladie statutaire dans la limite de quatre trimestres.
@@ -26,16 +24,26 @@ régimes obligatoires de base sont pris en compte dans les limites suivantes :
 1° Les trimestres réputés cotisés au titre du service national ne peuvent
 excéder quatre trimestres ;
 
-2° Les trimestres réputés cotisés au titres des périodes pendant lesquelles les
-fonctionnaires ont été placés en congé de maladie statutaire et des périodes
-réputées cotisées dans un ou plusieurs autres régimes obligatoires au titre de
-la maladie, de la maternité et de l'inaptitude temporaire ne peuvent excéder au
-total six trimestres, sans que le nombre total de trimestres réputés cotisés au
-titre de la maladie et de l'inaptitude temporaire ne puisse excéder quatre
+2° Les trimestres réputés cotisés au titre des périodes pendant lesquelles les
+fonctionnaires ont été placés en congé de maladie statutaire et les trimestres
+réputés cotisés dans un ou plusieurs autres régimes obligatoires au titre de la
+maladie et de l'inaptitude temporaire ne peuvent excéder au total quatre
 trimestres ;
 
-3° Les trimestres réputés cotisés au titre des périodes comptées comme périodes
-d'assurance au titre du chômage ne peuvent excéder deux trimestres.
+3° Les trimestres réputés cotisés dans un ou plusieurs autres régimes
+obligatoires de base au titre de la maternité sont intégralement pris en compte
+;
+
+4° Les trimestres réputés cotisés dans un ou plusieurs autres régimes
+obligatoires de base au titre de l'invalidité ne peuvent excéder deux trimestres
+;
+
+5° Les trimestres de majoration de durée d'assurance acquis au titre de
+l'article L. 351-6-1 du code de la sécurité sociale sont intégralement pris en
+compte ;
+
+6° Les trimestres réputés cotisés au titre des périodes comptées comme périodes
+d'assurance au titre du chômage ne peuvent excéder quatre trimestres.
 
 III. ― Pour l'application de la condition de durée d'assurance ayant donné lieu
 à cotisations à la charge des fonctionnaires, il est retenu un nombre de
