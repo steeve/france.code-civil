@@ -18,6 +18,12 @@ soumis à réception ainsi que les conditions particulières auxquelles sont sou
 les différents éléments de véhicule pour assurer la conformité des véhicules
 formés à partir d'éléments avec les dispositions du présent code.
 
+Toutefois, tout véhicule carrossé individuellement peut être mis en circulation
+après un contrôle de conformité initial effectué par un opérateur qualifié. Les
+catégories de véhicules soumis à ce contrôle, les modalités de ce contrôle et
+les conditions de désignation des opérateurs qualifiés sont fixées par arrêté du
+ministre chargé des transports.
+
 Le ministre chargé des transports fixe la liste des matériels de travaux
 publics, appelés à être employés normalement sur les routes, qui doivent faire
 l'objet d'une réception.
