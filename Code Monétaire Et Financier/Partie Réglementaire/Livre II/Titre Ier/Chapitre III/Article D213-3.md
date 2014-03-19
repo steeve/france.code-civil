@@ -15,14 +15,16 @@ l'Espace économique européen ;
 3° Les émetteurs dont des titres sont admis aux négociations sur un marché
 réglementé de l'Espace économique européen ;
 
-4° Les autres émetteurs bénéficiant d'un visa de l'Autorité des marchés
-financiers portant sur leur programme d'émission à la date d'entrée en vigueur
-de cette obligation, à condition de communiquer à la Banque de France les mises
-à jour périodiques de leur situation trimestrielle de trésorerie et de leur
-rapport semestriel sur leur activité et leur résultat.
-
-Les émetteurs mentionnés au 4° bénéficient de cette exemption pour une durée
-d'un an à compter de l'entrée en vigueur de cette obligation.
+4° Les organismes de titrisation qui émettent des titres de créance conférant
+tous des droits de même rang. Ces titres sont intégralement adossés à des
+créances éligibles de manière non temporaire au refinancement octroyé par
+l'Eurosystème dans le cadre de sa politique monétaire, à l'exclusion de tout
+critère de montant nominal minimum. Lorsqu'un organisme de titrisation comporte
+plusieurs compartiments, l'ensemble des compartiments est soumis aux critères
+précédemment définis, l'absence de subordination des droits entre les titres
+émis étant appréciée au sein de chaque compartiment. Ces organismes figurent sur
+une liste fixée par arrêté du ministre chargé de l'économie, sur avis conforme
+de la Banque de France.
 
 L'ensemble des émetteurs informent la Banque de France, deux semaines au moins
 avant leur première émission, de leur intention d'entrer sur ce marché, par
