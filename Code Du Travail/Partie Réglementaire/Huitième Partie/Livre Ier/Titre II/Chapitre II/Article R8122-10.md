@@ -1,28 +1,26 @@
 Article R8122-10
 ----
-Dans le cadre des directives du directeur général du travail, le directeur
-régional des entreprises, de la concurrence, de la consommation, du travail et
-de l'emploi :
+I. - Dans chaque unité de contrôle mentionnée au 1° de l'article R. 8122-3,
+l'agent de contrôle de l'inspection du travail exerce ses missions sur le
+territoire d'une section. Il peut, lorsqu'une action le rend nécessaire,
+intervenir sur le reste du territoire de l'unité territoriale à laquelle est
+rattachée l'unité de contrôle où il est affecté.
 
-1° Met en œuvre au plan régional la politique définie par les pouvoirs publics
-afin d'améliorer les relations collectives et individuelles et les conditions de
-travail dans les entreprises ;
+II. - Dans chaque unité de contrôle mentionnée au 2° de l'article R. 8122-3,
+l'agent de contrôle de l'inspection du travail exerce ses missions sur le
+territoire d'une section. Il peut, lorsqu'une action le rend nécessaire,
+intervenir sur le territoire de son unité de contrôle et sur celui de l'unité
+territoriale de la direction régionale des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi à laquelle cette unité de contrôle est
+rattachée.
 
-2° Définit les orientations générales des actions d'inspection de la législation
-du travail, qu'il organise, coordonne, suit et évalue ;
+III. - Dans chaque unité de contrôle mentionnée au 4° de l'article R. 8122-3,
+l'agent de contrôle de l'inspection du travail exerce ses missions sur le
+territoire d'une section. Il peut, lorsqu'une action le rend nécessaire,
+intervenir sur le territoire de son unité de contrôle et sur celui de la
+direction régionale des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi à laquelle cette unité de contrôle est rattachée.
 
-3° Coordonne l'action de ses services avec les autres services de l'Etat et les
-organismes chargés de la prévention ou du contrôle, en matière d'inspection de
-la législation du travail, de prévention des risques professionnels et
-d'amélioration des conditions de travail. A ce titre, il est tenu informé par
-l'Agence nationale pour l'amélioration des conditions de travail de ses
-interventions dans la région ;
-
-4° Assure le suivi de la négociation collective dans les entreprises et au
-niveau territorial ;
-
-5° Est chargé des relations avec les autorités judiciaires, sous réserve des
-attributions confiées par la loi aux inspecteurs du travail ;
-
-6° Exerce les pouvoirs propres qui lui sont conférés par les dispositions en
-vigueur ou sur le fondement de telles dispositions.
+IV. - Toutefois, l'inspecteur du travail est seul habilité à prendre, dans la
+section où il exerce ses missions, les décisions qui relèvent de sa compétence
+exclusive en vertu de dispositions législatives ou réglementaires.

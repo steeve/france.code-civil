@@ -1,16 +1,16 @@
 Article R8122-9
 ----
-Le nombre de sections d'inspection est fixé par arrêté du ministre chargé du
-travail, ainsi que leur localisation et leur délimitation dans le cas où leur
-champ de compétence excède la région. Dans les limites de sa circonscription
-territoriale, le directeur régional du travail, de l'emploi et de la formation
-professionnelle décide de la localisation et de la délimitation des sections
-d'inspection.
+Afin d'opérer un contrôle sectoriel ou thématique ou de prévenir un risque
+particulier, le directeur régional des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi peut :
 
-Dans chaque département, une section est chargée du contrôle des professions
-agricoles telles que définies par l'article L. 717-1 du code rural, sauf
-exception prévue par arrêté des ministres chargés de l'agriculture et du
-travail. Le directeur régional du travail, de l'emploi et de la formation
-professionnelle peut, par référence à la nomenclature d'activités française,
-modifier le champ de compétence de la section agricole tel qu'il résulte de
-l'application de l'article L. 717-1 du code rural
+1° Soit désigner au sein des unités de contrôle des agents disposant de
+compétences particulières pour assurer dans la région un appui aux unités de
+contrôle infra-départementales, départementales ou interdépartementales ou de
+mener une action régionale ;
+
+2° Soit proposer la création d'une unité de contrôle régionale chargée d'opérer
+ce contrôle sectoriel ou thématique ou de prévenir ce risque particulier. Cette
+unité, rattachée au pôle "politique du travail" de la direction régionale des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi,
+est créée par arrêté du ministre chargé du travail.

@@ -1,16 +1,16 @@
 Article R8122-4
 ----
-Le nombre de sections d'inspection est fixé par arrêté du ministre chargé du
-travail, ainsi que leur localisation et leur délimitation dans le cas où leur
-champ de compétence excède la région. Dans les limites de sa circonscription
-territoriale, le directeur régional des entreprises, de la concurrence, de la
-consommation, du travail et de l'emploi décide de la localisation et de la
-délimitation des sections d'inspection.
+Les unités de contrôle de niveau infra-départemental, départemental ou
+interdépartemental, rattachées à une unité territoriale, et les unités de
+contrôle interrégionales, rattachées à une direction régionale des entreprises,
+de la concurrence, de la consommation, du travail et de l'emploi, sont composées
+de sections, dans lesquelles un inspecteur ou un contrôleur du travail exerce
+ses compétences.
 
-Dans chaque département, une section est chargée du contrôle des professions
-agricoles telles que définies par l'article L. 717-1 du code rural, sauf
-exception prévue par arrêté des ministres chargés de l'agriculture et du
-travail. Le directeur régional des entreprises, de la concurrence, de la
-consommation, du travail et de l'emploi peut, par référence à la nomenclature
-d'activités française, modifier le champ de compétence de la section agricole
-tel qu'il résulte de l'application de l'article L. 717-1 du code rural.
+Le responsable de l'unité de contrôle est chargé, notamment dans la mise en
+œuvre de l'action collective, de l'animation, de l'accompagnement et du pilotage
+de l'activité des agents de contrôle. Il peut apporter un appui à une opération
+de contrôle menée sur le territoire de l'unité dont il est responsable. Il peut
+en outre, sur décision du directeur régional des entreprises, de la concurrence,
+de la consommation, du travail et de l'emploi, être chargé d'exercer les
+fonctions d'inspecteur du travail dans une section relevant de son unité.

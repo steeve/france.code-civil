@@ -1,4 +1,6 @@
 Article R8122-8
 ----
-La section d'inspection du travail est l'échelon territorial d'intervention dans
-l'entreprise.
+Dans chaque région, une unité régionale d'appui et de contrôle, rattachée au
+pôle "politique du travail" de la direction régionale des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi, est chargée de la
+lutte contre le travail illégal.
