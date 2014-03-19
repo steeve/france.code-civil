@@ -10,4 +10,6 @@ contractées par l'un d'eux pour les besoins de la vie courante. Toutefois, cett
 solidarité n'a pas lieu pour les dépenses manifestement excessives. Elle n'a pas
 lieu non plus, s'ils n'ont été conclus du consentement des deux partenaires,
 pour les achats à tempérament ni pour les emprunts à moins que ces derniers ne
-portent sur des sommes modestes nécessaires aux besoins de la vie courante.
+portent sur des sommes modestes nécessaires aux besoins de la vie courante et
+que le montant cumulé de ces sommes, en cas de pluralité d'emprunts, ne soit pas
+manifestement excessif eu égard au train de vie du ménage.
