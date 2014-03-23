@@ -35,4 +35,5 @@ organisme d'habitation à loyer modéré mentionné à l'article L. 411-2 ou sur
 logement d'une société d'économie mixte mentionnée à l'article L. 481-1 faisant
 l'objet d'une convention conclue en application de l'article L. 351-2, acquis
 par les personnes mentionnées au premier ou au troisième alinéa de l'article L.
-443-11 à un prix égal au minimum autorisé en application de l'article L. 443-12.
+443-11 à un prix inférieur d'au moins 10 % à l'évaluation faite par France
+Domaine.
