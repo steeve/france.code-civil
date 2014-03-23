@@ -12,9 +12,10 @@ de la population tout en limitant les obligations de déplacement et les
 de consommation économe de l'espace et de préservation de l'environnement, des
 paysages et de l'architecture.
 
-Le document d'orientation et d'objectifs détermine les conditions d'implantation
-des équipements commerciaux qui, du fait de leur importance, sont susceptibles
-d'avoir un impact significatif sur l'aménagement du territoire.
+Il peut comprendre un document d'aménagement artisanal et commercial déterminant
+les conditions d'implantation des équipements commerciaux qui, du fait de leur
+importance, sont susceptibles d'avoir un impact significatif sur l'aménagement
+du territoire et le développement durable.
 
 Ces conditions privilégient la consommation économe de l'espace, notamment en
 entrée de ville, par la compacité des formes bâties, l'utilisation prioritaire
@@ -23,3 +24,14 @@ stationnement. Elles portent également sur la desserte de ces équipements par
 les transports collectifs et leur accessibilité aux piétons et aux cyclistes
 ainsi que sur leur qualité environnementale, architecturale et paysagère,
 notamment au regard de la performance énergétique et de la gestion des eaux.
+
+Le document d'aménagement artisanal et commercial localise les secteurs
+d'implantation périphérique ainsi que les centralités urbaines, qui peuvent
+inclure tout secteur, notamment centre-ville ou centre de quartier, caractérisé
+par un bâti dense présentant une diversité des fonctions urbaines, dans lesquels
+se posent des enjeux spécifiques du point de vue des objectifs mentionnés au
+deuxième alinéa. Il peut prévoir des conditions d'implantation des équipements
+commerciaux spécifiques aux secteurs ainsi identifiés.
+
+L'annulation du document d'aménagement artisanal et commercial ne compromet pas
+les autres documents du schéma de cohérence territoriale.
