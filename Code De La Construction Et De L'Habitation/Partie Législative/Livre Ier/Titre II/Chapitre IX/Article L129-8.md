@@ -1,8 +1,13 @@
 Article L129-8
 ----
-L'occupant d'un logement, qu'il soit locataire ou propriétaire, installe dans
-celui-ci au moins un détecteur de fumée normalisé. Il veille à l'entretien et au
-bon fonctionnement de ce dispositif.
+Le propriétaire d'un logement installe dans celui-ci au moins un détecteur de
+fumée normalisé et s'assure, si le logement est mis en location, de son bon
+fonctionnement lors de l'établissement de l'état des lieux mentionné à l'article
+3-2 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports
+locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986.
+L'occupant d'un logement, qu'il soit locataire ou propriétaire, veille à
+l'entretien et au bon fonctionnement de ce dispositif et assure son
+renouvellement, si nécessaire, tant qu'il occupe le logement.
 
 Cette obligation incombe au propriétaire non occupant dans des conditions
 définies par décret en Conseil d'Etat, notamment pour les locations
