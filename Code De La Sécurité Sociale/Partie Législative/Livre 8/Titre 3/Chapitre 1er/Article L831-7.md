@@ -19,7 +19,7 @@ afin de vérifier notamment l'existence ou l'occupation du logement pour lequel
 l'allocation de logement est perçue.
 
 Ces organismes sont également habilités à faire vérifier sur place si le
-logement satisfait aux exigences visées au premier alinéa de l'article L. 831-3.
+logement satisfait aux exigences visées aux 1° et 2° du I de l'article L. 831-3.
 Le maire ou toute association de défense des droits des locataires affiliée à
 une association siégeant à la Commission nationale de concertation peuvent, s'il
 est porté à leur connaissance l'existence d'un immeuble ou d'un groupe

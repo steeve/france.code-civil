@@ -6,11 +6,23 @@ les ressources, peuvent être obtenues par les organismes chargés du paiement d
 l'aide selon les modalités de l'article L. 114-14 du code de la sécurité
 sociale.
 
+Si l'allocataire ne règle pas la part de la dépense de logement restant à sa
+charge, le bailleur ou le prêteur auprès duquel l'aide est versée signale la
+situation de l'allocataire défaillant à l'organisme payeur, dans des conditions
+définies par décret.
+
+Le bailleur auprès duquel l'aide est versée signale le déménagement de
+l'allocataire et la résiliation de son bail, dans un délai déterminé par décret.
+
+Si l'allocataire procède à un remboursement anticipé de son prêt, le prêteur
+auprès duquel l'aide est versée signale ce remboursement anticipé à l'organisme
+payeur, dans un délai fixé par décret.
+
 Sans préjudice des sanctions pénales encourues, la fraude, la fausse
 déclaration, l'inexactitude ou le caractère incomplet des informations
-recueillies en application du premier alinéa du présent article exposent le
-bénéficiaire, le demandeur ou le bailleur aux sanctions et pénalités prévues à
-l'article L. 114-17 du code de la sécurité sociale.
+recueillies en application des alinéas précédents du présent article exposent le
+bénéficiaire, le demandeur, le bailleur ou le prêteur aux sanctions et pénalités
+prévues à l'article L. 114-17 du code de la sécurité sociale.
 
 Lorsque les informations ne peuvent pas être obtenues dans les conditions
 prévues au premier alinéa, les bénéficiaires, les demandeurs ou les bailleurs

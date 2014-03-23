@@ -6,10 +6,9 @@ de l'article L. 430-1 du code de commerce, les sociétés anonymes de coordinati
 d'organismes d'habitations à loyer modéré ainsi que les groupements d'intérêt
 économique prévus à l'article L. 251-1 du même code, les structures de
 coopération prévues à l'article L. 423-6 du présent code et les associations de
-gestion mentionnées au troisième alinéa de l'article L. 451-1, qui comprennent,
-directement ou indirectement, parmi leurs membres au moins un organisme ou
-société précité peuvent souscrire des emprunts auprès des établissements de
-crédit, dans les limites et sous les réserves suivantes :
+gestion, qui comprennent, directement ou indirectement, parmi leurs membres au
+moins un organisme ou société précité peuvent souscrire des emprunts auprès des
+établissements de crédit, dans les limites et sous les réserves suivantes :
 
 1° L'emprunt est libellé en euros ou en devises étrangères. Dans ce dernier cas,
 afin d'assurer une couverture intégrale du risque de change, un contrat

@@ -30,8 +30,8 @@ usage locatif et les logements-foyers leur appartenant et conventionnés dans le
 conditions définies à l'article L. 351-2 ou, dans les départements d'outre-mer,
 construits, acquis ou améliorés avec le concours financier de l'Etat.
 
-Ces sociétés sont soumises au contrôle de l'administration dans les conditions
-prévues aux articles L. 451-1, L. 451-2 et L. 451-2-1. Elles sont soumises à des
-obligations comptables particulières fixées par le comité de la réglementation
-comptable. Leurs activités d'intérêt général mentionnées au quatrième alinéa
-font l'objet d'une comptabilité distincte.
+Ces sociétés sont soumises au contrôle de l'Agence nationale de contrôle du
+logement social dans les conditions prévues aux articles L. 342-1 à L. 342-17.
+Elles sont soumises à des obligations comptables particulières fixées par le
+comité de la réglementation comptable. Leurs activités d'intérêt général
+mentionnées au quatrième alinéa font l'objet d'une comptabilité distincte.

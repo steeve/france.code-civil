@@ -7,8 +7,10 @@ juridiction qui lui sont attribués en vertu :
 décisions de sanction prises par l'Autorité de contrôle prudentiel et de
 résolution ;
 
-2° De l'article L. 313-13 du code de la construction et de l'habitation contre
-les décisions de sanction prises par le ministre chargé du logement ;
+2° Des articles L. 342-14 et L. 342-15 du code de la construction et de
+l'habitation contre les décisions de sanction prises par le ministre chargé du
+logement ou conjointement par les ministres chargés du logement et des
+collectivités territoriales ;
 
 3° Des articles L. 5-3 et L. 36-11 du code des postes et des communications
 électroniques contre les décisions de sanction prises par l'Autorité de

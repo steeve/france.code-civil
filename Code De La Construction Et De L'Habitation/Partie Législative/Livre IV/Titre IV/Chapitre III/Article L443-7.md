@@ -64,9 +64,9 @@ intentée par l'autorité administrative ou par un tiers dans un délai de cinq 
 
 Lorsqu'il s'agit d'un contrat de vente à une personne physique, l'organisme
 vendeur est passible d'une sanction pécuniaire, dans la limite de 15 000 € par
-logement vendu, arrêtée par le représentant de l'Etat dans le département
-d'implantation de la commune où se situe le logement ou le président du conseil
-de la métropole dans la situation prévue au cinquième alinéa.
+logement vendu, arrêtée par l'Agence nationale de contrôle du logement social ou
+le président du conseil de la métropole dans la situation prévue au cinquième
+alinéa.
 
 Toutefois, lorsque le logement est affecté à la location saisonnière, la
 décision d'aliéner ne peut être prise qu'après accord de la commune

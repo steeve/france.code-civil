@@ -29,16 +29,20 @@ sixième alinéas du présent article s'expose à la pénalité prévue à l'art
 114-17.
 
 L'allocation ne peut être versée au bailleur que si le logement répond aux
-exigences prévues au premier alinéa de l'article L. 831-3. Pour les logements
+exigences prévues aux 1° et 2° du I de l'article L. 831-3. Pour les logements
 compris dans un patrimoine d'au moins dix logements dont le propriétaire ou le
 gestionnaire est un organisme d'habitations à loyer modéré, une société
-d'économie mixte de construction et de gestion de logements sociaux ou
-l'établissement public de gestion immobilière du Nord-Pas-de-Calais et les
-sociétés à participation majoritaire de cet établissement, le bailleur peut
-continuer à percevoir l'allocation s'il s'engage par convention avec l'Etat à
-rendre le logement décent dans un délai fixé par cette convention. Le bailleur
+d'économie mixte de construction et de gestion de logements sociaux, un
+organisme agréé exerçant des activités de maîtrise d'ouvrage définies au 1° de
+l'article L. 365-1 du code de la construction et de l'habitation ou la société
+de gestion du patrimoine immobilier des houillères du Nord et du Pas-de-Calais
+et les sociétés à participation majoritaire de cet établissement, le bailleur
+peut continuer à percevoir l'allocation s'il s'engage par convention avec l'Etat
+à rendre le logement décent dans un délai fixé par cette convention. Le bailleur
 adresse une copie de la convention aux organismes payeurs de l'allocation de
-logement.
+logement. La transmission de cette convention à l'organisme payeur vaut constat
+de mise en conformité du logement pour l'application des II à V de l'article L.
+831-3.
 
 Lorsque l'organisme payeur a versé une allocation indue et que le bailleur ou le
 prêteur justifie avoir procédé à la déduction prévue au troisième alinéa du

@@ -56,3 +56,6 @@ d'ouvrage prévu à l'article L. 365-2, pour des actions de recherche, de
 développement, ainsi que de professionnalisation et de structuration des
 organismes. Ce fonds est alimenté à partir des cotisations versées à la caisse
 par ces organismes et géré par la caisse.
+
+Elle effectue le prélèvement de la cotisation mentionnée à l'article L. 342-21
+et en reverse le montant à l'Agence nationale de contrôle du logement social.

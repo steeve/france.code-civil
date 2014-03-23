@@ -70,9 +70,9 @@ versée respectivement à l'établissement public de coopération intercommunale
 alinéa et effectivement exposées par la commune pour la réalisation de logements
 sociaux. Elle est utilisée pour financer des acquisitions foncières et
 immobilières en vue de la réalisation de logements locatifs sociaux et,
-notamment dans les quartiers inscrits en contrat de ville ou dans des zones
-urbaines sensibles, des opérations de renouvellement et de requalification
-urbains.
+notamment dans les quartiers inscrits en contrat de ville ou dans des quartiers
+prioritaires de la politique de la ville, des opérations de renouvellement et de
+requalification urbains.
 
 A défaut, et hors Ile-de-France, elle est versée à l'établissement public
 foncier créé en application de l'article L. 324-1 du code de l'urbanisme, si la

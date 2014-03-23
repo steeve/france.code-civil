@@ -68,6 +68,11 @@ territoire de la métropole.
 2213-32, le président du conseil de la métropole exerce les attributions lui
 permettant de réglementer la défense extérieure contre l'incendie.
 
+9. Sans préjudice de l'article L. 2212-2, le président du conseil de la
+métropole exerce les attributions mentionnées aux articles L. 123-3, L. 129-1 à
+L. 129-6, L. 511-1 à L. 511-4, L. 511-5 et L. 511-6 du code de la construction
+et de l'habitation.
+
 II. ― Lorsque le président du conseil de la métropole prend un arrêté de police
 dans les matières prévues au I du présent article, il le transmet pour
 information aux maires des communes intéressées dans les meilleurs délais.
@@ -83,4 +88,4 @@ présent article.
 IV. ― Le représentant de l'Etat dans la métropole peut, dans le cas où il n'y
 aurait pas été pourvu par le président du conseil de la métropole, et après une
 mise en demeure de ce dernier restée sans résultat, exercer les attributions du
-président du conseil de la métropole prévues au 5° du I.
+président du conseil de la métropole prévues au 5 et au 9 du I.

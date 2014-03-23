@@ -39,13 +39,10 @@ dispositions de l'article L. 443-14 soient applicables aux cessions d'immeubles
 rendues nécessaires par ces réalisations. Lorsqu'elles se voient confier par
 convention la réalisation d'une opération de restructuration urbaine, celle-ci
 comprend toutes opérations ou actions ou tous aménagements ou équipements de
-nature à favoriser une politique de développement social urbain telle que
-définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la
-mise en oeuvre du pacte de relance pour la ville ; dans ce cas, la convention
-peut inclure des actions d'insertion professionnelle et sociale en faveur des
-habitants des quartiers classés en zones urbaines sensibles, définies au 3 de
-l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire ;
+nature à favoriser une politique de développement social urbain ; dans ce cas,
+la convention peut inclure des actions d'insertion professionnelle et sociale en
+faveur des habitants des quartiers classés en quartiers prioritaires de la
+politique de la ville ;
 
 -de réaliser, rénover ou acquérir et améliorer, en complément de leur activité
 locative, en vue de leur vente à des personnes physiques à titre de résidences
@@ -235,7 +232,7 @@ par décret pris en application du septième alinéa de l'article L. 302-5 du
 présent code ;
 
 La sous-section 1 de la section 2 du chapitre III du titre IV du présent livre
-n'est pas applicable aux opérations relevant des trois alinéas précédents.
+n'est pas applicable aux opérations relevant des trois alinéas précédents. ;
 
 Elles peuvent aussi réaliser des prestations de service pour le compte de
 l'association agréée mentionnée à l'article l'article L. 313-34 du code de la
