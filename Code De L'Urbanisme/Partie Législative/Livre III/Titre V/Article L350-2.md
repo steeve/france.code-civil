@@ -1,7 +1,7 @@
 Article L350-2
 ----
 Avant la signature du contrat, le projet d'intérêt majeur est soumis pour avis
-au président du conseil régional, au président du conseil général et aux
+au président du conseil régional, au président du conseil départemental et aux
 présidents des établissements publics de coopération intercommunale compétents
 en matière de programme local de l'habitat ou en matière de plan local
 d'urbanisme.

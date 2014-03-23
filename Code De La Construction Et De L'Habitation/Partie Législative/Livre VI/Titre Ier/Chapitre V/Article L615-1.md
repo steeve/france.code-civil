@@ -22,8 +22,8 @@ des immeubles concernés.
 II.-Le projet de plan de sauvegarde est soumis à l'approbation du représentant
 de l'Etat dans le département et à l'avis du maire, du président de
 l'établissement public de coopération intercommunale compétent en matière
-d'habitat et, le cas échéant, du président du conseil général ayant conclu la
-convention mentionnée à l'article L. 301-5-2.
+d'habitat et, le cas échéant, du président du conseil départemental ayant conclu
+la convention mentionnée à l'article L. 301-5-2.
 
 III.-Si le groupe d'immeubles bâtis ou l'ensemble immobilier concerné est soumis
 à la loi n° 65-557 du 10 juillet 1965 précitée, le projet de plan de sauvegarde

@@ -3,7 +3,7 @@ Article L615-3
 La commission mentionnée à l'article L. 615-1 est présidée par le représentant
 de l'Etat dans le département et comprend, notamment, le maire de la commune, le
 président de l'établissement public de coopération intercommunale compétent en
-matière d'habitat, le président du conseil général du département, sur le
+matière d'habitat, le président du conseil départemental du département, sur le
 territoire desquels sont situés les immeubles ou ensembles immobiliers concernés
 par le plan de sauvegarde, le président du conseil syndical, ou leurs
 représentants, ainsi que, le cas échéant, l'administrateur provisoire désigné en

@@ -1,8 +1,8 @@
 Article L123-8
 ----
-Le président du conseil régional, le président du conseil général, et, le cas
-échéant, le président de l'établissement public prévu à l'article L. 122-4, le
-président de l'autorité compétente en matière d'organisation des transports
+Le président du conseil régional, le président du conseil départemental, et, le
+cas échéant, le président de l'établissement public prévu à l'article L. 122-4,
+le président de l'autorité compétente en matière d'organisation des transports
 urbains, le président de la communauté ou du syndicat d'agglomération nouvelle
 ainsi que ceux des organismes mentionnés à l'article L. 121-4 ou leurs
 représentants sont consultés à leur demande au cours de l'élaboration du projet

@@ -13,6 +13,6 @@ les règles particulières d'octroi des aides destinées aux propriétaires
 bailleurs et occupants, en fonction de critères économiques, sociaux ou
 géographiques.
 
-Elle prévoit les conditions dans lesquelles le président du conseil général ou
-de l'établissement public de coopération intercommunale signe au nom de l'agence
-les conventions mentionnées à l'article L. 321-4.
+Elle prévoit les conditions dans lesquelles le président du conseil
+départemental ou de l'établissement public de coopération intercommunale signe
+au nom de l'agence les conventions mentionnées à l'article L. 321-4.
