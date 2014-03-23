@@ -46,6 +46,13 @@ quatrième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 19
 tendant à favoriser l'investissement locatif, l'accession à la propriété de
 logements sociaux et le développement de l'offre foncière. Elle peut également
 aider des organismes agréés mentionnés à l'article L. 366-1 à développer
-l'information en faveur du logement social.
+l'information en faveur du logement social et participer au financement du
+groupement d'intérêt public mentionné à l'article L. 441-2-1.
 
-Elle gère le fonds institué par l'article L. 300-2.
+Il est institué, au sein de la caisse, un fonds de soutien à l'innovation de
+projets des organismes d'habitations à loyer modéré, des sociétés d'économie
+mixte et des organismes bénéficiant de l'agrément relatif à la maîtrise
+d'ouvrage prévu à l'article L. 365-2, pour des actions de recherche, de
+développement, ainsi que de professionnalisation et de structuration des
+organismes. Ce fonds est alimenté à partir des cotisations versées à la caisse
+par ces organismes et géré par la caisse.

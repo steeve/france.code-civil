@@ -33,7 +33,7 @@ expressément.
 Lorsqu'un plan d'occupation des sols approuvé avant l'entrée en vigueur de la
 loi n° 2000-1208 du 13 décembre 2000 précitée ou un plan d'occupation des sols
 approuvé dans le délai d'un an à compter de l'entrée en vigueur de ladite loi en
-application du septième alinéaest annulépour vice de forme ou de procédure, la
+application du septième alinéa est annulé pour vice de forme ou de procédure, la
 commune ou l'établissement public de coopération intercommunale compétent peut
 l'approuver à nouveau, après enquête publique réalisée conformément au chapitre
 III du titre II du livre Ier du code de l'environnement, dans le délai d'un an à
@@ -44,5 +44,22 @@ Lorsque plusieurs communes sont dotées sur une partie de leur territoire d'un
 plan d'occupation des sols partiel couvrant un secteur d'aménagement et de
 développement touristique d'intérêt intercommunal, elles peuvent conserver ce
 régime et élaborer des plans locaux d'urbanisme partiels dans les conditions
-définies par la dernière phrase du cinquième alinéa de l'article L. 123-1 à
-condition de s'engager dans l'élaboration d'un schéma de cohérence territoriale.
+définies par le deuxième alinéa du IV de l'article L. 123-1 à condition de
+s'engager dans l'élaboration d'un schéma de cohérence territoriale.
+
+Les plans d'occupation des sols qui n'ont pas été mis en forme de plan local
+d'urbanisme, en application des articles L. 123-1 et suivants, au plus tard le
+31 décembre 2015 sont caducs à compter de cette date. La caducité du plan
+d'occupation des sols ne remet pas en vigueur le document d'urbanisme antérieur.
+A compter du 1er janvier 2016, les règles générales d'urbanisme prises en
+application de l'article L. 111-1 s'appliquent sur le territoire communal dont
+le plan d'occupation des sols est caduc.
+
+Toutefois, lorsqu'une procédure de révision du plan d'occupation des sols a été
+engagée avant le 31 décembre 2015, cette procédure peut être menée à terme en
+application des articles L. 123-1 et suivants, dans leur rédaction en vigueur
+avant la publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès au
+logement et un urbanisme rénové, sous réserve d'être achevée au plus tard trois
+ans à compter de la publication de cette même loi. Les dispositions du plan
+d'occupation des sols restent en vigueur jusqu'à l'approbation du plan local
+d'urbanisme et au plus tard jusqu'à l'expiration de ce délai de trois ans.

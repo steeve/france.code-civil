@@ -4,9 +4,11 @@ Le prix maximal de cession des parts ou actions des sociétés immobilières don
 50 % au moins du capital ont été souscrits au titre de la participation des
 employeurs à l'effort de construction par des organismes agréés à collecter
 cette participation ou par des employeurs, à l'exception de celles d'entre ces
-sociétés qui ont le statut d'organisme d'habitations à loyer modéré, ne peut
-être ni supérieur à leur valeur dans la situation nette de la société ni
-supérieur à leur valeur nominale majorée de 50 %.
+sociétés qui ont le statut d'organisme d'habitations à loyer modéré est limité
+au montant du nominal de ces parts ou actions majoré, pour chaque année ayant
+précédé la cession, sans pouvoir excéder vingt années d'un intérêt calculé au
+taux servi au 31 décembre de l'année considérée aux détenteurs d'un livret A
+majoré de 1,5 point et diminué des dividendes versés pendant la même période.
 
 Une dérogation aux dispositions de l'alinéa précédent peut être accordée par le
 ministre chargé du logement, après avis de l'Agence nationale pour la
