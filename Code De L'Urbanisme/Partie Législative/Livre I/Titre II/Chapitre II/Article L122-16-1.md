@@ -64,7 +64,8 @@ commission d'enquête ;
 l'établissement public prévu à l'article L. 122-4 dans les autres cas ;
 
 4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le
-logement mentionnée à l'article L. 300-6-1 :
+logement ou de la procédure intégrée pour l'immobilier d'entreprise mentionnées
+à l'article L. 300-6-1 :
 
 a) Lorsque celle-ci est engagée par l'Etat ;
 
