@@ -12,7 +12,7 @@ directement intéressés et aux communes limitrophes ;
 
 4° A la commission prévue à l'article L. 112-1-1 du code rural et de la pêche
 maritime, lorsqu'il a pour conséquence une réduction des surfaces des espaces
-agricoles ;
+agricoles, naturels ou forestiers ;
 
 5° Lorsqu'il prévoit la création d'une ou plusieurs unités touristiques
 nouvelles :

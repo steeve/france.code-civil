@@ -9,7 +9,7 @@ et de la qualité dans les zones d'appellation d'origine contrôlée et, le cas
 échéant, du Centre national de la propriété forestière. Il en va de même en cas
 de révision ou de modification de ces documents.
 
-Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En
+Ces avis sont rendus dans un délai de trois mois à compter de la saisine. En
 l'absence de réponse à l'issue de ce délai, l'avis est réputé favorable.
 
 Ces dispositions s'appliquent aux opérations d'aménagement dont l'enquête

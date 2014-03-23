@@ -6,9 +6,10 @@ programmation et le règlement.
 
 Il s'appuie sur un diagnostic établi au regard des prévisions économiques et
 démographiques et des besoins répertoriés en matière de développement
-économique, de surfaces agricoles, de développement forestier, d'aménagement de
-l'espace, d'environnement, notamment en matière de biodiversité, d'équilibre
-social de l'habitat, de transports, de commerce, d'équipements et de services.
+économique, de surfaces et de développement agricoles, de développement
+forestier, d'aménagement de l'espace, d'environnement, notamment en matière de
+biodiversité, d'équilibre social de l'habitat, de transports, de commerce,
+d'équipements et de services.
 
 Il analyse la capacité de densification et de mutation de l'ensemble des espaces
 bâtis, en tenant compte des formes urbaines et architecturales. Il expose les

@@ -2,8 +2,8 @@ Article L150-1
 ----
 Des décrets en Conseil d'Etat peuvent apporter les adaptations et prévoir les
 dispositions transitoires éventuellement nécessaires à l'application dans les
-départements d'outre-mer des articles L. 121-1 à L. 121-7, L. 122-1 à L. 122-17,
-L. 123-1 à L. 123-18, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa).
+départements d'outre-mer des articles L. 121-1 à L. 121-7, L121-9, L. 122-1 à L.
+122-17, L. 123-1 à L. 123-18, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa).
 
 Les projets d'aménagement établis conformément à l'ordonnance n° 45-1423 du 28
 juin 1945, abrogée par la loi n° 71-581 du 16 juillet 1971 (art. 21), et les
