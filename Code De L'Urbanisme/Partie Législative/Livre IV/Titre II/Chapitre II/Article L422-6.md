@@ -8,3 +8,6 @@ en vigueur un document d'urbanisme antérieur, le maire ou le président de
 l'établissement public de coopération intercommunale recueille l'avis conforme
 du préfet sur les demandes de permis ou les déclarations préalables postérieures
 à cette annulation, à cette abrogation ou à cette constatation.
+
+Le premier alinéa s'applique également lorsque le plan d'occupation des sols est
+rendu caduc en application de l'article L. 123-19.

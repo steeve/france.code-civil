@@ -22,7 +22,8 @@ contrats perdent le bénéfice du droit au maintien dans les lieux dès le refus
 d'une offre de relogement définitif correspondant à leurs besoins et à leurs
 possibilités ou, en cas de cessation ou de résiliation du contrat de location
 principal conclu entre le bailleur et le locataire, à l'issue de leur contrat de
-sous-location.
+sous-location. L'offre de logement définitif peut consister en l'attribution du
+logement occupé au sous-locataire aux fins de signature d'un bail à son nom.
 
 Les sous-locataires mentionnés à l'article L. 442-8-1 qui ne répondent plus aux
 conditions pour être logés par les personnes morales locataires perdent le

@@ -7,7 +7,8 @@ régularité et le bien-fondé.
 
 Le rétablissement personnel sans liquidation judiciaire rendu exécutoire par le
 juge du tribunal d'instance entraîne l'effacement de toutes les dettes non
-professionnelles du débiteur à l'exception des dettes visées à l'article L.
+professionnelles du débiteur, arrêtées à la date de l'ordonnance conférant force
+exécutoire à la recommandation, à l'exception des dettes visées à l'article L.
 333-1, de celles mentionnées à l'article L. 333-1-2 et des dettes dont le prix a
 été payé au lieu et place du débiteur par la caution ou le coobligé, personnes
 physiques. Le rétablissement personnel sans liquidation judiciaire entraîne

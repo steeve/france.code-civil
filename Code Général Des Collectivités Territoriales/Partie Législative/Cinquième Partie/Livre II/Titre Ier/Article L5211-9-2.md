@@ -1,11 +1,11 @@
 Article L5211-9-2
 ----
-I. - A. - Sans préjudice de l'article L. 2212-2, du présent code et par
-dérogation à l'article L. 1311-2 et au deuxième alinéa de l'article L. 1331-1 du
-code de la santé publique lorsqu'un établissement public de coopération
-intercommunale à fiscalité propre est compétent en matière d'assainissement, les
-maires des communes membres de celui-ci transfèrent au président de cet
-établissement les attributions lui permettant de réglementer cette activité.
+I.-A.-Sans préjudice de l'article L. 2212-2, du présent code et par dérogation à
+l'article L. 1311-2 et au deuxième alinéa de l'article L. 1331-1 du code de la
+santé publique lorsqu'un établissement public de coopération intercommunale à
+fiscalité propre est compétent en matière d'assainissement, les maires des
+communes membres de celui-ci transfèrent au président de cet établissement les
+attributions lui permettant de réglementer cette activité.
 
 Sans préjudice de l'article L. 2212-2 et par dérogation à l'article L. 2224-16,
 lorsqu'un groupement de collectivités est compétent en matière de collecte des
@@ -35,7 +35,19 @@ de délivrance des autorisations de stationnement sur la voie publique aux
 exploitants de taxi. L'autorisation de stationnement peut être limitée à une ou
 plusieurs communes membres.
 
-B. - Les maires des communes membres d'un établissement public de coopération
+Sans préjudice de l'article L. 2212-2 du présent code, les maires des communes
+membres d'un établissement public de coopération intercommunale à fiscalité
+propre compétent en matière d'habitat transfèrent au président de cet
+établissement les prérogatives qu'ils détiennent en application des articles L.
+123-3, L. 129-1 à L. 129-6, L. 511-1 à L. 511-4, L. 511-5 et L. 511-6 du code de
+la construction et de l'habitation. Lorsqu'une métropole délègue tout ou partie
+de ses compétences en matière d'habitat à un conseil de territoire, le président
+du conseil de la métropole délègue les prérogatives précitées correspondantes au
+président du conseil de territoire, qui lui est substitué pour l'application des
+II, V, trois derniers alinéas du VI et VII du présent article dans le périmètre
+du territoire.
+
+B.-Les maires des communes membres d'un établissement public de coopération
 intercommunale à fiscalité propre peuvent transférer au président de cet
 établissement les prérogatives qu'ils détiennent en application de l'article 23
 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative
@@ -95,9 +107,38 @@ public de coopération intercommunale, l'exécution des décisions prises
 conformément aux attributions transférées par les maires des communes membres en
 vertu du I du présent article.
 
-VI. - Le représentant de l'Etat dans le département peut, dans le cas où il n'y
+VI.-Le représentant de l'Etat dans le département peut, dans le cas où il n'y
 aurait pas été pourvu par le président de l'établissement public de coopération
 intercommunale à fiscalité propre et après mise en demeure de ce dernier restée
 sans résultat, exercer les attributions dévolues au président de l'établissement
 public de coopération intercommunale à fiscalité propre en matière de police de
 la circulation et du stationnement.
+
+En cas de carence du président de l'établissement public de coopération
+intercommunale à fiscalité propre pour l'exercice des attributions définies à
+l'article L. 123-3 et aux articles L. 511-1 à L. 511-4, L. 511-5 et L. 511-6 du
+code de la construction et de l'habitation, le représentant de l'Etat dans le
+département peut se substituer à celui-ci.
+
+Dans les cas mentionnés aux deux premiers alinéas du présent VI, le représentant
+de l'Etat dans le département se substitue au président de l'établissement
+public de coopération intercommunale dans les conditions prévues à l'article L.
+2215-1 du présent code. Les frais afférents aux mesures prises par le
+représentant de l'Etat dans le département sont à la charge de l'établissement
+public de coopération intercommunale concerné.
+
+En cas de carence du président de l'établissement public de coopération
+intercommunale à fiscalité propre pour l'exercice des attributions définies aux
+articles L. 129-1 à L. 129-6 du code de la construction et de l'habitation, le
+représentant de l'Etat dans le département peut se substituer à celui-ci dans
+les conditions prévues à l'article L. 2122-34 du présent code.
+
+VII.-Les services ou parties de services des communes qui participent à
+l'exercice des attributions mentionnées au dernier alinéa du A du I sont mis à
+disposition du président de l'établissement public de coopération intercommunale
+par les maires des communes membres pour l'exercice des polices transférées.
+
+Une convention entre les maires ayant transféré leurs attributions et le
+président de l'établissement public de coopération intercommunale fixe les
+conditions dans lesquelles ces services sont mis à disposition du président de
+cet établissement.

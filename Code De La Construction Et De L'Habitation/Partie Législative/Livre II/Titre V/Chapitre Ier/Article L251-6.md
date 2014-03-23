@@ -3,7 +3,8 @@ Article L251-6
 Les servitudes passives, autres que celles mentionnées au quatrième alinéa de
 l'article L. 251-3, privilèges, hypothèques ou autres charges nées du chef du
 preneur et, notamment, les baux et titres d'occupation de toute nature portant
-sur les constructions, s'éteignent à l'expiration du bail.
+sur les constructions, s'éteignent à l'expiration du bail sauf pour les contrats
+de bail de locaux d'habitation.
 
 Cependant, lorsque le bail prévoit une possibilité d'achat du terrain par le
 preneur dans le cadre d'une opération d'accession sociale à la propriété et que

@@ -9,7 +9,8 @@ touristique, portuaire ou aéroportuaire qui sont d'intérêt communautaire ;
 actions de développement économique d'intérêt communautaire ;
 
 2° En matière d'aménagement de l'espace communautaire : schéma de cohérence
-territoriale et schéma de secteur ; création et réalisation de zones
+territoriale et schéma de secteur ; plan local d'urbanisme, document d'urbanisme
+en tenant lieu et carte communale ; création et réalisation de zones
 d'aménagement concerté d'intérêt communautaire ; organisation de la mobilité au
 sens du titre III du livre II de la première partie du code des transports, sous
 réserve de l'article L. 3421-2 du même code ;
@@ -87,7 +88,7 @@ III.-Lorsque l'exercice des compétences mentionnées aux I et II du présent
 article est subordonné à la reconnaissance de leur intérêt communautaire, cet
 intérêt est déterminé à la majorité des deux tiers du conseil de la communauté
 d'agglomération. Il est défini au plus tard deux ans après l'entrée en vigueur
-de l'arrêté prononçant le transfert de compétence.A défaut, la communauté
+de l'arrêté prononçant le transfert de compétence. A défaut, la communauté
 d'agglomération exerce l'intégralité de la compétence transférée.
 
 IV. (Abrogé).

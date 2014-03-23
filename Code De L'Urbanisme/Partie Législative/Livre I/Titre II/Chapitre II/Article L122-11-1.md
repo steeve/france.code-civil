@@ -11,9 +11,8 @@ document demeure consultable au siège de l'établissement public compétent et
 dans les mairies des communes membres concernées.
 
 Toutefois, dans ce délai de deux mois, le préfet notifie par lettre motivée à
-l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 les
-modifications qu'il estime nécessaire d'apporter au schéma lorsque les
-dispositions de celui-ci :
+l'établissement public prévu à l'article L. 122-4 les modifications qu'il estime
+nécessaire d'apporter au schéma lorsque les dispositions de celui-ci :
 
 1° Ne sont pas compatibles avec les directives territoriales d'aménagement
 maintenues en vigueur après la publication de la loi n° 2010-788 du 12 juillet
@@ -47,7 +46,9 @@ dans les conditions définies aux articles L. 2131-1 et L. 2131-2 du code géné
 des collectivités territoriales.
 
 Le schéma de cohérence territoriale exécutoire est transmis aux personnes
-publiques associées et aux communes comprises dans son périmètre.
+publiques associées, ainsi qu'aux établissements publics de coopération
+intercommunale compétents en matière de plan local d'urbanisme et aux communes
+compris dans son périmètre.
 
 Le schéma de cohérence territoriale approuvé est tenu à la disposition du
 public.

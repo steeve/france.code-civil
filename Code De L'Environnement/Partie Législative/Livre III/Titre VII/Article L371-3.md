@@ -68,7 +68,8 @@ e) Les mesures prévues pour accompagner la mise en œuvre des continuités
 Les collectivités territoriales et leurs groupements compétents en matière
 d'aménagement de l'espace ou d'urbanisme prennent en compte les schémas
 régionaux de cohérence écologique lors de l'élaboration ou de la révision de
-leurs documents d'aménagement de l'espace ou d'urbanisme.
+leurs documents d'aménagement de l'espace ou d'urbanisme dans les conditions
+fixées à l'article L. 111-1-1 du code de l'urbanisme.
 
 Sans préjudice de l'application des dispositions du chapitre II du titre II du
 livre Ier relatives à l'évaluation environnementale, les documents de

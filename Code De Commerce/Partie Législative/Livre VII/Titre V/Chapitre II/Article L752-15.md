@@ -12,4 +12,6 @@ commerce ou des surfaces de vente. Il en est de même en cas de modification de
 la ou des enseignes désignées par le pétitionnaire.
 
 L'autorisation préalable requise pour la création de magasins de commerce de
-détail n'est ni cessible ni transmissible.
+détail ou pour la création d'un point permanent de retrait par la clientèle
+d'achats au détail commandés par voie télématique, organisé pour l'accès en
+automobile, n'est ni cessible ni transmissible.

@@ -10,9 +10,8 @@ avis émis par les personnes associées mentionnées à l'article L. 121-4 sont 
 à disposition du public pendant un mois, dans des conditions lui permettant de
 formuler ses observations. Ces observations sont enregistrées et conservées. Les
 modalités de la mise à disposition sont précisées par l'organe délibérant de
-l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 et portées à la
-connaissance du public au moins huit jours avant le début de cette mise à
-disposition.
+l'établissement public prévu à l'article L. 122-4 et portées à la connaissance
+du public au moins huit jours avant le début de cette mise à disposition.
 
 A l'issue de la mise à disposition, le président de l'établissement public en
 présente le bilan devant l'organe délibérant de l'établissement public, qui en

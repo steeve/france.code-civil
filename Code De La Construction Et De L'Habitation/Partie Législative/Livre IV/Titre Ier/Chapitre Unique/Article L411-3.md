@@ -11,8 +11,8 @@ entre lesdits organismes et l'Etat.
 Ces dispositions ne sont pas applicables :
 
 -aux logements vendus par les organismes d'habitations à loyer modéré en
-application des premier, troisième à sixième et dixième alinéas de l'article L.
-443-11 ;
+application des premier, troisième à cinquième et neuvième alinéas de l'article
+L. 443-11 ;
 
 -aux logements cédés ou apportés aux sociétés civiles immobilières régies par
 les articles L. 443-6-2 et suivants et devenus propriété d'un associé personne
@@ -34,8 +34,7 @@ ces logements restent soumis à des règles d'attribution sous condition de
 ressources et de fixation de loyer par l'autorité administrative dans des
 conditions fixées par un décret en Conseil d'Etat. Les locataires de ces
 logements bénéficient du droit au maintien dans les lieux en application de
-l'article L. 442-6 ainsi que des dispositions des articles L. 353-15-1 et L.
-442-6-1.
+l'article L. 442-6.
 
 Tout acte transférant la propriété ou la jouissance de ces logements ou
 constatant ledit transfert doit, à peine de nullité de plein droit, reproduire

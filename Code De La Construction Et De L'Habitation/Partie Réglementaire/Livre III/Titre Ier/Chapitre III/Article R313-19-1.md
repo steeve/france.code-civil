@@ -18,9 +18,9 @@ location-accession conclus en application de la loi n° 84-595 du 12 juillet
 
 III.-Prêts à taux réduit accordés à des personnes physiques pour la réalisation
 de travaux d'amélioration. Si pour la mise en œuvre de ces dispositions l'Union
-d'économie sociale du logement, dans l'exercice de ses compétences, recommande
-aux associés collecteurs de réserver ces prêts à des situations particulières,
-elle doit y inclure au moins tous les cas suivants :
+des entreprises et des salariés pour le logement, dans l'exercice de ses
+compétences, recommande aux associés collecteurs de réserver ces prêts à des
+situations particulières, elle doit y inclure au moins tous les cas suivants :
 
 a) Personnes en situation de handicap au sens de l'article L. 114 du code de
 l'action sociale et des familles. Toutefois, ces prêts peuvent être remplacés

@@ -14,8 +14,8 @@ conformément aux dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le
 statut de la copropriété des immeubles bâtis lorsque l'organisme n'est plus
 propriétaire d'aucun logement.
 
-Les dispositions du deuxième alinéa de l'article 22 de la loi n° 65-557 du 10
-juillet 1965 précitée ne s'appliquent pas à l'organisme d'habitations à loyer
+Les dispositions du deuxième alinéa du I de l'article 22 de la loi n° 65-557 du
+10 juillet 1965 précitée ne s'appliquent pas à l'organisme d'habitations à loyer
 modéré vendeur.
 
 Dans les copropriétés issues de la vente de logements locatifs réalisée en

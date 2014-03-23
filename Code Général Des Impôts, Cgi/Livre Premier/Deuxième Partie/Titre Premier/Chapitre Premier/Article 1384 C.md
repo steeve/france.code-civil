@@ -1,6 +1,6 @@
 Article 1384 C
 ----
-I. - Les logements acquis en vue de leur location, avec le concours financier de
+I. ― Les logements acquis en vue de leur location, avec le concours financier de
 l'Etat ou avec une subvention de l'Agence nationale pour la rénovation urbaine,
 en application des 3° et 5° de l'article L. 351-2 du code de la construction et
 de l'habitation ou au moyen d'un financement prévu à l'article R. 372-1 du même
@@ -22,7 +22,7 @@ l'intermédiation locative et à la gestion locative sociale prévu à l'article
 365-4 du code de la construction et de l'habitation. Le bénéfice de
 l'exonération est subordonné à la condition que la décision de subvention
 intervienne dans un délai de deux ans au plus à compter de l'année suivant celle
-de l'acquisition des logements par ces organismes.L'exonération de quinze ans
+de l'acquisition des logements par ces organismes. L'exonération de quinze ans
 est applicable à compter de l'année qui suit celle de l'achèvement des travaux
 d'amélioration. La durée de l'exonération est portée à vingt-cinq ans lorsque la
 décision de subvention de l'Agence nationale de l'habitat intervient entre le
@@ -37,7 +37,7 @@ réglementaire du même code.
 Les obligations déclaratives à la charge des personnes et organismes entrant
 dans le champ d'application du présent article sont fixées par décret.
 
-II. - Sont exonérés de taxe foncière sur les propriétés bâties pendant une durée
+II. ― Sont exonérés de taxe foncière sur les propriétés bâties pendant une durée
 de quinze ans les logements détenus, directement ou indirectement par le biais
 d'une filiale à participation majoritaire, par l'Etablissement public de gestion
 immobilière du Nord-Pas-de-Calais créé par l'article 191 de la loi n° 2000-1208
@@ -58,3 +58,10 @@ l'article L. 351-2 du code de la construction et de l'habitation. La déclaratio
 doit préciser la date de décision et de versement de subvention par l'Agence
 nationale de l'habitat ainsi que la date d'achèvement des travaux
 d'amélioration.
+
+Les logements qui font l'objet d'une convention avec l'Agence nationale de
+l'habitat et qui seront conventionnés à l'aide personnalisée au logement après
+la transformation en société anonyme d'habitations à loyer modéré de la société
+de gestion du patrimoine immobilier des houillères du bassin du Nord et du
+Pas-de-Calais conservent le bénéfice de l'exonération de taxe foncière sur les
+propriétés bâties dans les conditions prévues aux deux premiers alinéas.

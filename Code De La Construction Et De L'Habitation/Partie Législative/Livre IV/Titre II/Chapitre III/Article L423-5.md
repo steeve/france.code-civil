@@ -17,8 +17,8 @@ commerce, les organismes privés d'habitations à loyer modéré ne peuvent proc
 En outre, si un organisme privé d'habitations à loyer modéré procède à une
 réduction de capital dans le cas prévu au deuxième alinéa de l'article L.
 225-206 du même code, le prix de rachat ne peut être supérieur au prix maximum
-calculé en application des deux premiers alinéas de l'article L. 423-4. Si
-l'organisme procède à une réduction de son capital par réduction du montant
-nominal des actions, la somme remboursée aux actionnaires est calculée par
-application à la quote-part de capital réduite des dispositions des deux
-premiers alinéas de l'article L. 423-4.
+calculé en application du premier alinéa de l'article L. 423-4. Si l'organisme
+procède à une réduction de son capital par réduction du montant nominal des
+actions, la somme remboursée aux actionnaires est calculée par application à la
+quote-part de capital réduite des dispositions du premier alinéa de l'article L.
+423-4.

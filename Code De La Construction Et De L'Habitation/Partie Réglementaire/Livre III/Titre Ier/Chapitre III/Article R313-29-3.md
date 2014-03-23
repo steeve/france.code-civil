@@ -9,8 +9,8 @@ employeurs à l'effort de construction définis à l'article R. 313-19-1, aux II
 VI de l'article R. 313-19-2 et aux I, III, V et VI de l'article R. 313-19-3. Les
 dispositions de la sous-section 3 de la section II du présent chapitre ne sont
 pas applicables à ces emplois, dont les modalités de mise en œuvre peuvent être
-déterminées, dans le respect des dispositions réglementaires, par l'Union
-d'économie sociale du logement ;
+déterminées, dans le respect des dispositions réglementaires, par l'Union des
+entreprises et des salariés pour le logement ;
 
 2° A la souscription de titres de sociétés commerciales dont les dispositions
 statutaires et les modalités particulières de contrôle et de financement

@@ -1,9 +1,9 @@
 Article L313-28
 ----
-Les statuts des sociétés mentionnées à l'article L. 313-27 doivent contenir des
-clauses conformes à des clauses types fixées par décret. Ce décret peut en outre
-apporter des restrictions aux règles d'usage et d'aliénation du patrimoine de
-ces sociétés.
+Les statuts des sociétés immobilières mentionnées à l'article L. 313-27 doivent
+contenir des clauses conformes à des clauses types fixées par décret. Ce décret
+peut en outre apporter des restrictions aux règles d'usage et d'aliénation du
+patrimoine de ces sociétés.
 
 Ces sociétés, lorsqu'elles ont été constituées antérieurement à la publication
 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption
@@ -18,7 +18,7 @@ mise en conformité des statuts est soumis à l'homologation du président du
 tribunal de commerce statuant sur requête des représentants légaux de la
 société.
 
-Il sera interdit aux présidents, administrateurs ou gérants de ces sociétés qui,
+Il est interdit aux présidents, administrateurs ou gérants de ces sociétés qui,
 volontairement, n'auront pas mis ou fait mettre les statuts en conformité avec
 les clauses types dans le délai imparti, pendant un délai de cinq années, de
 diriger, administrer ou gérer à un titre quelconque une des sociétés

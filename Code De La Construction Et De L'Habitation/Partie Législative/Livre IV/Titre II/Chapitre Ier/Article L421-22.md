@@ -9,10 +9,9 @@ ayant obtenu un agrément en vertu des dispositions applicables dans les Etats
 membres de la Communauté européenne ou les autres Etats parties à l'accord sur
 l'Espace économique européen.
 
-Ils peuvent également effectuer des dépôts sur un compte à terme ouvert auprès
-de l'Etat, de la Caisse des dépôts et consignations, de la Banque de France ou
-auprès d'un établissement de crédit ayant obtenu un agrément en vertu des
-dispositions applicables dans les Etats membres de la Communauté européenne ou
-les autres Etats parties à l'accord sur l'Espace économique européen, ainsi que
-sur un premier livret de la Caisse nationale d'épargne ou des caisses d'épargne
-et de prévoyance.
+Ils peuvent également effectuer des dépôts sur un compte à terme, un compte à
+vue et un compte sur livret ouverts auprès de l'Etat, de la Caisse des dépôts et
+consignations, de la Banque de France ou auprès d'un établissement de crédit
+ayant obtenu un agrément en vertu des dispositions applicables dans les Etats
+membres de la Communauté européenne ou les autres Etats parties à l'accord sur
+l'Espace économique européen, ainsi que sur un livret A.

@@ -1,11 +1,24 @@
 Article L252-4
 ----
-Six mois avant la date d'expiration du bail à réhabilitation, le bailleur peut
-proposer aux occupants un contrat de location prenant effet à cette date. A
-défaut, le preneur est tenu, au plus tard trois mois avant l'expiration du bail
-à réhabilitation, d'offrir aux occupants un logement correspondant à leurs
-besoins et à leurs possibilités. L'occupant qui n'a pas conclu de contrat de
-location ou accepté l'offre de relogement est déchu de tout titre d'occupation
-sur le logement à l'expiration du bail à réhabilitation. Au terme du bail à
-réhabilitation, le preneur est tenu de restituer l'immeuble au bailleur libre de
-location et d'occupation.
+I. - Un an avant l'expiration du bail à réhabilitation, le preneur rappelle au
+bailleur et au locataire les dispositions des II et III du présent article.
+
+II. - Six mois avant l'expiration du bail à réhabilitation, le bailleur peut,
+s'il est occupant, par lettre recommandée avec demande d'avis de réception,
+informer le preneur de son intention de prolonger le bail à réhabilitation.
+
+Dans le même délai, le bailleur qui n'est pas occupant peut proposer au
+locataire un nouveau bail prenant effet au terme du bail à réhabilitation.
+
+La notification reproduit les dispositions du présent II et de l'article L.
+252-5.
+
+III. - Trois mois avant l'extinction du bail à réhabilitation, le preneur
+propose au locataire qui n'a pas conclu un nouveau bail avec le bailleur et qui
+remplit les conditions de ressources fixées par décret la location d'un logement
+correspondant à ses besoins et à ses possibilités.
+
+Le non-respect de cette obligation par le preneur est inopposable au bailleur.
+
+Au terme du bail à réhabilitation, le preneur est tenu de restituer au bailleur
+l'immeuble libre de location et d'occupation.

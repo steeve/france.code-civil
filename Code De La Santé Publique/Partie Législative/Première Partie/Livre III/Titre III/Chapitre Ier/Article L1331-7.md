@@ -9,6 +9,13 @@ installation d'évacuation ou d'épuration individuelle réglementaire ou la mis
 aux normes d'une telle installation, à verser une participation pour le
 financement de l'assainissement collectif.
 
+Toutefois, lorsque dans une zone d'aménagement concerté créée en application de
+l'article L. 311-1 du code de l'urbanisme, l'aménageur supporte tout ou partie
+du coût de construction du réseau public de collecte des eaux usées compris dans
+le programme des équipements publics de la zone, la participation pour le
+financement de l'assainissement collectif est diminuée à proportion du coût
+ainsi pris en charge.
+
 Cette participation s'élève au maximum à 80 % du coût de fourniture et de pose
 de l'installation mentionnée au premier alinéa du présent article, diminué, le
 cas échéant, du montant du remboursement dû par le même propriétaire en

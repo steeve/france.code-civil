@@ -7,6 +7,13 @@ par le présent code à toute personne y ayant vocation.
 L'attribution des concessions d'aménagement est soumise par le concédant à une
 procédure de publicité permettant la présentation de plusieurs offres
 concurrentes, dans des conditions prévues par décret en Conseil d'Etat.
+Lorsqu'une opération d'aménagement est destinée à être réalisée dans une zone
+d'aménagement concerté, l'attribution de la concession d'aménagement peut
+intervenir avant la création de la zone, dès lors que la personne publique à
+l'initiative de la zone d'aménagement concerté a arrêté le bilan de la
+concertation prévue à l'article L. 300-2 et a délibéré sur les enjeux et
+l'objectif de l'opération, son périmètre d'intervention, son programme et son
+bilan financier prévisionnel.
 
 Le concessionnaire assure la maîtrise d'ouvrage des travaux et équipements
 concourant à l'opération prévus dans la concession, ainsi que la réalisation des

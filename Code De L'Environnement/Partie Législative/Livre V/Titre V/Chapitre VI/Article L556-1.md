@@ -1,40 +1,34 @@
 Article L556-1
 ----
-En cas de pollution des sols ou de risque de pollution des sols, l'autorité
-titulaire du pouvoir de police peut, après mise en demeure, assurer d'office
-l'exécution des travaux nécessaires aux frais du responsable. L'exécution des
-travaux ordonnés d'office peut être confiée par le ministre chargé de
-l'environnement à l'Agence de l'environnement et de la maîtrise de l'énergie.
-L'autorité titulaire du pouvoir de police peut également obliger le responsable
-à consigner entre les mains d'un comptable public une somme répondant du montant
-des travaux à réaliser, laquelle sera restituée au fur et à mesure de
-l'exécution des travaux. Les sommes consignées peuvent, le cas échéant, être
-utilisées pour régler les dépenses entraînées par l'exécution d'office. Lorsque
-l'Agence de l'environnement et de la maîtrise de l'énergie intervient pour
-exécuter des travaux ordonnés d'office, les sommes consignées lui sont réservées
-à sa demande.
+Sans préjudice des articles L. 512-6-1, L. 512-7-6 et L. 512-12-1, sur les
+terrains ayant accueilli une installation classée mise à l'arrêt définitif et
+régulièrement réhabilitée pour permettre l'usage défini dans les conditions
+prévues par ces mêmes articles, lorsqu'un usage différent est ultérieurement
+envisagé, le maître d'ouvrage à l'initiative du changement d'usage doit définir
+des mesures de gestion de la pollution des sols et les mettre en œuvre afin
+d'assurer la compatibilité entre l'état des sols et la protection de la
+sécurité, de la santé ou de la salubrité publiques, l'agriculture et
+l'environnement au regard du nouvel usage projeté.
 
-Il est procédé, le cas échéant, au recouvrement de ces sommes comme en matière
-de créances étrangères à l'impôt et au domaine. Pour ce recouvrement, l'Etat
-bénéficie d'un privilège de même rang que celui prévu à l'article 1920 du code
-général des impôts.
+Ces mesures de gestion de la pollution sont définies en tenant compte de
+l'efficacité des techniques de réhabilitation dans des conditions économiquement
+acceptables ainsi que du bilan des coûts, des inconvénients et avantages des
+mesures envisagées. Le maître d'ouvrage à l'initiative du changement d'usage
+fait attester de cette mise en œuvre par un bureau d'études certifié dans le
+domaine des sites et sols pollués, conformément à une norme définie par arrêté
+du ministre chargé de l'environnement, ou équivalent. Le cas échéant, cette
+attestation est jointe au dossier de demande de permis de construire ou
+d'aménager.
 
-L'opposition à l'état exécutoire pris en application d'une mesure de
-consignation ordonnée par l'autorité administrative devant le juge administratif
-n'a pas de caractère suspensif.
+Le cas échéant, s'il demeure une pollution résiduelle sur le terrain concerné
+compatible avec les nouveaux usages, le maître d'ouvrage à l'initiative du
+changement d'usage en informe le propriétaire et le représentant de l'Etat dans
+le département. Le représentant de l'Etat dans le département peut créer sur le
+terrain concerné un secteur d'information sur les sols.
 
-Lorsque, en raison de la disparition ou de l'insolvabilité de l'exploitant du
-site pollué ou du responsable de la pollution, la mise en œuvre des dispositions
-du premier alinéa n'a pas permis d'obtenir la remise en état du site pollué,
-l'Etat peut, avec le concours financier éventuel des collectivités
-territoriales, confier cette remise en état à l'Agence de l'environnement et de
-la maîtrise de l'énergie.
+En cas de modification de la consistance du projet initial, le maître d'ouvrage
+à l'initiative de cette modification complète ou adapte, si nécessaire, les
+mesures de gestion définies au premier alinéa.
 
-Les travaux mentionnés à l'alinéa précédent et, le cas échéant, l'acquisition
-des immeubles peuvent être déclarés d'utilité publique à la demande de l'Etat.
-La déclaration d'utilité publique est prononcée après consultation des
-collectivités territoriales intéressées et enquête publique menée dans les
-formes prévues par le code de l'expropriation pour cause d'utilité publique.
-Lorsque l'une des collectivités territoriales intéressées, le commissaire
-enquêteur ou la commission d'enquête a émis un avis défavorable, la déclaration
-d'utilité publique est prononcée par décret en Conseil d'Etat.
+Les modalités d'application du présent article sont définies par décret en
+Conseil d'Etat.

@@ -12,7 +12,7 @@ naturelle et forestière ;
 
 3° Soit de réduire une protection édictée en raison des risques de nuisance, de
 la qualité des sites, des paysages ou des milieux naturels, ou d'une évolution
-de nature à induire de graves risques de nuisance.
+de nature à induire de graves risques de nuisance ;
 
 La révision est prescrite par délibération de l'organe délibérant de
 l'établissement public de coopération intercommunale ou du conseil municipal.
@@ -28,8 +28,8 @@ qu'il soit porté atteinte aux orientations définies par le plan d'aménagement
 de développement durables, le projet de révision arrêté fait l'objet d'un examen
 conjoint de l'Etat, de l'établissement public de coopération intercommunale
 compétent ou, dans le cas prévu au deuxième alinéa de l'article L. 123-6, de la
-commune, et des personnes publiques associées mentionnées au premier alinéa du I
-et au III de l'article L. 121-4.
+commune, et des personnes publiques associées mentionnées aux I et III de
+l'article L. 121-4.
 
 III. ― Entre la mise en révision d'un plan local d'urbanisme et l'approbation de
 cette révision, il peut être décidé une ou plusieurs révisions effectuées en

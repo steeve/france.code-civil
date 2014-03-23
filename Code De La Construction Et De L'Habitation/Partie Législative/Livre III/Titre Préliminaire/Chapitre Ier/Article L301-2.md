@@ -6,7 +6,9 @@ La politique d'aide au logement comprend notamment :
 construction neuve de logements, à l'acquisition avec amélioration de logements
 existants et aux opérations de restructuration urbaine. Les aides sont majorées
 lorsque les logements servent à l'intégration de personnes rencontrant des
-difficultés sociales particulières ;
+difficultés sociales particulières, notamment pour tenir compte de la nécessité
+d'adapter la localisation, la taille, les caractéristiques techniques et la
+gestion de l'opération, tout en maîtrisant la dépense de logement ;
 
 2° Des aides publiques, accordées sous condition de ressources, aux personnes
 accédant à la propriété de leur logement, sous la forme d'avances remboursables

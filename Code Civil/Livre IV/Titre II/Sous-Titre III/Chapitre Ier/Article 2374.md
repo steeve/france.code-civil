@@ -10,13 +10,25 @@ suite ;
 
 1° bis Conjointement avec le vendeur et, le cas échéant, avec le prêteur de
 deniers mentionné au 2°, le syndicat des copropriétaires, sur le lot vendu, pour
-le paiement des charges et travaux mentionnés aux articles 10 et 30 de la loi n°
-65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles
-bâtis, relatifs à l'année courante et aux quatre dernières années échues.
+le paiement des charges et travaux mentionnés à l'article 10, au c du II de
+l'article 24 et à l'article 30 de la loi n° 65-557 du 10 juillet 1965 fixant le
+statut de la copropriété des immeubles bâtis et des cotisations au fonds de
+travaux mentionné à l'article 14-2 de la même loi, relatifs à l'année courante
+et aux quatre dernières années échues ainsi que des dommages et intérêts alloués
+par les juridictions et des dépens.
 
 Toutefois, le syndicat est préféré au vendeur et au prêteur de deniers pour les
 créances afférentes aux charges et travaux de l'année courante et des deux
-dernières années échues.
+dernières années échues ;
+
+1° ter Conjointement avec le vendeur et, le cas échéant, avec le prêteur de
+deniers mentionné au 2° du présent article, l'opérateur mentionné à l'article L.
+615-10 du code de la construction et de l'habitation, si le bien vendu est
+assorti d'une servitude sur des biens d'intérêt collectif.
+
+Toutefois, l'opérateur est préféré au vendeur et au prêteur de deniers pour les
+redevances prévues au même article L. 615-10 de l'année courante et des deux
+dernières années échues ;
 
 2° Même en l'absence de subrogation, ceux qui ont fourni les deniers pour
 l'acquisition d'un immeuble, pourvu qu'il soit authentiquement constaté, par

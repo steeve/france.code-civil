@@ -41,8 +41,8 @@ dont elles assurent ou non la gestion ;
 
 7° Les changeurs manuels ;
 
-8° Les personnes exerçant les activités mentionnées aux 1°, 2°, 4°, 5° et 8° de
-l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions
+8° Les personnes exerçant les activités mentionnées aux 1°, 2°, 4°, 5°, 8° et 9°
+de l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions
 d'exercice des activités relatives à certaines opérations portant sur les
 immeubles et les fonds de commerce, à l'exclusion de l'échange, de la location
 ou de la sous-location, saisonnière ou non, en nu ou en meublé ;

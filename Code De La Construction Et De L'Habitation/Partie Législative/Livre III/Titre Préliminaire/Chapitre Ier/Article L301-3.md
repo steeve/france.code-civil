@@ -16,21 +16,21 @@ et démographiques, de l'état du patrimoine de logements ainsi que de la
 situation du marché locatif.
 
 Le représentant de l'Etat dans la région, après avis du comité régional de
-l'habitat ou, en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte
-et à Saint-Martin, du conseil départemental de l'habitat ou de l'organisme qui
-en exerce les attributions, répartit le montant des crédits publics qui lui sont
-notifiés entre les différents établissements publics de coopération
-intercommunale à fiscalité propre et, pour le reste du territoire, entre les
-départements. La participation à cette répartition est subordonnée à la
-conclusion d'une convention avec l'Etat définie aux articles L. 301-5-1 ou L.
-301-5-2.
+l'habitat et de l'hébergement ou, en Guadeloupe, en Guyane, à la Martinique, à
+La Réunion, à Mayotte et à Saint-Martin, du conseil départemental de l'habitat
+et de l'hébergement ou de l'organisme qui en exerce les attributions, répartit
+le montant des crédits publics qui lui sont notifiés entre les différents
+établissements publics de coopération intercommunale à fiscalité propre et, pour
+le reste du territoire, entre les départements. La participation à cette
+répartition est subordonnée à la conclusion d'une convention avec l'Etat définie
+aux articles L. 301-5-1 ou L. 301-5-2.
 
 Lorsqu'un département n'a pas conclu de convention avec l'Etat, le représentant
 de l'Etat dans la région détermine le montant des crédits directement affectés,
 selon le cas, par le représentant de l'Etat dans le département ou l'Agence
 nationale de l'habitat, à des opérations situées en dehors du périmètre des
 établissements publics de coopération intercommunale ayant conclu la convention
-prévue à l'article L. 301-5-1.L'affectation de ces crédits tient compte du plan
+prévue à l'article L. 301-5-1. L'affectation de ces crédits tient compte du plan
 départemental d'action pour le logement des personnes défavorisées et des
 programmes locaux de l'habitat.
 

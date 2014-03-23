@@ -1,10 +1,10 @@
 Article R313-20-3
 ----
 Un compte rendu annuel de l'ensemble des interventions mentionnées à l'article
-R. 313-19-3 dans chaque département est présenté par l'Union d'économie sociale
-du logement ou par un de ses associés collecteurs au comité responsable du plan
-départemental d'actions pour le logement des personnes défavorisées, au plus
-tard le 30 avril de l'année suivante.
+R. 313-19-3 dans chaque département est présenté par l'Union des entreprises et
+des salariés pour le logement ou par un de ses associés collecteurs au comité
+responsable du plan départemental d'actions pour le logement des personnes
+défavorisées, au plus tard le 30 avril de l'année suivante.
 
 I.-1° Les structures d'hébergement mentionnées au b du I de l'article R.
 313-19-3 comprennent les établissements prévus au 8° de l'article L. 312-1 du

@@ -2,18 +2,25 @@ Article L321-1
 ----
 I.-L'Agence nationale de l'habitat a pour mission, dans le respect des objectifs
 définis à l'article L. 301-1, de promouvoir le développement et la qualité du
-parc existant de logements privés ainsi que de participer à la lutte contre
-l'habitat indigne et à l'amélioration des structures d'hébergement.A cet effet,
-elle encourage et facilite l'exécution de travaux de réparation,
-d'assainissement, d'amélioration et d'adaptation d'immeubles d'habitation, ainsi
-que l'exécution de travaux de transformation en logements de locaux non affectés
-à l'habitation, dès lors que ces logements sont utilisés à titre de résidence
+parc existant de logements privés, en particulier en ce qui concerne les
+performances thermiques et l'adaptation à la perte d'autonomie. Elle participe à
+la lutte contre l'habitat indigne et dégradé, aux actions de prévention et de
+traitement des copropriétés fragiles ou en difficulté, à la lutte contre la
+précarité énergétique et à l'amélioration des structures d'hébergement. A cet
+effet, elle encourage et facilite l'exécution de travaux de réparation,
+d'assainissement, d'amélioration et d'adaptation d'immeubles d'habitation,
+notamment ceux faisant l'objet d'un bail rural ou commercial, ainsi que
+l'exécution de travaux de transformation en logements de locaux non affectés à
+l'habitation, dès lors que ces logements sont utilisés à titre de résidence
 principale, ainsi que l'exécution d'opérations de résorption d'habitat insalubre
-et de requalification d'immeubles d'habitat privé dégradé. Elle peut mener des
-actions d'assistance, d'étude ou de communication ayant pour objet d'améliorer
-la connaissance du parc privé existant et des conditions de son occupation et de
-faciliter l'accès des personnes défavorisées et des ménages à revenus modestes
-ou intermédiaires aux logements locatifs privés.
+et de requalification d'immeubles d'habitat privé dégradé et d'opérations de
+portage ciblé de lots d'habitation d'une copropriété en difficulté. Elle peut
+mener des actions d'assistance, d'étude ou de communication ayant pour objet
+d'améliorer la connaissance du parc privé existant et des conditions de son
+occupation et de faciliter l'accès des personnes défavorisées et des ménages à
+revenus modestes ou intermédiaires aux logements locatifs privés. Elle peut
+également participer au financement des travaux d'auto-réhabilitation
+accompagnée par des organismes agréés au titre de l'article L. 365-1.
 
 L'Agence nationale de l'habitat est administrée par un conseil d'administration
 qui comprend un nombre égal :
@@ -24,9 +31,9 @@ qui comprend un nombre égal :
 France, de l'Assemblée des communautés de France et de l'Association des maires
 de France ;
 
-3° De personnalités qualifiées, dont deux représentants de l'Union d'économie
-sociale du logement ainsi qu'un représentant des propriétaires, un représentant
-des locataires et un représentant des professionnels de l'immobilier.
+3° De personnalités qualifiées, dont un représentant des propriétaires, un
+représentant des locataires et un représentant des professionnels de
+l'immobilier.
 
 Le président et les membres du conseil d'administration sont nommés par arrêté
 conjoint du ministre chargé du logement et du ministre chargé des finances. Le
@@ -84,5 +91,5 @@ IV.-Un décret en Conseil d'Etat précise les conditions d'application du prése
 article. Il détermine les modalités de gestion et de fonctionnement de l'Agence
 nationale de l'habitat, notamment les règles particulières de majorité
 nécessaires à la gestion des crédits relatifs à la lutte contre l'habitat
-indigne et à l'amélioration des structures d'hébergement, , ainsi que les
+indigne et à l'amélioration des structures d'hébergement,, ainsi que les
 utilisations de ses ressources.

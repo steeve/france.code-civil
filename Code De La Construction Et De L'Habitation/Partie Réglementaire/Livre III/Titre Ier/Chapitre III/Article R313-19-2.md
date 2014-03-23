@@ -14,11 +14,11 @@ mentionnées à l'article L. 215-1.
 Les souscriptions ou acquisitions de titres peuvent également concerner, dès
 lors qu'elles sont autorisées à partir des ressources issues de la participation
 des employeurs à l'effort de construction par les clauses statutaires types
-applicables aux organismes collecteurs associés de l'Union d'économie sociale du
-logement, toute société dont l'objet social répond aux objectifs fixés au b de
-l'article L. 313-3 et dont les organismes collecteurs associés de l'Union ont ou
-prennent, seuls ou collectivement, le contrôle au sens du III de l'article L.
-430-1 du code de commerce.
+applicables aux organismes collecteurs associés de l'Union des entreprises et
+des salariés pour le logement, toute société dont l'objet social répond aux
+objectifs fixés au b de l'article L. 313-3 et dont les organismes collecteurs
+associés de l'Union ont ou prennent, seuls ou collectivement, le contrôle au
+sens du III de l'article L. 430-1 du code de commerce.
 
 II.-Souscriptions de titres de créance subordonnés à taux réduit et à long terme
 à remboursement in fine émis par des sociétés mentionnées au I, par des offices
@@ -71,17 +71,17 @@ du code général des impôts.
 VI.-Prêts à taux réduit ou nul à court terme accordés pour financer des
 opérations mentionnées aux III à V.
 
-VII.-Subventions accordées par l'Union d'économie sociale du logement à
-l'association foncière logement mentionnée à l'article L. 313-34.
+VII.-Subventions accordées par l'Union des entreprises et des salariés pour le
+logement à l'association foncière logement mentionnée à l'article L. 313-34.
 
-VIII.-Prêts à taux réduit ou nul à long terme accordés par l'Union d'économie
-sociale du logement à l'association foncière logement mentionnée à l'article L.
-313-34.
+VIII.-Prêts à taux réduit ou nul à long terme accordés par l'Union des
+entreprises et des salariés pour le logement à l'association foncière logement
+mentionnée à l'article L. 313-34.
 
 IX.-Investissements réalisés par les organismes collecteurs agréés qui ne sont
-pas associés de l'Union d'économie sociale du logement à partir des ressources
-de la participation des employeurs à l'effort de construction, sous la forme
-d'opérations d'acquisition, de construction ou d'amélioration de logements
-locatifs, lorsque ces logements bénéficient des prêts mentionnés à l'article R.
-331-1, à l'article R. 372-1 ou à l'article R. 391-1 ou relèvent du champ
-d'application de l'article L. 353-1.
+pas associés de l' Union des entreprises et des salariés pour le logement à
+partir des ressources de la participation des employeurs à l'effort de
+construction, sous la forme d'opérations d'acquisition, de construction ou
+d'amélioration de logements locatifs, lorsque ces logements bénéficient des
+prêts mentionnés à l'article R. 331-1, à l'article R. 372-1 ou à l'article R.
+391-1 ou relèvent du champ d'application de l'article L. 353-1.

@@ -33,5 +33,14 @@ Le président de l'établissement public de coopération intercommunale procède
 la nomination des gardes champêtres dans le cas et les conditions prévus à
 l'article L. 522-2 du code de la sécurité intérieure.
 
+Le président de l'établissement public de coopération intercommunale peut, par
+délégation de son organe délibérant, être chargé d'exercer, au nom de
+l'établissement, les droits de préemption dont celui-ci est titulaire ou
+délégataire en application du code de l'urbanisme. Il peut également déléguer
+l'exercice de ce droit à l'occasion de l'aliénation d'un bien, dans les
+conditions que fixe l'organe délibérant de l'établissement. Il rend compte à la
+plus proche réunion utile de l'organe délibérant de l'exercice de cette
+compétence.
+
 A partir de l'installation de l'organe délibérant et jusqu'à l'élection du
 président, les fonctions de président sont assurées par le doyen d'âge.

@@ -11,14 +11,25 @@ disposition du public, pendant une durée minimale d'un mois, appelé à formule
 ses observations dans des conditions précisées par la délibération du conseil
 municipal.
 
+Sur demande du maire ou si celui-ci n'engage pas la procédure mentionnée au
+deuxième alinéa dans un délai de six mois à compter de la déclaration d'état
+d'abandon manifeste, le président de l'établissement public de coopération
+intercommunale compétent en matière d'habitat ou du conseil général du lieu de
+situation du bien peut constituer un dossier présentant le projet simplifié
+d'acquisition publique, ainsi que l'évaluation sommaire de son coût, qui est mis
+à la disposition du public, pendant une durée minimale d'un mois, appelé à
+formuler ses observations dans des conditions précisées par la délibération de
+l'organe délibérant de l'établissement public de coopération intercommunale ou
+du département.
+
 Par dérogation aux dispositions du code de l'expropriation pour cause d'utilité
 publique, le représentant de l'Etat dans le département, au vu du dossier et des
 observations du public, par arrêté :
 
-1° Déclare l'utilité publique du projet mentionné au deuxième alinéa et
-détermine la liste des immeubles ou parties d'immeubles, des parcelles ou des
-droits réels immobiliers à exproprier ainsi que l'identité des propriétaires ou
-titulaires de ces droits réels ;
+1° Déclare l'utilité publique du projet mentionné aux deuxième ou troisième
+alinéas et détermine la liste des immeubles ou parties d'immeubles, des
+parcelles ou des droits réels immobiliers à exproprier ainsi que l'identité des
+propriétaires ou titulaires de ces droits réels ;
 
 2° Déclare cessibles lesdits immeubles, parties d'immeubles, parcelles ou droits
 réels immobiliers concernés ;

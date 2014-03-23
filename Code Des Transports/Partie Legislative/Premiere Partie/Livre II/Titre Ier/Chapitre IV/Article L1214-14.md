@@ -6,9 +6,8 @@ territoire qu'il couvre.
 
 Les services de l'Etat, de même que les régions et les départements au titre de
 leur qualité d'autorités organisatrices de transport ou de gestionnaires d'un
-réseau routier et, le cas échéant, le président de l'établissement public
-mentionné aux articles L. 122-4 et L. 122-4-1 du code de l'urbanisme sont
-associés à son élaboration.
+réseau routier et, le cas échéant, le président de l'établissement public prévu
+à l'article L. 122-4 du code de l'urbanisme sont associés à son élaboration.
 
 Les représentants des professions et des usagers des transports ainsi que des
 associations de personnes handicapées ou dont la mobilité est réduite, les

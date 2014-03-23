@@ -66,10 +66,10 @@ ne s'applique pas dans le cas des opérations prévues au I de l'article R.
 c) Prêts à taux nul accordés à des personnes physiques pour alléger
 temporairement leurs charges de logement ;
 
-d) Financement par l'Union d'économie sociale du logement d'un dispositif de
-report en fin de prêt d'une fraction des mensualités des prêts accordés à des
-personnes physiques, lorsque ces prêts bénéficient de la garantie de l'Etat en
-application de l'article L. 312-1.
+d) Financement par l'Union des entreprises et des salariés pour le logement d'un
+dispositif de report en fin de prêt d'une fraction des mensualités des prêts
+accordés à des personnes physiques, lorsque ces prêts bénéficient de la garantie
+de l'Etat en application de l'article L. 312-1.
 
 VI.-Pour des territoires présentant une situation particulièrement difficile sur
 le plan du logement, financement d'activités d'ingénierie et d'accompagnement

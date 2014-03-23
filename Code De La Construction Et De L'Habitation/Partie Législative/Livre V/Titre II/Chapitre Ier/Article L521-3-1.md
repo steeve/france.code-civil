@@ -2,8 +2,8 @@ Article L521-3-1
 ----
 I.-Lorsqu'un immeuble fait l'objet d'une interdiction temporaire d'habiter ou
 d'utiliser ou que son évacuation est ordonnée en application de l'article L.
-511-3, le propriétaire ou l'exploitant est tenu d'assurer aux occupants un
-hébergement décent correspondant à leurs besoins.
+511-3 ou de l'article L. 129-3, le propriétaire ou l'exploitant est tenu
+d'assurer aux occupants un hébergement décent correspondant à leurs besoins.
 
 A défaut, l'hébergement est assuré dans les conditions prévues à l'article L.
 521-3-2. Son coût est mis à la charge du propriétaire ou de l'exploitant.

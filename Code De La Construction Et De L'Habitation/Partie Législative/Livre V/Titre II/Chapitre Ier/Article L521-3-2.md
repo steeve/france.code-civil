@@ -1,10 +1,11 @@
 Article L521-3-2
 ----
 I.-Lorsqu'un arrêté de péril pris en application de l'article L. 511-1 ou des
-prescriptions édictées en application de l'article L. 123-3 sont accompagnés
-d'une interdiction temporaire ou définitive d'habiter et que le propriétaire ou
-l'exploitant n'a pas assuré l'hébergement ou le relogement des occupants, le
-maire prend les dispositions nécessaires pour les héberger ou les reloger.
+prescriptions édictées en application de l'article L. 123-3 ou de l'article L.
+129-3 sont accompagnés d'une interdiction temporaire ou définitive d'habiter et
+que le propriétaire ou l'exploitant n'a pas assuré l'hébergement ou le
+relogement des occupants, le maire prend les dispositions nécessaires pour les
+héberger ou les reloger.
 
 II.-Lorsqu'une déclaration d'insalubrité, une mise en demeure ou une injonction
 prise sur le fondement des articles L. 1331-22, L. 1331-23, L. 1331-24, L.

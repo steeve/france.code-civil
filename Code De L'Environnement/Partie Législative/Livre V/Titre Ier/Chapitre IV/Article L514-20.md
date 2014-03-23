@@ -10,7 +10,9 @@ Si le vendeur est l'exploitant de l'installation, il indique également par écr
 substances chimiques ou radioactives. L'acte de vente atteste de
 l'accomplissement de cette formalité.
 
-A défaut, l'acheteur a le choix de poursuivre la résolution de la vente ou de se
-faire restituer une partie du prix ; il peut aussi demander la remise en état du
-site aux frais du vendeur, lorsque le coût de cette remise en état ne paraît pas
-disproportionné par rapport au prix de vente.
+A défaut, et si une pollution constatée rend le terrain impropre à la
+destination précisée dans le contrat, dans un délai de deux ans à compter de la
+découverte de la pollution, l'acheteur a le choix de demander la résolution de
+la vente ou de se faire restituer une partie du prix ; il peut aussi demander la
+réhabilitation du site aux frais du vendeur, lorsque le coût de cette
+réhabilitation ne paraît pas disproportionné par rapport au prix de vente.

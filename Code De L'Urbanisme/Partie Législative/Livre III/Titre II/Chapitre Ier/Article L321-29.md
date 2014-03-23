@@ -20,6 +20,12 @@ d'établissements publics ou de personnes publiques ou privées y ayant vocation
 sens de l'article 3 de la loi du 12 juillet 1985 relative à la maîtrise
 d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée.
 
+Elle peut mener des opérations de requalification des copropriétés dégradées
+mentionnées à l'article L. 741-1 du code de la construction et de l'habitation
+ou apporter son concours à l'établissement public foncier d'Ile-de-France pour
+la réalisation d'opérations de requalification des copropriétés dégradées
+d'intérêt national.
+
 Afin de favoriser la protection et la mise en valeur de l'environnement, elle
 peut procéder dans la même région, à titre secondaire, à des acquisitions
 foncières d'espaces naturels, agricoles ou forestiers dont la préservation doit

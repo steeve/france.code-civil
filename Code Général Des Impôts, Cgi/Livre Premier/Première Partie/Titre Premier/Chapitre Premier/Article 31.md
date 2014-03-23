@@ -570,11 +570,6 @@ renouvellement ou la reconduction de ce contrat de location, tant que le même
 locataire reste en place et que toutes les conditions, notamment celles de
 loyer, sont remplies.
 
-Lorsque les conventions prévues à l'article L. 321-4 du code de la construction
-et de l'habitation ne permettent pas l'octroi d'une aide publique mentionnée au
-premier alinéa de l'article L. 301-3 du même code, elles sont signées par
-l'Agence nationale de l'habitat.
-
 Le contribuable ou la société propriétaire doit louer le logement nu pendant
 toute la durée de la convention à des personnes qui en font leur habitation
 principale. Pour l'application du premier alinéa, le loyer et les ressources du

@@ -10,8 +10,10 @@ local de l'habitat et les départements sont associés, selon des modalités
 définies par décret en Conseil d'Etat, à l'élaboration des dispositions des
 conventions d'utilité sociale relatives aux immeubles situés sur leur
 territoire. Ils sont signataires des conventions d'utilité sociale conclues par
-les organismes qui leur sont rattachés et peuvent l'être pour les organismes
-disposant d'un patrimoine sur leur territoire.
+les organismes qui leur sont rattachés ainsi que pour les organismes disposant
+d'un patrimoine représentant plus de 20 % du parc social sur leur territoire.
+Ils peuvent l'être pour les autres organismes disposant d'un patrimoine sur leur
+territoire.
 
 La convention d'utilité sociale comporte :
 

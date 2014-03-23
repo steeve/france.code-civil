@@ -15,18 +15,20 @@ de l'environnement agréées au titre de l'article L. 141-1 et les organisations
 professionnelles concernées. Elles sont approuvées par décret en Conseil d'Etat
 après mise à disposition du public.
 
-III.-Les schémas directeurs, les schémas de secteur et les plans d'occupation
-des sols ou tout document d'urbanisme en tenant lieu doivent être compatibles
-avec les directives de protection et de mise en valeur des paysages.
+III.-Les schémas de cohérence territoriale, les schémas de secteur et les plans
+locaux d'urbanisme ou tout document d'urbanisme en tenant lieu doivent être
+compatibles avec les directives de protection et de mise en valeur des paysages,
+dans les conditions fixées à l'article L. 111-1-1 du code de l'urbanisme.
 
 IV.-Leurs dispositions sont opposables aux demandes d'autorisations de
 défrichement, d'occupation et d'utilisation du sol :
 
-1° En l'absence de plan d'occupation des sols opposable aux tiers ou de tout
+1° En l'absence de plan local d'urbanisme opposable aux tiers ou de tout
 document d'urbanisme en tenant lieu ;
 
-2° Lorsqu'un plan d'occupation des sols ou tout document d'urbanisme en tenant
-lieu est incompatible avec leurs dispositions.
+2° Lorsqu'un plan local d'urbanisme ou tout document d'urbanisme en tenant lieu
+n'a pas été mis en compatibilité avec leurs dispositions dans les conditions
+fixées à l'article L. 111-1-1 du code de l'urbanisme.
 
 V.-Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

@@ -1,7 +1,7 @@
 Article L123-13-3
 ----
 I.-En dehors des cas mentionnés à l'article L. 123-13-2, et dans le cas des
-majorations des possibilités de construire prévues au sixième alinéa de
+majorations des possibilités de construire prévues au deuxième alinéa de
 l'article L. 123-1-11 ainsi qu'aux articles L. 127-1, L. 128-1 et L. 128-2, le
 projet de modification peut, à l'initiative du président de l'établissement
 public de coopération intercommunale ou, dans le cas prévu au deuxième alinéa de

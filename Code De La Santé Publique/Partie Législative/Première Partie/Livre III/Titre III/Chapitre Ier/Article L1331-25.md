@@ -16,6 +16,6 @@ l'établissement public.
 Cet arrêté vaut interdiction définitive d'habiter et d'utiliser les locaux et
 installations qu'il désigne.
 
-Les dispositions des I et III de l'article L. 1331-28, des articles L. 1331-28-1
+Les dispositions des I et IV de l'article L. 1331-28, des articles L. 1331-28-1
 et L. 1331-28-2, du I de l'article L. 1331-29 et de l'article L. 1331-30 sont
 applicables.

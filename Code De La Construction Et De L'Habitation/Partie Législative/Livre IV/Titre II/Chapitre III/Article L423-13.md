@@ -1,8 +1,13 @@
 Article L423-13
 ----
-L'employeur est tenu d'accorder au salarié siégeant au conseil d'administration
-ou conseil de surveillance d'un organisme d'habitations à loyer modéré le temps
-nécessaire pour participer aux séances plénières de cette instance.
+L'employeur est tenu d'accorder au salarié siégeant au conseil d'administration,
+à la commission d'attribution ou au conseil de surveillance d'un organisme
+d'habitations à loyer modéré le temps nécessaire pour participer aux séances
+plénières de cette instance.
+
+Toutefois, l'employeur peut refuser l'absence du salarié pour participer à la
+commission d'attribution, s'il peut démontrer que cette participation aurait des
+conséquences préjudiciables à la bonne marche de l'entreprise.
 
 Si, du fait de sa participation à ces séances, le salarié connaît une diminution
 de sa rémunération, il reçoit de cet organisme une indemnité compensant, sous

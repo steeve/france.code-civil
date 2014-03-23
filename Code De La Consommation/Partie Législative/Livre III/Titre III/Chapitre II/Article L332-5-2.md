@@ -2,7 +2,9 @@ Article L332-5-2
 ----
 Lorsque le juge d'instance statue en application de l'avant-dernier alinéa de
 l'article L. 330-1, le rétablissement personnel sans liquidation judiciaire
-emporte les mêmes effets que ceux mentionnés à l'article L. 332-5.
+emporte les mêmes effets que ceux mentionnés à l'article L. 332-5. Cependant,
+dans ce cas, les dettes sont arrêtées à la date du jugement prononçant le
+rétablissement personnel sans liquidation judiciaire.
 
 Le greffe procède à des mesures de publicité pour permettre aux créanciers qui
 n'ont pas été avisés du recours de former tierce opposition à l'encontre de ce

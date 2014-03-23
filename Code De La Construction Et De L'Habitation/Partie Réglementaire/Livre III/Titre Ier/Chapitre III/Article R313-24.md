@@ -30,8 +30,8 @@ leurs comptes annuels ;
 
 7° Etablissement annuel du rapport de gestion mentionné au deuxième alinéa de
 l'article R. 612-2 du code de commerce dans les conditions, notamment de forme
-et de contenu, définies par recommandation de l'Union d'économie sociale du
-logement ;
+et de contenu, définies par recommandation de l'Union des entreprises et des
+salariés pour le logement ;
 
 8° Transmission annuelle de la composition de leurs organes dirigeants et de
 leurs statuts ainsi que de toute modification qui leur est apportée au directeur
@@ -43,5 +43,5 @@ l'effort de construction ;
 participation des employeurs à l'effort de construction à l'issue d'un contrôle
 ;
 
-10° Respect des recommandations de l'Union d'économie sociale du logement prises
-sur le fondement des 3° à 6° de l'article L. 313-19.
+10° Respect des recommandations de l'Union des entreprises et des salariés pour
+le logement prises sur le fondement des 3° à 6° de l'article L. 313-19.

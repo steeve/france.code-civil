@@ -12,10 +12,26 @@ code de la construction et de l'habitation précitée ou aux sociétés civiles
 immobilières dont les parts sont détenues à au moins 99 % par cette association,
 des immeubles à usage principal d'habitation destinés à la location ;
 
-3° Réaliser en vue de leur vente, dans les conditions prévues à l'article L.
-261-3, pour le compte de personnes publiques ou privées, des immeubles à usage
-principal d'habitation dont ils peuvent provisoirement détenir l'usufruit selon
-les modalités définies aux articles L. 253-1 à L. 253-5 ;
+3° Acquérir la nue-propriété ou l'usufruit temporaire des logements visés à
+l'article L. 253-1, ou réserver ce dernier à leur profit, à la condition que ces
+logements soient destinés à des personnes qui remplissent les conditions de
+ressources définies par décret :
+
+a) Au sein d'immeubles à usage principal d'habitation qu'ils réalisent en vue de
+leur vente à des personnes physiques ou morales dans les conditions prévues à
+l'article L. 261-3 ;
+
+b) A titre expérimental pendant une durée de cinq ans à compter de la
+promulgation de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et
+un urbanisme rénové, au sein d'immeubles bâtis occupés ou non, dans les communes
+appartenant à une zone d'urbanisation continue de plus de 50 000 habitants telle
+que définie à l'article 232 du code général des impôts ainsi que dans les
+communes de plus de 15 000 habitants en forte croissance démographique définies
+par décret pris en application du septième alinéa de l'article L. 302-5 du
+présent code ;
+
+La sous-section 1 de la section 2 du chapitre III du titre IV du présent livre
+n'est pas applicable aux opérations relevant du présent 3° ;
 
 4° Réaliser des prestations de service pour le compte de l'association agréée
 mentionnée à l'article L. 313-34 du code de la construction et de l'habitation

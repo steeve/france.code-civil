@@ -20,7 +20,8 @@ L. 332-5. Le greffe procède à des mesures de publicité pour permettre aux
 créanciers qui n'auraient pas été avisés de former tierce opposition à
 l'encontre de ce jugement. Les créances dont les titulaires n'auraient pas formé
 tierce opposition dans un délai de deux mois à compter de cette publicité sont
-éteintes.
+éteintes. Cependant, dans ce cas, les dettes sont arrêtées à la date du jugement
+prononçant le rétablissement personnel sans liquidation judiciaire.
 
 S'il constate que le débiteur se trouve dans la situation visée au 2° de
 l'article L. 330-1, le juge ouvre, avec l'accord du débiteur, une procédure de

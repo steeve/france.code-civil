@@ -1,7 +1,8 @@
 Article R426-4
 ----
-L'Union d'économie sociale du logement doit être à tout moment en mesure de
-justifier l'évaluation des provisions mentionnées à l'article R. 426-3.
+L'Union des entreprises et des salariés pour le logement doit être à tout moment
+en mesure de justifier l'évaluation des provisions mentionnées à l'article R.
+426-3.
 
 Ces provisions sont évaluées chaque année pour le compte de l'union par un
 actuaire, membre d'une association d'actuaires reconnue par l'Autorité de

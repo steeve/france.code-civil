@@ -1,9 +1,10 @@
 Article R313-19-4
 ----
-Au titre du d de l'article L. 313-3, l'Union d'économie sociale du logement
-contribue à la mise en œuvre du programme national de rénovation urbaine
-mentionné à l'article 6 de la loi n° 2003-710 du 1er août 2003 d'orientation et
-de programmation pour la ville et la rénovation urbaine, sous la forme :
+Au titre du d de l'article L. 313-3, l'Union des entreprises et des salariés
+pour le logement contribue à la mise en œuvre du programme national de
+rénovation urbaine mentionné à l'article 6 de la loi n° 2003-710 du 1er août
+2003 d'orientation et de programmation pour la ville et la rénovation urbaine,
+sous la forme :
 
 I.-De subventions versées à l'Agence nationale pour la rénovation urbaine.
 

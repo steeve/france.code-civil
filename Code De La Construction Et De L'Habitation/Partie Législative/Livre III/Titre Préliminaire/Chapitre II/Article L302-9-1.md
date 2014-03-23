@@ -17,18 +17,21 @@ sociaux rapportés au nombre total de logements commencés, du respect de la
 typologie prévue au II du même article L. 302-8, des difficultés rencontrées le
 cas échéant par la commune et des projets de logements sociaux en cours de
 réalisation, le préfet peut, par un arrêté motivé pris après avis du comité
-régional de l'habitat, prononcer la carence de la commune. Par le même arrêté et
-en fonction des mêmes critères, il fixe, pour une durée maximale de trois ans à
-compter du 1er janvier de l'année suivant sa signature, la majoration du
-prélèvement défini à l'article L. 302-7 et après avis de la commission
-mentionnée au I de l'article L. 302-9-1-1. Le prélèvement majoré ne peut être
-supérieur à cinq fois le prélèvement mentionné à l'article L. 302-7. Le
-prélèvement majoré ne peut excéder 5 % du montant des dépenses réelles de
-fonctionnement de la commune figurant dans le compte administratif établi au
-titre du pénultième exercice. Ce plafond est porté à 7,5 % pour les communes
-dont le potentiel fiscal par habitant est supérieur ou égal à 150 % du potentiel
-fiscal médian par habitant sur l'ensemble des communes soumises au prélèvement
-défini à l'article L. 302-7 au 1er janvier de l'année précédente.
+régional de l'habitat et de l'hébergement, prononcer la carence de la commune.
+Cet arrêté peut aussi prévoir les secteurs dans lesquels le préfet est compétent
+pour délivrer les autorisations d'utilisation et d'occupation du sol pour des
+constructions à usage de logements. Par le même arrêté et en fonction des mêmes
+critères, il fixe, pour une durée maximale de trois ans à compter du 1er janvier
+de l'année suivant sa signature, la majoration du prélèvement défini à l'article
+L. 302-7 et après avis de la commission mentionnée au I de l'article L.
+302-9-1-1. Le prélèvement majoré ne peut être supérieur à cinq fois le
+prélèvement mentionné à l'article L. 302-7. Le prélèvement majoré ne peut
+excéder 5 % du montant des dépenses réelles de fonctionnement de la commune
+figurant dans le compte administratif établi au titre du pénultième exercice. Ce
+plafond est porté à 7,5 % pour les communes dont le potentiel fiscal par
+habitant est supérieur ou égal à 150 % du potentiel fiscal médian par habitant
+sur l'ensemble des communes soumises au prélèvement défini à l'article L. 302-7
+au 1er janvier de l'année précédente.
 
 Les dépenses déductibles mentionnées au quatrième alinéa de l'article L. 302-7
 qui n'ont pas été déduites du prélèvement viennent en déduction de la majoration
@@ -56,3 +59,13 @@ Lorsqu'une commune fait l'objet d'un arrêté préfectoral de carence au titre d
 présent article, les dispositions relatives à l'offre de logement intermédiaire
 prévues par les documents de planification et de programmation sont privées
 d'effet.
+
+Lorsqu'il a constaté la carence d'une commune en application du présent article,
+le préfet peut, après avoir recueilli l'avis de la commune, conclure une
+convention avec un ou plusieurs organismes bénéficiant de l'agrément mentionné à
+l'article L. 365-4 afin de mettre en œuvre sur le territoire de la commune, au
+sein du parc privé, un dispositif d'intermédiation locative dans les conditions
+prévues à l'article L. 321-10. Cette convention prévoit, dans la limite du
+plafond mentionné au quatrième alinéa de l'article L. 302-7, une contribution
+financière de la commune, qui est déduite du prélèvement défini au même article
+L. 302-7.

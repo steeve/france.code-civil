@@ -1,6 +1,6 @@
 Article L1331-28
 ----
-I.-Lorsque la commission ou le haut conseil conclut à l'impossibilité de
+I. ― Lorsque la commission ou le haut conseil conclut à l'impossibilité de
 remédier à l'insalubrité, le représentant de l'Etat dans le département déclare
 l'immeuble insalubre à titre irrémédiable, prononce l'interdiction définitive
 d'habiter et, le cas échéant, d'utiliser les lieux et précise, sur avis de la
@@ -13,11 +13,12 @@ son évacuation. Les mêmes mesures peuvent être décidées à tout moment par 
 maire au nom de l'Etat. Ces mesures peuvent faire l'objet d'une exécution
 d'office.
 
-II.-Lorsque la commission ou le haut conseil conclut à la possibilité de
+II. ― Lorsque la commission ou le haut conseil conclut à la possibilité de
 remédier à l'insalubrité, le représentant de l'Etat dans le département prescrit
-les mesures adéquates ainsi que le délai imparti pour leur réalisation sur avis
-de la commission ou du haut conseil et prononce, s'il y a lieu, l'interdiction
-temporaire d'habiter et, le cas échéant, d'utiliser les lieux.
+par arrêté les mesures adéquates ainsi que le délai imparti pour leur
+réalisation sur avis de la commission ou du haut conseil et prononce, s'il y a
+lieu, l'interdiction temporaire d'habiter et, le cas échéant, d'utiliser les
+lieux.
 
 Ces mesures peuvent comprendre, le cas échéant, les travaux nécessaires pour
 supprimer le risque d'intoxication par le plomb prévus par l'article L. 1334-2
@@ -25,15 +26,20 @@ ainsi que l'installation des éléments d'équipement nécessaires à un local �
 usage d'habitation, définis par référence aux caractéristiques du logement
 décent.
 
-La personne tenue d'exécuter ces mesures peut se libérer de son obligation par
-la conclusion d'un bail à réhabilitation. Elle peut également conclure un bail
-emphytéotique ou un contrat de vente moyennant paiement d'une rente viagère, à
-charge pour les preneurs ou débirentiers d'exécuter les travaux prescrits et
-d'assurer, le cas échéant, l'hébergement des occupants. Les parties peuvent
-convenir que l'occupant restera dans les lieux lorsqu'il les occupait à la date
-de l'arrêté d'insalubrité.
+L'arrêté prévu au premier alinéa du présent II précise que la non-exécution des
+mesures et travaux dans le délai qu'il prescrit expose le propriétaire au
+paiement d'une astreinte par jour de retard dans les conditions prévues à
+l'article L. 1331-29.
 
-III.-Lorsque le représentant de l'Etat dans le département prononce une
+III. ― La personne tenue d'exécuter les mesures mentionnées au II peut se
+libérer de son obligation par la conclusion d'un bail à réhabilitation. Elle
+peut également conclure un bail emphytéotique ou un contrat de vente moyennant
+paiement d'une rente viagère, à charge pour les preneurs ou débirentiers
+d'exécuter les travaux prescrits et d'assurer, le cas échéant, l'hébergement des
+occupants. Les parties peuvent convenir que l'occupant restera dans les lieux
+lorsqu'il les occupait à la date de l'arrêté d'insalubrité.
+
+IV. ― Lorsque le représentant de l'Etat dans le département prononce une
 interdiction définitive ou temporaire d'habiter ou d'utiliser les lieux, son
 arrêté précise la date à laquelle le propriétaire ou l'exploitant de locaux
 d'hébergement doit l'avoir informé de l'offre de relogement ou d'hébergement

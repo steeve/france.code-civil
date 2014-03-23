@@ -6,9 +6,9 @@ pris sur proposition de la commission consultative paritaire départementale des
 baux ruraux, en vue de la construction d'une maison d'habitation. Le bailleur
 peut également reprendre, dans les mêmes conditions, un bâtiment sis sur une
 parcelle d'une surface conforme à celle fixée par l'arrêté préfectoral précité
-dont le changement de destination est autorisé en application de l'article L.
-123-3-1 du code de l'urbanisme, dès lors que cette reprise ne compromet pas
-l'exploitation du preneur.
+dont le changement de destination est autorisé en application des quatorzième et
+quinzième alinéas du II de l'article L. 123-1-5 du code de l'urbanisme, dès lors
+que cette reprise ne compromet pas l'exploitation du preneur.
 
 Dans ce cas, le bailleur doit signifier congé au preneur dix-huit mois avant la
 date d'effet de la reprise, qui ne pourra intervenir qu'à condition que le

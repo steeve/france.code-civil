@@ -9,14 +9,13 @@ deuxième alinéa de l'article L. 331-35 et du dernier alinéa de l'article L.
 mois. A défaut de réponse dans ce délai, les propositions de solution présentées
 par le contribuable dans sa demande sont opposables à l'administration.
 
-En l'absence de coefficient d'occupation des sols, le contribuable peut
-également fournir une estimation motivée et détaillée de la constructibilité
-maximale qui s'attache au terrain d'assiette de la construction projetée compte
-tenu, notamment, de la nature du sol, de la configuration des parcelles, du
-caractère des constructions avoisinantes ou de motifs tenant aux économies
-d'énergie. A défaut de réponse de l'administration dans le délai de trois mois,
-le seuil minimal de densité applicable à ce terrain ne peut être supérieur aux
-trois quarts de la densité maximale déclarée.
+Le contribuable peut également fournir une estimation motivée et détaillée de la
+constructibilité maximale qui s'attache au terrain d'assiette de la construction
+projetée, compte tenu, notamment, de la nature du sol, de la configuration des
+parcelles, du caractère des constructions avoisinantes ou de motifs tenant aux
+économies d'énergie. A défaut de réponse de l'administration dans le délai de
+trois mois, le seuil minimal de densité applicable à ce terrain ne peut être
+supérieur aux trois quarts de la densité maximale déclarée.
 
 Lorsque l'administration de l'Etat chargée de l'urbanisme dans le département a
 pris formellement position à la suite d'une demande écrite, précise et complète

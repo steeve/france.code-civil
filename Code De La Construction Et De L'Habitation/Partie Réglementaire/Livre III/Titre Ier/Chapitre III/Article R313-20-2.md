@@ -30,12 +30,13 @@ des modifications du taux du livret A, sans pouvoir conduire à un taux inférie
 Les intérêts des prêts sont payés au moins annuellement, à terme échu ;
 
 3° La répartition à l'échelle nationale des subventions et prêts mentionnés aux
-III et III bis de l'article R. 313-19-2 est effectuée par l'Union d'économie
-sociale du logement en tenant compte de la programmation des agréments et des
-aides de l'Etat en faveur des logements concernés. La répartition à l'échelle
-régionale de ces subventions et prêts est présentée par l'Union d'économie
-sociale du logement ou l'un de ses associés collecteurs au comité régional de
-l'habitat mentionné à l'article L. 364-1.
+III et III bis de l'article R. 313-19-2 est effectuée par l'Union des
+entreprises et des salariés pour le logement en tenant compte de la
+programmation des agréments et des aides de l'Etat en faveur des logements
+concernés. La répartition à l'échelle régionale de ces subventions et prêts est
+présentée par l'Union des entreprises et des salariés pour le logement ou l'un
+de ses associés collecteurs au comité régional de l'habitat mentionné à
+l'article L. 364-1.
 
 II.-1° Le montant des prêts mentionnés au IV de l'article R. 313-19-2 n'excède
 pas 30 % du prix de revient prévisionnel de l'opération, dans la limite de 30

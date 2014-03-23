@@ -1,41 +1,16 @@
 Article L632-1
 ----
-Toute personne qui loue un logement meublé, que la location s'accompagne ou non
-de prestations secondaires, bénéficie d'un contrat établi par écrit d'une durée
-d'un an dès lors que le logement loué constitue sa résidence principale. A
-l'expiration de ce contrat, le bail est tacitement reconduit pour un an sous
-réserve des dispositions suivantes.
-
-Lorsque la location est consentie à un étudiant, la durée du bail peut être
-réduite à neuf mois. Dans ce cas, la clause de reconduction tacite prévue au
-premier alinéa est inapplicable.
-
-Lorsque le contrat prévoit la révision du loyer, celle-ci intervient chaque
-année à la date convenue entre les parties ou, à défaut, au terme de chaque
-année du contrat. L'augmentation qui en résulte ne peut dépasser la variation de
-l'indice de référence des loyers mentionné au d de l'article 17 de la loi n°
-89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant
-modification de la loi n° 86-1290 du 23 décembre 1986.
-
-Le bailleur qui souhaite, à l'expiration du contrat, en modifier les conditions
-doit informer le locataire avec un préavis de trois mois. Si le locataire
-accepte les nouvelles conditions, le contrat est renouvelé pour un an.
-
-Le bailleur qui ne souhaite pas renouveler le contrat doit informer le locataire
-en respectant le même préavis et motiver son refus de renouvellement du bail
-soit par sa décision de reprendre ou de vendre le logement, soit par un motif
-légitime et sérieux, notamment l'inexécution par le locataire de l'une des
-obligations lui incombant.
+I.-Une location d'un logement meublé constituant la résidence principale du
+preneur est soumise au titre Ier bis de la loi n° 89-462 du 6 juillet 1989
+tendant à améliorer les rapports locatifs et portant modification de la loi n°
+86-1290 du 23 décembre 1986.
 
 Lorsque le bailleur est titulaire d'un bail commercial venant à expiration ou
 lorsque la cessation d'activité est prévue, le contrat peut être d'une durée
 inférieure à un an et doit mentionner les raisons et événements justificatifs.
 
-Toutefois, si le bail commercial est renouvelé ou si l'activité est poursuivie,
-la durée du contrat est portée à un an.
-
-Le locataire peut résilier le contrat à tout moment sous réserve du respect d'un
-préavis d'un mois.
+Si le bail commercial est renouvelé ou si l'activité est poursuivie, la durée du
+contrat est portée à un an.
 
 A peine d'irrecevabilité de la demande, l'assignation par l'exploitant d'un
 établissement recevant du public aux fins d'hébergement, aux fins de constat de
@@ -46,3 +21,30 @@ département, par lettre recommandée avec demande d'avis de réception, au moin
 un mois avant l'audience, afin qu'il informe les services compétents, notamment
 les organismes chargés du service des aides au logement et le fonds de
 solidarité pour le logement.
+
+II.-Lorsque la location d'un local meublé constituant la résidence principale du
+preneur est située dans un établissement recevant du public aux fins
+d'hébergement, celle-ci est soumise au titre Ier bis de la loi n° 89-462 du 6
+juillet 1989 précitée. Ne sont pas applicables à cette location les articles
+3-2, 3-3, 18, 24-1, 25-4 et 25-11 de la même loi.
+
+Le local loué mentionné au premier alinéa du I doit être équipé du mobilier
+nécessaire au sommeil et à la vie courante du locataire ainsi qu'être pourvu de
+chauffage, d'une alimentation en eau et de sanitaires.
+
+Un décret en Conseil d'Etat adapte les caractéristiques applicables aux
+conditions de décence aux locaux susceptibles d'être loués à usage de résidence
+principale dans les établissements recevant du public aux fins d'hébergement,
+dans le respect des textes pris en application de l'article L. 1311-1 du code de
+la santé publique.
+
+Lorsqu'un locataire ou plusieurs locataires ont avec le même bailleur un litige
+locatif ayant une origine commune, ils peuvent donner par écrit mandat d'agir en
+justice en leur nom et pour leur compte à une association dont l'un des objets
+est l'insertion ou le logement des personnes défavorisées ou à une association
+de défense des personnes en situation d'exclusion par le logement mentionnées à
+l'article 3 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du
+droit au logement. Une de ces associations peut assister ou représenter un
+locataire, selon les modalités définies à l'article 828 du code de procédure
+civile, en cas de litige portant sur le respect des caractéristiques de décence
+de son logement.

@@ -43,7 +43,8 @@ par des dispositifs ne consommant pas d'énergie ;
 4° (alinéa supprimé)
 
 Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° sont
-fixées par décret.
+fixées par décret. Ce décret fixe également les critères de qualification de
+l'entreprise exigés pour les travaux mentionnés aux 1° et 2° (1).
 
 3. L'avance remboursable sans intérêt peut être consentie aux personnes
 suivantes :
@@ -60,7 +61,7 @@ location ;
 
 3° Aux personnes physiques membres d'un syndicat de copropriétaires, à raison du
 prorata qui leur revient des travaux d'intérêt collectif réalisés sur les
-parties privatives prévus au g de l'article 25 de la loi n° 65-557 du 10 juillet
+parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet
 1965 fixant le statut de la copropriété des immeubles bâtis ainsi que des
 travaux réalisés sur les parties et équipements communs de l'immeuble dans
 lequel elles possèdent leur habitation principale ou des logements qu'elles
@@ -69,7 +70,7 @@ donnent ou s'engagent à donner en location (1) ;
 4° Aux sociétés civiles non soumises à l'impôt sur les sociétés dont au moins un
 des associés est une personne physique, membres d'un syndicat de
 copropriétaires, à raison du prorata qui leur revient des travaux d'intérêt
-collectif réalisés sur les parties privatives prévus au g de l'article 25 de la
+collectif réalisés sur les parties privatives prévus au f de l'article 25 de la
 loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des
 immeubles bâtis ainsi que des travaux réalisés sur les parties et équipements
 communs de l'immeuble dans lequel elles possèdent un logement qu'elles mettent
@@ -86,14 +87,18 @@ délai de deux ans à compter de la date d'octroi de l'avance par l'établisseme
 de crédit ou la société de financement mentionné au 1, tous les éléments
 justifiant que les travaux ont été effectivement réalisés conformément au
 descriptif et au devis détaillés et satisfont aux conditions prévues aux 1 et 2.
-Un décret fixe les modalités d'application du présent 5.
+Toutefois, lorsque l'avance est consentie dans les conditions prévues au VI bis,
+ce délai est porté à trois ans (2). Un décret fixe les modalités d'application
+du présent 5.
 
 6. Il ne peut être accordé qu'une seule avance remboursable par logement.
 
 7. Les dépenses de travaux financées par une avance remboursable peuvent ouvrir
 droit au crédit d'impôt sur le revenu prévu à l'article 200 quater lorsque le
 montant des revenus du foyer fiscal tel que défini au IV de l'article 1417
-n'excède pas un plafond, fixé par décret dans une limite de 30 000 €,
+n'excède pas un plafond, de 25 000 € pour une personne célibataire, veuve ou
+divorcée, 35 000 € pour un couple soumis à imposition commune et 7 500 €
+supplémentaires par personne à charge au sens des articles 196 à 196 B (2),
 l'avant-dernière année précédant celle de l'offre de l'avance.
 
 8. (alinéa supprimé)
@@ -156,7 +161,7 @@ bis du I de l'article 156.
 VI bis. (1)-L'avance remboursable sans intérêt prévue au présent article peut
 être consentie dans les mêmes conditions à un syndicat de copropriétaires pour
 financer les travaux d'intérêt collectif réalisés sur les parties privatives
-prévus au g de l'article 25 de la loi n° 65-557 du 10 juillet 1965 précitée
+prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965 précitée
 ainsi que les travaux réalisés sur les parties et équipements communs de
 l'immeuble lorsqu'au moins 75 % des quotes-parts de copropriété sont compris
 dans des lots affectés à l'usage d'habitation, détenus par l'une des personnes

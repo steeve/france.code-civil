@@ -26,3 +26,7 @@ l'autorisation.
 
 Sont nuls de plein droit tous accords ou conventions conclus en violation du
 présent article.
+
+Le fait de louer un local meublé destiné à l'habitation de manière répétée pour
+de courtes durées à une clientèle de passage qui n'y élit pas domicile constitue
+un changement d'usage au sens du présent article.

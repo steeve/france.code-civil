@@ -1,6 +1,6 @@
 Article L441-1
 ----
-Le décret en Conseil d'Etat prévu à l'article L. 441-2-6 détermine les
+Le décret en Conseil d'Etat prévu à l'article L. 441-2-9 détermine les
 conditions dans lesquelles les logements construits, améliorés ou acquis et
 améliorés avec le concours financier de l'Etat ou ouvrant droit à l'aide
 personnalisée au logement et appartenant aux organismes d'habitations à loyer
@@ -8,25 +8,40 @@ modéré ou gérés par ceux-ci sont attribués par ces organismes. Pour
 l'attribution des logements, ce décret prévoit qu'il est tenu compte notamment
 du patrimoine, de la composition, du niveau de ressources et des conditions de
 logement actuelles du ménage, de l'éloignement des lieux de travail et de la
-proximité des équipements répondant aux besoins des demandeurs. Il est également
-tenu compte, pour l'attribution d'un logement, de l'activité professionnelle des
-membres du ménage lorsqu'il s'agit d'assistants maternels ou d'assistants
-familiaux agréés.
+proximité des équipements répondant aux besoins des demandeurs. Le niveau des
+ressources tient compte, le cas échéant, des dépenses engagées pour
+l'hébergement de l'un des conjoints ou partenaires en établissement
+d'hébergement pour personnes âgées dépendantes. Il est également tenu compte,
+pour l'attribution d'un logement, de l'activité professionnelle des membres du
+ménage lorsqu'il s'agit d'assistants maternels ou d'assistants familiaux agréés.
 
 Lorsque le demandeur de logement est l'un des conjoints d'un couple en instance
 de divorce, cette situation étant attestée par une ordonnance de
-non-conciliation, ou lorsque ce demandeur est dans une situation d'urgence
-attestée par une décision du juge prise en application de l'article 257 du code
-civil ou par une ordonnance de protection délivrée par le juge aux affaires
-familiales en application du titre XIV du livre Ier du même code, ou lorsque ce
-demandeur est une personne qui était liée par un pacte civil de solidarité dont
-elle a déclaré la rupture au greffe du tribunal d'instance, les seules
-ressources à prendre en compte sont celles du requérant au titre de
-l'avant-dernière année précédant celle de la signature du nouveau contrat. Cette
-disposition est également applicable aux personnes mariées, liées par un pacte
-civil de solidarité ou vivant maritalement lorsque l'une d'elles est victime de
-violences au sein du couple attestées par le récépissé du dépôt d'une plainte
-par la victime.
+non-conciliation ou, à défaut, par une copie de l'acte de saisine du juge aux
+affaires familiales dans les conditions prévues au code de procédure civile, ou
+lorsque ce demandeur est dans une situation d'urgence attestée par une décision
+du juge prise en application de l'article 257 du code civil ou par une
+ordonnance de protection délivrée par le juge aux affaires familiales en
+application du titre XIV du livre Ier du même code, ou lorsque ce demandeur est
+une personne qui était liée par un pacte civil de solidarité dont elle a déclaré
+la rupture au greffe du tribunal d'instance, les seules ressources à prendre en
+compte sont celles du requérant au titre de l'avant-dernière année précédant
+celle de la signature du nouveau contrat. Cette disposition est également
+applicable aux personnes mariées, liées par un pacte civil de solidarité ou
+vivant maritalement lorsque l'une d'elles est victime de violences au sein du
+couple attestées par le récépissé du dépôt d'une plainte par la victime. Les
+ressources du demandeur engagé dans une procédure de divorce par consentement
+mutuel peuvent être évaluées de la même manière, à titre transitoire et pour une
+période de cinq ans à compter de la promulgation de la loi n° 2014-366 du 24
+mars 2014 pour l'accès au logement et un urbanisme rénové, lorsque la procédure
+de divorce est attestée par un organisme de médiation familiale. Dans ces cas,
+la circonstance que le demandeur bénéficie d'un contrat de location au titre du
+logement occupé par le couple ne peut faire obstacle à l'attribution d'un
+logement. Si une demande a été déposée par l'un des membres du couple avant la
+séparation et qu'elle mentionnait l'autre membre du couple parmi les personnes à
+loger, l'ancienneté de cette demande est conservée au bénéfice de l'autre membre
+du couple lorsqu'il se substitue au demandeur initial ou lorsqu'il dépose une
+autre demande dans le cas où le demandeur initial maintient sa propre demande.
 
 Le décret mentionné au premier alinéa fixe des critères généraux de priorité
 pour l'attribution des logements, notamment au profit :
@@ -104,5 +119,5 @@ la réservation des logements.
 Les plafonds de ressources pour l'attribution des logements locatifs sociaux
 fixés en application du présent article sont révisés chaque année en tenant
 compte de la variation de l'indice de référence des loyers mentionné à l'article
-17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports
+17-1 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports
 locatifs dans des conditions définies par décret en Conseil d'Etat.

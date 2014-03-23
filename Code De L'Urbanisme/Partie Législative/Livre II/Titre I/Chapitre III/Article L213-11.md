@@ -1,17 +1,23 @@
 Article L213-11
 ----
 Les biens acquis par exercice du droit de préemption doivent être utilisés ou
-aliénés aux fins définies à l'article L. 210-1. L'utilisation ou l'aliénation
-d'un bien au profit d'une personne privée autre que le concessionnaire d'une
-opération d'aménagement ou qu'une société d'habitations à loyer modéré doit
-faire l'objet d'une délibération motivée du conseil municipal ou, le cas
-échéant, d'une décision motivée du délégataire du droit de préemption.
+aliénés pour l'un des objets mentionnés au premier alinéa de l'article L. 210-1,
+qui peut être différent de celui mentionné dans la décision de préemption.
+L'utilisation ou l'aliénation d'un bien au profit d'une personne privée autre
+que le concessionnaire d'une opération d'aménagement ou qu'une société
+d'habitations à loyer modéré doit faire l'objet d'une délibération motivée du
+conseil municipal ou, le cas échéant, d'une décision motivée du délégataire du
+droit de préemption.
 
-Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner à d'autres
-fins un bien acquis depuis moins de cinq ans par exercice de ce droit, il doit
-informer de sa décision les anciens propriétaires ou leurs ayants cause
-universels ou à titre universel et leur proposer l'acquisition de ce bien en
-priorité.
+Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner pour
+d'autres objets que ceux mentionnés au premier alinéa de l'article L. 210-1 un
+bien acquis depuis moins de cinq ans par exercice de ce droit, il doit informer
+de sa décision les anciens propriétaires ou leurs ayants cause universels ou à
+titre universel et leur proposer l'acquisition de ce bien en priorité.
+
+Tout changement d'affectation du bien acquis par l'exercice du droit de
+préemption, dans la limite des objets prévus à l'article L. 210-1, doit faire
+l'objet d'une décision de l'organe délibérant de la collectivité.
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en
 matière d'expropriation, conformément aux règles mentionnées par l'article L.

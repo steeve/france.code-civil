@@ -10,9 +10,9 @@ Pendant cette période, les logements restent considérés comme des logements
 locatifs sociaux au sens du 2° de l'article L. 302-5. Ces dispositions ne sont
 applicables qu'aux logements occupés au moment de l'expiration de la convention
 mentionnée ci-avant. En cas de départ des locataires après l'échéance de ladite
-convention, les loyers des logements concernés sont fixés en application des
-dispositions du b de l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant
-à améliorer les rapports locatifs et portant modification de la loi n° 86-1290
-du 23 décembre 1986. A l'issue de cette période, les loyers de ces logements
-évoluent en application des dispositions des c et d de l'article 17 de la loi n°
-89-462 du 6 juillet 1989 précitée.
+convention, les loyers des logements concernés sont fixés en application de
+l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les
+rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre
+1986. A l'issue de cette période, les loyers de ces logements évoluent en
+application des dispositions du II de l'article 17-1 et de l'article 17-2 de la
+loi n° 89-462 du 6 juillet 1989 précitée.

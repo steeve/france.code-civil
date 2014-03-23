@@ -4,8 +4,7 @@ Lorsque le projet de modification porte sur des dispositions prises en
 application de l'article L. 122-1-4, des deuxième, sixième et seizième alinéas
 de l'article L. 122-1-5, de l'article L. 122-1-7, du premier alinéa de l'article
 L. 122-1-8 et des articles L. 122-1-9 à L. 122-1-11, il est soumis à enquête
-publique par le président de l'établissement public prévu aux articles L. 122-4
-et L. 122-4-1.
+publique par le président de l'établissement public prévu à l'article L. 122-4.
 
 L'enquête publique est réalisée conformément au chapitre III du titre II du
 livre Ier du code de l'environnement. Lorsque la modification ne concerne que
@@ -20,5 +19,5 @@ l'article L. 122-8.
 A l'issue de l'enquête publique, ce projet, éventuellement modifié pour tenir
 compte des avis qui ont été joints au dossier, des observations du public et du
 rapport du commissaire ou de la commission d'enquête, est approuvé par
-délibération de l'organe délibérant de l'établissement public prévu aux articles
-L. 122-4 et L. 122-4-1.
+délibération de l'organe délibérant de l'établissement public prévu à l'article
+L. 122-4.

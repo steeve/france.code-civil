@@ -44,3 +44,18 @@ l'attribution de logements, le président de la commission d'attribution de
 l'organisme ayant confié la gérance des immeubles est membre de droit, pour
 l'attribution de ces logements, de la commission d'attribution de l'organisme
 gérant.
+
+A titre dérogatoire, pour une durée de trois ans à compter de la date de
+publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un
+urbanisme rénové, dans les communes non assujetties à la taxe annuelle sur les
+logements vacants définies au I de l'article 232 du code général des impôts, et
+après accord du représentant de l'Etat dans le département, la commission
+d'attribution peut prendre une forme numérique en réunissant ses membres à
+distance selon des modalités définies par son règlement et approuvées également
+par le représentant de l'Etat dans le département. Pendant la durée de la
+commission d'attribution numérique, les membres de la commission font part de
+leurs décisions de manière concomitante à l'aide d'outils informatiques
+garantissant un accès sécurisé, un choix libre et éclairé, la confidentialité
+des échanges, le respect de la vie privée des demandeurs et la possibilité, à
+tout moment et pour tout membre, de renvoyer la décision à une commission
+d'attribution physique.

@@ -15,16 +15,16 @@ l'arrondissement " sont supprimés ;
 
 III.-Pour l'application de l'article L. 511-2 :
 
-1° Au deuxième alinéa du I, la phrase : " Les dispositions des articles L. 521-1
-à L. 521-4 sont alors applicables " est supprimée ;
+1° Au troisième alinéa du I, la phrase : " Les dispositions des articles L.
+521-1 à L. 521-4 sont alors applicables " est supprimée ;
 
-2° Au troisième alinéa du I, les mots : " en application de l'article L. 521-3-1
+2° Au quatrième alinéa du I, les mots : " en application de l'article L. 521-3-1
 " sont supprimés ;
 
 3° Au deuxième alinéa du III, les mots : " ou au livre foncier " sont supprimés
 ;
 
-4° Le cinquième alinéa du IV est supprimé.
+4° Le quatrième alinéa du IV est supprimé.
 
 IV.-Pour l'application de l'article L. 511-4, les mots : " comme en matière de
 contributions directes " sont remplacés par les mots : " dans les conditions

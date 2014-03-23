@@ -1,7 +1,7 @@
 Article L443-15-2
 ----
 Les dispositions de la présente section s'appliquent à l'aliénation des
-logements acquis par des sociétés d'économie mixte en application du huitième
+logements acquis par des sociétés d'économie mixte en application du septième
 alinéa de l'article L. 443-11.
 
 Les dispositions de la présente section, à l'exception de celles de l'article L.

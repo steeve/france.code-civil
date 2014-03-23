@@ -35,6 +35,22 @@ porte cette déduction à la connaissance de l'allocataire. Lorsque le bailleur 
 le prêteur ne pratique pas cette déduction, l'allocation est versée à
 l'allocataire.
 
+Si l'allocataire ne règle pas la part de la dépense de logement restant à sa
+charge, le bailleur ou le prêteur auprès duquel l'allocation est versée signale
+la situation de l'allocataire défaillant à l'organisme payeur, dans des
+conditions définies par décret.
+
+Le bailleur auprès duquel l'allocation est versée signale le déménagement de
+l'allocataire et la résiliation de son bail, dans un délai déterminé par décret.
+
+Si l'allocataire procède à un remboursement anticipé de son prêt, le prêteur
+auprès duquel l'allocation est versée signale ce remboursement anticipé à
+l'organisme payeur, dans un délai fixé par décret.
+
+Le bailleur ou le prêteur manquant aux obligations définies aux troisième à
+cinquième alinéas du présent II s'expose à la pénalité prévue à l'article L.
+114-17.
+
 L'allocation ne peut être versée au bailleur que si le logement répond aux
 exigences prévues au 2° de l'article L. 542-2. Pour les logements compris dans
 un patrimoine d'au moins dix logements dont le propriétaire ou le gestionnaire

@@ -4,8 +4,8 @@ I.-Les dispositions proposées pour assurer la mise en compatibilité du plan
 prévue aux articles L. 123-14, L. 123-14-1 et L. 300-6-1 font l'objet d'un
 examen conjoint de l'Etat, de l'établissement public de coopération
 intercommunale compétent ou, dans le cas prévu au deuxième alinéa de l'article
-L. 123-6, de la commune, et des personnes publiques associées mentionnées au
-premier alinéa du I et au III de l'article L. 121-4.
+L. 123-6, de la commune, et des personnes publiques associées mentionnées aux I
+et III de l'article L. 121-4.
 
 Lorsque la mise en compatibilité d'un plan local d'urbanisme intercommunal est
 nécessaire pour permettre la réalisation d'un projet, le maire de la ou des

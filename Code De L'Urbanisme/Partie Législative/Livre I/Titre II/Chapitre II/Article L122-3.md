@@ -1,20 +1,21 @@
 Article L122-3
 ----
-I. ― Le schéma de cohérence territoriale est élaboré à l'initiative des communes
-ou de leurs groupements compétents. Toute élaboration d'un schéma de cohérence
-territoriale ayant pour conséquence une réduction des surfaces des zones
-agricoles est soumise à l'avis de la commission prévue à l'article L. 112-1-1 du
-code rural et de la pêche maritime. Cette commission rend son avis au plus tard
-trois mois après sa saisine. A défaut, cet avis est réputé favorable.
+I.-Le schéma de cohérence territoriale est élaboré à l'initiative des communes
+ou de leurs groupements compétents.
 
-II. ― Le périmètre du schéma de cohérence territoriale délimite un territoire
-d'un seul tenant et sans enclave. Lorsque ce périmètre concerne des
-établissements publics de coopération intercommunale compétents en matière de
-schémas de cohérence territoriale, il recouvre la totalité du périmètre de ces
+II.-Le périmètre du schéma de cohérence territoriale délimite un territoire d'un
+seul tenant et sans enclave. Lorsque ce périmètre concerne des établissements
+publics de coopération intercommunale compétents en matière de schémas de
+cohérence territoriale, il recouvre la totalité du périmètre de ces
 établissements. Toutefois, lorsque le périmètre d'un de ces établissements n'est
 pas d'un seul tenant, le périmètre du schéma peut ne pas comprendre la totalité
 des communes membres de cet établissement à condition de comprendre la totalité
 de la partie ou des parties d'un seul tenant qui le concerne.
+
+Ce périmètre permet de prendre en compte de façon cohérente les besoins de
+protection des espaces naturels et agricoles et les besoins et usages des
+habitants en matière d'équipements, de logements, d'espaces verts, de services
+et d'emplois.
 
 Il tient notamment compte des périmètres des groupements de communes, des
 agglomérations nouvelles, des pays et des parcs naturels, ainsi que des
@@ -28,7 +29,7 @@ déplacements entre le domicile et le lieu de travail et de la zone de chalandis
 des commerces, ainsi que les déplacements vers les équipements culturels,
 sportifs, sociaux et de loisirs.
 
-III. ― Un projet de périmètre est déterminé, selon les cas, par les conseils
+III.-Un projet de périmètre est déterminé, selon les cas, par les conseils
 municipaux ou l'organe délibérant du ou des établissements publics de
 coopération intercommunale compétents, à la majorité des deux tiers au moins des
 communes intéressées représentant plus de la moitié de la population totale de
@@ -40,14 +41,18 @@ chaque cas, au moins un tiers d'entre elles. Pour le calcul de la majorité, les
 établissements publics de coopération intercommunale comptent pour autant de
 communes qu'ils comprennent de communes membres.
 
-IV. ― Le projet de périmètre est communiqué au préfet. Ce dernier recueille
-l'avis du ou des conseils généraux concernés. Cet avis est réputé positif s'il
-n'a pas été formulé dans un délai de trois mois. Le préfet publie par arrêté le
+IV.-Le projet de périmètre est communiqué au préfet. Ce dernier recueille l'avis
+du ou des conseils généraux concernés. Cet avis est réputé positif s'il n'a pas
+été formulé dans un délai de trois mois. Le préfet publie par arrêté le
 périmètre du schéma de cohérence territoriale après avoir vérifié, en tenant
 compte des situations locales et éventuellement des autres périmètres arrêtés ou
-proposés, que le périmètre retenu permet la mise en cohérence des questions
-d'urbanisme, d'habitat, de développement économique, de déplacements et
-d'environnement.
+proposés, que le périmètre retenu répond aux critères mentionnés au deuxième
+alinéa du II et permet la mise en cohérence des questions d'urbanisme,
+d'habitat, de développement économique, de déplacements et d'environnement. Sans
+préjudice des dispositions de l'article L. 123-1-7, il ne peut être arrêté de
+périmètre de schéma de cohérence territoriale correspondant au périmètre d'un
+seul établissement public de coopération intercommunale à compter du 1er juillet
+2014.
 
 Lorsque le schéma de cohérence territoriale englobe une ou des communes
 littorales et dans le cas où l'établissement public mentionné à l'article L.

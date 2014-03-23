@@ -21,11 +21,12 @@ applicable à Mayotte ". ;
 5° Les articles L. 441-1-4, L. 441-2-3, L. 441-2-3-1, L. 441-2-3-2 et L.
 441-2-3-3 ne sont pas applicables ;
 
-6° a) La dernière phrase du troisième alinéa de l'article L. 441-2-1 est ainsi
+6° a) La dernière phrase du cinquième alinéa de l'article L. 441-2-1 est ainsi
 rédigée : " Elle garantit les droits du demandeur en certifiant le dépôt de la
 demande. " ;
 
-b) L'article L. 441-2-1 est applicable à compter du 1er janvier 2017 ;
+b) Les articles L. 441-2-1 et L. 441-2-6 à L. 441-2-9 sont applicables à compter
+d'une date fixée par décret et, au plus tard, le 31 décembre 2015 ;
 
 7° A l'article L. 442-1-2, les mots : " à compter du 1er juillet 1987 " sont
 remplacés par les mots : " à compter du 1er janvier 2013 " ;

@@ -32,6 +32,14 @@ technique des informations prévues ci-dessus ;
 3° Les conditions dans lesquelles le ministre chargé de l'environnement peut se
 saisir ou être saisi, pour avis, de toute étude d'impact.
 
+II bis.-Il fixe les conditions dans lesquelles, dans le cas d'une opération
+d'aménagement réalisée dans le cadre d'une zone d'aménagement concerté créée en
+application de l'article L. 311-1 du code de l'urbanisme, l'avis de l'autorité
+administrative compétente en matière d'environnement sur l'étude d'impact
+préalable à la création de la zone peut tenir lieu d'avis pour les études
+d'impact afférentes aux acquisitions foncières, travaux et ouvrages réalisés au
+sein de la zone.
+
 III. ― Le décret en Conseil d'Etat fixe les modalités de saisine de l'autorité
 administrative de l'Etat compétente en matière d'environnement en application du
 III de l'article L. 122-1 et détermine les conditions dans lesquelles cet avis

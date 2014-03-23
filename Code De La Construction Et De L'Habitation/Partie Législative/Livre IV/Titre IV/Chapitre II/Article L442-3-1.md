@@ -7,8 +7,8 @@ nonobstant les plafonds de ressources prévus à l'article L. 441-1.
 Le loyer principal du nouveau logement doit être inférieur à celui du logement
 d'origine.
 
-Les conditions d'une aide à la mobilité prise en charge par le bailleur sont
-définies par décret.
+Les conditions d'une aide à la mobilité et d'une aide au stockage des meubles
+prises en charge par le bailleur sont définies par décret.
 
 Dans les logements situés sur les territoires définis au 7° de l'article 10 de
 la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de

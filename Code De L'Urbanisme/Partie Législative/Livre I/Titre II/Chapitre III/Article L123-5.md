@@ -10,6 +10,12 @@ Ces travaux ou opérations doivent en outre être compatibles, lorsqu'elles
 existent, avec les orientations d'aménagement mentionnées à l'article L. 123-1-4
 et avec leurs documents graphiques.
 
+Les actes pris au titre de la police du stationnement et de la circulation,
+ainsi que les actes et décisions relatifs à la voirie et à la gestion du domaine
+public routier sont compatibles ou rendus compatibles avec les dispositions du
+plan local d'urbanisme tenant lieu de plan de déplacements urbains, dans les
+conditions définies aux articles L. 1214-5 et L. 1214-6 du code des transports.
+
 L'autorité compétente pour délivrer le permis de construire peut, par décision
 motivée, accorder des dérogations à une ou plusieurs règles du plan local
 d'urbanisme pour permettre la reconstruction de bâtiments détruits ou endommagés

@@ -1,10 +1,12 @@
 Article L5214-16
 ----
 I.-La communauté de communes exerce de plein droit au lieu et place des communes
-membres, pour la conduite d'actions d'intérêt communautaire, des compétences
+membres, pour la conduite d'actions d'intérêt communautaire, les compétences
 relevant de chacun des deux groupes suivants :
 
-1° Aménagement de l'espace ;
+1° Aménagement de l'espace pour la conduite d'actions d'intérêt communautaire ;
+schéma de cohérence territoriale et schéma de secteur ; plan local d'urbanisme,
+document d'urbanisme en tenant lieu et carte communale ;
 
 2° Actions de développement économique intéressant l'ensemble de la communauté.
 Quand la communauté de communes opte pour le régime fiscal défini à l'article
@@ -59,8 +61,8 @@ la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé
 majorité des deux tiers du conseil de la communauté de communes.
 
 Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté
-prononçant le transfert de compétence.A défaut, la communauté de communes exerce
-l'intégralité de la compétence transférée.
+prononçant le transfert de compétence. A défaut, la communauté de communes
+exerce l'intégralité de la compétence transférée.
 
 V.-Afin de financer la réalisation ou le fonctionnement d'un équipement, des
 fonds de concours peuvent être versés entre la communauté de communes et les
@@ -77,7 +79,7 @@ de communauté pour la mise en oeuvre de la politique communautaire d'équilibre
 social de l'habitat.
 
 VII.-Par convention passée avec le département, une communauté de communes peut
-exercer directement tout ou partie des compétences qui, dans le domaine de
+exercer directement tout ou partie les compétences qui, dans le domaine de
 l'action sociale, sont attribuées au département en vertu des articles L. 121-1
 et L. 121-2 du code de l'action sociale et des familles.
 

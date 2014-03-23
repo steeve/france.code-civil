@@ -5,9 +5,10 @@ prévus à l'article L. 441-1, les organismes mentionnés à l'article L. 411-2
 peuvent louer des logements meublés ou non meublés à un ou plusieurs étudiants,
 aux personnes de moins de trente ans ou aux personnes titulaires d'un contrat
 d'apprentissage ou de professionnalisation. Ces locataires ne bénéficient pas du
-droit au maintien dans les lieux. Le contrat de location a une durée d'un an. Il
-peut toutefois être renouvelé dans des conditions définies par décret en Conseil
-d'Etat.
+droit au maintien dans les lieux. Le contrat de location a une durée d'un an.
+Les locataires peuvent donner congé à tout moment, sous réserve d'un préavis
+d'un mois. Le contrat peut toutefois être renouvelé dans des conditions définies
+par décret en Conseil d'Etat.
 
 En cas de location d'un même logement à plusieurs personnes, un contrat de
 location unique est signé par l'ensemble des colocataires qui consentent à une

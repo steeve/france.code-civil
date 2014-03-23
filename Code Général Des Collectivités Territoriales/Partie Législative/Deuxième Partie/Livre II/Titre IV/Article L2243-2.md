@@ -2,9 +2,10 @@ Article L2243-2
 ----
 Le maire constate, par procès-verbal provisoire, l'abandon manifeste d'une
 parcelle, après qu'il a été procédé à la détermination de celle-ci ainsi qu'à la
-recherche des propriétaires, des titulaires de droits réels et des autres
-intéressés. Ce procès-verbal détermine la nature des travaux indispensables pour
-faire cesser l'état d'abandon.
+recherche dans le fichier immobilier ou au livre foncier des propriétaires, des
+titulaires de droits réels et des autres intéressés. Ce procès-verbal indique la
+nature des désordres affectant le bien auxquels il convient de remédier pour
+faire cesser l'état d'abandon manifeste.
 
 Le procès-verbal provisoire d'abandon manifeste est affiché pendant trois mois à
 la mairie et sur les lieux concernés ; il fait l'objet d'une insertion dans deux

@@ -9,7 +9,9 @@ territoriales participant à une société publique locale d'aménagement détie
 moins la majorité des droits de vote.
 
 Ces sociétés sont compétentes pour réaliser toute opération d'aménagement au
-sens du présent code. Elles sont également compétentes pour réaliser des études
+sens du présent code. Elles sont également compétentes pour réaliser les
+opérations de requalification de copropriétés dégradées prévues à l'article L.
+741-1 du code de la construction et de l'habitation, réaliser des études
 préalables, procéder à toute acquisition et cession d'immeubles en application
 des articles L. 221-1 et L. 221-2, procéder à toute opération de construction ou
 de réhabilitation immobilière en vue de la réalisation des objectifs énoncés à

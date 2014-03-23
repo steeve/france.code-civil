@@ -7,6 +7,6 @@ collecte et l'emploi des ressources.
 Les rémunérations des dirigeants ne peuvent être financées que dans la mesure où
 elles correspondent à un travail effectif et ne sont pas excessives eu égard à
 l'importance du service rendu. Ces conditions sont appréciées au regard des
-recommandations de l'Union d'économie sociale du logement. Les rémunérations non
-finançables sont déduites du montant maximal du prélèvement autorisé en
-application du 3° de l'article R. 313-29-4.
+recommandations de l'Union des entreprises et des salariés pour le logement. Les
+rémunérations non finançables sont déduites du montant maximal du prélèvement
+autorisé en application du 3° de l'article R. 313-29-4.

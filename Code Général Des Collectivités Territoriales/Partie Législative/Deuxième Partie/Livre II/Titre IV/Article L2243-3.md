@@ -1,6 +1,6 @@
 Article L2243-3
 ----
-A l'issue d'un délai de six mois à compter de l'exécution des mesures de
+A l'issue d'un délai de trois mois à compter de l'exécution des mesures de
 publicité et des notifications prévues à l'article L. 2243-2, le maire constate
 par un procès-verbal définitif l'état d'abandon manifeste de la parcelle ; ce
 procès-verbal est tenu à la disposition du public. Le maire saisit le conseil

@@ -17,13 +17,15 @@ de l'article L. 313-4 du code de l'urbanisme ;
 -qu'elle soit en propriété ou en jouissance, qu'elle résulte de mutations à
 titre gratuit ou onéreux, de partage ou de locations, toute division d'immeuble
 en vue de mettre à disposition des locaux à usage d'habitation d'une superficie
-et d'un volume habitables inférieurs respectivement à 14 m2 et à 33 m3 ou qui ne
-sont pas pourvus d'une installation d'alimentation en eau potable, d'une
-installation d'évacuation des eaux usées ou d'un accès à la fourniture de
-courant électrique, ou qui n'ont pas fait l'objet de diagnostics amiante en
-application de l'article L. 1311-1 du code de la santé publique et risque de
-saturnisme lorsque l'immeuble est soumis aux dispositions de l'article L. 1334-5
-du même code ;
+et d'un volume habitables inférieurs respectivement à 14 m2 et à 33 m3, les
+installations ou pièces communes mises à disposition des locaux à usage
+d'habitation nés de la division n'étant pas comprises dans le calcul de la
+superficie et du volume desdits locaux, ou qui ne sont pas pourvus d'une
+installation d'alimentation en eau potable, d'une installation d'évacuation des
+eaux usées ou d'un accès à la fourniture de courant électrique, ou qui n'ont pas
+fait l'objet de diagnostics amiante en application de l'article L. 1311-1 du
+code de la santé publique et risque de saturnisme lorsque l'immeuble est soumis
+aux dispositions de l'article L. 1334-5 du même code ;
 
 -toute division par appartements d'immeuble de grande hauteur à usage
 d'habitation ou à usage professionnel ou commercial et d'habitation dont le

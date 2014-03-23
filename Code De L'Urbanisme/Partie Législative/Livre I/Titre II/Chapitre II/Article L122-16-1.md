@@ -54,15 +54,14 @@ public et du rapport du commissaire ou de la commission d'enquête est approuvé
 
 2° Par arrêté préfectoral dans le cas prévu au dernier alinéa de l'article L.
 122-16 ou lorsque la déclaration de projet relève de la compétence d'une
-personne publique autre que l'établissement public prévu aux articles L. 122-4
-et L. 122-4-1 et que la décision de mise en compatibilité prévue au onzième
-alinéa du présent article n'est pas intervenue dans le délai de deux mois à
-compter de la réception par l'établissement public de l'avis du commissaire
-enquêteur ou de la commission d'enquête ;
+personne publique autre que l'établissement public prévu à l'article L. 122-4 et
+que la décision de mise en compatibilité prévue au onzième alinéa du présent
+article n'est pas intervenue dans le délai de deux mois à compter de la
+réception par l'établissement public de l'avis du commissaire enquêteur ou de la
+commission d'enquête ;
 
 3° Par la déclaration de projet lorsqu'elle relève de la compétence de
-l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 dans les autres
-cas ;
+l'établissement public prévu à l'article L. 122-4 dans les autres cas ;
 
 4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le
 logement mentionnée à l'article L. 300-6-1 :
@@ -70,8 +69,7 @@ logement mentionnée à l'article L. 300-6-1 :
 a) Lorsque celle-ci est engagée par l'Etat ;
 
 b) Lorsque celle-ci est engagée par une personne publique autre que
-l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 et que la
-décision de mise en compatibilité prévue au 2° du III du présent article n'est
-pas intervenue dans le délai de deux mois à compter de la réception par
-l'établissement public de l'avis du commissaire enquêteur ou de la commission
-d'enquête.
+l'établissement public prévu à l'article L. 122-4 et que la décision de mise en
+compatibilité prévue au 2° du III du présent article n'est pas intervenue dans
+le délai de deux mois à compter de la réception par l'établissement public de
+l'avis du commissaire enquêteur ou de la commission d'enquête.

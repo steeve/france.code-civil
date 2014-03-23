@@ -1,8 +1,11 @@
 Article L481-6
 ----
 Les conseils d'administration des sociétés d'économie mixte gérant des logements
-sociaux comprennent des représentants de leurs locataires qui disposent d'une
-voix consultative.
+sociaux comprennent des représentants de leurs locataires.
+
+Les représentants des locataires ne prennent pas part au vote sur les questions
+qui n'ont pas d'incidence sur la gestion des logements de l'organisme faisant
+l'objet d'une convention conclue en application de l'article L. 351-2.
 
 Les représentants des locataires sont élus sur des listes de candidats
 présentées par des associations œuvrant dans le domaine du logement social.

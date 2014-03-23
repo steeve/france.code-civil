@@ -35,9 +35,11 @@ sur tout immeuble à usage principal d'habitation. Ils peuvent également réali
 des prestations de services pour le compte de syndicats de copropriétaires
 d'immeubles faisant l'objet d'un plan de sauvegarde en application de l'article
 L. 615-1 ou situés dans le périmètre défini pour une opération programmée
-d'amélioration de l'habitat visée à l'article L. 303-1 ;
+d'amélioration de l'habitat visée à l'article L. 303-1 ou situés dans le
+périmètre d'opérations de requalification de copropriétés dégradées prévues à
+l'article L. 741-1 ;
 
-5° De réaliser ou acquérir et améliorer, en complément de leur activité
+5° De réaliser, rénover ou acquérir et améliorer, en complément de leur activité
 locative, en vue de leur vente à des personnes physiques à titre de résidences
 principales, des logements destinés à des personnes de ressources modestes et
 respectant des prix de vente maxima fixés par l'autorité administrative, soit
@@ -45,14 +47,25 @@ lorsqu'une offre satisfaisante de ces logements n'est pas assurée dans un îlot
 un quartier ou une commune, soit à la demande de la collectivité territoriale
 dans le cadre d'une action ou d'une opération d'aménagement ou de la mise en
 oeuvre des objectifs de renouvellement urbain et de mixité sociale prévus dans
-les contrats de ville ;
+les contrats de ville. Exclusivement dans les communes appartenant à une zone
+d'urbanisation continue de plus de 50 000 habitants définie à l'article 232 du
+code général des impôts ainsi que dans les communes de plus de 15 000 habitants
+en forte croissance démographique définies par décret pris en application du
+septième alinéa de l'article L. 302-5 du présent code, ils peuvent de même
+réaliser ou acquérir et améliorer, en complément de leur activité locative, en
+vue de leur vente à des personnes morales, et dans les mêmes hypothèses, des
+logements destinés à des personnes dont les ressources ne dépassent pas les
+plafonds fixés par le décret prévu au premier alinéa du III de l'article 199
+novovicies du code général des impôts et respectant des prix de vente maxima
+fixés par l'autorité administrative ;
 
 6° D'assister à titre de prestataire de services, dans des conditions précisées
-par décret en Conseil d'Etat, des personnes physiques et des sociétés de
+par décret en Conseil d'Etat, des personnes physiques, des sociétés de
 construction constituées en application du titre Ier du livre II pour la
 réalisation et la gestion d'immeubles, à usage d'habitation ou à usage
 professionnel et d'habitation ou destinés à cet usage, en accession à la
-propriété ;
+propriété, des sociétés d'habitat participatif constituées en application du
+titre préliminaire du livre II ;
 
 7° De construire, acquérir, réaliser des travaux, gérer des immeubles à usage
 d'habitation ou à usage professionnel et d'habitation en vue de leur
@@ -67,18 +80,80 @@ temporaire de personnes en difficulté ;
 des personnes physiques ou à des personnes morales des résidences hôtelières à
 vocation sociale prévues à l'article L. 631-11 ou de prendre des parts dans des
 sociétés civiles immobilières ayant ce même objet et de pouvoir assurer leur
-gérance ;
+gérance le cas échéant, aux côtés d'opérateurs privés ;
 
 10° De souscrire ou acquérir des parts de sociétés civiles immobilières ayant
 pour objet la réalisation d'immeubles d'habitation ou à usage professionnel et
 d'habitation destinés à des accédants dont les ressources n'excèdent pas des
 plafonds fixés par l'autorité administrative, d'être syndic de copropriétés
 d'immeubles ainsi réalisés et d'exercer les fonctions d'administrateur de biens
-pour les mêmes immeubles ;
+pour les mêmes immeubles. A titre subsidiaire et à titre transitoire pour une
+période de six ans, ils peuvent également acquérir dans le cadre de l'article L.
+261-1, à due concurrence de leurs apports, des logements mentionnés à l'article
+L. 411-2 auprès d'une société civile immobilière dans laquelle ils détiennent
+des parts et dont l'unique objet est la construction d'immeubles d'habitation ou
+à usage professionnel et d'habitation en vue de leur vente, à la condition que
+cette société réalise au moins 25 % de logements mentionnés à l'article L. 411-2
+et soit constituée pour une durée n'excédant pas cinq ans ;
 
 11° De vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2
 et aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de
-vente d'immeuble à construire prévu aux articles L. 261-1 et suivants.
+vente d'immeuble à construire prévu aux articles L. 261-1 et suivants ou par le
+contrat de vente d'immeuble à rénover prévu aux articles L. 262-1 et suivants ;
+
+12° A titre subsidiaire, de donner en location des logements conventionnés en
+application de l'article L. 351-2 en vue de proposer des places d'hébergement
+destinées aux personnes ou familles mentionnées au II de l'article L. 301-1, dès
+lors que les besoins ont été identifiés dans le plan départemental d'action pour
+le logement et l'hébergement des personnes défavorisées et que l'avis de la
+commune ou de l'établissement public de coopération intercommunale compétent en
+matière d'habitat a été recueilli :
+
+a) Aux organismes bénéficiant de l'agrément relatif à l'intermédiation locative
+et à la gestion locative sociale prévu à l'article L. 365-4 ;
+
+b) Aux organismes mentionnés au 8° du I de l'article L. 312-1 du code de
+l'action sociale et des familles et aux personnes physiques ou morales
+mentionnées à l'article L. 322-1 du même code ;
+
+13° A titre subsidiaire, de donner en location des logements conventionnés en
+application de l'article L. 351-2 du présent code, en vue de proposer des places
+d'hébergement d'urgence et d'hébergement relais, destinées aux personnes
+mariées, liées par un pacte civil de solidarité ou vivant maritalement qui se
+trouvent dans une situation d'urgence, attestée par une ordonnance de protection
+délivrée par le juge aux affaires familiales en application du titre XIV du
+livre Ier du code civil, ou sont victimes de violences au sein du couple
+attestées par le récépissé du dépôt d'une plainte par la victime, dès lors que
+les besoins ont été identifiés dans le plan départemental d'action pour le
+logement et l'hébergement des personnes défavorisées et que l'avis de la commune
+ou de l'établissement public de coopération intercommunale compétent en matière
+d'habitat a été recueilli ;
+
+14° A titre subsidiaire, de construire des établissements d'hébergement dès lors
+que les besoins ont été identifiés dans le plan départemental d'action pour le
+logement et l'hébergement des personnes défavorisées et que l'avis de la commune
+ou de l'établissement public de coopération intercommunale compétent en matière
+d'habitat a été recueilli ;
+
+15° D'intervenir comme opérateur, sans pouvoir être tiers-financeur, dans le
+cadre des procédures prévues à l'article 29-11 de la loi n° 65-557 du 10 juillet
+1965 fixant le statut de la copropriété des immeubles bâtis et de l'article L.
+615-10 du présent code ;
+
+16° De racheter, dans le cadre de la garantie de rachat incluse dans les
+garanties prévues à l'article L. 411-2, des logements en vue de leur revente, à
+titre de résidence principale, à des personnes physiques de ressources modestes,
+en respectant des prix de vente maximaux fixés par l'autorité administrative ;
+
+17° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis,
+construits ou acquis soit par elles, soit par un autre organisme d'habitations à
+loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
+organisme sans but lucratif, l'association mentionnée à l'article L. 313-34 ou
+une des sociétés civiles immobilières dont les parts sont détenues à au moins 99
+% par cette association. Elles peuvent également, selon des modalités fixées par
+décret, être syndic de copropriété et administrateurs de biens d'immeubles
+d'habitations et réaliser des prestations de service pour le compte de syndicats
+de copropriétaires qui ne répondent pas à ces conditions.
 
 Les offices publics de l'habitat ont aussi pour objet de créer des filiales qui
 auront pour seul objet de construire et gérer, dans les communes appartenant à

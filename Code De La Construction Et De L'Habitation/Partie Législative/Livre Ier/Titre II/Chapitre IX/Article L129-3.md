@@ -11,6 +11,10 @@ Si le rapport de l'expert constate l'urgence ou la menace grave et imminente, le
 maire ordonne les mesures provisoires permettant de garantir la sécurité des
 occupants et, si nécessaire, l'évacuation de l'immeuble.
 
+Lorsque l'évacuation a été ordonnée par le maire, le propriétaire est tenu
+d'assurer l'hébergement provisoire des occupants, dans les conditions prévues
+aux articles L. 521-1 et L. 521-3-1. L'article L. 521-3-2 est applicable.
+
 Dans le cas où ces mesures provisoires ne sont pas exécutées dans le délai
 imparti par l'arrêté, le maire peut les faire exécuter d'office et aux frais des
 propriétaires et des titulaires de droits réels immobiliers concernés.

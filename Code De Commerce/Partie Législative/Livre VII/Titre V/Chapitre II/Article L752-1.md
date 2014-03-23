@@ -1,7 +1,7 @@
 Article L752-1
 ----
-I.-Sont soumis à une autorisation d'exploitation commerciale les projets ayant
-pour objet :
+Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour
+objet :
 
 1° La création d'un magasin de commerce de détail d'une surface de vente
 supérieure à 1 000 mètres carrés, résultant soit d'une construction nouvelle,
@@ -28,36 +28,34 @@ réalisation du projet ;
 de détail d'une surface de vente supérieure à 1 000 mètres carrés dont les
 locaux ont cessé d'être exploités pendant trois ans, ce délai ne courant, en cas
 de procédure de redressement judiciaire de l'exploitant, que du jour où le
-propriétaire a recouvré la pleine et entière disposition des locaux.
+propriétaire a recouvré la pleine et entière disposition des locaux ;
 
 Pour les pépiniéristes et horticulteurs, la surface de vente mentionnée au 1°
 est celle qu'ils consacrent à la vente au détail de produits ne provenant pas de
 leur exploitation, dans des conditions fixées par décret.
 
-II.-Les schémas prévus au chapitre II du titre II du livre Ier du code de
-l'urbanisme peuvent définir des zones d'aménagement commercial.
+7° La création ou l'extension d'un point permanent de retrait par la clientèle
+d'achats au détail commandés par voie télématique, organisé pour l'accès en
+automobile.
 
-Ces zones sont définies en considération des exigences d'aménagement du
-territoire, de protection de l'environnement ou de qualité de l'urbanisme
-spécifiques à certaines parties du territoire couvert par le schéma. Leur
-délimitation ne peut reposer sur l'analyse de l'offre commerciale existante ni
-sur une mesure de l'impact sur cette dernière de nouveaux projets de commerces.
+Par dérogation au 7°, n'est pas soumise à autorisation d'exploitation
+commerciale la création d'un point permanent de retrait par la clientèle
+d'achats au détail commandés par voie télématique, organisé pour l'accès en
+automobile, intégré à un magasin de détail ouvert au public à la date de
+publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un
+urbanisme rénové, et n'emportant pas la création d'une surface de plancher de
+plus de 20 mètres carrés.
 
-La définition des zones figure dans un document d'aménagement commercial qui est
-intégré au schéma de cohérence territoriale par délibération de l'établissement
-public prévu aux articles L. 122-4 et L. 122-4-1 du code de l'urbanisme. A peine
-de caducité, ce document d'aménagement commercial doit faire l'objet, dans un
-délai d'un an à compter de la délibération l'adoptant, d'une enquête publique.
+Le propriétaire du site d'implantation bénéficiant de l'autorisation
+d'exploitation commerciale est responsable de l'organisation de son
+démantèlement et de la remise en état de ses terrains d'assiette s'il est mis
+fin à l'exploitation et qu'aucune réouverture au public n'intervient sur le même
+emplacement pendant un délai de trois ans, ce délai ne courant, en cas de
+procédure de redressement judiciaire de l'exploitant, que du jour où le
+propriétaire a recouvré la pleine et entière disposition des locaux.
 
-En l'absence de schéma de cohérence territoriale, l'établissement public
-compétent pour son élaboration peut adopter avant le 1er juillet 2009 un
-document provisoire d'aménagement commercial, dans les conditions définies à
-l'alinéa précédent. Ce document provisoire est valable deux ans. L'approbation
-du schéma de cohérence territoriale dans ce délai lui confère un caractère
-définitif.
-
-Dans la région d'Ile-de-France, dans les régions d'outre-mer et en Corse, en
-l'absence de schéma de cohérence territoriale, un document d'aménagement
-commercial peut être intégré au plan local d'urbanisme.
-
-Le document d'aménagement commercial est communiqué dès son adoption au préfet.
+Un décret en Conseil d'Etat détermine les prescriptions générales régissant les
+opérations de démantèlement et de remise en état d'un site mentionnées à
+l'avant-dernier alinéa. Il détermine également les conditions de constatation
+par le représentant de l'Etat dans le département de la carence du ou des
+propriétaires mentionnés au même alinéa pour conduire ces opérations.

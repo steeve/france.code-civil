@@ -1,6 +1,6 @@
 Article L271-4
 ----
-I. - En cas de vente de tout ou partie d'un immeuble bâti, un dossier de
+I.-En cas de vente de tout ou partie d'un immeuble bâti, un dossier de
 diagnostic technique, fourni par le vendeur, est annexé à la promesse de vente
 ou, à défaut de promesse, à l'acte authentique de vente. En cas de vente
 publique, le dossier de diagnostic technique est annexé au cahier des charges.
@@ -31,7 +31,10 @@ présent code ;
 ;
 
 8° Le document établi à l'issue du contrôle des installations d'assainissement
-non collectif mentionné à l'article L. 1331-11-1 du code de la santé publique.
+non collectif mentionné à l'article L. 1331-11-1 du code de la santé publique ;
+
+9° Dans les zones prévues à l'article L. 133-8, l'information sur la présence
+d'un risque de mérule.
 
 Les documents mentionnés aux 1°, 4° et 7° ne sont requis que pour les immeubles
 ou parties d'immeuble à usage d'habitation.
@@ -48,10 +51,9 @@ au 1° porte exclusivement sur la partie privative de l'immeuble affectée au
 logement et les documents mentionnés au 3°, 4° et 7° sur la partie privative du
 lot.
 
-II. - En l'absence, lors de la signature de l'acte authentique de vente, d'un
-des documents mentionnés aux 1°, 2°, 3°, 4°, 7° et 8° du I en cours de validité,
-le vendeur ne peut pas s'exonérer de la garantie des vices cachés
-correspondante.
+II.-En l'absence, lors de la signature de l'acte authentique de vente, d'un des
+documents mentionnés aux 1°, 2°, 3°, 4°, 7° et 8° du I en cours de validité, le
+vendeur ne peut pas s'exonérer de la garantie des vices cachés correspondante.
 
 En l'absence, lors de la signature de l'acte authentique de vente, du document
 mentionné au 5° du I, l'acquéreur peut poursuivre la résolution du contrat ou

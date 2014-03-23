@@ -18,15 +18,15 @@ la loi n° 71-579 du 16 juillet 1971 et donnant vocation à l'attribution d'un
 local d'habitation, d'un local professionnel ou d'un local mixte et des locaux
 qui lui sont accessoires ;
 
-c) A l'aliénation d'un immeuble bâti, pendant une période de dix ans à compter
-de son achèvement ;
-
-d) A la cession de la majorité des parts d'une société civile immobilière,
-lorsque le patrimoine de cette société est constitué par une unité foncière,
-bâtie ou non, dont la cession serait soumise au droit de préemption. Le présent
-alinéa ne s'applique pas aux sociétés civiles immobilières constituées
-exclusivement entre parents et alliés jusqu'au quatrième degré inclus.
+c) A l'aliénation d'un immeuble bâti, pendant une période de quatre ans à
+compter de son achèvement.
 
 Toutefois, par délibération motivée, la commune peut décider d'appliquer ce
 droit de préemption aux aliénations et cessions mentionnées au présent article
 sur la totalité ou certaines parties du territoire soumis à ce droit.
+
+Pour la mise en œuvre du deuxième alinéa de l'article L. 210-1, le représentant
+de l'Etat dans le département peut également décider, par arrêté motivé,
+d'appliquer le droit de préemption aux aliénations et cessions mentionnées au
+présent article sur la totalité ou sur certaines parties du territoire soumis à
+ce droit.

@@ -31,9 +31,12 @@ b) Ou qui comprennent les dispositions des plans de déplacements urbains
 mentionnés aux articles 28 à 28-4 de la loi n° 82-1153 du 30 décembre 1982
 d'orientation des transports intérieurs ;
 
-2° Les cartes communales qui permettent la réalisation d'activités, de travaux,
-d'aménagements, d'ouvrages ou d'installations mentionnés à l'article L. 414-4 du
-code de l'environnement ;
+2° Les cartes communales qui sont susceptibles d'avoir des incidences notables
+sur l'environnement, au sens de l'annexe II à la directive 2001/42/CE du
+Parlement européen et du Conseil du 27 juin 2001 précitée, au regard, notamment,
+de la superficie du territoire auquel elles s'appliquent, de la nature, de la
+sensibilité et de l'étendue des territoires couverts par les secteurs qu'elles
+déterminent, dans des conditions précisées par décret en Conseil d'Etat ;
 
 3° Les schémas d'aménagement prévus à l'article L. 146-6-1 du présent code.
 

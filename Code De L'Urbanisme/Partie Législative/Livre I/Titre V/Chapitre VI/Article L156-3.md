@@ -28,5 +28,5 @@ Ces installations organisent ou préservent l'accès et la libre circulation le
 long du rivage.
 
 III. ― Sont autorisés, dans les secteurs visés au II ci-dessus, l'adaptation, le
-changement de destination, la réfection et l'extension limitée des constructions
-existantes.
+changement de destination, la réfection, la reconstruction et l'extension
+limitée des constructions existantes.

@@ -13,6 +13,6 @@ code du travail, ou qu'il se trouve, par suite d'infirmité ou de maladie
 chronique, dans l'impossibilité constatée de se livrer à une activité
 professionnelle.
 
-Les articles L. 542-2, L. 542-5, L. 542-5-1, L. 542-6, L. 542-7, L. 542-7-1 et
-L. 542-8 sont applicables dans ces départements, dans les conditions fixées par
-un décret qui détermine les adaptations nécessaires.
+Les articles L. 542-2, L. 542-2-1, L. 542-5, L. 542-5-1, L. 542-6, L. 542-7, L.
+542-7-1 et L. 542-8 sont applicables dans ces départements, dans les conditions
+fixées par un décret qui détermine les adaptations nécessaires.

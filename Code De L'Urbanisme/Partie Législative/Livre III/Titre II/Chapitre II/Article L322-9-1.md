@@ -6,11 +6,8 @@ statut de la copropriété des immeubles bâtis, les travaux sur lesquels porte
 l'objet de l'association sont réputés rendus obligatoires au sens du e de
 l'article 25 de ladite loi.
 
-Chaque syndicat de copropriété est représenté à l'assemblée générale de
-l'association par son syndic dûment mandaté à cet effet.
-
-Lorsque dans le périmètre de l'association, sont compris deux ou plusieurs
-syndicats représentés par le même syndic, des mandataires ad hoc devront être
-désignés par le ou les syndicats afin qu'un même syndic ne puisse représenter
-plus d'un syndicat. A défaut de nomination, le mandataire ad hoc est désigné par
-l'autorité judiciaire saisie à la requête de tout intéressé.
+Dans chaque copropriété, les copropriétaires peuvent charger un ou plusieurs
+d'entre eux, un mandataire ad hoc ou le syndic de la copropriété, dûment
+mandaté, de les représenter à l'assemblée des propriétaires de l'association. Un
+même syndic ne peut être mandaté par les copropriétaires de plus d'une
+copropriété.

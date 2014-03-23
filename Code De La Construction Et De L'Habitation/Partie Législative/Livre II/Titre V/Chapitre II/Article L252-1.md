@@ -19,3 +19,8 @@ indemnisation.
 Le bail à réhabilitation est consenti par ceux qui ont le droit d'aliéner et
 dans les mêmes conditions et formes que l'aliénation. Il est conclu pour une
 durée minimale de douze ans. Il ne peut se prolonger par tacite reconduction.
+
+Le présent article s'applique aux immeubles soumis ou non au statut de la
+copropriété prévu par la loi n° 65-557 du 10 juillet 1965 fixant le statut de la
+copropriété des immeubles bâtis. Dans le cas d'un immeuble soumis au statut de
+la copropriété, il peut s'appliquer à un ou plusieurs lots.

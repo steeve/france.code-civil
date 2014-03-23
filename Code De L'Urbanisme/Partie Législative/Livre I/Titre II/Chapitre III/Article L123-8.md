@@ -12,16 +12,23 @@ Il en est de même des présidents des établissements publics de coopération
 intercommunale voisins compétents, des maires des communes voisines, ainsi que
 du président de l'établissement public chargé, en application de l'article L.
 122-4, d'un schéma de cohérence territoriale dont la commune, lorsqu'elle n'est
-pas couverte par un tel schéma, est limitrophe, ou de leurs représentants. Il en
-est de même, lorsque le plan est élaboré par une commune qui n'est pas membre
-d'un établissement public de coopération intercommunale compétent en matière de
-plan local d'urbanisme, du président de cet établissement. Le président de
-l'établissement public de coopération intercommunale compétent en matière de
-plan local d'urbanisme ou, dans le cas prévu par le deuxième alinéa de l'article
-L. 123-6, le maire, ou leur représentant, peut recueillir l'avis de tout
-organisme ou association compétent en matière d'aménagement du territoire,
-d'urbanisme, d'environnement, d'architecture, d'habitat et de déplacements, y
-compris des collectivités territoriales des Etats limitrophes.
+pas couverte par un tel schéma, est limitrophe, ou de leurs représentants.
+
+Lorsque le plan local d'urbanisme tient lieu de plan de déplacements urbains,
+les représentants des professions et des usagers des voies et modes de
+transport, les représentants d'associations de protection de l'environnement
+agréées au titre de l'article L. 141-1 du code de l'environnement ainsi que des
+associations de personnes handicapées ou dont la mobilité est réduite sont
+consultés, à leur demande, sur le projet. Il en est de même, lorsque le plan est
+élaboré par une commune qui n'est pas membre d'un établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme, du
+président de cet établissement. Le président de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme ou,
+dans le cas prévu par le deuxième alinéa de l'article L. 123-6, le maire, ou
+leur représentant, peut recueillir l'avis de tout organisme ou association
+compétent en matière d'aménagement du territoire, d'urbanisme, d'environnement,
+d'architecture, d'habitat et de déplacements, y compris des collectivités
+territoriales des Etats limitrophes.
 
 Si le représentant de l'ensemble des organismes mentionnés à l'article L. 411-2
 du code de la construction et de l'habitation propriétaires ou gestionnaires de

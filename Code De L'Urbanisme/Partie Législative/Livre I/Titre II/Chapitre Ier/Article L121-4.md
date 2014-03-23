@@ -1,10 +1,10 @@
 Article L121-4
 ----
-I. ― L'Etat, les régions, les départements, les autorités compétentes en matière
-d'organisation des transports urbains, les établissements publics de coopération
-intercommunale compétents en matière de programme local de l'habitat et les
-organismes de gestion des parcs naturels régionaux et des parcs nationaux sont
-associés à l'élaboration des schémas de cohérence territoriale et des plans
+I. ― L'Etat, les régions, les départements, les autorités organisatrices prévues
+à l'article L. 1231-1 du code des transports, les établissements publics de
+coopération intercommunale compétents en matière de programme local de l'habitat
+et les organismes de gestion des parcs naturels régionaux et des parcs nationaux
+sont associés à l'élaboration des schémas de cohérence territoriale et des plans
 locaux d'urbanisme dans les conditions définies aux chapitres II et III.
 
 Il en est de même des chambres de commerce et d'industrie territoriales, des
@@ -21,14 +21,12 @@ métiers.
 II. ― Pour l'élaboration des schémas de cohérence territoriale, sont, en outre,
 associés dans les mêmes conditions :
 
-1° Les communes limitrophes du périmètre du schéma ;
-
-2° Les syndicats mixtes de transports créés en application de l'article L.
-1231-10 du code des transports lorsque le schéma est élaboré par un
+1° Les syndicats mixtes de transports créés en application de l'article L.
+1231-10 du code des transports, lorsque le schéma est élaboré par un
 établissement public qui n'exerce pas les compétences définies aux articles L.
-1231-10 et L. 1231-11 de ce code ;
+1231-10 et L. 1231-11 du même code ;
 
-3° Les établissements publics chargés de l'élaboration, de la gestion et de
+2° Les établissements publics chargés de l'élaboration, de la gestion et de
 l'approbation des schémas de cohérence territoriale limitrophes.
 
 III. ― Pour l'élaboration des plans locaux d'urbanisme sont également associés,

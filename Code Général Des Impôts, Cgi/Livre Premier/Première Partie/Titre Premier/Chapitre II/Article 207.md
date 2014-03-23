@@ -66,8 +66,8 @@ organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 
 même code pour :
 
 a.-les opérations réalisées au titre du service d'intérêt général défini aux
-septième, huitième et neuvième alinéas de l'article L. 411-2 du même code ainsi
-que les services accessoires à ces opérations ;
+septième, huitième, neuvième et dixième alinéas de l'article L. 411-2 du même
+code ainsi que les services accessoires à ces opérations ;
 
 b.-les produits engendrés par les locaux annexes et accessoires des ensembles
 d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que
@@ -178,7 +178,13 @@ d'enseignement supérieur ;
 d'enseignement supérieur ou d'un réseau thématique de recherche avancée ;
 
 11° Les fondations reconnues d'utilité publique du secteur de la recherche,
-parmi lesquelles les fondations de coopération scientifique.
+parmi lesquelles les fondations de coopération scientifique ;
+
+12° Les bénéfices, plus-values latentes et profits qui résulteraient de la
+transformation de la société de gestion du patrimoine immobilier des houillères
+du bassin du Nord et du Pas-de-Calais en société anonyme d'habitations à loyer
+modéré, pour les logements qui seront conventionnés à l'aide personnalisée au
+logement dans le cadre de la transformation.
 
 Les exonérations dont bénéficient les personnes morales visées aux 9°, 10° et
 11° s'appliquent aux revenus tirés des activités conduites dans le cadre des

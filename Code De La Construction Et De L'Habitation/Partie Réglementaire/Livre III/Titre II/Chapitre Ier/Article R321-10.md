@@ -37,8 +37,8 @@ e) Une personne qualifiée pour ses compétences dans le domaine du logement ;
 
 f) Une personne qualifiée pour ses compétences dans le domaine social ;
 
-g) Deux représentants des associés collecteurs de l' Union d'économie sociale du
-logement .
+g) Deux représentants des associés collecteurs de l'Union des entreprises et des
+salariés pour le logement.
 
 Les membres de la commission mentionnés aux c, d, e, f et g ainsi qu'un nombre
 égal de membres suppléants sont nommés pour trois ans par arrêté du préfet. Leur

@@ -26,13 +26,17 @@ urbaine et sociale des villes ;
 5° Avec l'accord du préfet et du maire de la commune d'implantation, gérer, en
 qualité d'administrateurs de biens, des logements situés dans des copropriétés
 connaissant des difficultés importantes de fonctionnement ou être syndics de ces
-copropriétés. Dans ces mêmes copropriétés, lorsqu'elles font l'objet d'un plan
-de sauvegarde en application de l'article L. 615-1 ou d'une opération programmée
-d'amélioration de l'habitat prévue à l'article L. 303-1 et dédiée aux
-copropriétés dégradées, ils peuvent, selon des modalités précisées par décret en
-Conseil d'Etat qui peuvent déroger aux règles applicables aux habitations à
-loyer modéré, acquérir des lots en vue de leur revente, y effectuer tous travaux
-et les louer provisoirement ;
+copropriétés. A défaut d'opposition de la part du représentant de l'Etat
+notifiée dans le délai de deux mois à compter de la date de la réception de la
+demande, son avis est réputé favorable. Dans ces mêmes copropriétés,
+lorsqu'elles font l'objet d'un plan de sauvegarde en application de l'article L.
+615-1 ou d'une opération programmée d'amélioration de l'habitat prévue à
+l'article L. 303-1 et dédiée aux copropriétés dégradées ou lorsqu'elles sont
+situées dans le périmètre d'opérations de requalification de copropriétés
+dégradées prévues à l'article L. 741-1, ils peuvent, selon des modalités
+précisées par décret en Conseil d'Etat qui peuvent déroger aux règles
+applicables aux habitations à loyer modéré, acquérir des lots en vue de leur
+revente, y effectuer tous travaux et les louer provisoirement ;
 
 6° Réaliser des hébergements de loisirs à vocation sociale, en assurant, le cas
 échéant, l'ensemble des tâches incombant au maître d'ouvrage. Un décret en

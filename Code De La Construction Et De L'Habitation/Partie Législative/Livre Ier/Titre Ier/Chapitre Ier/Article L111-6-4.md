@@ -11,3 +11,7 @@ Constitue notamment un motif sérieux et légitime au sens du premier alinéa la
 préexistence de telles installations ou la décision prise par le propriétaire de
 réaliser de telles installations en vue d'assurer dans un délai raisonnable
 l'équipement nécessaire.
+
+Les indivisaires, les copropriétaires et les membres des sociétés de
+construction peuvent, lorsqu'ils sont occupants, se prévaloir du présent
+article.

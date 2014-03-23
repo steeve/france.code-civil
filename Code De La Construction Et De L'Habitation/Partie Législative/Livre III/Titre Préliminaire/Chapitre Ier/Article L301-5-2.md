@@ -3,33 +3,39 @@ Article L301-5-2
 Le département peut demander à conclure, pour une durée de six ans renouvelable,
 une convention avec l'Etat par laquelle celui-ci lui délègue la compétence pour
 décider de l'attribution des aides prévues à l'article L. 301-3 et procéder à
-leur notification aux bénéficiaires.
+leur notification aux bénéficiaires ainsi que pour signer les conventions
+mentionnées à l'article L. 321-4 par délégation de l'Agence nationale de
+l'habitat.
 
 Hors du périmètre des établissements publics de coopération intercommunale ayant
-conclu une convention en application de l'article L. 301-5-1, la convention
-conclue par le département définit les conditions de mise en place d'un
-dispositif d'observation de l'habitat et précise, en application du plan
-départemental d'action pour le logement des personnes défavorisées et en tenant
-compte des programmes locaux de l'habitat et des actions de rénovation urbaine
-au sens de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation
-pour la ville et la rénovation urbaine, les objectifs poursuivis et les actions
-à mettre en oeuvre en matière de réalisation, de réhabilitation et démolition de
-logements locatifs sociaux et de places d'hébergement destinées à accueillir les
-personnes et les familles visées aux articles 1er et 4 de la loi n° 90-449 du 31
-mai 1990 visant à la mise en oeuvre du droit au logement, ainsi qu'en matière de
-rénovation de l'habitat privé, notamment dans le cadre d'opérations programmées
-d'amélioration de l'habitat. Elle définit les objectifs en matière de lutte
-contre l'habitat indigne et arrête, le cas échéant, les actions nécessaires à sa
-résorption. Ces objectifs et actions sont détaillés par zones géographiques.
+conclu une convention en application de l'article L. 301-5-1 du présent code, du
+VI de l'article L. 5219-1 ou du II de l'article L. 5217-2 du code général des
+collectivités territoriales, et pour le département du Rhône, hors du périmètre
+de la métropole de Lyon si celle-ci a conclu une convention en application de
+l'article L. 3641-5 du même code, la convention conclue par le département
+définit les conditions de mise en place d'un dispositif d'observation de
+l'habitat et précise, en application du plan départemental d'action pour le
+logement et l'hébergement des personnes défavorisées et en tenant compte des
+programmes locaux de l'habitat et des actions de rénovation urbaine au sens de
+la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la
+ville et la rénovation urbaine, les objectifs poursuivis et les actions à mettre
+en oeuvre en matière de réalisation, de réhabilitation et démolition de
+logements locatifs sociaux, notamment pour les personnes mentionnées au II de
+l'article L. 301-1, et de places d'hébergement destinées à accueillir les
+personnes et les familles visées au deuxième alinéa de l'article 2 de la loi n°
+90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, ainsi
+qu'en matière de rénovation de l'habitat privé, notamment dans le cadre
+d'opérations programmées d'amélioration de l'habitat. Elle définit les objectifs
+en matière de lutte contre l'habitat indigne et arrête, le cas échéant, les
+actions nécessaires à sa résorption. Ces objectifs et actions sont détaillés par
+zones géographiques.
 
 La convention fixe, d'une part, dans la limite des dotations ouvertes en loi de
 finances, le montant des droits à engagement alloués au département et, d'autre
 part, le montant des crédits que celui-ci affecte sur son propre budget à la
 réalisation des objectifs de la convention. Elle précise annuellement, au sein
 des droits à engagement alloués, les parts affectées au logement social ou à
-l'hébergement d'une part, à l'habitat privé d'autre part. Cette répartition
-tient compte de l'exécution des programmes définis aux articles 87 et 107 de la
-loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale.
+l'hébergement d'une part, à l'habitat privé d'autre part.
 
 Le département attribue les aides au logement social et à l'hébergement dans la
 limite de la part correspondante des droits à engagement. La convention définit,
@@ -75,7 +81,11 @@ Elle définit les conditions dans lesquelles une évaluation sera effectuée au
 terme de son application.
 
 Lorsqu'un établissement public de coopération intercommunale signe avec l'Etat
-une convention régie par l'article L. 301-5-1, alors qu'une convention régie par
-le présent article est en cours d'exécution, cette dernière fait l'objet d'un
-avenant pour en retrancher, à compter du 1er janvier de l'année suivante, les
-dispositions concernant l'établissement public.
+une convention régie par l'article L. 301-5-1 du présent code, du VI de
+l'article L. 5219-1 ou du II de l'article L. 5217-2 du code général des
+collectivités territoriales, ou, pour le département du Rhône, lorsque la
+métropole de Lyon signe avec l'Etat une convention régie par l'article L. 3641-5
+du même code, alors qu'une convention régie par le présent article est en cours
+d'exécution, cette convention fait l'objet d'un avenant pour en retrancher, à
+compter du 1er janvier de l'année suivante, les dispositions concernant
+l'établissement public.

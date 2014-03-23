@@ -13,7 +13,8 @@ participation des employeurs à l'effort de construction qui est chargée de son
 instruction en application de l'article L. 313-7.
 
 En cas de création d'un organisme collecteur mentionné à l'article L. 313-18,
-l'agrément est accordé après avis de l'Union d'économie sociale du logement.
+l'agrément est accordé après avis de l'Union des entreprises et des salariés
+pour le logement.
 
 Un organisme, issu de la fusion d'organismes collecteurs agréés se traduisant
 par la création d'une personne morale nouvelle, doit obtenir un nouvel agrément,

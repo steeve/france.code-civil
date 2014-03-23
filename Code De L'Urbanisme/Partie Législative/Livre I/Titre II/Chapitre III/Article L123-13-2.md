@@ -1,8 +1,8 @@
 Article L123-13-2
 ----
 Sauf dans le cas des majorations des possibilités de construire prévues au
-sixième alinéa de l'article L. 123-1-11 ainsi qu'aux articles L. 127-1, L. 128-1
-et L. 128-2, lorsque le projet de modification a pour effet :
+deuxième alinéa de l'article L. 123-1-11 ainsi qu'aux articles L. 127-1, L.
+128-1 et L. 128-2, lorsque le projet de modification a pour effet :
 
 1° Soit de majorer de plus de 20 % les possibilités de construction résultant,
 dans une zone, de l'application de l'ensemble des règles du plan ;

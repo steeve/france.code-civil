@@ -33,3 +33,8 @@ auxquelles peuvent prétendre les personnes mentionnées à l'article L. 230-2.
 Le propriétaire peut requérir l'emprise totale de son terrain dans les cas
 prévus aux articles L. 13-10 et L. 13-11 du code de l'expropriation pour cause
 d'utilité publique.
+
+L'acquisition d'un terrain situé en emplacement réservé peut, avec l'accord de
+la personne publique au bénéfice de laquelle la réserve est inscrite au plan,
+être réalisée par une autre personne publique ou le titulaire d'une concession
+d'aménagement, la destination de l'emplacement réservé restant inchangée.

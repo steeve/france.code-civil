@@ -31,3 +31,16 @@ Ces servitudes sont indemnisées dans les conditions prévues à l'article L.
 515-11. Pour l'application de cet article, la date d'ouverture de l'enquête
 publique est, lorsqu'il n'est pas procédé à une telle enquête, remplacée par la
 date de consultation des propriétaires.
+
+Dans le cas des terrains pollués par l'exploitation d'une installation classée,
+lorsqu'une servitude d'utilité publique est devenue sans objet, elle peut être
+supprimée, à la demande de l'ancien exploitant, du maire, du propriétaire du
+terrain, ou à l'initiative du représentant de l'Etat dans le département.
+
+Dans les cas où la demande d'abrogation est faite par l'exploitant, le maire ou
+le propriétaire, cette demande doit être accompagnée d'un rapport justifiant que
+cette servitude d'utilité publique est devenue sans objet.
+
+Lorsqu'ils ne sont pas à l'origine de la demande, le propriétaire du terrain et
+l'exploitant sont informés par le représentant de l'Etat dans le département du
+projet de suppression de la servitude.

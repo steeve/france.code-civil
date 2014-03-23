@@ -8,6 +8,11 @@ l'exploitation illicite d'une surface de vente, au regard du présent titre,
 établissent un rapport qu'ils transmettent au préfet du département
 d'implantation du magasin.
 
+Il en est de même en ce qui concerne les points permanents de retrait par la
+clientèle d'achats au détail mentionnés à l'article L. 752-3 lorsque les agents
+habilités constatent l'exploitation d'une surface d'emprise au sol ou d'un
+nombre de pistes de ravitaillement non autorisé.
+
 Le préfet peut mettre en demeure l'exploitant concerné de ramener sa surface
 commerciale à l'autorisation d'exploitation commerciale accordée par la
 commission d'aménagement commercial compétente, dans un délai d'un mois. Sans
@@ -17,8 +22,12 @@ surfaces de vente exploitées illicitement, jusqu'à régularisation effective. 
 mesures sont assorties d'une astreinte journalière de 150 euros par mètre carré
 exploité illicitement.
 
+En ce qui concerne les points permanents de retrait par la clientèle d'achats au
+détail, la surface mentionnée au troisième alinéa du présent article est égale à
+la somme des surfaces énoncées à l'article L. 752-16.
+
 Est puni d'une amende de 15 000 euros le fait de ne pas exécuter les mesures
-prises par le préfet et prévues au deuxième alinéa.
+prises par le préfet et prévues au troisième alinéa.
 
 Les modalités d'application du présent article sont déterminées par décret en
 Conseil d'Etat.

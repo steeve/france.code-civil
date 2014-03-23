@@ -11,4 +11,4 @@ au septième alinéa de l'article L. 123-13 en cas de révision du plan local
 d'urbanisme, et au premier alinéa de l'article L. 123-14-2 en cas de mise en
 compatibilité avec une déclaration d'utilité publique ou une déclaration de
 projet. En cas de modification, le projet leur est notifié dans les conditions
-prévues au dernier alinéa de l'article L. 123-13-1.
+prévues au deuxième alinéa de l'article L. 123-13-1.

@@ -17,7 +17,8 @@ qui sont d'intérêt communautaire ; actions de développement économique d'int
 communautaire ;
 
 2° En matière d'aménagement de l'espace communautaire : schéma de cohérence
-territoriale et schéma de secteur ; zones d'aménagement concerté d'intérêt
+territoriale et schéma de secteur ; plan local d'urbanisme, document d'urbanisme
+en tenant lieu et carte communale ; zones d'aménagement concerté d'intérêt
 communautaire ;
 
 3° Création ou aménagement et entretien de voirie d'intérêt communautaire ;

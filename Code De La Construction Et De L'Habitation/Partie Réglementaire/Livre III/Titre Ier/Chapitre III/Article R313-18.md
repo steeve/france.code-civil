@@ -2,7 +2,8 @@ Article R313-18
 ----
 Les ressources issues de la participation des employeurs à l'effort de
 construction peuvent être transférées, sous forme de prêt ou subvention, entre
-organismes collecteurs associés de l'Union d'économie sociale du logement.
+organismes collecteurs associés de l'Union des entreprises et des salariés pour
+le logement.
 
 Les ressources issues de la participation des employeurs à l'effort de
 construction peuvent également être transférées, sous forme de prêt ou

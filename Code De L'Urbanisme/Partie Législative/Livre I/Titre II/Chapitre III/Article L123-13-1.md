@@ -4,13 +4,19 @@ Sous réserve des cas où une révision s'impose en application des dispositions
 l'article L. 123-13, le plan local d'urbanisme fait l'objet d'une procédure de
 modification lorsque l'établissement public de coopération intercommunale ou,
 dans le cas prévu au deuxième alinéa de l'article L. 123-6, la commune envisage
-de modifier le règlement ou les orientations d'aménagement et de programmation.
+de modifier le règlement, les orientations d'aménagement et de programmation ou
+le programme d'orientations et d'actions.
 
 La procédure de modification est engagée à l'initiative du président de
 l'établissement public de coopération intercommunale ou, dans le cas prévu au
 deuxième alinéa de l'article L. 123-6, du maire qui établit le projet de
 modification et le notifie au préfet et personnes publiques associées
-mentionnées au premier alinéa du I et au III de l'article L. 121-4 avant
-l'ouverture de l'enquête publique ou, lorsqu'il est fait application des
-dispositions de l'article L. 123-13-3, avant la mise à disposition du public du
-projet.
+mentionnées aux I et III de l'article L. 121-4 avant l'ouverture de l'enquête
+publique ou, lorsqu'il est fait application des dispositions de l'article L.
+123-13-3, avant la mise à disposition du public du projet.
+
+Lorsque le projet de modification porte sur l'ouverture à l'urbanisation d'une
+zone, une délibération motivée de l'organe délibérant de l'établissement public
+compétent ou du conseil municipal justifie l'utilité de cette ouverture au
+regard des capacités d'urbanisation encore inexploitées dans les zones déjà
+urbanisées et la faisabilité opérationnelle d'un projet dans ces zones.

@@ -5,12 +5,20 @@ propriétaires faisant l'objet d'une procédure d'expropriation, aux services de
 l'Etat, aux collectivités territoriales, aux établissements publics de
 coopération intercommunale dotés d'une ficalité propre, aux établissements
 publics administratifs et aux établissements publics visés aux articles L.
-321-1, L. 324-1 et L. 326-1 du code de l'urbanisme les éléments d'information
-qu'elle détient au sujet des valeurs foncières déclarées à l'occasion des
-mutations intervenues dans les cinq dernières années et qui sont nécessaires à
-l'exercice de leurs compétences en matière de politique foncière et
-d'aménagement. Cette administration ne peut, dans ce cas, se prévaloir de la
-règle du secret.
+122-4, L. 321-1, L. 324-1 et L. 326-1 du code de l'urbanisme, aux agences
+d'urbanisme mentionnées à l'article L. 121-3 du même code, aux sociétés
+d'aménagement foncier et d'établissement rural mentionnées à l'article L. 141-1
+du code rural et de la pêche maritime, aux concessionnaires des opérations
+d'aménagement mentionnés à l'article L. 300-4 du code de l'urbanisme, aux
+associations foncières urbaines mentionnées à l'article L. 322-1 du même code et
+aux observatoires des loyers mentionnés à l'article 16 de la loi n° 89-462 du 6
+juillet 1989 tendant à améliorer les rapports locatifs et portant modification
+de la loi n° 86-1290 du 23 décembre 1986 les éléments d'information qu'elle
+détient au sujet des valeurs foncières déclarées à l'occasion des mutations
+intervenues dans les cinq dernières années et qui sont nécessaires à l'exercice
+de leurs compétences en matière de politiques foncière, d'urbanisme et
+d'aménagement et de transparence des marchés fonciers et immobiliers. Cette
+administration ne peut, dans ce cas, se prévaloir de la règle du secret.
 
 Ces dispositions ne font pas échec au secret de la défense nationale.
 

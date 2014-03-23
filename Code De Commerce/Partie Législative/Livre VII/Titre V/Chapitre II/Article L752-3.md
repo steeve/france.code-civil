@@ -1,6 +1,6 @@
 Article L752-3
 ----
-I.-Sont regardés comme faisant partie d'un même ensemble commercial, qu'ils
+I. - Sont regardés comme faisant partie d'un même ensemble commercial, qu'ils
 soient ou non situés dans des bâtiments distincts et qu'une même personne en
 soit ou non le propriétaire ou l'exploitant, les magasins qui sont réunis sur un
 même site et qui :
@@ -19,6 +19,12 @@ habituelle de pratiques et de publicités commerciales communes ;
 ou indirectement par au moins un associé, exerçant sur elle une influence au
 sens de l'article L. 233-16 ou ayant un dirigeant de droit ou de fait commun.
 
-II.-Toutefois, les dispositions du présent article ne sont pas applicables aux
+II. - Toutefois, les dispositions du présent article ne sont pas applicables aux
 zones d'aménagement concerté créées dans un centre urbain, en vertu de l'article
 L. 311-1 du code de l'urbanisme.
+
+III. - Au sens du présent code, constituent des points permanents de retrait par
+la clientèle d'achats au détail commandés par voie télématique, organisés pour
+l'accès en automobile, les installations, aménagements ou équipements conçus
+pour le retrait par la clientèle de marchandises commandées par voie télématique
+ainsi que les pistes de ravitaillement attenantes.

@@ -60,11 +60,14 @@ A tout moment de la procédure, si la situation du débiteur l'exige, la
 commission l'invite à solliciter une mesure d'aide ou d'action sociale qui peut
 comprendre un programme d'éducation budgétaire, et notamment une mesure
 d'accompagnement social personnalisé, dans les conditions prévues par le livre
-II du code de l'action sociale et des familles. Dans chaque département, le
-conseil général et la caisse d'allocations familiales désignent, chacun pour ce
-qui le concerne, un correspondant en vue de favoriser la coordination de leurs
-actions avec celles de la commission et notamment de faciliter la mise en place
-des mesures d'accompagnement social ou budgétaire prévues au présent titre.
+II du code de l'action sociale et des familles. Dans chaque département, la
+commission de coordination des actions de prévention des expulsions locatives
+prévue à l'article 7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en
+œuvre du droit au logement, le conseil général et la caisse d'allocations
+familiales désignent, chacun pour ce qui le concerne, un correspondant en vue de
+favoriser la coordination de leurs actions avec celles de la commission et
+notamment de faciliter la mise en place des mesures d'accompagnement social ou
+budgétaire prévues au présent titre.
 
 Lorsque le débiteur a déjà bénéficié d'une mesure de rétablissement personnel
 prévue aux 1° et 2° de l'article L. 330-1 et qu'il saisit de nouveau la

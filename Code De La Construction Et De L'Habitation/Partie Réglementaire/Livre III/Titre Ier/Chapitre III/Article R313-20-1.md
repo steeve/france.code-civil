@@ -30,9 +30,9 @@ fixe.
 
 IV.-Les subventions mentionnées au VI de l'article R. 313-19-1 sont attribuées à
 des personnes physiques dont le montant total des ressources est inférieur à un
-plafond fixé par recommandation de l'Union d'économie sociale du logement, dans
-la limite du plafond applicable aux prêts locatifs intermédiaires mentionnés à
-l'article R. 391-1.
+plafond fixé par recommandation de l'Union des entreprises et des salariés pour
+le logement, dans la limite du plafond applicable aux prêts locatifs
+intermédiaires mentionnés à l'article R. 391-1.
 
 V.-Les plafonds mentionnés au 1° du II et au 1° du III peuvent être augmentés ou
 réduits au plus de 20 % par arrêté du ministre chargé du logement en fonction de

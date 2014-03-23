@@ -9,3 +9,5 @@ modéré et aux sociétés d'économie mixte, ainsi qu'à la rénovation urbaine
 commission composée majoritairement de représentants de l'Etat arrête les
 emplois du fonds. Un décret en Conseil d'Etat détermine les modalités de mise en
 œuvre du fonds, notamment la composition et le fonctionnement de la commission.
+
+Elle gère également les fonds institués par les articles L. 300-2 et L. 302-9-3.

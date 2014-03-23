@@ -1,6 +1,6 @@
 Article L411-8
 ----
-L'union des habitations à loyer modéré regroupant les fédérations d'organismes
+L'Union sociale pour l'habitat regroupant les fédérations d'organismes
 d'habitations à loyer modéré peut conclure avec l'Etat des conventions ayant
 pour objet de favoriser la réalisation des objectifs définis à l'article L.
 301-1.
@@ -17,7 +17,7 @@ immobilier ;
 -sur la modernisation des conditions d'activité des organismes d'habitations à
 loyer modéré, et notamment leur respect des bonnes pratiques professionnelles.
 
-Les stipulations des conventions ainsi conclues par l'union des habitations à
-loyer modéré regroupant les fédérations d'organismes d'habitations à loyer
+Les stipulations des conventions ainsi conclues par l'Union sociale pour
+l'habitat modéré regroupant les fédérations d'organismes d'habitations à loyer
 modéré entrent en vigueur et s'imposent après approbation par arrêté du ou des
 ministres concernés.

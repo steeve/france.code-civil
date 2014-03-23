@@ -4,6 +4,11 @@ Les demandes de permis de construire, d'aménager ou de démolir et les
 déclarations préalables sont présentées et instruites dans les conditions et
 délais fixés par décret en Conseil d'Etat.
 
+Sur demande du maire, un plan intérieur du projet concerné doit être joint au
+dossier de demande de permis de construire ou à la déclaration préalable lorsque
+les demandes de permis de construire ou les déclarations préalables concernent
+la construction de logements collectifs.
+
 Aucune prolongation du délai d'instruction n'est possible en dehors des cas et
 conditions prévus par ce décret.
 

@@ -8,12 +8,11 @@ comptabilité publique déposent leurs fonds auprès de l'Etat, de la Caisse des
 dépôts et consignations ou de la Banque de France.
 
 Ils peuvent être autorisés à déposer les fonds de leurs régies de recettes sur
-un compte ouvert dans un établissement de crédit ayant obtenu un agrément en
-vertu des dispositions applicables dans les Etats membres de la Communauté
-européenne ou les autres Etats parties à l'accord sur l'Espace économique
-européen.
+des comptes à vue et des comptes sur livret ouverts dans un établissement de
+crédit ayant obtenu un agrément en vertu des dispositions applicables dans les
+Etats membres de la Communauté européenne ou les autres Etats parties à l'accord
+sur l'Espace économique européen.
 
 Ils peuvent également effectuer des dépôts sur un compte à terme ouvert auprès
 de l'Etat, de la Caisse des dépôts et consignations ou de la Banque de France
-ainsi que sur un premier livret de la Caisse nationale d'épargne ou des caisses
-d'épargne et de prévoyance.
+ainsi que sur un livret A.

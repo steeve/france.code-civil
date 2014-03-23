@@ -1,10 +1,14 @@
 Article L412-4
 ----
 La durée des délais prévus à l'article L. 412-3 ne peut, en aucun cas, être
-inférieure à un mois ni supérieure à un an. Pour la fixation de ces délais, il
-est tenu compte de la bonne ou mauvaise volonté manifestée par l'occupant dans
-l'exécution de ses obligations, des situations respectives du propriétaire et de
-l'occupant, notamment en ce qui concerne l'âge, l'état de santé, la qualité de
-sinistré par faits de guerre, la situation de famille ou de fortune de chacun
-d'eux, les circonstances atmosphériques, ainsi que des diligences que l'occupant
-justifie avoir faites en vue de son relogement.
+inférieure à trois mois ni supérieure à trois ans. Pour la fixation de ces
+délais, il est tenu compte de la bonne ou mauvaise volonté manifestée par
+l'occupant dans l'exécution de ses obligations, des situations respectives du
+propriétaire et de l'occupant, notamment en ce qui concerne l'âge, l'état de
+santé, la qualité de sinistré par faits de guerre, la situation de famille ou de
+fortune de chacun d'eux, les circonstances atmosphériques, ainsi que des
+diligences que l'occupant justifie avoir faites en vue de son relogement. Il est
+également tenu compte du droit à un logement décent et indépendant, des délais
+liés aux recours engagés selon les modalités prévues aux articles L. 441-2-3 et
+L. 441-2-3-1 du code de la construction et de l'habitation et du délai
+prévisible de relogement des intéressés.

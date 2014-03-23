@@ -14,10 +14,10 @@ vue de préserver ses équilibres financiers, après avis de la Caisse de garant
 du logement locatif social.
 
 Le montant maximal de la masse des loyers prévu au précédent alinéa est
-actualisé au 1er juillet de chaque année conformément au mode de calcul défini
-au d de l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer
-les rapports locatifs et portant modification de la loi n° 86-1290 du 23
-décembre 1986.
+actualisé au 1er juillet de chaque année conformément au mode de calcul défini à
+l'article 17-1 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les
+rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre
+1986.
 
 L'organisme fixe le loyer maximal applicable à chaque logement en tenant compte
 notamment de sa taille et de sa situation dans l'immeuble ou l'ensemble
@@ -27,7 +27,7 @@ L'organisme fixe librement les loyers applicables aux bénéficiaires des baux o
 engagements en cours dans la limite des loyers maximaux. Toutefois, aucune
 augmentation de loyer ne doit entraîner, d'une année par rapport à l'année
 précédente, une hausse qui excède de plus de 5 % le montant maximal prévu en
-application du d de l'article 17 de la loi n° 89-462 du 6 juillet 1989 précitée,
+application de l'article 17-1 de la loi n° 89-462 du 6 juillet 1989 précitée,
 sauf accord des associations représentatives de locataires ou des locataires
 dans les conditions fixées par l'article 42 de la loi n° 86-1290 du 23 décembre
 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de

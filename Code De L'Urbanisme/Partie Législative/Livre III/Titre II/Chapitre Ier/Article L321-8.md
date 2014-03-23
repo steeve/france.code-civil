@@ -7,4 +7,6 @@ dans les conditions définies à l'article L. 321-9.
 
 Le décret qui crée l'établissement peut prévoir la possibilité pour d'autres
 personnes d'assister de manière permanente aux réunions du conseil
-d'administration.
+d'administration. Chaque chambre consulaire et le conseil économique, social et
+environnemental sont représentés au conseil d'administration avec voix
+consultative.

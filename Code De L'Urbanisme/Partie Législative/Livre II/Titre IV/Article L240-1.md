@@ -20,3 +20,19 @@ réalisation de telles actions ou opérations.
 La commune ou l'établissement public de coopération intercommunale peut déléguer
 son droit de priorité dans les cas et conditions prévus aux articles L. 211-2 et
 L. 213-3.
+
+Pour l'acquisition d'un terrain pouvant faire l'objet d'une cession dans les
+conditions prévues aux articles L. 3211-7 et L. 3211-13-1 du code général de la
+propriété des personnes publiques, la commune ou l'établissement public de
+coopération intercommunale peut également déléguer son droit de priorité à un
+établissement public mentionné à la section 1 du chapitre Ier et au chapitre IV
+du titre II du livre III du code de l'urbanisme, à un organisme agréé mentionné
+à l'article L. 365-2 du code de la construction et de l'habitation, à un
+organisme mentionné à l'article L. 411-2 du même code et à une société
+d'économie mixte mentionnée à l'article L. 481-1 dudit code.
+
+Les établissements publics de coopération intercommunale à fiscalité propre
+peuvent exercer le droit de priorité au bénéfice des actions ou d'opérations
+répondant aux objets définis à l'article L. 300-1 ou pour constituer des
+réserves foncières en vue de permettre la réalisation de telles actions ou
+opérations.

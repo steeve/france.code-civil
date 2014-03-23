@@ -6,10 +6,11 @@ publié et transmis au préfet dans les conditions définies aux articles L. 213
 et L. 2131-2 du code général des collectivités territoriales.
 
 Lorsque le plan local d'urbanisme porte sur un territoire qui n'est pas couvert
-par un schéma de cohérence territoriale approuvé, il est publié et transmis au
-préfet dans les conditions définies aux articles L. 2131-1 et L. 2131-2 du code
-général des collectivités territoriales. Il devient exécutoire à l'issue d'un
-délai d'un mois à compter de sa transmission au préfet.
+par un schéma de cohérence territoriale approuvé, ou lorsqu'il comporte des
+dispositions tenant lieu de programme local de l'habitat, il est publié et
+transmis au préfet dans les conditions définies aux articles L. 2131-1 et L.
+2131-2 du code général des collectivités territoriales. Il devient exécutoire à
+l'issue d'un délai d'un mois à compter de sa transmission au préfet.
 
 Toutefois, dans ce délai, le préfet notifie par lettre motivée à l'établissement
 public de coopération intercommunale ou à la commune, les modifications qu'il
@@ -34,7 +35,8 @@ l'habitat, ces dispositions ne répondent pas aux objectifs de répartition
 équilibrée et diversifiée de l'offre de logements, de renouvellement du parc
 immobilier et d'accroissement du nombre de logements et de places d'hébergement
 nécessaires, en application des dispositions de l'article L. 302-2 du code de la
-construction et de l'habitation ;
+construction et de l'habitation , ou ont fait l'objet d'un avis défavorable ou
+de réserves émises par le comité régional de l'habitat et de l'hébergement ;
 
 4° Font apparaître des incompatibilités manifestes avec l'utilisation ou
 l'affectation des sols des communes voisines ;

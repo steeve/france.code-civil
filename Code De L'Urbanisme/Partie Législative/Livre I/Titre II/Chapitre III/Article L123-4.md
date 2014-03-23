@@ -2,10 +2,10 @@ Article L123-4
 ----
 Dans les zones à protéger en raison de la qualité de leurs paysages, le plan
 local d'urbanisme peut déterminer les conditions dans lesquelles les
-possibilités de construction résultant du coefficient d'occupation du sol fixé
-pour l'ensemble de la zone pourront être transférées en vue de favoriser un
-regroupement des constructions sur d'autres terrains situés dans un ou plusieurs
-secteurs de la même zone.
+possibilités de construction résultant des règles qu'il fixe pour l'ensemble de
+la zone pourront être transférées en vue de favoriser un regroupement des
+constructions sur d'autres terrains situés dans un ou plusieurs secteurs de la
+même zone.
 
 Dans ces secteurs, les constructions ne sont autorisées qu'après de tels
 transferts, les possibilités de construire propres aux terrains situés dans ces

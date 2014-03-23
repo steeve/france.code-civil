@@ -24,8 +24,8 @@ communes non soumises à ce prélèvement ne peuvent se voir imposer la
 construction de logements sociaux supplémentaires sans leur accord.
 
 II.-L'objectif de réalisation de logements locatifs sociaux défini au I précise
-la typologie des logements à financer telle que prévue au douzième alinéa de
-l'article L. 302-1.
+la typologie des logements à financer telle que prévue au sixième alinéa du IV
+de l'article L. 302-1.
 
 III.-Si la commune n'est pas couverte par un programme local de l'habitat, la
 part des logements financés en prêts locatifs sociaux ne peut être supérieure à

@@ -17,7 +17,7 @@ par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative au
 remboursement de la dette sociale ;
 
 3° Les parts ou actions des organismes de placement collectif en valeurs
-mobilières ou des placements collectifs relevant des paragraphes 1, 2 et 6 de la
+mobilières ou des placements collectifs relevant des paragraphes 1,2 et 6 de la
 sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la
 sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code
 monétaire et financier qui sont investis et exposés à plus de 90 % de leur actif
@@ -44,6 +44,6 @@ la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen ;
 
 6° Les engagements irrévocables de versements à première demande souscrits par
-les associés collecteurs de l'Union d'économie sociale du logement, ces
-engagements étant garantis par un nantissement de créances à hauteur de 150 % de
-leur montant total.
+les associés collecteurs de l'Union des entreprises et des salariés pour le
+logement, ces engagements étant garantis par un nantissement de créances à
+hauteur de 150 % de leur montant total.

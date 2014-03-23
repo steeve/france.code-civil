@@ -9,17 +9,17 @@ quartiers et tenir compte, par secteur géographique, des capacités d'accueil e
 des conditions d'occupation des immeubles constituant le patrimoine des
 différents organismes, définit :
 
--pour chaque organisme, un engagement annuel quantifié d'attribution de
+- pour chaque organisme, un engagement annuel quantifié d'attribution de
 logements aux personnes connaissant des difficultés économiques et sociales,
-notamment aux personnes et familles mentionnées au deuxième alinéa de l'article
-4 de la loi n° 90-449 du 31 mai 1990 précitée dont les besoins ont été
-identifiés dans le plan départemental d'action pour le logement des personnes
+notamment aux personnes et familles mentionnées à l'article 4 de la loi n°
+90-449 du 31 mai 1990 précitée dont les besoins ont été identifiés dans le plan
+départemental d'action pour le logement et l'hébergement des personnes
 défavorisées ;
 
--les moyens d'accompagnement et les dispositions nécessaires à la mise en oeuvre
+- les moyens d'accompagnement et les dispositions nécessaires à la mise en œuvre
 et au suivi de cet engagement annuel.
 
 Cet accord est soumis pour avis au comité responsable du plan départemental
-d'action pour le logement des personnes défavorisées. Si cet avis n'a pas été
-rendu dans un délai de deux mois à compter de la transmission de l'accord, il
-est réputé favorable.
+d'action pour le logement et l'hébergement des personnes défavorisées. Si cet
+avis n'a pas été rendu dans un délai de deux mois à compter de la transmission
+de l'accord, il est réputé favorable.

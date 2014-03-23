@@ -16,9 +16,22 @@ appartenant à la personne condamnée ;
 4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq
 ans au plus ;
 
+4° bis. La confiscation au profit de l'Etat de l'usufruit de tout ou partie de
+leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou
+indivis, ayant servi à commettre l'infraction prévue à l'article 225-14, les
+personnes physiques coupables gardant la nue-propriété de leurs biens ;
+
 5° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la
 nature, meubles ou immeubles, divis ou indivis, ayant servi à commettre les
 infractions prévues aux articles 225-13 à 225-14-2 ;
+
+5° bis. Pour l'infraction prévue à l'article 225-14, l'interdiction d'acheter
+pour une durée de cinq ans au plus soit à titre personnel, soit en tant
+qu'associé ou mandataire social de la société civile immobilière ou en nom
+collectif se portant acquéreur, soit sous forme de parts immobilières un bien
+immobilier à usage d'habitation, à d'autres fins que son occupation à titre
+personnel, ou un fonds de commerce d'un établissement recevant du public à usage
+total ou partiel d'hébergement ;
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
 par l'article 131-5-1 ;

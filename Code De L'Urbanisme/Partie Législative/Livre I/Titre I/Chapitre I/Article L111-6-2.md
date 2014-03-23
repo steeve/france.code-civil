@@ -1,8 +1,10 @@
 Article L111-6-2
 ----
-Nonobstant toute disposition d'urbanisme contraire, le permis de construire ou
-d'aménager ou la décision prise sur une déclaration préalable ne peut s'opposer
-à l'utilisation de matériaux renouvelables ou de matériaux ou procédés de
+Nonobstant les règles relatives à l'aspect extérieur des constructions des plans
+locaux d'urbanisme, des plans d'occupation des sols, des plans d'aménagement de
+zone et des règlements des lotissements, le permis de construire ou d'aménager
+ou la décision prise sur une déclaration préalable ne peut s'opposer à
+l'utilisation de matériaux renouvelables ou de matériaux ou procédés de
 construction permettant d'éviter l'émission de gaz à effet de serre, à
 l'installation de dispositifs favorisant la retenue des eaux pluviales ou la
 production d'énergie renouvelable correspondant aux besoins de la consommation
@@ -22,7 +24,8 @@ application des articles L. 341-1 et L. 341-2 du code de l'environnement, à
 l'intérieur du cœur d'un parc national délimité en application de l'article L.
 331-2 du même code, ni aux travaux portant sur un immeuble classé ou inscrit au
 titre des monuments historiques ou adossé à un immeuble classé, ou sur un
-immeuble protégé en application du 7° de l'article L. 123-1-5 du présent code.
+immeuble protégé en application du 2° du III de l'article L. 123-1-5 du présent
+code.
 
 Il n'est pas non plus applicable dans des périmètres délimités, après avis de
 l'architecte des Bâtiments de France, par délibération du conseil municipal ou

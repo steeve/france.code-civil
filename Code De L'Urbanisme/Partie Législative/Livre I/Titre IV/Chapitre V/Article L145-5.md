@@ -2,7 +2,7 @@ Article L145-5
 ----
 Les parties naturelles des rives des plans d'eau naturels ou artificiels d'une
 superficie inférieure à mille hectares sont protégées sur une distance de trois
-cent mètres à compter de la rive ; y sont interdits toutes constructions,
+cents mètres à compter de la rive ; y sont interdits toutes constructions,
 installations et routes nouvelles ainsi que toutes extractions et tous
 affouillements.
 
@@ -30,7 +30,7 @@ l'objet est directement lié au caractère lacustre des lieux, des installations
 caractère scientifique si aucune autre implantation n'est possible et des
 équipements d'accueil et de sécurité nécessaires à la pratique de la baignade,
 des sports nautiques, de la promenade ou de la randonnée ainsi que des projets
-visés au 1° de l'article L. 111-1-2.
+visés au 1° du I de l'article L. 111-1-2.
 
 Les dispositions du présent article s'appliquent également aux plans d'eau
 partiellement situés en zone de montagne. Peuvent toutefois être exclus du champ

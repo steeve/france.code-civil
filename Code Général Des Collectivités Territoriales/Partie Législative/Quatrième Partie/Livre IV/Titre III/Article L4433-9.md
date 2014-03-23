@@ -5,9 +5,7 @@ du conseil régional selon une procédure conduite par le président du conseil
 régional et déterminée par décret en Conseil d'Etat.
 
 Sont associés à cette élaboration l'Etat, le département, les communes, ainsi
-que les établissements publics de coopération intercommunale et les syndicats
-mixtes chargés de l'élaboration et de l'approbation des schémas de cohérence
-territoriale en application aux articles L. 122-4 et L. 122-4-1 du code de
+que les établissements publics prévus à l'article L. 122-4 du code de
 l'urbanisme. Les chambres d'agriculture, les chambres de commerce et d'industrie
 territoriales et les chambres de métiers le sont également, à leur demande,
 ainsi que les organisations professionnelles et les associations agréées de
