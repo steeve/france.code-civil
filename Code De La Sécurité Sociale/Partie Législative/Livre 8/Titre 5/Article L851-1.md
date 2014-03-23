@@ -34,8 +34,12 @@ aire en application d'une convention prévue au II de l'article 2 de la loi n°
 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du
 voyage.
 
-Une convention passée avec l'Etat fixe, compte tenu de la capacité effective des
-aires d'accueil, le montant prévisionnel de l'aide versée annuellement à ces
-gestionnaires. Cette convention détermine les modalités de calcul du droit
-d'usage perçu par les gestionnaires des aires d'accueil et définit les
+Le versement de l'aide est subordonné à la signature d'une convention entre
+l'Etat et ces gestionnaires. Cette convention détermine les modalités de calcul
+du droit d'usage perçu par les gestionnaires des aires d'accueil et définit les
 conditions de leur gardiennage.
+
+Pour chaque aire, le montant de l'aide versée au gestionnaire est déterminé en
+fonction, d'une part, du nombre total de places, tel qu'il figure dans la
+convention mentionnée au deuxième alinéa du présent II, et, d'autre part, de
+l'occupation effective de celles-ci.

@@ -16,10 +16,23 @@ récifs coralliens, les lagons et les mangroves.
 
 Toutefois, des aménagements légers peuvent y être implantés lorsqu'ils sont
 nécessaires à leur gestion, à leur mise en valeur notamment économique ou, le
-cas échéant, à leur ouverture au public. Un décret définit la nature et les
-modalités de réalisation de ces aménagements qui incluent, selon leur importance
-et leur incidence sur l'environnement, soit une enquête publique, soit une mise
-à disposition du public préalablement à leur autorisation.
+cas échéant, à leur ouverture au public.
+
+Un décret définit la nature et les modalités de réalisation de ces aménagements.
+Ces projets d'aménagement sont soumis, préalablement à leur autorisation, selon
+leur importance et leur incidence sur l'environnement, soit à l'enquête publique
+prévue au chapitre III du titre II du livre Ier du code de l'environnement
+lorsqu'ils entrent dans le champ d'application de cette enquête, soit à une mise
+à disposition du public pendant une durée d'au moins quinze jours, dans des
+conditions permettant à celui-ci de formuler ses observations. Ces observations
+sont enregistrées et conservées. La nature des documents communiqués au public
+et les modalités de leur mise à disposition sont précisées par l'autorité
+administrative compétente pour délivrer l'autorisation et portées à la
+connaissance du public au moins huit jours avant le début de cette mise à
+disposition.
+
+A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité
+administrative en établit le bilan.
 
 Peuvent être également autorisées les canalisations du réseau public de
 transport ou de distribution d'électricité visant à promouvoir l'utilisation des
