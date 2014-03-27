@@ -3,6 +3,10 @@ Article 102
 Le domicile de tout Français, quant à l'exercice de ses droits civils, est au
 lieu où il a son principal établissement.
 
+Le lieu d'exercice des droits civils d'une personne sans domicile stable est
+celui où elle a fait élection de domicile dans les conditions prévues à
+l'article L. 264-1 du code de l'action sociale et des familles.
+
 Les bateliers et autres personnes vivant à bord d'un bateau de navigation
 intérieure immatriculé en France, qui n'ont pas le domicile prévu à l'alinéa
 précédent ou un domicile légal, sont tenus de choisir un domicile dans l'une des

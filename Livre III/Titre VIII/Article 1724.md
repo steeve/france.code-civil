@@ -5,7 +5,7 @@ puissent être différées jusqu'à sa fin, le preneur doit les souffrir, quelqu
 incommodité qu'elles lui causent, et quoiqu'il soit privé, pendant qu'elles se
 font, d'une partie de la chose louée.
 
-Mais, si ces réparations durent plus de quarante jours, le prix du bail sera
+Mais, si ces réparations durent plus de vingt et un jours, le prix du bail sera
 diminué à proportion du temps et de la partie de la chose louée dont il aura été
 privé.
 
