@@ -11,15 +11,23 @@ L'assemblée générale extraordinaire fixe le pourcentage maximal du capital
 social pouvant être attribué dans les conditions définies au premier alinéa. Le
 nombre total des actions attribuées gratuitement ne peut excéder 10 % du capital
 social à la date de la décision de leur attribution par le conseil
-d'administration ou le directoire. Dans les sociétés dont les titres ne sont pas
-admis aux négociations sur un marché réglementé ou sur un système multilatéral
-de négociation et ne dépassant pas, à la clôture d'un exercice social, les
-seuils définissant les petites et moyennes entreprises prévus à l'article 2 de
-l'annexe à la recommandation 2003/361/CE de la Commission, du 6 mai 2003,
-concernant la définition des micro, petites et moyennes entreprises, les statuts
-peuvent prévoir un pourcentage plus élevé, qui ne peut toutefois excéder 15 % du
-capital social à la date de la décision d'attribution des actions par le conseil
-d'administration ou le directoire.
+d'administration ou le directoire. Ce pourcentage est porté à 30 % lorsque
+l'attribution d'actions gratuites bénéficie à l'ensemble des membres du
+personnel salarié de la société. L'écart entre le nombre d'actions distribuées à
+chaque salarié ne peut être supérieur à un rapport de un à cinq. Dans les
+sociétés dont les titres ne sont pas admis aux négociations sur un marché
+réglementé ou sur un système multilatéral de négociation et ne dépassant pas, à
+la clôture d'un exercice social, les seuils définissant les petites et moyennes
+entreprises prévus à l'article 2 de l'annexe à la recommandation 2003/361/CE de
+la Commission, du 6 mai 2003, concernant la définition des micro, petites et
+moyennes entreprises, les statuts peuvent prévoir, dans le cas d'attributions
+gratuites d'actions à certaines catégories des membres du personnel salarié de
+la société uniquement, un pourcentage plus élevé, qui ne peut toutefois excéder
+15 % du capital social à la date de la décision d'attribution des actions par le
+conseil d'administration ou le directoire. Ce pourcentage est porté à 30 %
+lorsque l'attribution d'actions gratuites bénéficie à l'ensemble des membres du
+personnel salarié de la société. L'écart entre le nombre d'actions distribuées à
+chaque salarié ne peut être supérieur à un rapport de un à cinq.
 
 Elle fixe également le délai pendant lequel cette autorisation peut être
 utilisée par le conseil d'administration ou le directoire. Ce délai ne peut

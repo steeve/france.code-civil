@@ -5,6 +5,12 @@ missions, l'expert-comptable a accès aux mêmes documents que le commissaire au
 comptes.
 
 Lorsqu'il est saisi dans le cadre d'une opération de concentration prévue à
-l'article L. 2323-20 ou d'une opération de recherche de repreneurs prévue à
-l'article L. 1233-90-1, l'expert a accès aux documents de toutes les sociétés
-intéressées par l'opération.
+l'article L. 2323-20 ou d'une opération de recherche de repreneurs prévue à la
+section 4 bis du chapitre III du titre III du livre II de la première partie,
+l'expert a accès aux documents de toutes les sociétés intéressées par
+l'opération.
+
+Lorsqu'il est saisi dans le cadre d'une offre publique d'acquisition dans les
+conditions prévues aux articles L. 2323-21 à L. 2323-26-1 A, l'expert-comptable
+a accès aux documents nécessaires à l'élaboration du rapport prévu à l'article
+L. 2323-22-1.
