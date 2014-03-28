@@ -10,13 +10,13 @@ détenir, directement ou indirectement, plus des trois dixièmes du capital ou d
 droits de vote, ou détenant, directement ou indirectement, un nombre compris
 entre trois dixièmes et la moitié du capital ou des droits de vote et qui, en
 moins de douze mois consécutifs, augmente sa détention en capital ou en droits
-de vote d'au moins un cinquantième du capital ou des droits de vote de la
-société, est tenue d'en informer immédiatement l'Autorité des marchés financiers
-et de déposer un projet d'offre publique en vue d'acquérir une quantité
-déterminée des titres de la société. A défaut d'avoir procédé à ce dépôt, les
-titres détenus par cette personne au-delà des trois dixièmes ou au-delà de sa
-détention augmentée de la fraction d'un cinquantième susmentionnée du capital ou
-des droits de vote sont privés du droit de vote.
+de vote d'au moins un centième du capital ou des droits de vote de la société,
+est tenue d'en informer immédiatement l'Autorité des marchés financiers et de
+déposer un projet d'offre publique en vue d'acquérir une quantité déterminée des
+titres de la société. A défaut d'avoir procédé à ce dépôt, les titres détenus
+par cette personne au-delà des trois dixièmes ou au-delà de sa détention
+augmentée de la fraction d'un centième susmentionnée du capital ou des droits de
+vote sont privés du droit de vote.
 
 La détention directe ou indirecte d'une fraction du capital ou des droits de
 vote est appréciée au regard des articles L. 233-7 et L. 233-9 du code de
