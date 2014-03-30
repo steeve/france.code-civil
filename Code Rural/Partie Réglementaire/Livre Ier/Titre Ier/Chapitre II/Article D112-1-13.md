@@ -41,8 +41,7 @@ ou son représentant ;
 
 -le directeur de l'eau et de la biodiversité ou son représentant ;
 
--le délégué interministériel à l'aménagement du territoire et à l'attractivité
-régionale ou son représentant.
+-le commissaire général à l'égalité des territoires ou son représentant.
 
 Les membres de l'Observatoire national de la consommation des espaces agricoles
 mentionnés aux 1° à 6° sont nommés pour une durée de cinq ans, renouvelable, par

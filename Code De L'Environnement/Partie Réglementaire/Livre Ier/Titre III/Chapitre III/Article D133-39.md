@@ -20,8 +20,7 @@ le décret n° 2008-1250 du 1er décembre 2008 ;
 
 -le directeur général de l'aménagement, du logement et de la nature ;
 
--le délégué interministériel à l'aménagement du territoire et à l'attractivité
-régionale ;
+-le commissaire général à l'égalité des territoires ;
 
 -le directeur général du Trésor ;
 

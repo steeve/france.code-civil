@@ -7,8 +7,8 @@ plus de la moitié de ses membres et émettre, à son initiative, des propositio
 ou des recommandations.
 
 Le secrétariat du comité national est assuré par le ministre chargé de
-l'environnement et le ministre chargé de l'urbanisme, avec l'appui du délégué
-interministériel à l'aménagement du territoire et à l'attractivité régionale.
+l'environnement et le ministre chargé de l'urbanisme, avec l'appui du
+commissaire général à l'égalité des territoires.
 
 Le comité national peut créer en son sein des commissions spécialisées et adopte
 à cette fin un règlement intérieur déterminant la liste, la composition, les
