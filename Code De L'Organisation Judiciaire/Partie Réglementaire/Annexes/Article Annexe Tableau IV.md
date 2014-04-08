@@ -1947,7 +1947,7 @@ Veynes. (4)]
 
 Isère
 
-[Bourgoin-Jallieu (19)]
+Bourgoin-Jallieu
 
 
 Bourgoin-Jallieu
@@ -1959,57 +1959,24 @@ Virieu.
 
 Grenoble
 
-[Grenoble
+Grenoble
 
-Cantons d'Allevard, Domène, Échirolles-Est, Échirolles-Ouest, Eybens,
-Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble
-2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble
-6e canton, Le Bourg-d'Oisans, Le Touvet, Meylan, Saint-Égrève, Saint-Ismier,
-Saint-Laurent-du-Pont, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Vif,
-Villard-de-Lans, Vizille et Voiron. (3)]
-
-[Grenoble
-
-Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest,
+Cantons d'Allevard, Clelles, Corps, Domène, Echirolles-Est, Echirolles-Ouest,
 Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton,
 Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton,
 Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan,
-Monestier de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève,
-Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont,
+Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Egrève,
+Saint-Etienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont,
 Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins,
-Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. (4)]
+Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron.
 
-[La Mure
 
-Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais.
-(3)]
-
-[Saint-Marcellin
-
-Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs,
-Saint-Marcellin, Tullins et Vinay. (3)]
-
-[Vienne (19)]
-
-[Villefontaine (20)]
-
+Vienne
 
 Vienne
 
 Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière,
 L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean de-Bournay, Vienne-Nord
-et Vienne-Sud.
-
-[Bourgoin-Jallieu]
-
-Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin,
-Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et
-Virieu.
-
-[Vienne
-
-Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière,
-L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean-de-Bournay, Vienne-Nord
 et Vienne-Sud.
 
 Cour d'appel de Limoges
@@ -2598,10 +2565,15 @@ Rambervillers et Xertigny. (11)]
 
 [Epinal
 
-Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle,
-Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,
-Plombière-les-Bains, Rambervillers, Remiremont, Saulxures-sur-Moselotte et
-Xertigny. (12 et 3)]
+Cantons de Bains-les-Bains, Bruyères, Bulgnéville,
+
+Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,
+
+Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,
+
+Plombière-les-Bains, Rambervillers, Remiremont,
+
+Saulxures-sur-Moselotte et Xertigny. (12 et 3)]
 
 [Mirecourt
 
@@ -2873,7 +2845,7 @@ Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris et Selles-sur-Cher.
 [Vendôme
 
 Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré,
-Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
+Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)]
 
 Cour d'appel de Paris
 
@@ -4710,7 +4682,10 @@ Nuku-Hiva
 
 Îles Marquises.
 
-Siège du tribunal de première instance et de la juridiction de proximité
+
+Siège du tribunal de première instance
+
+et de la juridiction de proximité
 
 
 Ressort
@@ -4758,10 +4733,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (17) Applicable jusqu'au 5 septembre 2010.
 
 (18) Applicable à compter du 6 septembre 2010.
-
-(19) Applicable jusqu'au 30 juin 2014.
-
-(20) Applicable à compter du 1er juillet 2014.
 
 (21) Applicable jusqu'au 31 décembre 2011.
 

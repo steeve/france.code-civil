@@ -211,8 +211,10 @@ Belfort
 
 Ressort du tribunal de grande instance de Belfort.
 
-Cour d'appel de Bordeaux Charente
+Cour d'appel de Bordeaux
 
+
+Charente
 
 Angoulême
 
@@ -460,18 +462,19 @@ Ressort du tribunal de grande instance de Gap.
 
 Isère
 
-[Bourgoin-Jallieu
+Bourgoin-Jallieu
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu. (11)]
+Ressort du tribunal de grande instance de Bourgoin-Jallieu.
 
 
 Grenoble
 
 Ressort du tribunal de grande instance de Grenoble.
 
-(Vienne
 
-Ressort du tribunal de grande instance de Vienne.[11])
+Vienne
+
+Ressort du tribunal de grande instance de Vienne.
 
 (Villefontaine
 
@@ -1068,7 +1071,5 @@ Ressort du tribunal de grande instance de Saint-Pierre
 (4) Applicable à compter du 1er janvier 2011.
 
 (6) Applicable à compter du 1er janvier 2011.
-
-(11) Applicable jusqu'au 30 juin 2014.
 
 (12) Applicable à compter du 1er juillet 2014.
