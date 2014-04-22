@@ -94,6 +94,8 @@ Centre de détention de Neuvic (Dordogne).
 
 Centre de détention d'Oermingen (Bas-Rhin).
 
+Quartier centre de détention du centre pénitentiaire d'Orléans-Saran (Loiret)
+
 Quartier centre de détention du centre pénitentiaire de Perpignan
 (Pyrénées-Orientales).
 
