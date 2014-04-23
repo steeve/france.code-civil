@@ -5,8 +5,7 @@ L. 531-2 et de l'allocation de base mentionnée à l'article L. 531-3, le montan
 des ressources du ménage ou de la personne, apprécié dans les conditions prévues
 à l'article R. 532-1, ne doit pas dépasser un plafond annuel.
 
-Ce plafond est majoré de 25 % par enfant à charge à partir du premier et de 30 %
-par enfant à partir du troisième enfant à charge.
+Ce plafond est majoré de 22 % par enfant à charge.
 
 Il est également majoré lorsque les deux membres du couple ont retiré chacun de
 leur activité professionnelle pendant l'année de référence un revenu au moins
@@ -20,6 +19,12 @@ Le plafond de ressources et la majoration prévus aux premier et troisième
 alinéas sont revalorisés au 1er janvier de chaque année conformément à
 l'évolution en moyenne annuelle des prix à la consommation hors tabac de l'année
 civile de référence, par arrêté du ministre chargé de la sécurité sociale.
+
+L'allocation de base est attribuée à taux plein lorsque le montant des
+ressources du ménage ou de la personne ne dépasse pas un plafond, inférieur à
+celui mentionné au premier alinéa, et majoré dans les conditions définies aux
+deuxième et troisième alinéas. L'allocation de base est attribuée à taux partiel
+dans les autres cas.
 
 Pour l'ouverture des droits à la prime à la naissance ou à l'adoption, la
 situation de la famille est appréciée le premier jour du mois civil suivant le
