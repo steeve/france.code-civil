@@ -4,11 +4,10 @@ I.-Pour être agréé, un organisme d'inspection doit présenter des garanties
 d'indépendance et de compétence et disposer des moyens nécessaires à l'exécution
 des tâches pour lesquelles il est agréé. Ces conditions sont réputées remplies
 lorsque l'organisme est accrédité au titre des annexes A, B, ou C de la norme NF
-EN ISO / CEI 17020 pour les activités de " contrôle périodique des
-pulvérisateurs " par le Comité français d'accréditation (COFRAC) ou par tout
-autre organisme d'accréditation signataire de l'accord de reconnaissance
-multilatéral établi par la coordination européenne des organismes
-d'accréditation.
+EN ISO/ CEI 17020 pour les activités de " contrôle périodique des pulvérisateurs
+" par le Comité français d'accréditation (COFRAC) ou par tout autre organisme
+d'accréditation signataire de l'accord de reconnaissance multilatéral établi par
+la coordination européenne des organismes d'accréditation.
 
 Elles sont également réputées remplies lorsque leur respect a été vérifié par
 les autorités d'un autre Etat membre de l'Union européenne ou de l'Espace
@@ -36,7 +35,7 @@ l'article L. 256-2-1 ;
 256-2-1, pour les organismes accrédités, la décision prise par l'organisme
 d'accréditation à la suite de chacun de ses audits.
 
-III.-A compter du 1er janvier 2014, tout organisme d'inspection réalisant chaque
+III.-A compter du 1er janvier 2018, tout organisme d'inspection réalisant chaque
 année au moins trois cent cinquante inspections doit, pour la délivrance ou le
 renouvellement d'un agrément, être accrédité dans les conditions prévues au I du
 présent article.
