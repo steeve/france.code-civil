@@ -43,7 +43,11 @@ période de droit, lorsque les revenus desdites périodes de droit sont connus.
 Lorsque les revenus effectivement perçus au cours d'une période de droit sont
 supérieurs à ceux visés au 2° du I ou au II du présent article, l'organisme
 débiteur de prestations familiales procède au recouvrement des sommes indûment
-versées.
+versées, sauf s'ils sont proportionnels à l'activité réduite déclarée. A cet
+effet, l'organisme débiteur de prestations familiales compare les revenus
+effectivement perçus au cours d'une période de droit au revenu tel que retenu
+pour le calcul de l'impôt sur le revenu de l'année civile précédant l'ouverture
+du droit.
 
 IV. ― Pour les élus locaux qui cessent leur activité professionnelle pour se
 consacrer à leur mandat d'élu, le complément de libre choix d'activité à taux
