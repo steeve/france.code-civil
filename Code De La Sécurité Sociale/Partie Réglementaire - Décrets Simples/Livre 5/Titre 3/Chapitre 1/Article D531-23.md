@@ -66,7 +66,11 @@ de 40 % ;
 
 4° Le complément est versé par enfant en cas de garde par une assistante
 maternelle ou par un établissement d'accueil de jeunes enfants et par famille en
-cas de garde au domicile des parents.
+cas de garde au domicile des parents ;
+
+5° Pour l'application des 1° et 2°, les revenus du ménage ou de la personne
+seule sont appréciés dans les conditions prévues aux articles R. 532-1 à R.
+532-8.
 
 IV. ― Pour la garde d'un enfant répondant à la condition d'âge mentionnée au IV
 de l'article L. 531-5, les montants mentionnés au III sont divisés par deux.

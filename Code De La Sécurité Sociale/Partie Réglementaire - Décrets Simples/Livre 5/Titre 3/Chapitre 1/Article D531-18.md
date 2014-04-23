@@ -26,4 +26,7 @@ mentionné au troisième alinéa de l'article R. 531-1, le montant versé ne peu
 excéder 43,14 % de la base mensuelle de calcul des allocations familiales ;
 
 3° Lorsque la charge de l'enfant ou des enfants est assumée par une personne
-seule, les plafonds de ressources mentionnés au 2° sont majorés de 40 %.
+seule, les plafonds de ressources mentionnés au 2° sont majorés de 40 % ;
+
+4° Pour l'application du 2°, les revenus du ménage ou de la personne seule sont
+appréciés dans les conditions prévues aux articles R. 532-1 à R. 532-8.
