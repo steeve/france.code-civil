@@ -29,12 +29,16 @@ horaire garanti" ;
 
 10° "conseil de prud'hommes" par "tribunal du travail".
 
-II. - Pour l'application du présent code dans les îles Wallis et Futuna, les
-termes énumérés ci-après sont remplacés comme suit :
+II. - Pour l'application du présent code dans les îles Wallis et Futuna :
 
-1° "maire" par "chef de circonscription" ;
+1° Les références au directeur des services pénitentiaires d'insertion et de
+probation sont supprimées ;
 
-2° "commune" par "circonscription".
+2° Les termes énumérés ci-après sont remplacés comme suit :
+
+a) "Maire" par "chef de circonscription" ;
+
+b) "Commune" par "circonscription."
 
 III. - De même, les références à des dispositions non applicables en
 Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
