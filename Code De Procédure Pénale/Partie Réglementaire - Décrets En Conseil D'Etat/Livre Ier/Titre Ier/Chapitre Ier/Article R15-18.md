@@ -8,9 +8,9 @@ compétence s'exerce sur l'ensemble du territoire national sont les suivants :
 
 2° La direction centrale de la police aux frontières ;
 
-3° La direction centrale du renseignement intérieur ;
+3° L'inspection générale de la police nationale ;
 
-4° L'inspection générale de la police nationale ;
+4° La direction générale de la sécurité intérieure ;
 
 5° Le détachement de la police nationale auprès de la direction nationale des
 enquêtes douanières.

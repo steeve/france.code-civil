@@ -1,6 +1,6 @@
 Article R*135 S-1
 ----
-Le directeur central du renseignement intérieur, le directeur général de la
+Le directeur général de la sécurité intérieure, le directeur général de la
 sécurité extérieure, le directeur du renseignement militaire et le directeur de
 la protection et de la sécurité de la défense délivrent les habilitations à
 formuler les demandes mentionnées à l'article L. 135 S à des agents relevant de

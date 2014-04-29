@@ -7,7 +7,7 @@ l'article 706-102-1 sont :
 -la direction centrale de la police judiciaire et ses directions interrégionales
 et régionales ;
 
--la direction centrale du renseignement intérieur ;
+-la direction générale de la sécurité intérieure ;
 
 -les offices centraux de police judiciaire ;
 

@@ -9,44 +9,44 @@ de services définies aux articles R. 15-18 à R. 15-26-1 et énumérés ci-apr�
 1° Services dont la compétence territoriale s'étend sur l'ensemble du territoire
 national :
 
-- la direction centrale de la police judiciaire ;
+-la direction centrale de la police judiciaire ;
 
-- la sous-direction de la police judiciaire de la gendarmerie nationale ;
+-la sous-direction de la police judiciaire de la gendarmerie nationale ;
 
-- la direction centrale du renseignement intérieur ;
+-la direction générale de la sécurité intérieure ;
 
-- l'inspection générale de la police nationale ;
+-l'inspection générale de la police nationale ;
 
-- le détachement de la police nationale auprès de la direction nationale des
+-le détachement de la police nationale auprès de la direction nationale des
 enquêtes douanières ;
 
-- le centre automatisé de constatation des infractions routières.
+-le centre automatisé de constatation des infractions routières.
 
 2° Services dont la compétence territoriale s'étend sur le ressort d'une ou
 plusieurs zones de défense ou parties de celles-ci :
 
-- les directions interrégionales de police judiciaire ainsi que leurs services
+-les directions interrégionales de police judiciaire ainsi que leurs services
 régionaux et antennes de police judiciaire et les directions régionales de
 police judiciaire ainsi que leurs services départementaux et antennes de police
 judiciaire ;
 
-- la direction de la préfecture de police chargée du maintien de l'ordre public
+-la direction de la préfecture de police chargée du maintien de l'ordre public
 et de la régulation de la circulation ;
 
-- la direction de la préfecture de police chargée des missions de sécurité et de
+-la direction de la préfecture de police chargée des missions de sécurité et de
 paix publiques, ainsi que ses sûretés territoriales et ses circonscriptions de
 sécurité de proximité ;
 
-- la direction opérationnelle des services techniques et logistiques de la
+-la direction opérationnelle des services techniques et logistiques de la
 préfecture de police ;
 
-- les circonscriptions de sécurité publique visées à l'article R. 15-19 (7°) ;
+-les circonscriptions de sécurité publique visées à l'article R. 15-19 (7°) ;
 
-- les sections de recherches de la gendarmerie départementale.
+-les sections de recherches de la gendarmerie départementale.
 
 3° Services dont la compétence territoriale s'étend sur l'ensemble d'un
 département :
 
-- les sûretés départementales ;
+-les sûretés départementales ;
 
-- les circonscriptions de sécurité publique.
+-les circonscriptions de sécurité publique.

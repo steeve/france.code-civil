@@ -9,7 +9,7 @@ police judiciaire individuellement désignés et spécialement habilités soit p
 les chefs des services territoriaux de la police nationale, soit par les chefs
 des services actifs à la préfecture de police ou, le cas échéant, le préfet de
 police, soit par les chefs des services centraux de la police nationale ou, le
-cas échéant, le directeur général de la police nationale ;
+cas échéant, le directeur général dont ils relèvent ;
 
 2° Les militaires des unités de la gendarmerie nationale exerçant des missions
 de police judiciaire individuellement désignés et spécialement habilités soit
