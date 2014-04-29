@@ -9,6 +9,6 @@ de ses observations, dans un nouveau délai de deux mois.
 
 Sur décision de son président ou à la demande d'un tiers de ses membres, elle
 peut surseoir à statuer afin de soumettre le projet de règlement fédéral à
-l'appréciation de la commission consultative d'évaluation des normes prévue à
-l'article L. 1211-4-2 du code général des collectivités territoriales. Elle se
-prononce définitivement dans les deux mois suivant l'avis de celle-ci.
+l'appréciation du Conseil national d'évaluation des normes prévu à l'article L.
+1212-1 du code général des collectivités territoriales. Elle se prononce
+définitivement dans les deux mois suivant l'avis de celle-ci.

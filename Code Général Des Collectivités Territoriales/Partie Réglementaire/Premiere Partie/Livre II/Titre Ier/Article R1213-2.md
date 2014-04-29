@@ -1,12 +1,17 @@
 Article R1213-2
 ----
-La commission consultative d'évaluation des normes est présidée par un de ses
-membres élus, désigné, dans les conditions prévues à l'article R. 1211-14, par
-le comité des finances locales.
+Les quatre représentants des régions et de la collectivité territoriale de Corse
+ainsi que leurs suppléants sont élus par le collège des présidents des conseils
+régionaux au scrutin majoritaire de liste à un tour, avec dépôt de listes
+complètes, sans adjonction ni suppression de noms et sans modification de
+l'ordre de présentation.
 
-Le président de la commission consultative est assisté de deux vice-présidents,
-désignés, dans les conditions prévues à l'article R. 1211-14, par le comité des
-finances locales parmi les élus.
+La liste est composée alternativement d'un candidat de chaque sexe.
 
-L'élection du président et des deux vice-présidents de la commission peut être
-contestée dans les conditions prévues au second alinéa de l'article R. 1211-15.
+Elle comporte une majorité d'élus exerçant au sein des conseils régionaux ou de
+la collectivité territoriale de Corse les fonctions exécutives suivantes :
+
+- président ou vice-président de conseil régional ;
+
+- président, membre du conseil exécutif de Corse ou président ou vice-président
+de l'assemblée de Corse.

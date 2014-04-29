@@ -1,9 +1,14 @@
 Article R1213-4
 ----
-La commission consultative d'évaluation des normes se prononce dans un délai de
-cinq semaines à compter de la date de la délivrance de l'accusé de réception
-prévu à l'article R. 1213-3. Sauf urgence demandée par le Premier ministre, ce
-délai est reconductible une fois par décision du président.
+Les cinq représentants des établissements publics de coopération intercommunale
+à fiscalité propre et leurs suppléants sont élus par le collège des présidents
+d'établissements publics de coopération intercommunale à fiscalité propre, au
+scrutin majoritaire de liste à un tour, avec dépôt de listes complètes, sans
+adjonction ni suppression de noms et sans modification de l'ordre de
+présentation.
 
-A titre exceptionnel et sur demande du Premier ministre, le délai imparti à la
-commission pour donner son avis est ramené à soixante-douze heures.
+La liste est composée alternativement d'un candidat de chaque sexe.
+
+Elle comporte une majorité d'élus exerçant au sein des établissements publics de
+coopération intercommunale à fiscalité propre les fonctions exécutives de
+président ou de vice-président.

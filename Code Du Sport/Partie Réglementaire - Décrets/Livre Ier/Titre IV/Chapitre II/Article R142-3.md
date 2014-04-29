@@ -35,9 +35,9 @@ c) Six représentants des communes et de leurs groupements désignés par le
 président de l'Association des maires de France, dont au moins deux
 représentants des établissements publics de coopération intercommunale ;
 
-d) Deux élus membres de la commission consultative d'évaluation des normes
-prévue à l'article L. 1211-4-2 du code général des collectivités territoriales,
-désignés par son président ;
+d) Deux élus membres du Conseil national d'évaluation des normes prévu à
+l'article L. 1212-1 du code général des collectivités territoriales, désignés
+par son président ;
 
 3° Au titre du collège représentant le mouvement sportif :
 
@@ -49,15 +49,15 @@ b) Le président du Comité paralympique et sportif français ou son représenta
 c) Dix autres représentants du mouvement sportif désignés par le président du
 Comité national olympique et sportif français, dont au moins :
 
-- un représentant de sa commission des athlètes de haut niveau ;
+-un représentant de sa commission des athlètes de haut niveau ;
 
-- deux représentants de fédérations ayant reçu délégation pour une discipline
+-deux représentants de fédérations ayant reçu délégation pour une discipline
 sportive relevant de la catégorie des sports olympiques ;
 
-- un représentant d'une fédération ayant reçu délégation pour une discipline
+-un représentant d'une fédération ayant reçu délégation pour une discipline
 sportive ne relevant pas de la catégorie des sports olympiques ;
 
-- trois représentants de fédérations multisports ;
+-trois représentants de fédérations multisports ;
 
 4° Au titre du collège représentant les acteurs sociaux et économiques :
 

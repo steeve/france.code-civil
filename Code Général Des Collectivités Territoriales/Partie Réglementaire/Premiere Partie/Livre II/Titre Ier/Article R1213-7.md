@@ -1,6 +1,9 @@
 Article R1213-7
 ----
-Le président de la commission consultative d'évaluation des normes présente
-chaque année au comité des finances locales un bilan des travaux de la
-commission. Ce bilan est communiqué aux membres de la commission consultative
-sur l'évaluation des charges.
+Les listes de candidature sont déposées au ministère chargé des collectivités
+territoriales à une date fixée par arrêté du ministre chargé des collectivités
+territoriales.
+
+Cet arrêté fixe également la date limite d'envoi ou de dépôt des bulletins de
+vote au secrétariat de la commission de recensement prévue à l'article R.
+1213-12, à la préfecture ou au haut-commissariat de la République.

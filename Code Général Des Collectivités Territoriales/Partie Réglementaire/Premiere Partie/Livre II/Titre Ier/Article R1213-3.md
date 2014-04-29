@@ -1,11 +1,11 @@
 Article R1213-3
 ----
-Les projets ou propositions de textes mentionnés aux deuxième, quatrième et
-cinquième alinéas de l'article L. 1211-4-2 sont accompagnés d'un rapport de
-présentation et d'une fiche d'impact financier faisant apparaître les incidences
-financières directes et indirectes des mesures proposées pour les collectivités
-territoriales.
+Les quatre représentants des départements et leurs suppléants sont élus par le
+collège des présidents des conseils généraux au scrutin majoritaire de liste à
+un tour, avec dépôt de listes complètes, sans adjonction ni suppression de noms
+et sans modification de l'ordre de présentation.
 
-Le dossier ainsi constitué est adressé au secrétariat de la commission, assuré
-par le ministre chargé des collectivités territoriales, qui en accuse réception.
-Il est transmis aux membres de la commission.
+La liste est composée alternativement d'un candidat de chaque sexe.
+
+Elle comporte une majorité d'élus exerçant au sein des conseils généraux les
+fonctions exécutives de président ou de vice-président de conseil général.
