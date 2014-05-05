@@ -17,6 +17,12 @@ Cette homologation couvre l'ensemble du processus lié à la mise en œuvre de l
 signature électronique et des éléments permettant la création, la vérification,
 la conservation des actes signés par ce procédé.
 
+Au titre des procédés mentionnés au premier alinéa du présent article, figure le
+parapheur électronique. Cet outil dispose de fonctions autorisant le
+regroupement de procès-verbaux de constatation d'infractions pour leur
+vérification et l'apposition d'une signature sur chacun des actes. Chaque
+signature est vérifiée indépendamment des autres.
+
 Les prestataires de services de certification électronique qui délivrent les
 certificats électroniques nécessaires à la mise en œuvre de la signature
 électronique doivent faire l'objet d'une qualification selon la procédure prévue
