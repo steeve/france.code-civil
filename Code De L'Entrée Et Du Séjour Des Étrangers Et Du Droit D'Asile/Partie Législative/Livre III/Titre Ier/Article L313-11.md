@@ -14,9 +14,12 @@ au titre du regroupement familial dans les conditions prévues au livre IV ;
 2° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant
 dans les prévisions de l'article L. 311-3, qui justifie par tout moyen avoir
 résidé habituellement en France avec au moins un de ses parents légitimes,
-naturels ou adoptifs depuis qu'il a atteint au plus l'âge de treize ans, la
-filiation étant établie dans les conditions prévues à l'article L. 314-11 ; la
-condition prévue à l'article L. 311-7 n'est pas exigée ;
+naturels ou adoptifs depuis qu'il a atteint au plus l'âge de treize ans ou, à
+Mayotte, depuis qu'il a atteint au plus l'âge de treize ans, avec au moins un de
+ses parents légitimes, naturels ou adoptifs titulaire de la carte de séjour
+temporaire ou de la carte de résident, la filiation étant établie dans les
+conditions prévues à l'article L. 314-11 ; la condition prévue à l'article L.
+311-7 n'est pas exigée ;
 
 2° bis A l'étranger dans l'année qui suit son dix-huitième anniversaire ou
 entrant dans les prévisions de l'article L. 311-3, qui a été confié, depuis
@@ -49,7 +52,7 @@ depuis le mariage, que le conjoint ait conservé la nationalité française et,
 lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit
 préalablement sur les registres de l'état civil français ;
 
-5° (alinéa abrogé)
+5° (Alinéa abrogé).
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un
 enfant français mineur résidant en France, à la condition qu'il établisse

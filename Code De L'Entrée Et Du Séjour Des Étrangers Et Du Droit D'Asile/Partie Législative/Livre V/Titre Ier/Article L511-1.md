@@ -38,9 +38,14 @@ l'étranger est renvoyé en cas d'exécution d'office.
 II. ― Pour satisfaire à l'obligation qui lui a été faite de quitter le
 territoire français, l'étranger dispose d'un délai de trente jours à compter de
 sa notification et peut solliciter, à cet effet, un dispositif d'aide au retour
-dans son pays d'origine. Eu égard à la situation personnelle de l'étranger,
-l'autorité administrative peut accorder, à titre exceptionnel, un délai de
-départ volontaire supérieur à trente jours.
+dans son pays d'origine. A Mayotte, l'étranger ne peut bénéficier d'une aide au
+retour mais, dans des circonstances exceptionnelles et sous réserve de
+l'existence d'un projet économique viable, d'une aide à la réinsertion
+économique , ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de
+mesures d'accompagnement, dans des conditions définies par arrêté du ministre de
+l'intérieur et du ministre chargé des outre-mer. Eu égard à la situation
+personnelle de l'étranger, l'autorité administrative peut accorder, à titre
+exceptionnel, un délai de départ volontaire supérieur à trente jours.
 
 Toutefois, l'autorité administrative peut, par une décision motivée, décider que
 l'étranger est obligé de quitter sans délai le territoire français :

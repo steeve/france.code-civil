@@ -26,3 +26,7 @@ la communauté de vie entre les époux n'ait pas cessé depuis le mariage, que l
 conjoint ait conservé la nationalité française et, lorsque le mariage a été
 célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de
 l'état civil français.
+
+Pour l'application des 2° et 3° du présent article à Mayotte, la condition
+prévue dans la dernière phrase du premier alinéa de l'article L. 314-8
+s'applique.

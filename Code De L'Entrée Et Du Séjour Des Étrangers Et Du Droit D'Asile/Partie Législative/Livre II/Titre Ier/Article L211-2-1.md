@@ -19,7 +19,8 @@ Conseil d'Etat fixe les conditions d'application de ces dispositions, notamment
 le délai maximum dans lequel l'évaluation et la formation doivent être
 proposées, le contenu de l'évaluation et de la formation, le nombre d'heures
 minimum que la formation doit compter ainsi que les motifs légitimes pour
-lesquels l'étranger peut en être dispensé.
+lesquels l'étranger peut en être dispensé. Le présent alinéa n'est pas
+applicable aux conjoints de Français sollicitant un visa pour Mayotte.
 
 Lorsque la demande de visa émane d'un étranger dont le conjoint de nationalité
 française établi hors de France souhaite établir sa résidence habituelle en
