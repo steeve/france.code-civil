@@ -1,10 +1,6 @@
 Article L222-2
 ----
-Après avoir été mis pendant une durée minimale d'un mois à la disposition du
-public sous des formes, notamment électroniques, de nature à permettre sa
-participation, le projet de schéma régional du climat, de l'air et de l'énergie
-est soumis à l'approbation de l'organe délibérant du conseil régional. Le schéma
-est ensuite arrêté par le préfet de région.
+Le schéma est ensuite arrêté par le préfet de région.
 
 En Corse, le schéma est adopté par délibération de l'Assemblée de Corse sur
 proposition du président du conseil exécutif et après avis du représentant de
