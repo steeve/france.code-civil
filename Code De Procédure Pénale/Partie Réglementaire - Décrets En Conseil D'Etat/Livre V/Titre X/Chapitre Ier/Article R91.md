@@ -17,3 +17,5 @@ cours d'une procédure autre que celle mentionnée au deuxième alinéa. Ils son
 L'Etat paye les frais de justice et poursuit le recouvrement de ceux qui ne sont
 pas à sa charge définitive, le tout dans la forme et selon les règles établies
 par le présent titre.
+
+Les tarifs des frais de justice sont fixés hors taxes.
