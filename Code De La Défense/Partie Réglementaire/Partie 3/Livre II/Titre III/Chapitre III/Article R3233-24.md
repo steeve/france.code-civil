@@ -9,7 +9,7 @@ condition opérationnelle des matériels aéronautiques ;
 condition opérationnelle des matériels aéronautiques et participe à l'ajustement
 entre les objectifs et l'enveloppe financière correspondante ;
 
-3° Gère les crédits qui lui sont alloués et rend compte des résultats obtenus
+3° Gère les crédits mis à sa disposition et rend compte des résultats obtenus
 lors du conseil de gestion du service ;
 
 4° Passe les marchés de prestations et de matériels de maintien en condition
@@ -40,7 +40,7 @@ de la direction générale de l'armement et en cohérence avec les politiques de
 qualité des armées et de la gendarmerie nationale ;
 
 9° Gère les stocks de rechanges et les outillages spécifiques appartenant à
-l'Etat, hormis ceux du service de la maintenance aéronautique.
+l'Etat, hormis ceux du service industriel de l'aéronautique.
 
-Elle est associée au processus d'approvisionnement du service de la maintenance
-aéronautique.
+Elle est associée au processus d'approvisionnement du service industriel de
+l'aéronautique.
