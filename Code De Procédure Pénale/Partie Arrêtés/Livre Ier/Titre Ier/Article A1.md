@@ -50,11 +50,12 @@ de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prév
 des accidents mettant en cause des sapeurs-pompiers civils ou militaires ;
 
 11° Le directeur général de l'Agence nationale de sécurité du médicament et des
-produits de santé, pour la réalisation de recherches ou enquêtes scientifiques
-ou techniques, permettant d'adopter, à des fins de protection de la santé
-publique, toute mesure utile, notamment les mesures de police sanitaires
-nécessaires, destinée à prévenir des accidents ou incidents mettant en cause un
-produit ou une activité relevant de sa compétence ;
+produits de santé ainsi que les directeurs généraux des agences régionales de
+santé, pour la réalisation de recherches ou enquêtes scientifiques ou
+techniques, permettant d'adopter, à des fins de protection de la santé publique,
+toute mesure utile, notamment les mesures de police sanitaires nécessaires,
+destinée à prévenir des accidents ou incidents mettant en cause un produit ou
+une activité relevant de leur compétence ;
 
 12° Le délégué à la sécurité et à la circulation routières pour la préparation,
 la mise en œuvre et l'évaluation de la politique de sécurité routière, en
