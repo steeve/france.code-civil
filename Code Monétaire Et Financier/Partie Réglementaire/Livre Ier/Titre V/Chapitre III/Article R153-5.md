@@ -2,12 +2,12 @@ Article R153-5
 ----
 Sont soumis à une procédure d'autorisation au sens de l'article L. 151-3, s'ils
 relèvent du 2° de l'article R. 153-3, les investissements réalisés par une
-personne physique ressortissante d'un Etat membre de la Communauté européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
-une convention d'assistance administrative avec la France, par une entreprise
-dont le siège social se situe dans l'un de ces mêmes Etats ou par une personne
-physique de nationalité française qui y est résidente, dans les activités
-suivantes :
+personne physique ressortissante d'un Etat membre de l'Union européenne ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen ayant conclu une
+convention d'assistance administrative avec la France, en vue de lutter contre
+la fraude et l'évasion fiscale par une entreprise dont le siège social se situe
+dans l'un de ces mêmes Etats ou par une personne physique de nationalité
+française qui y est résidente, dans les activités suivantes :
 
 1° (alinéa abrogé) ;
 
