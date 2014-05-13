@@ -1,9 +1,9 @@
 Article D214-32-1
 ----
-En application du premier alinéa du I de l'article L. 214-24-1, la
-commercialisation avec passeport, en France, par un gestionnaire agréé établi
-dans un pays tiers dont la France est l'Etat membre de référence, de parts ou
-actions de FIA établis dans un pays tiers, est subordonnée :
+En application du I de l'article L. 214-24-1, la commercialisation avec
+passeport, en France, par un gestionnaire agréé établi dans un pays tiers dont
+la France est l'Etat membre de référence, de parts ou actions de FIA établis
+dans un pays tiers, est subordonnée :
 
 1° Au respect par le gestionnaire des dispositions législatives et
 réglementaires applicables aux sociétés de gestion de portefeuille ;

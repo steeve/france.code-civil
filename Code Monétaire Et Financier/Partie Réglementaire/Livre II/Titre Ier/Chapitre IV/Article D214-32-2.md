@@ -1,16 +1,18 @@
 Article D214-32-2
 ----
-En application du II de l'article L. 214-24-1, la commercialisation en France,
-avec passeport, auprès de clients professionnels, de parts ou actions de FIA de
-pays tiers ou de FIA nourriciers qui ne remplissent pas les exigences
-mentionnées au premier alinéa du II de l'article L. 214-24-1 par une société de
-gestion de portefeuille est subordonnée :
+En application du second alinéa du II de l'article L. 214-24-1, la
+commercialisation en France, avec passeport, auprès de clients professionnels,
+de parts ou actions de FIA de pays tiers ou de FIA nourriciers qui ne
+remplissent pas les exigences mentionnées au premier alinéa du II de l'article
+L. 214-24-1 par une société de gestion de portefeuille est subordonnée :
 
-1° Au respect par cette société des dispositions législatives et réglementaires
-applicables aux sociétés de gestion de portefeuille, à l'exception des
-dispositions applicables à la commercialisation de parts ou actions de FIA dans
-l'Union européenne, en France ou dans un autre Etat membre, ou à la gestion de
-FIA de l'Union européenne dans un Etat membre autre que la France ;
+1° Au respect par la société de gestion de portefeuille des dispositions
+législatives et réglementaires applicables aux sociétés de gestion relevant de
+la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011, à
+l'exception des dispositions applicables à la commercialisation de parts ou
+actions de FIA dans l'Union européenne, en France ou dans un autre Etat membre,
+ou à la gestion de FIA de l'Union européenne dans un Etat membre autre que la
+France ;
 
 2° Lorsque le FIA est établi dans un pays tiers, à l'existence de modalités de
 coopération appropriées entre l'Autorité des marchés financiers et les autorités

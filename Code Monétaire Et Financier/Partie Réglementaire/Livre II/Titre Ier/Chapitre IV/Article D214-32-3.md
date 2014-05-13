@@ -23,7 +23,14 @@ la France ainsi que tout autre Etat membre dans lequel il est prévu que les
 parts ou actions du FIA soient commercialisées, d'un accord conforme aux normes
 énoncées à l'article 26 du modèle OCDE de convention fiscale concernant le
 revenu et la fortune et garantissant un échange d'informations en matière
-fiscale, y compris tout accord multilatéral en matière fiscale.
+fiscale, y compris tout accord multilatéral en matière fiscale ;
+
+4° Au respect par la société de gestion des dispositions législatives et
+réglementaires applicables aux sociétés de gestion relevant de la directive
+2011/61/UE du Parlement européen et du Conseil du 8 juin 2011, à l'exception des
+dispositions applicables à la commercialisation de parts ou actions de FIA dans
+l'Union européenne, en France ou dans un autre Etat membre, ou à la gestion de
+FIA de l'Union européenne dans un Etat membre autre que la France.
 
 Lorsque l'Autorité des marchés financiers est en désaccord avec l'appréciation
 portée par les autorités compétentes d'un autre Etat membre de l'Union
