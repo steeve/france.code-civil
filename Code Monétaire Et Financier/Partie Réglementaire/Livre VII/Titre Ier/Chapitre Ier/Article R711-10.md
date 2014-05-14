@@ -1,11 +1,10 @@
 Article R711-10
 ----
 Dans les collectivités territoriales mentionnées à l'article L. 711-1,
-l'Institut d'émission des départements d'outre-mer exerce en liaison avec la
-Banque de France les attributions dévolues à celle-ci par les articles R. 131-29
-à R. 131-45.
+l'Institut d'émission des départements d'outre-mer :
 
-La Banque de France et l'Institut d'émission des départements d'outre-mer se
-communiquent, aux fins de diffusion et dans des conditions arrêtées d'un commun
-accord, les informations recueillies en application des dispositions des
-articles R. 131-29 à R. 131-45.
+1° Reçoit de la Banque de France les informations qu'elle recueille au titre des
+dispositions des articles R. 131-26 à R. 131-31 et R. 131-33 à R. 131-37 ;
+
+2° Exerce les missions dévolues à la Banque de France par les articles R. 131-40
+et R. 131-41.

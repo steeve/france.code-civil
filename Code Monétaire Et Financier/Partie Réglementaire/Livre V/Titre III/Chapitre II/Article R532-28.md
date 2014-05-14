@@ -1,17 +1,17 @@
 Article R532-28
 ----
 I.-Toute société de gestion de portefeuille qui, ayant son siège social sur le
-territoire de la France métropolitaine et des départements d'outre-mer, de
-Saint-Barthélemy et de Saint-Martin, souhaite pour la première fois fournir des
-services d'investissement ou gérer un OPCVM de droit étranger agréé conformément
-à la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet
-2009 en libre prestation de services dans un autre Etat membre de l'Union
-européenne ou un autre Etat partie à l'accord sur l'Espace économique européen
-doit notifier son projet à l'Autorité des marchés financiers en indiquant le nom
-de l'Etat concerné et en précisant la nature des services qu'elle envisage de
-fournir.
+territoire de la France métropolitaine, des départements d'outre-mer, du
+Département de Mayotte et de Saint-Martin, souhaite pour la première fois
+fournir des services d'investissement ou gérer un OPCVM de droit étranger agréé
+conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
+13 juillet 2009 en libre prestation de services dans un autre Etat membre de
+l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique
+européen doit notifier son projet à l'Autorité des marchés financiers en
+indiquant le nom de l'Etat concerné et en précisant la nature des services
+qu'elle envisage de fournir.
 
-Pour l'activité de gestion d' OPCVM de droit étranger agréés conformément à la
+Pour l'activité de gestion d'OPCVM de droit étranger agréés conformément à la
 directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009, le
 projet notifié comporte en outre une description du processus de gestion des
 risques mis en place par la société de gestion de portefeuille et une

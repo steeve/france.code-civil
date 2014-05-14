@@ -2,12 +2,12 @@ Article R151-1
 ----
 Pour l'application du présent titre :
 
-1° Le territoire dénommé " France " s'entend : de la France métropolitaine, de
-la Guadeloupe, de la Guyane, de la Martinique, de la Réunion, de Mayotte, de
-Saint-Pierre-et-Miquelon et des îles Wallis et Futuna ainsi que la Principauté
-de Monaco. Toutefois, pour les besoins statistiques liés à l'établissement de la
-balance des paiements, les îles Wallis et Futuna sont considérées comme
-l'étranger ;
+1° Le territoire dénommé "France" s'entend : de la France métropolitaine, de la
+Guadeloupe, de la Guyane, de la Martinique, de la Réunion, de Mayotte, de
+Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon et des îles
+Wallis et Futuna ainsi que la Principauté de Monaco. Toutefois, pour les besoins
+statistiques liés à l'établissement de la balance des paiements, les îles Wallis
+et Futuna sont considérées comme l'étranger ;
 
 2° Sont considérés comme résidents : les personnes physiques ayant leur
 principal centre d'intérêt en France, les fonctionnaires et autres agents

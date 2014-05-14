@@ -1,14 +1,14 @@
 Article R532-26
 ----
 I.-Tout prestataire de services d'investissement qui, ayant son siège social sur
-le territoire de la France métropolitaine et des départements d'outre-mer, de
-Saint-Barthélemy et de Saint-Martin, souhaite pour la première fois fournir des
-services d'investissement en libre prestation de services dans un autre Etat
-membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
-l'Espace économique européen doit notifier son projet à l'Autorité de contrôle
-prudentiel et de résolution en indiquant le nom de l'Etat concerné et en
-précisant la nature des services d'investissement qu'il envisage de fournir et
-s'il prévoit de recourir à des agents liés.
+le territoire de la France métropolitaine, des départements d'outre-mer, du
+Département de Mayotte et de Saint-Martin, souhaite pour la première fois
+fournir des services d'investissement en libre prestation de services dans un
+autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord
+sur l'Espace économique européen doit notifier son projet à l'Autorité de
+contrôle prudentiel et de résolution en indiquant le nom de l'Etat concerné et
+en précisant la nature des services d'investissement qu'il envisage de fournir
+et s'il prévoit de recourir à des agents liés.
 
 L'Autorité de contrôle prudentiel et de résolution communique cette notification
 à l'Autorité des marchés financiers dans un délai de cinq jours ouvrés.

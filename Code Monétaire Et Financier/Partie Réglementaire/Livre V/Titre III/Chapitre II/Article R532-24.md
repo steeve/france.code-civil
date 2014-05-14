@@ -1,8 +1,8 @@
 Article R532-24
 ----
 I.-Toute société de gestion de portefeuille régie par l'article L. 532-9 qui,
-ayant son siège social sur le territoire de la France métropolitaine et des
-départements d'outre-mer, de Saint-Barthélemy et de Saint-Martin, souhaite
+ayant son siège social sur le territoire de la France métropolitaine, des
+départements d'outre-mer, du Département de Mayotte et de Saint-Martin, souhaite
 établir une succursale dans un autre Etat membre de l'Union européenne ou un
 autre Etat partie à l'accord sur l'Espace économique européen pour y fournir des
 services d'investissement ou gérer un OPCVM agréé conformément à la directive
@@ -15,12 +15,12 @@ accompagnée des éléments d'information prévus au deuxième alinéa de l'arti
 demande de l'Autorité des marchés financiers, tous les éléments d'appréciation
 et les précisions mentionnées au septième alinéa du même article.
 
-Pour l'activité de gestion d'OPCVM agréés conformément à la directive 2009/65/
-CE du Parlement européen et du Conseil du 13 juillet 2009, le programme
-mentionné au 2° de l'article R. 532-20 comporte en outre une description du
-processus de gestion des risques mis en place par la société de gestion de
-portefeuille et une description des procédures et des modalités de traitement
-des réclamations.
+Pour l'activité de gestion d'organismes de placement collectif en valeurs
+mobilières agréés conformément à la directive 2009/65/ CE du Parlement européen
+et du Conseil du 13 juillet 2009, le programme mentionné au 2° de l'article R.
+532-20 comporte en outre une description du processus de gestion des risques mis
+en place par la société de gestion de portefeuille et une description des
+procédures et des modalités de traitement des réclamations.
 
 La notification de libre établissement prévue au premier alinéa peut être
 adressée, par la société de gestion de portefeuille intéressée, à l'Autorité des

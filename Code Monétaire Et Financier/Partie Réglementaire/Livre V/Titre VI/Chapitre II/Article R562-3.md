@@ -19,7 +19,7 @@ catégories de cet article, suspendent l'exécution de cet ordre et informent sa
 délai le ministre chargé de l'économie.
 
 Toutefois, dans le cas d'un virement en provenance soit d'un pays de la
-Communauté européenne, soit de Mayotte, de Saint-Pierre-et-Miquelon, de la
+Communauté européenne, soit de Saint-Pierre-et-Miquelon, de la
 Nouvelle-Calédonie, de la Polynésie française ou des îles Wallis et Futuna, soit
 d'un territoire ou Etat associé au titre de l'article 17 du règlement (CE) n°
 1781 / 2006 du Parlement et du Conseil du 15 novembre 2006 relatif aux
