@@ -1,18 +1,18 @@
 Article L752-27
 ----
 Dans les collectivités relevant de l'article 73 de la Constitution et dans les
-collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin et de
-Saint-Pierre-et-Miquelon, en cas d'existence d'une position dominante, détenue
-par une entreprise ou un groupe d'entreprises exploitant un ou plusieurs
-magasins de commerce de détail, qui soulève des préoccupations de concurrence du
-fait de prix ou de marges élevés, que l'entreprise ou le groupe d'entreprises
-pratique, en comparaison des moyennes habituellement constatées dans le secteur
-économique concerné, l'Autorité de la concurrence peut, eu égard aux contraintes
-particulières de ces territoires découlant notamment de leurs caractéristiques
-géographiques et économiques, faire connaître ses préoccupations de concurrence
-à l'entreprise ou au groupe d'entreprises en cause, qui peut dans un délai de
-deux mois lui proposer des engagements dans les conditions prévues pour ceux de
-l'article L. 464-2.
+collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin, des îles Wallis
+et Futuna et de Saint-Pierre-et-Miquelon, en cas d'existence d'une position
+dominante, détenue par une entreprise ou un groupe d'entreprises exploitant un
+ou plusieurs magasins de commerce de détail, qui soulève des préoccupations de
+concurrence du fait de prix ou de marges élevés, que l'entreprise ou le groupe
+d'entreprises pratique, en comparaison des moyennes habituellement constatées
+dans le secteur économique concerné, l'Autorité de la concurrence peut, eu égard
+aux contraintes particulières de ces territoires découlant notamment de leurs
+caractéristiques géographiques et économiques, faire connaître ses
+préoccupations de concurrence à l'entreprise ou au groupe d'entreprises en
+cause, qui peut dans un délai de deux mois lui proposer des engagements dans les
+conditions prévues pour ceux de l'article L. 464-2.
 
 Si l'entreprise ou le groupe d'entreprises ne propose pas d'engagements ou si
 les engagements proposés ne lui paraissent pas de nature à mettre un terme à ses
