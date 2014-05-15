@@ -4,14 +4,15 @@ La liquidation et le service de la pension de retraite complémentaire sont
 subordonnés à la liquidation et au service de la pension de retraite de base
 mentionnée à l'article L. 762-29.
 
-Pour les personnes mentionnées à l'article D. 762-84 et au deuxième alinéa de
-l'article D. 732-154, la demande de liquidation de la pension de retraite de
-base mentionnée à l'article L. 762-29 est, sauf demande contraire expresse de
-l'assuré formulée dans un délai maximal de quinze jours après la date d'envoi de
-l'accusé de réception de ladite demande, réputée valoir également demande de
-liquidation de la pension de retraite complémentaire obligatoire servie à titre
-personnel. La date d'effet de la pension de retraite complémentaire est fixée au
-même jour que la date d'effet de la pension de retraite de base.
+Pour les personnes mentionnées à l'article D. 762-84, au deuxième alinéa de
+l'article D. 732-154 et au deuxième alinéa de l'article D. 732-154-1, la demande
+de liquidation de la pension de retraite de base est, sauf demande contraire
+expresse de l'assuré formulée dans un délai maximal de quinze jours après la
+date d'envoi de l'accusé de réception de ladite demande, réputée valoir
+également demande de liquidation de la pension de retraite complémentaire
+obligatoire servie à titre personnel. La date d'effet de la pension de retraite
+complémentaire est fixée au même jour que la date d'effet de la pension de
+retraite de base.
 
 Lorsque, à la demande expresse de l'assuré, la demande de liquidation de la
 pension de retraite de base n'est pas réputée valoir également demande de
@@ -25,10 +26,6 @@ deuxième alinéa de l'article D. 732-154, sont seules prises en considération 
 titre des années postérieures à 2002, pour le calcul de la pension de la
 retraite complémentaire obligatoire, les cotisations qui ont été acquittées
 avant la date de leur prescription.
-
-Pour les personnes mentionnées au premier alinéa de l'article D. 732-154, la
-date d'effet de la pension de retraite complémentaire obligatoire est fixée au
-1er avril 2003.
 
 Les dispositions des articles L. 732-39 et L. 732-40 sont applicables à la
 pension de retraite complémentaire obligatoire.
