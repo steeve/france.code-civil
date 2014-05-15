@@ -4,14 +4,14 @@ La liquidation et le service de la pension de retraite complémentaire sont
 subordonnés à la liquidation et au service de la pension de retraite de base
 mentionnée à l'article L. 732-24.
 
-Pour les personnes mentionnées aux I, III et IV de l'article L. 732-56, la
-demande de liquidation de la pension de retraite de base mentionnée à l'article
-L. 732-24 est, sauf demande contraire expresse de l'assuré formulée dans un
-délai maximal de quinze jours après la date d'envoi de l'accusé de réception de
-ladite demande, réputée valoir également demande de liquidation de la pension de
-retraite complémentaire obligatoire servie à titre personnel. La date d'effet de
-la pension de retraite complémentaire est fixée au même jour que la date d'effet
-de la pension de retraite de base.
+Pour les personnes mentionnées aux I, III, IV et VI de l'article L. 732-56, la
+demande de liquidation de la pension de retraite de base est, sauf demande
+contraire expresse de l'assuré formulée dans un délai maximal de quinze jours
+après la date d'envoi de l'accusé de réception de ladite demande, réputée valoir
+également demande de liquidation de la pension de retraite complémentaire
+obligatoire servie à titre personnel. La date d'effet de la pension de retraite
+complémentaire est fixée au même jour que la date d'effet de la pension de
+retraite de base.
 
 Lorsque, à la demande expresse de l'assuré mentionnée à l'alinéa précédent, la
 demande de liquidation de la pension de retraite de base n'est pas réputée
@@ -25,9 +25,6 @@ Pour les personnes mentionnées aux I et III de l'article L. 732-56, sont seules
 prises en considération au titre des années postérieures à 2002, pour le calcul
 de la pension de retraite complémentaire obligatoire, les cotisations qui ont
 été acquittées avant la date de leur prescription.
-
-Pour les personnes mentionnées au II de l'article L. 732-56, la date d'effet de
-la pension de retraite complémentaire obligatoire est fixée au 1er avril 2003.
 
 Les dispositions des articles L. 732-39 et L. 732-40 sont applicables à la
 pension de retraite complémentaire obligatoire.
