@@ -198,8 +198,9 @@ Visa, cote et paraphe des livres.
 
 2
 
-Procédures ouvertes après le 1 er janvier 2006 en application du livre VI du
-code de commerce
+
+Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code
+de commerce
 
 160
 
@@ -312,12 +313,25 @@ Personne physique.
 
 36
 
+201 bis
+
+Immatriculation principale par création d'une entreprise, personne physique
+
+18
+
 202
 
 Personne morale : groupements d'intérêt économique, sociétés commerciales,
 sociétés non commerciales, établissements publics.
 
 44
+
+202 bis
+
+
+Immatriculation principale par création de sociétés commerciales
+
+22
 
 203
 
