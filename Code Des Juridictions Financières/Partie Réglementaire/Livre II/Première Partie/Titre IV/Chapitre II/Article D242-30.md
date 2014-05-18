@@ -1,10 +1,9 @@
 Article D242-30
 ----
-Le directeur départemental ou, le cas échéant, régional des finances publiques
-ou le receveur particulier des finances établit dans le délai d'un mois sur les
-faits et les motifs invoqués dans le recours un rapport qu'il adresse au greffe
-près la chambre régionale des comptes. Celui-ci le notifie au requérant et aux
-autres intéressés.
+L'autorité compétente de l'Etat établit dans le délai d'un mois un rapport sur
+les faits et les motifs invoqués dans le recours qu'elle adresse au greffe près
+la chambre régionale des comptes. Celui-ci le notifie au requérant et aux autres
+intéressés.
 
 Dans le délai d'un mois à dater de cette transmission, les intéressés peuvent
 prendre connaissance au greffe de la chambre régionale des comptes de l'ensemble

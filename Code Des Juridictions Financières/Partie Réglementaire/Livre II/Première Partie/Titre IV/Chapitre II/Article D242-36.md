@@ -9,8 +9,8 @@ du dernier domicile connu ou déclaré.
 
 Dès réception du jugement ou de l'ordonnance, le directeur départemental ou, le
 cas échéant, régional des finances publiques fait procéder à une notification à
-personne ou à domicile par un agent huissier du Trésor qui en retire récépissé
-et en dresse procès-verbal.
+personne ou à domicile par un agent huissier des finances publiques qui en
+retire récépissé et en dresse procès-verbal.
 
 Si, dans l'exercice de cette mission, l'agent huissier ne trouve au domicile
 indiqué ni le comptable lui-même ni un membre de sa famille ou une personne à
@@ -30,7 +30,7 @@ la mairie, où elle lui sera remise contre récépissé. Faute de ce faire avant
 cette ordonnance sera considérée comme lui ayant été valablement faite à cette
 date avec toutes les conséquences de droit qu'elle comporte ".
 
-Le récépissé du comptable ou, à défaut, le procès-verbal de l'agent huissier du
-Trésor et le certificat du maire constatant l'affichage pendant un mois doivent
-être transmis sans délai par ce dernier au secrétaire général de la chambre
-régionale des comptes.
+Le récépissé du comptable ou, à défaut, le procès-verbal de l'agent huissier des
+finances publiques et le certificat du maire constatant l'affichage pendant un
+mois doivent être transmis sans délai par ce dernier au secrétaire général de la
+chambre régionale des comptes.
