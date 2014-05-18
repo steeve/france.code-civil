@@ -1,6 +1,6 @@
-Article R5211-12
+Article R2334-3-2
 ----
-Pour l'application de l'article L. 5211-28, les recettes réelles de
+Pour l'application de l'article L. 2334-7-3, les recettes réelles de
 fonctionnement s'entendent de l'ensemble des produits de fonctionnement de
 l'exercice entraînant des mouvements réels, tels que constatés dans les comptes
 de gestion. Ils sont constitués des produits comptabilisés dans les comptes de
