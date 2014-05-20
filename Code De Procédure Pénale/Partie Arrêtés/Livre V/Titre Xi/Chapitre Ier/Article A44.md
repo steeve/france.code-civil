@@ -522,14 +522,11 @@ Service pénitentiaire d'insertion et de probation de l'Hérault.
 
 Montpellier.
 
-
-Antenne de Montpellier-Villeneuve-lès-Maguelone
+Antenne de Montpellier-Villeneuve-lès-Maguelone.
 
 Circonscription judiciaire de Montpellier.
 
-Maison d'arrêt de Villeneuve-lès-Maguelone.
-
-Centre de semi-liberté de Montpellier.
+Centre pénitentiaire de Villeneuve-lès-Maguelone.
 
 Antenne de Béziers.
 
