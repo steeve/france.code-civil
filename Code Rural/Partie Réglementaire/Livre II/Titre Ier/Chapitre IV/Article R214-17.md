@@ -21,6 +21,11 @@ contention ainsi que de clôtures, des cages ou plus généralement tout mode de
 détention inadaptés à l'espèce considérée ou de nature à provoquer des blessures
 ou des souffrances.
 
+Les normes et spécifications techniques permettant de mettre en œuvre les
+interdictions prévues par les dispositions du présent article sont précisées par
+arrêté du ministre chargé de l'agriculture et, lorsqu'il comporte des
+dispositions spécifiques à l'outre-mer, du ministre chargé de l'outre-mer.
+
 Si, du fait de mauvais traitements ou d'absence de soins, des animaux
 domestiques ou des animaux sauvages apprivoisés ou tenus en captivité sont
 trouvés gravement malades ou blessés ou en état de misère physiologique, le
