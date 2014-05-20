@@ -18,10 +18,17 @@ Polynésie française.
 
 Papeete.
 
-Néant.
+Antenne de Papeete.
 
-Centre pénitentiaire de Faa'a-Nuutanie.
+Collectivité d'outre-mer de la Polynésie française, à l'exception des îles
+Sous-le-Vent.
+
+Centre pénitentiaire de Faa'a-Nuutania.
+
+Centre de détention de Taiohae (Marquises).
+
+Antenne d'Uturoa.
+
+Iles Sous-le-Vent.
 
 Centre de détention d'Uturoa (Raïatea).
-
-Centre de détention de Taiohae (Marquises), Polynésie française.
