@@ -2,10 +2,10 @@ Article R332-2
 ----
 Les caisses d'assurance maladie peuvent procéder au remboursement forfaitaire
 des soins dispensés hors d'un Etat membre de l'Union européenne ou partie à
-l'accord sur l'Espace économique européen aux assurés sociaux et aux membres de
-leur famille qui sont tombés malades inopinément, sans que celui-ci puisse
-excéder le montant du remboursement qui aurait été alloué si les intéressés
-avaient reçu les soins en France.
+l'accord sur l'Espace économique européen ou la Suisse aux assurés sociaux et
+aux membres de leur famille qui sont tombés malades inopinément, sans que
+celui-ci puisse excéder le montant du remboursement qui aurait été alloué si les
+intéressés avaient reçu les soins en France.
 
 Lorsque les malades assurés sociaux ou ayants droit d'assurés sociaux ne peuvent
 recevoir en France les soins appropriés à leur état, les conventions intervenant
@@ -19,6 +19,10 @@ Indépendamment des cas prévus à l'alinéa ci-dessus, les caisses d'assurance
 maladie peuvent, à titre exceptionnel, et après avis favorable du contrôle
 médical, procéder au remboursement forfaitaire des soins dispensés hors d'un
 Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
-européen à un assuré social ou ayant droit d'assuré social, lorsque celui-ci
-aura établi qu'il ne pouvait recevoir sur le territoire français les soins
-appropriés à son état.
+européen ou la Suisse à un assuré social ou ayant droit d'assuré social, lorsque
+celui-ci aura établi qu'il ne pouvait recevoir sur le territoire français les
+soins appropriés à son état. Les caisses d'assurance maladie réexaminent la
+situation en fonction de l'état de santé du patient et de l'offre de soins
+disponible à la date des soins, en France ou dans un autre Etat membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen ou en
+Suisse.
