@@ -23,8 +23,8 @@ dans la vie sociale défini à l'article L. 5131-4 du code du travail ;
 temporaire d'attente, de l'allocation parent isolé ou de l'allocation adulte
 handicapé ;
 
--les personnes visées à l'article L. 5132-3 agréées par l'institution mentionnée
-à l'article L. 5312-1 du code du travail ;
+- les personnes mentionnées à l'article L. 5132-3 du code du travail, agréées
+par Pôle emploi ;
 
 -les salariés recrutés en contrat d'accompagnement dans l'emploi ou en contrat
 initiative emploi ;

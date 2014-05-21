@@ -56,4 +56,4 @@ de région ;
 développement pour l'insertion professionnelle des handicapés désigné par le
 préfet de région ;
 
-11° Le directeur régional de l'institution mentionnée à l'article L. 5312-1.
+11° Le directeur régional de Pôle emploi.

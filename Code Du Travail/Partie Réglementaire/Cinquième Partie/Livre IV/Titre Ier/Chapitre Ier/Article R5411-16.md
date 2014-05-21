@@ -1,9 +1,9 @@
 Article R5411-16
 ----
-Les conventions conclues entre l'institution mentionnée à l'article L. 5312-1 et
-les organismes participant au service public de l'emploi mentionnés à l'article
-L. 5311-4 définissent, conformément aux dispositions prévues par la convention
-pluriannuelle mentionnée à l'article L. 5312-3 :
+Les conventions conclues entre Pôle emploi et les organismes participant au
+service public de l'emploi mentionnés à l'article L. 5311-4 définissent,
+conformément aux dispositions prévues par la convention pluriannuelle mentionnée
+à l'article L. 5312-3 :
 
 1° Les règles d'élaboration et d'actualisation du projet personnalisé d'accès à
 l'emploi des demandeurs d'emploi dont l'accompagnement et le placement sont
@@ -18,5 +18,4 @@ résultats.
 
 Les conventions prévoient également que, lorsque ces organismes constatent des
 faits susceptibles de constituer un des manquements mentionnés aux articles L.
-5412-1 et L. 5412-2, ils en informent l'institution mentionnée à l'article L.
-5312-1.
+5412-1 et L. 5412-2, ils en informent Pôle emploi.

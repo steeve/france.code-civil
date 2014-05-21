@@ -13,9 +13,8 @@ sécurité sociale et par les institutions régies par le livre VII du code rura
 et de la pêche maritime ;
 
 3° Aux majorations de retard, frais de poursuite et pénalités attachés aux
-contributions et cotisations recouvrées par l'institution mentionnée à l'article
-L. 5312-1 (1) du code du travail pour le compte de l'organisme gestionnaire du
-régime d'assurance chômage ;
+contributions et cotisations recouvrées par Pôle emploi pour le compte de
+l'organisme gestionnaire du régime d'assurance chômage ;
 
 4° Aux cotisations et contributions sociales patronales d'origine légale ou
 conventionnelle qu'un employeur est tenu de verser au titre de l'emploi de

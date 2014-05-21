@@ -14,8 +14,7 @@ de 70 km entre le nouveau lieu de travail et le logement financé ; décès ;
 divorce ; dissolution d'un pacte civil de solidarité ; invalidité ou incapacité
 reconnue par la délivrance d'une carte d'invalidité définie à l'article L. 241-3
 du code de l'action sociale et des familles ; chômage d'une durée supérieure à
-un an attestée par l'inscription à l'institution mentionnée à l'article L.
-5312-1 du code du travail ;
+un an attestée par l'inscription à Pôle emploi ;
 
 -le logement ne peut être loué qu'à un locataire dont les ressources, à la date
 d'entrée dans les lieux, satisfont aux conditions prévues par l'article R. 318-4

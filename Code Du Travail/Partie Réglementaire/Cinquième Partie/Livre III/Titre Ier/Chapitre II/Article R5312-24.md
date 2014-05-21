@@ -1,10 +1,10 @@
 Article R5312-24
 ----
-L'institution mentionnée à l'article L. 5312-1 n'est pas soumise au chapitre II
-du titre II du livre Ier de la partie réglementaire du code du domaine de l'Etat
-et aux dispositions du décret n° 86-455 du 14 mars 1986 relatif à la suppression
-des commissions des opérations immobilières et de l'architecture et modalités de
-consultation du service des domaines.
+Pôle emploi n'est pas soumis au chapitre II du titre II du livre Ier de la
+partie réglementaire du code du domaine de l'Etat et aux dispositions du décret
+n° 86-455 du 14 mars 1986 relatif à la suppression des commissions des
+opérations immobilières et de l'architecture et modalités de consultation du
+service des domaines.
 
 Les projets de cession, d'apport ou de création de sûreté portant sur un ouvrage
 ou terrain répondant aux caractéristiques de l'article L. 5312-13 sont

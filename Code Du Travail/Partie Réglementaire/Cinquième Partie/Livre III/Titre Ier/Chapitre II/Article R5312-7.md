@@ -1,7 +1,6 @@
 Article R5312-7
 ----
-Le conseil d'administration de l'institution mentionnée à l'article L. 5312-1
-est ainsi composé :
+Le conseil d'administration de Pôle emploi est ainsi composé :
 
 1° Cinq représentants de l'Etat :
 
@@ -13,7 +12,7 @@ est ainsi composé :
 
 -un représentant désigné par le ministre chargé de l'intérieur ;
 
--un représentant désigné par le ministre chargé de l'immigration ;
+-un représentant désigné par le ministre chargé des affaires sociales ;
 
 2° Cinq représentants des organisations syndicales de salariés
 interprofessionnelles représentatives au niveau national :

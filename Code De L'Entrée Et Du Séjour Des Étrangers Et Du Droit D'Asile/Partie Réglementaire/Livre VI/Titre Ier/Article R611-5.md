@@ -64,12 +64,11 @@ leur situation en France prévue par les articles L. 115-6, L. 115-7, L.
 la sécurité sociale ainsi que par l'article L. 262-4 du code de l'action sociale
 et des familles ;
 
-b) Les agents de l'institution mentionnée à l'article L. 5312-1 du code du
-travail, individuellement désignés et spécialement habilités par leur directeur,
-à la seule fin de vérifier, en application de l'article L. 5411-4 du code du
-travail, que les étrangers disposent lors de l'inscription sur la liste des
-demandeurs d'emploi des titres de séjour et de travail requis pour exercer une
-activité professionnelle salariée ;
+b) Les agents de Pôle emploi, individuellement désignés et spécialement
+habilités par leur directeur, à la seule fin de vérifier, en application de
+l'article L. 5411-4 du code du travail, que les étrangers disposent lors de
+l'inscription sur la liste des demandeurs d'emploi des titres de séjour et de
+travail requis pour exercer une activité professionnelle salariée ;
 
 c) Les agents des préfectures et sous-préfectures compétents, individuellement
 désignés et spécialement habilités par le préfet et, à Paris, par le préfet de

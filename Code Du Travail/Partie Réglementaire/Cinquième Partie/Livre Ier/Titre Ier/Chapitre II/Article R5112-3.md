@@ -59,8 +59,8 @@ l'Assemblée des départements de France et de l'Association des régions de Fra
 proposition de ce conseil, de l'organisme gestionnaire de l'assurance chômage
 mentionné à l'article L. 5427-1 ;
 
-6° Le président du conseil d'administration et le directeur général de
-l'institution mentionnée à l'article L. 5312-1 ;
+6° Le président du conseil d'administration et le directeur général de Pôle
+emploi ;
 
 7° Le directeur général de l'Association nationale pour la formation
 professionnelle des adultes ;

@@ -22,5 +22,4 @@ normalement pris fin celui de leur prédécesseur.
 
 Le mandat de l'instance paritaire est gratuit, sous réserve du remboursement des
 frais de déplacement et de séjour, ainsi que, le cas échéant, de perte de
-salaire, dans les conditions prévues par le règlement intérieur de
-l'institution.
+salaire, dans les conditions prévues par le règlement intérieur de Pôle emploi.

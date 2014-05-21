@@ -26,8 +26,7 @@ g) Un nommé par arrêté du ministre chargé de la jeunesse ;
 
 a) Le délégué à l'information et à l'orientation ou son représentant ;
 
-b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du
-code du travail ou son représentant ;
+b) Le directeur général de Pôle emploi ou son représentant ;
 
 c) Le chef du service des droits des femmes et de l'égalité entre les femmes et
 les hommes au ministère chargé des droits des femmes ou son représentant ;

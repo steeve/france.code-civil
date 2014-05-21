@@ -22,8 +22,7 @@ Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditio
 a) Le directeur général de l'Association nationale pour la formation
 professionnelle des adultes ou son représentant ;
 
-b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du
-code du travail ou son représentant ;
+b) Le directeur général de Pôle emploi ou son représentant ;
 
 c) Le Commissaire général à la stratégie et à la prospective ou son représentant
 ;

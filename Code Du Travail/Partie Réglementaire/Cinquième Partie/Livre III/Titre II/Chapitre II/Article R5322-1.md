@@ -1,7 +1,7 @@
 Article R5322-1
 ----
 Lorsqu'une commune souhaite réaliser des opérations de placement, elle adresse
-sa demande de convention au préfet et à l' institution mentionnée à l'article L.
-5312-1 du code du travail . Une copie de la délibération du conseil municipal
-autorisant le maire à conclure une convention avec l'agence et l'Etat est jointe
-à la demande.
+sa demande de convention au préfet et à Pôle emploi.
+
+Une copie de la délibération du conseil municipal autorisant le maire à conclure
+une convention avec l'établissement et l'Etat est jointe à la demande.

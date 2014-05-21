@@ -7,7 +7,7 @@ mentionnées à l'article L. 5212-13 qui effectuent l'un des stages suivants :
 
 -un stage organisé par l'association mentionnée à l'article L. 5214-1 ;
 
--un stage prescrit par l'institution mentionnée à l'article L. 5312-1 ;
+-un stage prescrit par Pôle emploi ;
 
 -un stage au titre de l'article L. 331-4 du code de l'éducation ;
 

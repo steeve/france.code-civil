@@ -8,8 +8,8 @@ Le comité de suivi prévu à l'article L. 5312-3 comprend :
 nommés sur proposition de ce conseil, de l'organisme gestionnaire de l'assurance
 chômage mentionné à l'article L. 5427-1 ;
 
-3° Le président du conseil d'administration et le directeur général de
-l'institution mentionnée à l'article L. 5312-1.
+3° Le président du conseil d'administration et le directeur général de Pôle
+emploi.
 
 Le président du comité de suivi est désigné en son sein par le ministre chargé
 de l'emploi.

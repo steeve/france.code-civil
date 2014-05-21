@@ -24,8 +24,7 @@ nationale ;
 
 2° Trois directeurs d'établissement public :
 
-a) Le directeur de l' institution mentionnée à l'article L. 5312-1 du code du
-travail ;
+a) Le directeur de Pôle emploi ;
 
 b) Le directeur de l'Agence nationale pour l'amélioration des conditions de
 travail ;

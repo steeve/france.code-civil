@@ -132,8 +132,7 @@ organismes créés en vertu de l'article 4 de la convention précitée, pour gé
 le régime national interprofessionnel d'allocations spéciales aux travailleurs
 sans emploi de l'industrie et du commerce, savoir : de l'union nationale
 interprofessionnelle pour l'emploi dans l'industrie et le commerce (UNEDIC) et
-de l'institution nationale publique mentionnée à l'article L. 5312-1 du code du
-travail.
+de Pôle emploi.
 
 B. ― En ce qui concerne l'organisation de la formation professionnelle des
 adultes (AFPA) (décret du 9 novembre 1946, modifié) :

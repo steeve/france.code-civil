@@ -9,9 +9,8 @@ a) Les caractéristiques générales de la structure ;
 b) Les principales caractéristiques des personnes en difficulté embauchées ;
 
 c) Les modalités d'accompagnement des salariés en insertion et de collaboration
-avec, d'une part, l'institution mentionnée à l'article L. 5312-1 du code du
-travail et, d'autre part, les organismes chargés de l'insertion sociale et
-professionnelle de ces personnes ;
+avec, d'une part, Pôle emploi et, d'autre part, les organismes chargés de
+l'insertion sociale et professionnelle de ces personnes ;
 
 d) Le cas échéant, la mention de l'existence d'une autre convention au titre
 d'une structure de l'insertion par l'activité économique ;
@@ -30,7 +29,7 @@ l'article R. 5132-7 ;
 4° Les engagements d'insertion pris par la structure et les indicateurs destinés
 à rendre compte des actions et des résultats ;
 
-5° Les modalités de dépôt des offres d'emploi auprès de l'institution précitée ;
+5° Les modalités de dépôt des offres d'emploi auprès de Pôle emploi ;
 
 6° La nature et le montant des autres aides publiques directes ou privées dont
 la structure a bénéficié les années antérieures ;

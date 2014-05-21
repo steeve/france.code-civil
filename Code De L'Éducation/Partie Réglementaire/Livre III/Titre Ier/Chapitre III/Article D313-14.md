@@ -30,7 +30,7 @@ planification établie par le Conseil national de l'enseignement supérieur et d
 la recherche, à l'adaptation réciproque des débouchés professionnels et des
 enseignements universitaires dispensés ;
 
-2° L'institution mentionnée à l'article L. 5312-1 du code du travail.
+2° Pôle emploi.
 
 Il est également chargé d'apporter sa collaboration aux administrations et aux
 organismes intéressés par les questions qui relèvent de sa compétence, et

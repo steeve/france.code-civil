@@ -38,7 +38,6 @@ coopération nécessaires.
 
 Dans le cas où la circonscription académique ne coïncide pas avec celle de la
 région, les liaisons de la délégation avec les préfets de région, les directions
-régionales du travail et de l'emploi, les centres régionaux de l'institution
-mentionnée à l'article L. 5312-1 du code du travail et les comités de
-coordination régionaux de l'emploi et de la formation professionnelle sont
-définies par un arrêté des ministres intéressés.
+régionales du travail et de l'emploi, les directions régionales de Pôle emploi
+et les comités de coordination régionaux de l'emploi et de la formation
+professionnelle sont définies par un arrêté des ministres intéressés.

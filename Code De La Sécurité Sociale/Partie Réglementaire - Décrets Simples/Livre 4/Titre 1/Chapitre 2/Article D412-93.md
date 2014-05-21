@@ -4,10 +4,9 @@ Les actions mentionnées à l'article L. 412-8 (11°) donnent lieu au versement
 d'une cotisation horaire forfaitaire, dont le montant est fixé dans les
 conditions posées à l'article L. 241-5.
 
-Le paiement de cette cotisation incombe à l'institution mentionnée à l'article
-L. 5312-1 du code du travail qui la verse à l'Union de recouvrement des
-cotisations de sécurité sociale et d'allocations familiales territorialement
-compétente.
+Le paiement de cette cotisation incombe à Pôle emploi qui la verse à l'Union de
+recouvrement des cotisations de sécurité sociale et d'allocations familiales
+territorialement compétente.
 
 Ce paiement est accompagné d'un bordereau daté et signé indiquant le nombre de
 demandeurs d'emploi ayant participé aux actions mentionnées à l'article L. 412-8

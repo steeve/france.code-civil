@@ -10,7 +10,7 @@ Ce rapport comporte, en particulier :
 1° Un bilan des activités menées en matière d'égalité professionnelle entre les
 femmes et les hommes par :
 
-a) L' institution mentionnée à l'article L. 5312-1 du code du travail ;
+a) Pôle emploi ;
 
 b) L'Association nationale pour la formation professionnelle des adultes ;
 

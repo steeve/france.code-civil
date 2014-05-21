@@ -13,6 +13,5 @@ intervention ;
 à l'emploi des personnes salariées de l'association ;
 
 4° Le cas échéant, les conditions dans lesquelles l'association intermédiaire
-réalise des prestations pour le compte de l'institution mentionnée à l'article
-L. 5312-1 du code du travail, ainsi que les conditions de financement de ces
-prestations.
+réalise des prestations pour le compte de Pôle emploi, ainsi que les conditions
+de financement de ces prestations.

@@ -1,3 +1,3 @@
 Article R5312-20
 ----
-Les comptes de l'institution sont certifiés par deux commissaires aux comptes.
+Les comptes de Pôle emploi sont certifiés par deux commissaires aux comptes.

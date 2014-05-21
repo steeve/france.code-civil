@@ -13,8 +13,7 @@ sous-location ;
 l'âge et les liens de parenté, selon la composition des ménages et leurs revenus
 rapportés au plafond de ressources, selon que sont perçues ou non les
 allocations mentionnées à l'article R. 442-13, selon la nature de l'activité
-professionnelle ou la situation de demandeur d'emploi inscrit à l'institution
-mentionnée à l'article L. 5312-1 du code du travail ;
+professionnelle ou la situation de demandeur d'emploi inscrit à Pôle emploi ;
 
 -le nombre de ménages ayant répondu à l'enquête prévue à l'article R. 442-13.
 

@@ -241,8 +241,7 @@ son représentant ;
 
 7° Représentants des secteurs de l'emploi, de la formation et de la recherche :
 
--le président de l'institution mentionnée à l'article L. 5312-1 du code du
-travail (Pôle emploi) ou son représentant ;
+-le président du conseil d'administration de Pôle emploi ou son représentant ;
 
 -le président du Centre d'études et de recherche sur les qualifications (CEREQ)
 ou son représentant ;
@@ -343,4 +342,4 @@ son représentant ;
 -quatre représentants d'associations de personnes handicapées ;
 
 10° Douze personnalités qualifiées choisies par le ministre chargé du tourisme
-en fonction de leur compétence en matière de tourisme
+en fonction de leur compétence en matière de tourisme.

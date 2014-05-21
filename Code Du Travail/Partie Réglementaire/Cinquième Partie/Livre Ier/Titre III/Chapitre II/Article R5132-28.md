@@ -38,9 +38,8 @@ ressources tirées de la commercialisation des biens et services produits ;
 
 12° Les modalités de collaboration avec les organismes et les services locaux
 chargés de l'emploi, notamment celles relatives au dépôt des offres d'emploi à
-l'institution mentionnée à l'article L. 5312-1 du code du travail, avec les
-organismes chargés de la formation professionnelle et de l'action sociale et
-avec les collectivités territoriales ;
+Pôle emploi, avec les organismes chargés de la formation professionnelle et de
+l'action sociale et avec les collectivités territoriales ;
 
 13° Les modalités de suivi, de contrôle et d'évaluation de la convention ;
 

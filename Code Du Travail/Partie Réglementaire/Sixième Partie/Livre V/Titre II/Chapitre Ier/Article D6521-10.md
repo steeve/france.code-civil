@@ -9,8 +9,7 @@ a) Deux représentants désignés par le préfet ;
 b) Le directeur régional des entreprises, de la concurrence, de la consommation,
 du travail et de l'emploi ;
 
-c) Le directeur délégué de l'institution mentionnée à l'article L. 5312-1 du
-code du travail ;
+c) Le directeur régional de Pôle emploi ou son représentant ;
 
 d) Le directeur de l'agriculture et de la forêt ;
 
