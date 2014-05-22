@@ -30,3 +30,9 @@ l'Autorité de contrôle prudentiel et de résolution en application des
 dispositions de l'article L. 511-44 ou qu'elles sont garanties par des
 établissements de crédit ou entreprises d'investissement du même échelon de
 qualité de crédit.
+
+Pour l'appréciation de la qualité de crédit mentionnée aux premier et troisième
+alinéas ci-dessus, la notation prise en compte est celle correspondant à la
+durée d'échéance résiduelle des expositions que les sociétés de crédit foncier
+détiennent sur les établissements de crédit ou les entreprises d'investissement
+en cause.
