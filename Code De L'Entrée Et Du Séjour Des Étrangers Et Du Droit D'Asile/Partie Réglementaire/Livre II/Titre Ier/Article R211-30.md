@@ -2,8 +2,9 @@ Article R211-30
 ----
 Les documents relatifs aux garanties de son rapatriement doivent permettre à
 l'étranger qui pénètre en France d'assumer les frais afférents à son retour du
-lieu, situé sur le territoire métropolitain ou dans un département d'outre-mer,
-où il a l'intention de se rendre, jusqu'au pays de sa résidence habituelle.
+lieu, situé sur le territoire métropolitain ou en Guadeloupe, en Guyane, en
+Martinique, à Mayotte et à La Réunion, où il a l'intention de se rendre jusqu'au
+pays de sa résidence habituelle.
 
 La validité des garanties de son rapatriement est appréciée par rapport à la
 durée et au lieu de séjour principal choisi par l'étranger. En cas de

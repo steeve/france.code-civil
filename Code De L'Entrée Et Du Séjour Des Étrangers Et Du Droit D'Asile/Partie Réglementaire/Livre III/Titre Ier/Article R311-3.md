@@ -72,6 +72,10 @@ de voyage revêtu du visa requis pour un séjour d'une durée supérieure à tro
 mois et au plus égale à un an est subordonnée à la présentation de l'attestation
 remise par l'Office français de l'immigration et de l'intégration.
 
+A Mayotte, la condition tenant aux formalités accomplies auprès de l'Office
+français de l'immigration et de l'intégration en vertu de l'alinéa précédent
+n'est pas exigible.
+
 Les étrangers mentionnés aux 4°, 5°, 6°, 7°, 9°, 10° et 11° qui souhaitent se
 maintenir en France au-delà des limites de durée susmentionnées sollicitent une
 carte de séjour temporaire dans le courant des deux derniers mois précédant

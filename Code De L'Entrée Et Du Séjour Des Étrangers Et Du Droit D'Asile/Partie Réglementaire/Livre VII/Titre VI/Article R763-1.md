@@ -10,12 +10,12 @@ siégeant en Polynésie française ;
 1° bis A l'article R. 723-1 :
 
 a) Au quatrième alinéa, les mots "au préfet de département compétent et, à
-Paris, au préfet de police sont remplacés par les mots : "au haut-commissaire de
-la République en Polynésie française ;
+Paris, au préfet de police" sont remplacés par les mots : "au haut-commissaire
+de la République en Polynésie française" ;
 
-b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le
+b) Au cinquième alinéa, les mots "le préfet" sont remplacés par les mots : "le
 préfet sont remplacés par les mots : "le haut-commissaire de la République en
-Polynésie française ;
+Polynésie française" ;
 
 2° Au troisième alinéa de l'article R. 723-2 :
 
@@ -39,7 +39,7 @@ République en Polynésie française peut" ;
 5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du
 haut-commissaire de la République en Polynésie française" ;
 
-6° A l'article R. 733-20 :
+6° A l'article R. 733-32 :
 
 a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de
 police, ainsi que le directeur de l' Office français de l'immigration et de
@@ -51,15 +51,14 @@ police, lorsque ceux-ci en font la demande" sont remplacés par les mots : "au
 haut-commissaire de la République en Polynésie française, lorsque celui-ci en
 fait la demande" ;
 
-7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre
-chargé de l'asile, qui doivent produire leurs observations" sont remplacés par
-les mots : "au haut-commissaire de la République en Polynésie française, qui
-doit produire ses observations", au premier alinéa de l'article R. 733-23, les
-mots : "du ministre de l'intérieur et du ministre chargé de l'asile" sont
-remplacés par les mots : "du haut-commissaire de la République en Polynésie
-française" et au troisième alinéa du même article, les mots : "au ministre de
-l'intérieur et au ministre chargé de l'asile" sont remplacés par les mots : "au
-haut-commissaire de la République en Polynésie française" ;
+7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de
+l'intérieur et au ministre chargé de l'asile, qui disposent d'une semaine pour
+produire leurs observations " sont remplacés par les mots : " au
+haut-commissaire de la République en Polynésie française, qui dispose d'une
+semaine pour produire ses observations " et au second alinéa de l'article R.
+733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile
+" sont remplacés par les mots : " au haut-commissaire de la République en
+Polynésie française " ;
 
 8° A l'article R. 741-2 :
 

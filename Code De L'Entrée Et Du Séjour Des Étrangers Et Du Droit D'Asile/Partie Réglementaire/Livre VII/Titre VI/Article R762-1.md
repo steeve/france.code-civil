@@ -41,7 +41,7 @@ de police peut " sont remplacés par les mots :
 5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : "
 de l'administrateur supérieur des îles Wallis et Futuna " ;
 
-6° A l'article R. 733-20 :
+6° A l'article R. 733-32 :
 
 a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de
 police, ainsi que le directeur de l'Office français de l'immigration et de
@@ -53,15 +53,13 @@ de police, lorsque ceux-ci en font la demande " sont remplacés par les mots : "
 à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait
 la demande " ;
 
-7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre
-chargé de l'asile, qui doivent produire leurs observations " sont remplacés par
-les mots : " à l'administrateur supérieur des îles Wallis et Futuna, qui doit
-produire ses observations ", au premier alinéa de l'article R. 733-23, les mots
-: du ministre de l'intérieur et du ministre chargé de l'asile sont remplacés par
-les mots : de l'administrateur supérieur des îles Wallis et Futuna et au
-troisième alinéa du même article, les mots : au ministre de l'intérieur et au
-ministre chargé de l'asile sont remplacés par les mots : " à l'administrateur
-supérieur des îles Wallis et Futuna " ;
+7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de
+l'intérieur et au ministre chargé de l'asile, qui disposent d'une semaine pour
+produire leurs observations " sont remplacés par les mots : " à l'administrateur
+supérieur des îles Wallis et Futuna, qui dispose d'une semaine pour produire ses
+observations " et au second alinéa de l'article R. 733-40, les mots : " au
+ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés par
+les mots : " à l'administrateur supérieur des îles Wallis et Futuna " ;
 
 8° A l'article R. 741-2 :
 
@@ -120,7 +118,7 @@ applicable " ;
 
 12° A l'article R. 742-5 :
 
-a) Au premier alinéa, les mots : " à l'article R. 314-2 sont remplacés par les
+a) Au premier alinéa, les mots : " à l'article R. 314-2" sont remplacés par les
 mots : " par l'ordonnance n° 2000-371 du 26 avril 2000 " ;
 
 b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les
@@ -135,9 +133,8 @@ a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R.
 313-36 " sont remplacés par les mots : " par l'ordonnance n° 2000-371 du 26
 avril 2000 " ;
 
-b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots :
-
-" à l'article 24 de l'ordonnance n° 2000-371 du 26 avril 2000 " ;
+b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à
+l'article 24 de l'ordonnance n° 2000-371 du 26 avril 2000 " ;
 
 c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à
 l'article 17 de l'ordonnance n° 2000-371 du 26 avril 2000 " ;
