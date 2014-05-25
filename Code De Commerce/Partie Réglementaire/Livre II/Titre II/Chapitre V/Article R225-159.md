@@ -6,7 +6,7 @@ l'ordre des négociations réalisées :
 
 1° La date de chaque opération ;
 
-2° Le cours d'achat ;
+2° Le cours d'achat ou, à défaut, le prix unitaire d'achat ;
 
 3° Le nombre des actions achetées à chaque cours ;
 

@@ -1,15 +1,16 @@
 Article R225-160
 ----
 Le registre des achats et des ventes tenu en application de l'article L. 225-211
-pour relater les opérations effectuées en application de l'article L. 225-209
-indique séparément les opérations d'achat et les opérations de vente.
+pour relater les opérations effectuées en application des articles L. 225-209 et
+L. 225-209-2 indique séparément les opérations d'achat et les opérations de
+vente.
 
 Pour chacune de ces opérations, le registre indique, dans l'ordre des
 négociations réalisées :
 
 1° La date de l'opération ;
 
-2° Le cours d'achat ou de vente ;
+2° Le cours d'achat ou de vente ou, à défaut, le prix unitaire d'achat ;
 
 3° Le nombre des actions achetées ou vendues à chaque cours ;
 
