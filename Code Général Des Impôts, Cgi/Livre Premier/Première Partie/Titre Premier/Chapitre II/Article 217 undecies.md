@@ -1,34 +1,51 @@
 Article 217 undecies
 ----
-I. Les entreprises soumises à l'impôt sur les sociétés peuvent déduire de leurs
-résultats imposables une somme égale au montant, hors taxes et hors frais de
-toute nature, notamment les commissions d'acquisition, à l'exception des frais
-de transport, d'installation et de mise en service amortissables, des
-investissements productifs, diminuée de la fraction de leur prix de revient
-financée par une subvention publique, qu'elles réalisent dans les départements
-de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de la Réunion
-pour l'exercice d'une activité éligible en application du I de l'article 199
-undecies B. Pour les projets d'investissement comportant l'acquisition,
-l'installation ou l'exploitation d'équipements de production d'énergie
-renouvelable, ce montant est pris en compte dans la limite d'un montant par watt
-installé fixé par arrêté conjoint des ministres chargés du budget, de l'énergie,
-de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend
-en compte les coûts d'acquisition et d'installation directement liés à ces
-équipements. La déduction est opérée sur le résultat de l'exercice au cours
-duquel l'investissement est réalisé, le déficit éventuel de l'exercice étant
-reporté dans les conditions prévues au I de l'article 209. Toutefois, en cas
-d'acquisition d'un immeuble à construire ou de construction d'immeuble, la
-déduction est opérée sur le résultat de l'exercice au cours duquel les
-fondations sont achevées. Si l'immeuble n'est pas achevé dans les deux ans
-suivant la date de l'achèvement des fondations, la somme déduite est rapportée
-au résultat imposable au titre de l'exercice au cours duquel intervient le terme
-de ce délai. La déduction s'applique également aux investissements réalisés par
-une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion
-des sociétés en participation, ou un groupement mentionné aux articles 239
-quater ou 239 quater C, dont les parts sont détenues directement par des
-entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est
-pratiquée par les associés ou membres dans une proportion correspondant à leurs
-droits dans la société ou le groupement.
+I. Les entreprises soumises à l'impôt sur les sociétés réalisant, au titre de
+leur dernier exercice clos, un chiffre d'affaires inférieur à 20 millions
+d'euros peuvent déduire de leurs résultats imposables une somme égale au
+montant, hors taxes et hors frais de toute nature, notamment les commissions
+d'acquisition, à l'exception des frais de transport, d'installation et de mise
+en service amortissables, des investissements productifs, diminuée de la
+fraction de leur prix de revient financée par une aide publique ainsi que,
+lorsque l'investissement a pour objet de remplacer un investissement ayant
+bénéficié de l'un des dispositifs définis au présent article ou aux articles 199
+undecies B ou 244 quater W, de la valeur réelle de l'investissement remplacé,
+qu'elles réalisent dans les départements de la Guadeloupe, de la Guyane, de la
+Martinique, de Mayotte et de la Réunion pour l'exercice d'une activité éligible
+en application du I de l'article 199 undecies B. Lorsque l'entreprise n'a
+clôturé aucun exercice, son chiffre d'affaires est réputé nul. Si le dernier
+exercice clos est d'une durée de plus ou moins de douze mois, le montant du
+chiffre d'affaires est corrigé pour correspondre à une année pleine. Lorsque la
+déduction d'impôt s'applique dans les conditions prévues aux quatorzième à
+dix-neuvième alinéas, le chiffre d'affaires défini au présent alinéa s'apprécie
+au niveau de l'entreprise locataire ou crédit-preneuse, qui en communique le
+montant à la société qui réalise l'investissement. Lorsque l'entreprise
+mentionnée aux première et avant-dernière phrases du présent alinéa est liée,
+directement ou indirectement, à une ou plusieurs autres entreprises au sens du
+12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son
+chiffre d'affaires et de celui de l'ensemble des entreprises qui lui sont liées.
+Pour les projets d'investissement comportant l'acquisition, l'installation ou
+l'exploitation d'équipements de production d'énergie renouvelable, le montant
+déductible mentionné à la première phrase du présent alinéa est pris en compte
+dans la limite d'un montant par watt installé fixé par arrêté conjoint des
+ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour
+chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et
+d'installation directement liés à ces équipements. La déduction est opérée sur
+le résultat de l'exercice au cours duquel l'investissement est mis en service,
+le déficit éventuel de l'exercice étant reporté dans les conditions prévues au I
+de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou
+de construction d'immeuble, la déduction est opérée sur le résultat de
+l'exercice au cours duquel les fondations sont achevées. Si l'immeuble n'est pas
+achevé dans les deux ans suivant la date de l'achèvement des fondations, la
+somme déduite est rapportée au résultat imposable au titre de l'exercice au
+cours duquel intervient le terme de ce délai. La déduction s'applique également
+aux investissements réalisés par une société soumise au régime d'imposition
+prévu à l'article 8, à l'exclusion des sociétés en participation, ou un
+groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts
+sont détenues directement par des entreprises soumises à l'impôt sur les
+sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres
+dans une proportion correspondant à leurs droits dans la société ou le
+groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de
 revient des investissements réalisés par les entreprises qui excède le montant
@@ -39,16 +56,17 @@ sociétés de financement définies au g du 2 de l'article 199 undecies A.
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de
 réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
-classés et aux logiciels nécessaires à l'utilisation des investissements
-éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif
-immobilisé.
+classés, lorsque ces travaux constituent des éléments de l'actif immobilisé. La
+déduction ne s'applique pas à l'acquisition de véhicules soumis à la taxe
+définie à l'article 1010 qui ne sont pas strictement indispensables à l'activité
+de l'exploitant.
 
 La déduction prévue au premier alinéa s'applique à la réalisation
-d'investissements nécessaires à l'exploitation d'une concession de service
-public local à caractère industriel et commercial et réalisés dans des secteurs
-éligibles définis par ce même alinéa, quelles que soient la nature des biens et
-leur affectation finale. La déduction prévue au premier alinéa ne s'applique pas
-aux investissements portant sur des installations de production d'électricité
+d'investissements affectés plus de cinq ans par le concessionnaire à
+l'exploitation d'une concession de service public local à caractère industriel
+et commercial et réalisés dans des secteurs éligibles définis par ce même
+alinéa. La déduction prévue au premier alinéa ne s'applique pas aux
+investissements portant sur des installations de production d'électricité
 utilisant l'énergie radiative du soleil.
 
 La déduction prévue au premier alinéa s'applique aux investissements mentionnés
@@ -122,12 +140,11 @@ alinéa si, imposable en France, elle avait acquis directement le bien ;
 4° L'entreprise propriétaire de l'investissement a son siège en France
 métropolitaine ou dans un département d'outre-mer ;
 
-5° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au
-titre de l'investissement et par l'imputation du déficit provenant de la
-location du bien acquis et de la moins-value réalisée lors de la cession de ce
-bien ou des titres de la société bailleresse sont rétrocédés à l'entreprise
-locataire sous forme de diminution du loyer et du prix de cession du bien à
-l'exploitant.
+5° 77 % de l'avantage en impôt procuré par la déduction pratiquée au titre de
+l'investissement et par l'imputation du déficit provenant de la location du bien
+acquis et de la moins-value réalisée lors de la cession de ce bien ou des titres
+de la société bailleresse sont rétrocédés à l'entreprise locataire sous forme de
+diminution du loyer et du prix de cession du bien à l'exploitant.
 
 Si l'une des conditions énumérées aux quinzième à dix-neuvième alinéas cesse
 d'être respectée dans le délai mentionné au quinzième alinéa, les sommes
@@ -167,43 +184,43 @@ personne physique signataire du contrat mentionné au 1° sous forme de diminuti
 de la redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984
 précitée et du prix de cession de l'immeuble.
 
-II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leurs
-résultats imposables une somme égale au montant total des souscriptions au
-capital des sociétés de développement régional des départements d'outre-mer ou
-des sociétés effectuant dans les douze mois de la clôture de la souscription
-dans les mêmes départements des investissements productifs dans les secteurs
-d'activité éligibles en application du I de l'article 199 undecies B. Lorsque la
-société affecte tout ou partie de la souscription à la construction d'immeubles
-destinés à l'exercice d'une activité éligible, elle doit s'engager à en achever
-les fondations dans les deux ans qui suivent la clôture de la souscription. La
-société doit s'engager à maintenir l'affectation des biens à l'activité éligible
-pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale
-d'utilisation si elle est inférieure. En cas de non-respect de cet engagement,
-les sommes déduites sont rapportées aux résultats imposables de l'entreprise
-ayant opéré la déduction au titre de l'exercice au cours duquel le non-respect
-de l'engagement est constaté ; ces dispositions ne sont pas applicables si les
-immobilisations en cause sont comprises dans un apport partiel d'actif réalisé
-sous le bénéfice de l'article 210 B ou si la société qui en est propriétaire
-fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la
-condition que la société bénéficiaire de l'apport, ou la société absorbante
-selon le cas, réponde aux conditions d'activité prévues au présent alinéa et
-reprenne, sous les mêmes conditions et sanctions, l'engagement mentionné à la
-phrase qui précède pour la fraction du délai restant à courir.
+II. Les entreprises soumises à l'impôt sur les sociétés peuvent, d'autre part,
+déduire de leurs résultats imposables une somme égale au montant total des
+souscriptions au capital des sociétés de développement régional des départements
+d'outre-mer ou des sociétés mentionnées au I effectuant dans les douze mois de
+la clôture de la souscription dans les mêmes départements des investissements
+productifs dans les secteurs d'activité éligibles en application du I de
+l'article 199 undecies B. Lorsque la société affecte tout ou partie de la
+souscription à la construction d'immeubles destinés à l'exercice d'une activité
+éligible, elle doit s'engager à en achever les fondations dans les deux ans qui
+suivent la clôture de la souscription et à achever l'immeuble dans les deux ans
+qui suivent la date d'achèvement des fondations. La société doit s'engager à
+maintenir l'affectation des biens à l'activité éligible pendant les cinq ans qui
+suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est
+inférieure. En cas de non-respect de ces engagements, les sommes déduites sont
+rapportées aux résultats imposables de l'entreprise ayant opéré la déduction au
+titre de l'exercice au cours duquel le non-respect de l'engagement est constaté
+; ces dispositions ne sont pas applicables si les immobilisations en cause sont
+comprises dans un apport partiel d'actif réalisé sous le bénéfice de l'article
+210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée
+sous le régime de l'article 210 A, à la condition que la société bénéficiaire de
+l'apport, ou la société absorbante selon le cas, réponde aux conditions
+d'activité prévues au présent alinéa et reprenne, sous les mêmes conditions et
+sanctions, les engagements mentionnés au présent alinéa pour la fraction du
+délai restant à courir.
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de
 sociétés effectuant dans les départements d'outre-mer des travaux de rénovation
 et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
-classés et aux logiciels nécessaires à l'utilisation des investissements
-éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif
-immobilisé.
+classés exploités par ces sociétés, lorsque ces travaux constituent des éléments
+de l'actif immobilisé.
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de
 sociétés concessionnaires effectuant dans les départements d'outre-mer des
-investissements productifs nécessaires à l'exploitation d'une concession de
-service public local à caractère industriel et commercial, et dont l'activité
-s'exerce exclusivement dans un secteur éligible, quelles que soient la nature
-des biens qui constituent l'emploi de la souscription et leur affectation
-définitive, dans les départements ou collectivités d'outre-mer.
+investissements productifs affectés plus de cinq ans par le concessionnaire à
+l'exploitation d'une concession de service public local à caractère industriel
+et commercial, et dont l'activité s'exerce exclusivement dans un secteur
+éligible, dans les départements ou collectivités d'outre-mer.
 
 II bis. La déduction prévue au premier alinéa du II s'applique aux souscriptions
 aux augmentations de capital de sociétés soumises à l'impôt sur les sociétés
@@ -241,19 +258,20 @@ Cette déduction s'applique sous les conditions et sanctions prévues au II, à
 l'exception de celle mentionnée à la troisième phrase du premier alinéa du même
 II.
 
-II quater. Les investissements et les souscriptions au capital mentionnés aux I,
-II et II ter et dont le montant total par programme et par exercice est
-supérieur à 1 000 000 € ne peuvent ouvrir droit à déduction que s'ils ont reçu
-un agrément préalable du ministre chargé du budget dans les conditions prévues
-au III.
+II quater. - Les programmes d'investissement dont le montant total est supérieur
+à 1 000 000 € ne peuvent ouvrir droit à la déduction mentionnée aux I, II et II
+ter que s'ils ont reçu un agrément préalable du ministre chargé du budget dans
+les conditions prévues au III.
 
 Les dispositions du premier alinéa sont également applicables aux
-investissements mentionnés au I et dont le montant total par programme et par
-exercice est supérieur à 250 000 €, lorsqu'ils sont réalisés par une société ou
-un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce même
-I.
+investissements mentionnés au I et dont le montant total par programme est
+supérieur à 250 000 €, lorsqu'ils sont réalisés par une société ou un groupement
+mentionnés à l'avant-dernière phrase du premier alinéa de ce même I.
 
-III.-1. Pour ouvrir droit à déduction, les investissements mentionnés au I
+II quinquies. - La déduction prévue au II s'applique si les conditions prévues
+au dix-neuvième alinéa du I sont réunies.
+
+III. - 1. Pour ouvrir droit à déduction, les investissements mentionnés au I
 réalisés dans les secteurs des transports, de la navigation de plaisance, de
 l'agriculture, de la pêche maritime et de l'aquaculture, de l'industrie
 charbonnière et de la sidérurgie, de la construction navale, des fibres
@@ -306,14 +324,14 @@ l'administration fiscale de compléments d'informations. Il est suspendu en cas
 de notification du projet pour examen et avis de la Commission européenne.
 
 3. Toutefois, les investissements mentionnés au I dont le montant total n'excède
-pas 250 000 € par programme et par exercice sont dispensés de la procédure
-d'agrément préalable lorsqu'ils sont réalisés par une entreprise qui exerce son
-activité dans les départements visés au I depuis au moins deux ans dans l'un des
-secteurs mentionnés au premier alinéa du 1. Il en est de même lorsque ces
-investissements sont donnés en location à une telle entreprise. L'entreprise
-propriétaire des biens ou qui les a acquis en crédit-bail joint à sa déclaration
-de résultat un état récapitulatif des investissements réalisés au cours de
-l'exercice et au titre desquels la déduction fiscale est pratiquée.
+pas 250 000 € par programme sont dispensés de la procédure d'agrément préalable
+lorsqu'ils sont réalisés par une entreprise qui exerce son activité dans les
+départements visés au I depuis au moins deux ans dans l'un des secteurs
+mentionnés au premier alinéa du 1. Il en est de même lorsque ces investissements
+sont donnés en location à une telle entreprise. L'entreprise propriétaire des
+biens ou qui les a acquis en crédit-bail joint à sa déclaration de résultat un
+état récapitulatif des investissements réalisés au cours de l'exercice et au
+titre desquels la déduction fiscale est pratiquée.
 
 Le premier alinéa ne s'applique pas au secteur des transports, à l'exception des
 véhicules neufs de moins de sept places acquis par les entreprises de transports
@@ -377,7 +395,7 @@ conservation cesse d'être respecté, l'avantage et la majoration correspondante
 mentionnés au deuxième alinéa qui, à défaut d'engagement, auraient dû être
 rapportés au résultat imposable de l'entreprise apporteuse.
 
-IV ter.-La déduction prévue aux I, II, II bis ou II ter est subordonnée au
+IV ter. - La déduction prévue aux I, II, II bis ou II ter est subordonnée au
 respect par les sociétés réalisant l'investissement ou la souscription et, le
 cas échéant, les entreprises exploitantes, de leurs obligations fiscales et
 sociales et de l'obligation de dépôt de leurs comptes annuels selon les
@@ -393,7 +411,17 @@ Pour l'application du premier alinéa en Nouvelle-Calédonie et en Polynésie
 française, les références aux dispositions du code de commerce sont remplacées
 par les dispositions prévues par la réglementation applicable localement.
 
-V.-Les dispositions du présent article sont applicables aux investissements
+IV quater. - Le seuil de chiffre d'affaires défini au I ne s'applique pas aux
+opérations d'acquisition ou de construction de logements neufs répondant aux
+critères mentionnés aux b et c du 1 du I de l'article 244 quater X.
+
+Lorsque la déduction d'impôt s'applique dans les conditions prévues aux sixième
+à huitième alinéas du I, au I bis ou au II ter, le montant de la déduction
+mentionnée au I est égal au montant, hors taxes et hors frais de toute nature,
+de l'opération, diminué de la fraction de son prix de revient financée par une
+subvention publique.
+
+V. - Les dispositions du présent article sont applicables aux investissements
 réalisés ou aux souscriptions versées à compter de la date de promulgation de la
 loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer, à
 l'exception des investissements et des souscriptions pour l'agrément desquels
