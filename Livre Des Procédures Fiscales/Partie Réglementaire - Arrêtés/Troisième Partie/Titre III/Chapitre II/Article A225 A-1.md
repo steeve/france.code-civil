@@ -6,4 +6,5 @@ ainsi que par les agents de la direction générale de la concurrence et de la
 consommation qui ont prêté le serment requis des agents des administrations
 financières pour l'exercice de leurs fonctions.
 
-Les procès-verbaux sont rédigés à la requête du directeur général des impôts.
+Les procès-verbaux sont rédigés à la requête du directeur général des finances
+publiques.
