@@ -30,7 +30,7 @@ III.
 
 VI Il n'est pas exigé de bilan des exploitants individuels et des sociétés
 visées à l'article 239 quater A soumis à l'impôt sur le revenu selon le régime
-d'imposition prévu au I, lorsque leur chiffre d'affaires n'excède pas 156 000 €
+d'imposition prévu au I, lorsque leur chiffre d'affaires n'excède pas 157 000 €
 hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre
 des marchandises, objets, fournitures et denrées à emporter ou à consommer sur
 place, ou de fournir le logement, ou 55 000 € hors taxes s'il s'agit d'autres

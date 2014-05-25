@@ -4,9 +4,9 @@ Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 18,16 € par mètre carré en zone A, 11,87 € en zone B et
-8,60 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon
+a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non
+comprises, sont fixés à 18,38 € par mètre carré en zone A, 12,01 € en zone B et
+8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon
 les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la
 construction et de l'habitation, et arrondis au centime d'euro le plus proche.
 
@@ -24,10 +24,8 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2013, les plafonds annuels de ressources sont les
-suivants :
-
-(en euros)
+Pour les baux conclus en 2014, les plafonds annuels de ressources sont les
+suivants : (En euros)
 
 
 COMPOSITION DU FOYER LOCATAIRE
@@ -37,72 +35,80 @@ LIEU DE LOCATION
 
 Zone A
 
+(en euros)
+
+
 Zone B
+
+(en euros)
 
 
 Zone C
 
+(en euros)
+
+
 Personne seule
 
-46 214
+46 630
 
-35 718
+36 039
 
-31 255
+31 536
 
 
 Couple
 
-69 066
+69 688
 
-47 695
+48 124
 
-42 008
+42 386
 
 
 Personne seule ou couple ayant une personne à charge
 
-83 023
+83 770
 
-57 356
+57 872
 
-50 289
+50 742
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-99 448
+100 343
 
-69 239
+69 862
 
-60 863
+61 411
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-117 728
+118 788
 
-81 449
+82 182
 
-71 432
+72 075
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-132 474
+133 666
 
-91 790
+92 616
 
-80 578
+81 303
 
 
 Majoration par personne à charge à partir de la cinquième
 
-+ 14 766
++ 14 899
 
-+ 10 238
++ 10 330
 
-+ 9 153
++ 9 235
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités
 prévues au dernier alinéa de l'article L. 441-1 du code de la construction et de

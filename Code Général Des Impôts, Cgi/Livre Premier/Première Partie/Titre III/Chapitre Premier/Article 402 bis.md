@@ -3,10 +3,10 @@ Article 402 bis
 Les produits intermédiaires supportent un droit de consommation dont le tarif
 par hectolitre est fixé à :
 
-45,79 € pour les vins doux naturels et les vins de liqueur mentionnés aux
+a 46,59 € pour les vins doux naturels et les vins de liqueur mentionnés aux
 articles 417 et 417 bis ;
 
-183,15 € pour les autres produits.
+b 186,36 € pour les autres produits.
 
 Le tarif du droit de consommation est relevé au 1er janvier de chaque année dans
 une proportion égale au taux de croissance de l'indice des prix à la

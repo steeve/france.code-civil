@@ -36,9 +36,8 @@ impôts qui expédient sur le territoire national en régime de suspension de
 droits d'accise des produits mentionnés au 1° du I de cet article bénéficient de
 la dispense de caution prévue au 3° du deuxième alinéa du V de ce même article,
 lorsque les droits d'accise suspendus n'excèdent pas le montant mentionné au
-premier alinéa du I de l'article 111-0 B du code précité. Ce montant est relevé
-dans les mêmes conditions que celles mentionnées au premier alinéa du I du même
-article.
+premier alinéa du I de l'article 111-0 B. Ce montant est relevé dans les mêmes
+conditions que celles mentionnées au premier alinéa du I du même article.
 
 Le montant annuel mentionné au premier alinéa s'entend de la moyenne annuelle
 des droits suspendus appréciés à partir des expéditions nationales réalisées en

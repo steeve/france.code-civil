@@ -1,11 +1,11 @@
 Article 244 quater G
 ----
-I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en
-application des articles 44 sexies, 44 sexies A, 44 octies, 44 decies ou 44
-terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre de la
-première année du cycle de formation d'un apprenti dont le contrat a été conclu
-dans les conditions prévues au titre II du livre II de la sixième partie du code
-du travail.
+I.-Les entreprises imposées d'après leur bénéfice réel ou exonérées en
+application des articles 44 sexies, 44 sexies A, 44 octies ou 44 terdecies à 44
+quindecies peuvent bénéficier d'un crédit d'impôt au titre de la première année
+du cycle de formation d'un apprenti dont le contrat a été conclu dans les
+conditions prévues au titre II du livre II de la sixième partie du code du
+travail.
 
 Ce crédit d'impôt est égal au produit du montant de 1 600 € par le nombre moyen
 annuel d'apprentis n'ayant pas achevé la première année de leur cycle de
@@ -38,13 +38,13 @@ service national.
 Le nombre moyen annuel d'apprentis s'apprécie en fonction du nombre d'apprentis
 dont le contrat avec l'entreprise a été conclu depuis au moins un mois.
 
-II. - Le crédit d'impôt calculé au titre des apprentis mentionnés au I est
+II.-Le crédit d'impôt calculé au titre des apprentis mentionnés au I est
 plafonné au montant des dépenses de personnel afférentes aux apprentis visés au
 I minoré des subventions publiques reçues en contrepartie de leur accueil par
 l'entreprise.
 
-III. - Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
-articles 8, 238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
+III.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
+articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
 articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne
 sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés
 proportionnellement à leurs droits dans ces sociétés ou ces groupements, à
@@ -52,4 +52,4 @@ condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de
 personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
-IV. - (Abrogé).
+IV.-(Abrogé).

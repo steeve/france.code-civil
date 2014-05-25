@@ -52,9 +52,8 @@ V.-Sont exonérés de la taxe :
 1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage
 et les surfaces de stationnement annexées à ces catégories de locaux, situés
 dans une zone de redynamisation urbaine ou dans une zone franche urbaine, telle
-que définie par les A et B du 3 de l'article 42 modifié de la loi n° 95-115 du 4
-février 1995 d'orientation pour l'aménagement et le développement du territoire
-;
+que définie par les A et B du 3 de l'article 42 de la loi n° 95-115 du 4 février
+1995 d'orientation pour l'aménagement et le développement du territoire ;
 
 2° Les locaux et les surfaces de stationnement appartenant aux fondations et aux
 associations, reconnues d'utilité publique, dans lesquels elles exercent leur
@@ -105,7 +104,7 @@ ainsi que les associations ou organismes privés sans but lucratif à caractère
 sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent
 leur activité.
 
-b. (Abrogé) 2. Les tarifs au mètre carré sont fixés, pour l'année 2013,
+b. (Abrogé) 2. Les tarifs au mètre carré sont fixés, pour l'année 2014,
 conformément aux dispositions ci-dessous : a) Pour les locaux à usage de bureaux
 :
 
@@ -132,17 +131,17 @@ Tarif normal
 
 Tarif réduit
 
-17,48
+17,18
 
-8,66
+8,51
 
-10,37
+10,19
 
-6,20
+6,10
 
-4,96
+4,88
 
-4,49
+4,42
 
 b) Pour les locaux commerciaux :
 
@@ -154,11 +153,11 @@ b) Pour les locaux commerciaux :
 
 3e CIRCONSCRIPTION
 
-7,70
+7,57
 
-3,96
+3,90
 
-1,99
+1,96
 
 c) Pour les locaux de stockage :
 
@@ -170,11 +169,11 @@ c) Pour les locaux de stockage :
 
 3e CIRCONSCRIPTION
 
-3,97
+3,91
 
-1,99
+1,96
 
-1,00
+0,99
 
 d) Pour les surfaces de stationnement annexées aux catégories de locaux
 mentionnées aux a à c :
@@ -187,11 +186,11 @@ mentionnées aux a à c :
 
 3e CIRCONSCRIPTION
 
-2,32
+2,28
 
-1,33
+1,31
 
-0,67
+0,66
 
 e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction du
 dernier indice du coût de la construction publié par l'Institut national de la

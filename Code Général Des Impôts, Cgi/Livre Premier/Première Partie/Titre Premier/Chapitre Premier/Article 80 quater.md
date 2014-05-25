@@ -1,6 +1,6 @@
 Article 80 quater
 ----
-Sont soumises au même régime fiscal que les pensions alimentaires les versements
+Sont soumis au même régime fiscal que les pensions alimentaires les versements
 de sommes d'argent mentionnés à l'article 275 du code civil lorsqu'ils sont
 effectués sur une période supérieure à douze mois à compter de la date à
 laquelle le jugement de divorce, que celui-ci résulte ou non d'une demande

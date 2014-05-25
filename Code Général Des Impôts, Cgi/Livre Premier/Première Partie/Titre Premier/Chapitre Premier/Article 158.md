@@ -74,10 +74,10 @@ sur des bénéfices n'ayant pas supporté l'impôt sur les sociétés ou un imp�
 équivalent, distribués ou répartis par :
 
 a. Les organismes de placement collectif en valeurs mobilières ou les placements
-collectifs relevant des paragraphes 1, 2 et 6 de la sous-section 2, du
-paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de
-la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du
-code monétaire et financier ;
+collectifs relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe
+2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la
+sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code
+monétaire et financier ;
 
 b. Les organismes de placement collectif en valeurs mobilières établis dans
 d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre
@@ -134,15 +134,15 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
-excéder 3 660 €. Ce plafond s'applique au montant total des pensions et
+excéder 3 689 €. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
 tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 374 €, sans
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 377 €, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal. La somme de 374 € est révisée chaque année
+pensionné membre du foyer fiscal. La somme de 377 € est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 

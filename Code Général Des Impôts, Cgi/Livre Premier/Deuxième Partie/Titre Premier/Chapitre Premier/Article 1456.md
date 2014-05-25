@@ -27,9 +27,8 @@ aux associés coopérateurs de détenir au moins 50 % du capital de la société
 plus tard à la clôture du septième exercice qui suit celui de la transformation
 en société coopérative ouvrière de production.
 
-En cas de non-respect de l'engagement mentionné au troisième alinéa du présent
-article, la société verse les sommes qu'elle n'a pas acquittées au titre de la
-cotisation foncière des entreprises en application du même alinéa. Les droits
-correspondants sont majorés de l'intérêt de retard prévu à l'article 1727 du
-présent code, décompté à partir de la date à laquelle ces impositions auraient
-dû être acquittées.
+En cas de non-respect de l'engagement mentionné au troisième alinéa, la société
+verse les sommes qu'elle n'a pas acquittées au titre de la cotisation foncière
+des entreprises en application du même alinéa. Les droits correspondants sont
+majorés de l'intérêt de retard prévu à l'article 1727, décompté à partir de la
+date à laquelle ces impositions auraient dû être acquittées.

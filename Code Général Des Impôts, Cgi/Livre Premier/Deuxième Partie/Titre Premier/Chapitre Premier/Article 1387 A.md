@@ -12,8 +12,8 @@ l'article L. 311-1 du code rural et de la pêche maritime.
 Cette exonération s'applique à compter du 1er janvier de l'année qui suit celle
 de l'achèvement des installations et bâtiments. Elle cesse définitivement de
 s'appliquer à compter de l'année qui suit celle où les conditions prévues au
-premier alinéa du présent article ne sont plus remplies ou à compter de la
-huitième année qui suit celle de l'achèvement des biens.
+premier alinéa ne sont plus remplies ou à compter de la huitième année qui suit
+celle de l'achèvement des biens.
 
 Pour les installations et les bâtiments achevés avant le 1er janvier de l'année
 au cours de laquelle la délibération prévue au premier alinéa est prise,

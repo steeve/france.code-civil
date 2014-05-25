@@ -1,7 +1,5 @@
 Article 318
 ----
-Les dispositions des articles 317 nonies, 317 decies et 317 duodecies sont
-applicables à la taxe différentielle sur les véhicules à moteur perçue au profit
-de la collectivité territoriale de Corse (1).
-
-(1) Voir également Annexe IV, art. 155 bis.
+La part du quota de la taxe d'apprentissage mentionnée au deuxième alinéa de
+l'article L. 6241-2 du code du travail est versée au Trésor public par les
+organismes collecteurs dans le délai prévu à l'article R. 6241-5 du même code.

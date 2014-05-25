@@ -10,9 +10,8 @@ résultat d'ensemble ;
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme
 ouvrant droit à exonération en application du III de l'article 44 octies, du III
-de l'article 44 octies A, de la seconde phrase du huitième alinéa du I de
-l'article 44 decies, du III de l'article 44 duodecies et du III de l'article 44
-terdecies du code général des impôts.
+de l'article 44 octies A, du III de l'article 44 duodecies et du III de
+l'article 44 terdecies du code général des impôts.
 
 La société mère dépose au plus tard à l'expiration du délai de dépôt de son
 relevé de solde auprès du comptable de la direction générale des finances

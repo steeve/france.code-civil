@@ -29,17 +29,17 @@ TARIF PAR TRANSFORMATEUR
 
 Supérieure à 350
 
-140 924
+142 756
 
 
 Supérieure à 130 et inférieure ou égale à 350
 
-47 823
+48 445
 
 
 Supérieure à 50 et inférieure ou égale à 130
 
-13 736
+13 915
 
 La tension en amont s'entend de la tension électrique en entrée du
 transformateur.

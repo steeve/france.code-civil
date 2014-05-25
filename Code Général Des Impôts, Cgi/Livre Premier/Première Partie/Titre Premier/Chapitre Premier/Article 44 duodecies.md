@@ -8,19 +8,18 @@ revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des
 activités implantées dans le bassin d'emploi et réalisés jusqu'au terme du
 quatre-vingt-troisième mois suivant le début d'activité dans le bassin d'emploi.
 Les contribuables qui créent des activités à compter du 1er janvier 2014
-bénéficient de l'exonération mentionnée à la première phrase du présent alinéa à
-raison des bénéfices provenant des activités implantées dans le bassin d'emploi
-et réalisés jusqu'au terme du cinquante-neuvième mois suivant le début
-d'activité dans le bassin d'emploi. Les contribuables mentionnés à la deuxième
-phrase du présent alinéa perdent le bénéfice de l'exonération à compter de
-l'exercice au cours duquel ils procèdent à une distribution de dividendes à
-leurs actionnaires.
+bénéficient de l'exonération mentionnée à la première phrase à raison des
+bénéfices provenant des activités implantées dans le bassin d'emploi et réalisés
+jusqu'au terme du cinquante-neuvième mois suivant le début d'activité dans le
+bassin d'emploi. Les contribuables mentionnés à la deuxième phrase perdent le
+bénéfice de l'exonération à compter de l'exercice au cours duquel ils procèdent
+à une distribution de dividendes à leurs actionnaires.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité
 industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de
 l'article 35, à l'exception des activités de crédit-bail mobilier et de location
 d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les
-conditions et limites fixées par le présent article.L'exonération s'applique
+conditions et limites fixées par le présent article. L'exonération s'applique
 dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les
 sociétés exerçant une activité professionnelle non commerciale au sens du 1 de
 l'article 92.
@@ -47,7 +46,7 @@ dans les locaux affectés à l'activité ou si ce contribuable réalise au moins
 d'emploi.
 
 II.-Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est
-celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 96 à 100, 102
+celui déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102
 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
 conditions de droit commun :
 
@@ -108,7 +107,7 @@ d'ensemble du groupe.
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de
 l'un des régimes prévus aux articles 44 sexies, 44 octies A ou 44 quindecies et
 du régime prévu au présent article, le contribuable peut opter pour ce dernier
-régime dans les six mois suivant celui du début d'activité.L'option est
+régime dans les six mois suivant celui du début d'activité. L'option est
 irrévocable.
 
 IV.-Les obligations déclaratives des personnes et organismes concernés par

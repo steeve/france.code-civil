@@ -5,7 +5,7 @@ impôts et les destinataires enregistrés mentionnés à l'article 302 H ter du 
 code bénéficient respectivement de la dispense de caution prévue au 2 du III de
 l'article 302 D et au premier alinéa du I de l'article 302 H ter du code précité
 lorsque les droits d'accise dont ils sont redevables n'excèdent pas un montant
-annuel de 20 000 €. Ce montant est relevé au 1er janvier de chaque année dans
+annuel de 20 350 €. Ce montant est relevé au 1er janvier de chaque année dans
 une proportion égale au taux de croissance de l'indice des prix à la
 consommation hors tabac de l'avant-dernière année. Il est arrondi à l'euro le
 plus proche, la fraction d'euro égale à 0,50 est comptée pour 1. Ce relèvement

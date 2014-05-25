@@ -17,8 +17,7 @@ cours de cet exercice ;
 l'article 244 quater B, représentant au moins 15 % des charges fiscalement
 déductibles au titre de cet exercice, à l'exclusion des charges engagées auprès
 d'autres jeunes entreprises innovantes réalisant des projets de recherche et de
-développement ou auprès d'entreprises bénéficiant du régime prévu à l'article 44
-undecies ;
+développement ;
 
 b. Ou elle est dirigée ou détenue directement à hauteur de 10 % au moins, seuls
 ou conjointement, par des étudiants, des personnes titulaires depuis moins de

@@ -8,17 +8,17 @@ la taxe sur la valeur ajoutée, lorsqu'ils n'ont pas réalisé :
 
 1° Un chiffre d'affaires supérieur à :
 
-a) 81 500 € l'année civile précédente ;
+a) 82 200 € l'année civile précédente ;
 
-b) Ou 89 600 € l'année civile précédente, lorsque le chiffre d'affaires de la
+b) Ou 90 300 € l'année civile précédente, lorsque le chiffre d'affaires de la
 pénultième année n'a pas excédé le montant mentionné au a ;
 
 2° Et un chiffre d'affaires afférent à des prestations de services, hors ventes
 à consommer sur place et prestations d'hébergement, supérieur à :
 
-a) 32 600 € l'année civile précédente ;
+a) 32 900 € l'année civile précédente ;
 
-b) Ou 34 600 € l'année civile précédente, lorsque la pénultième année il n'a pas
+b) Ou 34 900 € l'année civile précédente, lorsque la pénultième année il n'a pas
 excédé le montant mentionné au a.
 
 II.-1. Le I cesse de s'appliquer :
@@ -35,7 +35,7 @@ ajoutée pour les prestations de services et les livraisons de biens effectuées
 compter du premier jour du mois au cours duquel ces chiffres d'affaires sont
 dépassés.
 
-III.-Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42 300
+III.-Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42 600
 € :
 
 1. Pour les opérations réalisées par les avocats et les avocats au Conseil
@@ -54,7 +54,7 @@ intellectuelle.
 IV.-Pour leurs livraisons de biens et leurs prestations de services qui n'ont
 pas bénéficié de l'application de la franchise prévue au III, ces assujettis
 bénéficient également d'une franchise lorsque le chiffre d'affaires
-correspondant réalisé au cours de l'année civile précédente n'excède pas 17 400
+correspondant réalisé au cours de l'année civile précédente n'excède pas 17 500
 €.
 
 Cette disposition ne peut pas avoir pour effet d'augmenter le chiffre d'affaires
@@ -62,8 +62,8 @@ limite de la franchise afférente aux opérations mentionnées au 1, au 2 ou au 
 du III.
 
 V.-Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont
-le chiffre d'affaires de l'année en cours dépasse respectivement 52 000 € et 20
-900 €. Ils deviennent redevables de la taxe sur la valeur ajoutée pour les
+le chiffre d'affaires de l'année en cours dépasse respectivement 52 400 € et 21
+100 €. Ils deviennent redevables de la taxe sur la valeur ajoutée pour les
 prestations de services et pour les livraisons de biens effectuées à compter du
 premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 

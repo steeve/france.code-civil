@@ -74,7 +74,7 @@ d) Des bénéfices agricoles mentionnés à l'article 63 ;
 e) Des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés
 au 1 de l'article 92.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies, 44
+Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44
 terdecies à 44 quindecies ou du 9 de l'article 93 sont retenus pour
 l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu
 compte des déficits des années antérieures ainsi que des plus-values et

@@ -4,8 +4,8 @@ I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies 
 code général des impôts :
 
 1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont
-fixés, pour les baux conclus en 2013, à 16,52 € en zone A bis, 12,27 € dans le
-reste de la zone A, 9,88 € en zone B 1 et 8,59 € en zone B 2. Ces plafonds sont
+fixés, pour les baux conclus en 2014, à 16,72 € en zone A bis, 12,42 € dans le
+reste de la zone A, 10,00 € en zone B 1 et 8,69 € en zone B 2. Ces plafonds sont
 révisés au 1er janvier de chaque année selon les modalités prévues au premier
 alinéa du a de l'article 2 duodecies.
 
@@ -22,98 +22,107 @@ celle prévue au dernier alinéa du a de l'article 2 duodecies ;
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2013, les plafonds annuels de ressources des
+a) Pour les baux conclus en 2014, les plafonds annuels de ressources des
 locataires sont les suivants :
 
 
 COMPOSITION DU FOYER LOCATAIRE
 
-LIEU DE SITUATION DU LOGEMENT
+LIEU DE LOCATION
 
-Zone A bis (en euros)
 
-Reste de la zone A (en euros)
+Zone A
 
-Zone B 1 (en euros)
+(en euros)
 
-Zone B 2 (en euros)
+
+Zone B1
+
+(en euros)
+
+
+Zone B2
+
+Zone C
+
+(en euros)
 
 
 Personne seule
 
-36 502
+36 831
 
-36 502
+36 831
 
-29 751
+30 019
 
-26 776
+27 017
 
 
 Couple
 
-54 554
+55 045
 
-54 554
+55 045
 
-39 731
+40 089
 
-35 757
+36 079
 
 
 Personne seule ou couple ayant une personne à charge
 
-71 515
+72 159
 
-65 579
+66 169
 
-47 780
+48 210
 
-43 002
+43 389
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-85 384
+86 152
 
-78 550
+79 257
 
-57 681
+58 200
 
-51 913
+52 380
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-101 589
+102 503
 
-92 989
+93 826
 
-67 854
+68 465
 
-61 069
+61 619
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-114 315
+115 344
 
-104 642
+105 584
 
-76 472
+77 160
 
-68 824
+69 443
 
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
-+ 12 736
++ 12 851
 
-+ 11 659
++ 11 764
 
-+ 8 531
++ 8 608
 
-+ 7 677
++ 7 746
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités
 prévues au troisième alinéa du b de l'article 2 duodecies ;

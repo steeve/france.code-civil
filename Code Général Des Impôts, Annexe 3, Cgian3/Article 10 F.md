@@ -17,5 +17,5 @@ absorbante ou nouvelle ou pour la société bénéficiaire de l'apport, d'inscri
 immédiatement à leur passif la provision figurant dans les écritures du
 précédent exploitant, des sociétés fusionnées ou de la société apporteuse et qui
 était afférente aux éléments transférés et de l'utiliser avant l'expiration du
-délai imparti à l'ancien exploitant dans les conditions prévues aux articles 10
-C et 10 C sexies et sous les sanctions fixées à l'article 10 E.
+délai imparti à l'ancien exploitant dans les conditions prévues à l'article 10 C
+et sous les sanctions fixées à l'article 10 E.

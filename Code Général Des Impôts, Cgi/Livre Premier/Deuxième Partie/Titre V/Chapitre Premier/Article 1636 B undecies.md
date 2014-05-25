@@ -61,7 +61,7 @@ transformation.
 
 5. Les communes et les établissements publics de coopération intercommunale
 ayant institué la part incitative de la taxe d'enlèvement des ordures ménagères
-conformément à l'article 1522 bis votent le tarif de cette part dans les
+conformément à l'article 1522 bis votent les tarifs de cette part dans les
 conditions prévues à l'article 1639 A.
 
 6. La première année d'application des dispositions de l'article 1522 bis, le

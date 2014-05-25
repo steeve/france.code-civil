@@ -28,10 +28,10 @@ L'exonération ne s'applique pas aux créations d'activité dans les zones de
 restructuration de la défense consécutives au transfert d'une activité
 précédemment exercée par un contribuable ayant bénéficié au titre d'une ou
 plusieurs des cinq années précédant celle du transfert des articles 44 sexies,
-44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44
-duodecies et 44 quindecies, de la prime d'aménagement du territoire, de la prime
-d'aménagement du territoire pour l'industrie et les services ou de la prime
-d'aménagement du territoire pour la recherche, le développement et l'innovation.
+44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 quindecies ,
+de la prime d'aménagement du territoire, de la prime d'aménagement du territoire
+pour l'industrie et les services ou de la prime d'aménagement du territoire pour
+la recherche, le développement et l'innovation.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans
 le cadre d'un transfert, d'une concentration ou d'une restructuration

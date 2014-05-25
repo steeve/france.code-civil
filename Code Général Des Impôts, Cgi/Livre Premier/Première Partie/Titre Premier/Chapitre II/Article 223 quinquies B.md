@@ -2,8 +2,7 @@ Article 223 quinquies B
 ----
 Les personnes morales établies en France et mentionnées à l'article L. 13 AA du
 livre des procédures fiscales sont tenues de fournir, dans le délai de six mois
-qui suit l'échéance prévue au 1 de l'article 223 du présent code, les documents
-suivants :
+qui suit l'échéance prévue au 1 de l'article 223, les documents suivants :
 
 1° Des informations générales sur le groupe d'entreprises associées :
 

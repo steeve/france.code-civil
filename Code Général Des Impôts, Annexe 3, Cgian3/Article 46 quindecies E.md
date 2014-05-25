@@ -1,9 +1,9 @@
 Article 46 quindecies E
 ----
-I.-Pour bénéficier de l'avantage fiscal prévu aux articles 199 unvicies et 217
-septies du code général des impôts, le souscripteur au capital agréé d'une
-Sofica doit produire sur demande du service, à l'appui de sa déclaration de
-revenus ou de résultats un relevé délivré par cette société et comprenant :
+I.-Pour bénéficier de l'avantage fiscal prévu à l'article 199 unvicies du code
+général des impôts, le souscripteur au capital agréé d'une Sofica doit produire
+sur demande du service, à l'appui de sa déclaration de revenus ou de résultats
+un relevé délivré par cette société et comprenant :
 
 L'identité et l'adresse de l'actionnaire ;
 

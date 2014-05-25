@@ -2,8 +2,8 @@ Article 244 quater O
 ----
 I.-Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou
 exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44
-octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies à 44
-quindecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
+octies, 44 octies A, 44 duodecies, 44 terdecies à 44 quindecies peuvent
+bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés
 à la création d'ouvrages réalisés en un seul exemplaire ou en petite série. La
@@ -67,16 +67,16 @@ VI bis.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au res
 du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
-Pour l'application du premier alinéa du présent VI bis, les sociétés de
-personnes et les groupements mentionnés aux articles 8,238 bis L, 239 quater,
-239 quater A, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur
-les sociétés doivent également respecter le règlement (CE) n° 1998/2006 de la
-Commission du 15 décembre 2006 précité. Le crédit d'impôt peut être utilisé par
-les associés de ces sociétés ou les membres de ces groupements
-proportionnellement à leurs droits dans ces sociétés ou groupements s'ils
-satisfont aux conditions d'application de ce même règlement et sous réserve
-qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes
-physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+Pour l'application du premier alinéa, les sociétés de personnes et les
+groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater A, 239
+quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés
+doivent également respecter le règlement (CE) n° 1998/2006 de la Commission du
+15 décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés
+de ces sociétés ou les membres de ces groupements proportionnellement à leurs
+droits dans ces sociétés ou groupements s'ils satisfont aux conditions
+d'application de ce même règlement et sous réserve qu'il s'agisse de redevables
+soumis à l'impôt sur les sociétés ou de personnes physiques participant à
+l'exploitation au sens du 1° bis du I de l'article 156.
 
 VII.-(Abrogé).
 

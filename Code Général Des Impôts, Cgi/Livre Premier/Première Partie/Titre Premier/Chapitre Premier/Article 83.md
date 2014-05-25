@@ -38,18 +38,17 @@ l'indemnisation de frais occasionnés par une maladie, une maternité ou un
 accident, que ces garanties respectent les conditions mentionnées à l'article L.
 871-1 du code de la sécurité sociale.
 
-Les cotisations ou les primes mentionnées au premier alinéa du présent 1° quater
-s'entendent, s'agissant des cotisations à la charge de l'employeur, de celles
-correspondant à des garanties autres que celles portant sur le remboursement ou
-l'indemnisation de frais occasionnés par une maladie, une maternité ou un
-accident.
+Les cotisations ou les primes mentionnées au premier alinéa s'entendent,
+s'agissant des cotisations à la charge de l'employeur, de celles correspondant à
+des garanties autres que celles portant sur le remboursement ou l'indemnisation
+de frais occasionnés par une maladie, une maternité ou un accident.
 
 Les cotisations à la charge de l'employeur correspondant à des garanties portant
 sur le remboursement ou l'indemnisation de frais occasionnés par une maladie,
 une maternité ou un accident sont ajoutées à la rémunération prise en compte
 pour la détermination des bases d'imposition.
 
-Les cotisations ou les primes déductibles en application des deux premiers
+Les cotisations ou les primes déductibles en application des premier et deuxième
 alinéas le sont dans la limite d'un montant égal à la somme de 5 % du montant
 annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale
 et de 2 % de la rémunération annuelle brute, sans que le total ainsi obtenu
@@ -83,7 +82,7 @@ favorables, aux cotisations ou primes versées aux régimes de retraite et de
 prévoyance complémentaires auxquels le salarié était affilié à titre obligatoire
 avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
 
-2°-0 ter Dans les limites prévues au dernier alinéa du 1° quater, les
+2°-0 ter Dans les limites prévues au quatrième alinéa du 1° quater, les
 cotisations versées aux régimes de prévoyance complémentaire et, dans les
 limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées
 aux régimes de retraite complémentaire répondant aux conditions fixées à
@@ -171,14 +170,14 @@ couverts par des allocations spéciales.
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
-; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 12 000 €
-pour l'imposition des rémunérations perçues en 2012 ; chaque année, le plafond
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 12 097 €
+pour l'imposition des rémunérations perçues en 2013 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
 l'impôt sur le revenu.
 
 Le montant de la déduction forfaitaire pour frais professionnels ne peut être
-inférieur à 421 € ou à 924 € pour les personnes inscrites en tant que demandeurs
+inférieur à 424 € ou à 931 € pour les personnes inscrites en tant que demandeurs
 d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des
 traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de

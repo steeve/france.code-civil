@@ -27,19 +27,19 @@ Métro
 
 Motrice et remorque
 
-12 475
+12 637
 
 
 Autre matériel
 
 Automotrice et motrice
 
-23 403
+23 707
 
 
 Remorque
 
-4 884
+4 947
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des
 ministres chargés du transport et du budget en fonction de leur capacité de

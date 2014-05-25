@@ -15,9 +15,9 @@ II.-L'imposition forfaitaire est due chaque année par l'exploitant de la
 centrale de production d'énergie électrique d'origine photovoltaïque ou
 hydraulique au 1er janvier de l'année d'imposition.
 
-Le montant de l'imposition forfaitaire est fixé à 2,964 € par kilowatt de
+Le montant de l'imposition forfaitaire est fixé à 3,003 € par kilowatt de
 puissance électrique installée au 1er janvier de l'année d'imposition pour les
-centrales de production d'énergie électrique d'origine hydraulique et à 7,12 €
+centrales de production d'énergie électrique d'origine hydraulique et à 7,21 €
 par kilowatt de puissance électrique installée au 1er janvier de l'année
 d'imposition pour les centrales de production d'énergie électrique d'origine
 photovoltaïque.

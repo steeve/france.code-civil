@@ -53,9 +53,9 @@ conditions de la concurrence.
 2. (Abrogé).
 
 2 bis. Le taux de la taxe sur les salaires prévue au 1 est porté de 4,25 % à
-8,50 % pour la fraction comprise entre 7 604 € et 15 185 €, à 13,60 % pour la
-fraction comprise entre 15 185 € et 150 000 € et à 20 % pour la fraction
-excédant 150 000 € de rémunérations individuelles annuelles. Ces limites sont
+8,50 % pour la fraction comprise entre 7 666 € et 15 308 €, à 13,60 % pour la
+fraction comprise entre 15 308 € et 151 208 € et à 20 % pour la fraction
+excédant 151 208 € de rémunérations individuelles annuelles. Ces limites sont
 relevées chaque année dans la même proportion que la limite supérieure de la
 première tranche du barème de l'impôt sur le revenu de l'année précédente. Les
 montants obtenus sont arrondis, s'il y a lieu, à l'euro supérieur.

@@ -13,10 +13,9 @@ b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
 c) Le montant de la taxe sur les salaires ;
 
-d) Pour les employeurs assujettis à la taxe d'apprentissage et à la contribution
-au développement de l'apprentissage conformément, respectivement, aux articles
-224 et 1599 quinquies A du code général des impôts, le montant des rémunérations
-défini aux articles 225 et 225 A du code général des impôts ;
+d) Pour les employeurs assujettis à la taxe d'apprentissage conformément à
+l'article 1599 ter A du code général des impôts , le montant des rémunérations
+défini à l'article 1599 ter B du code général des impôts ;
 
 e) Pour les employeurs assujettis à la participation au développement de la
 formation professionnelle continue conformément à l'article L. 6331-2 du code du

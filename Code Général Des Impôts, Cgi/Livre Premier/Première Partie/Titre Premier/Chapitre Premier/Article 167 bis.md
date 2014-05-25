@@ -8,8 +8,8 @@ I de l'article 150-0 A détenus, directement ou indirectement, par les membres d
 leur foyer fiscal à la date de ce transfert lorsque ces mêmes droits sociaux,
 valeurs, titres ou droits représentent au moins 50 % des bénéfices sociaux d'une
 société ou lorsque la valeur globale desdits droits sociaux, valeurs, titres ou
-droits, déterminée dans les conditions prévues au premier alinéa du 2 du présent
-I, excède 800 000 € à cette même date.
+droits, déterminée dans les conditions prévues au premier alinéa du 2, excède
+800 000 € à cette même date.
 
 Les contribuables fiscalement domiciliés en France pendant au moins six années
 au cours des dix dernières années sont imposables lors du transfert de leur
@@ -35,18 +35,17 @@ leur valeur réelle au moment du transfert du domicile fiscal hors de France de
 leur titulaire.
 
 2 bis. La plus-value calculée dans les conditions prévues au premier alinéa du 2
-du présent I est réduite, le cas échéant, de l'abattement mentionné au 1 de
-l'article 150-0 D, dans les conditions prévues aux 1 à 1 quinquies de ce même
-article.
+est réduite, le cas échéant, de l'abattement mentionné au 1 de l'article 150-0
+D, dans les conditions prévues aux 1 à 1 quinquies de ce même article.
 
 Pour l'application du premier alinéa du présent 2 bis à l'abattement prévu au 1
 de l'article 150-0 D, le transfert du domicile fiscal est assimilé à une cession
 à titre onéreux.
 
-3. La plus-value calculée dans les conditions prévues au premier alinéa du 2 du
-présent I est réduite, le cas échéant, des abattements mentionnés au 1 du I de
-l'article 150-0 D ter, dans les conditions et suivant les modalités prévues à ce
-même article et aux 1,1 quater et 1 quinquies de l'article 150-0 D.
+3. La plus-value calculée dans les conditions prévues au premier alinéa du 2 est
+réduite, le cas échéant, des abattements mentionnés au 1 du I de l'article 150-0
+D ter, dans les conditions et suivant les modalités prévues à ce même article et
+aux 1,1 quater et 1 quinquies de l'article 150-0 D.
 
 Pour l'application du premier alinéa du présent 3 aux abattements mentionnés à
 l'article 150-0 D ter, le transfert du domicile fiscal est assimilé à une
@@ -227,8 +226,8 @@ conformément à l'article 150-0 B ter, pour l'impôt afférent aux plus-values 
 cession reportées en application du même article.
 
 1 bis. Pour l'impôt afférent aux plus-values constatées dans les conditions du
-I, les droits sociaux, valeurs, titres ou droits mentionnés aux a et b du 1 du
-présent VII s'entendent :
+I, les droits sociaux, valeurs, titres ou droits mentionnés aux a et b du 1
+s'entendent :
 
 1° De ceux mentionnés au premier alinéa du 1 du I ;
 
@@ -356,9 +355,9 @@ réduite, le cas échéant, des abattements mentionnés au 1 de l'article 150-0 
 l'article 150-0 D :
 
 a) Sur les plus-values réalisées par ce même contribuable lors de la survenance
-de l'un des événements mentionnés au a du 1 du VII du présent article et
-relatives à des titres pour lesquels une plus-value avait été constatée
-conformément au I lors du transfert de son domicile fiscal hors de France ;
+de l'un des événements mentionnés au a du 1 du VII et relatives à des titres
+pour lesquels une plus-value avait été constatée conformément au I lors du
+transfert de son domicile fiscal hors de France ;
 
 b) Sur les plus-values imposables en application de l'article 244 bis B ;
 
@@ -376,14 +375,14 @@ résidence dans les cas prévus au a du 1 du VII est imputable, dans la limite d
 l'impôt définitif dû en France :
 
 a) Sur les prélèvements sociaux afférents à la plus-value calculée en
-application du premier alinéa du 2 du I et des 1 et 4 bis du présent VIII, à
-proportion du rapport entre, d'une part, cette même plus-value et, d'autre part,
-l'assiette de l'impôt acquitté hors de France ;
+application du premier alinéa du 2 du I et des 1 et 4 bis, à proportion du
+rapport entre, d'une part, cette même plus-value et, d'autre part, l'assiette de
+l'impôt acquitté hors de France ;
 
 b) Puis, pour le reliquat, sur l'impôt sur le revenu afférent à la plus-value
-calculée en application des 2 à 3 du I et des 1,3 et 4 bis du présent VIII, à
-proportion du rapport entre, d'une part, cette même plus-value et, d'autre part,
-l'assiette de l'impôt acquitté hors de France.
+calculée en application des 2 à 3 du I et des 1,3 et 4 bis, à proportion du
+rapport entre, d'une part, cette même plus-value et, d'autre part, l'assiette de
+l'impôt acquitté hors de France.
 
 VIII bis.-1. (abrogé)
 
@@ -441,11 +440,11 @@ application du II bis et acquitté l'année suivant son transfert de domicile
 fiscal hors de France afférent à la plus-value latente constatée sur les titres
 et créances concernés par l'un des événements précités.
 
-L'année suivant la survenance de l'un des événements prévus aux 2 à 4 du VII du
-présent article et dans le délai prévu à l'article 175, le contribuable déclare
-la nature ainsi que la date de ces événements et demande le dégrèvement ou la
-restitution de l'impôt calculé en application du II bis afférent aux plus-values
-constatées sur les titres et créances concernés par l'un de ces événements.
+L'année suivant la survenance de l'un des événements prévus aux 2 à 4 du VII et
+dans le délai prévu à l'article 175, le contribuable déclare la nature ainsi que
+la date de ces événements et demande le dégrèvement ou la restitution de l'impôt
+calculé en application du II bis afférent aux plus-values constatées sur les
+titres et créances concernés par l'un de ces événements.
 
 4. Le défaut de production de la déclaration et du formulaire mentionnés au 2 ou
 l'omission de tout ou partie des renseignements qui doivent y figurer entraîne

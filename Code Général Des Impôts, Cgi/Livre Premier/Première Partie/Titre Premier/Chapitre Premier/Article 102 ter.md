@@ -2,7 +2,7 @@ Article 102 ter
 ----
 1. Le bénéfice imposable des contribuables qui perçoivent des revenus non
 commerciaux d'un montant annuel, ajusté s'il y a lieu au prorata du temps
-d'activité au cours de l'année civile, n'excédant pas 32 600 € hors taxes est
+d'activité au cours de l'année civile, n'excédant pas 32 900 € hors taxes est
 égal au montant brut des recettes annuelles diminué d'une réfaction forfaitaire
 de 34 % avec un minimum de 305 €.
 

@@ -29,11 +29,9 @@ code de la sécurité sociale, ainsi que le montant de l'aide personnalisée au
 logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction
 et de l'habitation ;
 
-2° ter Les majorations de retraite ou de pension pour charges de famille ;
+2° ter (Abrogé) ;
 
-3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du
-contrat de travail à salaire différé prévu par l'article L321-13 du code rural
-et de la pêche maritime ;
+3° (Abrogé) ;
 
 4° a. Les pensions servies en vertu des dispositions du code des pensions
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
@@ -72,9 +70,7 @@ travail ;
 
 9° quinquies (Abrogé) ;
 
-9° septies L'aide à la réinsertion familiale et sociale des anciens migrants
-dans leur pays d'origine instituée par l'article L. 117-3 du code de l'action
-sociale et des familles ;
+9° septies (Abrogé) ;
 
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30
 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er
@@ -169,7 +165,7 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5,29 € par titre, le complément de rémunération résultant
+19° Dans la limite de 5,33 € par titre, le complément de rémunération résultant
 de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du chapitre II du titre VI
 du livre II de la troisième partie du code du travail, lorsque cette

@@ -1,109 +1,91 @@
 Article 1609 quinvicies
 ----
-I. - Il est institué, à compter du 1er janvier 2004, au profit du comité central
-de coordination de l'apprentissage du bâtiment et des travaux publics, une taxe
-due par les entreprises appartenant aux professions du bâtiment et des travaux
-publics entrant dans le champ d'application des articles L. 223-16 et L. 223-17
-du code du travail ainsi que du titre III du livre VII dudit code.
+I.-Il est institué une contribution supplémentaire à l'apprentissage.
 
-Les entreprises qui bénéficient de la franchise prévue à l'article 293 B sont
-exonérées de la taxe.
+Cette contribution est due par les entreprises de deux cent cinquante salariés
+et plus qui sont redevables de la taxe d'apprentissage en application de
+l'article 1599 ter A et dont l'effectif annuel moyen, pour l'ensemble des
+catégories suivantes, est inférieur à un seuil :
 
-Cette taxe est destinée à concourir au développement de la formation
-professionnelle initiale, notamment de l'apprentissage, et de la formation
-professionnelle continue dans les métiers des professions mentionnées au premier
-alinéa.
+1° Les salariés sous contrat de professionnalisation ou d'apprentissage ;
 
-La taxe contribue :
+2° Les jeunes accomplissant un volontariat international en entreprise régi par
+la section 1 du chapitre II du titre II du livre Ier du code du service national
+ou bénéficiant d'une convention industrielle de formation par la recherche.
 
-1. A l'information des jeunes, de leurs familles et des entreprises, sur la
-formation professionnelle initiale ou sur les métiers du bâtiment et des travaux
-publics ;
+Ce seuil est égal à 4 % de l'effectif annuel moyen de l'entreprise, calculé dans
+les conditions définies à l'article L. 1111-2 du code du travail, au cours de
+l'année de référence. Le respect du seuil est apprécié en calculant un
+pourcentage exprimant le rapport entre les effectifs des 1° et 2° du présent I
+et l'effectif annuel moyen de l'entreprise. Ce seuil est porté à 5 % à compter
+des rémunérations versées en 2015.
 
-2. Au développement de la formation professionnelle dans les métiers du bâtiment
-et des travaux publics, particulièrement par le financement des investissements
-et du fonctionnement des établissements d'enseignement professionnel, des
-centres de formation d'apprentis et des sections d'apprentissage visés à
-l'article L. 115-1 du code du travail, par la formation des personnels
-enseignants et des maîtres d'apprentissage ainsi que par l'acquisition de
-matériel technique et pédagogique.
+Les entreprises dont l'effectif annuel moyen des salariés relevant des
+catégories définies au 1° est supérieur ou égal à 3 % de l'effectif annuel moyen
+de l'entreprise peuvent, à compter de l'année 2012, être exonérées de la
+contribution supplémentaire à l'apprentissage au titre de l'année considérée si
+elles remplissent l'une des conditions suivantes :
 
-II. - La taxe est assise sur les salaires évalués selon les règles prévues aux
-chapitres Ier et II du titre IV du livre II du code de la sécurité sociale.
+a) L'entreprise justifie d'une progression de l'effectif annuel moyen des
+salariés relevant des catégories définies au 1° d'au moins 10 % par rapport à
+l'année précédente ;
 
-III. - Le taux de cette taxe est fixé comme suit :
+b) L'entreprise a connu une progression de l'effectif annuel moyen des salariés
+relevant des catégories définies au même 1° et relève d'une branche couverte par
+un accord prévoyant au titre de l'année une progression d'au moins 10 % du
+nombre de salariés relevant des catégories définies audit 1° dans les
+entreprises de deux cent cinquante salariés et plus et justifiant, par rapport à
+l'année précédente, que la progression est atteinte dans les proportions prévues
+par l'accord au titre de l'année considérée.
 
-1. Pour les entreprises dont l'effectif moyen de l'année au titre de laquelle la
-taxe est due est de dix salariés ou plus :
+II.-Cette contribution est assise sur les rémunérations retenues pour l'assiette
+de la taxe d'apprentissage en application des articles 1599 ter B et 1599 ter C.
 
-a. 0,16 % pour les entreprises relevant du secteur des métiers du bâtiment ;
+Elle est calculée aux taux suivants :
 
-b. 0,08 % pour les entreprises relevant du secteur des métiers des travaux
-publics ;
+1° 0,25 % lorsque le pourcentage mentionné à la seconde phrase du cinquième
+alinéa du I est inférieur à 1 % ; ce taux est porté à 0,3 % à compter de la
+contribution due au titre des rémunérations versées en 2013 et à 0,4 % à compter
+de celle due au titre des rémunérations versées en 2014. Lorsque l'effectif
+annuel moyen de l'entreprise excède deux mille salariés, le taux de la
+contribution est égal à 0,4 % ; ce taux est porté à 0,5 % à compter de la
+contribution due au titre des rémunérations versées en 2013 et à 0,6 % à compter
+de celle due au titre des rémunérations versées en 2014 ;
 
-2. Pour les entreprises dont l'effectif moyen de l'année au titre de laquelle la
-taxe est due est inférieur à dix salariés, 0,30 % pour les entreprises relevant
-des secteurs des métiers du bâtiment et des travaux publics, à l'exception des
-entreprises relevant du sous-groupe 34-8 de la nomenclature de 1947 des
-entreprises, établissements et toutes activités collectives, codifiée par le
-décret du 30 avril 1949, pour lesquelles le taux est fixé à 0,10 %.
+2° 0,1 % lorsque ce pourcentage est au moins égal à 1 % et inférieur à 3 %. A
+compter de la contribution due au titre des rémunérations versées en 2015, ce
+taux est porté à 0,2 % lorsque le pourcentage est au moins égal à 1 % et
+inférieur à 2 % ;
 
-3. Pour les redevables mentionnés au premier alinéa du IV, le nombre de salariés
-pris en compte pour la détermination du taux applicable est celui de l'année
-précédant celle au titre de laquelle la taxe est due.
+3° 0,05 % lorsque ce pourcentage est au moins égal à 3 % et inférieur à 4 % et,
+à compter de la contribution due au titre des rémunérations versées en 2015, au
+moins égal à 3 % et inférieur à 5 %.
 
-Pour les redevables mentionnés au deuxième alinéa du IV, le nombre de salariés
-pris en compte pour la détermination du taux applicable est celui de l'année au
-titre de laquelle la taxe est due.
+III. ― Pour les entreprises visées à l'article L. 1251-2 du code du travail, les
+seuils définis au I s'apprécient sans prendre en compte les salariés titulaires
+d'un contrat de travail mentionné au 2° de l'article L. 1251-1 du même code et
+la contribution n'est pas due sur les rémunérations versées à ces salariés.
 
-IV. - Pour les redevables qui acquittent la taxe sur la valeur ajoutée selon les
-modalités prévues au premier alinéa du 2 de l'article 287, la taxe est calculée
-sur les salaires tels qu'ils sont définis au II, versés au cours du dernier mois
-échu et acquittée sur l'annexe à chaque déclaration mensuelle de taxe sur la
-valeur ajoutée déposée au cours du mois suivant. Pour ceux des redevables
-mentionnés au troisième alinéa du 2 de l'article 287, la taxe est calculée sur
-les salaires versés au cours du dernier trimestre échu et acquittée sur l'annexe
-à la déclaration de taxe sur la valeur ajoutée déposée au cours du mois suivant
-la fin de chaque trimestre civil.
+IV. ― Les dépenses visées aux articles 1599 ter E, 1599 ter F et 1599 ter G ne
+sont pas admises en exonération de la contribution mentionnée au I.
 
-Pour les redevables qui acquittent la taxe sur la valeur ajoutée selon les
-modalités prévues au 3 de l'article 287, le montant de la taxe due est porté sur
-la déclaration mentionnée au premier alinéa du 3 de ce même article. Le montant
-de la taxe est calculé sur les salaires tels qu'ils sont définis au II, versés
-au titre de l'année civile précédant celle du dépôt de cette déclaration. Des
-acomptes trimestriels sont versés en avril, juillet, octobre et décembre. Ceux
-versés en avril, juillet et octobre sont égaux au quart de la taxe due au titre
-de l'année civile précédente. Celui versé en décembre est égal au cinquième de
-cette taxe. Le complément de taxe éventuellement exigible est versé lors du
-dépôt de la déclaration annuelle mentionnée au premier alinéa du 3 de l'article
-287.
+Les articles 1599 ter K, 1599 ter L, 1599 ter M et les I et III de l'article
+1678 quinquies sont applicables à cette contribution. Pour les établissements
+mentionnés à l'article 1599 ter J, les taux prévus au II sont réduits à 52 % de
+leur montant.
 
-A titre transitoire pour l'année 2004 et pour le premier trimestre 2005, les
-redevables mentionnés à l'alinéa précédent acquittent un acompte calculé sur les
-salaires versés au titre de chaque trimestre échu. Ces acomptes sont versés
-spontanément en avril, juillet et octobre 2004 ainsi qu'en avril 2005. L'acompte
-de décembre 2004, également versé spontanément, est calculé sur les salaires
-versés au titre du bimestre échu. La taxe due au titre de l'année civile 2004
-est liquidée sur la déclaration mentionnée au premier alinéa du 3 de l'article
-287 souscrite en 2005. Le montant des acomptes payés en avril, juillet, octobre
-et décembre 2004 est imputé sur le montant de la taxe due au titre de l'année
-2004. L'acompte versé en avril 2005 sera imputé sur le montant de la taxe due au
-titre de l'année civile 2005.
+V. ― Le montant de la contribution mentionnée au I est versé aux organismes
+collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du
+travail avant le 1er mars de l'année suivant celle du versement des salaires. A
+défaut de versement ou en cas de versement insuffisant à la date précitée, le
+montant de la contribution est versé au comptable public compétent selon les
+modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance
+constatée.
 
-La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes
-sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre
-d'affaires.
+Le produit de la contribution supplémentaire à l'apprentissage est affecté aux
+centres de formation d'apprentis et aux sections d'apprentissage, selon les
+modalités définies en application du II de l'article L. 6241-2 du code du
+travail.
 
-Les réclamations sont présentées, instruites et jugées selon les règles
-applicables à ces mêmes taxes.
-
-V. - Le comité central de coordination de l'apprentissage du bâtiment et des
-travaux publics est soumis au contrôle économique et financier de l'Etat.
-
-Un commissaire du Gouvernement auprès du comité central de coordination de
-l'apprentissage du bâtiment et des travaux publics est désigné par le ministre
-chargé de l'éducation nationale en accord avec les ministres chargés de
-l'équipement, du logement et de la formation professionnelle.
-
-Les modalités d'exercice des attributions du contrôleur d'Etat et du commissaire
-du Gouvernement sont fixées par décret.
+Les organismes mentionnés au premier alinéa reversent les sommes perçues en
+application du même premier alinéa au plus tard le 31 mai de la même année.

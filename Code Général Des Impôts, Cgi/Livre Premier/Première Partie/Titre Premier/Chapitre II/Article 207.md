@@ -59,11 +59,10 @@ aux articles L. 931-5 à L. 931-27 du code rural et de la pêche maritime, sauf
 pour les affaires effectuées avec des non-sociétaires ;
 
 4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2
-du code de la construction et de l'habitation, à l'exception des sociétés
-anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article
-L. 481-1 du même code et les sociétés anonymes de coordination entre les
-organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du
-même code pour :
+du code de la construction et de l'habitation, les sociétés d'économie mixte
+visées à l'article L. 481-1 du même code et les sociétés anonymes de
+coordination entre les organismes d'habitations à loyer modéré mentionnées à
+l'article L. 423-1-1 du même code pour :
 
 a.-les opérations réalisées au titre du service d'intérêt général défini aux
 septième, huitième, neuvième et dixième alinéas de l'article L. 411-2 du même
@@ -94,20 +93,7 @@ compter du 1er janvier 2005. Cette option est irrévocable.
 
 4° bis. (abrogé) ;
 
-4° ter. Les sociétés anonymes de crédit immobilier qui exercent uniquement les
-activités prévues au I et au II de l'article L. 422-4 du code de la construction
-et de l'habitation et qui accordent exclusivement :
-
-a) Des prêts visés aux articles R. 331-32 et R. 313-34 du même code ;
-
-b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de
-rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de
-l'article 39.
-
-c) Des avances remboursables ne portant pas intérêt prévues par l'article R.
-317-1 du code de la construction et de l'habitation. La fraction du bénéfice net
-provenant des avances accordées à compter du 1er janvier 2001 est soumise à
-l'impôt sur les sociétés.
+4° ter. (dispositions devenues sans objet)
 
 4° quater Les unions d'économie sociale dont les dirigeants de droit ou de fait
 ne sont pas rémunérés, pour :

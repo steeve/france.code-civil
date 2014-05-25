@@ -2,7 +2,7 @@ Article 279-0 bis
 ----
 1. La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % sur les
 travaux d'amélioration, de transformation, d'aménagement et d'entretien autres
-que ceux mentionnés à l'article 278-0 ter portant sur des locaux à usage
+que ceux mentionnés à l'article 278-0 bis A portant sur des locaux à usage
 d'habitation, achevés depuis plus de deux ans, à l'exception de la part
 correspondant à la fourniture d'équipements ménagers ou mobiliers ou à
 l'acquisition de gros équipements fournis dans le cadre de travaux

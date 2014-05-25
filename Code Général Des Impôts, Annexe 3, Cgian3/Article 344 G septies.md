@@ -2,11 +2,10 @@ Article 344 G septies
 ----
 L'administrateur d'un trust défini à l'article 792-0 bis du code général des
 impôts dépose au service des impôts des entreprises étrangères, au plus tard le
-15 juin de chaque année, la déclaration mentionnée au deuxième alinéa de
-l'article 1649 AB du même code.
-
-Cette déclaration est souscrite en langue française sur un imprimé conforme à un
-modèle établi par l'administration et comporte les indications suivantes :
+15 juin de chaque année, la déclaration mentionnée au sixième alinéa de
+l'article 1649 AB du même code. Cette déclaration est souscrite en langue
+française sur un imprimé conforme à un modèle établi par l'administration et
+comporte les indications suivantes :
 
 1° L'identification du ou des constituants ou bénéficiaires réputés constituants
 : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de

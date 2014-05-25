@@ -124,20 +124,11 @@ atmosphériques, déterminé en fonction du type de carburant, est le suivant :
 
 (En euros)
 
+ANNÉE DE PREMIÈRE MISE en circulation du véhicule
 
-ANNÉE DE PREMIÈRE MISE
+ESSENCE et assimilé
 
-en circulation du véhicule
-
-
-ESSENCE
-
-et assimilé
-
-
-DIESEL
-
-et assimilé
+DIESEL et assimilé
 
 Jusqu'au 31 décembre 1996
 
@@ -179,7 +170,7 @@ motorisation au gazole émettant plus de 110 grammes de dioxyde de carbone par
 kilomètre parcouru.
 
 Les mots : "Essence et assimilé” désignent des véhicules autres que ceux
-mentionnés au troisième alinéa du présent c.
+mentionnés au deuxième alinéa.
 
 Ce tarif ne s'applique pas aux véhicules fonctionnant exclusivement au moyen de
 l'énergie électrique.

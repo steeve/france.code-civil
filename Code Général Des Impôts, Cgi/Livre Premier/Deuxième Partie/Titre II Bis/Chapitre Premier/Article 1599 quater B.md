@@ -24,17 +24,29 @@ l'imposition par ligne en service est établi selon le barème suivant :
 
 NATURE DE L'ÉQUIPEMENT
 
-TARIF 2014
 
-TARIF 2015
+TARIF
 
-TARIF 2016
+2014
 
-TARIF à compter de 2017
+
+TARIF
+
+2015
+
+
+TARIF
+
+2016
+
+
+TARIF
+
+à compter de 2017
 
 Ligne en service d'un répartiteur principal
 
-5,06
+5,07
 
 7,59
 
@@ -60,7 +72,7 @@ TARIF 2016
 
 Unité de raccordement d'abonnés
 
-5 019
+5 026
 
 3 346
 
@@ -68,7 +80,7 @@ Unité de raccordement d'abonnés
 
 Carte d'abonné
 
-54,75
+54,83
 
 36,5
 

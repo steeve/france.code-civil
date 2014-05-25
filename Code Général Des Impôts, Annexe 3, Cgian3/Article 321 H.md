@@ -1,8 +1,8 @@
 Article 321 H
 ----
 I. ― Pour l'application de la majoration prévue par l'article 1396 du code
-général des impôts, la valeur forfaitaire moyenne au mètre carré est fixée à 198
-€ en zone A, 103 € en zone B1, 73 € en zone B2 et 38 € en zone C.
+général des impôts, la valeur forfaitaire moyenne au mètre carré est fixée à 201
+€ en zone A, 104 € en zone B1, 74 € en zone B2 et 38 € en zone C.
 
 Pour l'application du présent article, les zones A, B1, B2 et C sont celles
 prévues pour l'application des articles 2 terdecies B et 2 terdecies C et

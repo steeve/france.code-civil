@@ -7,11 +7,11 @@ sont réduits d'un abattement fixe de 500 000 € et, pour le surplus éventuel,
 l'abattement prévu au 1 quater dudit article 150-0 D lorsque les conditions
 prévues au 3 du présent I sont remplies.
 
-L'abattement fixe prévu au premier alinéa du présent 1 s'applique à l'ensemble
-des gains afférents à des actions, parts ou droits portant sur ces actions ou
-parts émis par une même société et, si cette société est issue d'une scission
-intervenue au cours des deux années précédant la cession à titre onéreux, par
-les autres sociétés issues de cette même scission.
+L'abattement fixe prévu au premier alinéa s'applique à l'ensemble des gains
+afférents à des actions, parts ou droits portant sur ces actions ou parts émis
+par une même société et, si cette société est issue d'une scission intervenue au
+cours des deux années précédant la cession à titre onéreux, par les autres
+sociétés issues de cette même scission.
 
 2. Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la
 cession de titres ou de droits mentionnés au 1 du présent I, est réduit de
@@ -19,8 +19,8 @@ l'abattement fixe prévu au même 1, à hauteur de la fraction non utilisée lor
 cette cession, et, pour le surplus éventuel, de l'abattement prévu au 1 quater
 de l'article 150-0 D appliqué lors de cette même cession.
 
-3. Le bénéfice des abattements mentionnés au 1 du présent I est subordonné au
-respect des conditions suivantes :
+3. Le bénéfice des abattements mentionnés au 1 est subordonné au respect des
+conditions suivantes :
 
 1° La cession porte sur l'intégralité des actions, parts ou droits détenus par
 le cédant dans la société dont les titres ou droits sont cédés ou sur plus de 50
@@ -100,7 +100,7 @@ pertes constatées dans les conditions prévues aux 12 et 13 de l'article 150-0 
 ;
 
 2° Aux gains nets de cession d'actions de sociétés d'investissement mentionnées
-aux 1° bis, 1° ter et 3° septies de l'article 208 et de sociétés unipersonnelles
+aux 1° bis et 3° septies de l'article 208 et de sociétés unipersonnelles
 d'investissement à risque pendant la période au cours de laquelle elles
 bénéficient de l'exonération d'impôt sur les sociétés prévue à l'article 208 D,
 ainsi que des sociétés de même nature établies hors de France et soumises à un

@@ -109,10 +109,10 @@ cotisation sur la valeur ajoutée des entreprises mentionné au même B.
 Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises affecté, au titre d'une année, au fonds de financement des chambres
 de commerce et d'industrie de région est supérieur ou égal à la somme des
-différences calculées en application des deuxième à quatrième alinéas du présent
-1 et du montant mentionné au cinquième alinéa, le fonds de financement des
-chambres de commerce et d'industrie de région verse à chaque chambre de commerce
-et d'industrie de région un montant égal à sa différence et à la chambre de
+différences calculées en application des deuxième à quatrième alinéas et du
+montant mentionné au cinquième alinéa, le fonds de financement des chambres de
+commerce et d'industrie de région verse à chaque chambre de commerce et
+d'industrie de région un montant égal à sa différence et à la chambre de
 commerce et d'industrie de Mayotte le montant mentionné au cinquième alinéa,
 puis verse aux chambres de commerce et d'industrie de région et à la chambre de
 commerce et d'industrie de Mayotte le solde du produit qui lui est affecté
@@ -123,16 +123,16 @@ ajoutée des entreprises en application du 1 du II de l'article 1586 ter.
 Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises affecté, au titre d'une année, au fonds de financement des chambres
 de commerce et d'industrie de région est inférieur à la somme des différences
-calculées en application des deuxième à quatrième alinéas du présent 1 et du
-montant mentionné au cinquième alinéa, le fonds de financement des chambres de
-commerce et d'industrie de région verse à chaque chambre de commerce et
-d'industrie de région un montant égal au produit de sa différence par un
-coefficient unique d'équilibrage et à la chambre de commerce et d'industrie de
-Mayotte le montant mentionné au cinquième alinéa, corrigé par le même
-coefficient unique d'équilibrage. Ce coefficient unique d'équilibrage est
-calculé de sorte que la somme des versements soit égale au produit de la taxe
-additionnelle à la cotisation sur la valeur ajoutée des entreprises affecté, au
-titre de l'année, au fonds.
+calculées en application des deuxième à quatrième alinéas et du montant
+mentionné au cinquième alinéa, le fonds de financement des chambres de commerce
+et d'industrie de région verse à chaque chambre de commerce et d'industrie de
+région un montant égal au produit de sa différence par un coefficient unique
+d'équilibrage et à la chambre de commerce et d'industrie de Mayotte le montant
+mentionné au cinquième alinéa, corrigé par le même coefficient unique
+d'équilibrage. Ce coefficient unique d'équilibrage est calculé de sorte que la
+somme des versements soit égale au produit de la taxe additionnelle à la
+cotisation sur la valeur ajoutée des entreprises affecté, au titre de l'année,
+au fonds.
 
 1 bis.-La taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les

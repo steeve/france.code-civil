@@ -11,10 +11,10 @@ qui, exerçant leur activité à titre libéral, s'établissent ou se regroupent
 une commune de moins de 2 000 habitants ou située dans l'une des zones de
 revitalisation rurale définies à l'article 1465 A. Ils peuvent, dans les mêmes
 conditions de délibération, exonérer de la cotisation foncière des entreprises
-les vétérinaires investis du mandat sanitaire prévu à l'article L. 221-11 du
-code rural et de la pêche maritime dès lors que ce mandat sanitaire concerne au
-moins 500 bovins de plus de deux ans en prophylaxie obligatoire ou équivalents
-ovins/caprins.
+les vétérinaires habilités par l'autorité administrative comme vétérinaire
+sanitaire au sens de l'article L. 203-1 du code rural et de la pêche maritimedès
+lors que cette habilitation concerne au moins 500 bovins de plus de deux ans en
+prophylaxie obligatoire ou équivalents ovins/ caprins.
 
 La délibération porte sur la totalité de la part revenant à chaque commune ou
 établissement public de coopération intercommunale doté d'une fiscalité propre

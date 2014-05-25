@@ -29,8 +29,7 @@ l'article D. 5131-13 en application du 1° de l'article L. 5131-7 du même code 
 patrimoine vivant " au sens de l'article 23 de la loi n° 2005-882 du 2 août 2005
 en faveur des petites et moyennes entreprises ;
 
-4° Des apprentis dont le contrat d'apprentissage est signé dans les conditions
-prévues à l'article L. 337-3 du code de l'éducation ;
+4° Dispositions devenues sans objet ;
 
 5° Des apprentis dont le contrat d'apprentissage est signé à l'issue d'un
 contrat de volontariat pour l'insertion mentionné à l'article L. 130-1 du code

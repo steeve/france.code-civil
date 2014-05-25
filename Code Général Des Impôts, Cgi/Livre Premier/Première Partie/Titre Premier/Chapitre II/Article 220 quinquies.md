@@ -6,11 +6,11 @@ une entreprise soumise à l'impôt sur les sociétés peut, sur option, être
 considéré comme une charge déductible du bénéfice de l'exercice précédent, dans
 la limite de la fraction non distribuée de ce bénéfice et à l'exclusion du
 bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 septies,
-44 octies, 44 octies A, 44 undecies, 44 terdecies, 44 quaterdecies, 44
-quindecies et 207 à 208 sexies ou qui a bénéficié des dispositions du premier
-alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu
-aux articles 220 quater et 220 quater A ou qui a donné lieu à un impôt payé au
-moyen de crédits d'impôts.
+44 octies, 44 octies A, 44 terdecies, 44 quaterdecies, 44 quindecies et 207 à
+208 sexies ou qui a bénéficié des dispositions du premier alinéa du f du I de
+l'article 219 ou qui a ouvert droit au crédit d'impôt prévu aux articles 220
+quater et 220 quater A ou qui a donné lieu à un impôt payé au moyen de crédits
+d'impôts.
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être
 reportable sur les résultats des exercices suivant celui au titre duquel il a

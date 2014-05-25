@@ -25,51 +25,51 @@ Engins à moteur thermique
 
 Automoteur
 
-30 525
+30 922
 
 
 Locomotive diesel
 
-30 525
+30 922
 
 
 Engins à moteur électrique
 
 Automotrice
 
-23 403
+23 707
 
 
 Locomotive électrique
 
-20 350
+20 615
 
 
 Motrice de matériel à grande vitesse
 
-35 613
+36 076
 
 
 Automotrice tram-train
 
-11 701
+11 853
 
 
 Engins remorqués
 
 Remorque pour le transport de passagers
 
-4 884
+4 947
 
 
 Remorque pour le transport de passagers à grande vitesse
 
-10 175
+10 307
 
 
 Remorque tram-train
 
-2 442
+2 474
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des
 ministres chargés du transport et du budget en fonction de leur capacité de

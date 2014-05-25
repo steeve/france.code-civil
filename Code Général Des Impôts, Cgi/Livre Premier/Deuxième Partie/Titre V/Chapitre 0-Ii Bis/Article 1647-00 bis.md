@@ -37,23 +37,16 @@ dotés d'une fiscalité propre pour l'application des dispositions ci-dessus
 s'appliquent également, à compter de 1995, et dans les mêmes conditions, aux
 jeunes agriculteurs qui s'installent à compter du 1er janvier 1994 et qui
 bénéficient des prêts à moyen terme spéciaux prévus par les articles D. 343-13 à
-D. 343-16 du code rural et de la pêche maritime et, à compter de 2002, aux
-jeunes agriculteurs installés à compter du 1er janvier 2001 et qui ont souscrit
-un contrat territorial d'exploitation dans les conditions définies aux articles
-L. 311-3, L. 341-1, R. 311-2, R. 341-7 à R. 341-13 et R. 341-14 à R. 341-15 du
-même code.
+D. 343-16 du code rural et de la pêche maritime.
 
 II. Pour les jeunes agriculteurs installés à compter du 1er janvier 1995 et
 bénéficiaires de la dotation d'installation aux jeunes agriculteurs ou des prêts
 à moyen terme spéciaux prévus par les articles D. 343-9 à D. 343-16 du code
-rural et de la pêche maritime, et pour les jeunes agriculteurs installés à
-compter du 1er janvier 2001 et qui ont souscrit un contrat territorial
-d'exploitation dans les conditions définies aux articles L. 311-3, L. 341-1, R.
-311-2, R. 341-7 à R. 341-13 et R. 341-14 à R. 341-15 du même code, il est
-accordé un dégrèvement égal à 50 p. 100 de la taxe foncière sur les propriétés
-non bâties afférente aux parcelles qu'ils exploitent pendant les cinq années
-suivant celle de leur installation. Les obligations déclaratives et le
-bénéficiaire de ce dégrèvement sont ceux mentionnés au I.
+rural et de la pêche maritime, il est accordé un dégrèvement égal à 50 p. 100 de
+la taxe foncière sur les propriétés non bâties afférente aux parcelles qu'ils
+exploitent pendant les cinq années suivant celle de leur installation. Les
+obligations déclaratives et le bénéficiaire de ce dégrèvement sont ceux
+mentionnés au I.
 
 Le dégrèvement accordé en application du I pour les parcelles exploitées par ces
 jeunes agriculteurs est fixé à 50 %.

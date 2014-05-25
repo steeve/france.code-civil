@@ -12,7 +12,7 @@ de la loi n° 2010-476 du 12 mai 2010 précitée.
 
 Le produit de ce prélèvement est affecté à concurrence de 15 % et dans la limite
 indexée, chaque année, sur la prévision de l'indice des prix à la consommation
-hors tabac retenue dans le projet de loi de finances de l'année, de 10 503 195 €
+hors tabac retenue dans le projet de loi de finances de l'année, de 10 639 737 €
 aux communes dans le ressort territorial desquelles sont ouverts au public un ou
 plusieurs établissements visés au premier alinéa de l'article L. 321-1 du code
 de la sécurité intérieure, au prorata du produit brut des jeux de ces

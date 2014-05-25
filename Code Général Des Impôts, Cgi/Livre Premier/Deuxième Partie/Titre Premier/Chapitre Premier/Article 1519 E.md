@@ -15,7 +15,7 @@ l'installation de production d'électricité au 1er janvier de l'année
 d'imposition.
 
 III.-Le montant de l'imposition forfaitaire est établi en fonction de la
-puissance installée dans chaque installation. Il est égal à 2 964 € par mégawatt
+puissance installée dans chaque installation. Il est égal à 3 003 € par mégawatt
 de puissance installée au 1er janvier de l'année d'imposition.
 
 IV.-Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant

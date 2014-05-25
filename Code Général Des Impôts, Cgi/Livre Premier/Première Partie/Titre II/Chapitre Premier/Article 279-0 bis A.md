@@ -11,8 +11,7 @@ totalité par des personnes passibles de l'impôt sur les sociétés ou des
 de résidence principale dans le cadre d'une opération de construction ayant fait
 l'objet d'un agrément préalable entre le propriétaire ou le gestionnaire des
 logements et le représentant de l'Etat dans le département, qui précise le cadre
-de chaque opération et porte sur le respect des conditions prévues aux a à c du
-présent article.
+de chaque opération et porte sur le respect des conditions prévues aux a à c.
 
 Pour l'application du premier alinéa, les logements doivent :
 

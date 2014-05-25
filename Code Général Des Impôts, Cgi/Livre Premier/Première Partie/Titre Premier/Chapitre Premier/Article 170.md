@@ -13,28 +13,27 @@ revenus ou bénéfices qui sont soumis à l'impôt sur le revenu.
 
 Dans tous les cas, la déclaration prévue au premier alinéa doit mentionner
 également le montant des bénéfices exonérés en application des articles 44
-sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44
-terdecies à 44 quindecies, le montant des bénéfices exonérés en application de
-l'article 93-0 A et du 9 de l'article 93, le montant des revenus exonérés en
-application des articles 81 A, 81 B, 81 D et 155 B, le montant des indemnités de
-fonction des élus locaux, après déduction de la fraction représentative des
-frais d'emploi, soumises à la retenue à la source en application du I de
-l'article 204-0 bis pour lesquelles l'option prévue au III du même article n'a
-pas été exercée, les revenus de la nature et de l'origine de ceux mentionnés au
-2°, sous réserve du 3°, et au 4° du 3 de l'article 158 perçus dans un plan
-d'épargne en actions ainsi que le montant des produits de placement soumis aux
-prélèvements libératoires prévus au II de l'article 125-0 A et aux I bis, II,
-III, second alinéa du 4° et deuxième alinéa du 9° du III bis de l'article 125 A
-(2), le montant des prestations de retraite soumis au prélèvement libératoire
-prévu au II de l'article 163 bis, le montant des plus-values en report
-d'imposition en application de l'article 150-0 B ter, le montant des abattements
-mentionnés au 1 de l'article 150-0 D et à l'article 150-0 D ter, le montant des
-plus-values soumises au prélèvement prévu à l'article 244 bis B (1), les revenus
-exonérés en application des articles 163 quinquies B à 163 quinquies C bis , le
-montant des plus-values exonérées en application du 1° bis du II de l'article
-150 U, les plus-values exonérées en application des 1 et 1 bis (1) du III de
-l'article 150-0 A et le montant net imposable des plus-values mentionnées aux
-articles 150 U à 150 UD.
+sexies, 44 sexies A, 44 octies, 44 octies A, 44 terdecies à 44 quindecies, le
+montant des bénéfices exonérés en application de l'article 93-0 A et du 9 de
+l'article 93, le montant des revenus exonérés en application des articles 81 A,
+81 B, 81 D et 155 B, le montant des indemnités de fonction des élus locaux,
+après déduction de la fraction représentative des frais d'emploi, soumises à la
+retenue à la source en application du I de l'article 204-0 bis pour lesquelles
+l'option prévue au III du même article n'a pas été exercée, les revenus de la
+nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, et au 4° du
+3 de l'article 158 perçus dans un plan d'épargne en actions ainsi que le montant
+des produits de placement soumis aux prélèvements libératoires prévus au II de
+l'article 125-0 A et aux I bis, II, III, second alinéa du 4° et deuxième alinéa
+du 9° du III bis de l'article 125 A (2), le montant des prestations de retraite
+soumis au prélèvement libératoire prévu au II de l'article 163 bis, le montant
+des plus-values en report d'imposition en application de l'article 150-0 B ter,
+le montant des abattements mentionnés au 1 de l'article 150-0 D et à l'article
+150-0 D ter, le montant des plus-values soumises au prélèvement prévu à
+l'article 244 bis B (1), les revenus exonérés en application des articles 163
+quinquies B à 163 quinquies C bis, le montant des plus-values exonérées en
+application du 1° bis du II de l'article 150 U, les plus-values exonérées en
+application des 1 et 1 bis (1) du III de l'article 150-0 A et le montant net
+imposable des plus-values mentionnées aux articles 150 U à 150 UD.
 
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.

@@ -11,7 +11,7 @@ prévues au 2 de l'article 200 A lorsque l'actionnaire est une personne physique
 fiscalement domiciliée en France au sens de l'article 4 B, ou soumises à la
 retenue à la source prévue au 2 de l'article 119 bis lorsqu'elles sont payées
 dans un Etat ou territoire non coopératif au sens de l'article 238-0 A, ou
-soumises à cette même retenue à la source aux taux de 30 % (1) lorsque
+soumises à cette même retenue à la source au taux de 30 % (1) lorsque
 l'actionnaire est une personne physique fiscalement domiciliée hors de France.
 Toutefois, les personnes physiques qui ne sont pas fiscalement domiciliées en
 France au sens de l'article 4 B peuvent demander le remboursement de l'excédent
