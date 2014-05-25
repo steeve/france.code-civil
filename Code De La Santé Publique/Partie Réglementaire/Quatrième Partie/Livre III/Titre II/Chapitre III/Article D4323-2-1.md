@@ -1,43 +1,41 @@
 Article D4323-2-1
 ----
-Les articles D. 4311-95 à D. 4311-104 sont applicables aux
-masseurs-kinésithérapeutes et aux pédicures-podologues, sous réserve des
-adaptations suivantes :
+Les articles R. 4113-4 à R. 4113-10, R. 4113-28 à R. 4113-33, R. 4113-104 à R.
+4113-107, R. 4113-109 à R. 4113-114, R. 4123-18 à R. 4123-21 et R. 4124-3 à R.
+4124-3-9 sont applicables aux pédicures-podologues sous réserve des adaptations
+suivantes :
 
-1° Au premier alinéa de l'article D. 4311-95, les mots : " à l'article L.
-4311-15 ” sont remplacés par les mots : " aux articles L. 4321-10 et L. 4322-2 ”
+a) Au deuxième alinéa de l'article R. 4124-3 et au deuxième alinéa du I de
+l'article R. 4124-3-5, les mots : " du conseil départemental ou " sont supprimés
 ;
 
-2° Au premier et au deuxième alinéa du même article ainsi qu'à l'article D.
-4311-97, les mots : " conseil départemental ” sont remplacés par les mots :
+b) Au deuxième alinéa de l'article R. 4124-3-1, les mots : ", le conseil
+départemental " sont supprimés ;
 
-― " conseil départemental ou interdépartemental ” pour les
-masseurs-kinésithérapeutes ;
+c) Au troisième alinéa de l'article R. 4124-3-1, les mots : " le conseil
+départemental ou " sont supprimés ;
 
-― " conseil régional ou interrégional ” pour les pédicures-podologues ;
+d) Au premier alinéa de l'article R. 4124-3-2, les mots : " au conseil
+départemental, " sont supprimés ;
 
-3° Au troisième alinéa de l'article D. 4311-96, les mots : " des articles L.
-4112-6 et L. 4311-28 ” sont remplacés par les mots :
+e) Au deuxième alinéa de l'article R. 4124-3-2, les mots : ", du conseil
+départemental " sont supprimés ;
 
-― " des articles L. 4112-6 et L. 4321-19 ” pour les masseurs-kinésithérapeutes ;
+f) Au dernier alinéa de l'article R. 4124-3-2, les mots : " conseils
+départementaux ", sont remplacés par les mots : " conseils régionaux ou
+interrégionaux " ;
 
-― " des articles L. 4112-6 et L. 4322-12 ” pour les pédicures-podologues ;
+g) Les 1°, 2°, 3° du II de l'article R. 4124-3-5 sont remplacés par les
+dispositions suivantes :
 
-4° A l'article D. 4311-97, les mots : " de l'article L. 4311-15-2 ” sont
-remplacés par les mots : " des articles L. 4321-10-1 et L. 4322-2-2 ” ;
+" Pour les pédicures-podologues, le rapport est établi par trois
+pédicures-podologues désignés comme experts, le premier par l'intéressé, le
+deuxième par le conseil régional ou interrégional et le troisième par les deux
+premiers experts. Ce dernier est choisi parmi les professionnels compétents dans
+le domaine de la formation et de l'analyse des pratiques professionnelles en
+pédicurie-podologie. " ;
 
-5° Au premier alinéa de l'article D. 4311-98, les mots : " conseils
-départementaux ” sont remplacés par les mots :
-
-― " conseils départementaux ou interdépartementaux ” pour les
-masseurs-kinésithérapeutes ;
-
-― " conseils régionaux ou interrégionaux ” pour les pédicures-podologues ;
-
-6° Au premier alinéa de l'article D. 4311-101, les mots : " de l'article L.
-4311-15 ” sont remplacés par les mots : " des articles L. 4321-10 et L. 4322-2 ”
-;
-
-7° Au troisième alinéa de l'article D. 4311-102, les mots : " à l'article L.
-4311-15-1 ” sont remplacés par les mots : " aux articles L. 4321-10-1 et L.
-4322-2-2 ”.
+h) Aux articles R. 4113-4 à R. 4113-8, R. 4113-10, R. 4113-28 à R. 4113-30, R.
+4113-32, R. 4113-33, R. 4113-104, R. 4123-18 à R. 4123-21, les mots : " conseil
+départemental " sont remplacés par les mots : " conseil régional ou
+interrégional ".

@@ -7,8 +7,9 @@ réception, sa radiation du tableau de l'ordre du département où il exerçait.
 Lorsqu'il demande son inscription au tableau de l'ordre de sa nouvelle résidence
 professionnelle, le conseil de l'ordre de ce département statue dans les
 conditions prévues à l'article R. 4112-2 et dans un délai de trois mois à
-compter de la réception de la demande qui peut être prorogé lorsqu'une expertise
-a été ordonnée.
+compter de la réception de la demande qui peut être prorogé par le conseil
+départemental d'une durée qui ne peut excéder deux mois lorsqu'une expertise a
+été ordonnée.
 
 Le praticien qui cesse d'exercer sur le territoire national demande sa radiation
 du tableau au conseil départemental. Celle-ci prend effet à la date de cessation

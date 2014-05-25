@@ -14,9 +14,9 @@ ainsi qu'au conseil régional ou interrégional.
 La notification mentionne que la décision est susceptible de recours devant le
 Conseil d'Etat dans le délai de deux mois.
 
-Le conseil national informe les conseils départementaux des refus d'inscription
-prises par les conseils départementaux, les conseils régionaux et le conseil
-national.
+Le conseil national informe les conseils départementaux des décisions de refus
+d'inscription prises par les conseils départementaux, les conseils régionaux ou
+interrégionaux et le conseil national.
 
 Les pouvoirs du président définis au présent article sont exercés par le
 président de la formation restreinte du conseil national lorsqu'elle a été
