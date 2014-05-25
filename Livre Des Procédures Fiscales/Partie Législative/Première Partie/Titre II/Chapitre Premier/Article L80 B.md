@@ -85,13 +85,7 @@ sexies-0 A du code général des impôts. Un décret en Conseil d'Etat précise 
 modalités d'application du présent 4° concernant les documents et informations
 qui doivent être fournis ;
 
-5° Lorsque l'administration n'a pas répondu de manière motivée dans un délai de
-trois mois à un contribuable de bonne foi qui a demandé, à partir d'une
-présentation écrite précise et complète de la situation de fait, si son
-entreprise pouvait bénéficier des dispositions de l'article 44 undecies du code
-général des impôts. Un décret en Conseil d'Etat précise les modalités
-d'application du présent 5° concernant les documents et informations qui doivent
-être fournis ;
+5° (périmé) ;
 
 6° Lorsque l'administration n'a pas répondu dans un délai de trois mois à un
 contribuable de bonne foi qui a demandé, à partir d'une présentation écrite

@@ -15,9 +15,8 @@ délai.
 
 Pour une société membre d'un groupe mentionné à l'article 223 A du code général
 des impôts, l'information prévue au premier alinéa porte, en ce qui concerne
-l'impôt sur les sociétés, l'imposition forfaitaire annuelle et les pénalités
-correspondantes, sur les montants dont elle serait redevable en l'absence
-d'appartenance à un groupe.
+l'impôt sur les sociétés et les pénalités correspondantes, sur les montants dont
+elle serait redevable en l'absence d'appartenance à un groupe.
 
 Pour l'assujetti membre d'un groupe mentionné à l'article 1693 ter du code
 général des impôts, l'information prévue au premier alinéa du présent article

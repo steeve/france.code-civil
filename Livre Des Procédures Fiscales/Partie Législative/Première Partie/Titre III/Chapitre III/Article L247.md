@@ -32,8 +32,8 @@ assimilées à ces droits, taxes et contributions.
 
 L'administration ne peut transiger :
 
-a) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les
+1°) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les
 infractions mentionnées au code général des impôts ;
 
-b) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire
+2°) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire
 au bon déroulement du contrôle.
