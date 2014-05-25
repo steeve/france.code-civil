@@ -22,7 +22,12 @@ prévues aux articles R. 322-10-4 et R. 322-10-5 ;
 e) Transports en série, lorsque le nombre de transports prescrits au titre d'un
 même traitement est au moins égal à quatre au cours d'une période de deux mois
 et que chaque transport est effectué vers un lieu distant de plus de 50
-kilomètres.
+kilomètres ;
+
+f) Transports liés aux soins ou traitements dans les centres mentionnés au 3° du
+I de l'article L. 312-1 du code de l'action sociale et des familles et dans les
+centres médico-psycho-pédagogiques, mentionnés au 19° de l'article L. 322-3 du
+présent code.
 
 2° Pour se soumettre à un contrôle en application de la législation de la
 sécurité sociale dans les cas suivants :

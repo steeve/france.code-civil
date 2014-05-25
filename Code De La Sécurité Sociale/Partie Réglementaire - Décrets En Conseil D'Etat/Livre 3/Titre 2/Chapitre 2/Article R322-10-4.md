@@ -6,7 +6,7 @@ la prise en charge des frais de transport :
 
 a) Exposés sur une distance excédant 150 kilomètres ;
 
-b) Mentionnés au e du 1° de l'article R. 322-10 ;
+b) Mentionnés aux e et f du 1° de l'article R. 322-10 ;
 
 c) Par avion et par bateau de ligne régulière.
 

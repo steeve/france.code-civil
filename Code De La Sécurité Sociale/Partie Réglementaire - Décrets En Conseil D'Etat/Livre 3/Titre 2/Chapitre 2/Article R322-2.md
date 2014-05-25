@@ -25,3 +25,6 @@ d'un traitement mieux adapté à cet état. Toutefois, cette disposition
 dérogatoire n'est pas applicable aux transports vers une maison de repos ou de
 convalescence, présentant les caractéristiques techniques définies à l'article
 premier de l'annexe XIX du décret n° 56-284 du 9 mars 1956.
+
+La participation de l'assuré est supprimée pour les frais de transport
+mentionnés au 19° de l'article L. 322-3.
