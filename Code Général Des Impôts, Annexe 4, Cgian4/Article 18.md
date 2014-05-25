@@ -1,14 +1,14 @@
 Article 18
 ----
-Pour l'année 2013, les limites de chaque tranche du tarif de la retenue à la
+Pour l'année 2014, les limites de chaque tranche du tarif de la retenue à la
 source applicable aux traitements, salaires, pensions et rentes viagères servis
 à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées
 comme suit :
 
 
-LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+TAUX APPLICABLES
 
-Taux applicables
+LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
 
 
 Année
@@ -31,54 +31,56 @@ Semaine
 (en euros)
 
 
-Jour ou fraction de jour
+Jour ou fraction
+
+de jour
 
 (en euros)
 
-0 % - moins de
+0 % en deçà de
 
-14 245
+14 359
 
-3 561
+3 590
 
-1 187
+1 197
 
-274
-
-46
-
-12 % - de
-
-14 245
-
-3 561
-
-1 187
-
-274
+276
 
 46
 
-- à
+12 % de
 
-41 327
+14 359
 
-10 332
+3 590
 
-3 444
+1 197
 
-795
+276
 
-132
+46
 
-20 % - au-delà de
+à
 
-41 327
+41 658
 
-10 332
+10 415
 
-3 444
+3 472
 
-795
+801
 
-132
+134
+
+20 % au-delà de
+
+41 658
+
+10 415
+
+3 472
+
+801
+
+134
