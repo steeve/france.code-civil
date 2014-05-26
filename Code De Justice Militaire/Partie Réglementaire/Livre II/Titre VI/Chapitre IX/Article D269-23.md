@@ -6,8 +6,8 @@ formules dont le modèle est arrêté par le ministre de la défense et par le
 ministre chargé des finances.
 
 Ces extraits sont vérifiés et visés par le ministère public, qui les adresse au
-trésorier-payeur général du département du siège de la juridiction des forces
-armées.
+directeur départemental ou, le cas échéant, régional des finances publiques du
+département du siège de la juridiction des forces armées.
 
 Le délai d'envoi des extraits de jugement est fixé à trente-cinq jours à compter
 de la date à laquelle la sentence est devenue définitive.

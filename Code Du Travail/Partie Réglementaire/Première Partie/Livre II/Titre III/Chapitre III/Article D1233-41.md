@@ -10,4 +10,5 @@ compte du coût de gestion du prêt, du coût du risque et du coût de l'accès 
 financement. Cette valorisation ne peut dépasser 30 % des sommes engagées. Les
 mesures envisagées au même titre sous la forme de la cession d'un bien
 immobilier sont valorisées à hauteur de la différence entre la valeur de marché
-du bien, déterminée après avis des services fiscaux, et sa valeur de cession.
+du bien, déterminée après avis du directeur départemental ou, le cas échéant,
+régional des finances publiques, et sa valeur de cession.

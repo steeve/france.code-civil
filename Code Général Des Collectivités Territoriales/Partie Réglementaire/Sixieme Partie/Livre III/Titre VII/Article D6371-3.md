@@ -11,7 +11,8 @@ représentant ;
 
 2° Le préfet de la Guadeloupe ou son représentant ;
 
-3° Le trésorier-payeur général ou son représentant ;
+3° Le directeur régional des finances publiques de la Guadeloupe ou son
+représentant ;
 
 4° Un représentant de l'Etat désigné par le préfet de la Guadeloupe ou son
 représentant ;

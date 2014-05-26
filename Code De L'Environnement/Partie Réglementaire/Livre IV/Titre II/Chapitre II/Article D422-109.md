@@ -11,8 +11,10 @@ locations prévues à l'alinéa ci-dessus est arrêtée par le préfet.
 
 Les demandes de locations amiables prévues par le présent article sont adressées
 au préfet. Les locations sont conclues par le préfet sur proposition conjointe
-des représentants du gestionnaire du domaine public fluvial et du service des
-domaines.
+des représentants du gestionnaire du domaine public fluvial et de
+l'administration chargée des domaines.
 
-Les conditions financières de ces locations sont fixées par le trésorier-payeur
-général, après avis du gestionnaire du domaine public fluvial.
+Les conditions financières de ces locations sont fixées par le directeur
+départemental ou, le cas échéant, régional des finances publiques ou, à
+Saint-Pierre-et-Miquelon, le directeur des finances publiques, après avis du
+gestionnaire du domaine public fluvial.

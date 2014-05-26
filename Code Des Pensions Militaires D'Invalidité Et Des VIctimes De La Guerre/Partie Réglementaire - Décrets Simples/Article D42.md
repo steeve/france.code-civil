@@ -12,5 +12,6 @@ fixées par l'instruction du 24 février 1920 modifiée par celle du 27 janvier
 1923.
 
 Le directeur interdépartemental ou le chef du service de la solde adresse, le
-jour même, au trésorier-payeur général auprès duquel lui-même ou son service est
-accrédité des avis d'émission des titres de payement délivrés par lui.
+jour même, au directeur départemental ou, le cas échéant, régional des finances
+publiques auprès duquel lui-même ou son service est accrédité des avis
+d'émission des titres de payement délivrés par lui.

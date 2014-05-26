@@ -16,9 +16,9 @@ trimestrielle.
 
 L'autorité compétente visée au deuxième alinéa fait parvenir sans délai aux
 intéressés les titres de payement ainsi établis et adresse, le jour même de
-l'envoi, un avis d'émission au trésorier-payeur général auprès duquel lui-même,
-le service de l'intendance maritime ou le directeur de l'établissement est
-accrédité.
+l'envoi, un avis d'émission au directeur départemental ou, le cas échéant,
+régional des finances publiques auprès duquel lui-même, le service de
+l'intendance maritime ou le directeur de l'établissement est accrédité.
 
 Lorsque tous les bons d'un titre de payement modèle P ont été perçus, l'autorité
 compétente délivre, si cela est nécessaire, un titre de même nature contre

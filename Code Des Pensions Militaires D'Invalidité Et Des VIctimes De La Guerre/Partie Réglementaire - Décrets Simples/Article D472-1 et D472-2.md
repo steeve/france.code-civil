@@ -21,5 +21,6 @@ liste est fixée par arrêté du ministre de l'économie et des finances et du
 ministre chargé des anciens combattants et victimes de guerre.
 
 Les comptables subordonnés visés au deuxième alinéa ci-dessus sont choisis parmi
-les fonctionnaires du Trésor en fonction dans le département. Ce choix doit être
-ratifié par le directeur de l'office national.
+les fonctionnaires de la direction générale des finances publiques en fonction
+dans le département. Ce choix doit être ratifié par le directeur de l'office
+national.

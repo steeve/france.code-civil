@@ -9,7 +9,8 @@ et les mandats émis par le maire.
 
 En cas de circonstances particulières, ce délai peut être prorogé d'une durée
 n'excédant pas un mois par décision du commissaire délégué prise sur avis du
-trésorier-payeur général.
+directeur chargé de la direction des finances publiques de la
+Nouvelle-Calédonie.
 
 Ces dispositions ne sont pas applicables aux opérations intéressant uniquement
 la section d'investissement du budget.

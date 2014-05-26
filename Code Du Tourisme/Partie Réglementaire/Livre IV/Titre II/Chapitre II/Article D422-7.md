@@ -4,7 +4,7 @@ Les règles relatives aux prélèvements directs sur le produit des jeux dans le
 casinos sont fixées par les articles D. 2333-74 et D. 2333-76 à R. 2333-82-1 du
 code général des collectivités territoriales ci-après reproduits :
 
-" Art.D. 2333-74 du code général des collectivités territoriales.
+" Art. D. 2333-74 du code général des collectivités territoriales.
 
 Le tarif du prélèvement progressif opéré sur le produit brut des jeux dans les
 casinos régis par la loi du 15 juin 1907 réglementant les jeux dans les casinos
@@ -58,7 +58,7 @@ régime fiscal des casinos, de l'application du tarif suivant :
 
 80 % au-delà de 11 319 000 euros. "
 
-" Art.D. 2333-76 du code général des collectivités territoriales.
+" Art. D. 2333-76 du code général des collectivités territoriales.
 
 Les travaux d'investissement, mentionnés à l'article L. 2333-57, destinés à
 l'amélioration de l'équipement touristique ont pour objet d'augmenter le pouvoir
@@ -73,7 +73,7 @@ Lorsqu'ils sont affectés à l'équipement du casino, de ses annexes ou de ses
 abords, ils ne peuvent avoir pour but la réalisation de normes de sécurité que
 s'ils répondent, en même temps, à l'objet défini ci-dessus. "
 
-" Art.D. 2333-77 du code général des collectivités territoriales.
+" Art. D. 2333-77 du code général des collectivités territoriales.
 
 Les casinos ouvrent dans leur comptabilité un compte spécialement destiné à
 retracer les opérations mentionnées à l'article D. 2333-76.
@@ -87,7 +87,7 @@ Le casino porte chaque quinzaine au crédit de ce compte, à l'occasion de la
 liquidation du prélèvement sur le produit brut des jeux, le montant des sommes
 qui devront recevoir l'affectation prévue par l'article L. 2333-57. "
 
-" Art.D. 2333-78 du code général des collectivités territoriales.
+" Art. D. 2333-78 du code général des collectivités territoriales.
 
 Les modalités d'emploi des sommes portées au crédit du compte prévu à l'article
 D. 2333-77, sont définies par le cahier des charges établi et approuvé dans les
@@ -95,13 +95,14 @@ conditions déterminées par l'article 2 de la loi du 15 juin 1907 réglementant
 jeu dans les cercles et les casinos des stations balnéaires, thermales et
 climatiques, ou par un avenant au cahier des charges en vigueur. "
 
-" Art.D. 2333-79 du code général des collectivités territoriales.
+" Art. D. 2333-79 du code général des collectivités territoriales.
 
 Dans un délai de trois mois après la fin de chaque saison de jeux, le
 concessionnaire adresse au directeur régional ou départemental des finances
-publiques ou au trésorier-payeur général dans le ressort duquel est situé son
-établissement un relevé du compte prévu à l'article D. 2333-77. Ce relevé est
-appuyé des pièces justificatives des dépenses y afférentes.
+publiques ou au directeur départemental ou, le cas échéant, régional des
+finances publiques dans le ressort duquel est situé son établissement un relevé
+du compte prévu à l'article D. 2333-77. Ce relevé est appuyé des pièces
+justificatives des dépenses y afférentes.
 
 A l'exception des éléments soumis aux contrôles exercés en vertu de l'article L.
 55 du livre des procédures fiscales, le comptable de la direction générale des
@@ -122,7 +123,7 @@ Cette rectification fait l'objet d'un procès-verbal complémentaire adressé au
 maires des communes intéressées et au préfet. Elle est portée à la connaissance
 du concessionnaire aux fins de régularisation comptable. "
 
-" Art.D. 2333-80 du code général des collectivités territoriales.
+" Art. D. 2333-80 du code général des collectivités territoriales.
 
 Si à l'expiration d'un délai d'un an, après le délai donné au concessionnaire
 par le cahier des charges, ou par l'arrêté préfectoral, pour exécuter les
@@ -132,7 +133,7 @@ employés ou dont l'emploi n'est pas conforme au cahier des charges ou au
 programme arrêté par le préfet sont consignés au Trésor, en en attendant
 l'emploi. "
 
-" Art.D. 2333-81 du code général des collectivités territoriales.
+" Art. D. 2333-81 du code général des collectivités territoriales.
 
 Lorsque, pour une raison quelconque, un concessionnaire cesse d'exploiter les
 jeux dans un casino, les sommes figurant en solde au compte de provisions et les
@@ -144,7 +145,7 @@ le préfet.
 Les sommes versées aux communes en vertu du présent article sont utilisées dans
 les mêmes conditions que la taxe de séjour. "
 
-" Art.D. 2333-82 du code général des collectivités territoriales.
+" Art. D. 2333-82 du code général des collectivités territoriales.
 
 Les sommes affectées aux travaux d'investissement définis à l'article D. 2333-76
 peuvent être versées sous forme de subventions en capital à la collectivité
@@ -165,7 +166,7 @@ quarts des sommes portées au crédit du compte de provisions prévu au premier
 alinéa de l'article D. 2333-77, au titre de la saison précédant immédiatement
 l'ouverture de cet emprunt. "
 
-" Art.R. 2333-82-1 du code général des collectivités territoriales.
+" Art. R. 2333-82-1 du code général des collectivités territoriales.
 
 Les recettes réelles de fonctionnement mentionnées à l'article L. 2333-55
 s'entendent de l'ensemble des recettes de fonctionnement inscrites au compte

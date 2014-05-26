@@ -2,7 +2,8 @@ Article D723-208
 ----
 Les divers comptes de disponibilité sont ouverts sur décision du conseil
 d'administration à la diligence de l'agent comptable. Avis de l'ouverture de ces
-comptes doit être donné au trésorier-payeur général intéressé.
+comptes doit être donné au directeur départemental ou, le cas échéant, régional
+des finances publiques intéressé.
 
 L'agent comptable qui provoque l'ouverture d'un compte externe de disponibilités
 non prévu par la réglementation commet une faute de service passible de sanction

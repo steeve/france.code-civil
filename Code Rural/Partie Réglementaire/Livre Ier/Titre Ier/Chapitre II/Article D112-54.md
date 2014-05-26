@@ -12,11 +12,12 @@ La commission comporte en outre quinze membres désignés par le préfet :
 
 a) Trois représentants de l'Etat :
 
--le trésorier-payeur général ;
+- le directeur départemental ou, le cas échéant, régional des finances publiques
+;
 
--le directeur départemental de l'agriculture et de la forêt ;
+- le directeur départemental des territoires ;
 
--le directeur régional de l'environnement ;
+- le directeur régional de l'environnement, de l'aménagement et du logement ;
 
 b) Trois représentants des communes ou des groupements de communes ou du
 département ;

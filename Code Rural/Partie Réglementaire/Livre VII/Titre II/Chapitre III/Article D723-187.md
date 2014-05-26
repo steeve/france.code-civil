@@ -3,8 +3,9 @@ Article D723-187
 Au cas de vacance d'emploi par suite de décès, démission, licenciement ou
 retrait d'agrément, ou pour toute autre cause, le conseil d'administration, sur
 proposition du directeur, procède à la désignation d'un agent comptable
-intérimaire, après avis conforme du trésorier-payeur général et du responsable
-du service mentionné à l'article R. 155-1 du code de la sécurité sociale.
+intérimaire, après avis conforme du directeur départemental ou, le cas échéant,
+régional des finances publiques et du responsable du service mentionné à
+l'article R. 155-1 du code de la sécurité sociale.
 
 L'agent comptable intérimaire est installé dans les conditions prévues à
 l'article D. 723-184.

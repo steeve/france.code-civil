@@ -9,5 +9,5 @@ ou le chef du service de la solde du titre définitif de pension et les bons
 échus antérieurement.
 
 Ce fonctionnaire ou cet officier doit faire immédiatement opposition, auprès du
-trésorier-payeur général, au payement des bons non payables et aviser les
-intéressés.
+directeur départemental ou, le cas échéant, régional des finances publiques, au
+payement des bons non payables et aviser les intéressés.

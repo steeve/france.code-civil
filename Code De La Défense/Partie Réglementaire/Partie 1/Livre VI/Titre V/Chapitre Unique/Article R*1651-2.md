@@ -19,13 +19,13 @@ c) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplac�
 par les dispositions suivantes :
 
 " Ce comité comprend le haut-commissaire de la République en Polynésie
-française, le trésorier-payeur général ou l'administrateur général des finances
-publiques exerçant la fonction de directeur local des finances publiques dont la
-circonscription comprend le chef-lieu de la zone, l'officier général commandant
-supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de
-défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces,
-le commandant territorial de la gendarmerie, le ou les chefs de service de la
-police nationale désignés à cet effet par le préfet de zone. "
+française, le directeur chargé de la direction des finances publiques de la
+Polynésie française dont la circonscription comprend le chef-lieu de la zone,
+l'officier général commandant supérieur, l'officier commandant la gendarmerie au
+chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a lieu les
+commandants des forces, le commandant territorial de la gendarmerie, le ou les
+chefs de service de la police nationale désignés à cet effet par le préfet de
+zone. "
 
 3° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : " la loi
 n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile " sont

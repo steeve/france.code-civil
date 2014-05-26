@@ -153,8 +153,8 @@ d'ouverture de la succession désignant un administrateur provisoire.
 0252 - Successions vacantes
 
 Copie du jugement du tribunal de grande instance du lieu d'ouverture de la
-succession déclarant la vacance et désignant un curateur (le service des
-domaines).
+succession déclarant la vacance et désignant un curateur (l'administration
+chargée des domaines).
 
 0253 - Successions en déshérence
 

@@ -1,10 +1,10 @@
 Article D2333-79
 ----
 Dans un délai de trois mois après la fin de chaque saison de jeux, le
-concessionnaire adresse au directeur régional ou départemental des finances
-publiques ou au trésorier-payeur général dans le ressort duquel est situé son
-établissement un relevé du compte prévu à l'article D. 2333-77. Ce relevé est
-appuyé des pièces justificatives des dépenses y afférentes.
+concessionnaire adresse au directeur départemental ou, le cas échéant, régional
+des finances publiques dans le ressort duquel est situé son établissement un
+relevé du compte prévu à l'article D. 2333-77. Ce relevé est appuyé des pièces
+justificatives des dépenses y afférentes.
 
 A l'exception des éléments soumis aux contrôles exercés en vertu de l'article L.
 55 du livre des procédures fiscales, le comptable de la direction générale des

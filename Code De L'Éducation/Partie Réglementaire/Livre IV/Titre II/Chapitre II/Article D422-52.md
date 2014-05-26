@@ -8,5 +8,6 @@ le contrôle. Les instructions données à ce sujet au préposé doivent avoir
 recueilli l'accord de l'agent comptable qui demande qu'il soit procédé à
 l'inventaire annuel des stocks. En cas de perte, destruction ou vol des
 justifications remises à l'agent comptable, le chef d'établissement pourvoit à
-leur remplacement en établissant un certificat visé par le comptable supérieur
-du Trésor territorialement compétent.
+leur remplacement en établissant un certificat visé par le directeur
+départemental ou, le cas échéant, régional des finances publiques
+territorialement compétent.

@@ -5,5 +5,5 @@ sont ouverts auprès d'un établissement bancaire agréé, de la Banque de Franc
 de la Caisse des dépôts et consignations ou ses préposés.
 
 L'ouverture d'un compte est opérée sur décision de l'agent comptable, après avis
-du directeur. Avis de l'ouverture de ces comptes doit être donné au
-trésorier-payeur général intéressé.
+du directeur. Avis de l'ouverture de ces comptes doit être donné au directeur
+départemental ou, le cas échéant, régional des finances publiques intéressé.

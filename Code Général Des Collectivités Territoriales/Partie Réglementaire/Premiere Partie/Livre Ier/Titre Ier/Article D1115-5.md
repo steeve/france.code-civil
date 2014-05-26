@@ -9,8 +9,8 @@ aux groupements mentionnés à l'article D. 1115-1 lorsqu'ils comprennent l'Etat
 ou au moins un établissement, entreprise ou organisme public lui-même soumis au
 contrôle économique et financier de l'Etat en vertu des décrets susmentionnés.
 
-Dans ce cas, le contrôleur budgétaire auprès du groupement est le
-trésorier-payeur général de région, qui peut se faire représenter dans cette
+Dans ce cas, le contrôleur budgétaire auprès du groupement est le directeur
+régional des finances publiques, qui peut se faire représenter dans cette
 fonction.
 
 Le préfet de région peut se faire représenter dans ses fonctions de représentant

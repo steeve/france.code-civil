@@ -9,8 +9,7 @@ commandants territoriaux de la gendarmerie nationale de la zone de défense. " ;
 2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés
 par les dispositions suivantes :
 
-" Ce comité comprend les préfets des régions et des départements, le
-trésorier-payeur général ou l'administrateur exerçant la fonction de directeur
+" Ce comité comprend les préfets des régions et des départements, le directeur
 régional des finances publiques dont la circonscription comprend le chef-lieu de
 la zone, l'officier général commandant supérieur, l'officier commandant la
 gendarmerie au siège de la zone de défense, le chef d'état-major de zone, s'il y

@@ -5,4 +5,4 @@ organismes non dotés d'un comptable public de se voir confier l'attribution et
 le paiement des dépenses relatives à la rémunération des stagiaires de la
 formation professionnelle est délivrée par le préfet dans le ressort duquel se
 situe la collectivité ou l'établissement mandant, après avis du directeur
-régional ou départemental des finances publiques ou du trésorier payeur général.
+départemental ou, le cas échéant, régional des finances publiques.

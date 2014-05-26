@@ -560,8 +560,8 @@ Demande de paiement d'acompte de l'exproprié ; 4. Justification du droit de
 l'exproprié par l'expropriant, précisant notamment que le juge de
 l'expropriation a été saisi pour fixation de l'indemnité, que le relogement de
 l'exproprié ne sera pas assuré par l'expropriant et indiquant, en outre, le
-montant des propositions chiffrées de l'expropriant ainsi que celles du service
-des domaines.
+montant des propositions chiffrées de l'expropriant ainsi que celles du
+directeur départemental ou, le cas échéant, régional des finances publiques.
 
 5312 - Mandatement d'indemnités mobilières
 
@@ -631,15 +631,15 @@ faciliter la suppression de l'habitat insalubre.
 
 1. Copie de l'arrêté du représentant de l'Etat dans la région ou dans le
 département. 2. Copie de l'évaluation de l'indemnité provisionnelle par le
-service des domaines. 3. Justification, selon les formes signifiées prévues à
-l'article I er du décret du 13 février 1961, du droit de propriété de
-l'exproprié. 4. Etat hypothécaire hors formalité levé du chef de l'exproprié et
-éventuellement du chef de précédents propriétaires quand le droit de l'exproprié
-ne découle pas lui-même d'un acte emportant purge des hypothèques. 5.
-Déclaration en la forme authentique souscrite par le propriétaire exproprié
-s'engageant à ne pas consentir de nouvelles inscriptions postérieurement à la
-prise de possession par l'administration expropriante publiée au fichier
-immobilier.
+directeur départemental ou, le cas échéant, régional des finances publiques. 3.
+Justification, selon les formes signifiées prévues à l'article I er du décret du
+13 février 1961, du droit de propriété de l'exproprié. 4. Etat hypothécaire hors
+formalité levé du chef de l'exproprié et éventuellement du chef de précédents
+propriétaires quand le droit de l'exproprié ne découle pas lui-même d'un acte
+emportant purge des hypothèques. 5. Déclaration en la forme authentique
+souscrite par le propriétaire exproprié s'engageant à ne pas consentir de
+nouvelles inscriptions postérieurement à la prise de possession par
+l'administration expropriante publiée au fichier immobilier.
 
 532 - Par voie de préemption (29)
 

@@ -17,8 +17,8 @@ conseil d'administration ou de surveillance du mandant et du mandataire portant
 approbation de ce projet.
 
 Lorsque le mandataire est doté d'un comptable public, le préfet se prononce
-après avis du trésorier-payeur général dont dépend le poste comptable du
-mandataire.
+après avis du directeur départemental ou, le cas échéant, régional des finances
+publiques dont dépend le poste comptable du mandataire.
 
 En l'absence de décision du préfet notifiée dans le délai de deux mois à compter
 de la réception d'une demande présentée en application du présent article,
@@ -26,4 +26,4 @@ l'autorisation est réputée accordée.
 
 L'organisme d'habitations à loyer modéré titulaire de l'autorisation transmet
 copie du mandat signé au préfet et, dans le cas prévu au quatrième alinéa, au
-trésorier-payeur général.
+directeur départemental ou, le cas échéant, régional des finances publiques.

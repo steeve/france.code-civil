@@ -8,8 +8,8 @@ Le comptable dispose du même délai pour comptabiliser les titres de perception
 et les mandats émis par le maire.
 
 En cas de circonstances particulières, un délai peut être prorogé d'une durée
-n'excédant pas un mois par décision du sous-préfet prise sur avis du
-trésorier-payeur général.
+n'excédant pas un mois par décision du sous-préfet prise sur avis du directeur
+départemental ou, le cas échéant, régional des finances publiques.
 
 Ces dispositions ne sont pas applicables aux opérations intéressant uniquement
 la section d'investissement du budget.

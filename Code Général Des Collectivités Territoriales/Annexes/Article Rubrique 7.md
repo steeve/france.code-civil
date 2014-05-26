@@ -67,7 +67,8 @@ subvention d'un montant supérieur à 23 000 euros.
 fixant les modalités de gestion du dispositif.
 
 (4) Sur la base de cette convention, le comptable assignataire délègue le
-contrôle de l'existence des pièces justificatives au trésorier-payeur général.
+contrôle de l'existence des pièces justificatives au directeur régional des
+finances publiques.
 
 2. Le cas échéant, la décision fixant les conditions d'octroi et les modalités
 de l'aide.

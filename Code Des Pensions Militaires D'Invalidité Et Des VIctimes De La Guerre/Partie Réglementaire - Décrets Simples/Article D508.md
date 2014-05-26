@@ -2,12 +2,14 @@ Article D508
 ----
 Les fonctions d'agent comptable sont remplies :
 
-Soit par un comptable du Trésor, désigné par le président en accord avec le
-trésorier général ou le trésorier-payeur du territoire considéré, lorsqu'il
-s'agit d'un office d'outre-mer ou d'un comité local ;
+Soit par un comptable de la direction générale des finances publiques, désigné
+par le président en accord avec le directeur chargé de la direction locale des
+finances publiques du territoire considéré, lorsqu'il s'agit d'un office
+d'outre-mer ou d'un comité local ;
 
-Soit par le trésorier-payeur général, lorsqu'il s'agit d'un office départemental
-et, à Paris, par un agent comptable spécial.
+Soit par le directeur départemental ou, le cas échéant, régional des finances
+publiques, lorsqu'il s'agit d'un office départemental et, à Paris, par un agent
+comptable spécial.
 
 A titre exceptionnel, lorsque les opérations d'un office départemental ont une
 importance particulière, il peut également, après avis de cet office et sur

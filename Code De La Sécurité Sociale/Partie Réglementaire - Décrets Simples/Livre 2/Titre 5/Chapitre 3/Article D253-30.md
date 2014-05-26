@@ -22,10 +22,12 @@ charge de la partie versante.
 
 Le cas échéant, les organismes de recouvrement disposent de comptes
 spécifiquement dédiés aux opérations d'encaissement des cotisations et
-contributions centralisées par les comptables supérieurs du Trésor. Ces comptes
-sont ouverts dans les livres de la Caisse des dépôts et consignations, au siège
-ou auprès de ses préposés, par lesdits organismes, sous réserve de
-l'autorisation de l'Agence centrale des organismes de sécurité sociale.
+contributions centralisées par les comptables publics principaux de la direction
+générale des finances publiques et les agents comptables des établissements
+publics. Ces comptes sont ouverts dans les livres de la Caisse des dépôts et
+consignations, au siège ou auprès de ses préposés, par lesdits organismes, sous
+réserve de l'autorisation de l'Agence centrale des organismes de sécurité
+sociale.
 
 L'agence est habilitée à disposer de l'information afférente à ces comptes et à
 passer les ordres relatifs à ces comptes en application du 1° de l'article D.

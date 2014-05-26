@@ -13,4 +13,5 @@ excéder 1 500 euros.
 Cette lettre comprend un relevé de la sanction pécuniaire, dont le modèle est
 arrêté conjointement par le garde des sceaux, ministre de la justice, et le
 ministre des finances, permettant au condamné de s'acquitter volontairement du
-montant dû dans le délai d'un mois auprès du comptable du Trésor.
+montant dû dans le délai d'un mois auprès du comptable de la direction générale
+des finances publiques.

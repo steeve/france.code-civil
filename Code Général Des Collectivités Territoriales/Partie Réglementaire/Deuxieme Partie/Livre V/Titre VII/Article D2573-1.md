@@ -17,4 +17,8 @@ subdivision administrative ;
 référence à la chambre territoriale des comptes ;
 
 4° Les montants en euros sont remplacés par des montants équivalents en monnaie
-locale compte tenu de la contre-valeur de l'euro dans cette monnaie.
+locale compte tenu de la contre-valeur de l'euro dans cette monnaie ;
+
+5° Les références au "directeur départemental ou, le cas échéant, régional des
+finances publiques" sont remplacées par des références au "directeur chargé de
+la direction des finances publiques de la Polynésie française".
