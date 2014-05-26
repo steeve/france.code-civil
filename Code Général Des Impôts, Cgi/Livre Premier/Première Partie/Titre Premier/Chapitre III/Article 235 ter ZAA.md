@@ -23,8 +23,7 @@ mère d'un groupe mentionné à l'article 223 A, de la somme des chiffres
 d'affaires de chacune des sociétés membres de ce groupe.
 
 II.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'article
-220 quinquies et l'imposition forfaitaire annuelle mentionnée à l'article 223
-septies ne sont pas imputables sur la contribution.
+220 quinquies ne sont pas imputables sur la contribution.
 
 III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur les
 sociétés et sous les mêmes garanties et sanctions.

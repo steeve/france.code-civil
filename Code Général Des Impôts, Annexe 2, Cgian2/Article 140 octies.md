@@ -5,7 +5,7 @@ général des impôts est pratiquée par l'entreprise propriétaire ou, si
 l'immobilisation fait l'objet d'un contrat de crédit-bail, par l'entreprise
 locataire.
 
-II.-Sous réserve des dispositions de la cinquième phrase du premier alinéa du I
+II.-Sous réserve des dispositions de la neuvième phrase du premier alinéa du I
 de l'article 217 undecies du code général des impôts, la déduction est opérée
 sur les résultats imposables de l'exercice au cours duquel l'immobilisation est
 créée par l'entreprise ou lui est livrée ou est mise à sa disposition dans le

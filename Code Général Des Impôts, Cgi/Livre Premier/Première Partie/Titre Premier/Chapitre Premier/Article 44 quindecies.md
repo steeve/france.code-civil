@@ -43,22 +43,22 @@ d) Le capital de l'entreprise créée ou reprise n'est pas détenu, directement 
 indirectement, pour plus de 50 % par d'autres sociétés ;
 
 e) L'entreprise n'est pas créée dans le cadre d'une extension d'activités
-préexistantes.L'existence d'un contrat, quelle qu'en soit la dénomination, ayant
-pour objet d'organiser un partenariat caractérise l'extension d'une activité
-préexistante lorsque l'entreprise créée ou reprenant l'activité bénéficie de
-l'assistance de ce partenaire, notamment en matière d'utilisation d'une
-enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de conditions
-d'approvisionnement, de modalités de gestion administrative, contentieuse,
-commerciale ou technique, dans des conditions telles que cette entreprise est
-placée dans une situation de dépendance.
+préexistantes. L'existence d'un contrat, quelle qu'en soit la dénomination,
+ayant pour objet d'organiser un partenariat caractérise l'extension d'une
+activité préexistante lorsque l'entreprise créée ou reprenant l'activité
+bénéficie de l'assistance de ce partenaire, notamment en matière d'utilisation
+d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de
+conditions d'approvisionnement, de modalités de gestion administrative,
+contentieuse, commerciale ou technique, dans des conditions telles que cette
+entreprise est placée dans une situation de dépendance.
 
 III. L'exonération ne s'applique pas aux créations et aux reprises d'activités
 dans les zones de revitalisation rurale mentionnées au I consécutives au
 transfert d'une activité précédemment exercée par un contribuable ayant
 bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du
 transfert, des dispositions des articles 44 sexies, 44 sexies A, 44 septies, 44
-octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies, 44
-quaterdecies ou d'une prime d'aménagement du territoire.
+octies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime
+d'aménagement du territoire.
 
 L'exonération ne s'applique pas non plus dans les situations suivantes :
 
