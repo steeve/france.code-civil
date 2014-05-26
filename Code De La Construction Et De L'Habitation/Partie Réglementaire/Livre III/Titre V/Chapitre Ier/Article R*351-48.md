@@ -3,7 +3,7 @@ Article R*351-48
 La commission départementale des aides publiques au logement est présidée par le
 préfet ou son représentant.
 
-Elle est composée du directeur départemental ou, le cas échéant, régional des
+Elle est composée du directeur département ou, le cas échéant, régional des
 finances publiques, du directeur départemental de l'équipement, du chef du
 service régional du travail, de l'emploi et de la politique sociale agricoles
 compétent, du directeur départemental des affaires sanitaires et sociales, du
@@ -12,8 +12,8 @@ concernée, du président du conseil d'administration de la caisse de mutualité
 sociale agricole compétente ou de leurs représentants respectifs, de deux
 représentants des usagers désignés par le préfet sur proposition des
 organisations les plus représentatives au niveau du département, d'un
-représentant désigné par le conseil général et d'un représentant de l'union
-départementale des associations familiales.
+représentant désigné par le conseil départemental et d'un représentant de
+l'union départementale des associations familiales.
 
 Son secrétariat est assuré par les services départementaux du ministère chargé
 du logement.
