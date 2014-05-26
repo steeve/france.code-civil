@@ -9,5 +9,5 @@ personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits
 connexes.
 
 Dans le territoire des îles Wallis-et-Futuna, le prévenu peut prendre pour
-conseil une personne agréée dans les conditions prévues au dernier alinéa de
-l'article 814.
+conseil une personne agréée dans les conditions prévues à l'avant-dernier alinéa
+de l'article 814.
