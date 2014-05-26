@@ -2,7 +2,7 @@ Article 148-3
 ----
 Préalablement à sa mise en liberté, la personne mise en examen doit faire,
 auprès du juge d'instruction ou du chef de l'établissement pénitentiaire, la
-déclaration d'adresse prévue par le troisième alinéa de l'article 116.
+déclaration d'adresse prévue par le quatrième alinéa de l'article 116.
 
 La personne mise en examen est avisée qu'elle doit signaler au juge
 d'instruction, jusqu'à la clôture de l'information, par nouvelle déclaration ou

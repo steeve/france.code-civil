@@ -20,7 +20,12 @@ un membre extérieur à l'administration pénitentiaire ;
 
 4° La procédure disciplinaire applicable, au cours de laquelle la personne peut
 être assistée par un avocat choisi ou commis d'office, en bénéficiant le cas
-échéant de l'aide de l'Etat pour l'intervention de cet avocat ;
+échéant de l'aide de l'Etat pour l'intervention de cet avocat. Ce décret
+détermine les conditions dans lesquelles le dossier de la procédure
+disciplinaire est mis à sa disposition et celles dans lesquelles l'avocat, ou
+l'intéressé s'il n'est pas assisté d'un avocat, peut prendre connaissance de
+tout élément utile à l'exercice des droits de la défense, sous réserve d'un
+risque d'atteinte à la sécurité publique ou à celle des personnes ;
 
 5° Les conditions dans lesquelles la personne placée en cellule disciplinaire ou
 en confinement dans une cellule individuelle exerce son droit à un parloir

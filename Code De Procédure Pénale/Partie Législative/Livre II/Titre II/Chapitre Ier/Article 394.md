@@ -12,7 +12,8 @@ citation à personne.
 
 L'avocat choisi ou le bâtonnier est informé, par tout moyen et sans délai, de la
 date et de l'heure de l'audience ; mention de cet avis est portée au
-procès-verbal.L'avocat peut, à tout moment, consulter le dossier.
+procès-verbal. L'avocat ou la personne déférée lorsqu'elle n'est pas assistée
+d'un avocat peut, à tout moment, consulter le dossier.
 
 Si le procureur de la République estime nécessaire de soumettre le prévenu
 jusqu'à sa comparution devant le tribunal à une ou plusieurs obligations du
@@ -22,7 +23,7 @@ libertés et de la détention, statuant en chambre du conseil avec l'assistance
 d'un greffier. Ce magistrat peut, après audition du prévenu, son avocat ayant
 été avisé et entendu en ses observations, s'il le demande, prononcer l'une de
 ces mesures dans les conditions et suivant les modalités prévues par les
-articles 138, 139, 142-5 et 142-6. Cette décision est notifiée verbalement au
+articles 138,139,142-5 et 142-6. Cette décision est notifiée verbalement au
 prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ.
 Si le prévenu placé sous contrôle judiciaire ou sous assignation à résidence
 avec surveillance électronique se soustrait aux obligations qui lui sont
@@ -30,3 +31,12 @@ imposées, les dispositions du deuxième alinéa de l'article 141-2 sont
 applicables, ainsi que celles de l'article 141-4 ; les attributions confiées au
 juge d'instruction par cet article sont alors exercées par le procureur de la
 République.
+
+Lorsque le tribunal correctionnel a été saisi en application du présent article,
+il peut, à la demande des parties ou d'office, commettre par jugement l'un de
+ses membres ou l'un des juges d'instruction du tribunal désigné dans les
+conditions prévues à l'article 83 pour procéder à un supplément d'information ;
+l'article 463 est applicable. Le tribunal peut, dans les mêmes conditions, s'il
+estime que la complexité de l'affaire nécessite des investigations
+supplémentaires approfondies, renvoyer le dossier au procureur de la République
+afin que celui-ci requière l'ouverture d'une information.

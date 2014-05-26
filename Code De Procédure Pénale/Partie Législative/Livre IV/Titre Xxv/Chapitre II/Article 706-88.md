@@ -56,3 +56,19 @@ Lorsqu'il est fait application des sixième et septième alinéas du présent
 article, l'avocat dispose, à partir du moment où il est autorisé à intervenir en
 garde à vue, des droits prévus aux articles 63-4 et 63-4-1, au premier alinéa de
 l'article 63-4-2 et à l'article 63-4-3.
+
+Le présent article n'est pas applicable au délit prévu au 8° bis de l'article
+706-73 ou, lorsqu'elles concernent ce délit, aux infractions mentionnées aux 14°
+à 16° du même article. Toutefois, à titre exceptionnel, il peut être appliqué si
+les faits ont été commis dans des conditions portant atteinte à la sécurité, à
+la dignité ou à la vie des personnes ou aux intérêts fondamentaux de la nation
+définis à l'article 410-1 du code pénal ou si l'un des faits constitutifs de
+l'infraction a été commis hors du territoire national, dès lors que la poursuite
+ou la réalisation des investigations nécessaires à la manifestation de la vérité
+rend indispensable, en raison de leur complexité, la prolongation de la garde à
+vue. Les ordonnances prolongeant la garde à vue sont prises par le juge des
+libertés et de la détention, sur requête du procureur de la République ou du
+juge d'instruction. Elles sont spécialement motivées et font référence aux
+éléments de fait justifiant que les conditions prévues au présent alinéa sont
+réunies. Les sixième et septième alinéas du présent article ne sont pas
+applicables.

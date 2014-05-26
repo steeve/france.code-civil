@@ -1,6 +1,6 @@
 Article 63
 ----
-I.-Seul un officier de police judiciaire peut, d'office ou sur instruction du
+I. - Seul un officier de police judiciaire peut, d'office ou sur instruction du
 procureur de la République, placer une personne en garde à vue.
 
 Dès le début de la mesure, l'officier de police judiciaire informe le procureur
@@ -11,7 +11,7 @@ personne en application du 2° de l'article 63-1. Le procureur de la République
 peut modifier cette qualification ; dans ce cas, la nouvelle qualification est
 notifiée à la personne dans les conditions prévues au même article 63-1.
 
-II.-La durée de la garde à vue ne peut excéder vingt-quatre heures.
+II. - La durée de la garde à vue ne peut excéder vingt-quatre heures.
 
 Toutefois, la garde à vue peut être prolongée pour un nouveau délai de
 vingt-quatre heures au plus, sur autorisation écrite et motivée du procureur de
@@ -27,8 +27,14 @@ l'utilisation d'un moyen de télécommunication audiovisuelle. Elle peut
 cependant, à titre exceptionnel, être accordée par une décision écrite et
 motivée, sans présentation préalable.
 
-III.-L'heure du début de la mesure est fixée, le cas échéant, à l'heure à
-laquelle la personne a été appréhendée.
+III. - Si, avant d'être placée en garde à vue, la personne a été appréhendée ou
+a fait l'objet de toute autre mesure de contrainte pour ces mêmes faits, l'heure
+du début de la garde à vue est fixée, pour le respect des durées prévues au II
+du présent article, à l'heure à partir de laquelle la personne a été privée de
+liberté. Si la personne n'a pas fait l'objet d'une mesure de contrainte
+préalable, mais que son placement en garde à vue est effectué dans le
+prolongement immédiat d'une audition, cette heure est fixée à celle du début de
+l'audition.
 
 Si une personne a déjà été placée en garde à vue pour les mêmes faits, la durée
 des précédentes périodes de garde à vue s'impute sur la durée de la mesure.

@@ -4,15 +4,21 @@ Lorsqu'il envisage de mettre en examen une personne qui n'a pas déjà été
 entendue comme témoin assisté, le juge d'instruction procède à sa première
 comparution selon les modalités prévues par le présent article.
 
-Le juge d'instruction constate l'identité de la personne et lui fait connaître
-expressément, en précisant leur qualification juridique, chacun des faits dont
-il est saisi et pour lesquels la mise en examen est envisagée. Mention de ces
-faits et de leur qualification juridique est portée au procès-verbal.
+Après l'avoir informée, s'il y a lieu, de son droit d'être assistée par un
+interprète, le juge d'instruction constate l'identité de la personne et lui fait
+connaître expressément, en précisant leur qualification juridique, chacun des
+faits dont il est saisi et pour lesquels la mise en examen est envisagée.
+Mention de ces faits et de leur qualification juridique est portée au
+procès-verbal.
+
+La personne est également informée, s'il y a lieu, de son droit à la traduction
+des pièces essentielles du dossier.
 
 Lorsqu'il a été fait application des dispositions de l'article 80-2 et que la
-personne est assistée d'un avocat, le juge d'instruction procède à son
-interrogatoire ; l'avocat de la personne peut présenter ses observations au juge
-d'instruction.
+personne est assistée d'un avocat, le juge d'instruction, après l'avoir informée
+de son droit de faire des déclarations, de répondre aux questions qui lui sont
+posées ou de se taire, procède à son interrogatoire ; l'avocat de la personne
+peut présenter ses observations au juge d'instruction.
 
 Dans les autres cas, le juge d'instruction avise la personne de son droit de
 choisir un avocat ou de demander qu'il lui en soit désigné un d'office. L'avocat
@@ -21,12 +27,12 @@ l'ordre des avocats en est informé par tout moyen et sans délai. Si l'avocat
 choisi ne peut être contacté ou ne peut se déplacer, la personne est avisée de
 son droit de demander qu'il lui en soit désigné un d'office pour l'assister au
 cours de la première comparution. L'avocat peut consulter sur-le-champ le
-dossier et communiquer librement avec la personne. Le juge d'instruction avertit
-ensuite la personne qu'elle a le choix soit de se taire, soit de faire des
-déclarations, soit d'être interrogée. Mention de cet avertissement est faite au
-procès-verbal. L'accord pour être interrogé ne peut être donné qu'en présence
-d'un avocat. L'avocat de la personne peut également présenter ses observations
-au juge d'instruction.
+dossier et communiquer librement avec la personne. Le juge d'instruction informe
+ensuite la personne qu'elle a le droit soit de faire des déclarations, soit de
+répondre aux questions qui lui sont posées, soit de se taire. Mention de cet
+avertissement est faite au procès-verbal. L'accord pour être interrogé ne peut
+être donné qu'en présence d'un avocat. L'avocat de la personne peut également
+présenter ses observations au juge d'instruction.
 
 Après avoir, le cas échéant, recueilli les déclarations de la personne ou
 procédé à son interrogatoire et entendu les observations de son avocat, le juge

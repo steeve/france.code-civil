@@ -10,4 +10,5 @@ présent code sont réunies, n'est pas obligatoire dès lors qu'elle n'est pas
 tenue sous la contrainte de demeurer à la disposition des enquêteurs et qu'elle
 a été informée qu'elle peut à tout moment quitter les locaux de police ou de
 gendarmerie. Le présent alinéa n'est toutefois pas applicable si la personne a
-été conduite par la force publique devant l'officier de police judiciaire.
+été conduite, sous contrainte, par la force publique devant l'officier de police
+judiciaire.

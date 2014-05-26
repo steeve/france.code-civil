@@ -13,4 +13,4 @@ Lorsque la personne est retenue pour un délit douanier mentionné au dernier
 alinéa de l'article 414 ou à l'article 415 du présent code ou pour un délit
 connexe à une infraction mentionnée à l'article 706-73 du code de procédure
 pénale, l'intervention de l'avocat peut être différée dans les conditions
-prévues aux sixième à dernier alinéas de l'article 706-88 du même code.
+prévues aux sixième à avant-dernier alinéas de l'article 706-88 du même code.

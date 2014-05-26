@@ -1,7 +1,7 @@
 Article 175-1
 ----
 La personne mise en examen, le témoin assisté ou la partie civile peut, à
-l'expiration du délai qui lui a été indiqué en application du huitième alinéa de
+l'expiration du délai qui lui a été indiqué en application du neuvième alinéa de
 l'article 116 ou du deuxième alinéa de l'article 89-1 à compter, respectivement,
 de la date de la mise en examen, de la première audition ou de la constitution
 de partie civile, demander au juge d'instruction, selon les modalités prévues au

@@ -5,7 +5,7 @@ mise en examen sous une qualification correctionnelle constituent en réalité u
 crime, le juge d'instruction notifie à la personne, après l'avoir informée de
 son intention et avoir recueilli ses éventuelles observations et celles de son
 avocat, qu'une qualification criminelle est substituée à la qualification
-initialement retenue. A défaut de cette notification, il ne peut être fait
+initialement retenue.A défaut de cette notification, il ne peut être fait
 application des dispositions de l'article 181.
 
 Si la personne était placée en détention provisoire, le mandat de dépôt
@@ -16,7 +16,7 @@ calculés à compter de la délivrance du mandat.
 
 Lors de la notification prévue au premier alinéa, le juge d'instruction peut
 faire connaître à la personne un nouveau délai prévisible d'achèvement de
-l'information, conformément aux dispositions du huitième alinéa de l'article
+l'information, conformément aux dispositions du neuvième alinéa de l'article
 116.
 
 Si l'information a été ouverte au sein d'une juridiction dépourvue de pôle de

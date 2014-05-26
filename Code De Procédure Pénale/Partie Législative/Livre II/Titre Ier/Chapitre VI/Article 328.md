@@ -1,17 +1,7 @@
 Article 328
 ----
-Les débats portent en premier lieu sur les faits reprochés à l'accusé.
+Après l'avoir informé de son droit, au cours des débats, de faire des
+déclarations, de répondre aux questions qui lui sont posées ou de se taire, le
+président interroge l'accusé et reçoit ses déclarations.
 
-Sous réserve des dispositions de l'article 309, l'accusé est directement
-interrogé par le ministère public, par l'avocat de la partie civile, puis par
-son défenseur.
-
-La partie civile peut poser des questions à l'accusé par l'intermédiaire du
-président.
-
-Avant qu'il soit procédé à l'audition des témoins, le président peut lui-même
-poser à l'accusé toute question qu'il estime utile. Il a le devoir de ne pas
-manifester son opinion sur la culpabilité.
-
-Les débats portent ensuite sur la personnalité de l'accusé. Ils sont menés selon
-la même procédure.
+Il a le devoir de ne pas manifester son opinion sur la culpabilité.

@@ -12,3 +12,6 @@ cette langue.
 A titre exceptionnel, il peut être effectué une traduction orale ou un résumé
 oral des pièces essentielles qui doivent lui être remises ou notifiées en
 application du présent code.
+
+Les modalités d'application du présent article sont précisées par décret, qui
+définit notamment les pièces essentielles devant faire l'objet d'une traduction.
