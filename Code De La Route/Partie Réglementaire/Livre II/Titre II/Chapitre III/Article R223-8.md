@@ -19,10 +19,11 @@ points dans un délai d'un mois à compter de la réception de l'attestation et
 notifie cette reconstitution à l'intéressé par lettre simple. La reconstitution
 prend effet le lendemain de la dernière journée de stage.
 
-IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au comptable du
-Trésor du lieu de commission de l'infraction, dans le délai de quinze jours
-mentionné au I ci-dessus, l'attestation de suivi de stage ainsi que, si l'amende
-a été acquittée, les pièces nécessaires à son remboursement.
+IV.-Dans le cas prévu à l'article R. 223-4, sont transmises au comptable de la
+direction générale des finances publiques du lieu de commission de l'infraction,
+dans le délai de quinze jours mentionné au I ci-dessus, l'attestation de suivi
+de stage ainsi que, si l'amende a été acquittée, les pièces nécessaires à son
+remboursement.
 
 L'attestation de suivi de stage et les pièces nécessaires au remboursement de
 l'amende payée sont définies par arrêté conjoint du ministre de l'intérieur, du

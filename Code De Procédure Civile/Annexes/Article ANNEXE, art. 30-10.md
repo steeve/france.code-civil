@@ -3,13 +3,15 @@ Article ANNEXE, art. 30-10
 Le tribunal d'instance détermine le montant à verser par l'association pour la
 publication de l'inscription en fonction des frais de publication.
 
-Ce montant est versé au comptable du Trésor, agissant en qualité de préposé de
-la Caisse des dépôts et consignations. Le tribunal peut toutefois autoriser
-l'association à verser directement ce montant au journal d'annonces légales.
+Ce montant est versé au comptable de la direction générale des finances
+publiques, agissant en qualité de préposé de la Caisse des dépôts et
+consignations. Le tribunal peut toutefois autoriser l'association à verser
+directement ce montant au journal d'annonces légales.
 
-Dans les quinze jours de la justification du versement au comptable du Trésor ou
-au journal d'annonces légales, le greffe adresse à ce dernier, par lettre
-recommandée avec demande d'avis de réception, l'avis aux fins de publication.
+Dans les quinze jours de la justification du versement au comptable de la
+direction générale des finances publiques ou au journal d'annonces légales, le
+greffe adresse à ce dernier, par lettre recommandée avec demande d'avis de
+réception, l'avis aux fins de publication.
 
 L'avis contient :
 

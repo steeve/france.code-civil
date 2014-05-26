@@ -10,7 +10,7 @@ son représentant ;
 
 3° Le directeur du Trésor ou son représentant ;
 
-4° Le directeur général de la comptabilité publique ou son représentant ;
+4° Le directeur général des finances publiques ou son représentant ;
 
 5° Le directeur général des collectivités locales ou son représentant ;
 

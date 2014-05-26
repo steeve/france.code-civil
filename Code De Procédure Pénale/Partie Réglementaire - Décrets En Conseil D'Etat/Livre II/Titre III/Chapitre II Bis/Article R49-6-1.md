@@ -4,9 +4,9 @@ Lorsque l'avis d'amende forfaitaire majorée envoyé par lettre recommandée à
 l'adresse figurant sur le certificat d'immatriculation du véhicule, conformément
 aux dispositions du deuxième alinéa de l'article 530, est revenu avec la mention
 " n'habite plus à l'adresse indiquée " ou " parti sans laisser d'adresse ", le
-comptable du Trésor envoie au contrevenant une lettre de rappel s'il découvre sa
-nouvelle adresse avant l'expiration d'un délai d'un an à compter de la date
-d'envoi du recommandé.
+comptable de la direction générale des finances publiques envoie au contrevenant
+une lettre de rappel s'il découvre sa nouvelle adresse avant l'expiration d'un
+délai d'un an à compter de la date d'envoi du recommandé.
 
 Si, avant l'expiration du délai de trois mois courant à compter de l'envoi de la
 lettre de rappel, le contrevenant déclare son changement d'adresse au service

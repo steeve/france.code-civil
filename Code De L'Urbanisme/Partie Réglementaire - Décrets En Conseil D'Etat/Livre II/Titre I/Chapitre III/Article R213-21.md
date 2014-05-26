@@ -9,13 +9,14 @@ code général de la propriété des personnes publiques.
 
 Dans les zones d'aménagement différé les périmètres provisoires de zone
 d'aménagement différé et dans les secteurs ayant fait l'objet de la délibération
-prévue par le dernier alinéa de l'article L. 211-4, le service des domaines doit
-être consulté, quel que soit le prix figurant dans la déclaration d'intention
-d'aliéner.
+prévue par le dernier alinéa de l'article L. 211-4, le directeur départemental
+ou, le cas échéant, régional des finances publiques doit être consulté, quel que
+soit le prix figurant dans la déclaration d'intention d'aliéner.
 
-L'avis du service des domaines doit être formulé dans le délai d'un mois à
-compter de la date de réception de la demande d'avis. Passé ce délai, il peut
-être procédé librement à l'acquisition.
+L'avis du directeur départemental ou, le cas échéant, régional des finances
+publiques doit être formulé dans le délai d'un mois à compter de la date de
+réception de la demande d'avis. Passé ce délai, il peut être procédé librement à
+l'acquisition.
 
 Les dispositions du présent article s'appliquent également aux propositions
 faites en application des articles L. 211-5 et L. 212-3.

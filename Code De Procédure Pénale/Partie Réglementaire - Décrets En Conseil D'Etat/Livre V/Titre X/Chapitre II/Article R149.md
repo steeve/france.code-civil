@@ -9,11 +9,12 @@ Si lesdits animaux ou objets doivent être vendus, la vente est ordonnée par le
 mêmes magistrats.
 
 Cette vente est faite à l'enchère au marché le plus voisin à la diligence du
-comptable des impôts.
+comptable de la direction générale des finances publiques.
 
 Le jour de la vente est indiqué par affiche, vingt-quatre heures à l'avance, à
 moins que la modicité de l'objet ne détermine le magistrat à en ordonner la
 vente sans formalité, ce qu'il exprime dans son ordonnance.
 
-Le produit de la vente est versé dans la caisse du comptable direct du Trésor,
-pour en être disposé, ainsi qu'il est ordonné par le jugement définitif.
+Le produit de la vente est versé dans la caisse du comptable de la direction
+générale des finances publiques, pour en être disposé, ainsi qu'il est ordonné
+par le jugement définitif.

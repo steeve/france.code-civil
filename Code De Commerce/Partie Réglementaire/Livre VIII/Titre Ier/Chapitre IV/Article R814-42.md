@@ -20,5 +20,6 @@ le mandataire de justice contrôlé a son domicile professionnel, le cas échéa
 un bureau annexe, et dans le ressort desquelles il s'est vu confier une mission.
 Ils peuvent recueillir les observations du procureur de la République près ces
 juridictions, du commissaire aux comptes chargé du contrôle de la comptabilité
-spéciale de l'intéressé, du trésorier-payeur général, ainsi que de l'association
-pour la gestion du régime d'assurance des créances des salariés.
+spéciale de l'intéressé, du directeur départemental ou, le cas échéant, régional
+des finances publiques, ainsi que de l'association pour la gestion du régime
+d'assurance des créances des salariés.

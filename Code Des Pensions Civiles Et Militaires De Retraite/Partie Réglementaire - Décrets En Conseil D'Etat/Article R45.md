@@ -42,7 +42,8 @@ votes :
 
 Le chef du service dont dépend l'intéressé ou son représentant ;
 
-Le trésorier-payeur général ou son représentant ;
+Le directeur départemental ou, le cas échéant, régional des finances publiques
+ou son représentant ;
 
 Deux représentants du personnel appartenant au même grade ou, à défaut, au même
 corps que l'intéressé, élus par les représentants du personnel titulaires ou

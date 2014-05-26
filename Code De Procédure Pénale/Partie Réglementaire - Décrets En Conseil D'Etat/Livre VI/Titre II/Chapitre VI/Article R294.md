@@ -16,8 +16,8 @@ II.-Les autres modifications apportées à l'article R. 69 sont les suivantes :
 -au 4°, les mots : " par le ministre de l'intérieur " sont remplacés par les
 mots : " par l'autorité dont elles émanent " ;
 
--au 6°, les mots : " par les trésoriers-payeurs généraux, les receveurs
-particuliers des finances et les percepteurs " sont remplacés par les mots : "
-par l'agent chargé du recouvrement des amendes ".
+-au 6°, les mots : " par les comptables de la direction générale des finances
+publiques " sont remplacés par les mots : " par l'agent chargé du recouvrement
+des amendes ".
 
 III.-Le dernier alinéa est supprimé.

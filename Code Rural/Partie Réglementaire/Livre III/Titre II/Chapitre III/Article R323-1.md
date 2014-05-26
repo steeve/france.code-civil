@@ -6,7 +6,8 @@ commun comprend, sous la présidence du préfet ou de son représentant :
 1° Deux fonctionnaires de la direction départementale des territoires, dont le
 directeur ou son représentant ;
 
-2° Le directeur des services fiscaux ou son représentant ;
+2° Le directeur départemental ou, le cas échéant, régional des finances
+publiques ou son représentant ;
 
 3° Trois agriculteurs désignés sur proposition des représentants des
 organisations syndicales d'exploitants agricoles membres de la commission

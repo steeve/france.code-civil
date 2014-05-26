@@ -19,8 +19,9 @@ de première instance" ;
 
 6° "greffier" par "chef du greffe" ;
 
-7° "comptable principal du Trésor" ou "comptable direct du Trésor" par "agent
-chargé du recouvrement des amendes" ;
+7° " comptable principal de la direction générale des finances publiques " ou "
+comptable de la direction générale des finances publiques " par "agent chargé du
+recouvrement des amendes" ;
 
 8° "régisseur des recettes" par "agent chargé du recouvrement des amendes" ;
 

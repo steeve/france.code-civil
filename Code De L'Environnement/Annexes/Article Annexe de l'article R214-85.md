@@ -540,8 +540,10 @@ Article 29
 Redevance domaniale (50)
 
 Sur le domaine non confié à Voies navigables de France, le permissionnaire sera
-tenu de verser à la caisse du directeur départemental des services fiscaux de la
-situation de l'usine une redevance annuelle de...... Euros.
+tenu de verser à la caisse du directeur départemental ou, le cas échéant,
+régional des finances publiques ou, à Saint-Pierre-et-Miquelon, du directeur des
+finances publiques de la situation de l'usine une redevance annuelle de......
+Euros.
 
 Elle sera payable d'avance en une seule fois et exigible à partir de la date du
 procès-verbal de récolement ou, au plus tard, à partir de l'expiration du délai

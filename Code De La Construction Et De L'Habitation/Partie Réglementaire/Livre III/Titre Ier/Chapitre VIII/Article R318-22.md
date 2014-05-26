@@ -50,8 +50,9 @@ avait été pris en compte pour l'attribution de l'avance est calculée sur la b
 de la durée de remboursement ou, s'il y a lieu, de différé, la plus proche de
 celle retenue par l'emprunteur.
 
-La créance est recouvrée au profit de l'Etat par les comptables du Trésor, selon
-les modalités prévues pour les créances étrangères à l'impôt et au domaine.
+La créance est recouvrée au profit de l'Etat par les comptables de la direction
+générale des finances publiques, selon les modalités prévues pour les créances
+étrangères à l'impôt et au domaine.
 
 L'établissement de crédit informe l'emprunteur de ces dispositions dès
 l'émission de l'offre de prêt.

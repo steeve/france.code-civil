@@ -7,7 +7,9 @@ du préfet qui est réputé acquis en l'absence de réponse dans le délai de de
 mois suivant la réception de la demande.
 
 La demande d'autorisation est instruite, selon le cas, soit par le directeur du
-port qui la communique au directeur des services fiscaux en vue de la fixation
-du montant de la redevance pour occupation du domaine public de l'Etat, soit par
-le concessionnaire. En cas de travaux, l'instruction est menée dans les
-conditions prévues par les articles R. *122-4 et R. *122-9.
+port qui la communique au directeur départemental ou, le cas échéant, régional
+des finances publiques ou à Saint-Pierre-et-Miquelon, au directeur des finances
+publiques en vue de la fixation du montant de la redevance pour occupation du
+domaine public de l'Etat, soit par le concessionnaire. En cas de travaux,
+l'instruction est menée dans les conditions prévues par les articles R. *122-4
+et R. *122-9.

@@ -14,7 +14,8 @@ territoriales, la date à prendre en compte pour l'affichage est celle du premie
 jour où il est effectué.
 
 Cette délibération, accompagnée des plans de situation et de délimitation, est
-simultanément transmise au directeur des services fiscaux, au Conseil supérieur
-du notariat, à la chambre départementale des notaires, aux barreaux constitués
-près les tribunaux de grande instance dans le ressort desquels est institué le
-périmètre de protection ainsi qu'au greffe de ces tribunaux.
+simultanément transmise au directeur départemental ou, le cas échéant, régional
+des finances publiques, au Conseil supérieur du notariat, à la chambre
+départementale des notaires, aux barreaux constitués près les tribunaux de
+grande instance dans le ressort desquels est institué le périmètre de protection
+ainsi qu'au greffe de ces tribunaux.

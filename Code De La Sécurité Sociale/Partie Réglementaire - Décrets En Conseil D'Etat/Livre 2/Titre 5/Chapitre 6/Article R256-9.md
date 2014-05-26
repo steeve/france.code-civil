@@ -4,9 +4,8 @@ Les organismes de sécurité sociale sont tenus de se faire ouvrir un ou plusieu
 comptes externes de disponibilités à la Caisse des dépôts et consignations ou
 auprès de ses préposés.
 
-Ils peuvent également se faire ouvrir de tels comptes à la Banque de France,
-dans les banques agréées ainsi que, dans les conditions prévues à l'article 2 du
-décret n° 63-763 du 25 juillet 1963, chez les comptables du Trésor.
+Ils peuvent également se faire ouvrir de tels comptes à la Banque de France et
+dans les banques agréées.
 
 Les modalités d'ouverture et de gestion des comptes externes de disponibilités
 sont fixées en application de l'article L. 256-2.

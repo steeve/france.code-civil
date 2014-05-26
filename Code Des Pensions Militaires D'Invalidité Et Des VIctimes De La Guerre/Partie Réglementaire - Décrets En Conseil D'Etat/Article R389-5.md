@@ -7,7 +7,8 @@ composé comme suit :
 Le directeur départemental des services agricoles ou son représentant, président
 ;
 
-Le trésorier-payeur général ou son représentant, vice-président ;
+Le directeur départemental ou, le cas échéant, régional des finances publiques
+ou son représentant, vice-président ;
 
 Le président de chacune des caisses régionales de crédit agricole mutuel du
 département ou son représentant ;
@@ -17,8 +18,6 @@ guerre ou son représentant ;
 
 L'ingénieur en chef ou l'ingénieur du génie rural de la circonscription ou son
 représentant ;
-
-Le directeur départemental des contributions directes ou son représentant ;
 
 Un représentant de la fédération départementale des syndicats d'exploitants
 agricoles désigné par le préfet ;

@@ -15,5 +15,5 @@ habilité à collecter la participation des employeurs à l'effort de constructi
 en application de l'article R. 313-22 ;
 
 -des personnes physiques ou morales ayant obtenu l'agrément du préfet sur avis
-conforme du directeur départemental de l'équipement et du trésorier-payeur
-général du département.
+conforme du directeur départemental de l'équipement et du directeur
+départemental ou, le cas échéant, régional des finances publiques.

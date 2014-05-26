@@ -96,7 +96,8 @@ demande comprend en tant que de besoin :
 1° Un plan indiquant le périmètre à l'intérieur duquel pourront être appliquées
 les dispositions prévues par les articles 4 et 5 de cette loi ;
 
-2° L'avis du service des domaines ;
+2° L'avis du directeur départemental ou, le cas échéant, régional des finances
+publiques ou, à Saint-Pierre-et-Miquelon, du directeur des finances publiques ;
 
 3° Un tableau des indemnités pour droits à l'usage de l'eau non exercés que le
 pétitionnaire propose en faveur des riverains intéressés au titre de l'article 6

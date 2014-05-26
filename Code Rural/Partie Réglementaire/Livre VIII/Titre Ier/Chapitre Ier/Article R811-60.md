@@ -10,4 +10,5 @@ annuel des stocks.
 
 En cas de perte, de destruction ou de vol des justifications remises à l'agent
 comptable, le directeur pourvoit à leur remplacement en établissant un
-certificat visé par le comptable supérieur du Trésor territorialement compétent.
+certificat visé par le directeur départemental ou, le cas échéant, régional des
+finances publiques territorialement compétent.

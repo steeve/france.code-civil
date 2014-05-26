@@ -13,7 +13,8 @@ fonds de garantie au titre du 6° de l'article R. 424-3.
 La Caisse centrale de réassurance, pour le compte du fonds, transfère les sommes
 mentionnées au premier alinéa au contrôleur budgétaire et comptable ministériel
 placé auprès du ministre chargé de l'économie. Ce dernier les met à la
-disposition du trésorier-payeur général de chaque département concerné. Le
-préfet du département concerné engage et ordonnance les sommes à verser au titre
-des indemnisations. Les reliquats éventuels des crédits ainsi affectés et restés
-non utilisés sont reversés au fonds.
+disposition du directeur départemental ou, le cas échéant, régional des finances
+publiques de chaque département concerné. Le préfet du département concerné
+engage et ordonnance les sommes à verser au titre des indemnisations. Les
+reliquats éventuels des crédits ainsi affectés et restés non utilisés sont
+reversés au fonds.

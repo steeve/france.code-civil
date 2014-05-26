@@ -11,7 +11,8 @@ La comptabilité est organisée conformément au décret n° 2012-1246 du 7 nove
 du ministre de l'intérieur, du ministre chargé du budget et du ministre chargé
 des collectivités locales fixe la nomenclature des comptes.
 
-Le comptable de l'établissement est un comptable direct du Trésor.
+Le comptable de l'établissement est un comptable de la direction générale des
+finances publiques.
 
 Le conseil d'administration détermine la durée de l'amortissement des biens
 meubles et immeubles dans les conditions définies par les instructions

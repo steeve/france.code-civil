@@ -14,9 +14,9 @@ depuis moins de trois mois ;
 II.-Si l'intéressé n'est pas domicilié dans le département ou que les pièces
 mentionnées au I n'établissent pas son domicile dans le département :
 
-a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du
-Trésor, qui établissent que l'intéressé est inscrit au rôle des contributions
-directes d'une commune du département au 1er janvier de l'année de l'élection ;
+a) Soit un avis d'imposition ou un extrait de rôle, qui établissent que
+l'intéressé est inscrit au rôle des contributions directes d'une commune du
+département au 1er janvier de l'année de l'élection ;
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans
 l'année précédant celle de l'élection, propriétaire ou locataire d'un immeuble
@@ -28,12 +28,13 @@ c) Soit une attestation notariée établissant que l'intéressé est devenu
 propriétaire par voie successorale d'une propriété foncière dans le département
 depuis le 1er janvier de l'année de l'élection ;
 
-d) Soit une attestation du directeur des services fiscaux établissant que
-l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection
-et des éléments que celui-ci produit, et sous réserve d'une modification de sa
-situation dont l'autorité compétente n'aurait pas eu connaissance, justifie
-qu'il devait être inscrit au rôle des contributions directes dans le département
-au 1er janvier de l'année de l'élection.
+d) Soit une attestation du directeur départemental ou, le cas échéant, régional
+des finances publiques établissant que l'intéressé, au vu notamment des rôles de
+l'année précédant celle de l'élection et des éléments que celui-ci produit, et
+sous réserve d'une modification de sa situation dont l'autorité compétente
+n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des
+contributions directes dans le département au 1er janvier de l'année de
+l'élection.
 
 III.-Dans les cantons de 9 000 habitants et plus, la déclaration de candidature
 est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II

@@ -5,7 +5,7 @@ Le compte prévu à l'article R. 421-45 comporte :
 En recettes :
 
 1° Les sommes versées par le fonds de garantie ou à son compte par les services
-de la direction générale des impôts ;
+de la direction générale des finances publiques ;
 
 2° Les revenus et arrérages ainsi que le produit des remboursements des valeurs
 composant le portefeuille déposé à la Caisse des dépôts et consignations au nom

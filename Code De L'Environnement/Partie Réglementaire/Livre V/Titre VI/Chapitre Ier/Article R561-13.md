@@ -5,8 +5,10 @@ fixent par arrêté conjoint, compte tenu des disponibilités du fonds, le monta
 des sommes à affecter au paiement ou à la consignation d'indemnités
 d'expropriation et au paiement de travaux.
 
-La caisse centrale de réassurance transfère les sommes ainsi fixées au
-trésorier-payeur général de chaque département concerné.
+La caisse centrale de réassurance transfère les sommes ainsi fixées au directeur
+départemental ou, le cas échéant, régional des finances publiques ou, à
+Saint-Pierre-et-Miquelon, au directeur des finances publiques de chaque
+département concerné.
 
 S'agissant des dépenses mentionnées aux 6° à 10° de l'article R. 561-8, les
 sommes sont fixées et transférées dans les conditions prévues aux alinéas

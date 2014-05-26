@@ -7,9 +7,10 @@ l'article R. 435-15.
 Les licences sont nominatives. Elles sont délivrées pour cinq ans et font
 l'objet d'un renouvellement général. Toutefois, leur date d'expiration peut être
 prorogée d'un an dans les conditions fixées au premier alinéa de l'article R.
-435-9. Le prix de chaque licence est fixé et révisé par le directeur des
-services fiscaux après avis du service ou de l'établissement gestionnaire du
-domaine.
+435-9. Le prix de chaque licence est fixé et révisé par le directeur
+départemental ou, le cas échéant, régional des finances publiques ou, à
+Saint-Pierre-et-Miquelon, le directeur des finances publiques après avis du
+service ou de l'établissement gestionnaire du domaine.
 
 Les demandes de licences de pêche professionnelle doivent comporter tous les
 éléments permettant d'apprécier la capacité du candidat à participer à la

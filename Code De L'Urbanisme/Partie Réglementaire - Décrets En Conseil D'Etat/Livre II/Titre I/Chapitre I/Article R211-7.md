@@ -6,8 +6,9 @@ est établie dans les formes prescrites par l'arrêté prévu par l'article R.
 d'avis de réception ou déposée contre décharge à la mairie de la commune où se
 trouve situé le bien.
 
-Dès réception de la proposition, le maire en transmet copie au directeur des
-services fiscaux en lui précisant si cette transmission vaut demande d'avis.
+Dès réception de la proposition, le maire en transmet copie au directeur
+départemental ou, le cas échéant, régional des finances publiques en lui
+précisant si cette transmission vaut demande d'avis.
 
 Le maire transmet également copie de la proposition au délégataire éventuel du
 droit de préemption lorsque le titulaire de ce droit est la commune. Dans les

@@ -3,7 +3,8 @@ Article R131-18
 I.-La commission régionale des aides est présidée par le préfet de région et, en
 son absence ou en cas d'empêchement, par le directeur régional de l'agence. Elle
 comprend, outre le préfet de région et le directeur régional de l'agence, le
-trésorier-payeur général de région et quatre autres directeurs de services
+directeur régional des finances publiques ou, à Saint-Pierre-et-Miquelon, le
+directeur des finances publiques et quatre autres directeurs de services
 régionaux de l'Etat désignés par le préfet de région. Elle comprend également
 six personnalités qualifiées désignées par le préfet de région.
 

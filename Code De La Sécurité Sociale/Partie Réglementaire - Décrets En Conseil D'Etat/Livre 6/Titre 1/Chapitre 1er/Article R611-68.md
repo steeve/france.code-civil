@@ -12,7 +12,8 @@ sociales pour la caisse nationale et par le responsable du service mentionné à
 l'article R. 155-1 pour les caisses de base.
 
 Le ministre chargé du budget peut faire procéder aux mêmes vérifications par
-l'inspection générale des finances et les comptables supérieurs du Trésor.
+l'inspection générale des finances et les directeurs départementaux ou, le cas
+échéant, régionaux des finances publiques.
 
 Les caisses sont tenues de communiquer aux fonctionnaires et agents chargés du
 contrôle sur place leurs documents administratifs et pièces comptables de toute

@@ -13,7 +13,8 @@ membres. Cette répartition est faite comme en matière de redevances syndicales
 dans les conditions fixées par l'ordonnance n° 2004-632 du 1er juillet 2004 et
 le décret n° 2006-504 du 3 mai 2006.
 
-Le cas échéant, le directeur des services fiscaux du département peut demander
-au préfet d'inscrire d'office au budget des associations, conformément à
-l'article 61 du décret précité, les crédits nécessaires à l'acquittement des
-dettes exigibles au titre des versements de plus-value.
+Le cas échéant, le directeur départemental ou, le cas échéant, régional des
+finances publiques peut demander au préfet d'inscrire d'office au budget des
+associations, conformément à l'article 61 du décret précité, les crédits
+nécessaires à l'acquittement des dettes exigibles au titre des versements de
+plus-value.

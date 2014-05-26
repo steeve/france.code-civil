@@ -20,8 +20,8 @@ Val-de-Marne ou son représentant ;
 4° Le directeur régional et interdépartemental de l'alimentation, de
 l'agriculture et de la forêt d'Ile-de-France ou son représentant ;
 
-5° Le trésorier-payeur général de la région d'Ile-de-France ou son représentant
-;
+5° Le directeur régional des finances publiques d'Ile-de-France et du
+département de Paris ou son représentant ;
 
 6° Trois représentants de la chambre interdépartementale de l'agriculture
 d'Ile-de-France, dont un au titre des sociétés coopératives agricoles autres que

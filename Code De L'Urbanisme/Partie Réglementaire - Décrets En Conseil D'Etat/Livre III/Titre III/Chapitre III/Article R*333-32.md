@@ -1,0 +1,8 @@
+Article R*333-32
+----
+En cas de modification du périmètre de la zone, du plan d'aménagement de la
+zone, du plan local d'urbanisme ou du document d'urbanisme en tenant lieu, de
+modification supérieure à 10 % de la valeur des terrains constatée par le
+directeur départemental ou, le cas échéant, régional des finances publiques les
+versements non encore échus sont révisés dans les conditions définies aux
+articles R. 333-24 et R. 333-25.

@@ -12,8 +12,7 @@ comprend, sous la présidence du préfet de région ou de son représentant :
 1° Deux fonctionnaires de la direction régionale de l'alimentation, de
 l'agriculture et de la forêt, dont le directeur ou son représentant ;
 
-2° Le directeur des services fiscaux du chef-lieu de région ou son représentant
-;
+2° Le directeur régional des finances publiques ou son représentant ;
 
 3° Trois agriculteurs désignés sur proposition des représentants des
 organisations syndicales d'exploitants agricoles membres de la commission

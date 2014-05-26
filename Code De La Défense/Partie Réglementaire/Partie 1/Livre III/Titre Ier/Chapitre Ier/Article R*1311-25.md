@@ -24,5 +24,5 @@ départementaux des services d'incendie et de secours intéressés et, le cas
 Le comité de défense de zone peut se réunir dans une formation restreinte de
 commission de défense économique dont la composition est arrêtée par le préfet
 de zone. En cas d'absence ou d'empêchement de celui-ci, cette commission est
-présidée par le trésorier-payeur général dont la circonscription comprend le
-chef-lieu de la zone.
+présidée par le directeur régional des finances publiques dont la
+circonscription comprend le chef-lieu de la zone.

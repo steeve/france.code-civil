@@ -9,9 +9,10 @@ recouvrement.
 L'état des sommes visées par la mise en demeure prévu à l'article R. 725-6 est
 rendu exécutoire par arrêté du préfet, sur proposition du responsable du service
 mentionné à l'article R. 155-1 du code de la sécurité sociale, et remis au
-trésorier-payeur général qui assure, par l'intermédiaire du percepteur du
-domicile du débiteur, le recouvrement des sommes ainsi exigibles, y compris les
-frais afférents, comme en matière de contributions directes.
+directeur départemental ou, le cas échéant, régional des finances publiques qui
+assure, par l'intermédiaire du comptable de la direction générale des finances
+publiques du domicile du débiteur, le recouvrement des sommes ainsi exigibles, y
+compris les frais afférents, comme en matière de contributions directes.
 
 Après recouvrement, les sommes visées par la mise en demeure sont versées à la
 caisse de mutualité sociale ou à l'organisme assureur sous réserve du

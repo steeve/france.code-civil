@@ -53,8 +53,9 @@ mentionné à l'article R. 319-12, demande le remboursement de l'avantage indûm
 perçu par l'emprunteur. Le titre exécutoire porte sur le montant calculé au I du
 présent article.
 
-La créance est recouvrée au profit de l'Etat par les comptables du Trésor, selon
-les modalités prévues pour les créances étrangères à l'impôt et au domaine.
+La créance est recouvrée au profit de l'Etat par les comptables de la direction
+générale des finances publiques, selon les modalités prévues pour les créances
+étrangères à l'impôt et au domaine.
 
 L'établissement de crédit informe l'emprunteur de ces dispositions dès
 l'émission de l'offre de prêt.

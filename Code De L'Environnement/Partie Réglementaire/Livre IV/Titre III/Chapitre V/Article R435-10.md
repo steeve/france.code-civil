@@ -2,8 +2,9 @@ Article R435-10
 ----
 I.-Les locataires de droit de pêche et les titulaires de licences s'engagent à
 se conformer aux prescriptions du cahier des charges pour l'exploitation du
-droit de pêche de l'Etat, établi par le préfet, après avis du directeur des
-services fiscaux.
+droit de pêche de l'Etat, établi par le préfet, après avis du directeur
+départemental ou, le cas échéant, régional des finances publiques ou, à
+Saint-Pierre-et-Miquelon, du directeur des finances publiques.
 
 II.-Ce cahier, conforme à un modèle fixé conjointement par le ministre chargé du
 domaine et par le ministre chargé de la pêche en eau douce, comporte des clauses

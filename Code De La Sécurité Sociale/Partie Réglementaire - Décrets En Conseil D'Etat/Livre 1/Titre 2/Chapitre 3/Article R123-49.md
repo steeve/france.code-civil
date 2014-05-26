@@ -5,10 +5,10 @@ mentionnés au premier alinéa de l'article R. 123-48 sont agréés par le
 responsable du service mentionné à l'article R. 155-1.
 
 La décision d'agréer ou de refuser d'agréer les agents comptables est prise
-après avis du trésorier-payeur général du département du siège de l'organisme
-concerné et, pour les agents comptables des organismes nationaux, de leurs
-établissements ou de leurs œuvres sociales, après avis du ministre chargé du
-budget.
+après avis du directeur départemental ou, le cas échéant, régional des finances
+publiques du département du siège de l'organisme concerné et, pour les agents
+comptables des organismes nationaux, de leurs établissements ou de leurs œuvres
+sociales, après avis du ministre chargé du budget.
 
 II.-Abrogé
 

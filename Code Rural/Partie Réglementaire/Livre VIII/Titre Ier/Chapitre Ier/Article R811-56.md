@@ -8,11 +8,12 @@ comptables d'établissements publics locaux.
 
 Dans le cas des groupements, l'agent comptable siège dans l'un des
 établissements publics locaux choisi par le directeur régional de
-l'alimentation, de l'agriculture et de la forêt , après avis de la
-région.L'agent comptable perçoit, outre sa rémunération principale, une
-indemnité de caisse et de responsabilité pour la gestion des différents postes
-comptables dont il est titulaire.
+l'alimentation, de l'agriculture et de la forêt, après avis de la région.
+L'agent comptable perçoit, outre sa rémunération principale, une indemnité de
+caisse et de responsabilité pour la gestion des différents postes comptables
+dont il est titulaire.
 
-Ces mêmes fonctions sont confiées à un agent des services extérieurs du Trésor
-si l'importance de l'établissement public local ne justifie pas qu'il soit
-recouru à un agent comptable à temps plein.
+Ces mêmes fonctions sont confiées à un agent des services déconcentrés de la
+direction générale des finances publiques si l'importance de l'établissement
+public local ne justifie pas qu'il soit recouru à un agent comptable à temps
+plein.

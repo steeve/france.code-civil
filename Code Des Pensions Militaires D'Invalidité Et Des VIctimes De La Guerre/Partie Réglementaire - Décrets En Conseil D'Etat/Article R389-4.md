@@ -4,11 +4,10 @@ Pour l'examen des demandes présentées par des combattants volontaires de la
 Résistance, le comité départemental de prêts prévu aux articles 2 à 6 de
 l'ordonnance n° 45-2255 du 5 octobre 1945 est composé comme suit :
 
-Le trésorier-payeur général ou son représentant, président ;
+Le directeur départemental ou, le cas échéant, régional des finances publiques
+ou son représentant, président ;
 
 Le directeur de la succursale de la Banque de France ou son représentant ;
-
-Le directeur départemental des contributions directes ou son représentant ;
 
 Le directeur du service départemental des anciens combattants et victimes de
 guerre ou son représentant ;
@@ -36,8 +35,9 @@ A titre consultatif, le président de la banque populaire dont la circonscriptio
 comprend la localité où s'exerce l'activité du demandeur ou son représentant.
 
 Dans le département de Paris, le comité départemental est présidé par le
-receveur central des finances de Paris ou son représentant. Les représentants de
-la Banque de France et l'administration des contributions directes et du crédit
-populaire sont désignés respectivement par le gouverneur de la Banque de France,
-le directeur général des impôts et l'organe central des caisses d'épargne et des
-banques populaires.
+directeur régional des finances publiques d'Ile-de-France et du département de
+Paris ou son représentant. Les représentants de la Banque de France, de la
+direction générale des finances publiques et du crédit populaire sont désignés
+respectivement par le gouverneur de la Banque de France, le directeur général
+des finances publiques et l'organe central des caisses d'épargne et des banques
+populaires.

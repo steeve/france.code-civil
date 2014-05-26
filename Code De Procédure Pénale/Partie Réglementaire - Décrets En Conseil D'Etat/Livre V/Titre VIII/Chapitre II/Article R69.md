@@ -25,8 +25,8 @@ l'Intérieur ;
 d'exécution des contraintes judiciaires, par les chefs des établissements
 pénitentiaires ;
 
-6° Pour le paiement de l'amende par les trésoriers-payeurs généraux, les
-receveurs particuliers des finances et les percepteurs ;
+6° Pour le paiement de l'amende par les comptables de la direction générale des
+finances publiques ;
 
 7° Pour les décisions prononçant une peine ou une dispense de peine après
 ajournement du prononcé de la peine, par le greffier de la juridiction qui a

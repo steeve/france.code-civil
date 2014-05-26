@@ -3,7 +3,8 @@ Article R423-12
 I.-Pour obtenir la validation annuelle ou temporaire de son permis de chasser,
 le titulaire du permis présente, sous sa propre responsabilité, aux fédérations
 départementales ou interdépartementales des chasseurs de son choix ou aux
-comptables du Trésor correspondants une demande dûment remplie et signée.
+comptables de la direction générale des finances publiques correspondants une
+demande dûment remplie et signée.
 
 II.-La demande de validation du permis de chasser doit être accompagnée d'une
 déclaration sur l'honneur du demandeur :
@@ -27,6 +28,6 @@ des cotisations, des contributions et des participations prévus à l'article L.
 
 III.-Si le chasseur se trouve dans l'un des cas prévus par l'article L. 423-15,
 la fédération départementale ou interdépartementale des chasseurs ou le
-comptable du Trésor refuse de délivrer le document de validation. S'il se trouve
-dans l'un des cas prévus par l'article L. 423-25, le préfet en est informé et
-statue.
+comptable de la direction générale des finances publiques refuse de délivrer le
+document de validation. S'il se trouve dans l'un des cas prévus par l'article L.
+423-25, le préfet en est informé et statue.

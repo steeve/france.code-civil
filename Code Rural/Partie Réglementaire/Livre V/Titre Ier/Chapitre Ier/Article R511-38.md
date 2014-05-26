@@ -7,14 +7,14 @@ tard le 1er décembre précédant la date de clôture du scrutin.
 
 Elle est composée :
 
-- du préfet ou de son représentant, président ;
+-du préfet ou de son représentant, président ;
 
-- du trésorier-payeur général ou son représentant ;
+-du directeur départemental ou, le cas échéant, régional des finances publiques
+ou son représentant ;
 
-- du directeur départemental de l'agriculture et de la forêt ou son représentant
-;
+-du directeur départemental des territoires ou son représentant ;
 
-- d'un membre élu de la chambre d'agriculture désigné par son président.
+-d'un membre élu de la chambre d'agriculture désigné par son président.
 
 La commission est assistée, pour les attributions visées aux 2° et 3° de
 l'article R. 511-39, d'un agent désigné par le directeur de La Poste du

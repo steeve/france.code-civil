@@ -37,8 +37,8 @@ ces délais commençant à courir un jour franc après la date de notification ;
 
 6° Avertissement au propriétaire que son absence de réponse dans les délais
 impartis vaudra abandon de son véhicule et que ledit véhicule sera, dans les
-conditions prévues par décret, soit remis au service des domaines en vue de son
-aliénation, soit livré à la destruction ;
+conditions prévues par décret, soit remis à l'administration chargée des
+domaines en vue de son aliénation, soit livré à la destruction ;
 
 7° Nature et montant des frais qu'il sera tenu de rembourser ;
 
@@ -49,5 +49,5 @@ véhicule révèle l'inscription d'un gage, copie de la notification de mise en
 fourrière est adressée par l'auteur de la prescription de mise en fourrière au
 créancier-gagiste, par lettre recommandée avec demande d'accusé de réception,
 qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6 et 7)
-fixant les conditions de remise au service des domaines des véhicules non
-retirés de fourrière par leurs propriétaires.
+fixant les conditions de remise à l'administration chargée des domaines des
+véhicules non retirés de fourrière par leurs propriétaires.

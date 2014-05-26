@@ -11,7 +11,8 @@ représentant ;
 
 b) Le secrétaire général du haut-commissariat ou son représentant ;
 
-c) Le trésorier-payeur général ou son représentant ;
+c) Le directeur chargé de la direction des finances publiques de la Polynésie
+française ou son représentant ;
 
 d) Les chefs de subdivisions administratives ou leurs représentants ;
 

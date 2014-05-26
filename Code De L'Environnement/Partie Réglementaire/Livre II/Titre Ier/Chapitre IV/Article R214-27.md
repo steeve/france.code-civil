@@ -1,12 +1,13 @@
 Article R214-27
 ----
-Si, après consultation du directeur départemental des services fiscaux et, s'il
-y a lieu, du gestionnaire du domaine public concerné, le bénéficiaire de
-l'autorisation, le propriétaire de l'ouvrage ou de l'installation, ou les
-détenteurs de droits réels sur ceux-ci n'ont pu être identifiés ou sont sans
-domicile connu, le dossier préparé par l'administration est déposé à la mairie
-de la ou des communes sur le territoire desquelles se trouve l'ouvrage,
-l'installation ou l'aménagement.
+Si, après consultation du directeur départemental ou, le cas échéant, régional
+des finances publiques ou, à Saint-Pierre-et-Miquelon, du directeur des finances
+publiques et, s'il y a lieu, du gestionnaire du domaine public concerné, le
+bénéficiaire de l'autorisation, le propriétaire de l'ouvrage ou de
+l'installation, ou les détenteurs de droits réels sur ceux-ci n'ont pu être
+identifiés ou sont sans domicile connu, le dossier préparé par l'administration
+est déposé à la mairie de la ou des communes sur le territoire desquelles se
+trouve l'ouvrage, l'installation ou l'aménagement.
 
 Un avis indiquant qu'un dossier préalable à une procédure de suppression de
 l'ouvrage, de l'installation ou de l'aménagement est déposé à la mairie ou aux

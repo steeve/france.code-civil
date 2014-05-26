@@ -11,7 +11,9 @@ décision de prendre en considération le projet est prise par le préfet.
 Si le projet est pris en considération, le directeur du port mène l'instruction
 dans les conditions prévues aux II et III de l'article R. *122-4. Le montant de
 la redevance pour occupation du domaine public de l'Etat fixé par le directeur
-des services fiscaux est mentionné dans le dossier d'instruction.
+départemental ou, le cas échéant, régional des finances publiques ou à
+Saint-Pierre-et-Miquelon, par le directeur des finances publiques est mentionné
+dans le dossier d'instruction.
 
 Lorsque la concession doit être accordée par un décret en Conseil d'Etat ou par
 un arrêté ministériel, le préfet transmet, dès l'issue de l'instruction, le

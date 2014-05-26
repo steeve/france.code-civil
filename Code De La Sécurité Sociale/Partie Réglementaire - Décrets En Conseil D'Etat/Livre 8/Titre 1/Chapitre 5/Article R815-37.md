@@ -12,7 +12,8 @@ L'allocation de solidarité aux personnes âgées allouée aux personnes mention
 à l'article R. 815-15 est payée selon la formule choisie par le bénéficiaire
 soit par virement à un compte ouvert au nom du bénéficiaire ou de son
 représentant légal dans un centre de chèques postaux, dans une banque, dans une
-caisse d'épargne ou chez un comptable du Trésor, soit par lettre-chèque.
+caisse d'épargne ou chez un comptable de la direction générale des finances
+publiques, soit par lettre-chèque.
 
 Les frais de paiement des arrérages sont à la charge de l'organisme ou du
 service débiteur de l'allocation de solidarité aux personnes âgées.

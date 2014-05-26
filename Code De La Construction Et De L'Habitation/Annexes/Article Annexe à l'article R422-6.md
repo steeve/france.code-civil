@@ -118,16 +118,17 @@ code de la construction et de l'habitation ou d'une opération programmée
 d'amélioration de l'habitat prévue à l'article L. 303-1 de ce code et dédiée aux
 copropriétés dégradées. La revente de ces lots n'est pas soumise aux
 dispositions du chapitre III du titre IV du livre IV de ce code mais requiert
-l'avis préalable du service des domaines. La location des lots en attente de
-leur revente est, par dérogation aux dispositions du titre IV du livre IV du
-même code, soumise aux règles mentionnées à l'article 40 de la loi n° 89-462 du
-6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification
-de la loi n° 86-1290 du 23 décembre 1986. Toutefois, la fixation du loyer ne
-peut excéder les plafonds de loyers fixés en application du troisième alinéa du
-g du 1° du I de l'article 31 du code général des impôts. En outre, les
-dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont
-applicables aux contrats de location qui prennent fin au plus tard à la revente
-des lots, lorsque le congé émane du bailleur ;
+l'avis préalable du directeur départemental ou, le cas échéant, régional des
+finances publiques. La location des lots en attente de leur revente est, par
+dérogation aux dispositions du titre IV du livre IV du même code, soumise aux
+règles mentionnées à l'article 40 de la loi n° 89-462 du 6 juillet 1989 tendant
+à améliorer les rapports locatifs et portant modification de la loi n° 86-1290
+du 23 décembre 1986. Toutefois, la fixation du loyer ne peut excéder les
+plafonds de loyers fixés en application du troisième alinéa du g du 1° du I de
+l'article 31 du code général des impôts. En outre, les dispositions du I et du
+II de l'article 15 de la loi du 6 juillet 1989 sont applicables aux contrats de
+location qui prennent fin au plus tard à la revente des lots, lorsque le congé
+émane du bailleur ;
 
 19° De réaliser des prestations de services pour le compte de syndicats de
 copropriétaires d'immeubles faisant l'objet d'un plan de sauvegarde en

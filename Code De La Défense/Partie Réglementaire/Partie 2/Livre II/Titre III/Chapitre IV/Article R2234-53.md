@@ -11,7 +11,8 @@ compte tenu de l'escompte de 1 % prévu à l'article R. 2234-55.
 La créance de l'Etat au titre de la plus-value est liquidée par l'administration
 chargée du règlement des indemnités d'occupation.
 
-Le service des domaines est chargé du recouvrement de l'indemnité de plus-value.
+Le directeur départemental ou, le cas échéant, régional des finances publiques
+est chargé du recouvrement de l'indemnité de plus-value.
 
 Le cas échéant, les poursuites sont diligentées par ses soins conformément aux
 dispositions des articles L. 2323-4 à L. 2323-6 du code général de la propriété

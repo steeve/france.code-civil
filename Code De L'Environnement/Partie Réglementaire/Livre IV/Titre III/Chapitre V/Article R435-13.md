@@ -1,7 +1,9 @@
 Article R435-13
 ----
 I.-La résiliation du bail ou le retrait de la licence peut être prononcé par le
-préfet, après avis du directeur des services fiscaux :
+préfet, après avis du directeur départemental ou, le cas échéant, régional des
+finances publiques ou, à Saint-Pierre-et-Miquelon, du directeur des finances
+publiques :
 
 1° Si le détendeur du droit de pêche ou les autres personnes habilitées à pêcher
 ne remplissent plus les conditions requises ou ne se conforment pas à leurs

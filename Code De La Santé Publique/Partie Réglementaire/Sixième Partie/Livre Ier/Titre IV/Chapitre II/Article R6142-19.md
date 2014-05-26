@@ -15,10 +15,12 @@ inspecteur régional de santé publique ou de l'un des contractants, toute
 personne dont l'audition lui paraît nécessaire.
 
 Lorsque la commission se réunit pour régler des difficultés d'ordre financier,
-le ou les trésoriers-payeurs généraux du ou des départements de la ou des villes
-sièges des unités de formation et de recherche et du centre hospitalier
-universitaire intéressés ou à Paris, le receveur général des finances sont
-obligatoirement convoqués afin de faire connaître leur avis.
+le ou les directeurs départementaux ou, le cas échéant, régionaux des finances
+publiques du ou des départements de la ou des villes sièges des unités de
+formation et de recherche et du centre hospitalier universitaire intéressés ou à
+Paris, le directeur régional des finances publiques d'Ile-de-France et du
+département de Paris sont obligatoirement convoqués afin de faire connaître leur
+avis.
 
 Le contrôleur financier de l'Assistance publique-hôpitaux de Paris est également
 convoqué lorsque cette administration est concernée.

@@ -8,8 +8,10 @@ habilité à cet effet ou l'une des institutions ou l'un des établissements
 mentionnés à l'article L. 518-1 du code monétaire et financier.
 
 Si le cautionnement est représenté par une hypothèque, la valeur des immeubles
-est estimée par le directeur des services fiscaux sur les bases établies pour la
-perception des droits de mutation en cas de décès.
+est estimée par le directeur départemental ou, le cas échéant, régional des
+finances publiques sur les bases établies pour la perception des droits de
+mutation en cas de décès.
 
 Pour la conservation de cette garantie, une inscription est prise, dans
-l'intérêt des tiers, à la diligence et au nom du directeur des services fiscaux.
+l'intérêt des tiers, à la diligence et au nom du directeur départemental ou, le
+cas échéant, régional des finances publiques.

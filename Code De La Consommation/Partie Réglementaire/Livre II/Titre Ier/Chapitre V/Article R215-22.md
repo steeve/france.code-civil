@@ -8,4 +8,5 @@ disposition.
 
 Ce dossier est transmis au procureur de la République. S'il s'agit de produits
 soumis à une réglementation propre aux contributions indirectes, avis doit en
-être donné au directeur des services fiscaux du département.
+être donné au directeur régional des douanes et droits indirects
+territorialement compétent.

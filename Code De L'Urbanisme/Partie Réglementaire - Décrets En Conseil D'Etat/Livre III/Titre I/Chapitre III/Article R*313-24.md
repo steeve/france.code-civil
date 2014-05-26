@@ -24,4 +24,5 @@ c) Comporte des indications sur la situation de droit ou de fait de l'occupation
 du ou des bâtiments ;
 
 5° Une estimation de la valeur des immeubles avant restauration faite par le
-service des domaines et l'estimation sommaire du coût des restaurations.
+directeur départemental ou, le cas échéant, régional des finances publiques et
+l'estimation sommaire du coût des restaurations.

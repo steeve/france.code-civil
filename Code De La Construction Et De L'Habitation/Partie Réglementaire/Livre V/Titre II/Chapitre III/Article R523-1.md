@@ -8,5 +8,6 @@ bénéficier, après avis de la commission prévue à l'article R. 321-6-4, d'un
 subvention de l'Agence nationale de l'habitat selon des modalités prévues par
 son règlement général.
 
-Le prix d'acquisition est évalué par le service des domaines, minoré du coût des
-mesures prescrites et des charges afférentes non réalisées par le vendeur.
+Le prix d'acquisition est évalué par le directeur départemental ou, le cas
+échéant, régional des finances publiques, minoré du coût des mesures prescrites
+et des charges afférentes non réalisées par le vendeur.

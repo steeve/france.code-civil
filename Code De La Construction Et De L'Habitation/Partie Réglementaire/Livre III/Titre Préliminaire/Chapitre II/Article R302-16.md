@@ -38,7 +38,8 @@ maître d'ouvrage concerné.
 3° Les moins-values correspondant à la différence entre le prix de cession de
 terrains ou de biens immobiliers devant effectivement donner lieu à la
 réalisation de logements locatifs sociaux et leur valeur vénale estimée, à la
-date de la cession, par le service des domaines.
+date de la cession, par le directeur départemental ou, le cas échéant, régional
+des finances publiques.
 
 Seule peut être admise en déduction la fraction des dépenses qui n'a pas fait
 l'objet d'une subvention du fonds d'aménagement urbain.

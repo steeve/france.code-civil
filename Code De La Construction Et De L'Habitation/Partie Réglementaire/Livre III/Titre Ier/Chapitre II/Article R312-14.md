@@ -11,9 +11,10 @@ trouvent les collectivités locales intéressées, le compte d'exploitation, le
 compte de pertes et profits, et le bilan établis à la clôture de l'exercice
 précédent.
 
-Le préfet de ce département désigne chaque année, sur proposition du
-trésorier-payeur général, un agent pour contrôler la comptabilité des organismes
-ou sociétés qui ne sont pas soumis en permanence à la surveillance des membres
-d'un corps de contrôle local. Ce contrôle s'effectue, à toute époque, au siège
-des organismes ou sociétés. Le préfet communique aux collectivités locales
-intéressées les rapports de contrôle accompagnés de ses observations.
+Le préfet de ce département désigne chaque année, sur proposition du directeur
+départemental ou, le cas échéant, régional des finances publiques, un agent pour
+contrôler la comptabilité des organismes ou sociétés qui ne sont pas soumis en
+permanence à la surveillance des membres d'un corps de contrôle local. Ce
+contrôle s'effectue, à toute époque, au siège des organismes ou sociétés. Le
+préfet communique aux collectivités locales intéressées les rapports de contrôle
+accompagnés de ses observations.

@@ -38,4 +38,9 @@ programme pluriannuel régional de gestion du risque ;
 
 8° La mention de la politique de santé menée à Saint-Pierre-et-Miquelon se
 substitue à la mention de la politique de santé régionale ou de la politique de
-santé dans la région.
+santé dans la région ;
+
+9° La mention du " directeur chargé de la direction locale des finances
+publiques de Saint-Pierre-et-Miquelon " se substitue à la mention du " directeur
+départemental ou, le cas échéant, régional des finances publiques " et à celle
+du " directeur régional des finances publiques ".

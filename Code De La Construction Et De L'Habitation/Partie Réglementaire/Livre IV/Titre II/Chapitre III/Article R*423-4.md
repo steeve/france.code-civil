@@ -1,13 +1,15 @@
 Article R*423-4
 ----
 Lorsque l'office opte pour le régime de la comptabilité de commerce, le
-comptable du Trésor fournit au directeur général, un mois avant la clôture du
-dernier exercice soumis aux règles de la comptabilité publique, toutes
-informations lui permettant d'établir une situation provisoire au 1er janvier.
+comptable de la direction générale des finances publiques fournit au directeur
+général, un mois avant la clôture du dernier exercice soumis aux règles de la
+comptabilité publique, toutes informations lui permettant d'établir une
+situation provisoire au 1er janvier.
 
 Dès l'ouverture du premier exercice d'application du nouveau régime budgétaire
-et comptable, le comptable direct du Trésor transmet au directeur général un
-état décrivant la situation de trésorerie et la totalité des fonds disponibles.
+et comptable, le comptable de la direction générale des finances publiques
+transmet au directeur général un état décrivant la situation de trésorerie et la
+totalité des fonds disponibles.
 
 Dans les quatre mois suivant la clôture du dernier exercice soumis aux règles de
 la comptabilité publique, il achève les opérations nécessaires à l'arrêté des

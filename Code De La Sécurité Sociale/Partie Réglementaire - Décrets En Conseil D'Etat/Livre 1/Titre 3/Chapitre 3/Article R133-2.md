@@ -9,11 +9,12 @@ indépendant dans les quinze jours devant la juridiction compétente pour les
 contestations relatives aux cotisations, l'état des cotisations ouvrières et
 patronales de sécurité sociale mentionnées par l'avertissement ou la mise en
 demeure est rendu exécutoire par décision du responsable du service mentionné à
-l'article R. 155-1, remise au trésorier-payeur général du département où se
-trouve l'établissement de l'employeur ou le domicile du travailleur indépendant,
-qui assure, par l'intermédiaire du percepteur du domicile du débiteur, le
-recouvrement des sommes ainsi exigibles, y compris les frais afférents, comme en
-matière de contributions directes.
+l'article R. 155-1, remise au directeur départemental ou, le cas échéant,
+régional des finances publiques du département où se trouve l'établissement de
+l'employeur ou le domicile du travailleur indépendant, qui assure, par
+l'intermédiaire du comptable de la direction générale des finances publiques du
+domicile du débiteur, le recouvrement des sommes ainsi exigibles, y compris les
+frais afférents, comme en matière de contributions directes.
 
 L'arrêté mentionné au premier alinéa de l'article L. 133-1 est pris par le
 ministre chargé du budget.

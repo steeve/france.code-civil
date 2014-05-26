@@ -41,7 +41,8 @@ participe pas aux votes :
 
 -le chef de service dont dépend l'intéressé, ou son représentant ;
 
--le trésorier-payeur général ou son représentant ;
+-le directeur départemental ou, le cas échéant, régional des finances publiques
+ou son représentant ;
 
 -deux représentants, titulaires ou éventuellement suppléants, des magistrats à
 l'égard desquels la commission est compétente et qui sont désignés par leurs

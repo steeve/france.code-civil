@@ -21,4 +21,5 @@ la répartition est fixée par décision conjointe du ministre chargé du domain
 du ministre chargé des ports maritimes pour les cessions d'immeubles dont la
 valeur vénale excède le montant défini en application de l'article R. 129-4 du
 code du domaine de l'Etat, par décision conjointe du directeur du port autonome
-et du directeur des services fiscaux dans les autres cas.
+et du directeur départemental ou, le cas échéant, régional des finances
+publiques dans les autres cas.

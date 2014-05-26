@@ -1,11 +1,12 @@
 Article R435-26
 ----
 L'adjudication du droit de pêche a lieu publiquement par-devant le préfet ou son
-délégué, assisté du chef du service gestionnaire de la pêche et du directeur des
-services fiscaux ou de leurs représentants, sur la base du loyer annuel, soit
-aux enchères verbales, soit sur soumissions cachetées, soit par combinaison des
-enchères verbales et des soumissions cachetées, selon le mode d'adjudication
-choisi par le préfet.
+délégué, assisté du chef du service gestionnaire de la pêche et du directeur
+départemental ou, le cas échéant, régional des finances publiques ou, à
+Saint-Pierre-et-Miquelon, du directeur des finances publiques ou de leurs
+représentants, sur la base du loyer annuel, soit aux enchères verbales, soit sur
+soumissions cachetées, soit par combinaison des enchères verbales et des
+soumissions cachetées, selon le mode d'adjudication choisi par le préfet.
 
 Pour un même lot, l'adjudication de la pêche aux lignes précède, s'il y a lieu,
 celle de la pêche aux engins et aux filets.

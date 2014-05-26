@@ -14,4 +14,5 @@ de sa date d'envoi, le montant des sommes dues sera diminué de vingt pour cent.
 Les magistrats ou officiers du ministère public vérifient les extraits
 d'ordonnances pénales. Lorsqu'une peine d'amende a été prononcée, l'ordonnance
 fait l'objet d'un relevé de condamnation pénale adressé par le greffier en chef
-au comptable du Trésor conformément aux dispositions de l'article R. 55-5.
+au comptable de la direction générale des finances publiques conformément aux
+dispositions de l'article R. 55-5.

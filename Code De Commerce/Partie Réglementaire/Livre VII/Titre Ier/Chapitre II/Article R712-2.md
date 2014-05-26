@@ -6,7 +6,7 @@ chargé de la tutelle des chambres de commerce et d'industrie ;
 
 2° La tutelle des chambres de commerce et d'industrie de région et des chambres
 de commerce et d'industrie territoriales est assurée par le préfet de région,
-assisté par le responsable régional des finances publiques.
+assisté par le directeur régional des finances publiques.
 
 Lorsque le ressort territorial de la chambre régionale de commerce et
 d'industrie excède les limites de la circonscription administrative régionale,
@@ -18,5 +18,5 @@ commerce et d'industrie de région, le préfet de région compétent est celui d
 siège de la chambre de région à laquelle cette chambre est rattachée.
 
 3° La tutelle des groupements interconsulaires est assurée par le préfet de la
-région où se situe le siège du groupement, assisté du responsable régional des
+région où se situe le siège du groupement, assisté du directeur régional des
 finances publiques correspondant.

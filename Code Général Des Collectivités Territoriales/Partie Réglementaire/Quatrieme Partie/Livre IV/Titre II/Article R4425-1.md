@@ -11,9 +11,10 @@ et quatre membres du conseil exécutif de Corse, le président de l'Assemblée d
 Corse et quatre représentants élus de l'Assemblée de Corse ;
 
 2° Dix représentants de l'Etat dont le secrétaire général pour les affaires de
-Corse, le trésorier-payeur général de Corse et huit représentants de l'Etat
-désignés par arrêté du préfet de Corse, parmi les fonctionnaires des services de
-l'Etat en Corse, intéressés par les transferts de compétences.
+Corse, le directeur régional des finances publiques de Corse et du département
+de Corse-du-Sud et huit représentants de l'Etat désignés par arrêté du préfet de
+Corse, parmi les fonctionnaires des services de l'Etat en Corse, intéressés par
+les transferts de compétences.
 
 Le président du conseil exécutif de Corse et le président de l'Assemblée de
 Corse désignent leur suppléant. L'Assemblée de Corse et le préfet de Corse

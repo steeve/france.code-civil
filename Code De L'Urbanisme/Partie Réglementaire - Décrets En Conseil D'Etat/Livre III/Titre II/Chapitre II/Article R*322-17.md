@@ -41,7 +41,7 @@ de terrain, l'arrêté mentionne :
 par l'association et le préfet ;
 
 -la superficie des terrains à apporter ainsi que leur valeur déterminée par le
-directeur des services fiscaux.
+directeur départemental ou, le cas échéant, régional des finances publiques.
 
 L'arrêté préfectoral intervient dans un délai de deux mois à compter de la
 réception du plan de remembrement par le préfet. Toutefois, dans le cas où il

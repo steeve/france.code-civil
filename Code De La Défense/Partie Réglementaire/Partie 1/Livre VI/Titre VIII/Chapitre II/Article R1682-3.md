@@ -12,7 +12,8 @@ membre de droit.
 
 La commission comprend en outre :
 
-1° Le trésorier-payeur général ou le fonctionnaire en tenant lieu ;
+1° Le directeur des finances publiques, régional ou chargé d'une direction
+locale ou son représentant ;
 
 2° Le commissaire de l'armée de terre, le commissaire de la marine ou le
 commissaire de l'air territorialement compétent ;

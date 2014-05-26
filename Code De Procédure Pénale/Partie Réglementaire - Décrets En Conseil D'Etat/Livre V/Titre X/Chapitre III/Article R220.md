@@ -6,4 +6,5 @@ matière civile.
 
 Ces frais ne sont point imputés sur les fonds généraux des frais de justice
 criminelle, correctionnelle et de police ; l'avance et la régularisation en sont
-effectuées par les soins des comptables du Trésor.
+effectuées par les soins des comptables de la direction générale des finances
+publiques.

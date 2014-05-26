@@ -16,4 +16,5 @@ et certifié par l'ordonnateur ;
 
 6° La copie des délibérations du conseil municipal ou des organes de gestion ;
 
-7° L'avis motivé du trésorier-payeur général ou du contrôleur budgétaire.
+7° L'avis motivé du directeur chargé de la direction des finances publiques de
+la Nouvelle-Calédonie ou du contrôleur budgétaire.

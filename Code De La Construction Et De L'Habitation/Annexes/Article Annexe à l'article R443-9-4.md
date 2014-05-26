@@ -209,9 +209,9 @@ Apport en nature :
 L'organisme d'HLM (ou la SEM) apporte à la société, sous les garanties
 ordinaires de droit et de fait, un immeuble situé à et évalué à la somme de €
 
-(préciser désignation, contenance, pleine propriété, évaluation du service des
-domaines, charges et conditions particulières, publicité foncière, origine de
-propriété...).
+(préciser désignation, contenance, pleine propriété, évaluation du directeur
+départemental ou, le cas échéant, régional des finances publiques, charges et
+conditions particulières, publicité foncière, origine de propriété...).
 
 
 Article 6

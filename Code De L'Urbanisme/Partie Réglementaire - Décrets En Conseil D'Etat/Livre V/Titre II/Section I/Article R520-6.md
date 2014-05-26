@@ -14,10 +14,11 @@ Le directeur départemental de l'équipement et le maire peuvent déléguer leur
 signature aux agents placés sous leur autorité.
 
 A défaut de paiement de la redevance dans le délai fixé à l'avertissement
-portant notification de la décision visée à l'alinéa précédent, la créance du
-Trésor fait l'objet d'un avis de mise en recouvrement. Ce dernier est émis
-conformément aux dispositions de l'article L. 79 du code du domaine de l'Etat
-par le service des domaines dans le délai de deux ans à compter soit de la
-délivrance du permis de construire, soit du dépôt des déclarations prévues par
-les articles L. 520-9 et R. 422-3 du présent code ou à défaut de la constatation
-du début des travaux.
+portant notification de la décision visée au premier alinéa, la créance fait
+l'objet d'un titre de perception. Ce dernier est émis conformément aux
+dispositions de l'article L. 2323-1 du code général de la propriété des
+personnes publiques par le directeur départemental ou, le cas échéant, régional
+des finances publiques dans le délai de deux ans à compter soit de la délivrance
+du permis de construire, soit du dépôt des déclarations prévues par les articles
+L. 421-4 et L. 520-9 du présent code ou à défaut de la constatation du début des
+travaux.

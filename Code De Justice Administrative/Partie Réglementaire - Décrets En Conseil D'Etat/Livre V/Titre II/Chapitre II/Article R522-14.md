@@ -7,8 +7,9 @@ République près le tribunal de grande instance territorialement compétent.
 
 Copie de l'ordonnance par laquelle le juge des référés ordonne la suspension
 d'un acte constituant une pièce justificative du paiement de dépenses publiques
-est transmise sans délai au trésorier-payeur général du département dans lequel
-a son siège l'autorité qui a pris l'acte en cause.
+est transmise sans délai au directeur départemental ou, le cas échéant, régional
+des finances publiques du département dans lequel a son siège l'autorité qui a
+pris l'acte en cause.
 
 Les mêmes règles s'appliquent à l'ordonnance qui modifie ou met fin à la
 suspension.

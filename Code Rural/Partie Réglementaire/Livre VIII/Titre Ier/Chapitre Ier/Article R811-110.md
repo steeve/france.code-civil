@@ -9,5 +9,6 @@ l'enseignement agricole.
 Les établissements visés par la présente section sont également soumis aux
 vérifications de l'inspection générale des finances.
 
-En outre, le contrôle de l'agent comptable est assuré par les comptables
-supérieurs du Trésor.
+En outre, le contrôle de l'agent comptable est assuré par le directeur
+départemental ou, le cas échéant, régional des finances publiques
+territorialement compétent.

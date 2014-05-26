@@ -6,8 +6,9 @@ durée de cinq ans. Toutefois, la date d'expiration des contrats de location peu
 domaine et du ministre chargé de la pêche en eau douce.
 
 Le montant des loyers ne peut être inférieur au prix de base fixé, pour chaque
-lot, par le directeur des services fiscaux après avis du service ou de
-l'établissement gestionnaire du domaine.
+lot, par le directeur départemental ou, le cas échéant, régional des finances
+publiques ou, à Saint-Pierre-et-Miquelon, le directeur des finances publiques
+après avis du service ou de l'établissement gestionnaire du domaine.
 
 La location fait l'objet soit d'un acte administratif passé par le préfet, soit
 d'un procès-verbal d'adjudication.

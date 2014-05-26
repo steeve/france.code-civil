@@ -24,8 +24,8 @@ véhicules sont fixés par arrêté conjoint du ministre de l'intérieur et du
 ministre chargé de l'économie et des finances, compte tenu des catégories de
 véhicules.
 
-V.-Les frais de vente par le service des domaines sont fixés conformément aux
-dispositions de l'article A. 114 du code du domaine de l'Etat.
+V.-Les frais de vente par l'administration chargée des domaines sont fixés
+conformément aux dispositions de l'article A. 114 du code du domaine de l'Etat.
 
 VI.-Les professionnels auxquels l'autorité dont relève la fourrière fait appel
 dans le cadre de la mise en fourrière sont rémunérés par cette autorité.

@@ -6,4 +6,5 @@ décision de la juridiction.
 Lorsque la décision met l'indemnité à la charge de la partie civile, l'indemnité
 est payée par le régisseur à titre d'avance faite par le Trésor public. Le
 recouvrement du montant de l'indemnité auprès de la partie civile est poursuivi
-à la diligence des comptables du Trésor par toutes voies de droit.
+à la diligence des comptables de la direction générale des finances publiques
+par toutes voies de droit.

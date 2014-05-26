@@ -6,10 +6,11 @@ date prévue d'entrée en vigueur du nouveau régime, une délibération portant
 déclaration d'intention afin de pouvoir mettre en œuvre les mesures
 préparatoires.
 
-Cette délibération est transmise au préfet et au trésorier-payeur général. Dans
-les six mois à compter de cette transmission, le trésorier-payeur général
-notifie son avis au président du conseil d'administration et le communique au
-préfet.
+Cette délibération est transmise au préfet et au directeur départemental ou, le
+cas échéant, régional des finances publiques. Dans les six mois à compter de
+cette transmission, le directeur départemental ou, le cas échéant, régional des
+finances publiques notifie son avis au président du conseil d'administration et
+le communique au préfet.
 
 La délibération du conseil d'administration arrêtant le choix de l'office en
 application de l'article L. 421-17 est adoptée au plus tard le 31 juillet avant

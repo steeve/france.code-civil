@@ -10,5 +10,5 @@ transmission qui est faite par l'ordonnateur compétent au comptable assignatair
 de l'ordonnance de taxe.
 
 Le refus motivé du ministère public d'exercer le recours est porté à la
-connaissance du Trésor public. Dans ce cas, le comptable assignataire exécute
-l'ordonnance de taxe.
+connaissance du comptable assignataire. Dans ce cas, le comptable assignataire
+exécute l'ordonnance de taxe.

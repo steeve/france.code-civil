@@ -17,10 +17,10 @@ reversée au port autonome et comptabilisée par celui-ci à un compte d'attente
 jusqu'à la réalisation du remploi. Si celui-ci n'intervenait pas dans le délai
 précité de cinq ans, la somme serait définitivement acquise à l'Etat.
 
-Les actes d'acquisition en remploi sont passés par le service des domaines. Les
-immeubles ainsi acquis sont réputés pour la totalité appartenir au domaine de
-l'Etat et soumis, quant à leur administration et à leur aliénation, aux règles
-définies au premier alinéa de l'article R. *113-22. En cas de revente
+Les actes d'acquisition en remploi sont passés par l'administration chargée des
+domaines. Les immeubles ainsi acquis sont réputés pour la totalité appartenir au
+domaine de l'Etat et soumis, quant à leur administration et à leur aliénation,
+aux règles définies au premier alinéa de l'article R. *113-22. En cas de revente
 ultérieure, le montant de la plus-value résultant des aménagements réalisés est
 réparti entre l'Etat et le port autonome, conformément aux dispositions du
 deuxième alinéa de l'article R. *113-22, le surplus du prix de vente étant

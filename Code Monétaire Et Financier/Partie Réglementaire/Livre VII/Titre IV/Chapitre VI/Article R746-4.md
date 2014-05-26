@@ -8,7 +8,8 @@ haut-commissaire de la République, président :
 
 a) le secrétaire général du haut-commissariat ou son représentant ;
 
-b) le trésorier-payeur général ou son représentant ;
+b) le directeur chargé de la direction des finances publiques de la
+Nouvelle-Calédonie ou son représentant ;
 
 c) le directeur de l'agence locale de l'Institut d'émission d'outre-mer ou son
 représentant ;

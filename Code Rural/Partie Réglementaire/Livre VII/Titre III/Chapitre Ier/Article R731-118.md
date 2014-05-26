@@ -16,6 +16,7 @@ fraction est remboursée au nouvel assureur par l'ancien.
 
 Jusqu'à la prise en charge prévue aux alinéas précédents, un administrateur
 provisoire désigné par le directeur régional de l'alimentation, de l'agriculture
-et de la forêt sur avis conforme du trésorier-payeur général du siège de
-l'organisme auquel l'habilitation a été retirée, fait prendre les mesures
-conservatoires et urgentes nécessitées par le retrait d'habilitation.
+et de la forêt sur avis conforme du directeur départemental ou, le cas échéant,
+régional des finances publiques du siège de l'organisme auquel l'habilitation a
+été retirée, fait prendre les mesures conservatoires et urgentes nécessitées par
+le retrait d'habilitation.
