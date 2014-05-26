@@ -27,3 +27,6 @@ n'est pas désignée par la personne gardée à vue, elle l'est d'office par le
 président de cette juridiction. Les dispositions de l'article 63-4-4 et celles
 du deuxième alinéa du présent article sont applicables à la personne choisie,
 qui en est informée par l'officier de police judiciaire.
+
+Le présent article est applicable à l'assistance par un avocat prévue au 5° de
+l'article 61-1.

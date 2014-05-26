@@ -14,3 +14,6 @@ une personne, qui a été appelée à intervenir dans les conditions prévues à
 l'alinéa précédent, de faire état auprès de quiconque de l'entretien, des
 auditions ou du contenu des procès-verbaux consultés dans le but d'entraver le
 cours de la justice est puni d'un an d'emprisonnement et de 15 000 € d'amende.
+
+Le présent article est applicable à l'assistance par un avocat prévue au 5° de
+l'article 61-1.
