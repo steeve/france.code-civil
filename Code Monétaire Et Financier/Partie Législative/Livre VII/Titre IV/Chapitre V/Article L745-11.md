@@ -43,4 +43,8 @@ du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties
 centrales et les référentiels centraux " sont remplacés par les mots : " celles
 prévues par le 1° du II de l'article L. 745-11 ".
 
+Pour l'application de l'article L. 533-22-3, les références à l'article L.
+227-2-1 du code de commerce sont remplacées par les références aux dispositions
+applicables localement ayant le même objet.
+
 III.-Les articles L. 573-1 à L. 573-7 s'y appliquent également.

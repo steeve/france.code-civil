@@ -41,8 +41,9 @@ consignations et à ses dirigeants ;
 sociétés de gestion de portefeuille, au titre de leurs activités mentionnées au
 6° de l'article L. 561-2, sur les dépositaires centraux et les gestionnaires de
 systèmes de règlement et de livraison d'instruments financiers, sur les
-personnes autorisées au titre de l'article L. 621-18-5 et sur les conseillers en
-investissements financiers ;
+personnes autorisées au titre de l'article L. 621-18-5, sur les conseillers en
+investissements financiers et sur les conseillers en investissements
+participatifs ;
 
 3° (Supprimé)
 

@@ -46,7 +46,8 @@ d'une activité d'expert-comptable, dans la mesure où celle-ci est régie par d
 dispositions législatives ou réglementaires ou par un code de déontologie
 approuvé par une autorité publique qui ne l'interdisent pas formellement ;
 
-h) (abrogé)
+h) Les conseillers en investissements participatifs, dans les conditions et
+limites fixées au chapitre VII du titre IV ;
 
 i) Les personnes qui ne fournissent aucun autre service d'investissement que la
 négociation pour compte propre, à moins qu'elles ne soient teneurs de marché ou

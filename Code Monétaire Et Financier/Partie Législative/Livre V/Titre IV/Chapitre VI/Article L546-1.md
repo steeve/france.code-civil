@@ -2,8 +2,10 @@ Article L546-1
 ----
 I. ― Les intermédiaires en opérations de banque et en services de paiement
 définis à l'article L. 519-1, les conseillers en investissements financiers
-définis à l'article L. 541-1 et les agents liés définis à l'article L. 545-1
-sont immatriculés sur le registre unique prévu à l'article L. 512-1 du code des
+définis à l'article L. 541-1, les agents liés définis à l'article L. 545-1, les
+conseillers en financement participatif définis à l'article L. 547-1 et les
+intermédiaires en financement participatif définis à l'article L. 548-1 sont
+immatriculés sur le registre unique prévu à l'article L. 512-1 du code des
 assurances.
 
 Un décret en Conseil d'Etat précise les conditions d'immatriculation sur ce

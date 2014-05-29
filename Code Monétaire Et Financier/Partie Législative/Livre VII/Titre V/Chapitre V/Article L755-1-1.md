@@ -61,7 +61,7 @@ livre II du code de la mutualité pour les opérations visées au e du 1° de
 l'article L. 111-1 dudit code " sont remplacés par les mots : " ni l'institut
 d'émission d'outre-mer " ;
 
-b) Le quatrième et le dernier alinéa sont supprimés ;
+b) Le quatrième et l'avant-dernier alinéa sont supprimés ;
 
 c) Au septième alinéa, les mots : " et des institutions ou services mentionnés
 l'article L. 518-1 " sont supprimés ;

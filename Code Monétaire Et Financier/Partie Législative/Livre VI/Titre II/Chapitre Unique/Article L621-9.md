@@ -9,11 +9,15 @@ et actifs mentionnés au II de l'article L. 421-1 admis aux négociations sur un
 marché réglementé ou sur un système multilatéral de négociation qui se soumet
 aux dispositions législatives ou réglementaires visant à protéger les
 investisseurs contre les opérations d'initiés, les manipulations de cours et la
-diffusion de fausses informations. Elle veille également à la régularité des
-opérations effectuées sur des contrats commerciaux relatifs à des marchandises
-liés à un ou plusieurs instruments financiers. Ne sont pas soumis au contrôle de
-l'Autorité des marchés financiers les marchés d'instruments créés en
-représentation des opérations de banque qui, en application de l'article L.
+diffusion de fausses informations. Elle veille à la régularité des offres ne
+donnant pas lieu à la publication du document d'information mentionné au premier
+alinéa du I de l'article L. 412-1 et réalisée par l'intermédiaire d'un
+prestataire de services d'investissement ou d'un conseiller en investissements
+participatifs au moyen de son site internet. Elle veille également à la
+régularité des opérations effectuées sur des contrats commerciaux relatifs à des
+marchandises liés à un ou plusieurs instruments financiers. Ne sont pas soumis
+au contrôle de l'Autorité des marchés financiers les marchés d'instruments créés
+en représentation des opérations de banque qui, en application de l'article L.
 214-20, ne peuvent pas être détenus par des OPCVM. Sont soumis au contrôle de
 l'Autorité des marchés financiers les instruments financiers négociés sur un
 système multilatéral de négociation, admis à la négociation sur un tel marché ou
@@ -64,6 +68,8 @@ la directive 2011/61/ UE du Parlement européen et du Conseil du 8 juin 2011 ;
 
 10° Les conseillers en investissements financiers ;
 
+10° bis Les conseillers en investissements participatifs ;
+
 11° Les personnes, autres que celles mentionnées aux 1° et 7°, produisant et
 diffusant des analyses financières ;
 
@@ -82,8 +88,8 @@ du travail ;
 
 16° (Abrogé)
 
-17° Les associations professionnelles de conseillers en investissements
-financiers agréées mentionnées à l'article L. 541-4.
+17° Les associations professionnelles agréées mentionnées aux articles L. 541-4
+et L. 547-4.
 
 L'Autorité des marchés financiers veille au respect par ces mêmes entités ou
 personnes, ainsi que par les personnes physiques placées sous leur autorité ou

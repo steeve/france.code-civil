@@ -14,10 +14,9 @@ l'objet d'un protocole d'accord. Elle peut être retirée à tout moment ;
 judiciaires ou à des personnes ou autorités compétentes. Ces personnes peuvent
 recevoir une rémunération de l'Autorité des marchés financiers à ce titre ;
 
-3° Déléguer aux associations de conseillers en investissements financiers
-mentionnées à l'article L. 541-4 le contrôle de l'activité de leurs membres.
-Cette délégation fait l'objet d'un protocole d'accord et peut être retirée à
-tout moment.
+3° Déléguer aux associations mentionnées aux articles L. 541-4 et L. 547-4 le
+contrôle de l'activité de leurs membres. Cette délégation fait l'objet d'un
+protocole d'accord et peut être retirée à tout moment.
 
 Le collège ou le secrétaire général de l'Autorité des marchés financiers peuvent
 demander aux commissaires aux comptes des sociétés dont les titres financiers

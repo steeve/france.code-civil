@@ -32,14 +32,18 @@ d'outre-mer mentionné à l'article L. 712-4 du même code ;
 portefeuille, les personnes mentionnées à l'article L. 440-2, les entreprises de
 marché mentionnées à l'article L. 421-2, les dépositaires centraux et
 gestionnaires de systèmes de règlement et de livraison d'instruments financiers,
-les conseillers en investissements financiers et les intermédiaires habilités
-mentionnés à l'article L. 211-4, les sociétés de gestion de portefeuille au
-titre des services d'investissement mentionnés à l'article L. 321-1, ainsi que
-les sociétés de gestion de portefeuille et les sociétés de gestion au titre de
-la commercialisation des parts ou actions d'organismes de placement collectif
-dont elles assurent ou non la gestion ;
+les conseillers en investissements financiers, les conseillers en
+investissements participatifs et les intermédiaires habilités mentionnés à
+l'article L. 211-4, les sociétés de gestion de portefeuille au titre des
+services d'investissement mentionnés à l'article L. 321-1, ainsi que les
+sociétés de gestion de portefeuille et les sociétés de gestion au titre de la
+commercialisation des parts ou actions d'organismes de placement collectif dont
+elles assurent ou non la gestion ;
 
 7° Les changeurs manuels ;
+
+7° bis Les intermédiaires en financement participatif mentionnés à l'article L.
+548-2 ;
 
 8° Les personnes exerçant les activités mentionnées aux 1°, 2°, 4°, 5°, 8° et 9°
 de l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions

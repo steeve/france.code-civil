@@ -33,4 +33,7 @@ sont applicables à ces activités de démarchage les dispositions de l'article 
 4° Les intermédiaires en opérations de banque et en services de paiement
 mentionnés à l'article L. 519-1 ;
 
-5° Les agents liés mentionnés à l'article L. 545-1.
+5° Les agents liés mentionnés à l'article L. 545-1 ;
+
+6° Les conseillers en investissements participatifs définis à l'article L.
+547-1.

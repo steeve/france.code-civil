@@ -19,6 +19,28 @@ fixé par le règlement général de l'Autorité des marchés financiers ;
 supérieure à un montant fixé par le règlement général de l'Autorité des marchés
 financiers.
 
+I bis.-Ne constitue pas une offre au public au sens de l'article L. 411-1
+l'offre :
+
+1° Qui porte sur des titres financiers mentionnés au 1 ou au 2 du II de
+l'article L. 211-1 qui ne sont pas admis aux négociations sur un marché
+réglementé ou un système multilatéral de négociation ;
+
+2° Et qui est proposée par l'intermédiaire d'un prestataire de services
+d'investissement ou d'un conseiller en investissements participatifs au moyen
+d'un site internet remplissant les caractéristiques fixées par le règlement
+général de l'Autorité des marchés financiers ;
+
+3° Et dont le montant total est inférieur à un montant fixé par décret. Le
+montant total de l'offre est calculé sur une période de douze mois dans des
+conditions fixées par le règlement général de l'Autorité des marchés financiers.
+
+La société qui procède à l'offre ne peut se prévaloir des dispositions de
+l'article L. 232-25 du code de commerce. Lorsque la société qui procède à
+l'offre a pour objet de détenir et de gérer des participations dans une autre
+société, la société dans laquelle elle détient des participations ne peut pas se
+prévaloir de cette même disposition.
+
 II.-Ne constitue pas une offre au public au sens de l'article L. 411-1 l'offre
 qui s'adresse exclusivement :
 

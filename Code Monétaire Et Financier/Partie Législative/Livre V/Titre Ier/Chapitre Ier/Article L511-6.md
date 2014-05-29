@@ -10,8 +10,8 @@ d'investissement, ni les établissements de monnaie électronique, ni les
 établissements de paiement, ni les organismes collecteurs de la participation
 des employeurs à l'effort de construction pour les opérations prévues par le
 code de la construction et de l'habitation, ni les OPCVM ni les FIA relevant des
-paragraphes 1, 2, 3 et 6 de la sous-section 2, et des sous-sections 3, 4 et 5 de
-la section 2 du chapitre IV du titre Ier du livre II.
+paragraphes 1,2,3 et 6 de la sous-section 2, et des sous-sections 3,4 et 5 de la
+section 2 du chapitre IV du titre Ier du livre II.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 
@@ -54,4 +54,12 @@ titre de garanties publiques.
 
 6. Aux personnes morales pour les prêts participatifs qu'elles consentent en
 vertu des articles L. 313-13 à L. 313-17 et aux personnes morales mentionnées à
-l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.
+l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article ;
+
+7. Aux personnes physiques qui, agissant à des fins non professionnelles ou
+commerciales, consentent des prêts dans le cadre du financement participatif de
+projets déterminés, conformément aux dispositions de l'article L. 548-1 et dans
+la limite d'un prêt par projet. Le taux conventionnel applicable à ces crédits
+est de nature fixe et ne dépasse pas le taux mentionné à l'article L. 313-3 du
+code de la consommation. Un décret fixe les principales caractéristiques de ces
+prêts, notamment leur durée maximale.

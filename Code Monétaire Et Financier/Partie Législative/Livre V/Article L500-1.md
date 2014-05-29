@@ -10,7 +10,8 @@ d'un organisme mentionné aux articles L. 213-8, L. 511-1, L. 517-1, L. 517-4, L
 signer pour le compte de cet organisme ;
 
 2° Exercer l'une des professions ou activités mentionnées aux articles L. 341-1,
-L. 519-1, L. 524-1, L. 523-1, L. 525-8, L. 541-1 et L. 550-1.
+L. 519-1, L. 524-1, L. 523-1, L. 525-8, L. 541-1, L. 547-1 et L. 548-1 et L.
+550-1.
 
 II.-Les condamnations mentionnées au I sont celles :
 

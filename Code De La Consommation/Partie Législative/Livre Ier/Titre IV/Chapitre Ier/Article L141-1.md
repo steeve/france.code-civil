@@ -80,8 +80,8 @@ de l'article L. 347-1 du code de l'action sociale et des familles ;
 et à la protection des consommateurs ainsi qu'à diverses pratiques commerciales
 ;
 
-12° Du dernier alinéa du I de l'article L. 112-6 du code monétaire et financier
-;
+12° Du dernier alinéa du I de l'article L. 112-6 et des sections 1 à 3 du
+chapitre VIII du titre IV du livre V du code monétaire et financier ;
 
 13° Des deux premiers alinéas de l'article L. 213-2 du code de la route ;
 

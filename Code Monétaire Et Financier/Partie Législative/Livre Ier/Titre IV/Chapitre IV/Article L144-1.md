@@ -6,10 +6,12 @@ Ces entreprises et groupements professionnels peuvent communiquer à la Banque d
 France des informations sur leur situation financière.
 
 La Banque de France peut communiquer tout ou partie des renseignements qu'elle
-détient sur la situation financière des entreprises aux autres banques
-centrales, aux autres institutions chargées d'une mission similaire à celles qui
-lui sont confiées en France et aux établissements de crédit et établissements
-financiers, notamment les sociétés de financement.
+détient sur la situation financière des entreprises aux autres banques centrales
+aux autres institutions chargées d'une mission similaire à celles qui lui sont
+confiées en France, aux établissements de crédit et établissements financiers,
+notamment les sociétés de financement, et aux intermédiaires en financement
+participatif lorsqu'ils exercent l'intermédiation au sens de l'article L. 548-1
+pour les opérations de prêt à titre onéreux ou sans intérêt.
 
 Elle peut aussi communiquer ces renseignements aux entreprises d'assurance
 habilitées, dans les conditions prévues par le code des assurances, à pratiquer

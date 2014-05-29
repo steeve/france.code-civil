@@ -3,14 +3,18 @@ Article L621-7
 Le règlement général de l'Autorité des marchés financiers détermine notamment :
 
 I.-Les règles de pratique professionnelle qui s'imposent aux émetteurs
-lorsqu'ils procèdent à une offre au public ou dont les instruments financiers
-sont admis aux négociations sur un marché réglementé ainsi que les règles qui
-doivent être respectées lors d'opérations sur des instruments financiers et des
-actifs mentionnés au II de l'article L. 421-1 admis aux négociations sur un
-marché réglementé ou sur un système multilatéral de négociation qui se soumet
-aux dispositions législatives ou réglementaires visant à protéger les
-investisseurs contre les opérations d'initiés, les manipulations de cours et la
-diffusion de fausses informations.
+lorsqu'ils procèdent à une offre au public ou à une offre ne donnant pas lieu à
+la publication du document d'information mentionné au premier alinéa du I de
+l'article L. 412-1 et réalisée par l'intermédiaire d'un prestataire de services
+d'investissement ou d'un conseiller en investissements participatifs au moyen de
+son site internet, ou dont les instruments financiers sont admis aux
+négociations sur un marché réglementé ainsi que les règles qui doivent être
+respectées lors d'opérations sur des instruments financiers et des actifs
+mentionnés au II de l'article L. 421-1 admis aux négociations sur un marché
+réglementé ou sur un système multilatéral de négociation qui se soumet aux
+dispositions législatives ou réglementaires visant à protéger les investisseurs
+contre les opérations d'initiés, les manipulations de cours et la diffusion de
+fausses informations.
 
 II.-Les règles relatives aux offres publiques d'acquisition portant sur des
 titres financiers admis aux négociations sur un marché réglementé.

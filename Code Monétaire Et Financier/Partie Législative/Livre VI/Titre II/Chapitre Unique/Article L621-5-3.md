@@ -129,38 +129,38 @@ OPCVM, multiplié par un taux fixé par décret, qui ne peut excéder 0,015 ‰ 
 pouvoir être inférieur à 1 500 €. Les encours sont calculés au 31 décembre de
 l'année précédente et déclarés au plus tard le 30 avril ;
 
-4° Dans le cadre du contrôle des personnes mentionnées au 10° du II de l'article
-L. 621-9, cette contribution est égale à un montant fixé par décret et supérieur
-à 400 euros et inférieur ou égal à 1 000 euros. L'organisme qui tient le
-registre unique prévu à l'article L. 512-1 du code des assurances transmet à
-l'Autorité des marchés financiers une liste arrêtée au 1er janvier de chaque
-exercice de ces personnes. II bis. ― Il est institué une contribution, exigible
-le 1er janvier de chaque année, due, à partir d'un seuil de capitalisation
-boursière d'un milliard d'euros apprécié au 1er janvier de l'année d'imposition,
-par les émetteurs français dont les titres de capital sont admis à cette date
-aux négociations sur un marché réglementé de l'Espace économique européen et par
-les émetteurs étrangers dont les titres de capital sont admis à cette date aux
-négociations sur un marché réglementé français lorsque celui-ci est le marché
-réglementé sur lequel le volume des échanges de titres est le plus élevé. Le
-montant de cette contribution, compris entre 20 000 € et 300 000 €, est fixé en
-fonction de la capitalisation boursière moyenne de l'émetteur constatée le
-dernier jour de négociation des trois années précédentes ou, lorsque les titres
-de capital de l'émetteur sont admis aux négociations sur un marché réglementé
-depuis moins de trois ans, de sa capitalisation boursière constatée le dernier
-jour de négociation de l'année précédente. Les tranches du barème progressif de
-cette contribution, au nombre de cinq, ainsi que les montants correspondants
-sont fixés par décret. II ter. ― Il est institué une contribution annuelle due
-par les établissements de crédit et les entreprises d'investissement, à
-l'exception des sociétés de gestion de portefeuille, ayant leur siège en France
-et habilités au 1er janvier à exercer le service d'investissement mentionné au 3
-de l'article L. 321-1. Le redevable de la contribution est le prestataire de
-services d'investissement qui établit ses comptes sous forme consolidée, ou, à
-défaut, celle des entités consolidées du groupe habilitées à exercer le service
-d'investissement mentionné au même 3 ayant son siège en France dont le montant
-du produit net bancaire au titre du dernier exercice comptable est le plus
-élevé. Cette contribution n'est pas due par les prestataires de services
-d'investissement compris dans le périmètre consolidé d'une société ayant son
-siège hors de France.
+4° Dans le cadre du contrôle des personnes mentionnées aux 10° et 10° bis du II
+de l'article L. 621-9, cette contribution est égale à un montant fixé par décret
+et supérieur à 400 euros et inférieur ou égal à 1 000 euros. L'organisme qui
+tient le registre unique prévu à l'article L. 512-1 du code des assurances
+transmet à l'Autorité des marchés financiers une liste arrêtée au 1er janvier de
+chaque exercice de ces personnes. II bis. ― Il est institué une contribution,
+exigible le 1er janvier de chaque année, due, à partir d'un seuil de
+capitalisation boursière d'un milliard d'euros apprécié au 1er janvier de
+l'année d'imposition, par les émetteurs français dont les titres de capital sont
+admis à cette date aux négociations sur un marché réglementé de l'Espace
+économique européen et par les émetteurs étrangers dont les titres de capital
+sont admis à cette date aux négociations sur un marché réglementé français
+lorsque celui-ci est le marché réglementé sur lequel le volume des échanges de
+titres est le plus élevé. Le montant de cette contribution, compris entre 20 000
+€ et 300 000 €, est fixé en fonction de la capitalisation boursière moyenne de
+l'émetteur constatée le dernier jour de négociation des trois années précédentes
+ou, lorsque les titres de capital de l'émetteur sont admis aux négociations sur
+un marché réglementé depuis moins de trois ans, de sa capitalisation boursière
+constatée le dernier jour de négociation de l'année précédente. Les tranches du
+barème progressif de cette contribution, au nombre de cinq, ainsi que les
+montants correspondants sont fixés par décret. II ter. ― Il est institué une
+contribution annuelle due par les établissements de crédit et les entreprises
+d'investissement, à l'exception des sociétés de gestion de portefeuille, ayant
+leur siège en France et habilités au 1er janvier à exercer le service
+d'investissement mentionné au 3 de l'article L. 321-1. Le redevable de la
+contribution est le prestataire de services d'investissement qui établit ses
+comptes sous forme consolidée, ou, à défaut, celle des entités consolidées du
+groupe habilitées à exercer le service d'investissement mentionné au même 3
+ayant son siège en France dont le montant du produit net bancaire au titre du
+dernier exercice comptable est le plus élevé. Cette contribution n'est pas due
+par les prestataires de services d'investissement compris dans le périmètre
+consolidé d'une société ayant son siège hors de France.
 
 L'assiette de cette contribution est la fraction excédant un montant de 12
 milliards d'euros de l'assiette mentionnée au A du II de l'article L. 612-20.
