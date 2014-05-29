@@ -8,7 +8,15 @@ l'article L. 321-1, du soixantième jour d'indemnisation, un trimestre étant
 également décompté pour chaque nouvelle période d'indemnisation de soixante
 jours ;
 
-2°) le trimestre civil au cours duquel est survenu l'accouchement ;
+2° a) Le trimestre civil au cours duquel l'assuré a bénéficié du
+quatre-vingt-dixième jour d'indemnisation au titre du 2° de l'article L. 330-1
+et de l'article 32 de la loi n° 2004-1370 du 20 décembre 2004 de financement de
+la sécurité sociale pour 2005. Si la durée d'indemnisation a été inférieure à
+quatre-vingt-dix jours, le trimestre civil au cours duquel l'assuré a bénéficié
+du dernier jour d'indemnisation est décompté comme période d'assurance ;
+
+b) Un trimestre est également décompté pour chaque nouvelle période
+d'indemnisation de quatre-vingt-dix jours ;
 
 3°) chaque trimestre civil comportant une échéance du paiement des arrérages de
 la pension d'invalidité ;
