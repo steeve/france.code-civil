@@ -1,8 +1,8 @@
 Article R310-2
 ----
 Une déclaration préalable de la vente en liquidation est adressée par lettre
-recommandée avec demande d'avis de réception ou remise, au préfet du département
-où les opérations de vente sont prévues, deux mois au moins avant la date prévue
+recommandée avec demande d'avis de réception ou remise au maire de la commune où
+les opérations de vente sont prévues, deux mois au moins avant la date prévue
 pour le début de la vente.
 
 Toutefois, ce délai est réduit à cinq jours lorsque le motif invoqué à l'appui
