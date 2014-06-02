@@ -7,6 +7,8 @@ président exerce avant ou après ses fonctions un mandat d'administrateur, le c
 conseil d'administration sont incompatibles avec celles de directeur général de
 l'agence.
 
+La limite d'âge du président est fixée à soixante-sept ans.
+
 Le conseil d'administration élit en son sein un vice-président choisi parmi les
 membres des collèges mentionnés aux 2°, 3°, 4° ou 5° de l'article R. 1313-4, qui
 exerce toutes les prérogatives du président en cas d'absence ou d'empêchement de
