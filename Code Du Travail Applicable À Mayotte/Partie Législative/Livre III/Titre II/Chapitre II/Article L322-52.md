@@ -3,8 +3,7 @@ Article L322-52
 Les compétences acquises dans le cadre de l'emploi d'avenir sont reconnues par
 une attestation de formation, une attestation d'expérience professionnelle ou
 une validation des acquis de l'expérience prévue à l'article L. 335-5 du code de
-l'éducation. Elles peuvent également faire l'objet d'une certification inscrite
-au répertoire national des certifications professionnelles.
+l'éducation.
 
 La présentation à un examen pour acquérir un diplôme ou à un concours doit être
 favorisée pendant ou à l'issue de l'emploi d'avenir.

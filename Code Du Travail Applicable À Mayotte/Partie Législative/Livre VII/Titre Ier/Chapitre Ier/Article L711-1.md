@@ -1,25 +1,24 @@
 Article L711-1
 ----
 La formation professionnelle continue des salariés et des personnes à la
-recherche d'un emploi est régie par les dispositions du présent livre. La
-collectivité départementale de Mayotte, les communes, les établissements
-publics, les établissements d'enseignement publics et privés, les associations,
-les organisations syndicales d'employeurs et de salariés, les organisations
+recherche d'un emploi est régie par les dispositions du présent livre. Le
+Département de Mayotte, les communes, les établissements publics, les
+établissements d'enseignement publics et privés, les associations, les
+organisations syndicales d'employeurs et de salariés, les organisations
 familiales ainsi que les entreprises concourent à l'assurer.
 
 Le financement des actions de formation professionnelle continue, définies à
 l'article L. 711-2, est assuré par une contribution annuelle, versée à un fonds
 de la formation professionnelle continue, par tout employeur, sans préjudice des
-dépenses directes qu'il peut effectuer pour le compte de ses salariés.L'Etat et
-la collectivité départementale de Mayotte peuvent participer au financement de
-ce fonds.
+dépenses directes qu'il peut effectuer pour le compte de ses salariés. L'Etat et
+le Département de Mayotte peuvent participer au financement de ce fonds.
 
 Le taux de la contribution prévue à l'alinéa précédent est fixé à 1 % du montant
 des rémunérations brutes dans la limite d'un plafond.
 
 La contribution est contrôlée et recouvrée selon les modalités prévues pour la
-taxe d'apprentissage par le code des impôts applicable dans la collectivité
-départementale de Mayotte.
+taxe d'apprentissage par le code des impôts applicable dans le Département de
+Mayotte.
 
 La gestion du fonds est assurée par un organisme paritaire créé par un accord
 professionnel de travail et agréé par arrêté du représentant de l'Etat. Cet

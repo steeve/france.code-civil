@@ -5,4 +5,4 @@ paritaires agréés concourent au financement de la rémunération des stagiaire
 la formation professionnelle.
 
 L'institution mentionnée à l'article L. 326-6 y concourt également, le cas
-échéant pour le compte de l'organisme mentionné à l'article L. 327-57.
+échéant pour le compte de l'organisme mentionné à l'article L. 327-54.

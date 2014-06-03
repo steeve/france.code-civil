@@ -12,5 +12,9 @@ année de licence ou, le cas échéant, en troisième année de licence ou en
 première année de master dans un établissement d'enseignement supérieur, âgés de
 vingt-cinq ans au plus et se destinant aux métiers du professorat. La limite
 d'âge est portée à trente ans lorsque l'étudiant présente un handicap reconnu
-par la commission exerçant les attributions dévolues à la commission prévue à
-l'article L. 146-9 du code de l'action sociale et des familles.
+par la commission exerçant les attributions dévolues à la commission des
+personnes handicapées mentionnée à l'article L. 545-2 du code de l'action
+sociale et des familles dans sa rédaction maintenue en vigueur à Mayotte par le
+3° de l'article 10 de l'ordonnance n° 2012-785 du 31 mai 2012 portant extension
+et adaptation du code de l'action sociale et des familles au Département de
+Mayotte.

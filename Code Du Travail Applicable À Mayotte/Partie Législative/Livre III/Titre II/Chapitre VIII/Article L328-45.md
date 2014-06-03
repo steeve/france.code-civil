@@ -6,6 +6,6 @@ handicapés en milieu ordinaire de travail.
 
 La gestion du fonds de développement pour l'insertion professionnelle des
 handicapés à Mayotte est confiée à l'association mentionnée à l'article L.
-5214-1 du code du travail.
+5214-1 A.
 
 Cette association est soumise au contrôle administratif et financier de l'Etat.

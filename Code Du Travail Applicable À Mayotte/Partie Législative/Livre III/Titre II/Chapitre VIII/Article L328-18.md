@@ -3,7 +3,10 @@ Article L328-18
 Bénéficient de l'obligation d'emploi instituée par l'article L. 328-7 :
 
 1° Les travailleurs reconnus handicapés par la commission mentionnée à l'article
-L. 545-2 du code de l'action sociale et des familles ;
+L. 545-2 du code de l'action sociale et des familles dans sa rédaction maintenue
+en vigueur à Mayotte par le 3° de l'article 10 de l'ordonnance n° 2012-785 du 31
+mai 2012 portant extension et adaptation du code de l'action sociale et des
+familles au Département de Mayotte ;
 
 2° Les victimes d'accidents du travail ou de maladies professionnelles ayant
 entraîné une incapacité permanente au moins égale à 10 % et titulaires d'une
@@ -34,7 +37,7 @@ conditions prévues au 5° ci-dessus ;
 service de guerre, si elles bénéficient de l'article L. 124 du code des pensions
 militaires d'invalidité et des victimes de la guerre ;
 
-8° Les titulaires de la carte d'invalidité définie à l'article L. 545-3 du code
+8° Les titulaires de la carte d'invalidité définie à l'article L. 241-3 du code
 de l'action sociale et des familles ;
 
 9° Les titulaires de l'allocation pour adulte handicapé prévue aux articles 35

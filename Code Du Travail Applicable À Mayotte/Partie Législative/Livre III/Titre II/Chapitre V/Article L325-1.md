@@ -1,24 +1,38 @@
 Article L325-1
 ----
-Ont droit à une aide de l'Etat les demandeurs d'emploi inscrits depuis plus de
-trois mois auprès de la direction du travail, de l'emploi et de la formation
-professionnelle qui créent ou reprennent une entreprise industrielle,
-commerciale, artisanale ou agricole, soit à titre individuel, soit sous la forme
-d'une société, à condition d'en exercer effectivement le contrôle, ou qui
-entreprennent l'exercice d'une autre profession non salariée.
+Peuvent bénéficier d'une aide de l'Etat, lorsqu'ils créent ou reprennent une
+activité économique, industrielle, commerciale, artisanale, agricole ou
+libérale, soit à titre individuel, soit sous la forme d'une société, à condition
+d'en exercer effectivement le contrôle, ou entreprennent l'exercice d'une autre
+profession non salariée :
 
-Pour l'obtention de l'aide prévue à l'alinéa précédent, les volontaires des
-armées ayant accompli leur temps de service comme stagiaire dans une unité du
-service militaire adapté sont réputés avoir satisfait aux conditions
-d'inscription prévues au même alinéa.
+1° Les demandeurs d'emploi indemnisés ;
 
-Le montant de cette aide modulable dans la limite d'un plafond est fixé par
-décret. Elle est réputée accordée si un refus explicite n'intervient pas dans le
-mois qui suit la demande.
+2° Les demandeurs d'emploi non indemnisés inscrits à l'institution mentionnée à
+l'article L. 326-6 depuis plus de trois mois au cours des dix-huit derniers mois
+;
 
-L'Etat peut participer par convention au financement des actions de conseil ou
-de formation à la gestion d'entreprise qui sont organisées avant la création ou
-la reprise d'entreprise et pendant trois années après.
+3° Les bénéficiaires de l'allocation de solidarité spécifique ou du revenu de
+solidarité active ;
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent
-article.
+4° Les personnes de plus de trente ans non indemnisées ou reconnues travailleurs
+handicapés ;
+
+5° Les personnes salariées ou les personnes licenciées d'une entreprise soumise
+à l'une des procédures de sauvegarde, de redressement ou de liquidation
+judiciaires prévues aux titres II, III et IV du livre VI du code de commerce qui
+reprennent tout ou partie de cette entreprise dès lors qu'elles s'engagent à
+investir en capital la totalité des aides et à réunir des apports
+complémentaires en capital au moins égaux à la moitié des aides accordées ;
+
+6° Les personnes ayant conclu un contrat d'appui au projet d'entreprise
+mentionné à l'article L. 127-1 du code de commerce, sous réserve qu'elles
+remplissent l'une des conditions prévues aux 1° à 6° à la date de conclusion de
+ce contrat ;
+
+7° Les personnes physiques créant une entreprise implantée au sein d'une zone
+urbaine sensible ;
+
+8° Les volontaires dans les armées et les volontaires stagiaires du service
+militaire adapté ayant servi dans une unité du service militaire adapté sont
+réputés avoir satisfait aux conditions d'inscription prévues au même alinéa.

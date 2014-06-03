@@ -8,9 +8,12 @@ en personnes morales distinctes.
 Leurs effectifs de production comportent au moins 80 % de travailleurs
 handicapés orientés vers le marché du travail par la commission des personnes
 handicapées prévue à l'article L. 545-2 du code de l'action sociale et des
-familles et qui soit sont recrutés sur proposition du service public de l'emploi
-ou d'un organisme de placement spécialisé, soit répondent aux critères fixés par
-arrêté du ministre chargé de l'emploi.
+familles dans sa rédaction maintenue en vigueur à Mayotte par le 3° de l'article
+10 de l'ordonnance n° 2012-785 du 31 mai 2012 portant extension et adaptation du
+code de l'action sociale et des familles au Département de Mayotte et qui soit
+sont recrutés sur proposition du service public de l'emploi ou d'un organisme de
+placement spécialisé, soit répondent aux critères fixés par arrêté du ministre
+chargé de l'emploi.
 
 Les entreprises adaptées et les centres de distribution de travail à domicile
 permettent à ces salariés d'exercer une activité professionnelle dans des

@@ -26,7 +26,7 @@ main-d'œuvre destinée à vérifier son aptitude au travail ou à certains type
 d'emplois ;
 
 e) Refuse une proposition de contrat d'apprentissage ou de contrat de
-professionnalisation ;
+qualification ;
 
 f) Refuse une action d'insertion ou une offre de contrat aidé prévues aux
 chapitres II et III du présent titre.

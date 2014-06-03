@@ -5,7 +5,7 @@ travail applicable dans les départements de métropole et d'outre-mer, est
 également compétent pour connaître des sujets relatifs à l'emploi à Mayotte. Il
 concourt à la définition des orientations stratégiques des politiques de
 l'emploi à Mayotte. Il veille à la mise en cohérence des actions des différentes
-institutions et organismes mentionnés aux articles L. 326-6 et L. 327-57 et à
+institutions et organismes mentionnés aux articles L. 326-6 et L. 327-54 et à
 l'évaluation des actions engagées.
 
 A cette fin, il peut être consulté :
