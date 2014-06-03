@@ -1,7 +1,7 @@
 Article R723-100
 ----
 Dans les cent vingt jours qui suivent la date de l'élection mentionnée à
-l'article L. 723-23, l'assemblée générale centrale de la mutualité sociale
+l'article R. 723-61, l'assemblée générale centrale de la mutualité sociale
 agricole est convoquée aux fins de procéder à l'élection du conseil central
 d'administration.
 

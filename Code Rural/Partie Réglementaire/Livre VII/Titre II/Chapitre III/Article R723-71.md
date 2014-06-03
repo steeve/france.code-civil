@@ -3,8 +3,8 @@ Article R723-71
 Les opérations de dépouillement peuvent, sur décision du président du conseil
 d'administration de la caisse de mutualité sociale agricole notifiée au moins
 quinze jours à l'avance aux membres de la commission électorale, aux candidats
-et aux délégués de liste, être poursuivies au lendemain du jour fixé en
-application du cinquième alinéa de l'article R. 723-61.
+et aux délégués de liste, être poursuivies au lendemain du jour du scrutin de
+l'article R. 723-61.
 
 Dans ce cas le président du conseil d'administration ou, lorsqu'il s'agit d'un
 établissement départemental, son représentant dans l'établissement s'assure des

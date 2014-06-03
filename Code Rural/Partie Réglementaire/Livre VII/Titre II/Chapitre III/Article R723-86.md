@@ -1,6 +1,6 @@
 Article R723-86
 ----
-Dans le délai de soixante jours suivant l'élection prévue à l'article L. 723-23,
+Dans le délai de soixante jours suivant l'élection prévue à l'article R. 723-61,
 les délégués cantonaux sont convoqués en assemblée générale par le président du
 conseil d'administration sortant ou, à défaut, par le directeur régional de
 l'alimentation, de l'agriculture et de la forêt, en vue de procéder à l'élection

@@ -21,8 +21,8 @@ juridictions ;
 6° Les frais d'affranchissement entrant dans le cadre de la convention passée
 avec La Poste ;
 
-7° Les frais de fonctionnement de la commission électorale prévue au troisième
-alinéa de l'article L. 723-23 ;
+7° Les frais de fonctionnement de la commission électorale prévue au premier
+alinéa de l'article R. 723-44 ;
 
 8° Les frais de convocation des membres de l'assemblée générale ;
 

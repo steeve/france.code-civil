@@ -32,3 +32,8 @@ causes de l'annexion.
 Si l'annexion n'a pas été faite, cette circonstance n'entraîne l'annulation des
 opérations qu'autant qu'il est établi qu'elle a eu pour but et pour conséquence
 de porter atteinte à la sincérité du scrutin.
+
+Lorsque, au moment du dépouillement, il est constaté que l'électeur ayant envoyé
+un vote par correspondance a déjà voté électroniquement par internet, son
+enveloppe de vote par correspondance est immédiatement détruite. Cette opération
+est mentionnée au procès-verbal.

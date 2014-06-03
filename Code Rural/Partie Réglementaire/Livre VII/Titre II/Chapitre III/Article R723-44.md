@@ -1,15 +1,12 @@
 Article R723-44
 ----
-Pour l'application des dispositions du troisième alinéa de l'article L. 723-23,
-il est institué, dans le ressort de chaque caisse de mutualité sociale agricole
+Il est institué, dans le ressort de chaque caisse de mutualité sociale agricole
 ou de chaque établissement mentionné à l'article R. 723-28, une commission
-électorale, chargée de la proclamation des résultats et qui siège au chef-lieu
-de département. Les opérations d'émargement, de dépouillement et de recensement
-sont placées sous sa surveillance.
+électorale, chargée de la proclamation des résultats et située au siège de la
+caisse départementale ou pluridépartementale.
 
-Cette commission est présidée par le préfet de région compétent en application
-de l'article R. 152-2 du code de la sécurité sociale pour le siège de la caisse
-ou son représentant.
+Cette commission est présidée par le préfet de région du lieu du siège de la
+caisse ou son représentant.
 
 Elle comprend six membres titulaires et six membres suppléants nommés par le
 préfet de région sur proposition des organisations nationales représentatives
