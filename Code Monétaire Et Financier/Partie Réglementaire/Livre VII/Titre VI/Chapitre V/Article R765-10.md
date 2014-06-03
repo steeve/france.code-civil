@@ -1,6 +1,8 @@
 Article R765-10
 ----
-I.-Le titre VI du livre V est applicable dans les îles Wallis et Futuna.
+I.-Les articles R. 561-1 à R. 561-3, R. 561-4 à R. 561-10, R. 561-11 à R.
+561-31, R. 561-32, R. 561-33 à R. 561-50 et R. 562-1 à R. 563-5 sont applicables
+dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II.
 
 II.-Pour l'application de ces dispositions, les références aux codes des
 assurances, de la mutualité et de la sécurité sociale aux 2°, 3° et 4° de

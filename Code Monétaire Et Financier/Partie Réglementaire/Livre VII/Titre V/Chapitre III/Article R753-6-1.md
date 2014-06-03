@@ -1,3 +1,3 @@
 Article R753-6-1
 ----
-L'article R. 314-1 est applicable en Polynésie française.
+Les articles R. 314-1 et R. 315-1 sont applicables en Polynésie française.
