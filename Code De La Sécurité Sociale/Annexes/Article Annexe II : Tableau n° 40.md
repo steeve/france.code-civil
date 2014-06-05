@@ -1,8 +1,8 @@
 Article Annexe II : Tableau n° 40
 ----
-Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques :
-Mycobacterium avium/intracellulare, Mycobacterium kansasii, Mycobacterium
-xenopi, Mycobacterium marinum, Mycobacterium fortuitum
+Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques
+(Mycobacterium avium/intracellulare, Mycobacterium kansasii, Mycobacterium
+xenopi, Mycobacterium marinum, Mycobacterium fortuitum)
 
 
 DÉSIGNATION DES MALADIES
@@ -59,20 +59,28 @@ Travaux de laboratoire de biologie.
 - B -
 
 Affections dues à Mycobacterium tuberculosis, Mycobacterium bovis, Mycobacterium
-africanum. Primo-infection. Tuberculose pulmonaire ou pleurale. Tuberculose
-extra-thoracique.
+africanum :
+
+- infection tuberculeuse latente ;
+
+- tuberculose pulmonaire ou pleurale ;
+
+- tuberculose extra-thoracique.
+
+L'infection tuberculeuse latente sera attestée par l'évolution des tests
+tuberculiniques (IDR et/ou IGRA). L'étiologie des autres pathologies devra
+s'appuyer, à défaut de preuves bactériologiques, sur des examens
+anatomo-pathologiques ou d'imagerie, ou à défaut, par traitement d'épreuve
+spécifique.
 
 6 mois
 
-Travaux de laboratoire de bactériologie. Travaux effectués par le personnel de
-soins et assimilé, de laboratoire, d'entretien, de service ou des services
-sociaux, mettant le personnel au contact de produits contaminés ou de malades
-dont les examens bactériologiques ont été positifs.
+Travaux de laboratoire de bactériologie.
 
-La primo-infection sera attestée par l'évolution des tests tuberculiniques.
-L'étiologie des autres pathologies devra s'appuyer, à défaut de preuves
-bactériologiques, sur des examens anatomo-pathologiques ou d'imagerie, ou à
-défaut d'épreuve spécifique.
+Travaux effectués par le personnel de soins et assimilé, de laboratoire,
+d'entretien, de service ou des services sociaux, mettant le personnel au contact
+de produits contaminés ou de malades dont les examens bactériologiques ont été
+positifs.
 
 - C -
 
