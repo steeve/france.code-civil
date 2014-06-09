@@ -1,24 +1,24 @@
 Article 17 E
 ----
-I. Les assureurs auprès desquels ont été souscrits des contrats ou des avenants
-d'augmentation d'assurance en cas de vie ou d'assurance en cas de décès, dont
-les primes peuvent ouvrir droit à la réduction d'impôt prévue à l'article 199
-septies du code général des impôts, sont tenus de délivrer chaque année aux
-souscripteurs de ces contrats ou avenants un certificat permettant aux
+I. - Les assureurs auprès desquels ont été souscrits des contrats ou des
+avenants d'augmentation d'assurance en cas de vie ou d'assurance en cas de
+décès, dont les primes peuvent ouvrir droit à la réduction d'impôt prévue à
+l'article 199 septies du code général des impôts, sont tenus de délivrer chaque
+année aux souscripteurs de ces contrats ou avenants un certificat permettant aux
 intéressés de bénéficier de la réduction d'impôt prévue ci-dessus ;
 
-II. Le certificat prévu au I comporte, selon un modèle publié par
+II. - Le certificat prévu au I comporte, selon un modèle publié par
 l'administration, les indications suivantes :
 
--désignation de l'assureur ;
+- désignation de l'assureur ;
 
--nom, prénoms et adresse du souscripteur ;
+- nom, prénoms et adresse du souscripteur ;
 
--numéro du contrat ;
+- numéro du contrat ;
 
--date d'effet et durée du contrat ou de l'avenant ;
+- date d'effet et durée du contrat ou de l'avenant ;
 
--montant des primes venues à échéance au cours de l'année civile.
+- montant des primes venues à échéance au cours de l'année civile.
 
 Il précise en outre :
 
@@ -41,10 +41,10 @@ périodiques conclus ou prorogés du 1er janvier 1996 au 4 septembre 1996.
 2. pour les contrats ou avenants prévus au 2° de l'article 199 septies les nom
 et prénoms du bénéficiaire du capital ou de la rente viagère ;
 
-III. Lorsque les contrats d'assurance en cas de décès visés au 2° de l'article
+III. - Lorsque les contrats d'assurance en cas de décès visés au 2° de l'article
 199 septies sont souscrits sous la forme de contrats collectifs, l'organisme
 souscripteur délivre à ses adhérents le certificat décrit au II.
 
-IV. Le certificat décrit au II est joint par le souscripteur à sa déclaration
-d'ensemble des revenus de l'année au titre de laquelle il peut bénéficier de la
-réduction d'impôt.
+IV. - Pour bénéficier de la réduction d'impôt sur le revenu, le contribuable
+doit être en mesure de présenter, à la demande de l'administration, le
+certificat décrit au II.
