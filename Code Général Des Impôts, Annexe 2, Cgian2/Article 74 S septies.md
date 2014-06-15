@@ -6,7 +6,7 @@ irrévocable.
 Lorsque cette option est exercée, le vendeur ou l'exportateur présente, à
 l'appui de la déclaration prévue par l'article 150 VM du même code, les éléments
 permettant d'établir la date et le prix d'acquisition du bien cédé ou exporté ou
-de justifier que ce dernier est détenu depuis plus de douze ans.
+de justifier que ce dernier est détenu depuis plus de vingt-deux ans.
 
 En cas d'exportation, la déclaration mentionnée au deuxième alinéa doit être
 déposée, accompagnée du paiement de l'impôt éventuellement dû, par l'exportateur

@@ -8,6 +8,7 @@ revente à un acquéreur final.
 
 En cas d'option pour le régime de droit commun des plus-values sur biens meubles
 en application de l'article 150 VL du code général des impôts, l'intermédiaire
-est dégagé de toute responsabilité tant en raison des renseignements fournis par
-le vendeur ou l'exportateur que, le cas échéant, du calcul de la plus-value
+ou l'acquéreur assujetti à la taxe sur la valeur ajoutée établi en France est
+dégagé de toute responsabilité tant en raison des renseignements fournis par le
+vendeur ou l'exportateur que, le cas échéant, du calcul de la plus-value
 imposable.
