@@ -1,12 +1,13 @@
 Article R554-26
 ----
 I. ― Les exploitants sont tenus de répondre, sous leur responsabilité, dans le
-délai de neuf jours, jours fériés non compris, après la date de réception de la
+délai de sept jours, jours fériés non compris, après la date de réception de la
 déclaration d'intention de commencement de travaux dûment remplie. Ce délai est
-porté à quinze jours, jours fériés non compris, dans le cas où il est fait usage
-de la faculté prévue au IV de l'article R. 554-25 et lorsque la déclaration
-conjointe est adressée sous forme non dématérialisée. La réponse, sous forme
-d'un récépissé, est adressée à l'exécutant des travaux qui a fait la
+porté à neuf jours, jours fériés non compris, lorsque la déclaration est
+adressée sous forme non dématérialisée. Dans le cas où il est fait usage de la
+faculté prévue au IV de l'article R. 554-25, le délai de réponse est fixé
+conformément aux dispositions du I de l'article R. 554-22. La réponse, sous
+forme d'un récépissé, est adressée à l'exécutant des travaux qui a fait la
 déclaration. Elle lui apporte toutes informations utiles pour que les travaux
 soient exécutés dans les meilleures conditions de sécurité, notamment celles
 relatives à la localisation des ouvrages existants considérés, à une échelle et
