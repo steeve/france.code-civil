@@ -28,10 +28,10 @@ Si, pour un motif autre que la radiation de l'assuré, les cotisations n'ont pas
 Caisse des Français de l'étranger, au plus tard à la date limite d'exigibilité
 des cotisations, le document prévu à l'alinéa précédent.
 
-Par ailleurs, les articles L. 243-7 à L. 243-14 et les dispositions du chapitre
-IV du titre IV du livre II sont applicables aux organismes débiteurs d'avantages
-de cessation anticipée d'activité qui ne se seraient pas conformés aux
-prescriptions du présent article.
+Par ailleurs, les articles L. 133-5-5, L. 243-7 à L. 243-12-4 et les
+dispositions du chapitre IV du titre IV du livre II sont applicables aux
+organismes débiteurs d'avantages de cessation anticipée d'activité qui ne se
+seraient pas conformés aux prescriptions du présent article.
 
 Il est fait application des pénalités et majorations de retard prévues aux
 articles R. 243-38 et R. 711-3.
