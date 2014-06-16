@@ -28,7 +28,12 @@ pour la continuité de son fonctionnement. Si le service classe l'ouvrage comme
 ouvrage sensible, toutes les règles relatives aux ouvrages sensibles pour la
 sécurité fixées par le présent chapitre s'appliquent alors à cet ouvrage.
 
-II.-Un arrêté du ministre chargé de la sécurité des réseaux de transport et de
+II. - Lorsqu'un exploitant remet un ouvrage à son propriétaire ou transfère son
+exploitation à un autre exploitant, il lui transmet les données relatives à cet
+ouvrage mentionnées au I telles qu'elles ont été enregistrées sur le guichet
+unique.
+
+III.-Un arrêté du ministre chargé de la sécurité des réseaux de transport et de
 distribution précise les caractéristiques techniques des informations
-mentionnées au I du présent article et les modalités de leur transmission au
-guichet unique.
+mentionnées au I et au II du présent article et les modalités de leur
+transmission.

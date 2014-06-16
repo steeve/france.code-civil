@@ -13,11 +13,15 @@ l'exception des suivants :
 des tranchées ont été ouvertes, lorsque ces travaux sont effectués en
 application de l'article L. 141-11 du code de la voirie routière, ou de travaux
 de contrôle de la qualité du compactage des remblais de tranchées, à condition
-qu'ils n'agrandissent pas les tranchées concernées, et que l'exécutant de ces
-travaux dispose des informations relatives à la localisation prévues au I de
-l'article R. 554-22 et à l'article R. 554-26 ou du relevé topographique prévu à
-l'article R. 554-34 pour chacun des ouvrages présents dans ces tranchées et
-entrant dans le champ du présent chapitre ;
+qu'ils n'agrandissent pas les tranchées concernées, et que le responsable de
+projet de ces travaux dispose des informations relatives à la localisation de
+chacun des ouvrages présents dans ces tranchées et entrant dans le champ du
+présent chapitre soit par le biais des déclarations au titre de l'ouverture des
+tranchées prévues au I de l'article R. 554-22 et à l'article R. 554-26 et du
+relevé topographique prévu à l'article R. 554-34, soit par le biais d'une
+déclaration du responsable du projet relatif à l'ouverture des tranchées
+mentionnant la profondeur minimale des réseaux neufs et existants dans ces
+tranchées à la date du remblaiement provisoire ;
 
 ― ou s'il s'agit de travaux non soumis à permis de construire sur un terrain
 privé sous la direction du propriétaire de ce terrain, à condition que celui-ci
@@ -27,12 +31,17 @@ prescrive l'application à l'exécutant des travaux ;
 2° Les exploitants de réseaux aériens si les travaux sont suffisamment éloignés
 de ces réseaux au sens de l'article R. 554-1 ;
 
-3° Les exploitants de réseaux électriques aériens, dans le cas de travaux qui
-entrent dans le cadre de l'exécution de services publics ou sont effectués par
-des entreprises qui ont passé des conventions portant sur la sécurité avec ces
-exploitants, et dont la couverture géographique correspond à la zone de travaux,
-sous réserve que l'exécutant informe les exploitants de la date et du lieu de
-l'intervention avant le démarrage des travaux ;
+3° Les exploitants de réseaux enterrés longeant les voiries et ceux de réseaux
+aériens, dans le cas de travaux d'intervention sur d'autres réseaux ou de
+travaux d'entretien tels que l'élagage, le débroussaillage, la peinture, la
+réparation, le remplacement de matériel ou le curage de fossés sans modification
+de leur profil ni de leur tracé, sous réserve que l'exploitant et le responsable
+de projet aient signé une convention portant sur la sécurité et sur les
+éventuelles conditions d'information préalable aux travaux, que la couverture
+géographique de cette convention comprenne la zone des travaux et que le
+responsable de projet intègre dans le dossier de consultation des entreprises
+puis dans le marché de travaux les mesures de sécurité et d'information prévues
+par cette convention ;
 
 4° Les exploitants des branchements ou antennes de réseaux de distribution qui
 desservent ou sont issus exclusivement des bâtiments ou équipements situés sur
@@ -44,8 +53,8 @@ leur localisation ;
 
 5° Le responsable du projet s'il est lui-même exploitant du réseau.
 
-Ces exceptions ne dispensent pas de l'application des dispositions prévues aux
-sous-sections et sections suivantes.
+Ces exceptions ne dispensent pas de l'application des dispositions prévues à
+l'article R. 554-20 et aux sous-sections et sections suivantes.
 
 II. ― Dans sa déclaration, il décrit le plus précisément possible cette emprise
 ainsi que la nature des opérations susceptibles d'avoir un impact sur les

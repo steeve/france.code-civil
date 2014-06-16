@@ -23,7 +23,8 @@ installations classées pour la protection de l'environnement en application de
 l'article R. 512-32 ;
 
 -lignes électriques et réseaux d'éclairage public mentionnés à l'article R.
-4534-107 du code du travail ;
+4534-107 du code du travail, à l'exception des lignes électriques aériennes à
+basse tension et à conducteurs isolés ;
 
 -installations destinées à la circulation de véhicules de transport public
 ferroviaire ou guidé ;
@@ -34,8 +35,7 @@ ou par aspiration.
 II.-Autres catégories d'ouvrages
 
 -installations de communications électroniques, lignes électriques et réseaux
-d'éclairage public autres que ceux mentionnés à l'article R. 4534-107 du code du
-travail ;
+d'éclairage public autres que ceux définis au I ;
 
 -canalisations de prélèvement et de distribution d'eau destinée à la
 consommation humaine, à l'alimentation en eau industrielle ou à la protection

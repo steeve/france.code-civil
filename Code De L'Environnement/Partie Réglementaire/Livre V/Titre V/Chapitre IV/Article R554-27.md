@@ -22,7 +22,9 @@ le projet entre dans le champ dérogatoire du III de l'article R. 554-23,
 celui-ci peut être remplacé par un marquage ou piquetage de la partie de
 l'emprise des travaux dans laquelle des ouvrages souterrains sont présents et
 justifient l'emploi de techniques adaptées à la proximité d'ouvrages
-souterrains.
+souterrains. De même, lorsque l'emprise des travaux prévus est de très faible
+superficie, le marquage ou piquetage individuel des ouvrages peut être remplacé
+par un marquage ou piquetage du périmètre de la zone de terrassement.
 
 III. ― Lorsqu'un exploitant d'ouvrage souterrain ne fournit pas les plans de
 l'ouvrage qu'il exploite lors de la réponse à la déclaration d'intention de
@@ -32,3 +34,7 @@ soins et à ses frais.
 IV. ― Le marquage ou piquetage est maintenu en bon état tout au long du chantier
 par chacun des exécutants des travaux au fur et à mesure de leurs interventions
 respectives.
+
+V. - Les modalités du marquage ou piquetage et les critères mentionnés au II
+sont précisés par un arrêté du ministre chargé de la sécurité des réseaux de
+transport et de distribution.

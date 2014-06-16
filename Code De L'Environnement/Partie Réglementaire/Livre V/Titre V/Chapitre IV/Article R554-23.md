@@ -73,15 +73,16 @@ continu, au sens où une distance inférieure à 200 mètres sépare toute
 construction de la construction la plus proche, et comptant au moins 2 000
 habitants, en référence à la population connue au dernier recensement.
 
-Le responsable du projet procède à des investigations complémentaires lorsqu'il
-l'estime nécessaire. Si des investigations complémentaires sont effectuées, leur
+Le responsable du projet procède à des opérations de localisation lorsqu'il
+l'estime nécessaire. Si des opérations de localisation sont effectuées, leur
 résultat est ajouté aux réponses des exploitants d'ouvrages dans le dossier de
 consultation des entreprises ou dans le marché de travaux. Dans le cas
 contraire, l'exécutant des travaux intervient en tenant compte des conditions
 techniques et financières particulières prévues dans le marché. Le résultat des
-investigations complémentaires éventuelles est transmis aux exploitants des
-ouvrages concernés sous réserve que ces investigations aient été effectuées
-conformément au II du présent article.
+opérations de localisation éventuelles est transmis aux exploitants des ouvrages
+concernés sous réserve que ces opérations aient été effectuées dans les mêmes
+conditions que les investigations complémentaires prévues au II du présent
+article.
 
 IV. ― L'exploitant de tout ouvrage dont un ou plusieurs tronçons souterrains
 présentent une précision de localisation insuffisante engage une démarche en vue
@@ -99,9 +100,11 @@ distribution définit les critères de précision applicables aux ouvrages, les
 critères selon lesquels les investigations complémentaires sont effectuées,
 notamment dans le cas particulier des branchements, les modalités de prise en
 charge financière des coûts correspondants par le responsable du projet et, le
-cas échéant, par l'exploitant concerné, les modalités de certification des
-prestataires auxquels il est fait appel pour la réalisation de ces
-investigations, et les modalités de prise en compte de leur résultat, par le
-responsable du projet, d'une part, et par l'exploitant concerné, d'autre part.
-Il fixe les conditions particulières d'exécution des travaux à proximité des
-ouvrages ou tronçons d'ouvrages dont la localisation est incertaine.
+cas échéant, par l'exploitant concerné, les modalités de la certification, et le
+cas échéant d'exemption de certification ou de reconnaissance d'équivalence à
+cette certification, des prestataires auxquels il est fait appel pour la
+réalisation de ces investigations, et les modalités de prise en compte de leur
+résultat, par le responsable du projet, d'une part, et par l'exploitant
+concerné, d'autre part. Il fixe les conditions particulières d'exécution des
+travaux à proximité des ouvrages ou tronçons d'ouvrages dont la localisation est
+incertaine.

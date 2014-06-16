@@ -5,8 +5,11 @@ propriétaires, affectataires des voies, permissionnaires, concessionnaires et
 occupants de droit ceux de leurs programmes de travaux qui affectent la voirie.
 Il fixe également les renseignements qui doivent lui être adressés, notamment
 sur la nature des travaux, leur localisation, la date de leur début et leur
-durée. Les demandes adressées au maire en application du quatrième alinéa de
-l'article L. 115-1 doivent comporter les mêmes renseignements.
+durée, ainsi que sur les opérations préparatoires aux travaux susceptibles
+d'affecter la voirie, en particulier les investigations complémentaires
+obligatoires prévues au II de l'article R. 554-23 du code de l'environnement.
+Les demandes adressées au maire en application du quatrième alinéa de l'article
+L. 115-1 doivent comporter les mêmes renseignements.
 
 La décision du maire est publiée. Elle est notifiée aux personnes mentionnées à
 l'alinéa 1er ci-dessus.

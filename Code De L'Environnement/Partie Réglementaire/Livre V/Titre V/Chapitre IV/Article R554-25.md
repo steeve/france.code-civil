@@ -13,8 +13,8 @@ récépissé date de moins de trois mois, et qu'aucune indication contraire n'ai
 été donnée dans un envoi complémentaire délivré au responsable du projet en
 application du III de l'article R. 554-22.
 
-Ces exceptions ne dispensent pas de l'application des dispositions prévues aux
-sous-sections et sections suivantes.
+Ces exceptions ne dispensent pas de l'application des dispositions prévues à
+l'article R. 554-24 et aux sous-sections et sections suivantes.
 
 II. ― La déclaration d'intention de commencement de travaux reprend, dans le
 volet relatif à la déclaration de projet de travaux, exactement les mêmes
@@ -33,9 +33,11 @@ l'article R. 554-21.
 
 IV. ― Sous réserve du respect des dispositions de l'article R. 554-23 en cas
 d'incertitude sur la localisation géographique d'au moins un des ouvrages
-souterrains, la déclaration de projet de travaux et la déclaration d'intention
-de commencement de travaux relatives à un même projet peuvent être effectuées
-conjointement par le responsable de projet et l'exécutant des travaux, et à
-partir d'un document unique. C'est notamment le cas lorsque le responsable du
-projet est également exécutant des travaux ou pour les opérations visées au 1°
-du III de l'article R. 554-23.
+souterrains et lorsqu'il n'est matériellement pas possible d'attendre la réponse
+à la déclaration de projet de travaux pour émettre l'ordre d'engagement des
+travaux auprès de l'exécutant, la déclaration de projet de travaux et la
+déclaration d'intention de commencement de travaux relatives à un même projet
+peuvent être effectuées conjointement par le responsable de projet et
+l'exécutant des travaux, et à partir d'un document unique. C'est notamment le
+cas lorsque le responsable du projet est également exécutant des travaux ou pour
+les opérations visées au 1° du III de l'article R. 554-23.

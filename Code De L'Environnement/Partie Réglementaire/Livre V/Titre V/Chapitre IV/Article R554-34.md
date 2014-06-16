@@ -9,7 +9,8 @@ construit, étendu ou modifié diffère du responsable du projet, le relevé
 topographique est effectué par un prestataire certifié à cet effet ou ayant
 recours à un prestataire certifié. Un arrêté du ministre chargé de la sécurité
 des réseaux de transport et de distribution fixe les modalités de cette
-certification.
+certification, et le cas échéant de son exemption ou de reconnaissance
+d'équivalence à cette certification.
 
 La précision de ce relevé est telle que, pour tous travaux ultérieurs à
 proximité de la même installation, aucune investigation complémentaire ne soit

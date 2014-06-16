@@ -16,15 +16,24 @@ informations utiles pour que les travaux soient exécutés dans les meilleures
 conditions de sécurité. Les exploitants concernés fournissent ces informations
 dans des délais compatibles avec la situation d'urgence. Lorsque la personne qui
 ordonne les travaux urgents n'est pas l'exécutant des travaux, elle porte à la
-connaissance de celui-ci les réponses des exploitants selon des modalités et
-dans des délais compatibles avec la situation d'urgence.
+connaissance de celui-ci le résultat de la consultation du guichet unique ainsi
+que les réponses des exploitants selon des modalités et dans des délais
+compatibles avec la situation d'urgence. En cas d'absence de fourniture par un
+exploitant des informations utiles dans un délai compatible avec la situation
+d'urgence, l'ordre d'engagement des travaux mentionne explicitement que le
+réseau de l'exploitant concerné est considéré comme situé au droit de la zone
+d'intervention. Cet ordre d'engagement sous forme écrite est obligatoire sauf
+lorsque l'exécutant intervient dans le cadre d'une convention d'astreinte
+préétablie.
 
 Pour tous les ouvrages, le commanditaire des travaux adresse dans les meilleurs
 délais et par écrit un avis de travaux urgents aux exploitants. Cet avis peut
-être postérieur à la réalisation des travaux.
+être adressé en outre au préfet lorsque le commanditaire n'a pu obtenir les
+informations utiles d'un exploitant d'ouvrage sensible dans un délai compatible
+avec la situation d'urgence.
 
 Un arrêté du ministre chargé de la sécurité des réseaux de transport et de
-distribution précise les modalités d'exécution des travaux dans les cas
-d'urgence ou de force majeure, en particulier les règles de sécurité qui sont
-appliquées en cas d'incertitude sur l'existence ou la localisation des ouvrages
-dans le cadre de tels travaux.
+distribution précise les modalités de recueil des informations et d'exécution
+des travaux dans les cas d'urgence ou de force majeure, en particulier les
+règles de sécurité qui sont appliquées en cas d'incertitude sur l'existence ou
+la localisation des ouvrages dans le cadre de tels travaux.

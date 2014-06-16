@@ -30,7 +30,9 @@ investigations aux exploitants concernés ;
 5° L'exploitant d'un ouvrage ne fournit pas au déclarant, ou lui fournit au-delà
 du délai maximal réglementaire, la réponse à une déclaration de projet de
 travaux prévue à l'article R. 554-22, ou la réponse à une déclaration
-d'intention de commencement de travaux prévue à l'article R. 554-26, ou ne prend
+d'intention de commencement de travaux prévue à l'article R. 554-26, ou les
+informations utiles pour que des travaux urgents mentionnés à l'article R.
+554-32 soient exécutés dans les meilleures conditions de sécurité, ou ne prend
 pas en compte le résultat des investigations complémentaires fourni par le
 responsable de projet en application du II de l'article R. 554-23 ;
 
