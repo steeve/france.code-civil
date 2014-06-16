@@ -1,7 +1,7 @@
 Article D133-17
 ----
 I.-Les travailleurs indépendants non agricoles redevables annuellement de
-cotisations et contributions sociales définitives d'un montant supérieur à 25
+cotisations et contributions sociales définitives d'un montant supérieur à 10
 000 euros sont tenus d'effectuer par voie dématérialisée les déclarations et le
 paiement de celles-ci.
 
