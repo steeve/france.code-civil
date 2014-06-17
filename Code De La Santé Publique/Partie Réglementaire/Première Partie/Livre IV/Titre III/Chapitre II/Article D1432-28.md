@@ -193,7 +193,12 @@ organisations membres de la commission régionale paritaire mentionnée à
 l'article R. 6152-325 ;
 
 o) Six membres des unions régionales des professionnels de santé, désignés par
-la fédération régionale regroupant ces unions mentionnée à l'article L. 4031-1 ;
+la fédération régionale regroupant ces unions mentionnée à l'article L. 4031-1
+ou, à défaut de constitution de cette fédération, par le directeur général de
+l'agence régionale de santé sur proposition conjointe des unions régionales des
+professionnels de santé. A défaut de proposition conjointe des unions régionales
+des professionnels de santé, le directeur général de l'agence régionale de santé
+désigne ces membres ;
 
 p) Un représentant de l'ordre des médecins, désigné par le président du conseil
 régional de l'ordre ;

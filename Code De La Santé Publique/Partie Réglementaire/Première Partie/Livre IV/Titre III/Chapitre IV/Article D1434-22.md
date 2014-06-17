@@ -5,11 +5,11 @@ selon les collèges suivants :
 
 1° Au plus dix représentants des établissements de santé :
 
--au plus cinq représentants des personnes morales gestionnaires de ces
+- au plus cinq représentants des personnes morales gestionnaires de ces
 établissements, désignés sur proposition de la fédération qui représente ces
 établissements ;
 
--au plus cinq présidents de commission médicale ou de conférence médicale
+- au plus cinq présidents de commission médicale ou de conférence médicale
 d'établissement, désignés sur proposition de la fédération qui représente ces
 établissements.
 
@@ -36,7 +36,12 @@ la fédération des unions régionales des professionnels de santé libéraux, d
 au plus trois médecins et au plus trois représentants des autres professionnels
 de santé, et un représentant des internes en médecine de la ou des subdivisions
 situées sur le territoire de la conférence, désigné par une organisation qui les
-représente ;
+représente. A défaut de constitution de la fédération des unions régionales des
+professionnels de santé libéraux, les représentants des professionnels de santé
+libéraux sont désignés par le directeur général de l'agence régionale de santé
+sur proposition conjointe des unions régionales des professionnels de santé. A
+défaut de proposition conjointe, le directeur général de l'agence régionale de
+santé désigne ces membres ;
 
 5° Au plus deux représentants des centres de santé, maisons de santé, pôles de
 santé et réseaux de santé désignés par le directeur général de l'agence
@@ -55,13 +60,13 @@ de l'emploi ;
 8° Au plus huit représentants des usagers désignés sur proposition des
 associations les représentant, dont :
 
--au plus cinq représentants des associations agréées conformément à l'article L.
-1114-1 au niveau régional ou, à défaut, au niveau national, dont une association
-œuvrant dans le secteur médico-social, désignés à l'issue d'un appel à
-candidatures organisé dans des conditions fixées par le directeur général de
+- au plus cinq représentants des associations agréées conformément à l'article
+L. 1114-1 au niveau régional ou, à défaut, au niveau national, dont une
+association œuvrant dans le secteur médico-social, désignés à l'issue d'un appel
+à candidatures organisé dans des conditions fixées par le directeur général de
 l'agence régionale de santé ;
 
--au plus trois représentants des associations des personnes handicapées ou des
+- au plus trois représentants des associations des personnes handicapées ou des
 associations de retraités et personnes âgées, sur proposition des conseils
 départementaux des personnes handicapées et des comités départementaux des
 retraités et personnes âgées mentionnés respectivement à l'article L. 146-2 et à
@@ -70,20 +75,20 @@ l'article L. 149-1 du code de l'action sociale et des familles ;
 9° Au plus sept représentants des collectivités territoriales et de leurs
 groupements, dont :
 
--au plus, un conseiller régional désigné par le président du conseil régional du
-ressort et, en Corse, un représentant de l'Assemblée de Corse, désigné par le
+- au plus, un conseiller régional désigné par le président du conseil régional
+du ressort et, en Corse, un représentant de l'Assemblée de Corse, désigné par le
 président de cette assemblée ;
 
--au plus deux représentants des communautés mentionnées aux articles L. 5214-1,
+- au plus deux représentants des communautés mentionnées aux articles L. 5214-1,
 L. 5215-1 ou L. 5216-1 du code général des collectivités territoriales
 regroupant des communes situées en tout ou en partie dans le territoire de santé
 auquel est rattachée la conférence, désignés par l'Assemblée des communautés de
 France ;
 
--au plus deux représentants des communes désignés par l'Association des maires
+- au plus deux représentants des communes désignés par l'Association des maires
 de France ;
 
--au plus deux représentants de conseils généraux dont les départements sont
+- au plus deux représentants de conseils généraux dont les départements sont
 situés en tout ou partie dans le ressort de la conférence, désignés par leur
 assemblée délibérante ;
 
