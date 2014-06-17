@@ -1,6 +1,6 @@
 Article L752-21
 ----
-En cas de rejet pour un motif de fond de la demande d'autorisation par la
-commission nationale susmentionnée, il ne peut être déposé de nouvelle demande
-par le même pétitionnaire, pour un même projet, sur le même terrain pendant une
-période d'un an à compter de la date de la décision de la commission nationale.
+Un pétitionnaire dont le projet a été rejeté pour un motif de fond par la
+Commission nationale d'aménagement commercial ne peut déposer une nouvelle
+demande d'autorisation sur un même terrain, à moins d'avoir pris en compte les
+motivations de la décision ou de l'avis de la commission nationale.

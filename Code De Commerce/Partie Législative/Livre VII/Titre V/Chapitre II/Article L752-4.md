@@ -20,7 +20,8 @@ conformité du projet aux critères énoncés à l'article L. 752-6.
 
 La délibération du conseil municipal ou de l'organe délibérant de
 l'établissement public de coopération intercommunale est motivée. Elle est
-transmise au pétitionnaire sous un délai de trois jours.
+transmise au pétitionnaire sous un délai de trois jours et affichée pendant un
+mois à la porte de la mairie de la commune d'implantation.
 
 En cas d'avis défavorable de la commission départementale d'aménagement
 commercial ou, le cas échéant, de la Commission nationale d'aménagement

@@ -1,8 +1,8 @@
 Article L752-19
 ----
 Le maire de la commune d'implantation membre de la commission départementale
-dont la décision fait l'objet du recours est entendu à sa demande par la
-commission nationale.
+dont la décision ou l'avis fait l'objet du recours est entendu à sa demande par
+la commission nationale.
 
 Un commissaire du Gouvernement nommé par le ministre chargé du commerce ou par
 le ministre chargé de la culture lorsque la commission se prononce en matière

@@ -8,7 +8,9 @@ et les opérations d'aménagement définies par décret en Conseil d'Etat sont
 compatibles avec le document d'orientation et d'objectifs des schémas de
 cohérence territoriale et les schémas de secteur. Il en est de même pour les
 autorisations prévues par l'article L. 752-1 du code de commerce et l'article L.
-212-7 du code du cinéma et de l'image animée.
+212-7 du code du cinéma et de l'image animée, ainsi que pour le permis de
+construire tenant lieu d'autorisation d'exploitation commerciale prévu à
+l'article L. 425-4 du présent code.
 
 Lorsqu'un schéma de cohérence territoriale est approuvé après l'approbation d'un
 programme local de l'habitat ou d'un plan de déplacements urbains, ces derniers

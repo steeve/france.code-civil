@@ -13,14 +13,15 @@ clientèle d'achats au détail mentionnés à l'article L. 752-3 lorsque les age
 habilités constatent l'exploitation d'une surface d'emprise au sol ou d'un
 nombre de pistes de ravitaillement non autorisé.
 
-Le préfet peut mettre en demeure l'exploitant concerné de ramener sa surface
-commerciale à l'autorisation d'exploitation commerciale accordée par la
-commission d'aménagement commercial compétente, dans un délai d'un mois. Sans
-préjudice de l'application de sanctions pénales, il peut, à défaut, prendre un
-arrêté ordonnant, dans le délai de quinze jours, la fermeture au public des
-surfaces de vente exploitées illicitement, jusqu'à régularisation effective. Ces
-mesures sont assorties d'une astreinte journalière de 150 euros par mètre carré
-exploité illicitement.
+Le préfet peut mettre en demeure l'exploitant concerné soit de fermer au public
+les surfaces de vente exploitées illégalement en cas de création, soit de
+ramener sa surface commerciale à l'autorisation d'exploitation commerciale
+accordée par la commission d'aménagement commercial compétente, dans un délai
+d'un mois. Sans préjudice de l'application de sanctions pénales, il peut, à
+défaut, prendre un arrêté ordonnant, dans le délai de quinze jours, la fermeture
+au public des surfaces de vente exploitées illicitement, jusqu'à régularisation
+effective. Ces mesures sont assorties d'une astreinte journalière de 150 euros
+par mètre carré exploité illicitement.
 
 En ce qui concerne les points permanents de retrait par la clientèle d'achats au
 détail, la surface mentionnée au troisième alinéa du présent article est égale à

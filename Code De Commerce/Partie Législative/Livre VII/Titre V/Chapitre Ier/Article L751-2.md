@@ -1,47 +1,44 @@
 Article L751-2
 ----
 I.-La commission départementale d'aménagement commercial est présidée par le
-préfet.
+préfet. II.-Dans les départements autres que Paris, elle est composée : 1° Des
+sept élus suivants :
 
-II.-Dans les départements autres que Paris, elle est composée :
+a) Le maire de la commune d'implantation ou son représentant ;
 
-1° Des cinq élus suivants :
+b) Le président de l'établissement public de coopération intercommunale à
+fiscalité propre dont est membre la commune d'implantation ou son représentant ;
 
-a) Le maire de la commune d'implantation ;
-
-b) Le président de l'établissement public de coopération intercommunale
-compétent en matière d'aménagement de l'espace et de développement dont est
-membre la commune d'implantation ou, à défaut, le conseiller général du canton
-d'implantation ;
-
-c) Le maire de la commune la plus peuplée de l'arrondissement, autre que la
-commune d'implantation ; en dehors des départements des Hauts-de-Seine, de la
-Seine-Saint-Denis, du Val-de-Marne et des communes de l'Essonne, du Val-d'Oise,
-des Yvelines et de Seine-et-Marne appartenant à l'agglomération parisienne, dans
-le cas où la commune d'implantation appartient à une agglomération
-multicommunale comportant au moins cinq communes, le maire de la commune la plus
-peuplée est choisi parmi les maires des communes de ladite agglomération ;
+c) Le président du syndicat mixte ou de l'établissement public de coopération
+intercommunale mentionné à l'article L. 122-4 du code de l'urbanisme chargé du
+schéma de cohérence territoriale dans le périmètre duquel est située la commune
+d'implantation ou son représentant ou, à défaut, le maire de la commune la plus
+peuplée de l'arrondissement ou, à défaut, un membre du conseil général ;
 
 d) Le président du conseil général ou son représentant ;
 
-e) Le président du syndicat mixte ou de l'établissement public de coopération
-intercommunale chargé du schéma de cohérence territoriale auquel adhère la
-commune d'implantation ou son représentant ou, à défaut, un adjoint au maire de
-la commune d'implantation.
+e) Le président du conseil régional ou son représentant ;
 
-Lorsque l'un des élus détient plusieurs des mandats mentionnés ci-dessus, le
-préfet désigne pour le remplacer un ou plusieurs maires de communes situées dans
-la zone de chalandise concernée ;
+f) Un membre représentant les maires au niveau départemental ;
 
-2° De trois personnalités qualifiées en matière de consommation, de
-développement durable et d'aménagement du territoire.
+g) Un membre représentant les intercommunalités au niveau départemental.
+
+Lorsque l'un des élus détient plusieurs mandats mentionnés aux a à g du présent
+1°, il ne siège qu'au titre de l'un de ses mandats. Le cas échéant, le ou les
+organes délibérants dont il est issu désignent son remplaçant pour chacun des
+mandats au titre desquels il ne peut siéger ;
+
+2° De quatre personnalités qualifiées, deux en matière de consommation et de
+protection des consommateurs et deux en matière de développement durable et
+d'aménagement du territoire.
 
 Lorsque la zone de chalandise du projet dépasse les limites du département, le
-préfet complète la composition de la commission en désignant au moins un élu et
-une personnalité qualifiée de chaque autre département concerné.
+représentant de l'Etat dans le département complète la composition de la
+commission en désignant au moins un élu et une personnalité qualifiée de chaque
+autre département concerné.
 
-Pour éclairer sa décision, la commission entend toute personne dont l'avis
-présente un intérêt.
+La commission entend toute personne susceptible d'éclairer sa décision ou son
+avis.
 
 III.-A Paris, elle est composée :
 
@@ -60,8 +57,8 @@ e) Un conseiller régional désigné par le conseil régional ;
 2° De trois personnalités qualifiées en matière de consommation, de
 développement durable et d'aménagement du territoire.
 
-Pour éclairer sa décision, la commission entend toute personne dont l'avis
-présente un intérêt.
+Pour éclairer sa décision ou son avis, la commission entend toute personne dont
+l'avis présente un intérêt.
 
 IV.-Lorsqu'elle se réunit pour examiner les projets d'aménagement
 cinématographique, la commission comprend, parmi les personnalités qualifiées

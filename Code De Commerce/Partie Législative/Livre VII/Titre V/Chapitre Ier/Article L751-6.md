@@ -1,9 +1,8 @@
 Article L751-6
 ----
-I.- La Commission nationale d'aménagement commercial se compose de :
+La Commission nationale d'aménagement commercial se compose de :
 
-1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat,
-président ;
+1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
 
 2° Un membre de la Cour des comptes désigné par le premier président de la Cour
 des comptes ;
@@ -19,15 +18,12 @@ l'environnement et du développement durable ;
 distribution, de consommation, d'urbanisme, de développement durable,
 d'aménagement du territoire ou d'emploi à raison d'une par le président de
 l'Assemblée nationale, une par le président du Sénat, une par le ministre chargé
-du commerce et une par le ministre chargé de l'urbanisme et de l'environnement.
+du commerce et une par le ministre chargé de l'urbanisme ;
 
-II.- Lorsque la commission nationale est saisie de recours contre les décisions
-des commissions départementales statuant sur les projets d'aménagement
-cinématographique, le membre mentionné au 4° du I est remplacé par un membre du
-corps des inspecteurs généraux du ministère chargé de la culture ; celle des
-personnalités mentionnée au 5° du I, désignée par le ministre chargé du
-commerce, est remplacée par une personnalité compétente en matière de
-distribution cinématographique désignée par le ministre chargé de la culture. En
-outre, la commission est complétée par une personnalité qualifiée nommée par le
-ministre chargé de la culture sur proposition du président du Centre national du
-cinéma et de l'image animée. Un suppléant est nommé dans les mêmes conditions.
+6° Quatre représentants des élus locaux : un représentant les communes, un
+représentant les établissements publics de coopération intercommunale à
+fiscalité propre, un représentant les départements, un représentant les régions.
+
+La commission élit en son sein un président et deux vice-présidents.
+
+II.- (Abrogé).
