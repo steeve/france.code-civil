@@ -13,3 +13,13 @@ a été effectué le dépôt de la déclaration prévue à l'article L. 527-7 ;
 
 3° Le cas échéant, les documents attestant de l'accomplissement des formalités
 visées aux articles L. 526-9 à L. 526-11.
+
+Sans préjudice du respect des règles d'évaluation et d'affectation prévues à la
+présente section, l'entrepreneur individuel qui exerçait son activité
+professionnelle antérieurement au dépôt de la déclaration peut présenter en
+qualité d'état descriptif le bilan de son dernier exercice, à condition que
+celui-ci soit clos depuis moins de quatre mois à la date de dépôt de la
+déclaration. Dans ce cas, l'ensemble des éléments figurant dans le bilan compose
+l'état descriptif et les opérations intervenues depuis la date du dernier
+exercice clos sont comprises dans le premier exercice de l'entrepreneur
+individuel à responsabilité limitée.

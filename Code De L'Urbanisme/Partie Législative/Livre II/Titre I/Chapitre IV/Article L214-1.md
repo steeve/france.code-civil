@@ -13,10 +13,14 @@ destinés à porter des commerces d'une surface de vente comprise entre 300 et 1
 
 Chaque aliénation à titre onéreux est subordonnée, à peine de nullité, à une
 déclaration préalable faite par le cédant à la commune. Cette déclaration
-précise le prix et les conditions de la cession.
+précise le prix, l'activité de l'acquéreur pressenti, le nombre de salariés du
+cédant, la nature de leur contrat de travail et les conditions de la cession.
+Elle comporte également le bail commercial, le cas échéant, et précise le
+chiffre d'affaires lorsque la cession porte sur un bail commercial ou un fonds
+artisanal ou commercial.
 
 Le droit de préemption est exercé selon les modalités prévues par les articles
-L. 213-4 à L. 213-7. Le silence de la commune pendant le délai de deux mois à
-compter de la réception de cette déclaration vaut renonciation à l'exercice du
-droit de préemption. Le cédant peut alors réaliser la vente aux prix et
-conditions figurant dans sa déclaration.
+L. 213-4 à L. 213-7. Le silence du titulaire du droit de préemption pendant le
+délai de deux mois à compter de la réception de cette déclaration vaut
+renonciation à l'exercice du droit de préemption. Le cédant peut alors réaliser
+la vente aux prix et conditions figurant dans sa déclaration.

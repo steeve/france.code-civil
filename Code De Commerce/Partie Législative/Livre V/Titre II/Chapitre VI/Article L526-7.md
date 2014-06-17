@@ -14,5 +14,5 @@ registre ;
 un registre de publicité légale, à un registre tenu au greffe du tribunal
 statuant en matière commerciale du lieu de leur établissement principal ;
 
-4° Soit, pour les exploitants agricoles, auprès de la chambre d'agriculture
-compétente.
+4° Soit, pour les exploitants agricoles, au registre de l'agriculture tenu par
+la chambre d'agriculture compétente.

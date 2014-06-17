@@ -14,3 +14,8 @@ Une commission présidée par le préfet ou son représentant est chargée de ve
 Les recours contre les élections des délégués consulaires et des membres des
 chambres de commerce et d'industrie territoriales et de région sont portés
 devant le tribunal administratif comme en matière d'élections municipales.
+
+Le membre d'une chambre de commerce et d'industrie départementale
+d'Ile-de-France, d'une chambre de commerce et d'industrie territoriale ou d'une
+chambre de commerce et d'industrie de région dont l'élection est contestée reste
+en fonctions jusqu'à ce qu'il ait été définitivement statué sur la réclamation.

@@ -20,8 +20,9 @@ bail à la fin des neuf premières années ou à l'expiration de l'une des péri
 suivantes, le congé doit être donné dans les délais prévus à l'alinéa premier
 ci-dessus.
 
-Le congé doit être donné par acte extrajudiciaire. Il doit, à peine de nullité,
-préciser les motifs pour lesquels il est donné et indiquer que le locataire qui
-entend, soit contester le congé, soit demander le paiement d'une indemnité
-d'éviction, doit saisir le tribunal avant l'expiration d'un délai de deux ans à
-compter de la date pour laquelle le congé a été donné.
+Le congé doit être donné par lettre recommandée avec demande d'avis de réception
+ou par acte extrajudiciaire, au libre choix de chacune des parties. Il doit, à
+peine de nullité, préciser les motifs pour lesquels il est donné et indiquer que
+le locataire qui entend, soit contester le congé, soit demander le paiement
+d'une indemnité d'éviction, doit saisir le tribunal avant l'expiration d'un
+délai de deux ans à compter de la date pour laquelle le congé a été donné.

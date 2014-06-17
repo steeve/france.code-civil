@@ -9,6 +9,11 @@ Sous réserve des dispositions des articles L. 581-4, L. 581-8 et L. 581-13, le
 règlement local de publicité définit une ou plusieurs zones où s'applique une
 réglementation plus restrictive que les prescriptions du règlement national.
 
+Il peut aussi définir des zones dans lesquelles tout occupant d'un local
+commercial visible depuis la rue ou, à défaut d'occupant, tout propriétaire doit
+veiller à ce que l'aspect extérieur de ce local ne porte pas atteinte au
+caractère ou à l'intérêt des lieux avoisinants.
+
 La publicité supportée par des palissades de chantier ne peut être interdite,
 sauf lorsque celles-ci sont implantées dans les lieux visés aux 1° et 2° du I de
 l'article L. 581-8.

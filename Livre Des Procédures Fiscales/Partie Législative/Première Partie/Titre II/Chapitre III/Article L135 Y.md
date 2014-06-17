@@ -12,11 +12,11 @@ la vente au détail et le nombre de positions de ravitaillement de carburant de
 l'établissement.
 
 Ces données, hormis le chiffre d'affaires, sont communiquées par les services du
-ministre chargé du commerce aux chambres de commerce et d'industrie
-territoriales et départementales d'Ile-de-France pour l'exercice de leurs
-missions prévues à l'article L. 711-2 du code de commerce et afin d'alimenter
-leurs bases de données et d'information dans les conditions fixées par voie
-réglementaire.
+ministre chargé du commerce au réseau des chambres de commerce et d'industrie
+défini au onzième alinéa de l'article L. 710-1 du code de commerce pour
+l'exercice de leurs missions prévues au 7° du même article L. 710-1 et aux
+articles L. 711-2 et L. 711-8 du même code et afin d'alimenter leurs bases de
+données et d'information dans les conditions fixées par voie réglementaire.
 
 Les bénéficiaires de ces communications sont astreints, pour les données dont
 ils ont à connaître en application du présent article, au secret professionnel

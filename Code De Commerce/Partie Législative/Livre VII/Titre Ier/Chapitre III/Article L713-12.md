@@ -10,6 +10,12 @@ II. - Le nombre de sièges d'une chambre de commerce et d'industrie territoriale
 est de vingt-quatre à soixante, dans des conditions fixées par décret en Conseil
 d'Etat.
 
+Toutefois, dans les régions composées de plusieurs départements où il n'existe
+qu'une seule chambre de commerce et d'industrie territoriale, le nombre de
+sièges de la chambre de commerce et d'industrie territoriale est de vingt-quatre
+à cent, dans les mêmes conditions que celles prévues au premier alinéa du
+présent II.
+
 III. - Le nombre de sièges d'une chambre de commerce et d'industrie de région
 est fixé entre trente et cent, dans des conditions fixées par décret en Conseil
 d'Etat.
