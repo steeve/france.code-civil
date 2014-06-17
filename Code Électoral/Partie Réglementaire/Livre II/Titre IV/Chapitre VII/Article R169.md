@@ -1,9 +1,8 @@
 Article R169
 ----
-Dans les départements où sont élus quatre sénateurs ou plus, il est fait
-application de la représentation proportionnelle avec répartition complémentaire
-suivant la règle de la plus forte moyenne, conformément aux dispositions
-ci-après.
+Dans les départements visés à l'article L. 295, il est fait application de la
+représentation proportionnelle avec répartition complémentaire suivant la règle
+de la plus forte moyenne, conformément aux dispositions ci-après.
 
 Le bureau détermine le quotient électoral, en divisant le nombre de suffrages
 exprimés dans le département par le nombre des sénateurs à élire.

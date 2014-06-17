@@ -1,10 +1,10 @@
 Article R282
 ----
-Conformément à l'article L. 448, les députés, les membres des assemblées de
-province en Nouvelle-Calédonie, les membres de l'assemblée de la Polynésie
-française ou les membres de l'assemblée territoriale des îles Wallis et Futuna
-qui peuvent exercer leur droit de vote par procuration doivent adresser une
-demande revêtue de leur signature au représentant de l'Etat.
+Conformément à l'article L. 448, les députés, les sénateurs, les membres des
+assemblées de province en Nouvelle-Calédonie, les membres de l'assemblée de la
+Polynésie française ou les membres de l'assemblée territoriale des îles Wallis
+et Futuna qui peuvent exercer leur droit de vote par procuration doivent
+adresser une demande revêtue de leur signature au représentant de l'Etat.
 
 Cette demande doit préciser que l'intéressé sera, le jour de l'élection, absent
 du territoire.

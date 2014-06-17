@@ -1,9 +1,9 @@
 Article R162
 ----
 La liste des électeurs du département est dressée par ordre alphabétique par le
-préfet. Cette liste comprend les députés, les conseillers régionaux, conseillers
-départementaux et les délégués des conseils municipaux désignés dans les
-conditions prévues au titre III du présent livre.
+préfet. Cette liste comprend les députés, les sénateurs, les conseillers
+régionaux, conseillers départementaux et les délégués des conseils municipaux
+désignés dans les conditions prévues au titre III du présent livre.
 
 Sont mentionnés dans cette liste :
 

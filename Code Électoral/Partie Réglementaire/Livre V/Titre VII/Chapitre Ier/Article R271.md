@@ -2,12 +2,10 @@ Article R271
 ----
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en
 Polynésie française, dans leur rédaction en vigueur à la date du décret n°
-2013-938 du 18 octobre 2013, les dispositions suivantes du livre II du code
-électoral (partie Réglementaire) :
+2014-632 du 18 juin 2014, les dispositions suivantes du livre II du code
+électoral (partie réglementaire) :
 
-1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164-1 et
-R. 169 ;
+-le titre III ;
 
-2° Chapitres Ier et IV à VII du titre IV ;
-
-3° Titre VI.
+-les chapitres IV à VII du titre IV, à l'exception des articles R. 164-1 et R.
+169.
