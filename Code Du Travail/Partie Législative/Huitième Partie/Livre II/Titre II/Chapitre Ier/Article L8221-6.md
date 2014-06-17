@@ -19,10 +19,6 @@ d'orientation des transports intérieurs ;
 3° Les dirigeants des personnes morales immatriculées au registre du commerce et
 des sociétés et leurs salariés ;
 
-4° Les personnes physiques relevant de l'article L. 123-1-1 du code de commerce
-ou du V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au
-développement et à la promotion du commerce et de l'artisanat.
-
 II. - L'existence d'un contrat de travail peut toutefois être établie lorsque
 les personnes mentionnées au I fournissent directement ou par une personne
 interposée des prestations à un donneur d'ordre dans des conditions qui les

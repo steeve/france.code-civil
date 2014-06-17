@@ -3,9 +3,7 @@ Article L212-3
 Lorsque l'activité d'exploitant d'établissement de spectacles cinématographiques
 est exercée par une personne physique, l'autorisation est délivrée à cette
 personne sur justification de son immatriculation au registre du commerce et des
-sociétés ou, lorsqu'elle en est dispensée, sur justification de
-l'accomplissement des formalités prévues à l'article L. 123-1-1 du code de
-commerce.
+sociétés.
 
 Lorsque l'activité d'exploitant d'établissement de spectacles cinématographiques
 est exercée par une personne morale, l'autorisation est délivrée à la personne
