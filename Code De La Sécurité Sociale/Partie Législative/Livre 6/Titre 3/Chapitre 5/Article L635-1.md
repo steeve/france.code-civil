@@ -19,11 +19,16 @@ alinéa du I de l'article 57 de la loi n° 2010-1330 du 9 novembre 2010 portant
 réforme des retraites, être différenciée suivant le régime d'affiliation
 antérieur.
 
-La couverture des charges est assurée par des cotisations, dont les taux et
-tranches de revenus sur lesquelles ceux-ci s'appliquent sont fixés par décret.
-Ces cotisations sont assises sur le revenu d'activité défini à l'article L.
-131-6 et recouvrées dans les mêmes formes et conditions que les cotisations du
-régime de base.
+La couverture des charges est assurée par des cotisations calculées et
+recouvrées dans les mêmes formes et conditions que les cotisations du régime de
+base.
+
+Les cotisations dues par les travailleurs indépendants non agricoles ne relevant
+pas du régime prévu à l'article L. 133-6-8 sont calculées, dans la limite d'un
+plafond fixé par décret, sur la base de tranches de revenu d'activité
+déterminées par décret. Chaque tranche est affectée d'un taux de cotisation. Un
+décret peut prévoir, sous certaines conditions, que ces cotisations ne peuvent
+être inférieures à un montant qu'il fixe.
 
 L'équilibre financier du régime est assuré par ses seules ressources. Un décret
 détermine les règles de pilotage du régime, et notamment les conditions dans

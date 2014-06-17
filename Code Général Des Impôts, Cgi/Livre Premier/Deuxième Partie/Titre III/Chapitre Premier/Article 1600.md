@@ -91,6 +91,45 @@ présent III. Pour le taux de 2015, la somme des montants perçus en 2014 par le
 chambres est majoré du montant du prélèvement exceptionnel prévu au 1 du I de
 l'article 51 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014.
 
+Par exception aux trois premiers alinéas du présent 1, le montant pris en compte
+en 2014 et en 2015 pour la chambre de commerce et d'industrie de Mayotte est
+égal au montant du versement 2014 perçu par cette chambre au titre de la taxe
+additionnelle à la cotisation sur la valeur ajoutée des entreprises mentionné au
+B du III du même article 51.
+
+A compter de 2016, le montant pris en compte pour la chambre de commerce et
+d'industrie de Mayotte est le montant du versement 2015 perçu par la chambre de
+commerce et d'industrie de Mayotte au titre de la taxe additionnelle à la
+cotisation sur la valeur ajoutée des entreprises mentionné au même B.
+
+Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
+entreprises affecté, au titre d'une année, au fonds de financement des chambres
+de commerce et d'industrie de région est supérieur ou égal à la somme des
+différences calculées en application des deuxième à quatrième alinéas et du
+montant mentionné au cinquième alinéa, le fonds de financement des chambres de
+commerce et d'industrie de région verse à chaque chambre de commerce et
+d'industrie de région un montant égal à sa différence et à la chambre de
+commerce et d'industrie de Mayotte le montant mentionné au cinquième alinéa,
+puis verse aux chambres de commerce et d'industrie de région et à la chambre de
+commerce et d'industrie de Mayotte le solde du produit qui lui est affecté
+proportionnellement à la valeur ajoutée imposée dans les communes de leur
+circonscription et retenue pour la détermination de la cotisation sur la valeur
+ajoutée des entreprises en application du 1 du II de l'article 1586 ter.
+
+Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
+entreprises affecté, au titre d'une année, au fonds de financement des chambres
+de commerce et d'industrie de région est inférieur à la somme des différences
+calculées en application des deuxième à quatrième alinéas et du montant
+mentionné au cinquième alinéa, le fonds de financement des chambres de commerce
+et d'industrie de région verse à chaque chambre de commerce et d'industrie de
+région un montant égal au produit de sa différence par un coefficient unique
+d'équilibrage et à la chambre de commerce et d'industrie de Mayotte le montant
+mentionné au cinquième alinéa, corrigé par le même coefficient unique
+d'équilibrage. Ce coefficient unique d'équilibrage est calculé de sorte que la
+somme des versements soit égale au produit de la taxe additionnelle à la
+cotisation sur la valeur ajoutée des entreprises affecté, au titre de l'année,
+au fonds.
+
 1 bis.-La taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les
 mêmes sanctions, garanties, sûretés et privilèges que la cotisation sur la
@@ -100,10 +139,7 @@ jugées selon les règles applicables à cette dernière (1).
 2.-Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises est affecté au fonds de financement des chambres de commerce et
 d'industrie de région, dans la limite du plafond prévu au I de l'article 46 de
-la loi n° 2011-1977 du 28 décembre 2011 précitée. En 2015, le produit du
-prélèvement exceptionnel prévu au III de l'article 33 de la loi n° 2014-1654 du
-29 décembre 2014 de finances pour 2015 est également affecté au fonds de
-financement des chambres de commerce et d'industrie de région.
+la loi n° 2011-1977 du 28 décembre 2011 précitée.
 
 Pour chaque chambre de commerce et d'industrie de région, est calculée la
 différence entre :
@@ -124,49 +160,27 @@ commerce et d'industrie territoriales rattachées à la chambre de commerce et
 d'industrie de région, minorée du prélèvement mentionné au 5. 3. 5 de l'article
 2 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
-Par exception aux trois premiers alinéas du 1, le montant pris en compte en 2014
-et en 2015 pour la chambre de commerce et d'industrie de Mayotte est égal au
-montant du versement 2014 perçu par cette chambre au titre de la taxe
-additionnelle à la cotisation sur la valeur ajoutée des entreprises mentionné au
-B du III de l'article 51 de la loi n° 2013-1278 du 29 décembre 2013 précitée .
+Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
+entreprises affecté, au titre d'une année, au fonds de financement des chambres
+de commerce et d'industrie de région est supérieur ou égal à la somme des
+différences calculées en application des trois alinéas précédents, le fonds de
+financement des chambres de commerce et d'industrie de région verse, à chaque
+chambre de commerce et d'industrie de région, un montant égal à sa différence
+puis verse aux chambres de commerce et d'industrie de région le solde du produit
+qui lui est affecté proportionnellement à la valeur ajoutée imposée dans les
+communes de leur circonscription et retenue pour la détermination de la
+cotisation sur la valeur ajoutée des entreprises en application du 1 du II de
+l'article 1586 ter.
 
-A compter de 2016, le montant pris en compte pour la chambre de commerce et
-d'industrie de Mayotte est le montant du versement 2015 perçu par la chambre de
-commerce et d'industrie de Mayotte au titre de la taxe additionnelle à la
-cotisation sur la valeur ajoutée des entreprises mentionné au même B.
-
-Si la somme du produit de la taxe additionnelle à la cotisation sur la valeur
-ajoutée des entreprises et, pour 2015, du prélèvement exceptionnel prévu au III
-de l'article 33 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour
-2015, affectée, au titre d'une année, au fonds de financement des chambres de
-commerce et d'industrie de région est supérieure ou égale à la somme des
-différences calculées en application des deuxième à quatrième alinéas du présent
-2 et du montant mentionné aux cinquième et sixième alinéas, le fonds de
-financement des chambres de commerce et d'industrie de région verse à chaque
-chambre de commerce et d'industrie de région un montant égal à sa différence et
-à la chambre de commerce et d'industrie de Mayotte le montant mentionné aux
-mêmes cinquième et sixième alinéas, puis verse aux chambres de commerce et
-d'industrie de région et à la chambre de commerce et d'industrie de Mayotte le
-solde du produit qui lui est affecté proportionnellement à la valeur ajoutée
-imposée dans les communes de leur circonscription et retenue pour la
-détermination de la cotisation sur la valeur ajoutée des entreprises en
-application du 1 du II de l'article 1586 ter du présent code.
-
-Si la somme du produit de la taxe additionnelle à la cotisation sur la valeur
-ajoutée des entreprises et, pour 2015, du prélèvement exceptionnel prévu au III
-de l'article 33 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour
-2015, affectée, au titre d'une année, au fonds de financement des chambres de
-commerce et d'industrie de région est inférieure à la somme des différences
-calculées en application des deuxième à quatrième alinéas du présent 2 et du
-montant mentionné aux cinquième et sixième alinéas, le fonds de financement des
-chambres de commerce et d'industrie de région verse à chaque chambre de commerce
-et d'industrie de région un montant égal au produit de sa différence par un
-coefficient unique d'équilibrage et à la chambre de commerce et d'industrie de
-Mayotte le montant mentionné aux mêmes cinquième et sixième alinéas, corrigé par
-le même coefficient unique d'équilibrage. Ce coefficient unique d'équilibrage
-est calculé de sorte que la somme des versements soit égale au produit de la
-taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises
-affecté, au titre de l'année, au fonds.
+Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
+entreprises affecté, au titre d'une année, au fonds de financement des chambres
+de commerce et d'industrie de région est inférieur à la somme des différences
+calculées en application des deuxième à quatrième alinéas du présent 2, le fonds
+de financement des chambres de commerce et d'industrie de région verse, à chaque
+chambre de commerce et d'industrie de région, un montant égal au produit de sa
+différence par un coefficient unique d'équilibrage calculé de sorte que la somme
+des versements soit égale au produit de la taxe additionnelle à la cotisation
+sur la valeur ajoutée des entreprises affecté, au titre de l'année, au fonds.
 
 IV.-Pour l'application des II et III, les produits de la taxe additionnelle à la
 cotisation foncière des entreprises perçus en 2010 s'entendent de l'ensemble des

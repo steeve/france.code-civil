@@ -1,8 +1,6 @@
 Article L212-7
 ----
-Sont soumis à autorisation, préalablement à la délivrance du permis de
-construire s'il y a lieu et avant réalisation si le permis de construire n'est
-pas exigé, les projets ayant pour objet :
+Sont soumis à autorisation les projets ayant pour objet :
 
 1° La création d'un établissement de spectacles cinématographiques comportant
 plusieurs salles et plus de 300 places et résultant soit d'une construction
@@ -17,6 +15,10 @@ mise en exploitation ou la dernière extension ;
 3° L'extension d'un établissement de spectacles cinématographiques comportant
 plusieurs salles et ayant déjà atteint le seuil de 1 500 places ou devant le
 dépasser par la réalisation du projet ;
+
+3° bis L'extension d'un établissement de spectacles cinématographiques
+comportant déjà huit salles au moins ou devant dépasser ce seuil par la
+réalisation du projet ;
 
 4° La réouverture au public, sur le même emplacement, d'un établissement de
 spectacles cinématographiques comportant plusieurs salles et plus de 300 places

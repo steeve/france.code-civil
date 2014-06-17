@@ -1,14 +1,15 @@
 Article L633-10
 ----
-Les cotisations sont calculées en application des dispositions des articles L.
-131-6, L. 131-6-1 et L. 131-6-2. Elles ne peuvent être inférieures à un montant
-fixé par décret.
+Les cotisations sont calculées en application des articles L. 131-6 à L. 131-6-2
+et L. 133-6-8.
 
-Ces cotisations sont assises pour partie sur le revenu d'activité dans la limite
-du plafond mentionné au premier alinéa de l'article L. 241-3 et pour partie sur
-la totalité du revenu d'activité. Les taux des cotisations sont fixés par
-décret. La somme de ces taux est égale à la somme des taux fixés en application
-des deuxième et avant-dernier alinéas du même article L. 241-3.
+Les cotisations dues par les travailleurs indépendants non agricoles ne relevant
+pas du régime prévu à l'article L. 133-6-8 sont assises pour partie sur le
+revenu d'activité, dans la limite du plafond mentionné au premier alinéa de
+l'article L. 241-3, et pour partie sur la totalité du revenu d'activité. La
+somme des taux de ces cotisations est égale à la somme des taux fixés en
+application des deuxième et avant-dernier alinéas du même article L. 241-3. Ces
+cotisations ne peuvent être inférieures à un montant fixé par décret.
 
 Les cotisations du conjoint collaborateur mentionné à l'article L. 121-4 du code
 de commerce sont calculées, à sa demande :

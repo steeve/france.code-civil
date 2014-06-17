@@ -41,9 +41,8 @@ de l'action sociale et des familles ;
 
 7° Sous réserve des dispositions du 1° de l'article L. 722-1 du code rural et de
 la pêche maritime, les loueurs de chambres d'hôtes mentionnées à l'article L.
-324-3 du code du tourisme dont le revenu imposable de l'activité est supérieur
-au seuil d'exonération de faibles revenus professionnels non salariés non
-agricoles applicable en matière de cotisations d'allocations familiales ;
+324-3 du code du tourisme dont le revenu imposable de l'activité est supérieur à
+un montant fixé par décret ;
 
 8° Les personnes exerçant une activité de location directe ou indirecte de
 locaux d'habitation meublés ou destinés à être loués meublés à titre

@@ -3,6 +3,10 @@ Article L622-1
 Lorsqu'une personne exerce simultanément plusieurs activités professionnelles
 non salariées dépendant de régimes d'assurance vieillesse distincts, elle est
 affiliée au régime d'assurance vieillesse dont relève son activité principale.
+Lorsqu'une personne exerce simultanément une activité non salariée agricole et
+une activité entrant dans le champ d'application du régime prévu à l'article L.
+133-6-8, elle est affiliée, cotise et ouvre droit aux avantages d'assurance
+vieillesse simultanément auprès des régimes dont relèvent ces activités.
 
 Lorsqu'une personne a exercé simultanément plusieurs activités professionnelles
 non salariées dépendant de régimes d'assurance vieillesse distincts,

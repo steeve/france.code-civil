@@ -7,4 +7,5 @@ de l'environnement et de qualité de l'urbanisme, en tenant compte de la nature
 spécifique des œuvres cinématographiques. Elles doivent contribuer à la
 modernisation des établissements de spectacles cinématographiques et à la
 satisfaction des intérêts du spectateur tant en ce qui concerne la programmation
-d'une offre diversifiée que la qualité des services offerts.
+d'une offre diversifiée, le maintien et la protection du pluralisme dans le
+secteur de l'exploitation cinématographique que la qualité des services offerts.

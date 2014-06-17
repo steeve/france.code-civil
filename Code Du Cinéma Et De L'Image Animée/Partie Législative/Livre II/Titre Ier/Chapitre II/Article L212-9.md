@@ -1,8 +1,8 @@
 Article L212-9
 ----
-Dans le cadre des principes définis à l'article L. 212-6, les commissions
-d'aménagement commercial statuant en matière cinématographique se prononcent sur
-les deux critères suivants :
+Dans le cadre des principes définis à l'article L. 212-6, la commission
+départementale d'aménagement cinématographique se prononce sur les deux critères
+suivants :
 
 1° L'effet potentiel sur la diversité cinématographique offerte aux spectateurs
 dans la zone d'influence cinématographique concernée, évalué au moyen des
@@ -37,4 +37,17 @@ stationnement ;
 
 d) L'insertion du projet dans son environnement ;
 
-e) La localisation du projet.
+e) La localisation du projet, notamment au regard des schémas de cohérence
+territoriale et des plans locaux d'urbanisme.
+
+Lorsqu'une autorisation s'appuie notamment sur le projet de programmation
+cinématographique, ce projet fait l'objet d'un engagement de programmation
+cinématographique souscrit en application du 3° de l'article L. 212-23.
+
+Lorsque le projet présenté concerne l'extension d'un établissement définie aux
+2°, 3° ou 3° bis de l'article L. 212-7, le respect de l'engagement de
+programmation cinématographique souscrit par l'exploitant de l'établissement de
+spectacles cinématographiques en application de l'article L. 212-23 fait l'objet
+d'un contrôle du Centre national du cinéma et de l'image animée, transmis à la
+commission d'aménagement cinématographique compétente pour l'instruction du
+dossier.

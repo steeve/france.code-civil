@@ -60,7 +60,4 @@ développement durable et d'aménagement du territoire.
 Pour éclairer sa décision ou son avis, la commission entend toute personne dont
 l'avis présente un intérêt.
 
-IV.-Lorsqu'elle se réunit pour examiner les projets d'aménagement
-cinématographique, la commission comprend, parmi les personnalités qualifiées
-désignées par le préfet, un expert proposé par le président du Centre national
-du cinéma et de l'image animée et choisi sur une liste établie par lui.
+IV.-(Abrogé).

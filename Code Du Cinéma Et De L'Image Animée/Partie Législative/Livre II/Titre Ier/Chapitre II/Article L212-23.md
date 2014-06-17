@@ -14,9 +14,8 @@ commerce, et homologués par le président du Centre national du cinéma et de
 l'image animée ;
 
 3° Les projets de programmation, mentionnés à l'article L. 212-9, sur la base
-desquels les commissions d'aménagement commercial statuant en matière
-cinématographique ont accordé des autorisations en application de l'article L.
-212-7 ;
+desquels les commissions d'aménagement cinématographique ont accordé des
+autorisations en application de l'article L. 212-7 ;
 
 4° Tout projet de programmation sur la base duquel un exploitant d'établissement
 de spectacles cinématographiques a bénéficié d'une aide financière du Centre
