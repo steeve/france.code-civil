@@ -11,43 +11,84 @@ Saint-Martin. Les effectifs sont appréciés conformément au V de l'article L.
 l'exonération mentionnée au III de l'article L. 752-3-2 est déterminée de la
 façon suivante :
 
-a) Lorsque le salaire horaire brut est inférieur à 2,2 fois le SMIC,
+a) Pour les employeurs mentionnés au A du III précité :
+
+- lorsque le salaire horaire brut est inférieur à 1,8 fois le SMIC,
 l'exonération des cotisations d'assurances sociales et d'allocations familiales
 est totale sur la partie du salaire horaire brut allant jusqu'à 1,4 fois le SMIC
 compris ;
 
-b) Lorsque le salaire horaire brut est égal ou supérieur à 2,2 fois le SMIC, le
+- lorsque le salaire horaire brut est égal ou supérieur à 1,8 fois le SMIC, le
 montant mensuel de l'exonération est égal au produit de la rémunération
 mensuelle brute versée au salarié par un coefficient déterminé par l'application
 de la formule suivante :
 
-Coefficient = 0,281/1,6 x (3,8 x SMIC x 1,4 x nombre d'heure rémunérées/
-rémunération mensuelle brute)-1,4
+Coefficient = 0,281 × (2,8 × SMIC × 1,4 × nombre d'heures
+rémunérées/rémunération mensuelle brute) - 1,4 ;
+
+b) Pour les employeurs mentionnés au B du III précité :
+
+- lorsque le salaire horaire brut est inférieur à 2,2 fois le SMIC,
+l'exonération des cotisations d'assurances sociales et d'allocations familiales
+est totale sur la partie du salaire horaire brut allant jusqu'à 1,4 fois le SMIC
+compris ;
+
+- lorsque le salaire horaire brut est égal ou supérieur à 2,2 fois le SMIC, le
+montant mensuel de l'exonération est égal au produit de la rémunération
+mensuelle brute versée au salarié par un coefficient déterminé par l'application
+de la formule suivante :
+
+Coefficient = 0,281/1,6 × (3,8 × SMIC × 1,4 × nombre d'heures
+rémunérées/rémunération mensuelle brute) - 1,4 ;
 
 2° Pour les employeurs occupant un effectif de onze salariés ou plus et
 satisfaisant aux critères d'éligibilité fixés aux 2°, 3° ou 4° du II de
 l'article L. 752-3-2, le montant mensuel de l'exonération mentionnée au III de
 cet article est égal au produit de la rémunération mensuelle brute versée au
-salarié par un coefficient déterminé par l'application de la formule suivante :
+salarié par un coefficient déterminé par l'application de la formule déterminée
+selon les modalités suivantes :
 
-Coefficient = 0,281/2,4 x (3,8 x SMIC x 1,4 x nombre d'heure rémunérées/
-rémunération mensuelle brute)-1,4
+a) Pour les employeurs mentionnés au A du III précité :
+
+Coefficient = 0,281/1,2 × (2,6 × SMIC × 1,4 × nombre d'heures
+rémunérées/rémunération mensuelle brute) - 1,4 ;
+
+b) Pour les employeurs mentionnés au B du III précité :
+
+Coefficient = 0,281/2,4 × (3,8 × SMIC × 1,4 × nombre d'heures
+rémunérées/rémunération mensuelle brute) - 1,4 ;
 
 3° L'exonération prévue au IV de l'article L. 752-3-2 est déterminée de la façon
 suivante :
 
-a) Lorsque le salaire horaire brut est inférieur à 2,5 fois le SMIC,
-l'exonération des cotisations d'assurances sociales et d'allocations familiales
-est totale sur la partie du salaire horaire brut allant jusqu'à 1,6 fois le SMIC
-compris ;
+a) Pour les employeurs mentionnés au A du III de l'article L. 752-3-2 :
 
-b) Lorsque le salaire horaire brut est égal ou supérieur à 2,5 fois le SMIC, le
+- lorsque le salaire horaire brut est inférieur à 2 fois le SMIC, l'exonération
+des cotisations d'assurances sociales et d'allocations familiales est totale sur
+la partie du salaire horaire brut allant jusqu'à 1,6 fois le SMIC compris ;
+
+- lorsque le salaire horaire brut est égal ou supérieur à 2 fois le SMIC, le
 montant mensuel de l'exonération est égal au produit de la rémunération
 mensuelle brute versée au salarié par un coefficient déterminé par l'application
 de la formule suivante :
 
-Coefficient = 0,281/2 x (4,5 x SMIC x 1,6 x nombre d'heure rémunérées/
-rémunération mensuelle brute)-1,6
+Coefficient = 0,281 × (3 × SMIC × 1,6 × nombre d'heures rémunérées/rémunération
+mensuelle brute) - 1,6 ;
+
+b) Pour les employeurs mentionnés au B du III précité :
+
+- lorsque le salaire horaire brut est inférieur à 2,5 fois le SMIC,
+l'exonération des cotisations d'assurances sociales et d'allocations familiales
+est totale sur la partie du salaire horaire brut allant jusqu'à 1,6 fois le SMIC
+compris ;
+
+- lorsque le salaire horaire brut est égal ou supérieur à 2,5 fois le SMIC, le
+montant mensuel de l'exonération est égal au produit de la rémunération
+mensuelle brute versée au salarié par un coefficient déterminé par l'application
+de la formule suivante :
+
+Coefficient = 0,281/2 × (4,5 × SMIC × 1,6 × nombre d'heures
+rémunérées/rémunération mensuelle brute) - 1,6.
 
 4° Pour le calcul des formules du 1°, 2° et 3° :
 
