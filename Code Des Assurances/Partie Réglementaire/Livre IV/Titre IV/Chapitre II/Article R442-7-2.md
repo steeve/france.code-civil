@@ -1,8 +1,9 @@
 Article R442-7-2
 ----
-Les demandes de garanties sont adressées à la société qui les instruit et les
-soumet à la commission des garanties et du crédit au commerce extérieur ; le
-ministre chargé de l'économie, après avis de la commission, octroie ou refuse la
+Les demandes de garanties sont adressées à la société Compagnie française
+d'assurance pour le commerce extérieur (COFACE) qui les instruit et les soumet à
+la commission des garanties et du crédit au commerce extérieur ; le ministre
+chargé de l'économie, après avis de la commission, octroie ou refuse la
 garantie.
 
 Le ministre chargé de l'économie détermine, après avis de la commission des
