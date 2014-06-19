@@ -2,8 +2,8 @@ Article R513-1
 ----
 La prorogation d'un enregistrement de dessin ou modèle prévue à l'article L.
 513-1 résulte d'une déclaration de son titulaire établie dans les conditions
-fixées par l'arrêté mentionné à l'article R. 514-5. Il peut être précisé que la
-prorogation ne vaut que pour certains dessins ou modèles.
+fixées par la décision mentionnée à l'article R. 514-5. Il peut être précisé que
+la prorogation ne vaut que pour certains dessins ou modèles.
 
 La première prorogation peut toutefois être demandée lors du dépôt.
 

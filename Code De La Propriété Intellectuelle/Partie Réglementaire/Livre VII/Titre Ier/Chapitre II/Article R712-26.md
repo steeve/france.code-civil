@@ -1,8 +1,8 @@
 Article R712-26
 ----
 Les conditions de présentation de la demande et le contenu du dossier sont
-précisés par arrêté du ministre chargé de la propriété industrielle, notamment
-en ce qui concerne :
+précisés par décision du directeur général de l'Institut national de la
+propriété industrielle, notamment en ce qui concerne :
 
 1° La demande d'enregistrement prévue à l'article R. 712-3 ;
 

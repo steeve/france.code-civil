@@ -1,8 +1,8 @@
 Article R514-5
 ----
 Les modalités de présentation du dépôt et le contenu du dossier sont précisés
-par arrêté du ministre chargé de la propriété industrielle, notamment en ce qui
-concerne :
+par décision du directeur général de l'Institut national de la propriété
+industrielle, notamment en ce qui concerne :
 
 1° La demande d'enregistrement et les spécifications matérielles auxquelles doit
 répondre la reproduction graphique ou photographique prévue à l'article R. 512-3

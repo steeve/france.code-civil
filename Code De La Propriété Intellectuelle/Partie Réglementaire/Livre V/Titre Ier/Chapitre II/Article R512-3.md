@@ -10,8 +10,8 @@ cinquième alinéa de l'article L. 512-2.
 
 Le dépôt comprend :
 
-1° Une demande d'enregistrement établie dans les conditions prévues par l'arrêté
-mentionné à l'article R. 514-5 et précisant notamment :
+1° Une demande d'enregistrement établie dans les conditions prévues par la
+décision mentionnée à l'article R. 514-5 et précisant notamment :
 
 a) L'identification du déposant ;
 
@@ -32,14 +32,15 @@ qu'un certificat de garantie a été délivré en application de la loi du 13 av
 1908 ;
 
 2° Une reproduction graphique ou photographique des dessins et modèles présentée
-dans les conditions prévues par l'arrêté mentionné au 1°. Chaque reproduction
-doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de
-tout autre objet, accessoire, personne ou animal. Les textes explicatifs,
-légendes, ou toute autre indication ne faisant pas partie intégrante du dessin
-ou modèle ne sont pas admis sur ou à côté des reproductions. Les reproductions
-peuvent être accompagnées d'une brève description, établie exclusivement à des
-fins documentaires. Son contenu définitif est, si nécessaire, mis en forme par
-l'Institut national de la propriété industrielle ;
+dans les conditions prévues par la décision mentionnée au 1°. Chaque
+reproduction doit porter sur un seul objet et ne représenter que celui-ci, à
+l'exclusion de tout autre objet, accessoire, personne ou animal. Les textes
+explicatifs, légendes, ou toute autre indication ne faisant pas partie
+intégrante du dessin ou modèle ne sont pas admis sur ou à côté des
+reproductions. Les reproductions peuvent être accompagnées d'une brève
+description, établie exclusivement à des fins documentaires. Son contenu
+définitif est, si nécessaire, mis en forme par l'Institut national de la
+propriété industrielle ;
 
 3° La justification du paiement des redevances prescrites ;
 

@@ -1,15 +1,14 @@
 Article R612-1
 ----
-La demande de brevet est déposée à l'Institut national de la propriété
-industrielle.
+La demande de brevet est déposée au siège de l'Institut national de la propriété
+industrielle ou y est envoyée par pli postal ou par tout mode de
+télétransmission dans les conditions définies par décision de son directeur
+général. La date de dépôt est celle de la réception de la demande au siège de
+l'institut.
 
-Le dépôt peut également résulter d'un envoi à l'Institut national de la
-propriété industrielle soit sous pli postal recommandé avec demande d'avis de
-réception, soit par un message utilisant tout mode de télétransmission, selon
-les modalités fixées par le directeur général de l'institut pour garantir
-notamment la sécurité de l'envoi. Dans ces cas, la date de la remise des pièces
-est celle de leur réception à l'Institut national de la propriété industrielle.
+Le directeur général de l'Institut national de la propriété industrielle peut
+imposer un dépôt sous forme électronique lorsque cette modalité est de nature à
+faciliter l'examen et la publication de la demande.
 
-Le directeur de l'Institut national de la propriété industrielle peut exiger un
-dépôt sous forme électronique lorsqu'une telle modalité est de nature à
-faciliter l'examen et la publication de la demande de brevet.
+L'institut apporte une assistance aux déposants par tout moyen approprié,
+précisé par décision de son directeur général.

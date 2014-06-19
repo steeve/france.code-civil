@@ -1,7 +1,7 @@
 Article R712-14
 ----
-L'opposition est présentée par écrit dans les conditions prévues par l'arrêté
-mentionné à l'article R. 712-26.
+L'opposition est présentée par écrit dans les conditions prévues par la décision
+mentionnée à l'article R. 712-26.
 
 Elle précise :
 

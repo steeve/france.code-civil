@@ -1,8 +1,8 @@
 Article R712-24
 ----
 L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par
-déclaration du propriétaire de la marque, établie dans les conditions prévues à
-l'arrêté mentionné à l'article R. 712-26. Il peut être précisé que le
+déclaration du propriétaire de la marque, établie dans les conditions prévues
+par la décision mentionnée à l'article R. 712-26. Il peut être précisé que le
 renouvellement ne vaut que pour certains produits ou services désignés dans
 l'acte d'enregistrement.
 
