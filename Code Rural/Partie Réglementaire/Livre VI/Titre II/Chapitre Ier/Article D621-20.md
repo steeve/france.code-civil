@@ -1,5 +1,10 @@
 Article D621-20
 ----
+Les membres du conseil d'administration mentionnés aux 4° à 6° et 9° à 12° de
+l'article D. 621-7 et les membres des conseils spécialisés mentionnés aux
+articles D. 621-8 à D. 621-18 autres que les représentants de l'Etat sont nommés
+par arrêté du ministre chargé de l'agriculture.
+
 Le mandat des membres des conseils expire trois ans après la réunion
 d'installation du conseil dans lequel ils siègent. Il est renouvelable.
 
