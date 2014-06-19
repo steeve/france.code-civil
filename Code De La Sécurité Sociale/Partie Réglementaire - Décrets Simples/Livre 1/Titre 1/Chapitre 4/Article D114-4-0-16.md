@@ -1,5 +1,6 @@
 Article D114-4-0-16
 ----
-Le secrétariat du comité est assuré par la direction de la sécurité sociale qui
-prépare les réunions du comité en lien avec le secrétaire général du Conseil
-d'orientation des retraites.
+Les services de l'Etat, les établissements publics de l'Etat et les organismes
+de sécurité sociale sont tenus de communiquer au comité d'alerte les éléments
+d'information et les études dont ils disposent utiles à l'exercice de sa
+mission.
