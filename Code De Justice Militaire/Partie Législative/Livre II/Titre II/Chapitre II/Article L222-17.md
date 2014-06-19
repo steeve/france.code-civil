@@ -11,15 +11,15 @@ Les supports de cet enregistrement sont placés sous scellés et déposés au gr
 du tribunal.
 
 L'enregistrement sonore peut être utilisé jusqu'au prononcé du jugement.
-L'enregistrement sonore peut encore être utilisé devant la Cour de cassation
-saisie d'une demande en révision, ou, après cassation ou annulation sur demande
-en révision, devant la juridiction de renvoi, en ce qui concerne les
+L'enregistrement sonore peut encore être utilisé devant la cour de révision et
+de réexamen saisie d'une demande en révision, ou, après cassation ou annulation
+sur demande en révision, devant la juridiction de renvoi, en ce qui concerne les
 déclarations faites par des personnes qui ne peuvent plus être entendues.
 
 Les scellés sont ouverts par le premier président ou un magistrat délégué par
 lui, en présence du condamné assisté de son conseil, ou eux dûment appelés, ou
-en présence de l'une des personnes mentionnées au 3° de l'article 623 du code de
-procédure pénale, ou elles dûment appelées.
+en présence de l'une des personnes mentionnées au 4° de l'article 622-2 du code
+de procédure pénale, ou elles dûment appelées.
 
 Après présentation des scellés, le premier président fait procéder par un expert
 à une transcription de l'enregistrement qui est jointe au dossier de la
