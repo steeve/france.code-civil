@@ -3,15 +3,7 @@ Article L5211-6-1
 I. - Le nombre et la répartition des sièges de conseiller communautaire sont
 établis :
 
-- soit, dans les communautés de communes et les communautés d'agglomération, par
-accord des deux tiers au moins des conseils municipaux des communes intéressées
-représentant la moitié de la population totale de celles-ci ou de la moitié des
-conseils municipaux des communes intéressées représentant les deux tiers de la
-population totale. Cette répartition tient compte de la population de chaque
-commune. Chaque commune dispose d'au moins un siège et aucune commune ne peut
-disposer de plus de la moitié des sièges. Le nombre de sièges total ne peut
-excéder de plus de 25 % le nombre de sièges qui serait attribué en application
-des III et IV du présent article ;
+- (Abrogé)
 
 - soit selon les modalités prévues aux II à VI du présent article.
 
