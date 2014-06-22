@@ -100,8 +100,8 @@ conditions prévues à l'article D. 1432-19.
 III.-Les personnes physiques ou morales, mentionnées aux 2°, 3° et 4° du I du
 présent article, chargées de désigner des représentants titulaires et suppléants
 communiquent leurs noms aux ministres chargés de la santé, de l'assurance
-maladie, des personnes âgées et handicapées à une date fixée par arrêté du
-ministre chargé de la santé.
+maladie, des personnes âgées et handicapées dans un délai de deux mois précédant
+l'expiration des mandats.
 
 IV.-Siègent avec voix consultative au conseil de surveillance :
 
