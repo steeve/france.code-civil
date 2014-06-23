@@ -1,13 +1,21 @@
 Article R6153-72
 ----
-A compter de leur inscription en deuxième année du deuxième cycle, les étudiants
-en odontologie mentionnés à l'article R. 6153-63 perçoivent une rémunération
-annuelle dont le taux est fixé par arrêté des ministres chargés du budget, de
-l'enseignement supérieur et de la santé, et revalorisé suivant l'évolution des
-traitements de la fonction publique par arrêté du ministre chargé de la santé.
-Cette rémunération est versée mensuellement.
+A compter de leur inscription en première année du deuxième cycle, les étudiants
+hospitaliers en odontologie mentionnés à l'article R. 6153-63 perçoivent une
+rémunération dont le montant annuel est fixé par arrêté des ministres chargés du
+budget, de l'enseignement supérieur et de la santé, et revalorisé suivant
+l'évolution des traitements de la fonction publique par arrêté du ministre
+chargé de la santé.
 
-Les étudiants mentionnés à l'alinéa précédent ont droit :
+Cette rémunération est versée mensuellement après service fait, quelle que soit
+la structure d'affectation, à l'exception de la période d'études à l'étranger
+prévue à l'article R. 6153-64.
+
+Les étudiants redoublants ou triplants perçoivent la rémunération prévue par la
+présente section pour toute période de stage accomplie, à l'exception de la
+période d'études à l'étranger prévue à l'article R. 6153-64.
+
+Les étudiants mentionnés aux alinéas précédents ont droit :
 
 1° A un congé annuel de trente jours ouvrables pendant lequel ils perçoivent la
 rémunération prévue au premier alinéa du présent article ;
@@ -28,5 +36,7 @@ Les prestations en espèces dues aux intéressés au titre de la sécurité soci
 viennent en déduction de la rémunération ou de la demi-rémunération servie
 durant le congé de maladie, de maternité, d'adoption ou de paternité ;
 
-4° En outre les étudiants de deuxième année du deuxième cycle peuvent, sur leur
-demande, bénéficier d'un congé supplémentaire d'un mois non rémunéré.
+4° En outre, les étudiants, au cours du deuxième cycle, peuvent, sur leur
+demande après accord de l'unité de formation et de recherche et du directeur du
+centre hospitalier universitaire de rattachement, bénéficier d'un congé
+supplémentaire de trente jours ouvrables non rémunéré.

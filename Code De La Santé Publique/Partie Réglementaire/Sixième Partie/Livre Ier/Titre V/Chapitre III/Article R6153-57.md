@@ -1,18 +1,17 @@
 Article R6153-57
 ----
-Les étudiants en médecine mentionnés à l'article R. 6153-46 sont soumis au
-régime disciplinaire applicable aux étudiants. En cas d'infraction à la
-discipline commise par un de ces étudiants à l'intérieur de l'établissement
+Les étudiants hospitaliers en médecine mentionnés à l'article R. 6153-46 sont
+soumis au régime disciplinaire applicable aux étudiants. En cas d'infraction à
+la discipline commise par un de ces étudiants à l'intérieur de l'établissement
 d'affectation, le directeur de l'établissement en avertit le directeur de
 l'unité de formation et de recherche ainsi que, si l'établissement en cause
 n'est pas le centre hospitalier universitaire, le directeur général de ce
 centre.
 
-Le directeur de l'établissement public de santé peut exclure de son
-établissement tout étudiant dont le comportement est de nature à compromettre le
-bon fonctionnement du service. Il en informe immédiatement le directeur de
-l'unité de formation et de recherche en vue d'un examen conjoint de la
-situation.
+Le directeur de l'établissement peut exclure de son établissement tout étudiant
+dont le comportement est de nature à compromettre le bon fonctionnement du
+service. Il en informe immédiatement le directeur de l'unité de formation et de
+recherche en vue d'un examen conjoint de la situation.
 
 Au vu des conclusions de cet examen, le directeur de l'établissement
 d'affectation, si celui-ci n'est pas le centre hospitalier universitaire, peut
