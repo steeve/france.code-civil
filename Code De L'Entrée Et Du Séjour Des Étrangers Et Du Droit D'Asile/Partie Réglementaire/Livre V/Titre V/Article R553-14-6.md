@@ -1,17 +1,21 @@
 Article R553-14-6
 ----
-L'accès des représentants des associations habilitées à accéder aux lieux de
-rétention est subordonné à un agrément individuel accordé pour une durée d'un an
-par le ministre chargé de l'immigration.
+Chaque association habilitée peut transmettre au ministre chargé de
+l'immigration une liste de cinq personnes au plus ayant vocation à accéder à
+l'ensemble des lieux de rétention.
 
-Cet agrément, qui est renouvelable, peut être accordé à cinq personnes par
-association. Il entraîne la délivrance d'une carte nominative permettant
-d'obtenir, lors de chaque visite, une autorisation d'accès au lieu de rétention.
+Chaque association habilitée peut transmettre au préfet territorialement
+compétent ou, à Paris, au préfet de police, pour chaque lieu de rétention, une
+liste de cinq personnes au plus ayant vocation à y accéder.
 
-Une même personne ne peut recevoir qu'un agrément.
+L'autorité compétente peut, par décision motivée, s'opposer à l'accès d'une ou
+plusieurs personnes figurant sur une liste pour des motifs d'ordre public. En
+l'absence d'opposition de l'autorité compétente dans un délai d'un mois après
+réception de la liste, ces personnes sont autorisées à accéder aux lieux de
+rétention concernés. L'autorité compétente en informe les responsables de ces
+lieux de rétention.
 
-Le ministre chargé de l'immigration peut retirer, par décision motivée,
-l'agrément délivré à un représentant d'une association.
-
-L'agrément d'un représentant d'une association est retiré sur demande de
-celle-ci ou lorsque l'habilitation de l'association a été retirée ou a expiré.
+Il est mis fin au droit d'accès d'un représentant d'une association à la demande
+de la personne ou de l'association concernée ou lorsque l'habilitation de cette
+association est retirée. L'autorité compétente peut également, par décision
+motivée, mettre fin au droit d'accès pour des motifs d'ordre public.

@@ -1,20 +1,19 @@
 Article R553-14-7
 ----
-Les représentants agréés d'une association peuvent s'entretenir avec le chef de
-centre ou le responsable du local de rétention et, lorsqu'ils sont présents,
-avec les agents de l'Office français de protection des réfugiés et apatrides et
-de l'Office français de l'immigration et de l'intégration ainsi qu'avec les
-représentants agréés des associations ayant conclu la convention prévue à
-l'article R. 553-14 pour permettre l'exercice effectif des droits des étrangers.
+Les représentants des associations ont accès, dans le respect des règles
+sanitaires et de sécurité, aux locaux susceptibles d'accueillir les retenus.
+Toutefois, ils n'ont accès aux locaux mis à disposition des intervenants et au
+local réservé aux avocats qu'avec l'accord des intéressés.
 
-L'autorisation de s'entretenir confidentiellement avec les personnes retenues
-dans ces lieux ne peut être refusée que pour des motifs tirés des exigences
-mentionnées au deuxième alinéa de l'article R. 553-14-4.
+Les représentants des associations peuvent s'entretenir avec le responsable du
+lieu de rétention et, lorsqu'ils sont présents, avec les agents de l'Office
+français de protection des réfugiés et apatrides et de l'Office français de
+l'immigration et de l'intégration ainsi qu'avec les représentants agréés des
+associations ayant conclu la convention prévue à l'article R. 553-14 pour
+permettre l'exercice effectif des droits des étrangers. Ils peuvent s'entretenir
+avec l'équipe médicale du lieu de rétention, dans le respect du secret médical.
 
-Les représentants de plusieurs associations habilitées ne peuvent accéder le
-même jour au même lieu de rétention.
-
-Lorsque les représentants agréés d'une association exercent leur droit de
-visite, ils informent au préalable au moins vingt-quatre heures à l'avance le
-chef de centre ou le responsable du local de rétention et conviennent avec lui
-des modalités pratiques de leur visite.
+Les représentants des associations peuvent s'entretenir confidentiellement avec
+les personnes retenues dans ces lieux. Cette possibilité ne peut être refusée
+que pour des motifs tirés des exigences mentionnées au second alinéa de
+l'article R. 553-14-4.
