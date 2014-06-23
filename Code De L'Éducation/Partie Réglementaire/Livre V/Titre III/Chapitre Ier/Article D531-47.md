@@ -1,13 +1,7 @@
 Article D531-47
 ----
-La commission locale est présidée par le chef de poste diplomatique ou
-consulaire, ou son représentant. Elle comprend : 1° Des membres de droit : a) Le
-conseiller culturel ou son représentant ; b) Le ou les délégués représentant le
-pays ou la circonscription à l'Assemblée des Français de l'étranger ; 2° Des
-membres désignés par le chef de la mission diplomatique ou consulaire,
-représentant : a) Les établissements d'enseignement concernés ; b) Les
-organisations syndicales représentatives des personnels enseignants ; c) Les
-associations de parents d'élèves ; d) Les associations de Français établis hors
-de France. Le président de la commission locale peut convier, à titre
-consultatif, toute personne qualifiée dont l'audition lui semble susceptible
-d'éclairer les travaux de la commission.
+Les conseils consulaires institués par l'article 3 de la loi n° 2013-659 du 22
+juillet 2013 relative à la représentation des Français établis hors de France
+exercent les attributions des commissions locales, dans les conditions prévues
+par le décret n° 2014-144 du 18 février 2014 relatif aux conseils consulaires, à
+l'Assemblée des Français de l'étranger et à leurs membres.

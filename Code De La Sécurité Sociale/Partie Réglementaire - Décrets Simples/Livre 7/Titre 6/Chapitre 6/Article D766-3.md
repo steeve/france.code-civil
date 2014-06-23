@@ -14,21 +14,8 @@ estime utile. Elle émet un avis sur la demande, dans le respect de critères
 généraux définis par des instructions du ministre chargé des affaires
 étrangères.
 
-La commission locale mentionnée à l'alinéa précédent est présidée par le chef de
-la mission diplomatique ou du poste consulaire ou son représentant. Elle
-comprend :
-
-1° Le conseiller social du poste, le médecin et l'assistante sociale du poste,
-lorsque ces emplois existent ;
-
-2° Le ou les délégués représentant l'Etat ou la zone au Conseil supérieur des
-Français de l'étranger, ou leurs représentants ;
-
-3° Le ou les représentants des associations de Français de l'étranger reconnues
-d'utilité publique, ou leurs suppléants ;
-
-4° Le ou les administrateurs de la Caisse des Français de l'étranger résidant
-dans le pays, ou leurs représentants.
-
-La commission locale se réunit en tant que de besoin et au moins deux fois par
-an.
+Les conseils consulaires institués par l'article 3 de la loi n° 2013-659 du 22
+juillet 2013 relative à la représentation des Français établis hors de France
+exercent les attributions des commissions locales, dans les conditions prévues
+par le décret n° 2014-144 du 18 février 2014 relatif aux conseils consulaires, à
+l'Assemblée des Français de l'étranger et à leurs membres.
