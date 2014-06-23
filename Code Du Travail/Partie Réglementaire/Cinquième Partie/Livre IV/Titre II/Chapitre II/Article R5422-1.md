@@ -8,3 +8,7 @@ d'activité au cours des trente-six mois précédant la fin de ce contrat dans l
 limite de mille quatre-vingt-quinze jours.
 
 Cette durée ne peut être inférieure à cent vingt-deux jours.
+
+Cette durée est diminuée, le cas échéant, de la durée du contrat de sécurisation
+professionnelle dont l'intéressé a bénéficié à la fin du même contrat de travail
+en application de l'article L. 1233-65.
