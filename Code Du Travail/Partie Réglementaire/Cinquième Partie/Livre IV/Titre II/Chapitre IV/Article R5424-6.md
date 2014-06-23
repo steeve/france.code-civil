@@ -1,15 +1,10 @@
 Article R5424-6
 ----
-En cas de réadmission intervenant alors que le travailleur privé d'emploi n'a
-pas épuisé les droits ouverts lors d'une précédente admission, l'allocation
-accordée correspond au montant global le plus élevé, après comparaison entre le
-montant global du reliquat des droits ouverts au titre de la précédente
-admission et le montant global des droits ouverts au titre de la nouvelle
-admission. Lorsque le montant le plus élevé est celui du reliquat des droits de
-la précédente admission, l'allocation est à la charge de l'employeur ou de Pôle
-emploi pour le compte de l'organisme mentionné à l'article L. 5427-1 qui a
-décidé la précédente admission. Lorsque le montant le plus élevé correspond aux
-droits ouverts au titre de la nouvelle admission, l'allocation est à la charge
-de l'employeur ou de Pôle emploi pour le compte de l'organisme mentionné à
-l'article L. 5427-1 qui décide la nouvelle admission, après application des
-dispositions des articles R. 5424-2 à R. 5424-5.
+Lorsque l'intéressé a épuisé les droits ouverts lors d'une précédente admission
+et qu'il remplit les conditions lui permettant de bénéficier de droits au titre
+d'une ou de plusieurs activités exercées antérieurement à la fin des droits, en
+application du I de l'article R. 5422-2, l'allocation est à la charge de
+l'employeur ou de l'institution mentionnée à l'article L. 5312-1 pour le compte
+de l'organisme mentionné à l'article L. 5427-1 qui décide de la nouvelle
+admission, après, le cas échéant, application des dispositions des articles R.
+5424-2 à R. 5424-5.
