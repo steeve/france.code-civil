@@ -88,6 +88,8 @@ Quartier des mineurs du centre de semi-liberté de Souffelweyersheim (Bas-Rhin) 
 
 Quartier des mineurs de la maison d'arrêt de Strasbourg (Bas-Rhin) ;
 
+Quartier des mineurs du centre pénitentiaire de Toulon-La Farlède (Var) ;
+
 Quartier des mineurs de la maison d'arrêt de Tours (Indre-et-Loire) ;
 
 Quartier des mineurs de la maison d'arrêt de Varennes-le-Grand (Saône-et-Loire)
