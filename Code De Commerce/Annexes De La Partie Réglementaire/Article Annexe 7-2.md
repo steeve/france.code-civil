@@ -5,19 +5,11 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 
 DÉPARTEMENTS
 
-SIÈGE
+SIÈGE du tribunal de commerce
 
-du tribunal de commerce
+NOMBRE DE JUGES du tribunal de commerce
 
-
-NOMBRE DE JUGES
-
-du tribunal de commerce
-
-
-NOMBRE DE CHAMBRES
-
-du tribunal de commerce
+NOMBRE DE CHAMBRES du tribunal de commerce
 
 Cour d'appel d'Agen
 
@@ -906,9 +898,9 @@ Vendée
 
 La Roche-sur-Yon
 
-19
+24
 
-3
+4
 
 
 Vienne
