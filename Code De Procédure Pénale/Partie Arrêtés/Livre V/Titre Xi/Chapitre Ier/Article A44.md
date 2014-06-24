@@ -243,9 +243,10 @@ La Rochelle.
 Antenne de La Rochelle-Saint-Martin-de-Ré.
 
 Circonscription judiciaire de La Rochelle, à l'exception des cantons situés dans
-le ressort de l'antenne de Rochefort.
+le ressort de l'antenne de Rochefort
 
-Maison centrale de Saint-Martin-de-Ré.
+
+Maison centrale de Saint-Martin-de-Ré
 
 Antenne de Saintes-Bédenac.
 
@@ -286,10 +287,11 @@ Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche.
 
 Maison d'arrêt de Tulle.
 
-Antenne de Brive-la-Gaillarde.
+
+Antenne de Brive-la-Gaillarde
 
 Circonscription judiciaire de Brive-la-Gaillarde, à l'exception des cantons
-situés dans le ressort de l'antenne de Tulle.
+situés dans le ressort de l'antenne de Tulle
 
 Antenne d'Uzerche.
 
@@ -480,7 +482,7 @@ Toulouse.
 Antenne de Toulouse.
 
 Circonscription judiciaire de Toulouse, à l'exception des cantons situés dans le
-ressort de l'antenne de Saint-Gaudens.
+ressort de l'antenne de Saint-Gaudens
 
 Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus).
 
@@ -600,7 +602,7 @@ Antenne de Bourgoin-Jallieu.
 
 Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin,
 Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et
-Virieu.
+Virieu
 
 Service pénitentiaire d'insertion et de probation du Jura.
 
@@ -750,7 +752,7 @@ Coutances.
 Antenne de Coutances.
 
 Circonscription judiciaire de Coutances, à l'exception des cantons situés dans
-le ressort de l'antenne d'Avranches.
+le ressort de l'antenne d'Avranches
 
 Antenne de Cherbourg.
 
@@ -970,7 +972,7 @@ Circonscription judiciaire d'Alençon.
 
 Centre pénitentiaire d'Alençon - Condé-sur-Sarthe.
 
-Antenne d'Argentan.
+Antenne d'Argentan
 
 Circonscription judiciaire d'Argentan.
 
@@ -984,7 +986,7 @@ Néant.
 
 Circonscription judiciaire de Paris.
 
-Maison d'arrêt de Paris-La Santé.
+Centre de semi-liberté de Paris La Santé.
 
 Service pénitentiaire d'insertion et de probation du Pas-de-Calais.
 
@@ -1133,21 +1135,22 @@ Vesoul.
 Antenne de Vesoul.
 
 Circonscription judiciaire de Vesoul, à l'exception des cantons situés dans le
-ressort de l'antenne de Lure.
+ressort de l'antenne de Lure
 
-Maison d'arrêt de Vesoul.
+Maison d'arrêt de Vesoul
 
 Antenne de Lure.
 
 Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest,
 Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse,
-Saint-Sauveur, Saulx, Vauvillers et Villersexel.
+Saint-Sauveur, Saulx, Vauvillers et Villersexel
 
-Maison d'arrêt de Lure.
+Maison d'arrêt de Lure
 
 Service pénitentiaire d'insertion et de probation de Saône-et-Loire.
 
-Chalon-sur-Saône.
+
+Chalon-sur-Saône
 
 Antenne de Chalon-sur-Saône-Varennes-le-Grand.
 
@@ -1187,7 +1190,8 @@ Centre pénitentiaire d'Aiton.
 
 Service pénitentiaire d'insertion et de probation de la Haute-Savoie.
 
-Annemasse.
+
+Annemasse
 
 Antenne d'Annecy.
 
@@ -1296,12 +1300,12 @@ Antenne d'Abbeville.
 
 Cantons d'Abbeville-Nord, Abbeville-Sud, Ailly-le-Haut-Clocher, Ault,
 Crécy-en-Ponthieu, Friville-Escarbotin, Gamaches, Hallencourt, Moyenneville,
-Nouvion, Rue et Saint-Valery-sur-Somme
+Nouvion, Rue et Saint-Valery-sur-Somme.
 
 Antenne de Péronne.
 
 Cantons d'Albert, de Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne et
-Roisel
+Roisel.
 
 Service pénitentiaire d'insertion et de probation du Tarn.
 
@@ -1354,7 +1358,7 @@ Antenne d'Avignon.
 Circonscription judiciaire d'Avignon.
 
 (Arr. 17 sept. 2003, art. 5). Centre pénitentiaire d'Avignon-Le Pontet (quartier
-de semi-liberté inclus).
+de semi-liberté inclus)
 
 Antenne de Carpentras.
 
@@ -1408,7 +1412,8 @@ ressort de l'antenne de Saint-Dié-des Vosges.
 
 Maison d'arrêt d'Epinal.
 
-Antenne de Saint-Dié-des-Vosges.
+
+Antenne de Saint-Dié-des-Vosges
 
 Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave,
 Raon-l'Etape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones.

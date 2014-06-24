@@ -22,3 +22,5 @@ Centre de semi-liberté de Melun (Seine-et-Marne).
 Centre de semi-liberté de Montargis (Loiret).
 
 Centre de semi-liberté de Souffelweyersheim (hommes, femmes) (Bas-Rhin).
+
+Centre de semi-liberté de Paris La Santé (Paris) .
