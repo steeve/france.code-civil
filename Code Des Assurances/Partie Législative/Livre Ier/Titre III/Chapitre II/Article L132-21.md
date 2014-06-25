@@ -9,8 +9,8 @@ Dans la limite de la valeur de rachat du contrat, l'assureur peut consentir des
 avances au contractant.
 
 En cas de demande de rachat du contrat par le contractant, l'entreprise
-d'assurance ou de capitalisation lui verse la valeur de transfert du contrat
-dans un délai qui ne peut excéder deux mois.
+d'assurance ou de capitalisation lui verse la valeur de rachat du contrat dans
+un délai qui ne peut excéder deux mois.
 
 En cas de demande de transfert du contrat par l'adhérent, l'entreprise
 d'assurance verse à l'organisme d'assurance d'accueil la valeur de transfert du

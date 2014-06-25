@@ -7,15 +7,15 @@ renonciation et sur les dispositions essentielles du contrat. Un arrêté fixe l
 informations qui doivent figurer dans cette note, notamment en ce qui concerne
 les garanties exprimées en unités de compte. Toutefois, la proposition
 d'assurance ou le projet de contrat vaut note d'information, pour les contrats
-d'assurance comportant une valeur de rachat ou de transfert, lorsqu'un encadré,
-inséré en début de proposition d'assurance ou de projet de contrat, indique en
-caractères très apparents la nature du contrat.L'encadré comporte en particulier
-le regroupement des frais dans une même rubrique, les garanties offertes et la
-disponibilité des sommes en cas de rachat, la participation aux bénéfices, ainsi
-que les modalités de désignation des bénéficiaires. Un arrêté du ministre chargé
-de l'économie, pris après avis de l'Autorité de contrôle prudentiel et de
-résolution, fixe le format de cet encadré ainsi que, de façon limitative, son
-contenu.
+d'assurance ou de capitalisation comportant une valeur de rachat ou de
+transfert, lorsqu'un encadré, inséré en début de proposition d'assurance ou de
+projet de contrat, indique en caractères très apparents la nature du contrat.
+L'encadré comporte en particulier le regroupement des frais dans une même
+rubrique, les garanties offertes et la disponibilité des sommes en cas de
+rachat, la participation aux bénéfices, ainsi que les modalités de désignation
+des bénéficiaires. Un arrêté du ministre chargé de l'économie, pris après avis
+de l'Autorité de contrôle prudentiel et de résolution, fixe le format de cet
+encadré ainsi que, de façon limitative, son contenu.
 
 La proposition ou le contrat d'assurance ou de capitalisation comprend :
 

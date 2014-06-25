@@ -98,7 +98,7 @@ présent article, une comptabilité auxiliaire d'affectation. Ces procédures et
 cet enregistrement sont contrôlés et certifiés par le ou les commissaires aux
 comptes de l'entreprise d'assurance.
 
-L'article L. 142-4 s'applique aux biens et droits résultant de l'enregistrement
+L'article L. 134-4 s'applique aux biens et droits résultant de l'enregistrement
 comptable établi en vertu du premier alinéa du présent VII.
 
 Les actifs du plan d'épargne retraite populaire sont conservés par un

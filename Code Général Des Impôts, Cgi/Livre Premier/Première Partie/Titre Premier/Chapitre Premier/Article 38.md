@@ -305,9 +305,9 @@ Pour les opérations réalisées au cours d'exercices clos à compter du 31 déc
 1994, les dispositions du présent 7 ne sont pas applicables si l'un des
 coéchangistes remet à l'échange des actions émises lors d'une augmentation de
 capital réalisée depuis moins de trois ans par une société qui détient
-directement ou indirectement une participation supérieure à 5% du capital de
+directement ou indirectement une participation supérieure à 5 % du capital de
 l'autre société avec laquelle l'échange est réalisé ou par une société dont plus
-de 5% du capital est détenu directement ou indirectement par cette autre
+de 5 % du capital est détenu directement ou indirectement par cette autre
 société.
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
@@ -372,7 +372,7 @@ de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations ;
 souscription et sa valeur de remboursement est considérée, pour l'imposition du
 souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis
 avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de
-l'article 238 septies B que si son montant excède 15% de la valeur actuelle de
+l'article 238 septies B que si son montant excède 15 % de la valeur actuelle de
 l'obligation ;
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de
@@ -384,9 +384,9 @@ pas été exercés.
 code de commerce n'a pas d'incidence sur les résultats imposables, par
 dérogation aux 1 et 2 du présent article ;
 
-2° Toutefois, les dispositions du dix-septième alinéa du 5° du 1 de l'article 39
+2° Toutefois, les dispositions du seizième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart
-d'équivalence négatif, qui correspond à la dépréciation définie au dix-huitième
+d'équivalence négatif, qui correspond à la dépréciation définie au dix-septième
 alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
 L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
 l'impôt.
@@ -418,7 +418,7 @@ venir en diminution des profits de réévaluation des parts de la société civi
 constatés par la société d'assurance.
 
 11. Le transfert dans une comptabilité auxiliaire d'affectation d'éléments
-d'actifs pour lesquels sont applicables les règles de l'article L. 142-4, de
+d'actifs pour lesquels sont applicables les règles de l'article L. 134-4, de
 l'article L. 143-7, de l'article L. 441-8, ou du VII de l'article L. 144-2 du
 code des assurances est assimilé à une cession. Il en est de même en cas de
 retrait d'actifs de l'une de ces comptabilités.

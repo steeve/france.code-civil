@@ -60,7 +60,11 @@ par la Caisse nationale de prévoyance de la fonction publique, sont
 transférables, dans des conditions fixées par décret.
 
 Pour les autres assurances sur la vie et pour les opérations de capitalisation,
-l'assureur ne peut refuser la réduction ou le rachat.
+l'assureur ne peut refuser la réduction ou le rachat. Toutefois, le contrat peut
+stipuler que les engagements relevant du chapitre IV ne sont pas rachetables
+durant une période qui ne peut excéder une durée fixée par décret en Conseil
+d'Etat, sauf lorsque se produisent l'un ou plusieurs des événements mentionnés
+aux troisième à septième alinéas.
 
 L'assureur peut d'office substituer le rachat à la réduction si la valeur de
 rachat est inférieure à un montant fixé par décret.

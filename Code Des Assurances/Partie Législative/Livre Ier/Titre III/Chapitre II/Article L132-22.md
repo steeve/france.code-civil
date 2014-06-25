@@ -35,6 +35,9 @@ dans cette communication ce que signifient les opérations de rachat, de
 transfert et de réduction et quelles sont leurs conséquences légales et
 contractuelles.
 
+Pour les contrats relevant du chapitre IV, l'entreprise d'assurance ou de
+capitalisation indique les modalités et conditions de rachat.
+
 Pour les contrats liés à la cessation d'activité professionnelle, l'entreprise
 d'assurance ou de capitalisation fournit, dans cette communication, une
 estimation du montant de la rente viagère qui serait versée à l'assuré à partir

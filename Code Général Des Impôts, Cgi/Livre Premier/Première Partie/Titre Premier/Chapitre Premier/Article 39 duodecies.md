@@ -20,6 +20,7 @@ dispositions de l'article 39 B ;
 
 c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés
 établies dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.
+(1)
 
 3. Le régime des plus-values à long terme est applicable aux plus-values autres
 que celles définies au 2.
@@ -44,7 +45,7 @@ acquis ou souscrits à la date la plus ancienne.
 
 Pour l'application de ces dispositions, les titres inscrits dans une
 comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L.
-142-4, de l'article L. 143-7, du VII de l'article L. 144-2 ou de l'article L.
+134-4, de l'article L. 143-7, du VII de l'article L. 144-2 ou de l'article L.
 441-8 du code des assurances, constituent un portefeuille distinct.
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en

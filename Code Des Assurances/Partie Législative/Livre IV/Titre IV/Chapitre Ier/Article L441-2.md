@@ -5,7 +5,7 @@ dispositions du livre Ier relatives aux assurances sur la vie s'appliquent aux
 opérations régies par le présent chapitre, à l'exception des articles L. 131-1,
 L. 131-2, L. 132-5-2, L. 132-5-3, L. 132-9, L. 132-9-1, L. 132-20 à L. 132-22-1,
 L. 132-30 et L. 132-31, des dispositions spécifiques aux assurances en cas de
-décès et du chapitre II du titre IV. Pour l'application de ces dispositions, la
+décès et du chapitre IV du titre III. Pour l'application de ces dispositions, la
 référence à la provision mathématique est remplacée en tant que de besoin par la
 référence à la provision mathématique théorique.
 

@@ -7,7 +7,7 @@ l'article L. 310-14. Cette disposition peut s'appliquer individuellement à un
 contrat selon des conditions fixées par décret.
 
 Les comptabilités auxiliaires d'affectation relatives à des opérations relevant
-du présent chapitre, mentionnées aux articles L. 441-8, L. 142-2 et, pour les
+du présent chapitre, mentionnées aux articles L. 441-8, L. 134-2 et, pour les
 contrats relevant du b du 1 du I de l'article 163 quatervicies du code général
 des impôts, celles mentionnées au VII de l'article L. 144-2, sont établies
 séparément de la comptabilité auxiliaire d'affectation mentionnée à l'alinéa

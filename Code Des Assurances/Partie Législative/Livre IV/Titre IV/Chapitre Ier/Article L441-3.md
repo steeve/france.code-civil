@@ -26,7 +26,8 @@ stipulations essentielles au sens du b.
 
 II. ― Pour les opérations à adhésion facultative, le défaut de remise de la
 notice prévue au I du présent article entraîne de plein droit la prorogation du
-délai de renonciation prévu à l'article L. 132-5-1.
+délai de renonciation prévu à l'article L. 132-5-1, dans les conditions prévues
+à l'alinéa 6 de l'article L. 132-5-2.
 
 III. ― Pour les opérations à adhésion facultative, lorsque les droits acquis par
 l'adhérent sont représentés par une provision mathématique théorique égale ou
