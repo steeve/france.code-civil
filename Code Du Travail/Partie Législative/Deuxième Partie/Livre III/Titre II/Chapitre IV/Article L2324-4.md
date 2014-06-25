@@ -1,12 +1,12 @@
 Article L2324-4
 ----
-Sont informées, par voie d'affichage, de l'organisation des élections et
-invitées à négocier le protocole d'accord préélectoral et à établir les listes
-de leurs candidats aux fonctions de représentants du personnel au comité
-d'entreprise les organisations syndicales qui satisfont aux critères de respect
-des valeurs républicaines et d'indépendance, légalement constituées depuis au
-moins deux ans et dont le champ professionnel et géographique couvre
-l'entreprise ou l'établissement concernés.
+Sont informées, par tout moyen, de l'organisation des élections et invitées à
+négocier le protocole d'accord préélectoral et à établir les listes de leurs
+candidats aux fonctions de représentants du personnel au comité d'entreprise les
+organisations syndicales qui satisfont aux critères de respect des valeurs
+républicaines et d'indépendance, légalement constituées depuis au moins deux ans
+et dont le champ professionnel et géographique couvre l'entreprise ou
+l'établissement concernés.
 
 Les organisations syndicales reconnues représentatives dans l'entreprise ou
 l'établissement, celles ayant constitué une section syndicale dans l'entreprise

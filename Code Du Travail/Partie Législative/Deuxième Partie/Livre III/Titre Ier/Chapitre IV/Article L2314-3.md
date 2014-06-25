@@ -1,9 +1,9 @@
 Article L2314-3
 ----
-Sont informées, par voie d'affichage, de l'organisation des élections et
-invitées à négocier le protocole d'accord préélectoral et à établir les listes
-de leurs candidats aux fonctions de délégués du personnel les organisations
-syndicales qui satisfont aux critères de respect des valeurs républicaines et
+Sont informées, par tout moyen, de l'organisation des élections et invitées à
+négocier le protocole d'accord préélectoral et à établir les listes de leurs
+candidats aux fonctions de délégués du personnel les organisations syndicales
+qui satisfont aux critères de respect des valeurs républicaines et
 d'indépendance, légalement constituées depuis au moins deux ans et dont le champ
 professionnel et géographique couvre l'entreprise ou l'établissement concernés.
 

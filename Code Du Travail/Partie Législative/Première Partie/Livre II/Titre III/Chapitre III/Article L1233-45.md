@@ -6,8 +6,7 @@ fait la demande au cours de ce même délai.
 
 Dans ce cas, l'employeur informe le salarié de tout emploi devenu disponible et
 compatible avec sa qualification. En outre, l'employeur informe les
-représentants du personnel des postes disponibles et affiche la liste de ces
-postes.
+représentants du personnel des postes disponibles.
 
 Le salarié ayant acquis une nouvelle qualification bénéficie également de la
 priorité de réembauche au titre de celle-ci, s'il en informe l'employeur.

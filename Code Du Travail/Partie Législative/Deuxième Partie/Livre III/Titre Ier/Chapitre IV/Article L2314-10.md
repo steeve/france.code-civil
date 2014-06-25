@@ -5,4 +5,4 @@ une convention, un accord collectif de travail, étendus ou non, ou un accord
 préélectoral que lorsque la convention ou l'accord est signé par toutes les
 organisations syndicales représentatives dans l'entreprise.
 
-L'accord préélectoral est transmis à l'inspecteur du travail.
+L'accord préélectoral est communiqué, à sa demande, à l'inspecteur du travail.
