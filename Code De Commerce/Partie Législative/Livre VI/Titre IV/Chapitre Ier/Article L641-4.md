@@ -30,5 +30,5 @@ et de l'instance de coordination sont rendus au plus tard dans les douze jours
 de la décision prononçant la liquidation, ou, si le maintien provisoire de
 l'activité a été autorisé par le tribunal, dans les douze jours suivant le terme
 de cette autorisation. L'absence de remise du rapport de l'expert mentionné aux
-articles L. 1233-34, L. 1233-35, L. 2323-27 ou L. 4612-8 du code du travail ne
-peut avoir pour effet de reporter ce délai.
+articles L. 1233-34, L. 1233-35, L. 2325-35 ou L. 4614-12-1 du code du travail
+ne peut avoir pour effet de reporter ce délai.

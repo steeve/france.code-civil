@@ -18,8 +18,8 @@ une entreprise de moins de cinquante salariés ;
 II, pour un licenciement d'au moins dix salariés dans une entreprise d'au moins
 cinquante salariés ;
 
-4° L. 1233-34 et L. 1233-35 premier alinéa et, le cas échéant, L. 2323-27 et L.
-4612-8 du code du travail relatifs au recours à l'expert ;
+4° L. 1233-34 et L. 1233-35 premier alinéa et, le cas échéant, L. 2325-35 et L.
+4614-12-1 du code du travail relatifs au recours à l'expert ;
 
 5° L. 1233-31 à L. 1233-33, L. 1233-48 et L. 1233-63, relatifs à la nature des
 renseignements et au contenu des mesures sociales adressés aux représentants du

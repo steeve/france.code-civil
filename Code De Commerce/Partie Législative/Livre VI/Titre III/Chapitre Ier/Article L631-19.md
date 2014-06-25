@@ -30,8 +30,8 @@ l'administrateur. L'avis du comité d'entreprise et, le cas échéant, celui du
 comité d'hygiène et de sécurité des conditions de travail et de l'instance de
 coordination sont rendus au plus tard le jour ouvré avant l'audience du tribunal
 qui statue sur le plan. L'absence de remise du rapport de l'expert mentionné aux
-articles L. 1233-34, L. 1233-35, L. 2323-27 ou L. 4612-8 du code du travail ne
-peut avoir pour effet de reporter ce délai.
+articles L. 1233-34, L. 1233-35, L. 2325-35 ou L. 4614-12-1 du code du travail
+ne peut avoir pour effet de reporter ce délai.
 
 Le plan précise notamment les licenciements qui doivent intervenir dans le délai
 d'un mois après le jugement, sur simple notification de l'administrateur, sous

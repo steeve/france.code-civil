@@ -24,9 +24,9 @@ arrêté par le tribunal qu'après que la procédure prévue au I de l'article L
 et, le cas échéant, l'avis du comité d'hygiène et de sécurité des conditions de
 travail et de l'instance de coordination sont rendus au plus tard le jour ouvré
 avant l'audience du tribunal qui statue sur le plan. L'absence de remise du
-rapport de l'expert mentionné aux articles L. 1233-34, L. 1233-35, L. 2323-27 ou
-L. 4612-8 du code du travail ne peut avoir pour effet de reporter ce délai. Le
-plan précise notamment les licenciements qui doivent intervenir dans le délai
+rapport de l'expert mentionné aux articles L. 1233-34, L. 1233-35, L. 2325-35 ou
+L. 4614-12-1 du code du travail ne peut avoir pour effet de reporter ce délai.
+Le plan précise notamment les licenciements qui doivent intervenir dans le délai
 d'un mois après le jugement sur simple notification du liquidateur ou de
 l'administrateur lorsqu'il en a été désigné, sous réserve des droits de préavis
 prévus par la loi, les conventions ou les accords collectifs du travail.
