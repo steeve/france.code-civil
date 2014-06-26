@@ -7,5 +7,5 @@ d'obtention végétale ou au Registre national des certificats d'obtention
 végétale.
 
 Si le propriétaire est domicilié à l'étranger, la notification est faite au
-dernier mandataire et au dernier domicile élu qu'il a désigné au comité de la
-protection des obtentions végétales.
+dernier mandataire et au dernier domicile élu qu'il a désigné au responsable des
+missions relevant de l'instance nationale des obtentions végétales.

@@ -5,4 +5,5 @@ peut être donnée à la place d'une dénomination pour désigner la variété q
 l'objet de la demande au moment du dépôt de celle-ci. Dans ce cas, la
 dénomination doit être proposée sous peine d'irrecevabilité de la demande dans
 les deux mois de la notification qui est adressée au titulaire de la demande par
-le comité.
+le responsable des missions relevant de l'instance nationale des obtentions
+végétales.

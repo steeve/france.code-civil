@@ -3,9 +3,9 @@ Article R623-46
 La réquisition adressée au ministre chargé de l'agriculture par le ministre
 chargé de la défense nationale aux fins de prorogation des interdictions de
 divulgation et de libre exploitation d'une obtention, objet de la demande de
-certificat, doit parvenir au comité de la protection des obtentions végétales au
-plus tard quinze jours avant le terme du délai de cinq mois prévu à l'article L.
-623-9.
+certificat, doit parvenir au responsable des missions relevant de l'instance
+nationale des obtentions végétales au plus tard quinze jours avant le terme du
+délai de cinq mois prévu à l'article L. 623-9.
 
 Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir
 dans les mêmes conditions au plus tard quinze jours avant l'expiration de la

@@ -1,10 +1,10 @@
 Article R623-31
 ----
-La redevance annuelle prévue par l'article L. 623-16 (2e alinéa) est exigible
-pour la première fois à la date de la délivrance du certificat d'obtention
-végétale. Elle doit être versée dans les deux mois de la notification qui est
-faite par le comité de la protection des obtentions végétales au propriétaire du
-certificat d'obtention végétale.
+La redevance annuelle prévue au deuxième alinéa de l'article L. 623-16 est
+exigible pour la première fois à la date de la délivrance du certificat
+d'obtention végétale. Elle doit être versée dans les deux mois de la
+notification qui est faite par l'instance nationale des obtentions végétales au
+propriétaire du certificat d'obtention végétale.
 
 Pour les années suivantes, elle vient à échéance le dernier jour du mois de la
 date anniversaire de la délivrance du certificat d'obtention végétale.

@@ -7,8 +7,9 @@ Le déposant doit joindre à la demande de certificat d'obtention végétale :
 -que la variété pour laquelle la protection est demandée constitue à sa
 connaissance une obtention au sens de l'article L. 623-1 ;
 
--qu'elle n'a pas été offerte à la vente ou commercialisée en France avec
-l'accord de l'obtenteur ou de son ou de ses ayants cause ;
+-qu'elle n'a pas été offerte à la vente ou commercialisée en France ou sur le
+territoire de l'Espace économique européen avec l'accord de l'obtenteur ou de
+son ou de ses ayants cause depuis plus de douze mois à la date de la demande ;
 
 -qu'elle n'a pas été offerte à la vente ou commercialisée avec l'accord de
 l'obtenteur sur le territoire de tout autre Etat depuis plus de six ans dans le
@@ -21,7 +22,8 @@ commerciale exige l'emploi répété d'une variété protégée, l'autorisation 
 du titulaire du certificat d'obtention végétale d'utiliser cette variété
 protégée ;
 
-3° L'engagement de fournir à la requête du comité dans les délais fixés, sous
+3° L'engagement de fournir à la requête du responsable des missions relevant de
+l'instance nationale des obtentions végétales dans les délais qu'il fixe, sous
 peine de rejet de la demande, le matériel de reproduction ou de multiplication
 végétative de la variété destiné à permettre un examen de ladite variété, y
 compris, le cas échéant, les différents composants héréditaires nécessaires à la

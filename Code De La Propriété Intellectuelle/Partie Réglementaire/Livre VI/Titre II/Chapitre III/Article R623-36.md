@@ -1,10 +1,11 @@
 Article R623-36
 ----
 La renonciation à un certificat d'obtention végétale est faite par une
-déclaration écrite. Elle est formulée au comité par le propriétaire du
-certificat ou par un mandataire muni d'un pouvoir spécial. Si le certificat
-appartient à plusieurs personnes, la renonciation ne peut être effectuée que si
-elle est requise par l'ensemble de celles-ci.
+déclaration écrite. Elle est formulée au responsable des missions relevant de
+l'instance nationale des obtentions végétales par le propriétaire du certificat
+ou par un mandataire muni d'un pouvoir spécial. Si le certificat appartient à
+plusieurs personnes, la renonciation ne peut être effectuée que si elle est
+requise par l'ensemble de celles-ci.
 
 Si les droits réels, de gage ou de licence ont été inscrits au Registre national
 des certificats d'obtention végétale, la renonciation n'est recevable que si

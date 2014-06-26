@@ -11,9 +11,9 @@ dernier cas, le demandeur doit justifier en outre que les conditions prévues
 audit article L. 623-26 sont remplies.
 
 Si la requête est présentée par le concessionnaire d'un droit exclusif
-d'exploitation ou par le titulaire d'une licence octroyée en vertu de l'article
-L. 623-18, le requérant doit justifier que les conditions de l'article L. 623-25
-sont remplies.
+d'exploitation ou par le titulaire d'une licence octroyée en vertu des articles
+L. 623-17 ou L. 623-20, le requérant doit justifier que les conditions de
+l'article L. 623-25 sont remplies.
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en
 vue d'établir l'origine, la consistance et l'étendue de la contrefaçon.

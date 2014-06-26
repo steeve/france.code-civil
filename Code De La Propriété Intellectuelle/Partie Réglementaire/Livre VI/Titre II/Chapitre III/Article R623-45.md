@@ -2,10 +2,11 @@ Article R623-45
 ----
 La demande d'autorisation de divulguer et d'exploiter librement une obtention
 appartenant à l'une des espèces visées à l'article ci-dessus avant le terme du
-délai prévu à l'article L. 623-9 doit être formulée auprès du comité de la
-protection des obtentions végétales ; elle peut l'être dès le dépôt de la
-demande de certificat. L'autorisation est notifiée au déposant par le ministre
-chargé de l'agriculture sur avis du ministre chargé de la défense nationale.
+délai prévu à l'article L. 623-9 doit être formulée auprès du responsable des
+missions relevant de l'instance nationale des obtentions végétales ; elle peut
+l'être dès le dépôt de la demande de certificat. L'autorisation est notifiée au
+déposant par le ministre chargé de l'agriculture sur avis du ministre chargé de
+la défense nationale.
 
 En l'absence d'une telle autorisation et à tout moment, une demande
 d'autorisation particulière en vue d'accomplir des actes déterminés

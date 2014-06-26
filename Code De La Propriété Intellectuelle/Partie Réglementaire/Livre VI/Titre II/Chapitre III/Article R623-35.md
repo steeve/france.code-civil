@@ -1,9 +1,10 @@
 Article R623-35
 ----
 Si le propriétaire du certificat d'obtention végétale a formé devant la cour
-d'appel de Paris un recours contre la décision du comité prise en application de
-l'article L. 623-23, mention de l'introduction du recours est portée d'office au
-Registre national des certificats d'obtention végétale et les effets de la
+d'appel de Paris un recours contre la décision du responsable des missions
+relevant de l'instance nationale des obtentions végétales prise en application
+de l'article L. 623-23, mention de l'introduction du recours est portée d'office
+au Registre national des certificats d'obtention végétale et les effets de la
 déchéance sont suspendus jusqu'à ce que l'arrêt de la cour soit devenu
 définitif.
 

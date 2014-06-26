@@ -3,8 +3,9 @@ Article R623-23
 L'instruction est suspendue à la requête écrite de toute personne qui apporte la
 preuve qu'elle a intenté auprès du tribunal de grande instance ou, dans les
 territoires d'outre-mer, du tribunal de première instance une action en
-revendication de la propriété de la demande de certificat d'obtention.
-Toutefois, les essais décidés par le comité peuvent être effectués.
+revendication de la propriété de la demande de certificat d'obtention végétale.
+Toutefois, les essais décidés par le responsable des missions relevant de
+l'instance nationale des obtentions végétales peuvent être effectués.
 
 L'instruction est reprise dès que la décision du tribunal est passée en force de
 chose jugée. Elle peut être également reprise à tout moment sur le consentement
