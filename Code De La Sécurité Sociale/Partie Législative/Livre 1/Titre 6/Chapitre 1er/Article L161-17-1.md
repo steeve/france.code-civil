@@ -1,27 +1,26 @@
 Article L161-17-1
 ----
-En vue d'améliorer la connaissance statistique sur les effectifs de retraités et
-les montants des retraites et de faciliter la coordination entre les régimes de
-retraite en matière de service des prestations, notamment au regard des
-cotisations et contributions sociales, il est créé un répertoire national des
-retraites et des pensions.
+L'Union des institutions et services de retraites est un groupement d'intérêt
+public, créé dans les conditions prévues au chapitre II de la loi n° 2011-525 du
+17 mai 2011 de simplification et d'amélioration de la qualité du droit,
+regroupant l'ensemble des organismes assurant la gestion des régimes de retraite
+légalement obligatoires, la Caisse des dépôts et consignations ainsi que les
+services de l'Etat chargés de la liquidation des pensions en application du code
+des pensions civiles et militaires de retraite. Elle est dotée d'un conseil
+d'administration.
 
-A cette fin, les organismes gérant les régimes de retraite mentionnés au présent
-titre et au titre II du livre IX, les débiteurs d'avantages de vieillesse non
-contributifs ou d'avantages gérés au titre des articles L. 381-1 et L. 742-1 du
-présent code et les organismes gérant les régimes d'assurance invalidité
-communiquent à la Caisse nationale d'assurance vieillesse des travailleurs
-salariés lors de la liquidation des avantages de retraite, les informations sur
-la nature des avantages servis, ainsi que les informations strictement
-nécessaires à l'identification des assurés et de leurs ayants droit, et à la
-détermination de leurs droits.
+L'union assure le pilotage stratégique de l'ensemble des projets de
+coordination, de simplification et de mutualisation ayant pour objet d'améliorer
+les relations des régimes avec leurs usagers dans lesquels tout ou partie de ses
+membres sont engagés et veille à leur mise en œuvre. Elle assure notamment la
+mise en œuvre des droits prévus aux I à V de l'article L. 161-17 et le pilotage
+des projets prévus aux articles L. 161-17-1-1 et L. 161-17-1-2.
 
-Le numéro d'identification au répertoire national d'identification des personnes
-physiques est utilisé dans les traitements et les échanges d'informations
-nécessaires à l'application de ces dispositions par les organismes débiteurs des
-avantages mentionnés au deuxième alinéa du présent article.
+L'autorité compétente de l'Etat conclut avec l'Union des institutions et
+services de retraites un contrat qui détermine les objectifs pluriannuels de
+simplification et de mutualisation de l'assurance vieillesse ; il comprend un
+schéma directeur des systèmes d'information. Ce contrat est conclu pour une
+période minimale de quatre ans.
 
-Le contenu et les modalités de gestion et d'utilisation de ce répertoire ainsi
-que les dispositions prévues pour assurer la sécurité des informations sont
-fixés par décret en Conseil d'Etat après consultation de la Commission nationale
-de l'informatique et des libertés.
+Les modalités d'application du présent article sont précisées, en tant que de
+besoin, par décret en Conseil d'Etat.

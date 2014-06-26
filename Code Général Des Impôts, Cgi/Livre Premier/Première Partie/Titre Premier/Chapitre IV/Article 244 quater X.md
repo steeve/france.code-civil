@@ -7,10 +7,12 @@ propriété, les sociétés d'économie mixte exerçant une activité immobiliè
 outre-mer et les organismes mentionnés à l'article L. 365-1 du même code peuvent
 bénéficier d'un crédit d'impôt à raison de l'acquisition ou de la construction
 de logements neufs dans les départements d'outre-mer, lorsqu'ils respectent les
-conditions suivantes : a) Les logements sont donnés en location nue ou meublée
-par l'organisme mentionné au premier alinéa, dans les six mois de leur
-achèvement ou de leur acquisition, si elle est postérieure, et pour une durée au
-moins égale à cinq ans, à des personnes physiques qui en font leur résidence
+conditions suivantes :
+
+a) Les logements sont donnés en location nue ou meublée par l'organisme
+mentionné au premier alinéa du présent 1, dans les six mois de leur achèvement
+ou de leur acquisition, si elle est postérieure, et pour une durée au moins
+égale à cinq ans, à des personnes physiques qui en font leur résidence
 principale.
 
 Les logements peuvent être spécialement adaptés à l'hébergement de personnes
@@ -29,9 +31,9 @@ en fonction notamment de la localisation du logement ;
 d) Une part minimale, définie par décret, de la surface habitable des logements
 compris dans un ensemble d'investissements portés simultanément à la
 connaissance du ministre chargé du budget dans les conditions prévues au V est
-louée, dans les conditions définies au a, à des personnes physiques dont les
-ressources sont inférieures aux plafonds mentionnés au b, pour des loyers
-inférieurs aux limites mentionnées au c ;
+louée, dans les conditions définies au a du présent 1, à des personnes physiques
+dont les ressources sont inférieures aux plafonds mentionnés au b, pour des
+loyers inférieurs aux limites mentionnées au c ;
 
 e) Une fraction, définie par décret, du prix de revient d'un ensemble
 d'investissements portés simultanément à la connaissance du ministre chargé du
@@ -64,16 +66,17 @@ minoré, d'une part, des taxes et des commissions d'acquisition versées et,
 d'autre part, des subventions publiques reçues. Ce montant est retenu dans la
 limite mentionnée au 5 de l'article 199 undecies A, appréciée par mètre carré de
 surface habitable et, dans le cas des logements mentionnés au second alinéa du a
-du 1 du I, par mètre carré de surface des parties communes dans lesquelles des
-prestations de services sont proposées.
+du 1 du I du présent article, par mètre carré de surface des parties communes
+dans lesquelles des prestations de services sont proposées.
 
 Un décret précise, en tant que de besoin, la nature des sommes retenues pour
-l'appréciation du prix de revient mentionné au premier alinéa.
+l'appréciation du prix de revient mentionné au premier alinéa du présent 1.
 
 2. Dans le cas mentionné au 3 du I, le crédit d'impôt est assis sur le prix de
 revient des logements, majoré du coût des travaux de réhabilitation et minoré,
 d'une part, des taxes et des commissions d'acquisition versées et, d'autre part,
-des subventions publiques reçues. La limite mentionnée au 1 est applicable.
+des subventions publiques reçues. La limite mentionnée au 1 du présent II est
+applicable.
 
 III. ― Le taux du crédit d'impôt est fixé à 40 %.
 
@@ -111,8 +114,8 @@ l'exercice au cours duquel l'investissement a été mis en service ou mis à
 disposition et est jointe à la déclaration de résultat du crédit-bailleur au
 titre de ce même exercice.
 
-2. L'option mentionnée au 1 emporte renonciation au bénéfice des dispositifs
-définis aux articles 199 undecies C et 217 undecies.
+2. L'option mentionnée au 1 du présent V emporte renonciation au bénéfice des
+dispositifs définis aux articles 199 undecies C et 217 undecies.
 
 VI. ― Lorsque le montant par programme des investissements est supérieur à deux
 millions d'euros, le bénéfice du crédit d'impôt est conditionné à l'obtention

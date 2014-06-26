@@ -105,3 +105,8 @@ d'option, le contribuable bénéficie, au terme de l'application de celui de ces
 régimes dont il bénéficie au 1er janvier 2009, de l'abattement prévu par le
 présent article, pour la période restant à courir et dans les conditions prévues
 au II ou au III pour les années concernées.
+
+VIII. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du
+règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application
+des articles 107 et 108 du traité.

@@ -17,35 +17,35 @@ clôturé aucun exercice, son chiffre d'affaires est réputé nul. Si le dernier
 exercice clos est d'une durée de plus ou moins de douze mois, le montant du
 chiffre d'affaires est corrigé pour correspondre à une année pleine. Lorsque la
 déduction d'impôt s'applique dans les conditions prévues aux quatorzième à
-dix-neuvième alinéas, le chiffre d'affaires défini au présent alinéa s'apprécie
-au niveau de l'entreprise locataire ou crédit-preneuse, qui en communique le
-montant à la société qui réalise l'investissement. Lorsque l'entreprise
-mentionnée aux première et avant-dernière phrases du présent alinéa est liée,
-directement ou indirectement, à une ou plusieurs autres entreprises au sens du
-12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son
-chiffre d'affaires et de celui de l'ensemble des entreprises qui lui sont liées.
-Pour les projets d'investissement comportant l'acquisition, l'installation ou
-l'exploitation d'équipements de production d'énergie renouvelable, le montant
-déductible mentionné à la première phrase du présent alinéa est pris en compte
-dans la limite d'un montant par watt installé fixé par arrêté conjoint des
-ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour
-chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et
-d'installation directement liés à ces équipements. La déduction est opérée sur
-le résultat de l'exercice au cours duquel l'investissement est mis en service,
-le déficit éventuel de l'exercice étant reporté dans les conditions prévues au I
-de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou
-de construction d'immeuble, la déduction est opérée sur le résultat de
-l'exercice au cours duquel les fondations sont achevées. Si l'immeuble n'est pas
-achevé dans les deux ans suivant la date de l'achèvement des fondations, la
-somme déduite est rapportée au résultat imposable au titre de l'exercice au
-cours duquel intervient le terme de ce délai. La déduction s'applique également
-aux investissements réalisés par une société soumise au régime d'imposition
-prévu à l'article 8, à l'exclusion des sociétés en participation, ou un
-groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts
-sont détenues directement par des entreprises soumises à l'impôt sur les
-sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres
-dans une proportion correspondant à leurs droits dans la société ou le
-groupement.
+dix-neuvième alinéas du présent I, le chiffre d'affaires défini au présent
+alinéa s'apprécie au niveau de l'entreprise locataire ou crédit-preneuse, qui en
+communique le montant à la société qui réalise l'investissement. Lorsque
+l'entreprise mentionnée aux première et avant-dernière phrases du présent alinéa
+est liée, directement ou indirectement, à une ou plusieurs autres entreprises au
+sens du 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme
+de son chiffre d'affaires et de celui de l'ensemble des entreprises qui lui sont
+liées. Pour les projets d'investissement comportant l'acquisition,
+l'installation ou l'exploitation d'équipements de production d'énergie
+renouvelable, le montant déductible mentionné à la première phrase du présent
+alinéa est pris en compte dans la limite d'un montant par watt installé fixé par
+arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et
+de l'industrie pour chaque type d'équipement. Ce montant prend en compte les
+coûts d'acquisition et d'installation directement liés à ces équipements. La
+déduction est opérée sur le résultat de l'exercice au cours duquel
+l'investissement est mis en service, le déficit éventuel de l'exercice étant
+reporté dans les conditions prévues au I de l'article 209. Toutefois, en cas
+d'acquisition d'un immeuble à construire ou de construction d'immeuble, la
+déduction est opérée sur le résultat de l'exercice au cours duquel les
+fondations sont achevées. Si l'immeuble n'est pas achevé dans les deux ans
+suivant la date de l'achèvement des fondations, la somme déduite est rapportée
+au résultat imposable au titre de l'exercice au cours duquel intervient le terme
+de ce délai. La déduction s'applique également aux investissements réalisés par
+une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion
+des sociétés en participation, ou un groupement mentionné aux articles 239
+quater ou 239 quater C, dont les parts sont détenues directement par des
+entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est
+pratiquée par les associés ou membres dans une proportion correspondant à leurs
+droits dans la société ou le groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de
 revient des investissements réalisés par les entreprises qui excède le montant
@@ -416,10 +416,10 @@ opérations d'acquisition ou de construction de logements neufs répondant aux
 critères mentionnés aux b et c du 1 du I de l'article 244 quater X.
 
 Lorsque la déduction d'impôt s'applique dans les conditions prévues aux sixième
-à huitième alinéas du I, au I bis ou au II ter, le montant de la déduction
-mentionnée au I est égal au montant, hors taxes et hors frais de toute nature,
-de l'opération, diminué de la fraction de son prix de revient financée par une
-subvention publique.
+à huitième alinéas du I, au I bis ou au II ter du présent article, le montant de
+la déduction mentionnée au I est égal au montant, hors taxes et hors frais de
+toute nature, de l'opération, diminué de la fraction de son prix de revient
+financée par une subvention publique.
 
 V. - Les dispositions du présent article sont applicables aux investissements
 réalisés ou aux souscriptions versées à compter de la date de promulgation de la
