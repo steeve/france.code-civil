@@ -34,10 +34,23 @@ représentés au comité de bassin, à raison d'un délégué par conseil régio
 3° Les personnes qualifiées sont proposées à l'agrément du ministre chargé de
 l'environnement par le préfet coordonnateur de bassin.
 
-III.-Le comité élit tous les trois ans un président et un vice-président. Le
-président est élu par et parmi les représentants mentionnés aux 1° et 2° du II
-de l'article D. 213-17. Le vice-président appartient à celui de ces deux
-collèges auquel le président n'appartient pas.
+III. - Le comité élit tous les trois ans un président et des vice-présidents.
+
+Le président et les vice-présidents sont élus par les représentants mentionnés
+aux 1° et 2° du II de l'article D. 213-17.
+
+Le président est un représentant des collectivités territoriales ou des
+groupements de collectivités territoriales mentionnés au 1° du II de l'article
+D. 213-17 ou une personnalité qualifiée mentionnée au 2° du II de l'article D.
+213-17.
+
+Les vice-présidents sont au nombre de trois et sont issus de chacun des trois
+sous-collèges mentionnés au 2° du II de l'article D. 213-17. Lorsque le
+président est une personnalité qualifiée, un vice-président supplémentaire est
+élu parmi les membres du collège mentionné au 1° du II de l'article D. 213-17.
+
+En cas d'absence ou d'empêchement, le président est remplacé par l'un des
+vice-présidents.
 
 IV.-La liste des membres du comité de bassin, hors représentants de l'Etat, est
 arrêtée par le ministre chargé de l'environnement et publiée au Journal officiel

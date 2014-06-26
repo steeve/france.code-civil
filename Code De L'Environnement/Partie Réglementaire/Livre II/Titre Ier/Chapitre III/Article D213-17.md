@@ -166,5 +166,19 @@ aquatiques, des organisations socioprofessionnelles, des associations agréées 
 protection de l'environnement et de défense des consommateurs, des instances
 représentatives de la pêche représentés et des personnes qualifiées ;
 
+Au sein du collège mentionné au 2° de l'article L. 213-8 du code de
+l'environnement, sont créés les sous-collèges suivants :
+
+a) Le sous-collège des usagers non professionnels ;
+
+b) Le sous-collège des usagers professionnels "Agriculture, pêche, aquaculture,
+batellerie et tourisme" ;
+
+c) Le sous-collège des usagers professionnels "Entreprises à caractère
+industriel et artisanat" ;
+
+La composition de ces sous-collèges est fixée par arrêté conjoint du ministre
+chargé de l'environnement et du ministre de l'intérieur.
+
 III.-Un décret établit la liste des représentants, ès qualité, de l'Etat et de
 ses établissements publics.
