@@ -19,9 +19,12 @@ du code du travail ;
 III de la sixième partie du code du travail.
 
 Le baccalauréat professionnel peut également être préparé dans des
-établissements d'enseignement à distance, dans des conditions fixées par arrêté
-du ministre chargé de l'éducation, par arrêté du ministre chargé de
-l'agriculture pour les spécialités de baccalauréat professionnel mentionnées au
-deuxième alinéa de l'article D. 337-53 ou par arrêté du ministre chargé de la
-mer pour les spécialités de baccalauréat professionnel mentionnées au troisième
-alinéa de l'article D. 337-53.
+établissements d'enseignement à distance ou, pour partie, dans des
+établissements de formation professionnelle des Etats membres de l'Union
+européenne, de l'Espace économique européen ou de l'Association européenne de
+libre-échange, dans des conditions fixées par arrêté du ministre chargé de
+l'éducation, par arrêté du ministre chargé de l'agriculture pour les spécialités
+de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D.
+337-53 ou par arrêté du ministre chargé de la mer pour les spécialités de
+baccalauréat professionnel mentionnées au troisième alinéa de l'article D.
+337-53.

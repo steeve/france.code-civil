@@ -2,7 +2,7 @@ Article D337-69
 ----
 L'examen du baccalauréat professionnel comporte :
 
-1° Sept épreuves obligatoires et, le cas échéant, une épreuve facultative. A
+1° Sept épreuves obligatoires et, le cas échéant, deux épreuves facultatives. A
 chaque épreuve correspondent une ou plusieurs unités constitutives. L'examen est
 organisé soit par combinaison entre épreuves ponctuelles et épreuves évaluées
 par contrôle en cours de formation, dans les conditions fixées aux articles D.
@@ -15,10 +15,10 @@ constitutives sont valables cinq ans à compter de leur date d'obtention. Elles
 peuvent donner lieu à délivrance par le recteur d'attestations de réussite
 valables pour cette durée.
 
-Tout candidat peut présenter, à titre facultatif, une unité choisie parmi celles
-proposées, le cas échéant, par le règlement d'examen. Le bénéfice des points
-supérieurs à 10 sur 20 obtenus à l'épreuve validant cette unité peut être
-conservé pendant 5 ans.
+Tout candidat peut présenter, à titre facultatif, une ou deux unités choisies
+parmi celles proposées, le cas échéant, par le règlement d'examen. Le bénéfice
+des points supérieurs à 10 sur 20 obtenus à l'épreuve validant cette unité peut
+être conservé pendant 5 ans.
 
 Les unités constitutives du diplôme acquises au titre de la validation des
 acquis de l'expérience, dans les conditions prévues par l'article R. 335-9, sont

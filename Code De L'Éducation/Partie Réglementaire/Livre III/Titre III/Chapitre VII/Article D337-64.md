@@ -1,12 +1,13 @@
 Article D337-64
 ----
 La formation conduisant au baccalauréat professionnel se déroule en milieu
-professionnel pendant une durée fixée entre douze et vingt-six semaines par
-arrêté du ministre chargé de l'éducation ou du ministre chargé de l'agriculture
-ou du ministre chargé de la mer, sous la responsabilité respective de chacun de
-ces ministres et sur la base d'une convention établie entre les établissements
-d'enseignement et les entreprises, dans des conditions fixées par les arrêtés
-mentionnés à l'article D. 337-53.
+professionnel pendant une durée fixée entre douze et vingt-six semaines, dont un
+tiers au maximum dans le cadre de la mobilité mentionnée à l'article D. 337-54,
+par arrêté du ministre chargé de l'éducation ou du ministre chargé de
+l'agriculture ou du ministre chargé de la mer, sous la responsabilité respective
+de chacun de ces ministres et sur la base d'une convention établie entre les
+établissements d'enseignement et les entreprises, dans des conditions fixées par
+les arrêtés mentionnés à l'article D. 337-53.
 
 La durée de la formation en milieu professionnel peut toutefois être augmentée
 pour les élèves des établissements dispensant des formations selon un rythme
@@ -17,3 +18,8 @@ conditions d'application du présent alinéa.
 
 Les élèves qui préparent le baccalauréat professionnel par la voie scolaire
 restent sous statut scolaire pendant leur formation en milieu professionnel.
+
+Pour les spécialités de baccalauréat relevant du domaine professionnel maritime,
+la durée de la période de formation effectuée dans le cadre de la mobilité
+mentionnée au premier alinéa peut être modifiée par arrêté du ministre chargé de
+la mer.
