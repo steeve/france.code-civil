@@ -21,16 +21,12 @@ a) Experts et traducteurs-interprètes ;
 
 b) Personnes chargées des enquêtes sociales ou de personnalité ;
 
-c) Personnes contribuant au contrôle judiciaire ;
+c) Personnes contribuant au contrôle judiciaire.
 
-d) Délégués du procureur de la République chargés d'une des missions prévues par
-les 1° à 4° de l'article 41-1 du code de procédure pénale ou intervenant au
-cours d'une composition pénale.
-
-5° Les indemnités qui peuvent être accordées aux témoins civils et militaires,
-aux jurés par application des articles R. 123 à R. 146 du code de procédure
-pénale et aux parties civiles par application des articles 375-1 et 422 du même
-code.
+5° Les indemnités qui peuvent être accordées aux témoins civils et militaires
+par application des articles R. 123 à R. 133, R. 135 et R. 138 du code de
+procédure pénale ainsi qu'aux parties civiles par application de l'article L.
+222-11 du présent code.
 
 6° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les
 frais en matière de scellés.
@@ -38,7 +34,7 @@ frais en matière de scellés.
 7° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou
 d'application des peines et en matière de grâces.
 
-8° Les émoluments et indemnités alloués aux huissiers de justice.
+8° (Abrogé)
 
 9° Les frais de capture et d'arrestation.
 
@@ -83,8 +79,7 @@ décembre 1990 sur la réglementation des télécommunications.
 à l'article R. 53 du code de procédure pénale ou qu'il a été fait application
 des dispositions de l'article R. 53-6 du même code.
 
-21° Les indemnités accordées en application de l'article 800-2 du code de
-procédure pénale.
+21° (Abrogé)
 
 22° Les frais correspondant à la fourniture des données conservées en
 application du II de l'article L. 34-1 du code des postes et des communications
