@@ -11,7 +11,7 @@ connaissance du client, en particulier au titre de la lutte contre le
 blanchiment de capitaux et le financement du terrorisme.
 
 Les personnes habilitées à agir pour le compte de l'association ou fondation
-dans les conditions mentionnées au deuxième alinéa de l'article R. 312-7
+dans les conditions mentionnées au deuxième alinéa de l'article D. 312-7
 remplissent un formulaire de demande d'exercice du droit au compte signé par le
 demandeur et s'assurent que les documents fournis par ce dernier correspondent
 aux pièces requises. Elles transmettent le jour même à la Banque de France le
