@@ -15,10 +15,12 @@ L'avertissement du mandataire judiciaire reproduit les dispositions légales et
 réglementaires relatives aux délais et formalités à observer pour la déclaration
 des créances, pour la demande en relevé de forclusion et pour les actions en
 revendication et en restitution. Cet avertissement reproduit également les
-articles L. 621-10, R. 621-19 et R. 621-24. Les créanciers titulaires d'une
-sûreté publiée ou liés au débiteur par un contrat publié sont avertis
-personnellement ou, s'il y a lieu, à domicile élu, par lettre recommandée avec
-demande d'avis de réception.
+articles L. 621-10, R. 621-19 et R. 621-24. Le cas échéant, l'avertissement
+précise que la créance a été portée par le débiteur sur la liste prévue par
+l'article L. 622-6 conformément aux dispositions du second alinéa de l'article
+R. 622-5. Les créanciers titulaires d'une sûreté publiée ou liés au débiteur par
+un contrat publié sont avertis personnellement ou, s'il y a lieu, à domicile
+élu, par lettre recommandée avec demande d'avis de réception.
 
 Les institutions mentionnées à l'article L. 143-11-4 du code du travail
 déclarent les créances figurant sur les relevés prévus à l'article L. 625-1, y

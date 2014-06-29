@@ -14,5 +14,6 @@ notifiée sans délai par le greffier à la personne convoquée par lettre
 recommandée avec demande d'avis de réception reproduisant les termes du second
 alinéa du I de l'article L. 611-2.
 
-Le procès-verbal établi en application des deux alinéas ci-dessus est déposé au
-greffe.
+Ce procès-verbal mentionne, s'il y a lieu, la dénomination utilisée par
+l'entrepreneur individuel à responsabilité limitée pour l'exercice de l'activité
+professionnelle concernée. Il est déposé au greffe.

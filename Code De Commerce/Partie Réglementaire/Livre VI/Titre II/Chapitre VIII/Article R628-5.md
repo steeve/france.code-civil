@@ -1,4 +1,5 @@
 Article R628-5
 ----
-Le délai de vingt jours prévu à l'article R. 621-24 avant l'expiration duquel le
-juge-commissaire ne peut désigner aucun contrôleur est réduit à huit jours.
+Lorsque le ministère public n'est pas l'auteur de la demande de communication
+des pièces et actes visés à l'article L. 628-2, le greffier les lui transmet
+sans délai dès leur réception.

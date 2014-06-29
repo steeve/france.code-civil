@@ -4,6 +4,11 @@ Lorsque l'administrateur ou le mandataire judiciaire a accompli sa mission, il
 dépose au greffe un compte rendu de fin de mission. Tout intéressé peut en
 prendre connaissance.
 
+Lorsque le mandataire judiciaire a été informé de la mise en œuvre d'une
+procédure administrative d'établissement de l'impôt, il en informe les
+comptables publics compétents par lettre recommandée avec demande d'avis de
+réception quinze jours au moins avant la date de ce dépôt.
+
 Ce compte rendu est communiqué par le greffier au ministère public et notifié
 par le mandataire de justice au débiteur et aux contrôleurs par lettre
 recommandée avec demande d'avis de réception. Cette notification précise qu'ils

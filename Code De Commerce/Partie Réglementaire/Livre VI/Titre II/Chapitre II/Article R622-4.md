@@ -7,7 +7,9 @@ Le débiteur remet à la personne désignée pour dresser l'inventaire la liste 
 biens gagés, nantis ou placés sous sujétion douanière ainsi que celle des biens
 qu'il détient en dépôt, location ou crédit-bail, ou sous réserve de propriété
 ou, plus généralement, qui sont susceptibles d'être revendiqués par des tiers.
-Cette liste est annexée à l'inventaire.
+Il énumère les biens dont il est susceptible de demander la reprise dans les
+conditions prévues par l'article L. 624-19. Cette liste est annexée à
+l'inventaire.
 
 Le cas échéant, lorsqu'il n'est pas immatriculé au registre du commerce et des
 sociétés ou au répertoire des métiers, il informe le mandataire judiciaire de la

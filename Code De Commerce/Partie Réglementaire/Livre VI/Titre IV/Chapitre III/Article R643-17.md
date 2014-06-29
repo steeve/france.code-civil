@@ -6,7 +6,7 @@ de la clôture de la procédure, fait convoquer à cette fin le débiteur par ac
 d'huissier de justice. Il avise le liquidateur et les contrôleurs de la date de
 l'audience.
 
-Lorsqu'il est fait application du troisième alinéa du même article, il est
+Lorsqu'il est fait application du quatrième alinéa du même article, il est
 procédé aux convocations et avis mentionnés à l'alinéa précédent. Toutefois, le
 débiteur ou le créancier, lorsqu'il est demandeur, est convoqué à la diligence
 du greffier par lettre recommandée avec demande d'avis de réception.

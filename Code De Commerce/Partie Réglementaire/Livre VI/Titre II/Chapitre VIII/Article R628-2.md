@@ -1,15 +1,23 @@
 Article R628-2
 ----
-La demande d'ouverture de la procédure est régie par les dispositions de
-l'article R. 621-1.
+En complément des pièces et informations mentionnées à l'article R. 621-1, la
+demande d'ouverture de la procédure expose les éléments démontrant que le projet
+de plan remplit les conditions prévues par le deuxième alinéa de l'article L.
+628-1. La preuve du soutien prévu par ce texte, recueillie auprès des créanciers
+pour lesquels le projet de plan modifie les modalités de paiement et ne prévoit
+pas un paiement intégral en numéraire dès l'arrêté du plan ou dès l'admission de
+leurs créances, est apportée par tout moyen au plus tard au moment où le juge
+statue.
 
-Pour l'application du premier alinéa du même article, elle expose également les
-éléments démontrant que le projet de plan remplit les conditions prévues par le
-deuxième alinéa de l'article L. 628-1. Pour l'application du 5° du même article,
-l'état chiffré des dettes distingue les dettes qui ne seront pas soumises aux
-effets de la procédure en cas d'ouverture et, parmi les autres, celles ayant
-fait l'objet d'une négociation dans le cadre de la procédure de conciliation en
-cours.
+Lorsque le débiteur n'est pas en cessation des paiements et demande à être
+dispensé de procéder à l'inventaire, cette demande remplace les éléments prévus
+par la dernière phrase du premier alinéa de l'article R. 621-1.
+
+Pour l'application du 5° de l'article R. 621-1, la demande précise, également,
+les dettes ayant fait l'objet d'une négociation dans le cadre de la procédure de
+conciliation en cours.
+
+Le cas échéant, la demande précise la date de cessation des paiements.
 
 Sont également joints :
 
@@ -24,12 +32,7 @@ consolidés, un tableau des flux de trésorerie ;
 
 5° Le projet de plan mentionné au deuxième alinéa de l'article L. 628-1.
 
-Les documents prévus aux 2° à 4° sont datés, signés et certifiés sincères et
-véritables par le débiteur. Ils sont établis à la date de la demande ou dans les
-sept jours qui précèdent.
-
-Si l'un des documents ne peut être fourni ou ne peut l'être qu'incomplètement,
-la demande indique les motifs qui empêchent cette production.
-
-Le débiteur remet au conciliateur une copie de la demande et des pièces qui y
-sont jointes.
+Les documents prévus aux 2° à 4° sont datés, signés et certifiés sincères par le
+débiteur. Ils sont établis à la date de la demande ou dans les sept jours qui
+précèdent. Si l'un des documents ne peut être fourni ou ne peut l'être
+qu'incomplètement, la demande indique les motifs qui empêchent cette production.

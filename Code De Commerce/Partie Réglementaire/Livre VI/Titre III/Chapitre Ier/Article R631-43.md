@@ -8,4 +8,5 @@ Cette décision est une mesure d'administration judiciaire non susceptible de
 recours.
 
 Elle est communiquée aux personnes citées à l'article R. 621-7 et mentionnée aux
-registres et répertoires prévus à l'article R. 621-8.
+registres et répertoires prévus aux trois premiers alinéas de l'article R.
+621-8.

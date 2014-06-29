@@ -2,10 +2,9 @@ Article R626-48
 ----
 En application du I de l'article L. 626-27, le tribunal est saisi aux fins de
 résolution du plan par voie de requête ou, le cas échéant, dans les formes et
-selon la procédure prévue à l'article R. 631-3 ou R. 631-4. Il statue dans les
-conditions de l'article L. 626-9, le commissaire à l'exécution du plan étant
-entendu ou dûment appelé et présentant son rapport en lieu et place de celui de
-l'administrateur.
+selon la procédure prévue à l'article R. 631-4. Il statue dans les conditions de
+l'article L. 626-9, le commissaire à l'exécution du plan étant entendu ou dûment
+appelé et présentant son rapport en lieu et place de celui de l'administrateur.
 
 Lorsque le tribunal décide la résolution du plan en application du troisième
 alinéa du I de l'article L. 626-27, il ouvre, dans le même jugement, une

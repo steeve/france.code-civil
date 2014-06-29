@@ -7,4 +7,4 @@ R. 631-4.
 
 Le jugement qui ordonne la cessation partielle de l'activité est communiqué aux
 personnes citées à l'article R. 621-7 et mentionné aux registres ou répertoires
-prévus à l'article R. 621-8.
+prévus aux trois premiers alinéas de l'article R. 621-8.

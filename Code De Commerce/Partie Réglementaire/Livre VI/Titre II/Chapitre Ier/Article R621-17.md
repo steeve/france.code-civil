@@ -1,5 +1,11 @@
 Article R621-17
 ----
+Pour l'application du quatrième alinéa de l'article L. 621-7, le
+juge-commissaire est saisi par voie de requête déposée ou adressée au greffe. Le
+greffier convoque par lettre recommandée avec demande d'avis de réception le
+demandeur ainsi que, selon les cas, l'administrateur, le mandataire judiciaire
+ou l'expert ; il avise le ministère public de la date de l'audience.
+
 Lorsqu'une demande de remplacement de l'administrateur, de l'expert ou du
 mandataire judiciaire est portée devant le tribunal par le ministère public ou
 par le juge-commissaire ou lorsque le tribunal se saisit d'office aux mêmes
@@ -16,7 +22,7 @@ Les dispositions qui précèdent s'appliquent pour l'adjonction d'un ou de
 plusieurs administrateurs ou d'un ou de plusieurs mandataires judiciaires.
 
 Lorsque l'administrateur ou le mandataire judiciaire demande son remplacement en
-application du cinquième alinéa de l'article L. 621-7, la demande est formée par
+application du sixième alinéa de l'article L. 621-7, la demande est formée par
 lettre simple adressée au juge-commissaire. L'ordonnance rendue par le président
 du tribunal est communiquée au ministère public par le greffier, qui en avise,
 par lettre simple, l'administrateur ou le mandataire judiciaire qui est

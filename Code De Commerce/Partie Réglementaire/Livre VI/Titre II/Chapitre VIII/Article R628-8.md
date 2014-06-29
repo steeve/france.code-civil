@@ -1,10 +1,13 @@
 Article R628-8
 ----
-Lorsque le juge-commissaire a réduit le délai prévu au troisième alinéa de
-l'article L. 626-30-2 en deçà de quinze jours, l'administrateur accomplit les
-diligences prévues aux articles R. 626-58 et R. 626-61-1 trois jours avant la
-date du vote du comité. Le délai minimum prévu par l'article R. 626-60 entre la
-convocation de l'assemblée générale des obligataires et le vote est alors réduit
-à dix jours et le droit conféré à chaque obligataire par l'article R. 626-61 de
-prendre connaissance du projet de plan s'exerce dans les dix jours qui précèdent
-la réunion de cette assemblée.
+Dans les dix jours du jugement d'ouverture, le débiteur dépose au greffe deux
+exemplaires de la liste des créances prévue par l'article L. 628-7. Le greffier
+en remet un exemplaire au mandataire judiciaire.
+
+La liste comporte les éléments mentionnés aux deux premiers alinéas de l'article
+L. 622-25 et à la première phrase de l'article R. 622-5 ainsi qu'au 2° de
+l'article R. 622-23.
+
+Si les informations portées sur cette liste et celles portées sur la liste
+prévue à l'article L. 622-6 diffèrent, seules les premières sont prises en
+considération.

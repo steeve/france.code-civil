@@ -11,4 +11,7 @@ greffier. La lettre de notification reproduit les dispositions de l'article L.
 
 Le mandataire ad hoc fait connaître sans délai au président du tribunal son
 acceptation ou son refus. En cas d'acceptation, il lui adresse l'attestation sur
-l'honneur prévue à l'article L. 611-13.
+l'honneur prévue à l'article L. 611-13. Dès réception de cette attestation, le
+greffier communique par lettre recommandée avec demande d'avis de réception la
+décision de désignation du mandataire ad hoc au commissaire aux comptes du
+débiteur s'il en a été désigné.

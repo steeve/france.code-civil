@@ -8,7 +8,10 @@ A cette demande sont jointes, outre les comptes annuels du dernier exercice, les
 pièces ci-après :
 
 1° L'état du passif exigible et de l'actif disponible ainsi qu'une déclaration
-de cessation des paiements ;
+de cessation des paiements lorsque l'activité en difficulté est exercée par un
+entrepreneur individuel à responsabilité limitée, cet état est complété, le cas
+échéant, par la liste des autres créances dont le paiement est poursuivi sur le
+patrimoine en cause ;
 
 2° Un extrait d'immatriculation aux registres et répertoires mentionnés à
 l'article R. 621-8 ;
@@ -27,7 +30,9 @@ salariés, le montant global des sommes impayées ;
 6° L'état actif et passif des sûretés ainsi que celui des engagements hors bilan
 ;
 
-7° L'inventaire sommaire des biens du débiteur ;
+7° L'inventaire sommaire des biens du débiteur ou, si un patrimoine a été
+affecté à l'activité en difficulté, des biens affectés à l'exercice de cette
+activité ;
 
 8° S'il s'agit d'une personne morale comportant des membres responsables
 solidairement des dettes sociales, la liste de ceux-ci avec l'indication de leur
@@ -38,10 +43,10 @@ du personnel habilités à être entendus par le tribunal s'ils ont déjà été
 désignés ;
 
 10° Une attestation sur l'honneur certifiant l'absence de mandat ad hoc ou de
-procédure de conciliation dans les dix-huit mois précédant la date de la demande
-ou, dans le cas contraire, mentionnant la date de la désignation du mandataire
-ad hoc ou de l'ouverture de la procédure de conciliation ainsi que l'autorité
-qui y a procédé ;
+procédure de conciliation relatives au patrimoine en cause dans les dix-huit
+mois précédant la date de la demande ou, dans le cas contraire, mentionnant la
+date de la désignation du mandataire ad hoc ou de l'ouverture de la procédure de
+conciliation ainsi que l'autorité qui y a procédé ;
 
 11° Lorsque le débiteur exerce une profession libérale soumise à un statut
 législatif ou réglementaire ou dont le titre est protégé, la désignation de

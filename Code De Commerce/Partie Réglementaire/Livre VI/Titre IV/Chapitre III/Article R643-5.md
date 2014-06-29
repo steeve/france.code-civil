@@ -1,7 +1,9 @@
 Article R643-5
 ----
 Les créanciers inscrits du chef d'un précédent propriétaire et titulaires d'un
-droit de suite sont avertis par le liquidateur par lettre recommandée avec
+droit de suite ou du chef de l'entrepreneur individuel à responsabilité limitée
+sur un bien affecté au patrimoine en cause en garantie d'une créance affectant
+un autre patrimoine sont avertis par le liquidateur par lettre recommandée avec
 demande d'avis de réception qu'ils ont l'obligation de produire leur créance à
 la procédure d'ordre dans le délai de deux mois à compter de l'avertissement.
 Cet avis reproduit les deuxième et troisième alinéas du présent article.

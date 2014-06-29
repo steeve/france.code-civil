@@ -1,6 +1,6 @@
 Article R631-36
 ----
-Lorsqu'en application du II de l'article L. 631-19 l'administrateur ou le
+Lorsqu'en application du III de l'article L. 631-19 l'administrateur ou le
 débiteur prévoit dans son projet de plan des licenciements pour motif
 économique, il joint au rapport déposé au greffe ou il produit à l'audience les
 documents suivants :

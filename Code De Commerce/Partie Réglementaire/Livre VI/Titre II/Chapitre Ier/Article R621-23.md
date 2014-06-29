@@ -1,7 +1,9 @@
 Article R621-23
 ----
 Avant de désigner un technicien en application de l'article L. 621-9, le
-juge-commissaire recueille les observations du débiteur.
+juge-commissaire recueille les observations du débiteur. Toutefois, lorsqu'il
+apparaît fondé de ne pas appeler de partie adverse, le juge-commissaire statue
+non contradictoirement.
 
 Dès l'achèvement de la mission du technicien, le juge-commissaire arrête sa
 rémunération en fonction notamment des diligences accomplies, de la qualité du

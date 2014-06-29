@@ -2,7 +2,7 @@ Article R640-1
 ----
 La demande d'ouverture de la procédure de liquidation judiciaire est présentée
 selon les modalités prévues aux articles R. 631-1, R. 631-2, à l'exception du
-deuxième alinéa, et R. 631-3 à R. 631-5.
+deuxième alinéa, et R. 631-5.
 
 La demande d'ouverture d'une procédure de liquidation judiciaire présentée par
 un créancier est à peine d'irrecevabilité, qui doit être soulevée d'office,

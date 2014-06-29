@@ -10,3 +10,9 @@ des principaux contrats en cours.
 Dans les huit jours qui suivent le jugement d'ouverture, le débiteur remet la
 liste à l'administrateur et au mandataire judiciaire. Celui-ci la dépose au
 greffe.
+
+Pour l'application du troisième alinéa de l'article L. 622-24, la déclaration
+faite par le débiteur, dans le délai fixé par le premier alinéa de l'article R.
+622-24, doit comporter les éléments prévus aux deux premiers alinéas de
+l'article L. 622-25 et, le cas échéant, ceux prévus par le 2° de l'article R.
+622-23.

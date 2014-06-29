@@ -9,7 +9,8 @@ celui-ci ou sur les pièces produites ;
 2° Pour les mentions d'office prévues au titre :
 
 a) Des procédures de redressement ou de liquidation judiciaire des entreprises
-ouvertes à compter du 1er janvier 2006 ;
+ouvertes à compter du 1er janvier 2006 et de la procédure de rétablissement
+professionnel instituée par le chapitre V du titre IV du livre VI ;
 
 b) Des informations transmises par le ministère public ou l'autorité
 administrative, s'agissant d'une décision juridictionnelle passée en force de

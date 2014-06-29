@@ -5,6 +5,7 @@ mission que le montant maximal de la rémunération fixé par l'ordonnance qui l
 désigné est insuffisant, il en informe le président du tribunal.
 
 Le président du tribunal fixe les nouvelles conditions de la rémunération en
-accord avec le débiteur. L'accord est consigné par écrit.
+accord avec le débiteur et après avoir recueilli l'avis du ministère public en
+cas de recours à la conciliation. L'accord est consigné par écrit.
 
 A défaut d'accord, il est mis fin à sa mission.

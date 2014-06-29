@@ -1,7 +1,11 @@
 Article R628-9
 ----
-Par dérogation à l'article R. 225-69, le délai entre la date soit de l'insertion
-ou de la dernière des insertions contenant un avis de convocation, soit de
-l'envoi des lettres, soit de la transmission de la convocation par voie de
-communication électronique, et la date de l'assemblée des actionnaires est au
-moins de dix jours sur première convocation.
+Dans les huit jours suivant la remise de la liste par le greffier, le mandataire
+judiciaire communique par lettre recommandée avec demande d'avis de réception,
+ou, le cas échéant, par la voie du portail mentionné aux articles L. 814-2 et L.
+814-13, à chaque créancier concerné les informations relatives aux créances dont
+il est titulaire telles qu'elles résultent de la liste et porte à sa
+connaissance les dispositions de l'article L. 628-7 et du présent article.
+
+Cette information vaut avertissement au sens des articles L. 622-24 et R.
+622-21.

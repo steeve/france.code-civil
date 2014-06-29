@@ -3,7 +3,8 @@ Article R621-21
 Le juge-commissaire statue par ordonnance sur les demandes, contestations et
 revendications relevant de sa compétence ainsi que sur les réclamations
 formulées contre les actes de l'administrateur, du mandataire judiciaire et du
-commissaire à l'exécution du plan.
+commissaire à l'exécution du plan. Le juge-commissaire est saisi par requête ou
+par déclaration au greffe de la juridiction, sauf s'il en est disposé autrement.
 
 Si le juge-commissaire n'a pas statué dans un délai raisonnable, le tribunal
 peut être saisi à la demande d'une partie ou du ministère public.

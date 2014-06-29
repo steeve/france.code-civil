@@ -1,8 +1,10 @@
 Article R123-122
 ----
-Sont mentionnées d'office au registre les décisions, intervenues dans les
-procédures de sauvegarde ou de redressement ou liquidation judiciaires des
-entreprises ouvertes à compter du 1er janvier 2006 :
+Sont mentionnées d'office au registre :
+
+I.-Les décisions, intervenues dans les procédures de sauvegarde ou de
+redressement ou liquidation judiciaires des entreprises ouvertes à compter du
+1er janvier 2006 :
 
 1° Ouvrant la procédure de sauvegarde ou de redressement judiciaire avec
 l'indication du nom des mandataires de justice désignés et, le cas échéant, des
@@ -13,7 +15,7 @@ judiciaire avec l'indication des pouvoirs conférés à l'administrateur ;
 
 3° Prolongeant la période d'observation ;
 
-4° Modifiant les pouvoirs de l'administrateur ;
+4° Désignant un administrateur ou modifiant les pouvoirs de l'administrateur ;
 
 5° Ordonnant la cessation partielle de l'activité en application des articles L.
 622-10 ou L. 631-15 ;
@@ -64,3 +66,6 @@ procédure de liquidation judiciaire ;
 21° Remplaçant les mandataires de justice ;
 
 22° Décidant la reprise de la procédure de liquidation judiciaire.
+
+II.-La décision prononçant la clôture de la procédure de rétablissement
+professionnel et l'effacement des dettes.

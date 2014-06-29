@@ -13,7 +13,11 @@ désigné, aux personnes mentionnées au IV de l'article L. 642-2.
 
 A peine d'irrecevabilité, aucune modification ne peut être apportée à une offre
 moins de deux jours ouvrés avant la date fixée pour l'audience d'examen des
-offres par le tribunal.
+offres par le tribunal. Lorsque le tribunal décide de ne pas faire application
+du premier alinéa de l'article L. 642-2, il fixe la date de l'audience d'examen
+des offres ; d'autres offres de reprise peuvent parvenir au liquidateur ou à
+l'administrateur, s'il en a été désigné, au plus tard huit jours avant cette
+date.
 
 En cas de renvoi de l'affaire à une audience ultérieure, le tribunal peut fixer
 un nouveau délai pour la présentation de nouvelles offres ou l'amélioration des

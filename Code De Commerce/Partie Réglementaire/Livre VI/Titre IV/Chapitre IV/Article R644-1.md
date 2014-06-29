@@ -7,4 +7,5 @@ au vu du rapport du liquidateur.
 
 Cette décision est une mesure d'administration judiciaire non susceptible de
 recours. Elle est communiquée au débiteur et au liquidateur et est mentionnée
-aux registres ou répertoires prévus à l'article R. 621-8.
+aux registres ou répertoires prévus aux trois premiers alinéas de l'article R.
+621-8.

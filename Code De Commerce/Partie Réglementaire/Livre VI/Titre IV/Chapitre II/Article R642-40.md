@@ -13,3 +13,9 @@ Le liquidateur, ou l'administrateur lorsqu'il en a été désigné, communique a
 greffe les caractéristiques essentielles de l'entreprise ou de la ou des
 branches d'activité susceptibles d'être cédées. Tout intéressé peut prendre
 connaissance de ces informations au greffe.
+
+Pour l'application du deuxième alinéa de l'article L. 642-2, le tribunal
+s'assure que, compte tenu de la nature de l'activité en cause et les démarches
+effectuées par le mandataire ad hoc ou le conciliateur désigné en application
+des articles L. 611-3 ou L. 611-6 ont assuré une publicité suffisante de la
+préparation de la cession.

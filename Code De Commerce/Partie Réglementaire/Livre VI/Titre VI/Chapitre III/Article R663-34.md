@@ -16,4 +16,8 @@ arrêtés au vu du rapport de clôture déposé par le liquidateur. Ils ne sont
 définitivement acquis qu'après leur arrêté définitif par le président du
 tribunal ou son délégué. Aucun émolument ne peut être perçu par le liquidateur
 après l'approbation de son compte rendu de fin de mission, sans préjudice de la
-perception de l'indemnité prévue par l'article L. 663-3.
+perception de l'indemnité prévue par l'article L. 663-3. Toutefois, lorsqu'est
+demandée la désignation d'un mandataire en application du troisième alinéa de
+l'article L. 643-9, l'arrêté des émoluments du liquidateur n'est pas définitif.
+Des émoluments complémentaires peuvent, le cas échéant, être perçus par le
+liquidateur.

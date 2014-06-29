@@ -5,15 +5,17 @@ provisoire des poursuites, le greffier adresse immédiatement un avis pour
 insertion au Bulletin officiel des annonces civiles et commerciales. Cette
 insertion contient l'indication du nom du débiteur, du siège de son
 exploitation, de la date de l'ordonnance, le nom et l'adresse du conciliateur.
-Selon les mêmes modalités, une insertion est faite dans un journal d'annonces
-légales du lieu où le débiteur a le siège de son exploitation.
+Le cas échéant, elle comporte la dénomination de l'activité professionnelle à
+laquelle le patrimoine est affecté, incorporant le nom ou nom d'usage précédé ou
+suivi immédiatement des mots : " entrepreneur individuel à responsabilité
+limitée " ou des initiales : " EIRL ". Selon les mêmes modalités, une insertion
+est faite dans un journal d'annonces légales du lieu où le débiteur a le siège
+de son exploitation. L'ordonnance prorogeant le délai de suspension provisoire
+des poursuites, à la demande du débiteur, fait l'objet des mêmes publicités.
 
-S'il s'agit d'une personne morale immatriculée au registre du commerce et des
-sociétés, l'ordonnance est mentionnée à ce registre. Pour les exploitants non
-immatriculés, la mention est portée sur le registre ouvert au greffe du tribunal
-de grande instance en application du troisième alinéa de l'article 21 du décret
-n° 85-1388 du 27 décembre 1985 relatif au redressement et à la liquidation
-judiciaires des entreprises.
+Les ordonnances prononçant la suspension provisoire des poursuites ou en
+prorogeant le délai sont mentionnées sur les registres mentionnés aux trois
+premiers alinéas de l'article R. 621-8 du code de commerce.
 
 Les publicités prévues ci-dessus sont faites d'office par le greffier aux frais
 du débiteur.

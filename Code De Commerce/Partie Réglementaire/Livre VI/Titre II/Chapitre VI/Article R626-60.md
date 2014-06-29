@@ -19,3 +19,7 @@ convocation est adressée au nu-propriétaire.
 Le délai entre la date soit de l'insertion contenant l'avis de convocation, soit
 de l'envoi des lettres de convocation et la date du vote par l'assemblée
 générale des obligataires est au moins de quinze jours.
+
+L'invitation mentionnée au premier alinéa de l'article R. 626-58 est insérée
+dans l'avis prévu par le premier alinéa du présent article ou à la convocation
+prévue par le second alinéa.

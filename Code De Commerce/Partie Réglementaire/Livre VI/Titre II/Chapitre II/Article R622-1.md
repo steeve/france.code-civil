@@ -7,4 +7,5 @@ ministère public lorsqu'ils ne sont pas demandeurs.
 
 Toute décision modifiant la mission de l'administrateur est notifiée au
 débiteur. Elle est communiquée aux personnes citées à l'article R. 621-7 et
-mentionnée aux registres ou répertoires prévus à l'article R. 621-8.
+mentionnée aux registres ou répertoires prévus aux trois premiers alinéas de
+l'article R. 621-8.
