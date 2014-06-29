@@ -18,4 +18,5 @@ préalable des délégués du personnel en application de l'article L. 2313-13.
 Lorsque la demande s'effectue sur le fondement du II de l'article R. 5122-9,
 elle mentionne les engagements que l'employeur propose de souscrire.
 
-La demande d'autorisation est adressée par voie dématérialisée.
+La demande d'autorisation est adressée par voie dématérialisée dans les
+conditions fixées par l'article R. 5122-26.
