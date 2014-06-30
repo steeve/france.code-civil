@@ -1,10 +1,12 @@
 Article L551-10
 ----
 Les personnes habilitées à engager les recours prévus aux articles L. 551-1 et
-L. 551-5 sont celles qui ont un intérêt à conclure le contrat et qui sont
+L. 551-5 sont celles qui ont un intérêt à conclure le contrat ou à entrer au
+capital de la société d'économie mixte à opération unique et qui sont
 susceptibles d'être lésées par le manquement invoqué, ainsi que le représentant
 de l'Etat dans le cas où le contrat doit être conclu par une collectivité
-territoriale ou un établissement public local.
+territoriale, un groupement de collectivités territoriales ou un établissement
+public local.
 
 Sauf si la demande porte sur des marchés ou contrats passés par l'Etat, elle
 peut également être présentée par celui-ci, lorsque la Commission européenne lui

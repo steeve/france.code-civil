@@ -2,8 +2,9 @@ Article L551-6
 ----
 Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations
 en lui fixant un délai à cette fin. Il peut lui enjoindre de suspendre
-l'exécution de toute décision se rapportant à la passation du contrat. Il peut,
-en outre, prononcer une astreinte provisoire courant à l'expiration des délais
+l'exécution de toute décision se rapportant à la passation du contrat ou à la
+constitution de la société d'économie mixte à opération unique. Il peut, en
+outre, prononcer une astreinte provisoire courant à l'expiration des délais
 impartis.
 
 Le montant de l'astreinte provisoire est liquidé en tenant compte du
