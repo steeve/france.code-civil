@@ -40,7 +40,11 @@ L. 566-7 et de sa contribution à la réalisation des objectifs visés à l'arti
 L. 211-1 ainsi que des objectifs de qualité des eaux prévus par l'article D.
 211-10 ;
 
-d) Précisant s'il y a lieu les mesures correctives ou compensatoires envisagées.
+d) Précisant s'il y a lieu les mesures correctives ou compensatoires envisagées
+;
+
+e) Les raisons pour lesquelles le projet a été retenu parmi les alternatives
+ainsi qu'un résumé non technique.
 
 Les informations que doit contenir ce document peuvent être précisées par un
 arrêté du ministre chargé de l'environnement.
@@ -123,7 +127,23 @@ d'exploitation en période de crue ;
 
 2° Une note décrivant les mesures de sécurité pendant la première mise en eau ;
 
-3° Une étude de dangers si l'ouvrage est de classe A ou B.
+3° Une étude de dangers si l'ouvrage est de classe A ou B ;
+
+4° Une note précisant les capacités techniques et financières du pétitionnaire ;
+
+5° Sauf lorsqu'une déclaration d'utilité publique est requise, tout document
+permettant au pétitionnaire de justifier qu'il aura, avant la mise à l'enquête
+publique, la libre disposition des terrains ne dépendant pas du domaine public
+sur lesquels les travaux nécessaires à la construction de l'ouvrage doivent être
+exécutés ;
+
+6° En complément du 6° du II, si l'ouvrage est construit dans le lit mineur d'un
+cours d'eau, l'indication des ouvrages immédiatement à l'aval et à l'amont et
+ayant une influence hydraulique ; le profil en long de la section de cours d'eau
+ainsi que, s'il y a lieu, de la dérivation ; un plan des terrains submergés à la
+cote de retenue normale ; un plan des ouvrages et installations en rivière
+détaillés au niveau d'un avant-projet sommaire, comprenant, dès lors que
+nécessaire, les dispositifs assurant la circulation des poissons.
 
 VI.-Lorsqu'il s'agit d'ouvrages mentionnés à la rubrique 3.2.6.0 du tableau de
 l'article R. 214-1 :
@@ -132,7 +152,15 @@ l'article R. 214-1 :
 surveillance de l'ouvrage en toutes circonstances et des consignes
 d'exploitation en période de crue ;
 
-2° Une étude de dangers si l'ouvrage est de classe A, B ou C.
+2° Une étude de dangers si l'ouvrage est de classe A, B ou C ;
+
+3° Une note précisant les capacités techniques et financières du pétitionnaire ;
+
+4° Sauf lorsqu'une déclaration d'utilité publique est requise, tout document
+permettant au pétitionnaire de justifier qu'il aura, avant la mise à l'enquête
+publique, la libre disposition des terrains ne dépendant pas du domaine public
+sur lesquels les travaux nécessaires à la construction de l'ouvrage doivent être
+exécutés.
 
 VII.-Lorsqu'il s'agit d'un plan de gestion établi pour la réalisation d'une
 opération groupée d'entretien régulier d'un cours d'eau, canal ou plan d'eau
@@ -148,8 +176,37 @@ permanents, préjudiciables à la sécurité des sports nautiques non motorisés
 4° S'il y a lieu, les modalités de traitement des sédiments déplacés, retirés ou
 remis en suspension dans le cours d'eau.
 
-VIII.-Les études et documents prévus au présent article portent sur l'ensemble
-des installations, ouvrages, travaux ou activités exploités ou projetés par le
+VIII.-Lorsqu'il s'agit d'installations utilisant l'énergie hydraulique, la
+demande comprend en outre :
+
+1° En complément du 3° du II, avec les justifications techniques nécessaires, le
+débit maximal dérivé, la hauteur de chute brute maximale, la puissance maximale
+brute calculée à partir du débit maximal de la dérivation et de la hauteur de
+chute maximale, et le volume stockable ;
+
+2° Une note justifiant les capacités techniques et financières du pétitionnaire
+et la durée d'autorisation proposée ;
+
+3° Sauf lorsque la déclaration d'utilité publique est requise au titre de
+l'article L. 531-6 du code de l'énergie, tout document permettant au
+pétitionnaire de justifier qu'il aura, avant la mise à l'enquête publique, la
+libre disposition des terrains ne dépendant pas du domaine public sur lesquels
+les travaux nécessaires à l'aménagement de la force hydraulique doivent être
+exécutés ;
+
+4° Pour les usines d'une puissance supérieure à 500 kW, les propositions de
+répartition entre les communes intéressées de la valeur locative de la force
+motrice de la chute et de ses aménagements ;
+
+5° En complément du 6° du II, l'indication des ouvrages immédiatement à l'aval
+et à l'amont et ayant une influence hydraulique, le profil en long de la section
+de cours d'eau ainsi que, s'il y a lieu, de la dérivation ; un plan des terrains
+submergés à la cote de retenue normale ; un plan des ouvrages et installations
+en rivière détaillés au niveau d'un avant-projet sommaire, comprenant, dès lors
+que nécessaire, les dispositifs assurant la circulation des poissons.
+
+IX.-Les études et documents prévus au présent article portent sur l'ensemble des
+installations, ouvrages, travaux ou activités exploités ou projetés par le
 demandeur qui, par leur proximité ou leur connexité avec l'installation soumise
 à autorisation, sont de nature à participer aux incidences sur les eaux ou le
 milieu aquatique.

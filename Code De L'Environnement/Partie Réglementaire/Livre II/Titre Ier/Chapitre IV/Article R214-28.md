@@ -1,6 +1,5 @@
 Article R214-28
 ----
-Les personnes mentionnées au dernier alinéa de l'article R. 214-26 disposent,
-selon le cas, d'un délai de deux mois à compter de la notification qui leur a
-été faite en application de cet article ou du délai fixé par l'avis prévu à
-l'article R. 214-27 pour faire connaître, par écrit, leurs observations.
+Si le titulaire de l'autorisation abrogée n'exécute pas les travaux prescrits
+par la décision d'abrogation, le préfet peut y faire procéder d'office, dans les
+conditions prévues à l'article L. 171-8.

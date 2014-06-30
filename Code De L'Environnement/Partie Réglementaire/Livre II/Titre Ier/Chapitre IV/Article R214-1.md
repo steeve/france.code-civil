@@ -467,8 +467,8 @@ les fonds marins du domaine public (A).
 
 5. 2. 1. 0. (Rubrique supprimée)
 
-5. 2. 2. 0. Entreprises hydrauliques soumises à la loi du 16 octobre 1919
-relative à l'utilisation de l'énergie hydraulique (A).
+5.2.2.0. Concessions hydrauliques régies par le livre V du code de l'énergie
+(A).
 
 5. 2. 3. 0. Les travaux décidés par la commission d'aménagement foncier
 comprenant des travaux tels que l'arrachage des haies, l'arasement des talus, le

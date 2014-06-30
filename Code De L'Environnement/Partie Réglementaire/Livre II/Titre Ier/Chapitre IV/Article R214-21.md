@@ -1,5 +1,8 @@
 Article R214-21
 ----
-La demande mentionnée à l'article R. 214-20 est soumise aux mêmes formalités que
-les demandes d'autorisation initiales, à l'exception de l'enquête publique et de
-celles prévues à l'article R. 214-9.
+Les autorisations de travaux peuvent être prorogées par arrêté complémentaire
+délivré selon les dispositions de l'article R. 214-18.
+
+Cet article est également applicable lorsque certaines dispositions d'une
+autorisation font l'objet d'un réexamen périodique, notamment en vertu des
+prescriptions législatives ou réglementaires.

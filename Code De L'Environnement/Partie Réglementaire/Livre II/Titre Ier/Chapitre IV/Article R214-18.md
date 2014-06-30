@@ -10,8 +10,13 @@ préfet avec tous les éléments d'appréciation.
 Le préfet fixe, s'il y a lieu, des prescriptions complémentaires, dans les
 formes prévues à l'article R. 214-17.
 
+Ces dispositions sont applicables aux travaux ou activités présentant un
+caractère temporaire, périodique et dépourvu d'effet important et durable sur le
+milieu naturel en application du IV de l'article L. 214-4 ainsi qu'à la mise en
+œuvre des dispositions de l'article L. 214-3-1.
+
 S'il estime que les modifications sont de nature à entraîner des dangers ou des
-inconvénients pour les éléments énumérés à l'article L. 211-1, le préfet invite
-le bénéficiaire de l'autorisation à déposer une nouvelle demande d'autorisation.
-Celle-ci est soumise aux mêmes formalités que la demande d'autorisation
-primitive.
+inconvénients significatifs pour les éléments énumérés à l'article L. 211-1, le
+préfet invite le bénéficiaire de l'autorisation à déposer une nouvelle demande
+d'autorisation. Celle-ci est soumise aux mêmes formalités que la demande
+d'autorisation primitive.

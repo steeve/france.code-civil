@@ -2,8 +2,7 @@ Article R211-2
 ----
 La présente sous-section ne s'applique pas :
 
-1° Aux entreprises hydrauliques régies par la loi du 16 octobre 1919 relative à
-l'utilisation de l'énergie hydraulique ;
+1° Aux concessions hydrauliques régies par le livre V du code de l'énergie ;
 
 2° Aux mines et industries extractives dont le règlement général est fixé par le
 décret n° 80-331 du 7 mai 1980 portant règlement général des industries

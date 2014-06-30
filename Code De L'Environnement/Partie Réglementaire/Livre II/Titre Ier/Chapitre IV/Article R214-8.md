@@ -8,6 +8,24 @@ compétente en matière d'environnement si cet avis est requis en application de
 l'article L. 122-1 et s'il est disponible. Le dossier est transmis au préfet de
 chacun des départements situés dans le périmètre d'enquête.
 
+Lorsque la déclaration d'utilité publique est requise au titre de l'article L.
+531-6 du code de l'énergie, l'enquête prévue au présent article vaut enquête
+préalable à cette déclaration. Le dossier mis à l'enquête contient alors :
+
+-un plan indiquant le périmètre à l'intérieur duquel pourront être appliquées
+les dispositions prévues à la section 3 du chapitre Ier du titre II du livre V
+du code de l'énergie ;
+
+-un tableau des indemnités pour droits à l'usage de l'eau non exercés que le
+pétitionnaire propose en faveur des riverains intéressés au titre de l'article
+L. 521-14 de ce même code ;
+
+-les propositions de restitutions en nature des droits à l'usage de l'eau déjà
+exercés et les plans des terrains soumis à des servitudes pour ces restitutions
+prévues par ce même article L. 521-14 ;
+
+-l'avis du service des domaines.
+
 L'enquête publique est réalisée dans les conditions prévuespar les articles R.
 123-1 à R. 123-27.
 

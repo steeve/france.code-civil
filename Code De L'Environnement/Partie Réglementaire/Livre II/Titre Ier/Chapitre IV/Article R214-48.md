@@ -1,6 +1,6 @@
 Article R214-48
 ----
-En cas de retrait ou de suspension d'autorisation, ou de mesure d'interdiction
+En cas d'abrogation ou de suspension d'autorisation, ou de mesure d'interdiction
 d'utilisation, de mise hors service ou de suppression, l'exploitant ou, à
 défaut, le propriétaire de l'ouvrage, de l'installation ou de l'aménagement
 concernés ou le responsable de l'opération est tenu, jusqu'à la remise en

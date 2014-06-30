@@ -63,7 +63,12 @@ III de l'article L. 214-6 ;
 
 11° Le fait de ne pas respecter les conditions de prélèvements d'eau et les
 modalités de répartition prescrites par les arrêtés pris en application des
-articles R. 214-24, R. 214-31-2 ou R. 214-31-3.
+articles R. 214-24, R. 214-31-2 ou R. 214-31-3 ;
+
+12° Le fait de conforter, remettre en eau ou en exploitation des installations
+ou ouvrages existants fondés en titre ou autorisés avant le 16 octobre 1919 pour
+une puissance hydroélectrique inférieure à 150 kW, sans avoir procédé à
+l'information préalable du préfet prévue à l'article R. 214-18-1.
 
 II.-Les personnes physiques encourent également la peine complémentaire de
 confiscation de la chose qui a servi ou était destinée à commettre l'infraction
