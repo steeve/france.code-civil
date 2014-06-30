@@ -13,14 +13,18 @@ du code de la sécurité intérieure ;
 agissant pour leur propre compte, font exécuter en France par certains de leurs
 salariés une ou plusieurs de ces activités.
 
+3° Les personnes morales, quelle que soit leur nationalité, à qui a été délivrée
+l'autorisation d'exercice prévue à l'article L. 612-9 dudit code, pour effectuer
+l'activité mentionnée au 4° de l'article L. 611-1 de ce même code.
+
 Les activités mentionnées aux articles L. 621-1 et L. 622-1 du même code sont
 réputées se situer en France lorsqu'elles sont effectuées pour les besoins d'une
 personne établie ou domiciliée en France.
 
-III. ― Pour les personnes morales et physiques mentionnées au 1° du II, la
-contribution est calculée au taux de 0,5 % sur le montant hors taxe des ventes
-de prestations de services d'activités privées de sécurité assurées en France
-par ces personnes.
+III. ― Pour les personnes morales et physiques mentionnées auX 1° et 3° du II,
+la contribution est calculée au taux de 0,5 % sur le montant hors taxe des
+ventes de prestations de services d'activités privées de sécurité assurées en
+France par ces personnes.
 
 Le fait générateur et l'exigibilité de la contribution interviennent dans les
 mêmes conditions que celles applicables en matière de taxe sur la valeur

@@ -26,4 +26,7 @@ territoires et territoires associés relevant du ministère chargé de l'outre-m
 ;
 
 6° Les références au code de l'urbanisme sont remplacées par des références aux
-textes applicables localement en la matière.
+textes applicables localement en la matière ;
+
+7° Les montants exprimés en euros sont applicables dans les îles Wallis et
+Futuna sous réserve de leur contre-valeur en monnaie locale.
