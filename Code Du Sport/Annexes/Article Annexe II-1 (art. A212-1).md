@@ -2605,6 +2605,22 @@ inclus.
 Dans la limite de vingt pratiquants par titulaire du CQP. Dans des espaces
 dédiés : gymnase, plateau sportif, piste de roller et skatepark.
 
+CQP "moniteur de roller skating", option "roller randonnée"
+
+Initiation aux activités du roller skating dans les options "patinage artistique
+et danse", "course", "rink-hockey", "roller in line hockey", "roller
+acrobatique", "roller randonnée".
+
+Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de
+compétition inclus.
+
+Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux
+de compétition inclus : -dans la limite de vingt pratiquants par titulaire du
+CQP ;
+
+-sur voies ouvertes, sous l'autorité de deux titulaires du CQP, dans le cas où
+le groupe comprend plus de huit pratiquants.
+
 CQP " moniteur d'aviron ".
 
 Encadrement en autonomie des activités de l'aviron jusqu'aux premiers niveaux de
@@ -2618,17 +2634,19 @@ maritimes en fonction de l'option du permis plaisance.
 CQP " moniteur de rugby à XV ".
 
 Animation des activités de rugby à XV pour tout public, à des fins de découverte
-et d'initiation. Encadrement des activités de rugby à XV jusqu'aux premiers
-niveaux de compétition dans les catégories d'âge des écoles de rugby (7 à 15
-ans).
+et d'initiation.
+
+Encadrement des activités de rugby à XV jusqu'aux premiers niveaux de
+compétition dans les catégories d'âge des écoles de rugby (7 à 15 ans).
 
 CQP " initiateur en motocyclisme ".
 
 Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la
 maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad).
 
-A l'exclusion des voies ouvertes à la circulation publique. A l'exclusion de
-toute pratique compétitive.
+A l'exclusion des voies ouvertes à la circulation publique.
+
+A l'exclusion de toute pratique compétitive.
 
 CQP " moniteur de squash ".
 
@@ -2646,8 +2664,10 @@ Encadrement en autonomie du tir sportif à des fins de découverte et
 d'initiation, pour tout public, jusqu'au premier niveau de compétition.
 
 Pour l'activité de découverte : dans la limite de six pratiquants sur le même
-pas de tir. Pour l'activité d'initiation : dans la limite de dix pratiquants sur
-le même pas de tir.
+pas de tir.
+
+Pour l'activité d'initiation : dans la limite de dix pratiquants sur le même pas
+de tir.
 
 Sous réserve de la présentation du carnet de tir en cours de validité.
 
@@ -2675,8 +2695,9 @@ public, sur tout support ou embarcation propulsée à la pagaie dans les
 conditions techniques et de sécurité définies aux articles A. 322-42 et suivants
 du code du sport.
 
-A l'exclusion du raft. Jusqu'en classe II incluse, avec des passages de classe
-III non successifs.
+A l'exclusion du raft.
+
+Jusqu'en classe II incluse, avec des passages de classe III non successifs.
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".
 
@@ -2685,8 +2706,9 @@ sur tout support ou embarcation propulsée à la pagaie dans les conditions
 techniques et de sécurité définies aux articles A. 322-42 et suivants du code du
 sport.
 
-Jusqu'à 1 mille d'un abri. Par vent de force 3 Beaufort maximum sur le site
-d'évolution.
+Jusqu'à 1 mille d'un abri.
+
+Par vent de force 3 Beaufort maximum sur le site d'évolution.
 
 CQP "technicien sportif de rugby à XV ".
 
@@ -2696,8 +2718,28 @@ de moins de 15 ans, jusqu'en fédérale 2.
 CQP "animateur de patinoire", option " hockey sur glace".
 
 Encadrement en autonomie de séances d'initiation et de découverte des activités
-en patinoire. Encadrement en autonomie du hockey sur glace jusqu'aux premiers
-niveaux de compétition, pour un public de moins de treize ans.
+en patinoire.
+
+Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de
+compétition, pour un public de moins de treize ans.
+
+CQP "animateur d'athlétisme", option "école d'athlé".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités de
+découverte et d'initiation de l'athlétisme, jusqu'au premier niveau de
+compétition
+
+Pour des publics de moins de seize ans.
+
+Dans la limite de vingt pratiquants.
+
+CQP "animateur d'athlétisme", option "athlé loisirs".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités de
+découverte, d'initiation et d'entretien pour tout public pratiquant l'athlétisme
+loisirs, dont la marche nordique.
+
+A l'exclusion des pratiques compétitives
 
 F.-Diplômes délivrés par le ministère chargé de la santé
 
