@@ -24,6 +24,6 @@ son précédent agrément à condition que l'ensemble de ses activités et
 fondée sur un référentiel des services à la personne qui respecte les exigences
 fixées par le cahier des charges mentionné au 3° de l'article R. 7232-7. La
 conformité du référentiel de chaque organisme certificateur au cahier des
-charges est reconnue par une décision du directeur général de l'Agence nationale
-des services à la personne, qui est publiée au Bulletin officiel du ministère en
-charge des services.
+charges est reconnue par un arrêté du ministre chargé des services à la
+personne, qui est publiée au Bulletin officiel du ministère en charge des
+services.
