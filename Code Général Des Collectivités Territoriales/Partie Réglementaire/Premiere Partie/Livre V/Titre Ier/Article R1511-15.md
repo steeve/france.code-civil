@@ -2,7 +2,7 @@ Article R1511-15
 ----
 Le montant des aides à la location ne peut excéder un pourcentage du montant des
 loyers correspondant à la valeur vénale des biens loués dans la limite, selon la
-zone où se situent les biens loués, des taux fixés dans l'annexe 4 au décret
+zone où se situent les biens loués, des taux fixés dans l'annexe 3 au décret
 mentionné à l'article R. 1511-10.
 
 Toutefois, dans le cas où des aides sont attribuées au cours des trois exercices

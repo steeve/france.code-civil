@@ -8,4 +8,4 @@ modalités prévues à l'article R. 1511-4.
 
 Les limites et conditions d'octroi des aides sont, selon les zones, les
 catégories d'entreprise et les montants d'investissement concernés, celles
-fixées dans l'annexe 4 au décret mentionné à l'article R. 1511-10.
+fixées dans l'annexe 3 au décret mentionné à l'article R. 1511-10.
