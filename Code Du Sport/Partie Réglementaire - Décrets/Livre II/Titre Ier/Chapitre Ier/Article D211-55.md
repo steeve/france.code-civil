@@ -87,10 +87,10 @@ Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaire
 
 Un arrêté du ministre chargé des sports publié au Bulletin officiel du ministère
 chargé des sports constate la composition du conseil d'administration telle
-qu'elle résulte du présent article. Le directeur général, le directeur de
-l'Ecole nationale de ski et d'alpinisme, le directeur du Centre national de ski
-nordique et de moyenne montagne, l'agent comptable et le contrôleur budgétaire
-assistent avec voix consultative aux séances du conseil, ainsi que toute
-personne dont il paraîtrait utile au président de recueillir l'avis. Le
+qu'elle résulte du présent article. Le directeur général, le directeur adjoint
+de l'Ecole nationale de ski et d'alpinisme, le directeur du Centre national de
+ski nordique et de moyenne montagne, l'agent comptable et le contrôleur
+budgétaire assistent avec voix consultative aux séances du conseil, ainsi que
+toute personne dont il paraîtrait utile au président de recueillir l'avis. Le
 directeur général peut se faire accompagner par toute personne de son choix
 appartenant à l'établissement.

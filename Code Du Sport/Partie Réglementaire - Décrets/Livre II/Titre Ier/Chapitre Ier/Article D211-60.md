@@ -9,6 +9,6 @@ l'article D. 211-59 doivent recevoir l'approbation expresse des ministres
 chargés du budget et des sports.
 
 Les autres délibérations du conseil d'administration sont exécutoires à
-l'expiration d'un délai de quinze jours qui suit la date de réception du
-procès-verbal, sauf si dans ce délai le ministre chargé des sports y fait
-opposition ; ce délai peut être réduit par le ministre en cas d'urgence.
+l'expiration d'un délai de quinze jours suivant leur réception par le ministre
+chargé des sports sauf si dans ce délai celui-ci y a fait opposition ; ce délai
+peut être réduit par le ministre en cas d'urgence.

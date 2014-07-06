@@ -7,7 +7,8 @@ comprend :
 
 a) Le directeur général ou son représentant ;
 
-b) Le directeur de l'Ecole nationale de ski et d'alpinisme ou son représentant ;
+b) Le directeur adjoint de l'Ecole nationale de ski et d'alpinisme ou son
+représentant ;
 
 c) Le préfet de la Haute-Savoie ou son représentant ;
 
