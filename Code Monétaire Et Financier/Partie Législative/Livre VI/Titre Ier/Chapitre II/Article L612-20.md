@@ -88,7 +88,11 @@ qu'une seule contribution ;
 
 3° Les personnes mentionnées aux 4° bis et 11° du A du I de l'article L. 612-2
 acquittent chacune une contribution forfaitaire comprise entre 5 000 € et 15 000
-€, fixée par arrêté du ministre chargé de l'économie.
+€, fixée par arrêté du ministre chargé de l'économie ;
+
+4° Les établissements de crédit mentionnés à l'article L. 318-1 acquittent, au
+moment du dépôt de leur demande d'autorisation, une contribution forfaitaire
+fixée par arrêté du ministre chargé de l'économie, dans la limite de 10 000 €.
 
 III. ― Le taux de la contribution visée au A et au B du II du présent article
 est compris entre :
