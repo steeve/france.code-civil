@@ -12,4 +12,6 @@ concernant les conditions de travail dans les transports publics et privés ;
 
 3° En l'absence d'appareil de contrôle permettant l'enregistrement de la vitesse
 ou lorsque celui-ci a fait l'objet d'une modification ou d'une détérioration
-affectant son fonctionnement normal.
+affectant son fonctionnement normal ;
+
+4° Lorsque le chronotachygraphe n'a pas fait l'objet du contrôle en service.
