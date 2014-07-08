@@ -1,9 +1,10 @@
 Article D643-35
 ----
-En vue de faciliter la poursuite d'études et l'orientation des étudiants dans
-une autre formation de l'enseignement supérieur, des conventions de coopération
-pédagogique sont passées entre les établissements préparant au brevet de
-technicien supérieur et des établissements, français ou étrangers, dispensant
+Outre les conventions prévues au cinquième alinéa de l'article L. 612-3, et en
+vue de faciliter la poursuite d'études et l'orientation des étudiants dans une
+autre formation de l'enseignement supérieur, des conventions de coopération
+pédagogique peuvent être conclues entre les lycées publics préparant au brevet
+de technicien supérieur et des établissements, français ou étrangers, dispensant
 cette formation. Ces conventions précisent, sur la base de l'attestation
 descriptive prévue à l'article D. 643-34 et en fonction des divers types
 d'études auxquelles peuvent postuler les étudiants issus des sections de
