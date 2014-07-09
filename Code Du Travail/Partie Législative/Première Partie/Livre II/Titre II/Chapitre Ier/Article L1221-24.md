@@ -9,6 +9,6 @@ dans un emploi en correspondance avec les activités qui avaient été confiées
 stagiaire, la durée du stage est déduite intégralement de la période d'essai.
 
 Lorsque le stagiaire est embauché par l'entreprise à l'issue d'un stage d'une
-durée supérieure à deux mois, au sens de l'article L. 612-11 du code de
+durée supérieure à deux mois, au sens de l'article L. 124-6 du code de
 l'éducation, la durée de ce stage est prise en compte pour l'ouverture et le
 calcul des droits liés à l'ancienneté.

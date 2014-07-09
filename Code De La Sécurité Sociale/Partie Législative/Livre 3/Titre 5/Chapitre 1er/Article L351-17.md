@@ -1,8 +1,8 @@
 Article L351-17
 ----
 Les étudiants peuvent demander la prise en compte, par le régime général de
-sécurité sociale, des périodes de stages prévus à l'article L. 612-8 du code de
-l'éducation et éligibles à la gratification prévue à l'article L. 612-11 du même
+sécurité sociale, des périodes de stages prévus à l'article L. 124-1 du code de
+l'éducation et éligibles à la gratification prévue à l'article L. 124-6 du même
 code, sous réserve du versement de cotisations et dans la limite de deux
 trimestres.
 

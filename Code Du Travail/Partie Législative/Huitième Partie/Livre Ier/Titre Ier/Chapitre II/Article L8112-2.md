@@ -30,4 +30,8 @@ code, relatives à la conformité et la sécurité des produits et des services 
 
 6° Les infractions aux dispositions des articles L. 123-10 à L. 123-11-1 du code
 de commerce, relatives à la domiciliation des personnes immatriculées au
-registre du commerce et des sociétés.
+registre du commerce et des sociétés ;
+
+7° Les manquements aux articles L. 124-7, L. 124-8, L. 124-10, L. 124-13 et L.
+124-14 et à la première phrase du premier alinéa de l'article L. 124-9 du code
+de l'éducation.

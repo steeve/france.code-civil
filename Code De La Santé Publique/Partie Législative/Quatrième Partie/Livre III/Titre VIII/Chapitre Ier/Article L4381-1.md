@@ -10,5 +10,5 @@ médicaux en formation.
 La réalisation de ces stages ne peut avoir pour objet ou pour effet d'accroître
 l'activité rémunérée de ces praticiens. Les stagiaires peuvent bénéficier de
 l'indemnisation de contraintes liées à l'accomplissement de leurs stages, à
-l'exclusion de toute autre rémunération ou gratification au sens de l'article 9
-de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances.
+l'exclusion de toute autre rémunération ou gratification au sens de l'article L.
+124-6 du code de l'éducation.
