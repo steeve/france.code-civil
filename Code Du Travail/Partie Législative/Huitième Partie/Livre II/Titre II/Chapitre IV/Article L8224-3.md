@@ -19,10 +19,12 @@ commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativeme
 commettre l'infraction ou qui ont été utilisés à cette occasion, ainsi que de
 ceux qui en sont le produit et qui appartiennent au condamné ;
 
-4° L'affichage du jugement aux frais de la personne condamnée dans les
-conditions prévues à l'article 131-35 du code pénal et son insertion, intégrale
-ou par extraits, dans les journaux qu'elle désigne. Ces frais ne peuvent excéder
-le montant maximum de l'amende encourue ;
+4° L'affichage ou la diffusion de la décision prononcée, dans les conditions
+prévues à l'article 131-35 du code pénal. Lorsqu'une amende est prononcée, la
+juridiction peut ordonner que cette diffusion soit opérée, pour une durée
+maximale de deux ans, par les services du ministre chargé du travail sur un site
+internet dédié, dans des conditions prévues par décret en Conseil d'Etat pris
+après avis de la Commission nationale de l'informatique et des libertés ;
 
 5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code
 pénal, des droits civiques, civils et de famille.

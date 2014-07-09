@@ -7,6 +7,7 @@ intervenus au cours de l'année écoulée et des deux années précédentes.
 
 Le bilan social comporte des informations sur l'emploi, les rémunérations et
 charges accessoires, les conditions de santé et de sécurité, les autres
-conditions de travail, la formation, les relations professionnelles ainsi que
+conditions de travail, la formation, les relations professionnelles, le nombre
+de salariés détachés et le nombre de travailleurs détachés accueillis ainsi que
 sur les conditions de vie des salariés et de leurs familles dans la mesure où
 ces conditions dépendent de l'entreprise.

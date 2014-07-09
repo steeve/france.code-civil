@@ -3,9 +3,10 @@ Article L8222-5
 Le maître de l'ouvrage ou le donneur d'ordre, informé par écrit par un agent de
 contrôle mentionné à l'article L. 8271-7 ou par un syndicat ou une association
 professionnels ou une institution représentative du personnel, de l'intervention
-d'un sous-traitant ou d'un subdélégataire en situation irrégulière au regard des
-formalités mentionnées aux articles L. 8221-3 et L. 8221-5 enjoint aussitôt à
-son cocontractant de faire cesser sans délai cette situation.
+du cocontractant, d'un sous-traitant ou d'un subdélégataire en situation
+irrégulière au regard des formalités mentionnées aux articles L. 8221-3 et L.
+8221-5 enjoint aussitôt à son cocontractant de faire cesser sans délai cette
+situation.
 
 A défaut, il est tenu solidairement avec son cocontractant au paiement des
 impôts, taxes, cotisations, rémunérations et charges mentionnés aux 1° à 3° de

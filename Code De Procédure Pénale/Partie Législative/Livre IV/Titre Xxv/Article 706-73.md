@@ -72,7 +72,14 @@ le champ d'application de l'article 706-167 ;
 concessible sans titre d'exploitation ou autorisation, accompagné d'atteintes à
 l'environnement, commis en bande organisée, prévu à l'article L. 512-2 du code
 minier, lorsqu'il est connexe avec l'une des infractions mentionnées aux 1° à
-17° du présent article.
+17° du présent article ;
+
+20° Délits de dissimulation d'activités ou de salariés, de recours aux services
+d'une personne exerçant un travail dissimulé, de marchandage de main-d'œuvre, de
+prêt illicite de main-d'œuvre, d'emploi d'étrangers sans titre de travail prévus
+aux 1° et 3° de l'article L. 8221-1 et aux articles L. 8221-3, L. 8221-5, L.
+8224-1, L. 8224-2, L. 8231-1, L. 8234-1, L. 8234-2, L. 8241-1, L. 8243-1, L.
+8243-2, L. 8251-1 et L. 8256-2 du code du travail.
 
 Pour les infractions visées aux 3°, 6° et 11°, sont applicables, sauf précision
 contraire, les dispositions du présent titre ainsi que celles des titres XV, XVI

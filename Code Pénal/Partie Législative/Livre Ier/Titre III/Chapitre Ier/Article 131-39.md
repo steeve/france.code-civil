@@ -41,7 +41,12 @@ presse écrite, soit par tout moyen de communication au public par voie
 à l'encontre duquel l'infraction a été commise ;
 
 11° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de
-détenir un animal.
+détenir un animal ;
+
+12° L'interdiction, pour une durée de cinq ans au plus de percevoir toute aide
+publique attribuée par l'Etat, les collectivités territoriales, leurs
+établissements ou leurs groupements ainsi que toute aide financière versée par
+une personne privée chargée d'une mission de service public.
 
 La peine complémentaire de confiscation est également encourue de plein droit
 pour les crimes et pour les délits punis d'une peine d'emprisonnement d'une

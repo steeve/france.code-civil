@@ -17,7 +17,11 @@ ignorer l'utilisation frauduleuse, ainsi que des objets qui sont le produit de
 l'infraction et qui appartiennent au condamné ;
 
 4° L'affichage ou la diffusion de la décision prononcée, dans les conditions
-prévues par l'article 131-35 du code pénal ;
+prévues à l'article 131-35 du code pénal. Lorsqu'une amende est prononcée, la
+juridiction peut ordonner que cette diffusion soit opérée, pour une durée
+maximale de deux ans, par les services du ministre chargé du travail sur un site
+internet dédié, dans des conditions prévues par décret en Conseil d'Etat pris
+après avis de la Commission nationale de l'informatique et des libertés ;
 
 5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code
 pénal, des droits civiques, civils et de la famille ;

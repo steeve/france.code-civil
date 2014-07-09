@@ -1,6 +1,6 @@
 Article 706-88
 ----
-Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête ou
+Pour l'application des articles 63,77 et 154, si les nécessités de l'enquête ou
 de l'instruction relatives à l'une des infractions entrant dans le champ
 d'application de l'article 706-73 l'exigent, la garde à vue d'une personne peut,
 à titre exceptionnel, faire l'objet de deux prolongations supplémentaires de
@@ -72,3 +72,6 @@ juge d'instruction. Elles sont spécialement motivées et font référence aux
 éléments de fait justifiant que les conditions prévues au présent alinéa sont
 réunies. Les sixième et septième alinéas du présent article ne sont pas
 applicables.
+
+Le présent article n'est pas applicable aux délits mentionnés au 20° de
+l'article 706-73.

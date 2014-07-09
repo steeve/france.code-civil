@@ -1,11 +1,12 @@
 Article L8272-2
 ----
 Lorsque l'autorité administrative a connaissance d'un procès-verbal relevant une
-infraction prévue aux 1° à 4° de l'article L. 8211-1, elle peut, eu égard à la
-répétition et à la gravité des faits constatés et à la proportion de salariés
-concernés, ordonner par décision motivée la fermeture de l'établissement ayant
-servi à commettre l'infraction, à titre provisoire et pour une durée ne pouvant
-excéder trois mois. Elle en avise sans délai le procureur de la République.
+infraction prévue aux 1° à 4° de l'article L. 8211-1, elle peut, si la
+proportion de salariés concernés le justifie, eu égard à la répétition ou à la
+gravité des faits constatés, ordonner par décision motivée la fermeture de
+l'établissement ayant servi à commettre l'infraction, à titre provisoire et pour
+une durée ne pouvant excéder trois mois. Elle en avise sans délai le procureur
+de la République.
 
 La mesure de fermeture provisoire est levée de plein droit en cas de classement
 sans suite de l'affaire, d'ordonnance de non-lieu et de décision de relaxe ou si
