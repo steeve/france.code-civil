@@ -1,8 +1,9 @@
 Article L4138-12
 ----
 Le congé de longue durée pour maladie est attribué, après épuisement des droits
-de congé de maladie prévus à l'article L. 4138-3, pour les affections dont la
-liste est fixée par décret en Conseil d'Etat.
+de congé de maladie ou des droits du congé du blessé prévus aux articles L.
+4138-3 et L. 4138-3-1, pour les affections dont la liste est fixée par décret en
+Conseil d'Etat.
 
 Lorsque l'affection survient du fait ou à l'occasion de l'exercice des fonctions
 ou à la suite de l'une des causes exceptionnelles prévues à l'article L. 27 du

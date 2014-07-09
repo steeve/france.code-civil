@@ -7,18 +7,21 @@ accordée par l'autorité administrative, sous l'une des formes suivantes :
 listes de matériels et autorisant directement tout exportateur établi en France
 remplissant certaines conditions définies par l'autorité administrative à
 expédier ces matériels vers une ou plusieurs catégories de destinataires situés
-dans un Etat non membre de l'Union européenne ;
+dans un Etat non membre de l'Union européenne ainsi que dans les territoires
+exclus du territoire douanier de l'Union européenne ;
 
 2° Des licences globales d'exportation, faisant l'objet d'une notification,
 autorisant, à sa demande, un exportateur établi en France à expédier des
 matériels de guerre et matériels assimilés spécifiques à un ou plusieurs
-destinataires identifiés, situés dans un Etat non membre de l'Union européenne,
-pour une durée déterminée, sans limite de quantité ni de montant ;
+destinataires identifiés, situés dans un Etat non membre de l'Union européenne
+ainsi que dans les territoires exclus du territoire douanier de l'Union
+européenne, pour une durée déterminée, sans limite de quantité ni de montant ;
 
 3° Des licences individuelles d'exportation, faisant l'objet d'une notification,
 autorisant, à sa demande, un exportateur établi en France à expédier, en une ou
 plusieurs fois, un ou plusieurs matériels de guerre et matériels assimilés à un
-destinataire situé dans un Etat non membre de l'Union européenne.
+destinataire situé dans un Etat non membre de l'Union européenne ainsi que dans
+les territoires exclus du territoire douanier de l'Union européenne.
 
 Les licences d'exportation peuvent comporter des conditions ou des restrictions
 concernant l'utilisation finale de ces matériels.

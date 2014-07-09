@@ -2,10 +2,9 @@ Article L2335-17
 ----
 I. ― Pour le contrôle de l'acquisition et de la détention d'armes, de munitions
 et de leurs éléments, le transfert de certaines armes, munitions et leurs
-éléments acquis à titre personnel figurant sur une liste fixée par décret en
-Conseil d'Etat, ainsi que des armes, munitions et leurs éléments non considérés
-comme matériels de guerre figurant sur la même liste, est soumis à une
-autorisation préalable spécifique.
+éléments ne relevant pas de la catégorie A2 mentionnées à l'article L. 2331-1 du
+présent code, figurant sur une liste fixée par décret en Conseil d'Etat, est
+soumis à une autorisation préalable spécifique.
 
 Des dérogations à cette autorisation préalable peuvent être établies par
 l'autorité administrative.

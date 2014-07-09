@@ -2,11 +2,11 @@ Article L218-26
 ----
 Indépendamment des officiers et agents de police judiciaire, qui exercent leurs
 pouvoirs conformément au code de procédure pénale, sont habilités à constater
-les infractions aux dispositions des règles 15, 17, 34 et 36 de l'annexe I, des
+les infractions aux dispositions des règles 15,17,34 et 36 de l'annexe I, des
 règles 13 et 15 de l'annexe II, de la règle 7 de l'annexe III, de la règle 8 de
-l'annexe IV, des règles 3, 4 et 5 de l'annexe V, des règles 12, 13, 14, 16 et 18
-de l'annexe VI et du protocole I de la Convention internationale pour la
-prévention de la pollution par les navires mentionnée à l'article L. 218-10, les
+l'annexe IV, des règles 3,4 et 5 de l'annexe V, des règles 12,13,14,16 et 18 de
+l'annexe VI et du protocole I de la Convention internationale pour la prévention
+de la pollution par les navires mentionnée à l'article L. 218-10, les
 infractions aux dispositions de la présente sous-section ainsi que les
 infractions aux dispositions réglementaires prises pour leur application :
 
@@ -39,7 +39,7 @@ de recherche pour l'exploitation de la mer ;
 
 10° Les agents des douanes ;
 
-11° Les commandants, commandants en second ou commissaires de la marine
-embarqués des bâtiments de la marine nationale ainsi que les chefs de bord des
-aéronefs de la marine nationale et des aéronefs de la défense chargés de la
-surveillance en mer.
+11° Les commandants, commandants en second ou commissaires des armées embarqués
+des bâtiments de la marine nationale ainsi que les chefs de bord des aéronefs de
+la marine nationale et des aéronefs de la défense chargés de la surveillance en
+mer.

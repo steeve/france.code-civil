@@ -5,6 +5,6 @@ relatives notamment à sa durée, aux quantités et à la forme des matières
 nucléaires, aux mesures à prendre pour en connaître la localisation et en
 assurer la protection.
 
-Elle peut être suspendue ou retirée en cas d'infraction aux dispositions du
-présent chapitre et des règlements pris pour son application, ou en raison du
+Elle peut être suspendue ou retirée en cas d'infraction aux dispositions de la
+présente section et des règlements pris pour son application, ou en raison du
 non-respect de ces spécifications.

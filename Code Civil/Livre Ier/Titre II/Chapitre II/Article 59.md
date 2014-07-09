@@ -9,8 +9,8 @@ terre, ou lorsqu'il n'existera pas dans le port, si l'on est à l'étranger,
 d'agent diplomatique ou consulaire français investi des fonctions d'officier de
 l'état civil.
 
-Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par l'officier du
-commissariat de la marine ou, à son défaut, par le commandant ou celui qui en
+Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par le commissaire
+des armées du bâtiment ou, à son défaut, par le commandant ou celui qui en
 remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou
 patron, ou par celui qui en remplit les fonctions.
 

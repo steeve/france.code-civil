@@ -7,7 +7,7 @@ Futuna. Les autres navires ou aéronefs en stationnement dans un port ou un
 aéroport des îles Wallis et Futuna ne peuvent être réquisitionnés que par le
 ministre chargé des transports qui les utilise après consultation préalable du
 ministre de l'outre-mer ; toutefois, en cas de rupture des communications prévu
-par l'article L. 1311-1, le haut fonctionnaire de zone de défense
+par l'article L. 1311-1, le haut fonctionnaire de zone de défense et de sécurité
 territorialement compétent peut, en liaison avec le représentant local du
 ministre chargé des transports, réquisitionner ces moyens, à charge d'en rendre
 compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des

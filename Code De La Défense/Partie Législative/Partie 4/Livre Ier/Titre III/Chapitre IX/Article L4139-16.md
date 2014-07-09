@@ -46,7 +46,8 @@ Officiers de l'air
 63
 
 Commissaires des armées (1), officiers des corps techniques et administratifs,
-ingénieurs militaires des essences, administrateurs des affaires maritimes
+ingénieurs militaires des essences, administrateurs des affaires maritimes,
+officiers spécialistes de l'armée de terre, officiers logisticiens des essences.
 
 62
 
@@ -74,8 +75,7 @@ l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense
 
 Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la
 poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées,
-aumôniers militaires, officiers spécialistes de l'armée de terre, officiers
-logisticiens des essences
+aumôniers militaires
 
 66
 
@@ -93,6 +93,13 @@ de la durée ainsi déterminée.
 Le chef des orchestres de la garde républicaine et le chef adjoint des
 orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus
 en service au-delà de la limite d'âge par périodes de deux ans renouvelables ;
+
+Les officiers du corps technique et administratif de la marine admis d'office,
+le 1er janvier 2016, dans le corps des officiers spécialisés de la marine
+conservent à titre personnel la limite d'âge qui leur était applicable avant
+leur intégration dans ce corps. Lorsqu'ils sont promus au premier grade
+d'officier général, ces officiers conservent l'âge de maintien en première
+section de leur ancien corps d'appartenance.
 
 3° Pour les sous-officiers des armées et des formations rattachées, telles que
 définies par le tableau ci-après :

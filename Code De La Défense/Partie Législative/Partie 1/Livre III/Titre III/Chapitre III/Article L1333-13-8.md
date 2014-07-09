@@ -1,8 +1,8 @@
 Article L1333-13-8
 ----
-Les personnes morales coupables de l'une des infractions prévues à la présente
-sous-section encourent, outre l'amende suivant les modalités prévues par
-l'article 131-38 du même code, les peines suivantes :
+Les personnes morales coupables de l'une des infractions prévues au présent
+paragraphe encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du même code, les peines suivantes :
 
 1° Dans les cas prévus par les articles L. 1333-9 et L. 1333-11, le premier
 alinéa de l'article L. 1333-13-2, les articles L. 1333-13-3 à L. 1333-13-5 et le

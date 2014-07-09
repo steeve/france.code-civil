@@ -1,7 +1,7 @@
 Article L1333-13-7
 ----
-Les personnes physiques coupables de l'une des infractions prévues à la présente
-sous-section encourent les peines complémentaires suivantes :
+Les personnes physiques coupables de l'une des infractions prévues au présent
+paragraphe encourent les peines complémentaires suivantes :
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code
 pénal, des droits civiques, civils et de famille ;
