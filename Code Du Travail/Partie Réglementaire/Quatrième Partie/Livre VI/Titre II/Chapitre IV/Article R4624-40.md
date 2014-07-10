@@ -1,4 +1,4 @@
-Article D4624-40
+Article R4624-40
 ----
 La fiche d'entreprise est tenue à la disposition du directeur régional des
 entreprises, de la concurrence, de la consommation, du travail et de l'emploi et

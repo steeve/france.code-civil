@@ -22,7 +22,7 @@ f) Aux vibrations dans les conditions prévues à l'article R. 4443-2 ;
 
 g) Aux agents biologiques des groupes 3 et 4 ;
 
-h) Aux agents cancérogènes, mutagènes ou toxiques pour la reproduction de
-catégories 1 et 2 ;
+h) Aux agents cancérogènes, mutagènes ou toxiques pour la reproduction
+mentionnés à l'article R. 4412-60 ;
 
 4° Les travailleurs handicapés.
