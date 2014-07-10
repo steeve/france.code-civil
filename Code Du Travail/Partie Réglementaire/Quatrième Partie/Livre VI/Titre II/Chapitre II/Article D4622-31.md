@@ -1,7 +1,8 @@
 Article D4622-31
 ----
 Le comité interentreprises ou la commission de contrôle est consulté sur
-l'organisation et le fonctionnement du service de santé au travail sur :
+l'organisation et le fonctionnement du service de santé au travail, notamment
+sur :
 
 1° Le budget ainsi que l'exécution du budget du service de santé au travail ;
 

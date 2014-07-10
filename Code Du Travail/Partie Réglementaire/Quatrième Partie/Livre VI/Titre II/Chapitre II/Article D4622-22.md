@@ -13,5 +13,7 @@ salariés à suivre et les risques professionnels auxquels ils sont exposés. Ce
 document est établi après avis du ou des médecins du travail intervenant dans
 l'entreprise. Il est ensuite soumis au comité d'entreprise.
 
+Ce document est mis à jour chaque année selon les mêmes modalités.
+
 Il est tenu à disposition du directeur régional des entreprises, de la
 concurrence, de la consommation, du travail et de l'emploi.

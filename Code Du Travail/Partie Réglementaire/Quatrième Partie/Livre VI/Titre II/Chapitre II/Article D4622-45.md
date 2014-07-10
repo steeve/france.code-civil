@@ -3,7 +3,7 @@ Article D4622-45
 Le contrat pluriannuel définit des actions visant à :
 
 1° Mettre en œuvre les priorités d'actions du projet de service pluriannuel
-prévu à l'article L. 4612-14 et faire émerger des bonnes pratiques ;
+prévu à l'article L. 4622-14 et faire émerger des bonnes pratiques ;
 
 2° Améliorer la qualité individuelle et collective de la prévention des risques
 professionnels et des conditions de travail ;
