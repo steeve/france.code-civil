@@ -280,18 +280,12 @@ Tulle.
 
 Antenne de Tulle.
 
-Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Egletons, Eygurande, La
-Roche-Canillac, Lapleau, Mercœur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac,
-Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord,
-Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche.
-
-Maison d'arrêt de Tulle.
+Circonscription judiciaire de Tulle. Maison d'arrêt de Tulle.
 
 
 Antenne de Brive-la-Gaillarde
 
-Circonscription judiciaire de Brive-la-Gaillarde, à l'exception des cantons
-situés dans le ressort de l'antenne de Tulle
+Circonscription judiciaire de Brive-la-Gaillarde.
 
 Antenne d'Uzerche.
 
@@ -481,10 +475,8 @@ Toulouse.
 
 Antenne de Toulouse.
 
-Circonscription judiciaire de Toulouse, à l'exception des cantons situés dans le
-ressort de l'antenne de Saint-Gaudens
-
-Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus).
+Circonscription judiciaire de Toulouse. Centre pénitentiaire de Toulouse-Seysses
+(quartier de semi-liberté inclus).
 
 Antenne de Muret.
 
@@ -492,9 +484,7 @@ Antenne de Muret.
 
 Antenne de Saint-Gaudens.
 
-Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse,
-Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens,
-Saint-Martory et Salies-du-Salat.
+Circonscription judiciaire de Saint-Gaudens.
 
 Service pénitentiaire d'insertion et de probation du Gers.
 
@@ -741,9 +731,7 @@ Angers.
 
 Néant.
 
-Circonscription judiciaire d'Angers.
-
-Maison d'arrêt d'Angers.
+Circonscriptions judiciaires d'Angers et de Saumur. Maison d'arrêt d'Angers.
 
 Service pénitentiaire d'insertion et de probation de la Manche.
 
