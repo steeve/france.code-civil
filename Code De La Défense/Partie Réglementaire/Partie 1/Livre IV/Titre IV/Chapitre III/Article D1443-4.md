@@ -1,8 +1,12 @@
 Article D1443-4
 ----
-Le ministre chargé des transports est l'autorité compétente au sens du 2 de
-l'article 5 du règlement n° 2320/2002 du Parlement européen et du Conseil
-relatif à l'instauration de règles communes, dans le domaine de la sûreté de
-l'aviation civile. A ce titre, il est chargé de coordonner et de contrôler la
-mise en oeuvre du programme national de sûreté de l'aviation civile qui porte en
-particulier sur la sûreté des aérodromes.
+Le ministre chargé de l'aviation civile est l'autorité compétente au sens de
+l'article 9 du règlement (CE) n°300/2008 du Parlement européen et du Conseil du
+11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la
+sûreté de l'aviation civile et abrogeant le règlement (CE) n°2320/2002. A ce
+titre, il représente le Gouvernement dans les instances de concertation
+européenne relatives à la sûreté de l'aviation civile et il est chargé de la
+coordination et de la surveillance de la mise en œuvre des normes de base
+communes visées à l'article 4 de ce règlement. Il est également l'autorité
+compétente au sens du point 3.1.2 de l'annexe 17 à la convention relative à
+l'aviation civile internationale susvisée.
