@@ -15,4 +15,7 @@ dispositions du 2° du I de l'article R. 319-16 ;
 
 3° Soit des travaux de réhabilitation de systèmes d'assainissement non collectif
 par des dispositifs ne consommant pas d'énergie conformes aux dispositions du 3°
-du I de l'article R. 319-16.
+du I de l'article R. 319-16 ;
+
+Le III de l'article R. 319-16 est applicable aux travaux mentionnés au 1° et au
+2°.

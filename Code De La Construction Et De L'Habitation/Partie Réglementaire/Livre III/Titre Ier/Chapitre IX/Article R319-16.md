@@ -46,3 +46,10 @@ l'attribution d'une avance remboursable.
 II. - L'avance mentionnée au VI ter de l'article 244 quater U du code général
 des impôts peut être accordée pour financer des travaux correspondant à au moins
 l'une des catégories mentionnées au 1° du I
+
+III. - Les travaux mentionnés au 1° et au 2° du I et au II sont réalisés par des
+entreprises titulaires, à la date d'émission de l'offre d'avance, d'un signe de
+qualité tel que mentionné au II de l'article 46 AX de l'annexe III au code
+général des impôts. Un arrêté conjoint du ministre chargé de la construction et
+du ministre chargé de l'énergie précise les modalités d'application du présent
+alinéa.
