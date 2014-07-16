@@ -34,8 +34,10 @@ mise en oeuvre du contrat pluriannuel d'établissement. La création, la
 suppression ou le regroupement de composantes sont inscrits dans le contrat
 pluriannuel d'établissement, le cas échéant, par voie d'avenant.
 
+Le président, selon des modalités fixées par les statuts, conduit un dialogue de
+gestion avec les composantes, afin que soient arrêtés leurs objectifs et leurs
+moyens. Ce dialogue de gestion peut prendre la forme d'un contrat d'objectifs et
+de moyens entre l'université et ses composantes.
+
 En outre, les universités peuvent comporter une école supérieure du professorat
-et de l'éducation. Le président, selon des modalités fixées par les statuts,
-conduit un dialogue de gestion avec les composantes, afin que soient arrêtés
-leurs objectifs et leurs moyens. Ce dialogue de gestion peut prendre la forme
-d'un contrat d'objectifs et de moyens entre l'université et ses composantes.
+et de l'éducation.

@@ -28,9 +28,7 @@ Au vu de son avis motivé, le conseil académique ou, pour les établissements q
 n'en disposent pas, le conseil d'administration, siégeant en formation
 restreinte aux enseignants-chercheurs et personnels assimilés de rang au moins
 égal à celui postulé, transmet au ministre compétent le nom du candidat dont il
-propose la nomination ou une liste de candidats classés par ordre de préférence,
-sous réserve de l'absence d'avis défavorable du président tel que prévu à
-l'article L. 712-2.
+propose la nomination ou une liste de candidats classés par ordre de préférence.
 
 Un comité de sélection commun à plusieurs établissements d'enseignement
 supérieur peut être mis en place, notamment dans le cadre des regroupements

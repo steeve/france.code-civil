@@ -45,9 +45,8 @@ pour les formations suivantes :
 pharmaceutiques.
 
 III.-La même procédure comportant une proposition commune des unités de
-formation et de recherche situées, selon le cas, dans la région sanitaire ou
-dans l'interrégion instituée en application de l'article L. 632-7, est
-applicable aux formations suivantes :
+formation et de recherche situées dans la subdivision territoriale mentionnée au
+deuxième alinéa de l'article L. 632-2 est applicable aux formations suivantes :
 
 1° Troisièmes cycles de médecine générale, de médecine spécialisée et de santé
 publique ;

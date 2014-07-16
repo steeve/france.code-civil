@@ -30,7 +30,7 @@ Les conseils des composantes de l'université prévus aux articles L. 713-3 et L
 713-9 comprennent au plus vingt membres répartis dans les conditions fixées par
 ces articles.
 
-Au sein des différents conseils de l'établissement peuvent siéger, au titre des
+Au sein des différents conseils de l'établissement peuvent siéger, outre des
 personnalités désignées par ces conseils à titre personnel, des représentants de
 la Nouvelle-Calédonie, des activités économiques, des organismes et institutions
 scientifiques et culturels ainsi que des enseignants des établissements

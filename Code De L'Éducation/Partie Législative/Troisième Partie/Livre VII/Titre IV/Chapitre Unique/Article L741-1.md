@@ -9,8 +9,16 @@ dérogations fixées par décret en Conseil d'Etat, compte tenu des
 caractéristiques propres à ces établissements.
 
 Ce décret peut prévoir la création d'un conseil académique disposant de tout ou
-partie des compétences prévues aux articles L. 712-6-1 et L. 712-6-2. Lorsqu'un
-conseil académique n'a pas été créé, les compétences mentionnées aux articles L.
-712-6-1, L. 712-6-2, L. 811-5, L. 811-6 et L. 952-6 à L. 952-9 sont exercées par
-les instances de l'établissement prévues par le décret mentionné au premier
-alinéa.
+partie des compétences prévues à l'article L. 712-6-2. Lorsqu'un conseil
+académique n'a pas été créé, les compétences mentionnées aux articles L.
+712-6-2, L. 811-5, L. 811-6 et L. 952-6 à L. 952-9 sont exercées par les
+instances de l'établissement prévues par le décret de création de
+l'établissement.
+
+Le décret de création de l'établissement peut également prévoir que le conseil
+académique dispose de tout ou partie des compétences prévues à l'article L.
+712-6-1.
+
+Lorsqu'un conseil académique n'a pas été créé, les compétences mentionnées à cet
+article sont exercées par les instances de l'établissement prévues par le décret
+de création de l'établissement.

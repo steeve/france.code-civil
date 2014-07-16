@@ -33,7 +33,7 @@ La composition du conseil scientifique est celle fixée par l'article L. 712-5
 pour la commission de la recherche et la composition du conseil des études et de
 la vie universitaire est celle fixée par l'article L. 712-6 pour la commission
 de la formation et de la vie universitaire. Lorsqu'un conseil académique n'a pas
-été créé, le conseil scientifique et le conseil des études et de la vie
-universitaire exercent les fonctions consultatives confiées au conseil
-académique par l'article L. 712-6-1 et le conseil d'administration exerce les
-fonctions décisionnelles prévues à ce même article.
+été créé, le conseil scientifique et le conseil des études exercent les
+fonctions consultatives confiées au conseil académique par l'article L. 712-6-1
+et le conseil d'administration exerce les fonctions décisionnelles prévues à ce
+même article.
