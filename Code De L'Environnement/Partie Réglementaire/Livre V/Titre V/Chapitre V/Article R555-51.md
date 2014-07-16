@@ -8,8 +8,8 @@ la direction régionale et interdépartementale de l'environnement et de l'éner
 d'Ile-de-France.
 
 Les agents chargés de l'instruction des dossiers et du contrôle sont les
-inspecteurs des installations classées mentionnés au 1° du I de l'article R.
-514-2 ou au II du même article ou à l'article R. 514-3.
+inspecteurs de l'environnement disposant des attributions mentionnées au 2° du
+II de l'article L. 172-1.
 
 Toutefois, le contrôle technique de l'exploitation des ouvrages relevant du
 ministre de la défense ou dont l'intérêt pour la défense nationale est reconnu

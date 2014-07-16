@@ -10,5 +10,5 @@ munitions.
 
 Dans l'exercice de leurs fonctions, les agents de l'Office national de la chasse
 et de la faune sauvage mentionnés au deuxième alinéa de l'article R. 421-18 sont
-tenus au port de signes distinctifs, notamment d'un uniforme défini par un
-arrêté du ministre chargé de la protection de la nature.
+tenus au port de signes distinctifs dans les conditions définies par arrêté du
+ministre chargé de la protection de la nature.

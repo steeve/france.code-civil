@@ -8,8 +8,9 @@ communique copie au ministre chargé de l'environnement. Ce rapport précise la
 quantité d'émission de gaz à effet de serre excédentaire par rapport au nombre
 de quotas restitués.
 
-Sur le fondement de ce rapport, l'inspecteur des installations classées, dresse,
-le cas échéant, un procès-verbal de manquement.
+Sur le fondement de ce rapport, l'inspecteur de l'environnement disposant des
+attributions mentionnées au 2° du II de l'article L. 172-1, dresse, le cas
+échéant, un procès-verbal de manquement.
 
 Pour les équipements et installations mentionnés au premier alinéa de l'article
 L. 593-3, le procès-verbal de manquement mentionné au deuxième alinéa du présent

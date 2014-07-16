@@ -1,9 +1,10 @@
 Article R516-4
 ----
 Le manquement à l'obligation de garantie est constaté par un procès-verbal
-établi par un inspecteur des installations classées ou un expert nommé par le
-ministre chargé des installations classées en application de l'article L. 514-1.
-Copie du procès-verbal est remise à l'exploitant de l'installation.
+établi par un inspecteur de l'environnement disposant des attributions
+mentionnées au 2° du II de l'article L. 172-1 ou un expert nommé par le ministre
+chargé des installations classées en application de l'article L. 514-1. Copie du
+procès-verbal est remise à l'exploitant de l'installation.
 
 Ce dernier a accès au dossier et est mis à même de présenter ses observations
 écrites dans un délai d'un mois sur la sanction envisagée par le ministre. Il
