@@ -2,13 +2,13 @@ Article L781-6
 ----
 Ne sont pas applicables à l'université des Antilles et de la Guyane :
 
-1° Le premier alinéa de l'article L. 712-6-1 ;
+1° La deuxième phrase du troisième alinéa et le quatrième alinéa de l'article L.
+712-4 ;
 
 2° A l'article L. 719-1 :
 
-a) S'agissant des enseignants-chercheurs et personnels assimilés, enseignants et
-chercheurs en exercice dans l'université, la deuxième phrase du premier alinéa
-et les trois dernières phrases du cinquième alinéa ;
+a) S'agissant des enseignants-chercheurs et personnels assimilés en exercice
+dans l'université, la deuxième phrase du premier alinéa et les deuxième et
+troisième phrases du cinquième alinéa ;
 
-b) S'agissant de l'élection des représentants des étudiants et des personnes
-bénéficiant de la formation continue, la première phrase du sixième alinéa.
+b) Le huitième alinéa.

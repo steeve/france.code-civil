@@ -1,6 +1,18 @@
 Article L781-1
 ----
-I.-Par dérogation aux dispositions du I de l'article L. 712-3, le conseil
+I.-Par dérogation aux dispositions de l'article L. 712-1, le président de
+l'université par ses décisions, le conseil d'administration par ses
+délibérations, le conseil académique par ses délibérations et avis, et les
+conseils des pôles universitaires régionaux, par leurs délibérations et avis,
+assurent l'administration de l'université des Antilles et de la Guyane.
+
+II.-Par dérogation aux dispositions du premier alinéa de l'article L. 712-2, le
+président de l'université est élu pour une durée de cinq ans. Son mandat n'est
+pas renouvelable. Outre les fonctions prévues au troisième alinéa de l'article
+L. 712-2, le président ne peut exercer celles de vice-président de pôle
+universitaire régional.
+
+III.-Par dérogation aux dispositions du I de l'article L. 712-3, le conseil
 d'administration de l'université des Antilles et de la Guyane comprend
 quarante-deux membres ainsi répartis :
 
@@ -19,7 +31,10 @@ des bibliothèques, en exercice dans l'établissement.
 Le nombre de membres du conseil est augmenté d'une unité lorsque le président
 est choisi hors du conseil d'administration.
 
-II.-Par dérogation aux dispositions des 1° à 3° du II de l'article L. 712-3, les
+Les membres du conseil d'administration sont élus ou désignés pour cinq ans, à
+l'exception des représentants des étudiants qui sont élus pour trente mois.
+
+IV.-Par dérogation aux dispositions des 1° à 3° du II de l'article L. 712-3, les
 personnalités extérieures comprennent :
 
 1° Au moins un chef d'entreprise ou cadre dirigeant d'entreprise au titre de
