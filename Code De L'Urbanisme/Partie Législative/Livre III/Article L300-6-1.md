@@ -7,20 +7,36 @@ directeur de la région d'Ile-de-France, du plan d'aménagement et de
 développement durable de Corse, d'un schéma d'aménagement régional, d'un schéma
 de cohérence territoriale, d'un plan local d'urbanisme ou d'un document en
 tenant lieu, cette mise en compatibilité peut être réalisée dans le cadre de la
-procédure intégrée pour le logement définie au présent article.
+procédure intégrée pour le logement définie au présent article. L'opération
+d'aménagement ou la construction bénéficiant de la procédure intégrée pour le
+logement doit concourir, à l'échelle de la commune, à la mixité sociale dans
+l'habitat dans le respect de la diversité des fonctions urbaines, conformément
+aux dispositions de l'article L. 121-1. Elle peut relever d'un maître d'ouvrage
+public ou privé. Les unités urbaines sont celles mentionnées au III de l'article
+L. 5210-1-1 du code général des collectivités territoriales.
 
-L'opération d'aménagement ou la construction bénéficiant de la procédure
-intégrée pour le logement doit concourir, à l'échelle de la commune, à la mixité
-sociale dans l'habitat dans le respect de la diversité des fonctions urbaines,
-conformément aux dispositions de l'article L. 121-1. Elle peut relever d'un
-maître d'ouvrage public ou privé. Les unités urbaines sont celles mentionnées au
-III de l'article L. 5210-1-1 du code général des collectivités territoriales.
+I bis.-Lorsque la réalisation d'un projet immobilier de création ou d'extension
+de locaux d'activités économiques, présentant un caractère d'intérêt général en
+raison de son intérêt majeur pour l'activité économique locale ou nationale et
+au regard de l'objectif de développement durable, nécessite la mise en
+compatibilité du schéma directeur de la région d'Ile-de-France, du plan
+d'aménagement et de développement durable de Corse, d'un schéma d'aménagement
+régional, d'un schéma de cohérence territoriale, d'un plan local d'urbanisme ou
+d'un document en tenant lieu, cette mise en compatibilité peut être réalisée
+dans le cadre de la procédure intégrée pour l'immobilier d'entreprise définie au
+présent article.
 
-II. ― L'engagement de la procédure intégrée pour le logement peut être décidé
-soit par l'Etat ou ses établissements publics, soit par les collectivités
-territoriales ou leurs groupements compétents pour élaborer les documents
-d'urbanisme à mettre en compatibilité ou compétents pour autoriser ou réaliser
-l'opération d'aménagement ou de construction.
+L'intérêt économique majeur d'un projet s'apprécie compte tenu du caractère
+stratégique de l'activité concernée, de la valeur ajoutée qu'il produit, de la
+création ou de la préservation d'emplois qu'il permet ou du développement du
+territoire qu'il rend possible.
+
+II. ― L'engagement de la procédure intégrée pour le logement ou de la procédure
+intégrée pour l'immobilier d'entreprise peut être décidé soit par l'Etat ou ses
+établissements publics, soit par les collectivités territoriales ou leurs
+groupements compétents pour élaborer les documents d'urbanisme à mettre en
+compatibilité ou compétents pour autoriser ou réaliser l'opération d'aménagement
+ou de construction.
 
 III. ― Lorsque la mise en compatibilité porte sur un schéma de cohérence
 territoriale, un plan local d'urbanisme ou un document en tenant lieu ou sur le
@@ -36,21 +52,22 @@ dispositions du présent article.
 
 Pour la mise en œuvre des dispositions mentionnées aux deux alinéas précédents,
 l'opération d'aménagement ou la construction objet de la procédure intégrée pour
-le logement constitue le projet de la personne publique engageant cette
-procédure.
+le logement ou de la procédure intégrée pour l'immobilier d'entreprise constitue
+le projet de la personne publique engageant cette procédure.
 
-Lorsque la mise en compatibilité de plusieurs documents mentionnés au I du
-présent article est nécessaire, les procédures de mise en compatibilité
+Lorsque la mise en compatibilité de plusieurs documents mentionnés au I ou au I
+bis du présent article est nécessaire, les procédures de mise en compatibilité
 applicables à chacun de ces documents peuvent être menées conjointement.
 
-Lorsqu'une procédure intégrée pour le logement est engagée, les dispositions du
-document d'urbanisme dont la mise en compatibilité est requise ne peuvent faire
-l'objet d'une modification ou d'une révision entre l'ouverture de l'enquête
-publique organisée dans le cadre de la procédure intégrée et la décision
-procédant à la mise en compatibilité.
+Lorsqu'une procédure intégrée pour le logement ou une procédure intégrée pour
+l'immobilier d'entreprise est engagée, les dispositions du document d'urbanisme
+dont la mise en compatibilité est requise ne peuvent faire l'objet d'une
+modification ou d'une révision entre l'ouverture de l'enquête publique organisée
+dans le cadre de la procédure intégrée et la décision procédant à la mise en
+compatibilité.
 
-IV. ― Lorsque la mise en compatibilité des documents mentionnés au I impose
-l'adaptation :
+IV. ― Lorsque la mise en compatibilité des documents mentionnés au I et au I bis
+impose l'adaptation :
 
 ― d'une directive territoriale d'aménagement ;
 
@@ -93,11 +110,12 @@ zones concernées. Elles ne peuvent pas modifier la vocation de l'ensemble de la
 zone où se situe le projet mais seulement prévoir des exceptions ponctuelles et
 d'ampleur limitée à cette vocation.
 
-Lorsque la procédure intégrée pour le logement conduit à l'adaptation d'un plan
-de prévention des risques d'inondation, le projet d'aménagement ou de
-construction prévoit les mesures de prévention, de protection et de sauvegarde
-nécessaires pour assurer la sécurité des personnes et des biens ; il ne peut
-aggraver les risques considérés.
+Lorsque la procédure intégrée pour le logement ou la procédure intégrée pour
+l'immobilier d'entreprise conduit à l'adaptation d'un plan de prévention des
+risques d'inondation, le projet d'aménagement ou de construction prévoit les
+mesures de prévention, de protection et de sauvegarde nécessaires pour assurer
+la sécurité des personnes et des biens ; il ne peut aggraver les risques
+considérés.
 
 Les adaptations proposées sont présentées par l'Etat dans le cadre des
 procédures prévues, selon le cas, aux articles L. 122-16-1, L. 123-14-2 ou L.
@@ -129,9 +147,10 @@ d'Etat, par décret en Conseil d'Etat.
 
 Les documents mentionnés au présent IV ne peuvent faire l'objet d'une
 modification ou d'une révision portant sur les dispositions dont l'adaptation
-est requise dans le cadre de la procédure intégrée pour le logement entre
-l'ouverture de l'enquête publique organisée dans le cadre de la procédure
-intégrée et la décision procédant à l'adaptation des documents.
+est requise dans le cadre de la procédure intégrée pour le logement ou de la
+procédure intégrée pour l'immobilier d'entreprise entre l'ouverture de l'enquête
+publique organisée dans le cadre de la procédure intégrée et la décision
+procédant à l'adaptation des documents.
 
 V. ― Les dispositions de mise en compatibilité et d'adaptation des documents
 mentionnés au présent article font l'objet d'une évaluation environnementale
@@ -141,10 +160,11 @@ l'environnement.
 
 VI. ― Lorsque le projet d'opération d'aménagement ou de construction est
 suffisamment précis à la date de la décision d'engagement de la procédure
-intégrée pour le logement, les pièces nécessaires à la délivrance des
-autorisations requises pour sa réalisation peuvent être transmises dès cette
-date par l'autorité ayant décidé l'engagement de la procédure pour instruction
-aux autorités compétentes pour délivrer ces autorisations.
+intégrée pour le logement ou de la procédure intégrée pour l'immobilier
+d'entreprise, les pièces nécessaires à la délivrance des autorisations requises
+pour sa réalisation peuvent être transmises dès cette date par l'autorité ayant
+décidé l'engagement de la procédure pour instruction aux autorités compétentes
+pour délivrer ces autorisations.
 
 Un décret en Conseil d'Etat précise dans ce cas les pièces nécessaires aux
 autorités compétentes et les délais dont elles disposent pour se prononcer sur

@@ -37,5 +37,6 @@ schéma sont éventuellement modifiées pour tenir compte des avis qui ont été
 joints au dossier et du résultat de l'enquête.
 
 La mise en compatibilité effectuée dans le cadre de la procédure intégrée pour
-le logement est approuvée par l'autorité administrative et, en cas de désaccord
-de la région, par décret en Conseil d'Etat.
+le logement ou de la procédure intégrée pour l'immobilier d'entreprise est
+approuvée par l'autorité administrative et, en cas de désaccord de la région,
+par décret en Conseil d'Etat.

@@ -68,7 +68,8 @@ de coopération intercommunale ou, dans le cas prévu au deuxième alinéa de
 l'article L. 123-6, par la commune, dans les autres cas.
 
 4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le
-logement mentionnée à l'article L. 300-6-1 :
+logement ou de la procédure intégrée pour l'immobilier d'entreprise mentionnées
+à l'article L. 300-6-1 :
 
 a) Lorsque celle-ci est engagée par l'Etat ;
 
