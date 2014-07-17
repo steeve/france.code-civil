@@ -11,17 +11,17 @@ est remplacé par un suppléant de la liste au titre de laquelle il a été élu
 suppléant est lui-même remplacé par le premier candidat restant non élu de la
 même liste. Lorsque, faute d'un nombre suffisant de candidats, l'organisation
 syndicale se trouve dans l'impossibilité de pourvoir à ce remplacement, elle
-désigne le représentant parmi les agents éligibles composant le collège
-mentionné à l'article R. 6144-53 ;
+désigne le représentant parmi les agents éligibles en application des
+dispositions de l'article R. 6144-53 ;
 
 2° Lorsque l'élection a eu lieu sur sigle, le représentant titulaire est
 remplacé par un suppléant désigné à l'issue du scrutin, par l'organisation
-syndicale qui avait obtenu le siège, parmi les agents éligibles du collège
-considéré. Le suppléant est remplacé dans les mêmes conditions. Il en est de
-même lorsqu'il est mis fin au mandat d'un représentant titulaire ou suppléant,
-sur demande écrite de l'organisation syndicale détentrice du siège. En ce cas,
-la cessation de fonction devient effective un mois après la réception de cette
-demande par le directeur de l'établissement.
+syndicale qui avait obtenu le siège, parmi les agents éligibles. Le suppléant
+est remplacé dans les mêmes conditions. Il en est de même lorsqu'il est mis fin
+au mandat d'un représentant titulaire ou suppléant, sur demande écrite de
+l'organisation syndicale détentrice du siège. En ce cas, la cessation de
+fonction devient effective un mois après la réception de cette demande par le
+directeur de l'établissement.
 
 Le mandat des représentants titulaires ou suppléants désignés dans les
 conditions prévues par le présent article prend fin à la date à laquelle aurait

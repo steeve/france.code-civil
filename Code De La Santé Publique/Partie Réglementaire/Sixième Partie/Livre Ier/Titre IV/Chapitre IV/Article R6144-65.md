@@ -12,12 +12,17 @@ contresignés par les membres du bureau avec indication, pour chacun, des causes
 d'annulation et de la décision prise. Ces documents sont conservés par le
 directeur de l'établissement.
 
-Le président du bureau de vote communique, dans les vingt-quatre heures suivant
-le scrutin, les procès-verbaux des élections à chaque organisation syndicale
-ayant présenté sa candidature ainsi qu'au préfet du département et au directeur
-général de l'agence régionale de santé. Ce dernier s'assure de la concordance
-entre les procès-verbaux et les résultats transmis et agrège, au niveau régional
-et par syndicat, les résultats transmis par chaque établissement.
+En présence des membres du bureau de vote, son président enregistre les
+résultats des élections et télécharge le procès-verbal signé par chacun des
+membres du bureau sur la plate-forme de saisie automatisée des résultats mise à
+disposition par le ministre chargé de la santé. Le président du bureau de vote
+communique, dans les vingt-quatre heures suivant le scrutin, les procès-verbaux
+des élections à chaque organisation syndicale ayant présenté sa candidature
+ainsi qu'au directeur général de l'agence régionale de santé. Ce dernier vérifie
+la concordance entre les procès-verbaux et les résultats enregistrés par les
+présidents des bureaux de vote sur la plate-forme de saisie automatisée des
+résultats. Cette opération entraîne l'agrégation automatisée des résultats ainsi
+que leur transmission au ministre chargé de la santé.
 
 Le directeur général de l'agence régionale de santé communique dans un délai de
 quarante-huit heures les résultats régionaux au ministre chargé de la santé.

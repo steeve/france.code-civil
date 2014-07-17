@@ -8,6 +8,12 @@ obligations des fonctionnaires.
 Elles sont déposées auprès de la direction de l'établissement au moins
 quarante-deux jours avant la date fixée pour les élections.
 
+L'administration affiche dès que possible, après la date limite de dépôt des
+candidatures, la liste des organisations syndicales ayant légalement déposé une
+candidature de liste ou de sigle. Ces candidatures sont tenues à disposition des
+organisations syndicales et des électeurs dans un lieu déterminé par le
+directeur d'établissement.
+
 Lorsque l'administration constate que l'organisation syndicale ne satisfait pas
 aux conditions fixées à l'article 9 bis de la loi du 13 juillet 1983
 susmentionnée, elle informe le délégué de liste par décision motivée et au plus

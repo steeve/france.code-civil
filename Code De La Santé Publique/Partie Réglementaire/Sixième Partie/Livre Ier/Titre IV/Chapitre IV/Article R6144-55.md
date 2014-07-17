@@ -10,8 +10,10 @@ au terme de ce délai, le directeur raye de la liste les candidats inéligibles.
 Cette liste peut néanmoins participer aux élections si elle satisfait toujours
 aux conditions fixées au II de l'article R. 6144-54.
 
-Les listes établies dans les conditions prévues à l'alinéa précédent sont
-aussitôt affichées dans l'établissement.
+Les candidatures sur liste ou sigle établies dans les conditions prévues par les
+articles R. 6144-53-2, R. 6144-54 ainsi que par l'alinéa précédent sont
+affichées dans l'établissement dès que possible et au plus tard à l'expiration
+des délais mentionnés à l'article R. 6144-53-2.
 
 Toutefois, si le fait motivant l'inéligibilité d'un candidat est intervenu après
 la date limite prévue pour le dépôt des listes, ce candidat peut être remplacé

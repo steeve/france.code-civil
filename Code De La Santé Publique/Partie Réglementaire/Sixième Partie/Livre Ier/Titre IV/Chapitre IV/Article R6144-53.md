@@ -1,8 +1,7 @@
 Article R6144-53
 ----
-Sont éligibles au titre d'un collège déterminé les personnels inscrits sur la
-liste électorale de ce collège et qui, à la date du scrutin, sont en fonctions
-depuis au moins trois mois dans l'établissement.
+Sont éligibles les personnels inscrits sur la liste électorale et qui, à la date
+du scrutin, sont en fonctions depuis au moins trois mois dans l'établissement.
 
 Toutefois, ne peuvent être élus :
 

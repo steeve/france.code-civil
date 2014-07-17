@@ -12,5 +12,4 @@ dans les conditions prévues à l'article R. 6144-65 ;
 par chaque candidature.
 
 Il détermine en outre le quotient électoral en divisant le nombre de suffrages
-valablement exprimés par le nombre de représentants titulaires à élire dans
-chaque collège.
+valablement exprimés par le nombre de représentants titulaires à élire.
