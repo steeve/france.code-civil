@@ -78,7 +78,7 @@ Département du Val-de-Marne
 Ablon-sur-Seine, Alfortville, Arcueil, Boissy-Saint-Léger, Bonneuil-sur-Marne,
 Bry-sur-Marne, Cachan, Champigny-sur-Marne, Charenton-le-Pont,
 Chennevières-sur-Marne, Chevilly-Larue, Choisy-le-Roi, Créteil,
-Fontenay-sous-Bois, Fresnes, Gentilly, L'Hay¨-les-Roses, Ivry-sur-Seine,
+Fontenay-sous-Bois, Fresnes, Gentilly, L'Hay ¨-les-Roses, Ivry-sur-Seine,
 Joinville-le-Pont, Le Kremlin-Bicêtre, Limeil-Brévannes, Maisons-Alfort,
 Mandres-les-Roses, Marolles-en-Brie, Nogent-sur-Marne, Noiseau, Orly,
 Ormesson-sur-Marne, Périgny, Le Perreux-sur-Marne, Le Plessis-Trévise, La
