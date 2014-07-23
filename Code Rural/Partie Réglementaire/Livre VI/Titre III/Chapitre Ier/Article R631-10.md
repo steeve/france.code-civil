@@ -45,14 +45,24 @@ A chaque enlèvement de marchandise, la quantité collectée est notifiée par
 l'acheteur au producteur sous la forme d'un bon de livraison ;
 
 4° Les modalités de détermination du prix du lait, conformes aux dispositions
-des articles L. 654-30 et D. 654-29 à D. 654-31 ainsi que, le cas échéant, aux
-dispositions de l'article L. 441-6 du code de commerce.
+des articles L. 654-30 , D. 654-29 et D. 654-32 à D. 654-35 ainsi que, le cas
+échéant, aux dispositions de l'article L. 441-6 du code de commerce.
 
 Le contrat fixe les critères et les références pris en compte pour la
 détermination du prix de base du lait. Il peut faire référence aux dispositions
 de l'article L. 632-14 du présent code, ou à tout autre indicateur ou référence
-pertinent, sous réserve que les modalités de détermination du prix fassent
-l'objet d'une description détaillée.
+pertinent, y compris relatif à l'évolution des coûts de production du lait cru,
+sous réserve que les modalités de détermination du prix fassent l'objet d'une
+description détaillée.
+
+Le contrat prévoit les cas dans lesquels les modalités de détermination du prix,
+telles que prévues conformément à l'alinéa précédent, ne peuvent être appliquées
+par l'une ou l'autre des parties pendant une période déterminée, les conditions
+de déclenchement et les modalités spécifiques de détermination du prix du lait
+applicables dans ces cas. La partie qui envisage d'activer cette clause
+spécifique en informe préalablement l'autre partie au contrat. Lorsque cette
+clause est mise en œuvre, elle fait l'objet d'une évaluation au terme de sa
+période d'activation, dans des conditions définies par le contrat.
 
 Le contrat précise également les modalités selon lesquelles ce prix prend en
 compte les caractéristiques particulières du lait ou de l'exploitation.
@@ -81,5 +91,7 @@ Toute modification du contrat est faite par avenant écrit et signé des deux
 parties en respectant les préavis définis dans le contrat ;
 
 7° Les modalités de résiliation du contrat par l'une ou l'autre des parties, et
-notamment la durée du préavis de rupture qui ne peut être inférieure à douze
-mois, sans préjudice, le cas échéant, des dispositions de l'article R. 522-8.
+notamment la durée du préavis de rupture, sans préjudice, le cas échéant, des
+dispositions de l'article R. 522-8 ;
+
+8° Les règles applicables en cas de force majeure.
