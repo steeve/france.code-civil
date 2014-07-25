@@ -17,5 +17,5 @@ au I lui soit remise sur le lieu de vente.
 
 III.-Lorsque le prêteur offre à l'emprunteur ou exige de lui la souscription
 d'une assurance, le prêteur ou l'intermédiaire de crédit informe l'emprunteur du
-coût standard de l'assurance, à l'aide d'un exemple chiffré exprimé en euros et
-par mois.
+coût de l'assurance en portant à sa connaissance les éléments mentionnés à
+l'article L. 311-4-1.
