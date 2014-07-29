@@ -54,6 +54,8 @@ I. ― Universités :
 
 24° Grenoble-III ;
 
+24-1° La Guyane ;
+
 25° La Réunion ;
 
 26° La Rochelle ;
