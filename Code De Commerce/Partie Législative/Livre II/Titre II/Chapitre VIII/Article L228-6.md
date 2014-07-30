@@ -1,18 +1,16 @@
 Article L228-6
 ----
-Nonobstant toutes stipulations statutaires contraires, les sociétés qui ont
-effectué soit des échanges de titres consécutifs à une opération de fusion ou de
-scission, de réduction de capital, de regroupement ou de division et de
-conversion obligatoire de titres au porteur en titres nominatifs, soit des
-distributions de titres imputées sur les réserves ou liées à une réduction de
-capital, soit des distributions ou attributions d'actions gratuites peuvent, sur
-simple décision du conseil d'administration, du directoire ou des gérants,
-vendre selon des modalités fixées par décret en Conseil d'Etat les titres dont
-les ayants droit n'ont pas demandé la délivrance, à la condition d'avoir
-procédé, deux ans au moins à l'avance, à une publicité selon des modalités
-fixées par ledit décret.
+Nonobstant toutes stipulations statutaires contraires, les sociétés dont les
+titres ne sont pas admis aux négociations sur un marché réglementé ou aux
+opérations d'un dépositaire central et qui ont effectué des opérations se
+traduisant soit par des échanges de titres, soit par l'attribution aux
+actionnaires de nouveaux titres de capital, peuvent vendre, sur simple décision
+du conseil d'administration, du directoire ou des gérants et selon des modalités
+fixées par décret en Conseil d'Etat, les titres de capital qui n'ont pu être
+attribués individuellement et correspondant à des droits formant rompus, à la
+condition d'avoir procédé un an au moins à l'avance à une publicité selon des
+modalités fixées par ce décret.
 
-A dater de cette vente, les titres anciens ou les anciens droits aux
-distributions ou attributions sont, en tant que de besoin, annulés et leurs
-titulaires ne peuvent plus prétendre qu'à la répartition en numéraire du produit
-net de la vente des titres non réclamés.
+A dater de cette vente, les titulaires de droits formant rompus ne peuvent plus
+prétendre qu'à la répartition en numéraire du produit net de la vente des titres
+de capital non attribués.
