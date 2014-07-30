@@ -8,6 +8,13 @@ suppression, peut être décidée au cours de l'existence de la société.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du premier alinéa.
 
+Les sociétaires ou leurs délégués élisent en leur sein, au suffrage direct ou
+indirect, les administrateurs et les membres du conseil de surveillance, à
+l'exception de ceux qui sont élus par les salariés. Tout élu ou agent public
+peut siéger au conseil d'administration ou de surveillance d'une société
+d'assurance mutuelle en tant que représentant d'une personne morale de droit
+public elle-même sociétaire.
+
 Le conseil d'administration ou le conseil de surveillance comprend, outre les
 administrateurs et les membres du conseil de surveillance dont le nombre et le
 mode de désignation sont prévus par le présent code, un ou plusieurs

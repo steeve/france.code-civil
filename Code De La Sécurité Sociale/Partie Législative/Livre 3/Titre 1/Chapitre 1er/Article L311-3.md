@@ -59,9 +59,9 @@ gérant sont considérées comme possédées par ce dernier ;
 directeurs généraux délégués des sociétés anonymes et des sociétés d'exercice
 libéral à forme anonyme ;
 
-13°) les membres des sociétés coopératives ouvrières de production ainsi que les
-gérants, les directeurs généraux, les présidents du conseil d'administration et
-les membres du directoire des mêmes coopératives lorsqu'ils perçoivent une
+13°) les membres des sociétés coopératives de production ainsi que les gérants,
+les directeurs généraux, les présidents du conseil d'administration et les
+membres du directoire des mêmes coopératives lorsqu'ils perçoivent une
 rémunération au titre de leurs fonctions et qu'ils n'occupent pas d'emploi
 salarié dans la même société ;
 
@@ -155,4 +155,7 @@ titre de leur activité d'arbitre ou de juge ;
 L. 512-61 à L. 512-67 du code monétaire et financier ;
 
 31° Les salariés au titre des sommes ou avantages mentionnés au premier alinéa
-de l'article L. 242-1-4.
+de l'article L. 242-1-4 ;
+
+32° Les entrepreneurs salariés et les entrepreneurs salariés associés mentionnés
+aux articles L. 7331-2 et L. 7331-3 du code du travail.

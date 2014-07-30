@@ -19,10 +19,9 @@ du travail.
 Les titres acquis par les salariés dans le cadre d'une opération de rachat d'une
 entreprise par ses salariés prévue par la loi n° 84-578 du 9 juillet 1984 sur le
 développement de l'initiative économique ainsi que par les salariés d'une
-société coopérative ouvrière de production au sens de la loi n° 78-763 du 19
-juillet 1978 portant statut de sociétés coopératives ouvrières de production ne
-sont pas pris en compte pour l'évaluation de la proportion du capital prévue à
-l'alinéa précédent.
+société coopérative de production au sens de la loi n° 78-763 du 19 juillet 1978
+portant statut de sociétés coopératives de production ne sont pas pris en compte
+pour l'évaluation de la proportion du capital prévue à l'alinéa précédent.
 
 Lorsque le rapport annuel ne comprend pas les mentions prévues au premier
 alinéa, toute personne intéressée peut demander au président du tribunal

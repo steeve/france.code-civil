@@ -8,6 +8,11 @@ leurs droits et obligations réciproques.
 
 Les statuts et règlements précisent les modalités de modification du contrat.
 
+Pour les opérations collectives mentionnées au III de l'article L. 221-2, avant
+la signature du bulletin d'adhésion ou la souscription du contrat, la mutuelle
+ou l'union remet obligatoirement à la personne morale souscriptrice la
+proposition de bulletin d'adhésion ou de contrat.
+
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles est
 constatée la remise de ces documents, ainsi que le délai qui doit s'être écoulé
 entre la remise de ces documents et la signature du bulletin d'adhésion.

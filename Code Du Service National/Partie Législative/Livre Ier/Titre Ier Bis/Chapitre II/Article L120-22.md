@@ -1,8 +1,8 @@
 Article L120-22
 ----
-La personne volontaire accomplissant un contrat de service civique en France
-peut bénéficier de titres-repas pour lui permettre d'acquitter en tout ou partie
-le prix de repas consommés au restaurant ou préparés par un restaurateur.
+La personne volontaire accomplissant un contrat en France peut bénéficier de
+titres-repas pour lui permettre d'acquitter en tout ou partie le prix de repas
+consommés au restaurant ou préparés par un restaurateur.
 
 La personne morale agréée en vertu de l'article L. 120-30 autre que l'Etat
 contribue à l'acquisition des titres-repas du volontaire à concurrence de leur

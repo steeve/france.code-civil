@@ -1,10 +1,11 @@
 Article L213-14
 ----
-Les contrats d'émission d'obligations conclus par les associations dans les
-conditions prévues par la présente sous-section ne peuvent en aucun cas avoir
-pour but la distribution de bénéfices par l'association émettrice à ses
-sociétaires, aux personnes qui lui sont liées par un contrat de travail, à ses
-dirigeants de droit ou de fait ou à toute autre personne.
+Les obligations émises par les associations dans les conditions prévues à la
+présente sous-section ne peuvent être détenues, directement ou indirectement,
+par leurs dirigeants de droit ou de fait. Elles ont pour but de répondre à des
+besoins de développement et de financement et non de distribuer à leurs
+souscripteurs des excédents de gestion constitués par les associations
+émettrices.
 
-Les contrats conclus en violation des dispositions de l'alinéa précédent sont
-frappés de nullité absolue.
+Les souscriptions et transferts d'obligations intervenus en violation du premier
+alinéa sont frappés de nullité absolue.

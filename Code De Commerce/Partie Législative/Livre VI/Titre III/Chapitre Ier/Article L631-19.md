@@ -6,10 +6,12 @@ redressement, sous réserve des dispositions qui suivent.
 
 Il incombe à l'administrateur, avec le concours du débiteur, d'élaborer le
 projet de plan et, le cas échéant, de présenter aux comités de créanciers les
-propositions prévues au premier alinéa de l'article L. 626-30-2. Les comités se
-prononcent sur chacune des propositions faites. Pour l'application du premier
-alinéa de l'article L. 626-8, l'information et la consultation portent sur les
-mesures qui sont soumises au vote des comités de créanciers.
+propositions prévues au premier alinéa de l'article L. 626-30-2. Pour
+l'application de l'article L. 626-2-1, la consultation est faite par
+l'administrateur, lorsqu'il en a été désigné un. Les comités se prononcent sur
+chacune des propositions faites. Pour l'application du premier alinéa de
+l'article L. 626-8, l'information et la consultation portent sur les mesures qui
+sont soumises au vote des comités de créanciers.
 
 Lorsqu'une ou plusieurs personnes autres que les associés ou actionnaires
 s'engagent à exécuter le plan de redressement, sous la condition d'une

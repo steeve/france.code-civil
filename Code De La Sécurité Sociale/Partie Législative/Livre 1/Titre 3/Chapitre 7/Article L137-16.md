@@ -24,6 +24,12 @@ Caisse nationale d'assurance vieillesse
 
 Fonds mentionné à l'article L. 135-1
 
+Dont section mentionnée à l'article L. 135-3-1
+
 4 points
 
+0,5 point
+
 1,6 point
+
+0,5 point

@@ -7,9 +7,11 @@ habilités à constater, au moyen de procès-verbaux sur l'ensemble du territoir
 national les pratiques commerciales trompeuses. Ils peuvent exiger du
 responsable d'une pratique commerciale la mise à leur disposition ou la
 communication de tous les éléments propres à justifier les allégations,
-indications ou présentations inhérentes à cette pratique. Ils peuvent également
-exiger de l'annonceur, de l'agence de publicité ou du responsable du support la
-mise à leur disposition des messages publicitaires diffusés.
+indications ou présentations inhérentes à cette pratique, y compris lorsque ces
+éléments sont détenus par un fabricant implanté hors du territoire national. Ils
+peuvent également exiger de l'annonceur, de l'agence de publicité ou du
+responsable du support la mise à leur disposition des messages publicitaires
+diffusés.
 
 Les procès-verbaux sur l'ensemble du territoire national dressés en application
 du présent article sont transmis au procureur de la République.

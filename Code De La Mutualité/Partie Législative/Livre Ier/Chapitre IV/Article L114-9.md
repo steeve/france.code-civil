@@ -16,9 +16,11 @@ montant ne peut varier que dans des limites fixées par décret ; en tout état 
 cause, il est fixé une fois par an et est le même pour toutes les adhésions de
 l'exercice ;
 
-d) Les montants ou taux de cotisations ;
+d) Les montants ou taux de cotisations, dans le cadre des opérations
+individuelles mentionnées au II de l'article L. 221-2 ;
 
-e) Les prestations offertes ;
+e) Les prestations offertes, dans le cadre des opérations individuelles
+mentionnées au II de l'article L. 221-2 ;
 
 f) L'adhésion à une union ou une fédération, la conclusion d'une convention de
 substitution, la fusion avec une autre mutuelle ou union, la scission ou la
@@ -28,8 +30,9 @@ mutuelle ou union, conformément aux articles L. 111-3 et L. 111-4 ;
 g) Les règles générales auxquelles doivent obéir les opérations de cession de
 réassurance ;
 
-h) L'émission des titres participatifs, de titres subordonnés et d'obligations
-dans les conditions fixées aux articles L. 114-44 et L. 114-45 ;
+h) L'émission des titres participatifs, de titres subordonnés, de certificats
+mutualistes et d'obligations dans les conditions fixées aux articles L. 114-44
+et L. 114-45 ;
 
 i) Le transfert de tout ou partie du portefeuille de contrats, que l'organisme
 soit cédant ou cessionnaire ;
@@ -47,4 +50,7 @@ m) Le rapport du conseil d'administration relatif aux transferts financiers
 entre mutuelles ou unions régies par les livres II et III auquel est joint le
 rapport du commissaire aux comptes prévu à l'article L. 114-39 ;
 
-n) Le plan prévisionnel de financement prévu à l'article L. 310-3.
+n) Le plan prévisionnel de financement prévu à l'article L. 310-3 ;
+
+o) Les règles générales auxquelles doivent obéir les opérations collectives
+mentionnées au III de l'article L. 221-2.

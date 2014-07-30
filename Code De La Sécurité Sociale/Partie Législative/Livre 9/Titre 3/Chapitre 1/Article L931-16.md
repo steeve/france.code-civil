@@ -44,8 +44,8 @@ publication de l'approbation mentionnée au deuxième alinéa du présent articl
 Les entreprises adhérentes et les participants affiliés à titre individuel ont
 la faculté de résilier l'adhésion ou le contrat dans le délai d'un mois suivant
 la date de cette publication. Toutefois, cette faculté de résiliation n'est pas
-offerte aux adhérents lorsque l'adhésion résulte d'une convention de branche ou
-d'un accord professionnel ou interprofessionnel.
+offerte aux adhérents lorsque l'adhésion est obligatoire et résulte d'une
+convention de branche ou d'un accord professionnel ou interprofessionnel.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article
 ainsi que les modalités particulières de transfert des actifs relatifs à des

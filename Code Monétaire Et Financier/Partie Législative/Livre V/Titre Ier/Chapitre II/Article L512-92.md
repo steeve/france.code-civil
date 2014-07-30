@@ -34,5 +34,5 @@ L'ensemble des sociétés locales d'épargne affiliées à chaque caisse d'épar
 de prévoyance constitue une seule entité pour l'application de l'article 145 du
 code général des impôts.
 
-Les dispositions de l'article 16 de la loi n° 47-1775 du 10 septembre 1947
-précitée ne s'appliquent pas aux sociétés locales d'épargne.
+Le dernier alinéa de l'article 1er et l'article 16 de la loi n° 47-1775 du 10
+septembre 1947 précitée ne s'appliquent pas aux sociétés locales d'épargne.

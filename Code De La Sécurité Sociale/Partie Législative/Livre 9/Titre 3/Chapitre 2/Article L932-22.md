@@ -1,10 +1,10 @@
 Article L932-22
 ----
-I. - Lorsque, pour la mise en oeuvre des opérations collectives à adhésion
+I.-Lorsque, pour la mise en oeuvre des opérations collectives à adhésion
 facultative, l'adhérent assure le précompte de la cotisation sur le salaire du
 participant, les dispositions de l'article L. 932-9 sont applicables.
 
-II. - Lorsque, pour la mise en oeuvre des opérations collectives à adhésion
+II.-Lorsque, pour la mise en oeuvre des opérations collectives à adhésion
 facultative, l'adhérent n'assure pas le précompte des cotisations, le
 participant qui ne paie pas sa cotisation dans les dix jours de son échéance
 peut être exclu du groupe.
@@ -17,7 +17,9 @@ dues doivent être payées.
 Lors de la mise en demeure, le participant est informé qu'à l'expiration du
 délai prévu à l'alinéa précédent le défaut de paiement de la cotisation est
 susceptible d'entraîner son exclusion du bulletin d'adhésion au règlement ou du
-contrat.
+contrat. L'exclusion ne peut faire obstacle, le cas échéant, au versement des
+prestations acquises en contrepartie des cotisations versées antérieurement par
+le débiteur de cotisations.
 
 La procédure prévue à l'article L. 932-9 est applicable à l'adhérent qui ne paie
 pas sa cotisation. Dans ce cas, l'institution informe chaque participant de la
@@ -29,7 +31,7 @@ lequel l'institution ne couvre plus le risque.
 Les dispositions qui précèdent ne sont pas applicables aux opérations dépendant
 de la durée de la vie humaine qui comportent une valeur de rachat.
 
-III. - En ce qui concerne les opérations individuelles, le bulletin d'adhésion à
+III.-En ce qui concerne les opérations individuelles, le bulletin d'adhésion à
 un règlement ou le contrat peuvent être résiliés par l'institution de prévoyance
 conformément à la procédure prévue au II du présent article si le participant ne
 paie pas sa cotisation.

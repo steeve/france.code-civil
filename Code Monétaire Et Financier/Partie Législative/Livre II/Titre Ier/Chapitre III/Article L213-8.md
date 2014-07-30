@@ -6,3 +6,6 @@ les départements du Bas-Rhin, du Haut-Rhin et de la Moselle peuvent,
 lorsqu'elles exercent, exclusivement ou non, une activité économique effective
 depuis au moins deux années, émettre des obligations dans les conditions prévues
 à la présente sous-section.
+
+Les obligations émises par les associations sont inscrites en compte, dans les
+conditions posées à l'article L. 211-7 du présent code.

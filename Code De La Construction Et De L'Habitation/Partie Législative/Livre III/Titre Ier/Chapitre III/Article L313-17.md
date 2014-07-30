@@ -9,3 +9,8 @@ commerce, sous réserve des dispositions du présent chapitre.
 Ses statuts, approuvés par décret, prévoient qu'elle est administrée par un
 conseil d'administration ou par un directoire placé sous le contrôle d'un
 conseil de surveillance.
+
+Un décret en Conseil d'Etat, pris après avis de l'union, fixe les conditions
+dans lesquelles les dispositions relatives à la révision coopérative prévues aux
+articles 25-1 à 25-4 de la loi n° 47-1775 du 10 septembre 1947 précitée lui sont
+applicables, avec les dérogations et adaptations nécessaires.

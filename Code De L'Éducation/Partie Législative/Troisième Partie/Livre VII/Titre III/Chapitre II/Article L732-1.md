@@ -10,9 +10,9 @@ l'enseignement supérieur privé.
 
 Ne peuvent obtenir la qualification d'établissement d'enseignement supérieur
 privé d'intérêt général que les établissements d'enseignement supérieur privés à
-but non lucratif créés par des associations ou fondations, reconnues d'utilité
-publique, ou des syndicats professionnels au sens de l'article L. 2131-1 du code
-du travail.
+but non lucratif créés par des associations ou des fondations reconnues
+d'utilité publique ou des syndicats professionnels au sens de l'article L.
+2131-1 du code du travail.
 
 Un établissement bénéficie de la qualification d'établissement d'enseignement
 supérieur privé d'intérêt général pour la durée du contrat pluriannuel mentionné

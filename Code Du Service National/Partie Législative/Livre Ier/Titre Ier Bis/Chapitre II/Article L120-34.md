@@ -5,9 +5,11 @@ sous réserve, pour les collectivités d'outre-mer régies par l'article 74 de l
 Constitution, la Nouvelle-Calédonie et les Terres australes et antarctiques
 françaises, des dispositions suivantes :
 
-1° Par exception à l'article L. 120-1, le volontariat de service civique peut
-être effectué dans les départements et collectivités d'outre-mer auprès de
-personnes morales de droit public ;
+1° Par exception à l'article L. 120-1, le volontariat associatif peut être
+effectué dans les départements et collectivités d'outre-mer, en
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises,
+auprès de personnes morales de droit public, sous le nom de volontariat de
+service civique ;
 
 2° Une convention entre l'Etat, d'une part, et la Nouvelle-Calédonie et la
 Polynésie française, d'autre part, fixe les conditions d'application du présent
@@ -22,9 +24,8 @@ Nouvelle-Calédonie ou en Polynésie française et leurs ayants droit bénéfici
 des prestations du régime local de sécurité sociale et de couverture
 complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques
 d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps
-lorsque le contrat de service civique est accompli auprès d'un service de l'Etat
-ou d'un organisme d'accueil public ou privé, y compris lorsqu'il s'agit d'une
-association ;
+lorsque le contrat est accompli auprès d'un service de l'Etat ou d'un organisme
+d'accueil public ou privé, y compris lorsqu'il s'agit d'une association ;
 
 c) La prise en compte de la durée du service accompli au titre du service
 civique par le régime de retraite de base ou spécial de la Nouvelle-Calédonie ou
@@ -63,13 +64,13 @@ sociales applicables localement ;
 5° A Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon et dans
 les îles Wallis et Futuna et les Terres australes et antarctiques françaises, la
 protection sociale prévue au présent titre est assurée dans les conditions
-prévues par la réglementation applicable localement lorsque le contrat de
-service civique est accompli auprès d'un service de l'Etat ou d'un organisme
-d'accueil public ou privé, y compris lorsqu'il s'agit d'une association. Lorsque
-l'organisme d'accueil assure à la personne volontaire une couverture
-complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques
-d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps,
-le ministre chargé de l'outre-mer fixe par arrêté les modalités de cette
-couverture ainsi que les règles particulières lorsque la personne volontaire est
-affectée à l'étranger. La législation sur les accidents du travail est celle
-applicable localement.
+prévues par la réglementation applicable localement lorsque le contrat est
+accompli auprès d'un service de l'Etat ou d'un organisme d'accueil public ou
+privé, y compris lorsqu'il s'agit d'une association. Lorsque l'organisme
+d'accueil assure à la personne volontaire une couverture complémentaire,
+notamment en cas d'hospitalisation ainsi que pour les risques d'évacuation
+sanitaire, de rapatriement sanitaire et de rapatriement de corps, le ministre
+chargé de l'outre-mer fixe par arrêté les modalités de cette couverture ainsi
+que les règles particulières lorsque la personne volontaire est affectée à
+l'étranger. La législation sur les accidents du travail est celle applicable
+localement.

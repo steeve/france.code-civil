@@ -1,15 +1,15 @@
 Article 210 D
 ----
 Les plus-values que peut faire apparaître une opération visée à l'article 48 de
-la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives
-ouvrières de production sont imposables au nom de la société coopérative
-ouvrière de production dans les conditions suivantes :
+la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives de
+production sont imposables au nom de la société coopérative de production dans
+les conditions suivantes :
 
 a. Les plus-values afférentes aux immobilisations non amortissables font l'objet
 d'un report de taxation jusqu'à la cession, à titre onéreux, de ces
-immobilisations par la société coopérative ouvrière de production. Ces
-plus-values sont calculées d'après la valeur qu'avaient, du point de vue fiscal,
-ces immobilisations dans le bilan de la société transformée ;
+immobilisations par la société coopérative de production. Ces plus-values sont
+calculées d'après la valeur qu'avaient, du point de vue fiscal, ces
+immobilisations dans le bilan de la société transformée ;
 
 b. Les plus-values afférentes aux autres immobilisations sont réintégrées, par
 cinquième, dans les excédents nets de gestion imposables sur une période de cinq

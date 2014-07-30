@@ -10,11 +10,18 @@ personne est considérée comme ayant droit d'un membre participant sont défini
 par les statuts.
 
 Les mutuelles peuvent admettre des membres honoraires, personnes physiques, qui
-versent des cotisations, des contributions ou leur font des dons sans bénéficier
-de leurs prestations.
+versent des cotisations, des contributions, leur font des dons ou leur ont rendu
+des services équivalents dans des conditions définies par les statuts sans
+bénéficier de leurs prestations.
 
-Les mutuelles et les unions peuvent admettre des membres honoraires, personnes
-morales souscrivant des contrats collectifs.
+Les unions, à l'exception des unions régies par le livre II et des unions
+mentionnées à l'article L. 111-4-2, peuvent admettre des membres honoraires,
+personnes morales, qui versent des cotisations, des contributions, leur font des
+dons ou leur ont rendu des services équivalents, sans bénéficier de leurs
+prestations.
+
+Les mutuelles et les unions régies par le livre II peuvent admettre des membres
+honoraires, personnes morales souscrivant des contrats collectifs.
 
 Les règlements définissent le contenu des engagements contractuels existant
 entre chaque membre participant ou honoraire et la mutuelle ou l'union en ce qui

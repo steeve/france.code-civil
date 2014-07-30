@@ -1,9 +1,12 @@
 Article L114-12
 ----
 I.-Lorsqu'elle se prononce sur la modification des statuts, les activités
-exercées, les montants ou taux de cotisation, la délégation de pouvoir prévue à
-l'article L. 114-11, les prestations offertes, le transfert de portefeuille, les
-principes directeurs en matière de réassurance, la fusion, la scission, la
+exercées, les montants ou taux de cotisation des opérations individuelles
+mentionnées au II de l'article L. 221-2, la délégation de pouvoir prévue à
+l'article L. 114-11, les prestations offertes dans le cadre des opérations
+individuelles mentionnées au II de l'article L. 221-2, le transfert de
+portefeuille, les principes directeurs en matière de réassurance, les règles
+générales en matière d'opérations collectives la fusion, la scission, la
 dissolution ou la création d'une mutuelle ou d'une union, l'assemblée générale
 des mutuelles, unions et fédérations ne délibère valablement que si le nombre de
 ses membres présents, représentés ou ayant fait usage de la faculté de vote par

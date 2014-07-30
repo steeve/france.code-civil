@@ -157,10 +157,10 @@ Un décret fixe les modalités d'application du présent paragraphe, notamment l
 obligations des emprunteurs et des intermédiaires agréés.
 
 2° quinquies Les intérêts des emprunts contractés, à compter du 1er janvier
-1984, pour souscrire au capital d'une société coopérative ouvrière de production
-créée pour reprendre une entreprise dans les conditions fixées à l'article 48 de
-la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives
-ouvrières de production.
+1984, pour souscrire au capital d'une société coopérative de production créée
+pour reprendre une entreprise dans les conditions fixées à l'article 48 de la
+loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives de
+production.
 
 Cette disposition est applicable dans les conditions fixées au 2° quater.
 

@@ -1,8 +1,12 @@
 Article L114-7
 ----
-L'assemblée générale des unions et des fédérations est constituée, dans des
-conditions déterminées par leurs statuts, par la réunion des délégués des
-mutuelles ou des unions adhérentes.
+L'assemblée générale des unions est constituée, dans des conditions déterminées
+par leurs statuts, par la réunion des délégués des mutuelles ou des unions
+adhérentes et de leurs membres honoraires.
+
+L'assemblée générale des fédérations est constituée, dans les conditions
+déterminées par leurs statuts, par la réunion des délégués des mutuelles ou des
+unions adhérentes.
 
 Les décisions régulièrement prises par l'assemblée générale d'une mutuelle,
 d'une union ou d'une fédération s'imposent à l'organisme et à ses membres sous

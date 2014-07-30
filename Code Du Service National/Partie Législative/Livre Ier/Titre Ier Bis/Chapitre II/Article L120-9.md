@@ -1,7 +1,6 @@
 Article L120-9
 ----
-Un contrat de service civique ne peut être souscrit auprès d'une personne morale
-agréée :
+Un contrat ne peut être souscrit auprès d'une personne morale agréée :
 
 1° Lorsque les missions confiées à la personne volontaire ont été exercées par
 un salarié de la personne morale agréée ou de l'organisme d'accueil dont le

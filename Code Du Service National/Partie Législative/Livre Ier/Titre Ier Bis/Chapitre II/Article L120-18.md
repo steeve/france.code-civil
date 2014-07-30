@@ -1,9 +1,10 @@
 Article L120-18
 ----
 Une indemnité est versée, selon une périodicité mensuelle, par la personne
-morale agréée à la personne effectuant un volontariat de service civique. Son
-montant et les conditions de son versement sont prévus par le contrat de service
-civique.
+morale agréée à la personne effectuant un volontariat associatif. Son montant et
+les conditions de son versement sont prévus par le contrat mentionné à l'article
+L. 120-3. La durée cumulée des contrats de volontariat associatif pour un même
+individu ne peut excéder trente-six mois.
 
 Les montants maximaux et minimaux de cette indemnité sont fixés par décret.
 

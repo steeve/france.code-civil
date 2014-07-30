@@ -14,10 +14,11 @@ moins est une société d'assurance mutuelle. En outre, les entreprises affilié
 ne peuvent être que des mutuelles ou unions relevant du livre II du code de la
 mutualité, des institutions de prévoyances ou unions relevant du titre III du
 livre IX du code de la sécurité sociale, des sociétés d'assurance mutuelle
-relevant du code des assurances ou des entreprises d'assurance ou de réassurance
-à forme mutuelle ou coopérative ou à gestion paritaire ayant leur siège social
-dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur
-l'Espace économique européen. Si elle remplit ces conditions, la société de
-groupe d'assurance peut être dénommée "société de groupe d'assurance mutuelle".
-Les conditions de fonctionnement de cette société de groupe d'assurance mutuelle
-sont fixées par décret en Conseil d'Etat.
+relevant du code des assurances, des unions définies à l'article L. 322-26-3 du
+présent code ou des entreprises d'assurance ou de réassurance à forme mutuelle
+ou coopérative ou à gestion paritaire ayant leur siège social dans un autre Etat
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen. Si elle remplit ces conditions, la société de groupe d'assurance peut
+être dénommée " société de groupe d'assurance mutuelle ". Les conditions de
+fonctionnement de cette société de groupe d'assurance mutuelle sont fixées par
+décret en Conseil d'Etat.

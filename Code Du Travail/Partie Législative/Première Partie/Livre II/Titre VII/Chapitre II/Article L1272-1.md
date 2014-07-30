@@ -5,4 +5,7 @@ Un chèque-emploi associatif peut être utilisé par :
 1° Les associations à but non lucratif employant neuf salariés au plus ;
 
 2° Les associations de financement électoral mentionnées à l'article L. 52-5 du
-code électoral quel que soit le nombre de leurs salariés.
+code électoral quel que soit le nombre de leurs salariés ;
+
+3° Les fondations dotées de la personnalité morale et employant neuf salariés au
+plus.

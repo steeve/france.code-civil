@@ -8,7 +8,7 @@ gestion desdits déchets ou, en cas de nécessité, interdites.
 II.-En application du principe de responsabilité élargie du producteur, il peut
 être fait obligation aux producteurs, importateurs et distributeurs de ces
 produits ou des éléments et matériaux entrant dans leur fabrication de pourvoir
-ou de contribuer à la gestion des déchets qui en proviennent.
+ou de contribuer à la prévention et à la gestion des déchets qui en proviennent.
 
 Les producteurs, importateurs et distributeurs, auxquels l'obligation susvisée
 est imposée par les dispositions de la présente section et sous réserve desdites
@@ -26,21 +26,42 @@ Les systèmes individuels qui sont approuvés par l'Etat le sont pour une durée
 maximale de six ans renouvelable, si les producteurs, importateurs ou
 distributeurs qui les mettent en place établissent qu'ils disposent des
 capacités techniques et financières pour répondre aux exigences d'un cahier des
-charges, fixé par arrêté interministériel.
+charges, fixé par arrêté interministériel et après avis de l'instance
+représentative des parties prenantes de la filière.
 
-Les éco-organismes qui sont agréés par l'Etat le sont pour une durée maximale de
-six ans renouvelable s'ils établissent qu'ils disposent des capacités techniques
-et financières pour répondre aux exigences d'un cahier des charges, fixé par
-arrêté interministériel.
+Les éco-organismes sont agréés par l'Etat pour une durée maximale de six ans
+renouvelable s'ils établissent qu'ils disposent des capacités techniques et
+financières pour répondre aux exigences d'un cahier des charges, fixé par arrêté
+interministériel, et après avis de l'instance représentative des parties
+prenantes de la filière.
 
 Les cahiers des charges des éco-organismes prévoient notamment :
 
-1° Les missions de ces organismes ;
+1° Les missions de ces organismes, incluant la communication relative à la
+prévention et à la gestion des déchets, dont la contribution financière aux
+actions de communication inter-filières menées par les pouvoirs publics. Le
+montant, le plafond et les modalités de recouvrement de cette contribution
+financière sont déterminés par le cahier des charges ; ;
 
 2° Que les contributions perçues par ceux-ci et les produits financiers qu'elles
 génèrent sont utilisés dans leur intégralité pour ces missions ;
 
-3° Que les éco-organismes ne poursuivent pas de but lucratif pour ces missions.
+3° Que les éco-organismes ne poursuivent pas de but lucratif pour ces missions ;
+
+4° Les conditions et limites dans lesquelles est favorisé le recours aux
+entreprises solidaires d'utilité sociale agréées en application de l'article L.
+3332-17-1 du code du travail ;
+
+5° Les conditions et limites dans lesquelles sont favorisés la prévention des
+déchets et leur gestion à proximité des points de production, ainsi que les
+emplois et investissements induits par ces activités ;
+
+6° Les décisions que l'éco-organisme ne peut prendre qu'après avoir recueilli
+l'avis de l'instance représentative des parties prenantes de la filière, dont
+les campagnes de communication grand public de portée nationale ;
+
+7° Les conditions et limites dans lesquelles est mise à disposition une partie
+des déchets pour leur réutilisation ou celle de leurs pièces détachées.
 
 Les éco-organismes agréés sont soumis au censeur d'Etat prévu à l'article 46 de
 la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en œuvre
@@ -64,10 +85,9 @@ au II,1 500 € pour une personne physique et 7 500 € pour une personne morale
 décision mentionne le délai et les modalités de paiement de l'amende.
 
 IV.-Les producteurs, importateurs ou distributeurs qui ont mis en place un
-système individuel approuvé et les éco-organismes agréés, lorsqu'ils pourvoient
-à la gestion des déchets en application du II, sont soumis à des contrôles
-périodiques permettant de s'assurer qu'ils respectent les clauses de leur cahier
-des charges.
+système individuel approuvé et les éco-organismes agréés sont soumis à des
+contrôles périodiques permettant de s'assurer qu'ils respectent les clauses de
+leur cahier des charges.
 
 Ces contrôles sont effectués aux frais et pour le compte des producteurs,
 importateurs ou distributeurs concernés ou des éco-organismes, par des
@@ -139,3 +159,10 @@ article. Il précise notamment les conditions d'habilitation des organismes
 chargés des contrôles prévus au IV, les modalités d'exercice de ces contrôles
 ainsi que les catégories de clauses dont l'inobservation peut déclencher les
 procédures prévues au V et au VI.
+
+XI.-Les parties prenantes associées à la mise en œuvre des obligations définies
+au II participent à la gouvernance du dispositif au sein d'une instance définie
+par décret.
+
+XII.-Les sanctions administratives mentionnées au III et au 1° des V et VI sont
+recouvrées comme des créances étrangères à l'impôt et au domaine.

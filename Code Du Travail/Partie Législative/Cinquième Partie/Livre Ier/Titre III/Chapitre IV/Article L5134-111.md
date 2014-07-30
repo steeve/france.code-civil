@@ -16,10 +16,12 @@ L'aide relative à l'emploi d'avenir peut être attribuée aux employeurs suivan
 L. 5132-4 ;
 
 6° Les personnes morales de droit privé chargées de la gestion d'un service
-public.
+public ;
+
+7° Les sociétés coopératives d'intérêt collectif.
 
 Par exception, lorsqu'ils ne relèvent pas d'une des catégories mentionnées aux
-1° à 6° du présent article, les employeurs relevant de l'article L. 5422-13 et
+1° à 7° du présent article, les employeurs relevant de l'article L. 5422-13 et
 des 3° et 4° de l'article L. 5424-1 sont éligibles à l'aide relative aux emplois
 d'avenir s'ils remplissent les conditions fixées par décret en Conseil d'Etat
 relatives à leur secteur d'activité et au parcours d'insertion et de

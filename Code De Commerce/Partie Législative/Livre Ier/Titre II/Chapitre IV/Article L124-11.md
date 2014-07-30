@@ -9,9 +9,9 @@ articles L. 125-17 et L. 125-18.
 Il reste cependant tenu pendant cinq années à compter du jour où il a
 définitivement perdu la qualité d'associé, tant envers la coopérative qu'à
 l'égard des tiers, de toutes les obligations existant à la clôture de l'exercice
-au cours duquel il a quitté la coopérative. Le conseil d'administration ou le
-conseil de surveillance, selon le cas, peut, pendant cinq ans au plus, conserver
-tout ou partie des sommes dues à l'ancien associé, en application de l'alinéa
-précédent, dans la limite du montant nécessaire à la garantie des obligations
-dont il est tenu en application du présent alinéa, et à moins que l'intéressé ne
-fournisse des sûretés suffisantes.
+au cours duquel il a quitté la coopérative. Le conseil d'administration, le
+conseil de surveillance ou la gérance, selon le cas, peut, pendant cinq ans au
+plus, conserver tout ou partie des sommes dues à l'ancien associé, en
+application de l'alinéa précédent, dans la limite du montant nécessaire à la
+garantie des obligations dont il est tenu en application du présent alinéa, et à
+moins que l'intéressé ne fournisse des sûretés suffisantes.

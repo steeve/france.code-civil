@@ -6,8 +6,12 @@ dans les conditions fixées par les statuts, parmi les membres participants âg�
 de dix-huit ans révolus et les membres honoraires. Les membres participants
 représentent au moins les deux tiers du conseil d'administration.
 
-Les administrateurs des unions et fédérations sont élus parmi les délégués
-siégeant à l'assemblée générale.
+Les administrateurs des unions sont élus parmi les délégués et les membres
+honoraires siégeant à l'assemblée générale. Les délégués des organismes
+adhérents représentent au moins les deux tiers du conseil d'administration.
+
+Les administrateurs des fédérations sont élus parmi les délégués siégeant à
+l'assemblée générale.
 
 Le conseil d'administration d'une mutuelle, union ou fédération ne peut être
 composé pour plus de la moitié d'administrateurs exerçant des fonctions

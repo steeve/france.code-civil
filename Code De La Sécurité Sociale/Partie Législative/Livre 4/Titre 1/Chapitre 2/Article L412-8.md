@@ -117,7 +117,11 @@ des impôts ;
 15° Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code du
 service national ;
 
-16° Les titulaires de mandats locaux.
+16° Les titulaires de mandats locaux ;
+
+17° Les entrepreneurs salariés et les entrepreneurs salariés associés mentionnés
+aux articles L. 7331-2 et L. 7331-3 du code du travail, dans des conditions
+définies par décret.
 
 Les dispositions de l'article L. 434-1 du présent code ne sont pas applicables
 aux personnes mentionnées aux a, b et f du 2°.
@@ -130,7 +134,7 @@ En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent ar
 et non assujetties aux assurances sociales en vertu du livre III ainsi que les
 personnes mentionnées au 13° et les personnes mentionnées au 15°, le décret en
 Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°,
-11°, 12°, 15° et 16° des décrets prévus par ceux-ci, déterminent à qui incombent
-les obligations de l'employeur. Pour les personnes qui ne sont pas rémunérées ou
-ne reçoivent pas une rémunération normale, ils fixent les bases des cotisations
-et celles des indemnités.
+11°, 12°, 15°, 16° et 17° des décrets prévus par ceux-ci, déterminent à qui
+incombent les obligations de l'employeur. Pour les personnes qui ne sont pas
+rémunérées ou ne reçoivent pas une rémunération normale, ils fixent les bases
+des cotisations et celles des indemnités.

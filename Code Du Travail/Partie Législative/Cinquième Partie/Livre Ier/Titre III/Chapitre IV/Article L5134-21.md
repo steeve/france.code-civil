@@ -10,4 +10,6 @@ dans l'emploi peuvent être accordées aux employeurs suivants :
 3° Les organismes de droit privé à but non lucratif ;
 
 4° Les personnes morales de droit privé chargées de la gestion d'un service
-public.
+public ;
+
+5° Les sociétés coopératives d'intérêt collectif.

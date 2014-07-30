@@ -14,5 +14,5 @@ d) Les prestataires de services d'investissement ;
 e) (Sans objet).
 
 f) Les sociétés par actions ou à responsabilité limitée et les sociétés
-coopératives ouvrières de production pour les actions ou parts souscrites ou
-reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
+coopératives de production pour les actions ou parts souscrites ou reçues en
+rémunération de l'apport de valeurs acquises à la suite d'options.

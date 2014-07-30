@@ -37,12 +37,14 @@ modalités de répartition pour l'année écoulée de la participation aux excé
 
 h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du
 code de commerce lorsque les conditions prévues au sixième alinéa du même
-article sont remplies. Les mutuelles, unions ou fédérations qui font partie d'un
-groupe, au sens de l'article L. 212-7 du présent code, ne sont pas tenues de
-publier ces informations lorsque celles-ci sont publiées dans le rapport de
-gestion du groupe de manière détaillée et individualisée par mutuelle, union ou
-fédération, et que ces mutuelles, unions ou fédérations indiquent comment y
-accéder dans leur propre rapport de gestion.
+article sont remplies. Ces informations font l'objet d'une vérification par un
+organisme tiers indépendant, dans les conditions prévues au même article. Les
+mutuelles, unions ou fédérations qui font partie d'un groupe, au sens de
+l'article L. 212-7 du présent code, ne sont pas tenues de publier ces
+informations lorsque celles-ci sont publiées dans le rapport de gestion du
+groupe de manière détaillée et individualisée par mutuelle, union ou fédération,
+et que ces mutuelles, unions ou fédérations indiquent comment y accéder dans
+leur propre rapport de gestion.
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les
 comptes consolidés ou combinés, lorsque la mutuelle, l'union ou la fédération
@@ -52,3 +54,10 @@ la gestion du groupe qu'il communique à l'assemblée générale.
 Il établit également, lorsque la mutuelle ou l'union relève du livre II, le
 rapport de solvabilité visé à l'article L. 212-3 et un état annuel annexé aux
 comptes et relatif aux plus-values latentes, visé à l'article L. 212-6.
+
+Le conseil d'administration fixe les montants ou les taux de cotisation et les
+prestations des opérations collectives mentionnées au III de l'article L. 221-2,
+dans le respect des règles générales fixées par l'assemblée générale. Il rend
+compte devant l'assemblée générale des décisions qu'il prend en la matière. Il
+peut déléguer tout ou partie de cette compétence, pour une durée maximale d'un
+an, au président du conseil d'administration ou au dirigeant.

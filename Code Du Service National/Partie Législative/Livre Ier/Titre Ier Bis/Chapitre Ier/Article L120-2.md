@@ -15,8 +15,8 @@ concernés, des organismes d'accueil et d'orientation des jeunes, des
 4° De veiller à l'égal accès des citoyens au service civique ;
 
 5° De favoriser la mise en relation des personnes intéressées par un service
-civique avec les personnes morales agréées proposant un contrat de service
-civique ;
+civique avec les personnes morales agréées proposant un contrat mentionné à
+l'article L. 120-3 ;
 
 6° De contrôler et d'évaluer la mise en œuvre du service civique ;
 
@@ -35,9 +35,9 @@ pour assurer l'objectif de mixité sociale.
 L'agence est un groupement d'intérêt public constitué, sans capital, entre
 l'Etat, l'Agence nationale pour la cohésion sociale et l'égalité des chances,
 l'Institut national de la jeunesse et de l'éducation populaire et l'association
-France Volontaires.D'autres personnes morales peuvent, dans des conditions
+France Volontaires. D'autres personnes morales peuvent, dans des conditions
 fixées par la convention constitutive, devenir membres constitutifs du
-groupement.
+groupement. Le groupement est constitué sans limitation de durée.
 
 Elle est dotée de la personnalité morale et de l'autonomie financière. Elle ne
 donne lieu ni à la réalisation, ni au partage de bénéfices. Elle peut recruter,
@@ -60,7 +60,6 @@ Pour l'exercice de son activité, le groupement s'appuie sur les représentants 
 l'Etat dans la région et le département ainsi que sur le réseau de
 correspondants à l'étranger de l'association France Volontaires.
 
-Un décret précise les modalités d'application du présent article, notamment la
-durée pour laquelle le groupement est constitué et les conditions dans
-lesquelles la délivrance des agréments et le soutien financier de l'Etat sont
-mis en œuvre pour le compte de l'agence.
+Un décret précise les modalités d'application du présent article, notamment les
+conditions dans lesquelles la délivrance des agréments et le soutien financier
+de l'Etat sont mis en œuvre pour le compte de l'agence.

@@ -41,8 +41,8 @@ L. 612-2 ainsi que tout ou partie d'un portefeuille de crédits ou de dépôts d
 établissement de crédit ;
 
 9° Décider d'interdire ou de limiter la distribution d'un dividende aux
-actionnaires ou d'une rémunération des parts sociales aux sociétaires de ces
-personnes ;
+actionnaires, d'une rémunération des certificats mutualistes ou paritaires ou
+d'une rémunération des parts sociales aux sociétaires de ces personnes ;
 
 10° Décider d'interdire ou de limiter le paiement d'intérêts aux détenteurs
 d'instruments de fonds propres additionnels de catégorie 1 définis à l'article

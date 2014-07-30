@@ -2,9 +2,11 @@ Article L221-8
 ----
 I. - Lorsque, dans le cadre des opérations collectives, l'employeur ou la
 personne morale assure le précompte de la cotisation, à défaut de paiement d'une
-cotisation dans les dix jours de son échéance, la garantie ne peut être
-suspendue que trente jours après la mise en demeure de l'employeur ou de la
-personne morale.
+cotisation dans les dix jours de son échéance et indépendamment du droit pour la
+mutuelle ou l'union d'appliquer des majorations de retard à la charge exclusive
+de l'employeur et de poursuivre en justice l'exécution du contrat collectif, la
+garantie ne peut être suspendue que trente jours après la mise en demeure de
+l'employeur ou de la personne morale.
 
 Dans la lettre de mise en demeure qu'elle adresse à l'employeur ou à la personne
 morale, la mutuelle ou l'union l'informe des conséquences que ce défaut de
@@ -18,11 +20,10 @@ ou du contrat collectif, sauf s'il entreprend de se substituer à l'employeur ou
 La mutuelle ou l'union a le droit de résilier le contrat collectif dix jours
 après le délai de trente jours mentionné au premier alinéa du présent I.
 
-Le contrat collectif non résilié reprend effet à midi le lendemain du jour où,
-sauf décision différente de la mutuelle ou de l'union, ont été payées à
-celles-ci les cotisations arriérées et celles venues à échéance pendant la
-période de suspension ainsi que, éventuellement, les frais de poursuite et de
-recouvrement.
+Le contrat collectif non résilié reprend effet à midi le lendemain du jour où
+ont été payées à celles-ci les cotisations arriérées et celles venues à échéance
+pendant la période de suspension ainsi que, éventuellement, les frais de
+poursuite et de recouvrement.
 
 II. - Lorsque dans le cadre des opérations collectives facultatives, l'employeur
 ou la personne morale n'assure pas le précompte des cotisations, le membre

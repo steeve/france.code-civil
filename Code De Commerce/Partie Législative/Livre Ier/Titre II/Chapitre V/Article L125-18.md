@@ -13,6 +13,6 @@ de crédit ou un établissement financier spécialement habilité à cet effet, 
 lorsque ce montant a été consigné entre les mains d'un mandataire désigné au
 besoin par ordonnance rendue en la forme des référés.
 
-En outre, s'il s'agit d'une coopérative, le conseil d'administration ou le
-directoire, selon le cas, peut invoquer les dispositions du second alinéa de
-l'article L. 124-11.
+En outre, s'il s'agit d'une coopérative, le conseil d'administration, le
+directoire ou la gérance, selon le cas, peut invoquer les dispositions du second
+alinéa de l'article L. 124-11.

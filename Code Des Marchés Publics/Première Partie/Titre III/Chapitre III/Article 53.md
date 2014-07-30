@@ -40,19 +40,19 @@ retenue.
 
 IV.-1° Lors de la passation d'un marché, un droit de préférence est attribué, à
 égalité de prix ou à équivalence d'offres, à l'offre présentée par une société
-coopérative ouvrière de production, par un groupement de producteurs agricoles,
-par un artisan, une société coopérative d'artisans ou par une société
-coopérative d'artistes ou par des entreprises adaptées.
+coopérative de production, par un groupement de producteurs agricoles, par un
+artisan, une société coopérative d'artisans ou par une société coopérative
+d'artistes ou par des entreprises adaptées.
 
 2° Lorsque les marchés portent, en tout ou partie, sur des prestations
 susceptibles d'être exécutées par des artisans ou des sociétés d'artisans ou des
-sociétés coopératives d'artisans ou des sociétés coopératives ouvrières de
-production ou des entreprises adaptées, les pouvoirs adjudicateurs contractants
-doivent, préalablement à la mise en concurrence, définir les travaux,
-fournitures ou services qui, à ce titre, et dans la limite du quart du montant
-de ces prestations, à équivalence d'offres, seront attribués de préférence à
-tous autres candidats, aux artisans ou aux sociétés coopératives d'artisans ou
-aux sociétés coopératives ouvrières de production ou à des entreprises adaptées.
+sociétés coopératives d'artisans ou des sociétés coopératives de production ou
+des entreprises adaptées, les pouvoirs adjudicateurs contractants doivent,
+préalablement à la mise en concurrence, définir les travaux, fournitures ou
+services qui, à ce titre, et dans la limite du quart du montant de ces
+prestations, à équivalence d'offres, seront attribués de préférence à tous
+autres candidats, aux artisans ou aux sociétés coopératives d'artisans ou aux
+sociétés coopératives de production ou à des entreprises adaptées.
 
 3° Lorsque les marchés portent, en tout ou partie, sur des travaux à caractère
 artistique, la préférence, à égalité de prix ou à équivalence d'offres prévue au

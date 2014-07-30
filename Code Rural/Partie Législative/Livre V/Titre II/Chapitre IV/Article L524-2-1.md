@@ -5,7 +5,10 @@ l'exercice, le conseil d'administration ou le directoire présente aux associés
 un rapport détaillé sur la gestion et l'évolution de la coopérative ainsi que
 sur sa stratégie et ses perspectives à moyen terme. Ce rapport comporte
 également les informations mentionnées au cinquième alinéa de l'article L.
-225-102-1 du code de commerce.
+225-102-1 du code de commerce, dès lors que la coopérative remplit les
+conditions fixées au sixième alinéa du même article. Ces informations font
+l'objet d'une vérification par un organisme tiers indépendant, dans les
+conditions prévues audit article.
 
 Après imputation du report à nouveau déficitaire et dotation des réserves
 obligatoires, l'assemblée générale délibère ensuite sur la proposition motivée

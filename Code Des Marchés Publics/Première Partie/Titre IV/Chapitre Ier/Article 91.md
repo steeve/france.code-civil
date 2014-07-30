@@ -8,7 +8,7 @@ se rapporte.
 
 La périodicité du versement des acomptes est fixée au maximum à trois mois.
 Lorsque le titulaire est une petite ou moyenne entreprise au sens de l'article
-48, une société coopérative ouvrière de production, un groupement de producteurs
+48, une société coopérative de production, un groupement de producteurs
 agricoles, un artisan, une société coopérative d'artisans, une société
 coopérative d'artistes ou une entreprise adaptée, ce maximum est ramené à un
 mois pour les marchés de travaux. Pour les marchés de fournitures et de

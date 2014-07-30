@@ -82,8 +82,10 @@ cessions d'immeubles rendues nécessaires par la réalisation de ces actions ou
 opérations ;
 
 8° De réaliser pour le compte d'associations ou d'organismes oeuvrant dans le
-domaine du logement ou de personnes physiques des prestations de services
-définies par leurs statuts ;
+domaine du logement, d'organismes de l'économie sociale et solidaire mentionnés
+au II de l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à
+l'économie sociale et solidaire, œuvrant dans le domaine du logement, ou de
+personnes physiques des prestations de services définies par leurs statuts ;
 
 9° De réaliser des travaux, acquérir, construire et gérer des immeubles à usage
 d'habitation au profit des fonctionnaires de la police et de la gendarmerie
@@ -241,12 +243,15 @@ société réalise au moins 25 % de logements mentionnés à l'article L. 411-2 
 soit constituée pour une durée n'excédant pas cinq ans.
 
 Les sociétés anonymes coopératives de production d'habitations à loyer modéré
-font procéder périodiquement à l'examen analytique de leur situation financière
-et de leur gestion. Un décret en Conseil d'Etat, pris après avis du Conseil
-supérieur des habitations à loyer modéré, détermine les modalités de mise en
-oeuvre de la procédure, dite de révision coopérative, définie au présent alinéa,
-ainsi que les conditions d'agrément garantissant le pluralisme de son exercice
-et le respect des principes coopératifs.
+font procéder périodiquement, quelle que soit l'importance de leur activité, à
+l'examen de leur organisation et de leur fonctionnement dans le cadre d'une
+procédure de révision coopérative. Un décret en Conseil d'Etat, pris après avis
+du Conseil supérieur des habitations à loyer modéré, fixe les conditions dans
+lesquelles les dispositions relatives à la révision coopérative prévues aux
+articles 25-2 à 25-4 de la loi n° 47-1775 du 10 septembre 1947 portant statut de
+la coopération sont rendues applicables, avec les dérogations et adaptations
+nécessaires, aux sociétés anonymes coopératives de production d'habitations à
+loyer modéré.
 
 Elles peuvent aussi créer des filiales qui auront pour seul objet de construire
 et gérer, dans les communes appartenant à une zone d'urbanisation continue de

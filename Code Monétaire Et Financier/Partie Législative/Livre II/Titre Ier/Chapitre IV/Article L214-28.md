@@ -1,13 +1,14 @@
 Article L214-28
 ----
 I.-L'actif d'un fonds commun de placement à risques doit être constitué, pour 50
-% au moins, de titres participatifs ou de titres de capital de sociétés, ou
-donnant accès au capital de sociétés, qui ne sont pas admis aux négociations sur
-un marché d'instruments financiers français ou étranger, dont le fonctionnement
-est assuré par une entreprise de marché ou un prestataire de services
-d'investissement ou tout autre organisme similaire étranger, ou, par dérogation
-à l'article L. 214-24-34, de parts de sociétés à responsabilité limitée ou de
-sociétés dotées d'un statut équivalent dans l'Etat où elles ont leur siège.
+% au moins, de titres associatifs, de titres participatifs ou de titres de
+capital de sociétés, ou donnant accès au capital de sociétés, qui ne sont pas
+admis aux négociations sur un marché d'instruments financiers français ou
+étranger, dont le fonctionnement est assuré par une entreprise de marché ou un
+prestataire de services d'investissement ou tout autre organisme similaire
+étranger, ou, par dérogation à l'article L. 214-24-34, de parts de sociétés à
+responsabilité limitée ou de sociétés dotées d'un statut équivalent dans l'Etat
+où elles ont leur siège.
 
 II.-L'actif peut également comprendre :
 

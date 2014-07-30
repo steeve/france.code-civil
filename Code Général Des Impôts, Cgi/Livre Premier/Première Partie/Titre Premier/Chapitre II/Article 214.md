@@ -6,10 +6,10 @@ Article 214
 provenant des opérations faites avec les associés et distribués à ces derniers
 au prorata de la commande de chacun d'eux ;
 
-2° En ce qui concerne les sociétés coopératives ouvrières de production, la part
-des bénéfices nets qui est distribuée aux travailleurs dans les conditions
-prévues au 3° de l'article 33 de la loi n° 78-763 du 19 juillet 1978 portant
-statut des sociétés coopératives ouvrières de production ;
+2° En ce qui concerne les sociétés coopératives de production, la part des
+bénéfices nets qui est distribuée aux travailleurs dans les conditions prévues
+au 3° de l'article 33 de la loi n° 78-763 du 19 juillet 1978 portant statut des
+sociétés coopératives de production ;
 
 3° (Abrogé) ;
 
@@ -23,10 +23,10 @@ Cette disposition n'est pas applicable aux sociétés d'intérêt collectif agri
 lorsque les associés visés à l'article L. 522-1 du code rural et de la pêche
 maritime, les établissements de crédit et les sociétés de financement détiennent
 directement ou par l'intermédiaire de leurs filiales 80 % ou plus du capital ou
-des voix et que les associés visés aux 1°,2° et 3° du même article détiennent
+des voix et que les associés visés aux 1°, 2° et 3° du même article détiennent
 moins de 50 % du capital ou des voix ;
 
-6° La fraction éventuelle des ristournes déduites en vertu des 1°,2° et 5° qui
+6° La fraction éventuelle des ristournes déduites en vertu des 1°, 2° et 5° qui
 dépasse 50 % des excédents pouvant être répartis d'un exercice est réintégrée au
 résultat du même exercice à concurrence des sommes apportées ou mises à
 disposition de la coopérative par les bénéficiaires au cours des deux exercices
@@ -36,27 +36,26 @@ suivants ;
 de 50 % du capital est détenu par des associés non coopérateurs, définis au 1
 quinquies de l'article 207, et des titulaires de certificats coopératifs
 d'investissement ou de certificats coopératifs d'associés, à l'exception des
-sociétés coopératives ouvrières de production dont la majorité du capital est
-détenue par une autre société coopérative ouvrière de production dans les
-conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant
-statut des sociétés coopératives ouvrières de production ;
+sociétés coopératives de production dont la majorité du capital est détenue par
+une autre société coopérative de production dans les conditions prévues à
+l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
+coopératives de production ;
 
-Le 2° est toutefois applicable aux sociétés coopératives ouvrières de production
-issues de la transformation d'autres sociétés dans les conditions prévues aux
-articles 48 à 52 de la loi n° 78-763 du 19 juillet 1978 précitée et pour
-lesquelles les associés non coopérateurs s'engagent, au moment de la
-transformation et dans des conditions fixées par décret, à céder un nombre de
-parts sociales suffisant pour permettre aux associés coopérateurs de détenir au
-moins 50 % du capital de la société au plus tard à la clôture du septième
-exercice qui suit celui de la transformation en société coopérative ouvrière de
-production.
+Le 2° est toutefois applicable aux sociétés coopératives de production issues de
+la transformation d'autres sociétés dans les conditions prévues aux articles 48
+à 52 de la loi n° 78-763 du 19 juillet 1978 précitée et pour lesquelles les
+associés non coopérateurs s'engagent, au moment de la transformation et dans des
+conditions fixées par décret, à céder un nombre de parts sociales suffisant pour
+permettre aux associés coopérateurs de détenir au moins 50 % du capital de la
+société au plus tard à la clôture du septième exercice qui suit celui de la
+transformation en société coopérative de production.
 
 En cas de non-respect de l'engagement mentionné au deuxième alinéa, la société
 rapporte au résultat imposable du septième exercice suivant celui de la
-transformation en société coopérative ouvrière de production une somme
-correspondant aux distributions déduites. Les droits correspondants sont majorés
-de l'intérêt de retard prévu à l'article 1727, décompté à partir de l'exercice
-au cours duquel les distributions ont été déduites ;
+transformation en société coopérative de production une somme correspondant aux
+distributions déduites. Les droits correspondants sont majorés de l'intérêt de
+retard prévu à l'article 1727, décompté à partir de l'exercice au cours duquel
+les distributions ont été déduites ;
 
 8° En ce qui concerne les groupements d'employeurs fonctionnant dans les
 conditions prévues aux articles L. 1253-1 à L. 1253-18 du code du travail, les

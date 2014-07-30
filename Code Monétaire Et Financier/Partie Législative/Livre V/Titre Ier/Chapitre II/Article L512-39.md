@@ -7,8 +7,9 @@ l'organe central du crédit agricole sur l'administration et la gestion des
 caisses locales. L'élection, par les conseils d'administration des caisses
 locales de crédit agricole mutuel de leurs président, vice-présidents et
 administrateurs délégués doit être approuvée par la caisse régionale de crédit
-agricole, ainsi que le chiffre de l'indemnité qui peut être attribuée en
-exécution de l'article L. 512-36.
+agricole, ainsi que le montant des indemnités compensatrices qui peuvent être
+attribuées en application de l'article 6 de la loi n° 47-1775 du 10 septembre
+1947 portant statut de la coopération.
 
 Mais les décisions des conseils d'administration des caisses régionales
 relatives à la nomination d'une commission chargée de la gestion provisoire

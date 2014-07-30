@@ -10,3 +10,7 @@ membre participant a été sans influence sur la réalisation du risque.
 Les cotisations acquittées demeurent alors acquises à la mutuelle ou à l'union
 qui a droit au paiement de toutes les cotisations échues à titre de dommages et
 intérêts.
+
+Lorsque l'adhésion à la mutuelle ou à l'union résulte d'une obligation prévue
+dans une convention de branche ou dans un accord professionnel ou
+interprofessionnel, les deux premiers alinéas ne s'appliquent pas.

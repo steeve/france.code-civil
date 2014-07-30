@@ -71,33 +71,33 @@ de cette affectation ne peut être répartie qu'entre les seuls détenteurs
 d'actions de travail.
 
 3. Le montant de la provision pour investissement que les sociétés coopératives
-ouvrières de production peuvent constituer en franchise d'impôt à la clôture
-d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale
-de participation au titre du même exercice. Les dotations à la réserve légale et
-au fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence,
-de provision pour investissement.
+de production peuvent constituer en franchise d'impôt à la clôture d'un exercice
+est au plus égal à celui des sommes portées à la réserve spéciale de
+participation au titre du même exercice. Les dotations à la réserve légale et au
+fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence, de
+provision pour investissement.
 
-Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de
-production dont le capital est détenu pour plus de 50 % par des personnes
-définies au 1 quinquies de l'article 207 et des titulaires de certificats
-coopératifs d'investissement, à l'exception de celles dont la majorité du
-capital est détenue par une autre société coopérative ouvrière de production
-dans les conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet
-1978 portant statut des sociétés coopératives ouvrières de production.
+Cette disposition n'est pas applicable aux sociétés coopératives de production
+dont le capital est détenu pour plus de 50 % par des personnes définies au 1
+quinquies de l'article 207 et des titulaires de certificats coopératifs
+d'investissement, à l'exception de celles dont la majorité du capital est
+détenue par une autre société coopérative de production dans les conditions
+prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant statut des
+sociétés coopératives de production.
 
-Cette disposition est toutefois applicable aux sociétés coopératives ouvrières
-de production issues de la transformation d'autres sociétés dans les conditions
+Cette disposition est toutefois applicable aux sociétés coopératives de
+production issues de la transformation d'autres sociétés dans les conditions
 prévues aux articles 48 à 52 de la même loi et pour lesquelles les associés non
 coopérateurs s'engagent, au moment de la transformation et dans des conditions
 fixées par décret, à céder un nombre de parts sociales suffisant pour permettre
 aux associés coopérateurs de détenir au moins 50 % du capital de la société au
 plus tard à la clôture du septième exercice qui suit celui de la transformation
-en société coopérative ouvrière de production.
+en société coopérative de production.
 
 En cas de non-respect de l'engagement mentionné au troisième alinéa et par
 dérogation au premier alinéa du 4, la société rapporte au résultat imposable du
-septième exercice suivant celui de la transformation en société coopérative
-ouvrière de production une somme correspondant aux excédents de provisions pour
+septième exercice suivant celui de la transformation en société coopérative de
+production une somme correspondant aux excédents de provisions pour
 investissement admis en déduction en application du présent 3 par rapport au
 montant de provision déductible en application du 2. Les droits correspondants
 sont majorés de l'intérêt de retard prévu à l'article 1727, décompté à partir de
@@ -106,9 +106,8 @@ l'exercice au cours duquel la provision a été déduite.
 4. La provision visée aux 1 à 3 est rapportée au bénéfice imposable si elle
 n'est pas utilisée dans le délai de deux ans à l'acquisition ou la création
 d'immobilisations. Ce délai est porté à quatre ans pour les sociétés
-coopératives ouvrières de production lorsque la provision pour investissement
-est représentée par des dotations à la réserve légale et au fonds de
-développement.
+coopératives de production lorsque la provision pour investissement est
+représentée par des dotations à la réserve légale et au fonds de développement.
 
 La provision visée au cinquième alinéa du 1 peut également être utilisée au
 titre des dépenses de formation prévues à l'article L. 3341-3 du code du

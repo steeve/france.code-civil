@@ -8,12 +8,11 @@ dispositions législatives et aux stipulations conventionnelles relatives aux
 éléments mentionnés aux 1° à 5° de l'article L. 1233-24-2, la régularité de la
 procédure d'information et de consultation du comité d'entreprise et, le cas
 échéant, du comité d'hygiène, de sécurité et des conditions de travail et de
-l'instance de coordination mentionnée à l'article L. 4616-1, et le respect par
-le plan de sauvegarde de l'emploi des articles L. 1233-61 à L. 1233-63 en
-fonction des critères suivants :
-
-1° Les moyens dont disposent l'entreprise, l'unité économique et sociale et le
-groupe ;
+l'instance de coordination mentionnée à l'article L. 4616-1, le respect, le cas
+échéant, des obligations prévues aux articles L. 1233-57-9 à L. 1233-57-16, L.
+1233-57-19 et L. 1233-57-20 et le respect par le plan de sauvegarde de l'emploi
+des articles L. 1233-61 à L. 1233-63 en fonction des critères suivants : 1° Les
+moyens dont disposent l'entreprise, l'unité économique et sociale et le groupe ;
 
 2° Les mesures d'accompagnement prévues au regard de l'importance du projet de
 licenciement ;

@@ -1,8 +1,8 @@
 Article L1272-4
 ----
-Les associations utilisant le chèque-emploi associatif sont réputées satisfaire
-à l'ensemble des formalités liées à l'embauche et à l'emploi de leurs salariés.
-Il en va ainsi notamment des formalités suivantes :
+Les associations et les fondations utilisant le chèque-emploi associatif sont
+réputées satisfaire à l'ensemble des formalités liées à l'embauche et à l'emploi
+de leurs salariés. Il en va ainsi notamment des formalités suivantes :
 
 1° La déclaration préalable à l'embauche, prévue par l'article L. 1221-10 ;
 
