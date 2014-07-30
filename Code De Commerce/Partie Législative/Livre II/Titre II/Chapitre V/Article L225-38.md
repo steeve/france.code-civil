@@ -15,3 +15,7 @@ entre la société et une entreprise, si le directeur général, l'un des direct
 généraux délégués ou l'un des administrateurs de la société est propriétaire,
 associé indéfiniment responsable, gérant, administrateur, membre du conseil de
 surveillance ou, de façon générale, dirigeant de cette entreprise.
+
+L'autorisation préalable du conseil d'administration est motivée en justifiant
+de l'intérêt de la convention pour la société, notamment en précisant les
+conditions financières qui y sont attachées.

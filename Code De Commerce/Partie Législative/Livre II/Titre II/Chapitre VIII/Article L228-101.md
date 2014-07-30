@@ -18,7 +18,7 @@ des sociétés bénéficiaires des apports ou de la ou des sociétés nouvelles
 emporte renonciation par les actionnaires et, le cas échéant, par les titulaires
 de certificats d'investissement de ces sociétés, au droit préférentiel de
 souscription mentionné à l'article L. 228-35 ou, au deuxième alinéa de l'article
-L. 228-91, au profit des titulaires de valeurs mobilières donnant accès de
+L. 228-92, au profit des titulaires de valeurs mobilières donnant accès de
 manière différée au capital.
 
 La ou les sociétés bénéficiaires des apports ou la ou les nouvelles sociétés

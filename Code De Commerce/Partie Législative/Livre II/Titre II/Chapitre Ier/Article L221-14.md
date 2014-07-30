@@ -7,4 +7,5 @@ l'acte de cession au siège social contre remise par le gérant d'une attestatio
 de ce dépôt.
 
 Elle n'est opposable aux tiers qu'après accomplissement de ces formalités et, en
-outre, après publicité au registre du commerce et des sociétés.
+outre, après publication des statuts modifiés au registre du commerce et des
+sociétés ; ce dépôt peut être effectué par voie électronique.

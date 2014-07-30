@@ -4,11 +4,11 @@ I.-En vue de l'identification des détenteurs des titres au porteur, les statuts
 peuvent prévoir que la société émettrice est en droit de demander à tout moment,
 contre rémunération à sa charge, au dépositaire central qui assure la tenue du
 compte émission de ses titres, selon le cas, le nom ou la dénomination, la
-nationalité, l'année de naissance ou l'année de constitution et l'adresse des
-détenteurs de titres conférant immédiatement ou à terme le droit de vote dans
-ses propres assemblées d'actionnaires ainsi que la quantité de titres détenue
-par chacun d'eux et, le cas échéant, les restrictions dont les titres peuvent
-être frappés.
+nationalité, l'année de naissance ou l'année de constitution et l'adresse
+postale et, le cas échéant, électronique des détenteurs de titres conférant
+immédiatement ou à terme le droit de vote dans ses propres assemblées
+d'actionnaires ainsi que la quantité de titres détenue par chacun d'eux et, le
+cas échéant, les restrictions dont les titres peuvent être frappés.
 
 Les renseignements sont recueillis par le dépositaire central susmentionné
 auprès des établissements teneurs de comptes qui lui sont affiliés, lesquels les
@@ -17,10 +17,16 @@ jours ouvrables qui en suivent la réception, ces renseignements sont portés pa
 le dépositaire central à la connaissance de la société.
 
 Lorsque le délai fixé par décret n'est pas respecté, ou lorsque les
-renseignements fournis par l'établissement teneur de comptes sont incomplets ou
-erronés, le dépositaire central peut demander l'exécution de l'obligation de
-communication, sous astreinte, au président du tribunal de grande instance
-statuant en référé.
+renseignements fournis par l'établissement teneur de comptes, à l'exception de
+la communication de l'adresse électronique, sont incomplets ou erronés, le
+dépositaire central peut demander l'exécution de l'obligation de communication,
+sous astreinte, au président du tribunal de grande instance statuant en référé.
+
+Sauf clause contraire du contrat d'émission et nonobstant le silence des
+statuts, toute personne morale émettrice d'obligations, autre que les personnes
+morales de droit public, a la faculté de demander l'identification des porteurs
+de ces titres dans les conditions et suivant les modalités prévues aux alinéas
+précédents.
 
 II.-La société émettrice, après avoir suivi la procédure prévue au I et au vu de
 la liste transmise par le dépositaire central susmentionné, a la faculté de
@@ -31,7 +37,7 @@ pourraient être inscrites pour compte de tiers les informations concernant les
 propriétaires des titres prévues au I.
 
 Ces personnes sont tenues, lorsqu'elles ont la qualité d'intermédiaire, de
-révéler l'identité des propriétaires de ces titres.L'information est fournie
+révéler l'identité des propriétaires de ces titres. L'information est fournie
 directement à l'intermédiaire mentionné à l'article L. 211-3 du code monétaire
 et financier qui tient le compte-titres, à charge pour ce dernier de la
 communiquer, selon le cas, à la société émettrice ou au dépositaire central

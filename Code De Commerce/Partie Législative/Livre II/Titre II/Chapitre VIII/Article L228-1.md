@@ -24,12 +24,12 @@ Ces valeurs mobilières, quelle que soit leur forme, doivent être inscrites en
 compte au nom de leur propriétaire, dans les conditions prévues aux articles L.
 211-3 et L. 211-4 du code monétaire et financier.
 
-Toutefois, lorsque des titres de capital de la société ont été admis aux
-négociations sur un marché réglementé et que leur propriétaire n'a pas son
-domicile sur le territoire français, au sens de l'article 102 du code civil,
-tout intermédiaire peut être inscrit pour le compte de ce propriétaire. Cette
-inscription peut être faite sous la forme d'un compte collectif ou en plusieurs
-comptes individuels correspondant chacun à un propriétaire.
+Toutefois, lorsque des titres de capital ou des obligations de la société ont
+été admis aux négociations sur un marché réglementé et que leur propriétaire n'a
+pas son domicile sur le territoire français, au sens de l'article 102 du code
+civil, tout intermédiaire peut être inscrit pour le compte de ce propriétaire.
+Cette inscription peut être faite sous la forme d'un compte collectif ou en
+plusieurs comptes individuels correspondant chacun à un propriétaire.
 
 L'intermédiaire inscrit est tenu, au moment de l'ouverture de son compte auprès
 soit de la société émettrice, soit de l'intermédiaire mentionné à l'article L.

@@ -2,8 +2,9 @@ Article L223-26
 ----
 Le rapport de gestion, l'inventaire et les comptes annuels établis par les
 gérants, sont soumis à l'approbation des associés réunis en assemblée, dans le
-délai de six mois à compter de la clôture de l'exercice. Si l'assemblée des
-associés n'a pas été réunie dans ce délai, le ministère public ou toute personne
+délai de six mois à compter de la clôture de l'exercice sous réserve de
+prolongation de ce délai par décision de justice. Si l'assemblée des associés
+n'a pas été réunie dans ce délai, le ministère public ou toute personne
 intéressée peut saisir le président du tribunal compétent statuant en référé
 afin d'enjoindre, le cas échéant sous astreinte, aux gérants de convoquer cette
 assemblée ou de désigner un mandataire pour y procéder.

@@ -90,3 +90,13 @@ Parlement un rapport relatif à l'application par les entreprises des
 dispositions visées au cinquième alinéa et aux actions qu'il promeut en France,
 en Europe et au niveau international pour encourager la responsabilité sociétale
 des entreprises.
+
+Le rapport prévu à l'article L. 225-102 mentionne, sauf lorsqu'elles sont des
+conventions portant sur des opérations courantes et conclues à des conditions
+normales, les conventions intervenues, directement ou par personne interposée,
+entre, d'une part et selon le cas, l'un des membres du directoire ou du conseil
+de surveillance, le directeur général, l'un des directeurs généraux délégués,
+l'un des administrateurs ou l'un des actionnaires disposant d'une fraction des
+droits de vote supérieure à 10 %, d'une société et, d'autre part, une autre
+société dont cette dernière possède, directement ou indirectement, plus de la
+moitié du capital.
