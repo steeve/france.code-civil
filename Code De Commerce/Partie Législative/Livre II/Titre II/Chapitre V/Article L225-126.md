@@ -9,15 +9,15 @@ plusieurs opérations de cession temporaire portant sur ces actions ou de toute
 opération lui donnant le droit ou lui faisant obligation de revendre ou de
 restituer ces actions au cédant, un nombre d'actions représentant plus du
 deux-centième des droits de vote, informe la société et l'Autorité des marchés
-financiers, au plus tard le troisième jour ouvré précédant l'assemblée générale
-à zéro heure, heure de Paris, et lorsque le contrat organisant cette opération
-demeure en vigueur à cette date, du nombre total d'actions qu'elle possède à
-titre temporaire. Cette déclaration doit comporter, outre le nombre d'actions
-acquises au titre de l'une des opérations susmentionnées, l'identité du cédant,
-la date et l'échéance du contrat relatif à l'opération et, s'il y a lieu, la
-convention de vote. La société publie ces informations dans les conditions et
-selon les modalités prévues par le règlement général de l'Autorité des marchés
-financiers.
+financiers, au plus tard à la date d'inscription en compte des actionnaires
+précédant l'assemblée générale, fixée par décret en Conseil d'Etat, et lorsque
+le contrat organisant cette opération demeure en vigueur à cette date, du nombre
+total d'actions qu'elle possède à titre temporaire. Cette déclaration doit
+comporter, outre le nombre d'actions acquises au titre de l'une des opérations
+susmentionnées, l'identité du cédant, la date et l'échéance du contrat relatif à
+l'opération et, s'il y a lieu, la convention de vote. La société publie ces
+informations dans les conditions et selon les modalités prévues par le règlement
+général de l'Autorité des marchés financiers.
 
 II.-A défaut d'information de la société et de l'Autorité des marchés financiers
 dans les conditions prévues au I, les actions acquises au titre de l'une des
