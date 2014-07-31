@@ -11,5 +11,6 @@ scolaire ne doit être versée que sur justification de l'inscription de l'enfan
 intéressé pour la nouvelle année scolaire dans un établissement ou organisme
 d'enseignement.
 
-La même justification est exigée pour le versement de l'allocation de rentrée
-scolaire après la fin de l'obligation scolaire.
+Pour le versement de l'allocation de rentrée scolaire après la fin de
+l'obligation scolaire, la condition d'inscription est présumée remplie sur la
+foi d'une déclaration sur l'honneur.
