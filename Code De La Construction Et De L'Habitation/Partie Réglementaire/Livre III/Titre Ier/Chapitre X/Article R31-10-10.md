@@ -2,122 +2,68 @@ Article R31-10-10
 ----
 Le plafond, prévu à l'article L. 31-10-10, dans la limite duquel est retenu le
 coût total de l'opération est fixé, en fonction du nombre des personnes
-mentionnées au b de l'article L. 31-10-4, du caractère neuf ou ancien du
-logement et de sa localisation, dans le tableau ci-après :
-
-NOMBRE de personnes
+mentionnées au b de l'article L. 31-10-4 et de la localisation du logement ,
+dans le tableau ci-après :
 
 
-NEUF
-
-ANCIEN
-
+NOMBRE DE PERSONNES
 
 ZONE A
 
-ZONE B1
-
-
-ZONE B2
-
-ZONE C
-
-
-ZONE A
 
 ZONE B1
 
-
 ZONE B2
+
 
 ZONE C
 
 1
 
-156 000 €
+150 000 €
 
-117 000 €
+135 000 €
 
-86 000 €
+110 000 €
 
-79 000 €
-
-124 000 €
-
-93 000 €
-
-86 000 €
-
-79 000 €
+100 000 €
 
 2
 
-218 000 €
+210 000 €
 
-164 000 €
+189 000 €
 
-120 000 €
+154 000 €
 
-111 000 €
-
-174 000 €
-
-130 000 €
-
-120 000 €
-
-111 000 €
+140 000 €
 
 3
 
-265 000 €
+255 000 €
 
-199 000 €
+230 000 €
 
-146 000 €
+187 000 €
 
-134 000 €
-
-211 000 €
-
-158 000 €
-
-146 000 €
-
-134 000 €
+170 000 €
 
 4
 
-312 000 €
+300 000 €
 
-234 000 €
+270 000 €
 
-172 000 €
+220 000 €
 
-158 000 €
-
-248 000 €
-
-186 000 €
-
-172 000 €
-
-158 000 €
+200 000 €
 
 5 et plus
 
-359 000 €
+345 000 €
 
-269 000 €
+311 000 €
 
-198 000 €
+253 000 €
 
-182 000 €
-
-285 000 €
-
-214 000 €
-
-198 000 €
-
-182 000 €
+230 000 €

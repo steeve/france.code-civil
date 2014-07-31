@@ -8,12 +8,12 @@ ci-après :
 
 TRANCHE
 
-CAPITAL différé
+CAPITAL DIFFÉRÉ
 
 
-DURÉE de la période 1
+DURÉE DE LA PÉRIODE 1
 
-DURÉE de la période 2
+DURÉE DE LA PÉRIODE 2
 
 1
 
@@ -27,17 +27,17 @@ DURÉE de la période 2
 
 100 %
 
-5 ans
+7 ans
 
-20 ans
+18 ans
 
 3
 
-0 %
+100 %
 
-20 ans
+5 ans
 
-―
+15 ans
 
 4
 
@@ -45,7 +45,7 @@ DURÉE de la période 2
 
 16 ans
 
-―
+-
 
 5
 
@@ -53,7 +53,7 @@ DURÉE de la période 2
 
 12 ans
 
-―
+-
 
 L'appartenance à l'une des tranches mentionnées à l'article L. 31-10-12 est
 déterminée par la correspondance entre les limites de tranche et le montant
@@ -62,108 +62,60 @@ coefficient familial apprécié selon les modalités fixées à l'article L.
 31-10-12.
 
 Les limites de tranche mentionnées à l'alinéa précédent sont fixées, en fonction
-du caractère neuf ou ancien du logement et de sa localisation, dans le tableau
-ci-après :
+de la localisation du logement, dans le tableau ci-après :
 
 
 TRANCHE
 
-NEUF
+ZONE A
 
 
-ANCIEN
+ZONE B1
 
-Zone A
-
-
-Zone B1
-
-Zone B2
+ZONE B2
 
 
-Zone C
-
-Zone A
-
-
-Zone B1
-
-Zone B2
-
-
-Zone C
+ZONE C
 
 1
 
-≤ 23 000 €
+≤ 20 000 €
 
 ≤ 18 000 €
 
-≤14 000 €
+≤ 15 000 €
 
-≤ 11 500 €
-
-≤ 20 500 €
-
-≤ 16 000 €
-
-≤ 12 500 €
-
-≤ 11 500 €
+≤ 13 000 €
 
 2
 
-≤ 25 500 €
+≤ 22 000 €
 
 ≤ 19 500 €
 
-≤15 000 €
-
-≤ 13 000 €
-
-≤ 23 000 €
-
-≤ 18 000 €
+≤ 16 500 €
 
 ≤ 14 000 €
-
-≤ 13 000 €
 
 3
 
-≤ 28 500 €
+≤ 25 000 €
 
 ≤ 21 500 €
-
-≤ 16 500 €
-
-≤ 14 000 €
-
-≤ 25 500 €
-
-≤ 19 500 €
-
-≤ 15 000 €
-
-≤ 14 000 €
-
-4
-
-≤ 31 000 €
-
-≤ 23 500 €
 
 ≤ 18 000 €
 
 ≤ 15 000 €
 
-≤ 28 500 €
+4
 
-≤ 21 500 €
+≤ 28 000 €
 
-≤ 16 500 €
+≤ 23 500 €
 
-≤ 15 000 €
+≤ 20 000 €
+
+≤ 18 500 €
 
 5
 
@@ -171,14 +123,6 @@ Zone C
 
 ≤ 26 000 €
 
-≤ 20 000 €
+≤ 24 000 €
 
-≤ 18 500 €
-
-≤ 36 000 €
-
-≤ 26 000 €
-
-≤ 20 000 €
-
-≤ 18 500 €
+≤ 22 000 €
