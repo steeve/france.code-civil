@@ -1,6 +1,6 @@
 Article R160-1
 ----
-I. - Le ministre chargé de l'aviation civile peut prononcer une amende
+I.-Le ministre chargé de l'aviation civile peut prononcer une amende
 administrative à l'encontre d'un transporteur aérien ou de tout autre exploitant
 d'aéronef civil qui :
 
@@ -20,7 +20,15 @@ retrait d'exploitation des aéronefs bruyants ;
 d'assurance fixées par les dispositions du règlement (CE) n° 785/2004 du
 Parlement européen et du Conseil du 21 avril 2004 relatif aux exigences en
 matière d'assurance applicables aux transporteurs aériens et aux exploitants
-d'aéronefs.
+d'aéronefs ;
+
+4° Soit dépose un plan de vol mentionnant une exemption de créneau de départ de
+gestion des courants de trafic aérien (créneau de départ ATFM) pour un motif
+abusif ou, en méconnaissance de l'article 7, paragraphe 1, du règlement (UE) n°
+255/2010 de la Commission du 25 mars 2010 établissant des règles communes
+relatives à la gestion des courants de trafic aérien, dépose plusieurs plans de
+vol pour un même vol ou dépose un plan de vol qui ne rend pas compte du profil
+de vol prévu.
 
 Le ministre chargé de l'aviation civile fixe le montant de l'amende en tenant
 compte du type et de la gravité des manquements constatés et, éventuellement,
@@ -35,7 +43,7 @@ le retrait de la licence d'exploitation, soit le refus du droit d'atterrir sur
 le territoire national conformément aux paragraphes 5 et 6 de l'article 8 du
 règlement précité.
 
-II. - Lorsque le titulaire de la licence de maintenance d'aéronefs commet, dans
+II.-Lorsque le titulaire de la licence de maintenance d'aéronefs commet, dans
 l'exercice ou à l'occasion de l'exercice de ses fonctions, une des actions
 énumérées dans la liste du paragraphe 66 B 500 de l'annexe III (partie 66) au
 règlement mentionné à l'article R. 133-17, le ministre chargé de l'aviation
@@ -44,7 +52,7 @@ prononcer à son encontre l'une des sanctions suivantes :
 
 1° L'avertissement ;
 
-2° La suspension, jusqu'à ce qu'un complément de formation pratique et/ou
+2° La suspension, jusqu'à ce qu'un complément de formation pratique et/ ou
 théorique réalisé dans les conditions fixées par la décision de sanction ait été
 suivi par l'intéressé, de la licence, des catégories et qualifications qui y
 sont mentionnées ;
@@ -57,7 +65,7 @@ sont indiquées avec interdiction, le cas échéant, d'en solliciter de nouveau 
 délivrance à titre définitif ou pendant une durée déterminée par la décision de
 sanction.
 
-III. - Le ministre chargé de l'aviation civile peut suspendre à titre
+III.-Le ministre chargé de l'aviation civile peut suspendre à titre
 conservatoire, dans l'attente de la consultation de la commission mentionnée à
 l'article R. 160-3, la licence de maintenance d'aéronefs, pour une durée qui ne
 peut excéder quatre mois, s'il estime que les manquements qui ont été portés à
