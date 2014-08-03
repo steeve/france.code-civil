@@ -1,8 +1,8 @@
 Article L4123-10
 ----
 Les militaires sont protégés par le code pénal et les lois spéciales contre les
-menaces, violences, voies de fait, injures, diffamations ou outrages dont ils
-peuvent être l'objet.
+menaces, violences, harcèlements moral ou sexuel, voies de fait, injures,
+diffamations ou outrages dont ils peuvent être l'objet.
 
 L'Etat est tenu de les protéger contre les menaces et attaques dont ils peuvent
 être l'objet à l'occasion de l'exercice de leurs fonctions et de réparer, le cas
@@ -28,7 +28,8 @@ mesure où aucune faute personnelle détachable de l'exercice des fonctions n'a
 Les conjoints, concubins, partenaires liés par un pacte civil de solidarité,
 enfants et ascendants directs des militaires bénéficient de la protection de
 l'Etat lorsque, du fait des fonctions de ces derniers, ils sont victimes de
-menaces, violences, voies de fait, injures, diffamations ou outrages.
+menaces, violences, harcèlements moral ou sexuel, voies de fait, injures,
+diffamations ou outrages.
 
 Cette protection peut également être accordée, à sa demande, au conjoint,
 concubin ou partenaire lié par un pacte civil de solidarité qui engage une

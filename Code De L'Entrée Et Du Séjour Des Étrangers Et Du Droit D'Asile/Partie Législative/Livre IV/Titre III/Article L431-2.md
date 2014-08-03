@@ -15,9 +15,9 @@ résident et qu'il établit contribuer effectivement, depuis la naissance, à
 l'entretien et à l'éducation du ou des enfants dans les conditions prévues à
 l'article 371-2 du code civil.
 
-En outre, lorsque la communauté de vie a été rompue en raison de violences
-conjugales qu'il a subies de la part de son conjoint, l'autorité administrative
-ne peut procéder au retrait du titre de séjour de l'étranger admis au séjour au
+En outre, lorsque l'étranger a subi des violences conjugales de la part de son
+conjoint et que la communauté de vie a été rompue, l'autorité administrative ne
+peut procéder au retrait du titre de séjour de l'étranger admis au séjour au
 titre du regroupement familial et peut en accorder le renouvellement. En cas de
 violence commise après l'arrivée en France du conjoint mais avant la première
 délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf

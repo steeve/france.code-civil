@@ -20,9 +20,12 @@ d'action est déposé auprès de l'autorité administrative.
 Ce rapport comporte une analyse permettant d'apprécier, pour chacune des
 catégories professionnelles de l'entreprise, la situation respective des femmes
 et des hommes en matière d'embauche, de formation, de promotion professionnelle,
-de qualification, de classification, de conditions de travail, de rémunération
-effective et d'articulation entre l'activité professionnelle et l'exercice de la
-responsabilité familiale.
+de qualification, de classification, de conditions de travail, de sécurité et de
+santé au travail, de rémunération effective et d'articulation entre l'activité
+professionnelle et l'exercice de la responsabilité familiale. Il analyse les
+écarts de salaires et de déroulement de carrière en fonction de leur âge, de
+leur qualification et de leur ancienneté. Il décrit l'évolution des taux de
+promotion respectifs des femmes et des hommes par métiers dans l'entreprise.
 
 Une synthèse de ce plan d'action, comprenant au minimum des indicateurs et
 objectifs de progression définis par décret, est portée à la connaissance des

@@ -7,7 +7,9 @@ ou d'administrateurs suppléants.
 
 Les suppléants sont appelés à siéger au conseil ou au conseil d'administration
 en l'absence des titulaires et à remplacer ceux dont le siège deviendrait
-vacant. Le nombre de suppléants est égal au nombre de titulaires. Lorsque le
+vacant. Le nombre de suppléants est égal au nombre de titulaires. Le suppléant
+appelé à remplacer le titulaire qui siège au sein du conseil d'administration ou
+du conseil d'une caisse nationale est du même sexe que celui-ci. Lorsque le
 siège d'un de ses représentants titulaire ou suppléant devient vacant,
 l'organisation nationale concernée désigne un ou plusieurs nouveaux
 représentants. Ces nouveaux représentants siègent jusqu'au renouvellement

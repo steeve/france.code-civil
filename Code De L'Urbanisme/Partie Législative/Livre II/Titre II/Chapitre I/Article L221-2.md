@@ -1,7 +1,7 @@
 Article L221-2
 ----
 La personne publique qui s'est rendue acquéreur d'une réserve foncière doit en
-assurer la gestion en bon père de famille.
+assurer la gestion raisonnablement.
 
 Avant leur utilisation définitive, les immeubles acquis pour la constitution de
 réserves foncières ne peuvent faire l'objet d'aucune cession en pleine propriété

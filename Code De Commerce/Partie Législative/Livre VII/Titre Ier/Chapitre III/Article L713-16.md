@@ -9,6 +9,9 @@ Les membres des chambres de commerce et d'industrie de région, départementales
 d'Ile-de-France et territoriales sont élus le même jour, dans des conditions
 fixées par décret en Conseil d'Etat.
 
+Le candidat à l'élection des membres d'une chambre de commerce et d'industrie de
+région et son suppléant sont de sexe différent.
+
 Les membres élus à la chambre de commerce et d'industrie de région et leurs
 suppléants sont également membres de la chambre territoriale de la
 circonscription où ils ont été désignés. La perte ou la renonciation de la

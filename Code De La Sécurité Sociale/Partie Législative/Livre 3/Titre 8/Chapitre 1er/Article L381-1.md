@@ -2,26 +2,26 @@ Article L381-1
 ----
 La personne isolée et, pour un couple, l'un ou l'autre de ses membres n'exerçant
 pas d'activité professionnelle, bénéficiaire du complément familial, de
-l'allocation de base de la prestation d'accueil du jeune enfant ou du complément
-de libre choix d'activité de cette prestation, est affilié obligatoirement à
+l'allocation de base de la prestation d'accueil du jeune enfant ou de la
+prestation partagée d'éducation de l'enfant, est affilié obligatoirement à
 l'assurance vieillesse du régime général de sécurité sociale sous réserve que
 ses ressources ou celles du ménage soient inférieures à un plafond fixé par
 décret et que les enfants dont il assume la charge remplissent les conditions
 d'âge et de nombre qui sont fixées par le même décret.
 
 La personne isolée ou chacun des membres d'un couple exerçant une activité
-professionnelle à temps partiel, bénéficiaire du complément de libre choix
-d'activité à taux partiel, est affilié obligatoirement à l'assurance vieillesse
-du régime général de sécurité sociale sous réserve que ses ressources ou celles
-du ménage soient inférieures à un plafond fixé par décret et que les enfants
-dont il assume la charge remplissent les conditions d'âge et de nombre qui sont
-fixées par décret.
+professionnelle à temps partiel, bénéficiaire de la prestation partagée
+d'éducation de l'enfant à taux partiel, est affilié obligatoirement à
+l'assurance vieillesse du régime général de sécurité sociale sous réserve que
+ses ressources ou celles du ménage soient inférieures à un plafond fixé par
+décret et que les enfants dont il assume la charge remplissent les conditions
+d'âge et de nombre qui sont fixées par décret.
 
 La personne bénéficiaire de l'allocation journalière de présence parentale est
 affiliée à l'assurance vieillesse du régime général.
 
 Est également affiliée obligatoirement à l'assurance vieillesse du régime
-général de sécurité sociale , la personne bénéficiaire du congé de soutien
+général de sécurité sociale, la personne bénéficiaire du congé de soutien
 familial prévu à l'article L. 225-20 du code du travail. Cette affiliation est
 subordonnée à la production de justificatifs, définis par décret.
 
@@ -37,7 +37,7 @@ jusqu'au quatrième degré ou de l'ascendant, du descendant ou du collatéral
 jusqu'au quatrième degré de son conjoint, de son concubin ou de la personne avec
 laquelle il a conclu un pacte civil de solidarité, présentant un handicap ou une
 perte d'autonomie d'une particulière gravité, est affilié obligatoirement, pour
-une durée de trois mois, à l'assurance vieillesse du régime général . Cette
+une durée de trois mois, à l'assurance vieillesse du régime général. Cette
 affiliation peut être renouvelée, dans la limite d'une durée maximale d'une
 année. Elle n'est pas subordonnée à la radiation du travailleur non salarié du
 centre de formalités des entreprises dont il relève. Elle est subordonnée à la

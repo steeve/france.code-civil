@@ -9,9 +9,9 @@ dans les conditions prévues au troisième alinéa de l'article L. 553-2 :
 
 1°) pour le paiement des dettes alimentaires ou l'exécution de la contribution
 aux charges du mariage et liées à l'entretien des enfants : l'allocation de base
-et le complément de libre choix d'activité de la prestation d'accueil du jeune
-enfant, les allocations familiales, le complément familial, l'allocation de
-rentrée scolaire, l'allocation de soutien familial ;
+et la prestation partagée d'éducation de l'enfant, les allocations familiales,
+le complément familial, l'allocation de rentrée scolaire, l'allocation de
+soutien familial ;
 
 2°) pour le paiement des frais entraînés par les soins, l'hébergement,
 l'éducation ou la formation notamment dans les établissements mentionnés à

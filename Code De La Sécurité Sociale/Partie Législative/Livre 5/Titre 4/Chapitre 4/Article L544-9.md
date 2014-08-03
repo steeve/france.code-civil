@@ -18,8 +18,7 @@ et de la pêche maritime et à l'article 17 de la loi n° 97-1051 du 18 novembre
 
 5° Un avantage personnel de vieillesse ou d'invalidité ;
 
-6° L'allocation parentale d'éducation ou le complément de libre choix d'activité
-de la prestation d'accueil du jeune enfant ;
+6° La prestation partagée d'éducation de l'enfant ;
 
 7° Le complément et la majoration de l'allocation d'éducation de l'enfant
 handicapé perçus pour le même enfant ;

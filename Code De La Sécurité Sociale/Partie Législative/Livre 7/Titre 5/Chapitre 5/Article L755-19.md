@@ -8,6 +8,5 @@ L'allocation de base de la prestation d'accueil du jeune enfant n'est pas
 cumulable avec les allocations familiales et leurs majorations pour âge servies
 au titre d'un seul enfant à charge.
 
-L'allocation de base et le complément de libre choix d'activité de cette
-prestation ne sont pas cumulables avec le complément familial défini à l'article
-L. 755-16.
+L'allocation de base et la prestation partagée d'éducation de l'enfant ne sont
+pas cumulables avec le complément familial défini à l'article L. 755-16.

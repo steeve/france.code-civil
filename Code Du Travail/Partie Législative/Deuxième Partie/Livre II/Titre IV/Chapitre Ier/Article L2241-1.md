@@ -5,4 +5,4 @@ accords professionnels, se réunissent, au moins une fois par an, pour négocier
 sur les salaires.
 
 Ces négociations prennent en compte l'objectif d'égalité professionnelle entre
-les femmes et les hommes.
+les femmes et les hommes, ainsi que les mesures permettant de l'atteindre.

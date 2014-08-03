@@ -11,11 +11,11 @@ des indicateurs qui tiennent compte de la situation particulière de
 l'entreprise, permettant d'apprécier, pour chacune des catégories
 professionnelles de l'entreprise, la situation respective des femmes et des
 hommes en matière d'embauche, de formation, de promotion professionnelle, de
-qualification, de classification, de conditions de travail et de rémunération
-effective. Ce rapport recense les mesures prises au cours de l'année écoulée en
-vue d'assurer l'égalité professionnelle, les objectifs prévus pour l'année à
-venir et la définition qualitative et quantitative des actions à mener à ce
-titre ainsi que l'évaluation de leur coût.
+qualification, de classification, de conditions de travail, de sécurité et de
+santé au travail et de rémunération effective. Ce rapport recense les mesures
+prises au cours de l'année écoulée en vue d'assurer l'égalité professionnelle,
+les objectifs prévus pour l'année à venir et la définition qualitative et
+quantitative des actions à mener à ce titre ainsi que l'évaluation de leur coût.
 
 Dans le cas où des actions prévues par le rapport précédent ou demandées par le
 comité n'ont pas été réalisées, le rapport donne les motifs de cette
@@ -31,3 +31,17 @@ Les indicateurs mentionnés au premier alinéa du présent article sont portés 
 l'employeur à la connaissance des salariés par voie d'affichage sur les lieux de
 travail et, éventuellement, par tout autre moyen adapté aux conditions
 d'exercice de l'activité de l'entreprise.
+
+Dans les entreprises de moins de trois cents salariés, le rapport mentionné au
+premier alinéa recoupe des données salariales en fonction de l'âge, du niveau de
+qualification et du sexe des salariés à postes équivalents, de façon à mesurer
+d'éventuels écarts dans le déroulement de carrière. Il analyse les écarts de
+salaires et de déroulement de carrière en fonction de leur âge, de leur
+qualification et de leur ancienneté. Il décrit l'évolution des taux de promotion
+respectifs des femmes et des hommes par métier dans l'entreprise.
+
+Dans les entreprises de trois cents salariés et plus, le rapport mentionné au
+premier alinéa analyse les écarts de salaires et les déroulements de carrières
+en fonction de leur âge, de leur qualification et de leur sexe. Il décrit
+l'évolution des taux de promotion respectifs des femmes et des hommes par métier
+dans une même entreprise.

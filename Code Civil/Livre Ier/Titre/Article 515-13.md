@@ -1,7 +1,7 @@
 Article 515-13
 ----
-Une ordonnance de protection peut également être délivrée par le juge à la
-personne majeure menacée de mariage forcé, dans les conditions fixées à
+Une ordonnance de protection peut également être délivrée en urgence par le juge
+à la personne majeure menacée de mariage forcé, dans les conditions fixées à
 l'article 515-10.
 
 Le juge est compétent pour prendre les mesures mentionnées aux 1°, 2°, 6° et 7°

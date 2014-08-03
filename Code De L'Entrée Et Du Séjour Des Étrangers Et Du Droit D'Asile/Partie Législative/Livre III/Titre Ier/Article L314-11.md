@@ -4,7 +4,7 @@ Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la
 carte de résident est délivrée de plein droit, sous réserve de la régularité du
 séjour :
 
-1° Abrogé
+1° (Abrogé).
 
 2° A l'enfant étranger d'un ressortissant de nationalité française si cet enfant
 est âgé de dix-huit à vingt et un ans ou dans les conditions prévues à l'article
@@ -45,6 +45,9 @@ si l'étranger qui a obtenu le statut de réfugié est un mineur non accompagné
 9° A l'apatride justifiant de trois années de résidence régulière en France
 ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième
 anniversaire ou entrant dans les prévisions de l'article L. 311-3 ;
+
+10° A l'étranger qui remplit les conditions prévues au second alinéa de
+l'article L. 316-1.
 
 L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayant une
 filiation légalement établie, y compris l'enfant adopté, en vertu d'une décision

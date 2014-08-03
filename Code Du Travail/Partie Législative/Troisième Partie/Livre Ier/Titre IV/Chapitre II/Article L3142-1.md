@@ -5,6 +5,8 @@ familiaux, d'une autorisation exceptionnelle d'absence de :
 
 1° Quatre jours pour son mariage ;
 
+1° bis Quatre jours pour la conclusion d'un pacte civil de solidarité ;
+
 2° Trois jours pour chaque naissance survenue à son foyer ou pour l'arrivée d'un
 enfant placé en vue de son adoption. Ces jours d'absence ne se cumulent pas avec
 les congés accordés pour ce même enfant dans le cadre du congé de maternité ;

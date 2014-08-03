@@ -16,8 +16,7 @@ et de la pêche maritime et à l'article 17 de la loi n° 97-1051 du 18 novembre
 
 4° Les indemnités servies aux demandeurs d'emploi ;
 
-5° L'allocation parentale d'éducation ou le complément de libre choix d'activité
-de la prestation d'accueil du jeune enfant.
+5° La prestation partagée d'éducation de l'enfant.
 
 Toutefois, l'allocation journalière d'accompagnement d'une personne en fin de
 vie est cumulable en cours de droit avec l'indemnisation mentionnée au 3° perçue

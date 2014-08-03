@@ -10,9 +10,12 @@ l'entreprise.
 Ce rapport comporte une analyse permettant d'apprécier, pour chacune des
 catégories professionnelles de l'entreprise, la situation respective des femmes
 et des hommes en matière d'embauche, de formation, de promotion professionnelle,
-de qualification, de classification, de conditions de travail, de rémunération
-effective et d'articulation entre l'activité professionnelle et l'exercice de la
-responsabilité familiale.
+de qualification, de classification, de conditions de travail, de sécurité et de
+santé au travail, de rémunération effective et d'articulation entre l'activité
+professionnelle et l'exercice de la responsabilité familiale. Il analyse les
+écarts de salaires et de déroulement de carrière en fonction de leur âge, de
+leur qualification et de leur ancienneté. Il décrit l'évolution des taux de
+promotion respectifs des femmes et des hommes par métiers dans l'entreprise.
 
 Il est établi à partir d'indicateurs pertinents, reposant notamment sur des
 éléments chiffrés, définis par décret et éventuellement complétés par des

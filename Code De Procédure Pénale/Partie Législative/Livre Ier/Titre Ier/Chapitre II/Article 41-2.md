@@ -72,7 +72,15 @@ nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou
 psychologique ; les dispositions du présent 14° sont également applicables
 lorsque l'infraction est commise par l'ancien conjoint ou concubin de la
 victime, ou par la personne ayant été liée à elle par un pacte civil de
-solidarité, le domicile concerné étant alors celui de la victime ;
+solidarité, le domicile concerné étant alors celui de la victime. Pour
+l'application du présent 14°, le procureur de la République recueille ou fait
+recueillir, dans les meilleurs délais et par tous moyens, l'avis de la victime
+sur l'opportunité de demander à l'auteur des faits de résider hors du logement
+du couple. Sauf circonstances particulières, cette mesure est prise lorsque sont
+en cause des faits de violences susceptibles d'être renouvelés et que la victime
+la sollicite. Le procureur de la République peut préciser les modalités de prise
+en charge des frais afférents à ce logement pendant une durée qu'il fixe et qui
+ne peut excéder six mois ;
 
 15° Accomplir, le cas échéant à ses frais, un stage de sensibilisation aux
 dangers de l'usage de produits stupéfiants ;
@@ -87,7 +95,10 @@ habilitées à mettre en oeuvre une telle mesure ;
 définies aux articles L. 3413-1 à L. 3413-4 du code de la santé publique,
 lorsqu'il apparaît que l'intéressé fait usage de stupéfiants ou fait une
 consommation habituelle et excessive de boissons alcooliques. La durée de la
-mesure est de vingt-quatre mois au plus.
+mesure est de vingt-quatre mois au plus ;
+
+18° Accomplir à ses frais un stage de responsabilisation pour la prévention et
+la lutte contre les violences au sein du couple et sexistes.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la
 réparation du préjudice commis, le procureur de la République doit également

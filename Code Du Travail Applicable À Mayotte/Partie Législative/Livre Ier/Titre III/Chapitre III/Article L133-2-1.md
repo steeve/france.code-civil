@@ -31,7 +31,7 @@ dangereux, insalubres ;
 d) Les modalités d'application du principe à travail égal, salaire égal et les
 procédures du règlement des difficultés pouvant naître à ce sujet, compte tenu
 notamment des situations révélées par l'application de l'article L. 132-12,
-deuxième alinéa ;
+cinquième alinéa ;
 
 5° Les congés payés ;
 

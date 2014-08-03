@@ -1,10 +1,10 @@
 Article L532-2
 ----
-I. - Le complément de libre choix d'activité n'est pas cumulable avec le
+I.-La prestation partagée d'éducation de l'enfant n'est pas cumulable avec le
 complément familial.
 
-II. - Le complément de libre choix d'activité à taux plein n'est pas cumulable
-pour le bénéficiaire avec :
+II.-La prestation partagée d'éducation de l'enfant à taux plein n'est pas
+cumulable pour le bénéficiaire avec :
 
 1° L'indemnisation des congés de maternité, de paternité et d'accueil de
 l'enfant ou d'adoption ;
@@ -24,21 +24,21 @@ en application de l'article L. 6 du code des pensions civiles et militaires de
 retraite.
 
 Le service des indemnités dues aux travailleurs sans emploi est, à la date
-d'interruption du versement du complément de libre choix d'activité, poursuivi
-jusqu'à l'expiration du droit.
+d'interruption du versement de la prestation partagée d'éducation de l'enfant,
+poursuivi jusqu'à l'expiration du droit.
 
-III. - Le complément de libre choix d'activité à taux partiel n'est pas
+III.-La prestation partagée d'éducation de l'enfant à taux partiel n'est pas
 cumulable pour le bénéficiaire, à l'ouverture du droit, avec les indemnisations
-et l'allocation de remplacement mentionnées aux l° à 5° du Il. Il est cumulable,
-en cours de droit, avec les indemnisations et allocations mentionnées aux l° à
-4° du II perçues au titre de l'activité à temps partiel que le bénéficiaire
-exerce ou a exercée.
+et l'allocation de remplacement mentionnées aux l° à 5° du Il. Elle est
+cumulable, en cours de droit, avec les indemnisations et allocations mentionnées
+aux l° à 4° du II perçues au titre de l'activité à temps partiel que le
+bénéficiaire exerce ou a exercée.
 
-IV. - Lorsque le bénéficiaire du complément de libre choix d'activité a un seul
-enfant à charge, le complément est cumulable, le mois d'ouverture du droit, avec
-les indemnités et allocations visées aux 1° à 3° du II.
+IV.-Lorsque le bénéficiaire de la prestation partagée d'éducation de l'enfant a
+un seul enfant à charge, la prestation est cumulable, le mois d'ouverture du
+droit, avec les indemnités et allocations visées aux 1° à 3° du II.
 
-V. - Pendant le mois au cours duquel le versement des indemnités ou allocations
-mentionnées aux 1° à 3° du II prend fin, celles-ci sont cumulables avec le
-complément de libre choix d'activité à taux plein, lorsqu'il est fait usage de
-l'option mentionnée au deuxième alinéa du VI de l'article L. 531-4.
+V.-Pendant le mois au cours duquel le versement des indemnités ou allocations
+mentionnées aux 1° à 3° du II prend fin, celles-ci sont cumulables avec la
+prestation partagée d'éducation de l'enfant à taux plein, lorsqu'il est fait
+usage de l'option mentionnée au deuxième alinéa du VI de l'article L. 531-4.

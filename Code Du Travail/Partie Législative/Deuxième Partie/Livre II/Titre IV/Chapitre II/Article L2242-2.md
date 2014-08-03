@@ -7,7 +7,7 @@ Lors de la première réunion sont précisés :
 2° Les informations que l'employeur remettra aux délégués syndicaux et aux
 salariés composant la délégation sur les matières prévues par le présent
 chapitre et la date de cette remise. Ces informations doivent permettre une
-analyse comparée de la situation des hommes et des femmes concernant les emplois
-et les qualifications, les salaires payés, les horaires effectués et
-l'organisation du temps de travail. Elles font apparaître les raisons de ces
+analyse de la situation comparée entre les femmes et les hommes, compte tenu de
+la dernière mise à jour des données prévues dans les rapports prévus aux
+articles L. 2323-47 et L. 2323-57. Elles font apparaître les raisons de ces
 situations.

@@ -12,8 +12,8 @@ sont accordés en contrepartie d'une cessation d'activité ;
 
 3° L'allocation journalière de présence parentale prévue à l'article L. 544-1 ;
 
-4° Le complément de libre choix d'activité à taux plein de la prestation
-d'accueil du jeune enfant prévu à l'article L. 531-4 ;
+4° La prestation partagée d'éducation de l'enfant à taux plein de la prestation
+d'accueil du jeune enfant prévue à l'article L. 531-4 ;
 
-5° Le complément de libre choix d'activité à taux partiel de la prestation
-d'accueil du jeune enfant à l'ouverture du droit de celui-ci.
+5° La prestation partagée d'éducation de l'enfant à taux partiel de la
+prestation d'accueil du jeune enfant à l'ouverture du droit de celle-ci.

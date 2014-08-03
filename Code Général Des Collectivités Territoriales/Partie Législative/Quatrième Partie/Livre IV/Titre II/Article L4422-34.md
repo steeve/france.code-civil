@@ -9,6 +9,12 @@ Corse. Il comprend deux sections :
 
 - une section de la culture, de l'éducation et du cadre de vie.
 
+Lorsqu'un organisme est appelé à désigner plus d'un membre du conseil, il
+procède à ces désignations de telle sorte que l'écart entre le nombre des hommes
+désignés, d'une part, et des femmes désignées, d'autre part, ne soit pas
+supérieur à un. La même règle s'applique à la désignation des personnalités
+qualifiées.
+
 Ce conseil établit son règlement intérieur. Celui-ci peut être déféré au
 tribunal administratif. Dans les conditions prévues par le règlement intérieur,
 le conseil élit en son sein, au scrutin secret, son président ainsi que les

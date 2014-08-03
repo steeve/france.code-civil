@@ -3,7 +3,23 @@ Article L132-12
 Les organisations qui sont liées par une convention de branche ou, à défaut, par
 des accords professionnels, se réunissent, au moins une fois par an, pour
 négocier sur les salaires et, au moins une fois tous les cinq ans, pour examiner
-la nécessité de réviser les classifications.
+la nécessité de réviser les classifications. Lorsqu'elles portent sur des
+mesures salariales, la mise en œuvre des mesures de rattrapage mentionnées au
+sixième alinéa est suivie dans le cadre de la négociation annuelle obligatoire
+sur les salaires.
+
+Ces négociations quinquennales prennent en compte l'objectif d'égalité
+professionnelle entre les femmes et les hommes et de mixité des emplois.
+
+Lorsqu'un écart moyen de rémunération entre les femmes et les hommes est
+constaté, les organisations liées par une convention de branche ou, à défaut,
+par des accords professionnels font de la réduction de cet écart une priorité.
+
+A l'occasion de l'examen mentionné au premier alinéa, les critères d'évaluation
+retenus dans la définition des différents postes de travail sont analysés, afin
+d'identifier et de corriger ceux d'entre eux susceptibles d'induire des
+discriminations entre les femmes et les hommes et afin de garantir la prise en
+compte de l'ensemble des compétences des salariés.
 
 La négociation sur les salaires est l'occasion, au moins une fois par an, d'un
 examen, par les parties, de l'évolution économique de la situation de l'emploi

@@ -18,6 +18,13 @@ d'enseignants, la formation compétente ne comprend que des
 enseignants-chercheurs d'un rang égal ou supérieur à celui de la personne
 déférée devant elle.
 
+La récusation d'un membre du Conseil national de l'enseignement supérieur et de
+la recherche peut être prononcée s'il existe une raison objective de mettre en
+doute son impartialité. La demande de récusation est formée par la personne
+poursuivie, par le président ou le directeur de l'établissement, par le recteur
+d'académie ou par le médiateur académique.
+
 La composition, les modalités de désignation des membres des formations
-compétentes à l'égard des enseignants et des usagers et leur fonctionnement sont
-fixées par décret en Conseil d'Etat.
+compétentes à l'égard des enseignants et des usagers, leur fonctionnement et les
+conditions de récusation de leurs membres sont fixés par décret en Conseil
+d'Etat.

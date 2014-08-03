@@ -79,4 +79,13 @@ nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou
 psychologique ; les dispositions du présent 19° sont également applicables
 lorsque l'infraction est commise par l'ancien conjoint ou concubin de la
 victime, ou par la personne ayant été liée à elle par un pacte civil de
-solidarité, le domicile concerné étant alors celui de la victime.
+solidarité, le domicile concerné étant alors celui de la victime ; pour
+l'application du présent 19°, l'avis de la victime est recueilli, dans les
+meilleurs délais et par tous moyens, sur l'opportunité d'imposer au condamné de
+résider hors du logement du couple. Sauf circonstances particulières, cette
+mesure est prise lorsque sont en cause des faits de violences susceptibles
+d'être renouvelés et que la victime la sollicite. La juridiction peut préciser
+les modalités de prise en charge des frais afférents à ce logement.
+
+20° Accomplir à ses frais un stage de responsabilisation pour la prévention et
+la lutte contre les violences au sein du couple et sexistes.
