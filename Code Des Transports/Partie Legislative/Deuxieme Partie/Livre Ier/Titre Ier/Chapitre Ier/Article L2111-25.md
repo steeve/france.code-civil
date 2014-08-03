@@ -9,7 +9,13 @@ concurrence intermodale ; il tient compte, lorsque le marché s'y prête, de la
 valeur économique, pour l'attributaire du sillon, de l'utilisation du réseau
 ferré national et respecte les gains de productivité réalisés par les
 entreprises ferroviaires ; les principes d'évolution de ces redevances sont
-fixés de façon pluriannuelle. Tout projet de modification des modalités de
-fixation de ces redevances fait l'objet d'une consultation et d'un avis de la ou
-des régions concernées. Les règles de détermination de ces redevances sont
-fixées par décret en Conseil d'Etat.
+fixés de façon pluriannuelle. Tant que le coût complet du réseau n'est pas
+couvert par l'ensemble de ses ressources, SNCF Réseau conserve le bénéfice des
+gains de productivité qu'il réalise.
+
+Tout projet de modification des modalités de fixation de ces redevances fait
+l'objet d'une consultation et d'un avis de la ou des régions concernées et de
+l'Autorité de régulation des activités ferroviaires.
+
+Les règles de détermination de ces redevances sont fixées par décret en Conseil
+d'Etat.

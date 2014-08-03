@@ -18,6 +18,8 @@ opérations d'intérêt national mentionnées au premier alinéa de l'article L.
 I de l'article 1er de la loi n° 2006-872 du 13 juillet 2006 portant engagement
 national pour le logement ;
 
+-aux cessions entre la SNCF, SNCF Réseau et SNCF Mobilités ;
+
 -aux transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses
 établissements publics, réalisés conformément à l'article 141 de la loi n°
 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006.

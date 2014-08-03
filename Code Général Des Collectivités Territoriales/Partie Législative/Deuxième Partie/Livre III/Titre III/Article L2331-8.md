@@ -24,8 +24,5 @@ publics, les amortissements ;
 8° Le cas échéant, les recettes des provisions, dans les conditions prévues par
 décret en Conseil d'Etat ;
 
-9° Les surtaxes locales temporaires, notamment celles prévues par la loi du 15
-septembre 1942 relative à la perception de surtaxes locales temporaires sur les
-chemins de fer d'intérêt général, les voies ferrées d'intérêt local, les voies
-ferrées des quais des ports maritimes ou fluviaux et les services de transports
-routiers en liaison avec les chemins de fer.
+9° Le produit de la contribution locale temporaire mentionnée à l'article L.
+2124-1 du code des transports.

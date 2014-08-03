@@ -24,13 +24,7 @@ décret ;
 
 9° Du remboursement des capitaux exigibles et des rentes rachetées ;
 
-10° Des surtaxes locales temporaires conformément aux dispositions de la loi du
-15 septembre 1942 relative à la perception de surtaxes locales temporaires sur
-les chemins de fer d'intérêt général, les voies ferrées d'intérêt local, les
-voies ferrées des quais des ports maritimes ou fluviaux et les services de
-transports routiers en liaison avec les chemins de fer, des surtaxes locales
-temporaires destinées à assurer le service des emprunts contractés ou le
-remboursement des allocations versées ;
+10° (Abrogé) ;
 
 11° Des amortissements ;
 

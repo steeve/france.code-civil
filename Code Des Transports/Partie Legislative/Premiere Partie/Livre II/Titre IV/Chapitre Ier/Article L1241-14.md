@@ -46,4 +46,7 @@ ajoutée ;
 n° 2010-597 du juin 2010 relative au Grand Paris ;
 
 11° Le produit de la taxe prévue au dernier alinéa du I de l'article 1635 ter A
-du code général des impôts.
+du code général des impôts ;
+
+12° Le produit de la contribution locale temporaire mentionnée à l'article L.
+2124-1 du présent code.

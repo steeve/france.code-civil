@@ -48,8 +48,8 @@ de l'article L. 332-6-1 du code de l'urbanisme ;
 9° Le produit de la part intercommunale de la taxe d'aménagement ou de toute
 autre taxe de remplacement pour les compétences transférées ;
 
-10° Le produit des surtaxes locales temporaires pour les compétences transférées
-;
+10° Le produit des contributions locales temporaires pour les compétences
+transférées ;
 
 11° Les subventions de l'Etat, des collectivités locales, de leurs groupements
 et des syndicats mixtes ;

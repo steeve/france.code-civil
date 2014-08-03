@@ -1,6 +1,6 @@
 Article L2133-9
 ----
-L'Autorité de régulation des activités ferroviaires émet un avis sur la
-nomination et la cessation anticipée des fonctions de directeur du service
-gestionnaire des trafics et des circulations de la Société nationale des chemins
-de fer, conformément à l'article L. 2123-6.
+L'Autorité de régulation des activités ferroviaires peut s'opposer à la
+nomination, au renouvellement ou à la révocation du président du conseil
+d'administration de SNCF Réseau, dans les conditions fixées à l'article L.
+2111-16.

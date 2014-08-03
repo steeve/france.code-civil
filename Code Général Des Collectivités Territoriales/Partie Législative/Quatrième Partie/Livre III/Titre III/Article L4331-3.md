@@ -21,6 +21,9 @@ décret ;
 g) Les versements au titre du Fonds de compensation pour la taxe sur la valeur
 ajoutée ;
 
+g bis) Le produit de la contribution locale temporaire mentionnée à l'article L.
+2124-1 du code des transports ;
+
 h) Pour les régions d'outre-mer :
 
 1° Le produit des amendes des radars automatiques en application de l'article 41

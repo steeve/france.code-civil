@@ -9,10 +9,12 @@ assermentés missionnés à cette fin et placés sous l'autorité du ministre ch
 des transports ; 2° Les agents assermentés missionnés de l'Etablissement public
 de sécurité ferroviaire ; 3° Les agents assermentés missionnés du gestionnaire
 d'infrastructures de transport ferroviaire et guidé ; 4° Les agents assermentés
-de l'exploitant du service de transport. II. ― Les contraventions aux
-dispositions des arrêtés de l'autorité administrative compétente de l'Etat
-concernant la circulation, l'arrêt et le stationnement des véhicules dans les
-cours des gares sont constatées également par : 1° Les agents de police
-judiciaire ; 2° Les agents de police judiciaire adjoints ; 3° Les agents chargés
-de la surveillance de la voie publique mentionnés au 3° de l'article L. 130-4 du
-code de la route.
+de l'exploitant du service de transport ;
+
+5° Les agents assermentés missionnés du service interne de sécurité de la SNCF
+mentionné à l'article L. 2251-1-1. II. ― Les contraventions aux dispositions des
+arrêtés de l'autorité administrative compétente de l'Etat concernant la
+circulation, l'arrêt et le stationnement des véhicules dans les cours des gares
+sont constatées également par : 1° Les agents de police judiciaire ; 2° Les
+agents de police judiciaire adjoints ; 3° Les agents chargés de la surveillance
+de la voie publique mentionnés au 3° de l'article L. 130-4 du code de la route.

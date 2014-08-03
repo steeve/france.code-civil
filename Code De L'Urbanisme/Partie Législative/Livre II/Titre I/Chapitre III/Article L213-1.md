@@ -79,4 +79,6 @@ ses établissements publics, réalisés conformément à l'article 141 de la loi
 
 i) Les biens acquis par un organisme visé aux articles L. 321-4 et L. 324-1
 lorsqu'il agit à la demande expresse de la collectivité titulaire du droit de
-préemption urbain.
+préemption urbain ;
+
+j) Les cessions entre la SNCF, SNCF Réseau et SNCF Mobilités.

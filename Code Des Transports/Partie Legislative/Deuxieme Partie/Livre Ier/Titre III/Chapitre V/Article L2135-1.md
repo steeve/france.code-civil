@@ -7,9 +7,11 @@ des activités ferroviaires habilités par le président de l'autorité et
 assermentés dans des conditions similaires à celles applicables aux agents de la
 Commission de régulation de l'énergie telles qu'elles résultent de l'article 43
 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
-développement du service public de l'électricité. Lorsque le président de
-l'autorité désigne des personnes pour réaliser un rapport d'expertise ou des
-experts extérieurs pour assister dans leurs enquêtes les agents habilités de
+développement du service public de l'électricité.
+
+Lorsque le président de l'autorité désigne des personnes pour réaliser un audit
+comptable ou un rapport d'expertise ou des experts extérieurs pour réaliser des
+audits comptables ou pour assister dans leurs enquêtes les agents habilités de
 l'autorité, il veille, si les intéressés ne sont pas inscrits sur une liste
 d'experts judiciaires, à ce qu'ils soient assermentés dans les mêmes conditions.
 Le procureur de la République est préalablement informé des opérations d'enquête

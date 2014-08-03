@@ -12,9 +12,9 @@ pour mission de :
 générales d'exploitation et de financement des services ;
 
 4° Veiller à la cohérence des programmes d'investissement, sous réserve des
-compétences reconnues à Réseau ferré de France, à la Régie autonome des
-transports parisiens en sa qualité de gestionnaire de l'infrastructure et à
-l'établissement public Société du Grand Paris ;
+compétences reconnues à SNCF Réseau, à la Régie autonome des transports
+parisiens en sa qualité de gestionnaire de l'infrastructure et à l'établissement
+public Société du Grand Paris ;
 
 5° Arrêter la politique tarifaire de manière à obtenir l'utilisation la
 meilleure, sur le plan économique et social, du système de transports

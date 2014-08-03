@@ -33,7 +33,8 @@ modalités de l'action commune des collectivités territoriales et de leurs
 
 6° A l'internationalisation des entreprises ;
 
-7° A l'intermodalité et à la complémentarité entre les modes de transports ;
+7° A l'intermodalité et à la complémentarité entre les modes de transports,
+notamment à l'aménagement des gares ;
 
 8° Au soutien à l'enseignement supérieur et à la recherche.
 
@@ -50,7 +51,7 @@ de la précarité énergétique ;
 
 Il est consulté par la région en préalable à l'élaboration du contrat de plan
 conclu entre l'Etat et la région en application de la loi n° 82-653 du 29
-juillet 1982portant réforme de la planification afin de tenir compte des
+juillet 1982 portant réforme de la planification afin de tenir compte des
 spécificités de son territoire.
 
 IV. ― La commune ou l'établissement public de coopération intercommunale à
