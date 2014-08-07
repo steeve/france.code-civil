@@ -37,12 +37,15 @@ prestations couvertes par les régimes obligatoires, y compris les prestations
 liées à la prévention, et du forfait journalier prévu à l'article L. 174-4.
 
 Elles fixent les conditions dans lesquelles peuvent être pris en charge les
-dépassements tarifaires sur les consultations et les actes des médecins ainsi
-que les frais exposés, en sus des tarifs de responsabilité, pour les soins
-dentaires prothétiques ou d'orthopédie dentofaciale et pour certains dispositifs
-médicaux à usage individuel admis au remboursement, notamment les dispositifs
-d'optique médicale. Ces conditions peuvent comprendre des plafonds de prise en
-charge distincts par catégorie de prestations notamment ainsi que, s'agissant
-des soins dentaires prothétiques ou d'orthopédie dentofaciale et de certains
-dispositifs médicaux à usage individuel, des niveaux minimaux de prise en
-charge.
+dépassements tarifaires sur les consultations et les actes des médecins, en
+distinguant, le cas échéant, ceux des médecins ayant adhéré au contrat d'accès
+aux soins instauré par la convention nationale mentionnée à l'article L. 162-5
+de ceux des médecins non adhérents. Elles fixent également les conditions dans
+lesquelles peuvent être pris en charge les frais exposés, en sus des tarifs de
+responsabilité, pour les soins dentaires prothétiques ou d'orthopédie
+dentofaciale et pour certains dispositifs médicaux à usage individuel admis au
+remboursement, notamment les dispositifs d'optique médicale. Ces conditions
+peuvent comprendre des plafonds de prise en charge distincts par catégorie de
+prestations notamment ainsi que, s'agissant des soins dentaires prothétiques ou
+d'orthopédie dentofaciale et de certains dispositifs médicaux à usage
+individuel, des niveaux minimaux de prise en charge.
