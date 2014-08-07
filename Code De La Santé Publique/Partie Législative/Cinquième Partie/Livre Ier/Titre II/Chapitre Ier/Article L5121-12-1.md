@@ -1,31 +1,41 @@
 Article L5121-12-1
 ----
-I. ― Une spécialité pharmaceutique peut faire l'objet d'une prescription non
-conforme à son autorisation de mise sur le marché en l'absence d'alternative
-médicamenteuse appropriée disposant d'une autorisation de mise sur le marché ou
-d'une autorisation temporaire d'utilisation, sous réserve :
+I.-Une spécialité pharmaceutique peut faire l'objet d'une prescription non
+conforme à son autorisation de mise sur le marché en l'absence de spécialité de
+même principe actif, de même dosage et de même forme pharmaceutique disposant
+d'une autorisation de mise sur le marché ou d'une autorisation temporaire
+d'utilisation dans l'indication ou les conditions d'utilisation considérées,
+sous réserve qu'une recommandation temporaire d'utilisation établie par l'Agence
+nationale de sécurité du médicament et des produits de santé sécurise
+l'utilisation de cette spécialité dans cette indication ou ces conditions
+d'utilisation et que le prescripteur juge indispensable le recours à cette
+spécialité pour améliorer ou stabiliser l'état clinique de son patient.
 
-1° Que l'indication ou les conditions d'utilisation considérées aient fait
-l'objet d'une recommandation temporaire d'utilisation établie par l'Agence
-nationale de sécurité du médicament et des produits de santé, cette
-recommandation ne pouvant excéder trois ans ;
+En l'absence de recommandation temporaire d'utilisation dans l'indication ou les
+conditions d'utilisation considérées, une spécialité pharmaceutique ne peut
+faire l'objet d'une prescription non conforme à son autorisation de mise sur le
+marché qu'en l'absence d'alternative médicamenteuse appropriée disposant d'une
+autorisation de mise sur le marché ou d'une autorisation temporaire
+d'utilisation et sous réserve que le prescripteur juge indispensable, au regard
+des données acquises de la science, le recours à cette spécialité pour améliorer
+ou stabiliser l'état clinique de son patient.
 
-2° Ou que le prescripteur juge indispensable, au regard des données acquises de
-la science, le recours à cette spécialité pour améliorer ou stabiliser l'état
-clinique du patient.
-
-II. ― Les recommandations temporaires d'utilisation mentionnées au I sont mises
-à disposition des prescripteurs.
+II.-Les recommandations temporaires d'utilisation mentionnées au I sont établies
+pour une durée maximale de trois ans, renouvelable. Elles sont mises à la
+disposition des prescripteurs par le titulaire de l'autorisation de mise sur le
+marché ou par l'entreprise qui assure l'exploitation de la spécialité concernée.
 
 III. ― Le prescripteur informe le patient que la prescription de la spécialité
-pharmaceutique n'est pas conforme à son autorisation de mise sur le marché, de
-l'absence d'alternative médicamenteuse appropriée, des risques encourus et des
-contraintes et des bénéfices susceptibles d'être apportés par le médicament et
-porte sur l'ordonnance la mention : " Prescription hors autorisation de mise sur
-le marché ”.
+pharmaceutique n'est pas conforme à son autorisation de mise sur le marché, le
+cas échéant, de l'existence d'une recommandation temporaire d'utilisation, des
+risques encourus et des contraintes et des bénéfices susceptibles d'être
+apportés par le médicament et porte sur l'ordonnance la mention : " Prescription
+hors autorisation de mise sur le marché " ou, le cas échéant, " Prescription
+sous recommandation temporaire d'utilisation ".
 
 Il informe le patient sur les conditions de prise en charge, par l'assurance
-maladie, de la spécialité pharmaceutique prescrite.
+maladie, de la spécialité pharmaceutique prescrite dans l'indication ou les
+conditions d'utilisation considérées.
 
 Il motive sa prescription dans le dossier médical du patient.
 
@@ -39,18 +49,10 @@ d'utilisation en s'appuyant notamment sur les travaux des professionnels de
 santé prenant en charge ces pathologies et, le cas échéant, les résultats des
 essais thérapeutiques et les protocoles nationaux de diagnostics et de soins.
 
-Ces recommandations sont assorties d'un recueil des informations concernant
-l'efficacité, les effets indésirables et les conditions réelles d'utilisation de
-la spécialité par le titulaire de l'autorisation de mise sur le marché ou
-l'entreprise qui l'exploite, dans des conditions précisées par une convention
-conclue avec l'agence. La convention peut comporter l'engagement, par le
-titulaire de l'autorisation, de déposer dans un délai déterminé une demande de
-modification de cette autorisation.
-
-V.-Par dérogation au I et à titre exceptionnel, en présence d'alternative
-médicamenteuse appropriée disposant d'une autorisation de mise sur le marché,
-une spécialité pharmaceutique peut faire l'objet d'une recommandation temporaire
-d'utilisation établie dans les conditions prévues aux I à IV. Cette
-recommandation temporaire d'utilisation ne peut être établie que dans l'objectif
-soit de remédier à un risque avéré pour la santé publique, soit d'éviter des
-dépenses ayant un impact significatif sur les finances de l'assurance maladie.
+Ces recommandations sont assorties d'un protocole de suivi des patients, qui
+précise les conditions de recueil des informations concernant l'efficacité, les
+effets indésirables et les conditions réelles d'utilisation de la spécialité par
+le titulaire de l'autorisation de mise sur le marché ou l'entreprise qui
+l'exploite. Le protocole peut comporter l'engagement, par le titulaire de
+l'autorisation, de déposer dans un délai déterminé une demande de modification
+de cette autorisation.

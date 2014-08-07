@@ -44,12 +44,8 @@ du livre VII du code rural et de la pêche maritime ;
 
 10°) Des sociétés ou organismes non visés aux 1° à 9° bis qui sont régis par la
 loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, à
-l'exception de ceux visés à l'article L. 521-1 du code rural qui ont pour objet
-exclusif d'assurer l'approvisionnement de leurs associés coopérateurs en leur
-procurant les produits, les équipements, les instruments et les animaux
-nécessaires à leurs exploitations agricoles et des sociétés coopératives
-agricoles ayant pour objet exclusif l'utilisation de matériels agricoles par les
-associés coopérateurs ;
+l'exception de ceux visés à l'article L. 521-1 du code rural et de la pêche
+maritime ;
 
 11°) Des sociétés européennes au sens de l'article L. 229-1 du code de commerce
 et des sociétés coopératives européennes, au sens du règlement (CE) 1435/2003 du

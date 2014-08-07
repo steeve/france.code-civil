@@ -1,32 +1,28 @@
 Article L162-17-2-1
 ----
-Lorsqu'il n'existe pas d'alternative appropriée, toute spécialité pharmaceutique
-faisant l'objet d'une recommandation temporaire d'utilisation prévue au I de
-l'article L. 5121-12-1 du code de la santé publique, tout produit ou toute
-prestation prescrit en dehors du périmètre des biens et services remboursables
-pour le traitement d'une affection de longue durée remplissant les conditions
-prévues aux 3° ou 4° de l'article L. 322-3 du présent code ou d'une maladie rare
-telle que définie par le règlement (CE) n° 141/2000 du Parlement européen et du
-Conseil du 16 décembre 1999 concernant les médicaments orphelins peut faire
-l'objet, à titre dérogatoire et pour une durée limitée, d'une prise en charge ou
-d'un remboursement. La spécialité, le produit ou la prestation doit figurer dans
-un avis ou une recommandation relatifs à une catégorie de malades formulés par
-la Haute Autorité de santé, après consultation de l'Agence nationale de sécurité
-du médicament et des produits de santé pour les produits mentionnés à l'article
-L. 5311-1 du code de la santé publique, à l'exception des spécialités
-pharmaceutiques faisant déjà l'objet, dans l'indication thérapeutique concernée,
-d'une recommandation temporaire d'utilisation prévue à l'article L. 5121-12-1 du
-même code. La prise en charge ou le remboursement sont décidés par arrêté des
-ministres chargés de la santé et de la sécurité sociale après avis de l'Union
-nationale des caisses d'assurance maladie. En accord, le cas échéant, avec la
-recommandation temporaire d'utilisation mentionnée ci-dessus et la convention
-afférente conclue entre l'entreprise et l'Agence nationale de sécurité du
-médicament et des produits de santé, l'arrêté peut fixer des conditions de prise
-en charge et comporter l'obligation pour le laboratoire ou le fabricant de
-déposer, notamment, pour l'indication considérée, une demande d'autorisation de
-mise sur le marché ou une demande d'inscription du produit ou de la prestation
-sur les listes mentionnées aux articles L. 162-17 ou L. 165-1 du présent code ou
-à l'article L. 5123-2 du code de la santé publique. Il peut également comporter
+Toute spécialité pharmaceutique faisant l'objet d'une recommandation temporaire
+d'utilisation prévue au I de l'article L. 5121-21-1 du code de la santé
+publique, tout produit ou toute prestation prescrit en dehors du périmètre de
+biens et de services remboursables lorsqu'il n'existe pas d'alternative
+appropriée peut faire l'objet, à titre dérogatoire et pour une durée limitée,
+d'une prise en charge ou d'un remboursement. La spécialité, le produit ou la
+prestation doit figurer dans un avis ou une recommandation relatifs à une
+catégorie de malades formulés par la Haute Autorité de santé, après consultation
+de l'Agence nationale de sécurité du médicament et des produits de santé pour
+les produits mentionnés à l'article L. 5311-1 du code de la santé publique, à
+l'exception des spécialités pharmaceutiques faisant déjà l'objet, dans
+l'indication thérapeutique concernée, d'une recommandation temporaire
+d'utilisation prévue à l'article L. 5121-12-1 du même code. La prise en charge
+ou le remboursement sont décidés par arrêté des ministres chargés de la santé et
+de la sécurité sociale après avis de l'Union nationale des caisses d'assurance
+maladie. En accord, le cas échéant, avec la recommandation temporaire
+d'utilisation mentionnée ci-dessus et le protocole de suivi mentionné au même
+article L. 5121-12-1, l'arrêté peut fixer des conditions de prise en charge et
+comporter l'obligation pour le laboratoire ou le fabricant de déposer,
+notamment, pour l'indication considérée, une demande d'autorisation de mise sur
+le marché ou une demande d'inscription du produit ou de la prestation sur les
+listes mentionnées aux articles L. 162-17 ou L. 165-1 du présent code ou à
+l'article L. 5123-2 du code de la santé publique. Il peut également comporter
 l'obligation pour le laboratoire ou le fabricant de mettre en place un suivi
 particulier des patients. Cet arrêté peut également fixer les conditions de
 prise en charge d'une catégorie de spécialités pharmaceutiques, produits ou
@@ -34,8 +30,8 @@ prestations présentant des caractéristiques analogues.
 
 Les spécialités, produits ou prestations faisant l'objet de l'arrêté ne peuvent
 être pris en charge que si leur utilisation est indispensable à l'amélioration
-de l'état de santé du patient ou pour éviter sa dégradation. Ils doivent en
-outre être inscrits explicitement dans le protocole de soins mentionné à
+de l'état de santé du patient ou pour éviter sa dégradation. Ils doivent, le cas
+échéant, être inscrits explicitement dans le protocole de soins mentionné à
 l'article L. 324-1 du présent code. L'arrêté précise le délai au terme duquel le
 médecin-conseil et le médecin traitant évaluent conjointement l'opportunité
 médicale du maintien de la prescription de la spécialité, du produit ou de la
@@ -45,6 +41,13 @@ Lorsque la spécialité pharmaceutique, le produit ou la prestation bénéficie 
 moins une indication remboursable, il est pris en charge ou remboursé en
 application des dispositions des alinéas précédents dans les mêmes conditions
 que celles qui s'appliquent à l'indication ou aux indications prises en charge.
+Lorsque la spécialité a fait l'objet d'une préparation, d'une division ou d'un
+changement de conditionnement ou d'un changement de présentation en vue de sa
+délivrance au détail, le prix est fixé par décision des ministres chargés de la
+santé et de la sécurité sociale, en tenant compte du prix ou du tarif de
+responsabilité en vigueur pour les indications remboursées, du coût lié à cette
+opération et de la posologie indiquée dans la recommandation temporaire
+d'utilisation.
 
 Lorsque la spécialité pharmaceutique, le produit ou la prestation n'est inscrit
 sur aucune des listes mentionnées aux articles L. 162-17 ou L. 165-1 du présent

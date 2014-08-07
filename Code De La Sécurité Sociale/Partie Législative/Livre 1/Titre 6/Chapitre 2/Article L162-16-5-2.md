@@ -37,11 +37,11 @@ La saisine est transmise dans un délai de deux semaines à compter de l'avis du
 comité des médicaments à usage humain.
 
 La Haute Autorité de santé mentionne, pour chaque indication concernée, les
-alternatives thérapeutiques prises en charge au titre des articles L. 162-17, L.
-162-17-2-1 ou L. 162-17-2-2 du présent code ou de l'article L. 5123-2 du code de
-la santé publique. Elle transmet son avis aux ministres chargés de la santé et
-de la sécurité sociale ainsi qu'à l'agence et le rend public, au plus tard un
-mois après l'obtention de l'autorisation de mise sur le marché.
+alternatives thérapeutiques prises en charge au titre des articles L. 162-17 ou
+L. 162-17-2-1 du présent code ou de l'article L. 5123-2 du code de la santé
+publique. Elle transmet son avis aux ministres chargés de la santé et de la
+sécurité sociale ainsi qu'à l'agence et le rend public, au plus tard un mois
+après l'obtention de l'autorisation de mise sur le marché.
 
 III. ― La prise en charge mentionnée au I du présent article dure jusqu'à ce
 qu'une décision relative à l'inscription de ce médicament, au titre de son

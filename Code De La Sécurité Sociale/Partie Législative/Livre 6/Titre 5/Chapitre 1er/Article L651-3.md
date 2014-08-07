@@ -1,15 +1,15 @@
 Article L651-3
 ----
 La contribution sociale de solidarité est annuelle. Son taux est fixé par
-décret, dans la limite de 0,13 % du chiffre d'affaires défini à l'article L.
-651-5. Elle n'est pas perçue lorsque le chiffre d'affaires de la société est
-inférieur à 760 000 euros. Des décrets peuvent prévoir un plafonnement en
-fonction de la marge pour les entreprises de commerce international et
-intracommunautaire fonctionnant avec une marge brute particulièrement réduite et
-pour les entreprises du négoce en l'état des produits du sol et de l'élevage,
-engrais et produits connexes, achetant ou vendant directement à la production et
-pour les entreprises du négoce en gros des combustibles et de commerce de détail
-de carburants.
+décret, dans la limite de 0,13 %. Elle est assise sur le chiffre d'affaires
+défini à l'article L. 651-5, après application d'un abattement égal à 3,25
+millions d'euros. Des décrets peuvent prévoir un plafonnement en fonction de la
+marge pour les entreprises de commerce international et intracommunautaire
+fonctionnant avec une marge brute particulièrement réduite et pour les
+entreprises du négoce en l'état des produits du sol et de l'élevage, engrais et
+produits connexes, achetant ou vendant directement à la production et pour les
+entreprises du négoce en gros des combustibles et de commerce de détail de
+carburants.
 
 Pour les sociétés ou groupements mentionnés aux 4° bis, 6°, 7° et 8° de
 l'article L. 651-1 ainsi que les groupements d'intérêt public assujettis à la
@@ -47,11 +47,6 @@ deuxième alinéa ne tiennent pas compte des ventes de biens réalisées à ceux
 leurs membres ou associés acquittant la contribution et détenant au moins 20 %
 des droits à leurs résultats, à condition que ces biens soient vendus à l'issue
 d'opérations de production effectuées par ces sociétés ou groupements.
-
-Pour la détermination du seuil de chiffre d'affaires mentionné au premier
-alinéa, les redevables tiennent compte de la part de chiffre d'affaires déduit
-de l'assiette de leur contribution en application des dispositions du présent
-article.
 
 Pour les redevables visés à l'article L. 651-1 affiliés à l'un des organes
 centraux mentionnés à l'article L. 511-30 du code monétaire et financier, la

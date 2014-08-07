@@ -5,17 +5,15 @@ dépenses de gestion qui s'y rapportent est assuré par le fonds national d'aide
 au logement mentionné à l'article L. 351-6 du code de la construction et de
 l'habitation.
 
-Pour concourir à ce financement, les employeurs sont assujettis à :
+Pour concourir à ce financement, les employeurs sont assujettis à une cotisation
+recouvrée selon les règles applicables en matière de sécurité sociale et
+calculée selon les modalités suivantes :
 
-1° Une cotisation assise sur les salaires plafonnés et recouvrée selon les
-règles applicables en matière de sécurité sociale ;
+1° Par application d'un taux sur la part des rémunérations plafonnées, pour les
+employeurs occupant moins de vingt salariés et pour les employeurs occupés aux
+activités mentionnées aux 1° à 4° de l'article L. 722-1 du code rural et de la
+pêche maritime et les coopératives mentionnées à l'article L. 521-1 du même code
+;
 
-2° Une contribution calculée par application d'un taux de 0,40 % sur la part des
-salaires plafonnés et d'un taux de 0,50 % sur la part des salaires dépassant le
-plafond, cette contribution étant recouvrée suivant les règles applicables en
-matière de sécurité sociale.
-
-Les employeurs occupant moins de vingt salariés et les employeurs relevant du
-régime agricole au regard des lois sur la sécurité sociale ne sont pas soumis à
-la contribution mentionnée au 2°. Le cinquième alinéa de l'article L. 620-10 du
-code du travail s'applique au calcul de l'effectif mentionné au présent article.
+2° Pour les autres employeurs, par application d'un taux sur la totalité des
+rémunérations.
