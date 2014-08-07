@@ -44,10 +44,20 @@ commises sur la base des informations fournies à l'établissement payeur dans l
 conditions prévues au huitième alinéa du 1 de l'article 242 ter et à l'article
 242 ter B.
 
+5. Tout manquement à l'obligation déclarative prévue à l'article 1649 AC est
+sanctionné par une amende fiscale de 200 € par compte déclarable comportant une
+ou plusieurs informations omises ou erronées.
+
+Toutefois, la sanction mentionnée au premier alinéa du présent 5 n'est pas
+applicable lorsque le teneur de compte, l'organisme d'assurance et assimilé ou
+l'institution financière concernée établit que ce manquement résulte d'un refus
+du client ou de la personne concernée de lui transmettre les informations
+requises et qu'il a informé de ce manquement l'administration des impôts.
+
 II (Abrogé).
 
 III.-Entraîne l'application d'une amende égale à 5 % des sommes non déclarées le
-non-respect des obligations prévues par les articles 87,87 A, 88 et 241.
+non-respect des obligations prévues par les articles 87, 87 A, 88 et 241.
 
 IV.-1. Les infractions au premier alinéa de l'article 1649 A sont passibles
 d'une amende de 1 500 € par ouverture ou clôture de compte non déclarée.

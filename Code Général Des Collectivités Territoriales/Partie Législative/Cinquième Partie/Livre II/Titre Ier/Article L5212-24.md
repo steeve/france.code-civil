@@ -3,13 +3,24 @@ Article L5212-24
 Lorsqu'il existe un syndicat intercommunal exerçant la compétence d'autorité
 organisatrice de la distribution publique d'électricité mentionnée à l'article
 L. 2224-31, la taxe communale sur la consommation finale d'électricité, prévue à
-l'article L. 2333-2, est perçue par le syndicat en lieu et place de l'ensemble
-des communes et établissements publics de coopération intercommunale à fiscalité
-propre qui en sont membres. Lorsque cette compétence est exercée par le
-département, la taxe est perçue par ce dernier en lieu et place de l'ensemble
-des communes et établissements publics de coopération intercommunale à fiscalité
-propre du département. Dans ce cas, la taxe est recouvrée dans les conditions de
-droit commun.
+l'article L. 2333-2, est perçue par le syndicat en lieu et place des
+établissements publics de coopération intercommunale à fiscalité propre qui en
+sont membres et de l'ensemble des communes dont la population recensée par
+l'Institut national de la statistique et des études économiques au 1er janvier
+de l'année est inférieure ou égale à 2 000 habitants ou dans lesquelles la taxe
+est perçue par le syndicat au 31 décembre 2010. Pour les autres communes, cette
+taxe peut être perçue par le syndicat en lieu et place de la commune s'il en est
+décidé ainsi par délibérations concordantes du syndicat et de la commune
+intéressée prises dans les conditions prévues au I de l'article 1639 A bis du
+code général des impôts. Lorsque cette compétence est exercée par le
+département, la taxe est perçue par ce dernier en lieu et place de toutes les
+communes dont la population recensée par l'Institut national de la statistique
+et des études économiques au 1er janvier de l'année est inférieure ou égale à 2
+000 habitants. Pour les autres communes, cette taxe peut être perçue par le
+département en lieu et place de la commune s'il en est décidé ainsi par
+délibérations concordantes du département et de la commune intéressée prises
+dans les conditions prévues au même I. Dans tous les cas, la taxe est recouvrée
+dans les conditions de droit commun.
 
 Lorsque la taxe est perçue au profit du syndicat intercommunal ou du département
 en lieu et place de la commune en application de l'alinéa précédent, l'organe
@@ -55,15 +66,6 @@ taux de la taxe prévue à l'article L. 2333-2 dans les conditions prévues au
 premier alinéa du présent article dans leur rédaction applicable jusqu'à cette
 date.
 
-Par dérogation au premier alinéa dans sa rédaction antérieure à la loi n°
-2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les communes
-visées à la première phrase de ce même alinéa dont la population est inférieure
-ou égale à 2 000 habitants sont bénéficiaires du produit de la taxe due au titre
-de l'année 2014 en l'absence de délibération du syndicat intercommunal ou du
-département avant le 1er octobre 2013 ou lorsque cette délibération a été
-rapportée avant le 31 décembre 2013. Le tarif applicable est celui en vigueur en
-2011 en application de l'avant-dernier alinéa de l'article L. 2333-4.
-
 Pour la taxe due au titre de 2012, la décision de l'organe délibérant du
 syndicat intercommunal ou du conseil général doit être adoptée au plus tard le
 15 octobre 2011. Le président du syndicat intercommunal ou du conseil général la
@@ -80,6 +82,4 @@ fraction de la taxe perçue sur son territoire, par délibérations concordantes
 syndicat, ou du département s'il exerce la compétence, et de la commune ou de
 l'établissement public de coopération intercommunale, prises dans les conditions
 prévues au premier alinéa du I de l'article 1639 A bis du code général des
-impôts. Un tel reversement ne peut excéder 50 % du montant total perçu sur le
-territoire de la commune ou de l'établissement public de coopération
-intercommunale concerné.
+impôts.

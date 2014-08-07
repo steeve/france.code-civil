@@ -10,13 +10,17 @@ compétence d'autorité organisatrice de la distribution publique d'électricit�
 mentionnée à l'article L. 2224-31, sous réserve que cette compétence ne soit pas
 déjà exercée par une autorité mentionnée à l'article L. 5212-24, la taxe
 communale sur la consommation finale d'électricité dans les conditions prévues
-aux articles L. 2333-2 à L. 2333-5 en lieu et place de toutes ses communes
-membres. Dans ce cas, la taxe est recouvrée dans les conditions de droit commun.
-La communauté d'agglomération peut reverser à une commune une fraction de la
-taxe perçue sur le territoire de celle-ci, par délibérations concordantes prises
-dans les conditions prévues au premier alinéa du I de l'article 1639 A bis du
-code général des impôts. Un tel reversement ne peut excéder 50 % du montant
-total perçu sur le territoire de la commune concernée ;
+aux articles L. 2333-2 à L. 2333-5 en lieu et place des communes dont la
+population recensée par l'Institut national de la statistique et des études
+économiques au 1er janvier de l'année est inférieure ou égale à 2 000 habitants.
+Pour les autres communes, cette taxe peut être perçue par la communauté
+d'agglomération en lieu et place de la commune s'il en est décidé ainsi par
+délibérations concordantes du groupement et de la commune intéressée prises dans
+les conditions prévues au I de l'article 1639 A bis du code général des impôts.
+Dans tous les cas, la taxe est recouvrée dans les conditions de droit commun. La
+communauté d'agglomération peut reverser à une commune une fraction de la taxe
+perçue sur le territoire de celle-ci, par délibérations concordantes prises dans
+les conditions prévues au premier alinéa du même I (1) ;
 
 2° Le revenu des biens, meubles ou immeubles, de la communauté d'agglomération ;
 

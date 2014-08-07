@@ -20,8 +20,8 @@ de la même période, n'excède pas 43 millions d'euros. L'effectif à retenir e
 apprécié par référence au nombre moyen de salariés au cours de la période. Le
 chiffre d'affaires à prendre en compte est éventuellement corrigé pour
 correspondre à une année pleine et, pour une société mère d'un groupe mentionné
-à l'article 223 A, s'entend de la somme des chiffres d'affaires de chacune des
-sociétés membres de ce groupe.
+à l'article 223 A ou à l'article 223 A bis, s'entend de la somme des chiffres
+d'affaires de chacune des sociétés membres de ce groupe.
 
 L'exonération prévue n'est pas applicable aux entreprises dont 25 % ou plus du
 capital ou des droits de vote sont contrôlés, directement ou indirectement, par

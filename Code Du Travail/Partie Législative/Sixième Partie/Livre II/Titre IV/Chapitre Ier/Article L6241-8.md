@@ -11,9 +11,9 @@ technologiques et professionnelles dispensées hors du cadre de l'apprentissage 
 2° Des subventions versées au centre de formation d'apprentis ou à la section
 d'apprentissage au titre du concours financier obligatoire mentionné à l'article
 L. 6241-4 et en complément du montant déjà versé au titre du solde du quota
-mentionné à l'article L. 6241-2, lorsque ce montant déjà versé est inférieur à
-celui des concours financiers obligatoires dus à ce centre de formation
-d'apprentis ou à cette section d'apprentissage.
+mentionné au II de l'article L. 6241-2, lorsque ce montant déjà versé est
+inférieur à celui des concours financiers obligatoires dus à ce centre de
+formation d'apprentis ou à cette section d'apprentissage.
 
 Les formations technologiques et professionnelles mentionnées au 1° sont celles
 qui, dispensées dans le cadre de la formation initiale, conduisent à des

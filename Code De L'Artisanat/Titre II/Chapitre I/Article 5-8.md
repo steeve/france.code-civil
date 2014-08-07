@@ -27,4 +27,14 @@ le compte des établissements du réseau des chambres de métiers et de
 l'artisanat. Ces décisions s'imposent aux établissements du réseau qui ne sont
 pas, à la date à laquelle ces décisions sont prises, déjà engagés dans un marché
 ou un accord-cadre portant sur les mêmes achats. Les modalités de mise en œuvre
-du présent 5° sont fixées par décret.
+du présent 5° sont fixées par décret ;
+
+6° Elle gère, dans des conditions définies par décret en Conseil d'Etat, le
+fonds de financement et d'accompagnement du réseau des chambres de métiers et de
+l'artisanat. Ce fonds est destiné à fournir aux chambres de métiers et de
+l'artisanat une ressource collective pour la mise en œuvre des mutualisations et
+restructurations obligatoires ou décidées par son assemblée générale. Le fonds
+est alimenté par une contribution obligatoire de chaque établissement du réseau
+des chambres de métiers et de l'artisanat. Le montant global annuel de la
+dotation et son affectation sont définis chaque année par l'assemblée générale
+de l'Assemblée permanente des chambres de métiers et de l'artisanat.

@@ -11,5 +11,7 @@ marchandises les véhicules d'intérêt général prioritaires, les véhicules,
 propriété de l'Etat ou d'une collectivité locale, affectés à l'entretien et à
 l'exploitation des routes et les véhicules et matériels agricoles définis par
 voie réglementaire, les véhicules à citerne à produits alimentaires
-exclusivement utilisés pour la collecte du lait dans les fermes ainsi que les
-véhicules militaires.
+exclusivement utilisés pour la collecte du lait dans les fermes, les véhicules
+exclusivement affectés au transport de matériel de cirque ou de fêtes foraines,
+les véhicules dédiés au transport de déchets d'animaux ou des carcasses non
+destinés à la consommation humaine ainsi que les véhicules militaires.

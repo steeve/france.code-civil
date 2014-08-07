@@ -84,8 +84,8 @@ constatée.
 
 Le produit de la contribution supplémentaire à l'apprentissage est affecté aux
 centres de formation d'apprentis et aux sections d'apprentissage, selon les
-modalités définies en application du II de l'article L. 6241-2 du code du
-travail.
+modalités définies en application du II de l'article L. 6241-2 et de l'article
+L. 6241-3 du code du travail.
 
 Les organismes mentionnés au premier alinéa reversent les sommes perçues en
-application du même premier alinéa au plus tard le 31 mai de la même année.
+application du même premier alinéa au plus tard le 15 juillet de la même année.

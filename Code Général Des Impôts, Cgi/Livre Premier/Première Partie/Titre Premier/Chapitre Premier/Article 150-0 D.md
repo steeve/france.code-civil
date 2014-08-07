@@ -22,7 +22,8 @@ présent 1, est réduit de l'abattement prévu au même alinéa et appliqué lor
 cette cession.
 
 L'abattement précité ne s'applique pas à l'avantage mentionné à l'article 80 bis
-constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007.
+constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007, ni
+au gain net mentionné au I de l'article 163 bis G.
 
 1 bis (Supprimé)
 

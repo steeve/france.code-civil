@@ -6,17 +6,55 @@ métiers et de l'artisanat de région et de l'assemblée permanente des chambres
 métiers et de l'artisanat.
 
 Le produit de cette taxe est affecté à chacun des bénéficiaires mentionnés au
-premier alinéa dans la limite d'un plafond individuel fixé par référence au
-plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de
-finances pour 2012.
+premier alinéa dans la limite du plafond prévu au I de l'article 46 de la loi n°
+2011-1977 du 28 décembre 2011 de finances pour 2012.
 
-Ce plafond individuel est obtenu pour chaque bénéficiaire ainsi que pour les
-bénéficiaires mentionnés à l'article 1er de la loi n° 48-977 du 16 juin 1948
-relative à la taxe pour frais de chambre de métiers applicable dans les
-départements du Bas-Rhin, du Haut-Rhin et de la Moselle en répartissant le
-montant prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011
-précitée au prorata des émissions perçues figurant dans les rôles généraux de
-l'année précédant l'année de référence.
+Ce plafond prévu au même I est décomposé en deux sous-plafonds : un sous-plafond
+relatif à la somme des produits du droit fixe défini au a du présent article, du
+droit additionnel défini au b du présent article et de l'article 3 de la loi n°
+48-977 du 16 juin 1948 relative à la taxe pour frais de chambre de métiers
+applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et
+un sous-plafond relatif au produit du droit additionnel pour le financement
+d'actions de formation défini au c du présent article.
+
+Ces deux sous-plafonds sont obtenus en répartissant le plafond prévu au I de
+l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée au prorata des
+émissions perçues entre les différentes composantes de la taxe figurant dans les
+rôles généraux de l'année précédant l'année de référence.
+
+Pour l'application du premier sous-plafond susmentionné, il est opéré en fin
+d'exercice, au profit du budget général, un prélèvement sur le fonds mentionné
+au 6° de l'article 5-8 du code de l'artisanat, correspondant à la différence
+entre le premier sous-plafond susmentionné et la somme des ressources fiscales
+perçues par l'ensemble des bénéficiaires au titre du droit fixe défini au a et
+du droit additionnel défini au b du présent article et de l'article 3 de la loi
+n° 48-977 du 16 juin 1948 précitée.
+
+En 2014, le fonds mentionné au 6° de l'article 5-8 du code de l'artisanat est
+alimenté par un prélèvement sur les chambres de métiers et de l'artisanat de
+région, les chambres de métiers et de l'artisanat départementales, les chambres
+de métiers d'Alsace et de Moselle et la chambre de métiers et de l'artisanat de
+Mayotte, dont le fonds de roulement constaté fin 2012, hors réserves affectées à
+des investissements votés et formellement validés par la tutelle, est supérieur
+à quatre mois de charges. Le prélèvement est fixé pour tous les établissements
+concernés à 50 % de la partie excédant quatre mois de charges, hors réserves
+affectées. Dans chaque région, le prélèvement sur chaque établissement concerné
+est effectué par titre de perception émis par l'ordonnateur compétent. Il est
+recouvré comme en matière de créances étrangères à l'impôt et au domaine. Son
+produit est reversé au fonds de financement et d'accompagnement.
+
+Le fonds de roulement est défini, pour chaque établissement, par différence
+entre les ressources stables (capitaux propres, provisions, dettes d'emprunt) et
+les emplois durables (actif immobilisé). Les charges prises en compte pour
+ramener le fonds de roulement à une durée sont les charges décaissables non
+exceptionnelles (charges d'exploitation moins provisions pour dépréciation,
+moins dotations aux amortissements et plus les charges financières).
+
+Pour l'application du second sous-plafond susmentionné, un sous-plafond
+individuel relatif au produit du droit additionnel pour le financement d'actions
+de formation est obtenu, pour chaque bénéficiaire, en répartissant ce
+sous-plafond au prorata des émissions perçues figurant dans les rôles généraux
+de l'année précédant l'année de référence.
 
 Par dérogation au II du même article 46, les plafonds individuels portent sur
 les émissions rattachées aux rôles de l'année de référence sans prise en compte

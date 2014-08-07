@@ -15,6 +15,6 @@ avec l'autorité administrative une convention-cadre de coopération définissan
 les conditions de leur participation à l'amélioration et à la promotion des
 formations technologiques et professionnelles initiales, notamment
 l'apprentissage. Les fonds de la taxe d'apprentissage non affectés par les
-entreprises, à l'exclusion de la fraction mentionnée à l'article L. 6241-2,
-concourent au financement de ces conventions, dans des conditions fixées par
-décret.
+entreprises, à l'exclusion de la fraction mentionnée au II de l'article L.
+6241-2, concourent au financement de ces conventions, dans des conditions fixées
+par décret.

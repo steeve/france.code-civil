@@ -13,3 +13,8 @@ territoire français ou l'arrêté de reconduite à la frontière qui a, le cas
 échéant, été pris. Elle délivre sans délai au réfugié la carte de résident
 prévue au 8° de l'article L. 314-11 et au bénéficiaire de la protection
 subsidiaire la carte de séjour temporaire prévue à l'article L. 313-13.
+
+L'étranger présent sur le territoire français dont la demande d'asile entre dans
+le cas mentionné au 1° de l'article L. 741-4 bénéficie du droit de se maintenir
+en France jusqu'à son départ volontaire ou son transfert effectif à destination
+de l'Etat membre responsable de l'examen de sa demande d'asile.

@@ -109,7 +109,10 @@ régime fiscal équivalent ;
 3° Aux gains nets de cession d'actions des sociétés de placement à prépondérance
 immobilière à capital variable régies par les articles L. 214-62 à L. 214-70 du
 code monétaire et financier et des sociétés de même nature établies hors de
-France et soumises à un régime fiscal équivalent.
+France et soumises à un régime fiscal équivalent ;
+
+4° A l'avantage et au gain mentionnés au dernier alinéa du 1 de l'article 150-0
+D.
 
 III.-Abrogé.
 

@@ -39,7 +39,7 @@ plus de 3 % à la moyenne des prix homologués de ce groupe, les pourcentages de
 respectivement, 110 % et 100 % au titre de l'année en cours par arrêté du
 ministre chargé du budget.
 
-Lorsque le prix de vente au détail homologué d'un produit est inférieur à 95 %
+Lorsque le prix de vente au détail homologué d'un produit est inférieur à 97 %
 du prix moyen des produits du même groupe constaté par le dernier arrêté de
 prix, le montant des minima de perception prévu à l'article 575 A peut être
 relevé par arrêté du ministre chargé du budget, dans la limite de 25 %.

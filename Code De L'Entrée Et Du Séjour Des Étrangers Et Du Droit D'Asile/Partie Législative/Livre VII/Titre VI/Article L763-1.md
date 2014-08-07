@@ -21,9 +21,8 @@ a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mot
 
 b) Le 1° n'est pas applicable ;
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-
-" sur le territoire de la République " ;
+c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le
+territoire de la République " ;
 
 5° A l'article L. 742-1, les mots : " en France " sont remplacés par les mots :
 " en Polynésie française " ;
@@ -47,12 +46,14 @@ c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
 " Si l'office décide d'entendre le demandeur d'asile hors de la Polynésie
 française, celui-ci reçoit les autorisations nécessaires. " ;
 
-d) La dernière phrase est ainsi rédigée :
+d) La dernière phrase du deuxième alinéa est ainsi rédigée :
 
 " Il délivre sans délai un titre de séjour dans les conditions prévues par
 l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de
 séjour des étrangers en Polynésie française ou la carte de séjour temporaire
 prévue par l'article 18 de cette ordonnance. " ;
+
+e) Le dernier alinéa n'est pas applicable ;
 
 8° A l'article L. 742-7, les mots : " le territoire français " sont remplacés
 par les mots : " la Polynésie française " ;

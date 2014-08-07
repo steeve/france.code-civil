@@ -12,7 +12,8 @@ hors de France.
 La condition de dépendance ou de contrôle n'est pas exigée lorsque le transfert
 s'effectue avec des entreprises établies dans un Etat étranger ou dans un
 territoire situé hors de France dont le régime fiscal est privilégié au sens du
-deuxième alinéa de l'article 238 A.
+deuxième alinéa de l'article 238 A ou établies ou constituées dans un Etat ou
+territoire non coopératif au sens de l'article 238-0 A.
 
 En cas de défaut de réponse à la demande faite en application de l'article L. 13
 B du livre des procédures fiscales ou en cas d'absence de production ou de

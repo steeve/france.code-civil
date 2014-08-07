@@ -9,13 +9,9 @@ travail.
 
 2. Cette taxe est due :
 
-1° Par les personnes physiques, ainsi que par les sociétés en nom collectif, en
-commandite simple et par les sociétés en participation n'ayant pas opté pour le
-régime applicable aux sociétés par actions et par les sociétés à responsabilité
-limitée ayant opté pour le régime fiscal des sociétés de personnes dans les
-conditions prévues au IV de l'article 3 du décret n° 55-594 du 20 mai 1955
-modifié, lorsque ces personnes et sociétés exercent une activité visée aux
-articles 34 et 35 ;
+1° Par les personnes physiques ainsi que par les sociétés soumises au régime
+fiscal des sociétés de personnes, lorsque ces personnes et sociétés exercent une
+activité mentionnée aux articles 34 et 35 du présent code ;
 
 2° Par les sociétés, associations et organismes passibles de l'impôt sur les
 sociétés en vertu de l'article 206, à l'exception de ceux désignés au 5 de

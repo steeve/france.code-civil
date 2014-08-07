@@ -1,11 +1,11 @@
 Article L3335-3
 ----
-I. ― En 2014, il est créé un fonds de solidarité en faveur des départements.
+I.-En 2014, il est créé un fonds de solidarité en faveur des départements.
 
 II.-Ce fonds est alimenté par un prélèvement égal à 0,35 % du montant de
 l'assiette de la taxe de publicité foncière et des droits d'enregistrement
-perçus par les départements en 2013 en application des articles 1594 A et 1595
-du code général des impôts.
+perçus par les départements en 2013 en application des articles 682 et 683 du
+code général des impôts.
 
 Pour chaque département, la somme des prélèvements opérés en application du
 présent article et du IV de l'article L. 3335-2 du présent code ne peut excéder
