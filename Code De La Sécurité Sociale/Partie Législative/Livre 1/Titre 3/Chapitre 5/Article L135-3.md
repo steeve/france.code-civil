@@ -17,14 +17,10 @@ au III de l'article 1647 du même code ;
 3° La part du produit de la contribution mentionnée à l'article L. 137-15 fixée
 à l'article L. 137-16 ;
 
-4° Le solde du produit de la contribution sociale de solidarité à la charge des
-sociétés mentionné au second alinéa de l'article L. 651-2-1, les produits
-financiers mentionnés à ce même alinéa, ainsi que le reliquat du produit au
-titre des exercices antérieurs à 2011, dans des conditions fixées par arrêté
-conjoint des ministres chargés de la sécurité sociale et du budget ;
+4° Une fraction du produit des contributions mentionnées aux articles L. 245-13
+et L. 651-1, fixée à l'article L. 651-2-1 ;
 
-5° Le produit de la contribution additionnelle à la contribution sociale de
-solidarité à la charge des sociétés mentionnée à l'article L. 245-13 ;
+5° (Abrogé) ;
 
 6° (Abrogé) ;
 

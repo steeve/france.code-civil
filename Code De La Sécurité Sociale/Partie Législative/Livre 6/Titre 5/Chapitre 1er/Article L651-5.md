@@ -73,19 +73,18 @@ Le chiffre d'affaires retenu pour asseoir la contribution prévue par l'article
 L. 138-1 est exclu de l'assiette de la contribution sociale de solidarité.
 
 Par dérogation au premier alinéa, les entreprises dont le chiffre d'affaires,
-calculé selon les modalités prévues aux alinéas précédents, est inférieur au
-seuil mentionné par le premier alinéa de l'article L. 651-3 ne sont pas tenues
-de souscrire une déclaration au titre de la contribution sociale de solidarité.
+calculé selon les modalités prévues aux alinéas précédents, est inférieur ou
+égal au montant de l'abattement mentionné par le premier alinéa de l'article L.
+651-3 ne sont pas tenues de souscrire une déclaration au titre de la
+contribution sociale de solidarité.
 
 Lorsque la société ou l'entreprise assujettie n'a pas effectué la déclaration de
 son chiffre d'affaires selon les modalités et dans les délais prescrits pour
 l'application du présent article, le chiffre d'affaires sur lequel est assise la
 contribution est fixé d'office par l'organisme chargé du recouvrement à partir
 des éléments dont il dispose ou des comptes annuels dont il est fait publicité.
-A défaut d'éléments suffisants, le chiffre d'affaires est fixé forfaitairement
-par rapport au seuil mentionné au premier alinéa de l'article L. 651-3.
 
-Les montants dus, lorsque le chiffre d'affaires estimé est supérieur ou égal au
-seuil fixé par le premier alinéa de l'article L. 651-3, sont réclamés à titre
-provisionnel, par voie de mise en demeure dans les conditions mentionnées à
-l'article L. 244-2.
+Les montants dus, lorsque le chiffre d'affaires estimé est supérieur au montant
+de l'abattement fixé par le premier alinéa de l'article L. 651-3, sont réclamés
+à titre provisionnel, par voie de mise en demeure dans les conditions
+mentionnées à l'article L. 244-2.

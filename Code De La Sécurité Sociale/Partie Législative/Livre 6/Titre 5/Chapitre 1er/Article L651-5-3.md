@@ -1,13 +1,14 @@
 Article L651-5-3
 ----
 Les sociétés, entreprises et établissements dont le chiffre d'affaires défini à
-l'article L. 651-5 est supérieur ou égal à 760 000 euros sont tenues d'effectuer
-la déclaration prévue au même article et le paiement de la contribution sociale
-de solidarité par voie électronique auprès de l'organisme chargé du recouvrement
-mentionné à l'article L. 651-4. Pour se conformer à cette obligation, les
-sociétés, entreprises et établissements utilisent les services de
-télédéclaration et de télérèglement mis à disposition dans les conditions
-prévues à l'article L. 133-5.
+l'article L. 651-5 est supérieur au montant de l'abattement mentionné au premier
+alinéa de l'article L. 651-3 sont tenues d'effectuer la déclaration prévue à
+l'article L. 651-5 et le paiement de la contribution sociale de solidarité par
+voie électronique auprès de l'organisme chargé du recouvrement mentionné à
+l'article L. 651-4. Pour se conformer à cette obligation, les sociétés,
+entreprises et établissements utilisent les services de télédéclaration et de
+télérèglement mis à disposition dans les conditions prévues à l'article L.
+133-5.
 
 Lorsque la transmission de la déclaration n'est pas faite suivant les modalités
 définies à l'alinéa précédent, il est appliqué une majoration de 0,2 % du

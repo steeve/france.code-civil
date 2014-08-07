@@ -3,20 +3,25 @@ Article L241-3
 La couverture des charges de l'assurance vieillesse et de l'assurance veuvage
 est, indépendamment des contributions de l'Etat prévues par les dispositions
 législatives et réglementaires en vigueur, assurée par une contribution du fonds
-institué par l'article L. 135-1 dans les conditions fixées par l'article L.
+institué par l'article L. 131-1 dans les conditions fixées par l'article L.
 135-2, par une contribution de la branche Accidents du travail et maladies
 professionnelles couvrant les dépenses supplémentaires engendrées par les
 départs en retraite à l'âge fixé en application de l'article L. 351-1-4, par les
-contributions prévues aux articles L. 137-10, L. 137-12 et L. 137-15 et par des
-cotisations assises sur les rémunérations ou gains perçus par les travailleurs
-salariés ou assimilés, dans la limite d'un plafond fixé à intervalles qui ne
-peuvent être inférieurs au semestre ni supérieurs à l'année et en fonction de
-l'évolution générale des salaires dans des conditions prévues par décret. Le
-montant du plafond, calculé selon les règles fixées par ce décret, est arrêté
-par le ministre chargé de la sécurité sociale.
+contributions prévues aux articles L. 137-10, L. 137-12 et L. 137-15, par une
+fraction du produit des contributions mentionnées aux articles L. 245-13 et L.
+651-1, fixée à l'article L. 651-2-1 et par des cotisations assises sur les
+rémunérations ou gains perçus par les travailleurs salariés ou assimilés, dans
+la limite d'un plafond fixé à intervalles qui ne peuvent être inférieurs au
+semestre ni supérieurs à l'année et en fonction de l'évolution générale des
+salaires dans des conditions prévues par décret. Le montant du plafond, calculé
+selon les règles fixées par ce décret, est arrêté par le ministre chargé de la
+sécurité sociale.
 
 Ces cotisations dont le taux est fixé par décret, sont pour partie à la charge
 de l'employeur et pour partie à la charge du salarié.
+
+Des cotisations forfaitaires peuvent être fixées par des arrêtés ministériels
+pour certaines catégories de salariés ou assimilés.
 
 La couverture des charges de l'assurance vieillesse et de l'assurance veuvage
 est également assurée par des cotisations à la charge des employeurs et des

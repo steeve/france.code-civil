@@ -6,8 +6,9 @@ Les charges entraînées par l'application du présent titre sont couvertes par 
 
 2°) (Abrogé) ;
 
-3°) une fraction du produit de la contribution sociale de solidarité à la charge
-de certaines sociétés instituées par l'article L. 651-1 ;
+3°) Une dotation de la Caisse nationale de l'assurance maladie des travailleurs
+salariés destinée à assurer l'équilibre financier de la branche, dans les
+conditions fixées à l'article L. 134-11-1 ;
 
 4°) une fraction du produit de la contribution de solidarité instituée par
 l'article L. 651-10 ;
