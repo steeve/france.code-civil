@@ -10,15 +10,16 @@ proportion des droits sociaux que les salariés de la société rachetée détie
 indirectement dans le capital de cette dernière et dans la limite du montant des
 intérêts dus par la société nouvelle au titre de l'exercice d'imputation à
 raison des emprunts qu'elle a contractés pour le rachat. Pour les sociétés
-membres d'un groupe au sens de l'article 223 A, l'impôt sur les sociétés dû par
-la société rachetée s'entend du montant qu'elle aurait dû acquitter en l'absence
-d'application du régime prévu à l'article 223 A.
+membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis,
+l'impôt sur les sociétés dû par la société rachetée s'entend du montant qu'elle
+aurait dû acquitter en l'absence d'application du régime prévu à l'article 223 A
+ou à l'article 223 A bis.
 
 II.-Le bénéfice du I est subordonné aux conditions suivantes :
 
 1° La société rachetée et la société nouvelle doivent être soumises au régime de
 droit commun de l'impôt sur les sociétés et ne pas faire partie du même groupe
-au sens de l'article 223 A ;
+au sens de l'article 223 A ou à l'article 223 A bis ;
 
 2° Les droits de vote attachés aux actions ou aux parts de la société nouvelle
 doivent être détenus par au moins quinze personnes qui, à la date du rachat,

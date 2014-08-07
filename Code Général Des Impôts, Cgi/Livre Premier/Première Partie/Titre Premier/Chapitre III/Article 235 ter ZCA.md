@@ -15,19 +15,19 @@ La contribution est égale à 3 % des montants distribués. Toutefois, elle n'es
 pas applicable :
 
 1° Aux montants distribués entre sociétés du même groupe au sens de l'article
-223 A, y compris pour les montants mis en paiement par une société du groupe au
-cours du premier exercice dont le résultat n'est pas pris en compte dans le
-résultat d'ensemble si la distribution a lieu avant l'événement qui entraîne sa
-sortie du groupe ;
+223 A ou de l'article 223 A bis, y compris pour les montants mis en paiement par
+une société du groupe au cours du premier exercice dont le résultat n'est pas
+pris en compte dans le résultat d'ensemble si la distribution a lieu avant
+l'événement qui entraîne sa sortie du groupe ;
 
 2° Aux montants distribués aux entités mentionnées au 2° du 6 de l'article 206
 par des entités affiliées à un même organe central au sens de l'article L.
 511-31 du code monétaire et financier ou aux montants distribués, directement ou
 indirectement, aux caisses locales, départementales ou interdépartementales
-mentionnées au troisième alinéa de l'article 223 A du présent code et rattachées
-au même organe central au sens de l'article L. 511-31 précité par des entités
-que ces caisses contrôlent conjointement, directement ou indirectement, à plus
-de 95 % ;
+mentionnées au cinquième alinéa du I de l'article 223 A du présent code et
+rattachées au même organe central au sens de l'article L. 511-31 précité par des
+entités que ces caisses contrôlent conjointement, directement ou indirectement,
+à plus de 95 % ;
 
 3° Aux montants distribués par les sociétés ayant opté pour le régime prévu à
 l'article 208 C à des sociétés ayant opté pour le même régime et détenant la

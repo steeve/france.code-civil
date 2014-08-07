@@ -24,8 +24,9 @@ contribution exceptionnelle estimée au titre de l'exercice ou de la période
 d'imposition en cours et déterminée selon les modalités prévues au même I.
 
 Pour l'application des a et b, le chiffre d'affaires est apprécié, pour la
-société mère d'un groupe mentionné à l'article 223 A, en faisant la somme des
-chiffres d'affaires de chacune des sociétés membres de ce groupe.
+société mère d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis,
+en faisant la somme des chiffres d'affaires de chacune des sociétés membres de
+ce groupe.
 
 Si le montant du versement anticipé est supérieur à la contribution due,
 l'excédent est restitué dans les trente jours à compter de la date de dépôt du

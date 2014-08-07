@@ -88,10 +88,10 @@ duquel cette utilisation a été effectuée. Le compte précité est un compte
 courant qui retrace exclusivement les opérations définies ci-dessus.
 
 1 bis. Lorsqu'une société exerce l'option pour le régime de groupe mentionné à
-l'article 223 A, les dispositions du 1 ne sont pas applicables pour la
-détermination des résultats des exercices clos au cours de la période de cinq
-ans à compter de la date d'ouverture du premier exercice au titre duquel elle a
-exercé cette option.
+l'article 223 A ou à l'article 223 A bis, les dispositions du 1 ne sont pas
+applicables pour la détermination des résultats des exercices clos au cours de
+la période de cinq ans à compter de la date d'ouverture du premier exercice au
+titre duquel elle a exercé cette option.
 
 Les sommes mentionnées aux 1°, 2° et 5° du 1 non déduites en application du
 premier alinéa conservent le caractère de ristournes pour les personnes qui les

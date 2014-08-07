@@ -17,5 +17,6 @@ d'impôt sur les sociétés estimé a été déterminé à partir du compte de r
 prévisionnel mentionné à l'article L. 232-2 du code de commerce, révisé dans les
 quatre mois qui suivent l'ouverture du second semestre de l'exercice, avant
 déduction de l'impôt sur les sociétés. Pour la société mère d'un groupe
-mentionné à l'article 223 A, le compte de résultat prévisionnel s'entend de la
-somme des comptes de résultat prévisionnels des sociétés membres du groupe.
+mentionné à l'article 223 A ou à l'article 223 A bis, le compte de résultat
+prévisionnel s'entend de la somme des comptes de résultat prévisionnels des
+sociétés membres du groupe.

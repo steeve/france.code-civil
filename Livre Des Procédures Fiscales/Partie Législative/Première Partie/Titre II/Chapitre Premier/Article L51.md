@@ -19,7 +19,8 @@ fiscale dans les conditions prévues à l'article L. 16-0 BA, au titre d'une
 période postérieure ;
 
 5° Dans les cas de vérification de la comptabilité des sociétés mères qui ont
-opté pour le régime prévu à l'article 223 A du code général des impôts ;
+opté pour le régime prévu à l'article 223 A ou à l'article 223 A bis du code
+général des impôts ;
 
 6° Dans les cas prévus à l'article L. 188 A après l'intervention de la réponse
 de l'autorité compétente de l'autre Etat ou territoire ;

@@ -1,6 +1,6 @@
 Article 235 ter ZD
 ----
-I. - Une taxe s'applique à toute acquisition à titre onéreux d'un titre de
+I.-Une taxe s'applique à toute acquisition à titre onéreux d'un titre de
 capital, au sens de l'article L. 212-1 A du code monétaire et financier, ou d'un
 titre de capital assimilé, au sens de l'article L. 211-41 du même code, dès lors
 que ce titre est admis aux négociations sur un marché réglementé français,
@@ -19,7 +19,7 @@ Les titres représentant ceux mentionnés audit premier alinéa émis par une
 société, quel que soit le lieu d'établissement de son siège social, sont soumis
 à la taxe.
 
-II. - La taxe n'est pas applicable :
+II.-La taxe n'est pas applicable :
 
 1° Aux opérations d'achat réalisées dans le cadre d'une émission de titres de
 capital, y compris lorsque cette émission donne lieu à un service de prise ferme
@@ -67,9 +67,9 @@ suspectes ;
 5° Aux acquisitions de titres entre sociétés membres du même groupe, au sens de
 l'article L. 233-3 du code de commerce, au moment de l'acquisition de titres
 concernée, aux acquisitions de titres entre sociétés du même groupe, au sens de
-l'article 223 A du présent code, et aux acquisitions intervenant dans les
-conditions prévues aux articles 210 A, 210 B, 220 quater, 220 quater A et 220
-quater B ;
+l'article 223 A ou de l'article 223 A bis du présent code, et aux acquisitions
+intervenant dans les conditions prévues aux articles 210 A, 210 B, 220 quater,
+220 quater A et 220 quater B ;
 
 6° Aux cessions temporaires de titres mentionnées au 10° de l'article 2 du
 règlement (CE) n° 1287/2006 de la Commission européenne, du 10 août 2006,
@@ -95,8 +95,8 @@ le cadre du titre III du livre III de la troisième partie du code du travail ;
 
 9° Aux acquisitions d'obligations échangeables ou convertibles en actions.
 
-III. - La taxe est assise sur la valeur d'acquisition du titre. En cas
-d'échange, à défaut de valeur d'acquisition exprimée dans un contrat, la valeur
+III.-La taxe est assise sur la valeur d'acquisition du titre. En cas d'échange,
+à défaut de valeur d'acquisition exprimée dans un contrat, la valeur
 d'acquisition correspond à la cotation des titres sur le marché le plus
 pertinent en termes de liquidité, au sens de l'article 9 du règlement (CE)
 1287/2006 de la Commission, du 10 août 2006, précité, à la clôture de la journée
@@ -104,12 +104,12 @@ de bourse qui précède celle où l'échange se produit. En cas d'échange entre
 titres d'inégale valeur, chaque partie à l'échange est taxée sur la valeur des
 titres dont elle fait l'acquisition.
 
-IV. - La taxe est exigible le premier jour du mois suivant celui au cours duquel
+IV.-La taxe est exigible le premier jour du mois suivant celui au cours duquel
 s'est produite l'acquisition du titre.
 
-V. - Le taux de la taxe est fixé à 0,2 %.
+V.-Le taux de la taxe est fixé à 0,2 %.
 
-VI. - La taxe est liquidée et due par l'opérateur fournissant des services
+VI.-La taxe est liquidée et due par l'opérateur fournissant des services
 d'investissement, au sens de l'article L. 321-1 du code monétaire et financier,
 ayant exécuté l'ordre d'achat du titre ou ayant négocié pour son compte propre,
 quel que soit son lieu d'établissement.
@@ -125,7 +125,7 @@ assurant la fonction de tenue de compte-conservation, au sens du 1 de l'article
 L. 321-2 du même code, quel que soit son lieu d'établissement. L'acquéreur lui
 transmet les informations mentionnées au VIII du présent article.
 
-VII. - Si le dépositaire central teneur du compte d'émission du titre de capital
+VII.-Si le dépositaire central teneur du compte d'émission du titre de capital
 est soumis au 3° du II de l'article L. 621-9 du code monétaire et financier et
 effectue la livraison du titre, le redevable mentionné au VI du présent article
 fournit au dépositaire central les informations mentionnées au VIII avant le 5
@@ -169,19 +169,19 @@ selon le modèle qu'elle a fixé, et paie au Trésor la taxe avant le 25 du mois
 suivant les acquisitions mentionnées au I. Il tient à disposition de
 l'administration les informations mentionnées au VIII.
 
-VIII. - Si le dépositaire central teneur du compte d'émission du titre de
-capital est soumis au 3° du II de l'article L. 621-9 du code monétaire et
-financier, il recueille de la part de ses adhérents ou des redevables, dans les
-conditions prévues au VII du présent article, des informations relatives aux
-opérations entrant dans le champ d'application de la taxe. Un décret précise la
-nature de ces informations, qui incluent le montant de la taxe due au titre de
-la période d'imposition, les numéros d'ordre des opérations concernées, la date
-de leur réalisation, la désignation, le nombre et la valeur des titres dont
+VIII.-Si le dépositaire central teneur du compte d'émission du titre de capital
+est soumis au 3° du II de l'article L. 621-9 du code monétaire et financier, il
+recueille de la part de ses adhérents ou des redevables, dans les conditions
+prévues au VII du présent article, des informations relatives aux opérations
+entrant dans le champ d'application de la taxe. Un décret précise la nature de
+ces informations, qui incluent le montant de la taxe due au titre de la période
+d'imposition, les numéros d'ordre des opérations concernées, la date de leur
+réalisation, la désignation, le nombre et la valeur des titres dont
 l'acquisition est taxable et les opérations exonérées, réparties selon les
 catégories d'exonération mentionnées au II.
 
-IX. - Le dépositaire central teneur du compte d'émission du titre soumis au 3°
-du II de l'article L. 621-9 du code monétaire et financier déclare à
+IX.-Le dépositaire central teneur du compte d'émission du titre soumis au 3° du
+II de l'article L. 621-9 du code monétaire et financier déclare à
 l'administration fiscale, selon le modèle qu'elle a fixé, centralise et reverse
 au Trésor la taxe avant le 25 du mois suivant les acquisitions mentionnées au I
 du présent article. La déclaration précise notamment le montant de la taxe due
@@ -194,7 +194,7 @@ redevable en application du premier alinéa du VII l'autorise à prélever sur s
 compte le montant de la taxe avant le 5 du mois suivant les acquisitions
 mentionnées au I.
 
-X. - Le dépositaire central soumis au 3° du II de l'article L. 621-9 du code
+X.-Le dépositaire central soumis au 3° du II de l'article L. 621-9 du code
 monétaire et financier tient une comptabilité séparée pour l'enregistrement des
 opérations liées à la collecte de la taxe. Il assure un contrôle de cohérence
 entre les déclarations qu'il reçoit et les informations en sa possession en tant
@@ -204,9 +204,9 @@ l'administration sur simple requête. Un rapport annuel est remis à
 l'administration sur la nature et l'ampleur des contrôles mis en œuvre. Un
 décret définit les modalités d'application du présent X.
 
-XI. - En cas de manquement, de son fait, aux obligations de paiement prévues au
-IX, le dépositaire central acquitte l'intérêt de retard prévu par l'article 1727
-.
+XI.-En cas de manquement, de son fait, aux obligations de paiement prévues au
+IX, le dépositaire central acquitte l'intérêt de retard prévu par l'article
+1727.
 
 En cas de manquement aux obligations de paiement prévues au VII, le redevable de
 la taxe acquitte l'intérêt de retard prévu au même article 1727.
@@ -214,7 +214,7 @@ la taxe acquitte l'intérêt de retard prévu au même article 1727.
 En cas de manquement du redevable ou de l'adhérent aux obligations déclaratives
 prévues au même VII, celui-ci acquitte l'amende prévue à l'article 1788 C.
 
-XII. - La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes
+XII.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes
 sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les
 réclamations sont présentées, instruites et jugées selon les règles applicables
 à ces mêmes taxes.

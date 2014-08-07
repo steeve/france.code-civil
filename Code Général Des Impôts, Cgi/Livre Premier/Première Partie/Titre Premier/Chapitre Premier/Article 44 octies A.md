@@ -55,9 +55,9 @@ d'habitation.
 Pour l'application des a et b, le chiffre d'affaires doit être ramené ou porté
 le cas échéant à douze mois. L'effectif de l'entreprise est apprécié par
 référence au nombre moyen de salariés employés au cours de cet exercice. Pour la
-société mère d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est
-apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés
-membres de ce groupe.
+société mère d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis,
+le chiffre d'affaires est apprécié en faisant la somme des chiffres d'affaires
+de chacune des sociétés membres de ce groupe.
 
 Si l'exonération est consécutive au transfert, à la reprise, à la concentration
 ou la restructuration d'activités préexistantes et si celles-ci bénéficient ou
@@ -115,10 +115,11 @@ disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
 Le bénéfice exonéré ne peut excéder 100 000 € par contribuable et par période de
 douze mois, majoré de 5 000 € par nouveau salarié embauché à compter du 1er
-janvier 2006 domicilié dans une zone urbaine sensible ou dans une zone franche
-urbaine et employé à temps plein pendant une période d'au moins six mois. Cette
-condition est appréciée à la clôture de l'exercice ou de la période d'imposition
-au titre duquel ou de laquelle l'exonération s'applique.
+janvier 2006 domicilié dans un quartier prioritaire de la politique de la ville
+ou dans une zone franche urbaine et employé à temps plein pendant une période
+d'au moins six mois. Cette condition est appréciée à la clôture de l'exercice ou
+de la période d'imposition au titre duquel ou de laquelle l'exonération
+s'applique.
 
 Pour les contribuables qui créent des activités dans une zone franche urbaine à
 compter du 1er janvier 2012 et emploient au moins un salarié au cours de
@@ -146,9 +147,9 @@ relatif à l'application des articles 107 et 108 du traité sur le fonctionnemen
 de l'Union européenne aux aides de minimis.
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe
-fiscal mentionné à l'article 223 A, le bénéfice exonéré est celui de cette
-société déterminé dans les conditions prévues au II du présent article et au 4
-de l'article 223 I.
+fiscal mentionné à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré
+est celui de cette société déterminé dans les conditions prévues au II du
+présent article et au 4 de l'article 223 I.
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération
 accordée ne peut excéder le montant total calculé conformément aux dispositions

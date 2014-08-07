@@ -10,9 +10,9 @@ a) De fondations ou associations reconnues d'utilité publique sous réserve du 
 bis, de fondations universitaires ou de fondations partenariales mentionnées
 respectivement aux articles L. 719-12 et L. 719-13 du code de l'éducation et,
 pour les seuls salariés des entreprises fondatrices ou des entreprises du
-groupe, au sens de l'article 223 A, auquel appartient l'entreprise fondatrice,
-de fondations d'entreprise, lorsque ces organismes répondent aux conditions
-fixées au b ;
+groupe, au sens de l'article 223 A ou de l'article 223 A bis, auquel appartient
+l'entreprise fondatrice, de fondations d'entreprise, lorsque ces organismes
+répondent aux conditions fixées au b ;
 
 b) D'oeuvres ou d'organismes d'intérêt général ayant un caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,

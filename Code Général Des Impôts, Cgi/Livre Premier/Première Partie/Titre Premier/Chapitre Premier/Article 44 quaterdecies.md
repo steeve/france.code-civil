@@ -104,9 +104,10 @@ l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les
 exercices ouverts entre le 31 décembre 2008 et le 31 décembre 2011.
 
 IV bis.-Lorsque le contribuable mentionné au I est une société membre d'un
-groupe fiscal mentionné à l'article 223 A, le bénéfice qui fait l'objet d'un
-abattement est celui déterminé comme si la société était imposée séparément,
-sans excéder celui déterminé dans les conditions du 4 de l'article 223 I.
+groupe fiscal mentionné à l'article 223 A ou à l'article 223 A bis, le bénéfice
+qui fait l'objet d'un abattement est celui déterminé comme si la société était
+imposée séparément, sans excéder celui déterminé dans les conditions du 4 de
+l'article 223 I.
 
 Pour l'ensemble des sociétés d'un même groupe, le montant cumulé des abattements
 ne peut excéder :
@@ -150,7 +151,7 @@ Le présent V n'est pas applicable lorsque la quote-part des bénéfices exonér
 est inférieure à 500 €.
 
 VI.-Les abattements prévus aux II et III s'imputent sur les résultats des
-exploitations déclarés en application de l'article 53 A .
+exploitations déclarés en application de l'article 53 A.
 
 Le cas échéant, les abattements prévus aux II et III s'imputent sur les
 résultats des exploitations déclarés en application de l'article 53 A avant

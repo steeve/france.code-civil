@@ -23,6 +23,6 @@ sont pas appliqués si le montant estimé de la contribution mentionnée au 1° 
 compte de résultat prévisionnel mentionné à l'article L. 232-2 du code de
 commerce, révisé dans les quatre mois qui suivent l'ouverture du second semestre
 de l'exercice, avant déduction de l'impôt sur les sociétés. Pour la société mère
-d'un groupe mentionné à l'article 223 A du présent code, le compte de résultat
-prévisionnel s'entend de la somme des comptes de résultat prévisionnels des
-sociétés membres du groupe.
+d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis du présent
+code, le compte de résultat prévisionnel s'entend de la somme des comptes de
+résultat prévisionnels des sociétés membres du groupe.

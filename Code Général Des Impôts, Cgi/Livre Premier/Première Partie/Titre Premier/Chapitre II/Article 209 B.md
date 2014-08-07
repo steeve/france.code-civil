@@ -59,7 +59,7 @@ un revenu de capitaux mobiliers de la personne morale.
 est réputé acquis le premier jour du mois qui suit la clôture de l'exercice de
 l'entreprise ou de l'entité juridique établie ou constituée hors de France. Il
 est déterminé selon les règles fixées par le présent code à l'exception des
-dispositions prévues à l'article 223 A.
+dispositions prévues à l'article 223 A et à l'article 223 A bis.
 
 4. L'impôt acquitté localement par l'entreprise ou l'entité juridique, établie
 hors de France, est imputable sur l'impôt établi en France, à condition d'être

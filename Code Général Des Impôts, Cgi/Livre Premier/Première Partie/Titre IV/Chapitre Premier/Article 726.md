@@ -69,6 +69,15 @@ II. Le droit d'enregistrement prévu au I est assis sur le prix exprimé et le
 capital des charges qui peuvent ajouter au prix ou sur une estimation des
 parties si la valeur réelle est supérieure au prix augmenté des charges.
 
+S'agissant des titres visés au 2° du I, à l'exception des titres de sociétés
+civiles de placement immobilier offerts au public, l'assiette du droit
+d'enregistrement comprend, à concurrence de la fraction des titres cédés, la
+valeur réelle des biens et droits immobiliers détenus, directement ou
+indirectement, au travers d'autres personnes morales à prépondérance
+immobilière, après déduction du seul passif afférent à l'acquisition desdits
+biens et droits immobiliers, ainsi que la valeur réelle des autres éléments
+d'actifs bruts.
+
 Toutefois, ce droit n'est pas applicable aux acquisitions de droits sociaux
 effectuées par une société créée en vue de racheter une autre société dans les
 conditions prévues aux articles 220 quater ou 220 quater A. Lorsque le rachat a

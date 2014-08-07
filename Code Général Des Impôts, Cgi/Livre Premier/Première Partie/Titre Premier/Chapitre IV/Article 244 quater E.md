@@ -3,7 +3,7 @@ Article 244 quater E
 I.-1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition
 peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que
 de remplacement, financés sans aide publique pour 25 % au moins de leur montant,
-réalisés jusqu'au 31 décembre 2016 (1) et exploités en Corse pour les besoins
+réalisés jusqu'au 31 décembre 2020 (1) et exploités en Corse pour les besoins
 d'une activité industrielle, commerciale, artisanale, libérale ou agricole autre
 que :
 
@@ -40,16 +40,15 @@ sociétés de développement régional et des sociétés financières d'innovati
 sont pas prises en compte à la condition qu'il n'existe pas de lien de
 dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre
 la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés
-membres d'un groupe au sens de l'article 223 A, le chiffre d'affaires et
-l'effectif à prendre en compte s'entendent respectivement de la somme des
-chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres
-de ce groupe. La condition tenant à la composition du capital doit être remplie
-par la société mère du groupe.
+membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis, le
+chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement
+de la somme des chiffres d'affaires et de la somme des effectifs de chacune des
+sociétés membres de ce groupe. La condition tenant à la composition du capital
+doit être remplie par la société mère du groupe.
 
 2° (abrogé).
 
-3° Le crédit d'impôt prévu au 1° est égal à 10 % (2) du prix de revient hors
-taxes :
+3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes :
 
 a. Des biens d'équipement amortissables selon le mode dégressif en vertu des 1
 et 2 de l'article 39 A et des agencements et installations de locaux commerciaux

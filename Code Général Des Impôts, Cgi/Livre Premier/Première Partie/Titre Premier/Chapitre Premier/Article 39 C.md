@@ -1,6 +1,6 @@
 Article 39 C
 ----
-I.L'amortissement des biens donnés en location ou mis à disposition sous toute
+I. L'amortissement des biens donnés en location ou mis à disposition sous toute
 autre forme est réparti sur la durée normale d'utilisation suivant des modalités
 fixées par décret en conseil d'Etat.
 
@@ -39,7 +39,8 @@ déduites, dans les conditions définies au même alinéa, au titre des douze
 premiers mois d'amortissement du bien est déductible à hauteur du quart des
 bénéfices imposables au taux d'impôt sur les sociétés de droit commun que chaque
 associé, copropriétaire, membre ou, le cas échéant, groupe au sens de l'article
-223 A auquel il appartient retire du reste de ses activités.
+223 A ou de l'article 223 A bis auquel il appartient retire du reste de ses
+activités.
 
 En cas de location ou de mise à disposition sous toute autre forme de biens
 situés ou exploités ou immatriculés dans un Etat qui n'est pas partie à l'accord
@@ -65,7 +66,7 @@ résultat imposable, au titre d'un même exercice, dans la limite du montant du
 loyer acquis, ou de la quote-part du résultat de la copropriété, diminué du
 montant des autres charges afférentes à ces biens ou parts.
 
-3.L'amortissement régulièrement comptabilisé au titre d'un exercice et non
+3. L'amortissement régulièrement comptabilisé au titre d'un exercice et non
 déductible du résultat de cet exercice en application des 1 ou 2 peut être
 déduit du résultat des exercices suivants, dans les conditions et limites
 prévues par ces 1 ou 2.

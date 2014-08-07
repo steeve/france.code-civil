@@ -255,7 +255,7 @@ ou territoire non coopératif au sens de l'article 238-0 A.
 Les moins-values afférentes à des titres exclus du régime des plus et
 moins-values à long terme en application du premier alinéa peuvent s'imputer
 exclusivement sur des plus-values exclues du régime des plus et moins-values à
-long terme en application du même alinéa.
+long terme en application du même alinéa. (1)
 
 a sexies. 1. Pour les exercices ouverts à compter du 1er janvier 2006, les
 sommes réparties par un fonds commun de placement à risques ou par un fonds
@@ -332,22 +332,22 @@ limite de 38 120 € de bénéfice imposable par période de douze mois, à 25 %
 les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à compter du
 1er janvier 2002.
 
-Pour la société mère d'un groupe mentionné à l'article 223 A, le chiffre
-d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune
-des sociétés membres de ce groupe. Le capital des sociétés mentionnées au
-premier alinéa du présent b doit être entièrement libéré et détenu de manière
-continue pour 75 % au moins par des personnes physiques ou par une société
-répondant aux mêmes conditions dont le capital est détenu, pour 75 % au moins,
-par des personnes physiques. Pour la détermination de ce pourcentage, les
-participations des sociétés de capital-risque, des fonds communs de placement à
-risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du
-code monétaire et financier dans sa rédaction antérieure à l'ordonnance n°
-2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs,
-des fonds professionnels de capital investissement, des sociétés de
-développement régional et des sociétés financières d'innovation ne sont pas
-prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens
-du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
-fonds.
+Pour la société mère d'un groupe mentionné à l'article 223 A ou à l'article 223
+A bis, le chiffre d'affaires est apprécié en faisant la somme des chiffres
+d'affaires de chacune des sociétés membres de ce groupe. Le capital des sociétés
+mentionnées au premier alinéa du présent b doit être entièrement libéré et
+détenu de manière continue pour 75 % au moins par des personnes physiques ou par
+une société répondant aux mêmes conditions dont le capital est détenu, pour 75 %
+au moins, par des personnes physiques. Pour la détermination de ce pourcentage,
+les participations des sociétés de capital-risque, des fonds communs de
+placement à risques, des fonds professionnels spécialisés relevant de l'article
+L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional et des sociétés financières d'innovation ne
+sont pas prises en compte à la condition qu'il n'existe pas de lien de
+dépendance au sens du 12 de l'article 39 entre la société en cause et ces
+dernières sociétés ou ces fonds.
 
 c. (dispositions abrogées pour les distributions mises en paiement au cours des
 exercices ouverts à compter du 1er janvier 1993 ainsi que pour les sommes
@@ -379,8 +379,9 @@ Les dispositions du premier alinéa s'appliquent si les conditions suivantes son
 remplies :
 
 1° La société a réalisé un chiffre d'affaires de moins de 7 630 000 € et n'est
-pas mère d'un groupe mentionné à l'article 223 A, au cours du premier des
-exercices pour lequel le bénéfice du taux réduit est demandé ;
+pas mère d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, au
+cours du premier des exercices pour lequel le bénéfice du taux réduit est
+demandé ;
 
 2° Le capital de la société, entièrement libéré, est détenu de manière continue,
 pour 75 % au moins par des personnes physiques ou par une société répondant aux

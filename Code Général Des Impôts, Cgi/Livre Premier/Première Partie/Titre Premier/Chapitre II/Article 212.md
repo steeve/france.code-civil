@@ -127,7 +127,7 @@ l'article L. 411-1 du code monétaire et financier ou d'une réglementation
 nantissement des titres du débiteur, ou de créances sur ce débiteur, ou des
 titres d'une société détenant directement ou indirectement le débiteur lorsque
 le détenteur de ces titres et le débiteur sont membres d'un même groupe
-mentionné à l'article 223 A ;
+mentionné à l'article 223 A ou à l'article 223 A bis ;
 
 3° A la suite du remboursement d'une dette préalable, rendu obligatoire par la
 prise de contrôle du débiteur ou en exécution d'une procédure de sauvegarde ou

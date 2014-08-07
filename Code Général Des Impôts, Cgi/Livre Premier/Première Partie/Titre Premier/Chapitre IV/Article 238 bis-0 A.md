@@ -25,8 +25,8 @@ La réduction d'impôt s'applique sur l'impôt sur les sociétés dû au titre d
 l'exercice au cours duquel les versements sont acceptés. Toutefois, la réduction
 d'impôt ne peut être supérieure à 50 % du montant de l'impôt dû par l'entreprise
 au titre de cet exercice conformément au I de l'article 219. Pour les sociétés
-membres d'un groupe au sens de l'article 223 A, la limite de 50 % s'applique
-pour l'ensemble du groupe par référence à l'impôt dû par la société mère du
-groupe.
+membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis, la
+limite de 50 % s'applique pour l'ensemble du groupe par référence à l'impôt dû
+par la société mère du groupe.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

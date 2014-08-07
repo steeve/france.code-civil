@@ -64,8 +64,8 @@ d. les dépenses de recherche ouvrant droit au crédit d'impôt prévu à l'arti
 244 quater B.
 
 En cas de rectifications apportées aux résultats des sociétés appartenant à des
-groupes mentionnés à l'article 223 A, l'insuffisance des chiffres déclarés
-s'apprécie pour chaque société.
+groupes mentionnés à l'article 223 A ou à l'article 223 A bis, l'insuffisance
+des chiffres déclarés s'apprécie pour chaque société.
 
 III.-Le taux de l'intérêt de retard est de 0,40 % par mois. Il s'applique sur le
 montant des créances de nature fiscale mises à la charge du contribuable ou dont

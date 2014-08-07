@@ -10,11 +10,8 @@ membre du groupe ou lorsque le groupe cesse d'exister parce qu'il ne satisfait
 pas à l'une des conditions prévues à la présente section.
 
 (1) Lorsqu'une personne morale membre d'un groupe formé en application du
-quatrième alinéa du I de l'article 223 A, autre que la société mère, opte pour
-devenir société mère de ce groupe, cette option entraîne la cessation du premier
-groupe. Lorsqu'une personne morale, autre que la société mère d'un groupe formé
-en application du deuxième alinéa du même I, opte pour devenir société mère de
-ce groupe, cette option entraîne la cessation du premier groupe.
+deuxième alinéa de l'article 223 A, autre que la société mère, opte pour devenir
+société mère de ce groupe, cette option entraîne la cessation du premier groupe.
 
 Si le régime prévu à l'article 223 A ou à l'article 223 A bis cesse de
 s'appliquer à toutes les sociétés du groupe, la société mère doit comprendre

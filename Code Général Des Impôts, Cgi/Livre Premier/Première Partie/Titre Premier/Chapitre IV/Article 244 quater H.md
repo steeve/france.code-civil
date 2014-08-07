@@ -25,10 +25,11 @@ des sociétés unipersonnelles d'investissement à risque ne sont pas prises en
 compte à la condition qu'il n'existe pas de lien de dépendance au sens des
 deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et
 ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au
-sens de l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte
-s'entendent respectivement de la somme des chiffres d'affaires et de la somme
-des effectifs de chacune des sociétés membres de ce groupe. La condition tenant
-à la composition du capital doit être remplie par la société mère du groupe.
+sens de l'article 223 A ou de l'article 223 A bis, le chiffre d'affaires et
+l'effectif à prendre en compte s'entendent respectivement de la somme des
+chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres
+de ce groupe. La condition tenant à la composition du capital doit être remplie
+par la société mère du groupe.
 
 Le crédit d'impôt bénéficie également aux sociétés des professions libérales
 soumises à un statut législatif ou réglementaire ou dont le titre est protégé et

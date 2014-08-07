@@ -17,9 +17,9 @@ satisfaisant à l'une des conditions mentionnées au a, ou
 
 d) (Périmé)
 
-e) Appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A du
-même code lorsque ce groupe comprend au moins une personne morale satisfaisant
-l'une des conditions mentionnées aux a, b, c ou d,
+e) Appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A ou
+à l'article 223 A bis du même code lorsque ce groupe comprend au moins une
+personne morale satisfaisant l'une des conditions mentionnées aux a, b, c ou d,
 
 doivent tenir à disposition de l'administration une documentation permettant de
 justifier la politique de prix de transfert pratiquée dans le cadre de

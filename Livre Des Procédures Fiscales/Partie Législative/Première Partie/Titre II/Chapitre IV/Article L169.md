@@ -53,15 +53,15 @@ l'administration a dressé un procès-verbal de flagrance fiscale dans les
 conditions prévues à l'article L. 16-0 BA, au titre d'une année postérieure.
 
 Si le déficit d'ensemble ou la moins-value nette à long terme d'ensemble subis
-par un groupe mentionné à l'article 223 A du code général des impôts sont
-imputés dans les conditions prévues aux articles 223 C et 223 D dudit code sur
-le résultat d'ensemble ou la plus-value nette à long terme d'ensemble réalisés
-au titre de l'un des exercices clos au cours de la période mentionnée au premier
-alinéa, les résultats et les plus-values ou moins-values nettes à long terme
-réalisés par les sociétés de ce groupe et qui ont concouru à la détermination de
-ce déficit ou de cette moins-value peuvent être remis en cause à hauteur du
-montant du déficit ou de la moins-value ainsi imputés, nonobstant les
-dispositions prévues au premier alinéa.
+par un groupe mentionné à l'article 223 A ou à l'article 223 A bis du code
+général des impôts sont imputés dans les conditions prévues aux articles 223 C
+et 223 D dudit code sur le résultat d'ensemble ou la plus-value nette à long
+terme d'ensemble réalisés au titre de l'un des exercices clos au cours de la
+période mentionnée au premier alinéa, les résultats et les plus-values ou
+moins-values nettes à long terme réalisés par les sociétés de ce groupe et qui
+ont concouru à la détermination de ce déficit ou de cette moins-value peuvent
+être remis en cause à hauteur du montant du déficit ou de la moins-value ainsi
+imputés, nonobstant les dispositions prévues au premier alinéa.
 
 Si le groupe a cessé d'exister, les règles définies au septième alinéa demeurent
 applicables au déficit ou à la moins-value nette à long terme définis au

@@ -48,9 +48,9 @@ mêmes modalités que celles définies au premier alinéa et le montant des acom
 déjà versés au titre du même exercice.
 
 Pour l'application des dispositions des a, b et c le chiffre d'affaires est
-apprécié, pour la société mère d'un groupe mentionné à l'article 223 A, en
-faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce
-groupe.
+apprécié, pour la société mère d'un groupe mentionné à l'article 223 A ou à
+l'article 223 A bis, en faisant la somme des chiffres d'affaires de chacune des
+sociétés membres de ce groupe.
 
 1 bis et 1 ter. (Abrogés pour les exercices ouverts à compter du 1er janvier
 1993).

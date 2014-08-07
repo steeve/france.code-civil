@@ -1,17 +1,14 @@
 Article 39 quinquies D
 ----
-Les entreprises qui construisent ou font construire, avant le 1er janvier 2015,
+Les entreprises qui construisent ou font construire, avant le 1er janvier 2016,
 des immeubles à usage industriel ou commercial pour les besoins de leur
 exploitation dans les zones de revitalisation rurale mentionnées à l'article
-1465 A ou dans les zones de redynamisation urbaine mentionnées au A du 3 de
-l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire peuvent pratiquer, à
-l'achèvement des constructions, un amortissement exceptionnel égal à 25 % de
-leur prix de revient, la valeur résiduelle étant amortissable sur la durée
-normale d'utilisation.
+1465 A peuvent pratiquer, à l'achèvement des constructions, un amortissement
+exceptionnel égal à 25 % de leur prix de revient, la valeur résiduelle étant
+amortissable sur la durée normale d'utilisation.
 
 Les dispositions du premier alinéa s'appliquent également aux travaux de
-rénovation, réalisés avant le 1er janvier 2015, dans des immeubles utilisés dans
+rénovation, réalisés avant le 1er janvier 2016, dans des immeubles utilisés dans
 les conditions visées au même alinéa.
 
 Les dispositions du premier et du deuxième alinéas s'appliquent aux entreprises
@@ -21,10 +18,10 @@ des travaux de rénovation :
 a) Emploient moins de deux cent cinquante salariés et ont soit réalisé un
 chiffre d'affaires annuel n'excédant pas 50 millions d'euros, ramené ou porté le
 cas échéant à douze mois, soit un total de bilan n'excédant pas 43 millions
-d'euros. Pour les sociétés membres d'un groupe au sens de l'article 223 A, le
-chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement
-de la somme des chiffres d'affaires et de la somme des effectifs des sociétés
-membres de ce groupe ;
+d'euros. Pour les sociétés membres d'un groupe au sens de l'article 223 A ou de
+l'article 223 A bis, le chiffre d'affaires et l'effectif à prendre en compte
+s'entendent respectivement de la somme des chiffres d'affaires et de la somme
+des effectifs des sociétés membres de ce groupe ;
 
 b) Et dont le capital ou les droits de vote ne sont pas détenus à hauteur de 25
 % ou plus par une ou plusieurs entreprises ne répondant pas aux conditions
@@ -42,10 +39,11 @@ les sociétés membres d'un groupe, la condition tenant à la composition du
 capital doit être remplie par la société mère du groupe.
 
 Pour les immeubles mentionnés au premier alinéa, le bénéfice de l'amortissement
-exceptionnel est subordonné au respect de l'article 15 du règlement (CE) n°
-800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide
-compatibles avec le marché commun en application des articles 87 et 88 du traité
-(Règlement général d'exemption par catégorie). Pour les travaux mentionnés au
-deuxième alinéa, le bénéfice de l'amortissement exceptionnel est subordonné au
-respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
-concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+exceptionnel est subordonné au respect de l' article 17 du règlement (UE) n°
+651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories
+d'aides compatibles avec le marché intérieur en application des articles 107 et
+108 du traité (1). Pour les travaux mentionnés au deuxième alinéa, le bénéfice
+de l'amortissement exceptionnel est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis (2).

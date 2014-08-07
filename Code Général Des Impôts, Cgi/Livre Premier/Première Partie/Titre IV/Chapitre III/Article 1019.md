@@ -13,7 +13,7 @@ au cours de six mois a atteint un montant au moins égal à dix millions d'euros
 et a abouti au transfert de contrôle de la société titulaire de l'autorisation.
 
 Tout apport, cession ou échange de titres réalisé entre sociétés du même groupe,
-au sens de l'article 223 A, est exonéré de la taxe.
+au sens de l'article 223 A ou de l'article 223 A bis, est exonéré de la taxe.
 
 Le fait générateur et l'exigibilité de la taxe interviennent au moment de la
 délivrance, par le Conseil supérieur de l'audiovisuel, de l'agrément prévu au
