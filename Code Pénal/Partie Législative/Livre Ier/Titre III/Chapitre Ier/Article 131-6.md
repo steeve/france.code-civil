@@ -23,6 +23,13 @@ délivrance d'un nouveau permis pendant cinq ans au plus ;
 véhicules appartenant au condamné, selon des modalités déterminées par décret en
 Conseil d'Etat ;
 
+5° bis L'interdiction, pendant une durée de cinq ans au plus, de conduire un
+véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction,
+d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
+cette interdiction est prononcée en même temps que la peine d'annulation ou de
+suspension du permis de conduire, elle s'applique, pour la durée fixée par la
+juridiction, à l'issue de l'exécution de cette peine ;
+
 6° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus,
 une arme soumise à autorisation ;
 

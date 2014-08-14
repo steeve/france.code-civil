@@ -12,4 +12,5 @@ Le juge de l'application des peines peut également subordonner la libération
 conditionnelle du condamné à l'exécution, à titre probatoire, d'une mesure de
 semi-liberté ou de placement à l'extérieur, pour une durée n'excédant pas un an.
 La mesure de semi-liberté ou de placement à l'extérieur peut être exécutée un an
-avant la fin du temps d'épreuve prévu à l'article 729.
+avant la fin du temps d'épreuve prévu à l'article 729 ou un an avant la date à
+laquelle est possible la libération conditionnelle prévue à l'article 729-3.

@@ -14,3 +14,9 @@ Lorsque l'exécution fractionnée de la peine d'emprisonnement a été décidée
 la juridiction de jugement en application de l'article 132-27 du code pénal,
 cette décision peut être modifiée dans les conditions prévues à l'alinéa
 précédent.
+
+Le seuil de deux ans prévu au premier alinéa est porté à quatre ans lorsque la
+suspension pour raison familiale s'applique soit à une personne condamnée
+exerçant l'autorité parentale sur un enfant de moins de dix ans ayant chez ce
+parent sa résidence habituelle, soit à une femme enceinte de plus de douze
+semaines.

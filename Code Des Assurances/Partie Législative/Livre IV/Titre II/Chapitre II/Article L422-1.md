@@ -24,3 +24,9 @@ recouvrée mensuellement par le fonds de garantie.
 
 Il est subrogé dans les droits que possède la victime contre la personne
 responsable du dommage.
+
+Le fonds est également alimenté par des versements prévus au II de l'article
+728-1 du code de procédure pénale. Lorsque ces versements sont effectués, la
+victime est alors directement indemnisée par le fonds à hauteur, le cas échéant,
+des versements effectués et, à hauteur de ces versements, l'avant-dernier alinéa
+du présent article n'est pas applicable.

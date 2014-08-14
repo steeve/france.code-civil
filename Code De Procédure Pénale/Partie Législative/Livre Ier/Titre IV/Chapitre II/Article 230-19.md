@@ -8,9 +8,9 @@ République, des juridictions d'instruction, de jugement ou d'application des
 peines, du juge des libertés et de la détention et du juge des enfants tendant à
 la recherche ou à l'arrestation d'une personne ;
 
-2° Les obligations ou interdictions visées aux 1°, 2°, 3°, 8°, 9°, 12° et 14° de
-l'article 138 du code de procédure pénale et à l'article 10-2 de l'ordonnance n°
-45-174 du 2 février 1945 relative à l'enfance délinquante ;
+2° Les obligations ou interdictions visées aux 1°, 2°, 3°, 8°, 9°, 12°, 14° et
+17° de l'article 138 du code de procédure pénale et à l'article 10-2 de
+l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ;
 
 3° Les interdictions prononcées en application des dispositions des 1°, 2°, 3°,
 6°, 11°, 12°, 13° et 14° de l'article 131-6 du code pénal relatif aux peines
@@ -29,26 +29,24 @@ articles 131-27 et 131-28 du code pénal ;
 6° L'interdiction de séjour prononcée en application de l'article 131-31 du code
 pénal ;
 
-7° Les obligations et interdictions prononcées dans le cadre d'un suivi
-socio-judiciaire en application des 8°, 9° et 13° de l'article 132-45 du code
-pénal ;
+7° Abrogé
 
-8° Les obligations ou interdictions prononcées dans le cadre d'un sursis avec
-mise à l'épreuve en application des dispositions du 5° de l'article 132-44 et
-des 7° à 14° de l'article 132-45 du code pénal et de l'article 20-9 de
-l'ordonnance n° 45-174 du 2 février 1945 précitée ;
+8° Les obligations ou interdictions prononcées dans le cadre d'une contrainte
+pénale, d'un sursis avec mise à l'épreuve, d'un suivi socio-judiciaire, d'une
+libération conditionnelle, d'une semi-liberté, d'un placement à l'extérieur,
+d'un placement sous surveillance électronique, d'une surveillance judiciaire ou
+d'une surveillance de sûreté en application des dispositions des 5° et 6° de
+l'article 132-44 et des 7° à 14°, 19° et 21° de l'article 132-45 du code pénal
+et de l'article 20-9 de l'ordonnance n° 45-174 du 2 février 1945 précitée ;
 
 9° L'interdiction de paraître dans certains lieux ou de rencontrer certaines
-personnes prononcée en application des 2°, 3° et 4° de l'article 15-1 de
+personnes prononcée en application des 2°, 3°, 4° et 11° de l'article 15-1 de
 l'ordonnance n° 45-174 du 2 février 1945 précitée ;
 
 10° L'interdiction de stade prononcée en application des dispositions des
 articles L. 332-11 à L. 332-15 du code du sport ;
 
-11° Les interdictions de paraître dans certains lieux, de rencontrer certaines
-personnes, de quitter le territoire ou d'exercer certaines activités, ordonnées
-en application des dispositions de l'article 731 du code de procédure pénale en
-cas de libération conditionnelle ;
+11° Abrogé
 
 11° bis Les interdictions prononcées en application de l'article 706-136 du code
 de procédure pénale ;

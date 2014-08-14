@@ -4,8 +4,8 @@ En cas de nécessité et par dérogation aux dispositions de l'article 803-2, la
 personne peut comparaître le jour suivant et peut être retenue à cette fin dans
 des locaux de la juridiction spécialement aménagés, à la condition que cette
 comparution intervienne au plus tard dans un délai de vingt heures à compter de
-l'heure à laquelle la garde à vue a été levée, à défaut de quoi l'intéressé est
-immédiatement remis en liberté.
+l'heure à laquelle la garde à vue ou la retenue a été levée, à défaut de quoi
+l'intéressé est immédiatement remis en liberté.
 
 Le magistrat devant lequel l'intéressé est appelé à comparaître est informé sans
 délai de l'arrivée de la personne déférée dans les locaux de la juridiction.

@@ -8,9 +8,13 @@ cette compétence. Sauf opposition d'une ou plusieurs communes représentant au
 moins la moitié de la population totale concernée, le président de
 l'établissement public ou un vice-président désigné dans les conditions prévues
 à l'article L. 5211-9 du code général des collectivités territoriales préside un
-conseil intercommunal de sécurité et de prévention de la délinquance. Le conseil
-intercommunal de sécurité et de prévention de la délinquance peut constituer en
-son sein un ou plusieurs groupes de travail et d'échange d'informations à
-vocation territoriale ou thématique. Les faits et informations à caractère
-confidentiel échangés dans le cadre de ces groupes de travail ne peuvent être
-communiqués à des tiers.
+conseil intercommunal de sécurité et de prévention de la délinquance.
+
+Le conseil intercommunal de sécurité et de prévention de la délinquance peut
+constituer en son sein un ou plusieurs groupes de travail et d'échange
+d'informations à vocation territoriale ou thématique. A la demande de l'autorité
+judiciaire, ces groupes peuvent traiter des questions relatives à l'exécution
+des peines et à la prévention de la récidive. Des informations confidentielles
+peuvent être échangées dans le cadre de ces groupes.
+
+Elles ne peuvent être communiquées à des tiers.

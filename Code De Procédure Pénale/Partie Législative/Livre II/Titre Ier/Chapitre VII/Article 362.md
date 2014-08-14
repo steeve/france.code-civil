@@ -1,11 +1,9 @@
 Article 362
 ----
 En cas de réponse affirmative sur la culpabilité, le président donne lecture aux
-jurés des dispositions des articles 132-18 et 132-24 du code pénal, ainsi que,
-si les faits ont été commis en état de récidive légale, de l'article 132-18-1
-et, le cas échéant, de l'article 132-19-1 du même code. La cour d'assises
-délibère alors sans désemparer sur l'application de la peine. Le vote a lieu
-ensuite au scrutin secret, et séparément pour chaque accusé.
+jurés des dispositions des articles 130-1, 132-1 et 132-18 du code pénal. La
+cour d'assises délibère alors sans désemparer sur l'application de la peine. Le
+vote a lieu ensuite au scrutin secret, et séparément pour chaque accusé.
 
 La décision sur la peine se forme à la majorité absolue des votants. Toutefois,
 le maximum de la peine privative de liberté encourue ne peut être prononcé qu'à
@@ -16,7 +14,12 @@ majorité, il ne peut être prononcé une peine supérieure à trente ans de
 réclusion criminelle lorsque la peine encourue est la réclusion criminelle à
 perpétuité et une peine supérieure à vingt ans de réclusion criminelle lorsque
 la peine encourue est de trente ans de réclusion criminelle. Les mêmes règles
-sont applicables en cas de détention criminelle.
+sont applicables en cas de détention criminelle. Si la cour d'assises a répondu
+positivement à la question portant sur l'application des dispositions du second
+alinéa de l'article 122-1 du même code, les peines privatives de liberté d'une
+durée égale ou supérieure aux deux tiers de la peine initialement encourue ne
+peuvent être prononcées qu'à la majorité qualifiée prévue par la deuxième phrase
+du présent alinéa.
 
 Si, après deux tours de scrutin, aucune peine n'a réuni la majorité des
 suffrages, il est procédé à un troisième tour au cours duquel la peine la plus

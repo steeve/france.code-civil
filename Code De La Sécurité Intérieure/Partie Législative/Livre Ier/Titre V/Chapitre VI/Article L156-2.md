@@ -12,10 +12,12 @@ fonctionnaire de zone de défense et de sécurité ;
 3° Les références au département sont remplacées par la référence à la
 Nouvelle-Calédonie ;
 
-4° L'article L. 112-2 est ainsi rédigé : " Art. L. 112-2. ― Sur le territoire de
-la commune, le maire est responsable de l'organisation, de la préparation et de
-la mise en œuvre des moyens de secours dans le cadre des textes législatifs et
-réglementaires applicables en matière de sécurité civile.
+4° L'article L. 112-2 est ainsi rédigé :
+
+" Art. L. 112-2. ― Sur le territoire de la commune, le maire est responsable de
+l'organisation, de la préparation et de la mise en œuvre des moyens de secours
+dans le cadre des textes législatifs et réglementaires applicables en matière de
+sécurité civile.
 
 " L'Etat est garant de la cohérence de la sécurité civile en Nouvelle-Calédonie.
 Il en définit la doctrine et coordonne tous les moyens.
@@ -34,7 +36,7 @@ territoire et d'urbanisme.
 de crise et de celles du code des communes de la Nouvelle-Calédonie, le
 haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations
 de secours excédant le territoire d'une commune ou dont l'ampleur excède les
-moyens de la commune. ";
+moyens de la commune. " ;
 
 5° Au premier alinéa de l'article L. 113-1, les mots : " ainsi que les agents de
 police municipale et les gardes champêtres, en vertu de l'article 11 de la loi
@@ -111,4 +113,8 @@ n° 45-174 du 2 février 1945 relative à l'enfance délinquante " sont supprim�
 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du
 code de l'action sociale et des familles " sont remplacés par les mots : " des
-dispositions applicables localement ".
+dispositions applicables localement " ;
+
+11° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil
+intercommunal ou métropolitain de sécurité et de prévention de la délinquance, "
+sont supprimés.

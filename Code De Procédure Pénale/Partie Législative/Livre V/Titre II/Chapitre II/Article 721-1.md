@@ -4,16 +4,22 @@ Une réduction supplémentaire de la peine peut être accordée aux condamnés q
 manifestent des efforts sérieux de réadaptation sociale, notamment en passant
 avec succès un examen scolaire, universitaire ou professionnel traduisant
 l'acquisition de connaissances nouvelles, en justifiant de progrès réels dans le
-cadre d'un enseignement ou d'une formation, en suivant une thérapie destinée à
-limiter les risques de récidive ou en s'efforçant d'indemniser leurs victimes.
-Sauf décision contraire du juge de l'application des peines, aucune réduction
-supplémentaire de la peine ne peut être accordée à une personne condamnée pour
-un crime ou un délit pour lequel le suivi socio-judiciaire est encouru, qui
-refuse pendant son incarcération de suivre le traitement qui lui est proposé par
-le juge de l'application des peines en application des articles 717-1 et 763-7.
-Il en est de même lorsque le juge de l'application des peines est informé, en
-application de l'article 717-1, que le condamné ne suit pas de façon régulière
-le traitement qu'il lui a proposé.
+cadre d'un enseignement ou d'une formation, en s'investissant dans
+l'apprentissage de la lecture, de l'écriture et du calcul, ou en participant à
+des activités culturelles, et notamment de lecture, en suivant une thérapie
+destinée à limiter les risques de récidive ou en s'efforçant d'indemniser leurs
+victimes. Sauf décision contraire du juge de l'application des peines, aucune
+réduction supplémentaire de la peine ne peut être accordée à une personne
+condamnée pour un crime ou un délit pour lequel le suivi socio-judiciaire est
+encouru, qui refuse pendant son incarcération de suivre le traitement qui lui
+est proposé par le juge de l'application des peines en application des articles
+717-1 et 763-7. Il en est de même lorsque le juge de l'application des peines
+est informé, en application de l'article 717-1, que le condamné ne suit pas de
+façon régulière le traitement qu'il lui a proposé. De même, après avis médical
+et sauf décision contraire du juge de l'application des peines, aucune réduction
+supplémentaire de peine ne peut être accordée à une personne condamnée dans les
+circonstances mentionnées à la première phrase du second alinéa de l'article
+122-1 du code pénal qui refuse les soins qui lui sont proposés.
 
 Cette réduction, accordée par le juge de l'application des peines après avis de
 la commission de l'application des peines, ne peut excéder, si le condamné est

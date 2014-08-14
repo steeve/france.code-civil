@@ -2,7 +2,7 @@ Article 131-9
 ----
 L'emprisonnement ne peut être prononcé cumulativement avec une des peines
 privatives ou restrictives de droits prévues à l'article 131-6 ni avec la peine
-de travail d'intérêt général.
+de contrainte pénale ou la peine de travail d'intérêt général.
 
 Lorsqu'elle prononce une ou plusieurs des peines prévues par les articles
 131-5-1, 131-6 ou 131-8, la juridiction peut fixer la durée maximum de

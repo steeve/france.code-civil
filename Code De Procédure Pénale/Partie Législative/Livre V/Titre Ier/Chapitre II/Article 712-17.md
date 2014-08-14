@@ -34,10 +34,10 @@ l'application des peines qui procède conformément aux dispositions de l'articl
 Si la présentation immédiate devant le juge de l'application des peines n'est
 pas possible, la personne est présentée devant le juge des libertés et de la
 détention. Ce juge peut, sur les réquisitions du procureur de la République,
-ordonner l'incarcération du condamné jusqu'à sa comparution devant le juge de
-l'application des peines, qui doit intervenir dans les huit jours ou dans le
-mois qui suit, selon qu'il s'agit d'une procédure correctionnelle ou d'une
-procédure criminelle.
+ordonner l'incarcération du condamné jusqu'à sa comparution, selon les cas,
+devant le juge de l'application des peines, qui doit intervenir dans un délai
+maximal de huit jours, ou devant le tribunal de l'application des peines, qui
+doit intervenir dans un délai maximal d'un mois.
 
 Si la personne est arrêtée à plus de 200 kilomètres du siège du juge de
 l'application des peines et qu'il n'est pas possible de la conduire dans le

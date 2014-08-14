@@ -53,3 +53,11 @@ prise en charge adaptée à sa situation à sa sortie de l'établissement
 pénitentiaire ou s'il justifie d'un hébergement, sauf en cas de risque grave de
 renouvellement de l'infraction ou si cette libération est susceptible de causer
 un trouble grave à l'ordre public.
+
+Lorsque le condamné bénéficie d'une mesure de suspension de peine sur le
+fondement de l'article 720-1-1, la libération conditionnelle peut être accordée
+sans condition quant à la durée de la peine accomplie si, à l'issue d'un délai
+de trois ans après l'octroi de la mesure de suspension, une nouvelle expertise
+établit que son état de santé physique ou mentale est toujours durablement
+incompatible avec le maintien en détention et si le condamné justifie d'une
+prise en charge adaptée à sa situation.

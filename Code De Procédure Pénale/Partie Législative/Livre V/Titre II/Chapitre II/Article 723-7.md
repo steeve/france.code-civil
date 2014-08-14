@@ -13,7 +13,8 @@ Le juge de l'application des peines peut également subordonner la libération
 conditionnelle du condamné à l'exécution, à titre probatoire, d'une mesure de
 placement sous surveillance électronique, pour une durée n'excédant pas un an.
 La mesure de placement sous surveillance électronique peut être exécutée un an
-avant la fin du temps d'épreuve prévu à l'article 729.
+avant la fin du temps d'épreuve prévu à l'article 729 ou un an avant la date à
+laquelle est possible la libération conditionnelle prévue à l'article 729-3.
 
 Lorsque le lieu désigné par le juge de l'application des peines n'est pas le
 domicile du condamné, la décision de placement sous surveillance électronique ne

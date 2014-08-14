@@ -25,9 +25,9 @@ l'article L. 3711-3 du code de la santé publique.
 
 Lorsque la libération conditionnelle n'est pas assortie d'un placement sous
 surveillance électronique mobile, elle ne peut également être accordée qu'après
-l'exécution, à titre probatoire, d'une mesure de semi-liberté ou de placement
-sous surveillance électronique pendant une période d'un an à trois ans. Cette
-mesure ne peut être exécutée avant la fin du temps d'épreuve prévu à l'article
-729 du présent code.
+l'exécution, à titre probatoire, d'une mesure de semi-liberté, de placement à
+l'extérieur ou de placement sous surveillance électronique pendant une période
+d'un an à trois ans. Cette mesure ne peut être exécutée avant la fin du temps
+d'épreuve prévu à l'article 729 du présent code.
 
 Un décret précise les conditions d'application du présent article.

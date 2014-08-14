@@ -34,6 +34,9 @@ dues au Trésor public à la suite de la condamnation ;
 7° S'abstenir de conduire certains véhicules déterminés par les catégories de
 permis prévues par le code de la route ;
 
+7° bis Sous réserve de son accord, s'inscrire et se présenter aux épreuves du
+permis de conduire, le cas échéant après avoir suivi des leçons de conduite ;
+
 8° Ne pas se livrer à l'activité dans l'exercice ou à l'occasion de l'exercice
 de laquelle l'infraction a été commise ou ne pas exercer une activité impliquant
 un contact habituel avec des mineurs ;
@@ -41,7 +44,8 @@ un contact habituel avec des mineurs ;
 9° S'abstenir de paraître en tout lieu, toute catégorie de lieux ou toute zone
 spécialement désignés ;
 
-10° Ne pas engager de paris, notamment dans les organismes de paris mutuels ;
+10° Ne pas engager de paris, notamment dans les organismes de paris mutuels, et
+ne pas prendre part à des jeux d'argent et de hasard ;
 
 11° Ne pas fréquenter les débits de boissons ;
 
@@ -79,13 +83,16 @@ nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou
 psychologique ; les dispositions du présent 19° sont également applicables
 lorsque l'infraction est commise par l'ancien conjoint ou concubin de la
 victime, ou par la personne ayant été liée à elle par un pacte civil de
-solidarité, le domicile concerné étant alors celui de la victime ; pour
+solidarité, le domicile concerné étant alors celui de la victime. Pour
 l'application du présent 19°, l'avis de la victime est recueilli, dans les
 meilleurs délais et par tous moyens, sur l'opportunité d'imposer au condamné de
 résider hors du logement du couple. Sauf circonstances particulières, cette
 mesure est prise lorsque sont en cause des faits de violences susceptibles
 d'être renouvelés et que la victime la sollicite. La juridiction peut préciser
-les modalités de prise en charge des frais afférents à ce logement.
+les modalités de prise en charge des frais afférents à ce logement ;
 
 20° Accomplir à ses frais un stage de responsabilisation pour la prévention et
-la lutte contre les violences au sein du couple et sexistes.
+la lutte contre les violences au sein du couple et sexistes ;
+
+21° Obtenir l'autorisation préalable du juge de l'application des peines pour
+tout déplacement à l'étranger.

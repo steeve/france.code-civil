@@ -2,8 +2,8 @@ Article 495-8
 ----
 Le procureur de la République peut proposer à la personne d'exécuter une ou
 plusieurs des peines principales ou complémentaires encourues ; la nature et le
-quantum de la ou des peines sont déterminés conformément aux dispositions de
-l'article 132-24 du code pénal.
+quantum de la ou des peines sont déterminés conformément aux articles 130-1 et
+132-1 du code pénal.
 
 Lorsqu'est proposée une peine d'emprisonnement, sa durée ne peut être supérieure
 à un an ni excéder la moitié de la peine d'emprisonnement encourue. Le procureur

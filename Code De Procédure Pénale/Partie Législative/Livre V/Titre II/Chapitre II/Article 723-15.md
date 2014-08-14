@@ -1,8 +1,10 @@
 Article 723-15
 ----
-Les personnes non incarcérées, condamnées à une peine inférieure ou égale à deux
-ans d'emprisonnement ou pour lesquelles la durée de la détention restant à subir
-est inférieure ou égale à deux ans, ou pour lesquelles, en cas de cumul de
+Les personnes non incarcérées ou exécutant une peine sous le régime de la
+semi-liberté, du placement à l'extérieur ou du placement sous surveillance
+électronique, condamnées à une peine inférieure ou égale à deux ans
+d'emprisonnement ou pour lesquelles la durée de la détention restant à subir est
+inférieure ou égale à deux ans, ou pour lesquelles, en cas de cumul de
 condamnations, le total des peines d'emprisonnement prononcées ou restant à
 subir est inférieur ou égal à deux ans bénéficient, dans la mesure du possible
 et si leur personnalité et leur situation le permettent, suivant la procédure

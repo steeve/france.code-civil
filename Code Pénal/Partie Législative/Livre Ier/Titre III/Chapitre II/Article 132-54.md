@@ -2,10 +2,10 @@ Article 132-54
 ----
 La juridiction peut, dans les conditions et selon les modalités prévues aux
 articles 132-40 et 132-41, prévoir que le condamné accomplira, pour une durée de
-vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au
-profit soit d'une personne morale de droit public, soit d'une personne morale de
-droit privé chargée d'une mission de service public ou d'une association
-habilitées à mettre en œuvre des travaux d'intérêt général.
+vingt à deux cent quatre-vingts heures, un travail d'intérêt général non
+rémunéré au profit soit d'une personne morale de droit public, soit d'une
+personne morale de droit privé chargée d'une mission de service public ou d'une
+association habilitées à mettre en œuvre des travaux d'intérêt général.
 
 La juridiction peut en outre soumettre le condamné à tout ou partie des
 obligations prévues à l'article 132-45 pour une durée qui ne peut excéder

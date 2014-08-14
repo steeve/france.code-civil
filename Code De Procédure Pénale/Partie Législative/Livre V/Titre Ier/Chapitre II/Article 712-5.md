@@ -9,4 +9,5 @@ intervenu dans le délai d'un mois à compter du jour de sa saisine.
 
 La commission de l'application des peines est présidée par le juge de
 l'application des peines ; le procureur de la République et le chef
-d'établissement en sont membres de droit.
+d'établissement en sont membres de droit. Le service pénitentiaire d'insertion
+et de probation y est représenté.
