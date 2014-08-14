@@ -1,16 +1,19 @@
 Article R3211-10
 ----
-Dès réception de la requête, le greffe l'enregistre et la communique :
+Le juge des libertés et de la détention dans le ressort duquel se situe
+l'établissement d'accueil est saisi par requête transmise par tout moyen
+permettant de dater sa réception au greffe du tribunal de grande instance.
 
-1° Selon le cas, au tiers qui a demandé l'admission en soins psychiatriques ou
-au préfet qui a ordonné ou maintenu la mesure de soins ;
+La requête est datée et signée et comporte :
 
-2° A la personne qui fait l'objet de soins, à moins qu'elle soit l'auteur de la
-requête, et, s'il y a lieu, à son tuteur ou son curateur ou, si elle est
-mineure, à ses représentants légaux ;
+1° L'indication des nom, prénoms, profession, domicile, nationalité, date et
+lieu de naissance du demandeur ou, s'il s'agit d'une personne morale, celle de
+sa forme, de sa dénomination, de son siège social et de l'organe qui la
+représente légalement ;
 
-3° Au ministère public ;
+2° L'indication des nom et prénoms de la personne qui fait l'objet de soins
+psychiatriques, de son domicile et, le cas échéant, de l'adresse de
+l'établissement où elle séjourne, ainsi que, s'il y a lieu, des coordonnées de
+son tuteur, de son curateur ou de ses représentants légaux s'il est mineur ;
 
-4° Au directeur de l'établissement, à moins qu'il ne l'ait lui-même transmise ou
-établie, à charge pour lui d'en remettre une copie à la personne concernée
-lorsqu'elle est hospitalisée dans son établissement.
+3° L'exposé des faits et son objet.

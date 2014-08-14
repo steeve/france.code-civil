@@ -1,12 +1,18 @@
 Article R3211-14
 ----
-Quand le juge des libertés et de la détention décide de se saisir d'office en
-application du dernier alinéa du I de l'article L. 3211-12, il met la personne
-qui fait l'objet de soins et, le cas échéant, son tuteur, son curateur ou ses
-représentants légaux, le tiers qui a demandé l'admission en soins
-psychiatriques, le préfet qui l'a ordonnée ou maintenue, le directeur
-d'établissement, ainsi que le ministère public, en mesure de produire des
-observations. Il les fait aviser de la date, de l'heure, du lieu et des
-modalités de tenue de l'audience. Le directeur de l'établissement transmet au
-juge les pièces mentionnées à l'article R. 3211-11 dans le délai de cinq jours
-suivant l'avis de saisine.
+S'il l'estime nécessaire, le juge ordonne, le cas échéant sans débat, toute
+mesure d'instruction.
+
+Lorsque le juge ordonne deux expertises, les deux experts procèdent à des
+examens séparés de la personne qui fait l'objet de soins.
+
+Le ou les experts désignés ne peuvent exercer dans l'établissement d'accueil de
+la personne qui fait l'objet de soins psychiatriques.
+
+Les experts remettent leur rapport dans le délai fixé par le juge, qui ne peut
+excéder douze jours suivant leur désignation. Ils déterminent librement les
+modalités de conduite des opérations d'expertise. Par dérogation aux articles
+160 et 276 du code de procédure civile, ils ne sont pas tenus de convoquer les
+parties ou de susciter leurs observations. Le rapport est déposé au secrétariat
+de la juridiction où les parties peuvent le consulter. Sur leur demande, le
+greffe leur en délivre une copie.

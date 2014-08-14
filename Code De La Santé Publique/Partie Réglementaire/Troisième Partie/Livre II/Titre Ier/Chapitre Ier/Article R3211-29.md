@@ -1,14 +1,14 @@
 Article R3211-29
 ----
-Le greffe enregistre la requête et la communique aussitôt, le cas échéant au
-tiers qui a demandé l'admission en soins psychiatriques, à la personne
-hospitalisée, à son tuteur ou son curateur ou, si elle est mineure, à ses
-représentants légaux, au ministère public.
-
-Au vu de la requête, le juge fixe la date, l'heure, le lieu et les modalités de
-tenue de l'audience. Ces informations sont communiquées aussitôt par le greffe
-aux personnes mentionnées au premier alinéa.
-
-L'avis d'audience indique également aux parties que les pièces mentionnées à
-l'article R. 3211-28 peuvent être consultées au greffe du tribunal. Les deux
-derniers alinéas de l'article R. 3211-12 sont applicables.
+Lorsque le juge des libertés et de la détention décide de se saisir d'office en
+application du dernier alinéa du I de l'article L. 3211-12, il met la personne
+qui fait l'objet de soins psychiatriques, son avocat dès sa désignation et, le
+cas échéant, son tuteur, son curateur ou ses représentants légaux, le tiers qui
+a demandé l'admission en soins psychiatriques, le préfet qui l'a ordonnée ou
+maintenue, le directeur d'établissement qui a prononcé l'admission en soins
+psychiatriques en cas de péril imminent, ainsi que le ministère public, en
+mesure de produire des observations. Il les fait aviser de la date, de l'heure
+et du lieu de l'audience. L'avis d'audience contient les informations prévues
+aux deux derniers alinéas de l'article R. 3211-13. Le directeur de
+l'établissement transmet au juge les pièces mentionnées à l'article R. 3211-12
+dans le délai de cinq jours suivant l'avis de saisine.

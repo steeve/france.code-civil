@@ -1,37 +1,33 @@
 Article R3211-12
 ----
-Au plus tard à la réception des pièces transmises par le directeur de
-l'établissement, le juge fixe la date, l'heure, le lieu et les modalités de
-tenue de l'audience.
+Sont communiqués au juge des libertés et de la détention afin qu'il statue :
 
-Le greffier en avise aussitôt, par tout moyen, en leur qualité de parties à la
-procédure :
+1° Quand l'admission en soins psychiatriques a été effectuée à la demande d'un
+tiers ou en cas de péril imminent, une copie de la décision d'admission motivée
+et, le cas échéant, une copie de la décision la plus récente ayant maintenu la
+mesure de soins, les nom, prénoms et adresse du tiers qui a demandé l'admission
+en soins ainsi qu'une copie de sa demande d'admission ;
 
-1° Le requérant et son avocat s'il en a un ;
+2° Quand l'admission en soins psychiatriques a été ordonnée par le préfet, une
+copie de l'arrêté d'admission en soins psychiatriques et, le cas échéant, une
+copie de l'arrêté le plus récent ayant maintenu la mesure de soins ;
 
-2° La personne qui fait l'objet de soins par l'intermédiaire du chef
-d'établissement lorsqu'elle y est hospitalisée et, s'il y a lieu, son avocat,
-son tuteur, son curateur ou ses représentants légaux ;
+3° Quand l'admission en soins psychiatriques a été ordonnée par une juridiction,
+une copie de la décision et de l'expertise mentionnées à l'article 706-135 du
+code de procédure pénale ;
 
-3° Selon le cas, le préfet qui a ordonné ou maintenu la mesure de soins ou le
-directeur d'établissement qui a prononcé l'admission en soins en application du
-2° du II de l'article L. 3212-1 ;
+4° Une copie des certificats et avis médicaux prévus aux chapitres II à IV du
+titre Ier du livre II de la troisième partie de la partie législative du présent
+code, au vu desquels la mesure de soins a été décidée et de tout autre
+certificat ou avis médical utile, dont ceux sur lesquels se fonde la décision la
+plus récente de maintien des soins ;
 
-4° Le ministère public.
+5° Le cas échéant :
 
-Sont également avisés le directeur de l'établissement et, le cas échéant, le
-tiers qui a demandé l'admission en soins psychiatriques.
+a) L'avis du collège mentionné à l'article L. 3211-9 ;
 
-L'avis d'audience indique que les pièces mentionnées à l'article R. 3211-11
-peuvent être consultées au greffe du tribunal et que la personne qui fait
-l'objet de soins, quand elle est hospitalisée, peut y avoir accès dans
-l'établissement où elle séjourne, dans le respect, s'agissant des documents
-faisant partie du dossier médical, des prescriptions de l'article L. 1111-7. Le
-greffe délivre une copie de ces pièces aux avocats qui en font la demande.
+b) L'avis d'un psychiatre ne participant pas à la prise en charge de la personne
+qui fait l'objet de soins, indiquant les motifs médicaux qui feraient obstacle à
+son audition.
 
-La personne qui fait l'objet de soins est avisée de son droit d'être assistée
-d'un avocat choisi par elle ou, à sa demande, désigné d'office. Dans le cas où
-le juge déciderait, au vu de l'avis médical prévu au deuxième alinéa de
-l'article L. 3211-12-2, qu'il n'y a pas lieu de procéder à l'audition de la
-personne qui fait l'objet des soins, celle-ci est avisée de ce qu'elle sera
-représentée par un avocat.
+Le juge peut solliciter la communication de tous autres éléments utiles.
