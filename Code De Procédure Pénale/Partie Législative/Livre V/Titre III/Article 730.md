@@ -9,9 +9,9 @@ selon les modalités prévues par l'article 712-6.
 Dans les autres cas, la libération conditionnelle est accordée par le tribunal
 de l'application des peines selon les modalités prévues par l'article 712-7.
 
-Pour l'application du présent article, la situation de chaque condamné est
-examinée au moins une fois par an, lorsque les conditions de délai prévues à
-l'article 729 sont remplies.
+Pour l'application du présent article et sans préjudice des articles 720 et
+730-3, la situation de chaque condamné est examinée au moins une fois par an,
+lorsque les conditions de délai prévues à l'article 729 sont remplies.
 
 Pour les demandes de libération conditionnelle concernant des personnes
 condamnées à une peine d'emprisonnement égale ou supérieure à cinq ans ou à une

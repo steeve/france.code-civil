@@ -8,5 +8,4 @@ chez ce parent sa résidence habituelle ou lorsqu'il s'agit d'une femme enceinte
 de plus de douze semaines.
 
 Les dispositions du présent article ne sont pas applicables aux personnes
-condamnées pour un crime ou pour un délit commis sur un mineur ou pour une
-infraction commise en état de récidive légale.
+condamnées pour un crime ou pour un délit commis sur un mineur.

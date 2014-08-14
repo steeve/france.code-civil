@@ -1,7 +1,10 @@
 Article 735
 ----
-Lorsque la juridiction de jugement n'a pas expressément statué sur la dispense
-de révocation du sursis en application de l'article 132-38 du code pénal, le
-condamné peut ultérieurement demander à bénéficier de cette dispense ; sa
-requête est alors instruite et jugée selon les règles de compétence et de
-procédure fixées par les articles 702-1 et 703 du présent code.
+Lorsque la juridiction de jugement n'a pas statué sur la révocation du sursis en
+application de l'article 132-36 du code pénal parce qu'elle n'avait pas
+connaissance de la première condamnation, le procureur de la République peut
+ultérieurement saisir le tribunal correctionnel d'une requête motivée tendant à
+sa révocation.
+
+Le tribunal statue en audience publique, après audition de la personne et, s'il
+y a lieu, de son avocat.
