@@ -38,7 +38,7 @@ Cahors
 
 Cahors
 
-Ressort du tribunal de grande instance de Cahors.
+Ressort du tribunal de grande instance de Cahors
 
 
 Lot-et-Garonne
@@ -65,7 +65,7 @@ Digne-les-Bains
 
 Digne-les-Bains
 
-Ressort du tribunal de grande instance de Digne-les-Bains.
+Ressort du tribunal de grande instance de Digne-les-Bains
 
 
 Alpes-Maritimes
@@ -220,12 +220,14 @@ Angers
 
 Angers
 
-Ressort des tribunaux d'instance d'Angers et Cholet.
+Ressort des tribunaux d'instance d'Angers et de Cholet.
 
 
 Saumur
 
-Ressort du tribunal d'instance de Saumur.
+Saumur
+
+Ressort du tribunal de grande instance de Saumur.
 
 
 Mayenne
@@ -776,7 +778,9 @@ Ressort du tribunal d'instance de Brive.
 
 Tulle
 
-Ressort du tribunal d'instance de Tulle.
+Tulle
+
+Ressort du tribunal de grande instance de Tulle.
 
 
 Creuse
@@ -1453,14 +1457,14 @@ Ressort du tribunal de grande instance de Vannes.
 Cour d'appel de Riom
 
 
-Vichy
-
-Ressort du tribunal d'instance de Vichy.
-
-
 Allier
 
 Cusset
+
+
+Vichy
+
+Ressort du tribunal d'instance de Vichy.
 
 
 Moulins
@@ -1579,12 +1583,14 @@ Toulouse
 
 Toulouse
 
-Ressort des tribunaux d'instance de Muret et Toulouse.
+Ressort des tribunaux d'instance de Muret et de Toulouse.
 
 
 Saint-Gaudens
 
-Ressort du tribunal d'instance de Saint-Gaudens
+Saint-Gaudens
+
+Ressort du tribunal de grande instance de Saint-Gaudens.
 
 
 Tarn

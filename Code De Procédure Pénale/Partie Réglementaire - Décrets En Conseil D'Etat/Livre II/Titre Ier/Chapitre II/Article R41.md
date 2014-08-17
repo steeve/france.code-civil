@@ -17,11 +17,6 @@ Charente-Maritime
 Saintes
 
 
-Corrèze
-
-Brive-la-Gaillarde (à titre temporaire)
-
-
 Manche
 
 Coutances
