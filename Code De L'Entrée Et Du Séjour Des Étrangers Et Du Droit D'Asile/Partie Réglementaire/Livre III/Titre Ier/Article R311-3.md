@@ -14,6 +14,10 @@ supérieure à trois mois et inférieure ou égale à six mois comportant la men
 " dispense temporaire de carte de séjour ", pendant la durée de validité de ce
 visa ;
 
+3° bis Les étrangers séjournant en France sous couvert d'un visa dispensant de
+titre de séjour, d'une durée maximale de douze mois et portant la mention
+"vacances-travail" ;
+
 4° Les étrangers, conjoints de ressortissants français, séjournant en France
 sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et
 portant la mention " vie privée et familiale ", délivré en application du
@@ -45,17 +49,17 @@ détachés en France ;
 9° Les étrangers mentionnés à l'article L. 313-8 séjournant en France sous
 couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus
 égale à un an et portant la mention " scientifique-chercheur ", pendant la durée
-de validité de ce visa (1) ;
+de validité de ce visa ;
 
 10° Les étrangers mentionnés à l'article L. 313-7-1 séjournant en France sous
 couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus
 égale à un an et portant la mention " stagiaire ", pendant la durée de validité
-de ce visa (1) ;
+de ce visa ;
 
 11° Les étrangers, conjoints de ressortissants étrangers, séjournant en France
 sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et
 portant la mention " vie privée et familiale ", délivré en application du 1° de
-l'article L. 313-11, pendant un an (2).
+l'article L. 313-11, pendant un an.
 
 Les visas mentionnés aux 4°, 5°, 6°, 7°, 8°, 9°, 10° et 11° permettent à leur
 titulaire de séjourner en France au-delà d'une période de trois mois et dans les

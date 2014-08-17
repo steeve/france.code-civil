@@ -13,3 +13,8 @@ est prévu par la convention d'accueil, il complète sa demande de carte de séj
 par la production du contrat souscrit auprès de l'organisme mentionné dans
 ladite convention pour l'exercice de la mission de recherche ou d'enseignement
 qu'elle prévoit.
+
+Cette carte de séjour est prolongée d'un an si l'étranger se trouve
+involontairement privé d'emploi. Lors du renouvellement suivant, la durée de son
+titre de séjour est équivalente à la durée des droits qu'il a acquis au titre du
+revenu de remplacement mentionné à l'article L. 5422-1 du code du travail.

@@ -13,10 +13,10 @@ régulièrement en France ;
 France, un visa pour un séjour d'une durée supérieure à trois mois autre que
 celui mentionné au 3° de l'article R. 311-3 ;
 
-4° Un certificat médical délivré dans les conditions fixées par arrêté du
-ministre chargé de la santé ;
+4° Un certificat médical délivré dans les conditions fixées par arrêté conjoint
+du ministre chargé de la santé et du ministre chargé de l'immigration ;
 
-5° Trois photographies de face, tête nue, de format 3, 5 x 4, 5 cm, récentes et
+5° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et
 parfaitement ressemblantes ;
 
 6° Un justificatif de domicile.
