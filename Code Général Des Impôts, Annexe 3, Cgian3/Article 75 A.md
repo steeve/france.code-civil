@@ -1,13 +1,16 @@
 Article 75 A
 ----
-I. Pour l'application de l'article 262 quater du code général des impôts, les
-comptoirs de vente exercent leur activité ((sous le régime douanier
-communautaire de l'entrepôt d'importation ou sous les régimes d'entrepôt
-national d'importation ou d'exportation mentionnés au 2° du I de l'article 277 A
-du code général des impôts)) (M).
+Le vendeur, préalablement affilié à un opérateur de détaxe ou habilité au
+téléservice mentionné au second alinéa de l'article 75, est autorisé à recourir
+à la procédure de secours dans les cas suivants :
 
-((II. Pour l'application du 1 du II de l'article 277 A du code précité, la
-sortie du bien de l'un des régimes d'entrepôt mentionnés au I du présent article
-a lieu préalablement à la livraison au voyageur)) (M).
+1° Indisponibilité générale du téléservice mentionné au second alinéa de
+l'article 75 ;
 
-(M) Modification du décret.
+2° Panne des outils informatiques du vendeur permettant l'émission des
+bordereaux de vente à l'exportation ;
+
+3° Interruption de la connexion internet du vendeur.
+
+Les modalités de recours à la procédure de secours sont prévues par arrêté du
+ministre chargé du budget.
