@@ -73,7 +73,12 @@ Conseil d'Etat et décrets simples)
 
 Au titre V
 
-R. 251-1, R. 251-8 à l'exception des 3° et 4°, R. 251-9 à R. 251-12
+R. 251-1
+
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de
+sécurité
+
+R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
 et V de la partie réglementaire du code de la sécurité intérieure (Décrets en
