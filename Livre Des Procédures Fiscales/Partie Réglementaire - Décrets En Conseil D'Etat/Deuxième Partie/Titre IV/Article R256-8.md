@@ -13,6 +13,11 @@ cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issu
 changement, même si les sommes dues se rapportent à la période antérieure à ce
 changement.
 
+Le comptable chargé d'un pôle de recouvrement spécialisé est compétent, le cas
+échéant, pour établir, signer et rendre exécutoire l'avis de mise en
+recouvrement des créances qu'il a prises en charge ou dont la responsabilité lui
+est transférée par un autre comptable.
+
 Les avis de mise en recouvrement résultant de l'engagement par la direction
 nationale des vérifications de situations fiscales d'une procédure de
 rectification ou d'une procédure d'imposition d'office ou du traitement par
