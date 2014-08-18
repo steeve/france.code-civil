@@ -15,7 +15,10 @@ d'information définies à l'article R. 543-187 ;
 
 4° A l'obligation de communiquer au ministre chargé de l'environnement un bilan
 annuel d'activité destiné à être rendu public précisant notamment la couverture
-territoriale et les résultats obtenus en matière de collecte séparée.
+territoriale et les résultats obtenus en matière de collecte séparée ;
+
+5° A la mise en œuvre des mécanismes d'équilibrage en application de l'article
+R. 543-188.
 
 Lorsque plusieurs organismes sollicitent l'agrément, les ministres chargés,
 respectivement, de l'environnement, de l'industrie et des collectivités

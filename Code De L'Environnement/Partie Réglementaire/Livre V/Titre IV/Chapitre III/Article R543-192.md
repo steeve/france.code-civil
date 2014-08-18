@@ -23,7 +23,9 @@ d'information prévues aux articles R. 543-178 et R. 543-187 ;
 6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan
 annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus
 en matière de réutilisation, de recyclage, de valorisation ou d'élimination des
-déchets d'équipements électriques et électroniques.
+déchets d'équipements électriques et électroniques ;
+
+7° Aux objectifs de collecte annuels.
 
 Les approbations sont délivrées pour une durée maximale de six ans renouvelable.
 

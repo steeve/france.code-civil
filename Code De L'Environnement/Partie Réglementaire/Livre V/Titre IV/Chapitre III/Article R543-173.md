@@ -2,12 +2,17 @@ Article R543-173
 ----
 Pour l'application de la présente sous-section :
 
-1° Sont considérés comme déchets d'équipements électriques et électroniques
-ménagers les déchets issus d'équipements électriques et électroniques provenant
-des ménages ainsi que d'équipements qui, bien qu'utilisés à des fins
-professionnelles ou pour les besoins d'associations, sont similaires à ceux des
-ménages en raison de leur nature et des circuits par lesquels ils sont
-distribués ;
+1° Sont considérés comme des déchets d'équipements électriques et électroniques
+provenant des ménages les déchets d'équipements électriques et électroniques
+provenant des ménages, ci après désignés comme déchets d'équipements électriques
+et électroniques ménagers, et les déchets d'équipements électriques et
+électroniques d'origine commerciale, industrielle, institutionnelle et autre
+qui, en raison de leur nature et de leur quantité, sont similaires à ceux des
+ménages. Les déchets provenant d'équipements électriques et électroniques qui
+sont susceptibles d'être utilisés à la fois par les ménages et par des
+utilisateurs autres que les ménages sont en tout état de cause considérés comme
+étant des déchets d'équipements électriques et électroniques provenant des
+ménages ;
 
 2° Sont considérés comme déchets d'équipements électriques et électroniques
 professionnels les autres déchets d'équipements électriques et électroniques ;

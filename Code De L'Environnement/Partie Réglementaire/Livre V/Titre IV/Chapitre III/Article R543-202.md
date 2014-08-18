@@ -10,5 +10,5 @@ L'Agence de l'environnement et de la maîtrise de l'énergie est chargée de la
 mise en place, de la tenue et de l'exploitation de ce registre.
 
 Un arrêté conjoint des ministres chargés, respectivement, de l'environnement et
-de l'industrie fixe la procédure d'inscription à ce registre et la nature des
-informations qui doivent y figurer.
+de l'industrie fixe la procédure d'inscription à ce registre, les modalités de
+transmission et la nature des informations qui doivent y figurer.

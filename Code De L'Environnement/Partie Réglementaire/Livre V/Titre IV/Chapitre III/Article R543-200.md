@@ -1,9 +1,9 @@
 Article R543-200
 ----
-Le traitement des déchets d'équipements électriques et électroniques collectés
-séparément doit être réalisé dans des installations répondant aux exigences
-techniques fixées par arrêté du ministre chargé de l'environnement et respectant
-les dispositions du titre Ier du présent livre.
+Le traitement des déchets d'équipements électriques et électroniques doit être
+réalisé dans des installations répondant aux exigences techniques fixées par
+arrêté du ministre chargé de l'environnement et respectant les dispositions du
+titre Ier du présent livre.
 
 Ces opérations peuvent également être effectuées dans toute autre installation
 autorisée à cet effet dans un autre Etat membre de l'Union européenne ou dans un
@@ -16,8 +16,10 @@ et substances issus de déchets d'équipements électriques et électroniques, l
 préparation en vue de leur réutilisation, leur recyclage ou leur valorisation
 énergétique.
 
-A l'occasion de toute opération de traitement, les producteurs sont tenus
-d'effectuer ou de faire effectuer un traitement des matières et composants des
-déchets d'équipements électriques et électroniques et de faire extraire tous les
-fluides, conformément aux prescriptions de l'arrêté mentionné au premier alinéa
-du présent article.
+A l'occasion de toute opération de traitement, les producteurs ayant mis en
+place un système individuel approuvé ou attesté en application des articles R.
+543-184 et R. 543-197-1, ou les organismes agréés en application des articles R.
+543-190 et R. 543-197, sont tenus d'effectuer ou de faire effectuer un
+traitement des matières et composants des déchets d'équipements électriques et
+électroniques et de faire extraire tous les fluides, conformément aux
+prescriptions de l'arrêté mentionné au premier alinéa du présent article.

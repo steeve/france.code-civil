@@ -1,7 +1,8 @@
 Article R543-176
 ----
 Les équipements relevant du I de l'article R. 543-172 doivent être conçus et
-fabriqués de façon à faciliter leur démantèlement et leur valorisation.
+fabriqués de façon à faciliter leur réemploi, leur réutilisation, leur
+démantèlement et leur valorisation.
 
 Les équipements électriques et électroniques sont conçus de manière que les
 piles et accumulateurs intégrés puissent en être aisément extraits. Les
