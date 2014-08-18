@@ -19,5 +19,4 @@ utilisateurs de produits des récoltes obtenues à partir des semences ou plants
 instituts techniques spécialisés ou assimilés.
 
 II. - Le président, le secrétaire et les membres des sections sont nommés par
-arrêté du ministre chargé de l'agriculture, après avis du comité plénier, pour
-une durée de trois ans.
+arrêté du ministre chargé de l'agriculture, pour une durée de cinq ans.
