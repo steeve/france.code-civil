@@ -65,8 +65,6 @@ Mulhouse (Haut-Rhin) ;
 
 Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
 
-Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ;
-
 Quartier des mineurs de la maison d'arrêt de Pau (Pyrénées-Atlantiques) ;
 
 Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientales)
