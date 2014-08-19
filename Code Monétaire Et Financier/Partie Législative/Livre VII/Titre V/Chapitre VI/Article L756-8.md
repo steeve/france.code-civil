@@ -1,18 +1,38 @@
 Article L756-8
 ----
-I.-Les articles L. 631-1, L. 631-2, L. 631-2-1, L. 631-2-2, L. 632-3, L. 632-7,
-L. 632-13 à L. 632-17 sont applicables en Polynésie française, sous réserve des
-adaptations prévues au II.
+I.-Les articles L. 631-1, L. 631-2, L. 631-2-1, L. 631-2-2, L. 631-2-3, L. 632-1
+A, L. 632-3, L. 632-7, L. 632-13 à L. 632-17 sont applicables en Polynésie
+française, sous réserve des adaptations prévues au II.
 
-II.-1° Au I et au II de l'article L. 632-7 et à l'article L. 632-13, les mots :
-" non membre de l'Union européenne et non partie à l'accord sur l'Espace
+II.-1° Pour l'application de l'article L. 631-1, les quatrième et cinquième
+alinéas sont ainsi rédigés :
+
+" L'Autorité de contrôle prudentiel et de résolution, l'Autorité des marchés
+financiers et l'Institut d'émission d'outre-mer peuvent conclure une convention
+avec l'autorité chargée de la concurrence compétente localement, afin
+d'organiser la communication des renseignements utiles à la bonne réalisation de
+leurs missions respectives.
+
+" La Banque de France, l'Institut d'émission des départements d'outre-mer,
+l'Institut d'émission d'outre-mer, l'Autorité de contrôle prudentiel et de
+résolution et l'autorité administrative chargée de la concurrence compétente
+localement se communiquent les renseignements utiles à l'exercice de leurs
+missions respectives afin d'assurer le respect des opérations de virements et de
+prélèvements en euros définies à l'article L. 712-8. " ;
+
+2° Pour l'application du premier alinéa de l'article L. 631-2-2, après le mot :
+" peut ", sont insérés les mots : " faire appel à l'expertise de l'Institut
+d'émission d'outre-mer. Il peut également " ;
+
+3° Au I et au II de l'article L. 632-7 et à l'article L. 632-13, les mots : "
+non membre de l'Union européenne et non partie à l'accord sur l'Espace
 économique européen " sont remplacés par les mots : " autre que la France " ;
 
-2° Au III de l'article L. 632-7, les mots : " d'un autre Etat membre de l'Union
+4° Au III de l'article L. 632-7, les mots : " d'un autre Etat membre de l'Union
 européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
 ou d'un pays tiers " sont remplacés par les mots : " autre que la France " ;
 
-3° A l'article L. 632-14 :
+5° A l'article L. 632-14 :
 
 a) Au premier et au quatrième alinéas, les mots : " des articles L. 632-12 et L.
 632-13 ", sont remplacés par les mots : " de l'article L. 632-13 " ;
@@ -20,7 +40,7 @@ a) Au premier et au quatrième alinéas, les mots : " des articles L. 632-12 et 
 b) Au deuxième alinéa, les mots : " les articles L. 632-12 et L. 632-13 " sont
 remplacés par les mots : " l'article L. 632-13 " ;
 
-4° A l'article L. 632-15 :
+6° A l'article L. 632-15 :
 
 a) Les mots : " les articles L. 632-12 et L. 632-13 " sont remplacés par les
 mots : " l'article L. 632-13 " ;
@@ -28,7 +48,12 @@ mots : " l'article L. 632-13 " ;
 b) Les mots : " non parties à l'accord sur l'Espace économique européen " sont
 remplacés par les mots : " autres que la France " ;
 
-5° A l'article L. 632-16 :
+7° A l'article L. 632-15-1, les mots : " d'un autre Etat membre de l'Union
+Européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+ou d'un pays tiers " sont remplacés par les mots : " d'un Etat autre que la
+France " ;
+
+8° A l'article L. 632-16 :
 
 a) Au premier et au deuxième alinéas, les mots : " non membre de la Communauté
 européenne et qui n'est pas partie à l'accord sur l'Espace économique européen "

@@ -14,5 +14,14 @@ a) Les références aux dispositions législatives du code du travail, et au cod
 de procédure civile sont remplacées par les références aux dispositions
 applicables localement ayant le même objet ;
 
-b) Les mots : juge de l'exécution sont remplacés partout où ils figurent par les
-mots : président du tribunal de première instance ou les juges délégués par lui.
+b) Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par
+les mots : "président du tribunal de première instance ou les juges délégués par
+lui" ;
+
+c) A la première phrase du deuxième alinéa de l'article L. 331-1, les mots :
+"responsable départemental de la direction générale des finances publiques
+chargé de la gestion publique" sont remplacés par les mots : "payeur des îles
+Wallis et Futuna" ;
+
+d) La dernière phrase du septième alinéa du II de l'article L. 331-3 n'est pas
+applicable.

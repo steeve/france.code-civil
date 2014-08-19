@@ -1,8 +1,8 @@
 Article L754-12
 ----
-I.-Les articles L. 451-1-2, L. 451-1-4, L. 451-1-6, L. 451-3, L. 465-1 et L.
-465-2 sont applicables en Polynésie française sous réserve des adaptations
-prévues au II.
+I.-Les articles L. 451-1-2, L. 451-1-4, L. 451-1-6 et L. 451-3 à L. 451-5,L.
+465-1 et L. 465-2 sont applicables en Polynésie française sous réserve des
+adaptations prévues au II.
 
 II.-1° (Abrogé)
 
