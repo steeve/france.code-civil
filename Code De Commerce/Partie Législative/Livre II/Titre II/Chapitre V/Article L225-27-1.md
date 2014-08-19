@@ -77,12 +77,12 @@ l'élection.
 
 V. ― Les sociétés répondant aux critères fixés au I du présent article et dont
 le conseil d'administration comprend un ou plusieurs membres désignés en
-application de l'article L. 225-27 du présent code, de l'article 5 de la loi n°
-83-675 du 26 juillet 1983 relative à la démocratisation du secteur public ou de
-l'article 8-1 de la loi n° 86-912 du 6 août 1986 relative aux modalités des
-privatisations, ainsi que leurs filiales directes ou indirectes, ne sont pas
-soumises à l'obligation prévue aux I à III du présent article dès lors que le
-nombre de ces administrateurs est au moins égal au nombre prévu au II.
+application de l'article L. 225-27 du présent code, du I de l'article 7 de
+l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux
+opérations sur le capital des sociétés à participation publique, ainsi que leurs
+filiales directes ou indirectes, ne sont pas soumises à l'obligation prévue aux
+I à III du présent article dès lors que le nombre de ces administrateurs est au
+moins égal au nombre prévu au II.
 
 Lorsque le nombre de ces administrateurs est inférieur au nombre prévu au II,
 les I à IV sont applicables à l'expiration du mandat en cours des

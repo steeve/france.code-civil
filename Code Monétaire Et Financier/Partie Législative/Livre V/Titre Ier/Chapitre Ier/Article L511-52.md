@@ -25,10 +25,12 @@ autoriser une personne se trouvant dans l'un des cas prévus au 1° ou au 2°
 ci-dessus à exercer un mandat supplémentaire pour l'une des fonctions
 mentionnées au 2° du IV.
 
-Les dispositions du présent II ne sont pas applicables aux représentants de
-l'Etat au sein du conseil d'administration, du conseil de surveillance, du
-directoire ou de tout autre organe exerçant des fonctions équivalentes d'un
-établissement de crédit ou d'une société de financement.
+Les dispositions du présent II ne sont pas applicables aux membres nommés sur le
+fondement des articles 4 ou 6 de l'ordonnance n° 2014-948 du 20 août 2014
+relative à la gouvernance et aux opérations sur le capital des sociétés à
+participation publique au sein du conseil d'administration, du conseil de
+surveillance, du directoire ou de tout autre organe exerçant des fonctions
+équivalentes d'un établissement de crédit ou d'une société de financement.
 
 III. ― Pour l'application du II, sont considérées comme une seule fonction :
 
