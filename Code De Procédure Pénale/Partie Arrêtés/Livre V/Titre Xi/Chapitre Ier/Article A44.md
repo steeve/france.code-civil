@@ -427,13 +427,15 @@ Service pénitentiaire d'insertion et de probation d'Eure-et-Loir.
 
 Chartres.
 
-Néant.
+
+Chartres
 
 Circonscription judiciaire de Chartres.
 
-Maison d'arrêt de Chartres.
 
-(Arr. 17 sept. 2003 art. 5) Centre de détention de Châteaudun.
+Châteaudun
+
+Centre de détention de Châteaudun.
 
 Service pénitentiaire d'insertion et de probation du Finistère.
 
@@ -686,8 +688,6 @@ Antenne d'Orléans.
 Circonscription judiciaire d'Orléans.
 
 Centre pénitentiaire d'Orléans-Saran.
-
-Maison d'arrêt d'Orléans.
 
 Antenne de Montargis.
 
