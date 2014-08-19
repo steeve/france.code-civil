@@ -1,24 +1,14 @@
 Article R751-47
 ----
 Pour l'application des articles L. 433-2 et L. 434-15 du code de la sécurité
-sociale au régime prévu au présent chapitre, le salaire servant de base au
-calcul de l'indemnité journalière et des rentes s'entend de l'ensemble des
-salaires ou des gains afférents à la période de référence prise en considération
-conformément aux articles R. 751-48, R. 751-51, R. 751-52, R. 751-57 et R.
-751-58, à l'exclusion des prestations familiales, des cotisations patronales de
-sécurité sociale, des cotisations patronales à des régimes de retraite ou de
-prévoyance complémentaires et déduction faite des frais professionnels et des
-frais d'atelier.
-
-Les rémunérations retenues pour la détermination du salaire de base comprennent
-notamment les salaires ou gains proprement dits, les indemnités de congés payés,
-le montant des retenues pour cotisations ouvrières, les indemnités, primes,
-gratifications et tous autres avantages en argent, les avantages en nature ainsi
-que, le cas échéant, les sommes perçues directement ou par l'entremise d'un
-tiers à titre de pourboire. La valeur représentative des avantages en nature ne
-peut être inférieure à celle qui est déterminée pour le calcul du salaire de
-base des cotisations par arrêté conjoint du ministre chargé de l'agriculture, du
-ministre chargé de la sécurité sociale et du ministre chargé du budget.
+sociale au régime prévu par le présent chapitre, le salaire servant de base au
+calcul de l'indemnité journalière et des rentes s'entend des rémunérations, au
+sens du chapitre II du titre IV du livre II du code de la sécurité sociale,
+servant au calcul des cotisations dues au titre des accidents du travail et des
+maladies professionnelles et afférentes à la période à considérer dans chacun
+des cas prévus aux articles R. 751-48 et R. 751-57 du présent code. L'assiette
+ainsi définie s'applique y compris en cas de mise en œuvre des dispositions de
+l'article L. 751-19 du présent code.
 
 La rémunération de base fait l'objet d'un abattement en raison des frais
 professionnels qui y sont incorporés, lorsque le travailleur bénéficie, en

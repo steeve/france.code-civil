@@ -18,6 +18,6 @@ dispositions du premier alinéa ne peut être inférieur au salaire journalier d
 base correspondant à l'emploi occupé au moment de l'arrêt de travail.
 
 L'indemnité journalière calculée à partir de ce salaire journalier ne peut
-dépasser le montant du gain journalier net perçu par la victime et déterminé
-selon des modalités fixées par arrêté du ministre chargé de l'agriculture et du
-ministre chargé de la sécurité sociale.
+dépasser le montant du gain journalier net perçu par la victime et déterminé par
+application au salaire de référence du taux forfaitaire mentionné au deuxième
+alinéa de l'article R. 331-5 du code de la sécurité sociale.

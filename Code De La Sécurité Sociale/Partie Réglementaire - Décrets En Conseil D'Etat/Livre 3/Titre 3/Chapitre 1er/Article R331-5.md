@@ -4,11 +4,12 @@ L'indemnité journalière prévue à l'article L. 331-3 est égale au gain journ
 de base. Elle est allouée même si l'enfant n'est pas né vivant.
 
 Pour le calcul de l'indemnité journalière de repos, le gain journalier de base
-est déterminé selon les règles prévues aux articles R. 323-4, R. 323-8 et R.
-362-2. Toutefois, pour l'application de ces dispositions, le salaire pris en
-compte est le salaire servant de base, lors de chaque paie, au calcul de la
-cotisation due pour les risques maladie, maternité, invalidité et décès dans la
-limite du plafond mentionné à l'article L. 241-3 ; ce salaire est diminué par
+est déterminé selon les règles prévues aux articles R. 323-4 et R. 323-8.
+Toutefois, pour l'application de ces dispositions, le salaire pris en compte est
+le salaire servant de base, lors de chaque paie, au calcul de la cotisation due
+pour les risques maladie, maternité, invalidité et décès dans la limite du
+plafond mentionné à l'article L. 241-3 en vigueur le dernier jour du mois civil
+précédant celui de l'interruption de travail. Ce salaire est diminué par
 application d'un taux forfaitaire représentatif de la part salariale des
 cotisations et contributions d'origine légale ou conventionnelle rendues
 obligatoires par la loi ; ce taux forfaitaire est fixé par arrêté du ministre

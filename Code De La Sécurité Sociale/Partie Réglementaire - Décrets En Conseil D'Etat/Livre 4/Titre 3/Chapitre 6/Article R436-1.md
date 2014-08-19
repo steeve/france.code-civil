@@ -1,14 +1,13 @@
 Article R436-1
 ----
 Le salaire servant de base au calcul de l'indemnité journalière et des rentes
-par application des articles L. 433-2 et L. 434-15 s'entend de l'ensemble des
-salaires et des éléments annexes de celui-ci afférents à la période à considérer
-dans chacun des cas prévus aux articles R. 433-4 et R. 434-29, compte tenu, s'il
-y a lieu, des avantages en nature et des pourboires, déduction faite des frais
-professionnels et des frais d'atelier et non comprises les prestations
-familiales légales ni les cotisations patronales de sécurité sociale ni les
-cotisations patronales à des régimes de retraite ou de prévoyance
-complémentaires.
+par application des articles L. 433-2 et L. 434-15 s'entend des rémunérations,
+au sens du chapitre II du titre IV du livre II du présent code, servant au
+calcul des cotisations dues au titre des accidents du travail et des maladies
+professionnelles et afférentes à la période à considérer dans chacun des cas
+prévus aux articles R. 433-4 et R. 434-29. L'assiette ainsi définie s'applique y
+compris en cas de mise en œuvre des dispositions du deuxième alinéa de l'article
+L. 241-5.
 
 En ce qui concerne les revenus non salariaux, ceux-ci ne peuvent être pris en
 compte que pour le calcul de la rente et seulement dans la mesure où ils ont
