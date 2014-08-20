@@ -13,10 +13,13 @@ la loi n° 49-1097 du 2 août 1949 ;
 
 4° Les services accomplis par les magistrats de l'ordre judiciaire ;
 
-5° Les services rendus dans les cadres locaux permanents des administrations des
-collectivités territoriales d'outre-mer et de leurs établissements publics. Un
-décret en Conseil d'Etat détermine les modalités de prise en compte de ces
-services ;
+5° Les services accomplis dans les cadres locaux permanents des administrations
+des collectivités territoriales d'outre-mer régies par les articles 73 et 74 de
+la Constitution et de leurs établissements publics ainsi que, sous réserve de
+dispositions particulières fixées par décret, les services accomplis dans les
+cadres locaux permanents des administrations des collectivités territoriales de
+Nouvelle-Calédonie et de leurs établissements publics. Un décret en Conseil
+d'Etat détermine les modalités de prise en compte de ces services ;
 
 6° Les services effectués jusqu'à la date de l'indépendance ou jusqu'à celle de
 leur intégration dans les cadres métropolitains par les agents ayant servi dans

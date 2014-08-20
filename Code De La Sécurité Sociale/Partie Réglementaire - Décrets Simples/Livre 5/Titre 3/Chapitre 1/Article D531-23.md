@@ -15,7 +15,9 @@ Pour l'application du dernier alinéa de l'article L. 531-6, le complément de
 libre choix du mode de garde est versé au ménage ou à la personne qui, pour
 assurer la garde d'un enfant, recourt à un établissement d'accueil de jeunes
 enfants autorisé à accueillir simultanément le nombre d'enfants mentionné au 4°
-de l'article R. 2324-17 du code de la santé publique.
+de l'article R. 2324-17 du code de la santé publique, sous réserve que la
+tarification appliquée par l'établissement ne dépasse pas 12 euros par heure
+d'accueil.
 
 Dans tous les cas, l'association, l'entreprise ou l'établissement ne doit pas
 percevoir, pour le même service au titre de son fonctionnement, de prestation
