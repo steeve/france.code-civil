@@ -32,8 +32,7 @@ b) Mentionner, s'il y a lieu, les effets possibles du traitement sur la capacit�
 à conduire un véhicule ou à utiliser certaines machines ;
 
 c) Comporter une liste des excipients dont la connaissance est nécessaire pour
-une utilisation efficace et sans risque du médicament ou du produit et qui sont
-définis par les bonnes pratiques d'étiquetage prévues à l'article R. 5121-137 ;
+une utilisation efficace et sans risque du médicament ou du produit ;
 
 4° Les instructions nécessaires pour un bon usage, en particulier :
 

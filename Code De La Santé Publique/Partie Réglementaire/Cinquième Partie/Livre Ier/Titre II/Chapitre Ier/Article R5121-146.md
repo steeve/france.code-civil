@@ -33,9 +33,4 @@ pas le médicament, du fabricant ;
 indications thérapeutiques " ;
 
 12° Un avertissement conseillant à l'utilisateur de consulter un médecin si les
-symptômes persistent ;
-
-13° Le prix limite de vente au public lorsqu'un tel prix est fixé en application
-des lois et règlements en vigueur ;
-
-14° Les conditions de remboursement par les organismes d'assurance maladie.
+symptômes persistent.

@@ -22,10 +22,9 @@ en utilisant les dénominations communes ;
 3° La forme pharmaceutique et le contenu en poids, en volume ou en unités de
 prise ;
 
-4° La liste des excipients qui ont une action ou un effet notoire et qui sont
-mentionnés dans les bonnes pratiques d'étiquetage prévues à l'article R.
-5121-137. Toutefois, s'il s'agit d'un produit injectable, d'une préparation
-topique ou d'un collyre, tous les excipients sont mentionnés ;
+4° La liste des excipients qui ont une action ou un effet notoire. Toutefois,
+s'il s'agit d'un produit injectable, d'une préparation topique ou d'un collyre,
+tous les excipients sont mentionnés ;
 
 5° Le mode d'administration et, si nécessaire, la voie d'administration, suivis
 d'un espace prévu pour indiquer la posologie prescrite ;
@@ -53,10 +52,9 @@ de mise sur le marché ;
 
 14° Pour les médicaments non soumis à prescription, l'indication thérapeutique ;
 
-15° Le prix limite de vente au public lorsqu'un tel prix est fixé en application
-des lois et règlements en vigueur ;
+15° (Abrogé) ;
 
-16° Les conditions de remboursement par les organismes d'assurance maladie ;
+16° (Abrogé) ;
 
 17° Le classement du médicament en matière de prescription et de délivrance,
 mentionné dans l'autorisation de mise sur le marché ;

@@ -10,6 +10,3 @@ leur autorisation de mise sur le marché. Dans ce cas, le prescripteur porte sur
 l'ordonnance, support de la prescription, la mention : " Prescription hors
 autorisation de mise sur le marché ” prévue à l'article L. 5121-12-1 du code de
 la santé publique.
-
-Lors de la délivrance d'une telle spécialité, le pharmacien est tenu
-d'estampiller aux mêmes fins la vignette apposée sur le conditionnement.
