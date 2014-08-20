@@ -1,13 +1,16 @@
 Article R421-4
 ----
-L'organisme fournit un état justificatif de l'emploi des fonds, conformément à
-l'échéancier joint au dossier, ainsi qu'un compte rendu d'achèvement.
+Sauf dans le cas prévu au IV de l'article R. 421-3, le secrétaire général du
+Conseil supérieur de la mutualité notifie la décision de la commission
+spécialisée à l'organisme attributaire ainsi qu'à la Caisse des dépôts et
+consignations, qui procède au versement des fonds selon l'échéancier défini par
+la décision. Lorsque le montant ou les conditions de l'aide attribuée diffèrent
+de ceux figurant dans la demande initiale, le secrétaire général recueille au
+préalable l'accord de l'organisme.
 
-Les sommes non dépensées ou n'ayant pas été affectées à la réalisation de
-l'opération présentée lors de la demande de prêt ou subvention sont
-remboursables sans délai.
-
-Le rapport mentionné à l'article L. 411-1 comporte un récapitulatif des dépenses
-engagées par le Fonds national de solidarité et d'action mutualistes au cours de
-l'année considérée, en distinguant ces dépenses par organisme et par
-destination.
+Sur la base des décisions qui lui sont notifiées, un registre central des prêts
+et subventions accordés à chaque organisme est tenu par la Caisse des dépôts et
+consignations aux fins du respect des dispositions du règlement (UE) n°
+1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis.
