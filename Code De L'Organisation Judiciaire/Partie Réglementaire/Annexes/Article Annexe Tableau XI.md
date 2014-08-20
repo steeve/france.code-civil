@@ -1,22 +1,39 @@
 Article Annexe Tableau XI
 ----
-Siège et ressort des greffes détachés (annexe de l'article D. 222-7)
+SIÈGE ET RESSORT DES GREFFES DÉTACHÉS
 
-Tribunal d'instance
+(annexe des articles D. 212-17-2 et D. 222-7)
+
+TRIBUNAL de grande instance
+
+TRIBUNAL d'instance
+
+SIÈGE DU GREFFE détaché
+
+RESSORT DU GREFFE détaché
+
+Cour d'appel d'Agen
 
 
-Siège du greffe détaché
+Agen
 
-Ressort du greffe détaché
+Marmande
 
-Cour d'appel de Basse-Terre
+Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras,
+Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest,
+Meilhan-sur-Garonne, Seyches et Tonneins
 
-[Pointe-à-Pitre
+Cour d'appel de Besançon
 
 
-Le Moule
+Lons-le-Saunier
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
+Dôle
+
+Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre,
+Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey,
+Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et
+Villers-Farlay.
 
 Cour d'appel de Cayenne
 
@@ -25,7 +42,25 @@ Cayenne
 
 Saint-Laurent-du-Maroni
 
-Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni.
+Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni
+
+
+Cayenne
+
+Saint-Laurent-du-Maroni
+
+Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni
+
+Cour d'appel de Rennes
+
+
+St-Brieuc
+
+Guingamp
+
+Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La
+Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves,
+Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier
 
 Cour d'appel de Saint-Denis
 
