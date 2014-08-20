@@ -6,8 +6,9 @@ statutaire, être mis à disposition soit d'un établissement mentionné à l'ar
 R. 6152-1, d'une administration ou d'un établissement public de l'Etat, d'une
 collectivité territoriale ou d'un établissement public en dépendant, d'un
 groupement d'intérêt public entrant dans l'un des cas prévus à l'article L.
-6134-1 ou d'un groupement de coopération sanitaire ou groupement de coopération
-sociale et médico-sociale dont est membre leur établissement d'affectation.
+6134-1 ou d'un groupement de coopération sanitaire, groupement de coopération
+sociale et médico-sociale ou d'une fondation hospitalière dont est membre leur
+établissement d'affectation.
 
 La mise à disposition est prononcée par le directeur de l'établissement public
 de santé d'affectation, après signature d'une convention passée entre
