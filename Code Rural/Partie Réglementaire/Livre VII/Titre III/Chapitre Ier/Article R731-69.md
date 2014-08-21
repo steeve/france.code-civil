@@ -1,8 +1,8 @@
 Article R731-69
 ----
-I.-Les majorations prévues aux articles L. 731-22, R. 731-68, D. 731-21 et D.
-731-41 font l'objet d'une remise automatique lorsque les conditions suivantes
-sont réunies :
+I.-Les majorations et pénalités prévues aux articles L. 731-22, R. 731-20, R.
+731-21, R. 731-68, et D. 731-41 font l'objet d'une remise automatique lorsque
+les conditions suivantes sont réunies :
 
 1° Aucune infraction n'a été constatée au cours des 24 mois précédents ;
 

@@ -4,8 +4,8 @@ I.-Les conseils d'administration des caisses de mutualité sociale agricole ou
 les commissions de recours amiable prévues à l'article R. 142-1 du code de la
 sécurité sociale ayant reçu délégation à cet effet peuvent, sur demande écrite
 des intéressés, accorder, en cas de bonne foi dûment prouvée, la remise des
-majorations et des pénalités de retard prévues aux articles L. 731-22, R.
-731-68, premier alinéa, D. 731-21 et D. 731-41, dans des conditions fixées au
+majorations et des pénalités prévues aux articles L. 731-22, R. 731-20, R.
+731-21, R. 731-68, premier alinéa et D. 731-41, dans des conditions fixées au
 présent article.
 
 La majoration de 0, 4 % mentionnée au deuxième alinéa de l'article R. 731-68
@@ -38,8 +38,9 @@ Pour les contestations relatives aux décisions de remise des pénalités et des
 majorations de retard, le délai d'un mois mentionné à l'article R. 142-18 du
 code de la sécurité sociale est porté à trois mois.
 
-III.-Le délai dans lequel doit être présentée la demande de remise des pénalités
-et majorations de retard ainsi que le montant de la remise au-delà duquel les
-décisions de remise totale ou partielle doivent être approuvées par le préfet de
-région sont fixés par arrêté du ministre chargé de l'agriculture, du ministre
+III.-Les conditions dans lesquelles doit être présentée la demande de remise des
+pénalités et majorations de retard ainsi que le montant de la remise au-delà
+duquel les décisions de remise totale ou partielle doivent être approuvées par
+le responsable du service mentionné à l'article R. 155-1 du code de la sécurité
+sociale sont fixés par arrêté du ministre chargé de l'agriculture, du ministre
 chargé de la sécurité sociale et du ministre chargé du budget.

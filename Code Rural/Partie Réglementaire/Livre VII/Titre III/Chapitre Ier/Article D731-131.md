@@ -1,6 +1,6 @@
 Article D731-131
 ----
-Sans préjudice des dispositions des articles D. 731-17 à D. 731-21, les
+Sans préjudice des dispositions des articles D. 731-17 à R. 731-21, les
 cotisations dues par les assurés volontaires sont calculées sur le revenu de la
 catégorie dans laquelle l'assuré est classé, déterminé conformément aux
 dispositions de l'article D. 731-127.
