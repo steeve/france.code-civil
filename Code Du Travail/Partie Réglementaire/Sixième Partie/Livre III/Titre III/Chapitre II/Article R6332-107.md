@@ -4,7 +4,8 @@ Le fonds paritaire de sécurisation des parcours professionnels recueille les
 comptes relatifs à la gestion des organismes collecteurs paritaires agréés.
 
 Il transmet chaque année ces comptes définitifs, ainsi que ses propres comptes,
-au Conseil national de la formation professionnelle tout au long de la vie.
+au Conseil national de l'emploi, de la formation et de l'orientation
+professionnelles.
 
 Pour l'accomplissement des missions mentionnées à l'article L. 6332-21, sur
 décision conjointe, le président et le vice-président de l'association

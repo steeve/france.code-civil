@@ -78,8 +78,8 @@ employeurs d'Europe ;
 
 10° Un représentant de la Confédération européenne des syndicats ;
 
-11° Le président du Conseil national de la formation professionnelle tout au
-long de la vie.
+11° Le président du Conseil national de l'emploi, de la formation et de
+l'orientation professionnelles.
 
 Chacun des membres de la commission dispose d'un suppléant.
 

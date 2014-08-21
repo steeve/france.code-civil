@@ -6,4 +6,5 @@ rémunération à la charge de l'Etat ou de la région ont droit au remboursemen
 la totalité des frais de transport exposés au début et à la fin du stage pour
 rejoindre l'établissement ou le centre de formation et en revenir, sur décision
 individuelle du ministre chargé de la formation professionnelle prise après avis
-du Conseil national de la formation professionnelle tout au long de la vie.
+du Conseil national de l'emploi, de la formation et de l'orientation
+professionnelles.
