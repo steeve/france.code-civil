@@ -1,7 +1,14 @@
 Article R6331-13
 ----
-Les dépenses libératoires des employeurs de dix salariés et plus au titre de la
-participation au développement de la formation professionnelle continue,
-mentionnées à l'article L. 6331-19, correspondent aux dépenses acquittées au
-cours de l'année de paiement des salaires servant de base au calcul de la
-participation ou dues au titre de cette année.
+L'accord d'entreprise mentionné à l'article L. 6331-10 porte sur la masse
+salariale de l'année civile au titre de laquelle il est conclu et sur celles des
+deux années suivantes.
+
+Lorsque à l'issue de la période de ces trois années les dépenses effectuées par
+l'employeur sont inférieures au montant total correspondant à 0,2 % de la masse
+salariale des trois années couvertes par l'accord, une somme égale à la
+différence entre ce montant total et les dépenses effectivement consacrées par
+l'employeur au financement du compte personnel de formation de ses salariés et à
+son abondement fait l'objet d'un versement à l'organisme collecteur paritaire
+agréé mentionné à l'article L. 6331-11 avant le 1er mars de l'année qui suit la
+dernière année d'application de l'accord.
