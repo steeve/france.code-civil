@@ -1,8 +1,6 @@
 Article R6241-25
 ----
-Le montant minimum de ressources par apprenti, par domaine et par niveau de
-formation peut être modulé par le conseil régional dans une limite de 10 % par
-rapport au montant de référence. Cette modulation est décidée après avis du
-comité de coordination régionale de l'emploi et de la formation professionnelle
-et tient compte, notamment, des niveaux de salaires pratiqués dans la région
-dans les mêmes domaines d'activité ainsi que des coûts immobiliers constatés.
+Les employeurs assujettis à la taxe d'apprentissage sont, sous réserve d'avoir
+satisfait aux dispositions des articles L. 6241-2 et L. 6241-8, dispensés de
+l'obligation de respecter la répartition par niveau de formation prévue à
+l'article R. 6241-22, lorsque le montant brut de la taxe n'excède pas 415 euros.
