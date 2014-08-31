@@ -15,12 +15,14 @@ notamment en santé publique, en sciences vétérinaires, en toxicologie, en
 épidémiologie, en allergologie, en pharmacologie, en virologie, en thérapie
 génique, en entomologie et en recherche biomédicale ;
 
-- au moins trois spécialistes en sciences agronomiques ;
+- au moins quatre spécialistes en sciences agronomiques ;
 
 - au moins un spécialiste en statistiques ;
 
 - au moins trois spécialistes en sciences appliquées à l'environnement,
-notamment en biodiversité, en écologie et en éco toxicologie ;
+notamment en biodiversité ou en écologie ;
+
+- au moins un spécialiste en écotoxicologie ;
 
 - un spécialiste en droit ;
 
