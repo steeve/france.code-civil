@@ -1,14 +1,15 @@
 Article D684-3
 ----
-I.-En ce qui concerne l'application des mesures communautaires prévues au 4° de
-l'article L. 621-3, la compétence de l'office est limitée aux interventions
+I. - En ce qui concerne l'application des mesures communautaires prévues au 4°
+de l'article L. 621-3, la compétence de l'office est limitée aux interventions
 spécifiques dans le domaine de l'agriculture décidées par l'Union européenne en
 faveur des régions ultrapériphériques au sens de l'article 349 du traité sur le
 fonctionnement de l'Union, y compris la délivrance des certificats utilisés dans
 le cadre du régime spécifique d'approvisionnement, à l'exception des primes aux
-éleveurs de ruminants et des aides à la surface pour la production de riz dès
-lors qu'un texte en confie le paiement à l'établissement mentionné à l'article
-L. 313-1.
+éleveurs de ruminants, de l'aide à la production de riz irrigué en Guyane et des
+aides directes à la production octroyées à Mayotte, au titre de l'annexe I du
+règlement (CE) n° 73/2009 du Conseil du 19 janvier 2009 dès lors qu'un texte en
+confie le paiement à l'établissement mentionné à l'article L. 313-1.
 
 Les autres activités de l'office peuvent être menées par voie de convention
 notamment avec les établissements mentionnés aux articles L. 313-1 et L. 621-1
@@ -21,7 +22,7 @@ chargés du budget, de l'agriculture et de l'outre-mer, l'office peut également
 être chargé d'assurer la gestion et le paiement d'aides nationales spécifiques à
 l'outre-mer.
 
-II.-La gestion et l'attribution des certificats d'importation prévus par les
+II. - La gestion et l'attribution des certificats d'importation prévus par les
 règlements communautaires relatifs à l'organisation commune du marché de la
 banane sont assurées par l'office. Une commission consultative composée des
 représentants des ministres chargés de l'agriculture, de l'économie, du commerce
