@@ -51,10 +51,10 @@ l'article L. 621-1 ou son représentant ;
 11° Le président du conseil régional de Guadeloupe ou un membre élu de ce
 conseil désigné par le président ;
 
-12° Le président du conseil régional de Guyane ou un membre élu de ce conseil
-désigné par le président ;
+12° Le président de l'assemblée de Guyane ou un membre élu de cette assemblée
+désignée par le président ;
 
-13° Le président du conseil régional de Martinique ou un membre élu de ce
+13° Le président du conseil exécutif de Martinique ou un membre élu de ce
 conseil désigné par le président ;
 
 14° Le président du conseil général de La Réunion ou un membre élu de ce conseil
