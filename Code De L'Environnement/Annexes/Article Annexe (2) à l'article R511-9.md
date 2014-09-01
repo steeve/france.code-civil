@@ -465,20 +465,24 @@ pression de 101,325 kPa.
 
 1414
 
-Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
+Gaz inflammables liquéfiés (installation de remplissage ou de chargement ou de
+déchargement ou de distribution de)
 
-1. installations de remplissage de bouteilles ou conteneurs
+1. Installations de remplissage de bouteilles ou conteneurs
 
 
 A
 
 1
 
-1.
+1
 
 4
 
-2. installations de chargement ou déchargement desservant un dépôt de gaz
+2. Installations desservant un stockage de gaz inflammable (stockage souterrain
+compris) :
+
+a. Installations de chargement ou déchargement desservant un stockage de gaz
 inflammables soumis à autorisation
 
 
@@ -486,11 +490,36 @@ A
 
 1
 
-3. installations de remplissage de réservoirs alimentant des moteurs ou autres
+b. Autres installations que celles visées au 2. a, lorsque le nombre maximal
+d'opérations de chargement et de déchargement est supérieur ou égal à 20 par
+jour ou supérieur ou égal à 75 par semaine
+
+
+A
+
+1
+
+c. Autres installations que celles visées aux 2. a et 2. b, lorsque le nombre
+maximal d'opérations de chargement et de déchargement est supérieur ou égal à 2
+par jour
+
+
+DC
+
+3. Installations de remplissage de réservoirs alimentant des moteurs ou autres
 appareils d'utilisation comportant des organes de sécurité (jauges et soupapes)
 
 
 DC
+
+4. Installations de chargement ou de déchargement de citerne à citerne, les
+citernes étant définies par les réglementations relatives au transport de
+marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID)
+
+
+A
+
+1
 
 1415
 
@@ -1298,3 +1327,9 @@ a) supérieure ou égale à 100 t/j
 b) supérieure ou égale à 10 t/j, mais inférieure à 100 t/j
 
 2
+
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude
+d'utilité publique, C : soumis au contrôle périodique prévu par l'article L.
+512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.

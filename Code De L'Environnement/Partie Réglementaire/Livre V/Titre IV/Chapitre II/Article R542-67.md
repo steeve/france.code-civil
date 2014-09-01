@@ -5,10 +5,11 @@ tout exploitant d'un site accueillant soit une ou plusieurs installations
 nucléaires de base, soit une ou plusieurs installations nucléaires intéressant
 la défense définies à l'article R. 1333-37 du code de la défense, soit une ou
 plusieurs installations classées pour la protection de l'environnement au titre
-des rubriques 1715 ou 1735 de la nomenclature, soit plusieurs de ces catégories
-d'installations est tenu de transmettre chaque année à l'Agence nationale pour
-la gestion des déchets radioactifs un inventaire des matières et déchets
-radioactifs présents sur ce site, arrêté au 31 décembre de l'année écoulée.
+des activités nucléaires visées à l'annexe (1) à l'article R. 511-9 du code de
+l'environnement, soit plusieurs de ces catégories d'installations est tenu de
+transmettre chaque année à l'Agence nationale pour la gestion des déchets
+radioactifs un inventaire des matières et déchets radioactifs présents sur ce
+site, arrêté au 31 décembre de l'année écoulée.
 
 L'inventaire, assorti d'une présentation sommaire du site et de l'indication du
 régime administratif dont il relève, comporte la description des matières et

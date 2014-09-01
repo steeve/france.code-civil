@@ -1100,7 +1100,7 @@ du transport.
 
 2681
 
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de
+Micro-organismes naturels pathogènes (mise en œuvre dans des installations de
 production industrielle)
 
 
@@ -1648,27 +1648,27 @@ b) Inférieure à 50 t/j
 
 2781
 
-Installations de méthanisation de déchets non dangereux ou matière végétale
+Installations de méthanisation de déchets non dangereux ou de matière végétale
 brute, à l'exclusion des installations de méthanisation d'eaux usées ou de boues
 d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
 
 1. Méthanisation de matière végétale brute, effluents d'élevage, matières
 stercoraires, lactosérum et déchets végétaux d'industries agroalimentaires :
 
-a) La quantité de matières traitées étant supérieure ou égale à 50 t/j
+a) La quantité de matières traitées étant supérieure ou égale à 60 t/ j
 
 
 A
 
 2
 
-b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et
-inférieure à 50 t/j
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/ j et
+inférieure à 60 t/ j
 
 
 E
 
-c) La quantité de matières traitées étant inférieure à 30 t/j
+c) La quantité de matières traitées étant inférieure à 30 t/ j
 
 
 DC
@@ -1983,6 +1983,34 @@ A
 
 
 DC
+
+2797
+
+Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel
+ou commercial, hors accélérateurs de particules, secteur médical et activités de
+traitement des sites pollués par des substances radioactives, dès lors que leur
+quantité susceptible d'être présente est supérieure à 10 m 3 et que les
+conditions d'exemption mentionnées au 1° du I de l'article R. 1333-18 du code de
+la santé publique ne sont pas remplies.
+
+Les termes "déchets radioactifs" et "gestion des déchets radioactifs"
+s'entendent au sens de l'article 3 de la directive 2011/70/EURATOM du Conseil du
+19 juillet 2011 établissant un cadre communautaire pour la gestion responsable
+et sûre du combustible usé et des déchets radioactifs.
+
+
+A
+
+2
+
+2798
+
+Installation temporaire de transit de déchets radioactifs issus d'un accident
+nucléaire ou radiologique, à l'exclusion des installations mentionnées à la
+rubrique 2719.
+
+
+D
 
 2910
 
@@ -2674,9 +2702,9 @@ A
 
 Fabrication de produits céramiques par cuisson, notamment de tuiles, de briques,
 de pierres réfractaires, de carrelages, de grès ou de porcelaines avec une
-capacité de production supérieure à 75 tonnes par jour, et/ou dans un four avec
-une capacité supérieure à 4 mètres cubes et une densité d'enfournement de plus
-de 300 kg/m³ par four
+capacité de production supérieure à 75 tonnes par jour, et dans un four avec une
+capacité supérieure à 4 mètres cubes et une densité d'enfournement de plus de
+300 kg/m³ par four
 
 
 A
@@ -3059,9 +3087,10 @@ A
 
 3642
 
-Traitement et transformation, à l'exclusion du seul conditionnement des matières
-premières ci-après, qu'elles aient été ou non préalablement transformées, en vue
-de la fabrication de produits alimentaires ou d'aliments pour animaux issus :
+Traitement et transformation, à l'exclusion du seul conditionnement, des
+matières premières ci-après, qu'elles aient été ou non préalablement
+transformées, en vue de la fabrication de produits alimentaires ou d'aliments
+pour animaux issus :
 
 
 Quelle que soit la capacité
@@ -3205,9 +3234,9 @@ A
 3710
 
 
-Traitement des eaux résiduaires dans des installations autonomes relevant des
-rubriques 2750 ou 2751 et qui sont rejetées par une ou plusieurs installations
-relevant de la section 8 du chapitre V du titre Ier du livre V
+Traitement des eaux résiduaires dans des installations autonomes relevant de la
+rubrique 2750 et qui sont rejetées par une ou plusieurs installations relevant
+de la section 8 du chapitre V du titre Ier du livre V
 
 A
 
@@ -3221,8 +3250,3 @@ d'utilité publique, C : soumis au contrôle périodique prévu par l'article L.
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322
 sont supprimées. Se référer à la place aux rubriques 2770 et 2771.
-
-Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en
-vigueur le jour de la publication de l'arrêté ministériel fixant les
-prescriptions générales applicables aux installations relevant du régime de
-l'enregistrement dans ces deux rubriques.

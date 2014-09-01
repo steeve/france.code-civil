@@ -2576,3 +2576,12 @@ A
 b) inférieure ou égale à 10 t
 
 6
+
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude
+d'utilité publique, C : soumis au contrôle périodique prévu par l'article L.
+512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
+
+Nota. - Les activités nucléaires visées par la présente nomenclature sont les
+activités soumises aux rubriques 1716, 1735, 2797 et 2798.
