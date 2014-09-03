@@ -8,7 +8,7 @@ l'adhérent et, d'autre part, la somme de cette même valeur, de la provision
 mathématique des droits de l'adhérent exprimés en unités de compte, déduction
 faite, le cas échéant, de la valeur des capitaux garantis par l'entreprise
 d'assurance gestionnaire du plan au titre d'une ou plusieurs unités de compte,
-et, pour les plans relevant du chapitre II du titre IV du livre Ier, de la
+et, pour les plans relevant du chapitre IV du titre III du livre Ier, de la
 valeur des parts de provision de diversification inscrites au compte de
 l'adhérent, ne peut être inférieur à un ratio fixé par arrêté du ministre de
 l'économie. Le contrat prévoit, le cas échéant, les conditions dans lesquelles

@@ -39,14 +39,27 @@ de l'article R. 332-35 ;
 de sinistralité afférentes aux opérations d'assurance de groupe contre le risque
 décès ;
 
-9° Provision de diversification : pour les contrats mentionnés à l'article L.
-142-1, provision destinée à absorber les fluctuations des actifs du contrat et
-sur laquelle chaque adhérent détient un droit individualisé sous forme de parts.
-Cette provision est abondée par tout ou partie des cotisations versées par les
-adhérents et par la part des résultats du contrat qui n'est pas affectée sous
-forme de provision mathématique. Elle se réduit par imputation des pertes, par
-imputation de frais, par prélèvements au titre des prestations servies et par
-conversion des parts des adhérents en provision mathématique.
+9° Provision de diversification : pour les engagements relevant de l'article L.
+134-1, provision destinée à absorber les fluctuations des actifs affectés à ces
+engagements et sur laquelle les souscripteurs ou adhérents détiennent des droits
+individualisés sous forme de parts. Cette provision est abondée par tout ou
+partie des primes versées par les souscripteurs ou adhérents et par la part des
+résultats de la comptabilité auxiliaire d'affectation correspondante qui n'est
+pas affectée sous forme de provision mathématique ou de provision collective de
+diversification différée. Elle peut être également abondée par la reprise de la
+provision collective de diversification différée. Elle se réduit par imputation
+des pertes, par imputation des frais, par prélèvements au titre des prestations
+servies et par conversion des parts des souscripteurs ou adhérents en provision
+mathématique ;
+
+10° Provision collective de diversification différée : pour les engagements
+relevant de l'article L. 134-1, provision destinée au lissage de la valeur de
+rachat des contrats. Cette provision peut être abondée, dans les limites et
+conditions définies par arrêté du ministre chargé de l'économie, par la part des
+résultats qui n'est pas affectée sous forme de provision mathématique ou de
+provision de diversification. Cette provision est reprise et donne lieu à une
+dotation de même montant à la provision de diversification, dans les conditions
+prévues par arrêté du ministre chargé de l'économie.
 
 Un engagement ne peut être provisionné qu'au titre d'une seule des catégories
 mentionnées au présent article.

@@ -10,8 +10,9 @@ plusieurs des types suivants :
 3° Un plan régi par l'article L. 441-1 du présent code ou par l'article L. 222-1
 du code de la mutualité ;
 
-4° Un plan relevant du chapitre II du titre IV du livre Ier à l'exception de la
-section II.
+4° Un plan relevant du chapitre IV du titre III du livre Ier pour lequel le
+capital garanti à l'échéance, constitutif de la rente garantie, est égal, à la
+date de versement, aux primes versées nettes de frais.
 
 Lorsque le plan relève du 3°, les dispositions des articles R. 441-13, R.
 441-15, R. 441-26 à R. 441-28, des premier, troisième et quatrième alinéas de

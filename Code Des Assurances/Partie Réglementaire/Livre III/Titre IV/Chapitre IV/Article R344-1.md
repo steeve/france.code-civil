@@ -1,14 +1,14 @@
 Article R344-1
 ----
-I. - La quote-part mentionnée à l'article L. 344-1 est un pourcentage de la
-valeur de l'ensemble des placements appartenant à l'entreprise et de ceux des
-autres actifs affectables à la représentation des engagements réglementés,
-évalués conformément aux dispositions de l'article R. 332-20-1. Ce pourcentage
-est au moins égal au résultat obtenu en divisant par cette valeur la somme des
-montants suivants :
+I.-La quote-part mentionnée à l'article L. 344-1 est un pourcentage de la valeur
+de l'ensemble des placements appartenant à l'entreprise et de ceux des autres
+actifs affectables à la représentation des engagements réglementés, évalués
+conformément aux dispositions de l'article R. 332-20-1. Ce pourcentage est au
+moins égal au résultat obtenu en divisant par cette valeur la somme des montants
+suivants :
 
 a) Actifs correspondant aux opérations mentionnées à l'article L. 441-1, à
-l'article L. 142-1, à l'article L. 143-1, ainsi que celles relevant de l'article
+l'article L. 134-1, à l'article L. 143-1, ainsi que celles relevant de l'article
 L. 144-2 du code des assurances, évalués comme il est dit à l'article R.
 332-20-1 ;
 
@@ -32,8 +32,8 @@ l'ensemble des placements appartenant à l'entreprise et de ceux des autres
 actifs affectables à la représentation des engagements réglementés, autres que
 ceux mentionnés aux a, b et c ci-dessus.
 
-II. - Le pourcentage mentionné au e du I du présent article est égal à 85 % du
-quotient A/B, avec :
+II.-Le pourcentage mentionné au e du I du présent article est égal à 85 % du
+quotient A/ B, avec :
 
 A : montant moyen des provisions techniques brutes de réassurance constituées au
 titre de l'ensemble des opérations pratiquées par l'entreprise autres que celles
@@ -52,10 +52,10 @@ Les montants moyens mentionnés à l'alinéa précédent sont obtenus en divisan
 deux la somme des montants inscrits dans les comptes à l'ouverture et à la
 clôture de l'exercice.
 
-III. - Les placements, actifs et provisions mentionnés au présent article ne
+III.-Les placements, actifs et provisions mentionnés au présent article ne
 comprennent pas ceux qui sont constitués par l'entreprise dans le cadre des
 opérations effectuées par ses établissements situés à l'étranger.
 
-IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne
-peut excéder celle qui résulte de leur évaluation conformément aux dispositions
-de l'article R. 332-20-1.
+IV.-En cas de transfert de portefeuille, la valeur des actifs transférés ne peut
+excéder celle qui résulte de leur évaluation conformément aux dispositions de
+l'article R. 332-20-1.

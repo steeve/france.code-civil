@@ -1,6 +1,6 @@
 Article R144-25
 ----
-Pour les opérations ne relevant pas du chapitre II du titre IV du livre Ier,
+Pour les opérations ne relevant pas du chapitre IV du titre III du livre Ier,
 l'entreprise d'assurance peut prélever des frais :
 
 1° Sur les cotisations versées ou les montants transférés vers le ou hors du

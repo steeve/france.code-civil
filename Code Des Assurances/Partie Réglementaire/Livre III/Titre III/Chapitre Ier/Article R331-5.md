@@ -1,8 +1,8 @@
 Article R331-5
 ----
-L'indemnité mentionnée à l'article L. 331-2 ne peut dépasser 5 % de la provision
-mathématique du contrat, et doit être nulle à l'issue d'une période de dix ans à
-compter de la date d'effet du contrat.
+L'indemnité mentionnée à l'article L. 132-21-1 ne peut dépasser 5 % de la
+provision mathématique du contrat, et doit être nulle à l'issue d'une période de
+dix ans à compter de la date d'effet du contrat.
 
 Pour l'application du présent article, la provision mathématique ne tient pas
 compte des éventuelles garanties de fidélité non exigibles par l'assuré au

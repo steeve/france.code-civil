@@ -3,7 +3,7 @@ Article R332-63
 L'opération mentionnée à l'article L. 143-8 obéit, nonobstant l'article R.
 342-4, aux règles qui suivent :
 
-1° Pour les contrats relevant de l'article L. 441-1, de l'article L. 142-1 ou du
+1° Pour les contrats relevant de l'article L. 441-1, de l'article L. 134-1 ou du
 b du 1 du I de l'article 163 quatervicies du code général des impôts, la
 soumission au chapitre III du titre IV du livre Ier n'entraîne pas de changement
 d'affectation des actifs représentant les engagements inscrits dans la

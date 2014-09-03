@@ -1,6 +1,6 @@
 Article R144-19
 ----
-I. ― Pour les plans ne relevant pas des articles L. 142-1 ou L. 441-1 du présent
+I. ― Pour les plans ne relevant pas des articles L. 134-1 ou L. 441-1 du présent
 code, ou de l'article L. 222-1 du code de la mutualité :
 
 1° La réserve de capitalisation est constituée pour chaque portefeuille de
