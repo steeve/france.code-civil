@@ -26,13 +26,15 @@ combinaison de plusieurs unités de compte. Dans ce dernier cas, la prime doit
 être ventilée entre les différentes unités de compte conformément aux
 dispositions du contrat. La part de la prime représentée par les unités de
 compte relevant du 3° et du 4° du présent article ne doit pas dépasser 10 % au
-total. La part de la prime représentée par les unités de compte relevant du 3°,
-du 4° et du 5° du présent article ne doit pas dépasser 30 % au total. Pour
-l'appréciation de ce dernier plafond, en ce qui concerne les unités de compte
-relevant du 5°, seule la quote-part de ces actions ou parts investie dans des
-placements autres que ceux mentionnés aux 1° et 2° est prise en compte. La part
-de la prime représentée par les unités de compte relevant du 7° ne doit pas
-dépasser 30 %.
+total. Pour les contrats relevant du I bis de l'article 990 I du code général
+des impôts , ce seuil est porté à 33 %. La part de la prime représentée par les
+unités de compte relevant du 3°, du 4° et du 5° du présent article ne doit pas
+dépasser 30 % au total. Pour les contrats relevant du I bis de l'article 990 I
+du code général des impôts, ce seuil est porté à 33 %. Pour l'appréciation de
+ces deux derniers plafonds, en ce qui concerne les unités de compte relevant du
+5°, seule la quote-part de ces actions ou parts investie dans des placements
+autres que ceux mentionnés aux 1° et 2° est prise en compte. La part de la prime
+représentée par les unités de compte relevant du 7° ne doit pas dépasser 30 %.
 
 Le contrat doit prévoir les modalités selon lesquelles, en cas de disparition
 d'une unité de compte, une autre unité de compte de même nature lui est
