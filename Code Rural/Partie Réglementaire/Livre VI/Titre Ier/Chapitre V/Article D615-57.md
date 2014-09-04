@@ -14,9 +14,6 @@ II.-Les cas de non-conformité aux exigences relevant du domaine " environnement
 -la conservation des oiseaux sauvages, des habitats naturels ainsi que de la
 faune et de la flore sauvages ;
 
--la protection des eaux souterraines contre la pollution causée par certaines
-substances dangereuses ;
-
 -la protection de l'environnement, et notamment des sols, lors de l'utilisation
 des boues d'épuration en agriculture ;
 
