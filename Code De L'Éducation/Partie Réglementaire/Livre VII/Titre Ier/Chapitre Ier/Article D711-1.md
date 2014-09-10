@@ -82,9 +82,7 @@ I. ― Universités :
 
 37° Marne-la-Vallée ;
 
-38° Montpellier-I ;
-
-39° Montpellier-II ;
+38 ° Montpellier ;
 
 40° Montpellier-III ;
 
