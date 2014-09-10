@@ -14,5 +14,5 @@ fédérations départementales de syndicats d'exploitants agricoles et à
 l'administration des impôts une copie du procès-verbal des travaux de la
 commission.
 
-Les bénéfices forfaitaires définitivement arrêtés sont publiés au Journal
-officiel.
+Les bénéfices forfaitaires définitivement arrêtés sont publiés au Bulletin
+officiel des finances publiques-impôts (BOFiP-Impôts) .
