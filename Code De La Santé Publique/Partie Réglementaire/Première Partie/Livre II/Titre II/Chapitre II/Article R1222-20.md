@@ -1,14 +1,18 @@
 Article R1222-20
 ----
-La fonction de responsable des prélèvements pour l'ensemble de l'établissement
-de transfusion sanguine comprend, sous l'autorité du directeur, l'organisation,
-la coordination et l'évaluation de la collecte de sang de l'établissement ainsi
-que la coordination de la promotion du don.
+I. - La fonction de responsable de l'activité de collecte pour l'ensemble de
+l'établissement de transfusion sanguine comprend, sous l'autorité du directeur,
+l'organisation, la coordination et l'évaluation de l'activité de collecte de
+sang de l'établissement ainsi que la participation à la promotion du don.
 
-Peuvent seules exercer cette fonction les personnes qui satisfont aux conditions
-d'exercice de la médecine et qui, en outre, d'une part, sont titulaires du
-diplôme d'études spécialisées complémentaires d'hémobiologie-transfusion, ou de
-la capacité en technologie transfusionnelle, ou du diplôme universitaire de
-transfusion sanguine, et, d'autre part, justifient d'une expérience de trois ans
-dans une fonction d'encadrement au sein d'un établissement, d'un centre ou d'un
-poste de transfusion sanguine.
+II. - Peuvent seules exercer cette fonction les personnes qui satisfont aux
+conditions d'exercice de la médecine et qui possèdent en outre, d'une part, des
+compétences particulières reconnues par des diplômes ou, le cas échéant, une
+formation et, d'autre part, justifient d'une expérience, dans des conditions
+fixées par arrêté du ministre chargé de la santé et, le cas échéant, du ministre
+de la défense.
+
+III. - Le responsable de l'activité de collecte mentionné au I du présent
+article veille à ce que chaque collecte de sang organisée par l'établissement de
+transfusion sanguine concerné soit réalisée sous la responsabilité d'un médecin
+répondant aux critères mentionnés au II du présent article.

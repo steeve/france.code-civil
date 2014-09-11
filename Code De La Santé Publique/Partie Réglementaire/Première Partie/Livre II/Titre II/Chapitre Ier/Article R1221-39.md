@@ -1,16 +1,17 @@
 Article R1221-39
 ----
 Dans chaque établissement de transfusion sanguine, un correspondant
-d'hémovigilance est chargé d'assurer, sous l'autorité de la personne responsable
-:
+d'hémovigilance et de sécurité transfusionnelle est chargé d'assurer, sous
+l'autorité de la personne responsable :
 
 1° Le recueil et la conservation des informations mentionnées aux articles R.
 1221-36 à R. 1221-38 en veillant à leur qualité et à leur fiabilité ;
 
-2° La déclaration, dans les conditions et selon les modalités prévues à
-l'article R. 1221-49, de tout effet indésirable grave survenu chez un donneur de
-sang et de tout effet indésirable survenu chez un receveur de produits sanguins
-labiles ainsi que de tout incident grave ;
+2° La déclaration, dans les conditions et selon les modalités prévues aux
+articles R. 1221-49 à R. 1221-49-4, de tout effet indésirable grave survenu chez
+un donneur de sang, de tout effet indésirable survenu chez un receveur de
+produits sanguins labiles, de tout incident grave ainsi que des informations
+post-don ;
 
 3° La communication à l'Agence nationale de sécurité du médicament et des
 produits de santé et au coordonnateur régional d'hémovigilance mentionné à
@@ -30,10 +31,10 @@ de santé et au coordonnateur régional d'hémovigilance de toute difficulté
 susceptible de compromettre la sécurité transfusionnelle ;
 
 7° Les investigations à entreprendre en cas d'urgence suite à des effets
-indésirables ou des incidents graves. Dans ce cas, il informe sans délai
-l'Agence nationale de sécurité du médicament et des produits de santé, qui
-décide de la poursuite ou de l'interruption de ces investigations, ainsi que le
-coordonnateur régional d'hémovigilance.
+indésirables, des incidents graves ou des informations post-don. Dans ce cas, il
+informe sans délai l'Agence nationale de sécurité du médicament et des produits
+de santé, qui décide de la poursuite ou de l'interruption de ces investigations,
+ainsi que le coordonnateur régional d'hémovigilance.
 
 Le correspondant d'hémovigilance de l'Etablissement de transfusion sanguine est
 nommé, selon le cas, par le président de l'Etablissement français du sang sur

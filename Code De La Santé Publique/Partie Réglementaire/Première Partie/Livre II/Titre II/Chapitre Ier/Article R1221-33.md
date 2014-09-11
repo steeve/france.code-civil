@@ -2,10 +2,11 @@ Article R1221-33
 ----
 A la demande de l'Agence nationale de sécurité du médicament et des produits de
 santé ou du directeur général de l'agence régionale de santé, ou de sa propre
-initiative, le coordonnateur régional d'hémovigilance se fait communiquer par le
-ou les correspondants d'hémovigilance compétents toute information que les
-établissements de transfusion sanguine ou de santé recueillent et détiennent en
-application du présent chapitre.
+initiative, le coordonnateur régional d'hémovigilance et de sécurité
+transfusionnelle se fait communiquer par le ou les correspondants
+d'hémovigilance et de sécurité transfusionnelle compétents toute information que
+les établissements de transfusion sanguine ou de santé recueillent et détiennent
+en application du présent chapitre.
 
 A partir de ces informations, le coordonnateur procède ou fait procéder par les
 correspondants d'hémovigilance à toute recherche utile à l'hémovigilance et
@@ -22,9 +23,10 @@ l'administration d'une unité ou d'un type de produit sanguin labile déterminé
 les unités de produits sanguins labiles mentionnées au 1° et au 2°.
 
 Dans le respect de l'anonymat des donneurs et des receveurs, le coordonnateur
-régional d'hémovigilance transmet les résultats des investigations prévues
-ci-dessus au directeur général de l'agence régionale de santé et à l'Agence
-nationale de sécurité du médicament et des produits de santé.
+régional d'hémovigilance et de sécurité transfusionnelle transmet les résultats
+des investigations prévues ci-dessus au directeur général de l'agence régionale
+de santé et à l'Agence nationale de sécurité du médicament et des produits de
+santé.
 
 Une décision du directeur général de l'Agence nationale de sécurité du
 médicament et des produits de santé prise après avis de l'Etablissement français

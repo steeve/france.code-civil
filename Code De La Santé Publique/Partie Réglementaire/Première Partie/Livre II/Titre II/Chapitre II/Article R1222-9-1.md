@@ -14,18 +14,22 @@ de santé les informations relatives à l'agrément des établissements de
 transfusion sanguine, mentionné à l'article L. 1223-2 ;
 
 -de veiller à la mise en place, à l'évaluation et à l'actualisation du système
-d'assurance qualité dans le respect des bonnes pratiques mentionnées à l'article
-L. 1223-3 ;
+de management des risques et de la qualité dans le respect des bonnes pratiques
+mentionnées à l'article L. 1223-3 ;
 
 -de prendre les mesures nécessaires pour assurer la traçabilité complète des
 produits sanguins labiles quelle que soit leur destination ;
 
--de mettre en place le dispositif d'hémovigilance au sein de l'Etablissement
-français du sang et de veiller à l'application des procédures correspondantes.
+-de mettre en place le dispositif d'hémovigilance et de sécurité
+transfusionnelle au sein de l'Etablissement français du sang, de veiller à
+l'application des procédures correspondantes et à la réalisation de toutes
+études et de tous travaux mentionnées au 7° de l'article R. 1221-22 sur demande
+de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 La personne responsable donne des instructions aux directeurs des établissements
-de transfusion sanguine et aux correspondants d'hémovigilance pour la mise en
-oeuvre des dispositions prévues au présent article.
+de transfusion sanguine et aux correspondants d'hémovigilance et de sécurité
+transfusionnelle pour la mise en oeuvre des dispositions prévues au présent
+article.
 
 Cette personne peut être le président de l'Etablissement français du sang sous
 réserve qu'il remplisse les conditions de qualification prévues à l'article R.

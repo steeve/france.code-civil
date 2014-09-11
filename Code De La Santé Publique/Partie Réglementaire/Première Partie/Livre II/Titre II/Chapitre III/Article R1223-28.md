@@ -19,8 +19,10 @@ collectes en d'autres lieux ;
 2° Procède dans ses laboratoires à la préparation et au conditionnement des
 produits sanguins labiles issus de ces collectes ;
 
-3° Approvisionne l'ensemble des hôpitaux des armées et des autres structures de
-soins des armées en produits sanguins labiles ;
+3° Fournit en produits sanguins labiles, en fonction des besoins, les hôpitaux
+des armées et les autres structures de soins relevant de l'autorité ou de la
+tutelle du ministre de la défense ou du ministre chargé des anciens combattants
+;
 
 4° Constitue des réserves de ces produits en vue d'assurer la satisfaction des
 besoins opérationnels prévisibles des armées.

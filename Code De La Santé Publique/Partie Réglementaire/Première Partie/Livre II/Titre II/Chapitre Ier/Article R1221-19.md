@@ -13,8 +13,8 @@ Un établissement de santé ne peut délivrer un produit sanguin labile pour un
 patient hospitalisé dans un autre établissement de santé qu'en cas d'urgence
 vitale transfusionnelle.
 
-Les produits qui ont fait l'objet d'une telle délivrance ne peuvent être
-ultérieurement délivrés pour un autre patient.
+Les produits délivrés dans les conditions mentionnées au précédent alinéa ne
+peuvent être ultérieurement délivrés pour un autre patient.
 
 La qualification des personnels affectés à la délivrance des produits sanguins
 labiles répond aux dispositions de l'article R. 1222-23.

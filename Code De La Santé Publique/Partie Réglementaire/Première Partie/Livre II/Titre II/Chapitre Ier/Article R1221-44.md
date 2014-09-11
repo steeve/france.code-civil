@@ -1,26 +1,29 @@
 Article R1221-44
 ----
-Dans chaque établissement de santé privé ainsi que dans les groupements de
-coopération sanitaire autorisés à assurer les missions d'un établissement de
-santé, un comité de sécurité transfusionnelle et d'hémovigilance réunit le
-directeur de cet établissement et celui de l'établissement de transfusion
-sanguine référent ou leurs représentants, les correspondants d'hémovigilance de
-ces deux établissements et des représentants des personnels médicaux, soignants,
-médico-techniques et administratifs de l'établissement de santé ou exerçant au
-sein du groupement. Sont notamment représentés les principaux services
-prescripteurs de transfusion sanguine de cet établissement. Dans les groupements
-de coopération sanitaire, les personnes dont l'expertise est nécessaire à
-l'exercice des missions de ce comité peuvent être désignées parmi les
-professionnels de santé exerçant dans les établissements de santé membres du
-groupement.
+I. - Le correspondant d'hémovigilance et de sécurité transfusionnelle est
+désigné, dans les établissements publics de santé et les groupements de
+coopération sanitaire érigés en établissement public de santé, par le directeur.
+Cette désignation intervient en concertation avec le président de la commission
+médicale d'établissement.
 
-Le règlement intérieur de l'établissement de santé privé ou la convention
-constitutive du groupement de coopération sanitaire fixe les modalités de
-composition, d'organisation et de fonctionnement du comité de sécurité
-transfusionnelle et d'hémovigilance d'établissement.
+II. - Le correspondant d'hémovigilance et de sécurité transfusionnelle est
+désigné, dans les établissements de santé privés, par le représentant légal de
+l'établissement, et dans les groupements de coopération sanitaire érigés en
+établissement de santé privé, par l'administrateur. Cette désignation intervient
+après avis de la conférence médicale d'établissement.
 
-Dans chaque établissement public de santé, les attributions du comité
-susmentionné sont exercées par la sous-commission chargée de la sécurité
-transfusionnelle et de l'hémovigilance en application du II de l'article L.
-6144-1 et dont les modalités de composition, d'organisation et de fonctionnement
-sont fixées par les articles R. 6144-30-1 à R. 6144-30-9.
+III. - Le correspondant d'hémovigilance et de sécurité transfusionnelle d'un
+groupement de coopération sanitaire peut être le correspondant d'hémovigilance
+et de sécurité transfusionnelle d'un établissement de santé membre de ce
+groupement. Si le groupement de coopération sanitaire concerné ne dispose pas de
+personnel en propre, le correspondant d'hémovigilance et de sécurité
+transfusionnelle de ce groupement est désigné parmi les correspondants
+d'hémovigilance et de sécurité transfusionnelle des établissements de santé
+membre du groupement, en concertation avec le président de la commission
+médicale ou après avis de la conférence médicale des établissements de santé
+membres.
+
+IV. - Le nom du correspondant est communiqué par l'établissement à l'Agence
+nationale de sécurité du médicament et des produits de santé, au coordonnateur
+régional d'hémovigilance et de sécurité transfusionnelle concerné et à
+l'établissement de transfusion sanguine référent.

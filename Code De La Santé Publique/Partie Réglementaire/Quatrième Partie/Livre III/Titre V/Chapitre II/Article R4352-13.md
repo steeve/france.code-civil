@@ -17,7 +17,11 @@ sanguins ou du certificat analogue délivré antérieurement au 9 décembre 1980
 
 3° Les techniciens de laboratoire médical mentionnés à l'article L. 4352-3 qui
 sont titulaires du certificat de capacité pour effectuer des prélèvements
-sanguins ou du certificat analogue délivré antérieurement au 9 décembre 1980.
+sanguins ou du certificat analogue délivré antérieurement au 9 décembre 1980 ;
+
+4° Les personnes exerçant les fonctions de techniciens de laboratoire médical
+mentionnées aux articles L. 4352-3-1 et L. 4352-3-2, titulaires du certificat de
+capacité mentionné aux 2° et 3°.
 
 Le certificat de capacité pour effectuer des prélèvements sanguins prévu au
 présent article est délivré après un stage effectué dans un service d'un

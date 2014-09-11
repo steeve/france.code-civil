@@ -4,7 +4,7 @@ Le représentant légal de l'établissement de santé désigne, en concertation 
 le président de la commission médicale d'établissement dans les établissements
 de santé publics ou la conférence médicale d'établissement dans les
 établissements de santé privés, un coordonnateur de la gestion des risques
-associés aux soins afin de veiller à ce que les missions mentionnées aux 1° à 5°
+associés aux soins afin de veiller à ce que les missions mentionnées aux 1° à 6°
 de l'article R. 6111-2 puissent être remplies.
 
 Ce coordonnateur dispose d'une formation adaptée à l'exercice de ses missions.

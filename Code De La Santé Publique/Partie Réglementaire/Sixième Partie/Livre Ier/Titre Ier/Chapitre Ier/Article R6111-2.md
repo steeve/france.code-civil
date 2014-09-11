@@ -24,4 +24,9 @@ médicale d'établissement de disposer des éléments nécessaires à l'élabora
 d'un bilan annuel des actions mises en œuvre ;
 
 5° A assurer la cohérence de l'action des personnels qui participent à la lutte
-contre les événements indésirables associés aux soins.
+contre les événements indésirables associés aux soins ;
+
+6° A permettre à la commission médicale d'établissement ou à la conférence
+médicale d'établissement de disposer des éléments relatifs à la sécurité
+transfusionnelle et à l'hémovigilance et à assurer la cohérence de l'action des
+personnes qui assurent une activité transfusionnelle.

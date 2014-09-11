@@ -1,25 +1,26 @@
 Article R1223-31
 ----
-Après avoir préalablement averti de leur visite le ministre de la défense, les
-inspecteurs de l'Agence nationale de sécurité du médicament et des produits de
-santé habilités à cet effet par le ministre de la défense, dans les conditions
-prévues par le décret mentionné au dernier alinéa de l'article 413-9 du code
-pénal, peuvent effectuer les contrôles portant sur :
+I.-Au titre des missions relatives aux produits mentionnés à l'article L. 5311-1
+et après avoir préalablement averti de leur visite le ministre de la défense,
+les inspecteurs de l'Agence nationale de sécurité du médicament et des produits
+de santé habilités par le ministre de la défense, dans les conditions prévues
+aux articles R. 2311-1 et suivants du code de la défense diligentent des
+inspections au sein du Centre de transfusion sanguine des armées à un rythme au
+moins biennal.
 
-1° Les conditions de préparation, de conservation, de distribution et de
-délivrance des produits sanguins labiles.
+Ces inspections visent à s'assurer de la conformité des activités de transfusion
+sanguine du centre avec les bonnes pratiques mentionnées à l'article L. 1223-3
+ainsi qu'avec les normes de fonctionnement et d'équipement qui leur sont
+applicables.
 
-2° L'application des bonnes pratiques mentionnées à l'article L. 1223-3.
-L'Agence nationale de sécurité du médicament et des produits de santé diligente
-des inspections des établissements de transfusion sanguine à un rythme au moins
-biennal. Le directeur général de l'agence peut requérir à cet effet de
-l'établissement de transfusion sanguine toutes informations nécessaires.
+II.-Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé peut requérir à cet effet du Centre de transfusion sanguine
+des armées toutes informations nécessaires.
 
 Les inspecteurs de l'Agence nationale de sécurité du médicament et des produits
 de santé peuvent être accompagnés de l'inspecteur technique des services
-médicaux, de l'hygiène et de l'épidémiologie dans les armées ou de son
-représentant.
+médicaux et chirurgicaux des armées ou de son représentant.
 
-Le directeur général de l'Agence nationale de sécurité du médicament et des
+III.-Le directeur général de l'Agence nationale de sécurité du médicament et des
 produits de santé adresse copie du rapport d'inspection au ministre de la
 défense et au ministre chargé de la santé.

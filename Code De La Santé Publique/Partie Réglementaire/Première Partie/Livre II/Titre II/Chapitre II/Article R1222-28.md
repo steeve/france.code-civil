@@ -1,25 +1,16 @@
 Article R1222-28
 ----
-La fonction de responsable de l'assurance de la qualité comporte la mise en
-place, l'évaluation et l'actualisation du système de l'assurance de la qualité
-de l'établissement de transfusion sanguine.
+I. - La fonction de responsable du management des risques et de la qualité
+comporte la mise en place, l'évaluation et l'actualisation du système de
+management des risques et de la qualité de l'établissement de transfusion
+sanguine.
 
-Peuvent seules exercer cette fonction :
-
-1° Les personnes qui, d'une part, satisfont aux conditions d'exercice de la
-médecine ou de la pharmacie, ou possèdent un diplôme d'ingénieur ou un diplôme
-national de troisième cycle de l'enseignement supérieur en sciences de la vie,
-en chimie, en physique ou en qualité, et qui, d'autre part, justifient d'une
-expérience de deux ans au moins dans le secteur de l'assurance ou du contrôle de
-la qualité et ont reçu l'habilitation à l'issue d'une formation théorique et
-pratique d'adaptation à l'emploi conformément aux bonnes pratiques mentionnées à
-l'article L. 1223-3 ;
-
-2° Les personnes qui remplissent la condition d'exercice professionnel ou de
-diplôme prévue au début du 1° ci-dessus et qui justifient d'une expérience d'au
-moins deux ans au sein des activités d'un établissement de transfusion sanguine.
-
-Les responsables de l'assurance de la qualité doivent en outre justifier, dans
-un délai de deux ans à compter de leur prise de fonctions, d'une formation
-spécifique à l'assurance de la qualité en transfusion sanguine dont les
-modalités sont définies par arrêté du ministre chargé de la santé.
+II. - Cette fonction est exercée par un médecin, un pharmacien ou une personne
+qui possède un diplôme d'ingénieur ou un diplôme national de troisième cycle de
+l'enseignement supérieur en sciences de la vie, en chimie, en physique ou en
+qualité, et qui, d'autre part, justifie de conditions de formation et
+d'expérience professionnelle déterminées par arrêté du ministre chargé de la
+santé et du ministre de la défense. Cet arrêté précise, pour ce qui est de
+l'expérience, les secteurs et les activités concernés ainsi que la durée
+requise. Il précise également les modalités de la formation requise en fonction
+de la nature de l'expérience qui est justifiée.

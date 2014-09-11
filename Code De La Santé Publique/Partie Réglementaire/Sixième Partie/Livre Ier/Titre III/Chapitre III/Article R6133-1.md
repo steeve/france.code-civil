@@ -12,8 +12,8 @@ ses membres ;
 
 4° La nature juridique du groupement ;
 
-5° La durée du groupement.A défaut, il est constitué pour une durée indéterminée
-;
+5° La durée du groupement. A défaut, il est constitué pour une durée
+indéterminée ;
 
 6° Les règles de détermination de la participation de ses membres à ses charges
 de fonctionnement ainsi que, sous réserve de la situation prévue au troisième
@@ -70,8 +70,9 @@ autorisations d'activités de soins, la convention constitutive du groupement
 érigé en établissement de santé précise la nature et la durée des autorisations
 d'activités de soins détenues par le groupement ainsi que les modalités de
 recueil et de transmission par le groupement des informations mentionnées au
-premier alinéa de l'article L. 6113-8. Elle précise en outre les modalités de
-mise en œuvre des droits et obligations des établissements de santé.
+premier alinéa de l'article L. 6113-8. Elle définit, en outre, les conditions
+mentionnées au dernier alinéa de l'article R. 1221-45 et précise les modalités
+de mise en œuvre des droits et obligations des établissements de santé.
 
 La convention constitutive du groupement de coopération sanitaire érigé en
 établissement public de santé mentionne le ressort et le siège de

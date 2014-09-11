@@ -13,5 +13,5 @@ mentionnées à l'article L. 1223-2, celles qui peuvent être exercées par
 l'établissement de transfusion sanguine ainsi que le ou les sites attachés à cet
 établissement dans lesquels ces activités peuvent être réparties.
 
-L'agrément est délivré pour une durée de cinq ans à compter de la date de la
+L'agrément est délivré pour une durée de dix ans à compter de la date de la
 décision. Il est renouvelable pour une durée identique.

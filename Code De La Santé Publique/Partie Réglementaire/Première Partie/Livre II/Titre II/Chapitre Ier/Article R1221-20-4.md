@@ -7,17 +7,18 @@ instruite dans les mêmes conditions que la demande d'autorisation initiale.
 
 La modification de l'autorisation ne prolonge pas la durée de l'autorisation
 initiale. Une copie de la décision de modification de l'autorisation est
-adressée au coordonnateur régional d'hémovigilance et à l'Etablissement français
-du sang ou, le cas échéant, au centre de transfusion sanguine des armées.
+adressée au coordonnateur régional d'hémovigilance et de sécurité
+transfusionnelle et à l'Etablissement français du sang ou, le cas échéant, au
+centre de transfusion sanguine des armées.
 
 Les modifications relatives à la nomination d'un nouveau responsable de dépôt ou
 à un changement de matériel, figurant dans une liste définie par arrêté du
 ministre chargé de la santé, sont soumises à déclaration à l'agence régionale de
 santé avec copie à l'Etablissement français du sang ou, le cas échéant, au
 centre de transfusion sanguine des armées et au coordonnateur régional
-d'hémovigilance. La déclaration est faite au plus tard dans le mois suivant la
-mise en oeuvre des modifications. Elle est adressée au directeur général de
-l'agence régionale de santé, accompagnée d'un courrier exposant l'objet et les
-incidences éventuelles de la modification sur les activités autorisées. Le
-directeur général de l'agence régionale de santé peut demander toute information
-complémentaire sur la déclaration.
+d'hémovigilance et de sécurité transfusionnelle. La déclaration est faite au
+plus tard dans le mois suivant la mise en oeuvre des modifications. Elle est
+adressée au directeur général de l'agence régionale de santé, accompagnée d'un
+courrier exposant l'objet et les incidences éventuelles de la modification sur
+les activités autorisées. Le directeur général de l'agence régionale de santé
+peut demander toute information complémentaire sur la déclaration.

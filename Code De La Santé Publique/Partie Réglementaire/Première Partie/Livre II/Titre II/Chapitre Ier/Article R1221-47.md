@@ -1,8 +1,10 @@
 Article R1221-47
 ----
-L'Agence nationale de sécurité du médicament et des produits de santé, le
-coordonnateur régional d'hémovigilance et le directeur général de l'agence
-régionale de santé sont destinataires des comptes rendus, rapports et autres
-documents intéressant l'hémovigilance élaborés par le comité de sécurité
-transfusionnelle et d'hémovigilance d'établissement ou la sous-commission
-chargée de la sécurité transfusionnelle et de l'hémovigilance.
+Le coordonnateur régional d'hémovigilance et de sécurité transfusionnelle est
+destinataire des comptes rendus, rapports et autres documents intéressant la
+sécurité transfusionnelle et l'hémovigilance élaborés par la commission médicale
+d'établissement ou la conférence médicale d'établissement.
+
+Il en informe en tant que de besoin l'Agence nationale de sécurité du médicament
+et des produits de santé, le directeur général de l'agence régionale de santé et
+le directeur central du service de santé des armées.

@@ -6,11 +6,7 @@ d'administration un état prévisionnel des recettes et des dépenses qui compre
 
 1° Une section de fonctionnement ;
 
-2° Une section d'opérations en capital à caractère limitatif ;
-
-3° Une annexe indiquant la répartition prévisionnelle des recettes et des
-dépenses pour les services centraux et chacun des établissements de transfusion
-sanguine.
+2° Une section d'opérations en capital à caractère limitatif.
 
 Lors de la présentation du compte financier, le président rend compte au conseil
 d'administration de l'exécution de l'état prévisionnel des recettes et des

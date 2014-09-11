@@ -19,15 +19,15 @@ utilisés ;
 4° Les modalités de délivrance ou de transfert des produits sanguins labiles.
 
 Le directeur général de l'agence régionale de santé se prononce sur la demande
-après avoir recueilli l'avis du président de l'Etablissement français du sang
-ou, le cas échéant, du centre de transfusion sanguine des armées, lorsque
-celui-ci est l'établissement de transfusion référent du demandeur, et celui du
-coordonnateur régional d'hémovigilance. En l'absence de réponse de ces derniers
-dans un délai de deux mois, leur avis est réputé donné.
+après avoir recueilli l'avis de l'Etablissement français du sang ou, le cas
+échéant, du centre de transfusion sanguine des armées, lorsque celui-ci est
+l'établissement de transfusion référent du demandeur, et celui du coordonnateur
+régional d'hémovigilance et de sécurité transfusionnelle. En l'absence de
+réponse de ces derniers dans un délai de deux mois, leur avis est réputé donné.
 
 Le directeur général de l'agence régionale de santé notifie sa décision au
 directeur de l'établissement de santé dans un délai de quatre mois à compter de
-la date de réception de la demande accompagnée d'un dossier complet.A défaut de
+la date de réception de la demande accompagnée d'un dossier complet. A défaut de
 réponse à l'expiration de ce délai, l'autorisation est réputée refusée lorsqu'il
 s'agit d'une demande d'autorisation initiale. Elle est réputée accordée dans les
 termes de l'autorisation précédente, sous réserve des modifications déjà
@@ -37,4 +37,4 @@ L'autorisation est délivrée pour une durée de cinq ans. Elle précise la
 catégorie à laquelle appartient le dépôt de sang autorisé. Une copie de la
 décision d'autorisation est adressée à l'Etablissement français du sang ou, le
 cas échéant, au centre de transfusion sanguine des armées et au coordonnateur
-régional d'hémovigilance.
+régional d'hémovigilance et de sécurité transfusionnelle.

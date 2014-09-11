@@ -1,9 +1,7 @@
 Article R1223-15
 ----
-La réalisation par les établissements de transfusion sanguine des tests et
-analyses immuno-hématologiques mentionnés au a) du 1° de l'article R. 1223-14
-est subordonnée à l'autorisation prévue à l'article L. 1223-1.
-
-Cette autorisation est délivrée par le directeur général de l'agence régionale
-de santé pour l'ensemble des sites d'exercice d'un établissement de transfusion
-sanguine situés dans la région. Elle précise ces sites d'exercice.
+Les examens de biologie médicale réalisés par l'Etablissement français du sang
+et le centre de transfusion sanguine des armées, notamment les examens
+d'immuno-hématologie dits "receveur" et les examens complexes
+d'immuno-hémathologie, sont soumis à l'ensemble des dispositions prévues au
+livre II de la sixième partie du code de la santé publique.

@@ -1,44 +1,47 @@
 Article R1221-45
 ----
-Le comité de sécurité transfusionnelle et d'hémovigilance et la sous-commission
-chargée de la sécurité transfusionnelle et de l'hémovigilance ont pour mission
-de contribuer par leurs études et propositions à l'amélioration de la sécurité
-des patients transfusés dans les établissements de santé et les groupements de
-coopération sanitaire où ils sont constitués.
+I.-Les commissions médicales d'établissement dans les établissements publics de
+santé et les conférences médicales d'établissement dans les établissements de
+santé privés ont notamment pour mission de contribuer par leurs études et
+propositions à l'amélioration de la sécurité des patients transfusés dans les
+établissements de santé où elles sont constituées.
 
-Ce comité ou cette sous-commission veille à la mise en oeuvre des règles et
-procédures d'hémovigilance prévues par la présente section. Ils sont notamment
-chargés de la coordination des actions d'hémovigilance entreprises au sein de
-chacun des établissements mentionnés à l'alinéa précédent.
+Ces instances veillent à la mise en œuvre des règles et procédures
+d'hémovigilance et de sécurité transfusionnelle prévues par la présente section
+et notamment à la coordination des actions d'hémovigilance et de sécurité
+transfusionnelle entreprises en ce domaine au sein de chacun des établissements
+mentionnés à l'alinéa précédent.
 
-A ce titre, ces instances :
+II.-A ce titre, ces instances :
 
-1° S'assurent auprès des services responsables de la présence dans le dossier
-médical mentionné à l'article R. 1112-2 des documents relatifs aux actes
-transfusionnels et, le cas échéant, de la copie de la fiche de déclaration
-d'effet indésirable survenu chez un receveur ;
-
-2° Sont saisies de toute question relative à la collaboration des correspondants
-d'hémovigilance de l'établissement de transfusion sanguine et de l'établissement
-de santé ou du groupement de coopération sanitaire, et plus généralement de
+1° Sont saisies de toute question relative à la collaboration des correspondants
+d'hémovigilance et de sécurité transfusionnelle de l'établissement de
+transfusion sanguine et de l'établissement de santé, et plus généralement de
 toute question portant sur les circuits de transmission des informations, en vue
-d'améliorer l'efficacité de l'hémovigilance ;
+d'améliorer l'efficacité de l'hémovigilance et de la sécurité transfusionnelle ;
 
-3° Se tiennent informées des conditions de fonctionnement des dépôts de sang ;
+2° Se tiennent informées des conditions de fonctionnement des dépôts de sang ;
 
-4° Sont averties des incidents graves survenus dans l'établissement de santé ou
-le groupement de coopération sanitaire ainsi que des effets indésirables
-survenus chez les receveurs, et conçoivent toute mesure destinée à y remédier ;
+3° Sont averties des incidents graves survenus dans l'établissement de santé,
+ainsi que des effets indésirables survenus chez les receveurs, et proposent
+toute mesure destinée à y remédier ;
 
-5° Présentent à la commission médicale d'établissement, à la commission médicale
-ou à la conférence médicale un programme de formation en sécurité
-transfusionnelle destiné aux personnels concernés ;
+4° Sont averties des informations post-don ayant une relation avec l'activité
+transfusionnelle de l'établissement de santé ;
 
-6° Remettent à la commission médicale d'établissement, à la commission médicale
-ou à la conférence médicale un rapport annuel d'activité.
+5° Etablissent un programme de formation en sécurité transfusionnelle destiné
+aux personnels concernés dans le cadre du programme d'actions mentionné à
+l'article L. 6144-1 pour les établissements de santé publics et L. 6161-2 pour
+les établissements de santé privés ;
 
-Dans les groupements de coopération sanitaire, la convention constitutive
-précise les conditions dans lesquelles les propositions, avis et études de cette
-instance ainsi que son rapport d'activité sont transmis aux instances
-constituées au sein du groupement et de chaque établissement de santé membre de
-celui-ci.
+6° Elaborent, dans leur rapport annuel d'activité mentionné au 2° de l'article
+R. 6144-2-2 pour les établissements publics de santé et au 2° de l'article R.
+6164-5 pour les établissements de santé privés, un bilan relatif à
+l'hémovigilance et à la sécurité transfusionnelle.
+
+III.-La convention constitutive du groupement de coopération sanitaire érigé en
+établissement de santé précise les conditions dans lesquelles les propositions,
+avis, études et rapports annuels d'activité des commissions médicales
+d'établissement et des conférences médicales d'établissement sont transmis aux
+instances constituées au sein du groupement et de chaque établissement de santé
+membre de celui-ci.

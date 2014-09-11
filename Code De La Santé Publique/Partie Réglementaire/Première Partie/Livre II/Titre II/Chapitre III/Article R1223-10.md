@@ -14,5 +14,5 @@ comprendre au sein de chaque équipe, outre la présence d'au moins un médecin,
 ou plusieurs infirmiers.
 
 Au sein d'un même établissement de transfusion sanguine, les activités en
-rapport avec un protocole de transfusion autologue doivent être distinctes des
-activités concernant les dons de sang homologues.
+rapport avec un protocole de transfusion autologue programmée doivent être
+distinctes des activités concernant les dons de sang homologues.
