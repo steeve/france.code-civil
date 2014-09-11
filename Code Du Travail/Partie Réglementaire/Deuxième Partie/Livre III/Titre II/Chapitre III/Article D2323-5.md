@@ -49,10 +49,16 @@ obtenus ;
 
 7° Le bilan, pour l'année antérieure et l'année en cours, des conditions de mise
 en œuvre des contrats et des périodes de professionnalisation ainsi que de la
-mise en œuvre du droit individuel à la formation. Le bilan porte également sur
+mise en œuvre du compte personnel de formation. Le bilan porte également sur
 l'accueil des enseignants et des conseillers d'orientation ;
 
 8° Le plan de formation de l'entreprise et les conditions de mise en œuvre des
 périodes et des contrats de professionnalisation ainsi que la mise en œuvre du
-droit individuel à la formation pour l'année à venir, comportant respectivement
-les informations mentionnées aux 5° et 7°.
+compte personnel de formation pour l'année à venir, comportant respectivement
+les informations mentionnées aux 5° et 7° ;
+
+9° Le nombre des salariés bénéficiaires de l'abondement mentionné au dernier
+alinéa du II de l'article L. 6315-1 ainsi que les sommes versées à ce titre ;
+
+10° Le nombre des salariés bénéficiaires de l'entretien professionnel mentionné
+au I de l'article L. 6315-1.
