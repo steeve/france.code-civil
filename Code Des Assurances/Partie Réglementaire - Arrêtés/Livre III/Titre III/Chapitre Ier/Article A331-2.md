@@ -42,7 +42,7 @@ l'article R. 331-3. Cette provision est reprise dans les comptes de l'entreprise
 à l'inventaire suivant.
 
 Les contrats à capital variable et les opérations mentionnées aux articles L.
-142-1 et L. 441-1 ne sont pas concernés par ces dispositions.
+134-1 et L. 441-1 ne sont pas concernés par ces dispositions.
 
 Le taux de rendement réel des actifs est calculé conformément à l'article A.
 331-7. Toutefois, il tient compte du rendement des actifs mentionnés au premier

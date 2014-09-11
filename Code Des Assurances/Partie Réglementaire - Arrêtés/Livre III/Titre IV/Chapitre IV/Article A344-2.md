@@ -36,8 +36,8 @@ articles L. 143-1 et L. 144-2 ;
 12. Contrats de retraite professionnelle supplémentaire régis par l'article L.
 143-1 ;
 
-13. Contrats relevant du chapitre II du titre IV du livre Ier mais ne relevant
-pas des articles L. 143-1 et L. 144-2 ;
+13 Opérations relevant de l'article L. 134-1 mais ne relevant pas des articles
+L. 143-1 et L. 144-2 ;
 
 19 Acceptations en réassurance (vie) ;
 
