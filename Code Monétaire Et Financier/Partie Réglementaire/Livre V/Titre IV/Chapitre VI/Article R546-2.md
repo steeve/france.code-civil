@@ -14,8 +14,9 @@ parties à l'accord sur l'Espace économique européen.
 II. ― Les formalités d'immatriculation des personnes mentionnées aux 2°, 3° et
 4° du I de l'article R. 519-4 peuvent être accomplies par les personnes
 physiques ou morales qui leur ont délivré un mandat. S'agissant des personnes
-mentionnées à l'article L. 541-1, les formalités d'immatriculation peuvent être
-accomplies par les associations professionnelles auxquelles elles adhèrent.
+mentionnées aux articles L. 541-1 et L. 547-1, les formalités d'immatriculation
+peuvent être accomplies par les associations professionnelles auxquelles elles
+adhèrent.
 
 III. ― Les formalités d'immatriculation des personnes mentionnées à l'article L.
 545-1 sur le registre des intermédiaires sont accomplies par l'entreprise qui

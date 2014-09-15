@@ -1,3 +1,4 @@
 Article D765-5-1
 ----
-L'article D. 522-1 est applicable dans les îles Wallis et Futuna.
+Les articles D. 522-1 à D. 522-1-2 sont applicables dans les îles Wallis et
+Futuna.

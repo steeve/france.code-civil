@@ -1,3 +1,3 @@
 Article D755-5-1
 ----
-L'article D. 522-1 est applicable en Polynésie française.
+Les articles D. 522-1 à D. 522-1-2 sont applicables en Polynésie française.
