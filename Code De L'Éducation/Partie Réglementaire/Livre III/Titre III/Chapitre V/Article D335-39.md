@@ -1,10 +1,10 @@
 Article D335-39
 ----
 Les conseillers peuvent, en outre, être chargés par le ministre chargé de
-l'éducation ou par les recteurs, à la demande notamment des comités de
-coordination régionaux de l'emploi et de la formation professionnelle ou des
-comités départementaux de l'emploi, de missions particulières ou d'enquêtes
-portant sur :
+l'éducation ou par les recteurs, à la demande notamment des comité régionaux de
+l'emploi, de la formation de l'orientation professionnelles ou des comités
+départementaux de l'emploi, de missions particulières ou d'enquêtes portant sur
+:
 
 1° La création d'établissements publics ou privés, à temps plein ou à temps
 partiel, la création ou la suppression de sections dans les établissements

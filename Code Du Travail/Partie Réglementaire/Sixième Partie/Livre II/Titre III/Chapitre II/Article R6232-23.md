@@ -6,6 +6,7 @@ région et une association constituée au niveau régional par une organisation
 professionnelle ou interprofessionnelle, une chambre de commerce et d'industrie
 de région, une chambre régionale de métiers, une chambre régionale d'agriculture
 ou un groupement d'entreprises en vue de développer les formations en
-apprentissage. La création de l'association est subordonnée à un avis favorable
-motivé du comité de coordination régional de l'emploi et de la formation
-professionnelle.
+apprentissage.
+
+La création de l'association est subordonnée à un avis favorable motivé du
+comité régional de l'emploi, de la formation de l'orientation professionnelles.

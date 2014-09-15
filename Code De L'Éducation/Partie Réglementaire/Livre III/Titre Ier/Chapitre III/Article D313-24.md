@@ -28,10 +28,10 @@ action ;
 l'analyse des fonctions et l'évolution des qualifications professionnelles.
 
 A ces fins, la délégation régionale collabore avec les divers services ou
-organismes régionaux compétents, et notamment avec le comité de coordination
-régional de l'emploi et de la formation professionnelle prévu aux articles L.
-6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D.
-6123-19 à D. 6123-21, D. 6123-25 à D. 6123-27 du code du travail. Elle passe
+organismes régionaux compétents, et notamment avec le comité régional de
+l'emploi, de la formation de l'orientation professionnelles prévu aux articles
+L. 6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14,
+D. 6123-19 à D. 6123-21, D. 6123-25 à D. 6123-27 du code du travail. Elle passe
 également, au nom de l'office, avec les universités et les autres établissements
 à caractère scientifique, culturel et professionnel, les conventions de
 coopération nécessaires.

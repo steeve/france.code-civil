@@ -18,14 +18,14 @@ Lorsque la demande s'exprime au niveau régional, le préfet de région communiq
 le dossier au correspondant de la commission nationale pour la région prévu à
 l'article R. 335-29. Ce dernier instruit la demande avec le concours des
 services déconcentrés de l'Etat dans la région et rapporte devant la commission
-spécialisée du comité de coordination régional de l'emploi et de la formation
-professionnelle. La commission spécialisée se prononce dans un délai de trois
+spécialisée du comité régional de l'emploi, de la formation de l'orientation
+professionnelles. La commission spécialisée se prononce dans un délai de trois
 mois à compter de la date de transmission du dossier par le préfet de région. A
 défaut de réponse dans ce délai, l'avis de la commission est réputé rendu.
 
 Le correspondant de la commission nationale pour la région transmet le dossier
-de l'organisme, accompagné de son rapport et de l'avis du comité de coordination
-régional de l'emploi et de la formation professionnelle, au président de la
+de l'organisme, accompagné de son rapport et de l'avis du comité régional de
+l'emploi, de la formation de l'orientation professionnelles, au président de la
 commission.
 
 Lorsque la demande s'exprime au niveau national, le dossier est instruit par la

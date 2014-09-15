@@ -57,8 +57,8 @@ Ce conseil est composé :
 1° De deux représentants de l'administration désignés par le préfet de région ;
 
 2° De deux membres non fonctionnaires de la commission d'apprentissage du comité
-de coordination régional de l'emploi et de la formation professionnelle,
-désignés par cette dernière ;
+régional de l'emploi, de la formation de l'orientation professionnelle, désignés
+par cette dernière ;
 
 3° De deux représentants élus des inspecteurs commissionnés. "
 

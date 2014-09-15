@@ -14,8 +14,8 @@ Les commissions paritaires interprofessionnelles régionales de l'emploi peuvent
 de contrats d'objectifs intéressant des formations à caractère transversal et
 interprofessionnel.
 
-Le comité de coordination régional de l'emploi et de la formation
-professionnelle, ainsi que le conseil académique de l'éducation nationale pour
+Le comité régional de l'emploi, de la formation de l'orientation
+professionnelles, ainsi que le conseil académique de l'éducation nationale pour
 les questions relevant de la compétence du recteur, ou le comité régional de
 l'enseignement agricole pour les questions relevant de la compétence du
 directeur régional de l'alimentation, de l'agriculture et de la forêt, sont
