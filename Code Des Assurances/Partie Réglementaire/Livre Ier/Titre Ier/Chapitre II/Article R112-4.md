@@ -23,4 +23,4 @@ demande.
 
 En outre, l'assureur est tenu de fournir l'ensemble des informations mentionnées
 au III de l'article L. 112-2-1 lorsqu'il remplit ses obligations en vertu de
-l'article L. 121-20-11 du code de la consommation.
+l'article L. 121-28 du code de la consommation.

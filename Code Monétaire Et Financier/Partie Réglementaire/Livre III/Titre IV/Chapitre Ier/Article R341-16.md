@@ -35,17 +35,17 @@ supplémentaire spécifique pour la personne démarchée afférent à l'utilisat
 la technique de communication à distance.
 
 3° Le contrat à distance : le démarcheur informe la personne démarchée de
-l'existence du droit de rétractation mentionné à l'article L. 121-20-12 du code
-de la consommation, de sa durée, des conséquences pécuniaires éventuelles de sa
+l'existence du droit de rétractation mentionné à l'article L. 121-29 du code de
+la consommation, de sa durée, des conséquences pécuniaires éventuelles de sa
 mise en oeuvre, ainsi que de l'adresse à laquelle la personne démarchée doit
 notifier sa décision de se rétracter. En cas d'absence d'un tel droit, le
 démarcheur en informe la personne démarchée ainsi que des conséquences de cette
 absence.
 
 Pour les contrats pour lesquels s'applique le délai de rétractation mentionné au
-même article L. 121-20-12, le démarcheur informe la personne démarchée du fait
-que, sauf accord exprès de celle-ci, le contrat ne peut commencer à être exécuté
-qu'à l'expiration du délai de rétractation. Pour les contrats de crédit à la
+même article L. 121-29, le démarcheur informe la personne démarchée du fait que,
+sauf accord exprès de celle-ci, le contrat ne peut commencer à être exécuté qu'à
+l'expiration du délai de rétractation. Pour les contrats de crédit à la
 consommation prévus au chapitre Ier du titre Ier du livre III du code de la
 consommation, le démarcheur informe la personne démarchée du fait que, même avec
 son accord, le contrat ne peut commencer à être exécuté durant les sept premiers
@@ -94,10 +94,10 @@ d) L'indication de l'existence éventuelle d'autres taxes ou frais qui ne sont
 pas acquittés par le démarcheur ou facturés par lui ;
 
 e) L'existence ou l'absence du droit de rétractation mentionné à l'article L.
-121-20-12 du code de la consommation et, si ce droit existe, sa durée et les
+121-29 du code de la consommation et, si ce droit existe, sa durée et les
 modalités de son exercice, y compris des informations sur le montant que la
-personne démarchée peut être tenue de payer en vertu de l'article L. 121-20-13
-du même code.
+personne démarchée peut être tenue de payer en vertu de l'article L. 121-30 du
+même code.
 
 Le fournisseur informe le consommateur sur, d'une part, le fait que d'autres
 informations peuvent être fournies sur demande et, d'autre part, la nature de
