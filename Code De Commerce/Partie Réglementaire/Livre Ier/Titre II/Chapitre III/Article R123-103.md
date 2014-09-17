@@ -17,7 +17,8 @@ de direction, de surveillance et de contrôle ;
 2° En outre pour les sociétés :
 
 a) Le cas échéant, un exemplaire du rapport du commissaire aux apports sur
-l'évaluation des apports en nature ;
+l'évaluation des apports en nature ou de la décision et des documents mentionnés
+aux articles R. 225-9-1 et R. 225-14-1 ;
 
 b) S'il s'agit d'une société par actions, un exemplaire du certificat du
 dépositaire des fonds auquel est jointe la liste des souscripteurs mentionnant

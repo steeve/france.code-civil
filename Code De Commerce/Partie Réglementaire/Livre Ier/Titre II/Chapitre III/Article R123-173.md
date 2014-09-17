@@ -9,6 +9,7 @@ du tribunal dans le ressort duquel le commerçant est immatriculé. Chaque livre
 reçoit un numéro d'identification répertorié par le greffier sur un registre
 spécial.
 
-Des documents sous forme électronique peuvent tenir lieu de livre-journal et de
-livre d'inventaire ; dans ce cas, ils sont identifiés, numérotés et datés dès
-leur établissement par des moyens offrant toute garantie en matière de preuve.
+Des documents sous forme électronique peuvent tenir lieu de livre-journal, de
+grand livre et de livre d'inventaire ; dans ce cas, ils sont identifiés et datés
+dès leur établissement par des moyens offrant toute garantie en matière de
+preuve.

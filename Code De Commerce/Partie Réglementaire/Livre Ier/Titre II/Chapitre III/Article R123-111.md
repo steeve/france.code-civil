@@ -6,4 +6,5 @@ prévus aux articles L. 232-21 à L. 232-23.
 
 Le dépôt des documents comptables que les personnes morales sont tenues de
 publier en annexe au registre peut être effectué par voie électronique dans les
-conditions prévues à l'article R. 123-77.
+conditions prévues à l'article R. 123-77. Dans ce cas, le délai prévu au premier
+alinéa est porté à deux mois.

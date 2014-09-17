@@ -36,18 +36,10 @@ a) Les comptes annuels, les comptes consolidés, le rapport sur la gestion du
 groupe, un tableau des affectations de résultat précisant notamment l'origine
 des sommes dont la distribution est proposée ;
 
-b) Un tableau, dont un modèle figure à l'annexe 2-2 au présent livre, faisant
-apparaître les résultats de la société au cours de chacun des cinq derniers
-exercices ou de chacun des exercices clos depuis la constitution de la société
-ou l'absorption par celle-ci d'une autre société, si leur nombre est inférieur à
-cinq ;
-
-c) Les rapports des commissaires aux comptes prévus au troisième alinéa des
+b) Les rapports des commissaires aux comptes prévus au troisième alinéa des
 articles L. 225-40 et L. 225-88 et aux articles L. 232-3, L. 234-1 et R. 823-7 ;
 
-d) Les observations du conseil de surveillance, s'il y a lieu ;
-
-e) (Abrogé) ;
+c) Les observations du conseil de surveillance, s'il y a lieu ;
 
 7° S'il s'agit d'une assemblée générale ordinaire prévue à l'article L. 225-101,
 le rapport des commissaires mentionnés audit article ;
