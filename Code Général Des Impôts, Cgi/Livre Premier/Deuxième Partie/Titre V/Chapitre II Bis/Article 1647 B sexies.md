@@ -38,13 +38,6 @@ chaque établissement est majorée du montant des taxes spéciales d'équipement
 additionnelles à la cotisation foncière des entreprises prévues aux articles
 1607 bis, 1607 ter et 1609 B à 1609 D, calculées dans les mêmes conditions.
 
-En cas de transmission universelle du patrimoine mentionnée à l'article 1844-5
-du code civil, de cession ou de cessation d'entreprise au cours de l'année
-d'imposition, le montant de la cotisation foncière des entreprises de
-l'entreprise dissoute est ajusté en fonction du rapport entre la durée de la
-période de référence mentionnée à l'article 1586 quinquies du présent code et
-l'année civile.
-
 III. ― Le dégrèvement s'impute sur la cotisation foncière des entreprises.
 
 IV. ― Le dégrèvement ne peut avoir pour effet de ramener la contribution
