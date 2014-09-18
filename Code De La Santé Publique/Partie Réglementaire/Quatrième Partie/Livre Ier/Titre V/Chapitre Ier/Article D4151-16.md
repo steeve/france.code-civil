@@ -1,6 +1,7 @@
 Article D4151-16
 ----
-La validation des stages est attestée par le directeur de l'école. L'étudiant
+La validation des stages est attestée par le directeur de l'établissement
+d'enseignement supérieur offrant des formations en maïeutique. L'étudiant
 sage-femme produit cette attestation auprès du conseil départemental de l'ordre
 dans le ressort duquel il souhaite effectuer un remplacement.
 
