@@ -30,3 +30,11 @@ Le responsable des activités exerce pour chaque site les missions mentionnées 
 premier et au deuxième alinéa sous l'autorité de la personne responsable. Dans
 le cas d'un établissement de transfusion sanguine, ce responsable des activités
 est désigné par le directeur de cet établissement et agit sous son autorité.
+
+En cas d'empêchement dûment justifié, le responsable des activités est remplacé
+par un responsable intérimaire des activités désigné par la personne responsable
+qui peut être responsable des activités d'un autre site du même établissement ou
+organisme. Le responsable intérimaire des activités se voit confier, pour la
+période de remplacement, les mêmes pouvoirs et attributions que ceux conférés au
+responsable des activités du site et les exerce effectivement pendant la durée
+du remplacement.

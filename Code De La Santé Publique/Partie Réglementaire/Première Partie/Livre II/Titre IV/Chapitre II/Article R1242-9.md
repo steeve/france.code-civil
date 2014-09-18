@@ -15,12 +15,12 @@ d'administration allogénique ;
 application des dispositions de l'article L. 1243-2 du personnel nécessaire à
 l'activité de prélèvement, soit :
 
-- un médecin nommément désigné, responsable de l'activité de prélèvement ;
+-un médecin nommément désigné, responsable de l'activité de prélèvement ;
 
-- le cas échéant, des médecins qualifiés pour la réalisation d'actes
-chirurgicaux ;
+-le cas échéant, des médecins qualifiés pour la réalisation d'actes chirurgicaux
+;
 
-- du personnel paramédical, technique et administratif.
+-du personnel paramédical, technique et administratif.
 
 Le nombre, la qualification et l'expérience de ces personnels doivent être
 adaptés au type de prélèvement envisagé conformément aux règles de bonnes
@@ -34,4 +34,4 @@ prélèvement nécessite la réalisation d'actes chirurgicaux ;
 4° Justifier d'une organisation permettant d'assurer ou de faire assurer de
 façon satisfaisante le transport des cellules prélevées en liaison avec les
 établissements ou organismes autorisés en application des dispositions de
-l'article L. 1243-2.
+l'article L. 1243-2, L. 4211-9-1, L. 5124-1 ou L. 5124-9-1.

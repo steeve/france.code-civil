@@ -10,9 +10,9 @@ l'exécution satisfaisante des opérations de prélèvement ;
 l'instance médicale consultative de l'établissement, et un ou, le cas échéant,
 des coordonnateurs hospitaliers, infirmiers ; la liste de ces personnes est
 communiquée à l'instance délibérative de l'établissement de santé ; le
-coordonnateur médical de l'activité de prélèvement et le (ou les)
-coordonnateur(s) hospitalier(s) peuvent être les mêmes que ceux prévus à
-l'article R. 1233-7 ;
+coordonnateur médical de l'activité de prélèvement et le (ou les) coordonnateur
+(s) hospitalier (s) peuvent être les mêmes que ceux prévus à l'article R. 1233-7
+;
 
 3° Disposer, en propre ou par le biais de conventions avec d'autres
 établissements de santé ou des établissements ou organismes autorisés en
@@ -39,4 +39,4 @@ des moyens matériels nécessaires à la restauration décente du corps ;
 6° Justifier d'une organisation permettant d'assurer ou de faire assurer de
 façon satisfaisante le transport des tissus prélevés en liaison avec les
 établissements ou organismes autorisés en application des dispositions de
-l'article L. 1243-2.
+l'article L. 1243-2, L. 4211-9-1, L. 5124-1 ou L. 5124-9-1.
