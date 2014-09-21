@@ -5,4 +5,4 @@ l'examen des demandes présentées en vue de l'exercice des professions de
 médecin, chirurgien-dentiste et sage-femme.
 
 Pour les médecins, la section est composée de collèges correspondant aux
-diverses disciplines ou spécialités.
+diverses spécialités.

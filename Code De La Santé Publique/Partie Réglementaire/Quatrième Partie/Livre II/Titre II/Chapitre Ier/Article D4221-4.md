@@ -1,15 +1,29 @@
 Article D4221-4
 ----
-Dans la limite du nombre maximum de personnes susceptibles d'être reçues à ces
-épreuves, le jury établit une liste alphabétique des candidats reçus. La note de
-la première épreuve départage les ex aequo.
+I.-Lorsqu'elle se réunit en application de l'article L. 4221-12, la composition
+de la commission comprend les membres mentionnés au I de l'article D. 4221-2.
 
-Les candidats inscrits en qualité de réfugié, apatride, bénéficiaire de l'asile
-territorial, bénéficiaire de la protection subsidiaire ou de Français ayant
-regagné le territoire national à la demande des autorités françaises ne sont pas
-soumis au nombre maximum mentionné à l'alinéa précédent. Le jury établit une
-liste alphabétique des candidats reçus.
+II.-La section compétente pour l'examen des demandes d'autorisation d'exercice
+présentées au titre de la pharmacie comprend en outre les membres mentionnés au
+II de l'article D. 4221-2 ainsi qu'un membre de la profession proposé par les
+organisations nationales des praticiens titulaires d'un diplôme acquis en dehors
+de l'Union européenne ou de l'Espace économique européen.
 
-Pour l'établissement des listes mentionnées aux deux alinéas précédents, le
-candidat ayant obtenu une note inférieure ou égale à 6 sur 20 à l'une de ces
-épreuves ne peut être déclaré admis.
+III.-La section compétente pour l'examen des demandes d'autorisation d'exercice
+présentées dans la spécialité biologie médicale comprend en outre les membres
+mentionnés au III de l'article D. 4221-2 ainsi qu'un membre de la profession
+proposé par les organisations nationales des praticiens titulaires d'un diplôme
+acquis en dehors de l'Union européenne ou de l'Espace économique européen,
+spécialiste en biologie médicale.
+
+IV.-A chacune des sections est adjoint à titre consultatif un représentant d'une
+association d'accueil ou d'aide aux professionnels de santé réfugiés désignée
+par le ministre chargé de la santé.
+
+V.-Les membres mentionnés au II et le membre représentant les praticiens
+titulaires d'un diplôme acquis en dehors de l'Union européenne ou de l'Espace
+économique européen, mentionné au III, sont nommés par arrêté du ministre chargé
+de la santé pour une durée de cinq ans, renouvelable.
+
+Un suppléant est désigné dans les mêmes conditions. Il siège aux séances de la
+commission en l'absence du titulaire.

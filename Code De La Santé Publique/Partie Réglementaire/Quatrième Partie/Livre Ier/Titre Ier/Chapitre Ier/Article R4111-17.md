@@ -10,8 +10,8 @@ l'exercice est subordonné au diplôme précité n'existent pas dans la professi
 correspondante dans l'Etat membre d'origine ou n'ont pas fait l'objet d'un
 enseignement dans cet Etat, la commission vérifie l'ensemble de la formation et
 de l'expérience professionnelle de l'intéressé. Si celles-ci ne sont pas de
-nature à couvrir, en tout ou en partie, ces différences, la commission propose
-une mesure de compensation consistant en une épreuve d'aptitude ou un stage
+nature à couvrir, en tout ou partie, ces différences, la commission propose une
+mesure de compensation consistant en une épreuve d'aptitude ou un stage
 d'adaptation.
 
 Le ministre chargé de la santé informe l'intéressé du contenu et de la durée des

@@ -1,8 +1,8 @@
-Article R4221-13
+Article R4221-13-6
 ----
-Le Conseil supérieur de la pharmacie examine l'ensemble de la formation et de
-l'expérience professionnelle de l'intéressé selon les mêmes modalités que celles
-prévues aux articles R. 4111-16 à R. 4111-20.
+La commission examine l'ensemble de la formation et de l'expérience
+professionnelle de l'intéressé selon les mêmes modalités que celles prévues aux
+articles R. 4111-17 à R. 4111-20.
 
 Les candidats à l'autorisation d'exercice recrutés, pour accomplir le stage
 d'adaptation mentionné à l'article R. 4111-18, par un établissement public de

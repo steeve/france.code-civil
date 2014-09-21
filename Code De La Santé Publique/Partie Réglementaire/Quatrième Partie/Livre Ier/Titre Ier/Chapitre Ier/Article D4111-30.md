@@ -1,7 +1,9 @@
 Article D4111-30
 ----
 Le Conseil national de l'ordre accuse réception de la demande dans le délai d'un
-mois à compter de sa réception.
+mois à compter de sa réception. Les intéressés recrutés par un établissement
+public de santé le sont dans les conditions définies aux articles R. 6152-543 à
+R. 6152-550.
 
 Pendant ce mois, il informe l'intéressé, le cas échéant, de tout document
 manquant ainsi que de l'obligation de réaliser un stage d'adaptation d'une durée

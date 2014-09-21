@@ -1,48 +1,66 @@
 Article R4111-15
 ----
-La commission siège dans une formation particulière pour chacune des
-professions.
+I.-La commission chargée de rendre l'avis prévu à l'article R. 4111-14 siège
+dans une formation particulière pour chacune des professions.
 
 Elle comprend :
 
-1° Le directeur général de l'offre de soins, président ;
+1° Le directeur général de l'offre de soins ou son représentant, président ;
 
-2° Le directeur général de la santé ;
+2° Le directeur général pour l'enseignement supérieur et l'insertion
+professionnelle, ou son représentant ;
 
-3° Le directeur général pour l'enseignement supérieur et l'insertion
-professionnelle ;
+3° Le directeur du centre national de gestion, ou son représentant ;
 
-4° Le directeur général du centre national de gestion, ou son représentant ;
+4° Le président de la Fédération hospitalière de France ou son représentant ;
 
-5° Deux représentants du conseil national de l'ordre concerné.
+5° Le président et le secrétaire général du conseil national de l'ordre de la
+profession concernée ou leurs représentants.
 
-Elle comprend en outre :
+II.-Elle comprend en outre :
 
-a) Pour l'examen des demandes d'autorisation d'exercice de la profession de
-médecin :
+1° Pour l'examen des demandes d'autorisation d'exercice de la profession de
+médecin : cinq membres siégeant aux commissions de qualification ordinale
+instituées par l'article 2 du décret n° 2004-252 du 19 mars 2004 relatif aux
+conditions dans lesquelles les docteurs en médecine peuvent obtenir une
+qualification de spécialiste ;
 
--cinq membres parmi ceux composant les commissions de qualification ordinale
-telles qu'instituées par le 4° de l'article L. 632-12 du code de l'éducation.
-
-b) Pour l'examen des demandes d'autorisation d'exercice de la profession de
+2° Pour l'examen des demandes d'autorisation d'exercice de la profession de
 chirurgien-dentiste :
 
--deux membres proposés par des organisations syndicales représentatives des
-chirurgiens-dentistes ;
+a) Deux représentants proposés par des organisations syndicales représentatives
+des chirurgiens-dentistes ;
 
--un professeur des universités-praticien hospitalier en odontologie ;
+b) Un chirurgien-dentiste parmi les membres du personnel enseignant et
+hospitalier titulaires régis par le décret n° 90-92 du 24 janvier 1990 portant
+statut des personnels enseignants et hospitaliers des centres de soins,
+d'enseignement et de recherche dentaires des centres hospitaliers et
+universitaires ;
 
--un membre des associations professionnelles.
+c) Pour l'examen des demandes d'autorisation d'exercice dans la spécialité
+orthopédie dento-faciale, deux chirurgiens-dentistes spécialistes en orthopédie
+dento-faciale ;
 
-c) Pour l'examen des demandes d'autorisation d'exercice de la profession de
+d) Pour l'examen des demandes d'autorisation d'exercice dans la spécialité
+chirurgie orale ou médecine bucco-dentaire, deux chirurgiens-dentistes
+spécialistes en chirurgie orale ou en médecine bucco-dentaire ;
+
+e) Un membre des associations professionnelles ;
+
+3° Pour l'examen des demandes d'autorisation d'exercice de la profession de
 sage-femme :
 
--deux membres proposés par des organisations syndicales représentatives des
+a) Deux membres proposés par des organisations syndicales représentatives des
 sages-femmes ;
 
--une sage-femme directeur d'école ;
+b) Un ou une sage-femme directeur d'école ou chargé d'un institut de formation
+en maïeutique ;
 
--un membre des associations professionnelles.
+c) Un membre des associations professionnelles.
 
-Les membres de la commission sont nommés par arrêté du ministre chargé de la
-santé pour une durée de trois ans renouvelable.
+III.-Pour chacun des membres titulaires mentionnés aux 2° et 3° du II, un
+suppléant est désigné dans les mêmes conditions que ceux-ci. Il siège aux
+séances de la commission en l'absence du titulaire.
+
+Ces membres titulaires et suppléants de la commission sont nommés par arrêté du
+ministre chargé de la santé pour une durée de cinq ans renouvelable.
