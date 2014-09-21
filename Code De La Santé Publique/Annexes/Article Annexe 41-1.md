@@ -14,7 +14,7 @@ A. - 4 spécifiques (1).
 
 B. - 1 libre.
 
-III. - Anesthésie-réanimation ou anesthésiologie-réanimation chirurgicale
+III. - Anesthésie-réanimation
 
 A. - 4 spécifiques (1) dont 3 dans des services d'anesthésie et 1 dans un
 service de réanimation.
@@ -44,7 +44,7 @@ B. - 2 dans des services agréés de :
 
 8. Neurologie ;
 
-9. Réanimation médicale.
+9. Réanimation.
 
 V. - Dermato-vénéréologie ou dermatologie et vénéréologie
 
@@ -106,7 +106,7 @@ B. - 1 dans un service agréé de :
 
 7. Pneumologie ;
 
-8. Réanimation médicale.
+8. Réanimation.
 
 C. - 1 libre.
 
@@ -122,7 +122,7 @@ B. - 1 dans un service agréé de :
 
 3. Pathologie infectieuse et tropicale, clinique et biologique ;
 
-4. Réanimation médicale ;
+4. Réanimation ;
 
 5. Nutrition.
 
@@ -132,31 +132,7 @@ XI. - Médecine nucléaire
 
 A. - 3 spécifiques (1).
 
-B. - 2 dans des services agréés de :
-
-1. Pathologie cardio-vasculaire ;
-
-2. Endocrinologie-maladies métaboliques ;
-
-3. Médecine interne ;
-
-4. Gastro-entérologie et hépatologie ;
-
-5. Pneumologie ;
-
-6. Neurologie ;
-
-7. Rhumatologie ;
-
-8. Hématologie ;
-
-9. Cancérologie ;
-
-10. Pédiatrie ;
-
-11. Radiodiagnostic et imagerie médicale ;
-
-12. Oncologie (service de radiothérapie).
+B. - B. - 2 libres.
 
 XII. - Médecine du travail
 
@@ -168,7 +144,7 @@ XIII. - Néphrologie
 
 A. - 2 spécifiques (1).
 
-B. - 1 dans un service agréé de réanimation médicale.
+B. - 1 dans un service agréé de réanimation.
 
 C. - 2 libres.
 
@@ -176,7 +152,8 @@ XIV. - Neurologie
 
 A. - 3 spécifiques (1).
 
-B. - 1 dans un service agréé de psychiatrie.
+B. - 1 dans un service agréé de psychiatrie ou dans un service agréé de
+neurologie.
 
 C. - 1 libre.
 
@@ -256,108 +233,53 @@ C. - 1 libre.
 
 XXVI. - Chirurgie infantile
 
-A. - 3 spécifiques (1).
+A. - 4 spécifiques (1) répartis si possible dans des services de : chirurgie
+viscérale, chirurgie infantile orthopédique, chirurgie infantile urologique,
+chirurgie infantile générale.
 
-B. - 3 dans des services agréés de chirurgie :
-
-1. Au moins 1 en chirurgie viscérale ;
-
-2. Au moins 1 en chirurgie orthopédique et traumatologie.
-
-C. - 1 libre.
+B. - 3 libres.
 
 XXVII. - Chirurgie orthopédique et traumatologie ou chirurgie orthopédique
 
 A. - 4 spécifiques (1).
 
-B. - 1 dans un service agréé de chirurgie viscérale.
-
-C. - 2 libres.
+B. - 3 libres
 
 XXVIII. - Chirurgie plastique reconstructrice et esthétique
 
-A. - 3 spécifiques (1).
+A. - 4 spécifiques (1).
 
-B. - 1 dans un service agréé de chirurgie viscérale.
-
-C. - 1 dans un service agréé de chirurgie orthopédique et traumatologie.
-
-D. - 1 dans un service agréé d'oto-rhino-laryngologie ou de chirurgie
-maxillo-faciale ou de stomatologie.
-
-E. - 1 libre.
+B. - 3 libres.
 
 XXIX. - Chirurgie thoracique et cardio-vasculaire
 
 A. - 4 spécifiques (1).
 
-B. - 1 dans un service agréé de chirurgie viscérale.
-
-C. - 1 dans un service agréé de chirurgie orthopédique et traumatologie.
-
-D. - 1 libre.
+B. - 3 libres.
 
 XXX. - Chirurgie urologique
 
-A. - 3 spécifiques (1).
+A. - 4 spécifiques (1).
 
-B. - 1 dans un service agréé de chirurgie viscérale.
-
-C. - 1 dans un service agréé de chirurgie orthopédique et traumatologie.
-
-D. - 1 dans un service agréé de :
-
-1. Chirurgie infantile ;
-
-2. Chirurgie vasculaire ;
-
-3. Chirurgie thoracique et cardio-vasculaire ;
-
-4. Gynécologie-obstétrique.
-
-E. - 1 libre.
+B. - 3 libres.
 
 XXXI. - Chirurgie vasculaire
 
-A. - 3 spécifiques (1).
+A. - 4 spécifiques (1).
 
-B. - 1 dans un service agréé de chirurgie viscérale.
+B. - 3 libres.
 
-C. - 1 dans un service agréé de chirurgie orthopédique et traumatologie.
+XXXII. - Chirurgie viscérale et digestive
 
-D. - 1 dans un service agréé de chirurgie thoracique et cardio-vasculaire.
+A. - 4 spécifiques (1) :
 
-E. - 1 libre.
-
-XXXII. - Chirurgie viscérale
-
-A. - 3 spécifiques (1) :
-
-B. - 1 dans un service agréé de chirurgie orthopédique et traumatologie.
-
-C. - 2 dans des services agréés de :
-
-1. Chirurgie infantile ;
-
-2. Chirurgie thoracique et cardio-vasculaire ;
-
-3. Chirurgie urologique ;
-
-4. Chirurgie vasculaire ;
-
-5. Chirurgie viscérale ;
-
-6. Cancérologie (service de chirurgie) ;
-
-7. Oncologie (service de chirurgie).
-
-D. - 1 libre.
+B. - 3 libres.
 
 XXXIII. - Gynécologie-obstétrique
 
-A. - 3 spécifiques (1).
+A. - 5 spécifiques (1).
 
-B. - 2 dans des services agréés de :
+B. - 1 dans des services agréés de :
 
 1. Chirurgie viscérale ;
 
@@ -365,11 +287,18 @@ B. - 2 dans des services agréés de :
 
 3. Chirurgie vasculaire.
 
-C. - 2 libres.
+4. Chirurgie générale.
+
+C. - 1 libre.
 
 XXXIV. - Neurochirurgie
 
-Pas de remplacement.
+A. - 4 spécifiques (1).
+
+B. - 2 dans des services agréés de disciplines chirurgicales.
+
+C. - 2 dans des services agréés pour la spécialité ou pour une autre spécialité
+dont 1 de préférence dans un service agréé de neurologie.
 
 XXXV. - Ophtalmologie
 
@@ -391,33 +320,22 @@ B. - 2 dans des services agréés pour la spécialité ou une autre spécialité
 
 XXXVIII. - Chirurgie générale
 
-A. - 3 dans un service agréé de chirurgie viscérale digestive.
+A. - 5 spécifiques (1) ou dans un service agréé de disciplines chirurgicales
+autres que spécifiques.
 
-B. - 1 dans un service agréé de chirurgie orthopédique et traumatologie.
+B. - 2 dans des services agréés pour la spécialité ou pour une autre spécialité.
 
-C. - 3 libres dont 2 au moins dans des services agréés de disciplines
-chirurgicales ;
+XXXIX. - Chirurgie maxillo-faciale et stomatologie
 
+A. - 4 spécifiques (1).
 
-Ou
+B. - 3 libres.
 
-A. - 2 dans un service agréé de chirurgie viscérale digestive ;
+XXXX. - Réanimation
 
-B. - 2 dans un service agréé de chirurgie orthopédique et traumatologie.
+A. - 4 spécifiques (1) ;
 
-C. - 3 libres dont 2 au moins dans des services agréés de disciplines
-chirurgicales ;
-
-
-Ou
-
-A. - 3 dans un service agréé de chirurgie orthopédique et traumatologie.
-
-B. - 1 dans un service agréé de chirurgie viscérale.
-
-C. - 3 libres dont 2 au moins dans des services agréés de disciplines
-chirurgicales (cette option est exigée pour le remplacement d'un chirurgien
-généraliste à orientation chirurgie orthopédique).
+B. - 4 libres.
 
 (1) Semestres cliniques effectués dans des services agréés correspondant à la
 spécialité.
