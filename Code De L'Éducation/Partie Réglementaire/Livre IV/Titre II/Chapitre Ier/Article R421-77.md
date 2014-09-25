@@ -32,4 +32,5 @@ comptable adresse le compte financier et les pièces annexes nécessaires au
 directeur départemental des finances publiques. Sauf si le compte financier de
 l'établissement relève du 4° de l'article L. 211-2 du code des juridictions
 financières, il est transmis à la chambre régionale des comptes territorialement
-compétente.
+compétente au plus tard le 31 décembre qui suit la clôture de l'exercice auquel
+il se rapporte.

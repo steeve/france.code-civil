@@ -27,9 +27,10 @@ d'administration et de celles de l'agent comptable est transmis à la
 collectivité de rattachement et au directeur régional de l'alimentation, de
 l'agriculture et de la forêt dans les trente jours suivant son adoption.
 
-L'agent comptable adresse le compte financier susmentionné et les pièces annexes
-nécessaires, avant l'expiration du sixième mois suivant la clôture de
-l'exercice, au directeur départemental ou, le cas échéant, régional des finances
-publiques territorialement compétent qui, après l'avoir mis en état d'examen, le
-transmet à la chambre régionale des comptes avant l'expiration du dixième mois
-suivant la clôture de l'exercice.
+Avant l'expiration du sixième mois suivant la clôture de l'exercice, l'agent
+comptable adresse le compte financier et les pièces annexes nécessaires au
+directeur départemental des finances publiques. Sauf si le compte financier de
+l'établissement relève du 4° de l'article L. 211-2 du code des juridictions
+financières , il est transmis à la chambre régionale des comptes
+territorialement compétente au plus tard le 31 décembre qui suit la clôture de
+l'exercice auquel il se rapporte.
