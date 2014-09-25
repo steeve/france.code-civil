@@ -6,4 +6,4 @@ jugement d'ouverture de la procédure, a été portée à la connaissance du jug
 commis par le débiteur et a fait l'objet de l'information prévue à l'article L.
 645-8. Ne peuvent être effacées les créances des salariés, les créances
 alimentaires et les créances mentionnées aux 1° et 2° du I et au II de l'article
-L. 643-11. Les dettes effacées sont mentionnées dans l'ordonnance de clôture.
+L. 643-11. Les dettes effacées sont mentionnées dans le jugement de clôture.

@@ -17,7 +17,8 @@ La procédure ne peut être ouverte qu'à l'égard d'un débiteur :
 
 -dont les comptes ont été certifiés par un commissaire aux comptes ou établis
 par un expert-comptable et dont le nombre de salariés, le chiffre d'affaires ou
-le total de bilan sont supérieurs à des seuils fixés par décret ; ou
+le total de bilan sont supérieurs à l'un au moins des seuils fixés par décret ;
+ou
 
 -qui a établi des comptes consolidés conformément à l'article L. 233-16.
 

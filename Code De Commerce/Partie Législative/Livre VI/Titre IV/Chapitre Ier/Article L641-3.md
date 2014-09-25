@@ -10,10 +10,10 @@ en a été désigné à payer des créances antérieures au jugement, pour retir
 gage ou la chose légitimement retenue ou encore pour lever l'option d'achat d'un
 contrat de crédit-bail.
 
-Lorsque la liquidation judiciaire est ouverte ou prononcée à l'égard d'une
-personne morale, les dispositions prévues en matière d'arrêté et d'approbation
-des comptes annuels ne sont plus applicables sauf, le cas échéant, pendant le
-maintien provisoire de l'activité autorisé par le tribunal.
+Lorsque les dirigeants de la personne morale débitrice ne respectent pas leurs
+obligations en matière d'arrêté et d'approbation des comptes annuels, le
+liquidateur peut saisir le président du tribunal aux fins de désignation d'un
+mandataire ad hoc.
 
 Les créanciers déclarent leurs créances au liquidateur selon les modalités
 prévues aux articles L. 622-24 à L. 622-27 et L. 622-31 à L. 622-33. Si une

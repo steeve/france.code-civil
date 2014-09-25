@@ -17,4 +17,4 @@ alinéa, la procédure est poursuivie dans les limites prévues par l'article L.
 prononce la liquidation judiciaire et met fin à la période d'observation ainsi
 qu'à la mission de l'administrateur, sous réserve des dispositions de l'article
 L. 641-10. Les biens non compris dans le plan de cession sont alors cédés dans
-les conditions de la section 2 du chapitre II du livre IV.
+les conditions de la section 2 du chapitre II du titre IV.

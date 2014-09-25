@@ -4,6 +4,14 @@ I.-Les dispositions des articles L. 621-1 et L. 621-2 ainsi que celles de
 l'article L. 622-6 relatives aux obligations incombant au débiteur sont
 applicables à la procédure de liquidation judiciaire.
 
+Lorsque la situation du débiteur qui a déclaré être en état de cessation des
+paiements n'apparaît pas manifestement insusceptible de redressement, le
+tribunal invite celui-ci, en l'absence de demande subsidiaire aux fins
+d'ouverture d'une procédure de redressement judiciaire, à présenter ses
+observations sur l'existence des conditions de l'article L. 631-1. Il statue
+ensuite, dans la même décision, sur la demande de liquidation judiciaire et, le
+cas échéant, sur l'ouverture d'une procédure de redressement judiciaire.
+
 II.-Dans le jugement qui ouvre la liquidation judiciaire, le tribunal désigne le
 juge-commissaire. Il peut, en cas de nécessité, en désigner plusieurs.
 
@@ -40,6 +48,9 @@ l'actif du débiteur, un commissaire-priseur judiciaire, un huissier de justice,
 un notaire ou un courtier en marchandises assermenté, en considération des
 attributions respectives qui leur sont conférées par les dispositions qui leur
 sont applicables.
+
+Les mandataires de justice et les personnes désignées à l'alinéa précédent font
+connaître sans délai tout élément qui pourrait justifier leur remplacement.
 
 III.-Lorsque la liquidation judiciaire est prononcée au cours de la période
 d'observation d'une procédure de sauvegarde ou de redressement judiciaire, le

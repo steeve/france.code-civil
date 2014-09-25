@@ -13,5 +13,5 @@ commissaire-priseur judiciaire, un huissier de justice, un notaire ou un
 courtier en marchandises assermenté.
 
 Le tribunal est saisi par le débiteur, l'administrateur, le mandataire
-judiciaire ou le ministère public. Il peut également se saisir d'office. Il se
-prononce après avoir entendu ou dûment appelé le débiteur.
+judiciaire ou le ministère public. Il se prononce après avoir entendu ou dûment
+appelé le débiteur.

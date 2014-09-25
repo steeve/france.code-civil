@@ -32,3 +32,9 @@ toutes les décisions mentionnées ci-dessus.
 
 IV.-Pour le remboursement de ses avances, le Trésor public est garanti par le
 privilège des frais de justice.
+
+V.-Sur ordonnance du président du tribunal, lorsque la procédure de
+rétablissement professionnel prévue par le chapitre V du titre IV fait l'objet
+d'un jugement de clôture entraînant effacement des dettes, le Trésor public fait
+l'avance des droits, taxes, redevances ou émoluments perçus par les greffes des
+juridictions ainsi que des frais de signification et de publicité.
