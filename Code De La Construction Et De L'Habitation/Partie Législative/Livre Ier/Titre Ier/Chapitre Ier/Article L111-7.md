@@ -7,5 +7,6 @@ ouvertes au public et des lieux de travail doivent être tels que ces locaux et
 installations soient accessibles à tous, et notamment aux personnes handicapées,
 quel que soit le type de handicap, notamment physique, sensoriel, cognitif,
 mental ou psychique, dans les cas et selon les conditions déterminés aux
-articles L. 111-7-1 à L. 111-7-3. Ces dispositions ne sont pas obligatoires pour
-les propriétaires construisant ou améliorant un logement pour leur propre usage.
+articles L. 111-7-1 à L. 111-7-11 . Ces dispositions ne sont pas obligatoires
+pour les propriétaires construisant ou améliorant un logement pour leur propre
+usage.

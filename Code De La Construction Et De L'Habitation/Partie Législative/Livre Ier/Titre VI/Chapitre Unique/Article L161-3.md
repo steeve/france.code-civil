@@ -25,15 +25,23 @@ de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des
 chances, la participation et la citoyenneté des personnes handicapées " sont
 remplacés par les mots : " du 29 août 2008 " ;
 
-7° Le cinquième alinéa de l'article L. 111-7-3 est remplacé, jusqu'au 31
-décembre 2015, par un alinéa ainsi rédigé :
+7° Pour l'application des articles L. 111-7-1 et L. 111-7-3 et jusqu'au 31
+décembre 2015, les attributions dévolues à la commission départementale
+consultative de la protection civile, de la sécurité et de l'accessibilité sont
+attribuées à une commission de sécurité contre les risques d'incendie et de
+panique dans les établissements recevant du public dont le rôle, la composition
+et le fonctionnement sont définis par arrêté préfectoral ;
 
-" Ces dérogations sont accordées après avis conforme de la commission de
-sécurité contre les risques d'incendie et de panique dans les établissements
-recevant du public, dont le rôle, la composition et le fonctionnement sont
-définis par arrêté préfectoral. Ces dérogations s'accompagnent obligatoirement
-de mesures de substitution pour les établissements recevant du public et
-remplissant une mission de service public. " ;
+7° bis Pour l'application de l'article L. 111-7-5, les mots : " au 31 décembre
+2014 " sont remplacés par les mots : " au 28 août 2018 " ;
+
+7° ter Pour l'application de l'article L. 111-7-6, les mots : " dans les douze
+mois suivant la publication de l'ordonnance n° 2014-1090 du 26 septembre 2014 "
+sont remplacés par les mots : " avant le 28 février 2019 " ;
+
+7° quater Pour l'application de l'article L. 152-4, les mots : " à compter de la
+fin du douzième mois suivant la publication de l'ordonnance n° 2014-1090 du 26
+septembre 2014 " sont remplacés par les mots : " à compter du 28 février 2019 ".
 
 8° Il est ajouté, au premier alinéa de l'article L. 125-2, après les mots : " au
 plus tard le 31 décembre 1992 ", les mots : " ou, à Mayotte, au plus tard le 31
