@@ -7,6 +7,11 @@ passation comportant au moins :
 1° Le nom et l'adresse du pouvoir adjudicateur, l'objet et la valeur du marché,
 de l'accord-cadre ou du système d'acquisition dynamique ;
 
+1° bis Le cas échéant, s'il ne les a pas indiquées dans les documents de la
+consultation, les raisons pour lesquelles le pouvoir adjudicateur a exigé un
+chiffre d'affaires annuel minimal supérieur au plafond fixé au I de l'article 45
+;
+
 2° Le nom des candidats retenus et le motif de ce choix ;
 
 3° Le nom des candidats exclus et les motifs du rejet de leur candidature ;

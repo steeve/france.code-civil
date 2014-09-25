@@ -31,7 +31,9 @@ connus au moment de la fixation des prix du marché ; dans ce cas, seuls ces
 
 6° Lorsque les prestations prévues font appel principalement à des technologies
 innovantes ou évolutives ne permettant pas de déterminer préalablement un prix
-définitif.
+définitif ;
+
+7° Lorsque les prestations font l'objet d'un partenariat d'innovation.
 
 II. ― Les marchés conclus à prix provisoires précisent :
 

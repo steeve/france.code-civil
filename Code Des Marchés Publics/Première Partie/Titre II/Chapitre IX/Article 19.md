@@ -20,7 +20,10 @@ définitifs ;
 4° Lorsque les prix définitifs de prestations comparables ayant fait l'objet de
 marchés antérieurs sont remis en cause par le candidat pressenti ou par le
 pouvoir adjudicateur, sous réserve que ce dernier ne dispose pas des éléments
-techniques ou comptables lui permettant de négocier de nouveaux prix définitifs.
+techniques ou comptables lui permettant de négocier de nouveaux prix définitifs
+;
+
+5° Lorsque les prestations font l'objet d'un partenariat d'innovation.
 
 II.-Les marchés conclus à prix provisoires précisent :
 
