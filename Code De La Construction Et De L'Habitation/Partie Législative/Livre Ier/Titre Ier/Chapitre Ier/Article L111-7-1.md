@@ -3,7 +3,9 @@ Article L111-7-1
 Des décrets en Conseil d'Etat fixent les modalités relatives à l'accessibilité
 aux personnes handicapées prévue à l'article L. 111-7 que doivent respecter les
 bâtiments ou parties de bâtiments nouveaux. Ils précisent les modalités
-particulières applicables à la construction de maisons individuelles.
+particulières applicables à la construction de maisons individuelles et aux
+logements vendus en l'état futur d'achèvement et faisant l'objet de travaux
+modificatifs de l'acquéreur.
 
 Pour les logements destinés à l'occupation temporaire ou saisonnière dont la
 gestion et l'entretien sont organisés et assurés de façon permanente, un décret
