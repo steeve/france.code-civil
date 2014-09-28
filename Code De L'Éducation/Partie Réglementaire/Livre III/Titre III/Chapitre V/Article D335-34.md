@@ -1,34 +1,23 @@
 Article D335-34
 ----
-Chaque commission professionnelle consultative comprend :
+Le recteur d'académie et le président du conseil régional proposent
+conjointement à la labellisation des projets de campus des métiers et des
+qualifications, après consultation du conseil académique de l'éducation
+nationale et du comité régional de l'emploi, de la formation et de l'orientation
+professionnelles.
 
-1° Des représentants, en nombre égal, des employeurs et des salariés proposés
-par les organisations syndicales les plus représentatives ;
+Le label " campus des métiers et des qualifications " est attribué après
+l'examen des projets de campus par un groupe d'experts et l'avis du conseil
+national éducation économie, au regard des dispositions de l'article D. 335-33
+et du projet pédagogique, liant formation, recherche et développement
+économique.
 
-2° Des représentants des pouvoirs publics désignés par les ministres intéressés
-dont, en tout état de cause, un représentant du ministre chargé du travail et de
-l'emploi et un représentant de chacun des ministres compétents en raison de la
-nature des formations dont la commission a à connaître ainsi qu'un représentant
-du Centre d'études et de recherches sur les qualifications ;
+Il est délivré, pour une durée de quatre ans, par arrêté conjoint des ministres
+chargés de l'éducation nationale, de la formation professionnelle, de
+l'enseignement supérieur et de l'économie. Cet arrêté fixe la liste des campus
+des métiers et des qualifications et précise l'intitulé de chacun. Cet intitulé
+doit comporter le secteur d'activité concerné ainsi que, le cas échéant, la
+mention de la dimension internationale des formations.
 
-3° Des personnalités qualifiées appartenant soit au secteur public, soit au
-secteur privé, choisies en raison de leurs activités professionnelles ou de
-leurs travaux, parmi lesquelles des représentants des personnels enseignants
-ainsi que des représentants des chambres de commerce et d'industrie
-territoriales, des chambres de métiers et de l'artisanat de région ou des
-chambres d'agriculture.
-
-Chaque commission peut instituer, pour l'examen de certains problèmes, des
-sous-commissions ou des groupes de travail, permanents ou temporaires, auxquels
-elle peut appeler, en sus de ceux de ses membres qui auront été désignés pour en
-faire partie, toute personne dont la présence paraîtrait utile.
-
-Lorsque les questions à traiter relèvent de plusieurs branches d'activités
-professionnelles définies à l'article D. 335-33, il peut être constitué un
-groupe de travail interprofessionnel.
-
-Les groupes de travail interprofessionnels peuvent recevoir des commissions
-consultatives professionnelles délégation pour soumettre directement au ministre
-des propositions ou avis sur les questions dont l'étude leur est confiée. En
-tout état de cause, il est rendu compte de leurs travaux à chacune des
-commissions professionnelles consultatives concernées.
+Le label peut être renouvelé dans les conditions définies aux alinéas
+précédents.

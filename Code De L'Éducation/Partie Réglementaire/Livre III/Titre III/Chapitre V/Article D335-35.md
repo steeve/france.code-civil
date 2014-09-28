@@ -1,18 +1,16 @@
 Article D335-35
 ----
-Les commissions professionnelles consultatives formulent, à partir de l'étude
-des qualifications professionnelles, des avis et propositions :
-
-1° Sur la définition, le contenu et l'évolution des formations dans les branches
-professionnelles relevant de leur compétence ;
-
-2° Sur le développement des moyens de formation en fonction de l'évolution des
-débouchés professionnels et des besoins de la branche d'activité considérée ;
-
-3° Sur les questions d'ordre technique et pédagogique ayant trait à
-l'élaboration et à l'application des programmes, des méthodes de formation et à
-leur sanction.
-
-Les commissions peuvent être saisies de toute question générale ou particulière
-touchant aux enseignements technologiques et aux formations relevant du
-ministère auprès duquel elles sont instituées.
+Le groupe d'experts est composé de deux présidents de conseil régional ou leur
+représentant, deux recteurs d'académie ou leur représentant, un représentant des
+directions régionales des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi, un représentant de l'Association des régions de France,
+deux inspecteurs généraux de l'éducation nationale, un inspecteur général de
+l'administration de l'éducation nationale et de la recherche, deux représentants
+de la direction générale de l'enseignement scolaire, deux représentants de la
+direction générale pour l'enseignement supérieur et l'insertion professionnelle,
+un représentant de la direction générale pour la recherche et l'innovation, deux
+représentants de la direction générale de la compétitivité de l'industrie et des
+services, deux représentants de la délégation générale à l'emploi et à la
+formation professionnelle. Le président est désigné par les ministres chargés de
+l'éducation nationale, de la formation professionnelle, de l'enseignement
+supérieur et de l'économie.
