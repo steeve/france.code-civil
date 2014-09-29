@@ -27,17 +27,17 @@ DURÉE DE LA PÉRIODE 2
 
 100 %
 
-7 ans
+11 ans
 
-18 ans
+14 ans
 
 3
 
 100 %
 
-5 ans
+8 ans
 
-15 ans
+14 ans
 
 4
 
@@ -45,7 +45,7 @@ DURÉE DE LA PÉRIODE 2
 
 16 ans
 
--
+―
 
 5
 
@@ -53,7 +53,7 @@ DURÉE DE LA PÉRIODE 2
 
 12 ans
 
--
+―
 
 L'appartenance à l'une des tranches mentionnées à l'article L. 31-10-12 est
 déterminée par la correspondance entre les limites de tranche et le montant
