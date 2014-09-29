@@ -7,8 +7,8 @@ l'acquisition de logements neufs faisant l'objet d'un contrat de
 location-accession régi par la loi n° 84-595 du 12 juillet 1984 définissant la
 location-accession à la propriété et destinés à être occupés à titre de
 résidence principale par des personnes dont les revenus, à la date de signature
-du contrat préliminaire ou, à défaut, du contrat de location-accession, sont
-inférieurs aux plafonds de ressources fixés à l'article R. 318-29.
+du contrat préliminaire ou, à défaut, du contrat de location-accession,
+n'excèdent pas un plafond fixé par arrêté.
 
 Les prêts visés à l'alinéa précédent peuvent faire l'objet d'une convention de
 refinancement conclue sous l'égide de l'Etat entre les établissements de crédits

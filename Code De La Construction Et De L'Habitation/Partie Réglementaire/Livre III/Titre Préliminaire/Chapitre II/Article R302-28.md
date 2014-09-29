@@ -1,36 +1,17 @@
 Article R302-28
 ----
-L'inventaire prévu à l'article L. 302-6 est établi pour chaque bâtiment par la
-personne morale propriétaire, à défaut par la personne morale gestionnaire. Il
-comporte les informations suivantes :
+Les plafonds de prix d'acquisition prévus au 3° de l'article L. 302-16 sont
+fixés, par mètre carré et hors taxe, à 5 145 euros en zone A bis, 3 822 euros
+dans le reste de la zone A, 3 077 euros en zone B1, et 2 674 euros en zones B2
+et C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+modalités prévues au premier alinéa du a de l'article 2 duodecies de l'annexe
+III au code général des impôts.
 
-A. - Données générales concernant :
+Aux plafonds de prix définis à l'alinéa précédent, il est fait application du
+coefficient multiplicateur défini aux deuxième à quatrième alinéas du 1° du I de
+l'article 2 terdecies D susmentionné.
 
-a) Le propriétaire : nom ou raison sociale, dénomination usuelle, statut, numéro
-SIRET, adresse ;
-
-b) Le gestionnaire, s'il diffère du propriétaire : nom ou raison sociale,
-dénomination usuelle, statut, numéro SIRET, adresse ;
-
-c) Le bâtiment : adresse, nom du programme ou du bâtiment, date de première mise
-en location, mode de financement ;
-
-d) La convention, s'il y a lieu : numéro de la convention, date de la
-publication au fichier immobilier ou de l'inscription au livre foncier, année
-d'expiration de la convention.
-
-B. - Nombre de logements locatifs sociaux, au sens de l'article L. 302-5, dans
-le bâtiment, pour chacune des catégories suivantes :
-
-1° Logements appartenant aux organismes d'habitation à loyer modéré et
-construits ou acquis et améliorés avant le 5 janvier 1977 ;
-
-2° Autres logements conventionnés ;
-
-3° Logements mentionnés au 3° de l'article L. 302-5 ;
-
-4° Logements ou équivalents logement des lits et places mentionnés au 4° de
-l'article L. 302-5, le nombre de logements équivalents étant obtenu en retenant
-la partie entière issue du calcul effectué à raison d'un logement pour trois
-lits en logements-foyer ou pour trois places en centre d'hébergement et de
-réinsertion sociale.
+Pour l'application du présent article, la surface à prendre en compte s'entend
+de celle prévue au troisième alinéa du a de l'article 2 duodecies de l'annexe
+III au code général des impôts et, pour les logements situés en outre-mer, de
+celle prévue au III de l'article 46 AG terdecies du même code.

@@ -1,13 +1,12 @@
 Article R302-27
 ----
-Les logements sociaux en accession à la propriété prévus à l'article L. 302-5
-sont :
+Les plafonds de ressources des personnes physiques prévus au 2° de l'article L.
+302-16 sont égaux à ceux fixés au a du 2 du I de l'article 2 terdecies D de
+l'annexe III au code général des impôts. Pour les logements situés en zone C,
+les plafonds sont égaux à ceux définis par cet article pour la zone B2.
 
-- les logements achevés depuis moins de dix ans et occupés par leur propriétaire
-si celui-ci a financé ce logement dans les conditions prévues aux articles R.
-331-32 à R. 331-62, sous réserve que leur nombre soit au moins égal à cinq par
-opération à la date du permis de construire ;
+Toutefois, pour les logements situés en outre-mer, ces plafonds sont égaux à
+ceux fixés au 2 du I de l'article 2 terdecies F du même code.
 
-- les logements ayant bénéficié, depuis moins de quinze ans, de l'avance
-remboursable ne portant pas intérêt prévue à l'article R. 317-1 en complément
-d'un prêt garanti par l'Etat en application de l'article R. 312-3-1.
+Les ressources des personnes physiques sont appréciées selon les modalités
+prévues au b du 2 du I de l'article 2 terdecies D.
