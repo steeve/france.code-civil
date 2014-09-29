@@ -2,8 +2,7 @@ Article R470-1-1
 ----
 Sont désignés comme représentants du ministre chargé de l'économie devant les
 juridictions civiles et pénales de première instance et d'appel, pour
-l'application de l'article L. 470-5 du code de commerce et dans l'exercice de
-leurs attributions respectives :
+l'application de l'article L. 470-5 du code de commerce :
 
 1° Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes et, pour ce qui concerne les affaires dont ont été

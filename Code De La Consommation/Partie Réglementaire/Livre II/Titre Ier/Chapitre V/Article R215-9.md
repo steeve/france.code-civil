@@ -1,19 +1,13 @@
 Article R215-9
 ----
-Aussitôt après avoir scellé les échantillons, l'agent verbalisateur, s'il est en
-présence du propriétaire ou détenteur de la marchandise, l'invite à déclarer la
-valeur des échantillons prélevés. Le propriétaire ou le détenteur pourra
-justifier cette valeur à l'aide de ses documents comptables.
+Lors du prélèvement, un récépissé est remis au propriétaire ou détenteur de la
+marchandise. Il fait mention de la nature et des quantités d'échantillons
+prélevés.
 
-Le procès-verbal mentionne la valeur déclarée par le propriétaire ou le
-détenteur et, dans le cas où l'agent verbalisateur estime que cette valeur est
-exagérée, l'estimation faite par cet agent.
+En cas de prélèvement en cours de route, le récépissé est remis au représentant
+de l'entreprise de transport.
 
-Un récépissé est remis au propriétaire ou détenteur de la marchandise ; il y est
-fait mention de la nature et des quantités d'échantillons prélevés, de la valeur
-déclarée et, dans le cas prévu à l'alinéa ci-dessus, de l'estimation faite par
-l'agent.
-
-En cas de prélèvement en cours de route, le représentant de l'entreprise de
-transport reçoit pour sa décharge un récépissé indiquant la nature et la
-quantité des marchandises prélevées ainsi que la valeur estimée par l'agent.
+Les échantillons dont la non-conformité à la règlementation n'a pas été établie
+sont remboursés d'après leur valeur le jour du prélèvement toutes taxes
+comprises. Toutefois, si le propriétaire déclare renoncer au remboursement, il
+en est fait mention dans le procès-verbal de prélèvement.

@@ -14,6 +14,6 @@ noms et adresses des expéditeurs et destinataires ;
 
 4° Le numéro d'ordre du prélèvement ;
 
-5° Le numéro d'identification attribué par le service administratif ;
+5° Abrogé ;
 
 6° La signature de l'agent verbalisateur.

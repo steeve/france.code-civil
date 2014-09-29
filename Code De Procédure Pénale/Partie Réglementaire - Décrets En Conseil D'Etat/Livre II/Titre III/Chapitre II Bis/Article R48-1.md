@@ -135,7 +135,7 @@ h) L'article R. 215-8 du code rural et de la pêche maritime ;
 i) L'article R. 215-2 du code rural et de la pêche maritime ;
 
 5° Contraventions réprimées par le code des postes et des communications
-électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
+électroniques prévues par les articlesR. 10-2, R. 10-4 et R. 10-9.
 
 6° Contraventions réprimées par le code de la santé publique prévues à l'article
 R. 3512-1, aux 1° et 2° de l'article R. 3512-2 et à l'article R. 3512-3 ;
