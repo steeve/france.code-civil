@@ -21,7 +21,7 @@ e) La mer ;
 3° Le directeur général de l'Office national de la chasse et de la faune sauvage
 ;
 
-4° Le directeur du Muséum national d'histoire naturelle ;
+4° Le président du Muséum national d'histoire naturelle ;
 
 5° Le directeur général du Centre national de la recherche scientifique ;
 
