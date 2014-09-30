@@ -48,8 +48,7 @@ peuvent par convention confier à l'agence d'autres missions d'intérêt génér
 compatibles avec son objet.
 
 L'agence comprend une commission chargée d'immatriculer les personnes physiques
-ou morales mentionnées à l'article L. 211-1 et les exploitants de voitures de
-tourisme avec chauffeur visés à l'article L. 231-1.
+ou morales mentionnées à l'article L. 211-1.
 
 Elle comprend également une commission de l'hébergement touristique marchand.
 Les missions, les conditions de fonctionnement et les modalités de participation

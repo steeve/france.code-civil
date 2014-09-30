@@ -1,7 +1,7 @@
 Article L211-18
 ----
 I.-Les personnes physiques ou morales mentionnées à l'article L. 211-1 sont
-immatriculées au registre prévu au a de l'article L. 141-3.
+immatriculées au registre mentionné au premier alinéa de l'article L. 141-3.
 
 II.-Afin d'être immatriculées, ces personnes doivent :
 
