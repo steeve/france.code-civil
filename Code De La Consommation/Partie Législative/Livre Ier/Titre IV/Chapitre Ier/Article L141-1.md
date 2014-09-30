@@ -70,6 +70,8 @@ de navigation intérieure et modifiant le règlement (CE) n° 2006/2004 ;
 février 2011, concernant les droits des passagers dans le transport par autobus
 et autocar et modifiant le règlement (CE) n° 2006/2004 ;
 
+8° bis Des articles L. 3121-11-2 et L. 3122-2 du code des transports ;
+
 9° Des articles L. 311-4, L. 311-6, L. 311-7, de l'avant-dernier alinéa de
 l'article L. 313-1-2, en ce qui concerne le contrat et le livret d'accueil, et
 de l'article L. 347-1 du code de l'action sociale et des familles ;

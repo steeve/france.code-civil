@@ -1,10 +1,11 @@
-Article L3124-7
+Article L3114-4
 ----
-I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de
-contrevenir aux articles L. 3122-3 et L. 3122-5.
+I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour un
+conducteur de véhicule de moins de dix places exécutant des services
+occasionnels, de contrevenir au 1° du II de l'article L. 3120-2.
 
-II.-Les personnes physiques reconnues coupables de l'infraction prévue au I
-encourent également les peines complémentaires suivantes :
+II.-Les personnes physiques reconnues coupables de l'infraction mentionnée au I
+du présent article encourent également les peines complémentaires suivantes :
 
 1° La suspension, pour une durée maximale de cinq ans, du permis de conduire ;
 

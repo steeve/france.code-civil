@@ -1,7 +1,6 @@
 Article L3124-6
 ----
-En cas de non-respect des dispositions de l'article L. 3122-3, l'autorité
-administrative peut suspendre l'autorisation d'exploiter une voiture de petite
-remise pour une durée qui ne peut excéder six mois. Elle peut aussi ordonner la
-mise en fourrière, aux frais de son propriétaire, de toute voiture de petite
-remise irrégulièrement exploitée jusqu'à décision de la juridiction saisie.
+En cas de violation, par un conducteur de voitures de transport, de la
+réglementation applicable à la profession, l'autorité administrative peut lui
+donner un avertissement ou procéder au retrait, temporaire ou définitif, de sa
+carte professionnelle.

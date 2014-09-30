@@ -1,15 +1,14 @@
 Article L3121-2
 ----
-Le titulaire de l'autorisation de stationnement prévue par l'article L. 3121-1 a
-la faculté de présenter à titre onéreux un successeur à l'autorité
-administrative compétente pour délivrer celle-ci. Cette faculté est subordonnée
-à l'exploitation effective et continue de l'autorisation de stationnement
-pendant une durée de cinq ans à compter de sa date de délivrance. Toutefois,
-cette durée est de quinze ans dans les cas suivants : 1° Pour les titulaires
-d'autorisations nouvelles délivrées postérieurement au 21 janvier 1995 ; 2° Pour
-les titulaires d'autorisations délivrées antérieurement au 21 janvier 1995 et
-qui, en vertu des textes antérieurs, ne disposaient pas de la faculté de
-présenter à titre onéreux un successeur. Dans ces deux cas, une fois la première
-mutation intervenue, la faculté de présenter à titre onéreux un successeur est
-constituée dans les conditions de droit commun, après une exploitation effective
-et continue de cinq ans.
+L'autorisation de stationnement prévue à l'article L. 3121-1 et délivrée
+postérieurement à la promulgation de la loi n° 2014-1104 du 1er octobre 2014
+relative aux taxis et aux voitures de transport avec chauffeur est incessible et
+a une durée de validité de cinq ans, renouvelable dans des conditions fixées par
+décret.
+
+Toutefois, le titulaire d'une autorisation de stationnement délivrée avant la
+promulgation de la même loi a la faculté de présenter à titre onéreux un
+successeur à l'autorité administrative compétente pour délivrer l'autorisation.
+Cette faculté est subordonnée à l'exploitation effective et continue de
+l'autorisation de stationnement pendant une durée de quinze ans à compter de sa
+date de délivrance ou de cinq ans à compter de la date de la première mutation.
