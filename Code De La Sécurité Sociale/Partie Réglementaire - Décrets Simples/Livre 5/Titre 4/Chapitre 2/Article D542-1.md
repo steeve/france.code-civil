@@ -7,7 +7,10 @@ célébré.
 La durée pendant laquelle l'allocation est due est fixée à cinq ans.
 
 Le logement mis à la disposition d'un requérant par un des ascendants ou de ses
-descendants n'ouvre pas droit au bénéfice de l'allocation.
+descendants n'ouvre pas droit au bénéfice de l'allocation. Les seuils mentionnés
+au dernier alinéa de l'article L. 542-2 sont fixés à 10 % pour les parts de
+propriété et à 10 % pour les parts d'usufruit, sans que l'ensemble de ces parts
+ne puisse égaler ou dépasser 10 % au total.
 
 Pour l'application du premier alinéa de l'article L. 542-2 du code de la
 sécurité sociale, la notion de résidence principale doit être entendue au sens
