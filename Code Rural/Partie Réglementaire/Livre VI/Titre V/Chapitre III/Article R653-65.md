@@ -16,7 +16,8 @@ fourniture du service ;
 fournir un service de qualité au meilleur rapport qualité-prix sur l'ensemble de
 la zone géographique couverte, à toute personne qui en fait la demande ;
 
-4° La zone géographique couverte ;
+4° La zone géographique couverte et le nombre d'opérateurs pouvant y être agréés
+;
 
 5° La durée de l'agrément ;
 

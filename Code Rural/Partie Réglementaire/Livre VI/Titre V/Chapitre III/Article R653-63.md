@@ -16,4 +16,6 @@ Les filières de production mentionnées au premier alinéa sont les suivantes :
 
 4° Production de viande bovine ;
 
-5° Production de viande ovine.
+5° Production de viande ovine ;
+
+6° Production de viande caprine.
