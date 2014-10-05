@@ -17,8 +17,7 @@ catégorie 1, à la suite d'une exposition unique ou après une exposition rép�
 toxique pour la reproduction de catégorie 1A ou 1B ;
 
 4° Soit cancérogène de catégorie 2, mutagène de catégorie 2 ou toxique pour la
-reproduction de catégorie 2 et portée sur la liste des substances prioritaires
-et des substances dangereuses définies en application de l'article R. 212-9 ; ;
+reproduction de catégorie 2 ;
 
 5° Soit en raison de ses effets sur ou via l'allaitement ;
 

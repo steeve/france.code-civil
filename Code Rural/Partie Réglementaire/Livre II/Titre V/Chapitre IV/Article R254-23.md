@@ -35,9 +35,9 @@ défaut, en litres ou en kilogrammes ;
 montant de redevance mentionnée au II de l'article R. 213-48-13 du code de
 l'environnement ;
 
-2° En outre, pour les produits dont l'autorisation ne porte pas la mention "
-emploi autorisé dans les jardins ", doivent également figurer sur le registre
-les indications suivantes :
+2° En outre, pour les produits vendus par des distributeurs exerçant l'activité
+mentionnée au 1° de l'article R. 254-15, doivent également figurer sur le
+registre les indications suivantes :
 
 -le numéro de facture et la date de facturation, s'il y a lieu ;
 
@@ -53,6 +53,10 @@ détermine ;
 semences pour gazon, la mention " gazon " ;
 
 -la quantité vendue, en quintal ou en nombre de milliers de grains ;
+
+-le numéro de facture ou la date de facturation s'il y a lieu ;
+
+-le code postal de l'utilisateur final ;
 
 -pour chaque produit utilisé pour traiter cette semence :
 
@@ -71,13 +75,14 @@ d) Le montant de la redevance correspondant à la quantité de semences vendues,
 établi à partir du montant mentionné au c du 2° du III de l'article R. 213-48-13
 du code de l'environnement.
 
-III.-Le bilan mentionné à l'article R. 254-26 est établi pour l'année civile
-précédente ou, en cas de changement de taux en cours d'année, d'une part, pour
-la période comprise entre le 1er janvier et la date de ce changement et, d'autre
-part, entre cette même date et le 31 décembre. La date de la vente à
-l'utilisateur final est celle de la facturation à celui-ci. Pour les produits
-portant la mention " emploi autorisé dans les jardins ", cette date est celle de
-l'encaissement du prix.
+III.-Un bilan est établi pour l'année civile précédente ou, en cas de changement
+de taux en cours d'année, d'une part, pour la période comprise entre le 1er
+janvier et la date de ce changement et, d'autre part, entre cette même date et
+le 31 décembre. La date de la vente par des distributeurs exerçant l'activité
+mentionnée au 1° de l'article R. 254-15, ou par des distributeurs de semences
+traitées est celle de la facturation à l'utilisateur final. La date de la vente
+par des distributeurs exerçant l'activité mentionnée au 2° de l'article R.
+254-15 est celle de l'encaissement du prix.
 
 Ce bilan comporte, pour chaque produit phytopharmaceutique mentionné dans le
 registre, et pour chaque établissement :
