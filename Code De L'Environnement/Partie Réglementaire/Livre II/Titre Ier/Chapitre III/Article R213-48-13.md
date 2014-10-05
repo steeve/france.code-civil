@@ -18,7 +18,7 @@ toxique pour la reproduction de catégorie 1A ou 1B ;
 
 4° Soit cancérogène de catégorie 2, mutagène de catégorie 2 ou toxique pour la
 reproduction de catégorie 2 et portée sur la liste des substances prioritaires
-et des substances dangereuses définies en application de l'article R. 212-9 ;
+et des substances dangereuses définies en application de l'article R. 212-9 ; ;
 
 5° Soit en raison de ses effets sur ou via l'allaitement ;
 
@@ -114,33 +114,10 @@ prévues au II ;
 de ne pas communiquer à une agence de l'eau ou à un office de l'eau ou à un
 distributeur de semences traitées les informations prévues au III.
 
-V.-Pour le calcul de la fraction du produit annuel de la redevance affectée à
-l'Office national de l'eau et des milieux aquatiques en application du V de
-l'article L. 213-10-8 :
-
-1° Le montant dû au titre de l'année précédente s'entend du montant des ordres
-ou titres de recettes émis, à raison des ventes réalisées au cours de la période
-du 1er janvier au 31 décembre de l'année précédente. Ce montant est arrêté au 31
-mai de l'année en cours, puis, à la même date, chacune des trois années
-suivantes, pour tenir compte des rectifications opérées et des remises accordées
-en application des articles L. 213-11-3 à L. 213-11-6 et L. 213-11-11 sur la
-redevance due au titre de l'année précédant cette date ;
-
-2° Le montant de l'acompte versé au titre de l'année en cours, fixé en
-application de l'article L. 213-11-12-1, est arrêté au 31 mai de l'année en
-cours ;
-
-3° Le montant de la redevance perçue à raison des ventes réalisées au cours de
-la période du 1er janvier au 31 décembre 2008 s'entend de celui des ordres ou
-titres de recettes émis à raison des ventes réalisées pour ladite période. Ce
-montant est arrêté au 31 mai 2010 et au 31 mai 2011, pour tenir compte des
-rectifications opérées et des remises accordées en application des articles L.
-213-11-3 à L. 213-11-6 et L. 213-11-11 sur la redevance due au titre de l'année
-2008 à ces dates. Il est définitivement arrêté au 31 mai 2012, pour tenir compte
-des rectifications opérées et des remises accordées sur la redevance due au
-titre de l'année 2008 à la date du 31 décembre 2011 ;
-
-4° La fraction du produit annuel de la redevance versée à l'Office national de
-l'eau et des milieux aquatiques au 1er septembre est calculée en déduisant du
-montant mentionné au 1° l'acompte versé au titre de l'année précédente,
-conformément aux dispositions du 2°.
+V.-Le montant du prélèvement annuel mentionné au V de l'article L. 213-10-8
+réalisé au profit de l'Office national de l'eau et des milieux aquatiques afin
+de mettre en œuvre le programme national visant à la réduction de l'usage des
+pesticides dans l'agriculture et à la maîtrise des risques y afférents, fixé par
+arrêté conjoint des ministres chargés de l'environnement, de l'agriculture et du
+budget, est le montant avant application de la déduction des frais d'assiette et
+de recouvrement mentionnés à l'article R. 213-48-49.
