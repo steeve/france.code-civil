@@ -1,26 +1,20 @@
 Article R*423-12
 ----
 Le conseil d'administration de l'office délibère sur l'affectation du résultat
-excédentaire de l'exercice clos, à l'exclusion du résultat afférent aux
-activités exercées pour le compte de tiers.
+de l'exercice clos.
 
-Le résultat excédentaire, après déduction des plus-values nettes réalisées lors
-de la cession des biens immobiliers mentionnés à l'article L. 443-13 qui sont
-affectées sur un compte spécifique pour leur montant total, est affecté par
-ordre de priorité :
+Avant d'être affecté, le résultat est retraité des plus ou moins-values nettes
+réalisées lors de la cession des biens immobiliers, dans les conditions fixées
+dans les instructions mentionnées au premier alinéa de l'article R. * 423-7.
 
-a) Au compte de report à nouveau, dans la limite du solde débiteur de ce compte
-;
+Le résultat excédentaire est affecté par ordre de priorité :
 
-b) Sur des comptes de réserves spécifiques, pour la part du résultat
-excédentaire affectée au financement des investissements ;
+-à l'apurement du compte de report à nouveau déficitaire, dans la limite du
+solde débiteur de ce compte ;
 
-c) Au compte de report à nouveau.
+-à un compte de réserves, notamment pour la part du résultat affectée au
+financement des investissements ;
 
-En cas de résultat déficitaire, le déficit est imputé sur le compte de report à
-nouveau.
+-au compte de report à nouveau créditeur.
 
-Le résultat de clôture de chaque activité exercée pour le compte d'un tiers est
-arrêté par délibération du conseil d'administration de l'office et est repris au
-cours de l'exercice suivant au compte de résultat prévisionnel de l'état
-prévisionnel annexe correspondant.
+Le résultat déficitaire est imputé au compte de report à nouveau.

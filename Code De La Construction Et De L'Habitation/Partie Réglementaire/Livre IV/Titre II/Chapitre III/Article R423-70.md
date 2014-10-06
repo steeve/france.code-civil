@@ -1,17 +1,21 @@
 Article R423-70
 ----
-Les dotations de l'exercice aux comptes d'amortissement des constructions qui
-n'ont pas été données en location-attribution ou en location-vente doivent
-permettre l'amortissement intégral de la valeur des constructions, terrains
-exclus, dans une période limitée à la durée de remboursement des emprunts à long
-terme contractés pour la construction des immeubles en cause.
+Lors de l'arrêté de leurs comptes annuels, les sociétés d'habitations à loyer
+modéré qui disposent d'un patrimoine locatif calculent un ratio correspondant à
+l'autofinancement net tel que défini à l'article R. * 423-1-4, rapporté à la
+somme de leurs produits financiers et de leurs produits d'activité à l'exclusion
+de la récupération des charges locatives, et font figurer le montant ainsi
+établi dans le rapport de gestion. Un arrêté conjoint des ministres chargés du
+logement et des finances précise le mode de calcul du ratio et fixe des taux de
+référence exprimés en pourcentage.
 
-Si, en cours d'amortissement, il apparaît, en raison de l'état des
-constructions, que les amortissements effectués ne sont pas suffisants, il est
-procédé à des amortissements supplémentaires.
+Lorsque, au titre d'un exercice donné, le ratio mentionné au premier alinéa est
+inférieur à l'un des taux de référence précités, le conseil d'administration ou
+le directoire délibère sur les causes de cette situation et, s'il y a lieu, sur
+des mesures internes à mettre en œuvre pour redresser la situation financière de
+la société de manière pérenne. Cette délibération est intégrée dans le rapport
+prévu à l'article L. 225-100 du code de commerce.
 
-La faculté donnée par l'article 2 de la loi n° 47-1686 du 3 septembre 1947 de
-différer pendant cinq ans l'amortissement des emprunts consentis par l'Etat au
-titre de la législation sur les habitations à loyer modéré ne saurait être
-interprétée comme dispensant les sociétés de doter pendant cette période les
-comptes d'amortissement des constructions correspondantes.
+Il en va de même lorsque la moyenne sur trois années consécutives du ratio
+mentionné au premier alinéa est inférieure à l'un des taux de référence fixés
+par l'arrêté précité.

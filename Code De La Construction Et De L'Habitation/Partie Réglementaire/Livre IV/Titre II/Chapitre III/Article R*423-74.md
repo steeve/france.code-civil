@@ -7,5 +7,4 @@ des dispositions applicables dans les Etats membres de la Communauté européenn
 ou les autres Etats parties à l'accord sur l'Espace économique européen.
 
 Elles peuvent également effectuer des dépôts sur un compte à terme ouvert dans
-les mêmes conditions ou sur un premier livret de la Caisse nationale d'épargne
-ou des caisses d'épargne et de prévoyance.
+les mêmes conditions ou sur un livret A.

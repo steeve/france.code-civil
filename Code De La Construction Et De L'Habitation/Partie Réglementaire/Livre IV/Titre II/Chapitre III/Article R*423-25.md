@@ -25,8 +25,8 @@ l'une au moins des conditions suivantes est remplie :
 
 a) La prévision actualisée de la capacité d'autofinancement est inférieure à la
 dernière prévision approuvée par le conseil d'administration dans des
-pourcentages définis par arrêté conjoint des ministres chargés du logement, du
-budget et des collectivités territoriales ;
+pourcentages définis par arrêté conjoint des ministres chargés du logement, des
+finances et des collectivités territoriales ;
 
 b) La prévision actualisée du prélèvement sur le fonds de roulement excède le
 fonds de roulement disponible défini dans les instructions homologuées
