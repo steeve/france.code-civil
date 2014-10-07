@@ -10,13 +10,12 @@ celles prévues à l'article R. 861-16, à l'exception :
 
 2° Du deuxième alinéa du II.
 
-Sauf dans le cas prévu à l'article R. 863-4, le renouvellement du droit à
-déduction prévu à l'article L. 863-2 est demandé au moins deux mois et au plus
-quatre mois avant l'échéance de la période définie au premier alinéa de
-l'article R. 863-3. Dans le cas où le bénéficiaire n'a plus en sa possession
-l'attestation prévue au deuxième alinéa de l'article R. 863-3, il fournit les
-nom et adresse du ou des organismes auprès desquels il a été fait application de
-son droit à déduction.
+Le renouvellement du droit à déduction prévu à l'article L. 863-2 est demandé au
+moins deux mois et au plus quatre mois avant l'échéance de la période définie au
+premier alinéa de l'article R. 863-3. Dans le cas où le bénéficiaire n'a plus en
+sa possession l'attestation prévue au deuxième alinéa de l'article R. 863-3, il
+fournit les nom et adresse du ou des organismes auprès desquels il a été fait
+application de son droit à déduction.
 
 La Caisse d'assurance maladie délivre une attestation de droit à déduction prévu
 à l'article L. 863-2 à chaque bénéficiaire âgé de seize ans révolus. En cas de

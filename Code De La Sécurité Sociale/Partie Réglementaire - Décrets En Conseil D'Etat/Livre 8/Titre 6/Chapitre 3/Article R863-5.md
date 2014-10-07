@@ -8,14 +8,9 @@ au sens de l'article L. 861-1 :
 composant le foyer, au moins deux mois et au plus quatre mois avant l'échéance
 du droit à déduction ;
 
-2° Une appréciation anticipée des ressources ne peut être demandée, en
-application de l'article R. 863-4, que si tous ces contrats ont pris fin ;
-
-3° Si l'une des personnes n'est plus couverte, pour des raisons indépendantes de
+2° Si l'une des personnes n'est plus couverte, pour des raisons indépendantes de
 sa volonté, par son contrat, sans que tous les autres contrats aient pris fin et
 alors que la période du droit à déduction n'est pas expirée, l'organisme auprès
-duquel le contrat a été souscrit lui remet, à sa demande, l'attestation
-mentionnée au dernier alinéa de l'article R. 863-1 et une attestation indiquant
-la durée pendant laquelle elle a exercé son droit à déduction. L'intéressé remet
-ces deux attestations à l'organisme auprès duquel il souscrit un nouveau
-contrat.
+duquel le contrat a été souscrit lui remet, les attestations prévues par
+l'article R. 863-4. L'intéressé remet ces deux attestations à l'organisme auprès
+duquel il souscrit un nouveau contrat.
