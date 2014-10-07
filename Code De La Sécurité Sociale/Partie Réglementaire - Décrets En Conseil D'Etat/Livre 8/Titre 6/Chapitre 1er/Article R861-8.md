@@ -2,7 +2,7 @@ Article R861-8
 ----
 Les ressources prises en compte sont celles qui ont été effectivement perçues au
 cours de la période des douze mois civils précédant la demande, sous réserve des
-dispositions des articles R. 861-11, R. 861-14 et R. 861-15.
+dispositions des articles R. 861-14 et R. 861-15.
 
 Les rémunérations d'activité perçues par toute personne mentionnée à l'article
 R. 861-2 pendant la période de référence sont affectées d'un abattement de 30 %

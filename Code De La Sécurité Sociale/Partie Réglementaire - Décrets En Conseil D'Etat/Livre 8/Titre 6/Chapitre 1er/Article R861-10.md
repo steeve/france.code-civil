@@ -3,7 +3,8 @@ Article R861-10
 Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 1° L'allocation d'éducation de l'enfant handicapé et ses compléments institués
-par les articles L. 541-1 et L. 755-20 ;
+par les articles L. 541-1 et L. 755-20 , ainsi que la majoration mentionnée à
+l'article L. 541-4 ;
 
 2° L'allocation de rentrée scolaire instituée par les articles L. 543-1 et L.
 755-22 ;
@@ -61,10 +62,4 @@ formations supplétives instituée aux premier et troisième alinéas de l'artic
 10 de la loi n° 94-488 du 11 juin 1994 ;
 
 16° Les indemnités et prestations versées aux volontaires en service civique en
-application de l'article L. 120-21 du code du service national ;
-
-17° Le revenu minimum d'insertion prévu à l'article L. 262-1 du code de l'action
-sociale et des familles dans sa rédaction antérieure à la loi n° 2008-1249 du
-1er décembre 2008 généralisant le revenu de solidarité active et réformant les
-politiques d'insertion et le revenu supplémentaire temporaire d'activité prévu
-par le décret n° 2009-602 du 27 mai 2009.
+application de l'article L. 120-21 du code du service national .
