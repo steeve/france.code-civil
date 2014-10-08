@@ -26,7 +26,14 @@ rural et de la pêche maritime ;
 
 6° Le siège de l'organisme de recouvrement auprès duquel l'employeur verse ses
 cotisations et contributions sociales lorsqu'il est fait application du deuxième
-alinéa du I de l'article R. 243-6 ou de l'article R. 243-8.
+alinéa du I de l'article R. 243-6 ou de l'article R. 243-8 ;
+
+7° Le siège de la caisse chargée de la liquidation des pensions de retraite du
+régime général dans la circonscription de laquelle se trouve l'établissement de
+l'employeur ou le dernier établissement en cas de changement d'employeur en
+cours d'année ou l'établissement dans lequel le salarié exerce son activité
+principale pour les contestations relatives à l'application du deuxième alinéa
+de l'article L. 4162-14 du code du travail.
 
 Un arrêté du garde des sceaux, ministre de la justice, du ministre chargé de la
 sécurité sociale et du ministre chargé de l'agriculture détermine le tribunal
