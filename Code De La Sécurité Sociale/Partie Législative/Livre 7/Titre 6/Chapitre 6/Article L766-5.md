@@ -7,15 +7,15 @@ d'administration de vingt et un membres, ainsi répartis :
 
 a. au titre des assurés actifs :
 
-- huit représentants des salariés ;
+-huit représentants des salariés ;
 
-- deux représentants des non-salariés ;
+-deux représentants des non-salariés ;
 
 b. au titre des assurés inactifs :
 
-- trois représentants des pensionnés ;
+-trois représentants des pensionnés ;
 
-- deux représentants des autres inactifs ;
+-deux représentants des autres inactifs ;
 
 2°) trois administrateurs élus par l'Assemblée des Français de l'étranger à la
 représentation proportionnelle suivant la règle du plus fort reste ;
@@ -32,8 +32,7 @@ Le conseil d'administration siège valablement dès lors que le nombre de ses
 membres est supérieur à la moitié du nombre total des membres dont il est
 composé.
 
-Le mandat des administrateurs est de six ans. Leur statut est régi par les
-articles L. 231-9 à L. 231-12.
+Le statut des administrateurs est régi par les articles L. 231-9 à L. 231-12.
 
 Sont admis à assister aux séances du conseil d'administration :
 

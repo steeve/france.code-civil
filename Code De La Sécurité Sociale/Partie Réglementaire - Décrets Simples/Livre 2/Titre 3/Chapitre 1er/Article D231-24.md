@@ -11,3 +11,5 @@ dans les mêmes conditions.
 
 Le président et le ou les vice-présidents sont élus pour la durée de mandat des
 administrateurs.
+
+Le mandat du président est renouvelable une fois.

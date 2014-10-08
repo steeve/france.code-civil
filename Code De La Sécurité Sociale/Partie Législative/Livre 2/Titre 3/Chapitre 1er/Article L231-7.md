@@ -8,8 +8,6 @@ conseil ou du conseil d'administration.
 Les personnes qualifiées ne sont ni électeurs ni éligibles aux fonctions de
 président et de vice-président.
 
-La durée du mandat du président est fixée à cinq ans renouvelable une fois.
-
 Les membres du conseil ou du conseil d'administration d'un organisme régional ou
 local créé à la suite de la fusion d'au moins deux organismes ne sont pas
 éligibles aux fonctions de président quand ils les ont exercées deux fois dans
