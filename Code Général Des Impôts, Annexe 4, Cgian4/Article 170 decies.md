@@ -1,6 +1,6 @@
 Article 170 decies
 ----
-I.L'agrément prévu aux II quater et III de l'article 217 undecies du code
+I. L'agrément prévu aux II quater et III de l'article 217 undecies du code
 général des impôts est délivré par le directeur départemental ou le directeur
 régional des finances publiques du département dans lequel le programme
 d'investissement est réalisé lorsque son montant total n'excède pas 1,5 million
@@ -10,9 +10,8 @@ La décision est prise par le ministre du budget lorsque le programme
 d'investissement est d'un montant supérieur à 1,5 million euros ou qu'il est
 réalisé dans plus d'un département d'outre-mer, en Polynésie française, aux îles
 Wallis et Futuna, dans les Terres australes et antarctiques françaises, en
-Nouvelle-Calédonie, dans la collectivité territoriale de Mayotte ou dans celle
-de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le
-ministre.
+Nouvelle-Calédonie ou à Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est
+évoquée par le ministre.
 
 L'agrément est également délivré par le ministre lorsqu'il concerne les
 investissements nécessaires à l'exploitation d'une concession de service public
