@@ -8,6 +8,10 @@ Premier ministre, du ministre chargé du budget et du ministre chargé de la
 fonction publique. L'accès à cet échelon spécial s'effectue par ordre
 d'ancienneté dans le 7e échelon.
 
+Pour l'application du premier alinéa, les services accomplis dans les corps ou
+cadres d'emplois mentionnés à l'article L. 212-5 sont assimilés à des services
+effectifs dans le corps des magistrats de chambre régionale des comptes.
+
 II. ― Pour les présidents de section ayant atteint le 4e échelon de ce grade
 depuis au moins cinq ans, l'avancement au premier échelon spécial du grade de
 président de section se fait dans la limite d'un pourcentage des effectifs du
