@@ -1,7 +1,7 @@
 Article D241-27
 ----
-Pour l'application de l'article L. 241-15 aux salariés dont la rémunération ne
-peut être déterminée au cours du mois en fonction d'un nombre d'heures de
+I. - Pour l'application de l'article L. 241-15 aux salariés dont la rémunération
+ne peut être déterminée au cours du mois en fonction d'un nombre d'heures de
 travail rémunérées, le nombre d'heures de travail pris en compte est réputé égal
 :
 
@@ -29,12 +29,12 @@ partie du mois civil, le nombre d'heures rémunérées au cours du mois est rép
 trentième du nombre d'heures reconstitué conformément aux dispositions prévues
 au I.
 
-Par dérogation à l'alinéa précédent, si le contrat de travail du salarié est
-suspendu avec maintien total ou partiel de sa rémunération mensuelle brute, le
-nombre d'heures pris en compte au titre de ces périodes de suspension est égal
-au produit du nombre d'heures rémunérées reconstitué conformément aux
-dispositions du I par le pourcentage de la rémunération demeuré à la charge de
-l'employeur et soumise à cotisations.
+Si le contrat de travail du salarié est suspendu avec maintien partiel de sa
+rémunération mensuelle brute, le nombre d'heures pris en compte au titre de ces
+périodes de suspension est égal au produit du nombre d'heures rémunérées, le cas
+échéant reconstitué conformément aux dispositions du I, d'une part, et du
+pourcentage de la rémunération soumise à cotisations demeurant à la charge de
+l'employeur, d'autre part.
 
 Pour l'application de ces dispositions, dans le cas des salariés mentionnés au 3
 du I, la rémunération à comparer à la rémunération de référence d'une activité à
