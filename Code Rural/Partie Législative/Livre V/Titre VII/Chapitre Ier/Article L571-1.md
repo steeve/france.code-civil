@@ -11,7 +11,4 @@ remplacées par les références au Département de Mayotte, au conseil généra
 son président ;
 
 2° Les références à la chambre d'agriculture sont remplacées par les références
-à la chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte ;
-
-3° Les dispositions faisant référence à des règlements européens ne sont pas
-applicables.
+à la chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte.

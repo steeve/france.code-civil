@@ -21,4 +21,5 @@ L'équilibre sylvo-cynégétique tend à permettre la régénération des peuple
 forestiers dans des conditions économiques satisfaisantes pour le propriétaire,
 dans le territoire forestier concerné. Il prend en compte les principes définis
 aux articles L112-1, L121-1 à L121-5 du nouveau code forestier ainsi que les
-dispositions des orientations régionales forestières.
+dispositions des programmes régionaux de la forêt et du bois mentionnés à
+l'article L. 122-1 du même code.

@@ -11,6 +11,12 @@ nouvel établissement.
 La même règle est applicable en cas de transfert d'activités intervenu en
 application de l'article L. 514-2.
 
+Lorsque survient une modification dans la situation juridique de l'employeur
+dans les cas de fusion ou de transfert d'activités mentionnés aux deuxième et
+troisième alinéas, tous les contrats de travail en cours au jour de la
+modification subsistent entre le nouvel employeur et le personnel de
+l'établissement.
+
 Toutefois, en cas de transfert partiel d'activités, le personnel concerné est
 mis à disposition, le cas échéant à temps partagé, de l'entité reprenant
 l'activité.

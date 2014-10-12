@@ -1,15 +1,18 @@
 Article L125-5
 ----
 Le conseil général, de sa propre initiative ou à la demande du préfet ou de la
-chambre d'agriculture, charge la commission départementale d'aménagement foncier
-de recenser les zones dans lesquelles il serait d'intérêt général de remettre en
-valeur des parcelles incultes ou manifestement sous-exploitées depuis plus de
-trois ans sans raison de force majeure. Ce délai est réduit à deux ans en zone
-de montagne. Le président du conseil général présente, pour avis, au préfet et à
-la chambre d'agriculture le rapport de la commission départementale
-d'aménagement foncier et le conseil général arrête le ou les périmètres dans
-lesquels sera mise en oeuvre la procédure de mise en valeur des terres incultes
-ou manifestement sous-exploitées.
+chambre d'agriculture ou d'un établissement public de coopération
+intercommunale, charge la commission départementale d'aménagement foncier, sur
+la base de l'inventaire des terres considérées comme des friches prévu à
+l'article L. 112-1-1, de proposer le périmètre dans lequel il serait d'intérêt
+général de remettre en valeur des parcelles incultes ou manifestement
+sous-exploitées depuis plus de trois ans sans raison de force majeure. Ce délai
+est réduit à deux ans en zone de montagne. Le président du conseil général
+présente, pour avis, au préfet, aux établissements publics de coopération
+intercommunale concernés et à la chambre d'agriculture le rapport de la
+commission départementale d'aménagement foncier et le conseil général arrête le
+ou les périmètres dans lesquels sera mise en œuvre la procédure de mise en
+valeur des terres incultes ou manifestement sous-exploitées.
 
 Lorsque le périmètre a été arrêté en application de l'alinéa précédent ou des
 dispositions de l'article L. 121-14, la commission communale ou intercommunale

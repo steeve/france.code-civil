@@ -53,33 +53,27 @@ constructions, les résidences démontables ou les résidences mobiles doivent
 satisfaire.
 
 Ces secteurs sont délimités après avis de la commission départementale de la
-consommation des espaces agricoles. Cet avis est réputé favorable s'il n'est pas
-intervenu dans un délai de trois mois à compter de la saisine.
+préservation des espaces naturels, agricoles et forestiers. Cet avis est réputé
+favorable s'il n'est pas intervenu dans un délai de trois mois à compter de la
+saisine.
 
-Les constructions existantes situées en dehors de ces secteurs et dans des zones
-naturelles, agricoles ou forestières ne peuvent faire l'objet que d'une
-adaptation ou d'une réfection, à l'exclusion de tout changement de destination.
+Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au
+présent 6°, le règlement peut désigner les bâtiments qui peuvent faire l'objet
+d'un changement de destination, dès lors que ce changement de destination ne
+compromet pas l'activité agricole ou la qualité paysagère du site. Le changement
+de destination est soumis, en zone agricole, à l'avis conforme de la commission
+départementale de la préservation des espaces agricoles, naturels et forestiers
+prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, et, en zone
+naturelle, à l'avis conforme de la commission départementale de la nature, des
+paysages et des sites.
 
-Dans les zones agricoles, le règlement peut désigner les bâtiments qui, en
-raison de leur intérêt architectural ou patrimonial, peuvent faire l'objet d'un
-changement de destination ou d'une extension limitée, dès lors que ce changement
-de destination ou cette extension limitée ne compromet pas l'exploitation
-agricole. Le changement de destination et les autorisations de travaux sont
-soumis à l'avis conforme de la commission départementale de la consommation des
-espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche
-maritime.
-
-Dans les zones naturelles, le règlement peut désigner les bâtiments qui, en
-raison de leur intérêt architectural ou patrimonial, peuvent faire l'objet d'un
-changement de destination, dès lors que ce changement de destination ne
-compromet pas l'exploitation agricole ou la qualité paysagère du site. Dans ce
-cas, les autorisations de travaux sont soumises à l'avis conforme de la
-commission départementale de la nature, des paysages et des sites.
-
-Le septième alinéa du présent 6° n'est applicable ni aux constructions et
-installations nécessaires à l'exploitation agricole ou forestière, ni aux
-constructions et installations nécessaires à des équipements collectifs ou à des
-services publics.
+Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au
+présent 6°, les bâtiments d'habitation peuvent faire l'objet d'une extension dès
+lors que cette extension ne compromet pas l'activité agricole ou la qualité
+paysagère du site. Le règlement précise les conditions de hauteur,
+d'implantation et de densité des extensions permettant d'assurer leur insertion
+dans l'environnement et leur compatibilité avec le maintien du caractère
+naturel, agricole ou forestier de la zone.
 
 III.-Le règlement peut, en matière de caractéristiques architecturale, urbaine
 et écologique :
@@ -99,7 +93,8 @@ de la nature en ville ;
 mettre en valeur ou à requalifier pour des motifs d'ordre culturel, historique,
 architectural ou écologique, notamment pour la préservation, le maintien ou la
 remise en état des continuités écologiques et définir, le cas échéant, les
-prescriptions de nature à assurer leur préservation ;
+prescriptions de nature à assurer leur préservation. Lorsqu'il s'agit d'espaces
+boisés, ces prescriptions sont celles prévues à l'article L. 130-1 ;
 
 3° Dans des secteurs situés à proximité des transports collectifs, existants ou
 programmés, imposer dans des secteurs qu'il délimite une densité minimale de

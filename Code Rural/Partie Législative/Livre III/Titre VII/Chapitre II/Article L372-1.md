@@ -11,7 +11,4 @@ son président ;
 
 3° Les références aux sociétés d'aménagement foncier et d'établissement rural
 sont remplacées par les références à l'opérateur foncier mentionné à l'article
-L. 182-25 ;
-
-4° Les dispositions faisant référence à des règlements européens ne sont pas
-applicables.
+L. 182-25.

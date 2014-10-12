@@ -10,10 +10,15 @@ l'environnement.
 
 Chaque établissement établit le projet d'établissement, dans la limite des
 prescriptions fixées sur le plan national en ce qui concerne les programmes, les
-calendriers scolaires, le recrutement et l'orientation des élèves ; il détermine
-de même les modalités et les rythmes de son fonctionnement. Des personnes
-extérieures à l'établissement peuvent être appelées à participer à certaines
-séquences pédagogiques.
+calendriers scolaires, le recrutement et l'orientation des élèves, cette
+dernière procédure faisant l'objet d'un plan d'action au sein du projet ; il
+détermine de même les modalités et les rythmes de son fonctionnement. Des
+personnes extérieures à l'établissement peuvent être appelées à participer à
+certaines séquences pédagogiques.
+
+Un Comité national d'expertise de l'innovation pédagogique est chargé
+d'accompagner les innovations pédagogiques et les expérimentations dans
+l'enseignement agricole.
 
 Conformément à la mission définie au 2° de l'article L. 811-1, l'enseignement
 agricole doit permettre, là où le besoin existe, la connaissance et la diffusion

@@ -17,27 +17,31 @@ forestiers et par le développement et la vulgarisation sylvicoles, à l'exclusi
 de tout acte de gestion directe, de maîtrise d'œuvre de travaux ou de
 commercialisation ; 4° Elaborer les schémas régionaux de gestion sylvicole des
 bois et forêts des particuliers et les codes de bonnes pratiques sylvicoles ; 5°
-Agréer les plans simples de gestion dans les conditions prévues aux articles L.
-312-2 à L. 312-10 et approuver les règlements types de gestion dans les
-conditions prévues par l'article L. 313-1 ; 6° Concourir au développement
-durable et à l'aménagement rural, en particulier au développement économique des
-territoires par la valorisation des produits et des services de la forêt des
-particuliers et de la contribution de ces forêts à la lutte contre l'effet de
-serre ; 7° Contribuer selon ses moyens à la mise en œuvre d'actions exercées
-pour la protection de la santé des forêts ; 8° Participer à l'action des
-pouvoirs publics en matière de protection de l'environnement ou de gestion de
-l'espace, lorsqu'il s'agit d'espace rural, conformément à l'article L. 132-2 du
-code de l'environnement ; 9° Contribuer aux actions de développement concernant
-la forêt, les arbres, le bois et la biomasse par l'animation, la coordination,
-la recherche et la formation ; réaliser et diffuser toutes études et
-publications se rapportant au développement de la forêt et contribuer au
-rassemblement des données françaises, européennes et internationales, notamment
-économiques, concernant la forêt privée et en assurer la diffusion ; 10°
-Favoriser les échanges entre les organismes participant au développement de la
-forêt en France et sur le territoire de l'Union européenne et des pays tiers ;
-11° Donner un avis sur l'agrément des sociétés de gestion des sociétés d'épargne
-forestière en application de l'article L. 214-124 du code monétaire et
-financier. Il peut être consulté par les pouvoirs publics et émettre des
-propositions sur toutes les questions relatives à la filière forêt-bois, au
-développement durable des forêts et de leurs fonctions économiques,
-environnementales et sociales, et à leur contribution à l'aménagement rural.
+Agréer les plans simples de gestion, dans les conditions prévues aux articles L.
+312-2 à L. 312-10, approuver les règlements types de gestion, dans les
+conditions prévues à l'article L. 313-1, et approuver les programmes des coupes
+et travaux des adhérents aux codes des bonnes pratiques sylvicoles prévus aux
+articles L. 124-2 et L. 313-3 ;
+
+6° Concourir au développement durable et à l'aménagement rural, en particulier
+au développement économique des territoires par la valorisation des produits et
+des services de la forêt des particuliers et de la contribution de ces forêts à
+la lutte contre l'effet de serre ; 7° Contribuer selon ses moyens à la mise en
+œuvre d'actions exercées pour la protection de la santé des forêts ; 8°
+Participer à l'action des pouvoirs publics en matière de protection de
+l'environnement ou de gestion de l'espace, lorsqu'il s'agit d'espace rural,
+conformément à l'article L. 132-2 du code de l'environnement ; 9° Contribuer aux
+actions de développement concernant la forêt, les arbres, le bois et la biomasse
+par l'animation, la coordination, la recherche et la formation ; réaliser et
+diffuser toutes études et publications se rapportant au développement de la
+forêt et contribuer au rassemblement des données françaises, européennes et
+internationales, notamment économiques, concernant la forêt privée et en assurer
+la diffusion ; 10° Favoriser les échanges entre les organismes participant au
+développement de la forêt en France et sur le territoire de l'Union européenne
+et des pays tiers ; 11° Donner un avis sur l'agrément des sociétés de gestion
+des sociétés d'épargne forestière en application de l'article L. 214-124 du code
+monétaire et financier. Il peut être consulté par les pouvoirs publics et
+émettre des propositions sur toutes les questions relatives à la filière
+forêt-bois, au développement durable des forêts et de leurs fonctions
+économiques, environnementales et sociales, et à leur contribution à
+l'aménagement rural.

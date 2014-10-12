@@ -6,8 +6,8 @@ d'exploiter n'a pas été retenu, toute personne intéressée par la mise en val
 du fonds peut demander au tribunal paritaire des baux ruraux que lui soit
 accordé le droit d'exploiter ledit fonds. En cas de pluralité de candidatures,
 le tribunal paritaire des baux ruraux statue en fonction de l'intérêt, au regard
-des priorités définies par le schéma directeur départemental des structures, de
-chacune des opérations envisagées.
+des priorités définies par le schéma directeur régional des exploitations
+agricoles, de chacune des opérations envisagées.
 
 Lorsque le tribunal paritaire des baux ruraux accorde l'autorisation d'exploiter
 le fonds, il fixe les conditions de jouissance et le montant du fermage

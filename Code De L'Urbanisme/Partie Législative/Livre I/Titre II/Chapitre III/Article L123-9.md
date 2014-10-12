@@ -14,16 +14,16 @@ municipal arrête le projet de plan local d'urbanisme. Celui-ci est alors soumis
 pour avis aux personnes publiques associées à son élaboration ainsi que, à leur
 demande, aux communes limitrophes, aux établissements publics de coopération
 intercommunale directement intéressés, à la commission départementale de la
-consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural
-et de la pêche maritime, ainsi qu'à l'établissement public chargé d'un schéma de
-cohérence territoriale dont la commune est limitrophe, lorsqu'elle n'est pas
-couverte par un tel schéma. Le projet de plan local d'urbanisme tenant lieu de
-programme local de l'habitat est également soumis pour avis au comité régional
-de l'habitat et de l'hébergement prévu à l'article L. 364-1 du code de la
-construction et de l'habitation. Ces personnes et cette commission donnent un
-avis dans les limites de leurs compétences propres, au plus tard trois mois
-après transmission du projet de plan ; à défaut, ces avis sont réputés
-favorables.
+préservation des espaces naturels, agricoles et forestiers prévue à l'article L.
+112-1-1 du code rural et de la pêche maritime, ainsi qu'à l'établissement public
+chargé d'un schéma de cohérence territoriale dont la commune est limitrophe,
+lorsqu'elle n'est pas couverte par un tel schéma. Le projet de plan local
+d'urbanisme tenant lieu de programme local de l'habitat est également soumis
+pour avis au comité régional de l'habitat et de l'hébergement prévu à l'article
+L. 364-1 du code de la construction et de l'habitation. Ces personnes et cette
+commission donnent un avis dans les limites de leurs compétences propres, au
+plus tard trois mois après transmission du projet de plan ; à défaut, ces avis
+sont réputés favorables.
 
 Lorsqu'une commune membre de l'établissement public de coopération
 intercommunale émet un avis défavorable sur les orientations d'aménagement et de

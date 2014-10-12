@@ -24,9 +24,10 @@ propriétaire ou son détenteur pour produire les informations manquantes.
 A l'issue de ce délai, l'animal est abattu.
 
 En l'absence d'éléments d'identification permettant d'établir l'âge et l'origine
-de l'animal, les agents ayant la qualité de vétérinaires officiels en vertu de
-l'article L. 231-2 procèdent à la saisie et au retrait de la consommation
-humaine ou animale des viandes qui sont issues de son abattage.
+de l'animal ou, pour les équidés, permettant d'établir l'identité de l'animal,
+les agents ayant la qualité de vétérinaires officiels en vertu de l'article L.
+231-2 procèdent à la saisie et au retrait de la consommation humaine ou animale
+des viandes qui sont issues de son abattage.
 
 Ces mesures s'appliquent également si le document d'identification d'un équidé
 le déclare comme n'étant pas destiné à l'abattage pour la consommation humaine

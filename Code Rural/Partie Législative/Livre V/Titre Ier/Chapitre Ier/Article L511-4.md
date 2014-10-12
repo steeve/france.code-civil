@@ -19,8 +19,9 @@ décret, des tâches de collecte, de traitement et de conservation des données
 individuelles relatives aux exploitations agricoles aux fins de simplifier les
 procédures administratives qui leur sont applicables ;
 
-4° Assure l'information collective et individuelle sur les questions
-d'installation en agriculture, ainsi que la tenue du répertoire à l'installation
-créé dans chaque département en application de l'article L. 330-2 et participe,
-dans des conditions fixées par décret, à l'instruction des dossiers
-d'installation.
+4° Assure une mission de service public liée à la politique d'installation pour
+le compte de l'Etat, dont les modalités sont définies par décret. En Corse,
+cette mission est confiée à l'établissement mentionné à l'article L. 112-11 ;
+
+5° Contribue à l'amélioration de l'accès des femmes au statut d'exploitante, par
+la mise en place d'actions et la diffusion d'informations spécifiques.

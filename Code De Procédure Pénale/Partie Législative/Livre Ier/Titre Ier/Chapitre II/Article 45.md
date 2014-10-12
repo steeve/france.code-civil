@@ -8,6 +8,6 @@ et place du commissaire de police qui exerce habituellement ces fonctions.
 
 Toutefois, dans le cas où les infractions forestières sont soumises aux
 tribunaux de police ou aux juridictions de proximité, les fonctions du ministère
-public sont remplies, soit par un ingénieur des eaux et forêts, soit par un chef
-de district ou un agent technique, désigné par le conservateur des eaux et
-forêts.
+public sont remplies par le directeur régional de l'administration chargée des
+forêts ou par le fonctionnaire qu'il désigne, sauf si le procureur de la
+République estime opportun d'occuper ces fonctions.

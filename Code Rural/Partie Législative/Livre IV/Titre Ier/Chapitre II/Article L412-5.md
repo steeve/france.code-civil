@@ -33,5 +33,4 @@ Le droit de préemption ne peut être exercé si, au jour où il fait connaître
 décision d'exercer ce droit, le bénéficiaire ou, dans le cas prévu au troisième
 alinéa ci-dessus, le conjoint, le partenaire d'un pacte civil de solidarité ou
 le descendant subrogé est déjà propriétaire de parcelles représentant une
-superficie supérieure à trois fois la surface minimum d'installation prévue à
-l'article L. 312-6 du code rural et de la pêche maritime.
+superficie supérieure à trois fois le seuil mentionné à l'article L. 312-1.

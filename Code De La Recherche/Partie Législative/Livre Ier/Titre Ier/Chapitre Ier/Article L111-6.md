@@ -8,9 +8,11 @@ environnementaux et sociétaux en maintenant une recherche fondamentale de haut
 niveau. Elle comprend la valorisation des résultats de la recherche au service
 de la société. A cet effet, elle veille au développement de l'innovation, du
 transfert de technologie, de la capacité d'expertise et d'appui aux politiques
-publiques et aux associations et fondations, reconnues d'utilité publique. La
-culture scientifique, technique et industrielle fait partie de la stratégie
-nationale de recherche et est prise en compte dans sa mise en œuvre.
+publiques et aux associations et fondations, reconnues d'utilité publique. Elle
+comprend également un volet relatif à la recherche et à l'innovation
+agronomiques. La culture scientifique, technique et industrielle fait partie de
+la stratégie nationale de recherche et est prise en compte dans sa mise en
+œuvre.
 
 Les priorités en sont arrêtées après une concertation avec la communauté
 scientifique et universitaire, les partenaires sociaux et économiques et des

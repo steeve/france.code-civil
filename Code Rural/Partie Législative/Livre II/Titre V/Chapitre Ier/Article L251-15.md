@@ -7,7 +7,7 @@ définis et autorisés dans des conditions fixées par décret.
 
 Ce certificat phytosanitaire, ou, le cas échéant, d'autres documents ou marques,
 est délivré par les agents mentionnés à l'article L. 250-2 ou par des organismes
-délégataires désignés conformément à l'article L. 201-12 au moment où les
+délégataires désignés conformément à l'article L. 201-13 au moment où les
 végétaux, produits végétaux ou autres objets sont soumis à leur contrôle, dans
 des conditions fixées par décret.
 

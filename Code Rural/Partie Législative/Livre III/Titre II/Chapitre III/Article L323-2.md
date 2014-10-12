@@ -1,23 +1,33 @@
 Article L323-2
 ----
-Un groupement agricole d'exploitation en commun ayant pour objet la mise en
-commun de l'ensemble des activités agricoles des associés est dit total. En cas
-de mise en commun d'une partie seulement de celles-ci, le groupement est dit
-partiel. Un même groupement agricole d'exploitation en commun ne peut être total
-pour certains des associés et partiel pour d'autres.
+Un groupement agricole d'exploitation en commun est dit total quand il a pour
+objet la mise en commun par ses associés de l'ensemble de leurs activités de
+production agricole correspondant à la maîtrise et à l'exploitation d'un cycle
+biologique de caractère végétal ou animal et constituant une ou plusieurs étapes
+nécessaires au déroulement de ce cycle, y compris les activités de cultures
+marines. En cas de mise en commun d'une partie seulement de ces activités, le
+groupement est dit partiel. Un même groupement agricole d'exploitation en commun
+ne peut être total pour certains des associés et partiel pour d'autres.
+
+Les activités mentionnées au premier alinéa du présent article peuvent être
+complétées par la mise en commun d'autres activités agricoles mentionnées à
+l'article L. 311-1.
 
 Les associés d'un groupement agricole d'exploitation en commun total ne peuvent
 se livrer à l'extérieur du groupement, à titre individuel ou dans un cadre
-sociétaire, à une activité de production agricole au sens de l'article L. 311-1.
-Toutefois, à titre dérogatoire, ils peuvent exercer en dehors du groupement des
-activités de préparation et d'entraînement des équidés domestiques en vue de
-leur exploitation dans des activités autres que celles du spectacle, à condition
-qu'à la date de la publication de la loi n° 2005-157 du 23 février 2005 relative
-au développement des territoires ruraux, ces activités soient exercées par un ou
-plusieurs associés du groupement déjà constitué. Les associés d'un groupement
-agricole d'exploitation en commun partiel ne peuvent se livrer, à titre
-individuel ou dans un cadre sociétaire, à une production pratiquée par le
-groupement.
+sociétaire, à une activité correspondant à la maîtrise et à l'exploitation d'un
+cycle biologique de caractère végétal ou animal et constituant une ou plusieurs
+étapes nécessaires au déroulement de ce cycle.
+
+Les associés d'un groupement agricole d'exploitation en commun ne peuvent se
+livrer à l'extérieur du groupement, à titre individuel ou dans un cadre
+sociétaire, à l'une des activités mentionnées au même article L. 311-1
+pratiquées par le groupement.
+
+Un groupement agricole d'exploitation en commun total peut, sans perdre sa
+qualité, participer, en tant que personne morale associée d'une autre société, à
+la production et, le cas échéant, à la commercialisation de produits de la
+méthanisation agricole, au sens dudit article L. 311-1.
 
 Les groupements agricoles d'exploitation en commun ne peuvent réunir plus de dix
 associés.

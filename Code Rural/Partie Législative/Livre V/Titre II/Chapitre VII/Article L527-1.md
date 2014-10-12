@@ -6,14 +6,23 @@ objet de procéder, sous le nom de révision, aux contrôles de la conformité d
 leur situation et de leur fonctionnement aux principes et aux règles de la
 coopération.
 
+Cette révision est mise en œuvre par les réviseurs agréés exerçant leur mission
+au nom et pour le compte d'une fédération agréée pour la révision dont ils sont
+salariés.
+
 Les fédérations agréés doivent adhérer à l'association nationale de révision de
 la coopération agricole prévue ci-après.
 
-Cette association peut assurer tout ou partie de la définition des principes et
-méthodes de la révision ainsi que de l'organisation, du suivi et du contrôle de
-sa mise en oeuvre. En outre, elle a pour objet de faciliter le recrutement et la
-formation des réviseurs et d'agréer ces derniers. Elle gère les ressources dont
-elle dispose à cet effet.
+Cette dernière assure l'organisation et le contrôle des fédérations agréées pour
+la révision, notamment pour les opérations de révision conduites en application
+des articles L. 522-5 et L. 527-1-3. Elle a également pour mission de faciliter
+le recrutement et la formation des réviseurs, d'agréer ces derniers et de
+contrôler leurs activités. Elle participe à l'élaboration des normes publiées
+par le Haut Conseil de la coopération agricole et définit les méthodes de leur
+application. Elle peut également assurer le suivi et le contrôle de la mise en
+œuvre de la révision sur délégation du Haut Conseil de la coopération agricole,
+en application du cinquième alinéa de l'article L. 528-1. Elle assure
+l'information et la formation sur les normes.
 
 Les statuts et le budget de l'association sont soumis à l'approbation de
 l'autorité supérieure.

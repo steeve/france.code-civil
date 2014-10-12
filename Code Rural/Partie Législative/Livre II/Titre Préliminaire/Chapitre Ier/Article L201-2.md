@@ -21,4 +21,8 @@ d'infestation des végétaux ou produits de végétaux, tels que les supports de
 culture, les moyens de transport des végétaux ou produits de végétaux ou les
 emballages de végétaux ou produits de végétaux. Les propriétaires ou détenteurs
 de ces objets peuvent être soumis aux mêmes règles que celles applicables aux
-propriétaires ou détenteurs de végétaux
+propriétaires ou détenteurs de végétaux.
+
+Les personnes qui exercent le droit de chasse ou qui en organisent l'exercice et
+les personnes titulaires du droit de chasser sont soumises aux prescriptions du
+présent livre.

@@ -16,8 +16,7 @@ références aux plans ou schémas du Département de Mayotte ;
 remplacées par les références à la chambre de l'agriculture, de la pêche et de
 l'aquaculture de Mayotte ;
 
-5° Sauf disposition contraire, les dispositions faisant référence à des
-règlements européens ne sont pas applicables ;
+5° (Abrogé) ;
 
 6° Les références à l'expropriation pour cause d'utilité publique ou au code de
 l'expropriation pour cause d'utilité publique sont remplacées par une référence

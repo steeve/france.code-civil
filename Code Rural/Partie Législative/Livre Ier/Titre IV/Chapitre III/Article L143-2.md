@@ -1,12 +1,15 @@
 Article L143-2
 ----
-L'exercice de ce droit a pour objet, dans le cadre des objectifs définis par
-l'article 1er de la loi n° 99-574 du 9 juillet 1999 d'orientation agricole :
+L'exercice de ce droit a pour objet, dans le cadre des objectifs définis à
+l'article L. 1 :
 
 1° L'installation, la réinstallation ou le maintien des agriculteurs ;
 
-2° L'agrandissement et l'amélioration de la répartition parcellaire des
-exploitations existantes conformément à l'article L. 331-2 ;
+2° La consolidation d'exploitations afin de permettre à celles-ci d'atteindre
+une dimension économique viable au regard des critères du schéma directeur
+régional des exploitations agricoles et l'amélioration de la répartition
+parcellaire des exploitations existantes, dans les conditions prévues à
+l'article L. 331-2 ;
 
 3° La préservation de l'équilibre des exploitations lorsqu'il est compromis par
 l'emprise de travaux d'intérêt public ;
@@ -22,9 +25,11 @@ par la cession séparée des terres et de bâtiments d'habitation ou d'exploitat
 7° La mise en valeur et la protection de la forêt ainsi que l'amélioration des
 structures sylvicoles dans le cadre des conventions passées avec l'Etat ;
 
-8° La réalisation des projets de mise en valeur des paysages et de protection de
-l'environnement approuvés par l'Etat ou les collectivités locales et leurs
-établissements publics ;
+8° La protection de l'environnement, principalement par la mise en œuvre de
+pratiques agricoles adaptées, dans le cadre de stratégies définies par l'Etat,
+les collectivités territoriales ou leurs établissements publics ou approuvées
+par ces personnes publiques en application du présent code ou du code de
+l'environnement ;
 
 9° Dans les conditions prévues par le chapitre III du titre IV du livre Ier du
 code de l'urbanisme, la protection et la mise en valeur des espaces agricoles et

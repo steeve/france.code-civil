@@ -15,6 +15,10 @@ lutte contre l'effet de serre grâce à la valorisation de la biomasse, au
 stockage durable du carbone végétal et à la maîtrise des émissions de gaz à
 effet de serre ;
 
+3° bis Maintenir et développer les secteurs de l'élevage et du pastoralisme en
+raison de leur contribution essentielle à l'aménagement et au développement des
+territoires ;
+
 4° Assurer la répartition équilibrée des diverses activités concourant au
 développement du milieu rural ;
 

@@ -35,12 +35,12 @@ mentionnés aux 2° et 3° du même I ayant pour conséquence une réduction des
 surfaces situées dans les espaces autres qu'urbanisés et sur lesquelles est
 exercée une activité agricole ou qui sont à vocation agricole doivent être
 préalablement soumis pour avis par le représentant de l'Etat dans le département
-à la commission départementale de la consommation des espaces agricoles prévue à
-l'article L. 112-1-1 du code rural et de la pêche maritime. Cet avis est réputé
-favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la
-saisine de la commission.
+à la commission départementale de la préservation des espaces naturels,
+agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la
+pêche maritime. Cet avis est réputé favorable s'il n'est pas intervenu dans un
+délai d'un mois à compter de la saisine de la commission.
 
-Les constructions ou installations mentionnées au 4° du même I sont soumises
-pour avis conforme à cette même commission départementale. Cet avis est réputé
-favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la
-saisine de la commission.
+La délibération mentionnée au 4° du I du présent article est soumise pour avis
+conforme à cette même commission départementale. Cet avis est réputé favorable
+s'il n'est pas intervenu dans un délai d'un mois à compter de la saisine de la
+commission.

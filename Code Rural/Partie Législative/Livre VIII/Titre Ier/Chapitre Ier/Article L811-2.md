@@ -32,3 +32,11 @@ métiers de l'agriculture, de la forêt, de la nature et des territoires sont
 sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus
 équivalents aux diplômes de même niveau de l'enseignement général, technologique
 et professionnel.
+
+L'organisation des diplômes mentionnés au troisième alinéa permet leur
+acquisition progressive et, à cet effet, la délivrance d'une attestation
+validant les acquis de ceux qui ont suivi la formation qui y prépare. Cette
+attestation détermine le niveau des connaissances et des capacités acquises et
+peut prendre la forme d'unités capitalisables. Les modalités d'utilisation de
+cette attestation en vue d'une obtention ultérieure du diplôme sont précisées
+par décret.

@@ -1,14 +1,14 @@
 Article L718-1
 ----
-Un comité des activités sociales et culturelles est constitué au plan
-départemental au bénéfice des salariés et de leurs familles, employés dans les
-exploitations ou entreprises mentionnées aux 1° à 4° de l'article L. 722-1, dont
-l'effectif est inférieur à cinquante salariés et qui n'ont pas de comité
-d'entreprise.
+Un comité des activités sociales et culturelles peut être constitué au plan
+départemental, interdépartemental ou régional, au bénéfice des salariés et de
+leurs familles, employés dans les exploitations ou entreprises mentionnées aux
+1° à 4° de l'article L. 722-1, dont l'effectif est inférieur à cinquante
+salariés et qui n'ont pas de comité d'entreprise.
 
 Une convention ou un accord collectif de travail étendu conclu sur le plan
-départemental, régional ou national détermine les modalités de constitution du
-comité et contient obligatoirement des dispositions concernant :
+départemental, interdépartemental ou régional détermine les modalités de
+constitution du comité et contient obligatoirement des dispositions concernant :
 
 1° La composition du comité, les modalités de désignation des représentants et
 la durée de leur mandat ;

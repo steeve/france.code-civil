@@ -20,4 +20,8 @@ présentation de celui-ci sous la forme d'un rapport périodique actualisé rela
 L. 5142-3 ;
 
 5° Soit lorsque les essais non cliniques ou cliniques ne sont pas réalisés en
-conformité avec les bonnes pratiques mentionnées à l'article L. 5141-4.
+conformité avec les bonnes pratiques mentionnées à l'article L. 5141-4 ;
+
+6° Soit lorsque les informations mentionnées à l'article L. 5141-14-1 concernant
+la cession et la distribution en gros et au détail des médicaments contenant une
+ou plusieurs substances antibiotiques ne lui sont pas transmises.

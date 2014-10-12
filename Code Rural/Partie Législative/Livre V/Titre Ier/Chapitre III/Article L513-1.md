@@ -14,10 +14,15 @@ durable de l'agriculture, de la forêt et du territoire.
 
 Elle remplit les missions suivantes :
 
-- elle contribue, notamment par ses avis, à la définition des orientations et
-des conditions de mise en oeuvre des politiques agricoles, du développement
-rural et de l'environnement, définies par l'Etat et l'Union européenne, ainsi
-que dans le cadre international ;
+-elle contribue, notamment par ses avis, à la définition des orientations et des
+conditions de mise en oeuvre des politiques agricoles, du développement rural et
+de l'environnement, définies par l'Etat et l'Union européenne, ainsi que dans le
+cadre international ;
 
-- elle apporte son concours à la coopération pour le développement de
-l'agriculture des pays tiers.
+-elle apporte son concours à la coopération pour le développement de
+l'agriculture des pays tiers ;
+
+-elle assure la gestion d'un observatoire national de l'installation pour
+analyser les données relatives à l'installation et à la transmission, qu'elle
+recueille notamment auprès de l'établissement mentionné à l'article L. 313-1 et
+auprès des organismes mentionnés à l'article L. 723-1.

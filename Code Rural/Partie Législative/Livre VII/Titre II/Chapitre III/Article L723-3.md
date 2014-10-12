@@ -58,3 +58,6 @@ départementale. Les dispositions des articles L. 723-36, L. 723-37 et L. 723-42
 sont applicables aux membres de ces comités.
 
 Elles contribuent au développement sanitaire et social des territoires ruraux.
+
+Elles proposent au préfet la surface minimale d'assujettissement prévue à
+l'article L. 722-5-1.

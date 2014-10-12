@@ -22,10 +22,15 @@ La même faculté est accordée aux chefs des services de pharmacie et toxicolog
 des écoles nationales vétérinaires pour le traitement des animaux admis en
 consultation ou hospitalisés.
 
-Les dispositions du présent article ne sont pas applicables à la détention en
-vue de la cession aux utilisateurs ni à la délivrance au détail, à titre gratuit
-ou onéreux, de produits antiparasitaires destinés au traitement externe des
-animaux de compagnie à l'exception de ceux qui sont soumis à prescription
-obligatoire d'un vétérinaire en application de l'article L. 5143-5 ou dont
-l'autorisation de mise sur le marché indique, en application du 1° de l'article
-L. 5141-5, qu'ils ne sont pas à appliquer en l'état sur l'animal.
+Le présent article n'est pas applicable à la détention en vue de la cession aux
+utilisateurs ni à la délivrance au détail, à titre gratuit ou onéreux :
+
+a) De produits antiparasitaires destinés au traitement externe des animaux de
+compagnie, à l'exception de ceux qui sont soumis à prescription obligatoire d'un
+vétérinaire en application de l'article L. 5143-5 ou dont l'autorisation de mise
+sur le marché indique, en application de l'article L. 5141-5, qu'ils ne sont pas
+à appliquer en l'état sur l'animal ;
+
+b) De médicaments vétérinaires pour poissons d'aquarium et de bassins
+d'agrément, à l'exception de ceux qui sont soumis à prescription obligatoire
+d'un vétérinaire en application de l'article L. 5143-5.

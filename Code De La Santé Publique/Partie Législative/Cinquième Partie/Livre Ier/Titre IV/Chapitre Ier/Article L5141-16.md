@@ -32,7 +32,9 @@ homéopathiques vétérinaires, ainsi que les conditions dans lesquelles
 interviennent les décisions accordant, modifiant, renouvelant, suspendant, ou
 supprimant cet enregistrement ;
 
-6° Les règles applicables à l'expérimentation des médicaments ;
+6° Les règles applicables à l'expérimentation des médicaments ainsi que celles
+applicables aux études portant sur des médicaments vétérinaires bénéficiant déjà
+d'une autorisation de mise sur le marché ;
 
 7° Les modalités de présentation des demandes tendant à obtenir les
 autorisations temporaires d'utilisation d'un médicament vétérinaire prévues à
@@ -58,7 +60,8 @@ contenu du dossier présenté à l'appui de ces demandes, ainsi que les conditio
 dans lesquelles interviennent les décisions accordant, modifiant, renouvelant,
 suspendant ou supprimant ces autorisations ;
 
-12° Les modalités d'application du présent titre aux départements d'outre-mer ;
+12° Les modalités d'application du présent titre aux départements d'outre-mer et
+à Saint-Barthélemy et à Saint-Martin ;
 
 13° Les conditions dans lesquelles les vétérinaires mentionnés à l'article L.
 5141-15 peuvent utiliser les médicaments vétérinaires mentionnés au même article
@@ -70,7 +73,15 @@ visées aux 3°, 5°, 7° et 11° du présent article ;
 15° Les conditions d'application de l'article L. 5141-11 ;
 
 16° Les conditions dans lesquelles la déclaration mentionnée au sixième alinéa
-de l'article L. 5141-5 est effectuée.
+de l'article L. 5141-5 est effectuée ;
+
+17° L'autorité administrative compétente mentionnée à l'article L. 5141-14-1,
+ainsi que les données faisant l'objet de la déclaration mentionnée au même
+article, la périodicité et les modalités de leur transmission ;
+
+18° Les restrictions qui peuvent être apportées à la prescription et à la
+délivrance de certains médicaments compte tenu des risques particuliers qu'ils
+présentent pour la santé publique.
 
 Sauf dans le cas mentionné au 12° du présent article, les décrets mentionnés au
 premier alinéa sont pris après avis de l'Agence nationale chargée de la sécurité

@@ -2,9 +2,9 @@ Article L201-7
 ----
 Tout propriétaire ou détenteur d'animaux ou de végétaux, ou tout professionnel
 exerçant ses activités en relation avec des animaux ou végétaux, ainsi que toute
-personne mentionnée au dernier alinéa de l'article L. 201-2, qui détecte ou
-suspecte l'apparition d'un danger sanitaire de première catégorie ou la première
-apparition sur le territoire national d'un danger phytosanitaire en informe
+personne mentionnée aux deux derniers alinéas de l'article L. 201-2, qui détecte
+ou suspecte l'apparition d'un danger sanitaire de première catégorie ou la
+première apparition sur le territoire national d'un danger sanitaire en informe
 immédiatement l'autorité administrative.
 
 Tout propriétaire ou détenteur de denrées alimentaires ou d'aliments pour

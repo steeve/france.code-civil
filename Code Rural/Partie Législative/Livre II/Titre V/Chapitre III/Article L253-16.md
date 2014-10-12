@@ -14,12 +14,14 @@ n'attire pas l'attention sur les phrases et les symboles de mise en garde
 appropriés figurant sur l'étiquetage, en méconnaissance de l'article 66 du
 règlement (CE) n° 1107/2009 ;
 
-2° Le fait de faire de la publicité commerciale destinée au grand public,
-télévisée, radiodiffusée et par voie d'affichage extérieur d'un produit visé à
-l'article L. 253-1, en dehors des points de distribution, ou de ne pas respecter
-les conditions de présentation des bonnes pratiques d'utilisation et
-d'application d'un tel produit, en méconnaissance de l'article L. 253-5 et des
-dispositions prises pour son application ;
+2° Le fait de faire de la publicité commerciale destinée au grand public, ainsi
+que de la publicité présentée en dehors des points de distribution et des
+publications destinées aux utilisateurs professionnels des produits mentionnés à
+l'article L. 253-1, à l'exception des produits de biocontrôle figurant sur une
+liste établie par l'autorité administrative, ou de ne pas respecter les
+conditions de présentation des bonnes pratiques d'utilisation et d'application
+d'un tel produit, en méconnaissance de l'article L. 253-5 et des dispositions
+prises pour son application ;
 
 3° Le fait de mettre sur le marché un produit visé à l'article L. 253-1 une fois
 que le délai de grâce pour la mise sur le marché et l'utilisation, déterminé par

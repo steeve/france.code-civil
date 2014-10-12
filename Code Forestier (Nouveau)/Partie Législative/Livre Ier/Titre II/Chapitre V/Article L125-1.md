@@ -1,12 +1,20 @@
 Article L125-1
 ----
-La politique conduite dans le but de promouvoir la qualité des produits
-forestiers et de garantir leur origine doit répondre de façon globale et
-équilibrée aux objectifs suivants : 1° Promouvoir la diversité des produits et
-l'identification de leurs caractéristiques, ainsi que les garanties de gestion
-durable des forêts, pour renforcer l'information du consommateur et satisfaire
-ses attentes ; 2° Renforcer le développement de la filière de production, de
-récolte, de transformation et de commercialisation des produits forestiers et
-accroître l'adaptation des produits à la demande ; 3° Fixer sur le territoire
-les capacités de transformation des produits forestiers et assurer le maintien
-de l'activité économique, notamment en zone rurale défavorisée.
+Sans préjudice des poursuites pénales encourues en cas de coupes et enlèvements
+d'arbres non autorisés, toute occupation de bois et forêts par des ouvrages,
+infrastructures ou équipements implantés sous terre sans l'accord écrit des
+propriétaires ou hors de toute servitude d'utilité publique régulièrement
+déclarée, dans le but d'assurer le transport d'énergie, les télécommunications,
+le captage ou la distribution d'eau, donne lieu au paiement, au profit du
+propriétaire ou, pour les forêts qui lui sont confiées en gestion conformément
+au second alinéa de l'article L. 221-2, de l'Office national des forêts, d'une
+indemnité annuelle d'occupation par mètre linéaire ou mètre carré dont le
+montant est fixé par décret, dans la limite de 20 € par mètre linéaire ou mètre
+carré.
+
+Si la date de début de l'occupation n'est pas déterminée, et sauf preuve
+contraire, l'indemnité est calculée sur une durée d'occupation de trois ans
+avant la découverte de celle-ci.
+
+En l'absence de toute régularisation au delà de six années d'occupation sans
+titre, l'indemnité est majorée de 20 % chaque année supplémentaire.

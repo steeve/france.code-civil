@@ -30,7 +30,7 @@ III.-Par dérogation aux I et II, les contrôles et inspections de l'état
 sanitaire des végétaux, produits végétaux et autres objets mentionnés au I de
 l'article L. 251-12, à l'exception de ceux réalisés en vue de l'importation,
 peuvent être réalisés par des représentants des organismes délégataires désignés
-conformément à l'article L. 201-12. Pour l'exercice de leur mission, ceux-ci
+conformément à l'article L. 201-13. Pour l'exercice de leur mission, ceux-ci
 disposent des pouvoirs prévus à l'article L. 250-5 et peuvent effectuer des
 prélèvements dans les conditions prévues à l'article L. 250-6. Lorsqu'ils
 constatent la présence d'un organisme nuisible au sens du premier alinéa de

@@ -12,7 +12,9 @@ doit, à peine de nullité, faire mention de cette disposition ;
 exploitation du fonds ;
 
 b) S'il veut changer la destination agricole sur des parcelles comprises dans le
-bail ; les dispositions de l'article L. 411-32 sont applicables.
+bail ; les dispositions de l'article L. 411-32 sont applicables ;
+
+3° Soit de la non-exploitation de tout ou partie du bien considéré.
 
 Le fait que le preneur applique sur les terres prises à bail des pratiques ayant
 pour objet la préservation de la ressource en eau, de la biodiversité, des

@@ -16,13 +16,13 @@ des espaces naturels et des paysages, à l'exploitation agricole ou forestière 
 La carte communale est élaborée à l'initiative de la commune ou de
 l'établissement public de coopération intercommunale compétent. Elle est soumise
 pour avis à la chambre d'agriculture et à la commission départementale de la
-consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural
-et de la pêche maritime. Cette commission rend son avis au plus tard deux mois
-après la transmission du projet de carte par le maire ou le président de
-l'établissement public de coopération intercommunale compétent. A défaut, cet
-avis est réputé favorable. La carte communale est soumise à enquête publique
-réalisée conformément au chapitre III du titre II du livre Ier du code de
-l'environnement. A l'issue de l'enquête publique, la carte communale,
+préservation des espaces naturels, agricoles et forestiers prévue à l'article L.
+112-1-1 du code rural et de la pêche maritime. Cette commission rend son avis au
+plus tard deux mois après la transmission du projet de carte par le maire ou le
+président de l'établissement public de coopération intercommunale compétent. A
+défaut, cet avis est réputé favorable. La carte communale est soumise à enquête
+publique réalisée conformément au chapitre III du titre II du livre Ier du code
+de l'environnement. A l'issue de l'enquête publique, la carte communale,
 éventuellement modifiée pour tenir compte des avis qui ont été joints au
 dossier, des observations du public et du rapport du commissaire ou de la
 commission d'enquête, est approuvée par le conseil municipal ou par délibération
@@ -37,9 +37,10 @@ selon des modalités fixées par arrêté du ministre chargé de l'urbanisme.
 
 La carte communale est révisée selon les modalités définies à l'alinéa
 précédent. Toutefois, le projet de révision n'est soumis à la commission
-départementale de la consommation des espaces agricoles que s'il a pour
-conséquence une réduction des surfaces des espaces agricoles dans une commune
-située en dehors du périmètre d'un schéma de cohérence territoriale approuvé.
+départementale de la préservation des espaces naturels, agricoles et forestiers
+que s'il a pour conséquence, dans une commune située en dehors d'un schéma de
+cohérence territoriale approuvé, une réduction des surfaces des secteurs où les
+constructions ne sont pas admises, mentionnés au deuxième alinéa.
 
 La carte communale peut faire l'objet d'une modification simplifiée lorsque la
 commune ou l'établissement public de coopération intercommunale envisage de

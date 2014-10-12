@@ -29,13 +29,25 @@ tout vecteur animé ou inanimé pouvant servir de véhicules à la contagion ;
 
 6° L'obligation de détruire les cadavres ;
 
-7° L'interdiction de vendre les animaux ;
+7° L'interdiction de vendre ou de céder les animaux ;
 
 8° L'abattage des animaux malades ou contaminés ou des animaux ayant été exposés
 à la contagion, ainsi que des animaux suspects d'être infectés ou en lien avec
 des animaux infectés dans les conditions prévues par l'article L. 223-6 ;
 
-9° Le traitement ou la vaccination des animaux.
+9° Le traitement ou la vaccination des animaux ;
+
+10° La limitation ou l'interdiction de la chasse, la modification des plans de
+chasse, de gestion cynégétique et de prélèvement maximal autorisé ou la
+destruction ou le prélèvement d'animaux de la faune sauvage, sous réserve des
+articles L. 411-1 et L. 411-2 du code de l'environnement ;
+
+11° La désinfection, l'aménagement ou la mise en œuvre de modalités
+particulières d'entretien du couvert végétal et des zones fréquentées par la
+faune sauvage sensible, sans préjudice de l'attribution d'aides publiques.
+
+Les mesures prévues aux 10° et 11° s'appliquent aux personnes mentionnées au
+dernier alinéa de l'article L. 201-2 du présent code.
 
 Le ministre chargé de l'agriculture détermine par arrêté celles de ces mesures
 qui sont applicables aux maladies classées parmi les dangers sanitaires de
@@ -45,7 +57,7 @@ l'objet d'une réglementation.
 Par dérogation au premier alinéa, le préfet, sans attendre la constatation de la
 maladie et sur instruction du ministre chargé de l'agriculture, prend un arrêté
 portant déclaration d'infection qui prescrit l'application de tout ou partie des
-mesures prévues aux 1° à 9° du présent article lorsqu'est remplie l'une des
+mesures prévues aux 1° à 11° du présent article lorsqu'est remplie l'une des
 conditions suivantes :
 
 a) Les symptômes ou lésions observés sur les animaux de l'exploitation suspecte

@@ -29,6 +29,9 @@ contravention à la législation sur les fraudes ;
 g) Produits susceptibles d'entraver le contrôle sanitaire des denrées provenant
 des animaux auxquels ils ont été administrés.
 
+Un arrêté conjoint des ministres chargés de l'agriculture et de la santé fixe la
+liste des produits mentionnés aux f et g.
+
 Ces substances ne peuvent être délivrées en l'état aux éleveurs ou groupements
 agricoles visés à l'article L. 5143-6, ou détenues ou possédées par ces éleveurs
 ou groupements, sauf si elles sont destinées à être employées pour des usages

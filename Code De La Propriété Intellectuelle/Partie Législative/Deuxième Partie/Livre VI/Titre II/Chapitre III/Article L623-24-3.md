@@ -9,4 +9,4 @@ d'application de la dérogation définie à l'article L. 623-24-1 du présent co
 y compris les modalités de fixation du montant de l'indemnité visée à l'article
 L. 623-24-2, dont le montant est sensiblement inférieur au montant perçu pour la
 production sous licence de matériel de multiplication de la même variété, sont
-établies par le décret en Conseil d'Etat prévu à l'article L. 623-24-1.
+établies par décret en Conseil d'Etat.

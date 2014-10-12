@@ -44,7 +44,7 @@ l'article L. 341-5 du code forestier ;
 l'article L. 130-1 du code de l'urbanisme.
 
 Les interdictions de reconstitution de boisements doivent être compatibles avec
-les objectifs définis par les orientations régionales forestières prévues à
+les objectifs définis par le programme régional de la forêt et du bois prévu à
 l'article L. 122-1 du code forestier.
 
 Lorsque, après déboisement, le terrain faisant l'objet d'une interdiction de

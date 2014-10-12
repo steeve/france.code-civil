@@ -14,6 +14,7 @@ appartient également au prévenu et à la personne civilement responsable.
 Cette faculté appartient dans tous les cas à la partie civile quant à ses
 intérêts civils seulement.
 
-Dans les affaires poursuivies à la requête de l'administration des eaux et
-forêts, l'appel est toujours possible de la part de toutes les parties, quelles
-que soient la nature et l'importance des condamnations.
+Dans les affaires poursuivies à la requête du directeur régional de
+l'administration chargée des forêts, l'appel est toujours possible de la part de
+toutes les parties, quelles que soient la nature et l'importance des
+condamnations.

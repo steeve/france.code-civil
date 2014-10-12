@@ -6,25 +6,21 @@ I.-Sont soumises à autorisation préalable les opérations suivantes :
 agricoles au bénéfice d'une exploitation agricole mise en valeur par une ou
 plusieurs personnes physiques ou morales, lorsque la surface totale qu'il est
 envisagé de mettre en valeur excède le seuil fixé par le schéma directeur
-départemental des structures.
-
-Ce seuil est compris entre une et deux fois l'unité de référence définie à
-l'article L. 312-5.
-
-La constitution d'une société n'est toutefois pas soumise à autorisation
-préalable, lorsqu'elle résulte de la transformation sans autre modification
-d'une exploitation individuelle détenue par une personne physique qui en devient
-associé exploitant ou lorsqu'elle résulte de l'apport d'exploitations
-individuelles détenues par deux époux qui en deviennent les associés ;
+régional des exploitations agricoles. La constitution d'une société n'est
+toutefois pas soumise à autorisation préalable lorsqu'elle résulte de la
+transformation, sans autre modification, d'une exploitation individuelle détenue
+par une personne physique qui en devient l'unique associé exploitant ou
+lorsqu'elle résulte de l'apport d'exploitations individuelles détenues par deux
+époux ou deux personnes liées par un pacte civil de solidarité qui en deviennent
+les seuls associés exploitants ;
 
 2° Quelle que soit la superficie en cause, les installations, les
 agrandissements ou les réunions d'exploitations agricoles ayant pour conséquence
 :
 
-a) De supprimer une exploitation agricole dont la superficie excède un seuil
-fixé par le schéma directeur départemental des structures et compris entre le
-tiers et une fois l'unité de référence définie à l'article L. 312-5, ou de
-ramener la superficie d'une exploitation en deçà de ce seuil ;
+a) De supprimer une exploitation agricole dont la superficie excède le seuil
+mentionné au 1° ou de ramener la superficie d'une exploitation en deçà de ce
+seuil ;
 
 b) De priver une exploitation agricole d'un bâtiment essentiel à son
 fonctionnement, sauf s'il est reconstruit ou remplacé ;
@@ -34,59 +30,61 @@ agrandissements ou les réunions d'exploitations agricoles au bénéfice d'une
 exploitation agricole :
 
 a) Dont l'un des membres ayant la qualité d'exploitant ne remplit pas les
-conditions de capacité ou d'expérience professionnelle ou a atteint l'âge requis
-pour bénéficier d'un avantage de vieillesse agricole ;
+conditions de capacité ou d'expérience professionnelle fixées par voie
+réglementaire ;
 
-b) Ne comportant pas de membre ayant la qualité d'exploitant.
+b) Ne comportant pas de membre ayant la qualité d'exploitant ;
 
-Il en est de même pour les exploitants pluriactifs remplissant les conditions de
-capacité ou d'expérience professionnelle dont les revenus extra-agricoles du
-foyer fiscal excèdent 3 120 fois le montant horaire du salaire minimum de
-croissance ;
+c) Lorsque l'exploitant est un exploitant pluriactif, remplissant les conditions
+de capacité ou d'expérience professionnelle, dont les revenus extra-agricoles
+excèdent 3 120 fois le montant horaire du salaire minimum de croissance, à
+l'exception des exploitants engagés dans un dispositif d'installation
+progressive, au sens de l'article L. 330-2 ;
 
-4° (alinéa abrogé) ;
+4° Lorsque le schéma directeur régional des exploitations agricoles le prévoit,
+les agrandissements ou réunions d'exploitations pour les biens dont la distance
+par rapport au siège de l'exploitation du demandeur est supérieure à un maximum
+qu'il fixe ;
 
-5° Les agrandissements ou réunions d'exploitations pour les biens dont la
-distance par rapport au siège de l'exploitation du demandeur est supérieure à un
-maximum fixé par le schéma directeur départemental des structures, sans que ce
-maximum puisse être inférieur à cinq kilomètres ;
+5° Les créations ou extensions de capacité des ateliers de production hors sol
+au-delà d'un seuil de production fixé par le schéma directeur régional des
+exploitations agricoles.
 
-6° Les créations ou extensions de capacité des ateliers de production hors sol
-au-delà d'un seuil de production fixé par décret ;
-
-7° La mise en valeur de biens agricoles reçus d'une société d'aménagement
-foncier et d'établissement rural, ayant pour conséquence la suppression d'une
-unité économique égale ou supérieure au seuil fixé en application du 2°, ou
-l'agrandissement, par attribution d'un bien préempté par la société
-d'aménagement foncier et d'établissement rural, d'une exploitation dont la
-surface totale après cette cession excède deux fois l'unité de référence définie
-à l'article L. 312-5.
-
-Pour déterminer la superficie totale mise en valeur, il est tenu compte des
-superficies exploitées par le demandeur sous quelque forme que ce soit ainsi que
-des ateliers de production hors sol évalués par application des coefficients
-mentionnés au dernier alinéa de l'article L. 312-6. En sont exclus les bois,
-landes, taillis et friches, sauf les terres situées en Guadeloupe, en Guyane, à
-la Martinique ou à La Réunion et mentionnées à l'article L. 181-4 ainsi que
-celles situées à Mayotte et mentionnées à l'article L. 182-16 ; en sont
-également exclus les étangs autres que ceux servant à l'élevage piscicole.
-
-II.-Par dérogation au I, est soumise à déclaration préalable la mise en valeur
-d'un bien agricole reçu par donation, location, vente ou succession d'un parent
-ou allié jusqu'au troisième degré inclus lorsque les conditions suivantes sont
-remplies :
+II.-Les opérations soumises à autorisation en application du I sont, par
+dérogation à ce même I, soumises à déclaration préalable lorsque le bien
+agricole à mettre en valeur est reçu par donation, location, vente ou succession
+d'un parent ou allié jusqu'au troisième degré inclus et que les conditions
+suivantes sont remplies :
 
 1° Le déclarant satisfait aux conditions de capacité ou d'expérience
-professionnelle mentionnée au 3° du I ;
+professionnelle mentionnées au a du 3° du I ;
 
-2° Les biens sont libres de location au jour de la déclaration ;
+2° Les biens sont libres de location ;
 
-3° Les biens sont détenus par ce parent ou allié depuis neuf ans au moins.
+3° Les biens sont détenus par un parent ou allié, au sens du premier alinéa du
+présent II, depuis neuf ans au moins ;
 
-Pour l'application des présentes dispositions, sont assimilées aux biens
-qu'elles représentent les parts d'une société constituée entre les membres d'une
-même famille.
+4° Les biens sont destinés à l'installation d'un nouvel agriculteur ou à la
+consolidation de l'exploitation du déclarant, dès lors que la surface totale de
+celle-ci après consolidation n'excède pas le seuil de surface fixé par le schéma
+directeur régional des exploitations agricoles en application du II de l'article
+L. 312-1.
 
-Les opérations réalisées par la société d'aménagement foncier et d'établissement
-rural autres que celles prévues au 7° du I sont également soumises à déclaration
-préalable.
+Pour l'application du présent II, les parts d'une société constituée entre les
+membres d'une même famille sont assimilées aux biens qu'elles représentent.
+
+III.-Lorsque la mise en valeur de biens agricoles par le candidat auquel la
+société d'aménagement foncier et d'établissement rural entend les rétrocéder est
+soumise à autorisation d'exploiter en application du I, l'avis favorable donné à
+la rétrocession par le commissaire du Gouvernement représentant le ministre
+chargé de l'agriculture tient lieu de cette autorisation.
+
+Dans ce cas, la publicité du projet de rétrocession tient lieu de la publicité
+prévue au premier alinéa de l'article L. 331-3.
+
+S'il estime que, compte tenu des autres candidatures à la rétrocession ou à la
+mise en valeur des biens et des motifs de refus prévus à l'article L. 331-3-1,
+le candidat à la rétrocession ne doit pas être autorisé à exploiter les biens
+qu'il envisage d'acquérir, le commissaire du Gouvernement en fait expressément
+mention dans son avis. Cette mention tient lieu de refus de l'autorisation
+d'exploiter mentionnée à l'article L. 331-2.

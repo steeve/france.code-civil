@@ -2,8 +2,10 @@ Article L813-1
 ----
 Les établissements d'enseignement et de formation professionnelle agricoles
 privés dont l'association ou l'organisme responsable a passé un contrat avec
-l'Etat participent au service public d'éducation et de formation. Ils relèvent
-du ministre de l'agriculture. Leurs enseignements sont dispensés dans le respect
+l'Etat participent au service public d'éducation et de formation, notamment au
+service public du numérique éducatif et de l'enseignement à distance prévu au
+deuxième alinéa de l'article L. 131-2 du code de l'éducation. Ils relèvent du
+ministre de l'agriculture. Leurs enseignements sont dispensés dans le respect
 des principes de liberté de conscience, d'égal accès de tous à l'éducation et de
 liberté de l'enseignement, qui implique notamment qu'un tel établissement
 puisse, à ces conditions, naître d'une initiative privée.
@@ -17,7 +19,8 @@ de la commercialisation des produits agricoles ainsi que dans d'autres métiers
 concourant au développement de ceux-ci, notamment dans les domaines des services
 et de l'aménagement de l'espace agricole, rural, forestier, de la gestion de
 l'eau et de l'environnement. Ils contribuent à l'éducation au développement
-durable et à la mise en œuvre de ses principes. Ils contribuent au développement
+durable et à la mise en œuvre de ses principes, ainsi qu'à la promotion de la
+diversité des systèmes de production agricole. Ils contribuent au développement
 personnel des élèves, étudiants, apprentis et stagiaires, à l'élévation et à
 l'adaptation de leur qualification et à leur insertion professionnelle et
 sociale.

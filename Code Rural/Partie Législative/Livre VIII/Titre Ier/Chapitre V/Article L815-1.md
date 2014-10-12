@@ -7,4 +7,5 @@ prévisionnel des formations et les programmes visés au premier alinéa de
 l'article 10 de la même loi prennent en considération, dans l'accomplissement de
 leurs missions de développement agricole et rural, les conditions spécifiques de
 l'environnement naturel, économique et social des différents massifs de
-montagne.
+montagne. Ils veillent à proposer une offre suffisamment diversifiée de
+formations bi-qualifiantes.

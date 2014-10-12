@@ -1,24 +1,25 @@
 Article L141-1
 ----
 I.-Des sociétés d'aménagement foncier et d'établissement rural peuvent être
-constituées pour contribuer, en milieu rural, à la mise en oeuvre du volet
-foncier de la politique d'aménagement et de développement durable du territoire
-rural, dans le cadre des objectifs définis à l'article L. 111-2.
+constituées pour remplir les missions suivantes :
 
-Elles ont pour mission d'améliorer les structures foncières par l'installation
-ou le maintien d'exploitants agricoles ou forestiers, par l'accroissement de la
-superficie de certaines exploitations agricoles ou forestières, par la mise en
-valeur des sols et, éventuellement, par l'aménagement et le remaniement
-parcellaires. Elles concourent à la diversité des paysages, à la protection des
-ressources naturelles et au maintien de la diversité biologique et, notamment,
-communiquent aux services de l'Etat, dans des conditions fixées par décret, les
-informations qu'elles détiennent sur l'évolution des prix et l'ampleur des
-changements de destination des terres agricoles. Elles assurent la transparence
-du marché foncier rural.
+1° Elles œuvrent prioritairement à la protection des espaces agricoles, naturels
+et forestiers. Leurs interventions visent à favoriser l'installation, le
+maintien et la consolidation d'exploitations agricoles ou forestières afin que
+celles-ci atteignent une dimension économique viable au regard des critères du
+schéma directeur régional des exploitations agricoles ainsi que l'amélioration
+de la répartition parcellaire des exploitations. Ces interventions concourent à
+la diversité des systèmes de production, notamment ceux permettant de combiner
+les performances économique, sociale et environnementale et ceux relevant de
+l'agriculture biologique au sens de l'article L. 641-13 ;
 
-Les collectivités publiques et les personnes morales représentatives des
-intérêts économiques, environnementaux et sociaux, à caractère rural, peuvent
-participer à leur capital social.
+2° Elles concourent à la diversité des paysages, à la protection des ressources
+naturelles et au maintien de la diversité biologique ;
+
+3° Elles contribuent au développement durable des territoires ruraux, dans le
+cadre des objectifs définis à l'article L. 111-2 ;
+
+4° Elles assurent la transparence du marché foncier rural.
 
 II.-Pour la réalisation des missions définies au I, les sociétés d'aménagement
 foncier et d'établissement rural peuvent :
@@ -33,20 +34,17 @@ dès lors que la substitution intervient dans un délai maximal de six mois à
 compter du jour où ladite promesse a acquis date certaine et, au plus tard, au
 jour de l'acte authentique réalisant ou constatant la vente ;
 
-3° Acquérir, dans le but d'améliorer les structures foncières, des parts de
-sociétés civiles à objet agricole donnant vocation à l'attribution en propriété
-ou en jouissance de biens agricoles ou forestiers ou l'intégralité des parts ou
-actions de sociétés ayant pour objet principal l'exploitation ou la propriété
-agricole et, notamment, par dérogation aux dispositions du chapitre II du titre
-II du livre III (nouveau), des parts de groupements fonciers agricoles ;
+3° Acquérir des actions ou parts de sociétés ayant pour objet principal
+l'exploitation ou la propriété agricole notamment, par dérogation à l'article L.
+322-1, la totalité ou une partie des parts de groupements fonciers agricoles ou
+de groupements fonciers ruraux ;
 
 4° Se livrer ou prêter leur concours, en vertu d'un mandat écrit, à des
 opérations immobilières portant sur les biens d'autrui et relatives au louage
 régi par le livre IV (nouveau).
 
-III.-1° Dans les cas visés aux 1° et 2° du II, le choix de l'attributaire se
-fait au regard des missions mentionnées au I.L'attributaire peut être tenu au
-respect d'un cahier des charges.
+III.-1° Le choix de l'attributaire se fait au regard des missions mentionnées au
+I. L'attributaire peut être tenu au respect d'un cahier des charges.
 
 En cas de substitution, le cahier des charges mentionné à l'alinéa précédent
 comporte l'engagement du maintien pendant un délai minimal de dix ans de l'usage
@@ -77,3 +75,15 @@ fonds, effets ou valeurs détenus pour autrui à un moment quelconque ni à un
 montant minimal. Les modalités particulières de mise en oeuvre de cette
 garantie, le contenu du contrat de mandat et les conditions de rémunération du
 mandataire sont définis par décret en Conseil d'Etat.
+
+IV.-1. La structure regroupant l'ensemble des sociétés d'aménagement foncier et
+d'établissement rural transmet tous les ans au Conseil supérieur de la forêt et
+du bois le bilan des activités de ces sociétés en matière forestière.
+
+2. Les sociétés d'aménagement foncier et d'établissement rural participent aux
+réunions et apportent leur appui technique aux travaux de la commission
+départementale de la préservation des espaces naturels, agricoles et forestiers
+prévue à l'article L. 112-1-1. Elles sont également représentées par la
+structure les regroupant, mentionnée au 2° du II de l'article L. 141-6, auprès
+de l'Observatoire des espaces naturels, agricoles et forestiers prévu à
+l'article L. 112-1.

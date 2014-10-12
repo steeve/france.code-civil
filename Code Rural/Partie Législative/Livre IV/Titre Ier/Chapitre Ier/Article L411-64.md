@@ -10,15 +10,19 @@ superficie au plus égale à la surface fixée en application de l'article L.
 par le preneur est supérieure à cette limite, le bailleur peut, par dérogation
 aux articles L. 411-5 et L. 411-46 :
 
-- soit refuser le renouvellement du bail au preneur ayant atteint l'âge de la
+-soit refuser le renouvellement du bail au preneur ayant atteint l'âge de la
 retraite retenu en matière d'assurance vieillesse des exploitants agricoles ;
 
-- soit limiter le renouvellement à l'expiration de la période triennale au cours
+-soit limiter le renouvellement à l'expiration de la période triennale au cours
 de laquelle le preneur atteindra cet âge.
 
-Dans les deux cas ci-dessus, le bailleur doit prévenir le preneur de son
-intention de refuser le renouvellement du bail ou d'y mettre fin par acte
-extrajudiciaire signifié au moins dix-huit mois à l'avance.
+Le preneur peut demander au bailleur le report de plein droit de la date d'effet
+du congé à la fin de l'année culturale où il aura atteint l'âge lui permettant
+de bénéficier d'une retraite à taux plein.
+
+Dans les cas mentionnés aux deuxième et troisième alinéas, le bailleur doit
+prévenir le preneur de son intention de refuser le renouvellement du bail ou d'y
+mettre fin par acte extrajudiciaire signifié au moins dix-huit mois à l'avance.
 
 Les dispositions du présent article sont applicables que le propriétaire entende
 aliéner ou donner à bail à un preneur dont l'âge est inférieur à l'âge de la

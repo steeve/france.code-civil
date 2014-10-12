@@ -20,9 +20,18 @@ Elles conduisent des actions de prévention des dégâts de gibier et assurent
 l'indemnisation des dégâts de grand gibier dans les conditions prévues par les
 articles L. 426-1 et L. 426-5.
 
+Elles conduisent également des actions pour surveiller les dangers sanitaires
+impliquant le gibier ainsi que des actions participant à la prévention de la
+diffusion de dangers sanitaires entre les espèces de gibier, les animaux
+domestiques et l'homme.
+
 Elles élaborent, en association avec les propriétaires, les gestionnaires et les
 usagers des territoires concernés, un schéma départemental de gestion
 cynégétique, conformément aux dispositions de l'article L. 425-1.
+
+Elles contribuent, à la demande du préfet, à l'exécution des arrêtés
+préfectoraux autorisant des tirs de prélèvement. Elles agissent dans ce cadre en
+collaboration avec leurs adhérents.
 
 Elles peuvent apporter leur concours à la validation du permis de chasser.
 

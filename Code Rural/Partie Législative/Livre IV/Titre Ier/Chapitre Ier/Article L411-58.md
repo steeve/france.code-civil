@@ -5,15 +5,17 @@ le bien loué pour lui-même ou au profit de son conjoint, du partenaire auquel 
 est lié par un pacte civil de solidarité, ou d'un descendant majeur ou mineur
 émancipé.
 
-Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même ou en cas de
-copreneurs l'un d'entre eux se trouve à moins de cinq ans de l'âge de la
-retraite retenu en matière d'assurance vieillesse des exploitants agricoles.
-Dans ce cas, le bail est prorogé de plein droit pour une durée égale à celle qui
-doit permettre au preneur ou à l'un des copreneurs d'atteindre cet âge. Pendant
-cette période aucune cession du bail n'est possible. Le preneur doit, dans les
-quatre mois du congé qu'il a reçu, notifier au propriétaire, par lettre
-recommandée avec demande d'avis de réception, sa décision de s'opposer à la
-reprise ou saisir directement le tribunal paritaire en contestation de congé.
+Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même ou, en cas de
+copreneurs, l'un d'entre eux se trouve soit à moins de cinq ans de l'âge de la
+retraite retenu en matière d'assurance vieillesse des exploitants agricoles,
+soit à moins de cinq ans de l'âge lui permettant de bénéficier de la retraite à
+taux plein. Dans chacun de ces cas, le bail est prorogé de plein droit pour une
+durée égale à celle qui doit permettre au preneur ou à l'un des copreneurs
+d'atteindre l'âge correspondant. Un même bail ne peut être prorogé qu'une seule
+fois. Pendant cette période aucune cession du bail n'est possible. Le preneur
+doit, dans les quatre mois du congé qu'il a reçu, notifier au propriétaire, par
+lettre recommandée avec demande d'avis de réception, sa décision de s'opposer à
+la reprise ou saisir directement le tribunal paritaire en contestation de congé.
 
 Si le bailleur entend reprendre le bien loué à la fin de la période de
 prorogation, il doit donner de nouveau congé dans les conditions prévues à

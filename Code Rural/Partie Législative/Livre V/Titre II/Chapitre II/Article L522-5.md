@@ -2,7 +2,11 @@ Article L522-5
 ----
 Lorsque les statuts le prévoient, des tiers non coopérateurs peuvent être admis
 à bénéficier des services d'une société coopérative agricole ou d'une union,
-dans la limite de 20 p. 100 du chiffre d'affaires annuel.
+dans la limite de 20 p. 100 du chiffre d'affaires annuel. Dans ce cas, la
+société coopérative ou l'union se soumet à un contrôle de la conformité de sa
+situation et de son fonctionnement aux principes et règles de la coopération au
+moins une fois tous les cinq ans. Ce contrôle est effectué par une fédération
+agréée pour la révision mentionnée à l'article L. 527-1.
 
 Les opérations ainsi effectuées avec des tiers non associés font l'objet d'une
 comptabilité spéciale.

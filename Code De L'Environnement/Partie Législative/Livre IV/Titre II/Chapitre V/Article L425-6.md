@@ -2,8 +2,9 @@ Article L425-6
 ----
 Le plan de chasse détermine le nombre minimum et maximum d'animaux à prélever
 sur les territoires de chasse. Il tend à assurer le développement durable des
-populations de gibier et à préserver leurs habitats, en conciliant les intérêts
-agricoles, sylvicoles et cynégétiques.
+populations de gibier et à préserver leurs habitats, en prenant en compte les
+documents de gestion des forêts mentionnés à l'article L. 122-3 du code
+forestier et en conciliant les intérêts agricoles, sylvicoles et cynégétiques.
 
 Pour le grand gibier, il est fixé après consultation des représentants des
 intérêts agricoles et forestiers pour une période qui peut être de trois ans et

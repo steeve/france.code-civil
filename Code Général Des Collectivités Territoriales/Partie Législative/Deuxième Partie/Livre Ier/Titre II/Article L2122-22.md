@@ -98,6 +98,12 @@ territoire de la commune.
 24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux
 associations dont elle est membre.
 
+25° D'exercer, au nom de la commune, le droit d'expropriation pour cause
+d'utilité publique prévu au troisième alinéa de l'article L. 151-37 du code
+rural et de la pêche maritime en vue de l'exécution des travaux nécessaires à la
+constitution d'aires intermédiaires de stockage de bois dans les zones de
+montagne.
+
 Les délégations consenties en application du 3° du présent article prennent fin
 dès l'ouverture de la campagne électorale pour le renouvellement du conseil
 municipal.

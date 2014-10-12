@@ -10,12 +10,10 @@ conditions prévues à l'article 13 de l'ordonnance du 1er juillet 2004 précit�
 Pour le calcul de ces quotités, sont présumés adhérents à l'association foncière
 les propriétaires dont l'identité ou l'adresse n'a pu être établie et qui ne se
 sont pas manifestés lors de l'enquête publique à la suite d'un affichage dans
-les mairies concernées et d'une publication dans un journal d'annonces
-légales.L'association foncière dispose des terres ainsi incorporées dans son
-périmètre pour une durée de cinq ans dans le cadre d'une convention
-pluriannuelle de pâturage. Cette convention ne peut être renouvelée qu'à la
-suite d'un nouvel affichage dans les mairies et d'une nouvelle publication dans
-un journal d'annonces légales ;
+les mairies concernées et d'une publication dans un journal d'annonces légales.
+L'association foncière dispose des terres ainsi incorporées dans son périmètre
+dans le cadre d'une convention pluriannuelle de pâturage ou d'un bail conclu
+avec leurs utilisateurs, dont la durée est définie par ses statuts ;
 
 2° L'association, un propriétaire des terres situées dans le périmètre ou, à
 défaut, un tiers prend l'engagement d'acquérir les biens dont le ou les

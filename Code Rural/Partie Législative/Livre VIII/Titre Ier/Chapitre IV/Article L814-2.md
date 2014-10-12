@@ -11,10 +11,16 @@ code de l'éducation.
 Il donne un avis sur le projet de schéma prévisionnel national des formations de
 l'enseignement agricole. Ce schéma, qui tient compte des besoins de formation
 exprimés par les régions, est arrêté pour une période de cinq années par le
-ministre de l'agriculture. La conduite du dispositif national de l'enseignement
-général, technologique et professionnel et de la formation professionnelle aux
-métiers de l'agriculture, de la forêt, de la nature et des territoires est
-assurée par l'Etat sur le fondement de ce schéma.
+ministre de l'agriculture. Il est établi en respectant le projet stratégique
+national pour l'enseignement agricole, qui est également arrêté pour une période
+de cinq ans par le même ministre, après une concertation avec l'ensemble des
+composantes de l'enseignement agricole, les collectivités territoriales et les
+organisations professionnelles et syndicales représentatives des employeurs, des
+exploitants et des salariés agricoles. La conduite du dispositif national de
+l'enseignement général, technologique et professionnel et de la formation
+professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des
+territoires est assurée par l'Etat sur le fondement de ce schéma et de ce projet
+stratégique.
 
 En cas de modifications substantielles, au cours de la période de validité du
 schéma, des bases qui ont servi à son établissement, ce schéma peut faire

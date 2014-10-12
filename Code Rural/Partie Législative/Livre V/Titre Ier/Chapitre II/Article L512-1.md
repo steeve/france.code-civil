@@ -18,8 +18,17 @@ Elles remplissent les missions suivantes :
 - elles assurent l'élaboration et la coordination dans les régions des
 programmes régionaux de développement agricole et rural ;
 
-- elles orientent et coordonnent les actions communes menées par les chambres
-départementales d'agriculture ;
+-elles assurent l'harmonisation des conditions d'emploi des personnels des
+chambres d'agriculture de la région, dans le respect des dispositions
+statutaires et dans un cadre négocié avec les organisations représentatives du
+personnel ;
+
+-elles orientent, structurent et coordonnent les actions des chambres
+départementales d'agriculture, en définissant une stratégie régionale, dans le
+respect des orientations nationales, et en adoptant le budget nécessaire à la
+mise en œuvre de cette stratégie, et assurent à leur bénéfice, dans des
+conditions définies par décret, des missions juridiques, administratives et
+comptables ainsi que des actions de communication ;
 
 - elles contribuent à l'élaboration des orientations de la politique
 contractuelle entre l'Etat et les régions, des schémas d'aménagement du

@@ -40,3 +40,6 @@ départements d'outre-mer, les adaptations nécessaires pour tenir compte des
 situations et des besoins particuliers de ces zones liées à l'exercice de la
 pluriactivité des différentes activités saisonnières et des métiers spécifiques
 aux territoires concernés.
+
+Les centres de formation professionnelle et de promotion agricoles publics et
+les centres privés contribuent à la formation continue à l'agro-écologie.

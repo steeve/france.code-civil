@@ -9,7 +9,8 @@ agricoles ainsi que dans d'autres métiers concourant au développement de
 ceux-ci, notamment dans les domaines des services et de l'aménagement de
 l'espace agricole, rural et forestier, de la gestion de l'eau et de
 l'environnement. Ils contribuent à l'éducation au développement durable et à la
-mise en œuvre de ses principes. Ils contribuent au développement personnel des
+mise en œuvre de ses principes, ainsi qu'à la promotion de la diversité des
+systèmes de production agricole. Ils contribuent au développement personnel des
 élèves, étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de
 leurs qualifications et à leur insertion professionnelle et sociale.
 
@@ -34,6 +35,10 @@ L'enseignement et la formation professionnelle publics aux métiers de
 l'agriculture, de la forêt, de la nature et des territoires sont organisés dans
 le cadre de l'éducation permanente, selon les voies de la formation initiale et
 de la formation continue. Ils constituent une composante du service public
-d'éducation et de formation. Ils relèvent du ministre de l'agriculture. Ils sont
-dispensés dans le respect des principes de laïcité, de liberté de conscience et
-d'égal accès de tous au service public.
+d'éducation et de formation. Ils participent au service public du numérique
+éducatif et de l'enseignement à distance prévu au deuxième alinéa de l'article
+L. 131-2 du code de l'éducation. Ils relèvent du ministre de l'agriculture. Ils
+sont dispensés dans le respect des principes de laïcité, de liberté de
+conscience et d'égal accès de tous au service public. Ils participent également
+à la lutte contre les stéréotypes sexués. Les régions sont associées à la mise
+en œuvre des missions prévues aux 2° à 5°.

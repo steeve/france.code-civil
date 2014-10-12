@@ -9,6 +9,10 @@ Les organisations de producteurs reconnus bénéficient également, à soumissio
 d'offres de l'Etat, des collectivités locales ou de leurs établissements
 publics.
 
+Les producteurs organisés peuvent également bénéficier de majorations dans
+l'attribution des aides publiques à l'investissement dont les objectifs
+correspondent à ceux poursuivis par l'organisation.
+
 Les dispositions relatives aux marchés publics sont également applicables aux
 organisations de producteurs agricoles ressortissant des Etats membres de la
 Communauté économique européenne présentant des caractéristiques comparables et

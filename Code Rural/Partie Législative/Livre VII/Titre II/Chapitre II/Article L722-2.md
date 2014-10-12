@@ -6,4 +6,6 @@ Sont considérés comme travaux agricoles :
 les travaux d'amélioration foncière agricole ainsi que les travaux accessoires
 nécessaires à l'exécution des travaux précédents ;
 
-2° Les travaux de création, restauration et entretien des parcs et jardins.
+2° Les travaux de création, restauration et entretien des parcs et jardins
+comprenant les travaux de maçonnerie paysagère nécessaires à l'exécution des
+travaux précédents.

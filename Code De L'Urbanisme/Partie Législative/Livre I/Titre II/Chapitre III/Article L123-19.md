@@ -57,9 +57,9 @@ le plan d'occupation des sols est caduc.
 
 Toutefois, lorsqu'une procédure de révision du plan d'occupation des sols a été
 engagée avant le 31 décembre 2015, cette procédure peut être menée à terme en
-application des articles L. 123-1 et suivants, dans leur rédaction en vigueur
-avant la publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès au
-logement et un urbanisme rénové, sous réserve d'être achevée au plus tard trois
-ans à compter de la publication de cette même loi. Les dispositions du plan
-d'occupation des sols restent en vigueur jusqu'à l'approbation du plan local
-d'urbanisme et au plus tard jusqu'à l'expiration de ce délai de trois ans.
+application des articles L. 123-1 et suivants, dans leur rédaction en vigueur au
+lendemain de la publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès
+au logement et un urbanisme rénové, sous réserve d'être achevée au plus tard
+trois ans à compter de la publication de cette même loi. Les dispositions du
+plan d'occupation des sols restent en vigueur jusqu'à l'approbation du plan
+local d'urbanisme et au plus tard jusqu'à l'expiration de ce délai de trois ans.

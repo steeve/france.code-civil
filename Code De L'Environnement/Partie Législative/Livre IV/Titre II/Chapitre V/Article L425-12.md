@@ -1,12 +1,13 @@
 Article L425-12
 ----
-Lorsque l'équilibre sylvo-cynégétique est fortement perturbé sur un territoire
-forestier géré conformément à l'un des documents de gestion visés aux articles
-L122-1 à L122-3 et L122-6 du nouveau code forestier, le bénéficiaire du droit de
-chasse qui n'a pas prélevé le nombre minimum d'animaux lui ayant été attribué au
-titre du plan de chasse est tenu de verser au propriétaire, qui n'est pas
-titulaire du droit de chasse ou qui ne le loue pas, et qui en fait la demande
-circonstanciée :
+Lorsque l'équilibre sylvo-cynégétique, défini dans le programme régional de la
+forêt et du bois mentionné à l'article L. 122-1 du code forestier, est fortement
+perturbé sur un territoire forestier géré conformément à l'un des documents de
+gestion visés aux articles L122-1 à L122-3 et L122-6 du nouveau code forestier,
+le bénéficiaire du droit de chasse qui n'a pas prélevé le nombre minimum
+d'animaux lui ayant été attribué au titre du plan de chasse est tenu de verser
+au propriétaire, qui n'est pas titulaire du droit de chasse ou qui ne le loue
+pas, et qui en fait la demande circonstanciée :
 
 -soit le montant de tout ou partie des dépenses de protection indispensables
 qu'il a engagées pour assurer la pérennité des peuplements ;

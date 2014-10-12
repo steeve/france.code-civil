@@ -4,8 +4,8 @@ Pour son application dans les départements d'outre-mer, l'article L. 112-1-1 es
 ainsi rédigé :
 
 " Art. L. 112-1-1. ― Il est créé une commission départementale de la
-consommation des espaces agricoles composée, outre le préfet qui la préside, de
-représentants en proportion égale :
+préservation des espaces naturels, agricoles et forestiers composée, outre le
+préfet qui la préside, de représentants en proportion égale :
 
 " 1° Des services de l'Etat ;
 

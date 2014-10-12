@@ -12,6 +12,10 @@ Le bailleur peut également refuser le renouvellement du bail en vue d'installer
 un de ses descendants ou un descendant de son conjoint ou du partenaire avec
 lequel il est lié par un pacte civil de solidarité, majeur ou mineur émancipé de
 plein droit, qui devra exploiter le fonds dans les conditions fixées ci-desssus.
+Le bailleur justifie que le bénéficiaire de la reprise répond aux conditions de
+capacité ou d'expérience professionnelle mentionnées aux articles L. 331-2 à L.
+331-5 ou qu'il a bénéficié d'une autorisation d'exploiter en application de ces
+dispositions.
 
 Par dérogation aux dispositions de l'article L. 461-3, le droit de reprise prévu
 à l'alinéa qui précède peut être exercé en cours de bail à l'expiration de l'une

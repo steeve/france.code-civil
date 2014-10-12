@@ -24,4 +24,5 @@ un contrat avec l'Etat et en recevoir une aide ; les modalités particulières d
 ce contrat sont fixées par décret.
 
 Les établissements d'enseignement supérieur privés visés au présent article
-participent aux missions de service public définies à l'article L. 812-1.
+participent aux missions de service public définies aux 1° à 9° de l'article L.
+812-1.

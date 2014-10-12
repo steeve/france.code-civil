@@ -12,10 +12,7 @@ services vétérinaires dans le cadre de l'enseignement dispensé par ces
 établissements ;
 
 3° Les inspecteurs de la santé publique vétérinaire, titulaires d'un titre ou
-diplôme de vétérinaire, dans le cadre de leurs attributions et les agents
-spécialisés en pathologie apicole, habilités par l'autorité administrative
-compétente et intervenant sous sa responsabilité dans la lutte contre les
-maladies des abeilles ;
+diplôme de vétérinaire, dans le cadre de leurs attributions ;
 
 4° Les fonctionnaires et agents qualifiés, titulaires ou contractuels mentionnés
 à l'article L. 241-16 lorsqu'ils interviennent dans les limites prévues par cet
@@ -65,4 +62,8 @@ convenir avec un vétérinaire des conditions de leur intervention ;
 personnes réalisant des actes d'ostéopathie animale, inscrites sur une liste
 tenue par l'ordre régional des vétérinaires et s'engageant, sous le contrôle de
 celui-ci, à respecter des règles de déontologie définies par décret en Conseil
-d'Etat.
+d'Etat ;
+
+13° Les techniciens sanitaires apicoles, justifiant de compétences adaptées
+définies par décret, intervenant sous l'autorité et la responsabilité d'un
+vétérinaire pour des actes précisés par arrêté.

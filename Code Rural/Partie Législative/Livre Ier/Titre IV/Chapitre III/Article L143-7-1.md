@@ -16,14 +16,19 @@ de l'article L. 143-4 et l'article L. 143-7 du présent code ne sont alors pas
 applicables.
 
 Le droit de préemption prévu par le 9° de l'article L. 143-2 peut être exercé
-pour l'acquisition d'une fraction d'une unité foncière comprise dans les
-périmètres mentionnés au premier alinéa. Dans ce cas, le propriétaire peut
-exiger que le titulaire du droit de préemption se porte acquéreur de l'ensemble
-de l'unité foncière. Le prix d'acquisition fixé par la juridiction compétente en
-matière d'expropriation tient compte de l'éventuelle dépréciation subie, du fait
-de la préemption partielle, par la fraction restante de l'unité foncière.
+pour acquérir la fraction d'une unité foncière comprise dans les périmètres
+mentionnés au premier alinéa. Dans ce cas, le propriétaire peut exiger que le
+titulaire du droit de préemption se porte acquéreur de l'ensemble de l'unité
+foncière. Le prix d'acquisition fixé par la juridiction compétente en matière
+d'expropriation tient compte de l'éventuelle dépréciation subie, du fait de la
+préemption partielle, par la fraction restante de l'unité foncière.
 
 Les modalités de financement des opérations conduites par la société
 d'aménagement foncier et d'établissement rural pour le compte du conseil général
 en application du 9° de l'article L. 143-2 sont fixées par une convention passée
 entre le conseil général et ladite société.
+
+Lorsque la société d'aménagement foncier et d'établissement rural exerce, à la
+demande et au nom du département, le droit de préemption prévu au 9° de
+l'article L. 143-2, elle peut faire usage de la procédure de révision du prix de
+vente prévue à l'article L. 143-10.

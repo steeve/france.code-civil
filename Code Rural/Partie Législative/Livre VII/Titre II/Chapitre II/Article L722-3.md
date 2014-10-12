@@ -8,7 +8,8 @@ normalement ces opérations tels que débroussaillement, nettoyage des coupes
 ainsi que transport de bois effectué par l'entreprise qui a procédé à tout ou
 partie des opérations précédentes et, lorsqu'ils sont effectués sur le parterre
 de la coupe, les travaux de façonnage, de conditionnement du bois, de sciage et
-de carbonisation, quels que soient les procédés utilisés ;
+de carbonisation, quels que soient les procédés utilisés, ainsi que la
+production de bois et dérivés destinés à l'énergie ou à l'industrie ;
 
 2° Les travaux de reboisement et de sylviculture, y compris l'élagage, le
 débroussaillement et le nettoyage des coupes ;

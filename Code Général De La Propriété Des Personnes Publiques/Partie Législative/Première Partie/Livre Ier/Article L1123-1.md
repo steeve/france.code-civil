@@ -7,6 +7,12 @@ de l'article L. 1122-1 et qui :
 laquelle aucun successible ne s'est présenté ;
 
 2° Soit sont des immeubles qui n'ont pas de propriétaire connu et pour lesquels
-depuis plus de trois ans les taxes foncières n'ont pas été acquittées ou ont été
-acquittées par un tiers. Ces dispositions ne font pas obstacle à l'application
-des règles de droit civil relatives à la prescription.
+depuis plus de trois ans la taxe foncière sur les propriétés bâties n'a pas été
+acquittée ou a été acquittée par un tiers. Ces dispositions ne font pas obstacle
+à l'application des règles de droit civil relatives à la prescription ;
+
+3° Soit sont des immeubles qui n'ont pas de propriétaire connu, qui ne sont pas
+assujettis à la taxe foncière sur les propriétés bâties et pour lesquels, depuis
+plus de trois ans, la taxe foncière sur les propriétés non bâties n'a pas été
+acquittée ou a été acquittée par un tiers. Le présent 3° ne fait pas obstacle à
+l'application des règles de droit civil relatives à la prescription.

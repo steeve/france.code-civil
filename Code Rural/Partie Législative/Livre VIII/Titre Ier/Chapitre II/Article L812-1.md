@@ -16,20 +16,39 @@ d'hygiène, de qualité et de sécurité de l'alimentation, d'aménagement, de
 développement, de gestion et de protection de l'espace rural, de la forêt, de
 l'eau, des milieux naturels et du paysage ;
 
-2° Participe à la politique de développement scientifique par des activités de
+2° Contribue à l'éducation à l'environnement et au développement durable et à la
+mise en œuvre de ses principes ;
+
+3° Participe à la politique de développement scientifique par des activités de
 recherche fondamentale, appliquée et clinique ;
 
-3° Conduit des actions de recherche, d'innovation et d'ingénierie dans les
+4° Conduit des actions de recherche, d'innovation et d'ingénierie dans les
 domaines de l'éducation et de la formation ;
 
-4° Contribue, en collaboration avec les organismes compétents, à la veille
+5° Contribue, en collaboration avec les organismes compétents, à la veille
 scientifique et technique, à l'innovation technologique et au développement
-ainsi qu'à la valorisation des résultats de la recherche ;
+ainsi qu'à la valorisation des résultats de la recherche, en se fondant
+notamment sur des expérimentations conduites dans ses exploitations, centres
+hospitaliers universitaires vétérinaires et installations techniques et sur des
+travaux de recherche menés avec l'implication des partenaires ;
 
-5° Participe à la diffusion de l'information scientifique et technique ;
+6° Participe à la diffusion de l'information scientifique et technique ;
 
-6° Concourt à la mise en oeuvre de la coopération scientifique, technique et
-pédagogique internationale.
+7° Concourt à la mise en œuvre de la coopération scientifique, technique et
+pédagogique internationale, notamment par la conclusion de conventions
+d'échanges d'étudiants, d'enseignants-chercheurs, d'enseignants et de chercheurs
+;
+
+8° Contribue à la construction de l'espace européen de l'enseignement supérieur
+et de la recherche et à l'attractivité du territoire national, notamment par la
+conclusion de conventions ;
+
+9° Promeut la diversité des recrutements et la mixité et contribue à l'insertion
+sociale et professionnelle des étudiants ;
+
+10° Assure un appui à l'enseignement technique agricole, notamment par la
+formation initiale et continue de ses personnels et par le transfert des
+résultats de la recherche, en particulier dans le domaine de l'agro-écologie.
 
 L'enseignement supérieur agricole public est régulièrement évalué.
 
@@ -37,6 +56,11 @@ L'enseignement supérieur agricole public est dispensé selon les voies de la
 formation initiale et de la formation continue. Il comprend des formations
 supérieures professionnelles, des formations supérieures de spécialisation et
 des formations doctorales.
+
+Les agents contractuels recrutés pour exercer leurs fonctions dans les
+établissements d'enseignement supérieur agricole peuvent être recrutés sur les
+emplois ouverts par le conseil d'administration de l'établissement, à temps
+complet ou incomplet en fonction des besoins du service.
 
 Le ministre chargé de l'enseignement supérieur est associé à la tutelle et à la
 définition du projet pédagogique des établissements d'enseignement supérieur

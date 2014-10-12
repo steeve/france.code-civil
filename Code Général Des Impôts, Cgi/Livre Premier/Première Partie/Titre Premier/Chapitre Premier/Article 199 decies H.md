@@ -56,8 +56,8 @@ engagements mentionnés au b du présent 2 ;
 
 d) A la cotisation versée à un assureur par le contribuable, par un groupement
 forestier ou par une société d'épargne forestière dont le contribuable est
-membre pour la souscription, dans le cadre prévu à l'article L. 352-1 du code
-forestier, d'un contrat d'assurance répondant à des conditions fixées par
+membre pour la souscription, dans le cadre prévu au 2° de l'article L. 352-1 du
+code forestier, d'un contrat d'assurance répondant à des conditions fixées par
 décret.
 
 Les conditions et les modalités d'application de ces dispositions sont fixées
@@ -95,7 +95,7 @@ veuve ou divorcée et de 11 400 € pour un couple marié ou pour les partenaire
 liés par un pacte civil de solidarité, soumis à une imposition commune.
 
 Les dépenses mentionnées au d dudit 3 sont retenues dans la limite de 7,2 € par
-hectare assuré en 2013, 2014 et 2015 et de 6 € par hectare assuré en 2016 et
+hectare assuré en 2013,2014 et 2015 et de 6 € par hectare assuré en 2016 et
 2017. Elles sont globalement retenues dans la limite de 6 250 € pour une
 personne célibataire, veuve ou divorcée et de 12 500 € pour un couple marié ou
 pour les partenaires liés par un pacte civil de solidarité, soumis à une

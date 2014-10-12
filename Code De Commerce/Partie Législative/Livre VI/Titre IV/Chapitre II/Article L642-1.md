@@ -17,8 +17,9 @@ bailleur ou, à défaut, à tout repreneur dont l'offre a été recueillie dans 
 conditions fixées aux articles L. 642-2, L. 642-4 et L. 642-5. Les dispositions
 relatives au contrôle des structures des exploitations agricoles ne sont pas
 applicables. Toutefois, lorsque plusieurs offres ont été recueillies, le
-tribunal tient compte des dispositions des 1° à 4° et 6° à 9° de l'article L.
-331-3 du code rural et de la pêche maritime.
+tribunal tient compte des priorités du schéma directeur régional des
+exploitations agricoles mentionné à l'article L. 312-1 du code rural et de la
+pêche maritime.
 
 Lorsque le débiteur est un officier public ou ministériel, le liquidateur peut
 exercer le droit du débiteur de présenter son successeur au garde des sceaux,

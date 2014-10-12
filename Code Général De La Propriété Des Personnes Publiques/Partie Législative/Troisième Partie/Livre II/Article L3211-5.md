@@ -21,3 +21,7 @@ compris dans le périmètre d'une déclaration d'utilité publique sont cédés
 conformément aux dispositions du dernier alinéa de l'article L. 12-4 du code de
 l'expropriation pour cause d'utilité publique dans les conditions précisées par
 décret en Conseil d'Etat.
+
+Les bois et forêts acquis à l'Etat en application de l'article L. 1123-4 sont
+soumis au premier alinéa du présent article à compter de la date à laquelle le
+régime forestier de l'article L. 211-1 du code forestier leur est appliqué.

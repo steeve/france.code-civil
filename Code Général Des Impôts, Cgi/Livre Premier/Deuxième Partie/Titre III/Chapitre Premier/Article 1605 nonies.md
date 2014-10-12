@@ -10,11 +10,12 @@ de l'urbanisme.
 
 Le produit de cette taxe est affecté, dans la limite du plafond prévu au I de
 l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, à
-un fonds pour l'installation des jeunes agriculteurs inscrit au budget de
-l'Agence de services et de paiement mentionnée au chapitre III du titre Ier du
-livre III du code rural et de la pêche maritime. Ce fonds finance des mesures en
-faveur des jeunes agriculteurs visant à faciliter l'accès au foncier et à
-développer des projets innovants.
+un fonds inscrit au budget de l'Agence de services et de paiement. Ce fonds
+finance des mesures en faveur de l'installation et de la transmission en
+agriculture. Il permet de soutenir notamment des actions facilitant la
+transmission et l'accès au foncier, des actions d'animation, de communication et
+d'accompagnement, des projets innovants et des investissements collectifs ou
+individuels.
 
 Celles de ces mesures qui sont dans le champ de compétences de l'Etablissement
 national des produits de l'agriculture et de la mer mentionné à l'article L.

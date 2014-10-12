@@ -1,13 +1,17 @@
 Article L253-5
 ----
-La publicité commerciale destinée au grand public, télévisée, radiodiffusée et
-par voie d'affichage extérieur en dehors des points de distribution est
-interdite pour les produits visés à l'article L. 253-1.
+Toute publicité commerciale est interdite pour les produits mentionnés à
+l'article L. 253-1, à l'exception des produits de biocontrôle figurant sur une
+liste établie par l'autorité administrative.
 
-Un arrêté des ministres chargés de l'environnement, de l'agriculture et de la
-consommation fixe les conditions de présentation des bonnes pratiques
-d'utilisation et d'application de ces produits dans les insertions
-publicitaires, en tenant compte des différences entre produits destinés aux
-professionnels et produits destinés aux particuliers. Ces insertions
-publicitaires mettent en avant les principes de la lutte intégrée et de bonnes
-pratiques dans l'usage et l'application des produits.
+Par dérogation au premier alinéa du présent article, la publicité destinée aux
+utilisateurs professionnels des produits mentionnés à l'article L. 253-1 est
+autorisée dans les points de distribution de produits à ces utilisateurs et dans
+les publications qui leur sont destinées.
+
+Un décret définit les conditions dans lesquelles les insertions publicitaires
+sont présentées. Ces insertions publicitaires mettent en avant les principes de
+la lutte intégrée, les bonnes pratiques dans l'usage et l'application des
+produits pour la protection de la santé humaine et animale et pour
+l'environnement, et les dangers potentiels pour la santé humaine et animale et
+pour l'environnement.

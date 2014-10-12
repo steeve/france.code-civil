@@ -13,8 +13,14 @@ dangers ;
 
 2° Soumettre, en fonction des dangers sanitaires et des types de production, les
 propriétaires ou détenteurs d'animaux ou de végétaux à un agrément sanitaire, à
-des obligations de déclaration de détention, d'activité, d'état sanitaire, dans
-des conditions définies par décret en Conseil d'Etat ;
+des obligations de déclaration de détention, de déplacement d'animaux,
+d'activité, d'état sanitaire, dans des conditions définies par décret en Conseil
+d'Etat ;
 
 3° Soumettre à un agrément les personnes intervenant dans la mise en œuvre des
-mesures de prévention, de surveillance ou de lutte prévues au présent article.
+mesures de prévention, de surveillance ou de lutte prévues au présent article ;
+
+4° Imposer aux personnes mentionnées au dernier alinéa de l'article L. 201-2 des
+mesures particulières de contrôle adaptées à ces dangers et au caractère sauvage
+des animaux fréquentant les territoires sur lesquels elles organisent l'exercice
+de la chasse ou sur lesquels elles exercent leur droit de chasser.

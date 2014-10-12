@@ -6,7 +6,7 @@ jardins, clos ou non, ainsi que leurs dépôts ou magasins, aux agents mentionn�
 à l'article L. 250-2.
 
 Les représentants des organismes délégataires désignés par l'autorité
-administrative conformément à l'article L. 201-12 ont accès aux lieux mentionnés
+administrative conformément à l'article L. 201-13 ont accès aux lieux mentionnés
 au premier alinéa au même titre que les agents mentionnés à l'article L. 250-2
 dans les conditions prévues à l'article L. 250-5. Ils peuvent effectuer des
 prélèvements dans les conditions prévues à l'article L. 250-6. Lorsqu'un

@@ -17,6 +17,13 @@ membres élus des chambres départementales ou régionales restent en fonction
 jusqu'au terme de leur mandat, ainsi que les conditions d'administration de la
 nouvelle chambre jusqu'à cette date.
 
+Dans des conditions précisées par décret, le réseau des chambres d'agriculture
+et, en son sein, chaque établissement contribuent à l'amélioration de la
+performance économique, sociale et environnementale des exploitations agricoles
+et de leurs filières et accompagnent, dans les territoires, la démarche
+entrepreneuriale et responsable des agriculteurs ainsi que la création
+d'entreprises et le développement de l'emploi.
+
 Les établissements qui composent le réseau des chambres d'agriculture ont, dans
 le respect de leurs compétences respectives, une fonction de représentation des
 intérêts de l'agriculture auprès des pouvoirs publics et des collectivités

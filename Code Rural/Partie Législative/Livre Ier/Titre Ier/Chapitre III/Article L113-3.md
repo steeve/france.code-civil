@@ -1,14 +1,15 @@
 Article L113-3
 ----
 Dans les régions délimitées en application de l'article L. 113-2, des
-groupements dits " groupements pastoraux " peuvent être créés dans les formes
+groupements dits "groupements pastoraux" peuvent être créés dans les formes
 prévues par les lois et règlements en vigueur pour la constitution de sociétés,
 associations, syndicats et groupements d'intérêt économique, en vue de
 l'exploitation de pâturages. Si une personne morale autre que les sociétés
-d'intérêt collectif agricole, groupements agricoles d'exploitation en commun ou
-coopératives agricoles adhère au groupement pastoral, celui-ci ne peut être
-constitué que sous la forme d'une société dans laquelle les exploitants
-agricoles locaux doivent détenir la majorité du capital social.
+d'intérêt collectif agricole, groupements agricoles d'exploitation en commun,
+exploitations agricoles à responsabilité limitée ou coopératives agricoles
+adhère au groupement pastoral, celui-ci ne peut être constitué que sous la forme
+d'une société dans laquelle les exploitants agricoles locaux doivent détenir la
+majorité du capital social.
 
 Les groupements pastoraux sont soumis à l'agrément du préfet et doivent avoir
 une durée minimale de neuf ans.

@@ -6,8 +6,8 @@ conditions du contrat type établi, pour l'ensemble de la collectivité ou pour 
 région agricole de la collectivité dans laquelle se trouve le fonds, par une
 commission consultative des baux ruraux.
 
-Le bail peut inclure les clauses mentionnées au quatrième alinéa de l'article L.
-411-27 dans les conditions fixées par cet article.
+Le bail peut inclure les clauses mentionnées aux deuxième et troisième alinéas
+de l'article L. 411-27, dans les conditions fixées à ce même article.
 
 Un arrêté du préfet pris après avis de ladite commission fixe, en tenant compte
 des besoins locaux, la nature et la superficie maximum des parcelles de terres

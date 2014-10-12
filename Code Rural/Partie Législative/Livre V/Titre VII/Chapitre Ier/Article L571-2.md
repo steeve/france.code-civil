@@ -23,3 +23,9 @@ Elle émet des avis et formule des propositions sur toute question de sa
 compétence ou tendant au développement durable de l'agriculture, de la pêche et
 de l'aquaculture ainsi que de la forêt et peut promouvoir ou participer à toute
 action ayant les mêmes objets.
+
+Un contrat d'objectifs et de performance est établi entre la chambre de
+l'agriculture, de la pêche et de l'aquaculture de Mayotte, l'Etat et le
+Département de Mayotte. La périodicité, les modalités d'élaboration et le champ
+d'application de ce contrat, qui est soumis pour avis au comité mentionné à
+l'article L. 182-1-1, sont fixés par décret.

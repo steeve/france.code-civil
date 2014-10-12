@@ -13,9 +13,10 @@ d'une société d'aménagement foncier et d'établissement rural :
 
 1° Au profit des exploitants agricoles ayant leur domicile réel et fixe, un
 bâtiment d'exploitation et le siège de leur exploitation sur le territoire de la
-section et exploitant des biens agricoles sur celui-ci, et au profit
-d'exploitants agricoles ayant un bâtiment d'exploitation hébergeant, pendant la
-période hivernale, leurs animaux sur le territoire de la section et exploitant
+section et exploitant des biens agricoles sur celui-ci ; et, si l'autorité
+compétente en décide, au profit d'exploitants agricoles ayant un bâtiment
+d'exploitation hébergeant, pendant la période hivernale, leurs animaux sur le
+territoire de la section conformément au règlement d'attribution et exploitant
 des biens agricoles sur ledit territoire ;
 
 2° A défaut, au profit des exploitants agricoles utilisant des biens agricoles

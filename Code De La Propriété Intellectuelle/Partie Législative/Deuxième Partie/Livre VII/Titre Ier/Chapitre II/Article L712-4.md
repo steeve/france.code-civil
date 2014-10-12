@@ -8,6 +8,12 @@ la propriété industrielle par :
 bénéficiant d'une date de priorité antérieure, ou le propriétaire d'une marque
 antérieure notoirement connue ;
 
+1° bis Le directeur de l'Institut national de l'origine et de la qualité, dès
+lors qu'il y a un risque d'atteinte au nom, à l'image, à la réputation ou à la
+notoriété d'une appellation d'origine ou d'une indication géographique
+mentionnées aux articles L. 641-5, L. 641-10, L. 641-11 et L. 641-11-1 du code
+rural et de la pêche maritime ;
+
 2° Le bénéficiaire d'un droit exclusif d'exploitation, sauf stipulation
 contraire du contrat ;
 

@@ -21,6 +21,9 @@ l'information des consommateurs ;
 3° Renforcer l'efficacité économique des filières, notamment en contribuant à la
 mise en place d'une politique de développement durable et de qualité ;
 
+3° bis Accompagner, encourager et valoriser l'innovation et l'expérimentation
+dans les domaines de l'agriculture, de la pêche et de l'aquaculture ;
+
 4° Mettre en œuvre les mesures communautaires afférentes à ses missions ;
 
 5° Recueillir et évaluer l'information sur tout risque susceptible de porter

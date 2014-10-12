@@ -8,7 +8,9 @@ de valeurs non justifiée, soit imposé ou tenté d'imposer la reprise de biens
 mobiliers à un prix ne correspondant pas à la valeur vénale de ceux-ci.
 
 Les sommes indûment perçues sont sujettes à répétition. Elles sont majorées d'un
-intérêt calculé à compter de leur versement.
+intérêt calculé à compter de leur versement et égal au taux de l'intérêt légal
+mentionné à l'article L. 313-2 du code monétaire et financier majoré de trois
+points.
 
 En cas de reprise de biens mobiliers à un prix ne correspondant pas à la valeur
 vénale de ceux-ci, l'action en répétition peut être exercée dès lors que la

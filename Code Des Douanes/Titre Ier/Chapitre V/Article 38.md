@@ -50,6 +50,11 @@ code ;
 8° Aux médicaments à usage vétérinaire mentionnés à l'article L. 5142-7 du même
 code ;
 
+8° bis Aux produits phytopharmaceutiques mentionnés au paragraphe 1 de l'article
+2 du règlement (CE) n° 1107/2009 du Parlement européen et du Conseil, du 21
+octobre 2009, concernant la mise sur le marché des produits phytopharmaceutiques
+et abrogeant les directives 79/117/ CEE et 91/414/ CEE du Conseil ;
+
 9° Aux marchandises contrefaisantes ;
 
 10° Aux produits sanguins labiles et aux pâtes plasmatiques mentionnés aux 1° et

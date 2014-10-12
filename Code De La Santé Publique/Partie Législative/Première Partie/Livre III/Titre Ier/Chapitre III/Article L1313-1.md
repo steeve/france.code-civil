@@ -20,6 +20,14 @@ Elle contribue également à assurer :
 Elle exerce des missions relatives aux médicaments vétérinaires dans les
 conditions prévues au titre IV du livre Ier de la cinquième partie.
 
+Elle exerce également, pour les produits phytopharmaceutiques et les adjuvants
+mentionnés à l'article L. 253-1 du code rural et de la pêche maritime, des
+missions relatives à la délivrance, à la modification et au retrait des
+différentes autorisations préalables à la mise sur le marché et à
+l'expérimentation et, pour les matières fertilisantes et supports de culture
+mentionnés à l'article L. 255-1 du même code, les missions relatives aux
+autorisations mentionnées au premier alinéa de l'article L. 255-2 dudit code.
+
 Dans son champ de compétence, l'agence a pour mission de réaliser l'évaluation
 des risques, de fournir aux autorités compétentes toutes les informations sur
 ces risques ainsi que l'expertise et l'appui scientifique et technique

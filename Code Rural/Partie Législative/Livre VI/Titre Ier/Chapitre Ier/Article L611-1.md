@@ -1,34 +1,25 @@
 Article L611-1
 ----
 Un Conseil supérieur d'orientation et de coordination de l'économie agricole et
-alimentaire, composé de représentants des ministres intéressés, de la production
-agricole, de la transformation et de la commercialisation des produits
-agricoles, de l'artisanat et du commerce indépendant de l'alimentation, des
-consommateurs et des associations agréées pour la protection de l'environnement,
-de la propriété agricole, des syndicats représentatifs des salariés des filières
-agricoles et alimentaires participe à la définition, à la coordination, à la
-mise en oeuvre et à l'évaluation de la politique d'orientation des productions
-et d'organisation des marchés.
+alimentaire, composé de représentants des ministres intéressés, de
+l'établissement mentionné à l'article L. 621-1, de l'établissement mentionné à
+l'article L. 681-3, des régions, de la production agricole, de la transformation
+et de la commercialisation des produits agricoles, de l'artisanat et du commerce
+indépendant de l'alimentation, des consommateurs et des associations agréées
+pour la protection de l'environnement, de la propriété agricole, des syndicats
+représentatifs des salariés des filières agricoles et alimentaires et du Conseil
+national de la montagne participe à la définition, à la coordination, à la mise
+en œuvre et à l'évaluation de la politique d'orientation des productions et
+d'organisation des marchés.
 
-Il est compétent pour l'ensemble des productions agricoles, agro-alimentaires,
-agro-industrielles et forestières.
-
-Le conseil veille notamment :
-
-a) A la cohérence des actions économiques sectorielles conduites par
-l'établissement mentionné à l'article L. 621-1 et les organisations
-interprofessionnelles reconnues et à l'équilibre entre les différents secteurs
-de production. Il contribue à la détermination des priorités et des arbitrages,
-en particulier en ce qui concerne les moyens budgétaires affectés ;
-
-b) A la cohérence nationale des projets départementaux définis à l'article L.
-313-1 au regard notamment de la politique d'orientation des productions et
-d'organisation des marchés. Il est consulté sur les orientations données dans le
-cadre de l'élaboration des contrats de plan Etat-régions ;
-
-c) A la cohérence des actions menées en matière de recherche, d'expérimentation
-et de développement agricole, financées par le compte d'affectation spéciale "
-Développement agricole et rural ".
+Le conseil est compétent pour l'ensemble des productions agricoles,
+agroalimentaires, halio-alimentaires, agro-industrielles et halio-industrielles.
+Lorsque les questions sur lesquelles il doit se prononcer ont une incidence sur
+les productions forestières, le Conseil supérieur de la forêt et du bois y est
+représenté à titre consultatif. Lorsque des questions relatives à la qualité
+agroalimentaire ou halio-alimentaire sont évoquées au sein du conseil,
+l'Institut national de l'origine et de la qualité y est représenté à titre
+consultatif.
 
 Indépendamment des attributions qui lui sont conférées par les dispositions
 législatives et réglementaires en vigueur, le conseil examine et peut rendre des
@@ -43,21 +34,32 @@ de commerce extérieur ;
 et agro-industriel, notamment les orientations en matière de soutien financier,
 de protection et de promotion des signes de qualité ;
 
-3° (Abrogé) ;
+3° Les orientations, notamment celles issues de la concertation menée au sein de
+l'établissement mentionné à l'article L. 621-1 et au sein de l'établissement
+mentionné à l'article L. 681-3, en matière d'organisation économique des
+producteurs, d'organisation interprofessionnelle et de relations contractuelles
+unissant la production à son aval ainsi que d'environnement économique au sein
+duquel évoluent les exploitations agricoles et les entreprises d'aval ;
 
-4° La coordination et la cohérence des activités de l'établissement mentionné à
-l'article L. 621-1 et des organisations professionnelles reconnues ;
-
-5° Les orientations en matière d'organisation économique des producteurs,
-d'organisation interprofessionnelle et de relations contractuelles unissant la
-production à son aval ainsi que d'environnement économique au sein duquel
-évoluent les exploitations agricoles et les entreprises d'aval ;
-
-6° La cohérence de la politique d'adaptation des structures d'exploitation avec
-la politique d'orientation des productions ;
-
-7° Les règles de mise en marché et de commercialisation lorsqu'elles sont
+4° Les règles de mise en marché et de commercialisation lorsqu'elles sont
 définies par l'autorité administrative compétente.
+
+Dans l'objectif de triple performance économique, sociale et environnementale,
+le conseil veille notamment :
+
+a) A la cohérence de la politique d'adaptation des structures d'exploitation et
+des actions en faveur du développement rural avec la politique d'orientation des
+productions, qui résulte de la concertation menée au sein de l'établissement
+mentionné à l'article L. 621-1 et au sein de l'établissement mentionné à
+l'article L. 681-3 ;
+
+b) A la cohérence des actions économiques sectorielles conduites par ces
+établissements avec celles conduites par les organisations interprofessionnelles
+reconnues ;
+
+c) A la cohérence des actions menées en matière de recherche, d'expérimentation
+et de développement agricole, financées par le compte d'affectation spéciale "
+Développement agricole et rural ".
 
 Dans l'exercice de ses compétences, le conseil tient compte de la nécessité d'un
 développement équilibré et durable du territoire et du maintien de l'économie
@@ -66,16 +68,3 @@ rurale et de l'emploi.
 Certaines attributions du conseil peuvent être exercées, dans les conditions
 fixées par décret, par des commissions techniques spécialisées comprenant pour
 partie des personnalités extérieures au conseil.
-
-Sans préjudice des dispositions législatives et réglementaires en vigueur, le
-Conseil supérieur d'orientation et de coordination de l'économie agricole et
-alimentaire délègue normalement ses compétences en matière de forêt et de
-transformation du bois au Conseil supérieur de la forêt et des produits
-forestiers. Lorsque les problèmes de la forêt et de la transformation du bois
-sont évoqués au sein du Conseil supérieur d'orientation et de coordination, le
-Conseil supérieur de la forêt et des produits forestiers y est représenté.
-
-Lorsque les problèmes de qualité agro-alimentaire sont évoqués au sein du
-conseil, la Commission nationale des labels et des certifications des produits
-agricoles et alimentaires et l'Institut national de l'origine et de la qualité y
-sont représentés à titre consultatif.

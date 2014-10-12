@@ -9,9 +9,9 @@ conférence intercommunale rassemblant, à l'initiative de son président,
 l'ensemble des maires des communes membres. Toute élaboration d'un plan local
 d'urbanisme d'une commune située en dehors du périmètre d'un schéma de cohérence
 territoriale approuvé et ayant pour conséquence une réduction des surfaces des
-espaces agricoles est soumise pour avis à la commission départementale de la
-consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural
-et de la pêche maritime.
+espaces naturels, agricoles et forestiers est soumise pour avis à la commission
+départementale de la préservation des espaces naturels, agricoles et forestiers
+prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 Dans les autres cas, le plan local d'urbanisme est élaboré à l'initiative et
 sous la responsabilité de la commune, le cas échéant en collaboration avec

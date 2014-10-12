@@ -9,3 +9,6 @@ production, définie comme la surface comprenant les communes ou parties de
 communes propres à produire l'appellation d'origine, ainsi que sur la
 détermination des conditions de production qui figurent dans un cahier des
 charges.
+
+Ces conditions de production peuvent comporter des mesures destinées à favoriser
+la préservation des terroirs.

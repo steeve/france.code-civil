@@ -17,6 +17,13 @@ Le deuxième alinéa de l'article L. 5212-20 du code général des collectivité
 territoriales n'est pas applicable aux établissements publics territoriaux de
 bassin.
 
+Les institutions ou organismes interdépartementaux constitués en application des
+articles L. 5421-1 à L. 5421-6 du même code et reconnus établissements publics
+territoriaux de bassin à la date d'entrée en vigueur de la loi n° 2014-58 du 27
+janvier 2014 de modernisation de l'action publique territoriale et d'affirmation
+des métropoles conservent cette reconnaissance jusqu'à modification de leur
+statut en syndicat mixte, et au plus tard jusqu'au 1er janvier 2018.
+
 II.-Un établissement public d'aménagement et de gestion de l'eau est un
 groupement de collectivités territoriales constitué en application des articles
 L. 5711-1 à L. 5721-9 du code général des collectivités territoriales à

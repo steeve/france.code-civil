@@ -42,7 +42,8 @@ mètres carrés, ou situés dans une zone affectée à cette fin soit par un doc
 d'urbanisme opposable aux tiers, soit par une décision de l'organe délibérant
 d'une collectivité publique ;
 
-6° Les acquisitions de surfaces boisées, sauf :
+6° Les acquisitions de parcelles classées en nature de bois et forêts au
+cadastre, sauf :
 
 a) Si ces dernières sont mises en vente avec d'autres parcelles non boisées
 dépendant de la même exploitation agricole, l'acquéreur ayant toutefois la
@@ -66,4 +67,7 @@ forestier en zone forestière prévu aux articles L. 123-18 à L. 123-22 ;
 7° Les biens compris dans un plan de cession totale ou partielle d'une
 entreprise arrêté conformément aux articles 81 et suivants de la loi n° 85-98 du
 25 janvier 1985 relative au redressement et à la liquidation judiciaires des
-entreprises.
+entreprises ;
+
+8° Les acquisitions de la nue-propriété d'un bien par ses usufruitiers et celles
+de l'usufruit d'un bien par ses nu-propriétaires.

@@ -21,3 +21,7 @@ conditions prévues aux articles L. 411-71 et L. 411-73. Cette mention est
 établie par l'officier public ou ministériel chargé de la vente d'après les
 indications fournies par le bailleur et par le preneur ; en cas de désaccord
 entre les parties, elle fait état des éléments contestés.
+
+La demande du preneur sortant relative à une indemnisation des améliorations
+apportées au fonds loué se prescrit par douze mois à compter de la date de fin
+de bail, à peine de forclusion.

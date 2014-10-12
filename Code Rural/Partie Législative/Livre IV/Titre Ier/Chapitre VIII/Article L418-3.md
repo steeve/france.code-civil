@@ -1,8 +1,8 @@
 Article L418-3
 ----
 A défaut de congé délivré par acte extrajudiciaire dix-huit mois au moins avant
-son terme, le bail est renouvelé pour une période de cinq ans au moins. Ce congé
-est notifié sans que soient exigées les conditions énoncées à la section 8 du
+son terme, le bail est renouvelé pour une période de neuf ans. Ce congé est
+notifié sans que soient exigées les conditions énoncées à la section 8 du
 chapitre Ier du présent titre. Le bail renouvelé reste soumis aux dispositions
 du présent chapitre. Sauf convention contraire, ses clauses et conditions sont
 celles du bail précédent. En cas de désaccord entre les parties, le tribunal

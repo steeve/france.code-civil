@@ -1,21 +1,26 @@
 Article L631-25
 ----
-Lorsque la conclusion de contrats de vente écrits a été rendue obligatoire dans
-les conditions prévues au I de l'article L. 631-24, est sanctionné par une
-amende administrative, dont le montant ne peut être supérieur à 75 000 € par
-producteur ou par opérateur économique mentionné au premier alinéa de l'article
-L. 551-1 et par an, le fait pour un acheteur :
+Lorsque la proposition ou la conclusion de contrats de vente écrits a été rendue
+obligatoire dans les conditions prévues au I de l'article L. 631-24, est
+sanctionné par une amende administrative, dont le montant ne peut être supérieur
+à 75 000 € par producteur ou par opérateur économique mentionné au premier
+alinéa de l'article L. 551-1 et par an, le fait pour un acheteur :
 
-― de ne pas remettre au vendeur une proposition de contrat écrit ;
+- de ne pas remettre au vendeur une proposition de contrat écrit ;
 
-― ou de ne pas inclure dans la proposition de contrat écrit une ou plusieurs
+- ou de ne pas inclure dans la proposition de contrat écrit une ou plusieurs
 clauses obligatoires ;
 
-― ou de rédiger ces clauses en méconnaissance du I de l'article L. 631-24 ;
+- ou de rédiger ces clauses en méconnaissance du I de l'article L. 631-24 ;
 
-― ou, pour les produits soumis à accises, de ne pas exécuter le contrat
+- ou, pour les produits soumis à accises, de ne pas exécuter le contrat
 conformément à ces clauses obligatoires, incluant celles relatives aux délais de
 paiement tels que définis au 4° de l'article L. 443-1 du code de commerce.
+
+- ou de ne pas remettre à l'organisation de producteurs la proposition de
+contrat-cadre prévue à l'avant-dernier alinéa du I de l'article L. 631-24 ;
+
+- ou de ne pas transmettre les informations prévues au dernier alinéa du même I.
 
 Est sanctionné de la même manière le fait pour une société mentionnée à
 l'article L. 521-1 de ne pas remettre à un associé coopérateur un exemplaire des

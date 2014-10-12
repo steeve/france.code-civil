@@ -2,7 +2,7 @@ Article L621-8-1
 ----
 En cas de défaut de réponse à une enquête statistique obligatoire au sens de la
 loi n° 51-711 du 7 juin 1951 précitée, dont le résultat est transmis, dans les
-conditions prévues au second alinéa de l'article L. 621-8, à l'établissement
+conditions prévues au dernier alinéa de l'article L. 621-8, à l'établissement
 mentionné à l'article L. 621-1, le ministre chargé de l'économie peut, après
 avis du comité du secret statistique et du Conseil national de l'information
 statistique réuni en comité du contentieux des enquêtes statistiques

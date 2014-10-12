@@ -18,4 +18,8 @@ c) Les groupements d'intérêt économique prévus par les articles L. 251-1 à 
 251-23 du code de commerce ;
 
 d) Les groupements européens d'intérêt économique prévus par les articles L.
-252-1 à L. 252-12 du code de commerce.
+252-1 à L. 252-12 du code de commerce ;
+
+e) Les instituts techniques liés aux professions mentionnées à l'article L.
+830-1 du code rural et de la pêche maritime ainsi que leurs structures
+nationales de coordination.

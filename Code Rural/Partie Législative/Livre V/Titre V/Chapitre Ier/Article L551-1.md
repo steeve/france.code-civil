@@ -42,3 +42,11 @@ organisations de producteurs s'ils mettent à la disposition de leurs membres le
 moyens humains, matériels ou techniques nécessaires à la commercialisation de la
 production de ceux-ci. En outre, lorsqu'ils sont chargés de la
 commercialisation, ils y procèdent dans le cadre d'un mandat.
+
+Ces organismes peuvent également, s'ils bénéficient d'un mandat délivré à cette
+fin, assurer en justice la défense des droits qu'un ou plusieurs de leurs
+membres tirent d'un contrat de vente de produits agricoles. Une organisation de
+producteurs peut agir en justice dans l'intérêt de plusieurs de ses membres pour
+les litiges mettant en cause un même acheteur et portant sur l'application d'une
+même clause. Elle peut également, dans les mêmes conditions, les représenter
+dans le cadre d'une procédure de médiation.

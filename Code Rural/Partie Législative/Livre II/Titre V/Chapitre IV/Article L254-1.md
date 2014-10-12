@@ -12,7 +12,12 @@ ou morales agissant pour leur compte, y compris les groupements d'achats ;
 
 2° L'application, en qualité de prestataire de services, des produits
 phytopharmaceutiques, sauf si elle est effectuée dans le cadre de contrats
-d'entraide à titre gratuit au sens de l'article L. 325-1 ;
+d'entraide à titre gratuit au sens de l'article L. 325-1 ou par un exploitant
+agricole titulaire du certificat mentionné au II de l'article L. 254-3 sur des
+exploitations dont la surface agricole utile est inférieure ou égale à la
+surface définie en application de l'avant-dernier alinéa de l'article L. 732-39,
+ou si les produits appliqués sont des produits de biocontrôle mentionnés au
+premier alinéa de l'article L. 253-5 ;
 
 3° Le conseil à l'utilisation des produits phytopharmaceutiques, indépendant de
 toute activité de vente ou d'application, lorsque cette activité s'exerce à
@@ -34,3 +39,9 @@ autres que celles exerçant les activités mentionnées au 1° du II justifient 
 l'obtention d'un certificat attestant qu'elles ont acquis les connaissances
 appropriées à leurs rôle et responsabilités ou de l'emploi d'une personne
 détenant ce certificat.
+
+V.-Les détenteurs de l'agrément mentionné au II, les personnes mentionnées au IV
+du présent article et les personnes physiques mentionnées au II de l'article L.
+254-3 doivent concourir, dans le cadre de leurs activités, à la réalisation des
+objectifs du plan d'action national prévu à l'article L. 253-6, notamment par la
+mise en œuvre de la lutte intégrée contre les ennemis des cultures.

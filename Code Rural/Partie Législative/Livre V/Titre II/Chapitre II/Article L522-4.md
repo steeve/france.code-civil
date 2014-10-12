@@ -23,9 +23,10 @@ Les associés non coopérateurs sont tenus informés de l'évolution des affaire
 sociales.
 
 Ils ne peuvent détenir ensemble plus d'un cinquième des voix en assemblée
-générale, ces voix pouvant être pondérées dans les conditions fixées
-statutairement. En outre, aucun associé non coopérateur ne peut disposer de plus
-de 10 p. 100 des voix.
+générale ou plus d'un quart des voix lorsque les salariés en activité sont
+majoritaires en leur sein, ces voix pouvant être pondérées dans les conditions
+fixées statutairement. En outre, aucun associé non coopérateur ne peut disposer
+de plus de 10 p. 100 des voix.
 
 Lorsque la majorité en voix des associés non coopérateurs le demande, la réunion
 de l'assemblée générale est de droit, dans la limite d'une fois par an.

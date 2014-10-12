@@ -1,9 +1,11 @@
 Article L426-3
 ----
 L'indemnisation mentionnée à l'article L. 426-1 pour une parcelle culturale
-n'est due que lorsque les dégâts sont supérieurs à un seuil minimal. S'il est
-établi que les dégâts constatés n'atteignent pas ce seuil, les frais
-d'estimation des dommages sont à la charge financière du réclamant.
+n'est due que lorsque les dégâts sont supérieurs à un seuil minimal. Un seuil
+spécifique, inférieur à ce seuil minimal, peut être fixé pour une parcelle
+culturale de prairie. S'il est établi que les dégâts constatés n'atteignent pas
+ces seuils, les frais d'estimation des dommages sont à la charge financière du
+réclamant.
 
 En tout état de cause, l'indemnité fait l'objet d'un abattement proportionnel.
 

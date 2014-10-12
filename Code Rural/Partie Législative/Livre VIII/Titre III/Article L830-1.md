@@ -6,7 +6,7 @@ produits agricoles. Elle répond en priorité aux impératifs de la gestion dura
 de l'espace rural, de la valorisation de la biomasse, de la sécurité et de la
 qualité des produits alimentaires et de la préservation des ressources
 naturelles mondiales. Elle s'appuie sur le développement de la recherche
-fondamentale.
+fondamentale, sur la recherche appliquée et sur l'innovation technologique.
 
 Elle est conduite dans les organismes publics exerçant des missions de recherche
 et les établissements d'enseignement supérieur. Les instituts et centres
@@ -19,8 +19,8 @@ intéressés, la tutelle de ces organismes publics exerçant des missions de
 recherche.
 
 Le ministre de l'agriculture assure la coordination des activités de recherche
-agronomique et vétérinaire et veille à leur adaptation aux objectifs de la
-politique agricole.
+agronomique, agroalimentaire et vétérinaire et veille à leur adaptation aux
+objectifs de la politique agricole.
 
 Les organismes publics de recherche exercent auprès des pouvoirs publics une
 mission d'expertise, notamment dans les domaines de la préservation de la santé

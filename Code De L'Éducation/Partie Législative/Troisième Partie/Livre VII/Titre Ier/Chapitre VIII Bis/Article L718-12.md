@@ -7,6 +7,10 @@ aussi des représentants des établissements et organismes membres et des
 composantes de la communauté d'universités et établissements, et des
 personnalités extérieures. Sa composition, qui est fixée par les statuts, doit
 assurer une représentation équilibrée des établissements et organismes membres.
+Les représentants des enseignants-chercheurs, enseignants et chercheurs, les
+représentants des autres personnels et les représentants des usagers sont élus
+au suffrage direct ou indirect dans des conditions fixées par les statuts de la
+communauté.
 
 Le conseil académique élit son président, dont le mandat expire à l'échéance du
 mandat des représentants élus des personnels du conseil académique, selon des

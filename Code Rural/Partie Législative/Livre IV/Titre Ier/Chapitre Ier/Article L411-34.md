@@ -13,9 +13,10 @@ demandeurs à gérer l'exploitation et à s'y maintenir.
 Les ayants droit du preneur ont également la faculté de demander la résiliation
 du bail dans les six mois à compter du décès de leur auteur.
 
-La même faculté est accordée au bailleur lorsque le preneur ne laisse pas de
-conjoint ou d'ayant droit réunissant les conditions énoncées au premier alinéa
-du présent article.
+Le bailleur peut demander la résiliation du bail dans les six mois à compter du
+jour où le décès est porté à sa connaissance lorsque le preneur décédé ne laisse
+pas de conjoint, de partenaire d'un pacte civil de solidarité ou d'ayant droit
+réunissant les conditions énoncées au premier alinéa.
 
 Si la fin de l'année culturale est postérieure au décès de neuf mois au moins,
 la résiliation peut, au choix des ayants droit, prendre effet soit à la fin de

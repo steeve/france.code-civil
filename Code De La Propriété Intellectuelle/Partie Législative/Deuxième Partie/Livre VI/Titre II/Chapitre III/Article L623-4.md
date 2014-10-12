@@ -8,9 +8,10 @@ forme, exporter, importer ou détenir à l'une de ces fins du matériel de
 reproduction ou de multiplication de la variété protégée.
 
 II.-Lorsque les produits mentionnés aux 1° et 2° du présent II ont été obtenus
-par l'utilisation non autorisée de matériel de reproduction ou de multiplication
-de la variété protégée, le droit exclusif s'étend, à moins que l'obtenteur ait
-raisonnablement pu exercer son droit sur les produits en question :
+par l'utilisation autre que fortuite ou accidentelle et non autorisée de
+matériel de reproduction ou de multiplication de la variété protégée, le droit
+exclusif s'étend, à moins que l'obtenteur ait raisonnablement pu exercer son
+droit sur les produits en question :
 
 1° Au produit de la récolte, y compris aux plantes entières et aux parties de
 plantes ;
@@ -46,5 +47,5 @@ résultant du génotype ou de la combinaison de génotypes de la variété initi
 V.-Sous réserve des dispositions de l'article L. 623-24-1, sont interdits, à
 défaut de consentement du titulaire du certificat d'obtention végétale, la
 production, l'offre, la vente, la mise sur le marché, l'importation,
-l'exportation, le transbordement, l'utilisation ou la détention à ces fins du
+l'exportation, le transbordement, l'utilisation et ou la détention à ces fins du
 matériel de reproduction ou de multiplication de la variété protégée.

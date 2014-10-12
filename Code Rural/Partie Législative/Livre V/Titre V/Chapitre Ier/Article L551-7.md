@@ -1,15 +1,10 @@
 Article L551-7
 ----
-Dans le secteur des fruits et légumes, les organisations de producteurs et
-associations d'organisations de producteurs reconnues en application des
-articles L. 551-1 et L. 551-2 peuvent être autorisées, dans les conditions
-prévues par l'article 125 decies du règlement (CE) n° 1234 / 2007 du Conseil,
-précisées par décret en Conseil d'Etat, à percevoir des contributions
-financières de producteurs non membres, assises soit sur la valeur des produits,
-soit sur les superficies, soit sur ces deux éléments combinés.
-
-Ces cotisations sont rendues obligatoires par arrêté du ministre chargé de
-l'agriculture pour une durée qui ne peut excéder une campagne de
-commercialisation.
-
-Les mêmes dispositions s'appliquent au secteur de la pomme de terre.
+Dans les conditions prévues à l'article 165 du règlement (UE) n° 1308/2013 du
+Parlement européen et du Conseil du 17 décembre 2013 portant organisation
+commune des marchés des produits agricoles et abrogeant les règlements (CEE) n°
+922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil, le
+ministre chargé de l'agriculture peut décider que les opérateurs économiques
+individuels ou les groupes d'opérateurs non membres d'une organisation de
+producteurs ou d'une association d'organisations de producteurs sont redevables
+à l'organisation des contributions financières mentionnées à ce même article.

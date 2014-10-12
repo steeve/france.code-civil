@@ -47,12 +47,7 @@ conditions définies à l'article L. 612-8 du code de l'éducation, pour les
 accidents survenus par le fait ou à l'occasion de stages effectués dans le cadre
 de leur scolarité ou de leurs études ;
 
-9° Les personnes non mentionnées aux 1° et 8° qui effectuent, dans un organisme
-public ou privé, un stage d'initiation, de formation ou de complément de
-formation professionnelle situé dans le champ d'application de l'article L.
-722-20, ne faisant pas l'objet d'un contrat de travail et n'entrant pas dans le
-cadre de la formation professionnelle continue telle que définie par la sixième
-partie du code du travail ;
+9° (Abrogé) ;
 
 10° Par dérogation aux dispositions du 2° de l'article L. 412-8 du code de la
 sécurité sociale, les personnes effectuant des stages de formation

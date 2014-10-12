@@ -8,12 +8,13 @@ au siège de l'exploitation, leur relief, leur pente et leur exposition. Les
 constructions nécessaires à ces activités ainsi que les équipements sportifs
 liés notamment à la pratique du ski et de la randonnée peuvent y être autorisés.
 Peuvent être également autorisées, par arrêté préfectoral, après avis de la
-commission départementale compétente en matière de nature, de paysages et de
-sites, dans un objectif de protection et de mise en valeur du patrimoine
-montagnard, la restauration ou la reconstruction d'anciens chalets d'alpage ou
-de bâtiments d'estive, ainsi que les extensions limitées de chalets d'alpage ou
-de bâtiments d'estive existants lorsque la destination est liée à une activité
-professionnelle saisonnière.
+commission départementale de la préservation des espaces naturels, agricoles et
+forestiers et de la commission départementale compétente en matière de nature,
+de paysages et de sites, dans un objectif de protection et de mise en valeur du
+patrimoine montagnard, la restauration ou la reconstruction d'anciens chalets
+d'alpage ou de bâtiments d'estive, ainsi que les extensions limitées de chalets
+d'alpage ou de bâtiments d'estive existants lorsque la destination est liée à
+une activité professionnelle saisonnière.
 
 Lorsque des chalets d'alpage ou des bâtiments d'estive, existants ou anciens, ne
 sont pas desservis par les voies et réseaux, ou lorsqu'ils sont desservis par
@@ -78,12 +79,12 @@ c) Dans les communes ou parties de commune qui ne sont pas couvertes par un plan
 local d'urbanisme ou une carte communale, des constructions qui ne sont pas
 situées en continuité avec les bourgs, villages, hameaux, groupes de
 constructions traditionnelles ou d'habitations existants peuvent être
-autorisées, dans les conditions définies au 4° de l'article L. 111-1-2, si la
-commune ne subit pas de pression foncière due au développement démographique ou
-à la construction de résidences secondaires et si la dérogation envisagée est
-compatible avec les objectifs de protection des terres agricoles, pastorales et
-forestières et avec la préservation des paysages et milieux caractéristiques du
-patrimoine naturel prévus aux I et II.
+autorisées, dans les conditions définies au 4° du I et au II de l'article L.
+111-1-2, si la commune ne subit pas de pression foncière due au développement
+démographique ou à la construction de résidences secondaires et si la dérogation
+envisagée est compatible avec les objectifs de protection des terres agricoles,
+pastorales et forestières et avec la préservation des paysages et milieux
+caractéristiques du patrimoine naturel prévus aux I et II.
 
 La capacité d'accueil des espaces destinés à l'urbanisation doit être compatible
 avec la préservation des espaces naturels et agricoles mentionnés aux I et II du

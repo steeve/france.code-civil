@@ -15,6 +15,20 @@ copreneur son conjoint ou le partenaire avec lequel il est lié par un pacte
 civil de solidarité participant à l'exploitation ou un descendant ayant atteint
 l'âge de la majorité.
 
+Lorsqu'un des copreneurs du bail cesse de participer à l'exploitation du bien
+loué, le copreneur qui continue à exploiter dispose de trois mois à compter de
+cette cessation pour demander au bailleur par lettre recommandée avec demande
+d'avis de réception que le bail se poursuive à son seul nom. Le propriétaire ne
+peut s'y opposer qu'en saisissant dans un délai fixé par décret le tribunal
+paritaire, qui statue alors sur la demande. Le présent alinéa est applicable aux
+baux conclus depuis plus de trois ans, sauf si la cessation d'activité du
+copreneur est due à un cas de force majeure.
+
+A peine de nullité, la lettre recommandée doit, d'une part, reproduire
+intégralement les dispositions du troisième alinéa du présent article et,
+d'autre part, mentionner expressément les motifs allégués pour cette demande
+ainsi que la date de cessation de l'activité du copreneur.
+
 Toute sous-location est interdite. Toutefois, le bailleur peut autoriser le
 preneur à consentir des sous-locations pour un usage de vacances ou de loisirs.
 Chacune de ces sous-locations ne peut excéder une durée de trois mois

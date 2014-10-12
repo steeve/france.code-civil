@@ -22,5 +22,5 @@ population et de ses déterminants ;
 -le développement de la formation et de la recherche en nutrition humaine.
 
 Les actions arrêtées dans le domaine de l'alimentation sont également inscrites
-dans le programme national pour l'alimentation défini à l'article L. 230-1 du
-code rural et de la pêche maritime.
+dans le programme national pour l'alimentation défini au III de l'article L. 1
+du code rural et de la pêche maritime.

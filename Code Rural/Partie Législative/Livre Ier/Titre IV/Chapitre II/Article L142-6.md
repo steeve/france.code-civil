@@ -5,10 +5,11 @@ d'aménagement foncier et d'établissement rural, en vue de leur aménagement
 parcellaire ou de leur mise en valeur agricole, pour autant que cette dernière
 soit effectuée par des agriculteurs, conformément au but fixé par les articles
 L. 141-1 à L. 141-5, des immeubles ruraux libres de location. Ces conventions
-sont dérogatoires aux dispositions de l'article L. 411-1. Leur durée ne peut
-excéder trois ans. Toutefois, pour une superficie inférieure à deux fois la
-surface minimum d'installation, cette durée peut être portée à six ans,
-renouvelable une seule fois.
+sont dérogatoires aux dispositions de l'article L. 411-1. La durée maximale des
+conventions est de six ans, renouvelable une fois, quelle que soit la superficie
+des immeubles ruraux mis à disposition. Il en est de même pour la mise à
+disposition d'immeubles ruraux dans le cadre de conventions conclues avec
+l'Etat, une collectivité territoriale ou un établissement public.
 
 La durée des conventions est de six ans au maximum, renouvelable une fois, pour
 les immeubles ruraux situés dans les périmètres de protection et d'aménagement

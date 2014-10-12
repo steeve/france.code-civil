@@ -32,21 +32,32 @@ sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus
 équivalents aux diplômes de même niveau de l'enseignement général, technologique
 et professionnel.
 
+L'organisation des diplômes mentionnés au quatrième alinéa permet leur
+acquisition progressive et, à cet effet, la délivrance d'une attestation
+validant les acquis de ceux qui ont suivi la formation qui y prépare. Cette
+attestation détermine le niveau des connaissances et des capacités acquises et
+peut prendre la forme d'unités capitalisables. Les modalités d'utilisation de
+cette attestation en vue d'une obtention ultérieure du diplôme sont précisées
+par décret.
+
 Chaque établissement privé d'enseignement et de formation professionnelle aux
 métiers de l'agriculture, de la forêt, de la nature et des territoires établit
 un projet d'établissement qui définit les modalités particulières de sa
 contribution à la mise en oeuvre des missions de l'enseignement et de la
-formation professionnelle agricoles mentionnées à l'article L. 813-1. Le projet
-d'établissement est établi dans le respect du schéma prévisionnel national des
-formations de l'enseignement agricole mentionné à l'article L. 814-2, du schéma
-prévisionnel régional des formations mentionné à l'article L. 214-1 du code de
-l'éducation, du contrat de plan régional de développement des formations et de
-l'orientation professionnelles mentionné à l'article L. 214-13 du même code et
-des programmes et référentiels nationaux mentionnés à l'article L. 811-2 du
-présent code. Il est défini en cohérence avec le projet régional de
-l'enseignement agricole mentionné à l'article L. 814-5 du présent code. Il
-définit les modalités de la participation de l'établissement au développement
-des territoires dans lesquels celui-ci s'insère.
+formation professionnelle agricoles mentionnées à l'article L. 813-1 et décrit
+sa politique en matière d'échanges internationaux et de participation à des
+activités de coopération internationale. Le projet d'établissement est établi
+dans le respect des orientations des politiques publiques pour l'agriculture, du
+projet stratégique national pour l'enseignement agricole et du schéma
+prévisionnel national des formations de l'enseignement agricole mentionnés à
+l'article L. 814-2, du schéma prévisionnel régional des formations mentionné à
+l'article L. 214-1 du code de l'éducation, du contrat de plan régional de
+développement des formations et de l'orientation professionnelles mentionné à
+l'article L. 214-13 du même code et des programmes et référentiels nationaux
+mentionnés à l'article L. 811-2 du présent code. Il est défini en cohérence avec
+le projet régional de l'enseignement agricole mentionné à l'article L. 814-5 du
+présent code. Il définit les modalités de la participation de l'établissement au
+développement des territoires dans lesquels celui-ci s'insère.
 
 Sous réserve de l'autorisation préalable de l'autorité académique, la partie
 pédagogique du projet d'établissement peut prévoir la réalisation

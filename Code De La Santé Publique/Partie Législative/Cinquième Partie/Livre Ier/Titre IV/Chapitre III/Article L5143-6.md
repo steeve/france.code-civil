@@ -17,7 +17,8 @@ sur une liste arrêtée conjointement par les ministres chargés de l'agricultur
 et de la santé et sur proposition de l'Agence nationale chargée de la sécurité
 sanitaire de l'alimentation, de l'environnement et du travail et qui sont
 nécessaires à la mise en oeuvre des programmes sanitaires d'élevage visés à
-l'article L. 5143-7. Ces produits sont délivrés aux adhérents du groupement sur
-présentation d'une ordonnance du vétérinaire du groupement, qui revêt la forme
-d'une prescription détaillée, adaptant aux caractéristiques propres de chaque
-élevage, le programme sanitaire agréé.
+l'article L. 5143-7. Cette liste ne peut comprendre de substances antibiotiques.
+Ces produits sont délivrés aux adhérents du groupement sur présentation d'une
+ordonnance du vétérinaire du groupement, qui revêt la forme d'une prescription
+détaillée, adaptant aux caractéristiques propres de chaque élevage, le programme
+sanitaire agréé.
