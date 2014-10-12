@@ -38,16 +38,37 @@ la pêche maritime, un programme d'actions visant à restaurer, préserver, gér
 et mettre en valeur de façon durable les zones définies au a du présent article
 ;
 
-5° (Abrogé)
+5° Délimiter, afin d'y établir un programme d'actions dans les conditions
+prévues au 4° du présent article :
+
+a) Des zones où il est nécessaire d'assurer la protection quantitative et
+qualitative des aires d'alimentation des captages d'eau potable d'une importance
+particulière pour l'approvisionnement actuel ou futur, le cas échéant après
+qu'elles ont été identifiées dans le plan d'aménagement et de gestion durable de
+la ressource en eau et des milieux aquatiques prévu au I de l'article L.
+212-5-1. Le programme d'actions peut prévoir l'interdiction de l'usage de
+substances dangereuses pour la santé ou l'environnement sur ces zones ;
+
+b) Les bassins versants identifiés par le schéma directeur d'aménagement et de
+gestion des eaux comme connaissant, sur les plages, d'importantes marées vertes
+de nature à compromettre la réalisation des objectifs de bon état prévus à
+l'article L. 212-1 en ce qui concerne les eaux côtières et de transition qu'ils
+alimentent, telles que définies par la directive 2000/60/ CE du Parlement
+européen et du Conseil, du 23 octobre 2000, établissant un cadre pour une
+politique communautaire dans le domaine de l'eau ;
+
+c) Des zones dans lesquelles l'érosion diffuse des sols agricoles est de nature
+à compromettre la réalisation des objectifs de bon état ou, le cas échéant, de
+bon potentiel prévus par l'article L. 212-1 ;
 
 6° Délimiter des périmètres à l'intérieur desquels les autorisations de
 prélèvement d'eau pour l'irrigation sont délivrées à un organisme unique pour le
 compte de l'ensemble des préleveurs irrigants. Dans les zones de répartition des
-eaux, l'autorité administrative peut constituer d'office cet
-organisme.L'organisme unique peut faire participer les préleveurs irrigants dans
-son périmètre et, le cas échéant, d'autres contributeurs volontaires aux
-dépenses liées à cette mission. Les critères et les modalités générales de mise
-en œuvre de cette participation sont fixés par décret en Conseil d'Etat ;
+eaux, l'autorité administrative peut constituer d'office cet organisme.
+L'organisme unique peut faire participer les préleveurs irrigants dans son
+périmètre et, le cas échéant, d'autres contributeurs volontaires aux dépenses
+liées à cette mission. Les critères et les modalités générales de mise en œuvre
+de cette participation sont fixés par décret en Conseil d'Etat ;
 
 7° Dans le cas d'une atteinte à la qualité des eaux conduisant ou pouvant
 conduire au non-respect des normes de potabilité, délimiter tout ou partie de
@@ -74,7 +95,23 @@ dans le cadre de services publics gérés dans les conditions prévues aux artic
 L. 1411-1 et suivants, L. 1412-1 et suivants et L. 1415-1 et suivants du code
 général des collectivités territoriales.
 
-III.-Un décret en Conseil d'Etat détermine :
+III. - Dans les parties des zones vulnérables atteintes par la pollution,
+délimitées en application du I ou du 8° du II, dans lesquelles a été mis en
+place un dispositif de surveillance annuelle de l'azote épandu, l'autorité
+administrative peut imposer :
+
+1° Aux personnes qui détiennent ou commercialisent à titre professionnel des
+matières fertilisantes azotées dans cette zone, y compris aux transporteurs de
+ces matières et aux prestataires de services d'épandage, une déclaration
+annuelle relative aux quantités d'azote qu'elles ont traitées, reçues, livrées,
+cédées à titre gratuit ou onéreux dans la zone, ou qu'elles ont cédées ou
+livrées à partir de cette zone ;
+
+2° A toute autre personne qui expédie ou livre dans cette zone des matières
+fertilisantes azotées en vue d'un usage agricole, une déclaration annuelle
+relative aux quantités d'azote qu'elle y a expédiées ou livrées.
+
+IV. - Un décret en Conseil d'Etat détermine :
 
 1° Les règles destinées à assurer la sécurité des ouvrages hydrauliques autres
 que les ouvrages concédés en application de la loi du 16 octobre 1919 relative à
