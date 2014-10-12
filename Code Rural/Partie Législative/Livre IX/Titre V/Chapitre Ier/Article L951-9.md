@@ -1,19 +1,11 @@
 Article L951-9
 ----
-La destruction de végétaux ne peut être exécutée qu'après constatation
-contradictoire de l'état des lieux, en présence du maire ou de son délégué, d'un
-agent relevant des catégories mentionnées au I de l'article L. 951-18 et du
-propriétaire ou usager des terrains ou magasins ou de son représentant dûment
-appelés ; de cette opération, il est dressé procès-verbal signé des parties.
-
-Une allocation, ne dépassant pas les deux tiers de leur valeur, peut être
-accordée, par décision du préfet et sur proposition du directeur départemental
-de l'agriculture et de la forêt, pour la perte résultant de la destruction des
-végétaux non contaminés ordonnée par mesure de précaution.
-
-Aucune allocation n'est accordée pour la destruction des végétaux sur lesquels
-l'existence de l'organisme nuisible a été constatée toutes les fois que le
-propriétaire ou l'usager du terrain sur lequel se trouvent les végétaux n'a pas
-effectué la déclaration prévue à l'article L. 951-6 et ne peut prouver à dire de
-témoins ou de tout autre manière que des traitements ont été effectués en vue de
-leur destruction.
+En Guyane, le juge des libertés et de la détention peut, à la demande de
+l'autorité compétente, ordonner la destruction des seules embarcations
+dépourvues de pavillon qui ont servi à commettre les infractions mentionnées à
+l'article L. 945-4, constatées par procès-verbal, dont la conservation n'est
+plus nécessaire à la manifestation de la vérité, lorsqu'il n'existe pas de
+mesures techniques raisonnablement envisageables pour empêcher définitivement le
+renouvellement de ces infractions dans le respect des traités et accords
+internationaux en vigueur. Les frais sont à la charge de l'auteur de
+l'infraction ou de son commettant.
