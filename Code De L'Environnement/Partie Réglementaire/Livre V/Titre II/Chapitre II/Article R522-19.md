@@ -1,12 +1,19 @@
 Article R522-19
 ----
-Pour les produits biocides à usage exclusivement professionnel, la délivrance de
-l'autorisation de mise sur le marché est subordonnée à l'accord préalable du
-ministre chargé du travail.
+Lorsqu'un demandeur souhaite que la France soit l'autorité compétente
+d'évaluation d'un produit biocide prévue au chapitre VIII du règlement (UE) n°
+528/2012 du Parlement européen et du Conseil du 22 mai 2012 ou au chapitre III
+du règlement d'exécution (UE) n° 354/2013 de la Commission du 18 avril 2013 déjà
+cités, il adresse sa demande à l'Agence nationale qui procède à son évaluation
+dans les délais et sous les conditions mentionnés dans ces règlements.
 
-Cet accord est réputé acquis si le ministre chargé du travail n'a pas fait
-connaître au ministre chargé de l'environnement son opposition motivée à
-l'octroi de l'autorisation dans un délai de 14 jours à compter de la date à
-laquelle il a été saisi par ce dernier et, en tout état de cause, avant
-l'expiration du délai imparti au ministre chargé de l'environnement pour prendre
-cette décision.
+L'Agence nationale informe le ministre chargé de l'environnement de ses
+conclusions sur la demande au moins 5 jours ouvrés avant leur transmission à
+l'Agence européenne des produits chimiques.
+
+Sauf opposition du ministre chargé de l'environnement, l'Agence nationale
+transmet à l'Agence européenne des produits chimiques son rapport d'évaluation
+du produit et, le cas échéant, les documents mentionnés à l'article 44 du
+règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012 ou
+à l'article 13 du règlement d'exécution (UE) n° 354/2013 de la Commission du 18
+avril 2013 déjà cités.

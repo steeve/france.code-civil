@@ -1,22 +1,15 @@
 Article R522-27
 ----
-I.-Pour les produits biocides contenant une ou plusieurs substances inscrites
-sur la liste I, le ministre chargé de l'environnement notifie sa décision au
-demandeur dans un délai de cent vingt jours à compter de la réception de la
-demande.
+Les informations prévues au III de l'article L. 522-2 concernent :
 
-Ce délai est suspendu si le ministre demande des compléments d'information dans
-les conditions prévues à l'article R. 522-18.
+1° Les nouvelles données ou informations concernant les effets nocifs de la
+substance active ou du produit sur l'homme, en particulier les groupes
+vulnérables, sur les animaux ou sur l'environnement ;
 
-L'autorisation ne peut être accordée que si la substance contenue dans le
-produit est conforme aux exigences dont est assortie son inscription sur la
-liste I.
+2° Les données indiquant que la substance active est susceptible d'induire le
+développement de résistances ;
 
-II.-Pour les produits biocides à faible risque mentionnés à l'article L. 522-3
-et déjà autorisés dans un autre Etat membre de la Communauté européenne
-conformément à la directive 98/8/ CE du 16 février 1998 concernant la mise sur
-le marché des produits biocides, le délai mentionné au I est de soixante jours.
+3° Les nouvelles données ou informations indiquant que le produit biocide n'est
+pas suffisamment efficace.
 
-L'autorisation ne peut être accordée que si la substance active biocide contenue
-dans le produit est conforme aux exigences dont est assortie son inscription sur
-la liste IA.
+Ces informations sont transmises à l'Agence nationale.

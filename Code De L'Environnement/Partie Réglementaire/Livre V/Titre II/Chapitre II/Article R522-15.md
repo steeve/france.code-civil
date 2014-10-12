@@ -1,22 +1,20 @@
 Article R522-15
 ----
-La demande d'autorisation, rédigée en français, est adressée au ministre chargé
-de l'environnement par le responsable de la première mise sur le marché, ou par
-un mandataire. Tout demandeur doit posséder un bureau permanent dans un Etat
-membre de la Communauté européenne.
-
-La demande comprend :
-
-1° Un dossier concernant le produit biocide ou un document dénommé " lettre
-d'accès ", par lequel le ou les propriétaires de données pertinentes protégées
-conformément à l'article R. 522-33 autorisent l'utilisation de ces données par
-le ministre chargé de l'environnement dans le cadre de la procédure
-d'autorisation de mise sur le marché d'un produit biocide ;
-
-2° Pour chaque substance active biocide contenue dans le produit biocide, une
-lettre d'accès ou un dossier.
-
-Le contenu des dossiers mentionnés ci-dessus est défini par l'arrêté prévu au
-troisième alinéa de l'article R. 522-3. Ils doivent notamment comporter une
-description détaillée et complète des études effectuées et des méthodes
-utilisées, ou une référence bibliographique à ces méthodes.
+Dans le cadre d'une demande de reconnaissance mutuelle séquentielle d'une
+modification mineure d'une autorisation nationale de mise à disposition sur le
+marché d'un produit biocide au sens du titre 2 de l'annexe au règlement
+d'exécution (UE) n° 354/2013 de la Commission du 18 avril 2013 précité, lorsque
+la France n'est pas Etat membre de référence, le ministre chargé de
+l'environnement peut autoriser un produit en se fondant sur le résumé des
+caractéristiques du produit autorisé par un autre Etat membre de l'Union
+européenne ou l'évaluation conduite par un autre Etat membre de l'Union
+européenne si, à l'issue du délai de 30 jours à compter de la validation de la
+demande effectuée conformément au 3 de l'article 7 de ce même règlement,
+l'Agence nationale n'a pas transmis soit des conclusions motivées préconisant le
+rejet de la demande, soit, dans le cas d'une proposition d'autorisation, une
+version amendée du projet de résumé des caractéristiques du produit issu du
+registre des produits biocides, accompagnée d'un projet de communication des
+objections au groupe de coordination visé à l'article 35 du même règlement et
+d'une synthèse des points de divergence portant sur le rapport d'évaluation du
+produit et sur le résumé des caractéristiques de ce produit établis par l'Etat
+membre de référence.

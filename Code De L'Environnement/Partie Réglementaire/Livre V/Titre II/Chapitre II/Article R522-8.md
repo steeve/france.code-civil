@@ -1,13 +1,6 @@
 Article R522-8
 ----
-Le ministre chargé de l'environnement transmet à la Commission européenne, aux
-autres Etats membres et au demandeur, dans un délai de douze mois à compter de
-la date à laquelle il a informé ce dernier du caractère suffisant du dossier,
-une proposition d'inscription, de renouvellement d'inscription ou de refus
-d'inscription de la substance active sur l'une des listes communautaires prévues
-à l'article R. 522-2, accompagnée, le cas échéant, de l'avis de la commission
-des produits chimiques et biocides et du rapport d'évaluation des dossiers.
-
-Le ministre peut proposer que le renouvellement d'une inscription ne soit
-prononcé qu'à titre provisoire, pour permettre de recueillir les informations
-supplémentaires prévues à l'article R. 522-6 et de procéder à un réexamen.
+Lorsque l'Agence nationale n'a pas transmis les documents mentionnés au I de
+l'article R. 522-6 dans les délais qui y sont mentionnés ou dans les délais
+fixés à l'article R. 522-7, elle est réputée avoir émis des conclusions
+défavorables sur la demande présentée.

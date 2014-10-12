@@ -43,9 +43,10 @@ c) L'appareil électrique utilisé est un tube cathodique destiné à l'affichag
 d'images, ou tout autre appareil électrique fonctionnant sous une différence de
 potentiel inférieure ou égale à 30 kV ;
 
-3° La distribution et l'utilisation de biens de consommation et de produits de
-construction qui bénéficient d'une dérogation mentionnant une exemption accordée
-en application de l'article R. 1333-4 ;
+3° Tout ou partie des activités mentionnées au 1° du I de l'article R. 1333-17
+pour les biens de consommation et produits de construction qui bénéficient d'une
+dérogation accordée en application de l'article R. 1333-4, lorsque ladite
+dérogation prévoit une telle exemption pour cette ou ces activités ;
 
 4° L'utilisation, la détention et la distribution de tout appareil électrique
 émettant des rayonnements ionisants et dont les éléments fonctionnent sous une

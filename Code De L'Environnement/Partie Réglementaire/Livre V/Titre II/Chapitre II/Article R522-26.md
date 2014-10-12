@@ -1,11 +1,12 @@
 Article R522-26
 ----
-Lorsque la mise sur le marché d'un produit biocide a déjà été autorisée dans un
-autre Etat membre de la Communauté européenne conformément à la directive 98/8/
-CE du 16 février 1998 concernant la mise sur le marché des produits biocides et
-lorsque la ou les substances actives biocides qui entrent dans sa composition
-figurent sur les listes I ou IA mentionnées à l'article R. 522-2, la demande
-d'autorisation de mise sur le marché est accompagnée d'une copie, certifiée
-conforme par le demandeur, de la première autorisation délivrée et d'un dossier
-simplifié dont le contenu est défini par l'arrêté prévu au troisième alinéa de
-l'article R. 522-3.
+Dans un délai de trente jours à compter de la réception des redevances exigibles
+en vertu des dispositions de l'article R. 522-28, l'Agence nationale évalue la
+demande d'autorisation de commerce parallèle et, si elle estime que le produit
+remplit les conditions prévues à l'article 53 du règlement (UE) n° 528/12 du
+Parlement européen et du Conseil du 22 mai 2012 déjà cité, met à jour et
+transmet au ministre chargé de l'environnement un projet de résumé des
+caractéristiques du produit.
+
+Si elle estime que le produit ne remplit par les conditions précédemment citées,
+l'Agence nationale en informe le ministre chargé de l'environnement.

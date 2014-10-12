@@ -1,7 +1,8 @@
 Article R522-42
 ----
-Toute expérience ou essai portant sur une substance active biocide ou un produit
-biocide, y compris lorsque cette substance ou ce produit biocide a déjà été mis
-sur le marché dans un autre Etat membre, est subordonné à une autorisation du
-ministre chargé de l'environnement, qui détermine les conditions dans lesquelles
-ces expériences ou essais peuvent être effectués.
+Dans les cas où la France est Etat membre rapporteur en application du règlement
+(CE) n° 1451/2007 modifié concernant la seconde phase du programme de travail de
+dix ans visé à l'article 16, paragraphe 2, de la directive 98/8/ CE du Parlement
+européen et du Conseil concernant la mise sur le marché des produits biocides,
+les compléments d'information demandés à l'appui de l'examen d'une demande
+d'approbation d'une substance active biocide sont transmis à l'Agence nationale.

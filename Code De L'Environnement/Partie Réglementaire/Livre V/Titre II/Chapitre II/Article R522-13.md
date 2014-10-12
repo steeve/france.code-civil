@@ -1,10 +1,22 @@
 Article R522-13
 ----
-L'évaluation, en vue de l'inscription sur les listes mentionnées à l'article R.
-522-2, de substances actives figurant sur la liste communautaire des substances
-présentes sur le marché au 14 mai 2000, publiée à l'annexe I du règlement (CE)
-n° 1451 / 2007 de la Commission du 4 décembre 2007 concernant la seconde phase
-du programme de travail de dix ans visé à l'article 16, paragraphe 2, de la
-directive 98 / 8 / CE du Parlement européen et du Conseil concernant la mise sur
-le marché des produits biocides, se déroule conformément à la procédure prévue
-aux articles R. 522-4 à R. 522-8.
+I.-Dans le cas où la France est Etat membre de référence et où la demande de
+modification d'une autorisation de mise à disposition sur le marché d'un produit
+biocide est mineure au sens du titre 2 de l'annexe au règlement d'exécution (UE)
+n° 354/2013 de la Commission du 18 avril 2013 déjà cité, l'Agence nationale
+transmet au ministre chargé de l'environnement, dans un délai de 75 jours à
+compter de la validation de la demande dans les conditions précisées au 3 de
+l'article 7 du même règlement, le rapport d'évaluation du produit et met à jour,
+en français et en anglais, le projet de résumé des caractéristiques du produit
+issu du registre des produits biocides. Ce délai est prolongé le cas échéant du
+délai suspensif prévu au 5 de l'article 7 de ce même règlement.
+
+Si l'Agence nationale conclut que les conditions prévues à l'article 19 du
+règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012
+déjà cité ne sont pas remplies, elle transmet au ministre chargé de
+l'environnement des conclusions motivées en ce sens et un rapport d'évaluation
+du produit.
+
+II.-Lorsque l'Agence nationale n'a pas transmis les documents mentionnés au I
+dans les délais qui y sont mentionnés, elle est réputée avoir émis des
+conclusions défavorables sur la demande présentée.

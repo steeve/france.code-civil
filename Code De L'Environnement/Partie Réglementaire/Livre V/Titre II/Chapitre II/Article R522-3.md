@@ -1,25 +1,35 @@
 Article R522-3
 ----
-Si elle n'est pas adressée aux autorités compétentes d'un autre Etat membre de
-la Communauté européenne, la demande d'autorisation provisoire de mise sur le
-marché prévue à l'article L. 522-2 pour une substance active biocide qui n'est
-pas en tant que telle un produit biocide, d'inscription d'une substance active
-biocide sur les listes communautaires mentionnées à l'article R. 522-2, de
-renouvellement ou de modification de cette inscription, est adressée au ministre
-chargé de l'environnement. Le ministre peut procéder lui-même à son instruction
-ou demander à un autre Etat membre de la Communauté européenne d'y procéder.
+I. - Lorsque la France est autorité compétente d'évaluation en application des
+articles 7 ou 13 du règlement (UE) n° 528/2012 du Parlement européen et du
+Conseil du 22 mai 2012 précité, les dossiers de demande d'approbation, de
+modification des conditions d'approbation ou de renouvellement de l'approbation
+de substances actives biocides sont transmis par le demandeur au moyen du
+registre mentionné au 3 de l'article 71 de ce même règlement.
 
-Cette demande, rédigée en français, est accompagnée d'un dossier relatif à la
-substance active biocide et d'un dossier relatif à au moins un produit biocide
-la contenant.
+II. - L'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail, mentionnée à l'article L. 1313-1 du code de la
+santé publique, ci-après dénommée " l'Agence nationale ", examine la demande
+dans les conditions prévues à l'article 7 du règlement (UE) n° 528/2012 du
+Parlement européen et du Conseil du 22 mai 2012 précité. Elle informe le
+ministre chargé de l'environnement, les autres autorités compétentes des Etats
+membres, l'Agence européenne des produits chimiques et le demandeur de la
+validation de la demande.
 
-La composition des dossiers est définie par arrêté conjoint des ministres
-chargés, respectivement, du travail, de l'agriculture, de l'environnement, de la
-santé, de la consommation et de l'industrie. Ils doivent, notamment, comporter
-une description détaillée et complète des études effectuées et des méthodes
-utilisées, ou une référence bibliographique à ces méthodes.
+III. - Dans le cas où la demande n'est pas validée, l'Agence nationale en
+informe par courrier le ministre chargé de l'environnement au moins 15 jours
+avant d'en informer, sauf opposition du ministre, l'Agence européenne des
+produits chimiques et le demandeur.
 
-En cas de demande d'autorisation provisoire de mise sur le marché d'une
-substance active biocide, les dossiers sont accompagnés d'une déclaration selon
-laquelle la substance active est destinée à être incorporée dans un produit
-biocide.
+IV. - Si la demande est validée, l'Agence nationale procède à son évaluation
+conformément à l'article 8, dans le cas d'une demande d'approbation ou de
+modification des conditions d'approbation de substances actives biocides, ou à
+l'article 14, dans le cas d'une demande de renouvellement d'approbation, du
+règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012
+précité. Elle est destinataire des informations complémentaires visées au 2 de
+l'article 8 de ce même règlement.
+
+A l'issue de l'évaluation, l'Agence nationale informe le ministre chargé de
+l'environnement de ses conclusions au moins cinq jours ouvrés avant de les
+transmettre, sauf opposition du ministre, à l'Agence européenne des produits
+chimiques.

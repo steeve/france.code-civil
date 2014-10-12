@@ -1,32 +1,35 @@
 Article R522-4
 ----
-I.-Dans un délai de trois mois à compter de la réception de la demande, le
-ministre chargé de l'environnement, après avis de l'Agence nationale de sécurité
-sanitaire de l'alimentation, de l'environnement et du travail, fait connaître au
-demandeur si les informations figurant dans les dossiers sont suffisantes pour
-permettre l'évaluation des effets, des risques et des propriétés de la
-substance.
+I. - L'Agence nationale examine la demande d'autorisation provisoire de mise à
+disposition sur le marché d'un produit biocide contenant une nouvelle substance
+active en cours d'évaluation formulée en application du 2 de l'article 55 du
+règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012
+précité.
 
-Ce délai peut être prolongé, sans pouvoir dépasser six mois, si des
-consultations ont été engagées sur cette question avec un ou plusieurs autres
-Etats membres de la Communauté européenne.
+Si le produit satisfait aux conditions posées par le 2 de cet article, l'Agence
+nationale transmet au ministre chargé de l'environnement ses conclusions,
+accompagnées d'un projet de résumé des caractéristiques du produit conforme au 2
+de l'article 22 du règlement (UE) n° 528/2012 du Parlement européen et du
+Conseil du 22 mai 2012 précité. L'Agence nationale mentionne, le cas échéant,
+les raisons pour lesquelles elle n'a pas retenu une ou plusieurs revendications
+du demandeur.
 
-Dans des circonstances exceptionnelles, le ministre chargé de l'environnement
-peut fixer un nouveau délai pour la présentation des informations que, pour des
-motifs dûment justifiés, le demandeur n'a pas pu fournir à temps.
+Si le produit ne satisfait pas aux conditions prévues au 2 de l'article 55 du
+règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012
+précité, l'Agence nationale transmet au ministre chargé de l'environnement des
+conclusions motivées en ce sens.
 
-Dans les trois mois suivant la communication du nouveau délai, le demandeur
-apporte au ministre chargé de l'environnement la preuve que des travaux visant à
-fournir les informations manquantes ont été commandés. S'il juge cette preuve
-suffisante, le ministre chargé de l'environnement procède à l'évaluation du
-dossier conformément aux dispositions du II du présent article.
+Le ministre chargé de l'environnement prend sa décision au vu des conclusions de
+l'Agence nationale et, le cas échéant, après consultation de la commission des
+produits chimiques et biocides. Il la notifie au demandeur conformément aux
+dispositions de l'article 71 du règlement (UE) n° 528/2012 du Parlement européen
+et du Conseil du 22 mai 2012 précité.
 
-II.-Si le dossier est jugé suffisant, le ministre chargé de l'environnement
-invite l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail à procéder à son évaluation et autorise le
-demandeur à en transmettre un résumé à la Commission européenne et aux autres
-Etats membres de la Communauté européenne.
-
-Cette autorisation, ou une autorisation semblable délivrée par les autorités
-compétentes d'un autre Etat membre de la Communauté européenne, entraîne
-l'autorisation provisoire de mise sur le marché prévue à l'article L. 522-2.
+II. - Au moins 90 jours avant l'échéance de l'autorisation provisoire de mise à
+disposition sur le marché, son titulaire peut déposer une demande de prorogation
+à l'Agence nationale dans les cas où la substance active serait toujours en
+cours d'évaluation. L'Agence nationale examine la demande dans les conditions
+prévues par le 2 de l'article 55 du règlement (UE) n° 528/2012 du Parlement
+européen et du Conseil du 22 mai 2012 précité et transmet ses conclusions au
+ministre chargé de l'environnement qui notifie sa décision au demandeur, à la
+Commission et aux autres Etats membres de l'Union européenne.

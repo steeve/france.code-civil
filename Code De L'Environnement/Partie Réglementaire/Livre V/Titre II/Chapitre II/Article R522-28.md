@@ -1,20 +1,21 @@
 Article R522-28
 ----
-L'autorisation de mise sur le marché d'un produit biocide déjà autorisé dans un
-autre Etat membre de la Communauté européenne peut être subordonnée à la
-modification de certaines des indications prévues par l'arrêté interministériel
-pris en application de l'article R. 522-37 dans l'un ou l'autre des cas suivants
-:
+Les différentes demandes d'approbation ou de renouvellement d'approbation d'une
+substance active biocide, d'autorisation de mise à disposition sur le marché
+d'un produit biocide ou de modification de ces autorisations ainsi que
+d'autorisation de commerce parallèle sont soumises au versement d'une redevance
+à l'Agence nationale.
 
-1° Si l'espèce visée n'est pas présente en quantités nocives sur le territoire
-national ;
+Sont également soumises au versement de cette redevance les notifications de
+mise à disposition sur le marché d'un produit biocide visées au 6 de l'article
+17 et au 1 de l'article 27 du règlement (UE) n° 528/2012 du Parlement européen
+et du Conseil du 22 mai 2012 déjà cité et les demandes visant à préserver la
+confidentialité de certaines données mentionnées au 4 de l'article 66 du même
+règlement.
 
-2° Si l'organisme visé présente une tolérance ou une résistance inacceptable au
-produit biocide ;
+Ces redevances doivent couvrir l'ensemble des dépenses engagées pour la
+conservation, l'examen, l'exploitation et l'expertise des informations fournies
+par le demandeur.
 
-3° Si les circonstances pertinentes d'utilisation, telles que le climat ou la
-période de reproduction des espèces visées, diffèrent d'une manière
-significative de celles qui prévalent dans l'Etat membre dans lequel le produit
-biocide a été autorisé pour la première fois et si, de ce fait, une autorisation
-inchangée peut présenter des risques inacceptables pour l'homme ou
-l'environnement.
+Un arrêté conjoint des ministres chargés, respectivement, de l'environnement et
+du budget précise les montants et les modalités de perception de ces redevances.
