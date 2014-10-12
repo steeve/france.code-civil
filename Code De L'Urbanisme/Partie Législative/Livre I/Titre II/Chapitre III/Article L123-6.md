@@ -3,15 +3,16 @@ Article L123-6
 Le plan local d'urbanisme est élaboré à l'initiative et sous la responsabilité
 de l'établissement public de coopération intercommunale lorsqu'il est doté de la
 compétence en matière de plan local d'urbanisme, en collaboration avec les
-communes membres. L'organe délibérant de l'établissement public de coopération
-intercommunale arrête les modalités de cette collaboration après avoir réuni une
-conférence intercommunale rassemblant, à l'initiative de son président,
-l'ensemble des maires des communes membres. Toute élaboration d'un plan local
-d'urbanisme d'une commune située en dehors du périmètre d'un schéma de cohérence
-territoriale approuvé et ayant pour conséquence une réduction des surfaces des
-espaces naturels, agricoles et forestiers est soumise pour avis à la commission
-départementale de la préservation des espaces naturels, agricoles et forestiers
-prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
+communes membres. (1) L'organe délibérant de l'établissement public de
+coopération intercommunale arrête les modalités de cette collaboration après
+avoir réuni une conférence intercommunale rassemblant, à l'initiative de son
+président, l'ensemble des maires des communes membres. Toute élaboration d'un
+plan local d'urbanisme d'une commune située en dehors du périmètre d'un schéma
+de cohérence territoriale approuvé et ayant pour conséquence une réduction des
+surfaces des espaces naturels, agricoles et forestiers est soumise pour avis à
+la commission départementale de la préservation des espaces naturels, agricoles
+et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche
+maritime.
 
 Dans les autres cas, le plan local d'urbanisme est élaboré à l'initiative et
 sous la responsabilité de la commune, le cas échéant en collaboration avec
@@ -21,10 +22,10 @@ elle est membre.
 La délibération qui prescrit l'élaboration du plan local d'urbanisme et précise
 les objectifs poursuivis ainsi que les modalités de concertation, conformément à
 l'article L. 300-2, est notifiée au préfet, au président du conseil régional, au
-président du conseil général et, le cas échéant, au président de l'établissement
-public prévu à l'article L. 122-4, ainsi qu'au président de l'autorité
-compétente en matière d'organisation des transports urbains et, si ce n'est pas
-la même personne, à celui de l'établissement public de coopération
+président du conseil départemental et, le cas échéant, au président de
+l'établissement public prévu à l'article L. 122-4, ainsi qu'au président de
+l'autorité compétente en matière d'organisation des transports urbains et, si ce
+n'est pas la même personne, à celui de l'établissement public de coopération
 intercommunale compétent en matière de programme local de l'habitat dont la
 commune est membre, au syndicat d'agglomération nouvelle et aux représentants
 des organismes mentionnés à l'article L. 121-4. Lorsque la commune est

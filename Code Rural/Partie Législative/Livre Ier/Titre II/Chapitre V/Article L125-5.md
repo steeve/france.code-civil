@@ -1,7 +1,7 @@
 Article L125-5
 ----
-Le conseil général, de sa propre initiative ou à la demande du préfet ou de la
-chambre d'agriculture ou d'un établissement public de coopération
+Le conseil départemental , de sa propre initiative ou à la demande du préfet ou
+de la chambre d'agriculture ou d'un établissement public de coopération
 intercommunale, charge la commission départementale d'aménagement foncier, sur
 la base de l'inventaire des terres considérées comme des friches prévu à
 l'article L. 112-1-1, de proposer le périmètre dans lequel il serait d'intérêt
@@ -20,14 +20,14 @@ d'aménagement foncier dresse l'état des parcelles dont elle juge la mise en
 valeur agricole, pastorale ou forestière possible ou opportune. La commission
 communale ou intercommunale formule éventuellement des propositions sur les
 interdictions ou réglementations de plantations et semis d'essences forestières
-susceptibles d'être ordonnées sur ces parcelles par le conseil général.
+susceptibles d'être ordonnées sur ces parcelles par le conseil départemental .
 
 Les intéressés, propriétaires ou exploitants, sont entendus comme en matière
 d'aménagement foncier agricole et forestier.
 
-Le conseil général arrête cet état après avis de la commission départementale
-d'aménagement foncier. Il est révisé tous les trois ans et publié dans les
-communes intéressées.
+Le conseil départemental arrête cet état après avis de la commission
+départementale d'aménagement foncier. Il est révisé tous les trois ans et publié
+dans les communes intéressées.
 
 Un extrait est notifié pour ce qui le concerne à chaque propriétaire et, s'il y
 a lieu, à chaque titulaire du droit d'exploitation.

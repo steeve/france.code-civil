@@ -3,7 +3,7 @@ Article L126-1
 Afin de favoriser une meilleure répartition des terres entre les productions
 agricoles, la forêt, les espaces de nature ou de loisirs et les espaces habités
 en milieu rural et d'assurer la préservation de milieux naturels ou de paysages
-remarquables, les conseils généraux peuvent, après avis des chambres
+remarquables, les conseils départementaux peuvent, après avis des chambres
 d'agriculture et du centre national de la propriété forestière, définir :
 
 Les zones dans lesquelles des plantations et des semis d'essences forestières ou
@@ -11,16 +11,16 @@ dans lesquelles la reconstitution après coupe rase peuvent être interdits ou
 réglementés ; lorsqu'elles s'appliquent à des terrains déjà boisés, les
 interdictions ou réglementations ne peuvent concerner que des parcelles boisées
 isolées ou rattachées à un massif dont la superficie est inférieure à un seuil
-de surface par grande zone forestière homogène défini par le conseil général
-après avis du Centre national de la propriété forestière et de la chambre
-d'agriculture selon des modalités fixées par décret en Conseil d'Etat, sur la
-base des motifs visés au premier alinéa. Les interdictions et les
+de surface par grande zone forestière homogène défini par le conseil
+départemental après avis du Centre national de la propriété forestière et de la
+chambre d'agriculture selon des modalités fixées par décret en Conseil d'Etat,
+sur la base des motifs visés au premier alinéa. Les interdictions et les
 réglementations ne sont pas applicables aux parcs ou jardins attenant à une
 habitation.
 
 Les productions de sapins de Noël font l'objet d'une déclaration annuelle
 portant sur la surface, la densité, le lieu et la date de plantation, auprès du
-conseil général.
+conseil départemental .
 
 On entend par production de sapins de Noël la plantation d'essences forestières,
 dont la liste est fixée par décret, et qui remplit des conditions également

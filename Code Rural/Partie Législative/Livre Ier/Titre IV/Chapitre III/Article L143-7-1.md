@@ -2,8 +2,8 @@ Article L143-7-1
 ----
 A l'intérieur des périmètres délimités en application de l'article L. 143-1 du
 code de l'urbanisme, la société d'aménagement foncier et d'établissement rural
-informe le président du conseil général de toutes les déclarations d'intention
-d'aliéner.
+informe le président du conseil départemental de toutes les déclarations
+d'intention d'aliéner.
 
 Lorsque le département décide d'utiliser le droit de préemption prévu au 2° de
 l'article L. 143-3 du code de l'urbanisme à l'intérieur des périmètres
@@ -24,9 +24,9 @@ d'expropriation tient compte de l'éventuelle dépréciation subie, du fait de l
 préemption partielle, par la fraction restante de l'unité foncière.
 
 Les modalités de financement des opérations conduites par la société
-d'aménagement foncier et d'établissement rural pour le compte du conseil général
-en application du 9° de l'article L. 143-2 sont fixées par une convention passée
-entre le conseil général et ladite société.
+d'aménagement foncier et d'établissement rural pour le compte du conseil
+départemental en application du 9° de l'article L. 143-2 sont fixées par une
+convention passée entre le conseil départemental et ladite société.
 
 Lorsque la société d'aménagement foncier et d'établissement rural exerce, à la
 demande et au nom du département, le droit de préemption prévu au 9° de
