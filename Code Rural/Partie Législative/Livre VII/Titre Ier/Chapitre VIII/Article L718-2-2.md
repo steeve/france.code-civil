@@ -2,17 +2,17 @@ Article L718-2-2
 ----
 Afin d'améliorer l'exercice des professions agricoles, l'Etat et les régions
 contribuent, en liaison avec les organisations professionnelles, dans les
-conditions prévues aux articles L. 6121-1, L. 6121-2, L. 6122-1 à L. 6122-4, L.
-6332-23 et L. 6332-24 du code du travail, au financement des stages organisés en
-vue d'assurer la formation des exploitants, salariés des exploitations, aides
-familiaux, salariés et non-salariés des secteurs para-agricole et
-agroalimentaire, dans des centres de formation publics ou privés. Une fraction
-de ces contributions peut être réservée au financement d'actions de formation en
-alternance organisées dans des conditions fixées par décret au bénéfice des
-aides familiaux et associés d'exploitation. Les modalités de mise en oeuvre de
-ces actions peuvent faire l'objet d'accords-cadres conclus entre l'Etat ou une
-ou plusieurs régions, d'une part, et une ou plusieurs organisations
-professionnelles ou chambres d'agriculture, d'autre part.
+conditions prévues aux articles L. 6121-1 à L. 6121-2-1, L. 6121-4 à L. 6121-7,
+L. 6122-1 à L. 6122-4, L. 6332-23 et L. 6332-24 du code du travail, au
+financement des stages organisés en vue d'assurer la formation des exploitants,
+salariés des exploitations, aides familiaux, salariés et non-salariés des
+secteurs para-agricole et agroalimentaire, dans des centres de formation publics
+ou privés. Une fraction de ces contributions peut être réservée au financement
+d'actions de formation en alternance organisées dans des conditions fixées par
+décret au bénéfice des aides familiaux et associés d'exploitation. Les modalités
+de mise en oeuvre de ces actions peuvent faire l'objet d'accords-cadres conclus
+entre l'Etat ou une ou plusieurs régions, d'une part, et une ou plusieurs
+organisations professionnelles ou chambres d'agriculture, d'autre part.
 
 Ces formations sont notamment dispensées dans des centres de formation
 professionnelle et de promotion agricoles créés par le ministère de
