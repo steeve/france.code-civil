@@ -31,12 +31,15 @@ celle prévue pour les mentions reprises au premier alinéa de l'article L. 311-
 
 2° Le nombre d'échéances pour chacune des échéances d'un même montant.
 
-IV. ― Dans les cas prévus au dixième alinéa de l'article L. 311-4 du code de la
-consommation, l'exemple représentatif indique, en plus des indications prévues
-au I et dans la même taille de caractère :
+IV. ― Dans les cas prévus à l'article L. 311-4-1 du code de la consommation,
+l'exemple représentatif indique, en plus des indications prévues au I et dans la
+même taille de caractère :
 
 1° Que le montant des échéances est donné " hors assurance facultative " ;
 
-2° Le coût en euros et par mois de l'assurance facultative ayant pour objet la
-garantie de remboursement du crédit, sur la base de la cotisation mensuelle la
-plus élevée prévue par l'offre commerciale sur laquelle porte la publicité.
+2° Le coût de l'assurance facultative ayant pour objet la garantie de
+remboursement d'un crédit. Ce coût est exprimé dans l'offre commerciale sur
+laquelle porte la publicité en euros par mois, en montant total dû en euros sur
+la durée prévue au 4° du I du présent article et en taux annuel effectif de
+l'assurance calculé conformément à l'article R. 313-5-1, sur la base de la
+cotisation mensuelle la plus élevée prévue par l'offre commerciale.
