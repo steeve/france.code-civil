@@ -2,8 +2,9 @@ Article A123-31
 ----
 Le greffier transmet à l'Institut national de la propriété industrielle, le cas
 échéant par voie électronique, un exemplaire de chacun des actes, statuts ou
-documents comptables déposés dans les quinze jours de leur dépôt, accompagnés
-d'un bordereau qui mentionne :
+documents comptables, accompagnés le cas échéant de la déclaration de
+confidentialité des comptes annuels, déposés dans les quinze jours de leur
+dépôt, accompagnés d'un bordereau qui mentionne :
 
 1° Le greffe du lieu de dépôt ;
 
