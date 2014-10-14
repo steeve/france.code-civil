@@ -10,7 +10,9 @@ productions végétales suivants :
 
 - l'aide à la qualité du tabac ;
 
-- le soutien à l'agriculture biologique.
+- le soutien à l'agriculture biologique ;
+
+- l'aide à la qualité pour la production de pommes de terre féculières.
 
 Un arrêté du ministre chargé de l'agriculture fixe les conditions d'accès aux
 soutiens spécifiques aux productions végétales.
@@ -52,3 +54,11 @@ systèmes fourragers économes en intrants, ni demander le bénéfice de cette
 mesure. Les surfaces éligibles ne doivent bénéficier d'aucune mesure
 agroenvironnementale liée à la surface du second pilier pour la campagne
 considérée.
+
+VI.-L'aide à la qualité pour la production de pommes de terre féculières est
+destinée à encourager la production de pommes de terre féculières de qualité
+destinée à la transformation.
+
+L'arrêté mentionné au I précise notamment la liste des variétés de pommes de
+terre féculières éligibles à l'aide ainsi que les conditions, en particulier en
+matière de contractualisation, que le demandeur doit s'engager à respecter.
