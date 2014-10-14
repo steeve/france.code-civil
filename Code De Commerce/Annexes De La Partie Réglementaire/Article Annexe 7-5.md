@@ -389,6 +389,12 @@ Dépôt des comptes annuels.
 
 5
 
+210 bis
+
+Dépôt des comptes annuels assortis d'une déclaration de confidentialité
+
+5
+
 211
 
 Dépôt d'actes ou de pièces pour la publicité des sociétés (4), y inclus le
@@ -400,6 +406,15 @@ certificat de dépôt.
 
 Certificat négatif d'immatriculation, communication d'actes ou de pièces
 déposées.
+
+1
+
+212 bis
+
+
+Certificat attestant que les comptes annuels ont été déposés
+
+mais ne sont pas rendus publics.
 
 1
 
@@ -433,6 +448,13 @@ Copie certifiée conforme (par page).
 Copie de statuts, actes ou de pièces déposées (forfait).
 
 6
+
+217 bis
+
+
+Copie de la déclaration de confidentialité des comptes annuels
+
+1
 
 218
 
