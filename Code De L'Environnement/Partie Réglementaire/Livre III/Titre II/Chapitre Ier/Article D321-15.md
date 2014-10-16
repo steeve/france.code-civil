@@ -32,6 +32,13 @@ Etablissement public du parc national de la Guadeloupe.
 
 100 %
 
+Parc national des Calanques (Bouches-du-Rhône)
+
+
+Etablissement public du Parc national des Calanques
+
+100 %
+
 2. Réserves naturelles
 
 Réserve naturelle nationale du Banc d'Arguin (Gironde).
@@ -127,16 +134,6 @@ Sites classés des falaises nord-est de Marie-Galante (Guadeloupe).
 Communauté de communes du pays Marie-Galante.
 
 100 %
-
-Sites classés du massif des Calanques (Bouches-du-Rhône).
-
-Commune de Marseille.
-
-91 %
-
-Commune de Cassis.
-
-9 %
 
 Sites classés du cap Oullestrell situé sur les communes de Banyuls-sur-Mer et
 Port-Vendres ainsi que le domaine public correspondant maritime
