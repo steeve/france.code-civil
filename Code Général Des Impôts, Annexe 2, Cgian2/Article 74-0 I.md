@@ -27,8 +27,9 @@ l'administration des impôts les documents comptables ou sociaux, bordereaux
 d'opérations et autres pièces de recettes et de dépenses de nature à justifier
 l'exactitude des renseignements portés sur la déclaration prévue au b du 1.
 
-3. Pour l'application des dispositions de l'article 150-0 D ter du code général
-des impôts, les sociétés ou groupements, agissant en tant que personnes
-interposées, produisent à l'administration fiscale, sur sa demande, tout
-document de nature à justifier la durée de détention des titres ou droits cédés
-et le caractère continu de cette détention.
+3. Pour l'application des dispositions des 1 à 1 quinquies de l'article 150-0 D
+et de l'article 150-0 D ter du code général des impôts, les sociétés ou
+groupements, agissant en tant que personnes interposées, produisent à
+l'administration fiscale, sur sa demande, tout document de nature à justifier la
+durée de détention des titres ou droits cédés et le caractère continu de cette
+détention.

@@ -6,8 +6,7 @@ formulaire mentionné au deuxième alinéa de l'article 91 undecies.
 
 Il déclare sur ce formulaire le montant des plus-values latentes, des créances
 trouvant leur origine dans une clause de complément de prix et des plus-values
-en report, le montant de l'impôt correspondant à ces plus-values et créances
-ainsi que les éléments nécessaires au calcul de cet impôt.
+en report ainsi que les éléments nécessaires à leur détermination
 
 Il indique le nom ou la dénomination sociale ainsi que l'adresse de son
 représentant fiscal. Celui-ci s'engage, sur ce même document, à représenter le

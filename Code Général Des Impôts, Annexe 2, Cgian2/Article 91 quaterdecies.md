@@ -1,10 +1,10 @@
 Article 91 quaterdecies
 ----
-Dans les cas prévus aux 2 et 3 du IX de l'article 167 bis du code général des
-impôts, le formulaire mentionné au deuxième alinéa de l'article 91 undecies
-dûment renseigné est déposé au service des impôts des particuliers non
-résidents, à l'appui de la déclaration prévue au 1 de l'article 170 du même
-code, dans le délai prévu à l'article 175 de ce code.
+Pour l'application des 2 et 3 du IX de l'article 167 bis du code général des
+impôts , le formulaire mentionné au premier alinéa du 3 du IX de l'article 167
+bis du code précité dûment renseigné est déposé au service des impôts des
+particuliers non résidents, à l'appui de la déclaration prévue au 1 de l'article
+170 du même code, dans le délai prévu à l'article 175 de ce code.
 
 Les transferts de domicile fiscal intervenant postérieurement au transfert de
 domicile fiscal hors de France sont portés à la connaissance du service des

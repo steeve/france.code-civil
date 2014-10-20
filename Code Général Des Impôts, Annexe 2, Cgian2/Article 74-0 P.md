@@ -1,7 +1,7 @@
 Article 74-0 P
 ----
-Pour l'application du c du 2° du I de l'article 150-0 D ter du code général des
-impôts, la date à laquelle le cédant fait valoir ses droits à la retraite
+Pour l'application du c du 2° du 3 du I de l'article 150-0 D ter du code général
+des impôts, la date à laquelle le cédant fait valoir ses droits à la retraite
 s'entend de la date à laquelle il entre en jouissance des droits qu'il a acquis
 dans le régime obligatoire de base d'assurance vieillesse auquel il a été
 affilié à raison de ses fonctions de direction ou, s'il n'a été affilié auprès

@@ -1,6 +1,6 @@
 Article 74-0 E ter
 ----
-I.-Lorsque les titres ou droits cédés ont fait partie du patrimoine privé du
+I. - Lorsque les titres ou droits cédés ont fait partie du patrimoine privé du
 cédant avant d'être loués ou d'être considérés comme des éléments d'actif
 affectés à l'exercice de la profession en application des dispositions des
 articles 93 ou 151 nonies du code général des impôts ou d'être inscrits à
@@ -16,7 +16,7 @@ titres à la date à laquelle ils sont considérés comme des éléments de l'ac
 professionnel en application de l'article 93 ou du I de l'article 151 nonies
 précités.
 
-II.-Lorsque les titres ou droits cédés ont été loués ou considérés comme des
+II. - Lorsque les titres ou droits cédés ont été loués ou considérés comme des
 éléments d'actifs affectés à l'exercice de la profession en application des
 dispositions des articles 93 ou 151 nonies du code général des impôts ou
 inscrits à l'actif d'une entreprise, puis sont revenus dans le patrimoine privé
@@ -31,7 +31,7 @@ titres à la date à laquelle ils cessent d'être considérés comme des éléme
 l'actif professionnel en application de l'article 93 ou du I de l'article 151
 nonies précités.
 
-III.-Lorsque les titres ou droits cédés ont successivement fait partie du
+III. - Lorsque les titres ou droits cédés ont successivement fait partie du
 patrimoine privé, été inscrits à l'actif d'une entreprise ou considérés comme
 des éléments d'actifs affectés à l'exercice de la profession en application des
 dispositions des articles 93 ou 151 nonies du code général des impôts ou été
@@ -40,9 +40,4 @@ relatifs aux périodes de détention des titres dans le patrimoine privé est é
 à la somme algébrique de ces gains afférents à chacune des périodes et calculés
 selon les modalités mentionnées au I et au II.
 
-IV.-Pour l'appréciation du seuil d'imposition prévu au 1 du I de l'article 150-0
-A du code général des impôts, lorsque les titres ou droits cédés figurent dans
-le patrimoine professionnel du contribuable, le montant de cession à retenir est
-égal à la valeur réelle des titres ou droits, déterminée selon les modalités
-mentionnées au deuxième alinéa du I, à la date de leur dernière entrée dans le
-patrimoine professionnel.
+IV. - (Abrogé).
