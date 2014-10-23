@@ -37,7 +37,7 @@ représentant de l'Etat arrête l'emploi des dotations en heures ;
 
 8° Conclut tout contrat ou convention après avoir recueilli, sous réserve des
 dispositions de l'article R. 421-20, l'autorisation du conseil d'administration.
-Lorsqu'il est fait application des dispositions du c du 6° de l'article R.
+Lorsqu'il est fait application des dispositions du d du 6° de l'article R.
 421-20, le chef d'établissement informe le conseil d'administration le plus
 proche des marchés conclus sans autorisation préalable et tient à disposition
 des membres de ce dernier les documents y afférents ;

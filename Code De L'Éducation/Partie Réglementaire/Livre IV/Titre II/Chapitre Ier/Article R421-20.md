@@ -47,7 +47,7 @@ conformément au 2° de l'article R. 421-60 ;
 courante dont le montant est inférieur à 5 000 euros hors taxes pour les
 services et 15 000 euros hors taxes pour les travaux et équipements ;
 
--des marchés dont l'incidence financière est annuelle et pour lesquelles il a
+-des marchés dont l'incidence financière est annuelle et pour lesquels il a
 donné délégation au chef d'établissement.
 
 e) Les modalités de participation au plan d'action du groupement
