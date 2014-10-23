@@ -1,6 +1,6 @@
 Article D6332-90
 ----
-Le plafond horaire et la durée maximale prévus à l'article L. 6332-15
+Le plafond horaire et la durée maximale prévus au 2° de l'article R. 6332-78
 s'appliquent dans la limite d'un plafond de 15 euros par heure de formation et
 d'une durée maximale de 40 heures. Ces dépenses comprennent les frais
 pédagogiques, les rémunérations, les cotisations et contributions sociales

@@ -7,7 +7,7 @@ dématérialisé qui publie au sein d'une rubrique dédiée et identifiable :
 demandes présentées par les employeurs, des coûts de diagnostics visés au
 cinquième alinéa de l'article L. 6332-1-1 ainsi que les services proposés
 correspondant à l'emploi des sommes prévues au 3° du I et au II de l'article R.
-6332-36 et au 5° de l'article R. 6332-37 ;
+6332-36 ;
 
 2° La liste des organismes de formation bénéficiaires des fonds de l'organisme
 collecteur ainsi que le montant pour chacun des organismes ;

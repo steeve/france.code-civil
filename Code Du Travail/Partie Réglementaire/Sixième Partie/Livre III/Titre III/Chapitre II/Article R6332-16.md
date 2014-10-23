@@ -5,17 +5,17 @@ d'intervention géographique et professionnel ou interprofessionnel ainsi que le
 conditions de sa gestion. Il fixe notamment :
 
 1° La composition et l'étendue des pouvoirs du conseil d'administration
-paritaire ;
+paritaire ainsi que les modalités de prise en compte par celui-ci des
+orientations, priorités de formation et conditions de prise en charge des
+actions de formation proposées par les sections paritaires professionnelles
+constituées dans les conditions prévues au 3° ;
 
 2° Les règles de détermination des actions donnant lieu à intervention de
-l'organisme et de répartition des ressources entre ces interventions. Sous
-réserve des dispositions des articles L. 6332-3, L. 6332-3-1 et L. 6332-4,
-l'acte de constitution peut prévoir à cet effet l'existence de sections
-professionnelles. Les fonds perçus auprès de l'ensemble des entreprises par
-l'organisme collecteur paritaire sont toutefois mutualisés avant la clôture de
-l'exercice comptable qui suit les versements et, au plus tard, avant le 31
-octobre de chaque année ;
+l'organisme et de répartition des ressources entre ces interventions ;
 
 3° Le mode de désignation des organes chargés de la préparation des mesures
 énumérées au présent article et de l'exécution des décisions de gestion de
-l'organisme.
+l'organisme. L'acte de constitution peut prévoir à cet effet l'existence de
+sections paritaires professionnelles chargées de proposer au conseil
+d'administration paritaire les orientations et priorités de formation pour les
+branches professionnelles concernées.

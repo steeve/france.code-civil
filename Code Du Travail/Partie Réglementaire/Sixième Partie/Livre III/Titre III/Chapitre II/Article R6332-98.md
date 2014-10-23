@@ -1,7 +1,0 @@
-Article R6332-98
-----
-Le fonds national de gestion paritaire doit être agréé pour percevoir les
-contributions mentionnées à l'article R. 6332-97. L'agrément est accordé, sur
-demande de l'organisme gestionnaire du fonds national, par arrêté du ministre
-chargé de la formation professionnelle pris après avis du Conseil national de
-l'emploi, de la formation et de l'orientation professionnelles.

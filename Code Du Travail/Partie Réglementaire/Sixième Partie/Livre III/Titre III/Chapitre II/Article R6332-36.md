@@ -1,8 +1,8 @@
 Article R6332-36
 ----
 I.-Les frais de gestion et d'information mentionnés au 7° de l'article L. 6332-6
-des organismes collecteurs paritaires agréés au titre du plan de formation et de
-la professionnalisation sont constitués par :
+des organismes collecteurs paritaires agréés en application de l'article L.
+6332-1 sont constitués par :
 
 1° Les frais de collecte des contributions des employeurs ;
 
@@ -11,18 +11,13 @@ dossiers de formation ;
 
 3° Les frais d'information générale et de sensibilisation des entreprises ;
 
-4° La rémunération des missions et services qui sont effectivement accomplis en
-vue d'assurer la gestion paritaire des fonds de la formation professionnelle
-continue conformément aux dispositions prévues en la matière par les articles R.
-6332-43 à R. 6332-45 ;
-
-5° La contribution due dans les conditions fixées par les articles R. 6332-96 à
-R. 6332-99 au fonds national de gestion paritaire de la formation
-professionnelle continue.
+4° Le remboursement des frais de déplacement, de séjour et de restauration
+engagés par les personnes qui siègent au sein des organes de direction de
+l'organisme.
 
 II.-Les frais relatifs aux missions mentionnées à l'article L. 6332-1-1 des
-organismes collecteurs paritaires agréés au titre du plan de formation et de la
-professionnalisation sont constitués par :
+organismes collecteurs paritaires agréés en application de l'article L. 6332-1
+sont constitués par :
 
 1° Les frais d'accompagnement des entreprises dans l'analyse et la définition de
 leurs besoins en matière de formation visés au 2° de l'article L. 6332-1-1 ;
@@ -37,10 +32,12 @@ qualitative des emplois et des qualifications, dans la limite d'un plafond fixé
 par arrêté du ministre chargé de la formation professionnelle ;
 
 4° Le financement d'études ou de recherches intéressant la formation et
-notamment les frais relatifs à l'ingénierie de certification visée au cinquième
+notamment les frais relatifs à l'ingénierie de certification visée au sixième
 alinéa de l'article L. 6332-1-1, dans la limite d'un plafond fixé par arrêté du
 ministre en charge de la formation professionnelle ;
 
-5° Les coûts des diagnostics des entreprises mentionnées au cinquième alinéa à
+5° Les coûts des diagnostics des entreprises mentionnées au sixième alinéa à
 l'article L. 6332-1-1, dans la limite d'un plafond fixé par arrêté du ministre
-chargé de la formation professionnelle.
+chargé de la formation professionnelle ;
+
+6° Les frais engagés pour s'assurer de la qualité des formations dispensées.
