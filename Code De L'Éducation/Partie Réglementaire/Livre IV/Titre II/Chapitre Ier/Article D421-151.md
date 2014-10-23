@@ -1,7 +1,6 @@
 Article D421-151
 ----
-La commission d'hygiène et de sécurité prévue à l'article L. 231-2-2 du code du
-travail comprend :
+La commission d'hygiène et de sécurité prévue à l'article L. 421-25 comprend :
 
 1° Le chef d'établissement, président ;
 
@@ -11,7 +10,7 @@ travail comprend :
 
 4° Le chef de travaux ;
 
-5° Le représentant de la collectivité territoriale de rattachement ;
+5° Un représentant de la collectivité territoriale de rattachement ;
 
 6° Deux représentants du personnel au titre des personnels enseignants ;
 
