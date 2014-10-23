@@ -10,7 +10,11 @@ chef d'établissement en cas de pluralité d'adjoints ;
 
 3° L'adjoint gestionnaire ;
 
-4° Un représentant de la collectivité territoriale de rattachement ;
+4° Un représentant de la collectivité territoriale de rattachement ou, lorsque
+celle-ci n'exerce pas les compétences en matière de construction, de
+reconstruction, d'aménagement, d'entretien et de fonctionnement de
+l'établissement, un représentant de la personne publique exerçant ces
+compétences ;
 
 5° Quatre représentants élus des personnels, dont trois au titre des personnels
 d'enseignement et d'éducation et un au titre des personnels administratifs,

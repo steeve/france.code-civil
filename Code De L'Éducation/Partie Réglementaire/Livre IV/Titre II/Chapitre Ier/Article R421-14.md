@@ -16,11 +16,20 @@ chef d'établissement en cas de pluralité d'adjoints ;
 5° Le directeur adjoint chargé de la section d'éducation spécialisée dans les
 collèges, le chef des travaux dans les lycées ;
 
-6° Un représentant de la collectivité territoriale de rattachement ;
+6° Deux représentants de la collectivité territoriale de rattachement ou,
+lorsque les compétences de celle-ci en matière de construction, de
+reconstruction, d'aménagement, d'entretien et de fonctionnement des collèges ou
+des lycées sont exercées, en application du 3° de l'article L. 3211-1-1 ou du 1°
+de l'article L. 4221-1-1 du code général des collectivités territoriales, par
+une métropole ou, en application de l'article L. 1111-8 du même code, par une
+autre collectivité territoriale ou un établissement public de coopération
+intercommunale à fiscalité propre, un représentant de la métropole, ou de la
+collectivité territoriale ou de l'établissement public délégataire, et un
+représentant de la collectivité territoriale de rattachement ;
 
-7° Trois représentants de la commune siège de l'établissement ou, lorsqu'il
-existe un groupement de communes, un représentant du groupement de communes et
-deux représentants de la commune siège ;
+7° Deux représentants de la commune siège de l'établissement ou, lorsqu'il
+existe un établissement public de coopération intercommunale, un représentant de
+cet établissement public et un représentant de la commune ;
 
 8° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les
 membres de l'administration de l'établissement désignés en raison de leur
