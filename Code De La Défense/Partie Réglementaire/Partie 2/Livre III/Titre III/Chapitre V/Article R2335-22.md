@@ -8,9 +8,9 @@ conjoint du ministre de la défense et du ministre chargé des douanes.
 Les personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de
 l'article L. 2332-1 et qui, à titre exceptionnel, conformément au deuxième
 alinéa du VI de l'article L. 2335-10, demandent l'autorisation de transférer des
-matériels des quatre premières catégories mentionnées à l'article L. 2331-1
-doivent préciser dans leur demande d'autorisation de transfert l'usage auquel
-elles destinent le matériel à transférer.
+matériels des catégories A et B mentionnées à l'article R. 311-2 du code de la
+sécurité intérieure doivent préciser dans leur demande d'autorisation de
+transfert l'usage auquel elles destinent le matériel à transférer.
 
 II. ― En application du premier alinéa de l'article L. 2335-13, le fournisseur
 qui a l'intention d'utiliser une licence générale de transfert pour la première

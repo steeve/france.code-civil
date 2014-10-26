@@ -9,9 +9,10 @@ comporte, le cas échéant, la déclaration mentionnée à l'article L. 2335-7.
 Les personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de
 l'article L. 2332-1 et qui, à titre exceptionnel, conformément au deuxième
 alinéa du V de l'article L. 2335-3, demandent l'autorisation d'exporter des
-matériels des catégories A et B mentionnées à l'article L. 2331-1, doivent
-indiquer avec précision, dans leur demande d'autorisation d'exportation, l'usage
-auquel elles destinent le matériel à exporter.
+matériels des catégories A et B mentionnées à l'article R. 311-2 du code de la
+sécurité intérieure, doivent indiquer avec précision, dans leur demande
+d'autorisation d'exportation, l'usage auquel elles destinent le matériel à
+exporter.
 
 Les matériels destinés à être transbordés dans les ports ou aérodromes de France
 font l'objet de la demande d'autorisation de transit mentionnée à l'article R.

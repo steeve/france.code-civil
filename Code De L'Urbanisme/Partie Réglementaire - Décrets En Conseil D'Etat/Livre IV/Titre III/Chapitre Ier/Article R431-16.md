@@ -68,5 +68,5 @@ des personnes prévue à l'article R. 555-31 du même code ;
 
 k) Le récépissé de transmission du dossier à la commission départementale de la
 sécurité des transports de fonds, lors de la construction d'un bâtiment
-comportant un lieu sécurisé défini à l'article 1er-1 du décret n° 2000-376 du 28
-avril 2000.
+comportant un lieu sécurisé défini à l'article R. 613-28 du code de la sécurité
+intérieure.

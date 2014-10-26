@@ -16,7 +16,7 @@ manifestation sportive, les dispositions qu'ils ont prises, s'il y a lieu, au
 titre de la réglementation édictée par la fédération sportive concernée.
 
 Lorsque les organisateurs confient aux membres du service d'ordre les missions
-mentionnées à l'article 1er du décret n° 2005-307 du 24 mars 2005, ils doivent :
+mentionnées à l'article R. 613-10, ils doivent :
 
 1° Doter ces membres du service d'ordre d'un signe distinctif permettant
 d'identifier leur qualité ;

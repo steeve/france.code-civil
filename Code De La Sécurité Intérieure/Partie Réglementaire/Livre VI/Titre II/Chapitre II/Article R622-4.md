@@ -1,0 +1,6 @@
+Article R622-4
+----
+L'autorisation administrative prévue par l'article L. 622-9 est délivrée par la
+commission régionale ou interrégionale d'agrément et de contrôle compétente dans
+le département du siège de l'entreprise ou du lieu d'implantation de
+l'établissement.

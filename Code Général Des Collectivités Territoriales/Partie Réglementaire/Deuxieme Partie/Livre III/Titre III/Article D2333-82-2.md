@@ -16,4 +16,4 @@ montant des prélèvements sont la propriété de leurs bénéficiaires respecti
 
 -dès leur inscription sur les carnets de prélèvements pour les jeux de
 contrepartie et leur forme électronique et les appareils mentionnés à l'article
-1er (d) du décret n° 59-1489 du 22 décembre 1959 modifié.
+D. 321-13 du code de la sécurité intérieure.

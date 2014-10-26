@@ -12,5 +12,7 @@ CLASSIFICATION
 
 Fusil à répétition de précision de calibre 7,62 × 51 mm et ses munitions
 
-Article 2 du décret du 30 juillet 2013 susmentionné b du 2° de la catégorie B ou
-b du 1° de la catégorie C et les munitions classées au 7° de la catégorie C
+Article R. 311-2
+
+b du 2° de la catégorie B ou b du 1° de la catégorie C et les munitions classées
+au 7° de la catégorie C

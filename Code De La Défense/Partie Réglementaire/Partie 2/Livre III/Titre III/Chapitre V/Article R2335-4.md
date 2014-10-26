@@ -51,10 +51,8 @@ importées sous le régime douanier de l'admission temporaire et cent cartouches
 par arme ;
 
 8° Les armes de poing et les munitions dont le port est autorisé par arrêté du
-ministre de l'intérieur en application de l'article 124 du décret n° 2013-700 du
-30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012
-relative à l'établissement d'un contrôle des armes moderne, simplifié et
-préventif ;
+ministre de l'intérieur en application de l'article R. 315-6 du code de la
+sécurité intérieure ;
 
 9° Les matériels de guerre classés aux 8°, 9°, 10°, 12°, 13° et 14° de la
 catégorie A 2 importés sous le régime douanier de l'admission temporaire, les

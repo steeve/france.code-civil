@@ -8,10 +8,8 @@ La commune peut acquérir, détenir et conserver des armes, des éléments d'arm
 et des munitions pour les besoins de son service de police municipale dans les
 conditions fixées par la présente section.
 
-Les dispositions des articles 19, 25 et 39 du décret n° 2013-700 du 30 juillet
-2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à
-l'établissement d'un contrôle des armes moderne, simplifié et préventif ne sont
-pas applicables.
+Les dispositions des articles R. 312-13, R. 312-22, R. 312-24, R. 312-25 et R.
+312-47 ne sont pas applicables.
 
 Le maire veille au respect des obligations qui incombent à la commune et aux
 agents de police municipale en application des dispositions de la présente

@@ -170,5 +170,6 @@ tranquillité du voisinage ou à la santé de l'homme dans les conditions prévu
 l'article R. 1334-31, ou au fait d'en faciliter sciemment, par aide ou
 assistance, la préparation ou la consommation.
 
-10° Contraventions en matière d'armes réprimées par le décret n° 2013-700du 30
-juillet 2013.
+10° Contraventions en matière d'armes réprimées par le chapitre VII du titre Ier
+du livre III de la partie réglementaire du code de la sécurité intérieure et par
+le décret n° 2013-700du 30 juillet 2013.

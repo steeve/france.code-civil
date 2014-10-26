@@ -21,9 +21,8 @@ au district ;
 6° La référence à la commission départementale de vidéoprotection est remplacée
 par la référence à la commission locale de vidéoprotection ;
 
-7° Les références au décret n° 2013-700 du 30 juillet 2013 portant application
-de la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle
-des armes moderne, simplifié et préventif sont supprimées ;
+7° Les références aux dispositions du titre Ier du livre III du présent code
+sont supprimées ;
 
 8° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés
 par les mots : " Dans les Terres australes et antarctiques françaises " ;

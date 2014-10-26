@@ -21,9 +21,9 @@ Conseil d'Etat et décrets simples)
 
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
-et V de la partie réglementaire du code de la sécurité intérieure (Décrets en
-Conseil d'Etat et décrets simples)
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des
+livres III, VI et VII de la partie réglementaire du code de la sécurité
+intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 R. 211-27 à R. 211-30
 
