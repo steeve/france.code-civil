@@ -7,7 +7,7 @@ urbaine ou de résorption d'habitat insalubre en application de la loi du 10
 juillet 1970, soit de la démolition d'un immeuble ayant fait l'objet d'une
 déclaration d'insalubrité, d'une interdiction d'habiter ou d'un arrêté de péril,
 soit d'une opération de restauration immobilière, les personnes mentionnées au
-dixième alinéa de l'article D. 831-2-1 qui, au titre de leur ancien logement,
+sixième alinéa de l'article D. 831-2-1 qui, au titre de leur ancien logement,
 bénéficiaient de l'allocation de logement ou qui remplissaient les conditions
 pour pouvoir en bénéficier, ont été amenées, de leur propre fait ou à
 l'initiative des pouvoirs publics, à occuper un logement locatif ancien ou neuf

@@ -21,9 +21,10 @@ La participation personnelle Pp est obtenue par la formule suivante :
 
 Pp = Po + Tp x Rp.
 
-Po représente la participation minimale et est égale à la plus élevée des deux
-valeurs suivantes : 8,5 % de la dépense éligible définie au I de l'article D.
-542-5 du même code ou 34,53 € ;
+Po représente la participation minimale et est égale à 8,5 % de la dépense
+éligible définie au I de l'article D. 542-5 du même code, sans pouvoir toutefois
+être inférieure à une valeur fixée par arrêté des ministres chargés de la
+sécurité sociale, du budget et du logement ;
 
 Tp représente le taux de participation personnelle ;
 
