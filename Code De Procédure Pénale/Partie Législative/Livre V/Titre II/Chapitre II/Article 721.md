@@ -29,8 +29,11 @@ pendant son incarcération de suivre le traitement qui lui est proposé par le
 juge de l'application des peines, sur avis médical, en application des articles
 717-1 ou 763-7. Il en est de même lorsque le juge de l'application des peines
 est informé, en application de l'article 717-1, que le condamné ne suit pas de
-façon régulière le traitement qu'il lui a proposé. La décision du juge de
-l'application des peines est prise dans les conditions prévues à l'article
+façon régulière le traitement qu'il lui a proposé. Il peut également ordonner,
+après avis médical, le retrait lorsque la personne condamnée dans les
+circonstances mentionnées à la première phrase du second alinéa de l'article
+122-1 du code pénal refuse les soins qui lui sont proposés. La décision du juge
+de l'application des peines est prise dans les conditions prévues à l'article
 712-5.
 
 Lorsque le condamné est en état de récidive légale, le retrait prévu par le
