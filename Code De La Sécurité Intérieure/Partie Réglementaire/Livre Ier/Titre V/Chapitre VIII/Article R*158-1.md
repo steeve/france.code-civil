@@ -23,5 +23,6 @@ Au titre II
 
 R. * 122-1 à R. * 122-12
 
-Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la
-sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)
+Résultant du décret n° 2014-1252 du 27 octobre 2014 relatif à la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en
+conseil des ministres)

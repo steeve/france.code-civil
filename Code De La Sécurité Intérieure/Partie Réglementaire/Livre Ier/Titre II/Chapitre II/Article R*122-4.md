@@ -33,9 +33,10 @@ a) Il prépare l'ensemble des mesures de prévention, de protection et de secour
 qu'exige la sauvegarde des personnes, des biens et de l'environnement dans le
 cadre de la zone de défense et de sécurité ;
 
-b) Il arrête le plan Orsec de zone dans les conditions définies par le décret n°
-2005-1157 du 13 septembre 2005 et s'assure de la cohérence des dispositifs
-opérationnels Orsec départementaux ;
+b) Il arrête le plan Orsec de zone dans les conditions définies par la section 1
+du chapitre Ier du titre IV du livre VII de la partie réglementaire du présent
+code et s'assure de la cohérence des dispositifs opérationnels Orsec
+départementaux ;
 
 c) Il assure le suivi de la mise en œuvre des politiques nationales de sécurité
 civile dans la zone de défense et de sécurité. Dans ce cadre, sous réserve des
