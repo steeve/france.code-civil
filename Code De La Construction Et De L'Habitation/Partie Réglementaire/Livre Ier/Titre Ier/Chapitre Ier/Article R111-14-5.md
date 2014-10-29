@@ -4,6 +4,9 @@ Lorsque les bâtiments neufs à usage principal de bureaux comprennent un parc d
 stationnement d'accès réservé aux salariés, ces bâtiments doivent être équipés
 d'au moins un espace réservé au stationnement sécurisé des vélos.
 
+Cet espace peut également être réalisé à l'extérieur du bâtiment, à condition
+qu'il soit couvert, clos et situé sur la même unité foncière que le bâtiment.
+
 Cet espace réservé comporte un système de fermeture sécurisé et des dispositifs
 fixes permettant de stabiliser et d'attacher les vélos par le cadre ou au moins
 une roue. Il présente une capacité de stationnement en adéquation avec la

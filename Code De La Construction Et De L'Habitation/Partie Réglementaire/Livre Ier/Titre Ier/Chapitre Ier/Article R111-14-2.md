@@ -8,7 +8,7 @@ ce parc est alimenté en électricité pour permettre la recharge des véhicules
 électriques ou hybrides rechargeables.
 
 L'équipement réalisé est relié à un tableau général basse tension en aval du
-disjoncteur de l'immeuble, se situant dans un local technique électrique.
+disjoncteur de l'immeuble.
 
 Tout ou partie des places du parc de stationnement doit être conçu de manière à
 pouvoir accueillir ultérieurement un point de charge pour la recharge normale

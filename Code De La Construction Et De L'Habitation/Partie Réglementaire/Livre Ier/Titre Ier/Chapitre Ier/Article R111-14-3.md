@@ -6,7 +6,7 @@ alimenté en électricité pour permettre la recharge des véhicules électrique
 hybrides rechargeables.
 
 L'équipement réalisé est relié à un tableau général basse tension en aval du
-disjoncteur principal, situé dans un local technique électrique.
+disjoncteur principal.
 
 Tout ou partie de ces places doit être conçu de manière à pouvoir accueillir
 ultérieurement un point de charge pour la recharge normale d'un véhicule
