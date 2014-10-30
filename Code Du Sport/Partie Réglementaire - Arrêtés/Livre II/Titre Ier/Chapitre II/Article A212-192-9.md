@@ -8,12 +8,13 @@ récépissé de déclaration de prestation de services qui portent mention des
 conditions d'exercice suivantes :
 
 Encadrement, animation, enseignement et entraînement du ski nordique de fond et
-de ses activités assimilées dans toutes les classes de la progression de
-l'enseignement du ski nordique de fond définie par le Conseil supérieur des
-sports de montagne sur des reliefs vallonnés de type nordique excluant tout
-accident de terrain important, dans les conditions prévues par l'arrêté du 1er
-septembre 2005 portant création du brevet d'Etat d'éducateur sportif du 1er
-degré, option " ski nordique de fond ”.
+de ses activités dérivées en application de l'ensemble des classes de la
+progression du ski nordique de fond et de ses activités dérivées définies par la
+commission de la formation et de l'emploi du Conseil supérieur des sports de
+montagne dans les conditions prévues par l'arrêté du 26 avril 2013 relatif à la
+formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique
+de fond. Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue
+d'un stage de recyclage.
 
 Par encadrement et animation, on entend notamment l'activité d'accompagnement
 sur pistes et hors des pistes.

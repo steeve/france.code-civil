@@ -8,12 +8,14 @@ récépissé de déclaration de prestation de services qui portent mention des
 conditions d'exercice suivantes :
 
 Encadrement, animation, enseignement et entraînement du ski alpin et de ses
-activités dérivées à tous les niveaux de pratique, sur pistes et hors des
-pistes, à l'exclusion des zones glaciaires non balisées et des terrains dont la
+activités dérivées en application de l'ensemble des classes de la progression du
+ski alpin et de ses activités dérivées définies par la commission de la
+formation et de l'emploi du Conseil supérieur des sports de montagne, à
+l'exclusion des zones glaciaires non balisées et des terrains dont la
 fréquentation fait appel aux techniques de l'alpinisme, dans les conditions
-prévues par l'arrêté du 25 octobre 2004 modifié fixant les conditions
-d'obtention de la partie spécifique du brevet d'Etat d'éducateur sportif du
-premier degré, option " ski alpin ".
+prévues par l'arrêté du 11 avril 2012 modifié relatif à la formation spécifique
+du diplôme d'Etat de ski-moniteur national de ski alpin. Autorisation d'exercer
+pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 Par encadrement et animation, on entend notamment l'activité d'accompagnement
 sur pistes et hors des pistes.

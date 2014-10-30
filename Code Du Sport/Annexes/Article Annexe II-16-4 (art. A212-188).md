@@ -1,66 +1,83 @@
 Article Annexe II-16-4 (art. A212-188)
 ----
-ÉPREUVE D'APTITUDE
+Epreuve d'aptitude
 
-I. ― Eurotest
+I.-Eurotest
 
 L'eurotest, épreuve de performance qui valide l'aptitude technique, vise à
 vérifier la capacité du candidat à évoluer en sécurité à une vitesse soutenue
 sur une certaine distance en maîtrisant les trajectoires.
 
 L'eurotest se déroule conformément aux dispositions du II de l'annexe V de
-l'arrêté du 25 octobre 2004 modifié fixant les conditions d'obtention de la
-partie spécifique du brevet d'Etat d'éducateur sportif du premier degré, option
-" ski alpin".
+l'arrêté du 11 avril 2012 modifié relatif à la formation spécifique du diplôme
+d'Etat de ski-moniteur national de ski alpin.
 
-II. ― Test de vérification des connaissances théoriques et pratiques en matière
-de sécurité
+II.-Eurosécurité
 
-Ce test comprend deux parties permettant de vérifier, dans l'ordre chronologique
-suivant, que le candidat est en capacité, à partir d'une mise en situation
-professionnelle sur le terrain :
+Ce test, qui se déroule en période hivernale, comprend trois épreuves permettant
+de vérifier, dans l'ordre chronologique suivant, que le candidat est en
+capacité, à partir d'une mise en situation professionnelle sur le terrain :
 
 1° D'effectuer une recherche de victimes en avalanche dans un temps limité ;
 
 2° D'analyser et d'interpréter diverses informations de nature à lui permettre
 de prévenir le risque, de mettre en œuvre les conditions de sécurité pour
 progresser en ski alpin sur pistes et hors des pistes et de gérer la situation
-en cas d'accident.
+en cas d'accident ;
 
-1. Première partie : recherche de victimes en avalanche
+3° D'assurer la conduite d'un groupe en sécurité sur deux jours, en ski hors
+pistes et en randonnée à ski.
 
-Cette partie consiste à rechercher un sac contenant un détecteur de victime en
-avalanche (DVA) enfoui dans la neige sur une surface minimum de 50 × 50 mètres,
-à une profondeur minimum de 50 centimètres. La recherche s'effectue en surface
-avec un DVA et une sonde appartenant au candidat. Le chronomètre est déclenché
-lorsque le candidat part à la recherche du sac avec sa sonde et son DVA à la
-main. Il est arrêté lorsque le candidat touche le sac avec la sonde. La
-localisation du sac doit intervenir dans un temps maximum de quatre minutes.
+1. Première épreuve : recherche multivictimes en avalanche.
 
-Cette première partie est éliminatoire.
+L'épreuve consiste à détecter et à sonder pour retrouver avec succès deux
+détecteurs de victimes en avalanche (DVA) placés chacun dans un sac marin avec
+un isolant d'environ 60 cm de large, enfouis sans superposition de signal à
+environ 1 m de profondeur, et à dégager avec succès un des deux appareils. La
+zone de recherche est une surface de 50 m × 50 m. La localisation des deux DVA
+et le dégagement de l'un d'entre eux doit intervenir dans un temps maximal de 8
+min.
 
-2. Deuxième partie : analyse et interprétation d'informations de nature à
+Cette épreuve est éliminatoire.
+
+2. Deuxième épreuve : analyse et interprétation d'informations de nature à
 permettre de prévenir le risque, de mettre en œuvre les conditions de sécurité
-pour progresser en ski alpin sur pistes et hors des pistes et de gérer la
-situation en cas d'accident
+pour progresser en ski alpin sur pistes et hors des pistes.
 
-Dans le cadre d'une mise en situation professionnelle sur le terrain, le
-candidat doit être en capacité :
+Dans le cadre d'une mise en situation professionnelle, le candidat doit être en
+capacité :
 
-a) D'analyser un bulletin météorologique et de risque d'avalanche rédigé en
-français ;
+a) D'analyser un bulletin météorologique et un bulletin de risque d'avalanche
+rédigés en français ;
 
-b) De se situer sur un plan des pistes de la station ou sur une carte ;
+b) De se situer sur un plan des pistes de la station et sur une carte.
 
-c) De mettre en œuvre les conditions de sécurité pour progresser en ski alpin
+D'une durée de 20 min, l'épreuve est orale et se déroule sur le domaine skiable.
+Elle consiste, pour le candidat, à faire en français l'analyse du bulletin
+d'estimation du risque d'avalanche ainsi que du bulletin météorologique
+journalier et à les comparer avec les conditions météorologiques et nivologiques
+observées. Le candidat doit savoir se situer à l'aide du plan des pistes de la
+station ainsi que d'une carte topographique IGN 1/250 000.
+
+Cette capacité est acquise ou non acquise. Dans le cas où le candidat ne
+maîtrise pas l'une des deux situations a ou b, il est éliminé.
+
+3. Troisième épreuve : conduite de groupes en ski hors-pistes et en randonnée à
+ski.
+
+Dans le cadre d'une mise en situation professionnelle, le candidat doit être en
+capacité :
+
+a) De mettre en œuvre les conditions de sécurité pour progresser en ski alpin
 sur pistes et hors des pistes ;
 
-d) De gérer un accident :
+b) De gérer un accident :
 
-― d'éviter le suraccident et de gérer le groupe ;
+-d'éviter le sur-accident et de gérer le groupe ;
 
-― d'alerter les secours en émettant un message d'alerte en français.
+-d'alerter les secours en émettant un message d'alerte en français.
 
 Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise.
-Dans le cas où le candidat ne maîtrise pas l'une quelconque des quatre
-situations a, b, c ou d, il est éliminé.
+
+Dans le cas où le candidat ne maîtrise pas l'une quelconque des deux situations
+a ou b, il est éliminé.
