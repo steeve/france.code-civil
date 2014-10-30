@@ -9,8 +9,10 @@ a) Le projet soumis à permis est situé dans un secteur sauvegardé ;
 b) Le projet soumis à permis de construire ou d'aménager est situé dans un site
 inscrit ;
 
-c) Le permis de démolir est situé dans un périmètre de protection des immeubles
-classés ou inscrits au titre des monuments historiques ;
+c) Le permis de démolir porte sur un projet situé dans un périmètre de
+protection des immeubles classés ou inscrits au titre des monuments historiques
+ou sur un immeuble adossé à un immeuble classé au titre des monuments
+historiques ;
 
 d) Le projet soumis à permis est situé dans un site classé ou en instance de
 classement en application des articles L. 341-2 et L. 341-7 du code de

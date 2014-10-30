@@ -12,9 +12,9 @@ architecte ; ― deux représentants des services déconcentrés du ministère c
 de la culture ; 2° Deux titulaires d'un mandat électif national ou local nommés
 par arrêté du ministre chargé de la culture ; 3° Dix personnalités qualifiées
 nommées par arrêté du ministre chargé de la culture, dont trois membres
-d'associations ayant pour objet de favoriser la connaissance, la protection et
-la conservation du patrimoine ; 4° Des personnalités qualifiées choisies comme
-expert en raison de leur compétence dans un domaine spécifique traité par la
-section et nommées par arrêté du ministre chargé de la culture. Leur nombre
-total ne peut dépasser quinze. Elles siègent lorsque sont examinés des dossiers
-qui relèvent de leur domaine de compétence.
+d'associations ou de fondations ayant pour objet de favoriser la connaissance,
+la protection et la conservation du patrimoine ; 4° Des personnalités qualifiées
+choisies comme expert en raison de leur compétence dans un domaine spécifique
+traité par la section et nommées par arrêté du ministre chargé de la culture.
+Leur nombre total ne peut dépasser quinze. Elles siègent lorsque sont examinés
+des dossiers qui relèvent de leur domaine de compétence.

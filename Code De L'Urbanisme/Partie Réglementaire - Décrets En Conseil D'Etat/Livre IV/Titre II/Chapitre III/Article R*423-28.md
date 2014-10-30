@@ -4,12 +4,13 @@ Le délai d'instruction prévu par le b et le c de l'article R*423-23 est
 également porté à six mois :
 
 a) Lorsqu'un permis porte sur un immeuble inscrit au titre des monuments
-historiques ou un immeuble adossé à un immeuble classé au titre des monuments
-historiques ;
+historiques et, le cas échéant, lorsqu'il y a lieu d'instruire une dérogation en
+application du cinquième alinéa de l'article L. 123-5 du code de l'urbanisme ;
 
-b) Lorsqu'un permis de construire ou d'aménager porte sur un projet situé dans
-le périmètre de protection des immeubles classés ou inscrits au titre des
-monuments historiques ;
+b) Lorsqu'un permis de construire ou d'aménager porte sur un immeuble situé dans
+le périmètre de protection d'un immeuble classé ou inscrit au titre des
+monuments historiques ou sur un immeuble adossé à un immeuble classé au titre
+des monuments historiques ;
 
 c) Lorsqu'un permis de construire porte sur des travaux relatifs à un
 établissement recevant du public et soumis à l'autorisation prévue à l'article

@@ -18,4 +18,10 @@ gardé par le préfet de région pendant plus de quinze jours vaut approbation d
 ce projet de décision.
 
 Lorsqu'il est fait application du septième alinéa de l'article L. 642-6, la
-décision d'évocation prise par le ministre est notifiée au demandeur.
+décision d'évocation prise par le ministre est notifiée au demandeur ; le délai
+d'instruction de la demande d'autorisation est porté à six mois. En cas de
+décision de refus ou d'autorisation assortie de prescriptions, le ministre
+chargé de la culture transmet par lettre recommandée avec avis de réception une
+copie de sa décision au demandeur en l'informant que, dans le silence de
+l'autorité compétente, ce dernier ne peut se prévaloir d'une autorisation
+tacite.

@@ -15,8 +15,9 @@ une aire de mise en valeur du patrimoine ou une zone de protection du patrimoine
 architectural, urbain et paysager ;
 
 c) De deux mois lorsque l'avis porte sur des travaux situés en secteur
-sauvegardé ou dans le champ de visibilité d'un monument historique défini à
-l'article L. 621-30-1 du code du patrimoine.
+sauvegardé, dans le champ de visibilité d'un monument historique ou sur un
+immeuble adossé à un immeuble classé au titre des monuments historiques définis
+à l'article L. 621-30 du code du patrimoine.
 
 En l'absence de décision expresse du préfet de région à l'issue du délai
 mentionné aux alinéas précédents, le recours est réputé admis.
@@ -39,9 +40,10 @@ l'architecture et du patrimoine ou une zone de protection du patrimoine
 architectural, urbain et paysager ;
 
 b) Après consultation de la section de la commission régionale du patrimoine et
-des sites, lorsque le projet est situé dans un secteur sauvegardé ou dans le
-champ de visibilité d'un monument historique défini à l'article L. 621-30-1 du
-code du patrimoine.
+des sites, lorsque le projet est situé dans un secteur sauvegardé, dans le champ
+de visibilité d'un monument historique ou sur un immeuble adossé à un immeuble
+classé au titre des monuments historiques définis à l'article L. 621-30 du code
+du patrimoine.
 
 La décision expresse du préfet de région est notifiée à l'autorité compétente,
 ainsi qu'au maire et au demandeur.

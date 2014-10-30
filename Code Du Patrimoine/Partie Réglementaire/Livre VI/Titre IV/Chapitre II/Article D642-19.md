@@ -12,16 +12,20 @@ l'article L. 642-6 pour délivrer l'autorisation, le maire transmet un exemplair
 à l'architecte des Bâtiments de France ;
 
 2° Lorsqu'il est lui-même l'autorité compétente au nom de la commune, le maire
-transmet un exemplaire au préfet et, lorsque le projet concerne un immeuble
-inscrit au titre des monuments historiques ou un immeuble adossé à un immeuble
-classé au titre des monuments historiques, un exemplaire au directeur régional
-des affaires culturelles ;
+transmet un exemplaire au préfet. Lorsque le projet concerne un immeuble inscrit
+au titre des monuments historiques, il transmet un exemplaire au directeur
+régional des affaires culturelles ; lorsque le projet concerne un immeuble
+adossé à un immeuble classé au titre des monuments historiques, il transmet un
+exemplaire au chef du service déconcentré de l'Etat chargé de l'architecture et
+du patrimoine ;
 
 3° Lorsque l'autorité compétente est le président de l'établissement public de
-coopération intercommunale, le maire conserve un exemplaire et, lorsque le
-projet concerne un immeuble inscrit au titre des monuments historiques ou un
-immeuble adossé à un immeuble classé au titre des monuments historiques, il
-transmet un exemplaire au directeur régional des affaires culturelles ;
+coopération intercommunale, le maire conserve un exemplaire. Lorsque le projet
+concerne un immeuble inscrit au titre des monuments historiques, il transmet un
+exemplaire au directeur régional des affaires culturelles ; lorsque le projet
+concerne un immeuble adossé à un immeuble classé au titre des monuments
+historiques, il transmet un exemplaire au chef du service déconcentré de l'Etat
+chargé de l'architecture et du patrimoine ;
 
 4° Lorsque l'autorité compétente relève de l'Etat, le maire conserve un
 exemplaire, et, dans le cas où la commune a délégué sa compétence à un

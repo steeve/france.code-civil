@@ -1,8 +1,19 @@
 Article R621-92
 ----
-Lorsqu'elle ne concerne pas des constructions ou travaux mentionnés au premier
-alinéa de l'article L. 621-30, la demande d'autorisation prévue au second alinéa
-du même article est présentée et l'autorisation délivrée dans les conditions
-fixées aux articles R. 621-12 et R. 621-13. Le dossier joint comprend en outre
-les documents permettant d'apprécier l'impact architectural et technique des
-travaux sur l'immeuble classé.
+I.-La création d'un périmètre de protection adapté mentionné au cinquième alinéa
+de l'article L. 621-30 est proposée par l'architecte des Bâtiments de France et
+fait l'objet d'une instruction conduite sous l'autorité du préfet du département
+dans lequel se situe l'immeuble classé ou inscrit générant le périmètre de
+protection.
+
+II.-La modification d'un périmètre de protection est proposée par l'architecte
+des Bâtiments de France en application du sixième alinéa de l'article L. 621-30,
+et fait l'objet d'une instruction qui est conduite :
+
+-soit sous l'autorité du préfet du département dans lequel se situe l'immeuble
+classé ou inscrit générant le périmètre de protection ;
+
+-soit, lorsque la modification du périmètre est effectuée conjointement à
+l'élaboration, la modification ou la révision d'un plan local d'urbanisme ou
+d'une carte communale, par l'autorité compétente en matière de plan local
+d'urbanisme ou de carte communale

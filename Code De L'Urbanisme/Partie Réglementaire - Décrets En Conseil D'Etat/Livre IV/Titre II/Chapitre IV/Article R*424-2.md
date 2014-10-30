@@ -11,8 +11,8 @@ des réserves naturelles ;
 b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des
 sites ou par le ministre chargé de la protection des réserves naturelles ;
 
-c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un
-immeuble classé au titre des monuments historiques ;
+c) Lorsque le projet porte sur un immeuble inscrit au titre des monuments
+historiques ;
 
 d) Lorsque le projet est soumis à enquête publique en application des articles
 R. 123-7 à R. 123-23 du code de l'environnement ;
