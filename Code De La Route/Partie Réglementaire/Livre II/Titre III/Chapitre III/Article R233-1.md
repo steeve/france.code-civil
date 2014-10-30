@@ -1,7 +1,8 @@
 Article R233-1
 ----
-I. - Lorsque les dispositions du présent code l'exigent, tout conducteur est
-tenu de présenter à toute réquisition des agents de l'autorité compétente :
+I.-Lorsque les dispositions du présent code l'exigent, tout conducteur ou, le
+cas échéant, tout accompagnateur d'un apprenti conducteur, est tenu de présenter
+à toute réquisition des agents de l'autorité compétente :
 
 1° Tout titre justifiant de son autorisation de conduire ;
 
@@ -12,7 +13,17 @@ les récépissés provisoires, ou les photocopies des certificats d'immatriculat
 dans les cas et dans les conditions prévues par un arrêté du ministre de la
 justice et du ministre de l'intérieur ;
 
-3° (Supprimé)
+3° Pour l'accompagnateur d'un apprenti conducteur assujetti à une obligation de
+formation, le permis de conduire de la catégorie exigée pour la conduite du
+véhicule, obtenu depuis au moins cinq ans, accompagné d'une attestation
+certifiant qu'il a suivi la formation spécifique prévue au 4° de l'article R.
+211-3.
+
+Pour les titulaires d'une autorisation d'enseigner la conduite en cours de
+validité, les délégués et inspecteurs du permis de conduire et de la sécurité
+routière, en leur qualité d'accompagnateur à titre non onéreux, l'attestation
+délivrée dans les conditions fixées par arrêté du ministre chargé de la sécurité
+routière ;
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation
 de la formation pratique ou le document attestant d'une expérience de la
@@ -29,26 +40,26 @@ ou
 b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de
 procédure pénale ;
 
-6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1) ;
+6° Un éthylotest dans les conditions prévues à l'article R. 234-7 ;
 
 7° Le procès-verbal de contrôle technique périodique pour les véhicules
 mentionnés aux articles R. 323-23 et R. 323-25.
 
-II. - En cas de perte ou de vol du titre justifiant de l'autorisation de
-conduire le récépissé de déclaration de perte ou de vol tient lieu de titre
-pendant un délai de deux mois au plus.
+II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire
+le récépissé de déclaration de perte ou de vol tient lieu de titre pendant un
+délai de deux mois au plus.
 
-III. - Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement
-aux agents de l'autorité compétente les éléments exigés par le présent article
-est puni de l'amende prévue pour les contraventions de la première classe.
+III.-Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement aux
+agents de l'autorité compétente les éléments exigés par le présent article est
+puni de l'amende prévue pour les contraventions de la première classe.
 
-IV. - Le fait, pour toute personne invitée à justifier dans un délai de cinq
-jours de la possession de son brevet de sécurité routière, de ne pas présenter
-ce document avant l'expiration de ce délai est puni de l'amende prévue pour les
+IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours
+de la possession de son brevet de sécurité routière, de ne pas présenter ce
+document avant l'expiration de ce délai est puni de l'amende prévue pour les
 contraventions de la deuxième classe.
 
-V. - Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à
+V.-Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à
 justifier dans un délai de cinq jours de la possession des autorisations et
 pièces exigées par le présent article, de ne pas présenter ces documents avant
 l'expiration de ce délai est puni de l'amende prévue pour les contraventions de
-la quatrième classe (1).
+la quatrième classe.

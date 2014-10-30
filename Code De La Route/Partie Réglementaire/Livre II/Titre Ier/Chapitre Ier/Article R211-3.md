@@ -3,7 +3,8 @@ Article R211-3
 Pour apprendre à conduire un véhicule à moteur sur une voie ouverte à la
 circulation publique, en vue de l'obtention du permis de conduire, il faut :
 
-1° Etre âgé de seize ans minimum ;
+1° Etre âgé de seize ans minimum, ou de quinze ans dans le cadre de
+l'apprentissage dit anticipé de la conduite mentionné à l'article R. 211-5 ;
 
 2° Etre détenteur d'un livret d'apprentissage établi dans les conditions fixées
 par arrêté du ministre chargé de la sécurité routière, et précisant les

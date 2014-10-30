@@ -18,10 +18,13 @@ médical établi par un médecin agréé consultant hors commission médicale ou
 la commission médicale.
 
 III.-La demande de prorogation doit être adressée au préfet du département du
-domicile du pétitionnaire. Tant qu'il n'y est pas statué par le préfet dans les
-conditions fixées par arrêté du ministre chargé des transports, notamment en ce
-qui concerne la procédure et les délais et sauf carence de l'intéressé, le
-permis reste provisoirement valide.
+domicile du pétitionnaire. Lorsque l'avis médical est émis avant l'expiration de
+la durée de validité des catégories concernées, et tant que le préfet n'a pas
+statué sur la demande de prorogation dans les conditions fixées par arrêté du
+ministre chargé de la sécurité routière, le permis reste provisoirement valide.
+Cette disposition s'applique pour les avis médicaux concluant à l'aptitude,
+l'aptitude temporaire ou l'aptitude avec restriction d'utilisation du permis,
+dès lors que le conducteur justifie du respect de ces restrictions.
 
 IV.-Les catégories A1, A2, A, B1 et B du permis de conduire délivrées pour la
 conduite des véhicules spécialement aménagés pour tenir compte du handicap du

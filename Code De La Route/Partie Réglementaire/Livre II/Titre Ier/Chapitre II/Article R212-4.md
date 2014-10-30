@@ -11,22 +11,54 @@ I.-Délits d'atteinte à la personne humaine prévus par le code pénal :
 -atteinte involontaire à la vie (art. 221-6-1) ;
 
 -atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à
-222-13,222-14 [3° et 4°],222-19-1 et 222-20-1,222-2 à 222-33) ;
+222-13,222-14 [3° et 4°], 222-19-1 et 222-20-1,222-2 à 222-33) ;
 
 -mise en danger de la vie d'autrui (art. 223-1) ;
 
--trafic de stupéfiants (art. 222-36 [1er alinéa],222-37 à 222-40) ;
+-trafic de stupéfiants (art. 222-36 [1er alinéa], 222-37 à 222-40) ;
 
 -entrave aux mesures d'assistance et omission de porter secours (art. 223-5 à
 223-7) ;
 
 -proxénétisme (art. 225-5 à 225-7, art. 225-10 et 225-11) ;
 
+-provocation de mineur à l'usage illicite de stupéfiants (art. 227-18) ;
+
+-provocation de mineur au trafic de stupéfiants (art. 227-18-1) ;
+
+-provocation de mineur à la consommation habituelle et excessive de boissons
+alcooliques (art. 227-19) ;
+
+-provocation de mineur à la commission d'un crime ou d'un délit (art. 227-21) ;
+
+-corruption de mineur (art. 227-22) ;
+
+-propositions sexuelles à un mineur de quinze ans en utilisant un moyen de
+communication électronique (art. 227-22-1) ;
+
+-fixation, enregistrement ou transmission d'images de mineur à caractère
+pornographique, offre, diffusion, importation, exportation, acquisition ou
+détention de ces images, consultation d'un service de communication au public en
+ligne mettant à disposition ces images (art. 227-23) ;
+
+-fabrication, transport, diffusion ou commerce d'un message violent,
+pornographique ou incitant à se livrer à des jeux dangereux susceptible d'être
+vu ou perçu par un mineur (art. 227-24) ;
+
+-incitation à la soumission ou à la commission d'une mutilation sexuelle d'un
+mineur (art. 227-24-1) ;
+
 -atteinte sexuelle sur mineur de quinze ans (art. 227-25 et 227-26) ;
 
--atteinte sexuelle sur mineur de plus de quinze ans sans violence, contrainte,
-menace ni surprise par une personne majeure abusant de l'autorité que lui
-confèrent ses fonctions (art. 227-27).
+-atteinte sexuelle sur mineur de plus de quinze ans par ascendant ou personne
+ayant autorité (art. 227-27) ;
+
+-atteinte sexuelle sur mineur de plus de quinze ans par personne abusant de
+l'autorité que lui confèrent ses fonctions (art. 227-27) ;
+
+-provocation à la commission à l'encontre d'un mineur de l'un des crimes ou
+délits visés aux articles 222-22 à 222-31,225-5 à 225-11,227-22,227-23 et 227-25
+à 227-28 (art. 227-28-3).
 
 II.-Délits d'atteinte aux biens prévus par le code pénal :
 
@@ -71,16 +103,16 @@ dans les examens et concours publics.
 
 V.-Délits prévus par le code du travail :
 
--atteinte à l'égalité professionnelle entre les hommes et les femmes (art.L.
+-atteinte à l'égalité professionnelle entre les hommes et les femmes (art. L.
 1142-1 et L. 1146-1) ;
 
--fourniture illégale de main d'oeuvre (art.L. 8231-1 et L. 8234-1) ;
+-fourniture illégale de main d'oeuvre (art. L. 8231-1 et L. 8234-1) ;
 
--prêt de main d'oeuvre (art.L. 8241-1 et L. 8243-1) ;
+-prêt de main d'oeuvre (art. L. 8241-1 et L. 8243-1) ;
 
--travail dissimulé (art.L. 8221-1, L. 8221-3 à L. 8221-5, L. 8224-1) ;
+-travail dissimulé (art. L. 8221-1, L. 8221-3 à L. 8221-5, L. 8224-1) ;
 
--emploi d'étranger en situation irrégulière (art.L. 8251-1, L. 8256-1, L.
+-emploi d'étranger en situation irrégulière (art. L. 8251-1, L. 8256-1, L.
 8256-2).
 
 VI.-Délits prévus par le code de la route :
@@ -93,62 +125,70 @@ vérifications destinées à établir la preuve de l'état alcoolique, conduite 
 accompagnement sous l'influence de substances ou plantes classées comme
 stupéfiants, refus de se soumettre aux vérifications destinées à établir la
 preuve de la conduite sous l'influence de substances ou plantes classées comme
-stupéfiants (art.L. 231-1, L. 233-1, L. 233-1-1, L. 233-2, L. 234-1, L. 234-8,
+stupéfiants (art. L. 231-1, L. 233-1, L. 233-1-1, L. 233-2, L. 234-1, L. 234-8,
 L. 235-1 et L. 235-3) ;
 
--entrave volontaire à la circulation (art.L. 412-1) ;
+-entrave volontaire à la circulation (art. L. 412-1) ;
 
 -usage d'une fausse plaque d'immatriculation, circulation sans plaque
 d'immatriculation, mise en circulation d'un véhicule muni de plaques inexactes,
 usurpation de plaques, modification du dispositif de limitation de vitesse par
 construction des véhicules de transports routiers, absence à bord du véhicule du
 transport routier de certains documents, destruction ou détournement d'un
-véhicule confisqué (art.L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L.
+véhicule confisqué (art. L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L.
 3242-1 du code des transports ;
 
 -conduite d'un véhicule sans être titulaire du permis de conduire correspondant
 à la catégorie du véhicule considéré, conduite d'un véhicule malgré la
 rétention, l'invalidation, la suspension ou l'annulation du permis de conduire
-(art.L. 221-2, L. 223-5 et L. 224-16) ;
+(art. L. 221-2, L. 223-5 et L. 224-16) ;
 
 -enseignement de la conduite des véhicules terrestres à moteur sans autorisation
-ou en violation d'une mesure de suspension (art.L. 212-4) ;
+ou en violation d'une mesure de suspension (art. L. 212-4) ;
+
+-exploitation d'un établissement d'enseignement de la conduite des véhicules
+terrestres à moteur et de la sécurité routière ou de formation des candidats
+pour l'exercice de la profession d'enseignant sans l'agrément ou en violation
+d'une mesure provisoire de suspension (art. L. 213-6) ;
+
+-emploi d'un enseignant non titulaire de l'autorisation d'enseigner (art. L.
+213-6) ;
 
 -usage du nom d'une personne pour enregistrement, au nom de cette personne,
-d'une condamnation judiciaire ou d'une décision administrative (art.L. 225-7 et
+d'une condamnation judiciaire ou d'une décision administrative (art. L. 225-7 et
 L. 330-6) ;
 
 -usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur
-un conducteur (art.L. 225-8 et L. 330-7).
+un conducteur (art. L. 225-8 et L. 330-7).
 
 -délits liés à l'offre ou à la commercialisation de dispositifs ayant pour objet
 d'augmenter la puissance du moteur d'un cyclomoteur, d'une motocyclette ou d'un
-quadricycle à moteur (art.L. 317-5 à L. 317-7) ;
+quadricycle à moteur (art. L. 317-5 à L. 317-7) ;
 
 -délits liés à l'offre ou à la commercialisation par un professionnel d'un
 cyclomoteur, d'une motocyclette, d'un tricycle ou d'un quadricycle à moteur
 soumis à réception et non réceptionné ou qui n'est plus conforme à celle-ci
-(art.L. 321-1 et L. 321-2) ;
+(art. L. 321-1 et L. 321-2) ;
 
--défaut d'assurance (art.L. 324-2) ;
+-défaut d'assurance (art. L. 324-2) ;
 
--obstacle à une mesure d'immobilisation ou à un ordre d'envoi en fourrière
-(art.L. 325-3-1) ;
+-obstacle à une mesure d'immobilisation ou à un ordre d'envoi en fourrière (art.
+L. 325-3-1) ;
 
--organisation de courses de véhicules à moteur sans autorisation (art.L. 411-7)
+-organisation de courses de véhicules à moteur sans autorisation (art. L. 411-7)
 ;
 
 -récidive de non-respect des distances de sécurité entre deux véhicules dans un
-tunnel (art.L. 412-2) ;
+tunnel (art. L. 412-2) ;
 
--grand excès de vitesse en récidive (art.L. 413-1) ;
+-grand excès de vitesse en récidive (art. L. 413-1) ;
 
 -délits liés à l'offre ou à la commercialisation de dispositifs destinés à
 déceler la présence ou à perturber le fonctionnement des systèmes de
-constatation des infractions à la circulation routière (art.L. 413-2 à L.
+constatation des infractions à la circulation routière (art. L. 413-2 à L.
 413-5).
 
 VII.-Délit prévu par le code de la santé publique :
 
 -usage de manière illicite de l'une des substances ou plantes classées comme
-stupéfiants (art.L. 3421-1).
+stupéfiants (art. L. 3421-1).

@@ -1,63 +1,50 @@
 Article R212-3
 ----
-Les titres ou diplômes prévus au I, 1°, de l'article R. 212-2 sont :
+Les titres ou diplômes prévus au 1° du I de l'article R. 212-2 sont :
 
 I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite
-automobile et de la sécurité routière (BEPECASER).
+automobile et de la sécurité routière (BEPECASER). Ce diplôme porte, le cas
+échéant, la mention " deux-roues " et la mention " groupe lourd ", correspondant
+respectivement aux catégories AM, A1, A2 et A et aux catégories C1, C, D1, D,
+C1E, CE, D1E et DE du permis de conduire.
 
 Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes
 ayant subi avec succès lesdites épreuves organisées dans des conditions fixées
-par un arrêté du ministre chargé de la sécurité routière. Cet arrêté détermine
-en outre les conditions de dépôt, d'instruction des dossiers de candidature, le
-programme de formation, les épreuves et leur organisation.
+par un arrêté du ministre chargé de la sécurité routière.
 
-Ce diplôme porte, le cas échéant, la ou les mentions suivantes :
+II.-L'un des titres ou diplômes énumérés ci-après :
 
--enseignement de la conduite des véhicules de la catégorie E (B) ;
+1° Pour l'enseignement de la conduite des véhicules terrestres à moteur relevant
+de la catégorie B, B1 et BE du permis de conduire :
 
--enseignement de la conduite des véhicules de la catégorie A ;
-
--enseignement de la conduite des véhicules des catégories C, E (C), D, E (D).
-
-II.-L'un des titres ou diplômes énumérés ci-après reconnus équivalents de plein
-droit au brevet pour l'exercice de la profession d'enseignant de la conduite
-automobile et de la sécurité routière (BEPECASER), pour enseigner la conduite
-des véhicules terrestres à moteur de la catégorie B :
-
-1° Le certificat d'aptitude professionnelle à l'enseignement de la conduite des
+a) Le certificat d'aptitude professionnelle à l'enseignement de la conduite des
 véhicules terrestres à moteur (CAPEC) ;
 
-2° La carte professionnelle et le certificat d'aptitude professionnelle et
+b) La carte professionnelle et le certificat d'aptitude professionnelle et
 pédagogique (CAPP) ;
 
-3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction
-élémentaire de conduite, ou les diplômes militaires reconnus équivalents à
-celui-ci par arrêté conjoint du ministre chargé de la sécurité routière et du
-ministre de la défense ;
+c) Les titres ou diplômes militaires définis par arrêté conjoint du ministre
+chargé de la sécurité routière et du ministre de la défense ;
 
-4° Les diplômes d'enseignement de la conduite délivrés dans les territoires
-d'outre-mer et dans les collectivités territoriales de Mayotte et de
-Saint-Pierre-et-Miquelon.
+d) Les diplômes d'enseignement de la conduite délivrés par les collectivités
+d'outre-mer et la Nouvelle-Calédonie ;
 
-L'équivalence avec le brevet pour l'exercice de la profession d'enseignant de la
-conduite automobile et de la sécurité routière (BEPECASER), portant la ou les
-mentions catégorie E (B), catégorie A et catégories C, E (C), D, E (D), est
-admise de plein droit pour les personnes ayant subi avec succès la ou les
-épreuves correspondantes du certificat d'aptitude professionnelle à
-l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC). Pour
-les titulaires d'un titre ou diplôme mentionné aux 2°, 3° et 4° ci-dessus, elle
-n'est admise qu'à la condition qu'ils aient été en possession, le 1er janvier
-1982, des catégories de permis de conduire correspondantes.
+2° Pour l'enseignement de la conduite des véhicules correspondant aux mentions
+précisées au I :
 
-III.-Un titre acquis dans un autre Etat membre de la Communauté européenne ou
-dans un autre Etat partie à l'accord sur l'Espace économique européen et reconnu
-par le préfet comme équivalent au BEPECASER dans les conditions définies à
+a) Le certificat d'aptitude professionnelle à l'enseignement de la conduite des
+véhicules terrestres à moteur (CAPEC), pour les personnes ayant subi avec succès
+la ou les épreuves correspondantes auxdites mentions ;
+
+b) Les titres ou diplômes mentionnés aux b, c et d du 1° du II à la condition
+que les titulaires aient été en possession, le 1er janvier 1982, des catégories
+de permis de conduire correspondantes.
+
+III.-Une qualification professionnelle satisfaisant aux conditions prévues à
 l'article R. 212-3-1.
 
 IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni
-membre de la Communauté européenne ni partie à l'accord sur l'Espace économique
-européen, reconnu équivalent au brevet pour l'exercice de la profession
-d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER),
-par décision du ministre chargé de la sécurité routière prise sur avis d'une
-commission interministérielle créée à cet effet par arrêté conjoint du ministre
-chargé de la sécurité routière et du ministre chargé des Affaires étrangères.
+membre de l'Union européenne ni partie à l'accord sur l'Espace économique
+européen et reconnu pour l'exercice de la profession d'enseignant de la conduite
+automobile et de la sécurité routière par décision du ministre chargé de la
+sécurité routière.

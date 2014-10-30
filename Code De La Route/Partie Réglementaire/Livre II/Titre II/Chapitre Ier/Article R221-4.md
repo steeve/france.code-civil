@@ -15,8 +15,7 @@ Catégorie A2 :
 
 Motocyclettes avec ou sans side-car d'une puissance n'excédant pas 35 kilowatts
 et dont le rapport puissance/ poids n'excède pas 0,2 kilowatt par kilogramme. La
-puissance ne peut résulter du bridage d'un véhicule développant plus du double
-de sa puissance.
+puissance ne peut résulter du bridage d'un véhicule développant plus de 70 kW.
 
 Catégorie A :
 
@@ -31,9 +30,9 @@ Véhicules de la catégorie L7e.
 Catégorie B :
 
 Véhicules automobiles ayant un poids total autorisé en charge (PTAC) qui
-n'excède pas 3,5 tonnes, affectés au transport de personnes et comportant, outre
-le siège du conducteur, huit places assises au maximum ou affectés au transport
-de marchandises ainsi que les véhicules qui peuvent être assimilés aux véhicules
+n'excède pas 3,5 tonnes, affectés au transport de personnes ou de marchandises,
+conçus et construits pour le transport de huit passagers au maximum non compris
+le conducteur ainsi que les véhicules qui peuvent être assimilés aux véhicules
 précédents et dont la liste est fixée par arrêté du ministre chargé de la
 sécurité routière.
 
@@ -42,8 +41,9 @@ poids total autorisé en charge (PTAC) de la remorque est inférieur ou égal à
 kilogrammes.
 
 Mêmes véhicules attelés d'une remorque lorsque le poids total autorisé en charge
-(PTAC) de la remorque est supérieur à 750 kilogrammes, sous réserve que le poids
-total roulant autorisé (PTRA) de l'ensemble n'excède pas 4 250 kilogrammes ;
+(PTAC) de la remorque est supérieur à 750 kilogrammes, sous réserve que la somme
+des poids totaux autorisés en charge (PTAC) du véhicule tracteur et de la
+remorque de l'ensemble n'excède pas 4 250 kilogrammes.
 
 Catégorie C1 :
 
@@ -66,18 +66,17 @@ total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
 Catégorie D1 :
 
-Véhicules automobiles conçus et construits pour le transport de personnes
-comportant, outre le siège du conducteur, seize places assises maximum et d'une
-longueur n'excédant pas huit mètres.
+Véhicules automobiles conçus et construits pour le transport de seize passagers
+au maximum non compris le conducteur et d'une longueur n'excédant pas huit
+mètres.
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids
 total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
 Catégorie D :
 
-Véhicules automobiles conçus et construits pour le transport de personnes
-comportant plus de huit places assises outre le siège du conducteur ou
-transportant plus de huit personnes, non compris le conducteur.
+Véhicules automobiles conçus et construits pour le transport de plus de huit
+passagers, non compris le conducteur.
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids
 total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
@@ -86,7 +85,8 @@ Catégorie BE :
 
 Véhicules relevant de la catégorie B auxquels est attelée une remorque ou une
 semi-remorque qui a un poids total autorisé en charge (PTAC) n'excédant pas 3
-500 kilogrammes.
+500 kilogrammes lorsque l'ensemble formé par le véhicule tracteur et la remorque
+ne relève pas de la catégorie B.
 
 Catégorie C1E :
 
@@ -120,9 +120,7 @@ II. - Le permis de conduire peut être délivré, dans des conditions fixées pa
 ministre chargé de la sécurité routière, aux personnes atteintes d'un handicap
 physique nécessitant l'aménagement du véhicule.
 
-III. - Les permis de conduire délivrés avant le 19 janvier 2013 sont échangés
-contre un nouveau modèle de permis de conduire autorisant la conduite des mêmes
-véhicules avant le 19 janvier 2033.
-
-Un arrêté du ministre chargé de la sécurité routière fixe les conditions et les
-délais dans lesquels ces échanges sont réalisés.
+III. - Il sera substitué au plus tard avant le 19 janvier 2033, dans les
+conditions fixées par un arrêté du ministre chargé de la sécurité routière, aux
+permis de conduire délivrés avant le 19 janvier 2013 un nouveau modèle de permis
+de conduire défini par arrêté du ministre chargé de la sécurité routière.

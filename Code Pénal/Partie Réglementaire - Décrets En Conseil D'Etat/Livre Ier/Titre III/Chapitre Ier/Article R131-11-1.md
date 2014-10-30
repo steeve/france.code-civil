@@ -6,8 +6,8 @@ du code de la route, par les personnes agréées selon les modalités définies 
 ces articles.
 
 Un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
-chargé des transports peut fixer un programme et une durée de stage différents,
-sans que cette durée puisse excéder cinq jours.
+chargé de la sécurité routière peut fixer un programme et une durée de stage
+différents, sans que cette durée puisse excéder cinq jours.
 
 Les frais de stage, à la charge du condamné, ne peuvent excéder le montant
 maximum de l'amende encourue pour les contraventions de la 3e classe.

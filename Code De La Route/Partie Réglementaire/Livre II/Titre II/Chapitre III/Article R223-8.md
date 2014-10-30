@@ -8,11 +8,9 @@ transmet un exemplaire de cette attestation au préfet du département du lieu d
 stage, dans un délai de quinze jours à compter de la fin de celui-ci.
 
 II.-L'attestation délivrée à l'issue du stage effectué en application des
-dispositions de l'alinéa 3 de l'article L. 223-6 donne droit à la récupération
-de quatre points dans la limite du plafond affecté au permis de conduire de son
-titulaire. Une nouvelle reconstitution de points, après une formation spécifique
-effectuée en application des mêmes dispositions, n'est possible qu'au terme d'un
-délai de deux ans.
+dispositions du quatrième alinéa de l'article L. 223-6 donne droit à la
+récupération de quatre points dans la limite du plafond affecté au permis de
+conduire de son titulaire.
 
 III.-Le préfet mentionné au I ci-dessus procède à la reconstitution du nombre de
 points dans un délai d'un mois à compter de la réception de l'attestation et

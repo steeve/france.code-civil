@@ -1,12 +1,15 @@
 Article R213-4
 ----
 Les programmes de formation prévus à l'article L. 213-4 sont définis par arrêtés
-du ministre chargé de la sécurité routière. Les délégués et inspecteurs du
-permis de conduire et de la sécurité routière ou les agents publics qualifiés et
-spécialement habilités par un arrêté du ministre chargé de la sécurité routière
-procèdent au contrôle de l'application des programmes de formation et du respect
-des obligations mises à la charge du titulaire de l'agrément par le présent
-code.
+du ministre chargé de la sécurité routière. Ils incluent notamment une
+sensibilisation aux comportements à adopter en cas d'accident, aux premiers
+secours à apporter aux victimes et aux risques encourus par les usagers
+vulnérables ainsi qu'à l'impact écologique et économique des déplacements. Les
+délégués et inspecteurs du permis de conduire et de la sécurité routière ou les
+agents publics qualifiés et spécialement habilités par un arrêté du ministre
+chargé de la sécurité routière procèdent au contrôle de l'application des
+programmes de formation et du respect des obligations mises à la charge du
+titulaire de l'agrément par le présent code.
 
 Les agents des services de l'Etat chargés des procédures d'agrément de ces
 établissements peuvent également procéder à des contrôles administratifs.
