@@ -1,8 +1,9 @@
 Article R372-23
 ----
-I.-La quotité minimum des prêts accordés par les établissements de crédit aux
-bénéficiaires mentionnés à l'article R. 372-21 ne peut être inférieure à 50 % du
-prix de revient de l'opération mentionné à l'article R. 372-9.
+I.-La quotité minimum des prêts accordés par les établissements de crédit et les
+sociétés de financement aux bénéficiaires mentionnés à l'article R. 372-21 ne
+peut être inférieure à 50 % du prix de revient de l'opération mentionné à
+l'article R. 372-9.
 
 II.-Toutefois, la quotité peut être ramenée à 30 % pour la réalisation des
 programmes de logements locatifs de l'association mentionnée à l'article L.

@@ -1,7 +1,7 @@
 Article D344-5
 ----
 I.-Les données relatives à la protection sociale complémentaire, mentionnées au
-troisième alinéa de l'article L. 612-24 du code monétaire et financier, sont
+cinquième alinéa de l'article L. 612-24 du code monétaire et financier, sont
 regroupées dans les états suivants :
 
 E 1 Personnes assurées, couvertes et bénéficiaires par type de garanties ;
@@ -12,7 +12,7 @@ E 3 Frais de soins et indemnités journalières payés au cours de l'exercice ;
 
 E 4 Résultat technique en frais de soins ;
 
-E 5 Compléments frais de gestion des garanties "frais de soins", gestion
+E 5 Compléments frais de gestion des garanties " frais de soins ", gestion
 déléguée d'un régime obligatoire santé, CMU, ACS et taxe sur les conventions
 d'assurance des contrats santé.
 

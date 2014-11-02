@@ -493,8 +493,8 @@ la dépense par l'ordonnateur.
 
 4712 - Pièces particulières
 
-47121 - Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un
-nantissement :
+47121 - Paiement à un établissement de crédit ou à une société de financement
+cessionnaire ou bénéficiaire d'un nantissement :
 
 1. Dans le cadre d'un marché public faisant l'objet d'un contrat écrit,
 exemplaire unique du marché, de l'avenant, de l'acte spécial ou de tout document
@@ -518,9 +518,10 @@ comptable assignataire.
 bénéficiaire de la transmission par lettre recommandée avec avis de réception,
 ou tout autre moyen permettant de donner date certaine ;
 
-4. Le cas échéant, attestation de l'établissement de crédit établissant que la
-cession (ou le nantissement) ne fait pas obstacle au paiement direct de la
-partie sous-traitée ou a été réduit (e) de manière à réaliser cette condition.
+4. Le cas échéant, attestation de l'établissement de crédit ou de la société de
+financement établissant que la cession (ou le nantissement) ne fait pas obstacle
+au paiement direct de la partie sous-traitée ou a été réduit (e) de manière à
+réaliser cette condition.
 
 47122 - Paiement à un cessionnaire ou à un bénéficiaire de nantissement de droit
 commun :
@@ -552,8 +553,8 @@ manière à réaliser cette condition.
 l'initiative du nantissement)
 
 Mainlevée de la cession (ou du nantissement) donnée par l'établissement de
-crédit par lettre recommandée avec demande d'avis de réception, ou par tout
-autre moyen permettant de donner date certaine,
+crédit ou par la société de financement par lettre recommandée avec demande
+d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
 
 ou
 

@@ -2,7 +2,7 @@ Article D313-26
 ----
 En application de l'article L. 313-50, sont couverts par le mécanisme de
 garantie des cautions les engagements de caution octroyés par un établissement
-de crédit agréé en France au titre :
+de crédit ou une société de financement agréé en France au titre :
 
 1° De l'article 1799-1 du code civil, de l'article 1er de la loi n° 71-584 du 16
 juillet 1971 modifiée tendant à réglementer les retenues de garantie en matière

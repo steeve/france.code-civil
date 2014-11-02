@@ -1,7 +1,7 @@
 Article D114-11
 ----
 I.-Les données relatives à la protection sociale complémentaire, mentionnées au
-troisième alinéa de l'article L. 612-24 du code monétaire et financier, sont
+cinquième alinéa de l'article L. 612-24 du code monétaire et financier, sont
 regroupées dans les états suivants :
 
 E 1 Personnes assurées, couvertes et bénéficiaires par type de garanties ;

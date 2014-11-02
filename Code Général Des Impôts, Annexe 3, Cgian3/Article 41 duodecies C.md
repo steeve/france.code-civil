@@ -18,9 +18,10 @@ code.
 crédit installés en France ;
 
 3° Aux revenus provenant d'opérations de trésorerie à court terme réalisées
-entre des établissements de crédit installés en France d'une part, et des
-banques établies à l'étranger, des organismes internationaux ou des institutions
-financières publiques étrangères, d'autre part ;
+entre des établissements de crédit ou des sociétés de financement installés en
+France d'une part, et des banques établies à l'étranger, des organismes
+internationaux ou des institutions financières publiques étrangères, d'autre
+part ;
 
 4° Aux intérêts provenant d'opérations à court terme perçus par les banques
 établies à l'étranger à raison des effets représentatifs de créances

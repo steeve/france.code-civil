@@ -1,9 +1,9 @@
 Article D341-3
 ----
 Des prêts bonifiés à moyen terme peuvent être consentis aux exploitants
-agricoles par les établissements de crédit qui ont passé, à cet effet, une
-convention avec le ministre de l'agriculture et le ministre chargé de
-l'économie. Ces prêts sont destinés :
+agricoles par les établissements de crédit et les sociétés de financement qui
+ont passé, à cet effet, une convention avec le ministre de l'agriculture et le
+ministre chargé de l'économie. Ces prêts sont destinés :
 
 1° A faciliter les investissements mobiliers et immobiliers, à l'exclusion des
 acquisitions de fonds de terre ;

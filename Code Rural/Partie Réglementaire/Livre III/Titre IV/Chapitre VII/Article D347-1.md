@@ -32,6 +32,6 @@ ministre de l'agriculture et du ministre chargé de l'économie et des finances 
 fourragère et de son traitement dont la liste est fixée par arrêté du ministre
 de l'agriculture et du ministre chargé de l'économie et des finances.
 
-Ces prêts sont attribués par les établissements de crédit qui ont passé, à cet
-effet, une convention avec le ministre chargé de l'économie et des finances et
-le ministre de l'agriculture.
+Ces prêts sont attribués par les établissements de crédit et les sociétés de
+financement qui ont passé, à cet effet, une convention avec le ministre chargé
+de l'économie et des finances et le ministre de l'agriculture.

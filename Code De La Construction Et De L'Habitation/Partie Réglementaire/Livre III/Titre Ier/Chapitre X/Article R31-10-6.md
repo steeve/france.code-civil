@@ -57,8 +57,9 @@ logement locatif social financé dans les conditions fixées à la sous-section 
 de la section 1 du chapitre unique du titre III du livre III ;
 
 -la location fait l'objet d'une déclaration par l'emprunteur à l'établissement
-de crédit ainsi que, le cas échéant, à l'organisme payeur de l'allocation
-personnalisée au logement prévue aux articles R. 351-1 et suivants.
+de crédit ou à la société de financement ainsi que, le cas échéant, à
+l'organisme payeur de l'allocation personnalisée au logement prévue aux articles
+R. 351-1 et suivants.
 
 3° Le logement ne peut être ni affecté à la location saisonnière ou en meublé,
 ni utilisé comme résidence secondaire, ni utilisé à titre d'accessoire du
@@ -67,9 +68,10 @@ contrat de travail.
 4° Le logement peut être utilisé à titre accessoire pour un usage commercial ou
 professionnel par l'une des personnes mentionnées au b de l'article L. 31-10-4
 dès lors que la surface affectée à cette activité n'excède pas 15 % de la
-surface financée initialement par le prêt. L'établissement de crédit est informé
-par l'emprunteur de l'exercice de cette activité dans des conditions définies
-par un arrêté des ministres chargés du logement, de l'économie et du budget.
+surface financée initialement par le prêt. L'établissement de crédit ou la
+société de financement est informé par l'emprunteur de l'exercice de cette
+activité dans des conditions définies par un arrêté des ministres chargés du
+logement, de l'économie et du budget.
 
 5° En cas de destruction, le logement doit être reconstruit dans un délai de
 quatre ans à compter de la date du sinistre.
@@ -77,12 +79,12 @@ quatre ans à compter de la date du sinistre.
 6° La mutation entre vifs du logement entraîne le remboursement intégral du
 capital restant dû, au plus tard au moment de l'accomplissement des formalités
 de publicité foncière de la mutation. La mutation doit être déclarée à
-l'établissement de crédit dès la signature de l'acte authentique qui la
-constate.
+l'établissement de crédit ou la société de financement dès la signature de
+l'acte authentique qui la constate.
 
 Toutefois, l'emprunteur peut bénéficier du transfert du capital restant dû prévu
 à l'article L. 31-10-6 pour le financement d'une opération d'acquisition ou de
 construction d'une nouvelle résidence principale mentionnée à l'article R.
 31-10-2 dans sa rédaction en vigueur à la date du transfert. L'établissement de
-crédit peut refuser le transfert s'il a pour effet de dégrader significativement
-le niveau de garantie dont il dispose.
+crédit ou la société de financement peut refuser le transfert s'il a pour effet
+de dégrader significativement le niveau de garantie dont il dispose.

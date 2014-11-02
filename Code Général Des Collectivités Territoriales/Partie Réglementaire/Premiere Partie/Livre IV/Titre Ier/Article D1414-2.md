@@ -60,7 +60,7 @@ possibilité de les obtenir dans les délais fixés ;
 
 13° Justificatifs délivrés par un ou plusieurs organismes externes d'évaluation
 de crédit permettant de mesurer la qualité de crédit sur le long terme des
-établissements de crédit.
+établissements de crédit ou des sociétés de financement.
 
 II. ― La personne publique précise dans l'avis d'appel public à la concurrence
 ou dans le règlement de la consultation ceux des renseignements et documents

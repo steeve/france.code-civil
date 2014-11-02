@@ -12,7 +12,8 @@ n'excèdent pas un plafond fixé par arrêté.
 
 Les prêts visés à l'alinéa précédent peuvent faire l'objet d'une convention de
 refinancement conclue sous l'égide de l'Etat entre les établissements de crédits
-distributeurs et la Caisse des dépôts et consignations.
+ou les sociétés de financement distributeurs et la Caisse des dépôts et
+consignations.
 
 L'accédant peut, au moment de la levée d'option, bénéficier des dispositions du
 présent article et de celles des articles R. 31-10-1 et suivants.
@@ -30,11 +31,12 @@ annuelle de l'indice de référence des loyers, à partir du dernier indice publ
 de vente, non révisable, est minoré, à chaque date anniversaire de l'entrée dans
 les lieux, d'un pourcentage défini par arrêté ;
 
--le vendeur dispose de l'engagement d'un établissement de crédit de proposer à
-l'accédant un ou plusieurs prêts conventionnés qui permettent de financer le
-transfert de propriété et dont la charge totale de remboursement mensuelle
-n'excède pas, au moment de la levée d'option, le montant de la redevance versée
-au titre du mois précédant le transfert de propriété ;
+-le vendeur dispose de l'engagement d'un établissement de crédit ou d'une
+société de financement de proposer à l'accédant un ou plusieurs prêts
+conventionnés qui permettent de financer le transfert de propriété et dont la
+charge totale de remboursement mensuelle n'excède pas, au moment de la levée
+d'option, le montant de la redevance versée au titre du mois précédant le
+transfert de propriété ;
 
 -le vendeur offre à l'accédant, en cas de levée d'option, une garantie de
 relogement sous condition de ressources et une garantie de rachat mentionnées

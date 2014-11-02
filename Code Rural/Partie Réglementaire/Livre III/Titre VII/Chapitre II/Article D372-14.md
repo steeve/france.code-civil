@@ -9,7 +9,8 @@ La commission donne un avis motivé sur la qualité du projet présenté ainsi q
 sur la nécessité d'accorder ou de refuser la dotation d'installation en
 agriculture et, le cas échéant, les prêts à moyen terme spéciaux. Lorsque la
 demande concerne également des prêts à moyen terme spéciaux, elle est adressée à
-l'établissement de crédit habilité, sollicité pour accorder les prêts.
+l' établissement de crédit ou à la société de financement habilité, sollicité
+pour accorder les prêts.
 
 La dotation d'installation en agriculture peut être refusée par le préfet, après
 avis de la commission d'orientation de l'agriculture, si, compte tenu de la

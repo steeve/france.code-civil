@@ -1,9 +1,10 @@
 Article 49 septies ZZH
 ----
-Le montant du crédit d'impôt accordé à l'établissement de crédit pour compenser
-l'absence d'intérêts perçus sur un prêt ne portant pas intérêt est le produit du
-montant du prêt par un taux S. Le taux S, calculé chaque trimestre, est le
-résultat du produit de deux termes, arrondi à la quatrième décimale :
+Le montant du crédit d'impôt accordé à l'établissement de crédit ou la société
+de financement pour compenser l'absence d'intérêts perçus sur un prêt ne portant
+pas intérêt est le produit du montant du prêt par un taux S. Le taux S, calculé
+chaque trimestre, est le résultat du produit de deux termes, arrondi à la
+quatrième décimale :
 
 1° La somme, actualisée par les facteurs d'actualisation définis au quatrième
 alinéa, des différences de mensualités entre deux prêts de 1 € : d'une part, un

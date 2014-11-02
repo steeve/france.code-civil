@@ -3,9 +3,10 @@ Article 49 septies ZZK
 L'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la
 construction et de l'habitation est tenu de transmettre au service chargé des
 grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque
-établissement de crédit, un état relatif au crédit d'impôt pour chaque
-établissement de crédit tenu de déposer une déclaration spéciale lui ayant
-déclaré des prêts ne portant pas intérêt.
+établissement de crédit ou société de financement, un état relatif au crédit
+d'impôt pour chaque établissement de crédit ou société de financement tenu de
+déposer une déclaration spéciale lui ayant déclaré des prêts ne portant pas
+intérêt.
 
 Cet état doit faire apparaître les éléments suivants :
 

@@ -9,11 +9,12 @@ excéder le taux maximum mentionné à l'article R. 331-74 ;
 2° La révision du taux ou la modification de l'échéance de remboursement ne peut
 intervenir qu'une fois par an et au plus tôt à la première date anniversaire de
 la date d'acceptation de l'offre ; à chaque révision ou modification,
-l'établissement de crédit fournit gratuitement à l'emprunteur un nouveau tableau
-d'amortissement qui s'impose jusqu'à la révision suivante ;
+l'établissement de crédit ou la société de financement fournit gratuitement à
+l'emprunteur un nouveau tableau d'amortissement qui s'impose jusqu'à la révision
+suivante ;
 
-3° L'établissement de crédit limite l'impact des variations du taux d'intérêt
-pour l'emprunteur :
+3° L'établissement de crédit ou la société de financement limite l'impact des
+variations du taux d'intérêt pour l'emprunteur :
 
 a) Soit par un plafond de la variation du taux par rapport au taux initial,
 variation qui ne peut dépasser une valeur définie par l'arrêté mentionné

@@ -1,10 +1,10 @@
 Article R31-10-4
 ----
 L'emprunteur doit, au moment de la demande du prêt, fournir les pièces
-justificatives permettant à l'établissement de crédit de vérifier qu'il
-satisfait aux conditions du prêt. Il doit, notamment, apporter la preuve qu'il
-n'a pas été propriétaire de sa résidence principale au cours des deux années
-précédant l'offre de prêt.
+justificatives permettant à l' établissement de crédit ou à la société de
+financement de vérifier qu'il satisfait aux conditions du prêt. Il doit,
+notamment, apporter la preuve qu'il n'a pas été propriétaire de sa résidence
+principale au cours des deux années précédant l'offre de prêt.
 
 Sans préjudice des dispositions de l'alinéa précédent, un arrêté des ministres
 chargés du logement, de l'économie et du budget précise les principaux documents

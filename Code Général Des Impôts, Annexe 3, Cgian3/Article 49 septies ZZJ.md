@@ -1,10 +1,10 @@
 Article 49 septies ZZJ
 ----
 Pour l'application des dispositions des articles 199 ter T,220 Z ter et 244
-quater V du code général des impôts, les établissements de crédit mentionnés au
-I de l'article 244 quater V précité doivent annexer une déclaration spéciale à
-la déclaration de résultat qu'ils sont tenus de déposer auprès du service des
-impôts dont ils dépendent.
+quater V du code général des impôts, les établissements de crédit et les
+sociétés de financement mentionnés au I de l'article 244 quater V précité
+doivent annexer une déclaration spéciale à la déclaration de résultat qu'ils
+sont tenus de déposer auprès du service des impôts dont ils dépendent.
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent
 déposer cette déclaration spéciale auprès du comptable de la direction générale

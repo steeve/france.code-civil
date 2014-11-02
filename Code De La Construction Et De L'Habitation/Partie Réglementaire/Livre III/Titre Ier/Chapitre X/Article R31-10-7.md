@@ -17,10 +17,10 @@ période de remboursement et la mise en œuvre du 1° ou du 2°, au prorata de l
 reprise imputable à l'accédant.
 
 La reprise imputable à l'accédant s'entend de la part de crédit d'impôt
-mentionnée à l'article 244 quater V du code général des impôts reversée par
-l'établissement de crédit à l'Etat du fait d'une justification initiale erronée
-de la part de l'accédant ou d'une justification provisoire non confirmée dans le
-délai prévu.
+mentionnée à l'article 244 quater V du code général des impôts reversée par l'
+établissement de crédit ou la société de financement à l'Etat du fait d'une
+justification initiale erronée de la part de l'accédant ou d'une justification
+provisoire non confirmée dans le délai prévu.
 
 L'équivalent actuariel du taux fixé dans l'offre mentionné aux troisième et
 quatrième alinéas ne peut excéder de plus de 50 points de base le taux de
