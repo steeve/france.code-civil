@@ -1,12 +1,8 @@
 Article R211-28-1
 ----
 Les organismes chargés d'établir et de publier les comptes consolidés ou
-combinés d'un groupe au sens de l'article L. 212-7 ou d'un conglomérat financier
-au sens de l'article L. 212-7-5 soumis à la surveillance complémentaire de
-l'Autorité de contrôle prudentiel et de résolution fournissent en outre un
-rapport décrivant également le dispositif de contrôle interne du groupe ou du
-conglomérat financier.
+combinés d'un groupe au sens de l'article L. 212-7 fournissent en outre un
+rapport décrivant également le dispositif de contrôle interne du groupe.
 
 Ce rapport contient notamment une description des éléments mentionnés à
-l'article R. 213-1, à l'article R. 213-6 et aux III et IV de l'article R.
-213-11.
+l'article R. 213-1 et à l'article R. 213-6.

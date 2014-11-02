@@ -5,6 +5,6 @@ française, dans les conditions prévues au II.
 
 II. Les dispositions de l'article D. 421-6 faisant référence aux autorités
 européennes s'appliquent dans le respect de la décision d'association prévue à
-l'article 187 du traité instituant la Communauté européenne. Pour l'application
-de l'article D. 421-8, les références au code de commerce sont remplacées par
-des références aux dispositions applicables localement ayant le même objet.
+l'article 187 du traité instituant l'Union européenne. Pour l'application de
+l'article D. 421-8, les références au code de commerce sont remplacées par des
+références aux dispositions applicables localement ayant le même objet.

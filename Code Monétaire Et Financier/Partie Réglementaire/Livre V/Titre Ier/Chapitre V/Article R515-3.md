@@ -1,11 +1,30 @@
 Article R515-3
 ----
-I.-L'évaluation de la qualité de crédit des personnes publiques mentionnée aux 2
-à 5 de l'article L.513-4 est celle retenue par l'organisme externe d'évaluation
-de crédit lors de l'inscription de l'exposition à l'actif de la société de
-crédit foncier.
+Les sociétés françaises par actions, dénommées sociétés de développement
+régional, concourent sous forme de participations en capital au financement des
+entreprises situées sur le territoire national.
 
-II.-Les expositions mentionnées au 5 du I de l'article L.513-4 ne peuvent
-excéder 20 % du montant nominal des obligations foncières et autres ressources
-bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13, émises
-par la société de crédit foncier.
+Ces sociétés sont autorisées à consentir, dans les conditions fixées par le
+ministre chargé de l'économie, des prêts à cinq ans et plus aux entreprises
+quelle qu'en soit la forme juridique ; elles peuvent en outre donner leur
+garantie aux emprunts à deux ans et plus que contractent ces entreprises. Elles
+sont également autorisées à consentir, dans les conditions fixées par le
+ministre chargé de l'économie, des prêts aux collectivités locales, aux sociétés
+d'économie mixte et aux chambres de commerce et d'industrie territoriales pour
+contribuer soit au financement d'équipements touristiques collectifs, soit à
+celui de bâtiments à usage industriel ou commercial réalisés pour des
+entrepreneurs dénommés.
+
+Elles peuvent également, dans les limites et conditions définies aux alinéas
+précédents, contribuer au financement d'investissements réalisés par des
+entreprises commerciales et tendant à une diminution des prix de vente par
+l'amélioration de la distribution résultant de la mise en oeuvre d'outillages ou
+de techniques modernes.
+
+Elles peuvent aussi, dans les mêmes conditions et dans les mêmes limites et
+chacune pour des opérations intéressant sa zone d'action, apporter leur concours
+à des sociétés privées qui ont pour objet statutaire de contribuer directement
+au développement, à la conversion ou à l'adaptation des activités définies aux
+alinéas précédents. Elles doivent toutefois y être autorisées, dans chaque cas,
+par décision de l'autorité administrative compétente prise sur proposition du
+commissaire du Gouvernement.

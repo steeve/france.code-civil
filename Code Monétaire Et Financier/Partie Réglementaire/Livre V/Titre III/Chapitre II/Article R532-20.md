@@ -4,7 +4,7 @@ Tous les prestataires de services d'investissement autres que les sociétés de
 gestion de portefeuille régies par l'article L. 532-9 qui, ayant leur siège
 social sur le territoire de la France métropolitaine et des collectivités régies
 par l'article 73 de la Constitution, souhaitent établir une succursale dans un
-autre Etat de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+autre Etat de l'Union européenne ou d'un autre Etat partie à l'accord sur
 l'Espace économique européen pour y fournir des services d'investissement
 doivent notifier, au préalable, leur projet à l'Autorité de contrôle prudentiel
 et de résolution qui en informe l'Autorité des marchés financiers dans un délai

@@ -12,3 +12,10 @@ général du Trésor et, le cas échéant, au directeur de la sécurité sociale
 L'Autorité informe, le cas échéant, les autorités compétentes des autres Etats
 membres de l'Union européenne des décisions qu'elle prend en application de la
 présente section.
+
+L'Autorité de contrôle prudentiel et de résolution communique au moins une fois
+par an à l'Autorité bancaire européenne les décisions de la commission des
+sanctions prises en application des dispositions de l'article L. 612-40. Elle
+signale également à cette occasion les recours formés à l'encontre des décisions
+de la commission des sanctions ainsi que les décisions rendues à l'issue de ces
+recours.

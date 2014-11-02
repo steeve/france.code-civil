@@ -12,13 +12,14 @@ négociations sur un marché réglementé ;
 
 3° Entreprises régies par le code des assurances et le code de la mutualité ;
 
-4° Etablissements de crédit et compagnies financières régis par le code
+4° Etablissements de crédit, sociétés de financement, compagnies financières
+holding et entreprises mères de société de financement régis par le code
 monétaire et financier ;
 
 5° Sociétés d'investissement régies par l'ordonnance n° 45-2710 du 2 novembre
 1945 relative aux sociétés d'investissement ;
 
-6° Sociétés de développement régional régies par l'article R. 516-21 du code
+6° Sociétés de développement régional régies par l'article R. 513-2 du code
 monétaire et financier ;
 
 7° Associations et fondations lorsqu'elles sont tenues ou lorsqu'elles décident

@@ -31,9 +31,9 @@ publié par l'Institut national de la statistique et des études économiques
 du 6 juillet 1989 tendant à améliorer les rapports locatifs ;
 
 -la location fait l'objet d'une déclaration par l'emprunteur à l'établissement
-de crédit ainsi que, le cas échéant, à l'organisme payeur de l'allocation
-personnalisée au logement prévue aux articles R. 351-1 et suivants du présent
-code.
+de crédit ou à la société de financement ainsi que, le cas échéant, à
+l'organisme payeur de l'allocation personnalisée au logement prévue aux articles
+R. 351-1 et suivants du présent code.
 
 L'occupation d'un logement ayant bénéficié d'une avance sans intérêt doit être
 effective dans le délai maximum d'un an suivant soit la déclaration d'achèvement

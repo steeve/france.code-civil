@@ -18,8 +18,9 @@ différé jusqu'au dépôt de l'état des créances au greffe du tribunal dans l
 conditions prévues aux articles R. 624-8 à R. 624-11 du code de commerce.
 
 L'organisme de garantie collective, l'entreprise d'assurances, l'établissement
-de crédit ou un groupement d'associations ou d'organismes sans caractère
-lucratif dont la garantie a été mise en jeu est subrogé de plein droit à tous
-les droits du créancier désintéressé, ainsi qu'il est dit à l'article 2306 du
-code civil, en ce qui concerne la dette de la personne garantie et dans la
-limite du remboursement ou de la restitution faite par lui.
+de crédit, la société de financement ou un groupement d'associations ou
+d'organismes sans caractère lucratif dont la garantie a été mise en jeu est
+subrogé de plein droit à tous les droits du créancier désintéressé, ainsi qu'il
+est dit à l'article 2306 du code civil, en ce qui concerne la dette de la
+personne garantie et dans la limite du remboursement ou de la restitution faite
+par lui.

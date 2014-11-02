@@ -1,7 +1,7 @@
 Article R951-3-2
 ----
 Lorsque l'Autorité de contrôle prudentiel et de résolution décide, en
-application du 5 de l'article L. 612-33 du code monétaire et financier,
+application du 8° de l'article L. 612-33 du code monétaire et financier,
 d'engager vis-à-vis d'une institution de prévoyance ou d'une union
 d'institutions de prévoyance la procédure de transfert d'office d'un
 portefeuille de bulletins d'adhésion à des règlements ou de contrats, cette
@@ -15,7 +15,7 @@ portefeuille en cause doivent se faire connaître à l'Autorité de contrôle
 prudentiel et de résolution.
 
 Lorsque l'Autorité de contrôle prudentiel et de résolution décide, en
-application du 5 de l'article L. 612-33 du code monétaire et financier,
+application du 8° de l'article L. 612-33 du code monétaire et financier,
 d'engager vis-à-vis d'une union d'institutions de prévoyance la procédure de
 transfert d'office d'un portefeuille de bulletins d'adhésion à des règlements ou
 de contrats, cette décision est d'abord portée à la connaissance des

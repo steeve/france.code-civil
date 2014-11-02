@@ -7,7 +7,8 @@ maritime mutuel pour elle-même et pour celles des caisses régionales ou des
 unions de crédit maritime mutuel ayant conclu avec cette société une convention
 de nature à garantir leur liquidité et leur solvabilité.
 
-Pour l'application de la réglementation mentionnée à l'article L. 611-1, la
-Société centrale de crédit maritime mutuel et les caisses régionales et unions
-qui ont conclu avec celle-ci la convention mentionnée à l'alinéa ci-dessus sont
-regardées comme un seul établissement de crédit.
+Pour l'application de la réglementation mentionnée à l'article L. 611-1 et du
+règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013,
+la Société centrale de crédit maritime mutuel et les caisses régionales et
+unions qui ont conclu avec celle-ci la convention mentionnée à l'alinéa
+ci-dessus sont regardées comme un seul établissement de crédit.

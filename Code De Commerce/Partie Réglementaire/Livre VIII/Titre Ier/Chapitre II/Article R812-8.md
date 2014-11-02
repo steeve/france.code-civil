@@ -9,4 +9,5 @@ collaborateur d'un mandataire judiciaire et sous son contrôle direct.
 Le stage peut être accompli pour une période n'excédant pas le tiers de sa durée
 auprès d'une personne exerçant une profession juridique réglementée ou auprès
 d'un expert-comptable ou d'un commissaire aux comptes ou dans les services
-juridiques et financiers d'un établissement de crédit.
+juridiques et financiers d'un établissement de crédit ou d'une société de
+financement.

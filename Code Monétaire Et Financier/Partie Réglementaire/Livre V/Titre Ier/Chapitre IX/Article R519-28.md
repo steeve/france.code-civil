@@ -24,13 +24,13 @@ Toutefois, lorsque l'intermédiaire mentionné à l'article R. 519-27 ci-dessus 
 fournit au client qu'une aide pour des travaux préparatoires à la réalisation
 d'une opération de banque ou d'un service de paiement, à l'exclusion de toute
 autre forme d'intermédiation, et sans percevoir à ce titre de rémunération d'un
-établissement de crédit, d'un établissement de paiement ou d'un établissement de
-monnaie électronique qui fournit des services de paiement, il peut, par
-dérogation au premier alinéa, limiter son analyse aux contrats pour lesquels il
-a été sollicité par le client. Dans ce cas, il n'est pas soumis aux dispositions
-du présent article, à l'exception de l'obligation de fournir de manière
-personnalisée des informations sur les opérations et services pour lesquels il a
-été sollicité, adaptées à leur degré de complexité, ainsi que l'obligation
-d'informer le client des règles applicables aux opérations de banque et aux
-services de paiement et de l'éclairer sur l'étendue de ses devoirs et
-obligations.
+établissement de crédit, d'une société de financement, d'un établissement de
+paiement ou d'un établissement de monnaie électronique qui fournit des services
+de paiement, il peut, par dérogation au premier alinéa, limiter son analyse aux
+contrats pour lesquels il a été sollicité par le client. Dans ce cas, il n'est
+pas soumis aux dispositions du présent article, à l'exception de l'obligation de
+fournir de manière personnalisée des informations sur les opérations et services
+pour lesquels il a été sollicité, adaptées à leur degré de complexité, ainsi que
+l'obligation d'informer le client des règles applicables aux opérations de
+banque et aux services de paiement et de l'éclairer sur l'étendue de ses devoirs
+et obligations.

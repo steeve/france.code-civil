@@ -1,6 +1,6 @@
 Article R212-62
 ----
-Lorsqu'en application du 5 de l'article L. 612-33 du code monétaire et
+Lorsqu'en application du 8° de l'article L. 612-33 du code monétaire et
 financier, l'Autorité de contrôle prudentiel et de résolution décide le
 transfert d'office d'un portefeuille de bulletins d'adhésion ou de contrats
 collectifs conclus sur le territoire d'un ou plusieurs Etats parties à l'accord

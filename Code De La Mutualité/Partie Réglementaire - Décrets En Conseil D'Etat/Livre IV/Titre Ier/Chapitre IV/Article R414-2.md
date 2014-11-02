@@ -55,6 +55,6 @@ la complexité de cette demande exige un examen approfondi.
 Le secrétaire général du Conseil supérieur de la mutualité informe l'Autorité de
 contrôle prudentiel et de résolution de l'immatriculation ou du refus
 d'immatriculation des organismes ayant demandé leur immatriculation, lorsque
-ceux-ci envisagent d'effectuer des opérations entrant dans le champ de
-compétence de cette autorité, tel que défini au A du III de l'article L. 612-1
-du code monétaire et financier.
+ceux-ci envisagent d'effectuer des opérations relevant de la compétence de cette
+autorité, conformément aux 3° et 4° du B du I de l'article L. 612-2 du code
+monétaire et financier.

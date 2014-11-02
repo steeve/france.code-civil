@@ -8,7 +8,10 @@ conformément aux dispositions de l'article L. 212-7.
 Toutefois, lorsque ces mutuelles et unions sont des organismes participants d'un
 établissement de crédit, d'une entreprise d'investissement ou d'un établissement
 financier, elles peuvent, alternativement, présenter une solvabilité ajustée
-positive selon les modalités précisées aux articles R. 213-9 et R. 213-10.
+positive selon les modalités précisées, pour le calcul des exigences
+complémentaires en fonds propres applicables aux conglomérats financiers, par
+l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la
+mutualité prévu à l'article L. 517-8 du code monétaire et financier.
 
 En outre, l'Autorité de contrôle peut dispenser du calcul de la solvabilité
 ajustée une mutuelle ou union :

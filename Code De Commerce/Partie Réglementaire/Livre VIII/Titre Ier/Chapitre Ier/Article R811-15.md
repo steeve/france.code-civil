@@ -11,4 +11,5 @@ Le stage peut être accompli pour une période n'excédant pas le tiers de sa du
 auprès d'une personne exerçant une autre profession juridique réglementée ou
 auprès d'un expert-comptable ou d'un commissaire aux comptes dans les conditions
 prévues à l'article R. 811-16, ou dans les services juridiques ou financiers
-d'un établissement de crédit régi par le code monétaire et financier.
+d'un établissement de crédit ou d'une société de financement régis par le code
+monétaire et financier.

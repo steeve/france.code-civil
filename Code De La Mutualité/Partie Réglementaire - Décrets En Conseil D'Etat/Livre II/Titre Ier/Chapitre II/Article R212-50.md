@@ -14,9 +14,9 @@ l'article L. 510-1 peut, par dérogation aux dispositions du premier alinéa du
 présent article, l'autoriser, pour une durée déterminée, à constituer la
 garantie mentionnée à l'article R. 212-35 dans des limites fixées par arrêté du
 ministre chargé de la mutualité, par une caution ou un engagement équivalent
-pris par un établissement de crédit, dès lors que la nature et la forme de
-l'engagement ainsi que la qualité du garant répondent aux conditions fixées par
-le même arrêté.
+pris par un établissement de crédit ou une société de financement, dès lors que
+la nature et la forme de l'engagement ainsi que la qualité du garant répondent
+aux conditions fixées par le même arrêté.
 
 Pour l'application des dispositions des articles R. 212-32 et R. 212-33, les
 valeurs reçues en nantissement des réassureurs sont assimilées à des valeurs

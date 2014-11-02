@@ -5,7 +5,7 @@ suit :
 
 1. Constitue le service de réception et transmission d'ordres pour le compte de
 tiers le fait de recevoir et de transmettre à un prestataire de services
-d'investissement ou à une entité relevant d'un Etat non membre de la Communauté
+d'investissement ou à une entité relevant d'un Etat non membre de l'Union
 européenne et non partie à l'accord sur l'Espace économique européen et ayant un
 statut équivalent, pour le compte d'un tiers, des ordres portant sur des
 instruments financiers ;
@@ -15,8 +15,8 @@ conclure des accords d'achat ou de vente portant sur un ou plusieurs instruments
 financiers, pour le compte d'un tiers. Toutefois, l'exécution des ordres
 résultant des décisions d'investissement prises par les prestataires de services
 d'investissement dans le cadre du service mentionné au 4 ou de la gestion d'un
-OPCVM ou d'un FIA relevant des paragraphes 1, 2, 3 et 6 de la sous-section 2,
-des sous-sections 3 et 4 de la section 2 du chapitre IV du titre Ier du livre II
+OPCVM ou d'un FIA relevant des paragraphes 1,2,3 et 6 de la sous-section 2, des
+sous-sections 3 et 4 de la section 2 du chapitre IV du titre Ier du livre II
 relève, selon le cas, dudit service mentionné au 4 ou de l'activité de gestion
 d'OPCVM ou de FIA relevant des dispositions précitées ;
 

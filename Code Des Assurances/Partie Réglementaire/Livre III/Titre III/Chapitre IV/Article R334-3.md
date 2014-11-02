@@ -80,7 +80,7 @@ IV.-La marge de solvabilité est diminuée des éléments suivants :
 a) Les actions propres détenues directement par l'entreprise d'assurance ;
 
 b) Les participations que l'entreprise d'assurance détient dans un établissement
-de crédit ou une entreprise d'investissement ;
+de crédit, une société de financement ou une entreprise d'investissement ;
 
 c) Les créances subordonnées que l'entreprise d'assurance détient sur les
 entreprises mentionnées au b dans lesquelles elle détient une participation.
@@ -91,12 +91,10 @@ en vue d'apporter un soutien financier à ces entreprises.
 
 En outre, l'entreprise n'est pas tenue d'effectuer les déductions mentionnées au
 b et au c lorsqu'elle est soumise à une surveillance complémentaire en
-application de l'article L. 334-3 ou de l'article L. 334-4 et qu'elle présente
-une solvabilité ajustée positive calculée selon les modalités précisées aux
-articles R. 334-49 et R. 334-50. La méthode définie à l'article R. 334-49 n'est
-applicable que si l'Autorité de contrôle estime que la gestion intégrée et le
-contrôle interne des entités entrant dans le périmètre de consolidation sont
-satisfaisants.
+application de l'article L. 334-3 ou de l'article L. 334-4 et qu'elle respecte
+les exigences complémentaires en fonds propres calculées selon les modalités
+fixées par l'arrêté des ministres chargés de l'économie, de la sécurité sociale
+et de la mutualité prévu à l'article L. 517-8 du code monétaire et financier.
 
 V.-Lorsqu'elle estime que l'appréciation du report du bénéfice ou de la perte
 mentionnée au 3 du I est susceptible d'être faussée par l'existence d'un contrat

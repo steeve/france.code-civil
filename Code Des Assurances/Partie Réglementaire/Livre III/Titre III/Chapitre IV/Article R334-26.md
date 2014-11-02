@@ -18,7 +18,7 @@ que la provision pour égalisation mentionnée à l'article R. 331-33 ;
 3. Le report du bénéfice ou de la perte, déduction faite des dividendes à verser
 au titre du dernier exercice ;
 
-4.L'emprunt ou les emprunts pour fonds social complémentaire : toutefois, à
+4. L'emprunt ou les emprunts pour fonds social complémentaire : toutefois, à
 partir de la moitié de la durée d'un emprunt, celui-ci n'est retenu dans la
 marge de solvabilité que pour sa valeur progressivement réduite chaque année
 d'un montant constant égal au double du montant total de cet emprunt divisé par
@@ -53,11 +53,10 @@ lorsque les participations mentionnées à ces alinéas sont détenues de maniè
 temporaire en vue d'apporter un soutien financier à ces entreprises.
 
 En outre, l'entreprise n'est pas tenue d'effectuer ces déductions lorsqu'elle
-présente une solvabilité ajustée positive calculée selon les modalités précisées
-aux articles R. 334-49 et R. 334-50. La méthode définie à l'article R. 334-49
-n'est applicable que si l'Autorité de contrôle estime que la gestion intégrée et
-le contrôle interne des entités entrant dans le périmètre de consolidation sont
-satisfaisants.
+respecte les exigences complémentaires en fonds propres calculées selon les
+modalités fixées par l'arrêté des ministres chargés de l'économie, de la
+sécurité sociale et de la mutualité prévu à l'article L. 517-8 du code monétaire
+et financier.
 
 III.-Lorsqu'elle estime que l'appréciation du report du bénéfice ou de la perte
 mentionnée au 3 du I est susceptible d'être faussée par l'existence d'un contrat

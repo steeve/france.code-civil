@@ -22,8 +22,8 @@ modification de ces informations, l'Autorité de contrôle prudentiel et de
 résolution en avise ladite autorité.
 
 Lorsqu'un prestataire de services d'investissement souhaite exercer le service
-de tenue de compte conservation en libre établissement dans un Etat membre de la
-Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+de tenue de compte conservation en libre établissement dans un Etat membre de
+l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen il doit, sans préjudice des conditions requises par
 l'autorité compétente de l'Etat d'accueil, avoir été préalablement agréé à
 exercer ce service en France.

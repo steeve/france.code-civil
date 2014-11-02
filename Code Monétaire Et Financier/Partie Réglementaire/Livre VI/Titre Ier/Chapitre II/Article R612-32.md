@@ -2,7 +2,7 @@ Article R612-32
 ----
 Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou
 interdit temporairement la libre disposition de tout ou partie des actifs d'une
-personne soumise à son contrôle, en application du 3 de l'article L. 612-33,
+personne soumise à son contrôle, en application du 4° de l'article L. 612-33,
 l'Autorité peut prescrire selon les modalités prévues à l'article R. 612-9 à
 toute société ou collectivité émettrice ou dépositaire de refuser l'exécution de
 toute opération portant sur des comptes ou des titres appartenant à la personne

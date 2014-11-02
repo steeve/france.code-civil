@@ -4,10 +4,10 @@ Quand la demande ne comprend ni le service mentionné au 4 ni celui mentionné a
 5 de l'article L. 321-1, l'Autorité des marchés financiers transmet ses
 observations à l'Autorité de contrôle prudentiel et de résolution dans un délai
 de deux mois à compter de la réception du dossier prévu à l'article R. 532-1.
-Ces observations portent sur la compétence et l'honorabilité des dirigeants,
-l'adéquation de leur expérience à leurs fonctions ainsi que les conditions dans
-lesquelles l'entreprise envisage de fournir des services d'investissement ou de
-tenue de compte conservation.
+Ces observations portent sur le respect des obligations prévues aux articles L.
+533-25 et L. 533-26, ainsi que sur les conditions dans lesquelles l'entreprise
+envisage de fournir des services d'investissement ou de tenue de compte
+conservation.
 
 L'Autorité de contrôle prudentiel et de résolution notifie sa décision au
 requérant dans un délai de quatre mois à compter de la date de réception du

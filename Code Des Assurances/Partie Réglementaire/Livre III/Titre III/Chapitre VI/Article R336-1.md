@@ -69,15 +69,12 @@ Ces procédures et mesures sont mises en œuvre dans les conditions prévues par
 arrêté du ministre chargé de l'économie.
 
 Les organismes chargés d'établir et de publier les comptes consolidés ou
-combinés d'un groupe d'assurance au sens du 6° de l'article L. 334-2 ou d'un
-conglomérat financier au sens de l'article L. 334-5 soumis à la surveillance
-complémentaire de l'Autorité de contrôle fournissent en outre un rapport
-décrivant également le dispositif de contrôle interne du groupe d'assurance ou
-du conglomérat financier.
+combinés d'un groupe d'assurance au sens du 6° de l'article L. 334-2 fournissent
+en outre un rapport décrivant également le dispositif de contrôle interne du
+groupe d'assurance.
 
 Ce rapport contient notamment une description des éléments mentionnés à
-l'article R. 334-40, à l'article R. 334-45 et aux III et IV de l'article R.
-334-52.
+l'article R. 334-40 et à l'article R. 334-45.
 
 Les dispositions du présent article sont applicables aux entreprises mentionnées
 au 1° de l'article L. 310-2 aux entreprises mentionnées au 1° du III de

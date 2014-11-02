@@ -8,4 +8,5 @@ avec cette banque mutualiste et coopérative une convention de nature à garanti
 leur liquidité et leur solvabilité.
 
 Dans ce cas, le respect des règles arrêtées par le ministre chargé de l'économie
-prises pour l'application de l'article L. 611-1 est apprécié collectivement.
+prises pour l'application de l'article L. 611-1 et du règlement (UE) n° 575/2013
+du Parlement européen et du Conseil du 26 juin 2013 est apprécié collectivement.

@@ -11,6 +11,7 @@ en informe l'Autorité de contrôle prudentiel et de résolution et lui transmet
 ses observations relatives à l'exercice des autres services.
 
 L'Autorité de contrôle prudentiel et de résolution notifie sa décision au
-requérant dans un délai de deux mois au plus après réception, par lui, de la
-décision d'approbation du programme d'activité et des observations de l'Autorité
-des marchés financiers. Elle en informe cette dernière.
+requérant dans un délai de deux mois au plus après réception, par cette
+Autorité, de la décision d'approbation du programme d'activité et des
+observations de l'Autorité des marchés financiers. Elle en informe cette
+dernière.

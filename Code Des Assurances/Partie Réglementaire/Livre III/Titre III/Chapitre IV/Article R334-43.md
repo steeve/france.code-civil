@@ -47,4 +47,7 @@ sur des établissements de crédit, des entreprises d'investissement et des
 Lorsque l'entreprise est une entreprise participante d'un établissement de
 crédit, d'une entreprise d'investissement ou d'un établissement financier,
 l'Autorité de contrôle est également autorisée à appliquer, alternativement à
-ces deux méthodes, les méthodes définies aux articles R. 334-49 et R. 334-50.
+ces deux méthodes, les méthodes applicables au calcul des exigences
+complémentaires en fonds propres des conglomérats financiers définies par
+l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la
+mutualité prévu à l'article L. 517-8 du code monétaire et financier.

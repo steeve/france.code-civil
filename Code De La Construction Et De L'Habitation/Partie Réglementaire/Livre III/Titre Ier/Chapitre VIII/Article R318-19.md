@@ -9,6 +9,7 @@ l'économie et des finances et du ministre chargé du logement qui précise
 notamment les conditions dans lesquelles cet organisme participe au contrôle de
 l'application des dispositions du présent chapitre.
 
-Dans ce cas, les établissements de crédit doivent conclure avec cet organisme
-une convention, conforme à une convention type approuvée par arrêté conjoint du
-ministre chargé de l'économie et des finances et du ministre chargé du logement.
+Dans ce cas, les établissements de crédit et les sociétés de financement doivent
+conclure avec cet organisme une convention, conforme à une convention type
+approuvée par arrêté conjoint du ministre chargé de l'économie et des finances
+et du ministre chargé du logement.

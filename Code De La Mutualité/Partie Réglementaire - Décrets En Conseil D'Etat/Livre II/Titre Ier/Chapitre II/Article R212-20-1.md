@@ -49,10 +49,10 @@ déductions prévues aux deux alinéas précédents.
 
 En outre, la mutuelle ou union n'est pas tenue d'effectuer ces déductions
 lorsqu'elle présente une solvabilité ajustée positive calculée selon les
-modalités précisées à l'article R. 213-8 et R. 213-9. La méthode définie à
-l'article R. 213-8 n'est applicable que si l'Autorité de contrôle prudentiel et
-de résolution estime que la gestion intégrée et le contrôle interne des entités
-entrant dans le périmètre de consolidation sont satisfaisants.
+modalités précisées, pour le calcul des exigences complémentaires en fonds
+propres des conglomérats financiers, par l'arrêté des ministres chargés de
+l'économie, de la sécurité sociale et de la mutualité prévu à l'article L. 517-8
+du code monétaire et financier.
 
 III. ― Lorsqu'elle estime que l'appréciation du report des excédents mentionnés
 au 3 du I est susceptible d'être faussée par l'existence d'un contrat de

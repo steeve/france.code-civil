@@ -19,6 +19,6 @@ participatifs, les avances conditionnées ;
 
 4° Parmi les dettes : les emprunts obligataires convertibles, les autres
 emprunts obligataires, les emprunts et dettes auprès des établissements de
-crédit, les emprunts et dettes financiers divers, les avances et acomptes reçus
-sur commandes en cours, les dettes fournisseurs, les dettes fiscales et sociales
-ainsi que les dettes sur immobilisation.
+crédit ou des sociétés de financement, les emprunts et dettes financiers divers,
+les avances et acomptes reçus sur commandes en cours, les dettes fournisseurs,
+les dettes fiscales et sociales ainsi que les dettes sur immobilisation.

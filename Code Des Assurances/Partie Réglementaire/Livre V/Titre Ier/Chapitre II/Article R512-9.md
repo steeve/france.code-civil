@@ -1,17 +1,18 @@
 Article R512-9
 ----
 Les intermédiaires mentionnés aux 1° et 2° du I de l'article R. 511-2, les
-établissements de crédit mentionnés au même article, ainsi que les salariés
-mentionnés au a et aux c à f du 5° du même article qui exercent des fonctions de
-responsables de bureau de production ou qui ont la charge d'animer un réseau de
-production doivent justifier :
+établissements de crédit et les sociétés de financement mentionnés au même
+article, ainsi que les salariés mentionnés au a et aux c à f du 5° du même
+article qui exercent des fonctions de responsables de bureau de production ou
+qui ont la charge d'animer un réseau de production doivent justifier :
 
 1° Soit d'un stage professionnel d'une durée raisonnable et suffisante sans
 pouvoir être inférieure à 150 heures. Le stage, dont les principes sont fixés à
 l'article R. 512-11, doit être effectué :
 
-a) Auprès d'une entreprise d'assurance, d'un établissement de crédit ou d'un
-intermédiaire visés aux 1° et 2° du I de l'article R. 511-2 ;
+a) Auprès d'une entreprise d'assurance, d'un établissement de crédit d'une
+société de financement ou d'un intermédiaire visés aux 1° et 2° du I de
+l'article R. 511-2 ;
 
 b) Auprès d'un centre de formation choisi par l'intéressé lui-même lorsqu'il
 souhaite accéder à l'activité de courtier en assurance ou en réassurance, ou

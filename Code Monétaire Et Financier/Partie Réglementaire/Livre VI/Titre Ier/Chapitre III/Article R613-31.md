@@ -1,43 +1,23 @@
 Article R613-31
 ----
-Pour l'application de l'article L. 613-33, lorsque l'Autorité de contrôle
-prudentiel et de résolution constate qu'un établissement ne respecte pas les
-dispositions législatives ou réglementaires qui lui sont applicables, elle en
-informe l'autorité compétente de l'Etat membre d'origine afin que celle-ci
-puisse prendre, sans délai, toute mesure de nature à assurer le respect de ces
-dispositions. Si, en dépit de ces mesures, l'établissement continue d'enfreindre
-les dispositions législatives ou réglementaires qui lui sont applicables,
-l'Autorité de contrôle prudentiel et de résolution informe l'autorité compétente
-de l'Etat membre d'origine qu'elle va mettre en œuvre les mesures appropriées
-pour prévenir ou réprimer les irrégularités et, pour autant que cela soit
-nécessaire, empêcher cet établissement d'engager de nouvelles opérations sur le
-territoire de la République française.
+I.-Lorsque l'Autorité de contrôle prudentiel et de résolution, en application du
+I de l'article L. 613-32-1, demande à l'autorité qui assure la surveillance sur
+base consolidée d'un groupe ou aux autorités compétentes au sens des articles L.
+511-21 ou L. 532-16 qu'une succursale soit considérée comme ayant une importance
+significative, elle justifie sa demande au moyen des éléments mentionnés à
+l'article R. 613-32.
 
-Lorsque l'Autorité de contrôle prudentiel et de résolution ouvre une procédure
-disciplinaire, elle communique à l'autorité compétente de l'Etat membre
-d'origine de l'établissement en cause la lettre mentionnée à l'article R.
-612-36.
+Lorsque l'autorité qui assure la surveillance sur base consolidée d'un groupe ou
+les autorités compétentes au sens des articles L. 511-21 ou L. 532-16
+aboutissent, en concertation avec l'Autorité de contrôle prudentiel et de
+résolution, à une décision commune sur le caractère d'importance significative
+d'une succursale en application du I de l'article L. 613-32-1, l'Autorité de
+contrôle prudentiel et de résolution applique cette décision.
 
-La commission des sanctions de l'Autorité de contrôle prudentiel et de
-résolution communique également à cette autorité les observations en réponse
-éventuellement adressées par l'établissement et l'informe de la convocation
-prévue à l'article R. 612-39.
-
-Elle verse à la procédure toutes les informations fournies par cette autorité
-sur les mesures qu'elle peut avoir adoptées.
-
-Sauf cas d'urgence, un délai d'au moins trente jours francs est respecté entre
-la communication à l'autorité de l'Etat membre d'origine et l'audition prévue à
-l'article R. 612-39.
-
-Avant de suivre la procédure prévue aux alinéas précédents, l'Autorité de
-contrôle prudentiel et de résolution peut prendre, en cas d'urgence, toute
-mesure conservatoire propre à assurer la protection des intérêts des déposants.
-Dans ce cas, elle en informe sans délai la Commission européenne, l'Autorité
-bancaire européenne et l'autorité compétente concernée de l'Etat membre
-d'origine de l'établissement.
-
-En cas d'infraction à des dispositions d'intérêt général au sens de l'article L.
-511-24, l'Autorité de contrôle prudentiel et de résolution peut, sans suivre la
-procédure prévue aux alinéas précédents, prononcer l'une des sanctions
-disciplinaires énumérées à l'article L. 612-39.
+II.-Si aucune décision commune n'est prise dans un délai de deux mois à compter
+de la demande mentionnée au I ci-dessus, l'Autorité de contrôle prudentiel et de
+résolution se prononce elle-même dans un délai supplémentaire de deux mois sur
+l'importance significative de cette succursale, en tenant compte des avis et des
+réserves exprimés par l'autre autorité ou les autres autorités auprès desquelles
+la demande a été formulée. Sa décision est motivée. Elle est communiquée aux
+autres autorités compétentes des Etats membres concernés.

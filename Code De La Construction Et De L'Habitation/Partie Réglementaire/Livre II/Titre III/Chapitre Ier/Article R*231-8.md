@@ -1,14 +1,14 @@
 Article R*231-8
 ----
-I. - Lorsque le contrat n'a pas stipulé un dépôt de garantie conforme à
-l'article L. 231-4-III, il prévoit un paiement n'excédant pas 5 p. 100 du prix
-convenu de la construction au jour de la signature ainsi qu'un paiement
-n'excédant pas 5 p. 100 dudit prix à la délivrance du permis de construire. En
-ce cas une attestation de garantie de remboursement est annexée au contrat.
+I.-Lorsque le contrat n'a pas stipulé un dépôt de garantie conforme à l'article
+L. 231-4-III, il prévoit un paiement n'excédant pas 5 p. 100 du prix convenu de
+la construction au jour de la signature ainsi qu'un paiement n'excédant pas 5 p.
+100 dudit prix à la délivrance du permis de construire. En ce cas une
+attestation de garantie de remboursement est annexée au contrat.
 
-II. - La garantie de remboursement est constituée par une caution solidaire
-donnée par un établissement de crédit ou une entreprise d'assurance agréés à cet
-effet.
+II.-La garantie de remboursement est constituée par une caution solidaire donnée
+par un établissement de crédit, une société de financement ou une entreprise
+d'assurance agréés à cet effet.
 
 La garantie est donnée :
 

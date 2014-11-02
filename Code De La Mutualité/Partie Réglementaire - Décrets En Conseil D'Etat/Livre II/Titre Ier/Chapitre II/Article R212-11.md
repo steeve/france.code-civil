@@ -94,11 +94,10 @@ pas effectuer les déductions prévues aux a et b.
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions
 mentionnées au a et au b lorsqu'elle est soumise à une surveillance
 complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4
-et qu'elle présente une solvabilité ajustée positive calculée selon les
-modalités précisées à l'article R. 213-8 et R. 213-9. La méthode définie à
-l'article R. 213-8 n'est applicable que si l'Autorité de contrôle estime que la
-gestion intégrée et le contrôle interne des entités entrant dans le périmètre de
-consolidation sont satisfaisants.
+et qu'elle respecte les exigences complémentaires en fonds propres calculées
+selon les modalités fixées par l'arrêté des ministres chargés de l'économie, de
+la sécurité sociale et de la mutualité prévu à l'article L. 517-8 du code
+monétaire et financier.
 
 V.-Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3
 du I est susceptible d'être faussée par l'existence d'un contrat de réassurance

@@ -10,4 +10,4 @@ adaptés à sa situation.
 L'intermédiaire doit recueillir également auprès du client, y compris du client
 potentiel, des informations relatives à ses ressources et à ses charges ainsi
 qu'aux prêts en cours qu'il a contractés, permettant à l'établissement de crédit
-de vérifier sa solvabilité.
+ou à la société de financement de vérifier sa solvabilité.

@@ -4,18 +4,18 @@ I. ― L'Autorité de contrôle prudentiel et de résolution communique les list
 mentionnées aux 1° et 2° du I de l'article R. 612-20 à l'Autorité des marchés
 financiers.
 
-II. ― L'Autorité de contrôle prudentiel et de résolution, le cas échéant après
-communication par l'Autorité des marchés financiers des agréments que cette
-dernière a délivrés, communique au moins une fois par an à la Commission
-européenne et à l'Autorité bancaire européenne la liste des établissements de
-crédit et des entreprises d'investissement pour lesquels un agrément a été
-délivré ainsi que celle des conglomérats financiers.
+II.-L'Autorité de contrôle prudentiel et de résolution communique au moins une
+fois par an à l'Autorité bancaire européenne la liste des établissements de
+crédit agréés, la liste des établissements de crédit qui ont fait l'objet d'une
+mesure de retrait d'agrément ou de radiation de la liste des personnes agréées
+ainsi que, pour chaque établissement concerné, les motifs de cette mesure.
 
 III. ― L'Autorité de contrôle prudentiel et de résolution communique au moins
 une fois par an aux autorités compétentes des autres Etats membres de l'Union
 européenne et des autres Etats parties à l'accord sur l'Espace économique
 européen, à la Commission européenne et à l'Autorité bancaire européenne la
-liste des compagnies financières.
+liste des compagnies financières holding et des compagnies financières holding
+mixtes.
 
 IV. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une
 fois par an à la Commission européenne et à l'Autorité bancaire européenne le
@@ -25,16 +25,18 @@ l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique
 européen, créer une succursale en vue de fournir des services bancaires ou
 poursuivre son activité à la suite d'un changement de situation.
 
-V. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une
-fois par an à la Commission européenne et à l'Autorité bancaire européenne le
-nombre et la nature des cas dans lesquels elle a pris les mesures mentionnées au
-deuxième alinéa de l'article R. 613-31.
+V.-L'Autorité de contrôle prudentiel et de résolution communique au moins une
+fois par an à l'Autorité bancaire européenne la liste des dirigeants
+d'établissement de crédit et d'entreprise d'investissement qu'elle a autorisés à
+exercer un mandat supplémentaire, conformément au II de l'article L. 511-52 et
+au II de l'article L. 533-26.
 
 VI. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une
-fois par an à l'Autorité bancaire européenne et à la Commission européenne les
-agréments délivrés aux succursales d'établissements de crédit ayant leur siège
-dans un Etat non membre de l'Union européenne ni partie à l'accord sur l'Espace
-économique européen.
+fois par an à l'Autorité bancaire européenne, au comité bancaire européen
+institué par la décision de la Commission européenne 2004/10/ CE du 5 novembre
+2003 et à la Commission européenne les agréments délivrés aux succursales
+d'établissements de crédit ayant leur siège dans un Etat non membre de l'Union
+européenne ni partie à l'accord sur l'Espace économique européen.
 
 VII. ― L'Autorité de contrôle prudentiel et de résolution communique au moins
 une fois par an à l'Autorité européenne des assurances et des pensions

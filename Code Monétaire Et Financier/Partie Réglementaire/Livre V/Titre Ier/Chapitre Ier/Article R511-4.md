@@ -20,4 +20,5 @@ les conditions mentionnées au deuxième alinéa de l'article L. 511-28,
 l'établissement en informe sans délai l'Autorité de contrôle prudentiel et de
 résolution. Si celle-ci estime que l'établissement ne peut désormais bénéficier
 du régime prévu au premier alinéa et au quatrième alinéa de l'article L. 511-28,
-elle en informe les autorités compétentes de l'Etat membre d'accueil.
+elle en informe sans délai les autorités compétentes des Etats membres d'accueil
+concernés.

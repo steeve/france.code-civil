@@ -44,10 +44,10 @@ reconduction ou résiliation du contrat d'assurance souscrit au titre de leur
 responsabilité civile professionnelle, concernant les personnes mentionnées au
 1° du I de l'article R. 519-4 et à l'article L. 541-1.
 
-Les entreprises d'assurance ou les établissements de crédit, émetteurs, en
-application de l'article L. 519-4, de la garantie financière des personnes
-mentionnées aux articles L. 519-1 et L. 541-1, portent sans délai à la
-connaissance de l'organisme la cessation de cette garantie.
+Les entreprises d'assurance, les établissements de crédit ou les sociétés de
+financement, émetteurs, en application de l'article L. 519-4, de la garantie
+financière des personnes mentionnées aux articles L. 519-1 et L. 541-1, portent
+sans délai à la connaissance de l'organisme la cessation de cette garantie.
 
 VIII. ― L'organisme procède à la radiation du registre, sur décision de
 l'Autorité de contrôle prudentiel et de résolution en application du 6° du I de

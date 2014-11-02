@@ -47,4 +47,5 @@ lesquelles les associations ou fondations doivent effectuer un suivi financier
 des prêts qu'elles accordent et lui en rendre compte.
 
 Les prêts doivent bénéficier d'une garantie apportée par un fonds de garantie ou
-de cautionnement agréé ou par un établissement de crédit.
+de cautionnement agréé, par un établissement de crédit ou par une société de
+financement.

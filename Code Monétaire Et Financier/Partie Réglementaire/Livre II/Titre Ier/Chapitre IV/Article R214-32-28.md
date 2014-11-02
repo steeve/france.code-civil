@@ -18,10 +18,9 @@ d'organisme de placement collectif, un établissement de crédit dont le siège 
 économiques ou une entreprise d'investissement dont le siège est situé dans un
 Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
 l'Espace économique européen et qui est habilitée à fournir le service mentionné
-au 1 de l'article L. 321-2 et dont le montant des fonds propres, au sens de la
-directive 2000/12/ CE du Parlement européen et du Conseil du 20 mars 2000
-concernant l'accès à l'activité des établissements de crédit et son exercice est
-au moins égal à 3,8 millions d'euros.
+au 1 de l'article L. 321-2 et dont le montant des fonds propres, au sens du
+règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013,
+est au moins égal à 3,8 millions d'euros.
 
 Lorsque les garanties octroyées par un fonds d'investissement à vocation
 générale sont des sûretés, l'acte constitutif de ces sûretés définit :

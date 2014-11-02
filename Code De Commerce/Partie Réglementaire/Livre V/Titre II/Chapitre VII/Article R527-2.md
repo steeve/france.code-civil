@@ -7,10 +7,10 @@ Il comporte :
 
 1° La désignation des parties :
 
-a) Pour l'établissement de crédit créancier : sa forme, sa dénomination sociale,
-l'adresse de son siège social et son numéro unique d'identification complété par
-la mention RCS suivie du nom de la ville où se trouve le greffe où il est
-immatriculé ;
+a) Pour l'établissement de crédit ou la société de financement créancier : sa
+forme, sa dénomination sociale, l'adresse de son siège social et son numéro
+unique d'identification complété par la mention RCS suivie du nom de la ville où
+se trouve le greffe où il est immatriculé ;
 
 b) Pour le constituant :
 

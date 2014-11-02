@@ -18,7 +18,7 @@ Une convention peut être signée entre le tiers et les personnes mentionnées a
 II.-Les personnes mentionnées au 1° de l'article L. 561-2 peuvent recourir, dans
 des conditions définies par un arrêté du ministre chargé de l'économie, à des
 prestataires pour identifier et vérifier l'identité de leur client pour les
-opérations mentionnées à l'article L. 311-2 du code de la consommation, au 6° de
-l'article L. 311-2 du code monétaire et financier et au deuxième alinéa de
-l'article L. 313-1 du même code. Elles demeurent responsables de l'exécution des
-obligations d'identification.
+opérations mentionnées à l'article L. 311-2 du code de la consommation, au 6 du
+I de l'article L. 311-2 du présent code et au deuxième alinéa de l'article L.
+313-1 du même code. Elles demeurent responsables de l'exécution des obligations
+d'identification.

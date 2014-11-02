@@ -22,6 +22,7 @@ Compagnie nationale des commissaires aux comptes et au conseil régional de la
 compagnie régionale dont est membre le commissaire en cause.
 
 Les dispositions du présent article ne sont pas applicables aux établissements
-de crédit, aux compagnies financières et aux entreprises d'investissement
+de crédit, aux sociétés de financement, aux compagnies financières holding, aux
+entreprises mères de société de financement et aux entreprises d'investissement
 soumises au contrôle de l'Autorité de contrôle prudentiel, ainsi qu'à leurs
 commissaires aux comptes.

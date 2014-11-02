@@ -16,7 +16,7 @@ b) Aux organes centraux mentionnés à l'article L. 511-30, pour les
 c) Aux dépositaires centraux mentionnés au 3° du II de l'article L. 621-9, pour
 les établissements adhérents de ces dépositaires ;
 
-d) A une autorité d'un autre Etat membre de la Communauté européenne ou partie à
+d) A une autorité d'un autre Etat membre de l'Union européenne ou partie à
 l'accord sur l'Espace économique européen chargée du contrôle des marchés
 financiers ou des prestataires de services d'investissement ;
 

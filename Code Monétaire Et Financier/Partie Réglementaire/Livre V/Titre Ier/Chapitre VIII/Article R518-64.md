@@ -18,7 +18,8 @@ l'inspection générale des affaires sociales ;
 
 7° Un représentant du ministre chargé de la défense ;
 
-8° Deux représentants des établissements de crédit ;
+8° Deux représentants des établissements de crédit et des sociétés de
+financement ;
 
 9° Deux personnalités qualifiées.
 

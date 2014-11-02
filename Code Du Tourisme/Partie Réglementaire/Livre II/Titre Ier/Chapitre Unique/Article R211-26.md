@@ -6,8 +6,8 @@ engagement écrit de cautionnement pris :
 1° Soit par un organisme de garantie collective doté de la personnalité
 juridique, au moyen d'un fonds de garantie constitué à cet effet ;
 
-2° Soit par un établissement de crédit ou une entreprise d'assurances habilités
-à donner une garantie financière ;
+2° Soit par un établissement de crédit, une société de financement ou une
+entreprise d'assurances habilités à donner une garantie financière ;
 
 3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif
 ayant fait l'objet d'une autorisation particulière par un arrêté du ministre

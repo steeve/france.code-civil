@@ -1,7 +1,8 @@
 Article R313-25
 ----
-Le contrat d'émission des obligations émises en application de l'article L.
-313-42 mentionne explicitement :
+Le contrat d'émission des obligations émises par un établissement de crédit dont
+l'objet exclusif est de refinancer les billets à ordre répondant aux
+dispositions des articles L. 313-42 à L. 313-49 mentionne explicitement :
 
 1° La finalité de la mobilisation ;
 

@@ -8,7 +8,10 @@ conformément aux dispositions de l'article L. 345-2.
 Toutefois, lorsque ces entreprises sont des entreprises participantes d'un
 établissement de crédit, d'une entreprise d'investissement ou d'un établissement
 financier, elles peuvent, alternativement, présenter une solvabilité ajustée
-positive selon les modalités précisées aux articles R. 334-49 et R. 334-50.
+positive selon les modalités fixées, pour le calcul des exigences
+complémentaires en fonds propres applicables aux conglomérats financiers, par
+l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la
+mutualité prévu à l'article L. 517-8 du code monétaire et financier.
 
 L'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une
 entreprise d'assurance ou de réassurance :
@@ -16,7 +19,7 @@ entreprise d'assurance ou de réassurance :
 a) Si cette entreprise d'assurance ou de réassurance est prise en compte pour le
 calcul de la marge de solvabilité ajustée d'une autre entreprise d'assurance ou
 de réassurance ayant son siège en France, une mutuelle ou union régie par le
-livre II du code de la mutualité, ou une institution de prévoyance ou union
+livre II du code de la mutualité , ou une institution de prévoyance ou union
 régie par le livre IX du code de la sécurité sociale à laquelle elle est
 apparentée ;
 

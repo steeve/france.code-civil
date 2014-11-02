@@ -21,7 +21,7 @@ modalités mentionnées aux a ou b du II de l'article L. 520-1 ;
 
 4° Les mandataires d'intermédiaires d'assurance, personnes physiques non
 salariées et personnes morales mandatées par une personne physique ou une
-personne morale mentionnée aux 1°,2° ou 3° ci-dessus.
+personne morale mentionnée aux 1°, 2° ou 3° ci-dessus.
 
 L'activité des personnes visées aux 3° et 4° du présent article est limitée à la
 présentation, la proposition ou l'aide à la conclusion d'une opération
@@ -32,8 +32,8 @@ assurés ou bénéficiaires.
 
 Cette limitation n'est pas applicable :
 
-1° Aux établissements de crédit définis à l'article L. 511-1 du code monétaire
-et financier ;
+1° Aux établissements de crédit et aux sociétés de financement définis à
+l'article L. 511-1 du code monétaire et financier ;
 
 2° Aux personnes exerçant des mandats en matière d'assurance dans les branches
 4,5,6,7,11 et 12 mentionnées à l'article R. 321-1 du présent code, ainsi que

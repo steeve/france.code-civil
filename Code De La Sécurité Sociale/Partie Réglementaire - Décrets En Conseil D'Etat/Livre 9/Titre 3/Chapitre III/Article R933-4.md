@@ -48,4 +48,7 @@ Lorsque l'institution de prévoyance ou l'union est un organisme participant d'u
 établissement de crédit, d'une entreprise d'investissement ou d'un établissement
 financier, l'Autorité de contrôle prudentiel et de résolution est également
 autorisée à appliquer, alternativement à ces deux méthodes, les méthodes
-définies aux articles R. 933-9 et R. 933-10.
+définies pour le calcul des exigences complémentaires en fonds propres
+applicables aux conglomérats financiers, par l'arrêté des ministres chargés de
+l'économie, de la sécurité sociale et de la mutualité prévu à l'article L. 517-8
+du code monétaire et financier

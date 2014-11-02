@@ -4,8 +4,9 @@ Le cautionnement peut être fourni en totalité ou en partie en argent, en rente
 en valeurs admises à la négociation sur un marché réglementé, ou par une
 première hypothèque sur des immeubles d'une valeur double de la somme garantie.
 Il peut également être fourni en totalité par l'un des établissements de crédit
-habilité à cet effet ou l'une des institutions ou l'un des établissements
-mentionnés à l'article L. 518-1 du code monétaire et financier.
+ou l'une des sociétés de financement habilités à cet effet ou l'une des
+institutions ou l'un des établissements mentionnés à l'article L. 518-1 du code
+monétaire et financier.
 
 Si le cautionnement est représenté par une hypothèque, la valeur des immeubles
 est estimée par le directeur départemental ou, le cas échéant, régional des

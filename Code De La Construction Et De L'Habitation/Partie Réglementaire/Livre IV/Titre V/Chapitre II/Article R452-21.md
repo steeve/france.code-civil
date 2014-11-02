@@ -6,7 +6,7 @@ gestion budgétaire et comptable publique.
 
 Le compte financier peut comprendre plusieurs sections.
 
-Le plan comptable est adapté au caractère d'établissement de crédit de la
+Le plan comptable est conforme au caractère de société de financement de la
 caisse.
 
 Un arrêté conjoint du ministre chargé du logement, du ministre chargé de

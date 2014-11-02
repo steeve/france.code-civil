@@ -1,6 +1,6 @@
 Article R452-27
 ----
-En application de l'article L. 511-32 du code monétaire et financier, la caisse
+En application de l'article L. 615-1 du code monétaire et financier, la caisse
 est dotée d'un commissaire du Gouvernement, qui est nommé et exerce ses
 fonctions dans les conditions que déterminent les articles D. 615-1 et suivants
 du code monétaire et financier.

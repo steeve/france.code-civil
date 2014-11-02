@@ -19,11 +19,13 @@ d'activités exercées et envisagées au sein de l'entreprise d'investissement
 visée par l'acquisition envisagée ;
 
 4° La capacité de l'entreprise d'investissement à satisfaire et à continuer à
-satisfaire aux obligations prudentielles découlant du présent titre, concernant
-en particulier le point de savoir si le groupe auquel elle appartiendra possède
-une structure qui permet d'exercer une surveillance effective, d'échanger
-réellement des informations entre les autorités compétentes et de déterminer le
-partage des responsabilités entre les autorités compétentes ;
+satisfaire aux obligations prudentielles découlant du présent titre et du
+règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013,
+concernant en particulier le point de savoir si le groupe auquel elle
+appartiendra possède une structure qui permet d'exercer une surveillance
+effective, d'échanger réellement des informations entre les autorités
+compétentes et de déterminer le partage des responsabilités entre les autorités
+compétentes ;
 
 5° L'existence de motifs raisonnables de soupçonner qu'une opération ou une
 tentative de blanchiment de capitaux ou de financement du terrorisme est en

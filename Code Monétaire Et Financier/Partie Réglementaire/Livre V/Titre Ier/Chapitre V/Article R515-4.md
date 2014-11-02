@@ -16,7 +16,7 @@ titrisation ou entité similaire définies à l'article R. 214-220 ;
 
 3. Le produit de la valeur des biens financés ou apportés en garantie des prêts
 figurant à l'actif de l'organisme de titrisation ou de l'entité similaire par
-les quotités visées à l'article R. 515-2 en fonction de la nature de l'actif du
+les quotités visées à l'article R. 513-1 en fonction de la nature de l'actif du
 fonds. Ce produit est majoré des liquidités de l'organisme de titrisation ou
 entité similaire définies à l'article R. 214-220.
 
@@ -30,7 +30,7 @@ de titrisation ou entités similaires mentionnées audit article, dont l'actif e
 constitué à au moins 90 % de prêts consentis à des personnes physiques pour
 financer la construction ou l'acquisition de logement ou pour financer à la fois
 l'acquisition d'un terrain à bâtir et le coût des travaux de construction de
-logement tels que mentionnés au troisième alinéa de l'article R. 515-2, ne
+logement tels que mentionnés au troisième alinéa de l'article R. 513-1, ne
 peuvent être refinancés par des obligations foncières, et autres ressources
 bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13 (1),
 émises par la société de crédit foncier, que dans la limite de 10 % du montant

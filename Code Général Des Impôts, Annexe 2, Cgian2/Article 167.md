@@ -30,23 +30,25 @@ versements exigés à ce titre excéderaient le montant des versements définis 
 3° du b.
 
 Cet engagement doit être garanti par une caution solidaire donnée par un
-établissement de crédit ou une société de caution mutuelle constituée
-conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et
-L.513-2 du code monétaire et financier.
+établissement de crédit, une société de financement ou une société de caution
+mutuelle constituée conformément aux dispositions des articles L. 512-2, L.
+512-20, L. 515-4 et L. 513-2 du code monétaire et financier.
 
 A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un
 cautionnement en numéraire dans un organisme habilité à cet effet et désigné
 dans le contrat. Le montant de ce cautionnement doit être au moins égal à 10 %
 du montant des versements restant à faire à la société tels qu'ils sont définis
 au 3° du b. Le cautionnement doit être maintenu jusqu'à la date de règlement des
-comptes de construction de la société. Toutefois, il peut être libéré à
-l'expiration d'un délai d'un an après l'achèvement de l'immeuble ou de la
-fraction d'immeuble représenté par les actions ou parts cédées, si le
-cessionnaire n'a intenté aucune action dans ce délai à l'encontre du cédant ;
+comptes de construction de la société.
+
+Toutefois, il peut être libéré à l'expiration d'un délai d'un an après
+l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les
+actions ou parts cédées, si le cessionnaire n'a intenté aucune action dans ce
+délai à l'encontre du cédant ;
 
 d) La société de construction doit intervenir à l'acte de cession et justifier
-qu'elle bénéficie de l'engagement pris par un établissement de crédit ou une
-société de caution mutuelle constituée conformément aux dispositions des
-articles L. 512-2, L. 512-20, L. 515-4 et L.513-2 du code monétaire et
-financier, de répondre aux appels de fonds de la société en cas de défaillance
-des associés.
+qu'elle bénéficie de l'engagement pris par un établissement de crédit, une
+société de financement ou une société de caution mutuelle constituée
+conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et L.
+513-2 du code monétaire et financier, de répondre aux appels de fonds de la
+société en cas de défaillance des associés.

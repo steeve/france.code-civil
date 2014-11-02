@@ -1,8 +1,8 @@
 Article R322-11-1
 ----
-I.-Toute opération permettant à une personne, agissant seule ou de concert avec
-d'autres personnes, au sens des dispositions de l'article L. 233-10 du code de
-commerce, d'acquérir, d'étendre, de diminuer ou de cesser de détenir,
+I. - Toute opération permettant à une personne, agissant seule ou de concert
+avec d'autres personnes, au sens des dispositions de l'article L. 233-10 du code
+de commerce, d'acquérir, d'étendre, de diminuer ou de cesser de détenir,
 directement ou indirectement, au sens des dispositions de l'article L. 233-4 du
 code de commerce, une participation dans une entreprise mentionnée au 1° de
 l'article L. 310-2 ou au 1° du III de l'article L. 310-1-1 du présent code doit
@@ -45,11 +45,7 @@ plusieurs Etats membres de la Communauté européenne ou d'un autre Etat partie 
 l'accord sur l'Espace économique européen et appartenant au groupe de celles qui
 détiennent déjà un pouvoir de contrôle effectif sur l'entreprise assujettie.
 
-II.-Les dispositions du paragraphe I s'appliquent également aux opérations de
+II. - Les dispositions du paragraphe I s'appliquent également aux opérations de
 prise, d'extension ou de cession de participation, directes ou indirectes, dans
 des sociétés de groupe d'assurance définies à l'article L. 322-1-2 et dont le
-siège social est situé en France ou dans des compagnies financières holding
-mixtes définies au 9° de l'article L. 334-2, dont le siège social est situé en
-France et appartenant à un conglomérat financier dont la surveillance est
-coordonnée par l'Autorité de contrôle prudentiel et de résolution dans les
-conditions prévues à l'article L. 334-9.
+siège social est situé en France.

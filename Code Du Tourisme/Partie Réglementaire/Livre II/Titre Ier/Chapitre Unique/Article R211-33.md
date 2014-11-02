@@ -5,7 +5,7 @@ La garantie cesse par son exécution ou pour les raisons suivantes :
 -perte de la qualité d'adhérent à l'organisme de garantie collective ou à un
 groupement d'associations ou d'organismes sans caractère lucratif ou
 dénonciation de l'engagement de garantie financière pris par un établissement de
-crédit ou une entreprise d'assurances ;
+crédit, une société de financement ou une entreprise d'assurances ;
 
 -radiation du registre mentionné au a de l'article L. 141-3.
 

@@ -9,9 +9,10 @@ l'économie, du budget, du logement et de l'environnement qui précise notamment
 les conditions dans lesquelles cet organisme participe au contrôle de
 l'application des dispositions du présent chapitre.
 
-Dans ce cas, les établissements de crédit doivent conclure avec cet organisme
-une convention, conforme à une convention type approuvée par arrêté conjoint des
-ministres chargés de l'économie, du logement et de l'environnement qui précise
-notamment les obligations déclaratives des établissements de crédit en vue de
-permettre à l'Etat l'évaluation de l'efficacité de l'avance au regard des
-objectifs qu'elle poursuit.
+Dans ce cas, les établissements de crédit et les sociétés de financement doivent
+conclure avec cet organisme une convention, conforme à une convention type
+approuvée par arrêté conjoint des ministres chargés de l'économie, du logement
+et de l'environnement qui précise notamment les obligations déclaratives des
+établissements de crédit et des sociétés de financement en vue de permettre à
+l'Etat l'évaluation de l'efficacité de l'avance au regard des objectifs qu'elle
+poursuit.
