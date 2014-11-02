@@ -1,6 +1,5 @@
 Article A334-7
 ----
-Les activités d'un groupe s'exercent principalement dans le secteur financier au
-sens de l'article L. 334-5 lorsque le rapport entre le total du bilan des
-entités du groupe appartenant au secteur financier et le total du bilan du
-groupe est supérieur à 40 %.
+Les modalités de la surveillance complémentaire des conglomérats financiers
+mentionnée à l'article L. 334-4 sont précisées par arrêté des ministres chargés
+de l'économie, de la sécurité sociale et de la mutualité.

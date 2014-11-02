@@ -3,10 +3,10 @@ Article A321-2
 I.-Lorsqu'une entreprise demande l'Autorité de contrôle prudentiel et de
 résolution l'agrément administratif prévu par l'article L. 321-1 ou une
 extension de cet agrément ou lorsqu'une entreprise procède à la déclaration
-prévue à l'article R. 321-17-1 ou à la transmission prévue aux articles R.
-334-46 et R. 334-48, les personnes mentionnées au f du I de l'article A. 321-1
-et qui sont chargées de conduire l'entreprise au sens de l'article A. 321-10
-produisent un dossier comprenant :
+prévue à l'article R. 321-17-1 ou à la transmission prévue à l'article R.
+334-46, les personnes mentionnées au f du I de l'article A. 321-1 et qui sont
+chargées de conduire l'entreprise au sens de l'article A. 321-10 produisent un
+dossier comprenant :
 
 a) Une description de leurs fonctions actuelles au sein de l'entreprise ainsi
 qu'un extrait du procès-verbal de la réunion de l'organe social attestant de
