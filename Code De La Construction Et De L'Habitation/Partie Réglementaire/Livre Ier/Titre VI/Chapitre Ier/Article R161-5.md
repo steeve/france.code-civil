@@ -55,23 +55,18 @@ des arrêtés précités et reculer la date précitée pour les établissements
 recevant au plus 1 500 personnes au sens de l'article R. 123-19, sans aller
 au-delà du 29 août 2018 ;
 
-7° a) L'article R. 111-19-7 est remplacé par les dispositions suivantes :
-
-" Art. R. 111-19-7. - La présente sous-section est applicable aux établissements
-recevant du public et aux installations ouvertes au public existantes ainsi
-qu'aux établissements recevant du public de 5e catégorie créés par changement de
-destination. " ;
-
-b) Le b du I de l'article R. 111-19-8 est remplacé par un paragraphe ainsi
+7° a) Le b du I de l'article R. 111-19-8 est remplacé par un paragraphe ainsi
 rédigé :
 
-" b) S'ils entraînent la construction de surfaces ou de volumes nouveaux, les
+b) S'ils entraînent la construction de surfaces ou de volumes nouveaux, les
 parties de bâtiments ainsi créées à partir du 1er janvier 2016 respectent les
-dispositions prévues aux articles R. 111-19-1 à R. 111-19-4. " ;
+dispositions prévues à l'article R. 111-19-7. " ;
+
+b) Les échéances mentionnées à l'article R. 111-19-9 sont reculées de sept ans.
 
 c) Le II de l'article R. 111-19-8 est remplacé par les dispositions suivantes :
 
-" II. - Les établissements recevant du public existants autres que ceux de
+" II.-Les établissements recevant du public existants autres que ceux de
 cinquième catégorie au sens de l'article R. 123-19 satisfont aux obligations
 suivantes :
 
@@ -89,7 +84,7 @@ structure du bâtiment l'imposent. " ;
 
 d) Le III de l'article R. 111-19-8 est remplacé par les dispositions suivantes :
 
-" III. - Les établissements recevant du public classés en cinquième catégorie
+" III.-Les établissements recevant du public classés en cinquième catégorie
 existants et les établissements recevant du public classés en cinquième
 catégorie créés par changement de destination dans un bâtiment existant ainsi
 que les installations ouvertes au public existantes satisfont aux obligations
@@ -112,6 +107,11 @@ changement de destination respectent les dispositions mentionnées au a du II. "
 ;
 
 e) Les échéances mentionnées à l'article R. 111-19-9 sont reculées de sept ans ;
+
+7° bis A l'article R. 111-19-33, les mots : " 31 décembre 2014 " sont remplacés
+par les mots : " 28 août 2018 ", les mots : " 1er mars 2015 " sont remplacés par
+les mots : " 1er novembre 2018 " et les mots : " 27 septembre 2015 " sont
+remplacés par les mots : " 28 février 2019 ;
 
 8° Les articles R. 122-1 à R. 122-29 relatifs à la sécurité des immeubles de
 grande hauteur et les articles R. 123-1 à R. 123-55 relatifs à la protection
@@ -136,9 +136,16 @@ départementale de la protection civile " sont remplacés jusqu'au 31 décembre
 panique dans les établissements recevant du public, dont le rôle, la composition
 et le fonctionnement sont définis par arrêté préfectoral " ;
 
-11° Aux articles R. 111-19-30, R. 122-6, R. 122-11, R. 122-11-4 et R. 123-45 les
-mots : " commission consultative départementale de sécurité et d'accessibilité "
-sont remplacés jusqu'au 31 décembre 2015 par les mots : " commission de sécurité
+11° Pour l'application des dispositions de la section 3 du chapitre Ier et
+jusqu'au 31 décembre 2015, les attributions dévolues à la commission
+consultative départementale de sécurité et d'accessibilité sont attribuées à une
+commission de sécurité contre les risques d'incendie et de panique dans les
+établissements recevant du public, dont le rôle, la composition et le
+fonctionnement sont définis par arrêté préfectoral.
+
+Aux articles R. 122-6, R. 122-11, R. 122-11-4 et R. 123-45 les mots : "
+commission consultative départementale de sécurité et d'accessibilité " sont
+remplacés jusqu'au 31 décembre 2015 par les mots : " commission de sécurité
 contre les risques d'incendie et de panique dans les établissements recevant du
 public, dont le rôle, la composition et le fonctionnement sont définis par
 arrêté préfectoral " ;
@@ -166,11 +173,11 @@ date ;
 
 b) A l'article R. 125-1-2 :
 
-- les mots : " avant le 27 août 2000 " sont remplacés par les mots : " à Mayotte
+-les mots : " avant le 27 août 2000 " sont remplacés par les mots : " à Mayotte
 avant la date d'entrée en application dans ce département du décret n° 2000-810
 du 24 août 2000 relatif à la mise sur le marché des ascenseurs " ;
 
-- les mots : " avant le 31 décembre 2010 " et les mots : " avant le 3 juillet
+-les mots : " avant le 31 décembre 2010 " et les mots : " avant le 3 juillet
 2013 " sont remplacés par les mots : " avant le 3 juillet 2018 " ;
 
 15° Les articles R. 125-2 à R. 125-2-6 relatifs à l'entretien et au contrôle

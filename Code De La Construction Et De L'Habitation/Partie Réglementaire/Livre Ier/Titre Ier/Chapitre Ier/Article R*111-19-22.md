@@ -1,6 +1,6 @@
 Article R*111-19-22
 ----
-Le délai d'instruction de la demande d'autorisation est de cinq mois à compter
+Le délai d'instruction de la demande d'autorisation est de quatre mois à compter
 du dépôt du dossier.
 
 Si les dossiers joints à la demande sont incomplets, l'autorité compétente, dans
@@ -8,8 +8,11 @@ le délai d'un mois à compter de la réception ou du dépôt de la demande à l
 mairie, adresse au demandeur une lettre recommandée avec demande d'avis de
 réception ou, dans le cas prévu par l'article R. 423-48 du code de l'urbanisme,
 un courrier électronique, indiquant, de façon exhaustive, les pièces manquantes.
-Le délai d'instruction de cinq mois ne commence à courir qu'à compter de la
-réception de ces pièces.
+Si les pièces manquantes n'ont pas été transmises dans le délai fixé par
+l'autorité administrative ou, à défaut dans un délai d'un mois à compter de la
+date à laquelle la demande en a été faite au pétitionnaire, la demande
+d'autorisation est rejetée. Le délai d'instruction de quatre mois ne commence à
+courir qu'à compter de la réception de ces pièces.
 
 Lorsque le projet fait l'objet d'une demande de permis de construire, les
 dispositions des articles R. 423-39 à R. 423-41 du code de l'urbanisme sont
