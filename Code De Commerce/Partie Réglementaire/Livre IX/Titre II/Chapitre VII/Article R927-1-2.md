@@ -1,6 +1,5 @@
 Article R927-1-2
 ----
-A l'article R. 712-4-1, les mots : " le président de la chambre de région, sur
-proposition le cas échéant du président de la chambre territoriale, " sont
-remplacés par les mots : " le président de la chambre de commerce et d'industrie
-de Mayotte ".
+Pour l'application à Mayotte de l'article R. 711-40-2, les mots : " la chambre
+de commerce et d'industrie de région " sont remplacés par les mots : " la
+chambre de commerce et d'industrie de Mayotte ".

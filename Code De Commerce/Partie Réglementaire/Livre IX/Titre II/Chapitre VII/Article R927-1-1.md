@@ -1,7 +1,6 @@
 Article R927-1-1
 ----
-Le 2° de l'article R. 712-2 est remplacé par les dispositions suivantes :
-
-"La tutelle de la chambre de commerce et d'industrie de Mayotte est exercée par
-le représentant de l'Etat à Mayotte assisté par le directeur local des finances
-publiques."
+Pour l'application à Mayotte de l'article R. 711-40-1, les mots : " préfet de
+région " sont remplacés par les mots : " représentant de l'Etat " et les mots :
+" chambre de commerce et d'industrie de région " sont remplacés par les mots : "
+chambre de commerce et d'industrie de Mayotte "
