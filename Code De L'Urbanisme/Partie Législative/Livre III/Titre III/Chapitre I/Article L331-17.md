@@ -1,8 +1,8 @@
 Article L331-17
 ----
-Par délibération adoptée avant le 30 novembre, les conseils généraux fixent le
-taux de la part départementale de la taxe d'aménagement applicable à compter du
-1er janvier de l'année suivante.
+Par délibération adoptée avant le 30 novembre, les conseils départementaux
+fixent le taux de la part départementale de la taxe d'aménagement applicable à
+compter du 1er janvier de l'année suivante.
 
 Cette délibération peut également fixer les taux de répartition de la part
 départementale de la taxe d'aménagement entre la politique de protection des

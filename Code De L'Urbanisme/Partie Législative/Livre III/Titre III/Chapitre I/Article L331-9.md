@@ -3,9 +3,9 @@ Article L331-9
 Par délibération prise dans les conditions prévues au premier alinéa de
 l'article L. 331-14, les organes délibérants des communes ou des établissements
 publics de coopération intercommunale, le conseil de la métropole de Lyon, les
-conseils généraux et le conseil régional de la région d'Ile-de-France peuvent
-exonérer de la taxe d'aménagement, en tout ou partie, chacune des catégories de
-construction ou aménagement suivantes :
+conseils départementaux et le conseil régional de la région d'Ile-de-France
+peuvent exonérer de la taxe d'aménagement, en tout ou partie, chacune des
+catégories de construction ou aménagement suivantes :
 
 1° Les locaux d'habitation et d'hébergement mentionnés au 1° de l'article L.
 331-12 qui ne bénéficient pas de l'exonération prévue au 2° de l'article L.
