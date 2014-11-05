@@ -14,6 +14,11 @@ titre de l'article L. 742-1 le salaire annuel de base des cotisations et des
 indemnités est celui de la classe dans laquelle l'intéressé se trouve rangé,
 sans pouvoir toutefois, être inférieur au minimum prévu à l'alinéa précédent.
 
+Pour les conjoints collaborateurs mentionnés à l'article L. 121-4 du code du
+commerce, l'assiette servant de base au calcul des cotisations et des
+prestations est le salaire minimum prévu au premier alinéa de l'article L.
+434-16
+
 La caisse primaire d'assurance maladie vérifie si la situation du requérant
 entre dans les catégories mentionnées à l'article R. 743-1 et lui notifie sa
 décision dans un délai d'un mois à compter de la date de réception de la
