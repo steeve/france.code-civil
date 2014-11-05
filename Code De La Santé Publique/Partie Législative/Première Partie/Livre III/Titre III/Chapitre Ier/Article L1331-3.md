@@ -9,3 +9,6 @@ l'article L. 1331-2, sont remboursées par les propriétaires, soit de la voie
 privée, soit des immeubles riverains de cette voie, à raison de l'intérêt de
 chacun à l'exécution des travaux, dans les conditions fixées au dernier alinéa
 de l'article L. 1331-2.
+
+La métropole de Lyon est substituée aux communes situées dans son périmètre pour
+l'application des dispositions du présent article.

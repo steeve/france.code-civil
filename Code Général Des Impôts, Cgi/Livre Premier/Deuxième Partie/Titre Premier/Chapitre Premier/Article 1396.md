@@ -8,13 +8,12 @@ forêts et que son montant total par article de rôle est inférieur au seuil fi
 au 2 de l'article 1657, un recouvrement triennal peut être organisé dans des
 conditions prévues par décret.
 
-II.-A.-Dans les communes mentionnées au I de l'article 232 et classées dans les
-zones géographiques mentionnées au premier alinéa du I de l'article 234, la
-valeur locative cadastrale des terrains constructibles après la déduction
-mentionnée au I du présent article est majorée de 25 % de son montant et d'une
-valeur forfaitaire fixée à 5 € par mètre carré pour les impositions dues au
-titre des années 2015 et 2016, puis à 10 € par mètre carré pour les impositions
-dues au titre de l'année 2017 et des années suivantes.
+II.-A.-Dans les communes mentionnées au I de l'article 232, la valeur locative
+cadastrale des terrains constructibles après la déduction mentionnée au I du
+présent article est majorée de 25 % de son montant et d'une valeur forfaitaire
+fixée à 5 € par mètre carré pour les impositions dues au titre des années 2015
+et 2016, puis à 10 € par mètre carré pour les impositions dues au titre de
+l'année 2017 et des années suivantes.
 
 B.-Dans les communes autres que celles mentionnées au A, la valeur locative
 cadastrale des terrains constructibles situés dans les zones urbaines ou à

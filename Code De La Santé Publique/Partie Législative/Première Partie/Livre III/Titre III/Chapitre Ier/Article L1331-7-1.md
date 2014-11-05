@@ -27,3 +27,6 @@ prescriptions techniques sont regroupées en annexes au règlement de service
 d'assainissement qui, par exception aux dispositions de l'article L. 2224-12 du
 code général des collectivités territoriales, ne sont notifiées qu'aux usagers
 concernés.
+
+La métropole de Lyon est substituée aux communes situées dans son périmètre pour
+l'application des dispositions du présent article.

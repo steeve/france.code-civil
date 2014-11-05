@@ -6,3 +6,8 @@ représentants de l'administration, un conseiller général et quatre représent
 de contribuables. Parmi ces derniers, trois sont désignés par les organisations
 ou organismes représentatifs des propriétaires d'immeubles bâtis, le quatrième
 par les organisations ou organismes représentatifs des locataires.
+
+La commission départementale des impôts directs et des taxes sur le chiffres
+d'affaires du département du Rhône et de la métropole de Lyon comprend également
+un conseiller métropolitain. En outre, parmi les quatre représentants des
+contribuables, trois sont domiciliés sur le territoire de la métropole de Lyon.

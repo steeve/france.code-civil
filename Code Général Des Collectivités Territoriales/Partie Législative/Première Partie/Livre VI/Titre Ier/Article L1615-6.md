@@ -102,6 +102,10 @@ sincérité des restes à réaliser est contrôlée au vu d'un état déclaratif
 transmis par l'ordonnateur accompagné des pièces justifiant le rattachement à
 l'année 2010 des restes à réaliser.
 
+Pour la métropole de Lyon mentionnée à l'article L. 3611-1, les dépenses réelles
+d'investissement à prendre en considération sont celles afférentes à l'exercice
+précédent.
+
 Pour les communes membres d'établissements publics de coopération intercommunale
 qui appliquent le régime prévu à l'article L. 5211-28-2, les dépenses réelles
 d'investissement à prendre en considération sont celles afférentes à l'exercice

@@ -10,3 +10,9 @@ départemental. Pour les matières visées aux articles 1651 A et 1651 B, l'un d
 représentants des contribuables est un expert-comptable.
 
 Le président a voix prépondérante.
+
+La commission départementale des impôts directs et des taxes sur le chiffre
+d'affaires du département du Rhône est compétente pour le territoire du
+département du Rhône et le territoire de la métropole de Lyon. Elle est dénommée
+commission départementale des impôts directs et des taxes sur le chiffre
+d'affaires du département du Rhône et de la métropole de Lyon.

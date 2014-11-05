@@ -14,6 +14,11 @@ constatées par des agents des services de désinfection et des services d'hygi�
 et de santé de la métropole de Lyon habilités et assermentés dans les conditions
 fixées par décret en Conseil d'Etat.
 
+Le président de la métropole de Lyon est compétent pour demander le paiement,
+après mise en demeure, des sommes dues par les propriétaires en vertu des
+articles L. 1331-2, L. 1331-3 et L. 1331-6 à L. 1331-9 du code de la santé
+publique.
+
 2. Sans préjudice de l'article L. 2212-2 et par dérogation à l'article L.
 2224-16 du présent code, le président du conseil de la métropole exerce les
 attributions lui permettant de réglementer la collecte des déchets ménagers. Les

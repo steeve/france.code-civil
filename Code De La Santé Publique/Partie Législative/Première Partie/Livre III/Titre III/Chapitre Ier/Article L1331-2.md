@@ -17,3 +17,6 @@ La commune est autorisée à se faire rembourser par les propriétaires intéres
 tout ou partie des dépenses entraînées par ces travaux, diminuées des
 subventions éventuellement obtenues et majorées de 10 % pour frais généraux,
 suivant des modalités à fixer par délibération du conseil municipal.
+
+La métropole de Lyon est substituée aux communes situées dans son périmètre pour
+l'application des dispositions du présent article.
