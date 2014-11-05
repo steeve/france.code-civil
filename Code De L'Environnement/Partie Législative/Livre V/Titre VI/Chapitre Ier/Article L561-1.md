@@ -14,7 +14,7 @@ s'avèrent plus coûteux que les indemnités d'expropriation.
 Ces dispositions ne s'appliquent pas aux cavités souterraines d'origine
 naturelle ou humaine résultant de l'exploitation passée ou en cours d'une mine.
 
-La procédure prévue par les articles L. 15-6 à L. 15-8 du code de
+La procédure prévue par les articles L. 521-1 à L. 521-8 du code de
 l'expropriation pour cause d'utilité publique est applicable lorsque l'extrême
 urgence rend nécessaire l'exécution immédiate de mesures de sauvegarde.
 

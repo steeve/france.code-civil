@@ -1,6 +1,6 @@
 Article L133-5
 ----
-Le produit des cessions mentionnées au 5° de l'article L. 21-1 du code de
+Le produit des cessions mentionnées au 6° de l'article L. 411-1 du code de
 l'expropriation pour cause d'utilité publique ainsi que les soultes en argent
 attribuées à la collectivité publique dans les échanges immobiliers intéressant
 les périmètres de protection et de reconstitution forestière sont employés par

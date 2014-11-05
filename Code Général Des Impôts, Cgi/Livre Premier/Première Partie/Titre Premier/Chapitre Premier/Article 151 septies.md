@@ -84,10 +84,10 @@ V.-Pour les plus-values réalisées à la suite d'une expropriation ou de la
 perception d'indemnités d'assurance, la condition d'exercice de l'activité
 pendant au moins cinq ans n'est pas requise.
 
-Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a
-et b du 1° du II de l'article L. 13-15 du code de l'expropriation pour cause
-d'utilité publique ne sont pas considérés comme des biens entrant dans le champ
-d'application du I du A de l'article 1594-0 G du présent code.
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées à
+l'article L. 322-3 du code de l'expropriation pour cause d'utilité publique ne
+sont pas considérés comme des biens entrant dans le champ d'application du I du
+A de l'article 1594-0 G du présent code.
 
 VI.-Les plus-values mentionnées aux II et III s'entendent des plus-values nettes
 déterminées après compensation avec les moins-values de même nature.

@@ -18,9 +18,9 @@ de gestion.
 
 Par dérogation aux dispositions du premier alinéa, les bois et forêts de l'Etat
 compris dans le périmètre d'une déclaration d'utilité publique sont cédés
-conformément aux dispositions du dernier alinéa de l'article L. 12-4 du code de
-l'expropriation pour cause d'utilité publique dans les conditions précisées par
-décret en Conseil d'Etat.
+conformément aux dispositions de l'article L. 222-4 du code de l'expropriation
+pour cause d'utilité publique dans les conditions précisées par décret en
+Conseil d'Etat.
 
 Les bois et forêts acquis à l'Etat en application de l'article L. 1123-4 sont
 soumis au premier alinéa du présent article à compter de la date à laquelle le

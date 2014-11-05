@@ -15,8 +15,8 @@ avec les dispositions du plan local d'urbanisme ou du document d'urbanisme en
 tenant lieu.
 
 L'exercice des droits prévus au présent article rend applicables les
-dispositions du deuxième alinéa de l'article L. 13-20 du code de l'expropriation
-pour cause d'utilité publique.
+dispositions du deuxième alinéa de l'article L. 322-12 du code de
+l'expropriation pour cause d'utilité publique.
 
 Les priorités prévues par le présent article jouent en faveur des titulaires de
 baux à usage des mêmes activités que celles dont l'installation est prévue dans

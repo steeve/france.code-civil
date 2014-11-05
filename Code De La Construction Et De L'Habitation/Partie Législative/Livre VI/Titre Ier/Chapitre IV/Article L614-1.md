@@ -2,8 +2,9 @@ Article L614-1
 ----
 Lorsque des constructions provisoires ou des équipements annexes ne peuvent être
 réalisés pour permettre le relogement temporaire des personnes occupant un
-logement insalubre au sens de la loi n° 70-612 du 10 juillet 1970 sur des
-terrains expropriés en vertu du titre II de la loi précitée, les terrains nus
+logement insalubre au sens des articles L. 511-1 et suivants du code de
+l'expropriation pour cause d'utilité publique sur des terrains expropriés en
+vertu des articles L 511-1 et suivants du code précité les terrains nus
 nécessaires à cet effet peuvent être réquisitionnés par le représentant de
 l'Etat dans le département, après avis du maire de la commune ou du président du
 groupement de communes ayant compétence en matière de logement, intéressé par la

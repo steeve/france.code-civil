@@ -4,8 +4,9 @@ I.-Par dérogation à l'article 6 de la loi n° 65-557 du 10 juillet 1965 fixant
 statut de la copropriété des immeubles bâtis, une possibilité d'expropriation
 des parties communes est instaurée à titre expérimental et pour une durée de dix
 ans à compter de la promulgation de la loi n° 2014-366 du 24 mars 2014 pour
-l'accès au logement et un urbanisme rénové. Dans ce cas, l'article L. 13-10 du
-code de l'expropriation pour cause d'utilité publique est applicable.
+l'accès au logement et un urbanisme rénové. Dans ce cas, les articles L. 242-1 à
+L. 242-3 du code de l'expropriation pour cause d'utilité publique sont
+applicables.
 
 II.-Lorsque le projet mentionné au V de l'article L. 615-6 du présent code
 prévoit l'expropriation de l'ensemble des parties communes, la commune ou

@@ -8,8 +8,8 @@ canalisations souterraines dans les terrains privés non bâtis, excepté les co
 et jardins attenant aux habitations.
 
 L'établissement de cette servitude ouvre droit à indemnité. Il fait l'objet
-d'une enquête publique réalisée selon les modalités prévues au chapitre Ier du
-titre Ier du code de l'expropriation pour cause d'utilité publique.
+d'une enquête publique réalisée selon les modalités prévues au livre Ier du code
+de l'expropriation pour cause d'utilité publique.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article
 afin notamment que les conditions d'exercice de la servitude soient rationnelles

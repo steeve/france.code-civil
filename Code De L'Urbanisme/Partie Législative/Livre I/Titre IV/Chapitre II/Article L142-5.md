@@ -7,7 +7,7 @@ accessoire, et notamment de l'indemnité de réemploi.
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables
 en matière d'expropriation. Toutefois, dans ce cas :
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation
+a) La date de référence prévue à l'article L. 322-2 du code de l'expropriation
 pour cause d'utilité publique est soit la date à laquelle est devenu opposable
 aux tiers le plus récent des actes rendant public, approuvant, révisant ou
 modifiant le plan d'occupation des sols ou approuvant, modifiant ou révisant le

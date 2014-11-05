@@ -56,7 +56,7 @@ code de l'expropriation pour cause d'utilité publique.
 
 L'ordonnance d'expropriation ou la cession amiable consentie après
 l'intervention de l'arrêté prévu au présent article produit les effets visés à
-l'article L. 12-2 du code de l'expropriation pour cause d'utilité publique.
+l'article L. 222-2 du code de l'expropriation pour cause d'utilité publique.
 
 Les modalités de transfert de propriété des immeubles ou de droits réels
 immobiliers et d'indemnisation des propriétaires sont régies par le code de

@@ -8,8 +8,8 @@ dispositions du présent code et les dispositions relatives au domaine privé de
 communes.
 
 En cas d'aliénation de ces biens et à des fins de construction, il est fait
-application des articles L. 21-1 à L. 21-3 du code de l'expropriation pour cause
-d'utilité publique.
+application des articles L. 411-1 à L. 411-7 et des articles L. 422-1 et L.
+422-2 du code de l'expropriation pour cause d'utilité publique.
 
 Il n'est pas dérogé à la possibilité d'exproprier ces biens conformément aux
 dispositions du code de l'expropriation pour cause d'utilité publique.

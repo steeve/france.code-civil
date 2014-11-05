@@ -51,7 +51,7 @@ destinées à éviter, réduire et, lorsque c'est possible, compenser les effets
 négatifs notables du projet sur l'environnement ou la santé humaine ainsi que
 les modalités de leur suivi.
 
-V. ― Sans préjudice de l'application des dispositions de l'article L. 11-1-1 du
+V. ― Sans préjudice de l'application des dispositions de l'article L. 122-1 du
 code de l'expropriation pour cause d'utilité publique et de l'article L. 126-1
 du présent code relatives à la motivation des déclarations d'utilité publique et
 des déclarations de projet, lorsqu'une décision d'octroi ou de refus de

@@ -8,9 +8,9 @@ correspondant à cette période. Cette partie est exonérée s'il s'agit d'une t
 agricole qui n'entre pas dans le champ d'application du A de l'article 1594-0 G
 et qui est exploitée par un agriculteur ayant exercé son activité à titre
 principal pendant au moins cinq ans. Les terrains expropriés qui ne remplissent
-pas les conditions mentionnées aux a et b du 1° du II de l'article L. 13-15 du
-code de l'expropriation pour cause d'utilité publique ne sont pas considérés
-comme des biens entrant dans le champ d'application du A de l'article 1594-0 G.
+pas les conditions mentionnées à l'article L. 322-3 du code de l'expropriation
+pour cause d'utilité publique ne sont pas considérés comme des biens entrant
+dans le champ d'application du A de l'article 1594-0 G.
 
 II.-La plus-value réalisée lors de la cession d'actions ou de parts sociales
 louées dans les conditions des articles L. 239-1 à L. 239-5 du code de commerce,

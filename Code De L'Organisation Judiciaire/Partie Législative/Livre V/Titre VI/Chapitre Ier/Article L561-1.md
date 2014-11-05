@@ -1,4 +1,4 @@
 Article L561-1
 ----
-Le livre premier et l'article L. 532-17 du présent code est applicable en
-Nouvelle-Calédonie.
+Le livre Ier du présent code et les dispositions du 3° de l'article L. 261-1
+sont applicables en Nouvelle-Calédonie.

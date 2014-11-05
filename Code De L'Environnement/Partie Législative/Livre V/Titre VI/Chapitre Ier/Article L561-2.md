@@ -1,6 +1,6 @@
 Article L561-2
 ----
-Sans préjudice des dispositions de l'article L. 13-14 du code de l'expropriation
+Sans préjudice des dispositions de l'article L. 322-1 du code de l'expropriation
 pour cause d'utilité publique, les acquisitions d'immeubles peuvent ne donner
 lieu à aucune indemnité ou qu'à une indemnité réduite si, en raison de l'époque
 à laquelle elles ont eu lieu, il apparaît qu'elles ont été faites dans le but

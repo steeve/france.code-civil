@@ -4,7 +4,7 @@ L'indemnisation des commerçants et artisans afférente à l'activité qu'ils
 exercent dans un immeuble devant être acquis ou exproprié en vue de sa
 démolition dans le cadre d'une opération d'aménagement doit, sur leur demande,
 intervenir avant l'acte portant transfert de propriété et, par dérogation aux
-dispositions de l'article L. 13-15 du code de l'expropriation pour cause
+dispositions de l'article L. 322-2 du code de l'expropriation pour cause
 d'utilité publique, être fondée sur la situation existant avant le commencement
 de l'opération. Cette indemnité obéit pour le surplus au régime des indemnités
 d'expropriation.
@@ -25,7 +25,7 @@ Le bail est résilié de plein droit, sans indemnité et nonobstant toute clause
 contraire, à compter de la notification au propriétaire du versement de
 l'indemnité prévue ci-dessus.
 
-A l'expiration du délai d'un mois prévu à l'article L. 15-1 du code de
+A l'expiration du délai d'un mois prévu à l'article L. 231-1 du code de
 l'expropriation pour cause d'utilité publique, les dispositions dudit article
 sont applicables.
 

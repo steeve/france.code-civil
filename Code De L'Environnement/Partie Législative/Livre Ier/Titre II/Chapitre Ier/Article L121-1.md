@@ -17,8 +17,8 @@ public après le débat.
 La participation du public est assurée pendant toute la phase d'élaboration d'un
 projet, depuis l'engagement des études préliminaires jusqu'à la clôture de
 l'enquête publique réalisée en application des dispositions du chapitre III du
-titre II du livre Ier du présent code ou du chapitre Ier du titre Ier du code de
-l'expropriation pour cause d'utilité publique.
+titre II du livre Ier du présent code ou du livre Ier du code de l'expropriation
+pour cause d'utilité publique.
 
 En outre, la Commission nationale du débat public veille au respect de bonnes
 conditions d'information du public durant la phase de réalisation des projets

@@ -17,9 +17,8 @@ fixant le périmètre, pris dans les conditions de l'article L. 121-14 ;
 
 4° Les immeubles présentant, à la date de la délibération du conseil général ou
 de l'arrêté de son président fixant le périmètre d'aménagement foncier agricole
-et forestier, les caractéristiques d'un terrain à bâtir au sens du 1° du
-paragraphe II de l'article L. 13-15 du code de l'expropriation pour cause
-d'utilité publique ;
+et forestier, les caractéristiques d'un terrain à bâtir au sens de l' article L.
+322-3 du code de l'expropriation pour cause d'utilité publique ;
 
 5° De façon générale, les immeubles dont les propriétaires ne peuvent bénéficier
 de l'opération d'aménagement foncier agricole et forestier, en raison de

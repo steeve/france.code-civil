@@ -27,14 +27,13 @@ définies au dernier alinéa de l'article L. 121-24.
 Lorsque des terrains visés aux articles L. 123-2 et L. 123-3 ou situés dans les
 zones urbanisées ou d'urbanisation future identifiées par les documents
 d'urbanisme visés à l'article L. 121-1 et ne bénéficiant pas des éléments de
-viabilité visés au a du 1° du II de l'article L. 13-15 du code de
-l'expropriation pour cause d'utilité publique sont attribués à la commune en vue
-de la réalisation des projets communaux ou intercommunaux visés à l'article L.
-123-27 du présent code, la commune verse au propriétaire une soulte en espèces,
-fixée le cas échéant comme en matière d'expropriation, afin d'indemniser la
-perte de plus-value vénale résultant des caractéristiques desdits terrains.
-Cette soulte est recouvrée dans les conditions définies au dernier alinéa de
-l'article L. 121-24.
+viabilité mentionnés à l' article L. 322-3 du code de l'expropriation pour cause
+d'utilité publique sont attribués à la commune en vue de la réalisation des
+projets communaux ou intercommunaux visés à l'article L. 123-27 du présent code,
+la commune verse au propriétaire une soulte en espèces, fixée le cas échéant
+comme en matière d'expropriation, afin d'indemniser la perte de plus-value
+vénale résultant des caractéristiques desdits terrains. Cette soulte est
+recouvrée dans les conditions définies au dernier alinéa de l'article L. 121-24.
 
 Les dispositions du présent article ne sont pas applicables aux opérations
 d'aménagement foncier réalisées en application des dispositions des articles L.

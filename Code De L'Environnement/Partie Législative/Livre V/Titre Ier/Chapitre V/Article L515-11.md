@@ -14,7 +14,7 @@ Le préjudice est estimé à la date de la décision de première instance.
 Toutefois, est seul pris en considération l'usage possible des immeubles et
 droits immobiliers un an avant l'ouverture de l'enquête publique prévue à
 l'article L. 515-9. La qualification éventuelle de terrain à bâtir est appréciée
-conformément aux dispositions de l'article L. 13-15 du code de l'expropriation
+conformément aux dispositions de l'article L. 322-3 du code de l'expropriation
 pour cause d'utilité publique.
 
 Le juge limite ou refuse l'indemnité si une acquisition de droits sur un terrain

@@ -15,7 +15,7 @@ compris l'indemnité de réemploi, est fixé et payé comme en matière
 d'expropriation, sans qu'il soit tenu compte des dispositions qui ont justifié
 le droit de délaissement.
 
-La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour
+La date de référence prévue à l'article L. 322-2 du code de l'expropriation pour
 cause d'utilité publique est celle à laquelle est devenu opposable aux tiers le
 plus récent des actes rendant public le plan local d'urbanisme ou l'approuvant,
 le révisant ou le modifiant et délimitant la zone dans laquelle est situé le
@@ -31,7 +31,7 @@ Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités
 auxquelles peuvent prétendre les personnes mentionnées à l'article L. 230-2.
 
 Le propriétaire peut requérir l'emprise totale de son terrain dans les cas
-prévus aux articles L. 13-10 et L. 13-11 du code de l'expropriation pour cause
+prévus aux articles L. 242-1 à L. 242-5 du code de l'expropriation pour cause
 d'utilité publique.
 
 L'acquisition d'un terrain situé en emplacement réservé peut, avec l'accord de

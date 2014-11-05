@@ -9,12 +9,11 @@ maintenues ou créées.
 Lorsque des terrains visés aux articles L. 123-2 et L. 123-3 ou situés dans les
 zones urbanisées ou d'urbanisation future identifiées par les documents
 d'urbanisme visés à l'article L. 121-1 et ne bénéficiant pas des éléments de
-viabilité visés au a du 1° du II de l'article L. 13-15 du code de
-l'expropriation pour cause d'utilité publique sont attribués à la commune en vue
-de la réalisation des projets communaux ou intercommunaux visés à l'article L.
-123-27 du présent code, il peut être attribué au propriétaire une valeur
-d'échange tenant compte de la valeur vénale résultant des caractéristiques
-desdits terrains.
+viabilité mentionnés à l' article L. 322-3 du code de l'expropriation pour cause
+d'utilité publique sont attribués à la commune en vue de la réalisation des
+projets communaux ou intercommunaux visés à l'article L. 123-27 du présent code,
+il peut être attribué au propriétaire une valeur d'échange tenant compte de la
+valeur vénale résultant des caractéristiques desdits terrains.
 
 L'attribution d'une soulte en espèces, fixée le cas échéant comme en matière
 d'expropriation, peut être mise à la charge de la commune. Cette soulte est
@@ -50,9 +49,9 @@ cette aire.
 
 Tout propriétaire de parcelle ayant fait l'objet d'une certification en
 agriculture biologique conformément aux articles 27 et 28 du règlement (CE) n°
-834 / 2007 du Conseil du 28 juin 2007 relatif à la production biologique et à
-l'étiquetage des produits biologiques et abrogeant le règlement (CEE) n° 2092 /
-91 ou en cours de conversion depuis au moins un an est prioritaire pour
+834/2007 du Conseil du 28 juin 2007 relatif à la production biologique et à
+l'étiquetage des produits biologiques et abrogeant le règlement (CEE) n° 2092/91
+ou en cours de conversion depuis au moins un an est prioritaire pour
 l'attribution nouvelle d'une superficie équivalente de terrains ayant fait
 l'objet d'une même certification.
 
@@ -77,8 +76,8 @@ foncière sur décision de la commission communale.
 Le paiement d'une soulte est mis à la charge du département lorsqu'il y a lieu
 d'indemniser les propriétaires exploitants qui, en contrepartie de parcelles
 d'apport certifiées en agriculture biologique conformément aux articles 27 et 28
-du règlement (CE) n° 834 / 2007 du Conseil du 28 juin 2007 précité, reçoivent
-des parcelles en agriculture conventionnelle ou en conversion ou qui, en
+du règlement (CE) n° 834/2007 du Conseil du 28 juin 2007 précité, reçoivent des
+parcelles en agriculture conventionnelle ou en conversion ou qui, en
 contrepartie d'apport de parcelles en conversion, reçoivent des parcelles en
 agriculture conventionnelle ou à un stade de conversion différent. Les
 conditions de paiement de cette soulte sont fixées par la délibération du

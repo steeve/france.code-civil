@@ -30,8 +30,8 @@ Après exécution des travaux, les terrains de culture et la voirie sont remisen
 II. ― Les servitudes donnent droit à indemnisation des propriétaires des
 terrains et des titulaires de droits réels ou de leurs ayants droit concernés,
 par accord amiable entre le titulaire de l'autorisation et les propriétaires du
-sol ou, à défaut, conformément aux dispositions du chapitre III du code de
-l'expropriation.
+sol ou, à défaut, conformément aux dispositions en vigueur en matière
+d'expropriation pour cause d'utilité publique.
 
 Les contestations éventuelles relèvent de la juridiction compétente en matière
 d'expropriation pour cause d'utilité publique.
@@ -46,5 +46,5 @@ terrain.
 Sans préjudice de l'indemnité d'expropriation visant l'établissement des
 servitudes mentionnées au II, les conditions de mise en œuvre de l'alinéa
 précédent sont, quelle que soit la destination du terrain faisant l'objet de la
-requête, celles fixées par l'article L. 13-11 du code de l'expropriation pour
-cause d'utilité publique.
+requête, celles fixées par le chapitre II du titre IV du livre II du code de
+l'expropriation pour cause d'utilité publique.

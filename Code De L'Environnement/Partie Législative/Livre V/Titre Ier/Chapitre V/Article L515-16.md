@@ -39,12 +39,12 @@ coopération intercommunale compétents en matière d'urbanisme, dans les
 conditions prévues par le code de l'expropriation pour cause d'utilité publique,
 des immeubles et droits réels immobiliers. L'enquête publique mentionnée à
 l'article L. 515-22 du présent code vaut toutefois également enquête publique au
-titre de l'article L. 11-1 du code de l'expropriation pour cause d'utilité
+titre de l'article L. 1 du code de l'expropriation pour cause d'utilité
 publique. La déclaration d'utilité publique est prononcée par le représentant de
 l'Etat dans le département à l'issue de l'approbation du plan de prévention des
 risques technologiques.
 
-La procédure prévue par les articles L. 15-6 à L. 15-8 du code de
+La procédure prévue par les articles L. 521-1 à L. 521-8 du code de
 l'expropriation pour cause d'utilité publique est applicable lorsque la gravité
 des risques potentiels rend nécessaire la prise de possession immédiate.
 

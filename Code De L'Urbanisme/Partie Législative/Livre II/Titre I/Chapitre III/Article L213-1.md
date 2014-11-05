@@ -60,8 +60,8 @@ l'article L. 313-7 du code monétaire et financier ;
 
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en
 application des articles L. 111-10, L. 123-2, L123-17 ou L. 311-2 du présent
-code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité
-publique ;
+code ou des articles L. 241-1 et L. 241-2 du code de l'expropriation pour cause
+d'utilité publique ;
 
 f) abrogé ;
 

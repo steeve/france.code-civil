@@ -47,7 +47,7 @@ retirée. En ce qui concerne les locaux d'habitation ou professionnels, quelle
 que soit la nature du titre d'occupation, le droit au relogement est exercé
 comme en matière d'expropriation.
 
-La juridiction prévue à l'article L. 13-1 du code de l'expropriation pour cause
+La juridiction prévue à l'article L. 311-5 du code de l'expropriation pour cause
 d'utilité publique est compétente pour statuer sur les contestations relatives à
 l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations
 soulevées à l'occasion du remembrement et afférentes aux privilèges, hypothèques

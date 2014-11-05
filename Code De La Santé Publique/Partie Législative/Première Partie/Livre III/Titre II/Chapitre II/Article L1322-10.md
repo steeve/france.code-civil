@@ -11,9 +11,8 @@ au-delà du temps d'une année ou lorsque après les travaux le terrain n'est pl
 propre à l'usage auquel il était employé, le propriétaire de ce terrain peut
 exiger du propriétaire de la source l'acquisition du terrain occupé ou dénaturé.
 
-Dans ce cas, l'indemnité est réglée suivant les formes prescrites par le
-chapitre III du titre Ier du code de l'expropriation pour cause d'utilité
-publique.
+Dans ce cas, l'indemnité est fixée conformément aux dispositions en vigueur en
+matière d'expropriation pour cause d'utilité publique.
 
 Dans aucun cas, l'expropriation ne peut être provoquée par le propriétaire de la
 source.
