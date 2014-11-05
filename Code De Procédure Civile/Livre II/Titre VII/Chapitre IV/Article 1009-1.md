@@ -11,5 +11,10 @@ demandeur est dans l'impossibilité d'exécuter la décision.
 La demande du défendeur doit, à peine d'irrecevabilité prononcée d'office, être
 présentée avant l'expiration des délais prescrits aux articles 982 et 991.
 
+La demande de radiation interrompt les délais impartis au défendeur par les
+articles 982, 991 et 1010.
+
 La décision de radiation n'emporte pas suspension des délais impartis au
 demandeur au pourvoi par les articles 978 et 989.
+
+Elle interdit l'examen des pourvois principaux et incidents.

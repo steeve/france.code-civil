@@ -1,8 +1,7 @@
 Article 524
 ----
 Lorsque l'exécution provisoire a été ordonnée, elle ne peut être arrêtée, en cas
-d'appel, que par le premier président statuant en référé et dans les cas
-suivants :
+d'appel, que par le premier président et dans les cas suivants :
 
 1° Si elle est interdite par la loi ;
 

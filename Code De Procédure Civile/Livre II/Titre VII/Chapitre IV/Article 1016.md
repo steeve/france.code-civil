@@ -7,4 +7,5 @@ publicité une atteinte à l'intimité de la vie privée, ou si toutes les parti
 le demandent, ou s'il survient des désordres de nature à troubler la sérénité de
 la justice.
 
-Les arrêts sont prononcés publiquement.
+Les arrêts sont prononcés publiquement notamment par mise à disposition au
+greffe.
