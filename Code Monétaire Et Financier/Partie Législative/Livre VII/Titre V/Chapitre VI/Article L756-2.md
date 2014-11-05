@@ -1,9 +1,9 @@
 Article L756-2
 ----
 I.-Dans les conditions prévues aux II et III, le chapitre II du titre Ier du
-livre VI est applicable en Polynésie française, à l'exception du III et du IV de
-l'article L. 612-1, de l'article L. 612-22, du II de l'article L. 612-23-1 et de
-l'article L. 612-29.
+livre VI est applicable en Polynésie française, à l'exception du III, des
+deuxième à quatrième alinéas du IV, du V et du VI de l'article L. 612-1, de
+l'article L. 612-22, du II de l'article L. 612-23-1 et de l'article L. 612-29.
 
 II.-1° L'Autorité de contrôle prudentiel et de résolution contrôle les personnes
 énumérées au B du I de l'article L. 612-2 et aux 1° et 2° du II du même article

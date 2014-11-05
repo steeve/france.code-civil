@@ -5,14 +5,15 @@ l'article 2 du règlement (UE) n° 648/2012 du Parlement européen et du Conseil
 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties
 centrales et les référentiels centraux.
 
-Elles sont agréées en tant qu'établissement de crédit par l'Autorité de contrôle
-prudentiel et de résolution, après consultation de l'Autorité des marchés
-financiers et de la Banque de France.
+Elles sont agréées en tant qu'établissement de crédit par la Banque centrale
+européenne, sur proposition de l'Autorité de contrôle prudentiel et de
+résolution après consultation de l'Autorité des marchés financiers et de la
+Banque de France.
 
 Toute modification des éléments constitutifs de leur agrément est soumise à
-l'autorisation préalable de l'Autorité de contrôle prudentiel et de résolution,
-après consultation de l'Autorité des marchés financiers et de la Banque de
-France.
+l'autorisation préalable de la Banque centrale européenne, sur proposition de
+l'Autorité de contrôle prudentiel et de résolution après consultation de
+l'Autorité des marchés financiers et de la Banque de France.
 
 Lorsque l'Autorité de contrôle prudentiel et de résolution reçoit les
 informations prévues à l'article 31 du règlement (UE) n° 648/2012 du Parlement

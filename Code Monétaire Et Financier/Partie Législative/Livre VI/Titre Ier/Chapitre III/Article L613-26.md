@@ -7,8 +7,9 @@ immédiatement ou à terme rapproché.
 
 La procédure de liquidation judiciaire peut être ouverte à l'égard des
 établissements de crédit ou des sociétés de financement qui ont fait l'objet
-d'une mesure de radiation prononcée par l'Autorité de contrôle prudentiel et de
-résolution et dont le passif, dont ils sont tenus envers les tiers, à
-l'exception des dettes qui ne sont remboursables qu'après désintéressement
-complet des créanciers chirographaires, est effectivement supérieur à l'actif
-diminué des provisions devant être constituées.
+d'une mesure de radiation ou d'interdiction totale d'activité, selon les cas,
+prononcée par l'Autorité de contrôle prudentiel et de résolution et dont le
+passif, dont ils sont tenus envers les tiers, à l'exception des dettes qui ne
+sont remboursables qu'après désintéressement complet des créanciers
+chirographaires, est effectivement supérieur à l'actif diminué des provisions
+devant être constituées.

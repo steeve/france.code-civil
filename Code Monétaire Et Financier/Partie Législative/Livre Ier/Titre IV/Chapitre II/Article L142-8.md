@@ -13,7 +13,8 @@ Banque, toute convention.
 Il nomme à tous les emplois de la Banque, sous réserve des dispositions de
 l'article L. 142-3. Il adopte les mesures nécessaires pour transposer et mettre
 en œuvre les orientations, décisions et tout autre acte juridique de la Banque
-centrale européenne.
+centrale européenne pris dans le cadre des missions du Système européen de
+banques centrales.
 
 Le gouverneur est assisté d'un premier et d'un second sous-gouverneurs. Les
 sous-gouverneurs exercent les fonctions qui leur sont déléguées par le

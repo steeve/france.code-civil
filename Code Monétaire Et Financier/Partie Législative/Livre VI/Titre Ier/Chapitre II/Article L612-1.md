@@ -1,6 +1,6 @@
 Article L612-1
 ----
-I. - L'Autorité de contrôle prudentiel et de résolution, autorité administrative
+I.-L'Autorité de contrôle prudentiel et de résolution, autorité administrative
 indépendante, veille à la préservation de la stabilité du système financier et à
 la protection des clients, assurés, adhérents et bénéficiaires des personnes
 soumises à son contrôle.
@@ -13,7 +13,7 @@ du code de la mutualité, du livre III du code de la consommation, des codes de
 conduite homologués ainsi que de toute autre disposition législative et
 réglementaire dont la méconnaissance entraîne celle des dispositions précitées.
 
-II. - Elle est chargée :
+II.-Elle est chargée :
 
 1° D'examiner les demandes d'autorisations ou de dérogations individuelles qui
 lui sont adressées et de prendre les décisions prévues par les dispositions
@@ -68,24 +68,49 @@ relatives aux modalités d'exercice de leur activité par elles-mêmes ou par
 l'intermédiaire de filiales et aux opérations d'acquisition et de prise de
 participation.
 
-Pour l'accomplissement de ses missions, l'Autorité de contrôle prudentiel et de
-résolution dispose, à l'égard des personnes mentionnées à l'article L. 612-2,
+III.-Dans l'accomplissement de ses missions, l'Autorité de contrôle prudentiel
+et de résolution prend en compte les objectifs de stabilité financière dans
+l'ensemble de l'Espace économique européen et de mise en œuvre convergente des
+dispositions nationales et de l'Union européenne en tenant compte des bonnes
+pratiques et recommandations issues des dispositifs de supervision de l'Union
+européenne. Elle coopère avec les autorités compétentes des autres Etats. En
+particulier, au sein de l'Espace économique européen, elle apporte son concours
+aux structures de supervision des groupes transfrontaliers.
+
+IV.-Pour l'accomplissement de ses missions, l'Autorité de contrôle prudentiel et
+de résolution dispose, à l'égard des personnes mentionnées à l'article L. 612-2,
 d'un pouvoir de contrôle, du pouvoir de prendre des mesures de police
 administrative et d'un pouvoir de sanction. Elle peut en outre porter à la
 connaissance du public toute information qu'elle estime nécessaire à
 l'accomplissement de ses missions, sans que lui soit opposable le secret
 professionnel mentionné à l'article L. 612-17.
 
-III. - Dans l'accomplissement de ses missions, l'Autorité de contrôle prudentiel
-et de résolution prend en compte les objectifs de stabilité financière dans
-l'ensemble de l'Espace économique européen et de mise en œuvre convergente des
-dispositions nationales et communautaires en tenant compte des bonnes pratiques
-et recommandations issues des dispositifs de supervision communautaires. Elle
-coopère avec les autorités compétentes des autres Etats. En particulier, au sein
-de l'Espace économique européen, elle apporte son concours aux structures de
-supervision des groupes transfrontaliers.
+En ce qui concerne les établissements de crédit, les compagnies financières
+holding et les compagnies financières holding mixtes, l'Autorité de contrôle
+prudentiel et de résolution exerce ses pouvoirs d'autorisation et de
+surveillance prudentielle prévus par les dispositions du titre Ier du livre V et
+par le présent livre sans préjudice des compétences confiées à la Banque
+centrale européenne par le règlement (UE) du Conseil n° 1024/2013 du 15 octobre
+2013.
 
-IV. - Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968
+Pour la mise en œuvre du mécanisme de surveillance unique institué par le
+règlement mentionné ci-dessus, l'Autorité de contrôle prudentiel et de
+résolution est l'autorité compétente nationale pour la France. A ce titre, elle
+assiste la Banque centrale européenne dans l'exercice des missions de
+surveillance prudentielle qui lui sont confiées par ce règlement.
+
+Lorsqu'en application du troisième alinéa du paragraphe 1 de l'article 9 du même
+règlement elle a reçu des instructions en ce sens de la Banque centrale
+européenne pour l'accomplissement des missions de cette dernière, l'Autorité de
+contrôle prudentiel et de résolution fait usage des pouvoirs de contrôle et de
+surveillance prudentielle qu'elle tient du présent code.
+
+V.-Le collège de supervision ou, selon les cas, le secrétaire général adopte les
+mesures nécessaires pour mettre en œuvre les orientations, instructions,
+décisions et tout autre acte juridique de la Banque centrale européenne pris
+dans le cadre du règlement (UE) du Conseil n° 1024/2013 du 15 octobre 2013.
+
+VI.-Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968
 relative à la communication de documents et renseignements d'ordre économique,
 commercial, industriel, financier ou technique à des personnes physiques ou
 morales étrangères, l'Autorité de contrôle prudentiel et de résolution peut,

@@ -25,6 +25,21 @@ agréées, avec ou sans nomination d'un liquidateur.
 
 La sanction mentionnée au 3° ne peut, dans sa durée, excéder dix ans.
 
+Pour les établissements de crédit, la sanction prévue au 4° ne peut être
+prononcée que pour les activités ne relevant pas de l'agrément délivré par la
+Banque centrale européenne. Pour ces mêmes établissements, et pour les activités
+qui entrent dans le champ de l'agrément délivré par la Banque centrale
+européenne, les sanctions prévues au 4° et au 5° prennent la forme
+respectivement d'une interdiction partielle ou totale d'activité prononcée à
+titre conservatoire.
+
+Lorsque la commission des sanctions prononce l'interdiction totale d'activité
+d'un établissement de crédit, l'Autorité de contrôle prudentiel et de résolution
+propose à la Banque centrale européenne de prononcer le retrait de l'agrément.
+Dans le cas où la Banque centrale européenne ne prononce pas le retrait
+d'agrément, la commission des sanctions peut délibérer à nouveau et infliger une
+autre sanction parmi celles prévues au présent article.
+
 II. - Si une compagnie financière holding, une compagnie financière holding
 mixte ou une entreprise mère de société de financement a enfreint une
 disposition du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du

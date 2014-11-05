@@ -9,10 +9,10 @@ personnes morales, mettre à la disposition de ces personnes des moyens de
 paiement et réaliser avec elles des opérations connexes au sens de l'article L.
 311-2.
 
-II.-Elles exercent leur activité après avoir obtenu l'agrément de l'Autorité de
-contrôle prudentiel et de résolution. Cet agrément peut prévoir, en fonction des
-capacités techniques et financières de la caisse, que celle-ci est, en outre,
-habilitée à exercer les activités suivantes ou l'une d'entre elles :
+II.-Elles exercent leur activité après avoir obtenu l'agrément de la Banque
+centrale européenne. Cet agrément peut prévoir, en fonction des capacités
+techniques et financières de la caisse, que celle-ci est, en outre, habilitée à
+exercer les activités suivantes ou l'une d'entre elles :
 
 1. L'octroi de crédits aux personnes physiques ;
 
@@ -29,13 +29,15 @@ sont habilitées à exercer.
 Les caisses de crédit municipal peuvent librement céder les biens, droits et
 obligations correspondant aux activités autres que le prêt sur gages.
 
-Elles peuvent aussi apporter ces biens, droits et obligations à des sociétés
-anonymes régies par le livre II du code de commerce, créées à cet effet, dont
-l'objet est limité aux activités, autres que le prêt sur gages, que peuvent
-effectuer les caisses de crédit municipal. Elles participent au capital de ces
-sociétés à concurrence de leurs apports. Lesdites sociétés sont agréées par
-l'Autorité de contrôle prudentiel et de résolution dans les mêmes conditions et
-limites que celles qui sont prévues aux quatre premiers alinéas.
+III.-Les caisses de crédit municipal peuvent aussi apporter ces biens, droits et
+obligations à des sociétés anonymes régies par le livre II du code de commerce,
+créées à cet effet, dont l'objet est limité aux activités, autres que le prêt
+sur gages, que peuvent effectuer les caisses de crédit municipal. Elles
+participent au capital de ces sociétés à concurrence de leurs apports. Ces
+sociétés sont agréées par la Banque centrale européenne, si leur activité relève
+du statut d'établissement de crédit, ou par l'Autorité de contrôle prudentiel et
+de résolution, dans les autres cas. Leur agrément est soumis aux limitations
+prévues au I et aux trois premiers alinéas du II.
 
 Les participations détenues par les caisses de crédit municipal sont cessibles.
 En vue de leur transmission universelle, les apports mentionnés à l'alinéa

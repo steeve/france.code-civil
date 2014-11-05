@@ -5,8 +5,11 @@ prudentiel et de résolution dès que celle-ci constate que l'un des
 établissements mentionnés à l'article L. 312-4 n'est plus en mesure de
 restituer, immédiatement ou à terme rapproché, les fonds qu'il a reçus du public
 dans les conditions législatives, réglementaires ou contractuelles applicables à
-leur restitution. L'intervention du fonds de garantie entraîne alors la
-radiation de cet établissement de la liste des établissements de crédit agréés.
+leur restitution. L'intervention du fonds de garantie entraîne la radiation ou
+le retrait d'agrément de cet établissement. Dans les cas où l'établissement est
+un établissement de crédit, l'Autorité de contrôle prudentiel et de résolution
+demande à la Banque centrale européenne de prononcer le retrait total
+d'agrément.
 
 II.-A titre préventif, sur proposition de l'Autorité de contrôle prudentiel et
 de résolution, le fonds de garantie peut également intervenir auprès d'un

@@ -26,5 +26,4 @@ Un arrêté du ministre chargé de l'économie précise les règles n'ayant pas 
 l'objet de coordination entre les Etats membres et présentant un caractère
 d'intérêt général applicables aux établissements mentionnés aux articles L.
 511-22 et L. 511-23 et à leurs succursales établies en France, ainsi que les
-conditions dans lesquelles l'Autorité de contrôle prudentiel et de résolution
-les notifie à ces établissements.
+conditions dans lesquelles ces règles sont notifiées à ces établissements.

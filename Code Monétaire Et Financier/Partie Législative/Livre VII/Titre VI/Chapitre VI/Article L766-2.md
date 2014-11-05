@@ -1,8 +1,9 @@
 Article L766-2
 ----
 I.-Le chapitre II du titre Ier du livre VI est applicable dans les îles Wallis
-et Futuna, à l'exception du III et du IV de l'article L. 612-1, de l'article L.
-612-22, du II de l'article L. 612-23-1 et de l'article L. 612-29.
+et Futuna, à l'exception du III, des deuxième à quatrième alinéas du IV, du V et
+du VI de l'article L. 612-1, de l'article L. 612-22, du II de l'article L.
+612-23-1 et de l'article L. 612-29.
 
 II.-L'article L. 641-1 y est également applicable.
 

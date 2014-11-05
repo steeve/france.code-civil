@@ -1,8 +1,12 @@
 Article L511-10
 ----
 Avant d'exercer leur activité, les établissements de crédit et les sociétés de
-financement doivent obtenir l'agrément délivré par l'Autorité de contrôle
-prudentiel et de résolution conformément au 1° du II de l'article L. 612-1.
+financement doivent obtenir un agrément. En application des articles 4 et 14 du
+règlement (UE) n° 1024/2013 du Conseil du 15 octobre 2013, l'agrément
+d'établissement de crédit est délivré par la Banque centrale européenne, sur
+proposition de l'Autorité de contrôle prudentiel et de résolution. L'agrément de
+société de financement est délivré par l'Autorité de contrôle prudentiel et de
+résolution en application du 1° du II de l'article L. 612-1.
 
 L'Autorité de contrôle prudentiel et de résolution vérifie si l'entreprise
 satisfait aux obligations prévues aux articles L. 511-11, L. 511-13, L. 515-1-1
@@ -19,22 +23,25 @@ ses objectifs de développement dans des conditions compatibles avec le bon
 fonctionnement du système bancaire et qui assurent à la clientèle une sécurité
 satisfaisante.
 
-Pour fixer les conditions de son agrément, l'Autorité de contrôle prudentiel et
-de résolution peut prendre en compte la spécificité de certains établissements
-de crédit ou sociétés de financement appartenant au secteur de l'économie
-sociale et solidaire. Elle apprécie notamment l'intérêt de leur action au regard
-des missions d'intérêt général relevant de la lutte contre les exclusions ou de
-la reconnaissance effective d'un droit au crédit.
+Pour fixer les conditions de l'agrément, l'Autorité de contrôle prudentiel et de
+résolution peut prendre en compte la spécificité de certains établissements de
+crédit ou sociétés de financement appartenant au secteur de l'économie sociale
+et solidaire. Elle apprécie notamment l'intérêt de leur action au regard des
+missions d'intérêt général relevant de la lutte contre les exclusions ou de la
+reconnaissance effective d'un droit au crédit.
 
-L'Autorité peut limiter l'agrément qu'elle délivre à l'exercice de certaines
-opérations définies par l'objet social du demandeur.
+L'Autorité peut, selon les cas, limiter ou proposer à la Banque centrale
+européenne de limiter l'agrément à l'exercice de certaines opérations définies
+par l'objet social du demandeur.
 
-L'Autorité peut assortir l'agrément délivré de conditions particulières visant à
-préserver l'équilibre de la structure financière de l'entreprise et le bon
-fonctionnement du système bancaire en tenant compte, le cas échéant, des
-objectifs de la surveillance complémentaire prévue par le chapitre VII du titre
-Ier du livre V du présent code. Elle peut aussi subordonner l'octroi de
-l'agrément au respect d'engagements souscrits par l'entreprise requérante.
+L'Autorité peut, selon les cas, assortir ou proposer à la Banque centrale
+européenne d'assortir l'agrément de conditions particulières visant à préserver
+l'équilibre de la structure financière de l'entreprise et le bon fonctionnement
+du système bancaire en tenant compte, le cas échéant, des objectifs de la
+surveillance complémentaire prévue par le chapitre VII du titre Ier du livre V
+du présent code. Elle peut aussi subordonner ou proposer à la Banque centrale
+européenne de subordonner l'octroi de l'agrément au respect d'engagements
+souscrits par l'entreprise requérante.
 
 L'Autorité refuse l'agrément lorsque l'exercice de la mission de surveillance de
 l'entreprise requérante est susceptible d'être entravé soit par l'existence de

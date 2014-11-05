@@ -4,9 +4,13 @@ I.-Les modifications dans la répartition du capital d'un établissement de cré
 ou d'une société de financement doivent être notifiées à l'Autorité de contrôle
 prudentiel et de résolution.
 
-Les prises ou extensions de participations, directes ou indirectes, dans un
-établissement de crédit ou une société de financement doivent être autorisées
-par l'Autorité de contrôle prudentiel et de résolution.
+En application des articles 4 et 15 du règlement (UE) n° 1024/2013 du Conseil du
+15 octobre 2013, les prises ou extensions de participations, directes ou
+indirectes, dans un établissement de crédit font l'objet, sur proposition de
+l'Autorité de contrôle prudentiel et de résolution, d'une décision d'opposition
+ou de non-opposition de la Banque centrale européenne. Les prises ou extensions
+de participations, directes ou indirectes, dans une société de financement
+doivent être autorisées par l'Autorité de contrôle prudentiel et de résolution.
 
 Lorsqu'une diminution ou cession de participation, directe ou indirecte, lui est
 notifiée, l'Autorité de contrôle prudentiel vérifie que cette opération ne remet
@@ -26,20 +30,25 @@ mentionnées au deuxième alinéa.
 Les modalités des procédures mentionnées au présent I sont précisées par
 l'arrêté prévu à l'article L. 611-1. Cet arrêté prévoit en particulier les
 conditions dans lesquelles les modifications dans la répartition du capital d'un
-établissement de crédit ou d'une société de financement doivent être notifiées
-ou autorisées par l'Autorité de contrôle prudentiel et de résolution, les délais
-impartis à l'Autorité pour se prononcer, les modalités suivant lesquelles les
-intéressés sont informés de la décision de l'Autorité ou peuvent se prévaloir
-d'une décision implicite, les conditions dans lesquelles l'Autorité peut fixer
-un délai maximal pour la conclusion de l'acquisition envisagée, ainsi que les
-informations qui doivent être transmises à l'Autorité, notamment sur l'identité
-et le montant de la participation des actionnaires ou associés.
+établissement de crédit ou d'une société de financement doivent être notifiées à
+l'Autorité de contrôle prudentiel et de résolution.
+
+Le même arrêté précise les conditions dans lesquelles, s'agissant des sociétés
+de financement, ces modifications doivent être autorisées par l'Autorité de
+contrôle prudentiel et de résolution, les délais impartis à l'Autorité pour se
+prononcer, les modalités suivant lesquelles les intéressés sont informés de la
+décision de l'Autorité ou peuvent se prévaloir d'une décision implicite, les
+conditions dans lesquelles l'Autorité peut fixer un délai maximal pour la
+conclusion de l'acquisition envisagée ainsi que les informations qui doivent
+être transmises à l'Autorité, notamment sur l'identité et le montant de la
+participation des actionnaires ou associés.
 
 II.-Toute autre modification des conditions auxquelles était subordonné
 l'agrément délivré à un établissement de crédit ou à une société de financement
 doit faire l'objet, selon les cas, d'une autorisation préalable de l'Autorité de
-contrôle prudentiel et de résolution, d'une déclaration ou d'une notification,
-dans les conditions fixées par un arrêté du ministre chargé de l'économie.
+contrôle prudentiel et de résolution ou de la Banque centrale européenne, d'une
+déclaration ou d'une notification, dans les conditions fixées par un arrêté du
+ministre chargé de l'économie.
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être
 assortie de conditions particulières répondant aux finalités mentionnées au
