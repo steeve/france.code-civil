@@ -13,3 +13,9 @@ département.
 
 Le produit de la part départementale de la taxe a le caractère d'une recette de
 fonctionnement.
+
+La métropole de Lyon est substituée au département du Rhône pour l'application
+des trois alinéas précédents aux autorisations d'urbanisme délivrées à compter
+du 1er janvier 2017 dans le périmètre de la métropole de Lyon. Les produits
+perçus à ce titre reviennent à la métropole de Lyon, en sus de ceux qui lui
+échoient en vertu du 3° de l'article L. 331-2.

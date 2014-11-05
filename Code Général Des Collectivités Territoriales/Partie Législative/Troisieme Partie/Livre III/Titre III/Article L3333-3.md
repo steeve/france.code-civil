@@ -62,3 +62,7 @@ deuxième jour ouvré suivant le 15 octobre 2011.
 En cas de changement du tarif de la taxe au cours d'une période de facturation,
 les quantités d'électricité concernées sont réparties en fonction des tarifs
 proportionnellement au nombre de jours de chaque période.
+
+4. La métropole de Lyon applique aux montants mentionnés aux 1 et 2 un
+coefficient multiplicateur unique compris entre 2 et 4 dans les mêmes conditions
+que celles prévues au 3.

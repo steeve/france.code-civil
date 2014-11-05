@@ -15,3 +15,6 @@ ceux-ci.
 En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les
 contributions mentionnées au b du 1°, aux b et d du 2° et au 3° de l'article L.
 332-6-1 ne sont plus applicables dans ce ou ces secteurs.
+
+Les dispositions du présent article s'appliquent à la métropole de Lyon sur la
+part de taxe d'aménagement prévue au 3° de l'article L. 331-2.

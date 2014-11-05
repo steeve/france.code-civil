@@ -1,8 +1,8 @@
 Article L2333-55-1
 ----
 Les prélèvements opérés par l'Etat, les communes, les établissements publics de
-coopération intercommunale et les organismes sociaux sur les jeux exploités par
-les casinos sont effectués sur le produit brut des jeux.
+coopération intercommunale, la métropole de Lyon et les organismes sociaux sur
+les jeux exploités par les casinos sont effectués sur le produit brut des jeux.
 
 Le produit brut des jeux est constitué :
 
@@ -28,8 +28,8 @@ assiette constituée, selon le type de jeu, par les mises des joueurs, leurs
 gains, ou les sommes engagées par eux pour participer au jeu ;
 
 4° Pour les jeux pratiqués avec des appareils définis à l'article L. 324-2 du
-code de la sécurité intérieure, qui procurent un gain en numéraire, dits
-"machines à sous ” , par le produit d'un coefficient de 85 % appliqué au montant
+code de la sécurité intérieure, qui procurent un gain en numéraire, dits "
+machines à sous ”, par le produit d'un coefficient de 85 % appliqué au montant
 de la comptée afférente à l'appareil, diminué des avances faites, des tickets
 émis par la machine, des gains payés par la caisse spéciale et du montant des
 gains non réclamés ;

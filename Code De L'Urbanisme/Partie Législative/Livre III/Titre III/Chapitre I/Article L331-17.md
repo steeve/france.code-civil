@@ -14,3 +14,7 @@ Le taux de la part départementale de la taxe ne peut excéder 2,5 %.
 La délibération est valable pour une période d'un an. Elle est reconduite de
 plein droit pour l'année suivante si une nouvelle délibération n'a pas été
 adoptée dans le délai prévu au premier alinéa.
+
+Les dispositions du présent article s'appliquent, à compter du 1er janvier 2016,
+à la métropole de Lyon pour la part de taxe d'aménagement prévue à l'article L.
+331-3.

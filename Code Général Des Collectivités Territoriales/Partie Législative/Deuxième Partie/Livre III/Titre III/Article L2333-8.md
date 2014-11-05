@@ -1,9 +1,10 @@
 Article L2333-8
 ----
-Les communes et les établissements publics de coopération intercommunale
-peuvent, par délibération prise avant le 1er juillet de l'année précédant celle
-de l'imposition et portant sur une ou plusieurs de ces catégories, exonérer
-totalement ou faire bénéficier d'une réfaction de 50 % :
+Les communes, les établissements publics de coopération intercommunale à
+fiscalité propre et la métropole de Lyon peuvent, par délibération prise avant
+le 1er juillet de l'année précédant celle de l'imposition et portant sur une ou
+plusieurs de ces catégories, exonérer totalement ou faire bénéficier d'une
+réfaction de 50 % :
 
 - les enseignes, autres que celles scellées au sol, si la somme de leurs
 superficies est inférieure ou égale à 12 mètres carrés ;

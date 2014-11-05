@@ -3,15 +3,15 @@ Article L331-36
 En vue de financer les actions et opérations contribuant à la réalisation des
 objectifs définis à l'article L. 121-1, les communes et établissements publics
 de coopération intercommunale compétents en matière de plan local d'urbanisme ou
-de plan d'occupation des sols peuvent instituer, par délibération, un seuil
-minimal de densité en deçà duquel un versement pour sous-densité est dû par les
-personnes mentionnées à l'article L. 331-39.
+de plan d'occupation des sols ainsi que la métropole de Lyon peuvent instituer,
+par délibération, un seuil minimal de densité en deçà duquel un versement pour
+sous-densité est dû par les personnes mentionnées à l'article L. 331-39.
 
 Le seuil minimal de densité est déterminé par secteurs du territoire de la
-commune ou de l'établissement public de coopération intercommunale, dans les
-zones urbaines et à urbaniser, définis sur un document graphique figurant, à
-titre d'information, dans une annexe au plan local d'urbanisme ou au plan
-d'occupation des sols.
+commune, de l'établissement public de coopération intercommunale ou de la
+métropole de Lyon, dans les zones urbaines et à urbaniser, définis sur un
+document graphique figurant, à titre d'information, dans une annexe au plan
+local d'urbanisme ou au plan d'occupation des sols.
 
 Le seuil minimal de densité est fixé pour une durée minimale de trois ans à
 compter de la date d'entrée en vigueur de la délibération l'ayant institué.

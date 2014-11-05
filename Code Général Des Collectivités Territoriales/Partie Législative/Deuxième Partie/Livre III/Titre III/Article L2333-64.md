@@ -12,9 +12,12 @@ commun lorsqu'elles emploient plus de neuf salariés :
 classées communes touristiques au sens de l'article L. 133-11 du code du
 tourisme ;
 
-2° Ou dans le ressort d'un établissement public de coopération intercommunale
+2° Dans le ressort d'un établissement public de coopération intercommunale
 compétent pour l'organisation des transports urbains, lorsque la population de
 l'ensemble des communes membres de l'établissement atteint le seuil indiqué.
+
+3° Dans le ressort d'une métropole ou de la métropole de Lyon, sous réserve des
+dispositions prévues à l'article L. 5722-7-1.
 
 Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou
 dépassent l'effectif de dix salariés sont dispensés pendant trois ans du

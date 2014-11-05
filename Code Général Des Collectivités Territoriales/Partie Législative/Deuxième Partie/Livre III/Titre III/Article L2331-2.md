@@ -33,10 +33,10 @@ l'énergie hydroélectrique ;
 
 8° Le produit des expéditions des actes administratifs ;
 
-9° Le produit du fonds de péréquation départemental prévu à l'article 1595 bis
-du code général des impôts, alimenté par la taxe additionnelle aux droits
-d'enregistrement ou à la taxe de publicité foncière exigible sur les mutations à
-titre onéreux ;
+9° Le produit du fonds de péréquation départemental ou métropolitain prévu à
+l'article 1595 bis du code général des impôts, alimenté par la taxe
+additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière
+exigible sur les mutations à titre onéreux ;
 
 10° Généralement, le produit des contributions et droits dont la perception est
 autorisée par les lois dans l'intérêt des communes ;

@@ -11,8 +11,11 @@ espaces naturels, le conseil municipal peut instituer, pour chaque nature
 d'hébergement à titre onéreux, soit une taxe de séjour perçue dans les
 conditions prévues aux articles L. 2333-30 à L. 2333-40 et L. 2564-1, soit une
 taxe de séjour forfaitaire perçue dans les conditions prévues aux articles L.
-2333-41 à L. 2333-46. Les natures d'hébergement sont fixées par décret en
-Conseil d'Etat.
+2333-41 à L. 2333-46 , sous réserve des dispositions de l'article L. 5211-21.
+Les natures d'hébergement sont fixées par décret en Conseil d'Etat.
 
 Les délibérations prises en application du premier alinéa précisent les natures
-d'hébergement auxquelles s'appliquent les taxes.
+d'hébergement auxquelles s'appliquent les taxes. Il en va de même lorsque les
+délibérations sont prises par l'organe délibérant d'un établissement public de
+coopération intercommunale à fiscalité propre ou par le conseil de la métropole
+de Lyon, en application des dispositions de l'article L. 5211-21.

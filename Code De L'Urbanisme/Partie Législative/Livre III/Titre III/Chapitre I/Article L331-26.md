@@ -21,3 +21,6 @@ peut recouvrer ce titre par voie de compensation avec le produit de la taxe
 qu'il répartit par ailleurs ou par voie de prélèvement sur les avances prévues
 par le chapitre VII du titre III du livre III de la deuxième partie du code
 général des collectivités territoriales.
+
+Il en est de même lorsque la taxe qui fait l'objet d'un titre d'annulation a été
+acquittée par le redevable en tout ou partie et reversée à la métropole de Lyon.

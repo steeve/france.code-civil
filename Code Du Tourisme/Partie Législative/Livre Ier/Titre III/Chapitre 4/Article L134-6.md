@@ -10,7 +10,8 @@ Le budget de l'office de tourisme comprend en recettes notamment le produit :
 
 4° De la taxe de séjour ou de la taxe de séjour forfaitaire définies à l'article
 L. 2333-26 du code général des collectivités territoriales, si elle est perçue
-sur le territoire du groupement de communes ;
+sur le territoire du groupement de communes ou dans le périmètre d'une métropole
+ou de la métropole de Lyon ;
 
 5° De la partie du produit de la taxe sur les entreprises exploitant des engins
 de remontée mécanique qui n'a pas été affectée aux dépenses mentionnées aux 1°,

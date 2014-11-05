@@ -22,3 +22,6 @@ adoptée dans le délai prévu au premier alinéa.
 En l'absence de toute délibération fixant le taux de la taxe, ce dernier est
 fixé à 1 % dans les communes ou les établissements publics de coopération
 intercommunale où la taxe est instituée de plein droit.
+
+Les dispositions du présent article s'appliquent à la métropole de Lyon sur la
+part de taxe d'aménagement prévue au 3° de l'article L. 331-2.

@@ -15,3 +15,8 @@ III. ― Lorsque l'électricité est livrée à des points de livraison situés 
 plusieurs départements et fait l'objet d'une facturation globale, le produit de
 la taxe est réparti entre les collectivités au prorata de la consommation
 afférente à chaque point de livraison.
+
+Il est procédé à la répartition entre bénéficiaires dans des conditions
+identiques lorsque l'électricité est livrée à des points de livraison situés
+dans un ou plusieurs départements et dans le périmètre de la métropole de Lyon
+et fait l'objet d'une facturation globale.

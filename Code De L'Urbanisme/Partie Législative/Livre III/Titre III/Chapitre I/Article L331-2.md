@@ -8,8 +8,9 @@ dans les conditions prévues au neuvième alinéa ;
 
 2° Par délibération du conseil municipal dans les autres communes ;
 
-3° De plein droit dans les communautés urbaines, sauf renonciation expresse
-décidée par délibération dans les conditions prévues au neuvième alinéa ;
+3° De plein droit dans les communautés urbaines et la métropole de Lyon, sauf
+renonciation expresse décidée par délibération dans les conditions prévues au
+neuvième alinéa ;
 
 4° Par délibération de l'organe délibérant dans les autres établissements
 publics de coopération intercommunale compétents en matière de plan local
@@ -19,7 +20,7 @@ général des collectivités territoriales.
 
 La taxe mentionnée aux 1° à 4° est instituée sur l'ensemble du territoire de la
 commune ou dans l'ensemble des communes membres de l'établissement public de
-coopération intercommunale.
+coopération intercommunale ou situées dans le périmètre de la métropole de Lyon.
 
 Dans les cas mentionnés aux 1° et 2°, tout ou partie de la taxe perçue par la
 commune peut être reversé à l'établissement public de coopération intercommunale
@@ -31,14 +32,18 @@ coopération intercommunale ou du groupement de collectivités.
 
 Dans les cas mentionnés aux 3° et 4°, une délibération de l'organe délibérant
 prévoit les conditions de reversement de tout ou partie de la taxe perçue par
-l'établissement public de coopération intercommunale à ses communes membres ou
-groupements de collectivités compte tenu de la charge des équipements publics
-relevant de leurs compétences.
+l'établissement public de coopération intercommunale ou la métropole de Lyon à
+ses communes membres ou groupements de collectivités compte tenu de la charge
+des équipements publics relevant de leurs compétences.
 
-Les délibérations par lesquelles le conseil municipal ou l'organe délibérant de
-l'établissement public de coopération intercommunale institue la taxe, renonce à
-la percevoir ou la supprime sont valables pour une durée minimale de trois ans à
-compter de leur entrée en vigueur.
+Les délibérations par lesquelles le conseil municipal, le conseil de la
+métropole de Lyon ou l'organe délibérant de l'établissement public de
+coopération intercommunale institue la taxe, renonce à la percevoir ou la
+supprime sont valables pour une durée minimale de trois ans à compter de leur
+entrée en vigueur.
 
 Le produit de la taxe est affecté en section d'investissement du budget des
-communes ou des établissements publics de coopération intercommunale.
+communes ou des établissements publics de coopération intercommunale. A
+l'exclusion de la fraction prévue au dernier alinéa de l'article L. 331-3, le
+produit de la taxe est affecté en section d'investissement du budget principal
+de la métropole de Lyon.

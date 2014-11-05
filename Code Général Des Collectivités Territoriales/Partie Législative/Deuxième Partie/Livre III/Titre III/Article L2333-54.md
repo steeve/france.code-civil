@@ -27,5 +27,6 @@ l'Etat est réduit de telle façon que le total des deux prélèvements soit de 
 %.
 
 Les communes peuvent, par convention, reverser tout ou partie du prélèvement au
-groupement de communes ou au syndicat mixte dont elles sont membres lorsqu'il
-réalise des actions de promotion en faveur du tourisme.
+groupement de communes, à une métropole, à la métropole de Lyon ou au syndicat
+mixte dont elles sont membres lorsqu'il réalise des actions de promotion en
+faveur du tourisme.

@@ -1,8 +1,8 @@
 Article L3333-2
 ----
-I.-Il est institué, au profit des départements, une taxe départementale sur la
-consommation finale d'électricité relevant du code NC 2716 de la nomenclature
-douanière.
+I.-Il est institué, au profit des départements et de la métropole de Lyon, une
+taxe départementale sur la consommation finale d'électricité relevant du code NC
+2716 de la nomenclature douanière.
 
 II.-Le fait générateur de la taxe intervient lors de la livraison de
 l'électricité par un fournisseur à chaque point de livraison, situé en France,

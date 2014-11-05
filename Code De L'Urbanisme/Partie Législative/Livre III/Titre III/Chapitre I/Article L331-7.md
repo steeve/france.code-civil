@@ -55,3 +55,6 @@ en réparation des dommages occasionnés à l'immeuble ne comprennent pas le
 montant de la taxe d'aménagement normalement exigible sur les reconstructions ;
 
 9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés.
+
+Ces exonérations s'appliquent à la part de taxe d'aménagement perçue par la
+métropole de Lyon en vertu du 3° de l'article L. 331-2.
