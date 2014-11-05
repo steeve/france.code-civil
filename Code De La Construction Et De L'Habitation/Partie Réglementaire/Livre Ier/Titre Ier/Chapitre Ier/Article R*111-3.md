@@ -11,11 +11,12 @@ une baignoire et un lavabo, la douche ou la baignoire pouvant toutefois être
 commune à cinq logements au maximum, s'il s'agit de logements d'une personne
 groupés dans un même bâtiment ;
 
-c) Etre pourvu d'un cabinet d'aisances intérieur au logement et ne communiquant
-pas directement avec les cuisines et les salles de séjour, le cabinet d'aisances
-pouvant toutefois être commun à cinq logements au maximum s'il s'agit de
-logements d'une personne et de moins de 20 mètres carrés de surface habitable et
-à condition qu'il soit situé au même étage que ces logements ;
+c) Etre pourvu d'un cabinet d'aisances intérieur au logement, le cabinet
+d'aisances pouvant toutefois être commun à cinq logements au maximum s'il s'agit
+de logements d'une personne et de moins de 20 mètres carrés de surface habitable
+et à condition qu'il soit situé au même étage que ces logements, le cabinet
+d'aisances peut ne former qu'une seule pièce avec la pièce spéciale pour la
+toilette mentionnée au b ;
 
 d) Comporter un évier muni d'un écoulement d'eau et un emplacement aménagé pour
 recevoir des appareils de cuisson.
