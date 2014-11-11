@@ -1,13 +1,15 @@
 Article L132-11
 ----
-L'éditeur est tenu d'effectuer ou de faire effectuer la fabrication selon les
-conditions, dans la forme et suivant les modes d'expression prévus au contrat.
+L'éditeur est tenu d'effectuer ou de faire effectuer la fabrication ou la
+réalisation sous une forme numérique selon les conditions, dans la forme et
+suivant les modes d'expression prévus au contrat.
 
 Il ne peut, sans autorisation écrite de l'auteur, apporter à l'oeuvre aucune
 modification.
 
-Il doit, sauf convention contraire, faire figurer sur chacun des exemplaires le
-nom, le pseudonyme ou la marque de l'auteur.
+Il doit, sauf convention contraire, faire figurer sur chacun des exemplaires ou
+sur l'œuvre réalisée sous une forme numérique le nom, le pseudonyme ou la marque
+de l'auteur.
 
 A défaut de convention spéciale, l'éditeur doit réaliser l'édition dans un délai
 fixé par les usages de la profession.
