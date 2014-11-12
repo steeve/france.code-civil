@@ -1,6 +1,6 @@
 Article R322-55-2
 ----
-I. - Les administrateurs ou les membres du conseil de surveillance sont choisis
+I.-Les administrateurs ou les membres du conseil de surveillance sont choisis
 parmi les sociétaires à jour de leurs cotisations, à l'exception de ceux qui
 sont élus par les salariés. Si, en cours de mandat, un administrateur ou membre
 du conseil de surveillance cesse d'être sociétaire, il est réputé démissionnaire
@@ -27,13 +27,13 @@ Les administrateurs et les membres du conseil de surveillance sont rééligibles
 sauf stipulation contraire des statuts. Ils peuvent être révoqués à tout moment
 par l'assemblée générale ordinaire.
 
-II. - Sous réserve des dispositions de l'article L. 322-26-2, il est interdit
-aux administrateurs, membres du conseil de surveillance et mandataires
-mutualistes de faire partie du personnel rétribué par la société d'assurance
-mutuelle, l'union de sociétés d'assurance mutuelles, la société de réassurance
-mutuelle ou la société de groupe d'assurance mutuelle ou de recevoir, à
-l'occasion de l'exercice de leurs fonctions, toute rémunération ou avantage
-autre que ceux prévus aux articles R. 322-53 et R. 322-55-1.
+II.-Sous réserve des dispositions de l'article L. 322-26-2, il est interdit aux
+administrateurs, membres du conseil de surveillance et mandataires mutualistes
+de faire partie du personnel rétribué par la société d'assurance mutuelle,
+l'union de sociétés d'assurance mutuelles, la société de réassurance mutuelle ou
+la société de groupe d'assurance mutuelle ou de recevoir, à l'occasion de
+l'exercice de leurs fonctions, toute rémunération ou avantage autre que ceux
+prévus aux articles R. 322-53 et R. 322-55-1.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas au président du
 conseil d'administration lorsqu'il exerce les fonctions de directeur général de
@@ -55,8 +55,8 @@ présent article n'entraîne pas celle des délibérations auxquelles
 l'administrateur, le membre du conseil de surveillance ou le mandataire
 mutualiste irrégulièrement nommé a pris part.
 
-III. - Une personne morale sociétaire peut être nommée administrateur ou membre
-du conseil de surveillance. Lors de sa nomination, elle est tenue de désigner un
+III.-Une personne morale sociétaire peut être nommée administrateur ou membre du
+conseil de surveillance. Lors de sa nomination, elle est tenue de désigner un
 représentant permanent qui est soumis, dans l'exercice de ses fonctions, aux
 mêmes conditions et obligations et qui encourt les mêmes responsabilités civile
 et pénale que s'il était administrateur ou membre du conseil de surveillance en
@@ -66,10 +66,11 @@ morale qu'il représente.
 Lorsque la personne morale révoque son représentant, elle est tenue de pourvoir
 en même temps à son remplacement.
 
-IV. - En cas de vacance par décès ou par démission d'un ou plusieurs sièges de
-membre du conseil d'administration ou du conseil de surveillance, ce conseil
-peut, entre deux assemblées générales, procéder à des nominations à titre
-provisoire.
+IV.-En cas de vacance par décès, par démission ou par cessation de mandat à la
+suite d'une décision d'opposition de l'Autorité de contrôle prudentiel et de
+résolution d'un ou plusieurs sièges de membre du conseil d'administration ou du
+conseil de surveillance, ce conseil peut, entre deux assemblées générales,
+procéder à des nominations à titre provisoire.
 
 Lorsque le nombre des membres du conseil est devenu inférieur au minimum légal,
 les administrateurs restants ou le directoire doivent convoquer immédiatement
@@ -94,7 +95,7 @@ désignation d'un mandataire chargé de convoquer l'assemblée générale, à l'
 de procéder aux nominations ou de ratifier les nominations prévues au troisième
 alinéa.
 
-V. - En cas d'empêchement temporaire ou de décès du président, le conseil
+V.-En cas d'empêchement temporaire ou de décès du président, le conseil
 d'administration ou le conseil de surveillance peut déléguer un administrateur
 ou un membre du conseil de surveillance dans les fonctions de président.
 
