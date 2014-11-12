@@ -35,4 +35,10 @@ remplacés par les mots : " par des agents qualifiés de ces organismes " ;
 8° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L.
 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés
 par les mots : " de l'article 226-1 du code pénal et des dispositions du code du
-travail applicables localement ".
+travail applicables localement " ;
+
+9° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé :
+
+" Un arrêté du haut-commissaire de la République en Polynésie française précise
+les zones dans lesquelles cette obligation s'applique ainsi que les
+caractéristiques des immeubles ou locaux qui y sont assujettis. "

@@ -25,7 +25,7 @@ d'un an auparavant et pour laquelle le délai pour quitter le territoire est
 expiré ou n'a pas été accordé ;
 
 7° Doit être reconduit d'office à la frontière en exécution d'une interdiction
-de retour ;
+de retour ou d'une interdiction administrative du territoire ;
 
 8° Ayant fait l'objet d'une décision de placement en rétention au titre des 1° à
 7°, n'a pas déféré à la mesure d'éloignement dont il est l'objet dans un délai

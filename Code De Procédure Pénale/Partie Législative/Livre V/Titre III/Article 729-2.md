@@ -1,12 +1,12 @@
 Article 729-2
 ----
 Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une
-mesure d'interdiction du territoire français, d'obligation de quitter le
-territoire français, d'interdiction de retour sur le territoire français, de
-reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le
-fondement d'un mandat d'arrêt européen, sa libération conditionnelle est
-subordonnée à la condition que cette mesure soit exécutée. Elle peut être
-décidée sans son consentement.
+mesure d'interdiction du territoire français, d'interdiction administrative du
+territoire français, d'obligation de quitter le territoire français,
+d'interdiction de retour sur le territoire français, de reconduite à la
+frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat
+d'arrêt européen, sa libération conditionnelle est subordonnée à la condition
+que cette mesure soit exécutée. Elle peut être décidée sans son consentement.
 
 Par exception aux dispositions de l'alinéa précédent, le juge de l'application
 des peines, ou le tribunal de l'application des peines, peut également accorder

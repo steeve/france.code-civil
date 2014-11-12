@@ -7,9 +7,9 @@ tribunal de grande instance peut être étendue au ressort de plusieurs cours
 d'appel pour l'enquête, la poursuite, l'instruction et, s'il s'agit de délits,
 le jugement des infractions suivantes :
 
-1° Délits prévus par les articles 222-38, 223-15-2, 313-1 et 313-2, 313-6, 314-1
-et 314-2, 323-1 à 323-4, 324-1 et 324-2, 432-10 à 432-15, 433-1 et 433-2, 434-9,
-434-9-1, 442-1 à 442-8 et 321-6-1 du code pénal ;
+1° Délits prévus par les articles 222-38,223-15-2,313-1 et 313-2,313-6,314-1 et
+314-2,323-1 à 323-4-1,324-1 et 324-2,432-10 à 432-15,433-1 et
+433-2,434-9,434-9-1,442-1 à 442-8 et 321-6-1 du code pénal ;
 
 2° Délits prévus par le code de commerce ;
 

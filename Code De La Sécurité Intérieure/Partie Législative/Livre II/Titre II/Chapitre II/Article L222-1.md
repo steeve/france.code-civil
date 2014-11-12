@@ -39,5 +39,3 @@ traitements automatisés mentionnés ci-dessus.
 Un décret en Conseil d'Etat détermine les services spécialisés de renseignement
 mentionnés au premier alinéa du présent II et les modalités de leur accès aux
 traitements automatisés mentionnés au présent article.
-
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2015.

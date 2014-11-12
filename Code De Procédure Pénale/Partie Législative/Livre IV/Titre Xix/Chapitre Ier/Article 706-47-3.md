@@ -14,6 +14,10 @@ responsables :
 2° Etre en contact par ce moyen avec les personnes susceptibles d'être les
 auteurs de ces infractions ;
 
+2° bis Extraire, acquérir ou conserver par ce moyen les éléments de preuve et
+les données sur les personnes susceptibles d'être les auteurs de ces infractions
+;
+
 3° Extraire, transmettre en réponse à une demande expresse, acquérir ou
 conserver des contenus illicites dans des conditions fixées par décret.
 

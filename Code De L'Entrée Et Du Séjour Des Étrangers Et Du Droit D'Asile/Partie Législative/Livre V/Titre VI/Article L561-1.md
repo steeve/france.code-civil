@@ -22,7 +22,10 @@ interdiction de retour ;
 
 5° Si l'étranger doit être reconduit à la frontière en exécution d'une
 interdiction du territoire prévue au deuxième alinéa de l'article 131-30 du code
-pénal.
+pénal ;
+
+6° Si l'étranger doit être reconduit à la frontière en exécution d'une
+interdiction administrative du territoire.
 
 La décision d'assignation à résidence est motivée. Elle peut être prise pour une
 durée maximale de six mois, et renouvelée une fois ou plus dans la même limite

@@ -11,7 +11,11 @@ prescriptions liées au placement sous surveillance électronique sont passibles
 d'une peine d'emprisonnement d'un an.
 
 Les étrangers astreints à résider dans les lieux qui leur sont fixés en
-application des articles L. 523-3, L. 523-4, L. 523-5 ou L. 541-3 et qui n'ont
-pas respecté les obligations de présentation aux services de police et aux
-unités de gendarmerie prévues à l'article L. 561-1 sont passibles d'une peine
-d'emprisonnement d'un an.
+application des articles L. 523-3, L. 523-4, L. 523-5, L. 541-3 ou du 6° de
+l'article L. 561-1 et qui n'ont pas respecté les obligations de présentation aux
+services de police et aux unités de gendarmerie prévues à l'article L. 561-1
+sont passibles d'une peine d'emprisonnement d'un an.
+
+La même peine d'emprisonnement d'un an est applicable aux étrangers qui n'ont
+pas respecté les interdictions qui leur sont prescrites en application de
+l'article L. 563-1.

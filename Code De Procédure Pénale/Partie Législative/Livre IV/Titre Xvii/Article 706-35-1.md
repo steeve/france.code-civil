@@ -1,8 +1,8 @@
 Article 706-35-1
 ----
-Dans le but de constater les infractions mentionnées aux articles 225-4-1 à
-225-4-9,225-5 à 225-12 et 225-12-1 à 225-12-4 du code pénal et, lorsque
-celles-ci sont commises par un moyen de communication électronique, d'en
+Dans le but de constater les infractions mentionnées aux articles
+225-4-1,225-4-8,225-4-9, 225-5,225-6 et 225-12-1 à 225-12-4 du code pénal et,
+lorsque celles-ci sont commises par un moyen de communication électronique, d'en
 rassembler les preuves et d'en rechercher les auteurs, les officiers ou agents
 de police judiciaire agissant au cours de l'enquête ou sur commission rogatoire
 peuvent, s'ils sont affectés dans un service spécialisé et spécialement
@@ -13,6 +13,10 @@ actes suivants sans en être pénalement responsables :
 
 2° Etre en contact par ce moyen avec les personnes susceptibles d'être les
 auteurs de ces infractions ;
+
+2° bis Extraire, acquérir ou conserver par ce moyen les éléments de preuve et
+les données sur les personnes susceptibles d'être les auteurs de ces infractions
+;
 
 3° Extraire, transmettre en réponse à une demande expresse, acquérir ou
 conserver des contenus illicites dans des conditions fixées par décret.

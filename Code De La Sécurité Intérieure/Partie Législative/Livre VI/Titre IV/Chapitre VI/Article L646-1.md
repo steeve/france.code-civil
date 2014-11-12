@@ -54,17 +54,8 @@ aux dispositions applicables localement " ;
 et L. 214-3 du code rural et de la pêche maritime " sont remplacés par les mots
 : " des dispositions applicables localement " ;
 
-10° L'article L. 614-1 est ainsi rédigé :
-
-" Art. L. 614-1. ― Les propriétaires, exploitants ou affectataires d'immeubles
-ou groupes d'immeubles collectifs à usage d'habitation peuvent constituer,
-lorsque l'importance de ces immeubles ou de ces locaux ou leur situation le
-justifient, une personne morale dont l'objet est l'exercice, pour le compte de
-ses membres, de l'activité mentionnée à l'article L. 611-1.
-
-" Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie précise
-les zones dans lesquelles cette obligation s'applique ainsi que les
-caractéristiques des immeubles ou locaux qui y sont assujettis. " ;
+10° L'article L. 614-1 est complété par les mots : " dans sa rédaction
+applicable en Nouvelle-Calédonie " ;
 
 11° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L.
 1221-15 du code du travail " sont remplacés par les mots : " conformément aux
