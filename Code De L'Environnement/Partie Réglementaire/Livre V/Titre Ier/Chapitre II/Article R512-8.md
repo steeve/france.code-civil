@@ -29,3 +29,12 @@ du transport des produits fabriqués et de l'utilisation rationnelle de l'énerg
 III.-Pour les installations visées à la section 8 du chapitre V du présent
 titre, le contenu de l'étude d'impact comporte en outre les compléments
 mentionnés au I de l'article R. 515-59.
+
+IV.-Pour certaines catégories d'installations d'une puissance supérieure à 20
+MW, l'analyse du projet sur la consommation énergétique mentionnée au 3° du II
+de l'article R. 122-5 comporte une analyse coûts-avantages afin d'évaluer
+l'opportunité de valoriser de la chaleur fatale notamment à travers un réseau de
+chaleur ou de froid. Un arrêté du ministre chargé des installations classées et
+du ministre chargé de l'énergie, pris dans les formes de l'article L. 512-5,
+définit les installations concernées ainsi que les modalités de réalisation de
+l'analyse coûts-avantages.
