@@ -1,22 +1,14 @@
 Article R371-1
 ----
-Le conseil départemental de l'habitat émet chaque année, sur la base d'un
-rapport présenté par le préfet de département, un avis sur :
+Le conseil départemental de l'habitat et de l'hébergement émet chaque année, sur
+la base d'un rapport présenté par le préfet, un avis portant, en ce qui concerne
+le territoire du département, sur les sujets mentionnés aux 1° à 5° de l'article
+R. 362-1.
 
-1° La satisfaction des besoins en logement des différentes catégories de
-population ;
+Il est également consulté, en ce qui concerne le territoire du département, sur
+les projets, rapports, demandes, bilans, documents ou décisions mentionnés aux
+1° à 17° de l'article R. 362-2.
 
-2° Les orientations de la politique de l'habitat dans le département et des
-actions engagées par l'Etat et les collectivités territoriales ;
-
-3° La programmation annuelle des différentes aides publiques au logement dans le
-département et la coordination de ces financements, en particulier ceux de
-l'Etat, de ses établissements publics, des collectivités territoriales et de
-leurs groupements et de la participation des employeurs à l'effort de
-construction ;
-
-4° Les modalités d'application dans le département des principes qui régissent
-l'attribution des logements locatifs sociaux ;
-
-5° Les politiques menées dans le département en faveur du logement des
-populations défavorisées et des populations immigrées.
+Le conseil départemental de l'habitat et de l'hébergement peut déléguer tout ou
+partie des compétences prévues aux 2° à 17° de l'article R. 362-2 à son bureau
+ou aux commissions spécialisées mentionnées à l'article R. 371-9.

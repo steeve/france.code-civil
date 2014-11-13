@@ -1,8 +1,8 @@
 Article R371-5
 ----
-Les membres du conseil départemental de l'habitat institué dans les départements
-d'outre-mer, mentionnés au 1° de l'article R. 371-4, sont désignés, dans la
-limite de douze dans les conditions suivantes :
+Les membres du conseil départemental de l'habitat et de l'hébergement institué
+dans les départements d'outre-mer, mentionnés au 1° de l'article R. 371-3, sont
+désignés, dans la limite de douze dans les conditions suivantes :
 
 a) Quatre conseillers généraux élus par le conseil général ;
 
@@ -29,8 +29,7 @@ vote peut avoir lieu par correspondance. Le collège des maires est convoqué pa
 le préfet. Un arrêté préfectoral règle dans chaque département les modalités
 d'application du présent alinéa.
 
-Le conseil départemental de l'habitat se réunit en séance plénière au moins une
-fois par an sur convocation de son président. Le président peut inviter à
-assister à toute séance toute personne dont l'audition lui paraît utile. En cas
-de partage égal des voix au sein du conseil départemental de l'habitat ou du
-bureau, la voix du président est prépondérante.
+Le conseil départemental de l'habitat et de l'hébergement se réunit en séance
+plénière au moins une fois par an sur convocation de son président. En cas de
+partage égal des voix au sein du conseil départemental de l'habitat et de
+l'hébergement ou du bureau, la voix du président est prépondérante.
