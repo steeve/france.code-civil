@@ -1,22 +1,15 @@
 Article R133-18
 ----
-Les cotisations et contributions dues par l'employeur qui recourt au titre
-emploi-entreprise occasionnel sont recouvrées et contrôlées par l'organisme de
-recouvrement du régime général de sécurité sociale dont relève celui-ci, selon
-les règles et sous les garanties et sanctions applicables au recouvrement des
-cotisations du régime général de sécurité sociale assises sur les salaires.
+Le défaut de production de la déclaration annuelle des données sociales dans les
+délais prescrits, l'omission de salariés devant y figurer ou l'inexactitude des
+rémunérations déclarées fait encourir l'application de la pénalité prévue au III
+de l'article R. 133-14. Cette pénalité est recouvrée selon les modalités prévues
+au même article.
 
-Toutefois, par dérogation aux dispositions de l'article R. 243-6, l'employeur
-verse le montant de ces cotisations et contributions dans les huit premiers
-jours du mois civil suivant celui au cours duquel les sommes dues lui ont été
-notifiées.
+Pour chaque salarié déclaré, toute omission et toute inexactitude de données
+autres que la rémunération dans la déclaration annuelle des données sociales
+fait encourir à l'employeur une pénalité égale à un tiers du montant mentionné à
+l'alinéa précédent.
 
-Le versement des cotisations et contributions sociales dues par l'employeur qui
-recourt au titre emploi-entreprise occasionnel peut être effectué par chèque
-bancaire ou au moyen d'un titre interbancaire de paiement ou du prélèvement
-automatique.
-
-Lorsque l'employeur utilise la version électronique du titre emploi-entreprise
-occasionnel, il doit effectuer le versement des cotisations et contributions
-sociales correspondantes par télérèglement dans les conditions prévues par
-l'article L. 133-5.
+Le montant des pénalités encourues est limité, par salarié, à hauteur du montant
+mentionné au deuxième alinéa du IV de l'article L. 133-5-4.
