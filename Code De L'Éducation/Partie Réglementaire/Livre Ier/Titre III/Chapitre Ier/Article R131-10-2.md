@@ -19,11 +19,6 @@ l'éducation nationale agissant sur délégation du recteur d'académie, par le
 directeur ou le chef d'établissement d'enseignement pour défaut d'assiduité de
 l'élève en application de l'article L. 131-8 ;
 
-6° Mention et date de notification de l'avertissement adressé par le directeur
-académique des services de l'éducation nationale agissant sur délégation du
-recteur d'académie, aux personnes responsables de l'enfant en application de
-l'article L. 131-8 ;
-
-7° Mention, date et éventuellement durée de la sanction d'exclusion temporaire
+6° Mention, date et éventuellement durée de la sanction d'exclusion temporaire
 ou définitive de l'élève prononcée par le chef d'établissement ou le conseil de
 discipline de l'établissement d'enseignement.
