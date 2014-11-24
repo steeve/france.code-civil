@@ -1,4 +1,28 @@
 Article R6122-17
 ----
-L'ordre du jour des séances du comité national est fixé par le ou les ministres
-chargés de l'action sociale, de la santé et de la sécurité sociale.
+Le comité national ne peut délibérer que si au moins la moitié des membres de la
+section ou de la formation convoquée sont présents ; le quorum est apprécié en
+début de séance.
+
+Toutefois, quand le quorum n'est pas atteint après une convocation régulièrement
+faite, la section ou la formation, quel que soit le nombre des membres présents,
+délibère valablement sur les points inscrits à l'ordre du jour de la première
+réunion, lors d'une seconde réunion qui doit avoir lieu dans un délai de cinq à
+quinze jours.
+
+Les avis du comité national sont émis à la majorité des suffrages exprimés par
+les membres présents, sans distinction de catégorie de membres. Le vote par
+procuration n'est pas admis. En cas de partage égal des voix, celle du président
+est prépondérante.
+
+Les membres ne peuvent siéger dans les affaires concernant des établissements à
+l'administration desquels ils participent ou avec lesquels ils collaborent et,
+plus généralement, dans les affaires auxquelles ils sont intéressés à un titre
+quelconque.
+
+Les membres du comité national sont soumis à l'obligation de discrétion
+professionnelle à l'égard de tous les faits et documents dont ils ont
+connaissance en cette qualité ainsi que des délibérations du comité national et
+des commissions spécialisées.
+
+Les membres du comité national exercent leur mandat à titre gratuit.

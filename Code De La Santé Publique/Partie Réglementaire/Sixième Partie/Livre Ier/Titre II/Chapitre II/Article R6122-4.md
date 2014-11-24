@@ -2,19 +2,15 @@ Article R6122-4
 ----
 Outre le président ou son suppléant, la section sanitaire du comité comprend :
 
-1° Un député ;
+1° Le député désigné en application du premier alinéa de l'article L. 6121-8 ;
 
-2° Un sénateur ;
+2° Le sénateur désigné en application du même alinéa ;
 
-3° Un conseiller régional désigné par le ministre chargé de la santé sur
-propositions des associations représentatives des présidents de conseil régional
-;
+3° Un conseiller régional désigné par l'Association des régions de France ;
 
-4° Un conseiller général désigné par le ministre chargé de la santé sur
-proposition des associations représentatives des présidents de conseil général ;
+4° Un conseiller général désigné par l'Association des départements de France ;
 
-5° Un maire désigné par le ministre chargé de la santé sur proposition des
-associations représentatives des maires ;
+5° Un conseiller municipal désigné par l'Association des maires de France ;
 
 6° Quatre représentants de la Caisse nationale de l'assurance-maladie des
 travailleurs salariés, dont le directeur et le médecin-conseil national ou leur
@@ -29,28 +25,30 @@ b) Caisse nationale d'assurance-maladie des professions indépendantes ;
 8° Quatre représentants des organisations d'hospitalisation publique les plus
 représentatives ;
 
-9° Trois présidents de commission médicale d'établissement public de santé,
-désignés par le ministre chargé de la santé sur proposition de leurs conférences
-respectives ;
+9° Trois présidents de commission médicale d'établissement public de santé
+désignés par les conférences des présidents de commission médicale,
+respectivement des centres hospitaliers universitaires, des centres hospitaliers
+généraux et des centres hospitaliers spécialisés ;
 
 10° Quatre représentants de l'hospitalisation privée désignés par les
-organisations les plus représentatives, dont au moins un représentant au titre
-des établissements privés à but non lucratif et un praticien exerçant les
-fonctions de président de la conférence médicale d'établissement instituée dans
-les établissements de santé privés ne participant pas au service public
-hospitalier ;
+organisations les plus représentatives, dont un représentant au titre des
+établissements privés à but non lucratif et un praticien exerçant les fonctions
+de président de la conférence médicale d'établissement instituée dans les autres
+établissements de santé privés ;
 
-11° Quatre représentants des syndicats médicaux les plus représentatifs, dont au
-moins deux au titre des syndicats de médecins hospitaliers publics ;
+11° Quatre représentants des syndicats médicaux les plus représentatifs, dont
+deux au titre des syndicats de médecins hospitaliers publics ;
 
-12° Un médecin salarié, désigné par le ministre chargé de la santé, exerçant
-dans un établissement de santé privé participant au service public hospitalier ;
+12° Un médecin salarié exerçant dans un établissement de santé privé à but non
+lucratif, désigné par la conférence nationale des présidents de commission
+médicale d'établissement des établissements privés à but non lucratif ;
 
 13° Deux représentants des organisations syndicales les plus représentatives des
 personnels hospitaliers non médicaux, dont un au titre des personnels
 hospitaliers publics ;
 
-14° Un représentant des usagers des institutions et établissements de santé ;
+14° Un représentant des groupements d'usagers des institutions et établissements
+de santé ;
 
 15° Trois personnalités qualifiées désignées par les ministres chargés de la
 santé et de la sécurité sociale, dont une sur proposition de la Fédération
