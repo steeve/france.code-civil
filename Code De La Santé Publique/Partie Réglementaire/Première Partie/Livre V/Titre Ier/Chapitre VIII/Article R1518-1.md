@@ -37,4 +37,12 @@ exercées par le service de vaccination de Mayotte ;
 exercées par le conseil d'hygiène de Mayotte ;
 
 12° Les insertions dans le Recueil des actes administratifs du département sont
-effectuées dans le Recueil des actes administratifs de Mayotte.
+effectuées dans le Recueil des actes administratifs de Mayotte ;
+
+13° Les attributions dévolues au directeur départemental des affaires sanitaires
+et sociales et à la direction départementale des affaires sanitaires et sociales
+sont dévolues au directeur de la jeunesse, des sports et de la cohésion sociale
+et à la direction de la jeunesse, des sports et de la cohésion sociale ;
+
+14° Les attributions dévolues à la caisse primaire d'assurance maladie sont
+dévolues à la caisse de sécurité sociale de Mayotte.

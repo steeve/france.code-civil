@@ -23,7 +23,13 @@ b) Un représentant des associations de personnes âgées ;
 c) Un représentant des associations de personnes handicapées.
 
 Ces représentants sont désignés par le directeur général de l'agence de santé de
-l'océan Indien après appel à candidatures qu'il organise.
+l'océan Indien après appel à candidatures qu'il organise. Toutefois, lors du
+prochain renouvellement de ce collège, les membres mentionnés aux b et c sont
+désignés par le directeur général de l'agence de santé sur proposition
+respectivement du conseil départemental des retraités et personnes âgées
+mentionné à l'article L. 149-1 du code de l'action sociale et des familles et du
+conseil départemental consultatif des personnes handicapées mentionné à
+l'article L. 146-2 de ce même code, s'ils sont constitués.
 
 3° Le collège des partenaires sociaux comprenant :
 
