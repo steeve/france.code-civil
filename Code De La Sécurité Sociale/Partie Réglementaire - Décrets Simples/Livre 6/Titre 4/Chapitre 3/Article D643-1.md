@@ -1,12 +1,12 @@
 Article D643-1
 ----
 Le versement de la cotisation annuelle correspondant au plafond de revenu fixé
-au 1° de l'article D. 642-3 ouvre droit à l'attribution de 450 points de
+au 1° de l'article D. 642-3 ouvre droit à l'attribution de 525 points de
 retraite.
 
 Le versement de la cotisation annuelle correspondant au plafond de la tranche
 des revenus définie au 2° de l'article D. 642-3 ouvre droit à l'attribution de
-100 points de retraite.
+25 points de retraite.
 
 Le nombre de points acquis est calculé au prorata des cotisations acquittées sur
 chacune des tranches de revenus définies à l'article D. 642-3, arrondi à la

@@ -1,24 +1,16 @@
 Article D642-3
 ----
-Le taux de cotisation prévu au cinquième alinéa de l'article L. 642-1 est égal :
+Le taux de cotisation prévu au sixième alinéa de l'article L. 642-1 est égal :
 
-1° Sur les revenus définis à l'article L. 642-2 pour la part de ces revenus
-n'excédant pas 85 % du plafond annuel prévu au premier alinéa de l'article L.
+1° A 8,23 % sur les revenus définis à l'article L. 642-2 pour la part de ces
+revenus n'excédant pas le plafond annuel prévu au premier alinéa de l'article L.
 241-3 en vigueur au 1er janvier de l'année au titre de laquelle la cotisation
-est due :
+est due ;
 
-a) A 9,75 % pour l'année 2013 ;
-
-b) A 10,1 % à compter de l'année 2014 ;
-
-2° Sur les revenus définis à l'article L. 642-2 pour la part de ces revenus
-excédant le seuil fixé au 1°, dans la limite de cinq fois le plafond annuel
-prévu à l'article L. 241-3 en vigueur au 1er janvier de l'année au titre de
-laquelle la cotisation est due :
-
-a) A 1,81 % pour l'année 2013 ;
-
-b) A 1,87 % à compter de l'année 2014.
+2° A 1,87 % sur les revenus définis à l'article L. 642-2 pour la part de ces
+revenus n'excédant pas cinq fois le plafond annuel prévu au premier alinéa de
+l'article L. 241-3 en vigueur au 1er janvier de l'année au titre de laquelle la
+cotisation est due.
 
 En cas de période d'affiliation inférieure à une année, les plafonds prévus aux
 1° et 2° ci-dessus sont réduits au prorata des trimestres d'affiliation.
