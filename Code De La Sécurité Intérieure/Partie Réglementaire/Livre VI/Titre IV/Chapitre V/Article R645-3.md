@@ -122,7 +122,7 @@ ainsi que des munitions correspondantes classées au 8° de la catégorie C " so
 remplacés par les mots : " une arme complémentaire de la 4e catégorie mentionnée
 au paragraphe 8 du I du B de l'article 2 du décret n° 2009-450 du 21 avril 2009
 fixant le régime des matériels de guerre, armes et munitions en Polynésie
-française " ; 18° L'article R. 613-42 est ainsi rédigé :
+française " ; 18° L' article R. 613-42 est ainsi rédigé :
 
 " Art. R. 613-42.-Lorsque le transport est effectué au moyen d'un véhicule
 blindé, chaque convoyeur doit être autorisé à porter l'une des armes définies au
@@ -139,10 +139,10 @@ rédigé : " En dehors de l'exécution des missions, les armes, éléments d'arm
 munitions doivent être conservés : " 1° Soit dans des coffres-forts ou des
 armoires fortes scellés dans les murs ; " 2° Soit dans des chambres fortes ; "
 3° Soit dans des resserres comportant une porte blindée et dont les ouvertures
-sont protégées par des barreaux ou des volets métalliques. " ; 20° L'article R.
+sont protégées par des barreaux ou des volets métalliques. " ; 20° L' article R.
 613-47 est ainsi rédigé :
 
-" Art. R. 613-47.-Aucun dispositif garantissant que les fonds transportés
+" Art. R. 613-47 .-Aucun dispositif garantissant que les fonds transportés
 pourront être détruits ou rendus impropres à leur destination ne peut être mis
 en œuvre sans un agrément délivré, pour une période de cinq ans, par le ministre
 de l'intérieur après avis de la commission technique prévue à l'article R.
@@ -150,7 +150,7 @@ de l'intérieur après avis de la commission technique prévue à l'article R.
 d'utilisation de ces dispositifs. " Le silence gardé pendant plus de quatre mois
 sur la demande d'agrément vaut décision de rejet. " 21° A l'article R. 613-48,
 les mots : " des articles R. 613-36 et R. 613-37 " sont remplacés par les mots :
-" des 13° et 14° de l'article R. 645-3 " ; 22° L'article R. 613-49 est ainsi
+" des 13° et 14° de l'article R. 645-3 " ; 22° L' article R. 613-49 est ainsi
 rédigé :
 
 " Art. R. 613-49.-Un arrêté du ministre de l'intérieur fixe les caractéristiques
@@ -163,10 +163,19 @@ articles R. 614-1 et R. 614-6 : a) Les mots : " des armes classées au 8° de la
 catégorie B et au b du 2° de la catégorie D " sont remplacés par les mots : "
 des armes classées au paragraphe 2 de la sixième catégorie du B de l'article 2
 du décret n° 2009-450 du 21 avril 2009 fixant le régime des matériels de guerre,
-armes et munitions en Polynésie française " ; b) Les mots : " classés au a du 2°
-de la catégorie D " sont supprimés ; c) Les mots : " mentionnés à l'article L.
-271-1 " sont remplacés par les mots : " mentionnés au 9° de l'article L. 645-1 "
-; 25° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail "
+armes et munitions en Polynésie française " ;
+
+b) Les mots : " classés au a du 2° de la catégorie D " sont supprimés ; c) Les
+mots : " mentionnés à l'article L. 271-1 " sont remplacés par les mots : "
+mentionnés au 9° de l'article L. 645-1 " ;
+
+24° bis. - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
+
+"III. - Les titres de formation professionnelle maritime délivrés par l'autorité
+localement compétente en Polynésie française sont reconnus dans les conditions
+prévues aux articles R. 373-3 à R. 373-9 du code de l'éducation."
+
+25° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail "
 sont remplacé par les mots : " conformément aux dispositions applicables
 localement " ; 26° Pour l'application de l'article R 633-3, la référence à
 l'article R 633-2 est remplacé par la référence à l'article R 645-4 ; 27° Au

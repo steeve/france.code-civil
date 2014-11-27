@@ -45,19 +45,26 @@ ainsi que des munitions correspondantes classées au 8° de la catégorie C " so
 remplacés par les mots : " une arme complémentaire de la 4e catégorie mentionnée
 au paragraphe 8 du I du B de l'article 2 du décret n° 2009-451 du 21 avril 2009
 fixant le régime des matériels de guerre, armes et munitions en
-Nouvelle-Calédonie " ; 11° Aux articles R. 614-1 et R. 614-6 : a) Les mots : "
+Nouvelle-Calédonie " ; 11° ux articles R. 614-1 et R. 614-6 : a) Les mots : "
 des armes classées au 8° de la catégorie B et au b du 2° de la catégorie D "
 sont remplacés par les mots : " des armes classées au paragraphe 2 de la sixième
 catégorie du B de l'article 2 du décret n° 2009-451 du 21 avril 2009 fixant le
 régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie " ; b)
-Les mots : " classés au a du 2° de la catégorie D " sont supprimés ; c) Les mots
+Les mots : " classés au a du 2° de la catégorie D" sont supprimés ; c) Les mots
 : " mentionnés à l'article L. 271-1 " sont remplacés par les mots : " mentionnés
-au 10° de l'article L. 646-1 " ; 12° Au 1° de l'article R. 632-15, les mots : "
-régis par le code du travail " sont remplacés par les mots : " conformément aux
-dispositions applicables localement " ; 13° Pour l'application de l'article R
-633-3, la référence à l'article R 633-2 est remplacé par la référence à
-l'article R 646-4 ; 14° Au deuxième alinéa de l'article R. 634-5, les mots : "
-au recueil des actes administratifs des services de l'Etat du département dans
-lequel la société ou la personne physique sanctionnée a son siège ou son
-domicile " sont remplacés par les mots : " au Journal officiel de la
-Nouvelle-Calédonie ".
+au 10° de l'article L. 646-1 " ;
+
+11° bis. - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
+
+"III. - Les titres de formation professionnelle maritime délivrés par l'autorité
+localement compétente en Nouvelle-Calédonie sont reconnus dans les conditions
+prévues aux articles R. 374-6 à R. 374-12 du code de l'éducation."
+
+12° Au 1° de l'article R. 632-15, les mots : " régis par le code du travail "
+sont remplacés par les mots : " conformément aux dispositions applicables
+localement " ; 13° Pour l'application de l'article R 633-3, la référence à
+l'article R 633-2 est remplacé par la référence à l'article R 646-4 ; 14° Au
+deuxième alinéa de l'article R. 634-5, les mots : " au recueil des actes
+administratifs des services de l'Etat du département dans lequel la société ou
+la personne physique sanctionnée a son siège ou son domicile " sont remplacés
+par les mots : " au Journal officiel de la Nouvelle-Calédonie ".
