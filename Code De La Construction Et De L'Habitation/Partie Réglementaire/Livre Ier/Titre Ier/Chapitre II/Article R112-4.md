@@ -1,6 +1,6 @@
 Article R112-4
 ----
-Le constructeur du bâtiment ou des éléments mentionnés aux articles R. 111-2 et
+Le constructeur du bâtiment ou des éléments mentionnés aux articles R. 112-2 et
 R. 112-3 fournit au maître d'ouvrage, au plus tard à la réception des travaux,
 une notice technique indiquant les dispositifs, les protections ainsi que les
 références et caractéristiques des matériaux mis en oeuvre.

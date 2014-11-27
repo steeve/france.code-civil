@@ -6,13 +6,9 @@ contaminées par les termites ou susceptibles de l'être à court terme, est
 affiché pendant trois mois en mairie dans les communes où sont situées les zones
 délimitées.
 
-Mention de l'arrêté et des modalités de consultation de celui-ci est insérée en
-caractères apparents dans un journal régional ou local diffusé dans le
-département.
-
 Les effets juridiques attachés à la délimitation des zones ont pour point de
-départ l'exécution de l'ensemble des formalités de publicité mentionnées aux
-alinéas précédents, la date à prendre en compte pour l'affichage en mairie étant
+départ l'exécution de l'ensemble des formalités de publicité mentionnées à
+l'alinéa précédent, la date à prendre en compte pour l'affichage en mairie étant
 celle du premier jour où il est effectué.
 
 L'arrêté est en outre publié au recueil des actes administratifs de la
