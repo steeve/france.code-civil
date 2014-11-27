@@ -1,25 +1,45 @@
 Article D232-14
 ----
-Au sein du Conseil national de l'enseignement supérieur et de la recherche une
-commission scientifique permanente est chargée de préparer les travaux du
-conseil en matière de recherche, ainsi que d'enseignements et diplômes de
-troisième cycle.
+Il est créé, au sein du Conseil national de l'enseignement supérieur et de la
+recherche, une commission permanente, composée de quarante et un membres :
 
-L'effectif de la commission scientifique permanente est de vingt-trois membres
-ainsi répartis :
+1° Vingt-sept représentants des responsables, des personnels et des étudiants
+des établissements publics à caractère scientifique, culturel et professionnel,
+et des établissements publics de recherche, choisis par et parmi les membres du
+collège auquel ils appartiennent, à savoir :
 
-1° Douze membres élus en leur sein par les enseignants-chercheurs, enseignants
-et chercheurs et personnels assimilés mentionnés à l'article D. 232-3 ;
+a) Trois représentants des responsables des établissements publics à caractère
+scientifique, culturel et professionnel à raison de deux représentants pour la
+conférence des présidents d'universités et d'un représentant pour la conférence
+des directeurs des écoles françaises d'ingénieurs ;
 
-2° Un membre élu en leur sein par les personnels administratifs techniques,
-ouvriers et de service, mentionnés à l'article D. 232-3 ;
+b) Un représentant des responsables des établissements publics de recherche ;
 
-3° Deux membres élus en leur sein par les étudiants mentionnés à l'article D.
+c) Cinq représentants au titre du collège prévu au 1° du III de l'article D.
 232-3 ;
 
-4° Huit personnalités nommées par le ministre chargé de l'enseignement
-supérieur, dont deux sur proposition du ministre chargé de la recherche, deux
-sur proposition du directeur général du Centre national de la recherche
-scientifique et deux sur proposition conjointe du directeur général de
-l'Institut national de la santé et de la recherche médicale et du président de
-l'Institut national de la recherche agronomique.
+d) Cinq représentants au titre du collège prévu au 2° du III du même article ;
+
+e) Deux représentants au titre des collèges prévus aux 3° et 4° du III du même
+article ;
+
+f) Cinq représentants au titre du collège prévu au 5° du III du même article ;
+
+g) Deux représentants au titre du collège prévu au 1° du IV du même article ;
+
+h) Deux représentants au titre du collège prévu au 2° du IV du même article ;
+
+i) Deux représentants au titre du collège prévu au V du même article ;
+
+2° Quatorze représentants des grands intérêts nationaux, dont :
+
+a) Six à huit représentants des employeurs et des salariés, qui doivent être en
+nombre égal, choisis par et parmi les membres du conseil appartenant à cette
+catégorie ;
+
+b) Un représentant des fédérations de parents d'élèves représentées au Conseil
+supérieur de l'éducation.
+
+En dehors des sessions plénières, la commission permanente exerce l'ensemble des
+attributions dévolues au Conseil national de l'enseignement supérieur et de la
+recherche.

@@ -12,5 +12,5 @@ des candidatures nouvelles sont présentées après affichage de ladite liste, i
 a lieu de recourir à la procédure prévue à la première phrase du présent
 article.
 
-Les membres de la commission scientifique permanente, de la section permanente
-et des commissions sont désignés dans les mêmes conditions.
+Les membres de la commission permanente et des commissions sont désignés dans
+les mêmes conditions.

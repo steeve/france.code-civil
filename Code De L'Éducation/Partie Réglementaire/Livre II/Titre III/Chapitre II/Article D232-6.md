@@ -8,16 +8,17 @@ après la date de la proclamation des résultats des élections.
 
 Ils ne peuvent accomplir plus de deux mandats successifs.
 
-Au cas où un représentant des établissements publics à caractère scientifique,
-culturel et professionnel démissionne ou est définitivement empêché d'exercer
-ses fonctions, il est remplacé jusqu'à l'expiration de ce mandat par son
-suppléant qui devient titulaire. Au cas où un suppléant devient titulaire ou
-s'il cesse de remplir les conditions d'éligibilité, le premier des candidats
-titulaires non élu de la même liste, ou après épuisement du nombre des candidats
-titulaires, le premier des candidats suppléants de la même liste lui succède
-comme suppléant.
+Au cas où un représentant perd la qualité au titre laquelle il a été élu ou
+nommé, ou cesse définitivement de siéger pour quelque cause que ce soit, il est
+remplacé par son suppléant qui devient titulaire pour la durée du mandat restant
+à courir.
 
-Au cas où l'un des représentants des grands intérêts nationaux ou son suppléant
-perdent leur mandat ou sont définitivement empêchés d'exercer leurs fonctions,
-il est procédé à leur remplacement pour la fin de la période de quatre années en
-cours.
+Au cas où le suppléant d'un représentant élu devient titulaire ou s'il cesse de
+remplir les conditions d'éligibilité, le premier des candidats titulaires non
+élu de la même liste, ou après épuisement du nombre des candidats titulaires, le
+premier des candidats suppléants de la même liste lui succède comme suppléant.
+
+Au cas où le suppléant d'un représentant des grands intérêts nationaux perd la
+qualité au titre de laquelle il siégeait, il est procédé à son remplacement pour
+la durée du mandat restant à courir. Le remplaçant doit être du même sexe que la
+personne qu'il remplace.

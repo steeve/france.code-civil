@@ -1,29 +1,38 @@
 Article D232-5
 ----
 Les personnalités représentant les grands intérêts nationaux, notamment
-éducatifs, culturels, scientifiques, économiques et sociaux, sont nommés par
-arrêté du ministre chargé de l'enseignement supérieur.
+éducatifs, culturels, scientifiques, économiques et sociaux, sont nommées par
+arrêté conjoint des ministres chargés de l'enseignement supérieur et de la
+recherche. Pour chaque représentant, un suppléant de même sexe est désigné dans
+les mêmes conditions.
 
-Ces personnalités comprennent notamment des représentants des employeurs et des
-salariés qui doivent être en nombre égal. En cas d'empêchement temporaire, elles
-peuvent se faire remplacer par un suppléant désigné dans les mêmes conditions.
+Ces personnalités comprennent notamment :
 
-Elles comprennent en outre :
+1° Seize à vingt représentants des employeurs et des salariés, désignés par
+leurs organisations respectives, parmi les organisations représentatives au
+niveau national et interprofessionnel définies aux articles L. 2122-9 et L.
+2152-2 du code du travail. Le nombre de représentants des employeurs et des
+salariés, qui doit être égal, est déterminé dans le respect de ces dispositions,
+selon les critères prévus par les articles L. 2121-1 et L. 2151-1 du même code ;
 
-1° Trois personnalités choisies respectivement parmi les membres de l'Assemblée
+2° Trois personnalités choisies respectivement parmi les membres de l'Assemblée
 nationale, du Sénat et du Conseil économique, social et environnemental, à
-raison d'une pour chacune de ces assemblées et sur leur proposition exprimée
-conformément aux dispositions prévues par leur règlement. Pour chacune d'elles,
-un suppléant est désigné dans les mêmes conditions.
+raison d'une pour chacune de ces assemblées et désignées par chacune d'elles
+conformément aux dispositions prévues par leur règlement ;
 
-2° Deux personnalités choisies respectivement :
+3° Deux représentants désignés par les associations de collectivités
+territoriales :
 
-a) L'une parmi les membres d'une association représentant les établissements
-d'enseignement supérieur délivrant un diplôme conférant au moins le grade de
-master, autre que les conférences mentionnées au I de l'article D. 232-3 ;
+a) L'une représentant les régions ;
 
-b) L'autre parmi les chefs des établissements d'enseignement public du second
-degré dispensant des formations d'enseignement supérieur appartenant à
-l'organisation syndicale la plus représentative aux élections professionnelles.
+b) L'autre représentant les villes comportant des implantations de formations
+supérieures et d'activités de recherche ;
 
-Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions.
+4° Deux représentants des fédérations de parents d'élèves représentées au
+Conseil supérieur de l'éducation ;
+
+5° Deux personnalités nommées sur proposition des organisations étudiantes
+représentatives.
+
+Pour chaque autorité ou organisme appelé à désigner plus d'un représentant,
+l'écart entre les membres de chaque sexe ne peut être supérieur à un.

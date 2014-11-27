@@ -11,12 +11,14 @@ supérieur. Les modalités d'affichage et de rectification de cette liste sont
 fixées par arrêté. La qualité d'électeur s'apprécie à l'expiration du délai de
 rectification de la liste.
 
-Les listes de candidats sont nationales. Chaque liste comporte un nombre de
-candidats titulaires et un nombre de candidats suppléants égal au nombre de
-sièges à pourvoir. Les candidats d'une liste, titulaires ou suppléants, doivent
-tous être inscrits dans un établissement différent. Nul ne peut être candidat
-sur plus d'une liste. La qualité des candidats s'apprécie à l'expiration du
-délai de rectification mentionné à l'alinéa précédent.
+Les listes de candidats sont nationales. Chaque liste assure la parité entre les
+femmes et les hommes et comporte un nombre de candidats titulaires et suppléants
+égal au nombre de sièges de titulaires et de suppléants à pourvoir. Chaque liste
+de candidats titulaires est composée alternativement d'un candidat de chaque
+sexe. Les candidats d'une liste, titulaires ou suppléants, doivent tous être
+inscrits dans un établissement différent. Nul ne peut être candidat sur plus
+d'une liste. La qualité des candidats s'apprécie à l'expiration du délai de
+rectification mentionné à l'alinéa précédent.
 
 Les listes de candidats doivent être déposées auprès du ministre chargé de
 l'enseignement supérieur au plus tard le vingtième jour avant l'ouverture du
