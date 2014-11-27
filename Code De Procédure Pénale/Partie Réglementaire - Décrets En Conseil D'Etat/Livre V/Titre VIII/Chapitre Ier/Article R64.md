@@ -6,9 +6,9 @@ famille, les prénoms, les dates et lieu de naissance et le sexe des personnes
 âgées de plus de douze ans qui figurent au répertoire national d'identification
 ainsi que les modifications dont ces données auront éventuellement été l'objet.
 
-Cette communication, effectuée sur support magnétique ou par téléinformatique, a
-lieu périodiquement, au moins une fois par an. Il peut y être procédé par
-plusieurs envois séparés.
+Cette communication, effectuée sur support magnétique ou par voie électronique
+sécurisée, a lieu périodiquement, au moins une fois par an. Il peut y être
+procédé par plusieurs envois séparés.
 
 Le service du casier judiciaire national automatisé ne peut utiliser l'extrait
 du répertoire national d'identification des personnes physiques qui lui est

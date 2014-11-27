@@ -10,4 +10,4 @@ Il informe l'Institut national de la statistique et des études économiques de
 toute modification ultérieure de la capacité électorale de ces personnes.
 
 Pour l'application du présent article, les informations peuvent être
-communiquées sur support magnétique ou par téléinformatique.
+communiquées sur support magnétique ou par voie électronique sécurisée.

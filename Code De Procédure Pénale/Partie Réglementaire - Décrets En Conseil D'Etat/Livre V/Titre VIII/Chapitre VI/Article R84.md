@@ -13,3 +13,8 @@ Dans le cas prévu à l'alinéa précédent, la délivrance du bulletin est fait
 par remise en mains propres si le demandeur s'est présenté au service dans les
 conditions fixées au dernier alinéa de l'article R. 82, soit par lettre
 recommandée avec demande d'avis de réception.
+
+Si la demande du bulletin n° 3 émane de l'autorité centrale d'un Etat membre de
+l'Union européenne, la réponse lui est transmise dans un délai de vingt jours
+ouvrables à compter de la date de réception de la demande. Cette réponse peut
+être effectuée par voie électronique sécurisée.

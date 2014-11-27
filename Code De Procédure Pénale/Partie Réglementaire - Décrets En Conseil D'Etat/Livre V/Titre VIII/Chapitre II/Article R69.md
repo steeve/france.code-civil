@@ -45,5 +45,5 @@ peines ayant rendu la décision.
 
 Ces avis sont adressés dans les plus brefs délais au service du casier
 judiciaire national automatisé. Ils peuvent être adressés sous la forme d'un
-support magnétique ou par téléinformatique. Les avis mentionnés aux 2°, 3°, 7°,
-8°, 9° et 10° sont adressés par l'intermédiaire du ministère public.
+support magnétique ou par voie électronique sécurisée. Les avis mentionnés aux
+2°, 3°, 7°, 8°, 9° et 10° sont adressés par l'intermédiaire du ministère public.
