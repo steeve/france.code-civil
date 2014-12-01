@@ -15,4 +15,6 @@ R. 319-16 ;
 l'emprunteur ;
 
 -le coût des travaux induits, indissociablement liés aux travaux d'économies
-d'énergie visés à l'article R. 319-16.
+d'énergie visés à l'article R. 319-16. Un arrêté conjoint des ministres chargés
+de la construction et de l'énergie précise les travaux éligibles au titre du
+présent alinéa.
