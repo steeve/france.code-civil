@@ -1,20 +1,20 @@
 Article R*319-14
 ----
-I.-Pour l'application de la deuxième phrase du 1 du II de l'article 199 ter S du
-code général des impôts, le montant de l'avantage indûment perçu est égal à la
-différence, majorée de 25 %, entre le montant du crédit d'impôt correspondant à
-l'avance effectivement versée et le montant du crédit d'impôt correspondant à
-l'avance dont aurait dû bénéficier l'emprunteur. Dans le cas où le résultat de
-cette dernière soustraction est négatif ou nul, il n'existe pas d'avantage
-indûment perçu à rembourser. Le montant du crédit d'impôt correspondant à
-l'avance dont aurait dû bénéficier l'emprunteur est calculé dans les conditions
-des articles R. 319-5 et R. 319-9, sur la base du même taux S et des éléments
-justifiant des travaux effectivement réalisés, et non du montant de l'avance
-effectivement versé.
+I.-Pour l'application du b du 1 du II de l'article 199 ter S du code général des
+impôts, le montant de l'avantage indûment perçu est égal à la différence,
+majorée de 25 %, entre le montant du crédit d'impôt correspondant à l'avance
+effectivement versée et le montant du crédit d'impôt correspondant à l'avance
+dont aurait dû bénéficier l'emprunteur. Dans le cas où le résultat de cette
+dernière soustraction est négatif ou nul, il n'existe pas d'avantage indûment
+perçu à rembourser. Le montant du crédit d'impôt correspondant à l'avance dont
+aurait dû bénéficier l'emprunteur est calculé dans les conditions des articles
+R. 319-5 et R. 319-9, sur la base du même taux S et des éléments justifiant des
+travaux effectivement réalisés, et non du montant de l'avance effectivement
+versé.
 
-II.-Pour permettre l'application de la deuxième phrase du 1 du II de l'article
-199 ter S du code général des impôts, l'établissement de crédit ou la société de
-financement a l'obligation :
+II.-Pour permettre l'application du b du 1 du II de l'article 199 ter S du code
+général des impôts, l'établissement de crédit ou la société de financement a
+l'obligation :
 
 a) De relancer les emprunteurs qui, deux mois avant l'expiration du délai prévu
 au 5 du I de l'article 244 quater U du code général des impôts, n'ont pas

@@ -16,14 +16,17 @@ référence, au sens du 1° du IV de l'article 1417 du code général des impôt
 foyer fiscal de l'emprunteur lorsque celui-ci relève du 1° ou du 3° du 3 du I de
 l'article 244 quater U du même code ;
 
-- le descriptif des travaux prévus et l'ensemble des devis détaillés associés,
-justifiant du respect des modalités d'attribution définies à l'article R. 319-16
-;
+-le descriptif des travaux prévus faisant notamment apparaître le montant
+prévisionnel des travaux éligibles, signé par chaque entreprise réalisant des
+travaux de performance énergétique, pour les travaux qu'elle réalise et les
+éventuels travaux induits, indissociablement liés à ces travaux, mentionnés à
+l'article R. 319-17 dont elle atteste également l'éligibilité ;
+
+-l'ensemble des devis détaillés associés, justifiant du respect des modalités
+d'attribution définies à l'article R. 319-16 ;
 
 - l'ensemble des certificats du signe de qualité justifiant des modalités
 d'attribution définies au III de l'article R. 319-16 ;
-
-- le montant prévisionnel des dépenses de travaux d'économie d'énergie ;
 
 - dans le cas où l'avance est accordée au titre du VI ter de l'article 244
 quater U du code général des impôts, un justificatif de la date d'émission de

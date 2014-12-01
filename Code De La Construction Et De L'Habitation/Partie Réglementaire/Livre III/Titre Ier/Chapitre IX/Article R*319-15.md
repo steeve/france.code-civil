@@ -1,6 +1,6 @@
 Article R*319-15
 ----
-Dans les situations prévues à la première phrase du 1 et au 2 du II de l'article
+Dans les situations prévues au premier alinéa du 1 et au 2 du II de l'article
 199 ter S du code général des impôts et si l'offre d'avance faite à l'emprunteur
 le mentionnait expressément, l'établissement de crédit ou la société de
 financement peut prévoir de rendre immédiatement exigible le remboursement par
