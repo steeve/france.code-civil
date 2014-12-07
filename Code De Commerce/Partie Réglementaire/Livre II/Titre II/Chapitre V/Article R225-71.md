@@ -11,12 +11,11 @@ l'importance de ce capital, réduit ainsi qu'il suit :
 
 a) 4 % pour les 750 000 premiers euros ;
 
-b) 2, 50 % pour la tranche de capital comprise entre 750 000 et 7 500 000 euros
-;
+b) 2,50 % pour la tranche de capital comprise entre 750 000 et 7 500 000 euros ;
 
 c) 1 % pour la tranche de capital comprise entre 7 500 000 et 15 000 000 euros ;
 
-d) 0, 50 % pour le surplus du capital.
+d) 0,50 % pour le surplus du capital.
 
 La demande d'inscription d'un point à l'ordre du jour est motivée.
 
@@ -36,6 +35,6 @@ financier. Ils transmettent avec leur demande une attestation d'inscription en
 compte.
 
 L'examen du point ou de la résolution est subordonné à la transmission, par les
-auteurs de la demande, d'une nouvelle attestation justifiant de l'enregistrement
-comptable des titres dans les mêmes comptes au troisième jour ouvré précédant
-l'assemblée à zéro heure, heure de Paris.
+auteurs de la demande, d'une nouvelle attestation justifiant de l' inscription
+des titres dans les mêmes comptes au deuxième jour ouvré précédant l'assemblée à
+zéro heure, heure de Paris.

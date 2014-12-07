@@ -1,7 +1,7 @@
 Article R225-73
 ----
-I. - Lorsque les actions de la société sont admises aux négociations sur un
-marché réglementé ou ne revêtent pas toutes la forme nominative, la convocation
+I.-Lorsque les actions de la société sont admises aux négociations sur un marché
+réglementé ou ne revêtent pas toutes la forme nominative, la convocation
 mentionnée à l'article R. 225-66 est précédée d'un avis publié au Bulletin des
 annonces légales obligatoires, trente-cinq jours au moins avant la tenue de
 l'assemblée générale. Ce délai est ramené à quinze jours lorsque l'assemblée
@@ -31,8 +31,8 @@ de délais, dans lesquels ceux-ci peuvent être obtenus et retournés ;
 diffusées les informations mentionnées à l'article R. 225-73-1 et, le cas
 échéant, celle du site internet prévu à l'article R. 225-61 ;
 
-5° La date d'enregistrement définie à l'article R. 225-85, en précisant que
-seuls pourront participer à l'assemblée les actionnaires remplissant à cette
+5° La date d'inscription en compte définie à l'article R. 225-85, en précisant
+que seuls pourront participer à l'assemblée les actionnaires remplissant à cette
 date les conditions prévues par cet article ;
 
 6° Le texte des projets de résolution qui seront présentés à l'assemblée par le
@@ -54,7 +54,7 @@ l'approbation, selon le cas, de l'assemblée spéciale des titulaires d'actions 
 dividende prioritaire sans droit de vote ou des assemblées des masses prévues à
 l'article L. 228-103.
 
-II. - Les demandes d'inscription de points ou de projets de résolution à l'ordre
+II.-Les demandes d'inscription de points ou de projets de résolution à l'ordre
 du jour doivent parvenir à la société au plus tard le vingt-cinquième jour qui
 précède la date de l'assemblée, sans pouvoir être adressées plus de vingt jours
 après la date de l'avis mentionné au I.
