@@ -4,7 +4,7 @@ Les différentes formations de l'assemblée générale sont réunies au moins un
 fois par an, au cours du mois de novembre. Elles sont, en outre, convoquées par
 leur président : 1° Soit à son initiative ; 2° Soit à la demande de la majorité
 de leurs membres ; 3° Soit à la demande des deux tiers des membres de la
-commission permanente pour la réunion de l'assemblée plénière ; 4° Soit à la
+commission plénière pour la réunion de l'assemblée plénière ; 4° Soit à la
 demande des deux tiers des membres d'une commission restreinte pour la réunion
 de la formation de l'assemblée générale correspondante. Les réunions de
 l'assemblée générale se tiennent pendant les heures ouvrables dans les

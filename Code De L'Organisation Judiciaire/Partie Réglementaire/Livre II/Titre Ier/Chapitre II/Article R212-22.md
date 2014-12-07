@@ -6,8 +6,9 @@ conditions prévues à la présente section selon l'une des formations suivantes
 parquet ; 3° L'assemblée des magistrats du siège et du parquet ; 4° Les
 assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome ;
 5° L'assemblée plénière des magistrats et des fonctionnaires. L'assemblée
-plénière des magistrats et des fonctionnaires comporte une commission
-permanente. Dans les tribunaux de grande instance comportant un effectif d'au
-moins vingt magistrats, l'assemblée des magistrats du siège, l'assemblée des
-magistrats du siège et du parquet et les assemblées des fonctionnaires du greffe
-et du secrétariat de parquet autonome comportent une commission restreinte.
+plénière des magistrats et des fonctionnaires comporte une commission plénière .
+Dans les tribunaux de grande instance comportant un effectif d'au moins vingt
+magistrats, l'assemblée des magistrats du siège, l'assemblée des magistrats du
+parquet, l'assemblée des magistrats du siège et du parquet et les assemblées des
+fonctionnaires du greffe et du secrétariat de parquet autonome comportent une
+commission restreinte.

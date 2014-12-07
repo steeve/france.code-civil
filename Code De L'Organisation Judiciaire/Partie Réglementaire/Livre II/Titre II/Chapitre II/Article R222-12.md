@@ -5,4 +5,4 @@ d'instance sur les projets de loi ou sur d'autres questions d'intérêt public, 
 magistrat chargé de la direction et de l'administration de la juridiction
 convoque celle-ci en assemblée générale. Ce magistrat détermine, selon l'objet
 de la consultation, après avis du procureur de la République et de la commission
-permanente, la formation de l'assemblée générale qui doit être réunie.
+plénière , la formation de l'assemblée générale qui doit être réunie.

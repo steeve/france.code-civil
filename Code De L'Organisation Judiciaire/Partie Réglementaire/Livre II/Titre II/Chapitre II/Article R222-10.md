@@ -11,5 +11,5 @@ d'au moins dix fonctionnaires ; dans les autres tribunaux d'instance, il n'est
 tenu une assemblée des fonctionnaires du greffe que si la moitié des effectifs
 le demande ; 4° L'assemblée plénière des magistrats et des fonctionnaires.
 L'assemblée plénière des magistrats et des fonctionnaires comporte une
-commission permanente. Chacune des autres assemblées peut constituer une
+commission plénière . Chacune des autres assemblées peut constituer une
 commission restreinte.
