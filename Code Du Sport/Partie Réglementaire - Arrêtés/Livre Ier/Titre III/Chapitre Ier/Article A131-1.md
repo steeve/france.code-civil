@@ -27,8 +27,6 @@ Fédération française de canoë-kayak : Canoë-Kayak information.
 
 Fédération française de course d'orientation : Course orientation magazine.
 
-Fédération française de cyclisme : La France cycliste.
-
 Fédération française de danse : Danse danse danse.
 
 Fédération française d'études et de sports sous-marins : Subaqua.
