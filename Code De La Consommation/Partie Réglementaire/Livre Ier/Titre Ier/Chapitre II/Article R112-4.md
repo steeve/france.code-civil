@@ -1,10 +1,8 @@
 Article R112-4
 ----
-On entend par liquide de couverture les produits énumérés ci-après, seuls ou en
-mélange et également lorsqu'ils se présentent à l'état congelé ou surgelé, dès
-lors qu'ils ne sont qu'accessoires par rapport aux éléments essentiels de la
-préparation et ne sont par conséquent pas décisifs pour l'achat, tels que eau,
-solutions aqueuses de sels, saumures, solutions aqueuses d'acides alimentaires,
-vinaigre, solutions aqueuses de sucres, solutions aqueuses d'autres substances
-ou matières édulcorantes, jus de fruits ou de légumes dans le cas de fruits ou
-légumes.
+Lorsque les denrées alimentaires ne sont pas préemballées, la mention, et, le
+cas échéant, la lettre "L" figurent sur l'emballage ou le récipient ou, à
+défaut, sur les documents commerciaux s'y référant.
+
+Elle y figure dans tous les cas de manière à être facilement visible, clairement
+lisible et indélébile.

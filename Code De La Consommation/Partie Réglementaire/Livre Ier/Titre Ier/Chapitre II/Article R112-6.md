@@ -1,6 +1,5 @@
 Article R112-6
 ----
-Il est interdit de détenir en vue de la vente ou de la distribution à titre
-gratuit, de mettre en vente, de vendre ou de distribuer à titre gratuit des
-denrées alimentaires dont l'étiquetage ou la présentation ne sont pas conformes
-aux prescriptions du présent chapitre.
+En application de l'article 15 du règlement (UE) n° 1169/2011 du Parlement du 25
+octobre 2011, les mentions d'étiquetage commercialisées sur le territoire
+national sont rédigées en langue française.

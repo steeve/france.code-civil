@@ -1,11 +1,11 @@
 Article R112-8
 ----
-Toutes les mentions d'étiquetage prévues par le présent chapitre doivent être
-facilement compréhensibles, rédigées en langue française et sans autres
-abréviations que celles prévues par la réglementation ou les conventions
-internationales. Elles sont inscrites à un endroit apparent et de manière à être
-visibles, clairement lisibles et indélébiles. Elles ne doivent en aucune façon
-être dissimulées, voilées ou séparées par d'autres indications ou images.
+Sont interdites la détention en vue de la vente ou de la distribution à titre
+gratuit, la mise en vente, la vente ou la distribution à titre gratuit des
+denrées alimentaires comportant une date limite de consommation dès lors que
+cette date est dépassée.
 
-Les mentions d'étiquetage prévues par le présent chapitre peuvent figurer en
-outre dans une ou plusieurs autres langues.
+Sont également interdites la détention en vue de la vente ou de la distribution
+à titre gratuit, la mise en vente, la vente ou la distribution à titre gratuit
+des denrées alimentaires entreposées dans des conditions non conformes à celles
+qui sont prescrites dans leur étiquetage.

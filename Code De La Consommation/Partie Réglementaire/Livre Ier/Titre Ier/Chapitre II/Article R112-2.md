@@ -1,9 +1,16 @@
 Article R112-2
 ----
-On entend par ingrédient toute substance, y compris les additifs et les enzymes,
-utilisée dans la fabrication ou la préparation d'une denrée alimentaire et
-encore présente dans le produit fini, éventuellement sous une forme modifiée ;
+Une denrée alimentaire ne peut être commercialisée que si elle est accompagnée
+d'une mention qui permet d'identifier le lot auquel elle appartient. On entend
+par "lot" un ensemble d'unités de vente d'une denrée alimentaire qui a été
+produite, fabriquée ou conditionnée dans des circonstances pratiquement
+identiques.
 
-Lorsqu'un ingrédient d'une denrée alimentaire a été élaboré à partir de
-plusieurs ingrédients, ces derniers sont considérés comme ingrédients de cette
-denrée.
+Le lot est déterminé par le producteur, fabricant ou conditionneur de la denrée
+alimentaire, ou par le premier vendeur établi à l'intérieur de l'Union
+européenne.
+
+La mention permettant d'identifier le lot est déterminée et apposée sous la
+responsabilité de l'un ou l'autre de ces opérateurs. Elle est précédée par la
+lettre "L", sauf dans le cas où elle se distingue clairement des autres mentions
+d'étiquetage.
