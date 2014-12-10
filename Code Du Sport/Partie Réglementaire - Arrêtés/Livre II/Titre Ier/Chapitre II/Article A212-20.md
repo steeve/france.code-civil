@@ -6,7 +6,8 @@ une habilitation pour la spécialité préparée et, quand elle existe, pour une
 mention donnée de cette spécialité.
 
 Un dossier de demande d'habilitation est déposé dans les conditions fixées par
-le directeur régional de la jeunesse, des sports et de la cohésion sociale.
+le directeur régional de la jeunesse, des sports et de la cohésion sociale. Le
+défaut de réponse dans un délai de six mois vaut autorisation.
 
 1. Ce dossier comprend, pour une demande initiale :
 
