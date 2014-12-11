@@ -1,4 +1,4 @@
 Article R541-65
 ----
-La présente section s'applique aux installations de stockage de déchets inertes
-régies par l'article L. 541-30-1.
+L'autorisation mentionnée au I de l'article L. 541-30-1 est délivrée dans les
+conditions fixées au titre Ier du présent livre.

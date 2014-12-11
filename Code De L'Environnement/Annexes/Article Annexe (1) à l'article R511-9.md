@@ -1942,9 +1942,10 @@ A
 
 1185
 
-Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou
-substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n°
-1005/2009 (fabrication, emploi, stockage).
+Gaz à effet de serre fluorés visés à l'annexe du règlement (UE) n° 517/2014
+relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n°
+842/2006 ou substances qui appauvrissent la couche d'ozone visées par le
+règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
 
 1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du
 nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage,
