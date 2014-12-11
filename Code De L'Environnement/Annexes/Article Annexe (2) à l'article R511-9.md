@@ -881,6 +881,13 @@ kérosènes dont le point éclair est supérieur ou égal à 55 o C
 
 6
 
+e) Supérieure ou égale à 25 000 t pour les fiouls lourds
+
+
+AS
+
+4
+
 2. stockage de liquides inflammables visés à la rubrique 1430 :
 
 2. Stockage de liquides inflammables visés à la rubrique 1430 représentant une

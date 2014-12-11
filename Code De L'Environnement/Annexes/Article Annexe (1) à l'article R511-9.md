@@ -2358,12 +2358,14 @@ D
 
 1310
 
-Produits explosifs (fabrication, chargement, encartouchage, conditionnement (1)
+Produits explosifs (fabrication, chargement, encartouchage, conditionnement [1]
 de, études et recherches, essais, montage, assemblage, mise en liaison
 électrique ou pyrotechnique de et travail mécanique sur)
 
-1. Fabrication industrielle par transformation chimique de la quantité totale de
-matière active susceptible d'être présente dans l'installation étant (2) :
+1. Fabrication industrielle par transformation chimique
+
+La quantité totale de matière active susceptible d'être présente dans
+l'installation étant (2) :
 
 1. La quantité totale de matière active susceptible d'être présente dans
 l'installation étant :
@@ -2395,8 +2397,10 @@ b) Inférieure à 10 t
 2. Autres fabrications (3), chargement, encartouchage, conditionnement (1) de,
 études et recherches, essais, montage, assemblage, mise en liaison électrique ou
 pyrotechnique de et travail mécanique sur, à l'exclusion des opérations
-effectuées sur le lieu d'utilisation en vue de celle-ci. La quantité totale de
-matière active susceptible d'être présente dans l'installation étant (2) :
+effectuées sur le lieu d'utilisation en vue de celle-ci.
+
+La quantité totale de matière active susceptible d'être présente dans
+l'installation étant (2) :
 
 2. La quantité totale de matière active susceptible d'être présente dans
 l'installation étant :
@@ -2448,7 +2452,7 @@ a) Supérieure ou égale à 100 kg
 b) Inférieure à 100 kg
 
 
-DC
+D
 
 Nota : (1) Les opérations de manipulation, manutention, conditionnement,
 reconditionnement, mise au détail ou distribution réalisées dans les espaces de
