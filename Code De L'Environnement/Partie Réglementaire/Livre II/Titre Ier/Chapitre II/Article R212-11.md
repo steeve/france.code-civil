@@ -6,9 +6,10 @@ surface artificielles ou fortement modifiées par les activités humaines et les
 motifs pour lesquels ces masses d'eau ont été ainsi désignées. Cette désignation
 fait l'objet d'un réexamen lors de chacune des mises à jour du schéma.
 
-Le schéma directeur comporte également la liste des projets mentionnés au
-deuxième alinéa de l'article R. 212-7 et indique les raisons des modifications
-qu'ils apportent à la masse d'eau affectée.
+Le schéma directeur rappelle les projets figurant dans la liste arrêtée par le
+préfet, en application du VII de l'article L. 212-1, à la date de la
+consultation du public et contient les éléments prévus au dernier alinéa du I
+bis de l'article R. 212-16.
 
 II.-Une masse d'eau de surface artificielle ou fortement modifiée relève du
 régime prévu au 2° du IV de l'article L. 212-1 lorsque sont réunies les

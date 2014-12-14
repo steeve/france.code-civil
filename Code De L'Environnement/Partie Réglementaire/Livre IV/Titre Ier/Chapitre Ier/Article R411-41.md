@@ -10,8 +10,9 @@ au bénéficiaire de l'autorisation, faire capturer puis relâcher les animaux
 concernés.
 
 Le lâcher des animaux est effectué après une évaluation de ses conséquences par
-le préfet du département où il a lieu. Le public et les communes intéressés par
-cette opération en sont informés.
+le préfet du département où il a lieu. Les communes intéressées par cette
+opération en sont informées. La participation du public est organisée dans les
+conditions prévues à l'article L. 120-1-2.
 
 La procédure décrite à l'alinéa précédent peut également être appliquée lorsque
 l'autorité administrative doit relâcher dans un nouveau territoire des animaux

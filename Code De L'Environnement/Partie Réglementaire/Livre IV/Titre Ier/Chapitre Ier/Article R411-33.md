@@ -1,8 +1,8 @@
 Article R411-33
 ----
-Le préfet détermine, par arrêté, au plus tard trente jours après la date
-d'enregistrement du dossier, les conditions dans lesquelles celui-ci sera mis à
-la disposition du public et des collectivités territoriales intéressées.
+Le préfet met le dossier à disposition des collectivités territoriales
+intéressées, qui disposent d'un délai de deux mois à compter de leur saisine
+pour communiquer leur avis au préfet.
 
 Lorsque l'opération est susceptible d'affecter le territoire de plusieurs
 départements, le préfet du lieu d'introduction en informe les préfets des autres
