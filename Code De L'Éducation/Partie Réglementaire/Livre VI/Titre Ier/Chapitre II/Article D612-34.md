@@ -32,3 +32,20 @@ liste établie après une évaluation nationale périodique de ces diplômes, pa
 arrêté du ministre chargé de l'enseignement supérieur après avis conforme du ou
 des ministres dont relèvent les établissements concernés et après avis du
 Conseil national de l'enseignement supérieur et de la recherche.
+
+5° Des diplômes de santé suivants :
+
+a) D'un diplôme de formation approfondie en sciences médicales à l'issue de
+l'année universitaire 2015-2016 ;
+
+b) D'un diplôme de formation approfondie en sciences pharmaceutiques à l'issue
+de l'année universitaire 2014-2015 ;
+
+c) D'un diplôme de formation approfondie en sciences odontologiques à l'issue de
+l'année universitaire 2014-2015 ;
+
+d) D'un diplôme d'Etat de sage-femme à l'issue de l'année universitaire
+2014-2015 ;
+
+e) Du certificat de capacité d'orthophoniste à l'issue de l'année universitaire
+2017-2018.
