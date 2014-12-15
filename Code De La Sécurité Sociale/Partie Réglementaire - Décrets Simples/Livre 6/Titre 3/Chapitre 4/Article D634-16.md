@@ -1,14 +1,10 @@
 Article D634-16
 ----
 La fraction de pension de vieillesse servie en application de l'article L.
-634-3-1 est fixée à :
-
-1. 30 p. 100 pour une réduction de 20 à 40 p. 100 des revenus tirés de
-l'activité artisanale, industrielle ou commerciale ;
-
-2. 50 p. 100 pour une réduction de 40 à 60 p. 100 ;
-
-3. 70 p. 100 pour une réduction de plus de 60 p. 100.
+634-3-1 est égale à la différence entre 100 % et la fraction de réduction des
+revenus tirés de l'activité artisanale, industrielle ou commerciale, sans que la
+fraction de cette réduction ne puisse être inférieure à 40 % et supérieure à 80
+%.
 
 Le pourcentage de réduction des revenus est calculé au 1er juillet de chaque
 année en fonction du rapport existant entre les revenus de l'année précédente

@@ -2,8 +2,7 @@ Article R351-44
 ----
 Les caisses chargées de la liquidation des droits à prestations de vieillesse
 communiquent aux caisses gestionnaires des régimes de base obligatoires
-d'assurance vieillesse mentionnés au 2° du premier alinéa de l'article L. 351-15
-:
+d'assurance vieillesse mentionnés au quatrième alinéa de l'article L. 351-15 :
 
 1° La date d'entrée en jouissance de la pension de vieillesse liquidée en
 application de l'article L. 351-15 ;

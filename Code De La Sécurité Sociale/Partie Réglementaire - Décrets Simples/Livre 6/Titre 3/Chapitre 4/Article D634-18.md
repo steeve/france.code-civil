@@ -1,8 +1,8 @@
 Article D634-18
 ----
 Pendant la première année et le premier semestre de l'année suivante, la
-fraction de pension de vieillesse est fixée à titre provisionnel au taux prévu
-au 2 de l'article D. 634-16.
+fraction de pension de vieillesse est fixée à titre provisionnel au taux de 50 %
+des revenus tirés de l'activité artisanale, industrielle ou commerciale.
 
 A compter du 1er juillet de la deuxième année et chaque 1er juillet, il est
 éventuellement procédé à la révision de la fraction de pension en fonction du

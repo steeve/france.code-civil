@@ -1,13 +1,10 @@
 Article R351-41
 ----
 La fraction de pension de vieillesse servie en application de l'article L.
-351-15 est fixée à :
+351-15 est égale à la différence entre 100 % et la quotité de travail à temps
+partiel par rapport à la durée du travail à temps complet dans l'entreprise,
+sans que la quotité de travail à temps partiel ne puisse être inférieure à 40 %
+et supérieure à 80 %.
 
-1° 30 % lorsque la durée de travail à temps partiel est au plus égale à 80 % et
-au moins égale à 60 % de la durée de travail à temps complet ;
-
-2° 50 % lorsque la durée de travail à temps partiel est inférieure à 60 % et au
-moins égale à 40 % de la durée de travail à temps complet ;
-
-3° 70 % lorsque la durée de travail à temps partiel est inférieure à 40 % de la
-durée de travail à temps complet.
+Par dérogation aux dispositions prévues à l'article R. 351-27, le coefficient de
+minoration du taux plein prévu au 2° du même article ne peut excéder 25 %.

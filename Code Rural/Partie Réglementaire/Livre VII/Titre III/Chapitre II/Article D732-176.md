@@ -2,8 +2,8 @@ Article D732-176
 ----
 La caisse chargée de la liquidation des droits à prestations de vieillesse de
 l'assuré communique aux caisses gestionnaires des régimes de base obligatoires
-d'assurance vieillesse mentionnés au 2° de l'article L. 351-15 du code de la
-sécurité sociale :
+d'assurance vieillesse mentionnés au quatrième alinéa de l'article L. 351-15 du
+code de la sécurité sociale :
 
 1° La date d'entrée en jouissance de la pension de vieillesse liquidée en
 application de l'article L. 732-29 ;
