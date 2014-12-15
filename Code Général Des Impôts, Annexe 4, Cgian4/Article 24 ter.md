@@ -1,5 +1,5 @@
 Article 24 ter
 ----
-La preuve de l'exportation est apportée au moyen du document justificatif de
-l'exportation dûment visé par le bureau de douane de sortie de la Communauté
-européenne.
+Après les mots : "au moyen", la fin de l'article est ainsi rédigée : "du
+bordereau de vente à l'exportation dûment visé par le service douanier de sortie
+de l'Union européenne".
