@@ -7,9 +7,9 @@ par la caisse ou de la reprise de son activité, en lui adressant une déclarati
 qui précise son lieu d'exercice ainsi que, le cas échéant, la date de la
 réinscription au tableau. Lorsqu'il entend cumuler le bénéfice de cette pension
 de retraite avec son revenu d'activité, il joint à cette déclaration une
-attestation sur l'honneur énumérant les différents régimes mentionnés au
-deuxième alinéa de l'article L. 723-11-1 dont il a relevé et certifiant qu'il
-est entré en jouissance de toutes ses pensions de vieillesse personnelles.
+attestation sur l'honneur énumérant les différents régimes mentionnés au premier
+alinéa de l'article L. 723-11-1 dont il a relevé et certifiant qu'il est entré
+en jouissance de toutes ses pensions de vieillesse personnelles.
 
 Le défaut de production, dans le délai prescrit, des documents prévus à l'alinéa
 précédent entraîne une pénalité d'un montant égal à celui fixé en application de
@@ -20,7 +20,6 @@ pénalités sont recouvrées dans les mêmes conditions et sous les mêmes garan
 et sanctions que les majorations de retard afférentes aux cotisations dues au
 titre du présent chapitre.
 
-Les dispositions des deuxième, troisième et quatrième alinéas de l'article L.
-723-11-1 sont applicables aux pensions dues à compter du premier jour du
-trimestre qui suit celui au cours duquel l'assuré remplit les conditions prévues
-par ces dispositions.
+Les dispositions de l'article L. 723-11-1 sont applicables aux pensions dues à
+compter du premier jour du trimestre qui suit celui au cours duquel l'assuré
+remplit les conditions prévues par ces dispositions.
