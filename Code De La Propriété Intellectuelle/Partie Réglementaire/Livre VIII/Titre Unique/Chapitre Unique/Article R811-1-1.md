@@ -1,5 +1,7 @@
-Article R611-13
+Article R811-1-1
 ----
+Les dispositions suivantes sont applicables dans les îles Wallis et Futuna.
+
 I.-1° Lorsque un ou plusieurs fonctionnaires ou agents publics exerçant leur
 activité pour le compte de plusieurs personnes publiques investies d'une mission
 de recherche sont à l'origine d'une même invention, celle de ces personnes qui a
