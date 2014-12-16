@@ -24,13 +24,16 @@ qui sont mentionnés au 1° ci-dessus ;
 6° De 70 à 75 % pour les médicaments principalement destinés au traitement des
 troubles ou affections sans caractère habituel de gravité et pour les
 médicaments dont le service médical rendu, tel que défini au I de l'article R.
-163-3, a été classé comme modéré en application du 6° de l'article R. 163-18 ;
+163-3, a été classé comme modéré en application du 6° de l'article R. 163-18,
+ainsi que pour l'honoraire de dispensation prévu au 7° de l'article L. 162-16-1
+et y afférent ;
 
 7° De 70 à 75 % pour les spécialités homéopathiques, dès lors qu'elles sont
 inscrites sur la liste établie en application du premier alinéa de l'article L.
 162-17 et pour les préparations homéopathiques répondant aux conditions définies
 au 11° de l'article L. 5121-1 du code de la santé publique prises en charge par
-l'assurance maladie ;
+l'assurance maladie, ainsi que pour l'honoraire de dispensation prévu au 7° de
+l'article L. 162-16-1 et y afférent ;
 
 8° de 40 à 50 % pour les frais de produits et prestations figurant sur la liste
 mentionnée à l'article L. 165-1 ;
@@ -50,4 +53,6 @@ l'article R. 162-32-1 facturés en sus des forfaits mentionnés au 12° ;
 
 14° De 80 à 90 % pour les médicaments dont le service médical rendu, tel que
 défini au I de l'article R. 163-3, a été classé comme faible, dans toutes les
-indications thérapeutiques, en application du 6° de l'article R. 163-18.
+indications thérapeutiques, en application du 6° de l'article R. 163-18, ainsi
+que pour l'honoraire de dispensation prévu au 7° de l'article L. 162-16-1 et y
+afférent.
