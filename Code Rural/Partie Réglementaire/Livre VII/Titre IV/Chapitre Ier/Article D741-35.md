@@ -24,10 +24,10 @@ régime spécial de la sécurité sociale dans les mines pour le risque vieilles
 et invalidité (pensions), le taux de la cotisation, à la charge de l'employeur
 sur les rémunérations et gains du salarié, affectée à la couverture des dépenses
 de l'assurance maladie, maternité, invalidité et décès du régime des salariés
-agricoles, est fixé au 2° de l'article 1er du décret n° 67-804 du 20 septembre
-1967 portant fixation des taux de cotisations d'assurances sociales dues au
-titre de l'emploi des salariés placés sous le régime général pour une partie des
-risques.
+agricoles, est égal au taux fixé à l'article 1er du décret n° 67-804 du 20
+septembre 1967 portant fixation des taux de cotisations d'assurances sociales
+dues au titre de l'emploi des salariés placés sous le régime général pour une
+partie des risques, réduit de 1,05 point .
 
 Pour les personnes mentionnées au deuxième alinéa de l'article L. 131-9 du code
 de la sécurité sociale qui relèvent d'un régime spécial de sécurité sociale, le
@@ -45,13 +45,6 @@ suivantes :
 1949 majorant les indemnités dues au titre des accidents du travail, le taux de
 cette cotisation est fixé à 15,80 % du montant de la rente perçue par l'assuré
 dans la limite du plafond prévu à l'article L. 241-3 du code de la sécurité
-sociale ;
+sociale.
 
-2° Pour les anciens mineurs reconvertis dans un emploi salarié agricole et
-maintenus au régime spécial de la sécurité sociale dans les mines pour les
-risques maladie, maternité, décès et soins d'invalidité, les taux des
-cotisations, à la charge de l'employeur sur les rémunérations et gains du
-salarié, affectées à la couverture des dépenses de l'assurance vieillesse et
-invalidité (pensions) du régime des salariés agricoles, sont respectivement
-fixés à l'article 1er bis et au 4 de l'article 1er du décret n° 67-804 du 20
-septembre 1967 susmentionné.
+2° Abrogé

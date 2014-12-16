@@ -6,16 +6,16 @@ indiqué dans le tableau suivant :
 
 RÉMUNÉRATIONS VERSÉES
 
-SUR LA PART DE LA RÉMUNÉRATION
+SUR LA PART
 
-dans la limite du plafond prévu
+de la rémunération dans la limite du plafond
 
-au premier alinéa de l'article L. 241-3
+prévu au premier alinéa de l'article L. 241-3
 
 
 SUR LA TOTALITÉ
 
-des rémunérations
+de la rémunération
 
 
 Employeur
@@ -26,17 +26,6 @@ Salarié
 Employeur
 
 Salarié
-
-
-Du 1er janvier au 31 décembre 2014
-
-8,45 %
-
-6,80 %
-
-1,75 %
-
-0,25 %
 
 
 Du 1er janvier au 31 décembre 2015
@@ -45,17 +34,28 @@ Du 1er janvier au 31 décembre 2015
 
 6,85 %
 
-1,75 %
+1,80 %
 
-0,25 %
+0,30 %
 
 
-A compter du 1er janvier 2016
+Du 1er janvier au 31 décembre 2016
 
 8,55 %
 
 6,90 %
 
-1,75 %
+1,85 %
 
-0,25 %
+0,35 %
+
+
+A compter du 1er janvier 2017
+
+8,55 %
+
+6,90 %
+
+1,90 %
+
+0,40 %
