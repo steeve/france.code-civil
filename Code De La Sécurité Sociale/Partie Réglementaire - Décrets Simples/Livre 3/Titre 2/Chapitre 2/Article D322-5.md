@@ -3,10 +3,12 @@ Article D322-5
 Le montant de la franchise prévue au III de l'article L. 322-2 est fixé ainsi
 qu'il suit :
 
-a) 0,5 euro pour les médicaments mentionnés au 1° dudit III. Ce montant
-s'applique par unité de conditionnement de médicament. Toutefois, lorsque le
-médicament est délivré au titre de l'article L. 5126-4 du code de la santé
-publique, il s'applique par médicament prescrit ;
+a) 0,5 euro pour les frais d'acquisition des médicaments mentionnés au 1° dudit
+III, comprenant le médicament et l'honoraire de dispensation prévu au 7° de
+l'article L. 162-16-1 y afférent. Ce montant s'applique par unité de
+conditionnement de médicament. Toutefois, lorsque le médicament est délivré au
+titre de l'article L. 5126-4 du code de la santé publique, il s'applique par
+médicament prescrit ;
 
 b) 0,5 euro par acte effectué par un auxiliaire médical ;
 
