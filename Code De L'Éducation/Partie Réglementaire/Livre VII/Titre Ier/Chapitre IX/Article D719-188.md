@@ -8,9 +8,9 @@ de l'autonomie pédagogique, administrative et financière :
 occidentale par le décret n° 2004-1436 du 23 décembre 2004 portant rattachement
 de l'Ecole nationale d'ingénieurs de Brest à l'université de Brest ;
 
-2° Ecole nationale d'ingénieurs de Metz, rattachée à l'université de Lorraine
-par décret du 18 février 1986 portant rattachement de l'Ecole nationale
-d'ingénieurs de Metz à l'université de Metz ;
+2° Ecole nationale d'ingénieurs de Metz associée à l'université de Lorraine par
+le décret n° 2014-1529 du 17 décembre 2014 portant association de l'Ecole
+nationale d'ingénieurs de Metz à l'université de Lorraine ;
 
 3° Ecole nationale d'ingénieurs de Tarbes, rattachée à l'institut national
 polytechnique de Toulouse par le décret n° 2002-1107 du 30 août 2002 portant
