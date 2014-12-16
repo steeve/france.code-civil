@@ -8,9 +8,9 @@ base de leur valeur de réalisation, dans les conditions ci-après :
 a) Les valeurs mobilières cotées et les titres cotés de toute nature sont
 retenus pour le dernier cours coté au jour de l'inventaire ;
 
-b) Les titres non cotés sont retenus pour leur valeur vénale correspondant au
-prix qui en serait obtenu dans des conditions normales de marché et en fonction
-de leur utilité pour l'institution ou l'union ;
+b) Les titres non cotés et les prêts sont retenus pour leur valeur vénale
+correspondant au prix qui en serait obtenu dans des conditions normales de
+marché et en fonction de leur utilité pour l'institution ou l'union ;
 
 c) Les actions de sociétés d'investissement à capital variable et les parts de
 fonds communs de placement sont retenues pour le dernier prix de rachat publié

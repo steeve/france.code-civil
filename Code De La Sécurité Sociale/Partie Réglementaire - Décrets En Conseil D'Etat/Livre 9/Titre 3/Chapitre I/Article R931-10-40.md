@@ -1,7 +1,7 @@
 Article R931-10-40
 ----
-I.-Les valeurs amortissables énumérées aux 1°, 2°, 3°, 3° bis et 3° ter de
-l'article R. 931-10-21, autres que les obligations indexées, les parts de fonds
+I.-Les valeurs amortissables énumérées aux 1°, 2°, 3° et 3° bis de l'article R.
+931-10-21, autres que les obligations et les parts indexées, les parts de fonds
 communs de créances et les titres participatifs, sont inscrits à leur prix
 d'achat à la date d'acquisition.
 

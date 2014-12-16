@@ -24,8 +24,10 @@ de l'actif ;
 
 6° Provision pour risque d'exigibilité : provision destinée à faire face aux
 engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
-l'article R. 212-53. La provision à constituer est calculée dans les conditions
-définies au I de l'article R. 212-24 ;
+l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou
+l'union a la capacité et l'intention de détenir jusqu'à leur maturité. La
+provision à constituer est calculée dans les conditions définies au I de
+l'article R. 212-24 ;
 
 7° Provision pour frais d'acquisition reportés : provision destinée à couvrir
 les charges résultant du report des frais d'acquisition constaté en application

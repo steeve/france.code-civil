@@ -29,11 +29,10 @@ dispersion définie à l'article R. 332-3.
 et 9° sexies de l'article R. 332-2 ;
 
 3° 1 % pour les valeurs mentionnées aux 2° quater, 6°, 7°, 7° bis, 7° ter, 7°
-quinquies, 9° quinquies et 12° bis de l'article R. 332-2 et les prêts mentionnés
-aux troisième et quatrième alinéas du 1° de l'article R. 332-13, respectivement
-émises ou obtenus par une même société, un même organisme ou un même
-compartiment tel que défini à l'article L. 214-169 du code monétaire et
-financier.
+quinquies, 9 quinquies, 12 bis et 12° ter de l'article R. 332-2 et les prêts
+mentionnés aux troisième et quatrième alinéas du 1° de l'article R. 332-13,
+respectivement émises ou obtenus par une même société, un même organisme ou un
+même compartiment d'une société ou d'un organisme.
 
 Une entreprise ne peut affecter à la représentation de ses engagements
 réglementés plus de 50 % des actions émises par une même société mentionnée au

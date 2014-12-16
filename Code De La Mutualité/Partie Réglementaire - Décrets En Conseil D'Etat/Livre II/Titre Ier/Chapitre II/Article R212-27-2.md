@@ -48,8 +48,10 @@ contrats non couvertes par ailleurs ;
 
 10° Provision pour risque d'exigibilité : provision destinée à faire face aux
 engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
-l'article R. 212-53. La provision à constituer est calculée dans les conditions
-définies au I de l'article R. 212-24 ;
+l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou
+l'union a la capacité et l'intention de détenir jusqu'à leur maturité . La
+provision à constituer est calculée dans les conditions définies au I de
+l'article R. 212-24 ;
 
 11° Provision pour risques en cours : provisions constituées en sus de la
 provision pour primes non acquises pour couvrir les risques à assumer par

@@ -29,10 +29,11 @@ valeurs détenues par ces organismes ;
 2° 10 % pour un même immeuble ou pour les valeurs mentionnées au 12° à 12° bis
 et 12° quinquies de l'article R. 931-10-21 ;
 
-3° 1 % pour les valeurs mentionnées du 8° au 10° et 12° quater de l'article R.
-931-10-21 et les prêts mentionnés au troisième alinéa du 1° de l'article R.
-931-10-34, respectivement émises ou obtenus par une même société ou un même
-organisme.
+3° 1 % pour les valeurs mentionnées aux 3° ter, 8°, 9°, 9° bis, 9° ter, 9°
+quinquies, 12° quater et 15° bis de l'article R. 931-10-21 et les prêts
+mentionnés aux troisième et quatrième alinéas du 1° de l'article R. 931-10-34,
+respectivement émises ou obtenus par une même société, un même organisme ou un
+même compartiment d'une société ou d'un organisme.
 
 Pour l'application des dispositions du 6° de l'article R. 931-10-21, une
 institution de prévoyance ou une union d'institutions de prévoyance ne peut

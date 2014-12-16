@@ -1,9 +1,9 @@
 Article R212-52
 ----
-I.-Les valeurs amortissables énumérées aux 1°, 2°, 3°, 4° et 4° bis de l'article
-R. 212-31, autres que les obligations indexées, les parts de fonds communs de
-créance et les titres participatifs, sont inscrites à leur prix d'achat à la
-date d'acquisition.
+I.-Les valeurs amortissables énumérées aux 1°, 2°, 3° et 4° de l'article R.
+212-31, autres que les obligations et les parts indexées, les parts de fonds
+communs de créance et les titres participatifs, sont inscrites à leur prix
+d'achat à la date d'acquisition.
 
 Lorsqu'un instrument financier à terme est utilisé dans les conditions définies
 à l'article R. 212-71 et qu'il est lié à l'achat d'un titre ou d'un groupe de

@@ -27,10 +27,11 @@ au prorata de leur participation, les valeurs détenues par ces organismes ;
 2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° bis
 et 14° quinquies de l'article R. 212-31 ;
 
-3° 1 % pour les valeurs mentionnées aux 9°, 10°, 10° bis, 10° ter et 14° quater
-de l'article R. 212-31 et les prêts mentionnés au troisième alinéa du I de
-l'article R. 212-45, respectivement émises ou obtenus par une même société ou un
-même organisme.
+3° 1 % pour les valeurs mentionnées aux 4° bis, 9°, 10°, 10° bis, 10° ter, 11°
+bis, 14° quater et 17° bis de l'article R. 212-31 et les prêts mentionnés aux
+troisième et quatrième alinéas du I de l'article R. 212-45, respectivement
+émises ou obtenus par une même société, un même organisme ou un même
+compartiment d'une société ou d'un organisme.
 
 Pour l'application des dispositions du 7° de l'article R. 212-31, une mutuelle
 ou union ne peut affecter à la représentation de ses engagements réglementés

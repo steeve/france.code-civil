@@ -98,10 +98,10 @@ l'article R. 214-190 du code monétaire et financier ;
 R. 214-186 du code monétaire et financier et des placements collectifs
 mentionnés au III de l'article L. 214-24 du même code ;
 
-7° quinquies Parts des fonds d'investissement professionnels spécialisés
-mentionnés à l'article L. 214-154 du code monétaire et financier, respectant les
-règles prévues à l'article R. 332-14-2, à l'exception de la seconde phrase du 1°
-du II de cet article ;
+7° quinquies Parts ou actions des fonds professionnels spécialisés mentionnés à
+l'article L. 214-154 du code monétaire et financier, respectant les règles
+prévues à l'article R. 332-14-2, à l'exception du septième alinéa du II de cet
+article ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement, autres que celles mentionnées aux 3° et 7° à 7° quinquies,
@@ -164,6 +164,11 @@ II du code monétaire et financier, dont l'actif est composé exclusivement de
 valeurs mentionnées au 10° ou au 11° du présent article et des actifs mentionnés
 aux 2°, 3° et 4° du II de l'article R. 332-14-2, et respectant les règles
 prévues aux III, V, VI et VII de l'article R. 332-14-2 ;
+
+12° ter Autres prêts d'une durée totale d'au moins deux ans, non assortis de
+garanties, bénéficiant d'une qualité de crédit suffisante et consentis aux
+personnes visées aux cinquième et sixième alinéas de l'article R. 332-13, par
+une autre entreprise que l'entreprise d'assurance ;
 
 13° Dépôts, dans les conditions fixées par l'article R. 332-16 ;
 

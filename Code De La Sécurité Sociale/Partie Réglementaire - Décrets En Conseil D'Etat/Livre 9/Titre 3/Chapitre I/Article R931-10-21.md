@@ -17,28 +17,35 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 émises ou garanties par les collectivités publiques territoriales d'un Etat
 membre de l'OCDE ;
 
-2° Obligations, parts ou actions émises par un organisme de titrisation régi par
+2° Les valeurs et titres assimilés, autres que celles et ceux mentionnés au 1°
+et négociés sur un marché reconnu, qui suivent :
+
+a) Obligations émises par une société commerciale ;
+
+b) Obligations, parts ou actions émises par un organisme de titrisation régi par
 la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du
 code monétaire et financier ou par un organisme de droit étranger ayant un objet
-équivalent et titres participatifs, autres que celles et ceux visés au 1°, et
-négociés sur un marché reconnu ;
+équivalent ;
+
+c) Titres participatifs ;
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
 marchés interbancaire, monétaire ou obligataire et émis par des personnes
 morales autres que les Etats membres de l'OCDE ayant leur siège social sur le
-territoire de ces Etats et dont des titres sont négociés sur un marché reconnu ;
+territoire de ces Etats, ou des organismes de titrisation régis par la
+sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du code
+monétaire et financier, et dont des titres sont négociés sur un marché reconnu ;
 
 3° bis Bons à moyen terme négociables répondant aux conditions mentionnées à
 l'article R. 931-10-35-1, et émis par des personnes morales autres que les Etats
 membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont
 des titres sont négociés sur un marché reconnu ;
 
-3° ter Obligations, parts ou actions répondant aux conditions mentionnées aux a,
-b et c de l'article R. 931-10-35-1, émises par un organisme de titrisation régi
+3° ter Obligations, parts ou actions émises par un organisme de titrisation régi
 par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du
-code monétaire et financier ou par un organisme de droit étranger ayant un objet
-équivalent, respectant les règles prévues à l'article R. 931-10-35-2 ;
+code monétaire et financier, respectant les règles prévues à l'article R.
+931-10-35-2 ;
 
 4° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
@@ -54,13 +61,21 @@ ayant leur siège social sur le territoire de l'un des Etats membres de l'OCDE. 
 7° Actions des entreprises d'assurance, de réassurance ou de capitalisation
 autres que celles mentionnées au 6° ;
 
-8° Actions, parts et droits émis par des sociétés commerciales et obligations,
-titres participatifs et titres subordonnés émis par des sociétés d'assurance
-mutuelles, des institutions de prévoyance ou des unions d'une institution de
-prévoyance et des mutuelles, unions et fédérations régies par le code de la
-mutualité, ayant leur siège social sur le territoire de l'un des Etats membres
-de l'OCDE, autres que les valeurs visées aux 2°, 3°, 3° bis, 3° ter, 4°, 5°, 6°,
-7°, 9° bis, 10° et 12° ;
+8° Les valeurs et titres assimilés autres que les valeurs mentionnées aux 2°,
+3°, 3° bis, 3° ter, 4°, 5°, 6°, 7°, 9° bis, 10°, 12° et 15° bis qui suivent :
+
+a) Titres de créances négociables, obligations, actions, parts et droits émis
+par des sociétés commerciales ;
+
+b) Titres de créances négociables, obligations, parts ou actions émises par un
+organisme de titrisation régi par la sous-section 5 de la section 2 du chapitre
+IV du titre Ier du livre II du code monétaire et financier ;
+
+c) Obligations, titres participatifs et titres subordonnés émis par les sociétés
+d'assurance mutuelles, les mutuelles, unions et fédérations régies par le code
+de la mutualité et les institutions de prévoyance régies par le titre III du
+livre IX du code de la sécurité sociale ayant leur siège social sur le
+territoire de l'un des Etats membres de l'OCDE ;
 
 9° Parts des fonds communs de placement à risques de l'article L. 214-28 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation
@@ -70,10 +85,10 @@ proximité de l'article L. 214-31 du même code ;
 9° bis Actions des sociétés d'investissement à capital variable et parts de
 fonds communs de placement des articles L. 214-160 et L. 214-161 du code
 monétaire et financier, actions ou parts de placements collectifs relevant de
-l'article L. 214-154 du code monétaire et financier, actions ou parts
-d'organismes de placement collectif en valeurs mobilières relevant de l'article
-L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août
-2003 ;
+l'article L. 214-154 du code monétaire et financier autres que celles
+mentionnées au 9° quinquies, actions ou parts d'organismes de placement
+collectif en valeurs mobilières relevant de l'article L. 214-35 du code
+monétaire et financier dans sa rédaction antérieure au 2 août 2003 ;
 
 9° ter Parts ou actions de fonds professionnels à vocation générale mentionnés à
 l'article R. 214-190 du code monétaire et financier ;
@@ -82,8 +97,13 @@ l'article R. 214-190 du code monétaire et financier ;
 R. 214-186 du code monétaire et financier et des placements collectifs
 mentionnés au III de l'article L. 214-24 du même code ;
 
+9° quinquies Parts ou actions des fonds professionnels spécialisés mentionnés à
+l'article L. 214-154 du code monétaire et financier, respectant les règles
+prévues à l'article R. 931-10-35-2, à l'exception de celle figurant au septième
+alinéa du II de l'article R. 332-14-2 du code des assurances ;
+
 10° Actions des sociétés d'investissement à capital variable et parts des fonds
-communs de placement, autres que celles mentionnées aux 4° et 9° à 9° quater,
+communs de placement, autres que celles mentionnées aux 4° et 9° à 9° quinquies,
 dans les conditions fixées par l'article R. 931-10-35 ;
 
 Les marchés reconnus mentionnés aux 2°, 3°, 3° bis et 5° sont les marchés
@@ -122,7 +142,7 @@ financier ;
 mentionnés à l'article R. 214-120 du code monétaire et financier, lorsqu'ils
 exercent la dérogation prévue à ce même article.
 
-C.-Prêts et dépôts :
+C.-Prêts, dépôts et titres assimilés :
 
 13° Prêts obtenus ou garantis par les Etats membres de l'OCDE, par les
 collectivités publiques territoriales et les établissements publics des Etats
@@ -136,6 +156,14 @@ les conditions fixées par l'article R. 931-10-33 ;
 physiques ou morales ayant leur domicile ou leur siège social sur le territoire
 de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R.
 931-10-34 ;
+
+15° bis Obligations, parts ou actions émises par un organisme de titrisation
+régi par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre
+II du code monétaire et financier, dont l'actif est composé exclusivement de
+valeurs mentionnées au 13° ou au 14° du présent article et des actifs mentionnés
+aux 2°, 3° et 4° du II de l'article R. 332-14-2 du code des assurances, et
+respectant les règles prévues aux III, V, VI et VII de l'article R. 332-14-2 du
+code des assurances ;
 
 16° Dépôts, dans les conditions fixées par l'article R. 931-10-37.
 

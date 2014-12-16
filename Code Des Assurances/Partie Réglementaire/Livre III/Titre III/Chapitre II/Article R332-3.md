@@ -43,9 +43,9 @@ même article, émis par un véhicule de titrisation mentionné à l'article L.
 b) Les obligations, parts ou actions mentionnées au 2° quater du A de l'article
 R. 332-2 ;
 
-c) Les parts mentionnées au 7° quinquies de l'article R. 332-2 ;
+c) Les parts ou actions mentionnées au 7° quinquies de l'article R. 332-2 ;
 
-d) Les prêts mentionnés au quatrième alinéa du 1° de l'article R. 332-13.
+d) Les prêts mentionnés au 12° ter de l'article R. 332-2.
 
 Sur demande de l'entreprise et après accord de l'Autorité de contrôle prudentiel
 et de résolution, cette limite peut être relevée. Un arrêté du ministre chargé

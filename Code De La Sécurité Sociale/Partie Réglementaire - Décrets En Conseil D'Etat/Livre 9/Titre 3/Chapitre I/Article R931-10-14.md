@@ -40,7 +40,9 @@ l'institution ou l'union et les membres adhérents ou participants ;
 
 7° Provision pour risque d'exigibilité : provision destinée à faire face aux
 engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
-l'article R. 931-10-41. La provision à constituer est calculée dans les
+l'article R. 931-10-41, à l'exception des valeurs amortissables que
+l'institution de prévoyance ou l'union a la capacité et l'intention de détenir
+jusqu'à leur maturité. La provision à constituer est calculée dans les
 conditions définies au I de l'article R. 931-10-15 ;
 
 8° Provision pour égalisation : provision destinée à faire face aux fluctuations
