@@ -11,3 +11,7 @@ représentant légal afin que ce dernier produise ses observations éventuelles.
 Dans tous les cas, l'élève, son représentant légal et la personne éventuellement
 chargée de l'assister pour présenter sa défense peuvent prendre connaissance du
 dossier auprès du chef d'établissement.
+
+En cas de nécessité, le chef d'établissement peut interdire, à titre
+conservatoire, l'accès de l'établissement à l'élève pendant le délai mentionné
+au premier alinéa. Cette mesure ne présente pas le caractère d'une sanction.
