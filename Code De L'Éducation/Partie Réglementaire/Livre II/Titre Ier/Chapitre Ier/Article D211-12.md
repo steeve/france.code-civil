@@ -8,7 +8,7 @@ ainsi qu'il suit :
 
 a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 
-b) (Abrogé) ;
+b) Lycée professionnel agricole de Wallis et Futuna ;
 
 c) (Abrogé).
 
@@ -16,27 +16,22 @@ c) (Abrogé).
 
 a) (supprimé) ;
 
-b) Lycée d'Etat d'Hennemont à sections internationales de Saint-Germain-en-Laye
-(Yvelines) ;
-
-c) Collège et lycée d'Etat à sections internationales de Ferney-Voltaire (Ain) ;
-
-d) Lycée d'Etat franco-allemand de Buc (Yvelines) ;
-
-e) Collège et lycée à sections internationales de Sèvres (Hauts-de-Seine) ;
-
-f) Collège et lycée à sections internationales des Pontonniers de Strasbourg
-(Bas-Rhin) ;
+b à f (Abrogés) ;
 
 g) Lycée d'Etat Jean Zay internat d'excellence ;
 
-h) Collège et lycée d'Etat à sections internationales de Valbonne
-(Alpes-Maritimes) ;
+h) (Abrogés) ;
 
-i) Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ;
+i) (Abrogés) ;
 
-j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon ;
+j) Lycée-collège et lycée professionnel Emile Letournel à
+Saint-Pierre-et-Miquelon ;
 
 k) Lycée-collège d'Etat de Sourdun ;
 
-l) Internat d'excellence de Montpellier.
+l) Internat d'excellence de Montpellier ;
+
+m) Collèges implantés dans les îles Wallis et Futuna et lycée polyvalent et
+professionnel de Mata-Utu ;
+
+n) Collèges et lycées implantés dans le Département de Mayotte.
