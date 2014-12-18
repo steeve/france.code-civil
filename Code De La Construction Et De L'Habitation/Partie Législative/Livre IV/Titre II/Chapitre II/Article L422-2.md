@@ -39,10 +39,13 @@ dispositions de l'article L. 443-14 soient applicables aux cessions d'immeubles
 rendues nécessaires par ces réalisations. Lorsqu'elles se voient confier par
 convention la réalisation d'une opération de restructuration urbaine, celle-ci
 comprend toutes opérations ou actions ou tous aménagements ou équipements de
-nature à favoriser une politique de développement social urbain ; dans ce cas,
-la convention peut inclure des actions d'insertion professionnelle et sociale en
-faveur des habitants des quartiers classés en quartiers prioritaires de la
-politique de la ville ;
+nature à favoriser une politique de développement social urbain telle que
+définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la
+mise en oeuvre du pacte de relance pour la ville ; dans ce cas, la convention
+peut inclure des actions d'insertion professionnelle et sociale en faveur des
+habitants des quartiers classés en zones urbaines sensibles, définies au 3 de
+l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire ;
 
 -de réaliser, rénover ou acquérir et améliorer, en complément de leur activité
 locative, en vue de leur vente à des personnes physiques à titre de résidences
@@ -104,10 +107,10 @@ I de l'article L. 312-1 du code de l'action sociale et des familles et à
 l'article L. 322-1 du même code des logements conventionnés en application de
 l'article L. 351-2 du présent code, en vue de proposer des places d'hébergement
 destinées aux personnes ou familles mentionnées au II de l'article L. 301-1, dès
-lors que les besoins ont été identifiés dans le plan départemental d'action pour
-le logement et l'hébergement des personnes défavorisées et que l'avis de la
-commune ou de l'établissement public de coopération intercommunale compétent en
-matière d'habitat a été recueilli ;
+lors que les besoins ont été identifiés dans le plan local d'action pour le
+logement et l'hébergement des personnes défavorisées et que l'avis de la commune
+ou de l'établissement public de coopération intercommunale compétent en matière
+d'habitat a été recueilli ;
 
 -à titre subsidiaire, de donner en location des logements conventionnés en
 application de l'article L. 351-2 du présent code, en vue de proposer des places
@@ -119,14 +122,14 @@ attestée par une ordonnance de protection délivrée par le juge aux affaires
 familiales en application du titre XIV du livre Ier du code civil, ou sont
 victimes de violences au sein du couple attestées par le récépissé du dépôt
 d'une plainte par la victime, dès lors que les besoins ont été identifiés dans
-le plan départemental d'action pour le logement et l'hébergement des personnes
+le plan local d'action pour le logement et l'hébergement des personnes
 défavorisées et que l'avis de la commune ou de l'établissement public de
 coopération intercommunale compétent en matière d'habitat a été recueilli ;
 
 -à titre subsidiaire, de construire des établissements d'hébergement dès lors
-que les besoins ont été identifiés dans le plan départemental d'action pour le
-logement et l'hébergement des personnes défavorisées et que l'avis de la commune
-ou de l'établissement public de coopération intercommunale compétent en matière
+que les besoins ont été identifiés dans le plan local d'action pour le logement
+et l'hébergement des personnes défavorisées et que l'avis de la commune ou de
+l'établissement public de coopération intercommunale compétent en matière
 d'habitat a été recueilli ;
 
 -d'acquérir et donner en location à des organismes bénéficiant de l'agrément
@@ -232,7 +235,7 @@ par décret pris en application du septième alinéa de l'article L. 302-5 du
 présent code ;
 
 La sous-section 1 de la section 2 du chapitre III du titre IV du présent livre
-n'est pas applicable aux opérations relevant des trois alinéas précédents. ;
+n'est pas applicable aux opérations relevant des trois alinéas précédents.
 
 Elles peuvent aussi réaliser des prestations de service pour le compte de
 l'association agréée mentionnée à l'article l'article L. 313-34 du code de la

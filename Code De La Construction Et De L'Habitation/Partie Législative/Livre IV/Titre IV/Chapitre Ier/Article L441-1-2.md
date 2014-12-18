@@ -13,13 +13,12 @@ différents organismes, définit :
 logements aux personnes connaissant des difficultés économiques et sociales,
 notamment aux personnes et familles mentionnées à l'article 4 de la loi n°
 90-449 du 31 mai 1990 précitée dont les besoins ont été identifiés dans le plan
-départemental d'action pour le logement et l'hébergement des personnes
-défavorisées ;
+local d'action pour le logement et l'hébergement des personnes défavorisées ;
 
 - les moyens d'accompagnement et les dispositions nécessaires à la mise en œuvre
 et au suivi de cet engagement annuel.
 
-Cet accord est soumis pour avis au comité responsable du plan départemental
-d'action pour le logement et l'hébergement des personnes défavorisées. Si cet
-avis n'a pas été rendu dans un délai de deux mois à compter de la transmission
-de l'accord, il est réputé favorable.
+Cet accord est soumis pour avis au comité responsable du plan local d'action
+pour le logement et l'hébergement des personnes défavorisées. Si cet avis n'a
+pas été rendu dans un délai de deux mois à compter de la transmission de
+l'accord, il est réputé favorable.

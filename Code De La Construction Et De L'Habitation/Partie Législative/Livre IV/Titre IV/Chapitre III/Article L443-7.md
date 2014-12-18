@@ -45,10 +45,10 @@ l'autorisation de vente.
 
 Lorsqu'une métropole régie par le chapitre VII du titre Ier du livre II de la
 cinquième partie du code général des collectivités territoriales ou la métropole
-du Grand Lyon a pris la compétence de délivrance aux organismes d'habitations à
-loyer modéré des agréments d'aliénation de logements prévue au présent article,
-la décision d'aliéner est transmise au président du conseil de la métropole où
-est situé le logement qui consulte la commune d'implantation ainsi que les
+de Lyon a pris la compétence de délivrance aux organismes d'habitations à loyer
+modéré des agréments d'aliénation de logements prévue au présent article, la
+décision d'aliéner est transmise au président du conseil de la métropole où est
+situé le logement qui consulte la commune d'implantation ainsi que les
 collectivités publiques qui ont accordé un financement ou leur garantie aux
 emprunts contractés pour la construction, l'acquisition ou l'amélioration des
 logements. La commune émet son avis dans le délai de deux mois à compter du jour

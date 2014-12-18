@@ -4,8 +4,8 @@ I.-Par dérogation à l'article L. 442-8, les organismes mentionnés à l'articl
 411-2 peuvent, à titre subsidiaire, louer, meublés ou non, des logements en vue
 de fournir des places d'hébergement à des personnes ou familles mentionnées au
 II de l'article L. 301-1 dès lors que les besoins ont été identifiés dans le
-plan départemental d'action pour le logement et l'hébergement des personnes
-défavorisées :
+plan local d'action pour le logement et l'hébergement des personnes défavorisées
+:
 
 1° Aux organismes bénéficiant de l'agrément relatif à l'intermédiation locative
 et à la gestion locative sociale prévu à l'article L. 365-4 ;
@@ -22,9 +22,8 @@ vivant maritalement qui se trouvent dans une situation d'urgence, attestée par
 une ordonnance de protection délivrée par le juge aux affaires familiales en
 application du titre XIV du livre Ier du code civil, ou sont victimes de
 violences au sein du couple attestées par le récépissé du dépôt d'une plainte
-par la victime, dès lors que les besoins ont été identifiés dans le plan
-départemental d'action pour le logement et l'hébergement des personnes
-défavorisées.
+par la victime, dès lors que les besoins ont été identifiés dans le plan local
+d'action pour le logement et l'hébergement des personnes défavorisées.
 
 II.-Les personnes hébergées dans le cadre du I ne sont pas assimilées à des
 locataires ou à des sous-locataires et l'article L. 442-8-2 ne leur est pas

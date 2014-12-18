@@ -24,7 +24,10 @@ assermentés à cet effet ;
 collectivité commissionnés et assermentés à cet effet ;
 
 5° Dans les départements d'outre-mer, sur les voies régionales, les agents de la
-région commissionnés et assermentés à cet effet.
+région commissionnés et assermentés à cet effet ;
+
+6° Sur les voies de la métropole de Lyon, les agents de la métropole
+commissionnés et assermentés à cet effet.
 
 Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve
 contraire.

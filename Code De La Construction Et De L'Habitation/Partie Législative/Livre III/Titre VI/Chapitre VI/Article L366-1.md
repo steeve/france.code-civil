@@ -19,3 +19,8 @@ des associations départementales, d'autre part.
 
 Un décret fixe les statuts types, les conditions d'agrément et de contrôle des
 associations nationale et départementales.
+
+L'association créée dans le département du Rhône en application du premier
+alinéa est également compétente sur le territoire de la métropole de Lyon. Elle
+est dénommée " association départementale-métropolitaine d'information sur le
+logement ".

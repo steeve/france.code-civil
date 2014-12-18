@@ -39,10 +39,10 @@ de la métropole.
 
 5. Sans préjudice de l'article L. 2212-2 du présent code, le président du
 conseil de la métropole exerce les prérogatives relatives à la police de la
-circulation définies aux articles L. 2213-1, L. 2213-3, L. 2213-4, L. 2213-5 et
-L. 2213-6-1 sur l'ensemble des voies de communication à l'intérieur des
-agglomérations, sous réserve des pouvoirs dévolus au représentant de l'Etat dans
-la métropole sur les routes à grande circulation. A l'extérieur des
+circulation définies aux articles L. 2213-1, L. 2213-2 L. 2213-3, L. 2213-4, L.
+2213-5 et L. 2213-6-1 sur l'ensemble des voies de communication à l'intérieur
+des agglomérations, sous réserve des pouvoirs dévolus au représentant de l'Etat
+dans le département sur les routes à grande circulation. A l'extérieur des
 agglomérations, le président du conseil de la métropole exerce également la
 police de la circulation sur les voies du domaine public routier des communes et
 de la métropole, sous réserve des pouvoirs dévolus au représentant de l'Etat
@@ -83,14 +83,14 @@ dans les matières prévues au I du présent article, il le transmet pour
 information aux maires des communes intéressées dans les meilleurs délais.
 
 III. ― Les agents de police municipale recrutés en application des II et III de
-l'article L. 3642-3, les agents de police municipale mis à disposition de la
-métropole de Lyon par les communes situées sur son territoire et les agents de
-la métropole de Lyon habilités et assermentés dans des conditions fixées par
-décret en Conseil d'Etat peuvent assurer, sous l'autorité du président du
-conseil de la métropole, l'exécution des décisions prises en vertu du I du
-présent article.
+l'article L. 3642-3 ou de l' article L. 511-1 du code de la sécurité intérieure,
+les agents de police municipale mis à disposition de la métropole de Lyon par
+les communes situées sur son territoire et les agents de la métropole de Lyon
+habilités et assermentés dans des conditions fixées par décret en Conseil d'Etat
+peuvent assurer, sous l'autorité du président du conseil de la métropole,
+l'exécution des décisions prises en vertu du I du présent article.
 
-IV. ― Le représentant de l'Etat dans la métropole peut, dans le cas où il n'y
+IV. ― Le représentant de l'Etat dans le département peut, dans le cas où il n'y
 aurait pas été pourvu par le président du conseil de la métropole, et après une
 mise en demeure de ce dernier restée sans résultat, exercer les attributions du
-président du conseil de la métropole prévues au 5 et au 9 du I.
+président du conseil de la métropole prévues au I et au 9 du I.

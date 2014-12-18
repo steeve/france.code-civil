@@ -44,10 +44,10 @@ le cas échéant, au dernier alinéa de l'article L. 123-12-1 du code de
 l'urbanisme sont manifestement insuffisants par rapport aux objectifs définis
 dans la convention.
 
-III.-La convention précise, en application des plans départementaux d'action
-pour le logement et l'hébergement des personnes défavorisées et en tenant compte
-des programmes locaux de l'habitat et des actions de rénovation urbaine au sens
-de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la
+III.-La convention précise, en application des plans locaux d'action pour le
+logement et l'hébergement des personnes défavorisées et en tenant compte des
+programmes locaux de l'habitat et des actions de rénovation urbaine au sens de
+la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la
 ville et la rénovation urbaine, les objectifs poursuivis et les actions à mettre
 en œuvre en matière de réalisation, de réhabilitation et de démolition de
 logements locatifs sociaux, notamment de logements pour les personnes

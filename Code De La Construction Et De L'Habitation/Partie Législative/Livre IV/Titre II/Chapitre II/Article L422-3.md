@@ -41,10 +41,10 @@ gérance le cas échéant, aux côtés d'opérateurs privés ;
 6° ter A titre subsidiaire, de donner en location des logements conventionnés en
 application de l'article L. 351-2 en vue de proposer des places d'hébergement
 destinées aux personnes ou familles mentionnées au II de l'article L. 301-1, dès
-lors que les besoins ont été identifiés dans le plan départemental d'action pour
-le logement et l'hébergement des personnes défavorisées et que l'avis de la
-commune ou de l'établissement public de coopération intercommunale compétent en
-matière d'habitat a été recueilli :
+lors que les besoins ont été identifiés dans le plan local d'action pour le
+logement et l'hébergement des personnes défavorisées et que l'avis de la commune
+ou de l'établissement public de coopération intercommunale compétent en matière
+d'habitat a été recueilli :
 
 a) Aux organismes bénéficiant de l'agrément relatif à l'intermédiation locative
 et à la gestion locative sociale prévu à l'article L. 365-4 ;
@@ -62,16 +62,15 @@ situation d'urgence, attestée par une ordonnance de protection délivrée par l
 juge aux affaires familiales en application du titre XIV du livre Ier du code
 civil, ou sont victimes de violences au sein du couple attestées par le
 récépissé du dépôt d'une plainte par la victime, dès lors que les besoins ont
-été identifiés dans le plan départemental d'action pour le logement et
-l'hébergement des personnes défavorisées et que l'avis de la commune ou de
-l'établissement public de coopération intercommunale compétent en matière
-d'habitat a été recueilli ;
+été identifiés dans le plan local d'action pour le logement et l'hébergement des
+personnes défavorisées et que l'avis de la commune ou de l'établissement public
+de coopération intercommunale compétent en matière d'habitat a été recueilli ;
 
 6° quinquies A titre subsidiaire, de construire des établissements d'hébergement
-dès lors que les besoins ont été identifiés dans le plan départemental d'action
-pour le logement et l'hébergement des personnes défavorisées et que l'avis de la
-commune ou de l'établissement public de coopération intercommunale compétent en
-matière d'habitat a été recueilli ;
+dès lors que les besoins ont été identifiés dans le plan local d'action pour le
+logement et l'hébergement des personnes défavorisées et que l'avis de la commune
+ou de l'établissement public de coopération intercommunale compétent en matière
+d'habitat a été recueilli ;
 
 7° De réaliser, dans les conditions fixées par leurs statuts, toutes les actions
 ou opérations d'aménagement définies par le code de l'urbanisme, soit pour leur

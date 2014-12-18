@@ -24,6 +24,13 @@ représentation proportionnelle à la plus forte moyenne ;
 départementale, élus par celui-ci à la représentation proportionnelle à la plus
 forte moyenne.
 
+La commission départementale de la coopération intercommunale du département du
+Rhône est dénommée " commission départementale-métropolitaine de la coopération
+intercommunale ". Elle comprend, en plus du total des membres désignés en
+application des 1° à 5° et pour 5 % de ce total, des représentants du conseil de
+la métropole de Lyon, élus par celui-ci à la représentation proportionnelle à la
+plus forte moyenne.
+
 Pour la désignation des représentants des communes mentionnés au 1°, lorsqu'une
 seule liste de candidats réunissant les conditions requises a été adressée au
 représentant de l'Etat dans le département par l'association départementale des

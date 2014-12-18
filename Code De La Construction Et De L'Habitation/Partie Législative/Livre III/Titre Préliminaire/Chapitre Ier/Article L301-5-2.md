@@ -14,21 +14,20 @@ collectivités territoriales, et pour le département du Rhône, hors du périm�
 de la métropole de Lyon si celle-ci a conclu une convention en application de
 l'article L. 3641-5 du même code, la convention conclue par le département
 définit les conditions de mise en place d'un dispositif d'observation de
-l'habitat et précise, en application du plan départemental d'action pour le
-logement et l'hébergement des personnes défavorisées et en tenant compte des
-programmes locaux de l'habitat et des actions de rénovation urbaine au sens de
-la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la
-ville et la rénovation urbaine, les objectifs poursuivis et les actions à mettre
-en oeuvre en matière de réalisation, de réhabilitation et démolition de
-logements locatifs sociaux, notamment pour les personnes mentionnées au II de
-l'article L. 301-1, et de places d'hébergement destinées à accueillir les
-personnes et les familles visées au deuxième alinéa de l'article 2 de la loi n°
-90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, ainsi
-qu'en matière de rénovation de l'habitat privé, notamment dans le cadre
-d'opérations programmées d'amélioration de l'habitat. Elle définit les objectifs
-en matière de lutte contre l'habitat indigne et arrête, le cas échéant, les
-actions nécessaires à sa résorption. Ces objectifs et actions sont détaillés par
-zones géographiques.
+l'habitat et précise, en application du plan local d'action pour le logement et
+l'hébergement des personnes défavorisées et en tenant compte des programmes
+locaux de l'habitat et des actions de rénovation urbaine au sens de la loi n°
+2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la
+rénovation urbaine, les objectifs poursuivis et les actions à mettre en oeuvre
+en matière de réalisation, de réhabilitation et démolition de logements locatifs
+sociaux, notamment pour les personnes mentionnées au II de l'article L. 301-1,
+et de places d'hébergement destinées à accueillir les personnes et les familles
+visées au deuxième alinéa de l'article 2 de la loi n° 90-449 du 31 mai 1990
+visant à la mise en oeuvre du droit au logement, ainsi qu'en matière de
+rénovation de l'habitat privé, notamment dans le cadre d'opérations programmées
+d'amélioration de l'habitat. Elle définit les objectifs en matière de lutte
+contre l'habitat indigne et arrête, le cas échéant, les actions nécessaires à sa
+résorption. Ces objectifs et actions sont détaillés par zones géographiques.
 
 La convention fixe, d'une part, dans la limite des dotations ouvertes en loi de
 finances, le montant des droits à engagement alloués au département et, d'autre

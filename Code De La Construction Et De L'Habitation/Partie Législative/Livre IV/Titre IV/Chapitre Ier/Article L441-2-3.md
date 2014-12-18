@@ -52,8 +52,8 @@ La commission reçoit notamment du ou des bailleurs chargés de la demande ou
 ayant eu à connaître de la situation locative antérieure du demandeur tous les
 éléments d'information sur la qualité du demandeur et les motifs invoqués pour
 expliquer l'absence de proposition. Elle reçoit également des services sociaux
-qui sont en contact avec le demandeur et des instances du plan départemental
-d'action pour le logement et l'hébergement des personnes défavorisées ayant eu à
+qui sont en contact avec le demandeur et des instances du plan local d'action
+pour le logement et l'hébergement des personnes défavorisées ayant eu à
 connaître de sa situation toutes informations utiles sur ses besoins et ses
 capacités et sur les obstacles à son accès à un logement décent et indépendant
 ou à son maintien dans un tel logement.
@@ -222,7 +222,7 @@ application du présent article.
 
 V. La commission de médiation établit, chaque année, un état des décisions
 prises et le transmet au représentant de l'Etat dans le département, au comité
-responsable du plan départemental d'action pour le logement et l'hébergement des
+responsable du plan local d'action pour le logement et l'hébergement des
 personnes défavorisées et aux établissements publics de coopération
 intercommunale compétents en matière d'habitat. Elle est informée, dans tous les
 cas, des suites qui sont réservées à ses decisions.
@@ -271,7 +271,7 @@ par la commission de médiation pour statuer sur le caractère prioritaire et su
 l'urgence du relogement de leurs occupants sont signalés aux organismes chargés
 du service des aides personnelles au logement et au gestionnaire du fond de
 solidarité pour le logement. Ils sont également signalés au comité responsable
-du plan départemental d'action pour le logement et l'hébergement des personnes
+du plan local d'action pour le logement et l'hébergement des personnes
 défavorisées aux fins d'inscription à l'observatoire nominatif prévu au
 cinquième alinéa de l'article 3 de la loi n° 90-449 du 31 mai 1990 visant à la
 mise en œuvre du droit au logement.

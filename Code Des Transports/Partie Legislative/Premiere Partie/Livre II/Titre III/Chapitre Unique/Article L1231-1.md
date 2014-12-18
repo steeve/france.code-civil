@@ -1,8 +1,8 @@
 Article L1231-1
 ----
-Dans les périmètres de transports urbains, les communes, leurs groupements et
-les syndicats mixtes de transport sont les autorités compétentes pour organiser
-la mobilité.
+Dans les périmètres de transports urbains, les communes, leurs groupements, la
+métropole de Lyon et les syndicats mixtes de transport sont les autorités
+compétentes pour organiser la mobilité.
 
 Ces autorités sont des autorités organisatrices de transport au sens de
 l'article L. 1221-1. A ce titre, dans les conditions générales énoncées au

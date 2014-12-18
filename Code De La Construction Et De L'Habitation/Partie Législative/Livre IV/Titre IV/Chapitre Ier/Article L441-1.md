@@ -110,9 +110,9 @@ prévoit les modalités d'association des communes membres à l'utilisation des
 droits de réservation sur leur territoire.
 
 S'il constate, au terme de l'année écoulée, que les objectifs fixés par le plan
-départemental d'action pour le logement des personnes défavorisées ne sont pas
-respectés, le représentant de l'Etat peut, après mise en demeure restée sans
-suite pendant trois mois, se substituer au maire ou au président de
+local d'action pour le logement et l'hébergement des personnes défavorisées ne
+sont pas respectés, le représentant de l'Etat peut, après mise en demeure restée
+sans suite pendant trois mois, se substituer au maire ou au président de
 l'établissement public de coopération intercommunale pour décider directement de
 la réservation des logements.
 

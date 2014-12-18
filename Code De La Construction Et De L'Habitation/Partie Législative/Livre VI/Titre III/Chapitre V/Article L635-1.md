@@ -5,9 +5,9 @@ compétent en matière d'habitat ou, à défaut, le conseil municipal peut déli
 des zones soumises à autorisation préalable de mise en location sur les
 territoires présentant une proportion importante d'habitat dégradé. Ces zones
 sont délimitées au regard de l'objectif de lutte contre l'habitat indigne et en
-cohérence avec le programme local de l'habitat en vigueur et le plan
-départemental d'action pour le logement et l'hébergement des personnes
-défavorisées. Ces zones peuvent concerner un ou plusieurs ensembles immobiliers.
+cohérence avec le programme local de l'habitat en vigueur et le plan local
+d'action pour le logement et l'hébergement des personnes défavorisées. Ces zones
+peuvent concerner un ou plusieurs ensembles immobiliers.
 
 II. - La délibération mentionnée au I peut fixer, pour chacune des zones
 géographiques qu'elle délimite, les catégories et caractéristiques des logements

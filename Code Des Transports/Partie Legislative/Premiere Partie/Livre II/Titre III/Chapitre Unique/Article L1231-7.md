@@ -10,3 +10,5 @@ d'un périmètre de transports urbains dans les conditions prévues à la prése
 section, lorsque la communauté d'agglomération, la communauté urbaine ou la
 métropole décide de transférer sa compétence d'organisation des transports
 urbains à un syndicat mixte dans le périmètre duquel elle est incluse.
+
+Les dispositions du présent article sont applicables à la métropole de Lyon.

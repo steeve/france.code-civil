@@ -25,3 +25,12 @@ deux mois à compter de sa saisine. Ces propositions sont publiques.
 
 Lorsque la commission est saisie du projet de document d'urbanisme, les
 propositions de la commission sont jointes au dossier d'enquête publique.
+
+La commission instituée dans le département du Rhône en application du premier
+alinéa du présent article est compétente également sur le territoire de la
+métropole de Lyon. Elle est dénommée " commission de conciliation
+départementale-métropolitaine ". Les élus communaux de cette commission sont
+désignés par les maires, le président de la métropole de Lyon et les présidents
+des établissements publics compétents en matière d'urbanisme du département.
+Cette désignation ne s'applique qu'à compter du premier renouvellement des
+conseils municipaux suivant la création de la métropole de Lyon.

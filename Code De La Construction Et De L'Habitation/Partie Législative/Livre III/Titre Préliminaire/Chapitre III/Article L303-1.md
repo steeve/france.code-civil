@@ -4,8 +4,8 @@ Les opérations programmées d'amélioration de l'habitat ont pour objet la
 réhabilitation du parc immobilier bâti. Elles tendent à améliorer l'offre de
 logements, en particulier locatifs, ainsi qu'à maintenir ou à développer les
 services de voisinage. Elles sont mises en oeuvre dans le respect des équilibres
-sociaux, de la sauvegarde du droit des occupants et des objectifs du plan
-départemental d'action pour le logement des personnes défavorisées ainsi que,
+sociaux, de la sauvegarde du droit des occupants et des objectifs du plan local
+d'action pour le logement et l'hébergement des personnes défavorisées ainsi que,
 s'il existe, du programme local de l'habitat. Ces opérations donnent lieu à une
 convention entre la commune ou l'établissement public de coopération
 intercommunale compétent en matière d'habitat ou le syndicat mixte qui aurait

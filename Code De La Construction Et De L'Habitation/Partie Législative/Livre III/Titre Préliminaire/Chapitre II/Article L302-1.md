@@ -18,7 +18,7 @@ Ces objectifs et ces principes tiennent compte de l'évolution démographique et
 desserte en transports, des équipements publics, de la nécessité de lutter
 contre l'étalement urbain et des options d'aménagement déterminées par le schéma
 de cohérence territoriale ou le schéma de secteur lorsqu'ils existent, ainsi que
-du plan départemental d'action pour le logement et l'hébergement des personnes
+du plan local d'action pour le logement et l'hébergement des personnes
 défavorisées et, le cas échéant, de l'accord collectif intercommunal défini à
 l'article L. 441-1-1.
 

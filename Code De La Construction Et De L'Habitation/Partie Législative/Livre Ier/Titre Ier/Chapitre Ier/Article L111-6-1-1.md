@@ -6,15 +6,13 @@ l'organe délibérant de l'établissement public de coopération intercommunale
 compétent en matière d'habitat ou, à défaut, par le conseil municipal dans les
 zones présentant une proportion importante d'habitat dégradé ou dans lesquelles
 l'habitat dégradé est susceptible de se développer. La délibération motivée
-tient compte du plan départemental d'action pour le logement et l'hébergement
-des personnes défavorisées et, lorsqu'il est exécutoire, du programme local de
+tient compte du plan local d'action pour le logement et l'hébergement des
+personnes défavorisées et, lorsqu'il est exécutoire, du programme local de
 l'habitat. Si la commune intéressée n'est pas couverte par un programme local de
 l'habitat, la délimitation est prise après avis du représentant de l'Etat dans
-le département.
-
-Le président de l'établissement public de coopération intercommunale compétent
-en matière d'habitat ou, à défaut, le maire refuse l'autorisation à chaque fois
-que la division contrevient à l'article L. 111-6-1.
+le département. Le président de l'établissement public de coopération
+intercommunale compétent en matière d'habitat ou, à défaut, le maire refuse
+l'autorisation à chaque fois que la division contrevient à l'article L. 111-6-1.
 
 Le président de l'établissement public de coopération intercommunale compétent
 en matière d'habitat ou, à défaut, le maire peut refuser ou soumettre à

@@ -31,8 +31,8 @@ selon le cas, par le représentant de l'Etat dans le département ou l'Agence
 nationale de l'habitat, à des opérations situées en dehors du périmètre des
 établissements publics de coopération intercommunale ayant conclu la convention
 prévue à l'article L. 301-5-1. L'affectation de ces crédits tient compte du plan
-départemental d'action pour le logement des personnes défavorisées et des
-programmes locaux de l'habitat.
+local d'action pour le logement et l'hébergement des personnes défavorisées et
+des programmes locaux de l'habitat.
 
 Les établissements publics de coopération intercommunale et les départements qui
 ont signé une convention en application des articles L. 301-5-1 et L. 301-5-2
