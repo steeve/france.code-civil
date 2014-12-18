@@ -2,10 +2,10 @@ Article L245-9
 ----
 Le montant de la cotisation est fixé à :
 
-1° 551,82 € par hectolitre d'alcool pur pour les boissons définies au b du I de
+1° 555,68 € par hectolitre d'alcool pur pour les boissons définies au b du I de
 l'article 401 du code général des impôts ;
 
-2° 46,59 € par hectolitre pour les autres boissons.
+2° 46,92 € par hectolitre pour les autres boissons.
 
 Ce montant ne peut excéder 40 % du droit d'accise applicable pour les boissons
 relevant des codes NC 2204, 2205, 2206.
