@@ -16,12 +16,7 @@ placé sous la tutelle du ministre chargé de l'enseignement supérieur et ratta
 88-384 du 19 avril 1988 portant organisation de l'observatoire de la Côte d'Azur
 ;
 
-3° Institut d'administration des entreprises de Paris, établissement public à
-caractère administratif doté de l'autonomie administrative et financière
-rattaché à l'université Paris-I par le décret n° 89-928 du 21 décembre 1989
-relatif à l'Institut d'administration des entreprises de Paris : décret n°
-89-928 du 21 décembre 1989 relatif à l'Institut d'administration des entreprises
-de Paris ;
+3° (Supprimé) ;
 
 4° Bibliothèque nationale et universitaire de Strasbourg, établissement public à
 caractère administratif rattaché à l'université de Strasbourg : décret n° 92-45
