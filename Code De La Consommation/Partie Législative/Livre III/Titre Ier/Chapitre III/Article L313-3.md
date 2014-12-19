@@ -23,21 +23,11 @@ en œuvre par le ministre chargé de l'économie, sur proposition motivée du
 gouverneur de la Banque de France, pour une période ne pouvant excéder huit
 trimestres consécutifs, en cas de :
 
--variation d'une ampleur exceptionnelle du coût des ressources des
+- variation d'une ampleur exceptionnelle du coût des ressources des
 établissements de crédit et des sociétés de financement ;
 
--modifications de la définition des opérations de même nature mentionnées au
+- modifications de la définition des opérations de même nature mentionnées au
 premier alinéa.
-
-Un comité, présidé par le gouverneur de la Banque de France, est chargé de
-suivre et d'analyser, notamment au regard du mode de fixation des taux de
-l'usure, le niveau et l'évolution des taux d'intérêt des prêts aux particuliers.
-Le comité examine également les modalités de financement des établissements de
-crédit et des sociétés de financement et analyse le niveau, l'évolution et les
-composantes de leurs marges. Outre le gouverneur de la Banque de France, le
-comité comprend un député, un sénateur et le directeur général du Trésor. Il se
-réunit à l'initiative de son président au moins une fois par semestre. Il
-établit un rapport annuel qui est remis au Parlement et au Gouvernement.
 
 Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6
 ne sont pas applicables aux prêts accordés à une personne physique agissant pour

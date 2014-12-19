@@ -7,6 +7,11 @@ a vocation à être décliné au sein des chambres de commerce et d'industrie
 territoriales et départementales d'Ile-de-France afin de tenir compte des
 spécificités locales.
 
+Dans l'exercice des compétences mentionnées au premier alinéa, les chambres de
+commerce et d'industrie de région peuvent créer et gérer des écoles dénommées
+établissements d'enseignement supérieur consulaire, dans les conditions prévues
+à la section 5 du présent chapitre.
+
 Elles peuvent, seules ou en collaboration avec d'autres partenaires, créer et
 gérer des établissements de formation initiale et continue dans les conditions
 prévues par les articles L. 443-1 et L. 753-1 du code de l'éducation pour la

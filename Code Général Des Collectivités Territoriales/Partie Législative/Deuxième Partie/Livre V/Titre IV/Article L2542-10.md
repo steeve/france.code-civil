@@ -3,8 +3,8 @@ Article L2542-10
 Dans les communes où a été instituée la police d'Etat, le maire reste investi
 des pouvoirs de police conférés aux administrations municipales par l'article L.
 2542-2 pour tout ce qui intéresse les matières visées aux 1°, 2° pour tout ce
-qui concerne les bruits de voisinage, 4°, 6°, 7° et 8° de l'article L. 2212-2
-ainsi que :
+qui concerne les bruits de voisinage, 4°, 6° et 7° de l'article L. 2212-2 ainsi
+que :
 
 1° Le mode de transport des personnes décédées, les inhumations et exhumations,
 le maintien du bon ordre et de la décence dans les cimetières ;

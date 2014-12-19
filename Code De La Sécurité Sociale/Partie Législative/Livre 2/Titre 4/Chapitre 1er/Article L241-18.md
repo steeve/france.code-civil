@@ -1,6 +1,6 @@
 Article L241-18
 ----
-I. - Dans les entreprises employant moins de vingt salariés, toute heure
+I.-Dans les entreprises employant moins de vingt salariés, toute heure
 supplémentaire effectuée par les salariés mentionnés au II de l'article L.
 241-13 ouvre droit à une déduction forfaitaire des cotisations patronales à
 hauteur d'un montant fixé par décret.
@@ -54,18 +54,18 @@ supprimé et le premier versement des salaires ou éléments de rémunération
 précités.
 
 Le bénéfice des déductions mentionnées aux I et II du présent article est
-subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission, du 15
-décembre 2006, concernant l'application des articles 87 et 88 du traité aux
-aides de minimis.
+subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18
+décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le
+fonctionnement de l'Union européenne aux aides de minimis.
 
-V. - Le bénéfice des déductions mentionnées aux I et II est subordonné, pour
+V.-Le bénéfice des déductions mentionnées aux I et II est subordonné, pour
 l'employeur, à la mise à la disposition des agents chargés du contrôle
 mentionnés à l'article L. 243-7 du présent code et à l'article L. 724-7 du code
 rural et de la pêche maritime d'un document en vue du contrôle de l'application
 du présent article.
 
-VI. - Un décret fixe les modalités d'application du présent article ainsi que
-les modalités selon lesquelles les heures supplémentaires effectuées par les
+VI.-Un décret fixe les modalités d'application du présent article ainsi que les
+modalités selon lesquelles les heures supplémentaires effectuées par les
 salariés affiliés au régime général dont la durée du travail ne relève pas du
 titre II du livre Ier de la troisième partie du code du travail ou du chapitre
 III du titre Ier du livre VII du code rural et de la pêche maritime ouvrent

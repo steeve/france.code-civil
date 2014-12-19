@@ -1,6 +1,6 @@
 Article 44 octies
 ----
-I. Les contribuables qui exercent ou créent des activités avant le 31 décembre
+I. - Les contribuables qui exercent ou créent des activités avant le 31 décembre
 2001 dans les zones franches urbaines définies au B du 3 de l'article 42 modifié
 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire et dont la liste figure au I de l'annexe à la loi n°
@@ -47,7 +47,7 @@ salarié sédentaire à temps plein, ou équivalent, exerçant ses fonctions dan
 locaux affectés à l'activité ou si ce contribuable réalise au moins 25 % de son
 chiffre d'affaires auprès de clients situés dans les zones franches urbaines.
 
-II. Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est
+II. - Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est
 celui déclaré selon les modalités prévues aux articles 50-0,53 A,96 à 100,102
 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
 conditions de droit commun :
@@ -83,7 +83,7 @@ disposition s'applique, quel que soit le lieu d'établissement du bailleur.
 En aucun cas, le bénéfice exonéré ne peut excéder 61 000 euros par contribuable
 et par période de douze mois.
 
-III. Lorsque le contribuable mentionné au I est une société membre d'un groupe
+III. - Lorsque le contribuable mentionné au I est une société membre d'un groupe
 fiscal visé à l'article 223 A, le bénéfice exonéré est celui de cette société
 déterminé dans les conditions prévues au II du présent article et au 4 de
 l'article 223 I.
@@ -99,11 +99,11 @@ les six mois qui suivent celui de la délimitation de la zone s'il y exerce déj
 son activité ou, dans le cas contraire, dans les six mois suivant celui du début
 d'activité.L'option est irrévocable.
 
-IV. Les obligations déclaratives des personnes et organismes concernés par
+IV. - Les obligations déclaratives des personnes et organismes concernés par
 l'exonération sont fixées par décret.
 
-V.-Les dispositions des I à IV sont applicables aux contribuables qui créent des
-activités entre le 1er janvier 2002 et la date de publication de la loi n°
+V. - Les dispositions des I à IV sont applicables aux contribuables qui créent
+des activités entre le 1er janvier 2002 et la date de publication de la loi n°
 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones franches
 urbaines visées au premier alinéa du I. Toutefois, pour les contribuables qui
 créent des activités dans ces zones en 2002, le point de départ de la période
@@ -117,14 +117,14 @@ l'activité reprise ou transférée bénéficie ou a bénéficié du régime
 d'exonération prévu au présent article.
 
 Le bénéfice des exonérations accordées dans les zones franches urbaines
-mentionnées au I est subordonné au respect du règlement (CE) n° 1998/2006 de la
-Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
-traité aux aides de minimis.
+mentionnées au I est subordonné au respect du règlement (UE) n° 1407/2013 de la
+Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108
+du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
-VI.-Les dispositions des I à IV sont applicables aux contribuables qui exercent
-des activités entre le 1er janvier 2004 et le 31 décembre 2008 inclus ou qui
-créent des activités entre le 1er janvier 2004 et la date de publication de la
-loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones
+VI. - Les dispositions des I à IV sont applicables aux contribuables qui
+exercent des activités entre le 1er janvier 2004 et le 31 décembre 2008 inclus
+ou qui créent des activités entre le 1er janvier 2004 et la date de publication
+de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones
 franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4
 février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n°
 96-987 du 14 novembre 1996 précitée.
@@ -175,5 +175,5 @@ pour sa durée restant à courir.
 
 Pour les contribuables qui exercent ou qui créent des activités dans les zones
 franches urbaines mentionnées au présent VI avant le 1er janvier 2004, le
-bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
-1998/2006 de la Commission du 15 décembre 2006 précité.
+bénéfice de l'exonération est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, précité.

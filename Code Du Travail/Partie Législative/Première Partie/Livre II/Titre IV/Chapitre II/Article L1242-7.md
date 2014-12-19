@@ -20,7 +20,10 @@ indéterminée en raison de la nature de l'activité exercée et du caractère p
 nature temporaire de ces emplois ;
 
 5° Remplacement de l'une des personnes mentionnées aux 4° et 5° de l'article L.
-1242-2.
+1242-2 ;
+
+6° Recrutement d'ingénieurs et de cadres en vue de la réalisation d'un objet
+défini, prévu au 6° de l'article L. 1242-2.
 
 Le contrat de travail à durée déterminée est alors conclu pour une durée
 minimale. Il a pour terme la fin de l'absence de la personne remplacée ou la

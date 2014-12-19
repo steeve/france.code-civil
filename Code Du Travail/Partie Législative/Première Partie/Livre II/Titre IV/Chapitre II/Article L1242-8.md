@@ -26,4 +26,5 @@ envisagés, à la consultation du comité d'entreprise ou, à défaut, des dél�
 du personnel, s'il en existe.
 
 Ces dispositions ne sont pas applicables au contrat de travail à durée
-déterminée conclu en application de l'article L. 1242-3.
+déterminée conclu en application du 6° de l'article L. 1242-2 et de l'article L.
+1242-3.

@@ -44,8 +44,8 @@ vente ou, à défaut de promesse, à l'acte authentique de vente ;
 3° Le carnet d'entretien de l'immeuble ;
 
 4° Une attestation comportant la mention de la superficie de la partie privative
-et de la surface habitable de ce lot ou de cette fraction de lot, prévues à
-l'article 46 de la loi n° 65-557 du 10 juillet 1965 précitée ;
+de ce lot ou de cette fraction de lot, prévue à l'article 46 de la loi n° 65-557
+du 10 juillet 1965 précitée ;
 
 5° Une notice d'information relative aux droits et obligations des
 copropriétaires ainsi qu'au fonctionnement des instances du syndicat de

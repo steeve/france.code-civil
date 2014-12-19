@@ -3,9 +3,9 @@ Article L362-5
 Outre les officiers et agents de police judiciaire et les inspecteurs de
 l'environnement mentionnés au 1° du II de l'article L. 172-1, sont habilités à
 rechercher et à constater les infractions aux dispositions du premier alinéa de
-l'article L. 362-1, du dernier alinéa de l'article L. 362-3 et aux dispositions
-prises en application des articles L. 2213-4 et L. 2215-3 du code général des
-collectivités territoriales :
+l'article L. 362-1, du troisième alinéa de l'article L. 362-3 et aux
+dispositions prises en application des articles L. 2213-4 et L. 2215-3 du code
+général des collectivités territoriales :
 
 1° Les agents des services de l'Etat chargés des forêts commissionnés à raison
 de leurs compétences en matière forestière et assermentés à cet effet ;

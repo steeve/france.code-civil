@@ -94,8 +94,8 @@ qui doivent revenir au bailleur abstraction faite, le cas échéant, de
 l'indemnité de reprise stipulée au profit du preneur et du montant des loyers,
 lesquels sont imposés par ailleurs dans les conditions du a du 1.
 
-6. En ce qui concerne les livraisons à soi-même de travaux immobiliers visées au
-b du 1° du 3 du I de l'article 257, la taxe sur la valeur ajoutée est assise sur
-le prix de revient total des travaux.
+6. En ce qui concerne les livraisons à soi-même de travaux immobiliers
+mentionnées au 1° du 3 du I de l'article 257, la taxe sur la valeur ajoutée est
+assise sur le prix de revient total des travaux.
 
 7. (Abrogé).

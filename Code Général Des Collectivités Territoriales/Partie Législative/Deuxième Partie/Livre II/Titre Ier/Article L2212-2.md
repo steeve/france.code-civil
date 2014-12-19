@@ -41,9 +41,4 @@ personnes atteintes de troubles mentaux dont l'état pourrait compromettre la
 morale publique, la sécurité des personnes ou la conservation des propriétés ;
 
 7° Le soin d'obvier ou de remédier aux événements fâcheux qui pourraient être
-occasionnés par la divagation des animaux malfaisants ou féroces ;
-
-8° Le soin de réglementer la fermeture annuelle des boulangeries, lorsque cette
-fermeture est rendue nécessaire pour l'application de la législation sur les
-congés payés, après consultation des organisations patronales et ouvrières, de
-manière à assurer le ravitaillement de la population.
+occasionnés par la divagation des animaux malfaisants ou féroces.

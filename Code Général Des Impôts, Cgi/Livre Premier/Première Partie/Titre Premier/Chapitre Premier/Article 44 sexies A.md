@@ -53,5 +53,6 @@ laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A
 remplies.
 
 IV.-Le bénéfice de l'exonération prévue au I est subordonné au respect du
-règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides de minimis.
+règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à
+l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne aux aides de minimis.

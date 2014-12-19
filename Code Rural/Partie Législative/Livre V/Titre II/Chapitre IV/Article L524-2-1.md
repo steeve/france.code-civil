@@ -37,7 +37,8 @@ a) La rémunération servie aux parts à avantages particuliers ;
 b) L'intérêt servi aux parts sociales ;
 
 c) La distribution, le cas échéant, de tout ou partie des dividendes reçus au
-titre des participations visées au premier alinéa de l'article L. 523-5 ;
+titre des participations dans des filiales de la société coopérative ou dans des
+sociétés qu'elle contrôle ;
 
 d) La répartition de ristournes entre les associés coopérateurs
 proportionnellement aux opérations réalisées avec la coopérative ou l'union et

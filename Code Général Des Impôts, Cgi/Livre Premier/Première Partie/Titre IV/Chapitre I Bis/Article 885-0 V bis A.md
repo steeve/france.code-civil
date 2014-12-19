@@ -78,13 +78,13 @@ redevable demande le bénéfice de l'avantage fiscal prévu au présent article 
 peut donner lieu à l'application de l'article 885-0 V bis.
 
 IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du
-règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant
-l'application des articles 87 et 88 du traité aux aides de minimis et à la
-condition que soient jointes à la déclaration d'impôt de solidarité sur la
-fortune prévue au 1 du I de l'article 885 W, ou fournies dans les trois mois
-suivant la date limite de dépôt de ladite déclaration, des pièces justificatives
-attestant le total du montant et la date des versements ainsi que l'identité des
-bénéficiaires.
+règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à
+l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne aux aides de minimis et à la condition que soient jointes à la
+déclaration d'impôt de solidarité sur la fortune prévue au 1 du I de l'article
+885 W, ou fournies dans les trois mois suivant la date limite de dépôt de ladite
+déclaration, des pièces justificatives attestant le total du montant et la date
+des versements ainsi que l'identité des bénéficiaires.
 
 V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux
 personnes mentionnées au I.

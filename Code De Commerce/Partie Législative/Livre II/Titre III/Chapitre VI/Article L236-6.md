@@ -7,8 +7,10 @@ Ce projet est déposé au greffe du tribunal de commerce du siège desdites
 sociétés et fait l'objet d'une publicité dont les modalités sont fixées par
 décret en Conseil d'Etat.
 
-A peine de nullité, les sociétés participant à l'une des opérations mentionnées
-au premier et au deuxième alinéa de l'article L. 236-1 sont tenues de déposer au
+A peine de nullité, les sociétés anonymes et les sociétés européennes
+participant à l'une des opérations mentionnées au premier et au deuxième alinéa
+de l'article L. 236-1 ainsi que les sociétés participant à une opération de
+fusion transfrontalière au sein de l'Union européenne sont tenues de déposer au
 greffe une déclaration dans laquelle elles relatent tous les actes effectués en
 vue d'y procéder et par laquelle elles affirment que l'opération a été réalisée
 en conformité des lois et règlements. Le greffier, sous sa responsabilité,

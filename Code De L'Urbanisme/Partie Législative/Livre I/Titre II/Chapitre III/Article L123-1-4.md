@@ -24,6 +24,10 @@ réhabiliter, restructurer ou aménager.
 Elles peuvent prendre la forme de schémas d'aménagement et préciser les
 principales caractéristiques des voies et espaces publics.
 
+Elles peuvent adapter la délimitation des périmètres, en fonction de la qualité
+de la desserte, où s'applique le plafonnement à proximité des transports prévu à
+l'article L. 123-1-13.
+
 2. En ce qui concerne l'habitat, dans le cas des plans locaux d'urbanisme tenant
 lieu de programme local de l'habitat, ces orientations précisent les actions et
 opérations d'aménagement visant à poursuivre les objectifs énoncés à l'article

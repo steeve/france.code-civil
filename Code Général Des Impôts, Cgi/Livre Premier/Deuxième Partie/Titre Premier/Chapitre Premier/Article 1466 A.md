@@ -116,14 +116,15 @@ fiscalité propre ne peuvent porter que sur l'ensemble des établissements cré�
 ou étendus.
 
 Le bénéfice de l'exonération prévue au premier alinéa est subordonné au respect
-du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité des aides de minimis. Toutefois,
-sur option des entreprises qui procèdent aux opérations mentionnées au premier
-alinéa dans les zones d'aide à finalité régionale, le bénéfice de l'exonération
-prévue au premier alinéa est subordonné au respect de l'article 13 du règlement
-(CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories
-d'aides compatibles avec le marché commun en application des articles 87 et 88
-du traité (Règlement général d'exemption par catégorie).
+du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à
+l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne des aides de minimis. Toutefois, sur option des entreprises qui
+procèdent aux opérations mentionnées au premier alinéa dans les zones d'aide à
+finalité régionale, le bénéfice de l'exonération prévue au premier alinéa est
+subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la
+Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles
+avec le marché commun en application des articles 87 et 88 du traité (Règlement
+général d'exemption par catégorie).
 
 L'option mentionnée au cinquième alinéa est irrévocable pour la durée de
 l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
@@ -191,9 +192,9 @@ troisième alinéa et au sixième alinéa du I quinquies. Le bénéfice des
 exonérations prenant effet en 2006 dans les zones mentionnées au deuxième alinéa
 du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée et de
 celles prenant effet à compter de 2013 dans les zones franches urbaines définies
-au même B est subordonné au respect du règlement (CE) n° 1998/2006 de la
-Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
-traité des aides de minimis.
+au même B est subordonné au respect du règlement (UE) n° 1407/2013 de la
+Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108
+du traité sur le fonctionnement de l'Union européenne des aides de minimis.
 
 II. Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies B
 et I sexies les contribuables déclarent, chaque année, dans les conditions

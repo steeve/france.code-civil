@@ -38,4 +38,22 @@ civile de moyens ou d'une société d'exercice libéral ;
 mentionnée aux 1° à 4° de l'article L. 722-1 du code rural et de la pêche
 maritime, d'un aide familial, d'un associé d'exploitation, ou de leur conjoint
 mentionné à l'article L. 722-10 du même code dès lors qu'il participe
-effectivement à l'activité de l'exploitation agricole ou de l'entreprise.
+effectivement à l'activité de l'exploitation agricole ou de l'entreprise ;
+
+6° Recrutement d'ingénieurs et de cadres, au sens des conventions collectives,
+en vue de la réalisation d'un objet défini lorsqu'un accord de branche étendu
+ou, à défaut, un accord d'entreprise le prévoit et qu'il définit :
+
+a) Les nécessités économiques auxquelles ces contrats sont susceptibles
+d'apporter une réponse adaptée ;
+
+b) Les conditions dans lesquelles les salariés sous contrat à durée déterminée à
+objet défini bénéficient de garanties relatives à l'aide au reclassement, à la
+validation des acquis de l'expérience, à la priorité de réembauche et à l'accès
+à la formation professionnelle continue et peuvent, au cours du délai de
+prévenance, mobiliser les moyens disponibles pour organiser la suite de leur
+parcours professionnel ;
+
+c) Les conditions dans lesquelles les salariés sous contrat à durée déterminée à
+objet défini ont priorité d'accès aux emplois en contrat à durée indéterminée
+dans l'entreprise.

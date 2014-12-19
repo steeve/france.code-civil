@@ -26,15 +26,15 @@ a quinquies) Pour les livraisons et transferts mentionnés au I de l'article 262
 ter effectués de manière continue pendant une période de plus d'un mois civil, à
 l'expiration de chaque mois civil ;
 
-b) Pour les livraisons à soi-même d'immeubles visées au I de l'article 257, au
-moment de la livraison qui intervient lors du dépôt à la mairie de la
-déclaration prévue par la réglementation relative au permis de construire ;
+b) Pour les livraisons à soi-même d'immeubles neufs taxées en application du 2°
+du 1 du II de l'article 257, au moment où le dépôt à la mairie de la déclaration
+prévue par la réglementation relative au permis de construire est exigé ;
 
-c) (Abrogé) ; d) Pour les livraisons à soi-même de travaux immobiliers visées au
-b du 1° du 3 du I de l'article 257, au moment de l'achèvement de l'ensemble des
-travaux. Toutefois, par dérogation au précédent alinéa, le fait générateur de la
-taxe intervient au dernier jour de chaque trimestre pour les livraisons à
-soi-même de travaux d'entretien effectués au cours de ce trimestre.
+c) (Abrogé) ; d) Pour les livraisons à soi-même de travaux immobiliers
+mentionnées au 1° du 3 du I de l'article 257, au moment de l'achèvement de
+l'ensemble des travaux. Toutefois, par dérogation au précédent alinéa, le fait
+générateur de la taxe intervient au dernier jour de chaque trimestre pour les
+livraisons à soi-même de travaux d'entretien effectués au cours de ce trimestre.
 
 e) (Abrogé).
 

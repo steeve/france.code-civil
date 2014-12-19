@@ -64,14 +64,15 @@ VI.-Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du
 crédit d'impôt mentionné au I et dans celle d'un autre crédit d'impôt.
 
 VI bis.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect
-du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides de minimis.
+du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à
+l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne aux aides de minimis.
 
 Pour l'application du premier alinéa, les sociétés de personnes et les
 groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater A, 239
 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés
-doivent également respecter le règlement (CE) n° 1998/2006 de la Commission du
-15 décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés
+doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du
+18 décembre 2013 précité. Le crédit d'impôt peut être utilisé par les associés
 de ces sociétés ou les membres de ces groupements proportionnellement à leurs
 droits dans ces sociétés ou groupements s'ils satisfont aux conditions
 d'application de ce même règlement et sous réserve qu'il s'agisse de redevables

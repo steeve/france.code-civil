@@ -10,6 +10,6 @@ du bois s'entendent des entreprises dont l'activité principale consiste à
 fabriquer à partir de grumes des produits intermédiaires.
 
 Le bénéfice de cette majoration du taux d'amortissement dégressif est subordonné
-au respect du règlement (CE) n° 1998 /2006 de la Commission, du 15 décembre
-2006, concernant l'application des articles 87 et 88 du traité aux aides de
-minimis.
+au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
+relatif à l'application des articles 107 et 108 du traité sur le fonctionnement
+de l'Union européenne aux aides de minimis.

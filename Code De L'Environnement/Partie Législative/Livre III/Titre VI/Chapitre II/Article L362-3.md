@@ -9,3 +9,7 @@ conditions définies par décret en Conseil d'Etat, par le préfet.
 L'utilisation, à des fins de loisirs, d'engins motorisés conçus pour la
 progression sur neige est interdite, sauf sur les terrains ouverts dans les
 conditions prévues au premier alinéa.
+
+Par dérogation, le convoyage par ces engins de la clientèle vers les
+établissements touristiques d'altitude offrant un service de restauration est
+autorisé, dans des conditions fixées par décret en Conseil d'Etat.

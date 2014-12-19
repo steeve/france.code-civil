@@ -1,6 +1,6 @@
 Article 244 quater B
 ----
-I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
+I. - Les entreprises industrielles et commerciales ou agricoles imposées d'après
 leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies
 A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44
 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de
@@ -17,7 +17,7 @@ des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être
 utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou
 ces groupements.
 
-II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
+II. - Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
 a) Les dotations aux amortissements des immobilisations, créées ou acquises à
 l'état neuf et affectées directement à la réalisation d'opérations de recherche
@@ -237,9 +237,10 @@ crédit d'impôt recherche lorsque les immobilisations concernées ont bénéfic
 crédit d'impôt prévu à l'article 220 septies.
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte
-des dépenses prévues aux h et i est subordonné au respect du règlement (CE) n°
-1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis.
+des dépenses prévues aux h et i est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis.
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte
 des dépenses mentionnées au k est subordonné au respect des articles 30, 31, 33
@@ -248,7 +249,7 @@ et 34 du règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, précit
 Pour l'application du précédent alinéa, les sociétés de personnes et groupements
 mentionnés aux articles 8,238 bis L, 239 quater, 239 quater B et 239 quater C
 qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
-règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 précité. La
+règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, précité. La
 fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée
 par les associés de ces sociétés ou les membres de ces groupements
 proportionnellement à leurs droits dans ces sociétés ou groupements s'ils
@@ -257,7 +258,7 @@ qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personn
 physiques participant à l'exploitation au sens du 1° bis du I de l'article 156
 (1).
 
-III. Les subventions publiques reçues par les entreprises à raison des
+III. - Les subventions publiques reçues par les entreprises à raison des
 opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de
 ce crédit, qu'elles soient définitivement acquises par elles ou remboursables.
 Il en est de même des sommes reçues par les entreprises, organismes ou experts
@@ -279,7 +280,7 @@ qui excède le plus élevé des deux montants suivants : soit la somme de 15 000
 hors taxes, soit 5 % du total des dépenses hors taxes mentionnées au II minoré
 des subventions publiques mentionnées au III.
 
-III bis. ― Les entreprises qui engagent plus de 100 millions d'euros de dépenses
+III bis. - Les entreprises qui engagent plus de 100 millions d'euros de dépenses
 de recherche mentionnées au II joignent à leur déclaration de crédit d'impôt
 recherche un état décrivant la nature de leurs travaux de recherche en cours,
 l'état d'avancement de leurs programmes, les moyens matériels et humains,
@@ -287,6 +288,6 @@ directs ou indirects, qui y sont consacrés et la localisation de ces moyens.
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
-VI. Un décret fixe les conditions d'application du présent article. Il en adapte
-les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec
-l'année civile.
+VI. - Un décret fixe les conditions d'application du présent article. Il en
+adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant
+pas avec l'année civile.

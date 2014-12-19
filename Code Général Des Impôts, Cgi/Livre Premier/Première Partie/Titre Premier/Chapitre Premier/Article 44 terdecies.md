@@ -85,15 +85,15 @@ location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des 
 immeubles situés dans une zone de restructuration de la défense. Cette
 disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
-1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des
-entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à
-finalité régionale, le bénéfice de l'exonération est subordonné au respect de
-l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008
-déclarant certaines catégories d'aides compatibles avec le marché commun en
-application des articles 87 et 88 du traité (règlement général d'exemption par
-catégorie).
+Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis. Toutefois, sur option des entreprises qui procèdent aux
+opérations mentionnées au I dans une zone d'aide à finalité régionale, le
+bénéfice de l'exonération est subordonné au respect de l'article 13 du règlement
+(CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories
+d'aides compatibles avec le marché commun en application des articles 87 et 88
+du traité (règlement général d'exemption par catégorie).
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de
 l'exonération. Elle doit être exercée dans les six mois suivant les opérations

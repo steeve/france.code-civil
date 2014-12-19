@@ -1,6 +1,6 @@
 Article 200 undecies
 ----
-I. ― Les contribuables, personnes physiques, qui ont leur domicile fiscal en
+I. - Les contribuables, personnes physiques, qui ont leur domicile fiscal en
 France au sens de l'article 4 B et qui exercent une activité dont les revenus
 sont imposés dans la catégorie des bénéfices agricoles bénéficient d'un crédit
 d'impôt au titre des dépenses engagées pour assurer leur remplacement pour congé
@@ -19,20 +19,20 @@ l'exploitation chaque jour de l'année et sous réserve que leur remplacement ne
 soit pas assuré par une personne ayant la qualité d'associé de la société ou du
 groupement.
 
-II. ― Le crédit d'impôt est égal à 50 % des dépenses mentionnées au I et
+II. - Le crédit d'impôt est égal à 50 % des dépenses mentionnées au I et
 effectivement supportées, dans la limite par an de quatorze jours de
 remplacement pour congé. Pour ce calcul, le coût d'une journée de remplacement
 est plafonné à quarante-deux fois le taux horaire du minimum garanti mentionné à
 l'article L. 3231-12 du code du travail. Le crédit d'impôt est accordé au titre
 de l'année au cours de laquelle les dépenses ont été engagées.
 
-III. ― Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation
+III. - Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation
 des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des
 crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède
 l'impôt dû, l'excédent est restitué.
 
-IV. ― Le bénéfice du crédit d'impôt au titre des dépenses engagées entre le 1er
-janvier 2011 et le 31 décembre 2016 est subordonné au respect du règlement (CE)
-n° 1535/2007 de la Commission, du 20 décembre 2007, concernant l'application des
-articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la
-production de produits agricoles.
+IV. - Le bénéfice du crédit d'impôt au titre des dépenses engagées entre le 1er
+janvier 2011 et le 31 décembre 2016 est subordonné au respect du règlement (UE)
+n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis dans le secteur de l'agriculture.

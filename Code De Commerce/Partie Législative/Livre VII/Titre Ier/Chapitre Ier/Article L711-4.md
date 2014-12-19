@@ -9,3 +9,8 @@ les articles L. 443-1 et L. 753-1 du code de l'éducation pour la formation
 initiale et, pour la formation continue, dans le respect des dispositions du
 titre V du livre III de la sixième partie du code du travail qui leur sont
 applicables.
+
+Dans l'exercice des compétences mentionnées au premier alinéa du présent
+article, les chambres de commerce et d'industrie territoriales peuvent créer et
+gérer des écoles dénommées établissements d'enseignement supérieur consulaire,
+dans les conditions prévues à la section 5 du présent chapitre.

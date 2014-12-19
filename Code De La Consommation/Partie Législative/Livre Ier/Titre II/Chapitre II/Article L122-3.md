@@ -5,11 +5,6 @@ fournis par un professionnel ou, s'agissant de biens, d'exiger leur renvoi ou
 leur conservation, sans que ceux-ci aient fait l'objet d'une commande préalable
 du consommateur.
 
-Le premier alinéa du présent article s'applique aux contrats portant sur la
-fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne sont pas conditionnés
-dans un volume délimité ou en quantité déterminée ainsi que sur la fourniture de
-chauffage urbain et de contenu numérique non fourni sur support matériel.
-
 La violation de cette interdiction est punie des peines prévues aux articles L.
 122-12 à L. 122-14.
 
@@ -22,3 +17,8 @@ perçues sans engagement exprès et préalable du consommateur. Ces sommes sont
 productives d'intérêts au taux légal calculé à compter de la date du paiement
 indu et d'intérêts au taux légal majoré de moitié à compter de la demande de
 remboursement faite par le consommateur.
+
+Le présent article s'applique également aux contrats portant sur la fourniture
+d'eau, de gaz ou d'électricité lorsqu'ils ne sont pas conditionnés dans un
+volume délimité ou en quantité déterminée ainsi que sur la fourniture de
+chauffage urbain et de contenu numérique non fourni sur support matériel.

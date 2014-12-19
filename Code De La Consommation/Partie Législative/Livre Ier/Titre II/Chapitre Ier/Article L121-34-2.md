@@ -16,3 +16,8 @@ numérique, pris après avis de l'Autorité de régulation des communications
 utilisées comme identifiant d'appel par un professionnel qui joint un
 consommateur, en tenant compte du plafond de tarification et du format de ces
 numéros.
+
+Tout manquement au présent article est passible d'une amende administrative dont
+le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour
+une personne morale. L'amende est prononcée dans les conditions prévues à
+l'article L. 141-1-2.

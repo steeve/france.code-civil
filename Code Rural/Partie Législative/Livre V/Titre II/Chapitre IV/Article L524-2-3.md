@@ -2,9 +2,9 @@ Article L524-2-3
 ----
 Le rapport annuel du conseil d'administration ou du directoire à l'assemblée
 générale annuelle de la coopérative agricole ou de l'union indique la proportion
-de parts sociales détenues par ses salariés, ceux de ses sociétés filiales et
-ceux des organismes coopératifs agricoles auxquels elle adhère en application du
-9° de l'article L. 522-3.
+de parts sociales détenues par ses salariés ou par les fonds communs de
+placement d'entreprise auxquels ces derniers ont souscrit et ceux de ses
+sociétés filiales.
 
 Lorsque ces parts représentent plus de 3 % du capital social, les accords
 d'intéressement ou de participation définissent les modalités d'admission d'au

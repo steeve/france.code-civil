@@ -1,8 +1,8 @@
 Article 257
 ----
-I. - Les opérations concourant à la production ou à la livraison d'immeubles
-sont soumises à la taxe sur la valeur ajoutée dans les conditions qui suivent.
-1. Sont assimilés à des biens corporels et suivent le régime du bien immeuble
+I.-Les opérations concourant à la production ou à la livraison d'immeubles sont
+soumises à la taxe sur la valeur ajoutée dans les conditions qui suivent. 1.
+Sont assimilés à des biens corporels et suivent le régime du bien immeuble
 auquel ils se rapportent :
 
 1° Les droits réels immobiliers, à l'exception des locations résultant de baux
@@ -42,26 +42,16 @@ inférieure à la moitié pour chacun d'entre eux.
 
 3. Sont également soumises à la taxe sur la valeur ajoutée :
 
-1° Lorsqu'elles sont réalisées par des personnes assujetties au sens de
-l'article 256 A :
+1° Les livraisons à soi-même de travaux immobiliers mentionnés au IV de
+l'article 278 sexies et à l'article 278 sexies A réalisées par des personnes
+assujetties au sens de l'article 256 A ;
 
-a) Sans préjudice des dispositions du II, les livraisons à soi-même d'immeubles
-neufs lorsque ceux-ci ne sont pas vendus dans les deux ans qui suivent leur
-achèvement ;
+2° Les livraisons à soi-même d'immeubles mentionnés au II de l'article 278
+sexies réalisées hors d'une activité économique, au sens de l'article 256 A, par
+toute personne dès lors assujettie à ce titre.
 
-b) Les livraisons à soi-même des travaux immobiliers mentionnés au IV de
-l'article 278 sexies et à l'article 278 sexies A ;
-
-2° Lorsqu'elles sont réalisées, hors d'une activité économique visée à l'article
-256 A, par toute personne, dès lors assujettie à la taxe sur la valeur ajoutée à
-ce titre :
-
-a) (abrogé) ;
-
-b) La livraison à soi-même de logements visés au II de l'article 278 sexies.
-
-II. - Les opérations suivantes sont assimilées, selon le cas, à des livraisons
-de biens ou à des prestations de services effectuées à titre onéreux.
+II.-Les opérations suivantes sont assimilées, selon le cas, à des livraisons de
+biens ou à des prestations de services effectuées à titre onéreux.
 
 1. Sont assimilés à des livraisons de biens effectuées à titre onéreux :
 
@@ -79,11 +69,7 @@ Cette limite s'applique par objet et par an pour un même bénéficiaire ;
 produit, construit, extrait, transformé, acheté, importé ou ayant fait l'objet
 d'une acquisition intracommunautaire dans le cadre de son entreprise lorsque
 l'acquisition d'un tel bien auprès d'un autre assujetti, réputée faite au moment
-de l'affectation, ne lui ouvrirait pas droit à déduction complète parce que le
-droit à déduction de la taxe afférente au bien fait l'objet d'une exclusion ou
-d'une limitation ou peut faire l'objet d'une régularisation ; cette disposition
-s'applique notamment en cas d'affectation de biens à des opérations situées hors
-du champ d'application de la taxe sur la valeur ajoutée ;
+de l'affectation, ne lui ouvrirait pas droit à déduction complète.
 
 3° L'affectation d'un bien par un assujetti à un secteur d'activité exonéré
 n'ouvrant pas droit à déduction, lorsque ce bien a ouvert droit à une déduction
@@ -109,7 +95,7 @@ fins étrangères à son entreprise.
 3. Un décret en Conseil d'Etat définit les opérations désignées ci-dessus ainsi
 que le moment où la taxe devient exigible.
 
-III. - Sont également soumis à la taxe sur la valeur ajoutée :
+III.-Sont également soumis à la taxe sur la valeur ajoutée :
 
 1° La cession d'aéronefs ou d'éléments d'aéronefs par les compagnies de
 navigation aérienne mentionnées au 4° du II de l'article 262 à d'autres

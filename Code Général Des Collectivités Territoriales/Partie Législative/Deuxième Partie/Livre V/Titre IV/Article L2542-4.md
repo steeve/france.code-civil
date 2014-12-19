@@ -3,7 +3,7 @@ Article L2542-4
 Sans préjudice des attributions du représentant de l'Etat dans le département en
 vertu du 9° de l'article 2 de la section III du décret du 22 décembre 1789, les
 objets de police confiés à la vigilance et à l'autorité du maire sont ceux
-déterminés aux 1°, 3°, 4° et 6° à 8° de l'article L. 2212-2.
+déterminés aux 1°, 3°, 4°, 6° et 7° de l'article L. 2212-2.
 
 Le maire a également le soin :
 

@@ -27,6 +27,7 @@ de chaque année au titre de laquelle l'exonération est applicable, une
 déclaration accompagnée de tous les éléments justifiant de l'affectation des
 locaux.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
-1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis.
+Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis.

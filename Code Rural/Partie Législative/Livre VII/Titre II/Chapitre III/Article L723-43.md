@@ -10,7 +10,12 @@ versement de ces aides dans la mesure nécessaire à l'accomplissement de leurs
 missions de mise en œuvre et de contrôle de ces aides, lorsque le bénéfice de
 celles-ci est subordonné à la régularité de la situation des entreprises
 agricoles et des personnes non salariées agricoles au regard des prescriptions
-du présent code en matière de protection sociale.
+du présent code en matière de protection sociale. La Caisse centrale de la
+mutualité sociale agricole est également autorisée à communiquer ces mêmes
+informations aux administrations chargées de l'instruction des demandes et du
+contrôle du remboursement de la taxe intérieure de consommation prévue à
+l'article 265 du code des douanes et de la taxe intérieure de consommation sur
+le gaz naturel prévue à l'article 266 quinquies du même code.
 
 Les caisses de mutualité sociale agricole sont autorisées à communiquer aux
 services compétents placés sous l'autorité du ministre chargé de l'agriculture

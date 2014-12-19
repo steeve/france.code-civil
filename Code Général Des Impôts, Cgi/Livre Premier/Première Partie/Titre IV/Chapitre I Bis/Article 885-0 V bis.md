@@ -1,6 +1,6 @@
 Article 885-0 V bis
 ----
-I.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
+I. - 1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
 des versements effectués au titre de souscriptions au capital initial ou aux
 augmentations de capital de sociétés, en numéraire ou en nature par apport de
 biens nécessaires à l'exercice de l'activité, à l'exception des actifs
@@ -100,7 +100,7 @@ Le montant des versements effectués au titre de la souscription par le redevabl
 est pris en compte pour l'assiette de l'avantage fiscal dans la limite de la
 fraction déterminée en retenant :
 
--au numérateur, le montant des versements effectués, par la société mentionnée
+- au numérateur, le montant des versements effectués, par la société mentionnée
 au premier alinéa au titre de la souscription au capital dans des sociétés
 vérifiant l'ensemble des conditions prévues au 1, entre la date limite de dépôt
 de la déclaration devant être souscrite par le redevable l'année précédant celle
@@ -110,7 +110,7 @@ effectués avec les capitaux reçus au cours de cette période ou de la période
 d'imposition antérieure lors de la constitution du capital initial ou au titre
 de l'augmentation de capital auquel le redevable a souscrit ;
 
--au dénominateur, le montant des capitaux reçus par la société mentionnée au
+- au dénominateur, le montant des capitaux reçus par la société mentionnée au
 premier alinéa au titre de la constitution du capital initial ou de
 l'augmentation de capital auquel le redevable a souscrit au cours de l'une des
 périodes mentionnée au numérateur.
@@ -131,7 +131,7 @@ un état récapitulatif des sociétés financées, des titres détenus ainsi que
 montants investis durant l'année. Les informations qui figurent sur cet état
 sont celles arrêtées au 31 décembre de l'année.
 
-II.-1. Le bénéfice de l'avantage fiscal prévu au I est subordonné à la
+II. - 1. Le bénéfice de l'avantage fiscal prévu au I est subordonné à la
 conservation par le redevable des titres reçus en contrepartie de sa
 souscription au capital de la société jusqu'au 31 décembre de la cinquième année
 suivant celle de la souscription.
@@ -187,8 +187,8 @@ soulte soient conservés jusqu'au terme du délai applicable aux titres échang�
 La souscription de titres au moyen de la soulte d'échange ne peut donner lieu au
 bénéfice de l'avantage fiscal prévu au même 1 du I.
 
-III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
-du montant des versements effectués au titre de souscriptions en numéraire aux
+III. - 1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50
+% du montant des versements effectués au titre de souscriptions en numéraire aux
 parts de fonds communs de placement dans l'innovation mentionnés à l'article L.
 214-30 du code monétaire et financier et aux parts de fonds d'investissement de
 proximité mentionnés à l'article L. 214-31 du même code.
@@ -237,12 +237,12 @@ prévues au 1.
 donnant lieu à des droits différents sur l'actif net ou sur les produits du
 fonds ou de la société, attribuées en fonction de la qualité de la personne.
 
-IV.-Les versements ouvrant droit à l'avantage fiscal mentionné au I ou au III
+IV. - Les versements ouvrant droit à l'avantage fiscal mentionné au I ou au III
 sont ceux effectués entre la date limite de dépôt de la déclaration de l'année
 précédant celle de l'imposition et la date limite de dépôt de la déclaration de
 l'année d'imposition.
 
-V.-L'avantage fiscal prévu au présent article ne s'applique ni aux titres
+V. - L'avantage fiscal prévu au présent article ne s'applique ni aux titres
 figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D
 ou dans un plan d'épargne salariale mentionné au titre III du livre III de la
 troisième partie du code du travail, ni à la fraction des versements effectués
@@ -275,16 +275,17 @@ Par dérogation à l'alinéa précédent, la fraction des versements pour laquel
 redevable demande le bénéfice de l'avantage fiscal prévu au présent article ne
 peut donner lieu à l'application de l'article 885-0 V bis A.
 
-VI.-Le bénéfice des I à III est subordonné au respect, selon le cas par les
+VI. - Le bénéfice des I à III est subordonné au respect, selon le cas par les
 sociétés bénéficiaires des versements mentionnées au 1 du I ou par les sociétés
 éligibles au quota mentionné à la première phrase du deuxième alinéa du c du 1
-du III, du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006,
-concernant l'application des articles 87 et 88 du traité CE aux aides de minimis
-ou du règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007,
-concernant l'application des articles 87 et 88 du traité CE aux aides de minimis
-dans le secteur de la production de produits agricoles. Toutefois, cette
-disposition n'est pas applicable lorsque les conditions suivantes sont
-cumulativement satisfaites par les sociétés mentionnées à la phrase précédente :
+du III, du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
+relatif à l'application des articles 107 et 108 du traité sur le fonctionnement
+de l'Union européenne aux aides de minimis ou du règlement (UE) n° 1408/2013 de
+la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et
+108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis
+dans le secteur de l'agriculture. Toutefois, cette disposition n'est pas
+applicable lorsque les conditions suivantes sont cumulativement satisfaites par
+les sociétés mentionnées à la phrase précédente :
 
 a) La société répond à la condition prévue au a du 1 du I ;
 
@@ -325,9 +326,10 @@ bénéficiant d'un agrément d'intérêt collectif.
 Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d est
 subordonné au respect des conditions suivantes :
 
-― la société ne procède pas à la distribution de dividendes ;
+- la société ne procède pas à la distribution de dividendes ;
 
-― la société réalise son objet social sur l'ensemble du territoire national.
+- la société réalise son objet social sur l'ensemble du territoire national.
 
-VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux
-sociétés visés au I, ainsi qu'aux gérants et dépositaires de fonds visés au III.
+VII. - Un décret fixe les obligations déclaratives incombant aux redevables et
+aux sociétés visés au I, ainsi qu'aux gérants et dépositaires de fonds visés au
+III.

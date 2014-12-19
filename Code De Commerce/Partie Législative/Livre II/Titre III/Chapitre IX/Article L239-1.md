@@ -39,7 +39,10 @@ professions libérales soumises à un statut législatif ou réglementaire ou do
 le titre est protégé et aux sociétés de participations financières de
 professions libérales, ne peuvent pas faire l'objet du contrat de bail prévu au
 présent article, sauf au profit de professionnels salariés ou collaborateurs
-libéraux exerçant en leur sein.
+libéraux exerçant en leur sein et, à l'exception des sociétés intervenant dans
+le domaine de la santé ou exerçant les fonctions d'officier public ou
+ministériel, de professionnels exerçant la profession constituant l'objet social
+de ces sociétés.
 
 Lorsque la société fait l'objet d'une procédure de sauvegarde ou de redressement
 judiciaire en application du titre III du livre VI du présent code, la location

@@ -1,6 +1,6 @@
 Article 1395 G
 ----
-I. ― Les conseils municipaux et les organes délibérants des établissements
+I. - Les conseils municipaux et les organes délibérants des établissements
 publics de coopération intercommunale à fiscalité propre peuvent, par une
 délibération prise dans les conditions prévues au I de l'article 1639 A bis,
 exonérer de la taxe foncière sur les propriétés non bâties, pendant une durée de
@@ -22,7 +22,7 @@ plus exploitées selon le mode de production biologique.
 La délibération porte sur la totalité de la part revenant à chaque commune ou
 établissement public de coopération intercommunale à fiscalité propre.
 
-II. ― Le I ne s'applique pas aux propriétés non bâties qui bénéficient des
+II. - Le I ne s'applique pas aux propriétés non bâties qui bénéficient des
 exonérations totales prévues aux articles 1394 B, aux 1° et 1° bis de l'article
 1395, au II de l'article 1395 B, aux articles 1395 E et 1395 F ainsi qu'à
 l'article 1649.
@@ -53,14 +53,14 @@ bénéfice des dispositions du I du présent article est accordé à l'expiratio
 la période d'application de l'exonération prévue à l'article 1395 A pour la
 période restant à courir.
 
-III. ― Pour bénéficier de l'exonération, le propriétaire ou, si les propriétés
+III. - Pour bénéficier de l'exonération, le propriétaire ou, si les propriétés
 concernées sont données à bail, le preneur adresse au service des impôts, avant
 le 1er janvier de chaque année, la liste des parcelles concernées accompagnée du
 document justificatif annuel délivré par l'organisme certificateur agréé
 mentionné au deuxième alinéa du I, conformément à l'article 29 du règlement (CE)
 n° 834 / 2007 du Conseil du 28 juin 2007, précité.
 
-IV. ― Le bénéfice de l'exonération prévue au I est subordonné au respect du
-règlement (CE) n° 1535 / 2007 de la Commission, du 20 décembre 2007, concernant
-l'application des articles 87 et 88 du traité CE aux aides de minimis dans le
-secteur de la production de produits agricoles.
+IV. - Le bénéfice de l'exonération prévue au I est subordonné au respect du
+règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à
+l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne aux aides de minimis dans le secteur de l'agriculture.

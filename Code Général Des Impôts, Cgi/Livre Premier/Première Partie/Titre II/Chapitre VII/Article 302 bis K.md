@@ -47,9 +47,8 @@ A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une
 proportion égale au taux prévisionnel de croissance de l'indice des prix à la
 consommation hors tabac associé au projet de loi de finances de l'année.
 
-Ces tarifs annuels, fixés par arrêté conjoint du ministre chargé du budget et du
-ministre chargé de l'aviation civile, entrent en vigueur pour les vols effectués
-à compter du 1er avril de l'année.
+Ces tarifs annuels entrent en vigueur pour les vols effectués à compter du 1er
+avril de l'année.
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage
 total déclaré par chaque entreprise le mois considéré, arrondi à la tonne

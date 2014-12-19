@@ -5,7 +5,7 @@ versements, pris dans la limite de 5 pour mille du chiffre d'affaires, effectué
 par les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
 sociétés au profit :
 
-a) D'oeuvres ou d'organismes d'intérêt général ayant un caractère
+a) D'œuvres ou d'organismes d'intérêt général ayant un caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
 culturel ou concourant à la mise en valeur du patrimoine artistique, à la
 défense de l'environnement naturel où à la diffusion de la culture, de la langue
@@ -164,14 +164,15 @@ premier alinéa du présent 4, à la création, à la reprise ou au développeme
 petites et moyennes entreprises telles qu'elles sont définies à l'annexe I au
 même règlement ou de leur fournir des prestations d'accompagnement peut
 également se voir délivrer l'agrément, sous réserve du respect des conditions
-mentionnées aux 1°, 2°, 4° et 5° et du règlement (CE) n° 1998/2006 de la
-Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88
-du traité aux aides de minimis ou du règlement (CE) n° 1535/2007 de la
-Commission, du 20 décembre 2007, concernant l'application des articles 87 et 88
-du traité CE aux aides de minimis dans le secteur de la production de produits
-agricoles ou du règlement (CE) n° 875/2007 de la Commission, du 24 juillet 2007,
-relatif à l'application des articles 87 et 88 du traité CE aux aides de minimis
-dans le secteur de la pêche et modifiant le règlement (CE) n° 1860/2004.
+mentionnées aux 1°, 2°, 4° et 5° et du règlement (UE) n° 1407/2013 de la
+Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108
+du traité sur le fonctionnement de l'Union européenne aux aides de minimis ou du
+règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à
+l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne aux aides de minimis dans le secteur de l'agriculture ou du règlement
+(CE) n° 875/2007 de la Commission, du 24 juillet 2007, relatif à l'application
+des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la
+pêche et modifiant le règlement (CE) n° 1860/2004.
 
 L'agrément accordé aux organismes qui le sollicitent pour la première fois porte
 sur une période comprise entre la date de sa notification et le 31 décembre de

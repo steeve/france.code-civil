@@ -1,6 +1,6 @@
 Article L211-23
 ----
-I.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
+I.-Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait :
 
 -de se livrer ou d'apporter son concours à l'une des opérations mentionnées aux
 articles L. 211-1 et L. 211-4 sans respecter ou en ayant cessé de remplir les
@@ -35,3 +35,8 @@ La mesure de fermeture provisoire est levée de plein droit en cas de classement
 sans suite de l'affaire par le procureur de la République, d'ordonnance de
 non-lieu rendue par une juridiction d'instruction ou lors du prononcé du
 jugement rendu en premier ressort par la juridiction saisie.
+
+III.-Tout manquement à la section 2 du présent chapitre est passible d'une
+amende administrative dont le montant ne peut excéder 3 000 € pour une personne
+physique et 15 000 € pour une personne morale. L'amende est prononcée dans les
+conditions prévues à l'article L. 141-1-2 du code de la consommation.

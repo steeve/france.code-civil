@@ -2,16 +2,16 @@ Article L121-15
 ----
 Est, en outre, interdite toute publicité portant :
 
-1° Sur une opération commerciale soumise à autorisation au titre soit des
-articles L. 310-1, L. 310-2, L. 310-3, L. 310-4 et L. 310-7 du code de commerce,
-soit des articles L. 720-5 et L. 720-10 du même code, et qui n'a pas fait
-l'objet de cette autorisation ;
+1° Sur une opération commerciale soumise à autorisation ou à déclaration au
+titre soit des articles L. 310-1 à L. 310-4 et L. 310-7 du code de commerce,
+soit des articles L. 752-1 et L. 752-16 du même code, et qui n'a pas fait
+l'objet de cette autorisation ou de cette déclaration ;
 
 2° Sur une opération commerciale dont la réalisation nécessite l'emploi de
 personnel salarié requérant une autorisation au titre du chapitre Ier du titre
 II du livre II du code du travail et réalisée sans l'obtention préalable de
-cette autorisation, ou qui est en infraction avec les articles 41 a et 41 b, 105
-a à 105 i du code des professions applicable dans les départements de la
+cette autorisation, ou qui est en infraction avec les articles 41 a et 41 b ,
+105 a à 105 i du code des professions applicable dans les départements de la
 Moselle, du Bas-Rhin et du Haut-Rhin ;
 
 3° Sur une opération commerciale réalisée ou devant être réalisée en infraction

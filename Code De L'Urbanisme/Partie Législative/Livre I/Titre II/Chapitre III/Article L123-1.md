@@ -60,6 +60,15 @@ Il en est de même lorsqu'un plan local d'urbanisme élaboré par un établissem
 public de coopération intercommunale est révisé pour intégrer les dispositions
 tenant lieu de programme local de l'habitat ou de plan de déplacements urbains.
 
+II bis.-Un établissement public de coopération intercommunale compétent en
+matière de plan local d'urbanisme, de document en tenant lieu ou de carte
+communale peut décider, le cas échéant après accord de la commune concernée,
+d'achever toute procédure d'élaboration ou d'évolution d'un plan local
+d'urbanisme, d'un document en tenant lieu ou d'une carte communale, engagée
+avant la date de sa création ou du transfert de cette compétence.
+
+Le premier alinéa du présent II bis est applicable à la métropole de Lyon.
+
 III.-Lorsqu'il est élaboré par une commune non membre d'un établissement public
 compétent, le plan local d'urbanisme couvre l'intégralité de son territoire.
 
