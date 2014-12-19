@@ -7,8 +7,12 @@ quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de
 recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est
 de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100
 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure
-à ce montant. Pour les dépenses mentionnées au k du II, le taux du crédit
-d'impôt est de 20 %.
+à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de
+recherche exposées à compter du 1er janvier 2015 dans des exploitations situées
+dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le
+taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour les dépenses
+mentionnées au même k exposées, à compter du 1er janvier 2015, dans des
+exploitations situées dans un département d'outre-mer.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou
 groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne
@@ -33,12 +37,13 @@ d'assurance et le coût de reconstruction et de remplacement (1);
 
 b) Les dépenses de personnel afférentes aux chercheurs et techniciens de
 recherche directement et exclusivement affectés à ces opérations. Lorsque ces
-dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplôme
-équivalent, elles sont prises en compte pour le double de leur montant pendant
-les vingt-quatre premiers mois suivant leur premier recrutement à condition que
-le contrat de travail de ces personnes soit à durée indéterminée et que
-l'effectif du personnel de recherche salarié de l'entreprise ne soit pas
-inférieur à celui de l'année précédente ;
+dépenses se rapportent à des personnes titulaires d'un doctorat, au sens de
+l'article L. 612-7 du code de l'éducation, ou d'un diplôme équivalent, elles
+sont prises en compte pour le double de leur montant pendant les vingt-quatre
+premiers mois suivant leur premier recrutement à condition que le contrat de
+travail de ces personnes soit à durée indéterminée et que l'effectif du
+personnel de recherche salarié de l'entreprise ne soit pas inférieur à celui de
+l'année précédente ;
 
 b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de
 l'article L. 611-7 du code de la propriété intellectuelle, au profit des
@@ -55,10 +60,11 @@ Ce pourcentage est fixé à :
 compter du 1er janvier 2000).
 
 3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires
-d'un doctorat ou d'un diplôme équivalent pendant les vingt-quatre premiers mois
-suivant leur premier recrutement à la condition que le contrat de travail de ces
-personnes soit à durée indéterminée et que l'effectif du personnel de recherche
-salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
+d'un doctorat, au sens de l'article L. 612-7 du code de l'éducation, ou d'un
+diplôme équivalent pendant les vingt-quatre premiers mois suivant leur premier
+recrutement à la condition que le contrat de travail de ces personnes soit à
+durée indéterminée et que l'effectif du personnel de recherche salarié de
+l'entreprise ne soit pas inférieur à celui de l'année précédente.
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature
 confiées à :
