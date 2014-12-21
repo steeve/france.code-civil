@@ -4,5 +4,5 @@ Le paiement de la contribution sociale de solidarité est garanti par un
 privilège sur les biens, meubles et immeubles du débiteur dans les conditions
 prévues par les articles L. 243-4 et L. 243-5 du code de la sécurité sociale.
 
-Les dispositions de l'article L. 243-3 et du premier alinéa de l'article L.
-243-6 sont applicables à la contribution sociale de solidarité.
+Les dispositions de l'article L. 243-3 et du I de l'article L. 243-6 sont
+applicables à la contribution sociale de solidarité.

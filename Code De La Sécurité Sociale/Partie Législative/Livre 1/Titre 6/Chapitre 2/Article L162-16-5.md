@@ -1,6 +1,6 @@
 Article L162-16-5
 ----
-Le prix de cession au public des spécialités disposant d'une autorisation de
+I.-Le prix de cession au public des spécialités disposant d'une autorisation de
 mise sur le marché, de l'autorisation d'importation parallèle en application de
 l'article L. 5124-13 du code de la santé publique ou de l'autorisation
 mentionnée à l'article L. 5121-9-1 du même code et inscrites sur la liste prévue
@@ -49,3 +49,12 @@ déclarés peuvent être révisés et les engagements que doit prendre l'entrepr
 Sont constatées et poursuivies dans les conditions fixées par le titre V du
 livre IV du code de commerce les infractions aux conventions et arrêtés
 mentionnés ci-dessus.
+
+II.-Lorsque le prix d'achat des spécialités acquitté par l'établissement est
+inférieur au prix de vente publié par le Comité économique des produits de santé
+ou, le cas échéant, au prix de cession fixé en application du deuxième alinéa du
+I minoré de la marge mentionnée au premier alinéa du même I, le prix de cession
+facturable et servant de base au calcul de la participation de l'assuré est égal
+au prix d'achat majoré d'une fraction de la différence entre ces deux éléments,
+fixée par arrêté conjoint des ministres chargés de la santé et de la sécurité
+sociale, auquel s'ajoute la marge précitée.

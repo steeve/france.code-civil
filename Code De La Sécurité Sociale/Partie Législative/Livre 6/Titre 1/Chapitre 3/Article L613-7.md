@@ -5,5 +5,5 @@ d'invalidité, exerçant une activité professionnelle, sont affiliées et cotis
 simultanément au régime d'assurance maladie dont relève leur avantage ou leur
 pension et à celui dont relève leur activité.
 
-Toutefois, le droit aux prestations est ouvert dans l'un ou l'autre régime, au
-choix de l'intéressé.
+Le droit aux prestations en nature est ouvert dans l'un ou l'autre de ces
+régimes, selon des modalités définies par décret.

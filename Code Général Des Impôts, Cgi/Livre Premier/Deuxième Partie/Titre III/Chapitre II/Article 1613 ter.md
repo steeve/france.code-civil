@@ -14,12 +14,13 @@ directement, soit par l'intermédiaire d'un professionnel ;
 bières au sens de l'article 520 A, 0,5 % vol.
 
 Sont exclus du périmètre de cette contribution les laits infantiles premier et
-deuxième âges, les laits de croissance et les produits de nutrition entérale
-pour les personnes malades.
+deuxième âges, les laits de croissance, les produits de nutrition entérale pour
+les personnes malades et les boissons à base de soja avec au minimum 2,9 % de
+protéines issues de la graine de soja.
 
-II. ― Le montant de la contribution est fixé à 7,45 € par hectolitre (1). Ce
-montant est relevé au 1er janvier de chaque année à compter du 1er janvier 2013,
-dans une proportion égale au taux de croissance de l'indice des prix à la
+II. ― Le montant de la contribution est fixé à 7,45 € par hectolitre. Ce montant
+est relevé au 1er janvier de chaque année à compter du 1er janvier 2013, dans
+une proportion égale au taux de croissance de l'indice des prix à la
 consommation hors tabac de l'avant-dernière année. Ce montant est exprimé avec
 deux chiffres après la virgule, le deuxième chiffre étant augmenté d'une unité
 si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté

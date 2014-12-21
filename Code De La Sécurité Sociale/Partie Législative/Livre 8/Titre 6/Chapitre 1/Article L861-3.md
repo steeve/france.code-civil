@@ -48,6 +48,10 @@ de la date d'expiration de ce droit, de la procédure de dispense d'avance des
 frais prévue à l'alinéa précédent pour la part de leurs dépenses prise en charge
 par les régimes obligatoires d'assurance maladie et maternité.
 
-Pour l'application de cette dispense d'avance de frais, un décret détermine les
-modalités de paiement des professionnels et établissements de santé permettant
-notamment qu'ils aient un interlocuteur unique pour l'ensemble de la procédure.
+Un décret détermine les modalités du tiers payant, notamment la procédure
+applicable entre les professionnels de santé et les organismes d'assurance
+maladie, d'une part, et celle applicable entre les organismes assurant la
+couverture complémentaire prévue à l'article L. 861-1 et les organismes
+d'assurance maladie, d'autre part. Ces modalités permettent aux professionnels
+et aux établissements de santé d'avoir un interlocuteur unique pour l'ensemble
+de la procédure.

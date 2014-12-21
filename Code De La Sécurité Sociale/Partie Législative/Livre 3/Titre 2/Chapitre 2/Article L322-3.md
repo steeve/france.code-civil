@@ -6,15 +6,15 @@ d'Etat, pris après avis de l'Union nationale des caisses d'assurance maladie et
 de l'Union nationale des organismes d'assurance maladie complémentaire, dans les
 cas suivants :
 
-1°) lorsque, à l'occasion d'une hospitalisation ou au cours d'une période de
+1°) Lorsque, à l'occasion d'une hospitalisation ou au cours d'une période de
 temps déterminée, la dépense demeurant à la charge de l'intéressé dépasse un
 certain montant ;
 
-2°) lorsque l'état du bénéficiaire justifie la fourniture d'un appareil
+2°) Lorsque l'état du bénéficiaire justifie la fourniture d'un appareil
 appartenant à une catégorie déterminée par ledit décret, pour les frais
 d'acquisition de l'appareil ;
 
-3°) lorsque le bénéficiaire a été reconnu atteint d'une des affections,
+3°) Lorsque le bénéficiaire a été reconnu atteint d'une des affections,
 comportant un traitement prolongé et une thérapeutique particulièrement
 coûteuse, inscrites sur une liste établie par décret après avis de la Haute
 Autorité mentionnée à l'article L. 161-37 ; 4°) Lorsque les deux conditions
@@ -26,21 +26,21 @@ entraînant un état pathologique invalidant ;
 b) Cette ou ces affections nécessitent un traitement prolongé et une
 thérapeutique particulièrement coûteuse ;
 
-5°) lorsque l'assuré est titulaire de l'allocation de solidarité aux personnes
+5°) Lorsque l'assuré est titulaire de l'allocation de solidarité aux personnes
 âgées au titre d'un avantage vieillesse ;
 
-6°) lorsque le bénéficiaire est un enfant ou adolescent handicapé pour les frais
+6°) Lorsque le bénéficiaire est un enfant ou adolescent handicapé pour les frais
 couverts au titre du 2° de l'article L. 321-1 ;
 
-7°) lorsque l'assuré est hébergé dans un établissement mentionné à l'article 3
+7°) Lorsque l'assuré est hébergé dans un établissement mentionné à l'article 3
 de la loi n° 75-535 du 30 juin 1975 ou lorsqu'il bénéficie de soins dispensés
 par un centre mentionné à l'article L. 355-1-1 du code de la santé publique ;
 
-8°) lorsque l'assuré est hébergé dans une unité ou un centre de long séjour
+8°) Lorsque l'assuré est hébergé dans une unité ou un centre de long séjour
 mentionné à l'article L. 174-5 ou à l'article 52-1 de la loi n° 70-1318 du 31
 décembre 1970 ;
 
-9°) lorsque l'assuré bénéficie de soins paramédicaux dispensés dans le cadre
+9°) Lorsque l'assuré bénéficie de soins paramédicaux dispensés dans le cadre
 d'une action médico-sociale de maintien à domicile par les institutions
 mentionnées au 1° de l'article 1er de la loi n° 75-535 du 30 juin 1975 ;
 
@@ -55,16 +55,16 @@ période fixée par décret en Conseil d'Etat, ainsi que pour tous les soins qui
 leur sont dispensés en établissement de santé, jusqu'à un âge fixé par décret en
 Conseil d'Etat ;
 
-12°) pour les investigations nécessaires au diagnostic de la stérilité et pour
+12°) Pour les investigations nécessaires au diagnostic de la stérilité et pour
 le traitement de celle-ci, y compris au moyen de l'insémination artificielle ;
 
-13°) pour les bénéficiaires des dispositions des articles L. 311-10, L. 313-4,
+13°) Pour les bénéficiaires des dispositions des articles L. 311-10, L. 313-4,
 L. 341-16 et L. 371-1 en ce qui concerne les frais engagés pour eux-mêmes ;
 
-14°) pour les ayants droit des bénéficiaires des dispositions de l'article L.
+14°) Pour les ayants droit des bénéficiaires des dispositions de l'article L.
 371-1 ;
 
-15°) pour les soins consécutifs aux sévices subis par les mineurs victimes
+15°) Pour les soins consécutifs aux sévices subis par les mineurs victimes
 d'actes prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27
 du code pénal ;
 
@@ -91,7 +91,10 @@ l'article L. 322-5 du présent code ;
 au 4° de l'article L. 321-1 ;
 
 21°) Pour l'assurée mineure d'au moins quinze ans, pour les frais d'acquisition
-de certains contraceptifs.
+de certains contraceptifs ;
+
+22°) Pour certains frais dus au titre des honoraires de dispensation des
+pharmaciens mentionnés au 7° de l'article L. 162-16-1.
 
 La liste mentionnée au 3° du présent article comporte également en annexe les
 critères médicaux utilisés pour la définition de l'affection et ouvrant droit à

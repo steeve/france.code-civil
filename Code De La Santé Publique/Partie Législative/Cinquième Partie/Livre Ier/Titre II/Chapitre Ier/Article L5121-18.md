@@ -1,9 +1,9 @@
 Article L5121-18
 ----
-Les redevables de la contribution prévue au I de l'article L. 245-6 du code de
-la sécurité sociale et de la taxe prévue à l'article 1600-0 O du code général
-des impôts adressent à l'agence mentionnée à l'article L. 5311-1 du présent code
-et au comité économique des produits de santé, au plus tard le 31 mars de chaque
+Les redevables de la contribution prévue au I de l'article L. 245-6 et de la
+contribution prévue à l'article L. 245-5-5-1 du code de la sécurité sociale
+adressent à l'agence mentionnée à l'article L. 5311-1 du présent code et au
+comité économique des produits de santé, au plus tard le 31 mars de chaque
 année, une déclaration fournissant des informations relatives aux ventes
 réalisées au cours de l'année civile précédente pour les médicaments, produits
 de santé, dispositifs médicaux et dispositifs médicaux de diagnostic in vitro

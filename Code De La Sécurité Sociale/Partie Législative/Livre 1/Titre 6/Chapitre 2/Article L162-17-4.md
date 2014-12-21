@@ -19,8 +19,8 @@ médicaments, à l'exception de ceux inscrits sur la liste prévue à l'article 
 mise sur le marché et, le cas échéant, l'évolution de ces prix, notamment en
 fonction des volumes de vente ;
 
-2° Le cas échéant, les remises prévues en application des articles L. 162-18 et
-L. 162-16-5-1 ;
+2° Le cas échéant, les remises prévues en application des articles L. 138-13, L.
+138-19-4, L. 162-18 et L. 162-16-5-1 ;
 
 3° Dans le respect de la charte mentionnée à l'article L. 162-17-8, les
 engagements de l'entreprise visant à la maîtrise de sa politique de promotion

@@ -23,7 +23,7 @@ l'article L. 245-3 du code de l'action sociale et des familles ;
 invalidité, d'un régime spécial de sécurité sociale ou de l'article L. 18 du
 code des pensions militaires d'invalidité et des victimes de la guerre ;
 
-- soit d'une prestation complémentaire pour recours à tierce personne servie au
+-soit d'une prestation complémentaire pour recours à tierce personne servie au
 titre de la législation des accidents du travail ;
 
 d) Des personnes se trouvant, dans des conditions définies par décret, dans
@@ -43,16 +43,29 @@ Le bénéfice de ces dispositions ne peut se cumuler pour une même aide à domi
 avec le complément de libre choix du mode de garde de la prestation d'accueil du
 jeune enfant versé au titre de la garde à domicile.
 
-I bis. - Chaque heure de travail effectuée par les salariés mentionnés à
-l'article L. 7221-1 du code du travail ouvre droit à une déduction forfaitaire
-de la cotisation patronale due au titre des assurances maladie, maternité,
-invalidité et décès dont le montant est fixé par décret. Dans les départements
-d'outre-mer, ainsi que dans les collectivités d'outre-mer de Saint-Barthélemy,
-de Saint-Martin et de Saint-Pierre-et-Miquelon, la déduction de cotisations et
-contributions sociales d'origine légale et conventionnelle est majorée d'un
-montant fixé par décret. Ces déductions ne sont cumulables ni avec aucune
-exonération de cotisations sociales, ni avec l'application de taux ou
-d'assiettes spécifiques ou de montants forfaitaires de cotisations.
+I bis.-Chaque heure de travail effectuée par les salariés mentionnés à l'article
+L. 7221-1 du code du travail ouvre droit à une déduction forfaitaire patronale :
+
+1° De la cotisation due au titre des assurances maladie, maternité, invalidité
+et décès, à hauteur de 0,75 € dans les cas autres que ceux mentionnés aux 2° et
+3° ;
+
+2° Des cotisations de sécurité sociale, à hauteur de 1,50 €, pour les salariés à
+domicile employés pour des activités de garde d'enfants dont l'âge dépasse l'âge
+limite mentionné au IV de l'article L. 531-5 et n'excède pas celui mentionné au
+premier alinéa de l'article L. 521-3, dans la limite d'un nombre d'heures fixé
+par décret et sous réserve, pour l'employeur, de se conformer aux modalités de
+déclaration fixées par le décret mentionné au deuxième alinéa de l'article L.
+531-8 ;
+
+3° Des cotisations et contributions sociales d'origine légale et
+conventionnelle, à hauteur de 3,70 €, dans les départements d'outre-mer ainsi
+que dans les collectivités de Saint-Barthélemy, de Saint-Martin et de
+Saint-Pierre-et-Miquelon.
+
+Ces déductions ne sont cumulables avec aucune exonération de cotisations
+sociales, ni avec l'application de taux ou d'assiettes spécifiques ou de
+montants forfaitaires de cotisations.
 
 II.-Les particuliers et personnes morales qui ont passé un contrat conforme aux
 articles L. 442-1 et L. 444-3 du code de l'action sociale et des familles pour
@@ -92,6 +105,12 @@ d'accompagnement aux familles dans le cadre d'une convention conclue entre ces
 structures et un organisme de sécurité sociale, dans la limite, pour les tâches
 effectuées au bénéfice des personnes visées au a du I du présent article, du
 plafond prévu par ce même a.
+
+Le bénéfice du présent III ne peut s'appliquer dans les établissements, centres
+et services mentionnés aux 2° et 3°, au b du 5° et aux 6°, 7°, 11° et 12° du I
+de l'article L. 312-1 du code de l'action sociale et des familles, au titre des
+prestations financées par les organismes de sécurité sociale en application de
+l'article L. 314-3 du même code.
 
 Un décret détermine les modalités d'application de l'exonération prévue par le
 présent III et notamment :

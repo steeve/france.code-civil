@@ -4,12 +4,16 @@ En l'absence de hiérarchisation par les commissions prévues au deuxième alin�
 de l'article L. 162-1-7, dans un délai qui ne peut être supérieur à cinq mois à
 compter de la transmission à l'Union nationale des caisses d'assurance maladie
 de l'avis de la Haute Autorité de santé mentionné au troisième alinéa du même
-article, d'un acte innovant ne relevant pas de l'article L. 162-1-7-1 et dont
-l'inscription sur la liste prévue à l'article L. 162-1-7 du présent code est
-nécessaire à l'utilisation ou à la prise en charge par l'assurance maladie d'un
-des produits de santé définis aux articles L. 5211-1 ou L. 5221-1 du code de la
-santé publique, l'Union nationale des caisses d'assurance maladie peut procéder
-à la hiérarchisation de cet acte.
+article et de l'évaluation mentionnée au deuxième alinéa du présent article,
+l'Union nationale des caisses d'assurance maladie peut procéder à la
+hiérarchisation d'un acte dont le service attendu est suffisant, lorsqu'il
+appartient à l'une ou l'autre des catégories mentionnées aux 1° à 3° de
+l'article L. 162-1-7-1, sans relever des actes mentionnés au premier alinéa du
+même article.
+
+L'impact sur l'organisation des soins et les dépenses de l'assurance maladie des
+actes mentionnés aux 2° et 3° dudit article est évalué par la Haute Autorité de
+santé.
 
 Lorsqu'il est fait usage de la faculté prévue au premier alinéa du présent
 article, la décision d'inscription de cet acte est adressée par l'Union
@@ -21,7 +25,14 @@ En l'absence de décision de l'Union nationale des caisses d'assurance maladie
 dans le délai mentionné au deuxième alinéa, l'Union en informe les ministres
 chargés de la santé et de la sécurité sociale et en précise les motifs.
 
-Les modalités d'application du présent article, notamment la définition de
-l'acte innovant, fondée notamment sur l'amélioration du service attendu de
-l'acte, sont déterminées par décret en Conseil d'Etat. Les modalités relatives
-aux délais sont fixées par décret.
+Dans le cas prévu au 3° de l'article L. 162-1-7-1, l'acte reste pris en charge
+dans les conditions de l'expérimentation si une demande d'évaluation a été
+déposée auprès de la Haute Autorité de santé dans un délai maximal de six mois
+avant la fin de l'expérimentation. Cette prise en charge est valable au maximum
+un an à compter du dépôt de cette demande, jusqu'à l'intervention de la décision
+de l'Union nationale des caisses d'assurance maladie.
+
+Les modalités d'application du présent article, notamment la définition des
+critères mentionnés aux 1° à 3° du même article L. 162-1-7-1, sont déterminées
+par décret en Conseil d'Etat. Les modalités relatives aux délais sont fixées par
+décret.

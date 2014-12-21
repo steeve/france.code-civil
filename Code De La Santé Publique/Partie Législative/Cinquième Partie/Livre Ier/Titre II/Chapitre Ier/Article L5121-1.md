@@ -83,14 +83,34 @@ appartiennent à la même catégorie de forme pharmaceutique à libération modi
 et qu'elles ne présentent pas de propriétés sensiblement différentes au regard
 de la sécurité ou de l'efficacité ;
 
-Pour l'application du présent b, sont inscrites, après avis du directeur général
-de l'Agence nationale de sécurité du médicament et des produits de santé, au
-répertoire des spécialités génériques les spécialités dont le principe actif est
-d'origine végétale ou minérale qui présentent la même composition quantitative
-que ce principe actif et qui ont une activité thérapeutique équivalente à celle
-de la spécialité de référence, à condition que ces spécialités et la spécialité
-de référence ne présentent pas de propriétés sensiblement différentes au regard
-de la sécurité ou de l'efficacité ;
+Pour l'application du présent b, peuvent être inscrits au répertoire des
+spécialités génériques les médicaments à base de plantes définis au 16° du
+présent article, à l'exclusion de ceux mentionnés à l'article L. 5121-14-1, qui
+présentent la même composition qualitative et quantitative en substance active
+végétale, la même forme pharmaceutique et qui ont une activité thérapeutique
+équivalente. Les médicaments à base de plantes sont considérés comme ayant une
+composition qualitative identique dès lors que leur substance active végétale :
+
+-est conforme à la description des monographies communautaires élaborées par
+l'Agence européenne des médicaments, définies par la directive 2001/83/ CE du
+Parlement et du Conseil du 6 novembre 2001 instituant un code communautaire
+relatif aux médicaments à usage humain ; et
+
+-n'est pas susceptible d'entraîner des différences significatives en termes
+d'efficacité thérapeutique ou d'effets indésirables.
+
+Pour l'application du présent b, peuvent être inscrites au répertoire des
+spécialités génériques les spécialités dont la ou les substances actives sont
+exclusivement une ou plusieurs substances minérales, qui présentent la même
+composition qualitative et quantitative en substance, la même forme
+pharmaceutique et qui ont une activité thérapeutique équivalente à celle de la
+spécialité de référence. Les spécialités dont la ou les substances actives sont
+exclusivement une ou plusieurs substances minérales sont considérées comme ayant
+une composition qualitative identique dès lors que leur substance active
+minérale répond aux spécifications des monographies de la pharmacopée,
+lorsqu'elles existent, et qu'elle n'est pas susceptible d'entraîner des
+différences significatives en termes d'efficacité thérapeutique ou d'effets
+indésirables ;
 
 6° Médicament immunologique, tout médicament consistant en :
 
@@ -182,7 +202,7 @@ et des produits de santé ;
 16° Médicament à base de plantes, tout médicament dont les substances actives
 sont exclusivement une ou plusieurs substances végétales ou préparations à base
 de plantes ou une association de plusieurs substances végétales ou préparations
-à base de plantes.
+à base de plantes ;
 
 17° Médicament de thérapie innovante préparé ponctuellement, tout médicament tel
 que défini dans le règlement (CE) n° 1394/2007 du Parlement européen et du
@@ -194,6 +214,21 @@ prescription médicale déterminée pour un produit spécialement conçu à
 l'intention d'un malade déterminé. Ces médicaments font l'objet d'une
 autorisation de l'Agence française de sécurité sanitaire des produits de santé.
 Cette autorisation peut être assortie de conditions particulières ou de
-restrictions d'utilisation. Elle peut être modifiée, suspendue ou
-retirée.L'Agence de la biomédecine est informée des décisions prises en
-application du présent 17°.
+restrictions d'utilisation. Elle peut être modifiée, suspendue ou retirée.
+L'Agence de la biomédecine est informée des décisions prises en application du
+présent 17° ;
+
+18° Médicament dérivé du sang, tout médicament préparé industriellement à partir
+du sang ou de ses composants. Ils sont soumis au présent titre, sous réserve des
+dispositions spécifiques qui leur sont applicables. Ils comprennent notamment :
+
+a) Les médicaments issus du fractionnement du plasma ;
+
+b) Le plasma à finalité transfusionnelle dans la production duquel intervient un
+processus industriel, dont l'autorisation de mise sur le marché respecte
+l'article L. 5121-11 du présent code et dont la collecte et la qualification
+biologique respectent les exigences prévues par la directive 2002/98/ CE du
+Parlement européen et du Conseil, du 27 janvier 2003, établissant des normes de
+qualité et de sécurité pour la collecte, le contrôle, la transformation, la
+conservation et la distribution du sang humain, et des composants sanguins, et
+modifiant la directive 2001/83/ CE.

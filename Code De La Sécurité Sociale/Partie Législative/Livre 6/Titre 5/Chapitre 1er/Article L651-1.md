@@ -45,7 +45,10 @@ du livre VII du code rural et de la pêche maritime ;
 10°) Des sociétés ou organismes non visés aux 1° à 9° bis qui sont régis par la
 loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, à
 l'exception de ceux visés à l'article L. 521-1 du code rural et de la pêche
-maritime ;
+maritime, au titre Ier de la loi n° 83-657 du 20 juillet 1983 relative au
+développement de certaines activités d'économie sociale, aux articles L. 3441-2
+et L. 4431-2 du code des transports et aux articles L. 931-5, L. 931-24 et L.
+931-28 du code rural et de la pêche maritime ;
 
 11°) Des sociétés européennes au sens de l'article L. 229-1 du code de commerce
 et des sociétés coopératives européennes, au sens du règlement (CE) 1435/2003 du

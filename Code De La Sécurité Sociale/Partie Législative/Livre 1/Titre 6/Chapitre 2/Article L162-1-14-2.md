@@ -3,7 +3,7 @@ Article L162-1-14-2
 Le contrôle d'une pharmacie, d'un laboratoire de biologie médicale, d'un
 établissement de santé, d'un fournisseur de produits ou prestations inscrits sur
 la liste mentionnée à l'article L. 165-1, d'une société de transport sanitaire
-ou d'une entreprise de taxi mentionnée au second alinéa de l'article L. 322-5
+ou d'une entreprise de taxi mentionnée au deuxième alinéa de l'article L. 322-5
 concernant l'ensemble de son activité ou un ou plusieurs des éléments de
 celle-ci énumérés par décret en Conseil d'Etat est réalisé par le directeur de
 l'organisme local d'assurance maladie sur la base d'un échantillon dont la

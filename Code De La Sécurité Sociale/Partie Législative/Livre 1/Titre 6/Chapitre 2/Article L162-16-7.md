@@ -16,8 +16,9 @@ alinéa.
 
 La dispense d'avance de frais totale ou partielle mentionnée au 4° de l'article
 L. 162-16-1 consentie aux assurés ainsi qu'aux bénéficiaires de la couverture
-maladie universelle complémentaire prévue à l'article L. 861-1, lors de la
-facturation à l'assurance maladie de médicaments appartenant à un groupe
+maladie universelle complémentaire prévue à l'article L. 861-1 et aux
+bénéficiaires de la déduction prévue à l'article L. 863-2 du présent code, lors
+de la facturation à l'assurance maladie de médicaments appartenant à un groupe
 générique tel que défini à l'article L. 5121-1 du code de la santé publique, est
 subordonnée à l'acceptation par ces derniers de la délivrance d'un médicament
 générique, sauf dans les groupes génériques soumis au tarif forfaitaire de

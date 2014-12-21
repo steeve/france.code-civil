@@ -4,8 +4,8 @@ I.-Chaque année, l'Etat détermine :
 
 1° L'évolution moyenne nationale et l'évolution moyenne dans chaque région des
 tarifs des prestations mentionnées au 1° de l'article L. 162-22-1, selon les
-modalités prévues à l'article L. 162-22-2. Ces évolutions peuvent être
-différentes pour certaines activités médicales ;
+modalités prévues à l'article L. 162-22-2 et au I de l'article L. 162-22-2-1.
+Ces évolutions peuvent être différentes pour certaines activités médicales ;
 
 2° Les variations maximales et minimales des taux d'évolution des tarifs des
 prestations qui peuvent être allouées aux établissements par les agences

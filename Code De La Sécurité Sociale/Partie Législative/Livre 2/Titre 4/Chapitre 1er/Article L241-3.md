@@ -3,7 +3,7 @@ Article L241-3
 La couverture des charges de l'assurance vieillesse et de l'assurance veuvage
 est, indépendamment des contributions de l'Etat prévues par les dispositions
 législatives et réglementaires en vigueur, assurée par une contribution du fonds
-institué par l'article L. 131-1 dans les conditions fixées par l'article L.
+institué par l'article L. 135-1 dans les conditions fixées par l'article L.
 135-2, par une contribution de la branche Accidents du travail et maladies
 professionnelles couvrant les dépenses supplémentaires engendrées par les
 départs en retraite à l'âge fixé en application de l'article L. 351-1-4, par les
@@ -17,9 +17,6 @@ par le ministre chargé de la sécurité sociale.
 
 Ces cotisations dont le taux est fixé par décret, sont pour partie à la charge
 de l'employeur et pour partie à la charge du salarié.
-
-Des cotisations forfaitaires peuvent être fixées par des arrêtés ministériels
-pour certaines catégories de salariés ou assimilés.
 
 La couverture des charges de l'assurance vieillesse et de l'assurance veuvage
 est également assurée par des cotisations à la charge des employeurs et des

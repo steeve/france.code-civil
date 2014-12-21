@@ -2,7 +2,10 @@ Article L1222-8
 ----
 Les recettes de l'Etablissement français du sang sont constituées par :
 
-1° Les produits de la cession des produits sanguins labiles ;
+1° Les produits des activités liées aux produits sanguins labiles ;
+
+1° bis Les produits des activités liées au plasma mentionné au 2° bis de
+l'article L. 1221-8 ;
 
 2° Les produits des activités annexes ;
 

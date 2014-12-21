@@ -1,7 +1,8 @@
 Article L5125-23-2
 ----
 Dans le cas où le prescripteur initie un traitement avec un médicament
-biologique, il porte sur la prescription la mention expresse "en initiation de
+biologique ou un médicament administré par voie inhalée à l'aide d'un
+dispositif, il porte sur la prescription la mention expresse "en initiation de
 traitement”. Lors du renouvellement du traitement, sauf dans l'intérêt du
 patient, le même médicament biologique que celui initialement délivré au patient
 est prescrit et le prescripteur porte sur la prescription la mention expresse

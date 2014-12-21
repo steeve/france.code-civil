@@ -92,7 +92,12 @@ du 25° de l'article L. 311-3 du code de la sécurité sociale, les personnes
 exerçant une activité mentionnée à l'article L. 722-1 du présent code et qui
 sont liées avec une personne morale par un contrat d'appui au projet
 d'entreprise, dans les conditions définies par l'article L. 127-1 du code de
-commerce.
+commerce ;
+
+15° Personnes qui contribuent à l'exercice d'une mission définie au premier
+alinéa du 21° de l'article L. 311-3 du code de la sécurité sociale, dans les
+conditions fixées au même 21°, étant entendu que le décret mentionné audit 21°
+est, dans ce cas, pris pour l'application du présent 15°.
 
 Les salariés et assimilés définis au présent article sont désignés dans les
 titres II à VI du présent livre par les termes salariés agricoles.

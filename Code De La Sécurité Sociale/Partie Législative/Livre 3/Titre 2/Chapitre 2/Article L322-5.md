@@ -16,3 +16,12 @@ et fixe les conditions dans lesquelles l'assuré peut être dispensé de l'avanc
 des frais. Elle peut également prévoir la possibilité de subordonner le
 conventionnement à une durée d'existence préalable de l'autorisation de
 stationnement.
+
+L'organisme local d'assurance maladie refuse les demandes de conventionnement
+des entreprises de taxis lorsque le nombre de véhicules faisant l'objet d'une
+convention dans le territoire excède un nombre fixé par le directeur général de
+l'agence régionale de santé pour le territoire concerné sur le fondement de
+critères tenant compte des caractéristiques démographiques, géographiques et
+d'équipement sanitaire du territoire ainsi que du nombre de véhicules affectés
+au transport de patients. Les modalités d'application du présent alinéa sont
+fixées par décret en Conseil d'Etat.

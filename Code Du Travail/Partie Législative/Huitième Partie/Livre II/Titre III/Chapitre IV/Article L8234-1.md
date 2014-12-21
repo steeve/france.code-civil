@@ -3,6 +3,13 @@ Article L8234-1
 Le fait de commettre le délit de marchandage, défini par l'article L. 8231-1,
 est puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros.
 
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 € d'amende :
+
+1° Lorsque l'infraction est commise à l'égard de plusieurs personnes ;
+
+2° Lorsque l'infraction est commise à l'égard d'une personne dont la
+vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur.
+
 Les peines sont portées à dix ans d'emprisonnement et à 100 000 € d'amende
 lorsque l'infraction est commise en bande organisée.
 

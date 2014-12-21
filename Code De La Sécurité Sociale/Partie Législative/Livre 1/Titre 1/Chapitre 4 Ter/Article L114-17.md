@@ -17,17 +17,31 @@ de ressources ou de cessation d'activité ;
 
 4° Les agissements visant à obtenir ou à tenter de faire obtenir le versement
 indu de prestations servies par un organisme mentionné au premier alinéa, même
-sans en être le bénéficiaire.
+sans en être le bénéficiaire ;
+
+5° Les actions ou omissions ayant pour objet de faire obstacle ou de se
+soustraire aux opérations de contrôle exercées, en application de l'article L.
+114-10 du présent code et de l'article L. 724-7 du code rural et de la pêche
+maritime, par les agents mentionnés au présent article, visant à refuser l'accès
+à une information formellement sollicitée, à ne pas répondre ou à apporter une
+réponse fausse, incomplète ou abusivement tardive à toute demande de pièce
+justificative, d'information, d'accès à une information, ou à une convocation,
+émanant des organismes chargés de la gestion des prestations familiales et des
+prestations d'assurance vieillesse, dès lors que la demande est nécessaire à
+l'exercice du contrôle ou de l'enquête.
 
 Le montant de la pénalité est fixé en fonction de la gravité des faits, dans la
-limite de deux fois le plafond mensuel de la sécurité sociale. Cette limite est
-doublée en cas de récidive dans un délai fixé par voie réglementaire. Le
-directeur de l'organisme concerné notifie le montant envisagé de la pénalité et
-les faits reprochés à la personne en cause, afin qu'elle puisse présenter ses
-observations écrites ou orales dans un délai d'un mois. A l'issue de ce délai,
-le directeur de l'organisme prononce, le cas échéant, la pénalité et la notifie
-à l'intéressé en lui indiquant le délai dans lequel il doit s'en acquitter ou
-les modalités selon lesquelles elle sera récupérée sur les prestations à venir.
+limite de deux fois le plafond mensuel de la sécurité sociale. Tout fait ayant
+donné lieu à une sanction devenue définitive en application du présent article
+peut constituer le premier terme de récidive d'un nouveau manquement sanctionné
+par le présent article. Cette limite est doublée en cas de récidive dans un
+délai fixé par voie réglementaire. Le directeur de l'organisme concerné notifie
+le montant envisagé de la pénalité et les faits reprochés à la personne en
+cause, afin qu'elle puisse présenter ses observations écrites ou orales dans un
+délai d'un mois. A l'issue de ce délai, le directeur de l'organisme prononce, le
+cas échéant, la pénalité et la notifie à l'intéressé en lui indiquant le délai
+dans lequel il doit s'en acquitter ou les modalités selon lesquelles elle sera
+récupérée sur les prestations à venir.
 
 La personne concernée peut former, dans un délai fixé par voie réglementaire, un
 recours gracieux contre cette décision auprès du directeur. Ce dernier statue
@@ -69,7 +83,7 @@ Les modalités d'application du présent I sont fixées par décret en Conseil
 d'Etat.
 
 II.-Lorsque l'intention de frauder est établie, le montant de la pénalité ne
-peut être inférieur à un dixième du plafond mensuel de la sécurité sociale. En
+peut être inférieur à un trentième du plafond mensuel de la sécurité sociale. En
 outre, la limite du montant de la pénalité prévue au I du présent article est
 portée à quatre fois le plafond mensuel de la sécurité sociale. Dans le cas
 d'une fraude commise en bande organisée au sens de l'article 132-71 du code

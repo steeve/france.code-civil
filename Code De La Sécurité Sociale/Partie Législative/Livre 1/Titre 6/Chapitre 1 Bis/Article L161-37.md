@@ -12,12 +12,14 @@ dispensés aux personnes atteintes d'affections de longue durée. A cet effet,
 elle émet également un avis sur les conditions de prescription, de réalisation
 ou d'emploi des actes, produits ou prestations de santé ainsi que sur leur
 efficience. Elle réalise ou valide notamment les études médico-économiques
-nécessaires à l'évaluation des produits et technologies de santé. Un décret en
-Conseil d'Etat précise les cas dans lesquels cette évaluation médico-économique
-est requise, en raison notamment de l'amélioration du service médical rendu par
-le produit ou la technologie et des coûts prévisibles de son utilisation ou
-prescription, et les conditions dans lesquelles elle est réalisée, notamment les
-critères d'appréciation et les délais applicables ;
+nécessaires à l'évaluation des actes mentionnés aux articles L. 162-1-7-1 et L.
+162-1-8 et des produits et technologies de santé. Un décret en Conseil d'Etat
+précise les cas dans lesquels cette évaluation médico-économique est requise, en
+raison notamment de l'amélioration du service attendu de l'acte, de
+l'amélioration du service médical rendu par le produit ou la technologie et des
+coûts prévisibles de son utilisation ou prescription, et les conditions dans
+lesquelles elle est réalisée, notamment les critères d'appréciation et les
+délais applicables ;
 
 2° Elaborer les guides de bon usage des soins ou les recommandations de bonne
 pratique, procéder à leur diffusion et contribuer à l'information des
@@ -53,9 +55,9 @@ destination des usagers et de leurs représentants ;
 
 Pour l'accomplissement de ses missions, la Haute Autorité de santé travaille en
 liaison notamment avec l'Agence nationale de sécurité du médicament et des
-produits de santé , l'Institut national de veille sanitaire et l'Agence
-nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement
-et du travail. Elle peut mener toute action commune avec les organismes ayant
+produits de santé, l'Institut national de veille sanitaire et l'Agence nationale
+chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du
+travail. Elle peut mener toute action commune avec les organismes ayant
 compétence en matière de recherche dans le domaine de la santé.
 
 La Haute Autorité de santé rend publics l'ordre du jour et les comptes rendus

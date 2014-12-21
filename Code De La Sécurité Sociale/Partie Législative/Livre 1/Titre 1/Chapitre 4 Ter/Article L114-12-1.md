@@ -12,17 +12,14 @@ mentionnés à l'article L. 114-12 du présent code et pour ceux prévus, en
 application du présent code, avec les administrations fiscales.
 
 Les échanges d'informations et données relatives à ce répertoire peuvent prendre
-la forme de transmissions de données par voie électronique. Ces échanges peuvent
-notamment porter sur les montants des prestations en espèces servies par les
-organismes mentionnés au premier alinéa. Cette nouvelle fonctionnalité est mise
-en œuvre avant la fin de l'année 2012. Les traitements automatisés de données
-qui se limitent à l'organisation de ces échanges, notamment en vue de garantir
-l'authenticité, la fiabilité, la provenance, l'intégrité et la confidentialité
-des données échangées, sont soumis aux dispositions de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dès lors
-que les informations et données échangées sont celles définies par les
-dispositions législatives et réglementaires relatives au répertoire défini au
-premier alinéa.
+la forme de transmissions de données par voie électronique. Les traitements
+automatisés de données qui se limitent à l'organisation de ces échanges,
+notamment en vue de garantir l'authenticité, la fiabilité, la provenance,
+l'intégrité et la confidentialité des données échangées, sont soumis aux
+dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés, dès lors que les informations et données échangées
+sont celles définies par les dispositions législatives et réglementaires
+relatives au répertoire défini au premier alinéa.
 
 Ont également accès aux données de ce répertoire :
 
@@ -39,7 +36,8 @@ Le répertoire contient les données communes d'identification des individus, le
 informations relatives à leur affiliation aux différents régimes concernés, à
 leur rattachement à l'organisme qui leur sert les prestations ou avantages, à la
 nature de ces derniers, ainsi que l'adresse déclarée aux organismes pour les
-percevoir.
+percevoir. Au 1er janvier 2016, il contient également le montant des prestations
+en espèces servies par les organismes mentionnés au premier alinéa.
 
 Le numéro d'inscription au répertoire national d'identification des personnes
 physiques est l'identifiant utilisé.

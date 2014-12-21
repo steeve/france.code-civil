@@ -6,20 +6,21 @@ chapitre comprennent, dans les conditions fixées aux articles suivants :
 
 1° La couverture :
 
-- des frais médicaux, chirurgicaux, pharmaceutiques et d'hospitalisation ;
+-des frais médicaux, chirurgicaux, pharmaceutiques et d'hospitalisation ;
 
-- des frais de fourniture, de réparation et de renouvellement des appareils de
+-des frais de fourniture, de réparation et de renouvellement des appareils de
 prothèse et d'orthopédie ;
 
-- des frais de réadaptation fonctionnelle, de rééducation professionnelle et de
+-des frais de réadaptation fonctionnelle, de rééducation professionnelle et de
 reclassement professionnel ;
 
-- des frais de transport de la victime à sa résidence habituelle ou à
+-des frais de transport de la victime à sa résidence habituelle ou à
 l'établissement hospitalier et, d'une façon générale, des frais nécessités par
 le traitement, la réadaptation fonctionnelle et la rééducation professionnelle ;
 
-2° Une indemnité journalière pour le chef d'exploitation ou d'entreprise
-agricole pendant la période d'incapacité temporaire de travail ;
+2° Une indemnité journalière pour les chefs ou les collaborateurs d'exploitation
+ou d'entreprise agricole, les aides familiaux et les associés d'exploitation
+pendant la période d'incapacité temporaire de travail ;
 
 3° Une rente en cas d'incapacité permanente de l'assuré et, en cas de mort du
 chef d'exploitation ou d'entreprise agricole ou d'un assuré mentionné au II de

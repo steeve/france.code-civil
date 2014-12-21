@@ -24,12 +24,13 @@ maladie supérieure à la dépense qu'aurait entraînée la délivrance de la
 spécialité générique la plus chère du même groupe.
 
 Lorsque le pharmacien d'officine délivre, en application du troisième alinéa de
-l'article L. 5125-23 ou de l'article L. 5125-23-3 du code de la santé publique,
-une spécialité figurant sur la liste mentionnée au premier alinéa de l'article
-L. 162-17 autre que celle qui a été prescrite, cette substitution ne doit pas
-entraîner une dépense supplémentaire pour l'assurance maladie supérieure à la
-dépense qu'aurait entraînée la délivrance de la spécialité générique ou du
-médicament biologique similaire le plus cher du même groupe.
+l'article L. 5125-23, de l'article L. 5125-23-3 ou de l'article L. 5125-23-4 du
+code de la santé publique, une spécialité figurant sur la liste mentionnée au
+premier alinéa de l'article L. 162-17 autre que celle qui a été prescrite, cette
+substitution ne doit pas entraîner une dépense supplémentaire pour l'assurance
+maladie supérieure à la dépense qu'aurait entraînée la délivrance de la
+spécialité générique ou du médicament biologique similaire le plus cher du même
+groupe.
 
 En cas d'inobservation des dispositions des cinquième et sixième alinéas, le
 pharmacien verse à l'organisme de prise en charge, après qu'il a été mis en

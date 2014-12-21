@@ -2,10 +2,9 @@ Article L133-4-2
 ----
 Le bénéfice de toute mesure de réduction et d'exonération, totale ou partielle,
 de cotisations de sécurité sociale ou de contributions dues aux organismes de
-sécurité sociale, appliquée par un employeur ou un travailleur indépendant sans
-qu'il soit tenu d'en faire une demande préalable, est subordonné au respect par
-l'employeur ou le travailleur indépendant des dispositions des articles L.
-8221-1 et L. 8221-2 du code du travail.
+sécurité sociale, appliquée par un employeur ou un travailleur indépendant, est
+subordonné au respect par l'employeur ou le travailleur indépendant des
+dispositions des articles L. 8221-1 et L. 8221-2 du code du travail.
 
 Lorsque l'infraction définie aux articles L. 8221-3 et L. 8221-5 du même code
 est constatée par procès-verbal dans les conditions déterminées aux articles L.
