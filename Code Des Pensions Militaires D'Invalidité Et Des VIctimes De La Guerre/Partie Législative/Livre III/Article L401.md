@@ -3,7 +3,8 @@ Article L401
 Le ministre chargé de la défense inscrit par ordre alphabétique sur une ou
 plusieurs listes d'aptitude, pour une durée limitée, les candidats aux corps ou
 cadres d'emplois des fonctions publiques de l'Etat, territoriale et
-hospitalière.
+hospitalière. Les personnes mentionnées aux articles L. 394 à L. 396 bénéficient
+d'une durée d'inscription spécifique sur ces listes.
 
 L'inscription du candidat sur la ou les listes d'aptitude est subordonnée à la
 reconnaissance de ses qualifications et acquis de l'expérience professionnelle
@@ -24,5 +25,5 @@ la défense.
 L'inscription sur une liste régionale ou nationale s'effectue à la demande du
 candidat, sous réserve des contraintes statutaires.
 
-Un décret en Conseil d'Etat fixe les conditions d'aptitude physique, la durée et
-les modalités d'inscription sur ces listes.
+Un décret en Conseil d'Etat fixe les conditions d'aptitude physique, les durées
+et les modalités d'inscription sur ces listes.
