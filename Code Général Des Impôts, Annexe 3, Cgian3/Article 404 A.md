@@ -5,21 +5,15 @@ l'article 396 peuvent outre les formes énumérées à l'article 400, revêtir c
 de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts.
 
 Les droits sont acquittés en plusieurs versements égaux dont le premier a lieu
-dans les conditions fixées à l'article 402 et le dernier au plus tard cinq ans
+dans les conditions fixées à l'article 402 et le dernier au plus tard un an
 après l'expiration du délai imparti pour souscrire la déclaration de succession.
 
-Les versements sont fixés au nombre de deux lorsque les droits n'excèdent pas 5
-% du montant taxable des parts recueillies soit par tous les cohéritiers
-solidaires soit pour chacun des légataires ou donataires ; de quatre lorsque ces
-droits n'excèdent pas 10 % du même montant et ainsi de suite en augmentant de
-deux le nombre des versements chaque fois que les droits dépassent un nouveau
-multiple de 5 %, mais sans que le nombre des versements à intervalle de six mois
-au plus puisse être supérieur à dix.
+Les versements, à intervalle de six mois au plus, ne peuvent être supérieurs à
+trois.
 
-Le délai maximal prévu au deuxième alinéa est porté à dix ans et le nombre des
-versements est doublé sans pouvoir toutefois dépasser vingt lorsque l'actif
-héréditaire comprend à concurrence de 50 % au moins des biens non liquides
-énumérés ci-après :
+Le délai maximal prévu au deuxième alinéa est porté à trois ans et le nombre des
+versements ne peut dépasser sept lorsque l'actif héréditaire comprend à
+concurrence de 50 % au moins des biens non liquides énumérés ci-après :
 
 Brevets d'invention ;
 
@@ -38,6 +32,8 @@ Offices ministériels ;
 
 Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ;
 
-Valeurs mobilières non cotées en Bourse.
+Valeurs mobilières non cotées en Bourse ;
+
+Objets d'antiquité, d'art ou de collection.
 
 II. (Abrogé).
