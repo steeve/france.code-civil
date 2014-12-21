@@ -7,9 +7,8 @@ destinées au financement des prestations complémentaires de prévoyance versé
 au bénéfice de leurs salariés, anciens salariés et de leurs ayants droit, ainsi
 que pour les sommes affectées à la réserve spéciale de participation
 conformément aux modalités définies à l'article L. 3323-3 du code du travail au
-sein des sociétés coopératives ouvrières de production soumises à la loi n°
-78-763 du 19 juillet 1978 portant statut des sociétés coopératives ouvrières de
-production.
+sein des sociétés coopératives de production soumises à la loi n° 78-763 du 19
+juillet 1978 portant statut des sociétés coopératives de production.
 
 Le produit de cette contribution est réparti conformément au tableau suivant :
 
@@ -25,12 +24,6 @@ Caisse nationale d'assurance vieillesse
 
 Fonds mentionné à l'article L. 135-1
 
-Dont section mentionnée à l'article L. 135-3-1
-
 4 points
 
-0,5 point
-
 1,6 point
-
-0,5 point

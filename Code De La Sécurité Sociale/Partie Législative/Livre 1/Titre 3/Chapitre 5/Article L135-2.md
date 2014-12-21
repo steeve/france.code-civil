@@ -55,6 +55,8 @@ l'outre-mer ;
 
 f) Des périodes mentionnées au 1° de l'article L. 351-3 ;
 
+g) Des périodes mentionnées au 8° du même article L. 351-3 ;
+
 5° Les sommes correspondant à la prise en compte par les régimes d'assurance
 vieillesse de base mentionnés au titre V du livre III, aux 1° et 2° de l'article
 L. 621-3 du présent code et à l'article 1024 du code rural des réductions de la
@@ -83,11 +85,18 @@ article 8 ;
 
 10° Les sommes représentatives de la prise en compte par les régimes d'assurance
 vieillesse de base, dans le salaire de base mentionné à l'article L. 351-1, des
-indemnités journalières mentionnées au même article.
+indemnités journalières mentionnées au même article ;
 
-Les sommes mentionnées aux a, b, d, e et f du 4°, au 7° et au 10° sont calculées
-sur une base forfaitaire dans des conditions fixées par décret en Conseil
-d'Etat.
+11° Les sommes correspondant à la prise en charge mentionnée au dernier alinéa
+de l'article L. 6243-3 du code du travail ;
+
+12° Le financement d'avantages non contributifs instaurés au bénéfice des
+retraités de l'ensemble des régimes, lorsque les dispositions les instituant le
+prévoient.
+
+Les sommes mentionnées aux a, b, d, e, f et g du 4°, au 7° et au 10° sont
+calculées sur une base forfaitaire dans des conditions fixées par décret en
+Conseil d'Etat.
 
 Les sommes mentionnées au c du 4° sont calculées sur une base forfaitaire
 déterminée par arrêté conjoint du ministre chargé de la sécurité sociale et du
