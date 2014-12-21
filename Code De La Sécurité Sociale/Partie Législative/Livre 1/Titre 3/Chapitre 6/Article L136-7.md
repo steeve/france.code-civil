@@ -1,6 +1,6 @@
 Article L136-7
 ----
-I. - Lorsqu'ils sont payés à des personnes physiques fiscalement domiciliées en
+I.-Lorsqu'ils sont payés à des personnes physiques fiscalement domiciliées en
 France au sens de l'article 4 B du code général des impôts, les produits de
 placements sur lesquels sont opérés les prélèvements prévus au II de l'article
 125-0 A, aux II, III, second alinéa du 4° et deuxième alinéa du 9° du III bis de
@@ -24,14 +24,19 @@ du présent code. Le présent 1° ne s'applique pas aux revenus perçus dans un 
 d'épargne en actions défini au 5° du II du présent article ;
 
 2° Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
-impôts.
+impôts ;
 
-I bis. - Sont également soumises à la contribution les plus-values imposées au
+3° Lorsqu'ils sont versés à des personnes physiques fiscalement domiciliées en
+France, au sens de l'article 4 B du code général des impôts, les revenus soumis
+à l'impôt sur le revenu en application de l'article 125 ter du même code, à
+l'exception de ceux ayant déjà supporté la contribution au titre du présent I.
+
+I bis.-Sont également soumises à la contribution les plus-values imposées au
 prélèvement mentionné à l'article 244 bis A du code général des impôts
 lorsqu'elles sont réalisées, directement ou indirectement, par des personnes
 physiques.
 
-II. - Sont également assujettis à la contribution selon les modalités prévues au
+II.-Sont également assujettis à la contribution selon les modalités prévues au
 premier alinéa du I, pour la part acquise à compter du 1er janvier 1997 et, le
 cas échéant, constatée à compter de cette même date en ce qui concerne les
 placements visés du 3° au 9° ;
@@ -66,13 +71,13 @@ impôts, quelle que soit leur date de souscription, à l'exception des produits
 attachés aux contrats mentionnés à l'article 199 septies du même code : a) Lors
 de leur inscription au bon ou contrat pour :
 
-- les bons ou contrats dont les droits sont exprimés en euros ou en devises ;
+-les bons ou contrats dont les droits sont exprimés en euros ou en devises ;
 
-- la part des produits attachés aux droits exprimés en euros ou en devises dans
+-la part des produits attachés aux droits exprimés en euros ou en devises dans
 les bons ou contrats en unités de compte mentionnées au second alinéa de
 l'article L. 131-1 du code des assurances ;
 
-- la part des produits attachés aux droits exclusivement exprimés en euros ou en
+-la part des produits attachés aux droits exclusivement exprimés en euros ou en
 devises dans les bons ou contrats dont une part peut être affectée à
 l'acquisition de droits exprimés en unités de compte définies au troisième
 alinéa du présent a ou de droits donnant lieu à la constitution d'une provision
@@ -174,7 +179,7 @@ lors de l'expiration du contrat ;
 sur le revenu en application du 23° de l'article 157 du code général des impôts,
 lors de leur inscription en compte.
 
-III. - 1. Lorsqu'un plan d'épargne-logement est résilié dans les deux ans à
+III.-1. Lorsqu'un plan d'épargne-logement est résilié dans les deux ans à
 compter de son ouverture ou transformé en compte épargne-logement à la demande
 de son titulaire, la contribution calculée dans les conditions du c du 2° du II
 est restituée à hauteur du montant qui excède celui de la contribution due sur
@@ -191,11 +196,11 @@ l'établissement payeur à raison des autres produits de placements. A défaut
 d'une base d'imputation suffisante, l'excédent de contribution non imputé est
 reporté ou remboursé.
 
-III bis. - 1. Lorsque, au dénouement d'un bon ou contrat mentionné au 3° du II
-ou lors du décès de l'assuré, le montant de l'assiette déterminée en application
-du b du même 3° est négatif, un excédent est reversé au contrat, correspondant à
-la contribution calculée sur la base de ce montant, sans pouvoir excéder le
-montant de la contribution déjà acquittée dans les conditions prévues au a dudit
+III bis.-1. Lorsque, au dénouement d'un bon ou contrat mentionné au 3° du II ou
+lors du décès de l'assuré, le montant de l'assiette déterminée en application du
+c du même 3° est négatif, un excédent est reversé au contrat, correspondant à la
+contribution calculée sur la base de ce montant, sans pouvoir excéder le montant
+de la contribution déjà acquittée dans les conditions prévues aux a et b dudit
 3°.
 
 En cas de rachat partiel, cet excédent n'est reversé qu'à proportion du rapport
@@ -203,18 +208,18 @@ existant entre les primes comprises dans ce rachat et le montant total des
 primes versées net des primes comprises, le cas échéant, dans un rachat partiel
 antérieur.
 
-2.L'établissement payeur reverse au contrat l'excédent de la contribution
+2. L'établissement payeur reverse au contrat l'excédent de la contribution
 déterminé dans les conditions du 1 lors du dénouement du bon ou du contrat ou du
 décès de l'assuré, à charge pour cet établissement d'en demander la restitution.
 
 La restitution s'effectue par voie d'imputation sur la contribution due par
-l'établissement payeur à raison des autres produits de placements.A défaut d'une
-base d'imputation suffisante, l'excédent de contribution non imputé est reporté
-ou remboursé.
+l'établissement payeur à raison des autres produits de placements. A défaut
+d'une base d'imputation suffisante, l'excédent de contribution non imputé est
+reporté ou remboursé.
 
-IV. - 1. La contribution sociale généralisée due par les établissements payeurs
-au titre des mois de décembre et janvier sur les revenus de placement mentionnés
-au présent article, à l'exception de celle due sur les revenus et plus-values
+IV.-1. La contribution sociale généralisée due par les établissements payeurs au
+titre des mois de décembre et janvier sur les revenus de placement mentionnés au
+présent article, à l'exception de celle due sur les revenus et plus-values
 mentionnés aux 1° et 2° du I, fait l'objet d'un versement déterminé sur la base
 du montant des revenus de placement soumis l'année précédente à la contribution
 sociale généralisée au titre des mois de décembre et janvier.
@@ -243,7 +248,7 @@ général des impôts s'applique à cette différence. L'assiette de cette major
 est toutefois limitée à la différence entre le montant du versement calculé dans
 les conditions du 1 et celui réduit dans les conditions du 2.
 
-V. - La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
+V.-La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que le prélèvement mentionné à l'article 125 A du code
 général des impôts.
@@ -252,7 +257,7 @@ La contribution visée au 1° du I est assise, contrôlée et recouvrée selon l
 mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le
 prélèvement mentionné à l'article 117 quater du code général des impôts.
 
-VI. - 1. La contribution portant sur les plus-values mentionnées au 2° du I est,
+VI.-1. La contribution portant sur les plus-values mentionnées au 2° du I est,
 sous réserve du 2 du présent VI, assise, contrôlée et recouvrée selon les mêmes
 règles et sous les mêmes sûretés, privilèges et sanctions que l'impôt sur le
 revenu.
