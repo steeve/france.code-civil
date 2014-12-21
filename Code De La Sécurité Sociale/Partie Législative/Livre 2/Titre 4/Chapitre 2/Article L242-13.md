@@ -24,9 +24,8 @@ régime local lors de chaque versement de ces avantages ou allocations et versé
 directement à ce régime.
 
 II.-Le conseil d'administration de l'instance de gestion du régime local
-détermine les exonérations accordées en cas d'insuffisance de ressources, selon
-les principes fixés par l'article L. 136-2 et par le premier alinéa de l'article
-L. 380-2.
+détermine les exonérations accordées en cas d'insuffisance de ressources selon
+les modalités prévues au deuxième alinéa de l'article L. 380-2.
 
 Il fixe les taux de cotisation permettant de garantir le respect de l'équilibre
 financier du régime dans la limite d'une fourchette fixée par décret.L'article

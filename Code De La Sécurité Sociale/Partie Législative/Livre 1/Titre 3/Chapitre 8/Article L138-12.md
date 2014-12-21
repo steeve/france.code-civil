@@ -1,34 +1,40 @@
 Article L138-12
 ----
-La fraction de la part de la contribution prévue au a de l'article L. 138-11,
-mise à la charge de chaque entreprise redevable, est égale au rapport entre son
-chiffre d'affaires, défini à l'article L. 138-10, et le montant total du chiffre
-d'affaires, défini à l'article L. 138-10, déclaré par l'ensemble des entreprises
-redevables, multiplié par le montant total de ladite part.
+Le montant total de la contribution est calculé comme suit :
 
-La fraction de la part de la contribution visée au b de l'article L. 138-11,
-mise à la charge de chaque entreprise redevable, est égale au rapport entre la
-progression de son chiffre d'affaires et la somme des progressions de chiffres
-d'affaires supérieures au taux de progression de l'objectif national de dépenses
-d'assurance maladie, déclarées par l'ensemble des entreprises redevables,
-multiplié par le montant total de ladite part.
+TAUX D'ACCROISSEMENT DU CHIFFRE D'AFFAIRES
 
-La fraction de la part de la contribution visée au c de l'article L. 138-11,
-mise à la charge de chaque entreprise redevable, est égale au rapport entre le
-montant versé par l'entreprise en application de l'article L. 245-1 et le
-montant total de la contribution versée au même titre par l'ensemble des
-entreprises redevables de la contribution prévue à l'article L. 138-10 à
-l'échéance du 1er mars de l'année suivant celle au titre de laquelle la
-contribution visée à l'article L. 138-10 est due, multiplié par le montant total
-de ladite part.
+de l'ensemble des entreprises redevables (T)
 
-Un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du
-budget fixe les éléments nécessaires au calcul des parts de contribution
-susmentionnées.
 
-Le montant de la contribution ne peut excéder, pour chaque entreprise
-assujettie, 10 % du chiffre d'affaires hors taxes défini à l'article L. 138-10.
+TAUX DE LA CONTRIBUTION
 
-Les entreprises exonérées de la contribution versée en application de l'article
-L. 245-1 sont exonérées de la fraction de la part de contribution visée au c de
-l'article L. 138-11.
+(exprimé en % de la part du chiffre d'affaires concernée)
+
+T supérieur à L et inférieur ou égal à L + 0,5 point
+
+50 %
+
+T supérieur à L + 0,5 point et inférieur ou égal à L + 1 point
+
+60 %
+
+T supérieur à L + 1 point
+
+70 %
+
+La contribution due par chaque entreprise redevable est déterminée, à
+concurrence de 50 %, au prorata de son chiffre d'affaires calculé selon les
+modalités définies à l'article L. 138-11 et, à concurrence de 50 %, en fonction
+de la progression de son chiffre d'affaires défini à l'article L. 138-10. Elle
+est minorée, le cas échéant, des remises versées au titre de l'article L.
+138-13. Les entreprises créées depuis moins d'un an ne sont pas redevables de la
+part de la contribution répartie en fonction de la progression du chiffre
+d'affaires, sauf si la création résulte d'une scission ou d'une fusion d'une
+entreprise ou d'un groupe.
+
+Le montant de la contribution due par chaque entreprise redevable ne peut
+excéder 10 % de son chiffre d'affaires hors taxes réalisé en France
+métropolitaine et dans les départements d'outre-mer, au cours de l'année civile
+considérée, au titre des médicaments mentionnés à l'article L. 5111-1 du code de
+la santé publique.

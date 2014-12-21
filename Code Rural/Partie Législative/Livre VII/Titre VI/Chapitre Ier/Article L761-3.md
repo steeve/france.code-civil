@@ -17,9 +17,8 @@ Il est également applicable aux ayants droit, tels que définis aux articles L.
 161-14 et L. 313-3 du code de la sécurité sociale, des assurés mentionnés
 ci-dessus.
 
-Par dérogation aux dispositions de l'article L. 161-6 du code de la sécurité
-sociale, le bénéfice de ce régime est subordonné aux conditions d'ouverture des
-droits des assurés mentionnés ci-dessus.
+Le bénéfice de ce régime est subordonné aux conditions d'ouverture des droits
+des assurés mentionnés ci-dessus.
 
 Ce régime assure à ses bénéficiaires des prestations servies en complément de
 celles du régime des assurances sociales agricoles pour couvrir tout ou partie

@@ -24,11 +24,10 @@ remplit plus les conditions pour relever d'un régime d'assurance maladie
 obligatoire peut bénéficier à compter du jugement de liquidation judiciaire des
 dispositions de l'article L. 161-8.
 
-Sans préjudice des dispositions de l'article L. 612-9, l'assuré qui devient
-titulaire d'une allocation ou d'une pension de vieillesse et dont les
-cotisations dues au régime obligatoire d'assurance maladie au titre de la
-période d'activité professionnelle non salariée non agricole ont été admises en
-non-valeur peut faire valoir son droit aux prestations.
+L'assuré qui devient titulaire d'une allocation ou d'une pension de vieillesse
+et dont les cotisations dues au régime obligatoire d'assurance maladie au titre
+de la période d'activité professionnelle non salariée non agricole ont été
+admises en non-valeur peut faire valoir son droit aux prestations.
 
 L'assuré qui reprend une activité non salariée non agricole postérieurement à
 une liquidation judiciaire clôturée pour insuffisance d'actif et à une admission

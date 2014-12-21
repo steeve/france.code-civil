@@ -123,21 +123,20 @@ III.-Ne sont pas inclus dans l'assiette de la contribution :
 1° Les allocations de chômage visées à l'article L. 131-2, perçues par des
 personnes dont le montant des revenus de l'avant-dernière année tels que définis
 au IV de l'article 1417 du code général des impôts n'excède pas les seuils
-déterminés en application des dispositions des I et III du même article. En
-outre, la contribution pesant sur ces allocations ne peut avoir pour effet de
-réduire le montant net de celles-ci ou, en cas de cessation partielle
-d'activité, le montant cumulé de la rémunération d'activité et de l'allocation
-perçue, en deçà du montant du salaire minimum de croissance ;
+mentionnés au 1° du III de l'article L. 136-8. En outre, la contribution pesant
+sur ces allocations ne peut avoir pour effet de réduire le montant net de
+celles-ci ou, en cas de cessation partielle d'activité, le montant cumulé de la
+rémunération d'activité et de l'allocation perçue, en deçà du montant du salaire
+minimum de croissance ;
 
 2° Les pensions de retraite et d'invalidité des personnes dont le montant des
 revenus de l'avant-dernière année tels que définis au IV de l'article 1417 du
-code général des impôts n'excède pas les seuils déterminés en application des
-dispositions des I et III du même article ou qui sont titulaires d'un avantage
-de vieillesse ou d'invalidité non contributif attribué par un régime de base de
-sécurité sociale sous conditions de ressources ou par le fonds spécial visé à
-l'article L. 814-5. Ces conditions de ressources sont celles qui sont
-applicables pour l'attribution de l'allocation supplémentaire du fonds national
-de solidarité ;
+code général des impôts n'excède pas les seuils mentionnés au 1° du III de
+l'article L. 136-8 ou qui sont titulaires d'un avantage de vieillesse ou
+d'invalidité non contributif attribué par un régime de base de sécurité sociale
+sous conditions de ressources ou par le fonds spécial visé à l'article L. 814-5.
+Ces conditions de ressources sont celles qui sont applicables pour l'attribution
+de l'allocation supplémentaire du fonds national de solidarité ;
 
 3° Les revenus visés aux 2°, 2° bis, 4°, 7°, 9°, 9° bis, 9° quater, 9°
 quinquies, 10°, 12°, 13°, 14°, 14° bis, 14° ter, 15°, a à d et f du 17°, 19° et

@@ -8,15 +8,24 @@ mêmes conditions que les conventions visées à l'article L. 162-17-4 ou, à
 défaut, par décision du Comité économique des produits de santé.
 
 Les tarifs de responsabilité des produits ou prestations mentionnés à l'article
-L. 165-1 inscrits par description générique sont établis par convention entre un
-ou plusieurs fabricants ou distributeurs des produits ou prestations répondant à
-la description générique ou, le cas échéant, une organisation regroupant ces
-fabricants ou distributeurs et le Comité économique des produits de santé dans
-les mêmes conditions que les conventions visées à l'article L. 162-17-4 ou, à
-défaut, par décision du Comité économique des produits de santé.
+L. 165-1 inscrits par description générique ou par description générique
+renforcée sont établis par convention entre un ou plusieurs fabricants ou
+distributeurs des produits ou prestations répondant à la description générique
+ou, le cas échéant, une organisation regroupant ces fabricants ou distributeurs
+et le Comité économique des produits de santé dans les mêmes conditions que les
+conventions visées à l'article L. 162-17-4 ou, à défaut, par décision du Comité
+économique des produits de santé.
 
 La fixation de ce tarif tient compte principalement du service rendu, de
 l'amélioration éventuelle de celui-ci, le cas échéant, des résultats de
 l'évaluation médico-économique des tarifs et des prix des produits ou
 prestations comparables, des volumes de vente prévus ou constatés et des
 conditions prévisibles et réelles d'utilisation.
+
+La publication du tarif des produits ou prestations mentionnés à l'article L.
+162-22-7 intervient au plus tard dans un délai de cent quatre-vingts jours à
+compter de la réception de la demande d'inscription de l'entreprise sur la liste
+mentionnée au même article L. 162-22-7 ou, en cas d'inscription sur cette même
+liste à l'initiative des ministres chargés de la santé et de la sécurité
+sociale, dans un délai de quatre-vingt-dix jours à compter du jour où l'avis de
+la commission mentionnée à l'article L. 165-1 a été rendu public.

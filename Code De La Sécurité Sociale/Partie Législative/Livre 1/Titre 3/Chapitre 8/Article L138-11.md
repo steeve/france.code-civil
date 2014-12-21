@@ -1,26 +1,18 @@
 Article L138-11
 ----
-Le montant global de la contribution tel que calculé en application de l'article
-L. 138-10 est ainsi réparti :
+L'assiette de la contribution est égale au chiffre d'affaires de l'année civile
+mentionné au premier alinéa de l'article L. 138-10, minoré des remises
+mentionnées aux articles L. 138-19-4, L. 162-16-5-1 et L. 162-18 et de la
+contribution prévue à l'article L. 138-19-1.
 
-a) A concurrence de 30 %, sur le chiffre d'affaires des entreprises redevables
-tel que défini à l'article L. 138-10 ;
-
-b) A concurrence de 40 %, sur la progression du chiffre d'affaires tel que
-défini à l'article L. 138-10, réalisé en France par les entreprises redevables
-au titre des spécialités inscrites sur la liste mentionnée au premier alinéa de
-l'article L. 162-17, par rapport au chiffre d'affaires réalisé en France au
-titre des spécialités inscrites sur ladite liste par les mêmes entreprises,
-lorsque cette progression est supérieure au taux de progression de l'objectif
-national de dépenses d'assurance maladie tel que défini à l'article L. 138-10 ;
-
-c) A concurrence de 30 % sur les charges mentionnées au I de l'article L. 245-2,
-après déduction, le cas échéant, des abattements prévus au II du même article,
-exposées par l'ensemble des entreprises redevables.
-
-Les entreprises créées depuis moins de deux ans ne sont pas redevables de la
-part de la contribution mentionnée au b du présent article, sauf si la création
-résulte d'une scission ou d'une fusion d'une entreprise ou d'un groupe.
-
-Les règles d'exonération prévues par l'article L. 245-4 sont applicables au
-calcul de la part de la contribution prévue au c du présent article.
+Pour les médicaments bénéficiant d'une autorisation prévue à l'article L.
+5121-12 du code de la santé publique ou pris en charge en application de
+l'article L. 162-16-5-2 du présent code et dont le prix ou tarif de
+remboursement n'a pas encore été fixé en application des articles L. 162-16-4,
+L. 162-16-5 ou L. 162-16-6, un montant prévisionnel de la remise due en
+application de l'article L. 162-16-5-1 est calculé pour la détermination de
+l'assiette de la contribution. Ce montant prévisionnel est égal au nombre
+d'unités déclarées sur l'année considérée par l'entreprise concernée au Comité
+économique des produits de santé en application du deuxième alinéa du même
+article L. 162-16-5-1, multiplié par un montant correspondant à 30 % de
+l'indemnité maximale déclarée en application du premier alinéa dudit article.

@@ -7,9 +7,9 @@ mutualité, soit par le code des assurances, ou à des groupements de sociétés
 d'assurance.
 
 La Caisse nationale peut confier le soin d'assurer pour le compte des caisses de
-base le service des prestations maladie, maternité prévues par le présent titre,
-y compris aux pensionnés ou aux allocataires dont les cotisations sont
-précomptées dans les conditions déterminées à l'article L. 612-9, à des
+base le service des prestations maladie, maternité prévues par le présent titre
+aux bénéficiaires d'allocations ou de pensions de retraite dont les cotisations
+sont précomptées dans les conditions déterminées à l'article L. 131-1, à des
 organismes régis, ou bien par le code de la mutualité, ou bien par le présent
 code, ou bien par le code des assurances, ou à des groupements de sociétés
 d'assurance.

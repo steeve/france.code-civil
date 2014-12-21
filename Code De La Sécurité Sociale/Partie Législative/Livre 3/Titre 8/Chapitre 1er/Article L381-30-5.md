@@ -12,10 +12,10 @@ en application du 12° de l'article L. 6112-1 du même code, ces soins sont
 financés selon les modalités de droit commun.
 
 II.-L'Etat assure la prise en charge de la part des dépenses de soins
-correspondant aux différentes participations de l'assuré mentionnées à l'article
-L. 322-2 due par les personnes détenues affiliées en application du premier
-alinéa de l'article L. 380-30-1 ainsi que du forfait journalier institué par
-l'article L. 174-4.
+correspondant à la participation de l'assuré mentionnée au I de l'article L.
+322-2 due par les personnes détenues affiliées en application du premier alinéa
+de l'article L. 380-30-1 ainsi que du forfait journalier institué par l'article
+L. 174-4.
 
 Pour les soins dispensés dans les établissements de santé, il verse les montants
 correspondants aux établissements concernés.

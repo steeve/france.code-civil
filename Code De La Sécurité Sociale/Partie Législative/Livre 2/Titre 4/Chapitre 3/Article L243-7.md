@@ -6,12 +6,17 @@ autres que ceux mentionnés au quatrième alinéa et, dans le respect des
 dispositions prévues à l'article L. 133-6-5, par les travailleurs indépendants
 ainsi que par toute personne qui verse des cotisations ou contributions auprès
 des organismes chargés du recouvrement des cotisations du régime général est
-confié à ces organismes. Les agents chargés du contrôle sont assermentés et
-agréés dans des conditions définies par arrêté du ministre chargé de la sécurité
-sociale. Ces agents ont qualité pour dresser en cas d'infraction auxdites
-dispositions des procès-verbaux faisant foi jusqu'à preuve du contraire. Les
-unions de recouvrement les transmettent, aux fins de poursuites, au procureur de
-la République s'il s'agit d'infractions pénalement sanctionnées.
+confié à ces organismes. Le contrôle peut également être diligenté chez toute
+personne morale non inscrite à l'organisme de recouvrement des cotisations de
+sécurité sociale en qualité d'employeur lorsque les inspecteurs peuvent faire
+état d'éléments motivés permettant de présumer, du fait d'un contrôle en cours,
+que cette dernière verse à des salariés de l'employeur contrôlé initialement une
+rémunération, au sens de l'article L. 242-1. Les agents chargés du contrôle sont
+assermentés et agréés dans des conditions définies par arrêté du ministre chargé
+de la sécurité sociale. Ces agents ont qualité pour dresser en cas d'infraction
+auxdites dispositions des procès-verbaux faisant foi jusqu'à preuve du
+contraire. Les unions de recouvrement les transmettent, aux fins de poursuites,
+au procureur de la République s'il s'agit d'infractions pénalement sanctionnées.
 
 Les organismes chargés du recouvrement des cotisations du régime général sont
 également habilités dans le cadre de leurs contrôles à vérifier l'assiette, le

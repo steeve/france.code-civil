@@ -48,9 +48,9 @@ lors de la mise en place du régime. Si l'option n'est pas exercée aux dates
 prévues, les dispositions des 1° et 2° du I s'appliquent.
 
 II bis.-S'ajoute à la contribution prévue au I, indépendamment de l'option
-exercée par l'employeur visée au même alinéa, une contribution additionnelle de
-30 %, à la charge de l'employeur, sur les rentes excédant huit fois le plafond
-annuel défini par l'article L. 241-3.
+exercée par l'employeur mentionnée au même I, une contribution additionnelle de
+45 %, à la charge de l'employeur, sur les rentes excédant huit fois le plafond
+annuel défini à l'article L. 241-3.
 
 III.-(Abrogé)
 

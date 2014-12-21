@@ -6,10 +6,10 @@ contribution mentionnée à l'article L. 245-13, minorés des frais de
 recouvrement, sont affectés :
 
 1° A la Caisse nationale de l'assurance maladie des travailleurs salariés, pour
-une fraction correspondant à 22 % ;
+une fraction correspondant à 13,3 % ;
 
 2° A la Caisse nationale d'assurance vieillesse des travailleurs salariés, pour
-une fraction correspondant à 33 % ;
+une fraction correspondant à 41,7 % ;
 
 3° Au fonds mentionné à l'article L. 135-3, pour une fraction correspondant à 14
 % ;

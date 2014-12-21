@@ -6,15 +6,15 @@ de l'employeur ou du chef d'entreprise, même s'ils possèdent tout ou partie de
 l'outillage nécessaire à leur travail et même s'ils sont rétribués en totalité
 ou en partie à l'aide de pourboires :
 
-1°) les travailleurs à domicile soumis aux dispositions des articles L. 721-1 et
+1° les travailleurs à domicile soumis aux dispositions des articles L. 721-1 et
 suivants du code du travail ;
 
-2°) les voyageurs et représentants de commerce soumis aux dispositions des
+2° les voyageurs et représentants de commerce soumis aux dispositions des
 articles L. 751-1 et suivants du code du travail ;
 
-3°) les employés d'hôtels, cafés et restaurants ;
+3° les employés d'hôtels, cafés et restaurants ;
 
-4°) sans préjudice des dispositions du 5°) du présent article réglant la
+4° sans préjudice des dispositions du 5°) du présent article réglant la
 situation des sous-agents d'assurances, les mandataires non assujettis à la
 contribution économique territoriale mentionnés au 4° de l'article R. 511-2 du
 code des assurances rémunérés à la commission, qui effectuent d'une façon
@@ -23,54 +23,54 @@ plusieurs entreprises d'assurances telles que définies par l'article L. 310-1 d
 code des assurances et qui ont tiré de ces opérations plus de la moitié de leurs
 ressources de l'année précédente ;
 
-5°) les sous-agents d'assurances travaillant d'une façon habituelle et suivie
+5° les sous-agents d'assurances travaillant d'une façon habituelle et suivie
 pour un ou plusieurs agents généraux et à qui il est imposé, en plus de la
 prospection de la clientèle, des tâches sédentaires au siège de l'agence ;
 
-6°) les gérants non-salariés des coopératives et les gérants de dépôts de
+6° les gérants non-salariés des coopératives et les gérants de dépôts de
 sociétés à succursales multiples ou d'autres établissements commerciaux ou
 industriels ;
 
-7°) les conducteurs de voitures publiques dont l'exploitation est assujettie à
+7° les conducteurs de voitures publiques dont l'exploitation est assujettie à
 des tarifs de transport fixés par l'autorité publique, lorsque ces conducteurs
 ne sont pas propriétaires de leur voiture ;
 
-8°) les porteurs de bagages occupés dans les gares s'ils sont liés, à cet effet,
+8° les porteurs de bagages occupés dans les gares s'ils sont liés, à cet effet,
 par un contrat avec l'exploitation ou avec un concessionnaire ;
 
-9°) les ouvreuses de théâtres, cinémas, et autres établissements de spectacles,
+9° les ouvreuses de théâtres, cinémas, et autres établissements de spectacles,
 ainsi que les employés qui sont dans les mêmes établissements chargés de la
 tenue des vestiaires et qui vendent aux spectateurs des objets de nature diverse
 ;
 
-10°) les personnes assurant habituellement à leur domicile, moyennant
+10° les personnes assurant habituellement à leur domicile, moyennant
 rémunération, la garde et l'entretien d'enfants qui leur sont confiés par les
 parents, une administration ou une oeuvre au contrôle desquels elles sont
 soumises ;
 
-11°) Les gérants de sociétés à responsabilité limitée et de sociétés d'exercice
+11° Les gérants de sociétés à responsabilité limitée et de sociétés d'exercice
 libéral à responsabilité limitée à condition que lesdits gérants ne possèdent
 pas ensemble plus de la moitié du capital social, étant entendu que les parts
 appartenant, en toute propriété ou en usufruit, au conjoint, au partenaire lié
 par un pacte civil de solidarité et aux enfants mineurs non émancipés d'un
 gérant sont considérées comme possédées par ce dernier ;
 
-12°) Les présidents du conseil d'administration, les directeurs généraux et les
+12° Les présidents du conseil d'administration, les directeurs généraux et les
 directeurs généraux délégués des sociétés anonymes et des sociétés d'exercice
 libéral à forme anonyme ;
 
-13°) les membres des sociétés coopératives de production ainsi que les gérants,
+13° les membres des sociétés coopératives de production ainsi que les gérants,
 les directeurs généraux, les présidents du conseil d'administration et les
 membres du directoire des mêmes coopératives lorsqu'ils perçoivent une
 rémunération au titre de leurs fonctions et qu'ils n'occupent pas d'emploi
 salarié dans la même société ;
 
-14°) les délégués à la sécurité des ouvriers des carrières exerçant leurs
+14° les délégués à la sécurité des ouvriers des carrières exerçant leurs
 fonctions dans des entreprises ne relevant pas du régime spécial de la sécurité
 sociale dans les mines, les obligations de l'employeur étant, en ce qui les
 concerne, assumées par le ou les exploitants intéressés ;
 
-15°) les artistes du spectacle et les mannequins auxquels sont reconnues
+15° les artistes du spectacle et les mannequins auxquels sont reconnues
 applicables les dispositions des articles L. 762-1 et suivants, L. 763-1 et L.
 763-2 du code du travail.
 
@@ -79,7 +79,7 @@ et des mannequins mentionnés à l'alinéa précédent, par les entreprises,
 établissements, services, associations, groupements ou personnes qui font appel
 à eux, même de façon occasionnelle ;
 
-16°) les journalistes professionnels et assimilés, au sens des articles L. 761-1
+16° les journalistes professionnels et assimilés, au sens des articles L. 761-1
 et L. 761-2 du code du travail, dont les fournitures d'articles, d'informations,
 de reportages, de dessins ou de photographies à une agence de presse ou à une
 entreprise de presse quotidienne ou périodique, sont réglées à la pige, quelle
@@ -89,33 +89,42 @@ que soit la nature du lien juridique qui les unit à cette agence ou entreprise 
 adultes et qui ont passé avec celles-ci à cet effet un contrat conforme aux
 dispositions de l'article L. 442-1 du code de l'action sociale et des familles ;
 
-18°) Les vendeurs-colporteurs de presse et porteurs de presse, visés aux
+18° Les vendeurs-colporteurs de presse et porteurs de presse, visés aux
 paragraphes I et II de l'article 22 de la loi n° 91-1 du 3 janvier 1991 tendant
 au développement de l'emploi par la formation dans les entreprises, l'aide à
 l'insertion sociale et professionnelle et l'aménagement du temps de travail,
 pour l'application du troisième plan pour l'emploi, non immatriculés au registre
 du commerce ou au registre des métiers ;
 
-19°) Les avocats salariés, sauf pour les risques gérés par la Caisse nationale
+19° Les avocats salariés, sauf pour les risques gérés par la Caisse nationale
 des barreaux français visée à l'article L. 723-1 à l'exception des risques
 invalidité-décès ;
 
-20°) Les vendeurs à domicile visés à l'article L. 135-1 du code de commerce, non
+20° Les vendeurs à domicile visés à l'article L. 135-1 du code de commerce, non
 immatriculés au registre du commerce ou au registre spécial des agents
 commerciaux ;
 
-21°) Les personnes qui exercent à titre occasionnel pour le compte de l'Etat,
-d'une collectivité territoriale ou d'un de leurs établissements publics
-administratifs, d'une autorité publique indépendante dotée de la personnalité
-morale ou d'un organisme privé chargé de la gestion d'un service public à
-caractère administratif, une activité dont la rémunération est fixée par des
-dispositions législatives ou réglementaires ou par décision de justice. Un
-décret précise les types d'activités et de rémunérations en cause.
+21° Les personnes qui contribuent à l'exécution d'une mission de service public
+à caractère administratif pour le compte d'une personne publique ou privée,
+lorsque cette activité revêt un caractère occasionnel.
 
-Toutefois, ces dispositions ne sont pas applicables, sur leur demande, dans des
-conditions fixées par décret, aux personnes exerçant une des professions visées
-à l'article L. 621-3, lorsque les activités occasionnelles visées ci-dessus en
-sont le prolongement ;
+Un décret précise les sommes, les activités et les employeurs entrant dans le
+champ d'application du présent 21°. Il fixe les conditions dans lesquelles,
+lorsque la participation à la mission de service public constitue le
+prolongement d'une activité salariée, les sommes versées en rétribution de la
+participation à cette mission peuvent, en accord avec l'ensemble des parties,
+être versées à l'employeur habituel pour le compte duquel est exercée l'activité
+salariée, quand ce dernier maintient en tout ou partie la rémunération.
+
+Il fixe également les conditions dans lesquelles les deux premiers alinéas du
+présent 21° ne sont pas applicables, sur leur demande, aux personnes participant
+à la mission de service public qui font partie des professions mentionnées à
+l'article L. 621-3. Dans ce cas, les sommes versées en rétribution de l'activité
+occasionnelle sont assujetties dans les mêmes conditions, selon les mêmes
+modalités et sous les mêmes garanties que le revenu d'activité non salarié,
+défini à l'article L. 131-6 du présent code, ou les revenus professionnels,
+définis à l'article L. 731-14 du code rural et de la pêche maritime, que ces
+personnes tirent de leur profession.
 
 22° Les dirigeants des associations remplissant les conditions prévues au
 deuxième alinéa du d du 1° du 7 de l'article 261 du code général des impôts ;
@@ -159,3 +168,5 @@ de l'article L. 242-1-4 ;
 
 32° Les entrepreneurs salariés et les entrepreneurs salariés associés mentionnés
 aux articles L. 7331-2 et L. 7331-3 du code du travail.
+
+Un décret fixe les modalités d'application du présent article.

@@ -15,9 +15,9 @@ c) Des revenus de capitaux mobiliers ;
 d) (Abrogé)
 
 e) Des plus-values, gains en capital et profits soumis à l'impôt sur le revenu,
-de même que des distributions définies aux 7, 7 bis et 8 du II de l'article
-150-0 A du code général des impôts et du gain défini à l'article 150 duodecies
-du même code ;
+de même que des distributions définies aux 7,7 bis et 8 du II de l'article 150-0
+A du code général des impôts et du gain défini à l'article 150 duodecies du même
+code ;
 
 e bis) Des plus-values et des créances mentionnées au I et au II de l'article
 167 bis du code général des impôts ;
@@ -52,9 +52,9 @@ septies A du même code ;
 4° Les revenus, produits et gains exonérés en application du II de l'article 155
 B du même code.
 
-I bis. - Sont également assujetties à la contribution les personnes physiques
-qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B du
-code général des impôts à raison du montant net des revenus, visés au a du I de
+I bis.-Sont également assujetties à la contribution les personnes physiques qui
+ne sont pas fiscalement domiciliées en France au sens de l'article 4 B du code
+général des impôts à raison du montant net des revenus, visés au a du I de
 l'article 164 B du même code, retenu pour l'établissement de l'impôt sur le
 revenu.
 
@@ -76,11 +76,19 @@ supporté la contribution prévue à l'article L. 136-1.
 
 II. bis. (Abrogé)
 
-III.-La contribution portant sur les revenus mentionnés aux I à II ci-dessus est
-assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
+III.-La contribution portant sur les revenus mentionnés aux I à II, à
+l'exception du e bis du I, est assise, contrôlée et recouvrée selon les mêmes
+règles et sous les mêmes sûretés, privilèges et sanctions que l'impôt sur le
+revenu. Le produit annuel de cette contribution résultant de la mise en
+recouvrement du rôle primitif est versé le 25 novembre au plus tard aux
+organismes affectataires.
+
+La contribution portant sur les revenus mentionnés au e bis du I est assise,
+contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que l'impôt sur le revenu. Le produit annuel de cette
-contribution résultant de la mise en recouvrement du rôle primitif est versé le
-25 novembre au plus tard aux organismes affectataires.
+contribution est versé aux organismes affectataires pour le montant
+effectivement recouvré, sans qu'il soit fait application du prélèvement prévu au
+B du I de l'article 1641 du code général des impôts.
 
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.

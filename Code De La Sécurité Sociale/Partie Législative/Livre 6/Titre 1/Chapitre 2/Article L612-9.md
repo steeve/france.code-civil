@@ -1,8 +1,3 @@
 Article L612-9
 ----
 Les cotisations sont recouvrées selon des modalités fixées par décret.
-
-Les cotisations dues sur les allocations ou pensions de retraite prévues à
-l'avant-dernier alinéa de l'article L. 612-4 sont précomptées dans des
-conditions fixées par décret lors du versement par l'organisme débiteur de ces
-pensions ou allocations.

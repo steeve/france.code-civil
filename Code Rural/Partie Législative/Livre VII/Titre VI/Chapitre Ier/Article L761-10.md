@@ -14,9 +14,8 @@ mentionnées à l'article L. 761-5, pour permettre de garantir le respect de
 l'équilibre financier du régime et le financement des frais de gestion du
 régime. Les dispositions de l'article L. 131-9 du code de la sécurité sociale ne
 sont pas applicables à ces cotisations. Le conseil d'administration détermine
-également les exonérations accordées en cas d'insuffisance des ressources,
-conformément aux principes énoncés à l'article L. 136-2 et au premier alinéa de
-l'article L. 380-2 du même code.
+également les exonérations accordées en cas d'insuffisance des ressources selon
+les modalités prévues au deuxième alinéa de l'article L. 380-2 du même code.
 
 L'affiliation et l'immatriculation au régime local, le recouvrement des
 cotisations et le service des prestations sont assurés par les caisses de

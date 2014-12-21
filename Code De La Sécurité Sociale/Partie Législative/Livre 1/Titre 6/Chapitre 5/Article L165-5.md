@@ -1,11 +1,11 @@
 Article L165-5
 ----
-Les fabricants ou distributeurs sont tenus, sans préjudice des dispositions de
-l'article L. 5211-4 du code de la santé publique, de déclarer auprès de l'Agence
-nationale de sécurité du médicament et des produits de santé l'ensemble des
-produits ou prestations qu'ils commercialisent et inscrivent, sous quelque forme
-que ce soit, sur la liste mentionnée à l'article L. 165-1 du présent code, en
-précisant pour chaque produit ou prestation le code correspondant à
+I.-Les fabricants ou distributeurs sont tenus, sans préjudice des dispositions
+de l'article L. 5211-4 du code de la santé publique, de déclarer auprès de
+l'Agence nationale de sécurité du médicament et des produits de santé l'ensemble
+des produits ou prestations qu'ils commercialisent et inscrivent, sous quelque
+forme que ce soit, sur la liste mentionnée à l'article L. 165-1 du présent code,
+en précisant pour chaque produit ou prestation le code correspondant à
 l'inscription du produit ou de la prestation sur la liste. Ils sont tenus de la
 même obligation pour toute modification affectant le code d'un produit ou d'une
 prestation antérieurement déclaré.
@@ -26,7 +26,9 @@ applicables au recouvrement de la pénalité. Son produit est affecté selon les
 modalités prévues à l'article L. 162-37. Le recours présenté contre la décision
 prononçant cette pénalité est un recours en pleine juridiction.
 
-Les conditions d'application du présent article, notamment les modalités et
-délais de la déclaration prévue au premier alinéa, ainsi que les règles, les
-délais de procédure et les modes de calcul de la pénalité financière sont
-déterminés par décret en Conseil d'Etat.
+II.-La déclaration prévue au I est effectuée par voie dématérialisée. En cas de
+méconnaissance de l'obligation de déclaration dématérialisée, l'agence peut
+prononcer, après mise en demeure au fabricant ou distributeur de présenter ses
+observations, une pénalité dans la limite de 0,2 % du chiffre d'affaires
+mentionné au deuxième alinéa du I. Le dernier alinéa du même I est applicable à
+cette pénalité.

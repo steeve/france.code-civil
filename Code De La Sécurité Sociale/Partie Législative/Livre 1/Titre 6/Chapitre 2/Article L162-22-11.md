@@ -6,5 +6,6 @@ affectés le cas échéant du coefficient géographique prévu au 3° du même I
 servent de base à l'exercice des recours contre tiers et à la facturation des
 soins et de l'hébergement des malades non couverts par un régime d'assurance
 maladie, sous réserve des dispositions de l'article L. 174-20 du présent code et
-à l'exception des patients bénéficiant de l'aide médicale de l'Etat en
-application de l' article L. 251-1 du code de l'action sociale et des familles.
+à l'exception des patients bénéficiant de l'aide médicale de l'Etat ou de la
+prise en charge des soins urgents en application des articles L. 251-1 et L.
+254-1 du code de l'action sociale et des familles.

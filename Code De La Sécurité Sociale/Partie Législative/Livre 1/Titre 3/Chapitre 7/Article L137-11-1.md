@@ -28,7 +28,8 @@ taux de cette contribution est fixé à :
 - 21 % pour la part de ces rentes supérieure à 24 000 € par mois.
 
 Ces valeurs sont revalorisées chaque année en fonction de l'évolution du plafond
-défini à l'article L. 241-3 et arrondies selon les règles définies à l'article
-L. 130-1. La contribution est précomptée et versée par les organismes débiteurs
-des rentes et recouvrée et contrôlée dans les mêmes conditions que la
-contribution mentionnée à l'article L. 136-1 due sur ces rentes.
+défini à l'article L. 241-3 et arrondies à l'euro le plus proche, la fraction
+d'euro égale à 0,50 étant comptée pour 1. La contribution est précomptée et
+versée par les organismes débiteurs des rentes et recouvrée et contrôlée dans
+les mêmes conditions que la contribution mentionnée à l'article L. 136-1 due sur
+ces rentes.

@@ -9,18 +9,17 @@ avantages commerciaux et financiers assimilés de toute nature, y compris les
 rémunérations de services prévues à l'article L. 441-7 du code de commerce,
 consentis, conformément à l'article L. 138-9 du présent code, au titre des
 ventes de ces spécialités pharmaceutiques remboursables aux officines de
-pharmacie.
-
-Lorsque la déclaration prévue au présent article n'a pas été effectuée dans les
-délais requis ou lorsque cette déclaration s'avère manifestement inexacte au vu,
-notamment, des éléments transmis par les organismes chargés du recouvrement des
-cotisations de sécurité sociale, le comité économique des produits de santé peut
-fixer, après que le fournisseur concerné a été mis en mesure de présenter ses
-observations, une pénalité financière annuelle à la charge du fournisseur. Le
-montant de la pénalité ne peut être supérieur à 5 % du chiffre d'affaires hors
-taxes des ventes mentionnées au premier alinéa du présent article réalisé en
-France par le fournisseur au titre du dernier exercice clos. La pénalité est
-reconductible, le cas échéant, chaque année.
+pharmacie. Lorsque la déclaration prévue au présent article n'a pas été
+effectuée dans les délais requis ou lorsque cette déclaration s'avère
+manifestement inexacte au vu, notamment, des éléments transmis par les
+organismes chargés du recouvrement des cotisations de sécurité sociale, le
+comité économique des produits de santé peut fixer, après que le fournisseur
+concerné a été mis en mesure de présenter ses observations, une pénalité
+financière annuelle à la charge du fournisseur. Le montant de la pénalité ne
+peut être supérieur à 5 % du chiffre d'affaires hors taxes des ventes
+mentionnées au premier alinéa du présent article réalisé en France par le
+fournisseur au titre du dernier exercice clos. La pénalité est reconductible, le
+cas échéant, chaque année.
 
 Le montant de la pénalité est fixé en fonction de la gravité du manquement
 sanctionné.
@@ -37,9 +36,9 @@ habilités à vérifier, dans le cadre des contrôles qu'ils effectuent, les don
 relatives aux déclarations faites par les fournisseurs. Ces éléments de contrôle
 sont transmis au comité économique des produits de santé.
 
-Les modalités et délais de déclaration des montants des chiffres d'affaires et
-des remises, ristournes et avantages commerciaux et financiers assimilés de
-toute nature, y compris les rémunérations de services prévues à l'article L.
-441-7 du code de commerce, consenties ainsi que les règles et délais de
-procédure applicables à la pénalité financière sont définis par décret en
-Conseil d'Etat.
+La déclaration prévue au présent article est effectuée par voie dématérialisée.
+En cas de méconnaissance de l'obligation de déclaration dématérialisée, le
+comité peut prononcer, après mise en demeure au fabricant ou au distributeur de
+présenter ses observations, une pénalité dans la limite de 0,2 % du chiffre
+d'affaires hors taxes des ventes réalisées en France. Les troisième et quatrième
+alinéas du présent article sont applicables à cette pénalité.

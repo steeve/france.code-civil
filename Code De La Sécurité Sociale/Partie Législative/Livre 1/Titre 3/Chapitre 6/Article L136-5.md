@@ -60,25 +60,7 @@ par l'employeur, et la contribution portant sur les avantages mentionnés au 6°
 du II de l'article L. 136-2 sont établies, recouvrées et contrôlées dans les
 conditions et selon les modalités prévues au III de l'article L. 136-6.
 
-III. - La contribution due sur les pensions d'invalidité et sur les indemnités
-journalières ou allocations visées au 7° du II de l'article L. 136-2 est
-précomptée par l'organisme débiteur de ces prestations et versée à l'Agence
-centrale des organismes de sécurité sociale, dans les conditions prévues aux
-articles L. 243-2 et L. 612-9 du présent code et à l'article 1031 du code rural.
-La contribution due sur les allocations ou pensions de retraite mentionnées à
-l'article L. 612-4 et servies par les régimes de base et les régimes
-complémentaires est précomptée lors de leur versement par l'organisme débiteur
-de ces prestations ; elle est versée à l'agence centrale des organismes de
-sécurité sociale dans les conditions prévues au deuxième alinéa de l'article L.
-612-9. La contribution due sur les allocations ou pensions de retraite
-mentionnées au II de l'article 1106-6-1 du code rural est précomptée lors de
-leur versement par l'organisme débiteur de ces prestations. La contribution
-sociale généralisée due sur les indemnités de congés payés et sur les avantages
-conventionnels y afférents, servis par les caisses de congés payés en
-application des dispositions de l'article L. 223-16 du code du travail, est
-précomptée par les caisses de congés payés, responsables du versement de
-l'ensemble des charges assises sur ces indemnités et avantages sous réserve
-d'exceptions prévues par arrêté.
+III. - (supprimé).
 
 IV. - La contribution sociale entre dans les obligations financières incombant
 aux employeurs, ou personnes qui y sont substituées en droit, en vertu des

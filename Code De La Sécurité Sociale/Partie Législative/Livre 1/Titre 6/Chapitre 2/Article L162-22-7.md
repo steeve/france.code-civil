@@ -1,7 +1,9 @@
 Article L162-22-7
 ----
-I. - L'Etat fixe la liste des spécialités pharmaceutiques bénéficiant d'une
-autorisation de mise sur le marché dispensées aux patients hospitalisés dans les
+I. - L'Etat fixe, sur demande du titulaire de l'autorisation de mise sur le
+marché ou à l'initiative des ministres chargés de la santé et de la sécurité
+sociale, la liste des spécialités pharmaceutiques bénéficiant d'une autorisation
+de mise sur le marché dispensées aux patients hospitalisés dans les
 établissements de santé mentionnés à l'article L. 162-22-6 qui peuvent être
 prises en charge, sur présentation des factures, par les régimes obligatoires
 d'assurance maladie en sus des prestations d'hospitalisation mentionnées au 1°

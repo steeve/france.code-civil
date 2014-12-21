@@ -14,19 +14,31 @@ majorations et pénalités de retard.
 L'opposition motivée est notifiée au tiers détenteur et au débiteur par le
 directeur de l'un des organismes mentionnés à l'alinéa précédent. Elle affecte,
 dès réception par le tiers, les sommes faisant l'objet du titre exécutoire au
-paiement desdites cotisations et majorations et pénalités de retard, quelle que
-soit la date à laquelle les créances, même conditionnelles ou à terme, que le
-débiteur possède à l'encontre du tiers deviennent exigibles. L'opposition
-emporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n° 91-650
-du 9 juillet 1991 précitée à concurrence des sommes pour lesquelles elle est
-pratiquée. Lorsqu'une personne est simultanément destinataire de plusieurs
-oppositions établies au nom du débiteur, elle doit, en cas d'insuffisance des
-fonds, exécuter ces demandes en proportion de leurs montants respectifs.
+paiement desdites cotisations, contributions et majorations et pénalités de
+retard, quelle que soit la date à laquelle les créances, même conditionnelles ou
+à terme, que le débiteur possède à l'encontre du tiers deviennent exigibles.
+L'opposition emporte l'effet d'attribution immédiate prévu à l'article 43 de la
+loi n° 91-650 du 9 juillet 1991 précitée à concurrence des sommes pour
+lesquelles elle est pratiquée. Lorsqu'une personne est simultanément
+destinataire de plusieurs oppositions établies au nom du débiteur, elle doit, en
+cas d'insuffisance des fonds, exécuter ces demandes en proportion de leurs
+montants respectifs.
 
-L'opposition peut être contestée devant le juge de l'exécution, par le débiteur
-ou par le tiers détenteur, dans le mois suivant sa notification. Le paiement est
-différé pendant ce délai, et le cas échéant jusqu'à ce qu'il soit statué, sauf
-si le juge autorise le paiement pour la somme qu'il détermine.
+Les contestations sont portées devant le juge de l'exécution. A peine
+d'irrecevabilité, les contestations sont formées par le débiteur dans le délai
+d'un mois à partir de la notification de l'opposition. En cas de contestation,
+le paiement est différé pendant ce délai et, le cas échéant, jusqu'à ce qu'il
+soit statué, sauf si le juge autorise le paiement pour la somme qu'il détermine.
+Le paiement n'est pas différé, sauf si le juge en décide autrement :
+
+1° Lorsque la créance de l'organisme fait suite à un redressement pour travail
+dissimulé défini aux articles L. 8221-3 et L. 8221-5 du code du travail ;
+
+2° Lorsque la créance de l'organisme fait suite à un contrôle au cours duquel il
+a été établi une situation d'obstacle à contrôle, mentionnée à l'article L.
+243-12-1 du présent code ;
+
+3° Lorsque le recours contre le titre exécutoire a été jugé dilatoire ou abusif.
 
 Sont en outre applicables les articles L. 123-1, L. 211-3, L. 162-1 et L. 162-2
 du code des procédures civiles d'exécution.
@@ -36,5 +48,5 @@ détenteur au titre des rémunérations qui ne peuvent être saisies que dans le
 conditions et selon la procédure prévues par les articles L. 145-1 et suivants
 du code du travail.
 
-Les modalités d'application du présent article sont précisées par décret en
-Conseil d'Etat.
+Le présent article est applicable au recouvrement des indus de prestations
+sociales, dans des conditions fixées par décret en Conseil d'Etat.

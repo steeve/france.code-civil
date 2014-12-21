@@ -107,6 +107,6 @@ retraités anciens salariés du Port autonome de Strasbourg mentionnés au 3°.
 Le régime local est également applicable aux ayants droit, tels que définis aux
 articles L. 161-14 et L. 313-3, des assurés sociaux énumérés ci-dessus.
 
-III.-Par dérogation aux dispositions de l'article L. 161-6, le bénéfice du
-régime local d'assurance maladie est subordonné aux conditions spécifiques
-d'ouverture des droits déterminées au II du présent article.
+III.-Le bénéfice du régime local d'assurance maladie est subordonné aux
+conditions spécifiques d'ouverture des droits déterminées au II du présent
+article.

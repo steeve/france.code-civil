@@ -5,9 +5,10 @@ bénéficient pour eux-mêmes et, sous réserve de l'article L. 161-25-2, pour l
 ayants droit des prestations en nature des assurances maladie et maternité.
 
 Ils sont dispensés de l'avance de leurs frais pour la part garantie par les
-assurances maladie et maternité du régime général, et les différentes
-participations mentionnées à l'article L. 322-2 sont prises en charge par l'Etat
-selon les modalités prévues à l'article L. 381-30-5.
+assurances maladie et maternité du régime général, et pour la participation
+mentionnée au I de l'article L. 322-2 ainsi que pour le forfait journalier prévu
+à l'article L. 174-4 qui sont pris en charge par l'Etat selon les modalités
+prévues à l'article L. 381-30-5.
 
 Durant leur incarcération, les détenus titulaires d'une pension d'invalidité
 liquidée par le régime dont ils relevaient avant leur incarcération bénéficient

@@ -20,11 +20,30 @@ et les pensions d'invalidité.
 
 III.-Par dérogation au I et au II, sont assujettis à la contribution sociale au
 taux de 3,8 % les revenus visés aux 1° et 2° du III de l'article L. 136-2,
-perçus par les personnes dont la cotisation d'impôt sur le revenu de l'année
-précédente est inférieure au montant mentionné au 1 bis de l'article 1657 du
-code général des impôts et dont le montant des revenus de l'avant-dernière année
-tels que définis au IV de l'article 1417 du code général des impôts excède les
-seuils déterminés en application des dispositions des I et III du même article.
+perçus par les personnes dont les revenus de l'avant-dernière année, définis au
+IV de l'article 1417 du code général des impôts :
+
+1° D'une part, excèdent 10 633 € pour la première part de quotient familial,
+majorée de 2 839 € pour chaque demi-part supplémentaire. Pour la Martinique, la
+Guadeloupe et La Réunion, les montants des revenus sont fixés à 12 582 € pour la
+première part, majorés de 3 123 € pour la première demi-part et 2 839 € pour
+chaque demi-part supplémentaire à compter de la deuxième. Pour la Guyane et
+Mayotte, ces montants sont fixés, respectivement, à 13 156 €, 3 265 € et 2 839 €
+;
+
+2° D'autre part, sont inférieurs à 13 900 € pour la première part de quotient
+familial, majorée de 3 711 € pour chaque demi-part supplémentaire. Pour la
+Martinique, la Guadeloupe et La Réunion, les montants des revenus sont fixés à
+15 207 € pour la première part, majorés de 4 082 € pour la première demi-part et
+3 711 € pour chaque demi-part supplémentaire à compter de la deuxième. Pour la
+Guyane et Mayotte, ces montants sont fixés, respectivement, à 15 930 €, 4 268 €
+et 3 711 €.
+
+Les seuils mentionnés au présent III sont applicables pour la contribution due
+au titre de l'année 2015. Ils sont revalorisés au 1er janvier de chaque année
+conformément à l'évolution en moyenne annuelle des prix à la consommation, hors
+tabac, constatée pour l'avant-dernière année et arrondis à l'euro le plus
+proche, la fraction d'euro égale à 0,50 étant comptée pour 1.
 
 IV.-Le produit des contributions mentionnées au I est versé :
 
@@ -32,12 +51,12 @@ IV.-Le produit des contributions mentionnées au I est versé :
 un taux de 0,87 % ;
 
 2° Au fonds institué par l'article L. 135-1 pour la part correspondant à un taux
-de 0,892 % ;
+de 0,85 % ;
 
 3° A la Caisse nationale de solidarité pour l'autonomie visée à l'article 8 de
 la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie des
 personnes âgées et des personnes handicapées, pour la part correspondant à un
-taux de 0,058% ;
+taux de 0,1 % ;
 
 4° Aux régimes obligatoires d'assurance maladie, dans les conditions fixées à
 l'article L. 139-1 du présent code, pour la part correspondant à un taux :
@@ -71,12 +90,14 @@ ainsi réparti :
 4° Aux régimes obligatoires d'assurance maladie, dans les conditions fixées à
 l'article L. 139-1, pour 66 %.
 
-VI. - 1. L'Agence centrale des organismes de sécurité sociale est chargée de
+VI.-1. L'Agence centrale des organismes de sécurité sociale est chargée de
 centraliser et de répartir le produit de la contribution mentionnée au présent
 chapitre, dans les conditions prévues au présent article.
 
 2. Il en est de même pour les produits recouvrés simultanément aux contributions
-mentionnées aux articles L. 136-6 et L. 136-7.
+mentionnées aux articles L. 136-6 et L. 136-7 et pour les produits mentionnés
+aux I et III de l'article 18 de l'ordonnance n° 96-50 du 24 janvier 1996
+précitée.
 
 3. Pour l'application du présent VI, le montant global des contributions et
 prélèvements sociaux mentionnés à l'article L. 138-21 qui est reversé par l'Etat
