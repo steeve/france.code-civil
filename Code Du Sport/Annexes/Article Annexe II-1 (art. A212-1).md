@@ -12,8 +12,8 @@ CONDITIONS D'EXERCICE
 
 LIMITES DES CONDITIONS D'EXERCICE
 
-DEUG " sciences et techniques des activités physiques et sportives :
-animateur-technicien des activités physiques pour tous ".
+DEUG "sciences et techniques des activités physiques et sportives :
+animateur-technicien des activités physiques pour tous".
 
 Encadrement et animation auprès de tout public des activités physiques ou
 sportives à un niveau d'initiation, d'entretien ou de loisir.
@@ -21,8 +21,8 @@ sportives à un niveau d'initiation, d'entretien ou de loisir.
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des
 pratiques compétitives.
 
-DEUST " activités physiques et sportives adaptées : déficiences intellectuelles,
-troubles psychiques ".
+DEUST "activités physiques et sportives adaptées : déficiences intellectuelles,
+troubles psychiques".
 
 Encadrement des activités physiques ou sportives auprès de personnes souffrant
 de déficiences intellectuelles et de troubles psychiques.
@@ -30,7 +30,7 @@ de déficiences intellectuelles et de troubles psychiques.
 Toute activité physique ou sportive visant l'amélioration de l'intégration
 sociale.
 
-DEUST " activités physiques et sportives et inadaptations sociales ".
+DEUST "activités physiques et sportives et inadaptations sociales".
 
 Encadrement des activités physiques ou sportives auprès de personnes présentant
 des inadaptations sociales.
@@ -38,7 +38,7 @@ des inadaptations sociales.
 Toute activité physique ou sportive visant l'amélioration de l'intégration
 sociale.
 
-DEUST " action, commercialisation des services sportifs ".
+DEUST "action, commercialisation des services sportifs".
 
 Encadrement des pratiques physiques liées aux loisirs.
 
@@ -46,7 +46,7 @@ Toute pratique sportive de loisir auprès de tout public, à l'exclusion des
 personnes ayant un handicap, une déficience intellectuelle ou un trouble
 psychique.
 
-DEUST " manager de club sportif ".
+DEUST "manager de club sportif".
 
 Encadrement des activités physiques ou sportives.
 
@@ -54,7 +54,7 @@ Toute activité physique ou sportive auprès de tout public, à l'exclusion des
 personnes ayant un handicap, une déficience intellectuelle ou un trouble
 psychique.
 
-DEUST " métiers de la forme ".
+DEUST "métiers de la forme".
 
 Encadrement pour tout public d'activités physiques dans le secteur des métiers
 de la forme.
@@ -62,16 +62,15 @@ de la forme.
 Toute activité physique des métiers de la forme liée au développement et à
 l'entretien du bien-être et de la santé.
 
-DEUST " pratique et gestion des activités physiques et sportives et de loisirs
-pour les publics seniors ".
+DEUST "pratique et gestion des activités physiques et sportives et de loisirs
+pour les publics seniors".
 
 Encadrement des activités physiques ou sportives de publics seniors.
 
 Toute activité sportive adaptée à la prévention du vieillissement, visant à
 entretenir et à améliorer la condition physique des publics seniors.
 
-DEUST " animation et gestion des activités physiques, sportives ou culturelles
-".
+DEUST "animation et gestion des activités physiques, sportives ou culturelles".
 
 Animation auprès de tout public par la découverte des activités physiques,
 sportives ou culturelles et par l'initiation à ces activités.
@@ -82,16 +81,16 @@ ou un trouble psychique ;
 
 -des pratiques compétitives.
 
-Licence professionnelle " santé, option vieillissement et activités physiques
-adaptées ".
+Licence professionnelle "santé, option vieillissement et activités physiques
+adaptées".
 
 Encadrement des activités physiques ou sportives de publics seniors.
 
 Toute activité sportive adaptée à la prévention du vieillissement, visant à
 entretenir et à améliorer la condition physique des publics seniors.
 
-Licence professionnelle " activités sportives, option remise en forme et loisirs
-sportifs associés : responsable d'équipe de projets ".
+Licence professionnelle "activités sportives, option remise en forme et loisirs
+sportifs associés : responsable d'équipe de projets".
 
 Encadrement pour tout public d'activités physiques dans le secteur des métiers
 de la forme.
@@ -99,8 +98,8 @@ de la forme.
 Toute activité physique des métiers de la forme, liée au développement et à
 l'entretien du bien-être et de la santé.
 
-Licence professionnelle " activités sportives ", spécialité " développement
-social et médiation par le sport ".
+Licence professionnelle "activités sportives", spécialité "développement social
+et médiation par le sport ".
 
 Encadrement et animation auprès de tout public, des activités physiques et
 sportives.
@@ -111,34 +110,34 @@ intellectuelle ou un trouble psychique ;
 
 -des pratiques compétitives.
 
-Licence professionnelle activités sportives, spécialité " métiers de la forme ".
+Licence professionnelle activités sportives, spécialité "métiers de la forme".
 
 Encadrement auprès de tout public d'activités physiques dans le secteur des
 métiers de la forme.
 
-Licence professionnelle " animation, gestion et organisation des activités
-physiques ou sportives ".
+Licence professionnelle "animation, gestion et organisation des activités
+physiques ou sportives".
 
 Encadrement auprès de tout public à des fins d'initiation, d'entretien ou de
 loisir dans la ou les discipline (s) mentionnée (s) dans l'annexe descriptive au
 diplôme visée à l'article D. 123-13 du code de l'éducation.
 
-Licence " éducation et motricité " filière " sciences et techniques des
-activités physiques et sportives ".
+Licence "éducation et motricité" filière "sciences et techniques des activités
+physiques et sportives".
 
 Encadrement et enseignement des activités physiques ou sportives auprès des
 enfants, adolescents et jeunes adultes.
 
-Licence " entraînement sportif " filière " sciences et techniques des activités
-physiques et sportives ".
+Licence "entraînement sportif" filière "sciences et techniques des activités
+physiques et sportives".
 
 Encadrement de différents publics à des fins d'amélioration de la performance ou
 de développement personnel dans la (les) discipline (s) mentionnée (s) dans
 l'annexe descriptive au diplôme mentionnée à l'article D. 123-13 du code de
 l'éducation.
 
-Licence " activité physique adaptée et santé " filière " sciences et techniques
-des activités physiques et sportives ".
+Licence "activité physique adaptée et santé" filière "sciences et techniques des
+activités physiques et sportives".
 
 Encadrement des activités physiques ou sportives à destination de différents
 publics dans une perspective de prévention-santé ou de réadaptation ou
@@ -160,40 +159,40 @@ LIMITES DES CONDITIONS D'EXERCICE
 
 Brevet d'Etat d'éducateur sportif (BEES)
 
-BEES, option " métiers de la forme ".
+BEES, option "métiers de la forme".
 
 Enseignement des méthodes et techniques visant à entretenir et améliorer la
 condition physique ; conduite de séances de préparation physique sportive.
 
-BEES, option " activités gymniques " (gymnastique générale, gymnastique
-artistique féminine, gymnastique artistique masculine, gymnastique rythmique et
-sportive, aérobic).
+BEES, option "activités gymniques" (gymnastique générale, gymnastique artistique
+féminine, gymnastique artistique masculine, gymnastique rythmique et sportive,
+aérobic).
 
 Enseignement des activités gymniques dans tout établissement.
 
-BEES, option " gymnastique sportive féminine ".
+BEES, option "gymnastique sportive féminine".
 
 Enseignement des activités gymniques dans tout établissement.
 
-BEES, option " gymnastique sportive masculine ".
+BEES, option "gymnastique sportive masculine".
 
 Enseignement des activités gymniques dans tout établissement.
 
-BEES, option " gymnastique sportive masculine et féminine ".
+BEES, option "gymnastique sportive masculine et féminine".
 
 Enseignement des activités gymniques dans tout établissement.
 
-BEES, option " gymnastique rythmique et sportive ".
+BEES, option "gymnastique rythmique et sportive".
 
 Enseignement des activités gymniques dans tout établissement.
 
-BEES, option " haltérophilie, culturisme, musculation éducative, sportive et
-d'entretien ".
+BEES, option "haltérophilie, culturisme, musculation éducative, sportive et
+d'entretien".
 
 Enseignement de l'haltérophilie, du culturisme, de la musculation éducative,
 sportive et d'entretien dans tout établissement.
 
-BEES, option " animation des activités physiques pour tous ".
+BEES, option "animation des activités physiques pour tous".
 
 Encadrement des activités physiques ou sportives dans une perspective de
 découverte des activités encadrées, de développement et de maintien des
@@ -202,14 +201,14 @@ capacités physiques individuelles dans tout établissement.
 A l'exclusion de toute activité d'entraînement ou d'approfondissement d'une
 discipline sportive.
 
-BEES, option " activités physiques et sportives adaptées ".
+BEES, option "activités physiques et sportives adaptées".
 
 Enseignement des activités physiques ou sportives adaptées auprès des personnes
 déficientes intellectuelles ou des personnes atteintes de troubles psychiques.
 
 Enseignement de la natation sous la surveillance d'un maître nageur sauveteur.
 
-BEES, option " sports pour handicapés physiques et sensoriels " (options
+BEES, option "sports pour handicapés physiques et sensoriels" (options
 principales : athlétisme, basket-ball en fauteuil roulant, développé couché et
 musculation, tennis de table, tir à l'arc, volley-ball, natation, ski alpin, ski
 nordique de fond).
@@ -221,7 +220,7 @@ Enseignement de la natation dans les seuls établissements spécialisés, sous l
 surveillance d'un maître nageur sauveteur ; Enseignement du ski alpin et du ski
 nordique réservé aux personnes ayant choisi ces disciplines en option.
 
-BEES, option " activités de la natation ".
+BEES, option "activités de la natation".
 
 Enseignement des activités de la natation, entraînement à la compétition et
 surveillance des baignades dans tout lieu de baignade ou établissement de
@@ -230,11 +229,11 @@ natation.
 Sous réserve de la présentation du certificat quinquennal d'aptitude à
 l'exercice de la profession de maître nageur sauveteur, en cours de validité.
 
-BEES, option " aviron ".
+BEES, option "aviron".
 
 Enseignement de l'aviron dans tout établissement.
 
-BEES, option " canoë-kayak et disciplines associées ".
+BEES, option "canoë-kayak et disciplines associées".
 
 Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 établissement.
@@ -242,8 +241,8 @@ Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 Dans les rivières jusqu'à la classe 3. En mer jusqu'à un mille d'un abri et par
 vent jusqu'à 3 Beaufort.
 
-BEES, option " canoë-kayak et disciplines associées " assorti du certificat de
-qualification complémentaire (CQC) " entraînement à la compétition ".
+BEES, option "canoë-kayak et disciplines associées" assorti du certificat de
+qualification complémentaire (CQC) "entraînement à la compétition".
 
 Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 établissement. Organisation et encadrement de séances ou stages d'entraînement.
@@ -251,15 +250,15 @@ Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 Dans les rivières jusqu'à la classe 3. En mer jusqu'à un mille d'un abri et par
 vent jusqu'à 3 Beaufort.
 
-BEES, option " canoë-kayak et disciplines associées " assorti du CQC " mer ".
+BEES, option "canoë-kayak et disciplines associées" assorti du CQC "mer".
 
 Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 établissement. Organisation et encadrement des sorties en mer, y compris vent
 supérieur à force 3 Beaufort ou à plus d'un mille d'un abri accessible et
 conduite des séances d'apprentissage et d'entraînement de canoë-kayak de vagues.
 
-BEES, option " canoë-kayak et disciplines associées " assorti du CQC " raft en
-eaux vives ".
+BEES, option "canoë-kayak et disciplines associées" assorti du CQC "raft en eaux
+vives".
 
 Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 établissement. Organisation et encadrement du canoë-kayak et du raft y compris
@@ -1671,7 +1670,7 @@ groupes de spécialités de l'athlétisme et disciplines associées.
 
 A l'exclusion de toute pratique compétitive.
 
-BP JEPS, spécialité " activités sports collectifs "
+BP JEPS, spécialité "activités sports collectifs".
 
 Conduite de séances et de cycles d'initiation, de découverte et d'animation
 sportive en sports collectifs.
@@ -1862,7 +1861,7 @@ Encadrement et animation d'activités de loisir, d'initiation, de découverte et
 de préparation aux premiers niveaux de compétition régionale en lutte bretonne
 (gouren).
 
-BP JEPS, spécialité judo-jujitsu .
+BP JEPS, spécialité "judo-jujitsu".
 
 Encadrement et animation d'activités d'éveil, de découverte et d'initiation au
 judo-jujitsu pour tous les publics. Encadrement et conduite de cycles
@@ -1881,6 +1880,12 @@ BP JEPS, spécialité "patinage sur glace".
 Encadrement, enseignement et animation d'activités de découverte, de loisir et
 d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de
 compétition en patinage sur glace.
+
+BP JEPS, spécialité "rugby à XV".
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et
+d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de
+compétition en rugby à XV.
 
 Unités capitalisables complémentaires associées à la spécialité " activités
 aquatiques "
@@ -2157,16 +2162,76 @@ ski alpin et de ses activités dérivées définies par la commission de la
 formation et de l'emploi du conseil supérieur des sports de montagne.
 
 A l'exclusion des zones glaciaires non balisées et des terrains dont la
-fréquentation fait appel aux techniques de l'alpinisme. Autorisation d'exercer
-pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
+fréquentation fait appel aux techniques de l'alpinisme.
 
-Diplôme d'Etat de ski - moniteur national de ski nordique de fond.
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un
+stage de recyclage.
+
+Diplôme d'Etat de ski-moniteur national de ski nordique de fond.
 
 Encadrement, animation, enseignement et entraînement du ski nordique de fond et
 de ses activités dérivées en application de l'ensemble des classes de la
 progression du ski nordique de fond et de ses activités dérivées définies par la
 commission de la formation et de l'emploi du Conseil supérieur des sports de
 montagne.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un
+stage de recyclage.
+
+Diplôme d'Etat d'alpinisme-guide de haute montagne
+
+Conduite et accompagnement de personnes dans des excursions ou des ascensions de
+montagne en rocher, neige, glace et terrain mixte.
+
+Conduite et accompagnement de personnes dans des excursions de ski de randonnée,
+ski alpinisme et en ski hors pistes.
+
+Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski
+alpinisme et ski hors pistes.
+
+Entraînement aux pratiques de compétition dans les disciplines précitées.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un
+stage de recyclage.
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne
+montagne enneigée".
+
+Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout
+public en randonnée pédestre et activités assimilées en moyenne montagne ainsi
+qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de
+terrain important.
+
+A l'exclusion :
+
+-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant
+pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+-de la pratique de toutes les disciplines du ski et activités dérivées, à
+l'exception de la raquette à neige ;
+
+-de l'exercice professionnel dans les régions à climat tropical et équatorial,
+en période de fortes précipitations fixées par l'autorité publique compétente,
+sur des terrains escarpés et détrempés.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un
+stage de recyclage.
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne
+montagne tropicale et équatoriale".
+
+Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout
+public en randonnée pédestre et activités assimilées en moyenne montagne ainsi
+que dans les régions à climat tropical et équatorial en périodes de fortes
+précipitations fixées par l'autorité compétente, sur des terrains escarpés et
+détrempés.
+
+A l'exclusion :
+
+-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant
+pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+-des terrains enneigés.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un
 stage de recyclage.
@@ -2269,7 +2334,7 @@ structure de préformation ou de formation.
 Entraîneur professionnel de football.
 
 Encadrement et entraînement de joueurs de haut niveau en football dans un club
-professionnel .
+professionnel.
 
 E.-Certificats de qualification délivrés par les branches professionnelles
 
@@ -2283,26 +2348,26 @@ CONDITIONS D'EXERCICE
 
 LIMITES DES CONDITIONS D'EXERCICE
 
-Certificat de qualification professionnelle (CQP) " animateur-soigneur assistant
-".
+Certificat de qualification professionnelle (CQP) "animateur-soigneur
+assistant".
 
 Participation à l'encadrement des pratiquants dans le cadre d'une action
 d'animation en équitation cheval, en équitation poney ou en tourisme équestre.
 
-Pour les mentions " équitation public poney " et " équitation public cheval ",
-sous le contrôle d'un titulaire du brevet d'Etat d'éducateur sportif option "
-équitation " ou du brevet professionnel de la jeunesse, de l'éducation populaire
-et du sport spécialité " activités équestres " mention équitation. Pour la
-mention " tourisme équestre ", sous le contrôle d'un titulaire du brevet
-professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "
-activités équestres " mention " tourisme équestre " ou du brevet de guide de
-tourisme équestre.
+Pour les mentions "équitation public poney" et "équitation public cheval", sous
+le contrôle d'un titulaire du brevet d'Etat d'éducateur sportif option
+"équitation" ou du brevet professionnel de la jeunesse, de l'éducation populaire
+et du sport spécialité "activités équestres" mention équitation. Pour la mention
+"tourisme équestre", sous le contrôle d'un titulaire du brevet professionnel de
+la jeunesse, de l'éducation populaire et du sport spécialité "activités
+équestres" mention "tourisme équestre" ou du brevet de guide de tourisme
+équestre.
 
-CQP " enseignant animateur d'équitation ".
+CQP "enseignant animateur d'équitation".
 
 Conduite en autonomie de séances d'initiation aux pratiques équestres.
 
-CQP " organisateur de randonnées équestres ".
+CQP "organisateur de randonnées équestres".
 
 Initiation aux techniques de la randonnée équestre et conduite de promenades et
 de randonnées équestres en autonomie.
@@ -2317,8 +2382,8 @@ CONDITIONS D'EXERCICE
 
 LIMITES DES CONDITIONS D'EXERCICE
 
-CQP " guide de véhicules terrestres motorisés à guidon " (guide de VTM à
-guidon), option " quad " ou option " moto verte ".
+CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon),
+option "quad" ou option "moto verte".
 
 Encadrement en autonomie de randonnées en véhicules terrestres motorisés à
 guidon (VTM) pour des publics titulaires d'un permis ou d'un brevet délivré par
@@ -2330,7 +2395,7 @@ de six véhicules accompagnés.
 
 Sur des parcours connus et reconnus.
 
-CQP " animateur de tir à l'arc ".
+CQP "animateur de tir à l'arc".
 
 Encadrement en autonomie du tir à l'arc, par la découverte et l'animation.
 
@@ -2343,7 +2408,7 @@ A l'exclusion du temps scolaire contraint ;
 
 Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
 
-CQP " assistant moniteur de voile "
+CQP "assistant moniteur de voile".
 
 Animation et initiation à la pratique de la voile.
 
@@ -2354,15 +2419,15 @@ AMV placés sous cette autorité ne pouvant être supérieur à 10, dans la limi
 supérieur ; Durant les périodes de congés scolaires et universitaires fixées par
 les ministères de l'enseignement supérieur et de l'éducation nationale.
 
-CQP " animateur de savate ".
+CQP "animateur de savate".
 
 Encadrement en autonomie de la savate, incluant la mise en œuvre des procédures
 de passage des gants bleus, verts, rouges et blancs.
 
 Activité exercée à titre secondaire.
 
-CQP " animateur des activités gymniques ", mention " activités gymniques
-acrobatiques ".
+CQP "animateur des activités gymniques", mention "activités gymniques
+acrobatiques".
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités
 gymniques acrobatiques, à visée compétitive ou non : -activités gymniques au
@@ -2373,8 +2438,8 @@ mini-trampoline, trampoline) ;
 
 Activité exercée à titre secondaire.
 
-CQP " animateur des activités gymniques ", mention " activités d'éveil gymnique
-pour la petite enfance ".
+CQP "animateur des activités gymniques", mention "activités d'éveil gymnique
+pour la petite enfance".
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités
 d'éveil gymnique pour la petite enfance : -activités gymniques sous forme de
@@ -2386,8 +2451,8 @@ parcours de motricité ;
 
 Activité exercée à titre secondaire.
 
-CQP " animateur des activités gymniques ", mention " activités gymniques
-d'expression et d'entretien ".
+CQP "animateur des activités gymniques", mention "activités gymniques
+d'expression et d'entretien".
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités
 gymniques d'expression et d'entretien : -activités gymniques à dominante
@@ -2403,18 +2468,20 @@ cardio-vasculaire ;
 
 Activité exercée à titre secondaire.
 
-CQP animateur des activités gymniques , mention activités gymniques d'expression
-.
+CQP "animateur des activités gymniques", mention "activités gymniques
+d'expression".
 
 Encadrement en autonomie, par la découverte et l'initiation des activités
-gymniques d'expression : - activités gymniques dansées de groupe avec ou sans
-engins jusqu'à un premier niveau de compétition en gymnastique rythmique ;
+gymniques d'expression :
+
+- activités gymniques dansées de groupe avec ou sans engins jusqu'à un premier
+niveau de compétition en gymnastique rythmique ;
 
 - activités gymniques cardio-vasculaires jusqu'à un premier niveau de
 compétition en gymnastique aérobic.
 
-CQP animateur de loisirs sportifs , option activités gymniques d'entretien et
-d'expression .
+CQP "animateur de loisirs sportifs", option "activités gymniques d'entretien et
+d'expression".
 
 Encadrement en autonomie par la découverte et l'animation des activités
 gymniques d'entretien et d'expression :
@@ -2434,7 +2501,8 @@ A l'exclusion des cours individuels.
 Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
 de recyclage.
 
-CQP animateur de loisirs sportifs , option jeux sportifs et jeux d'opposition .
+CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux
+d'opposition".
 
 Encadrement en autonomie par la découverte et l'animation des jeux sportifs et
 des jeux d'opposition :
@@ -2454,7 +2522,7 @@ A l'exclusion des cours individuels.
 Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
 de recyclage.
 
-CQP " assistant moniteur de tennis ".
+CQP "assistant moniteur de tennis".
 
 Initiation au tennis en cours collectif, des jeunes âgés de 18 ans au maximum.
 L'assistant moniteur de tennis bénéficie du suivi pédagogique d'un référent
@@ -2466,13 +2534,13 @@ contraint ;
 
 A l'exclusion des cours individuels.
 
-CQP " éducateur de grimpe d'arbres ".
+CQP " éducateur de grimpe d'arbres".
 
 Animation et encadrement en autonomie de la grimpe dans les arbres.
 
 Dans la limite de 8 pratiquants.
 
-CQP " technicien sportif régional de basket-ball ".
+CQP " technicien sportif régional de basket-ball".
 
 Entraînement et encadrement en compétition d'équipes évoluant majoritairement
 aux niveaux régional et départemental.
@@ -2491,7 +2559,7 @@ Dans la limite de 2 équipes ;
 
 A l'exclusion du temps scolaire contraint.
 
-CQP " assistant moniteur char à voile ".
+CQP "assistant moniteur char à voile".
 
 Initiation à la pratique du char à voile de loisirs dans le support certifié
 (char assis/ allongé, char debout ou char tracté).
@@ -2505,7 +2573,7 @@ Vent de force 6 Beaufort maximum ;
 
 Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile.
 
-CQP " assistant professeur arts martiaux ".
+CQP "assistant professeur arts martiaux".
 
 Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention
 considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux
@@ -2523,7 +2591,7 @@ A l'exclusion du secteur du tourisme ;
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la
 fonction d'assistant professeur arts martiaux en cours de validité.
 
-CQP " assistant moniteur motonautique ".
+CQP "assistant moniteur motonautique".
 
 Animation de séances de découverte et d'initiation à la pratique du motonautisme
 au moyen du support véhicule nautique à moteur (VNM).
@@ -2544,21 +2612,21 @@ supérieur à 2 ou à 1, dans le cas où il encadre 4 VNM à vue.
 
 A l'exclusion du temps scolaire contraint pour le public scolaire.
 
-CQP " moniteur de roller skating " option " patinage artistique et danse ".
+CQP "moniteur de roller skating" option "patinage artistique et danse".
 
-Initiation aux activités du roller skating dans les options " patinage
-artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", "
-roller acrobatique ". Encadrement en autonomie du patinage artistique et de la
-danse jusqu'aux premiers niveaux de compétition inclus.
+Initiation aux activités du roller skating dans les options "patinage artistique
+et danse", "course", "rink-hockey", "roller in line hockey", "roller
+acrobatique". Encadrement en autonomie du patinage artistique et de la danse
+jusqu'aux premiers niveaux de compétition inclus.
 
 Dans la limite de vingt pratiquants par titulaire du CQP. Dans des espaces
 dédiés : gymnase, plateau sportif, piste de roller et skatepark.
 
-CQP " moniteur de roller skating " option " course ".
+CQP "moniteur de roller skating" option "course".
 
-Initiation aux activités du roller skating dans les options " patinage
-artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", "
-roller acrobatique ".
+Initiation aux activités du roller skating dans les options "patinage artistique
+et danse", "course", "rink-hockey", "roller in line hockey", "roller
+acrobatique".
 
 Encadrement en autonomie de la course jusqu'aux premiers niveaux de compétition
 inclus.
@@ -2567,37 +2635,37 @@ Dans la limite de vingt pratiquants par titulaire du CQP.
 
 Dans tous espaces.
 
-CQP " moniteur de roller skating ", option " rink-hockey ".
+CQP "moniteur de roller skating", option "rink-hockey".
 
-Initiation aux activités du roller skating dans les options " patinage
-artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", "
-roller acrobatique ". Encadrement en autonomie du rink-hockey jusqu'aux premiers
-niveaux de compétition inclus.
-
-Dans la limite de vingt pratiquants par titulaire du CQP. Dans des espaces
-dédiés : gymnase, plateau sportif, piste de roller et skatepark.
-
-CQP " moniteur de roller skating ", option " roller in line hockey ".
-
-Initiation aux activités du roller skating dans les options " patinage
-artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", "
-roller acrobatique ". Encadrement en autonomie du roller in line hockey
-jusqu'aux premiers niveaux de compétition inclus.
+Initiation aux activités du roller skating dans les options "patinage artistique
+et danse", "course", "rink-hockey", "roller in line hockey", "roller
+acrobatique". Encadrement en autonomie du rink-hockey jusqu'aux premiers niveaux
+de compétition inclus.
 
 Dans la limite de vingt pratiquants par titulaire du CQP. Dans des espaces
 dédiés : gymnase, plateau sportif, piste de roller et skatepark.
 
-CQP " moniteur de roller skating ", option " roller acrobatique ".
+CQP "moniteur de roller skating", option "roller in line hockey".
 
-Initiation aux activités du roller skating dans les options " patinage
-artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", "
-roller acrobatique ". Encadrement en autonomie du roller acrobatique jusqu'aux
+Initiation aux activités du roller skating dans les options "patinage artistique
+et danse", "course", "rink-hockey", "roller in line hockey", "roller
+acrobatique". Encadrement en autonomie du roller in line hockey jusqu'aux
 premiers niveaux de compétition inclus.
 
 Dans la limite de vingt pratiquants par titulaire du CQP. Dans des espaces
 dédiés : gymnase, plateau sportif, piste de roller et skatepark.
 
-CQP " moniteur de roller skating ", option " skateboard ".
+CQP "moniteur de roller skating", option "roller acrobatique".
+
+Initiation aux activités du roller skating dans les options "patinage artistique
+et danse", "course", "rink-hockey", "roller in line hockey", "roller
+acrobatique". Encadrement en autonomie du roller acrobatique jusqu'aux premiers
+niveaux de compétition inclus.
+
+Dans la limite de vingt pratiquants par titulaire du CQP. Dans des espaces
+dédiés : gymnase, plateau sportif, piste de roller et skatepark.
+
+CQP "moniteur de roller skating", option "skateboard".
 
 Encadrement en autonomie du skateboard jusqu'aux premiers niveaux de compétition
 inclus.
@@ -2605,7 +2673,7 @@ inclus.
 Dans la limite de vingt pratiquants par titulaire du CQP. Dans des espaces
 dédiés : gymnase, plateau sportif, piste de roller et skatepark.
 
-CQP "moniteur de roller skating", option "roller randonnée"
+CQP "moniteur de roller skating", option "roller randonnée".
 
 Initiation aux activités du roller skating dans les options "patinage artistique
 et danse", "course", "rink-hockey", "roller in line hockey", "roller
@@ -2621,7 +2689,7 @@ CQP ;
 -sur voies ouvertes, sous l'autorité de deux titulaires du CQP, dans le cas où
 le groupe comprend plus de huit pratiquants.
 
-CQP " moniteur d'aviron ".
+CQP "moniteur d'aviron".
 
 Encadrement en autonomie des activités de l'aviron jusqu'aux premiers niveaux de
 compétition inclus.
@@ -2631,7 +2699,7 @@ pratique en embarcations individuelles, sauf dans le cas où la zone d'évolutio
 est un périmètre calme, abrité et délimité. Sur les eaux intérieures ou
 maritimes en fonction de l'option du permis plaisance.
 
-CQP " moniteur de rugby à XV ".
+CQP "moniteur de rugby à XV".
 
 Animation des activités de rugby à XV pour tout public, à des fins de découverte
 et d'initiation.
@@ -2639,7 +2707,7 @@ et d'initiation.
 Encadrement des activités de rugby à XV jusqu'aux premiers niveaux de
 compétition dans les catégories d'âge des écoles de rugby (7 à 15 ans).
 
-CQP " initiateur en motocyclisme ".
+CQP "initiateur en motocyclisme".
 
 Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la
 maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad).
@@ -2648,17 +2716,17 @@ A l'exclusion des voies ouvertes à la circulation publique.
 
 A l'exclusion de toute pratique compétitive.
 
-CQP " moniteur de squash ".
+CQP "moniteur de squash".
 
 Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition
 inclus.
 
-CQP " animateur de tennis de table "
+CQP "animateur de tennis de table".
 
 Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux
 premiers niveaux de compétition inclus.
 
-CQP " moniteur de tir sportif ".
+CQP "moniteur de tir sportif".
 
 Encadrement en autonomie du tir sportif à des fins de découverte et
 d'initiation, pour tout public, jusqu'au premier niveau de compétition.
@@ -2671,19 +2739,19 @@ de tir.
 
 Sous réserve de la présentation du carnet de tir en cours de validité.
 
-CQP animateur de badminton .
+CQP "animateur de badminton".
 
 Encadrement en autonomie de séances collectives en badminton, de l'initiation
 jusqu'au premier niveau de compétition.
 
-CQP moniteur de football américain et de flag .
+CQP "moniteur de football américain et de flag".
 
 Encadrement en autonomie des activités de découverte et d'initiation de football
 américain et de flag jusqu'aux premiers niveaux de compétition.
 
 A l'exclusion des championnats nationaux.
 
-CQP technicien sportif de cheerleading .
+CQP "technicien sportif de cheerleading".
 
 Encadrement en autonomie de séances d'entraînement en cheerleading pour tout
 public.
@@ -2710,7 +2778,7 @@ Jusqu'à 1 mille d'un abri.
 
 Par vent de force 3 Beaufort maximum sur le site d'évolution.
 
-CQP "technicien sportif de rugby à XV ".
+CQP "technicien sportif de rugby à XV".
 
 Encadrement en autonomie de séances d'entraînement en rugby à XV des catégories
 de moins de 15 ans, jusqu'en fédérale 2.
@@ -2740,6 +2808,48 @@ découverte, d'initiation et d'entretien pour tout public pratiquant l'athlétis
 loisirs, dont la marche nordique.
 
 A l'exclusion des pratiques compétitives
+
+CQP "technicien sportif d'athlétisme", option "sprint/haies".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités
+d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national,
+dans les spécialités de l'option : 50 m, 60 m, 100 m, 200 m, 400 m, 60 m haies,
+100 m haies, 110 m haies et 400 m haies.
+
+Pour des publics de plus de 14 ans.
+
+Dans la limite de 12 pratiquants.
+
+CQP "technicien sportif d'athlétisme", option "sauts".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités
+d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national,
+dans les spécialités de l'option : longueur, hauteur, triple saut et perche.
+
+Pour des publics de plus de 14 ans.
+
+Dans la limite de 12 pratiquants.
+
+CQP "technicien sportif d'athlétisme", option "lancers".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités
+d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national
+dans les spécialités de l'option : "disque, poids, marteau et javelot".
+
+Pour des publics de plus de 14 ans.
+
+Dans la limite de 12 pratiquants.
+
+CQP "technicien sportif d'athlétisme", option "demi-fond/ marche athlétique".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités
+d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national,
+dans les spécialités de l'option : 800 m, 1 000 m, 1 500 m, 3 000 m, 3 000 m
+steeple, 5 000 m, 10 000 m, 5 000 m marche, 20 km marche et 50 km marche.
+
+Pour des publics de plus de 14 ans.
+
+Dans la limite de 12 pratiquants.
 
 F.-Diplômes délivrés par le ministère chargé de la santé
 
