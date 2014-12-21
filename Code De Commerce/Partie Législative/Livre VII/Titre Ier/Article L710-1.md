@@ -29,8 +29,8 @@ respect des dispositions législatives et réglementaires en vigueur en matière
 droit de la concurrence ;
 
 3° Une mission d'appui et de conseil pour le développement international des
-entreprises et l'exportation de leur production, en partenariat avec l'Agence
-française pour le développement international des entreprises ;
+entreprises et l'exportation de leur production, en partenariat avec l' agence
+mentionnée à l'article 50 de la loi n° 2003-721 du 1er août 2003 ;
 
 4° Une mission en faveur de la formation professionnelle initiale ou continue
 grâce, notamment, aux établissements publics et privés d'enseignement qu'il ou
@@ -62,7 +62,7 @@ territoriales et les groupements interconsulaires sont des établissements
 publics placés sous la tutelle de l'Etat et administrés par des dirigeants
 d'entreprise élus. Les chambres de commerce et d'industrie départementales
 d'Ile-de-France sont rattachées à la chambre de commerce et d'industrie de
-région Paris - Ile-de-France ; elles sont dépourvues de la personnalité morale.
+région Paris-Ile-de-France ; elles sont dépourvues de la personnalité morale.
 
 Les chambres de commerce et d'industrie de région bénéficient des impositions de
 toute nature qui leur sont affectées par la loi.

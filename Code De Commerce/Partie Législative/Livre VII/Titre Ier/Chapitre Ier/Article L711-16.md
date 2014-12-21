@@ -42,8 +42,8 @@ d'industrie françaises à l'étranger. A ce titre, s'appuyant notamment sur les
 données économiques recueillies par les différentes chambres du réseau, elle
 identifie les entreprises qui présentent les meilleures perspectives en termes
 d'exportation et, en conséquence, les aide de manière spécifique à développer
-leurs activités à l'international en partenariat avec l'Agence française pour le
-développement international des entreprises ;
+leurs activités à l'international en partenariat avec l' agence mentionnée à
+l'article 50 de la loi n° 2003-721 du 1er août 2003 ;
 
 9° Elle peut constituer, à la demande des chambres du réseau, une instance de
 conciliation pour les différends opposant plusieurs chambres entre elles avant

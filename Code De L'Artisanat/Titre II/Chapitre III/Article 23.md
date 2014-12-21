@@ -58,8 +58,8 @@ initiale et dans le respect des dispositions du titre V du livre III de la
 sixième partie du code du travail qui leur sont applicables pour la formation
 continue ;
 
-13° D'exercer une mission d'appui et de conseil, en coordination avec l'Agence
-française pour le développement international des entreprises, pour le
+13° D'exercer une mission d'appui et de conseil, en coordination avec l' agence
+mentionnée à l'article 50 de la loi n° 2003-721 du 1er août 2003, pour le
 développement international des entreprises et l'exportation de leur production
 ;
 
