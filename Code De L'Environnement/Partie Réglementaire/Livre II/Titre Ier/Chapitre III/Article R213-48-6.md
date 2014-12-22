@@ -3,23 +3,73 @@ Article R213-48-6
 I.-Un suivi régulier des rejets est obligatoirement mis en oeuvre dès que, pour
 l'un au moins des éléments constitutifs de la pollution, le niveau théorique de
 pollution déterminé en application de l'article R. 213-48-7 atteint ou dépasse
-la valeur mentionnée au tableau suivant : ÉLÉMENTS CONSTITUTIFS de la pollution
-: Matières en suspension (en t/ an). Seuils de suivi régulier des rejets : 600
-ÉLÉMENTS CONSTITUTIFS de la pollution : Demande chimique en oxygène (en t/ an).
-Seuils de suivi régulier des rejets : 600 ÉLÉMENTS CONSTITUTIFS de la pollution
-: Demande biochimique en oxygène en cinq jours (en t/ an). Seuils de suivi
-régulier des rejets : 300 ÉLÉMENTS CONSTITUTIFS de la pollution : Azote réduit
-et azote oxydé, nitrites et nitrates (en t/ an). Seuils de suivi régulier des
-rejets : 40 ÉLÉMENTS CONSTITUTIFS de la pollution : Phosphore total, organique
-ou minéral (en t/ an). Seuils de suivi régulier des rejets : 10 ÉLÉMENTS
-CONSTITUTIFS de la pollution : Matières inhibitrices (par kEquitox/ an). Seuils
-de suivi régulier des rejets : 10 000 ÉLÉMENTS CONSTITUTIFS de la pollution :
-Métox (par kg/ an). Seuils de suivi régulier des rejets : 10 000 ÉLÉMENTS
-CONSTITUTIFS de la pollution : Composés halogénés adsorbables sur charbon actif
-(par kg/ an). Seuils de suivi régulier des rejets : 2 000 ÉLÉMENTS CONSTITUTIFS
-de la pollution : Sels dissous (m3 S/ cm/ an). Seuils de suivi régulier des
-rejets : 100 000 ÉLÉMENTS CONSTITUTIFS de la pollution : Chaleur rejetée (Mth/
-an). Seuils de suivi régulier des rejets : 2 000
+la valeur mentionnée au tableau suivant :
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Matières en suspension (en t/ an).
+
+Seuils de suivi régulier des rejets : 600
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Demande chimique en oxygène (en t/ an).
+
+Seuils de suivi régulier des rejets : 600
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Demande biochimique en oxygène en cinq jours (en t/ an).
+
+Seuils de suivi régulier des rejets : 300
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Azote réduit et azote oxydé, nitrites et nitrates (en t/ an).
+
+Seuils de suivi régulier des rejets : 40
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Phosphore total, organique ou minéral (en t/ an).
+
+Seuils de suivi régulier des rejets : 10
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Matières inhibitrices (par kEquitox/ an).
+
+Seuils de suivi régulier des rejets : 10 000
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Métox (par kg/ an).
+
+Seuils de suivi régulier des rejets : 10 000
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Composés halogénés adsorbables sur charbon actif (par kg/ an).
+
+Seuils de suivi régulier des rejets : 2 000
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Sels dissous (m3 S/ cm/ an).
+
+Seuils de suivi régulier des rejets : 100 000
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Chaleur rejetée (Mth/ an).
+
+Seuils de suivi régulier des rejets : 2 000
+
+ÉLÉMENTS CONSTITUTIFS de la pollution :
+
+Substances dangereuses pour l'environnement (par kg/ an).
+
+Seuils de suivi régulier des rejets : 360
 
 Au titre des années d'activité 2008 et 2009, les seuils mentionnés au tableau
 ci-dessus sont multipliés par 4 et par 2 respectivement.

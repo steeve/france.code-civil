@@ -51,3 +51,11 @@ redevable peut demander un dégrèvement d'une partie de la redevance. Si le
 montant de ce dégrèvement est supérieur à la variation du montant de la
 redevance déterminé en application des résultats de la mesure, la majoration
 prévue à l'article L. 213-11-10 est appliquée.
+
+V.-Pour l'élément constitutif de la pollution que sont les substances
+dangereuses pour l'environnement, l'agence peut également déterminer le
+coefficient spécifique de pollution à partir de résultats de mesures réalisées
+dans le cadre de l'autosurveillance des émissions des installations classées
+pour la protection de l'environnement mentionnées à l'article L. 511-1, réalisée
+conformément aux prescriptions édictées par les arrêtés pris en application des
+articles L. 512-3, L. 512-5, L. 512-7, L. 512-7-3, L. 512-10 et L. 512-12.
