@@ -5,7 +5,7 @@ Le Conseil supérieur des habitations à loyer modéré est composé comme suit 
 1° Le directeur général de l'urbanisme, de l'habitat et de la construction ou
 son représentant ;
 
-2° Le chef de la mission interministérielle d'inspection du logement social ou
+2° Le directeur général de l'Agence nationale de contrôle du logement social ou
 son représentant ;
 
 3° Le directeur du Trésor ou son représentant ;

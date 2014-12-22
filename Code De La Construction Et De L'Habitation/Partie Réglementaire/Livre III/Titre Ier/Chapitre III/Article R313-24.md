@@ -36,12 +36,10 @@ salariés pour le logement ;
 8° Transmission annuelle de la composition de leurs organes dirigeants et de
 leurs statuts ainsi que de toute modification qui leur est apportée au directeur
 régional de l'environnement, de l'aménagement et du logement du siège social de
-l'organisme et à l'Agence nationale pour la participation des employeurs à
-l'effort de construction ;
+l'organisme et à l' Agence nationale de contrôle du logement social ;
 
-9° Application des mesures correctrices demandées par l'Agence nationale pour la
-participation des employeurs à l'effort de construction à l'issue d'un contrôle
-;
+9° Application des mesures correctrices demandées par l' Agence nationale de
+contrôle du logement social à l'issue d'un contrôle ;
 
 10° Respect des recommandations de l'Union des entreprises et des salariés pour
 le logement prises sur le fondement des 3° à 6° de l'article L. 313-19.

@@ -5,9 +5,9 @@ les ressources de la participation des employeurs à l'effort de construction
 conformément aux dispositions du présent chapitre.
 
 Ils rendent compte du montant de leurs ressources et de l'utilisation de ces
-ressources à l'Agence nationale pour la participation des employeurs à l'effort
-de construction et lui transmettent les documents et informations déterminés par
-elle en application de l'article L. 313-7.
+ressources à l' Agence nationale de contrôle du logement social et lui
+transmettent les documents et informations déterminés par elle en application de
+l'article L. 342-5.
 
 Ils publient chaque année un document décrivant les conditions d'emploi des
 ressources de la participation des employeurs à l'effort de construction et, le

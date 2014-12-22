@@ -9,7 +9,7 @@ ces fonds conformément aux règles en vigueur, y compris conventionnelles, lors
 des contrôles effectués en application de l'article L. 716-5.
 
 Les organismes mentionnés au 3° de l'article R. 716-32 doivent rendre compte
-chaque année à l'agence visée à l'article L. 313-7 du code de la construction et
+chaque année à l'agence visée à l'article L. 342-1 du code de la construction et
 de l'habitation des sommes recueillies au titre de l'article L. 716-2 et de leur
 utilisation.
 

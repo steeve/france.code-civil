@@ -9,8 +9,8 @@ fonction et au respect des règles de bonne gouvernance et de bonne gestion.
 En particulier, les dirigeants ne doivent pas faire l'objet de l'application des
 dispositions de l'article L. 313-29 ou avoir fait l'objet d'une sanction en
 application de l'article L. 313-32. Ils ne doivent pas, à la date de délivrance
-de l'agrément, être sous le coup de la suspension mentionnée au b du II de
-l'article L. 313-13.
+de l'agrément, être sous le coup de la suspension mentionnée au 6° ou 7° du I de
+l'article L. 342-14.
 
 Pour l'application du présent article, les dirigeants s'entendent des membres du
 conseil d'administration ou du conseil de surveillance de l'organisme, des

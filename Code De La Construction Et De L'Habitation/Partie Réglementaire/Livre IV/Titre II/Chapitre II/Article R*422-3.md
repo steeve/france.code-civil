@@ -8,8 +8,9 @@ région de leur siège, après accord de la commune d'implantation de l'opérati
 Le ministre chargé de la construction et de l'habitation peut, après avis du
 conseil supérieur des habitations à loyer modéré, agréer spécialement les
 sociétés dont la qualité de la gestion sur les plans technique et financier a
-été constatée à l'occasion du contrôle prévu par l'article L. 451-1 pour leur
-permettre d'étendre leur activité à tout ou partie des régions limitrophes.
+été constatée à l'occasion du contrôle prévu par le b du 1° du I de l'article L.
+342-2 pour leur permettre d'étendre leur activité à tout ou partie des régions
+limitrophes.
 
 En outre, le ministre chargé de la construction et de l'habitation peut pour une
 opération déterminée accorder une extension de compétence sur une partie

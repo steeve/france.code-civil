@@ -4,8 +4,7 @@ Dans tous les cas où les textes législatifs ou réglementaires prévoient que 
 délibérations du conseil d'administration d'un office public de l'habitat sont
 soumises au contrôle du préfet, celui-ci est exercé, pour ce qui
 concernel'office public de l'habitat interdépartemental de l'Essonne, du
-Val-d'Oise et des Yvelines par le préfet du département des Yvelines. Le préfet
-assure le contrôle prévu à l'article R. 451-4.
+Val-d'Oise et des Yvelines par le préfet du département des Yvelines.
 
 Par exception aux dispositions des articles R. 421-4, R. 421-5 et R. 421-6, pour
 l'office public de l'habitat interdépartemental de l'Essonne, du Val-d'Oise et

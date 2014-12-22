@@ -7,8 +7,8 @@ leur activité à l'ensemble du territoire national.
 
 Peuvent solliciter le bénéfice des dispositions du précédent alinéa les sociétés
 dont la qualité de gestion, sur les plans technique et financier, a été
-constatée à l'occasion d'un contrôle prévu par l'article L. 451-1 et qui ont
-construit ou ont en gérance au moins 7 500 logements.
+constatée à l'occasion d'un contrôle prévu par le b du 1° du I de l'article L.
+342-2 et qui ont construit ou ont en gérance au moins 7 500 logements.
 
 Le préfet du département du siège d'une société anonyme d'habitations à loyer
 modéré peut agréer spécialement cette société pour lui permettre d'intervenir en

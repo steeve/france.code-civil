@@ -2,10 +2,10 @@ Article R313-28
 ----
 I.-Les versements qui seraient faits à des organismes par des employeurs
 postérieurement à la date d'effet d'une décision de retrait d'agrément prononcée
-par le ministre chargé du logement sur le fondement de l'article L. 313-13 ne
-sont pas libératoires de l'obligation prévue à l'article L. 313-1, sauf lorsque
-l'employeur ne connaissait pas ou ne pouvait raisonnablement connaître ladite
-décision.
+par le ministre chargé du logement sur le fondement du 5° du I de l'article L.
+342-14 ne sont pas libératoires de l'obligation prévue à l'article L. 313-1,
+sauf lorsque l'employeur ne connaissait pas ou ne pouvait raisonnablement
+connaître ladite décision.
 
 II.-En cas d'irrégularité grave dans l'emploi des fonds, de faute grave dans la
 gestion, de carence dans la réalisation de l'objet social ou de non-respect des
