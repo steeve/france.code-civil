@@ -13,12 +13,13 @@ en état de récidive légale, conformément aux dispositions du premier alinéa
 l'article 474 ;
 
 2° Lui délivrer une convocation devant le service pénitentiaire d'insertion et
-de probation en cas de condamnation à une peine d'emprisonnement assorti du
-sursis avec mise à l'épreuve ou assorti de l'obligation d'accomplir un travail
-d'intérêt général, ou à une peine de travail d'intérêt général, conformément aux
-dispositions du troisième alinéa de l'article 474 ; toutefois, en raison de la
-peine prononcée ou de la personnalité du condamné, celui-ci peut être convoqué
-devant le juge de l'application des peines ;
+de probation en cas de condamnation à une peine de contrainte pénale, à une
+peine d'emprisonnement assorti du sursis avec mise à l'épreuve ou assorti de
+l'obligation d'accomplir un travail d'intérêt général, ou à une peine de travail
+d'intérêt général, conformément aux dispositions du troisième alinéa de
+l'article 474 ; toutefois, en raison de la peine prononcée ou de la personnalité
+du condamné, celui-ci peut être convoqué devant le juge de l'application des
+peines ;
 
 3° Lui préciser les modalités pratiques selon lesquelles il peut s'acquitter du
 paiement de l'amende, en cas de condamnation à une peine amende ou une peine de

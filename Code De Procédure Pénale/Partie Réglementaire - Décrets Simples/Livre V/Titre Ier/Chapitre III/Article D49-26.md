@@ -2,6 +2,7 @@ Article D49-26
 ----
 Pour l'application des dispositions de l'article R. 69, un extrait de
 l'ordonnance ou du jugement du juge ou du tribunal de l'application des peines
+ou du président du tribunal de grande instance ou le juge par lui délégué,
 certifié par le greffier de la juridiction est adressé au casier judiciaire, par
 l'intermédiaire du parquet du lieu de condamnation, lorsqu'a été décidé :
 
@@ -35,9 +36,22 @@ d'accomplir un travail d'intérêt général en peine de jours-amende ;
 11° La conversion d'une peine de travail d'intérêt général en peine de
 jours-amende ;
 
-12° Le relèvement d'une interdiction en application de l'article 712-22.
+12° Le relèvement d'une interdiction en application de l'article 712-22 ;
 
-Dans les trois derniers cas, un relevé ou un extrait de la décision est
+13° La conversion d'une peine de jours-amende en peine de sursis assorti de
+l'obligation d'effectuer un travail d'intérêt général ;
+
+14° La décision de mise à exécution de tout ou partie de l'emprisonnement fixé
+par la juridiction dans le cadre d'une peine de contrainte pénale ;
+
+15° La décision fixant, modifiant ou supprimant des obligations ou interdictions
+dans le cadre d'une peine de contrainte pénale ;
+
+16° La décision mettant fin de façon anticipée à la peine de contrainte pénale ;
+
+17° La décision de suspension d'une peine de contrainte pénale.
+
+Dans les cas 9°, 10°, 11° et 13°, un relevé ou un extrait de la décision est
 également adressé, selon les mêmes modalités, au comptable principal du Trésor.
 
 Les transmissions prévues par le présent article peuvent se faire par voie
@@ -47,9 +61,9 @@ Le casier judiciaire national est directement avisé des décisions de libérati
 conditionnelle, de révocation d'une libération conditionnelle, de retrait d'un
 crédit de réduction de peine ordonné en application de l'article 721 (alinéa 2)
 et de retrait d'un crédit de réduction de peine ou d'une réduction de peine
-supplémentaire ordonné en application de l'article 721-2 (alinéa 3), par les
-avis qui lui sont adressés par les directeurs et surveillants-chefs des
-établissements pénitentiaires en application du 5° de l'article R. 69.
-Toutefois, il est avisé des décisions de libération conditionnelle conformément
-aux dispositions du présent article lorsqu'elles concernent un condamné non
-détenu.
+supplémentaire ordonné en application de l'article 721-2 (sixième alinéa du I et
+troisième alinéa du II), par les avis qui lui sont adressés par les directeurs
+et surveillants-chefs des établissements pénitentiaires en application du 5° de
+l'article R. 69. Toutefois, il est avisé des décisions de libération
+conditionnelle conformément aux dispositions du présent article lorsqu'elles
+concernent un condamné non détenu.

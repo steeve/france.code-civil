@@ -9,5 +9,5 @@ de ces obligations ou interdictions.
 Il peut également être recouru au dispositif prévu par le présent article
 lorsque l'interdiction faite à l'auteur de l'infraction de rencontrer sa victime
 résulte d'une alternative aux poursuites, d'une composition pénale, d'un sursis
-avec mise à l'épreuve, d'un aménagement de peine ou d'une libération
-conditionnelle.
+avec mise à l'épreuve, d'une contrainte pénale, d'un aménagement de peine ou
+d'une libération conditionnelle.

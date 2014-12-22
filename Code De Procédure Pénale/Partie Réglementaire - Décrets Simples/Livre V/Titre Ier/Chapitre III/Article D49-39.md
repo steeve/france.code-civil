@@ -10,8 +10,3 @@ minuit, le lendemain du jour où l'ordonnance a été notifiée. Lorsque
 l'ordonnance est notifiée par lettre recommandée, ce délai expire à minuit le
 lendemain du jour de la signature de l'avis de réception ; à défaut de
 signature, ce délai commence à courir quinze jours après l'envoi de la lettre.
-
-En cas d'appel du condamné, le ministère public dispose d'un délai
-supplémentaire de 24 heures ou de cinq jours pour former appel incident, selon
-que l'appel porte sur une ordonnance ou un jugement du juge de l'application des
-peines ou du tribunal de l'application des peines.
