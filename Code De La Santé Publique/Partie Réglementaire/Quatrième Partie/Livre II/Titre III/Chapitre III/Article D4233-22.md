@@ -1,40 +1,39 @@
 Article D4233-22
 ----
-Les délégués des départements d'outre-mer mentionnés à l'article L. 4232-11 et
-leurs suppléants, autres que le président de la délégation et son suppléant,
-sont élus par l'ensemble des pharmaciens de chaque arrondissement à raison d'un
-tandem de délégué titulaire et de délégué suppléant pour chacun des
-arrondissements suivants :
+Les délégués des collectivités d'outre-mer mentionnés à l'article L. 4232-11 et
+leurs suppléants sont élus par l'ensemble des pharmaciens répartis en collège de
+la manière suivante :
 
-1° Département de la Guadeloupe : arrondissements de Basse-Terre, Pointe-à-Pitre
-et Saint-Martin-Saint-Barthélemy ;
+1° Collège " officine " : ensemble des pharmaciens qui relèveraient en métropole
+des sections A et D ;
 
-2° Département de la Martinique : arrondissements de Fort-de-France, du Marin,
-de Saint-Pierre et de La Trinité ;
+2° Collège " biologie médicale " : ensemble des pharmaciens qui relèveraient en
+métropole de la section G ;
 
-3° Département de la Guyane : arrondissements de Cayenne et de
-Saint-Laurent-du-Maroni ;
+3° Collège " hôpital et autres " : ensemble des pharmaciens qui relèveraient en
+métropole des sections B, C et H.
 
-4° Département de la Réunion : arrondissements de Saint-Denis, de Saint-Benoît,
-de Saint-Pierre et de Saint-Paul.
+Chaque collège élit un ou plusieurs tandems de délégués titulaires ou suppléants
+en application de la répartition suivante :
 
-Les présidents des délégations des départements d'outre-mer et leurs suppléants
-sont élus par l'ensemble des pharmaciens du département.
+1° Guadeloupe : 3 tandems du collège " officine ", 1 tandem du collège "
+biologie médicale ", 1 tandem du collège " hôpital et autres " ;
 
-Les tandems de délégués de Saint-Pierre-et-Miquelon sont élus par l'ensemble des
-pharmaciens de cette circonscription.
+2° Martinique : 3 tandems du collège " officine ", 1 tandem du collège "
+biologie médicale ", 1 tandem du collège " hôpital et autres " ;
 
-Les déclarations de candidature à la délégation locale sont adressées par lettre
-recommandée avec demande d'avis de réception au président de cette délégation
-ou, selon le cas, au délégué unique. Ce président ou ce délégué assure l'envoi
-des documents électoraux prévus aux articles D. 4233-13 et D. 4233-15.
+3° Guyane : 2 tandems du collège " officine ", 1 tandem du collège " biologie
+médicale ", 1 tandem du collège " hôpital et autres " ;
 
-Par dérogation aux dispositions de l'article D. 4233-15-2, le dépouillement a
-lieu au siège de la délégation.
+4° Réunion : 4 tandems du collège " officine ", 2 tandems du collège " biologie
+médicale ", 1 tandem du collège " hôpital et autres " ;
 
-Dans chaque collectivité, les délégués se réunissent au siège de la délégation
-pour l'examen des questions relevant de leurs compétences.
+5° Mayotte : 2 tandems du collège " officine ", 1 tandem du collège " biologie
+médicale ", 1 tandem du collège " hôpital et autres ".
 
-Dans le cas où aucun pharmacien n'est élu ou en l'absence de délégation locale,
-le conseil central de la section E exerce les attributions des délégués
-mentionnés au présent article.
+Les présidents des délégations des collectivités d'outre-mer et leurs suppléants
+sont élus par l'ensemble des pharmaciens de chacune de ces collectivités.
+
+Les tandems de délégués de Saint-Pierre-et-Miquelon, de Wallis-et-Futuna et de
+Mayotte sont élus par l'ensemble des pharmaciens de chacune de ces
+collectivités.

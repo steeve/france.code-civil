@@ -13,7 +13,9 @@ collèges ;
 2° Avoir été inscrit à l'ordre pendant une durée totale d'au moins trois ans à
 la date de l'élection ;
 
-3° Ne pas avoir été frappé d'une interdiction d'exercice devenue définitive ;
+3° Ne pas avoir été frappé d'une décision d'interdiction d'exercice ou de servir
+des prestations aux assurés sociaux, devenue définitive, que celle-ci soit
+assortie ou non d'un sursis ;
 
 4° Avoir fait acte de candidature dans les conditions prévues à l'article D.
 4233-9.

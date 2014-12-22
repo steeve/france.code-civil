@@ -1,8 +1,9 @@
 Article D4233-20
 ----
-L'arrêté mentionné à l'article D. 4233-7 désigne les six régions qui, outre
-celle d'Ile-de-France, comportent le plus grand nombre de pharmaciens titulaires
-d'officine.
+Les six régions qui, outre celle d'Ile-de-France, comportent le plus grand
+nombre de pharmaciens titulaires d'officine sont désignées par le conseil
+national, après avis du bureau du conseil central de la section A, selon les
+modalités prévues par le règlement électoral.
 
 Trois jours ouvrés au moins après avoir été élus, les membres des conseils
 régionaux correspondants et ceux du conseil régional d'Ile-de-France se

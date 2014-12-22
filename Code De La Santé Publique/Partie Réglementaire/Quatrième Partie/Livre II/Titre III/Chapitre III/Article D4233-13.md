@@ -1,7 +1,7 @@
 Article D4233-13
 ----
 Quinze jours au moins avant l'élection, le président du conseil régional ou
-central intéressé par cette élection adresse aux électeurs :
+central concerné intéressé par cette élection met à disposition des électeurs :
 
 1° Les dates et heures d'ouverture et de clôture du scrutin ;
 
@@ -9,7 +9,8 @@ central intéressé par cette élection adresse aux électeurs :
 candidats titulaires, à partir d'une lettre tirée au sort par le conseil
 national ;
 
-3° Les éventuelles circulaires des tandems mentionnées à l'article D. 4233-10 ;
+3° Les éventuelles circulaires accompagnant la déclaration de candidature des
+tandems mentionnées à l'article D. 4233-10 ;
 
 4° Les instructions relatives aux modalités du vote électronique ;
 

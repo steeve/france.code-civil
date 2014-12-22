@@ -1,17 +1,12 @@
 Article D4233-15-4
 ----
-Si un vote par correspondance a été organisé parallèlement au vote électronique,
-l'émargement des enveloppes d'acheminement est effectué avant le dépouillement
-prévu à l'article D. 4233-15-3, au fur et à mesure de leur réception, dans le
-fichier des électeurs mentionné à l'article D. 4233-12.
+Si un vote par correspondance a été organisé, l'émargement des enveloppes
+d'acheminement est effectué avant le dépouillement prévu à l'article D.
+4233-15-3, au fur et à mesure de leur réception, dans le fichier des électeurs
+mentionné à l'article D. 4233-12.
 
 Cet émargement interdit l'enregistrement ultérieur d'un éventuel vote
 électronique du même électeur.
-
-Si un vote électronique du même électeur a déjà été enregistré sur la liste
-d'émargement, le courrier reçu ne donne pas lieu à un nouvel émargement. Il
-n'est ni ouvert ni compté parmi les votes exprimés, mais réservé pour être joint
-au procès-verbal.
 
 Au début du dépouillement, le bureau de vote vérifie que le nombre des
 enveloppes d'acheminement à ouvrir correspond au nombre d'émargements
@@ -28,7 +23,3 @@ motif de cette nullité, et paraphés par les membres du bureau.
 
 Le bureau juge provisoirement les difficultés qui s'élèvent sur les opérations ;
 ses décisions sont motivées.
-
-Les résultats de ce dépouillement sont saisis par le président du bureau dans le
-fichier dénommé " urne électronique " pour être intégrés par le système dans les
-décomptes des voix mentionnés au troisième alinéa de l'article D. 4233-15-3.
