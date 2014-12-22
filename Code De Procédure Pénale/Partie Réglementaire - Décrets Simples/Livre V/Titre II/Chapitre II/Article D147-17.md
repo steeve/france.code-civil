@@ -1,7 +1,7 @@
 Article D147-17
 ----
-Les modalités d'application des dispositions des articles 723-20 à 723-27
-permettant au directeur du service pénitentiaire d'insertion et de probation de
-proposer, aux condamnés incarcérés relevant des dispositions de l'article
-723-19, une mesure d'aménagement sont fixées par les dispositions de la présente
-sous-section.
+Avant la réunion de la commission de l'application des peines au cours de
+laquelle la situation des personnes condamnées doit être examinée conformément
+aux dispositions de l'article 720, l'administration pénitentiaire transmet en
+temps utile au juge de l'application des peines son avis sur l'opportunité
+d'accorder ou non une libération sous contrainte et sur la nature de la mesure.

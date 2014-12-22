@@ -9,3 +9,6 @@ procureur de la République forme appel dans les vingt-quatre heures de la
 notification, il en informe immédiatement le juge de l'application des peines et
 le chef de l'établissement pénitentiaire. Le délai de 24 heures expire à minuit,
 le lendemain du jour où la décision a été notifiée.
+
+Les dispositions du présent article sont également applicables aux décisions
+ordonnant une libération sous contrainte.

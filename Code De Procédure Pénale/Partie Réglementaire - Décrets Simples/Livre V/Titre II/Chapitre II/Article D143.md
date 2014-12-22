@@ -8,8 +8,8 @@ leur peine :
 
 1° Présentation à leurs employeurs éventuels des détenus prochainement
 libérables ou susceptibles d'être admis au bénéfice de la libération
-conditionnelle ou au régime de semi-liberté ou de placement à l'extérieur en
-application de l'article D. 136 ;
+conditionnelle ou de la libération sous contrainte ou au régime de semi-liberté
+ou de placement à l'extérieur en application de l'article D. 136 ;
 
 2° Présentation aux épreuves d'un examen dans les conditions prévues aux
 articles D. 436-3 et D. 438-2 ;
