@@ -46,4 +46,8 @@ cadre des différentes missions de l'agence ;
 celui-ci des opérations de réaménagements, sur demande des administrations ou
 autorités affectataires, coût de ces opérations et approbation des conventions
 passées avec des personnes publiques ou privées relatives aux conditions de
-versements et de réutilisation des contributions au réaménagement du spectre.
+versements et de réutilisation des contributions au réaménagement du spectre ;
+
+16° Approbation des modalités de mise en œuvre du dispositif permettant la
+continuité de la réception des services de télévision dans les conditions
+prévues par le décret mentionné au 18° de l'article R. 20-44-11.

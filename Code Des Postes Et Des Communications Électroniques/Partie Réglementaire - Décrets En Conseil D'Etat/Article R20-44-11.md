@@ -130,10 +130,10 @@ radioélectriques, conformément à l'article 3 de la loi n° 83-581 modifiée d
 juillet 1983 sur la sauvegarde de la vie humaine en mer et l'habitabilité à bord
 des navires et la prévention de la pollution.
 
-14° Elle organise pour le compte du ministre chargé des communications
-électroniques les examens donnant accès aux certificats d'opérateur des services
-d'amateur et gère les indicatifs des séries internationales attribués aux
-stations radioélectriques des services d'amateur.
+14° Elle organise les examens donnant accès aux certificats d'opérateur des
+services d'amateur, délivre les certificats et les indicatifs des séries
+internationales attribués aux stations radioélectriques des services d'amateur
+et procède au retrait de ces derniers.
 
 15° Elle reçoit et instruit pour le compte du ministre chargé des communications
 électroniques les demandes d'assignation de fréquence relative à un système
@@ -147,8 +147,14 @@ dispositions issues du règlement des télécommunications internationales.
 17° Elle est chargée de la gestion du dispositif de surveillance et de mesure
 des ondes électromagnétiques mentionné à l'article 42 de la loi n° 2009-967 du 3
 août 2009 de programmation relative à la mise en œuvre du Grenelle de
-l'environnement ainsi que du fonds destiné au financement du dispositif. A ce
-titre, elle assure :
+l'environnement ainsi que du fonds destiné au financement du dispositif.
+
+18° Elle assure, en liaison avec le Conseil supérieur de l'audiovisuel, la
+continuité de la réception par les téléspectateurs des services de télévision
+autorisés pour une diffusion par voie hertzienne terrestre en mode numérique
+dans les conditions fixées par décret.
+
+A ce titre, elle assure :
 
 a) La gestion des recettes et des dépenses du fonds précité, dans les conditions
 prévues à l'article R. 20-44-20 ;
