@@ -40,7 +40,9 @@ seuil qu'il détermine, de négocier et conclure lesdites transactions ;
 conditions de rémunération des autres personnes qui apportent leur concours à
 l'agence ;
 
-15° Les participations de l'agence à des groupements d'intérêt public.
+15° Les participations de l'agence à des groupements d'intérêt public ou des
+groupements d'intérêt économique dans les conditions prévues au 4° de l'article
+R. 5311-1 du code de la santé publique.
 
 Un bilan annuel de l'ensemble des contrats, conventions et marchés publics
 passés par l'agence lui est présenté par le directeur général.

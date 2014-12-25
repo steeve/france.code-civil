@@ -12,7 +12,10 @@ travaux ou ouvrages ;
 des groupements d'intérêt public, avec toute personne publique ou privée,
 française ou étrangère, et notamment avec les établissements d'enseignement, de
 recherche et de santé qui ont des missions complémentaires des siennes ou lui
-apportent leur concours.
+apportent leur concours ;
+
+4° Participer à des groupements d'intérêt économique afin de faciliter la mise
+en œuvre des systèmes d'information nécessaires à l'exécution de ses missions.
 
 A la demande du ministre chargé de la santé, l'agence participe, dans les
 domaines relevant de sa compétence, à l'élaboration et à la mise en œuvre des
