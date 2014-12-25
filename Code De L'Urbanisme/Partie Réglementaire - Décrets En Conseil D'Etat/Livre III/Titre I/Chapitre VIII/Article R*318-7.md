@@ -6,6 +6,7 @@ collectivités et établissements publics intéressés par le transfert des
 équipements ni participer à son contrôle. Ils ne doivent avoir aucun intérêt à
 l'opération projetée.
 
-Les indemnités accordées aux commissaires enquêteurs en vertu de l'article R.
-11-6 du code de l'expropriation pour cause d'utilité publique sont applicables à
-l'enquête soumise aux dispositions des articles R. 318-4 à R. 318-6.
+Les indemnités accordées aux commissaires enquêteurs en vertu des articles R.
+111-6 à R. 111-9 du code de l'expropriation pour cause d'utilité publique sont
+applicables à l'enquête soumise aux dispositions des articles R. 318-4 à R.
+318-6.

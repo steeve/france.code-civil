@@ -1,11 +1,12 @@
 Article R*151-4
 ----
 Lorsqu'il y a lieu à expropriation, l'enquête parcellaire est effectuée dans les
-conditions prévues aux articles R. 11-19 à R. 11-31 du code de l'expropriation
-pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend,
-outre les documents énumérés à l'article R. 11-19, une notice accompagnée des
-plans précisant les dispositions prévues pour assurer le désenclavement des
-parcelles que la réalisation de la route doit priver d'accès.
+conditions prévues au titre III du livre Ier du code de l'expropriation pour
+cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre
+les documents énumérés à l'article R. 131-3 du code de l'expropriation pour
+cause d'utilité publique, une notice accompagnée des plans précisant les
+dispositions prévues pour assurer le désenclavement des parcelles que la
+réalisation de la route doit priver d'accès.
 
 Lorsqu'il n'y a pas lieu à expropriation, l'établissement des plans de
 désenclavement des parcelles privées d'accès est précédé d'une enquête

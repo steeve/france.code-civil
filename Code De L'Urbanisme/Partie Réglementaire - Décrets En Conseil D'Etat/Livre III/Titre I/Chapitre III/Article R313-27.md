@@ -7,6 +7,6 @@ d'assiette.
 
 La notification prévue à l'alinéa précédent est effectuée à l'occasion de la
 notification individuelle du dépôt en mairie du dossier de l'enquête parcellaire
-prévue par l'article R. 11-22 du code de l'expropriation pour cause d'utilité
+prévue par l'article R. 131-6 du code de l'expropriation pour cause d'utilité
 publique. Elle comporte l'indication du délai dans lequel doivent être réalisés
 les travaux.

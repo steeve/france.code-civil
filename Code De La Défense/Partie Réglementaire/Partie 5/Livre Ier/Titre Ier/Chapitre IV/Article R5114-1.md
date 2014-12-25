@@ -9,5 +9,5 @@ Ce décret est publié au Journal officiel de la République française et affic
 dans les communes intéressées.
 
 Il est notifié aux propriétaires dont les biens, soumis à la servitude, ont été
-déterminés contradictoirement en application du I de l'article L. 11-1 du code
-de l'expropriation pour cause d'utilité publique.
+déterminés contradictoirement en application du titre III du livre Ier du code
+de l'expropriation pour cause d'utilité publique (partie réglementaire).

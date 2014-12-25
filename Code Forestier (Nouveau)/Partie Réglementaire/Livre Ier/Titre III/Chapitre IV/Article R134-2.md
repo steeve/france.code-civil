@@ -7,8 +7,9 @@ la commission consultative départementale de sécurité et d'accessibilité ; �
 défaut de réponse dans un délai de deux mois, cet avis est réputé favorable.
 
 L'arrêté est précédé d'une enquête publique dans les cas prévus à l'article L.
-134-2. Cette enquête est réalisée dans les conditions prévues aux articles R.
-11-1 à R. 11-14 du code de l'expropriation pour cause d'utilité publique.
+134-2. Cette enquête est réalisée dans les conditions prévues pour les enquêtes
+publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause
+d'utilité publique régies par le titre Ier du livre Ier du même code.
 
 Pour la détermination de l'emprise de la servitude, il est tenu compte de
 l'espace de retournement nécessaire aux engins de surveillance et de lutte.

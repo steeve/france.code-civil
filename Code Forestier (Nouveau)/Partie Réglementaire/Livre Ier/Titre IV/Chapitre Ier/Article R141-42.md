@@ -15,6 +15,6 @@ propriétaire en le renvoyant à se pourvoir devant le tribunal administratif.
 
 En cas de décision juridictionnelle favorable aux prétentions du propriétaire,
 il est procédé, par le ministre chargé des forêts, à l'acquisition de la forêt
-et, en cas de désaccord sur le prix, à la fixation de ce prix dans les
-conditions prévues au chapitre III du titre Ier du code de l'expropriation pour
-cause d'utilité publique (partie réglementaire).
+et, en cas de désaccord sur le prix, à la fixation de ce prix conformément aux
+dispositions du livre III du code de l'expropriation pour cause d'utilité
+publique.

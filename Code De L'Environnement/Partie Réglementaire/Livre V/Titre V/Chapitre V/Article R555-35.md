@@ -4,9 +4,9 @@ A défaut d'accord amiable sur les servitudes entre le bénéficiaire de
 l'autorisation et au moins un propriétaire d'une parcelle traversée par le
 projet de canalisation, le préfet du département concerné conduit pour le compte
 du bénéficiaire de l'autorisation la procédure d'expropriation conformément aux
-dispositions des articles R. 11-1 à R. 11-31 du code de l'expropriation pour
-cause d'utilité publique, afin d'imposer les servitudes prévues à l'article L.
-555-27.
+dispositions du livre Ier et de l'article R. 241-1 du code de l'expropriation
+pour cause d'utilité publique, afin d'imposer les servitudes prévues à l'article
+L. 555-27.
 
 Le préfet détermine par arrêté de cessibilité, sur proposition du bénéficiaire
 de l'autorisation, la liste des parcelles qui devront être frappées des

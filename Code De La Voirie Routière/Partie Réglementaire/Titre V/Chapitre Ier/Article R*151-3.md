@@ -1,9 +1,11 @@
 Article R*151-3
 ----
 L'enquête préalable à l'arrêté conférant le caractère de route express est
-effectuée dans les conditions prévues aux articles R. 11-3 à R. 11-17 du code de
-l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à
-enquête comprend, outre les documents énumérés audit article R. 11-3 :
+effectuée dans les formes prévues pour les enquêtes publiques relevant de
+l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique
+régies par le titre Ier du livre Ier du même code. Toutefois, le dossier soumis
+à enquête comprend, outre les documents énumérés à l'article R. 112-4 ou à
+l'article R. 112-5 :
 
 1° Un plan général de la route indiquant les limites entre lesquelles le
 caractère de route express doit lui être conféré ;

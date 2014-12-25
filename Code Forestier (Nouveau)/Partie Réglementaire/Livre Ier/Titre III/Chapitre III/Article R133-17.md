@@ -1,8 +1,9 @@
 Article R133-17
 ----
-Pour l'application du 5° de l'article L. 21-1 du code de l'expropriation pour
-cause d'utilité publique, les immeubles peuvent être cédés de gré à gré aux
-personnes ci-dessous désignées selon l'ordre de préférence suivant :
+Pour l'application du 6° de l'article L. 411-1 et de l'article L. 411-5 du code
+de l'expropriation pour cause d'utilité publique, les immeubles peuvent être
+cédés de gré à gré aux personnes ci-dessous désignées selon l'ordre de
+préférence suivant :
 
 1° Propriétaires expropriés ou ayant cédé leurs terrains à l'amiable, ainsi que
 leurs descendants, en ce qui concerne leurs anciennes parcelles ; 2° Département

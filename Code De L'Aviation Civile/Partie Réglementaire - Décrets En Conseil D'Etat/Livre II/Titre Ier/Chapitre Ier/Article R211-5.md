@@ -16,5 +16,5 @@ de l'article R. 222-5 du présent code, d'un aérodrome soumis à enquête en
 application du 1 ci-dessus.
 
 Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité
-publique, l'enquête est organisée conformément aux dispositions des articles R.
-11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+publique, l'enquête est organisée conformément aux dispositions du chapitre III
+du titre II du livre Ier du code de l'environnement.

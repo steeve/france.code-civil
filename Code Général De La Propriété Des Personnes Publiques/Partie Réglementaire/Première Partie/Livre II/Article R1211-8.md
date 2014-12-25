@@ -4,7 +4,7 @@ Les opérations immobilières qualifiées secrètes par décision du ministre de
 défense, poursuivies par voie d'expropriation pour cause d'utilité publique par
 les services publics relevant de ce ministre ou placés sous sa tutelle, sont
 soumises à la commission d'examen des opérations immobilières présentant un
-caractère secret prévue par l'article R. 11-17 du code de l'expropriation pour
+caractère secret prévue par l'article R. 122-5 du code de l'expropriation pour
 cause d'utilité publique.
 
 L'avis du directeur départemental des finances publiques prévu à l'article R.

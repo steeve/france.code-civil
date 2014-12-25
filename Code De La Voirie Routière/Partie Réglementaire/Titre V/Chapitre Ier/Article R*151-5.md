@@ -4,12 +4,15 @@ I.-La décision de création ou de suppression d'un point d'accès prévue à
 l'article L. 151-4 sur une route existante est prise par arrêté préfectoral
 après enquête publique et avis des départements et des communes intéressés.
 
-II.-L'enquête publique est effectuée dans les formes prévues aux articles R.
-11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité publique.
-Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés au
-I de l'article R. 11-3 dudit code, l'indication de l'emplacement des accès et la
-description des aménagements projetés ainsi que les dispositions envisagées pour
-assurer le rétablissement des communications.
+II.-L'enquête publique est effectuée dans les formes prévues pour les enquêtes
+publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause
+d'utilité publique régies par le titre Ier du livre Ier du même code et, s'il y
+a lieu, conformément aux dispositions des articles R. 122-1 à R. 122-3.
+Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés à
+l'article R. 112-4 du code de l'expropriation pour cause d'utilité publique,
+l'indication de l'emplacement des accès et la description des aménagements
+projetés ainsi que les dispositions envisagées pour assurer le rétablissement
+des communications.
 
 S'il y a lieu à déclaration d'utilité publique, les deux enquêtes sont
 confondues.

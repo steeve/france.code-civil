@@ -16,5 +16,5 @@ lettre recommandée avec demande d'avis de réception dans les quatre mois de
 l'arrêté autorisant l'association ou modifiant le périmètre de celle-ci.
 
 Le versement des indemnités par l'acquéreur désigné a lieu conformément aux
-articles R. 13-62 à R. 13-78 du code de l'expropriation pour cause d'utilité
-publique.
+articles R. 312-1 et R. 323-1 à R. 323-14 du code de l'expropriation pour cause
+d'utilité publique.

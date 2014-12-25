@@ -6,5 +6,5 @@ de la région dans laquelle le bien est situé.
 
 A défaut d'accord amiable dans un délai de six mois à compter de la date de la
 demande, le juge de l'expropriation peut être saisi dans les conditions prévues
-au deuxième alinéa de l'article R. 13-21 du code de l'expropriation pour cause
+au second alinéa de l'article R. 311-9 du code de l'expropriation pour cause
 d'utilité publique.

@@ -7,5 +7,5 @@ trouve substituée à la commune dans tous les actes y afférents.
 
 La procédure est considérée comme engagée, au sens de l'alinéa qui précède, à la
 date de l'arrêté préfectoral relatif à l'enquête préalable à la déclaration
-d'utilité publique, mentionné à l'article R. 11-4 du code de l'expropriation
+d'utilité publique, mentionné à l'article R. 112-12 du code de l'expropriation
 pour cause d'utilité publique.

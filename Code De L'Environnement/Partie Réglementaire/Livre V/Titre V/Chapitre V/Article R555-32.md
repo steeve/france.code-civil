@@ -9,7 +9,7 @@ par les pièces suivantes :
 l'article L. 555-25 ou à l'article L. 229-31 ;
 
 2° Les pièces non mentionnées aux articles R. 555-8 et R. 555-9 prévues à
-l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique.
+l'article R. 112-4 du code de l'expropriation pour cause d'utilité publique.
 
 Le préfet ou le préfet coordonnateur de l'instruction demande, le cas échéant,
 au pétitionnaire de fournir les pièces complémentaires nécessaires en vue de

@@ -2,7 +2,7 @@ Article R123-31
 ----
 En application du dernier alinéa de l'article L. 121-2, le conseil général
 constitue, au plus tard à compter de la publication de l'arrêté d'ouverture de
-l'enquête publique prévue à l'article L. 11-1 du code de l'expropriation pour
+l'enquête publique prévue à l'article R. 112-12 du code de l'expropriation pour
 cause d'utilité publique, la commission communale ou intercommunale
 d'aménagement foncier prévue aux articles L. 121-3 à L. 121-5 dans chacune des
 communes désignées en application de l'article R. 123-30.

@@ -1,13 +1,13 @@
 Article R142-23
 ----
-Le procès-verbal de reconnaissance tenant lieu de notice explicative prévue par
-l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique
-expose la configuration des lieux, leur altitude moyenne, leurs conditions au
-point de vue de la géologie et du climat, l'état de dégradation du sol et ses
-causes, les dommages qui en résultent et les dangers qu'il présente, les
-conditions dans lesquelles l'avant-projet des travaux satisfait aux
-préoccupations d'environnement définies à l'article L. 122-1 du code de
-l'environnement.
+Le procès-verbal de reconnaissance prévu à l'article R. 142-21 tenant lieu de
+notice explicative prévue par l'article R. 112-4 du code de l'expropriation pour
+cause d'utilité publique expose la configuration des lieux, leur altitude
+moyenne, leurs conditions au point de vue de la géologie et du climat, l'état de
+dégradation du sol et ses causes, les dommages qui en résultent et les dangers
+qu'il présente, les conditions dans lesquelles l'avant-projet des travaux
+satisfait aux préoccupations d'environnement définies à l'article L. 122-1 du
+code de l'environnement.
 
 Le procès-verbal est accompagné d'un tableau précisant, pour chaque parcelle ou
 partie de parcelle comprise dans le périmètre, la section et le numéro de la

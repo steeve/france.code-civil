@@ -12,5 +12,5 @@ de l'indemnité. L'arrêté définissant la servitude tient lieu d'arrêté de
 cessibilité.
 
 Il est procédé, sous réserve des adaptations nécessaires, conformément aux
-articles R. 12-1 à R. 12-5 et R. 13-1 à R. 13-53 du code de l'expropriation pour
-cause d'utilité publique.
+dispositions du livre III du code de l'expropriation pour cause d'utilité
+publique.

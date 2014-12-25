@@ -7,8 +7,8 @@ Un arrêté du président du conseil général désigne un commissaire enquêteu
 une commission d'enquête dont il nomme le président. Les membres de la
 commission d'enquête sont en nombre impair. Le commissaire enquêteur ou les
 membres de la commission d'enquête sont choisis sur une liste départementale
-établie annuellement en application de l'article R. 11-5 du code de
-l'expropriation.
+établie annuellement en application de l'article R. 111-4 du code de
+l'expropriation pour cause d'utilité publique.
 
 Le même arrêté précise :
 

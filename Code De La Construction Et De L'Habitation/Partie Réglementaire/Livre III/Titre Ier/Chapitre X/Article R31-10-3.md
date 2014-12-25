@@ -17,9 +17,9 @@ les effets du vent dû aux tempêtes, ouragans ou cyclones ;
 -soit du premier alinéa de l'article L. 128-1 du code des assurances pour des
 dommages dus à des catastrophes technologiques ;
 
--soit des articles L. 15-6 et L. 15-8 du code de l'expropriation pour cause
-d'utilité publique dans les cas visés aux articles L. 561-1 à L. 561-5 ainsi
-qu'à l'article L. 515-16 du code de l'environnement.
+-soit des articles L. 521-1 et L. 521-4 à L. 521-8 du code de l'expropriation
+pour cause d'utilité publique dans les cas visés aux articles L. 561-1 à L.
+561-5 ainsi qu'à l'article L. 515-16 du code de l'environnement.
 
 La demande de prêt doit être présentée dans le délai de deux ans suivant la date
 de publication de la décision de constatation de l'état de catastrophe ou la

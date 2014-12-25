@@ -1,8 +1,7 @@
 Article R*322-10
 ----
-L'enquête publique prévue à l'article L. 322-6 a lieu dans les formes prévues
-par les articles R. 11-19 à R. 11-31 du code de l'expropriation pour cause
-d'utilité publique.
+L'enquête publique prévue à l'article L. 322-6 a lieu dans les formes prévues au
+titre III du livre Ier du code de l'expropriation pour cause d'utilité publique.
 
 Le dossier mis à l'enquête comporte au moins :
 

@@ -8,13 +8,10 @@ Ier du code de l'environnement.
 L'enquête concernant un plan local d'urbanisme vaut enquête préalable à la
 déclaration d'utilité publique des opérations, acquisitions ou expropriations
 prévues à ce plan à l'intérieur d'une zone d'aménagement concerté lorsque le
-dossier soumis à l'enquête comprend les pièces mentionnées au I ou II de
-l'article **R. 11-3 du code de l'expropriation pour cause d'utilité publique.
-Dans ce cas, l'enquête publique est organisée dans les formes prévues par le
-chapitre III du titre II du livre Ier du code de l'environnement. Toutefois, le
-président de l'établissement public ou le maire exerce les compétences
-attribuées au préfet par les articles R. 11-14-2 à R. 11-14-5 et R. 11-14-7 à R.
-11-14-15 du même code.
+dossier soumis à l'enquête comprend les pièces mentionnées à l'article R. 112-4
+ou à l'article R. 112-5 du code de l'expropriation pour cause d'utilité
+publique. Dans ce cas, l'enquête publique est organisée dans les formes prévues
+par le chapitre III du titre II du livre Ier du code de l'environnement.
 
 Le dossier est composé des pièces mentionnées à l'article R. 123-8 du code de
 l'environnement et à l'article L. 123-10 du présent code. Il peut être complété

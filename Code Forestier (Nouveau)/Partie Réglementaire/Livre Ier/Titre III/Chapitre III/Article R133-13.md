@@ -1,7 +1,7 @@
 Article R133-13
 ----
-Pour l'application du I de l'article R. 11-3 du code de l'expropriation pour
-cause d'utilité publique :
+Pour l'application de l'article R. 112-4 du code de l'expropriation pour cause
+d'utilité publique :
 
 1° La notice explicative expose notamment la configuration des lieux, leurs
 caractéristiques écologiques, les risques particuliers d'incendie, ainsi que les

@@ -23,8 +23,9 @@ arbustes dont la suppression est nécessaire.
 Lorsque le dossier est complet, le préfet le soumet à l'enquête publique.
 
 L'enquête publique préalable à l'institution de la servitude est réalisée dans
-les conditions définies aux articles R. 11-4 à R. 11-14 du code de
-l'expropriation pour cause d'utilité publique.
+les conditions prévues pour les enquêtes publiques relevant de l'article L.
+110-2 du code de l'expropriation pour cause d'utilité publique régies par le
+titre Ier du livre Ier du même code.
 
 Une notification du dépôt du dossier en mairie est faite par le bénéficiaire de
 la servitude à chacun des propriétaires intéressés.

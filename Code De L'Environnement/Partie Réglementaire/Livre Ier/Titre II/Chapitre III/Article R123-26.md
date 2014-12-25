@@ -3,7 +3,7 @@ Article R123-26
 Il est créé un fonds, dénommé fonds d'indemnisation des commissaires enquêteurs,
 chargé de verser à ceux-ci, dans les conditions prévues par le présent chapitre,
 les indemnités mentionnées à l'article L. 123-18 du présent code et à l'article
-R. 11-6-1 du code de l'expropriation pour cause d'utilité publique.
+R. 111-5 du code de l'expropriation pour cause d'utilité publique.
 
 La personne responsable du projet, plan ou programme verse au fonds
 d'indemnisation des commissaires enquêteurs les sommes et provisions destinées à

@@ -8,7 +8,7 @@ juridiction. Une copie, en double exemplaire, du mémoire du titulaire du droit
 de préemption est jointe à la lettre adressée au secrétariat de la juridiction.
 Le propriétaire doit en être informé simultanément.
 
-Il est ensuite procédé comme il est dit aux articles R. 13-22 et suivants du
+Il est ensuite procédé comme il est dit aux articles R. 311-9 à R. 311-32 du
 code de l'expropriation pour cause d'utilité publique.
 
 A défaut de saisine de la juridiction dans le délai fixé par le présent article,

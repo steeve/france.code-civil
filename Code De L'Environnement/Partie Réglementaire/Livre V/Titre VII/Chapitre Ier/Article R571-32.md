@@ -6,7 +6,7 @@ L. 571-10, les infrastructures de transports terrestres définies à l'article R
 l'objet de l'une des mesures suivantes :
 
 1° Publication de l'acte décidant l'ouverture d'une enquête publique portant sur
-le projet d'infrastructure, en application de l'article L. 11-1 du code de
+le projet d'infrastructure, en application de l'article L. 110-2 du code de
 l'expropriation pour cause d'utilité publique ou des articles R. 123-1 à R.
 123-33 du présent code ;
 

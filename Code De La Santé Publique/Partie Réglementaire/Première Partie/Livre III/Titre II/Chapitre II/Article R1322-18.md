@@ -1,8 +1,9 @@
 Article R1322-18
 ----
 Lorsque la demande est jugée régulière et complète, elle est soumise à enquête
-publique. Celle-ci est effectuée dans les conditions prévues par les articles R.
-11-4 à R. 11-14 du code de l'expropriation pour cause d'utilité publique.
+publique. Celle-ci est effectuée dans les conditions prévues pour les enquêtes
+publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause
+d'utilité publique régies par le titre Ier du livre Ier du même code.
 
 L'arrêté du préfet ou des préfets concernés, pris en application de l'article R.
 11-4 du même code, désigne les communes où un dossier et un registre d'enquête

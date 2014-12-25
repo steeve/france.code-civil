@@ -6,6 +6,6 @@ enquête publique en application de la loi du 12 juillet 1983 et du décret n°
 général conformément aux dispositions des chapitres Ier et II dudit décret.
 
 Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité
-publique, l'enquête est organisée par le préfet conformément aux dispositions
-des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause
-d'utilité publique.
+publique, l'enquête est organisée par le préfet dans les formes prévues pour les
+enquêtes relevant du premier alinéa de l'article L. 110-1 du code de
+l'expropriation pour cause d'utilité publique.

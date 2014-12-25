@@ -1,8 +1,8 @@
 Article R152-19
 ----
-Il est procédé à l'enquête préalable à la déclaration d'utilité publique
-conformément aux dispositions des articles R. 11-3 à R. 11-7 du code de
-l'expropriation pour cause d'utilité publique.
+Il est procédé à l'enquête préalable à la déclaration d'utilité publique dans
+les conditions prévues pour les enquêtes publiques relevant du premier alinéa de
+l'article L. 110-1 du code de l'expropriation pour cause d'utilité publique.
 
 Toutefois, le dossier que le préfet soumet à l'enquête ne contient
 obligatoirement que les documents suivants :

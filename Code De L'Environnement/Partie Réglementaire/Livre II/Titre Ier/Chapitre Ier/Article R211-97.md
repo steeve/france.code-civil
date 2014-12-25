@@ -19,5 +19,5 @@ diverses sujétions résultant des servitudes ;
 
 5° Un projet d'arrêté définissant les servitudes ;
 
-6° Les autres pièces prévues au I de l'article R. 11-3 du code de
-l'expropriation pour cause d'utilité publique.
+6° Les autres pièces prévues à l'article R. 112-4 du code de l'expropriation
+pour cause d'utilité publique.

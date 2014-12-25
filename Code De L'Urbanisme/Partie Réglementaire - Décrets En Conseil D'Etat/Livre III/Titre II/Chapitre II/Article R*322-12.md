@@ -8,5 +8,5 @@ jours pour transmettre au juge le projet de remembrement.
 
 Il est ensuite procédé comme en matière d'expropriation. Les réclamations des
 intéressés et la décision motivée du conseil des syndics sont soumises aux mêmes
-règles de procédure que les demandes, offres et mémoires prévus au chapitre III
-du décret n° 859-1335 du 20 novembre 1959.
+règles de procédure que les demandes, offres et mémoires prévus par le livre III
+du code de l'expropriation pour cause d'utilité publique.

@@ -11,10 +11,10 @@ bien cédé n'entre pas dans le champ d'application du A de l'article 1594-0 G d
 code général des impôts. A défaut, les dispositions des articles 150 U à 150 VH
 du même code sont applicables.
 
-Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a
-et b du 1° du II de l'article L. 13-15 du code de l'expropriation pour cause
-d'utilité publique ne sont pas considérés comme des biens entrant dans le champ
-d'application du A de l'article 1594-0 G du code général des impôts.
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées à
+l'article L. 322-3 du code de l'expropriation pour cause d'utilité publique ne
+sont pas considérés comme des biens entrant dans le champ d'application du A de
+l'article 1594-0 G du code général des impôts.
 
 2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis
 l'acquisition, dans le patrimoine privé du contribuable, il est fait application
