@@ -7,3 +7,8 @@ réception.
 
 Le double de la requête ainsi que du certificat ou de la décision sont conservés
 au secrétariat.
+
+Le certificat délivré en application du règlement (UE) n° 606/2013 du Parlement
+européen et du Conseil du 12 juin 2013 relatif à la reconnaissance mutuelle des
+mesures de protection en matière civile est en outre notifié par le greffe à la
+personne à l'origine du risque encouru.
