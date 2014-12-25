@@ -39,6 +39,13 @@ Conseil d'Etat et décrets simples)
 
 Au titre II
 
+R. 222-1
+
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des
+articles 15, 18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la
+programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale
+
 R. 223-2
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
@@ -60,7 +67,20 @@ Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un
 traitement de données à caractère personnel dénommé "système API-PNR France'
 pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
 
-R. 234-1 à R. 236-45
+R. 234-1
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
+et V de la partie réglementaire du code de la sécurité intérieure (Décrets en
+Conseil d'Etat et décrets simples)
+
+R. 234-2
+
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des
+articles 15, 18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la
+programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale
+
+R. 236-1 à R. 236-45
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
 et V de la partie réglementaire du code de la sécurité intérieure (Décrets en

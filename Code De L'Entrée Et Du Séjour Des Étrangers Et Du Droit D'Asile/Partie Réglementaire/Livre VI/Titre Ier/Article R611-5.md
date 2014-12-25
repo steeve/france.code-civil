@@ -127,15 +127,20 @@ ou de demande de naturalisation, les personnels de la direction des libertés
 publiques et des affaires juridiques individuellement désignés et spécialement
 habilités par leur directeur ;
 
-9° Dans les conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23
-janvier 2006 modifiée :
+9° Dans les conditions fixées par l'article L. 222-1 du code de la sécurité
+intérieure :
 
-a) Les agents des services de la direction générale de la police nationale et
-les militaires de la direction générale de la gendarmerie nationale chargés des
-missions de prévention et de répression des actes de terrorisme ;
+-les agents des services de la police nationale et les militaires des unités de
+la gendarmerie nationale chargés des missions de prévention et de répression des
+atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme,
+individuellement désignés et spécialement habilités par le directeur général
+dont ils relèvent ;
 
-b) Les agents des services de renseignement du ministère de la défense, chargés
-des missions de prévention des actes de terrorisme ;
+-les agents des services spécialisés du renseignement mentionnés à l'article R.
+222-1 du code de la sécurité intérieure, individuellement désignés et
+spécialement habilités par le directeur dont ils relèvent, pour les seuls
+besoins de la prévention des atteintes aux intérêts fondamentaux de la nation et
+des actes de terrorisme ;
 
 10° A des fins exclusives d'établissement de statistiques pour la consultation
 d'éléments anonymisés obtenus à partir du traitement automatisé :

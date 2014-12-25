@@ -20,6 +20,13 @@ Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II,
 et V de la partie réglementaire du code de la sécurité intérieure (Décrets en
 Conseil d'Etat et décrets simples)
 
+R. 114-6
+
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des
+articles 15, 18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la
+programmation militaire pour les années 2014 à 2019 et portant diverses
+dispositions concernant la défense et la sécurité nationale
+
 
 Au titre II
 

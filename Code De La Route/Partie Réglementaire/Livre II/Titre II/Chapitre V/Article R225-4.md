@@ -17,17 +17,18 @@ financières de l'accès à ces informations ouvert par voie téléinformatique 
 autorités judiciaires, aux juridictions administratives mentionnées à l'alinéa
 précédent et aux militaires de la gendarmerie.
 
-Peuvent en outre accéder aux données mentionnées à l'article L. 225-4, dans les
-conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006
-relative à la lutte contre le terrorisme et portant dispositions diverses
-relatives à la sécurité et aux contrôles transfrontaliers :
+Peuvent également accéder aux données mentionnées à l'article L. 225-4 du
+présent code dans les conditions fixées par l'article L. 222-1 du code de la
+sécurité intérieure :
 
-- les agents des services de la direction générale de la police nationale et de
-la direction générale de la gendarmerie nationale chargés des missions de
-prévention et de répression des actes de terrorisme ;
+-les agents des services de la police nationale et les militaires des unités de
+la gendarmerie nationale chargés des missions de prévention et de répression des
+atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme,
+individuellement désignés et spécialement habilités par le directeur général
+dont ils relèvent ;
 
-- les agents des services de renseignement du ministère de la défense chargés
-des missions de prévention des actes de terrorisme.
-
-Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont
-applicables jusqu'au 31 décembre 2012.
+-les agents des services spécialisés du renseignement mentionnés à l'article R.
+222-1 du code de la sécurité intérieure, individuellement désignés et
+spécialement habilités par le directeur dont ils relèvent, pour les seuls
+besoins de la prévention des atteintes aux intérêts fondamentaux de la nation et
+des actes de terrorisme.
