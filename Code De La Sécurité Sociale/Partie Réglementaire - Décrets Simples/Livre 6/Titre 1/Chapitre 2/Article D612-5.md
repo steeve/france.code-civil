@@ -2,20 +2,14 @@ Article D612-5
 ----
 Pour les assurés mentionnés à l'article L. 613-1, à l'exception de ceux
 mentionnés aux 2° et 3° de cet article, la cotisation annuelle ne peut être
-calculée sur une assiette inférieure à un montant égal à :
-
-1° 19 % de la valeur du plafond de la sécurité sociale, au titre de la première
-année d'activité ;
-
-2° 27 % de la valeur du plafond de la sécurité sociale, au titre de la deuxième
-année d'activité ;
-
-3° 40 % de la valeur du plafond de la sécurité sociale, au titre des années
-d'activité suivantes.
+calculée sur une assiette inférieure à un montant égal à 10 % du plafond de la
+sécurité sociale.
 
 Pour les personnes mentionnées à l'article L. 613-4, la cotisation minimale
-prévue aux alinéas précédents n'est pas applicable lorsque leur activité non
-salariée non agricole n'est pas principale.
+prévue à l'alinéa précédent n'est pas applicable lorsque, en application du
+deuxième alinéa dudit article, elles bénéficient du service des prestations en
+nature d'assurance maladie et maternité d'un régime autre que celui institué par
+le présent titre.
 
 Pour les personnes mentionnées à l'article L. 613-7, la cotisation minimale
 n'est pas applicable lorsque, en application du deuxième alinéa dudit article,

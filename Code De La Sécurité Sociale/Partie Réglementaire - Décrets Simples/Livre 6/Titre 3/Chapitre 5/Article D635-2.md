@@ -7,8 +7,9 @@ conditions prévues aux articles R. 133-26 et R. 133-27 et sous les garanties de
 la cotisation vieillesse de base. Pour les travailleurs indépendants dont la
 durée d'affiliation est au moins égale à quatre-vingt-dix jours au cours de
 l'année au titre de laquelle la cotisation est due, ladite cotisation ne peut
-être calculée sur une assiette inférieure à celle mentionnée au dernier alinéa
-de l'article D. 633-2.
+être calculée sur une assiette inférieure à 5,25 % de la valeur du plafond
+mentionné au premier alinéa de l'article L. 241-3. La valeur de ce plafond est
+déterminée conformément au premier alinéa de l'article D. 612-6.
 
 Les dispositions de l'article D. 633-9 sont applicables au paiement de la
 cotisation provisionnelle du régime complémentaire obligatoire d'assurance

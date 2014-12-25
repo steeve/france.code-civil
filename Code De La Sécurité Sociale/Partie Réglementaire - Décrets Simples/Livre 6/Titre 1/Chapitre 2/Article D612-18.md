@@ -4,7 +4,7 @@ L'organisme conventionné, pour les membres des professions libérales au titre 
 la maladie et de la maternité, doit verser à la caisse nationale le montant de
 la totalité des cotisations et des majorations de retard encaissées, ainsi que
 les intérêts éventuellement produits par les comptes prévus aux articles D.
-613-48 et D. 613-49. Ces versements sont échelonnés dans les conditions fixées
+611-37 et D. 611-38. Ces versements sont échelonnés dans les conditions fixées
 par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du
 budget.
 

@@ -1,21 +1,19 @@
 Article D722-11
 ----
-La cotisation provisionnelle mentionnée au deuxième alinéa de l'article L.
-131-6-2 due par les assurés en activité est payable chaque année et d'avance
-avant le 5 février. En cas de début ou de reprise d'activité en cours d'année,
-la cotisation provisionnelle est payable le premier jour du mois civil suivant
-la date de début ou de reprise d'activité.
+La cotisation due par les assurés en activité est payable chaque année, par
+versements mensuels ou trimestriels, dans les conditions fixées aux articles R.
+133-26, R. 133-27 et R. 133-29.
 
-Par dérogation au premier alinéa, les assurés peuvent demander à s'acquitter de
-leur cotisation provisionnelle en quatre fractions trimestrielles égales. Ces
-dernières sont payables respectivement avant les 5 février, 5 mai, 5 août et 5
-novembre. En cas de début ou de reprise d'activité en cours d'année, la
-cotisation provisionnelle est payable à la date de la première échéance ou, à
-défaut, le premier jour du mois civil suivant la date de début ou de reprise
-d'activité.
+Le cas échéant, il est fait application :
 
-En cas de non-paiement à l'échéance fixée ci-dessus, il est fait application, à
-l'encontre des assurés, des majorations prévues par l'article R. 243-18, qui
-peuvent faire l'objet d'une remise totale ou partielle sous les conditions et
-limites prévues aux articles R. 243-19-1, R. 243-20, R. 243-20-1 et de sursis à
-poursuites dans les conditions prévues à l'article R. 243-21.
+1° En cas de non-paiement de la cotisation aux échéances fixées aux articles R.
+133-26 et R. 133-27, des majorations prévues l'article R. 243-18, qui peuvent
+faire l'objet d'une remise totale ou partielle sous les conditions et limites
+prévues aux articles R. 243-19-1, R. 243-20, R. 243-20-1 et de sursis à
+poursuites dans les conditions prévues à l'article R. 243-21 ;
+
+2° En cas de non-paiement de la cotisation, ainsi qu'éventuellement des
+majorations de retard, des procédures de recouvrement forcé prévues aux articles
+R. 133-1 à R. 133-3, R. 244-4, R. 244-5 et R. 244-7, mises en œuvre par
+l'organisme en charge du recouvrement ou la caisse primaire d'assurance maladie
+compétente.

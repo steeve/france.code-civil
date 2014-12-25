@@ -15,38 +15,16 @@ cotisation est due.
 En cas de période d'affiliation inférieure à une année, les plafonds prévus aux
 1° et 2° ci-dessus sont réduits au prorata des trimestres d'affiliation.
 
-Pour le calcul de ces cotisations, les assurés sont tenus de déclarer avant le
-31 décembre de chaque année à la section professionnelle dont ils relèvent les
-revenus professionnels non salariés de l'année civile précédente, tels qu'ils
-sont définis à l'article L. 642-2.
-
-Cette déclaration doit être effectuée au moyen d'un imprimé dont le modèle est
-soumis à l'avis favorable de la Caisse nationale d'assurance vieillesse des
-professions libérales et que les sections doivent adresser le 1er octobre au
-plus tard à tous leurs assurés.
-
-Dans le cas où le revenu de l'année précédente n'a pas été fixé par
-l'administration fiscale avant le 31 décembre, l'assiette servant au calcul des
-cotisations est établie à partir des revenus déclarés par l'assuré à cette
-administration. Après fixation du revenu, la déclaration rectificative doit être
-faite par l'assuré dans les trente jours suivant la réception de la notification
-de l'administration fiscale.
-
-A défaut de déclaration par l'assuré de ses revenus professionnels dans les
-délais prévus aux neuvième et onzième alinéas, la section procède d'office à
-l'appel de cotisations assises sur un revenu égal au maximum de chacune des
-tranches prévues aux 1° et 2° du présent article.
-
-En cas de rectification par les services fiscaux des revenus ayant servi
-d'assiette au calcul des cotisations, la section professionnelle procède
-d'elle-même ou à la demande de l'assuré présentée dans un délai de trois ans à
-compter de la date de notification de cette rectification, à la révision du
-montant des cotisations proportionnelles versées préalablement à cette
-rectification.
+Pour le calcul et le recouvrement de cette cotisation, les professionnels
+libéraux fournissent la déclaration de revenu d'activité mentionnée à l'article
+R. 115-5 à la section professionnelle dont ils relèvent sur demande de cette
+dernière. Un arrêté fixe la liste des sections professionnelles pouvant
+effectuer cette demande.
 
 Pour les cotisants admis à cotiser à titre volontaire en application du 2° de
-l'article L. 742-6, les cotisations sont assises sur les revenus professionnels
-non salariés de la dernière année d'activité, tels qu'ils sont définis à
-l'article L. 642-2, actualisés en appliquant le taux d'évolution du plafond visé
-à l'article L. 241-3 entre le 1er janvier de l'année correspondant à sa dernière
-année d'activité et le 1er janvier de l'année en cours.
+l'article L. 742-6, les cotisations sont assises sur les revenus d'activité non
+salariés de la dernière année civile d'activité complète, tels qu'ils sont
+définis au sixième alinéa de l'article L. 642-1, actualisés en appliquant le
+taux d'évolution du plafond visé à l'article L. 241-3 entre le 1er janvier de
+l'année correspondant à sa dernière année d'activité et le 1er janvier de
+l'année en cours.

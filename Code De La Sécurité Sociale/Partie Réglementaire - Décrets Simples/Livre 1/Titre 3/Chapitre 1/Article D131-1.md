@@ -8,9 +8,9 @@ provisionnelles sont dues, sans que ce revenu forfaitaire puisse être inférieu
 à l'assiette minimale mentionnée au troisième alinéa de l'article D. 612-9, en
 ce qui concerne la cotisation supplémentaire prévue à l'article L. 612-13, ou à
 celle mentionnée à l'article D. 635-12, en ce qui concerne la cotisation
-invalidité-décès prévue à l'article L. 635-5. Ce pourcentage est égal, au titre
-de la première année d'activité, à celui fixé au 1° de l'article D. 612-5 et, au
-titre de la deuxième année d'activité, à celui fixé au 2° du même article.
+invalidité-décès prévue à l'article L. 635-5. Ce pourcentage est égal à 19 % au
+titre de la première année d'activité et à 27 % au titre de la deuxième année
+d'activité.
 
 En cas de période d'affiliation inférieure à une année, le plafond servant au
 calcul des cotisations provisionnelles est réduit au prorata de la durée

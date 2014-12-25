@@ -16,6 +16,6 @@ totale ou partielle de ces majorations. La demande est instruite selon les
 modalités définies à l'article R. 243-20. Toutefois, elle est communiquée pour
 avis, avant son examen, à l'organisme conventionné dont relève le requérant.
 
-Les dispositions du présent article sont applicables aux majorations prévues au
-cinquième alinéa de l'article L. 131-6 ainsi qu'à la pénalité mentionnée au
-dernier alinéa de l'article R. 242-14.
+Les dispositions du présent article sont applicables à la majoration de retard
+prévue au quatrième alinéa de l'article L. 131-6-2 ainsi qu'à la pénalité
+mentionnée au dernier alinéa de l'article R. 242-14.

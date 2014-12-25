@@ -18,5 +18,6 @@ suivant :
 
 -la contribution mentionnée à l'article L. 953-1 du code du travail.
 
-Cette affectation se fait d'abord sur les cotisations de la dernière échéance
-due puis sur celles les plus anciennes.
+Cette affectation s'applique aux cotisations dues au titre de la dernière
+échéance puis à celles dues au titre des échéances antérieures, en remontant de
+la plus ancienne à la plus récente.
