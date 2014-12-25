@@ -7,3 +7,7 @@ pratiques ainsi que les stages constitutifs de la formation.
 
 Ce diplôme peut être délivré dans les mêmes conditions aux personnes titulaires
 du diplôme d'Etat de sage-femme.
+
+Ce diplôme peut être obtenu par la validation des acquis de l'expérience dont
+les modalités d'organisation sont fixées par arrêté du ministre chargé de la
+santé.

@@ -6,3 +6,7 @@ Sont fixés par arrêté du ministre chargé de la santé :
 d'auxiliaire de puériculture ;
 
 2° Les conditions de délivrance de ce diplôme.
+
+Ce diplôme peut être obtenu par la validation des acquis de l'expérience dont
+les modalités d'organisation sont fixées par arrêté du ministre chargé de la
+santé.
