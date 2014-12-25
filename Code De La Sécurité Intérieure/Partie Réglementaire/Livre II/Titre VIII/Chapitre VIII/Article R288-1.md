@@ -53,20 +53,32 @@ Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II,
 et V de la partie réglementaire du code de la sécurité intérieure (Décrets en
 Conseil d'Etat et décrets simples)
 
+R. 224-1 à R. 224-6
+
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de
+sortie du territoire des ressortissants français projetant de participer à des
+activités terroristes à l'étranger
+
 
 Au titre III
 
 R. 232-1 à R. 232-5-1
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un
-traitement de données à caractère personnel dénommé "système API-PNR France"
+traitement de données à caractère personnel dénommé " système API-PNR France "
 pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
 
 R. 232-12 à R. 232-18
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un
-traitement de données à caractère personnel dénommé "système API-PNR France"
+traitement de données à caractère personnel dénommé " système API-PNR France "
 pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+
+R. 232-19
+
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de
+sortie du territoire des ressortissants français projetant de participer à des
+activités terroristes à l'étranger
 
 R. 236-1 à R. 236-45
 
