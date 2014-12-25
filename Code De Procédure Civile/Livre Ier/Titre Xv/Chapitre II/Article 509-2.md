@@ -2,12 +2,10 @@ Article 509-2
 ----
 Les requêtes aux fins de reconnaissance ou de constatation de la force
 exécutoire, sur le territoire de la République, des titres exécutoires
-étrangers, en application du règlement (CE) du Conseil n° 44/2001 du 22 décembre
-2000 concernant la compétence judiciaire, la reconnaissance et l'exécution des
-décisions en matière civile et commerciale et de la convention concernant la
-compétence judiciaire, la reconnaissance et l'exécution des décisions en matière
-civile et commerciale, faite à Lugano le 30 octobre 2007, sont présentées au
-greffier en chef du tribunal de grande instance.
+étrangers, en application de la convention concernant la compétence judiciaire,
+la reconnaissance et l'exécution des décisions en matière civile et commerciale,
+faite à Lugano le 30 octobre 2007, sont présentées au greffier en chef du
+tribunal de grande instance.
 
 Les requêtes aux fins de reconnaissance ou de constatation de la force
 exécutoire, sur le territoire de la République, des titres exécutoires
