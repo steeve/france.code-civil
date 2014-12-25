@@ -3,15 +3,15 @@ Article D314-101
 Le ministre chargé de l'éducation nomme les membres du conseil d'orientation et
 de perfectionnement et son président.
 
-Le directeur général du Centre national de documentation pédagogique est membre
-de droit du conseil d'orientation et de perfectionnement.
+Le directeur général du Réseau Canopé est membre de droit du conseil
+d'orientation et de perfectionnement.
 
 Ce conseil comprend un nombre égal de représentants des pouvoirs publics, de
 représentants du système éducatif et de représentants des professionnels de
 l'information et de la communication :
 
 1° Vingt et un représentants des pouvoirs publics, dont le directeur général du
-Centre national de documentation pédagogique ;
+Réseau Canopé ;
 
 2° Vingt et un représentants du système éducatif choisis au sein des
 organisations syndicales représentatives des personnels des corps enseignants,

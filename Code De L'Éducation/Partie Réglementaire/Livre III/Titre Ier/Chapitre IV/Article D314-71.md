@@ -1,20 +1,25 @@
 Article D314-71
 ----
-Le Centre national de documentation pédagogique exerce auprès des établissements
-d'enseignement et des communautés universitaires et éducatives une mission
-d'édition, de production et de développement des ressources éducatives, dans
-tous les domaines de l'éducation. Il est chargé d'en favoriser l'usage, en
-France et à l'étranger.
+Le Réseau Canopé exerce une mission d'édition, de production, de développement
+et de mise à disposition de ressources et de services éducatifs à destination
+des enseignants, des communautés éducatives et universitaires, des écoles et des
+établissements d'enseignement scolaire.
 
-Il contribue au développement et à la promotion des technologies de
-l'information et de la communication en matière éducative ainsi que de
-l'éducation artistique et de l'action culturelle.
+Dans le cadre de ses attributions, il participe à la mise en œuvre de la
+politique éducative et à son déploiement au niveau académique. A ce titre, il
+accompagne les pratiques pédagogiques au service de la réussite de tous les
+élèves, valorise les actions et dispositifs innovants et contribue à la mise en
+œuvre du service public du numérique éducatif.
 
-Il participe à l'animation des centres de documentation et d'information
-institués au sein des établissements d'enseignement et à la formation des
-enseignants ainsi que des intervenants artistiques à l'utilisation des
-ressources éducatives.
+Il contribue, dans le domaine de l'usage des ressources éducatives, à la
+formation initiale et continue des personnels enseignants et d'éducation et des
+personnels d'encadrement et à l'accompagnement de tous les membres de la
+communauté éducative, notamment en complément des missions académiques de
+formation et des écoles supérieures du professorat et de l'éducation.
 
-Le centre national coordonne l'activité des centres régionaux de documentation
-pédagogique, avec lesquels il constitue un réseau national, dans les conditions
-définies aux articles D. 314-124 à D. 314-127.
+Il contribue à la mise en œuvre de la politique d'éducation artistique et
+culturelle ainsi qu'à l'éducation à la citoyenneté en s'appuyant sur le centre
+de liaison de l'enseignement et des médias d'information.
+
+Il participe à l'animation des espaces documentaires et à l'accompagnement des
+politiques documentaires des écoles et des établissements d'enseignement.

@@ -10,8 +10,7 @@ civile. Il est ordonnateur des dépenses et des recettes de l'établissement.
 Le directeur du centre de documentation pédagogique de Nouvelle-Calédonie est
 nommé, pour une durée de trois ans renouvelable, après avis du ministre chargé
 de l'outre-mer, par le ministre chargé de l'éducation sur une liste de trois
-noms proposée par le directeur général du Centre national de documentation
-pédagogique après avis du vice-recteur, conformément aux dispositions des
-articles 1er à 3 du décret n° 92-1090 du 2 octobre 1992 fixant les conditions de
-nomination et d'avancement dans l'emploi de directeur de centre régional de
-documentation pédagogique.
+noms proposée par le directeur général du Réseau Canopé après avis du
+vice-recteur, conformément aux dispositions des articles 1er à 3 du décret n°
+92-1090 du 2 octobre 1992 fixant les conditions de nomination et d'avancement
+dans l'emploi de directeur de centre régional de documentation pédagogique.

@@ -1,7 +1,6 @@
 Article D314-86
 ----
-Les ressources du Centre national de documentation pédagogique comprennent
-notamment :
+Les ressources du Réseau Canopé comprennent notamment :
 
 1° Les subventions et fonds de concours ;
 

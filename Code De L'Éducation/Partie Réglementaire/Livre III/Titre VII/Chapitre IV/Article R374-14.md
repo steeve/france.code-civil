@@ -22,9 +22,9 @@ technique, ainsi que les produits et services documentaires qui leur sont
 nécessaires.
 
 En matière d'édition, il apporte sa contribution à l'édition nationale écrite,
-audiovisuelle ou informatique, selon les modalités définies par le Centre
-national de documentation pédagogique ; en outre, il édite sur tout support des
-documents correspondant aux objectifs académiques définis par le vice-recteur.
+audiovisuelle ou informatique, selon les modalités définies par le Réseau Canopé
+; en outre, il édite sur tout support des documents correspondant aux objectifs
+académiques définis par le vice-recteur.
 
 En matière d'ingénierie éducative, il tient informés les usagers et les
 enseignants, notamment ceux qui sont en cours de formation dans les instituts

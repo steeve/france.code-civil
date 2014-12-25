@@ -1,41 +1,25 @@
 Article D314-93
 ----
-Le conseil d'orientation comprend treize membres ainsi répartis :
+Il est créé au sein de chaque académie un comité académique Canopé, présidé par
+le recteur, qui se réunit au moins deux fois par an.
 
-1° Dix membres de droit :
+Dans le cadre du projet académique défini par le recteur, notamment dans les
+domaines de l'innovation pédagogique, du numérique éducatif, de la formation des
+enseignants, de la politique documentaire et de l'éducation artistique et
+culturelle, le comité académique Canopé identifie les axes d'accompagnement et
+de valorisation des pratiques pédagogiques des enseignants qui seront développés
+conjointement avec le Réseau Canopé.
 
-a) Le directeur chargé de l'enseignement supérieur ;
+Chaque comité est constitué de dix membres au plus nommés par le recteur. Un
+représentant du Réseau Canopé, désigné par le directeur général, participe au
+comité. Il peut être accompagné par toute personne appartenant à la direction
+territoriale compétente.
 
-b) Le directeur chargé de la technologie ;
-
-c) Le directeur chargé de la recherche ;
-
-d) Le directeur général du Centre national de documentation pédagogique ;
-
-e) Le recteur d'académie, directeur général du Centre national d'enseignement à
-distance ;
-
-f) Le premier vice-président de la conférence des présidents d'universités ;
-
-g) Le premier vice-président de la conférence des directeurs des écoles
-françaises d'ingénieurs ;
-
-h) Le directeur de l'Institut national de recherche pédagogique ;
-
-i) L'administrateur général du Conservatoire national des arts et métiers ;
-
-j) Le président de la conférence des directeurs d'instituts universitaires de
-formation des maîtres.
-
-Chaque membre de droit peut être remplacé par un représentant qu'il désigne ;
-
-2° Trois personnalités qualifiées nommées pour une durée de trois ans
-renouvelable par le ministre chargé de l'enseignement supérieur en raison de
-leurs compétences dans les domaines d'activités du centre.
-
-En cas de vacance de siège pour quelque cause que ce soit survenant plus de
-trois mois avant l'expiration du mandat, un remplaçant est désigné dans les
-mêmes conditions pour la durée du mandat restant à courir.
-
-Le président du conseil d'orientation est choisi parmi ses membres par le
-ministre chargé de l'enseignement supérieur pour une durée de trois ans.
+Une convention triennale précisant les actions et les services d'accompagnement
+de la politique académique par la direction territoriale du Réseau Canopé est
+conclue entre l'académie et le Réseau Canopé. L'exécution de cette convention
+est évaluée et, le cas échéant, révisée annuellement par le comité. Un rapport
+d'activité territorial annuel est présenté au comité académique Canopé par le
+directeur territorial du Réseau Canopé compétent. L'ensemble des conventions et
+rapports d'activité est annexé au rapport d'activité annuel du Réseau Canopé
+voté par le conseil d'administration.

@@ -1,7 +1,7 @@
 Article D314-82
 ----
-Le directeur général du Centre national de documentation pédagogique assure la
-direction de l'établissement. A ce titre :
+Le directeur général du Réseau Canopé assure la direction de l'établissement. A
+ce titre :
 
 1° Il conduit la politique générale de l'établissement dans le cadre des
 orientations définies par le conseil d'administration ;
@@ -23,8 +23,8 @@ l'article D. 314-76 ;
 7° Il peut créer des commissions ou comités consultatifs dont il fixe la
 composition et les missions.
 
-Le directeur général est assisté de deux directeurs adjoints. Dans la gestion
-administrative et financière de l'établissement, il est assisté d'un secrétaire
-général.
+Le directeur général est assisté de deux directeurs adjoints et des directeurs
+territoriaux. Dans la gestion administrative et financière de l'établissement,
+il est assisté d'un secrétaire général.
 
 Il peut déléguer sa signature aux agents de l'établissement.

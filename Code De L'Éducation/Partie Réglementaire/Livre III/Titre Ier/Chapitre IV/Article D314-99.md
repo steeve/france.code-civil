@@ -7,4 +7,4 @@ actions de formation, l'utilisation pluraliste des moyens d'information dans
 l'enseignement afin de favoriser une meilleure compréhension par les élèves du
 monde qui les entoure tout en développant leur sens critique.
 
-Ce centre constitue un service du Centre national de documentation pédagogique.
+Ce centre constitue un service du Réseau Canopé.
