@@ -43,7 +43,7 @@ Au titre II
 R. 222-1
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des
-articles 15,18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la
+articles 15, 18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la
 programmation militaire pour les années 2014 à 2019 et portant diverses
 dispositions concernant la défense et la sécurité nationale
 
@@ -77,11 +77,21 @@ Conseil d'Etat et décrets simples)
 
 Au titre IV
 
-R. 242-1 à R. 242-3
+R. 241-1 et R. 241-2
+
+Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès
+administratif aux données de connexion
+
+R. 242-2
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
 et V de la partie réglementaire du code de la sécurité intérieure (Décrets en
 Conseil d'Etat et décrets simples)
+
+R. 246-1 à R. 246-9
+
+Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès
+administratif aux données de connexion
 
 
 Au titre V
