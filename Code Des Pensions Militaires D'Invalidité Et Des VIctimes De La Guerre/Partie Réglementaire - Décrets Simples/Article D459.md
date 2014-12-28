@@ -27,7 +27,14 @@ consenties ;
 l'alinéa 6° ci-dessus (location et entretien des bâtiments et du mobilier,
 chauffage, éclairage, téléphone, impressions, fournitures de bureau, etc.) ;
 
-8° Les autres dépenses d'un caractère annuel et permanent.
+8° Les dépenses représentatives des allocations, aides et prêts prévus par les
+dispositions législatives et réglementaires concernant les rapatriés et leurs
+familles, notamment au titre de leur accueil, de leur reclassement professionnel
+et social, de leur réinstallation, de leur désendettement et de la contribution
+nationale en faveur des Français rapatriés. La liste de ces allocations, aides
+et prêts est précisée à l'article A. 234-1 du présent code ;
+
+9° Les autres dépenses d'un caractère annuel et permanent.
 
 Il peut être ouvert au budget un crédit pour dépenses imprévues. Les dépenses
 imputables sur ce crédit sont engagées par le directeur général, sans
