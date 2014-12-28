@@ -17,6 +17,26 @@ L. 6143-7 sont exécutoires de plein droit dès réception par le directeur gén
 de l'agence régionale de santé, à l'exception des décisions mentionnées aux 1°
 et 5° du même article ;
 
+2° bis L'état des prévisions de recettes et de dépenses, à l'exclusion des
+annexes, ainsi que le plan global de financement pluriannuel, mentionnés au 5°
+de l'article L. 6143-7, sont réputés approuvés si le directeur général de
+l'agence régionale de santé n'a pas fait connaître son opposition dans des
+délais et pour des motifs déterminés par décret.
+
+Pour les établissements de santé soumis à un plan de redressement en application
+de l'article L. 6143-3, l'état des prévisions de recettes et de dépenses et ses
+annexes ainsi que le plan global de financement pluriannuel, mentionnés au 5° de
+l'article L. 6143-7, sont soumis à l'approbation expresse du directeur général
+de l'agence régionale de santé.
+
+Dans le cas prévu au deuxième alinéa du présent 2° bis, l'état des prévisions de
+recettes et de dépenses ne peut être approuvé par le directeur général de
+l'agence régionale de santé si l'évolution des effectifs est manifestement
+incompatible avec l'évolution de l'activité de l'établissement de santé.
+
+Les modalités d'application des deuxième et troisième alinéas du présent 2° bis
+sont fixées par décret ;
+
 3° Les décisions du directeur de l'Assistance publique-hôpitaux de Paris
 relatives au programme d'investissement et au plan global de financement
 pluriannuel mentionnées aux 4° et 5° de l'article L. 6143-7 sont réputées
@@ -29,28 +49,22 @@ l'établissement.
 
 Lorsque l'état des prévisions de recettes et de dépenses de l'Assistance
 publique-hôpitaux de Paris est présenté en déséquilibre, le directeur général de
-l'agence régionale de santé peut l'approuver dans les conditions fixées au
-septième alinéa du présent article, après avis conforme des ministres chargés de
-la santé, de la sécurité sociale et du budget.
+l'agence régionale de santé peut l'approuver dans les conditions fixées au 2°
+bis du présent article, après avis conforme des ministres chargés de la santé,
+de la sécurité sociale et du budget.
 
 Le contrat mentionné au 1° de l'article L. 6143-7 est exécutoire dès sa
 signature par l'ensemble des parties.
-
-L'état des prévisions de recettes et de dépenses, à l'exclusion des annexes,
-ainsi que le plan global de financement pluriannuel, mentionnés au 5° de
-l'article L. 6143-7 sont réputés approuvés si le directeur général de l'agence
-régionale de santé n'a pas fait connaître son opposition dans des délais et pour
-des motifs déterminés par décret.
 
 Le tribunal interrégional de la tarification sanitaire et sociale, mentionné à
 l'article L. 351-1 du code de l'action sociale et des familles, est compétent en
 premier ressort pour statuer en matière contentieuse sur les recours formés
 contre l'opposition du directeur général de l'agence régionale de santé faite à
 l'approbation de l'état des prévisions de recettes et de dépenses ou de ses
-modifications en application de l'alinéa précédent. Il est également compétent
-pour connaître des décisions du directeur général de l'agence régionale de santé
-prises en application des articles L. 6145-1, L. 6145-2, L. 6145-3, L. 6145-4 et
-L. 6145-5.
+modifications en application du 2° bis du présent article. Il est également
+compétent pour connaître des décisions du directeur général de l'agence
+régionale de santé prises en application des articles L. 6145-1, L. 6145-2, L.
+6145-3, L. 6145-4 et L. 6145-5.
 
 Le directeur général de l'agence régionale de santé défère au tribunal
 administratif les délibérations et les décisions portant sur ces matières, à
