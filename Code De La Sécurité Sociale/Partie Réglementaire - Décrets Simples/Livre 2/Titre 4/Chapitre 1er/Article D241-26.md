@@ -1,14 +1,13 @@
 Article D241-26
 ----
-Pour l'application des articles D. 241-7 et D. 241-24, l'effectif de
-l'entreprise est apprécié au 31 décembre, tous établissements confondus, en
-fonction de la moyenne, au cours de l'année civile, des effectifs déterminés
-chaque mois conformément aux dispositions des articles L. 1111-2, L. 1111-3 et
-L. 1251-54 du code du travail.
+Pour l'application de l'article D. 241-24, l'effectif de l'entreprise est
+apprécié au 31 décembre, tous établissements confondus, en fonction de la
+moyenne, au cours de l'année civile, des effectifs déterminés chaque mois
+conformément aux dispositions des articles L. 1111-2, L. 1111-3 et L. 1251-54 du
+code du travail.
 
-Cet effectif détermine, selon le cas, la formule de calcul du coefficient de la
-réduction visée à l'article D. 241-7 et le montant de la déduction forfaitaire
-visée à l'article D. 241-24 applicables au titre des gains et rémunérations
+Cet effectif détermine, selon le cas, le montant de la déduction forfaitaire
+visée à l'article D. 241-24 applicable au titre des gains et rémunérations
 versés à compter du 1er janvier de l'année suivante et pour la durée de
 celle-ci.
 
