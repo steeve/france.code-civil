@@ -29,9 +29,11 @@ premier alinéa de l'article 1693 ter A du même code.
 
 III. - Par dérogation aux dispositions du I, les assujettis placés sous le
 régime d'acomptes prévu au 3 de l'article 287 du code général des impôts peuvent
-demander un remboursement trimestriel du crédit constitué par la taxe déductible
-ayant grevé l'acquisition de biens constituant des immobilisations lorsque son
-montant est au moins égal à 760 €.
+demander, lors du dépôt du relevé mentionné au dernier alinéa de l'article 242
+sexies relatif à l'acompte de juillet ou d'un relevé mentionné au 3 de l'article
+242 septies A, un remboursement du crédit constitué par la taxe déductible ayant
+grevé l'acquisition de biens constituant des immobilisations lorsque son montant
+est au moins égal à 760 €.
 
 Les remboursements s'effectuent dans les conditions prévues à l'article 242
 septies J.
