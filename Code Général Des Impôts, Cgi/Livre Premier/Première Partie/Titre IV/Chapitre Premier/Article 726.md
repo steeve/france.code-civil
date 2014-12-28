@@ -69,15 +69,6 @@ II. Le droit d'enregistrement prévu au I est assis sur le prix exprimé et le
 capital des charges qui peuvent ajouter au prix ou sur une estimation des
 parties si la valeur réelle est supérieure au prix augmenté des charges.
 
-S'agissant des titres visés au 2° du I, à l'exception des titres de sociétés
-civiles de placement immobilier offerts au public, l'assiette du droit
-d'enregistrement comprend, à concurrence de la fraction des titres cédés, la
-valeur réelle des biens et droits immobiliers détenus, directement ou
-indirectement, au travers d'autres personnes morales à prépondérance
-immobilière, après déduction du seul passif afférent à l'acquisition desdits
-biens et droits immobiliers, ainsi que la valeur réelle des autres éléments
-d'actifs bruts.
-
 Toutefois, ce droit n'est pas applicable aux acquisitions de droits sociaux
 effectuées par une société créée en vue de racheter une autre société dans les
 conditions prévues aux articles 220 quater ou 220 quater A. Lorsque le rachat a
@@ -105,9 +96,9 @@ sauvegarde ou en redressement judiciaire ;
 c) aux acquisitions de droits sociaux entre sociétés membres du même groupe, au
 sens de l'article L. 233-3 du code de commerce, au moment de l'acquisition de
 droits concernée, aux acquisitions de droits entre sociétés du même groupe, au
-sens de l'article 223 A du présent code, et aux acquisitions intervenant dans
-les conditions prévues aux articles 210 A, 210 B, 220 quater, 220 quater A et
-220 quater B ;
+sens de l'article 223 A ou de l'article 223 A bis du présent code, et aux
+acquisitions intervenant dans les conditions prévues aux articles 210 A, 210 B,
+220 quater, 220 quater A et 220 quater B ;
 
 d) aux opérations taxées au titre de l'article 235 ter ZD.
 
