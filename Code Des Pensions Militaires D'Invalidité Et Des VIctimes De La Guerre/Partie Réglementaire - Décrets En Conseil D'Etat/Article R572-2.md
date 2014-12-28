@@ -57,8 +57,9 @@ crimes ;
 3° Les actes de décès ou de disparition liés à la déportation ;
 
 4° La mise en œuvre de l'entretien, de la garde et de la rénovation des
-cimetières nationaux et des carrés spéciaux des cimetières communaux désignés à
-l'article L. 505 du présent code ;
+cimetières nationaux, des carrés spéciaux des cimetières communaux désignés à
+l'article L. 505 du présent code et des hauts lieux de la mémoire nationale du
+ministère de la défense relevant d'un arrêté du ministre de la défense ;
 
 5° Les décisions de transfert et de restitution de corps en coordination avec la
 politique gouvernementale en matière de sépultures de guerre ;
