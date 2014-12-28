@@ -16,12 +16,12 @@ délivrée pour l'installation d'une officine par voie de transfert dans cette
 commune.
 
 Dans les communes qui sont dépourvues d'officine ou dans les zones franches
-urbaines, les zones urbaines sensibles et les zones de redynamisation urbaine
-mentionnées dans la loi n° 96-987 du 14 novembre 1996 relative à la mise en
-oeuvre du pacte de relance pour la ville ainsi que dans les zones de
-revitalisation rurale définies par l'article 1465 A du code général des impôts,
-l'ouverture d'une officine peut être autorisée par voie de création si les
-conditions prévues au premier, deuxième ou troisième alinéa sont remplies depuis
-au moins deux ans à compter de la publication d'un recensement mentionné à
-l'article L. 5125-10 et si aucune décision autorisant cette ouverture par voie
+urbaines - territoires entrepreneurs, les zones urbaines sensibles et les zones
+de redynamisation urbaine mentionnées dans la loi n° 96-987 du 14 novembre 1996
+relative à la mise en oeuvre du pacte de relance pour la ville ainsi que dans
+les zones de revitalisation rurale définies par l'article 1465 A du code général
+des impôts, l'ouverture d'une officine peut être autorisée par voie de création
+si les conditions prévues au premier, deuxième ou troisième alinéa sont remplies
+depuis au moins deux ans à compter de la publication d'un recensement mentionné
+à l'article L. 5125-10 et si aucune décision autorisant cette ouverture par voie
 de transfert ou regroupement n'a été prise dans ce délai.

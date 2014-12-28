@@ -9,9 +9,10 @@ communes éligibles.
 Pour la détermination de la dotation revenant aux communes éligibles,
 s'appliquent au produit défini au premier alinéa deux coefficients
 multiplicateurs supplémentaires, l'un égal à un, augmenté du rapport entre le
-double de la population des zones urbaines sensibles et la population totale de
-la commune, et l'autre égal à un, augmenté du rapport entre la population des
-zones franches urbaines et la population totale de la commune.
+double de la population des quartiers prioritaires de la politique de la ville
+et la population totale de la commune, et l'autre égal à un, augmenté du rapport
+entre la population des zones franches urbaines - territoires entrepreneurs et
+la population totale de la commune.
 
 L'accroissement de la dotation de chaque commune ne peut excéder 4 millions
 d'euros par an. A compter de 2009, les communes éligibles au titre de l'article
