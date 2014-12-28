@@ -66,3 +66,8 @@ pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration
 provisoire de cotisation foncière des entreprises mentionnées à l'article 1477.
 
 VII.-(Abrogé)
+
+VIII. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du
+règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application
+des articles 107 et 108 du traité.

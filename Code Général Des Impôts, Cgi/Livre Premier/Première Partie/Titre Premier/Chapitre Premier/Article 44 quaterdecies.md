@@ -14,7 +14,11 @@ correspond à l'une des activités suivantes : comptabilité, conseil aux
 entreprises, ingénierie ou études techniques à destination des entreprises ;
 
 3° Elles sont soumises soit à un régime réel d'imposition, soit à l'un des
-régimes définis aux articles 50-0 et 102 ter.
+régimes définis aux articles 50-0 et 102 ter ;
+
+4° Elles ne sont pas en difficulté, au sens du règlement (UE) n° 651/2014 de la
+Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles
+avec le marché intérieur en application des articles 107 et 108 du traité.
 
 Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque exercice
 au titre duquel l'abattement prévu au premier alinéa est pratiqué. La condition
@@ -171,3 +175,6 @@ elle bénéficiait, du régime prévu au présent article pour la période resta
 courir jusqu'à son terme et selon les modalités qui la régissent.
 
 VIII.-Les obligations déclaratives des entreprises sont fixées par décret.
+
+IX. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du
+règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité.
