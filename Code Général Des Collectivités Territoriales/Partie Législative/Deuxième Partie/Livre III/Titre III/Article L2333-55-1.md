@@ -27,12 +27,12 @@ le casino est fixée par voie réglementaire. Elle ne peut excéder 5 % d'une
 assiette constituée, selon le type de jeu, par les mises des joueurs, leurs
 gains, ou les sommes engagées par eux pour participer au jeu ;
 
-4° Pour les jeux pratiqués avec des appareils définis à l'article 2 de la loi n°
-83-628 du 12 juillet 1983 relative aux jeux de hasard, qui procurent un gain en
-numéraire, dits "machines à sous”, par le produit d'un coefficient de 85 %
-appliqué au montant de la comptée afférente à l'appareil, diminué des avances
-faites, des tickets émis par la machine, des gains payés par la caisse spéciale
-et du montant des gains non réclamés ;
+4° Pour les jeux pratiqués avec des appareils définis à l'article L. 324-2 du
+code de la sécurité intérieure, qui procurent un gain en numéraire, dits
+"machines à sous ” , par le produit d'un coefficient de 85 % appliqué au montant
+de la comptée afférente à l'appareil, diminué des avances faites, des tickets
+émis par la machine, des gains payés par la caisse spéciale et du montant des
+gains non réclamés ;
 
 5° Pour les appareils connectés entre eux, dans le cadre d'un jackpot progressif
 mis en place entre plusieurs établissements, le produit brut des jeux est
@@ -58,3 +58,8 @@ clôture de l'exercice.
 
 Dans le cas où la différence mentionnée aux 1° et 2° est négative, la perte
 subie vient en déduction des bénéfices des jours suivants.
+
+Pour le calcul du prélèvement mentionné à l'article L. 2333-56, il est appliqué
+à la somme des éléments constitutifs du produit brut des jeux résultant de
+l'exploitation des formes non électroniques des jeux de contrepartie et des jeux
+de cercle mentionnés aux 1° à 3° du présent article un coefficient de 93,5 %.

@@ -2,8 +2,9 @@ Article L2333-55-2
 ----
 Les prélèvements opérés au profit de l'Etat, des communes, des établissements
 publics de coopération intercommunale et des organismes sociaux et spécifiques
-aux jeux des casinos exploités en application de la loi du 15 juin 1907 précitée
-sont liquidés et payés mensuellement auprès d'un comptable public.
+aux jeux des casinos exploités en application des articlesL. 321-1 et suivants
+du code de la sécurité intérieure sont liquidés et payés mensuellement auprès
+d'un comptable public.
 
 Les prélèvements sont soldés par saison des jeux qui court du 1er novembre au 31
 octobre de l'année suivante. Aucune compensation n'est admise entre le montant

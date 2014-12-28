@@ -26,10 +26,10 @@ pour 2010 perçus ou supportés par le groupement et ses communes membres l'ann�
 précédente ;
 
 4° La somme des produits perçus par le groupement et ses communes membres au
-titre du prélèvement sur le produit des jeux prévu aux articles L. 2333-54 à L.
-2333-56 du présent code, de la surtaxe sur les eaux minérales prévue à l'article
-1582 du code général des impôts et de la redevance communale des mines prévue à
-l'article 1519 du même code ;
+titre des prélèvements sur le produit brut des jeux mentionnés aux articles L.
+2333-54 à L. 2333-56 du présent code, de la surtaxe sur les eaux minérales
+prévue à l'article 1582 du code général des impôts et de la redevance communale
+des mines prévue à l'article 1519 du même code ;
 
 5° Les montants perçus l'année précédente par les communes appartenant au
 groupement au titre de leur part de la dotation forfaitaire définie au 3° du I
