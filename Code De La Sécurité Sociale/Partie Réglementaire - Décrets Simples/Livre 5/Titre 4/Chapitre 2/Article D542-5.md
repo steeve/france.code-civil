@@ -12,12 +12,12 @@ cas où le logement occupé est une chambre, de la composition familiale.
 La participation personnelle est la somme d'une participation minimale et du
 résultat de l'application d'un taux de participation aux ressources du
 bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un
-montant fixé forfaitairement. Ce forfait est calculé par référence, d'une part,
-au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
-sociale et des familles et, d'autre part, aux bases de calcul mentionnées à
-l'article L. 551-1 du présent code, selon des pourcentages fixés par arrêté
-conjoint des ministres chargés du logement, du budget, de la sécurité sociale et
-de l'agriculture.
+montant fixé forfaitairement. Ce forfait R0, fixé par arrêté conjoint des
+ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture, est revalorisé au 1er janvier de chaque année, conformément à
+l'évolution en moyenne annuelle de l'indice des prix à la consommation des
+ménages hors tabac, constatée pour l'avant-dernière année précédant cette
+revalorisation. Il est arrondi à l'euro inférieur.
 
 Dans le cas du calcul de l'allocation de logement des colocataires, le loyer
 principal retenu représente le quotient du loyer effectivement payé par le
@@ -55,7 +55,7 @@ intervalle de ressources de 100 euros, par la formule :
 
 R
 
-K = 0, 9-21 420, 91 x N
+K = 0,9-21 420,91 x N
 
 dans laquelle :
 
@@ -85,33 +85,33 @@ de ressources de 100 Euros. Il est obtenu par l'application, à la limite
 supérieure de l'intervalle dans lequel se situent les ressources du foyer, de
 pourcentages fixés comme suit :
 
-0 % pour la tranche de ressources inférieure ou égale à 1 423, 03 euros ;
+0 % pour la tranche de ressources inférieure ou égale à 1 423,03 euros ;
 
-2, 4 % pour la tranche de ressources comprise entre 1 423, 03 euros et 2 047, 61
+2,4 % pour la tranche de ressources comprise entre 1 423,03 euros et 2 047,61
 euros ;
 
-20, 8 % pour la tranche de ressources comprise entre 2 047, 61 euros et 2 629,
-85 euros ;
+20,8 % pour la tranche de ressources comprise entre 2 047,61 euros et 2 629,85
+euros ;
 
-23, 2 % pour la tranche de ressources comprise entre 2 629, 85 euros et 4 095,
-05 euros ;
+23,2 % pour la tranche de ressources comprise entre 2 629,85 euros et 4 095,05
+euros ;
 
-32, 8 % pour la tranche de ressources supérieure à 4 095, 05 euros.
+32,8 % pour la tranche de ressources supérieure à 4 095,05 euros.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées
 des coefficients (ou nombre de parts) ci-après :
 
-1, 5 pour un ménage sans enfant ;
+1,5 pour un ménage sans enfant ;
 
-2, 5 pour un ménage ou une personne avec un enfant ou personne à charge ;
+2,5 pour un ménage ou une personne avec un enfant ou personne à charge ;
 
 3 pour un ménage ou une personne avec deux enfants ou personnes à charge ;
 
-3, 7 pour un ménage ou une personne avec trois enfants ou personnes à charge ;
+3,7 pour un ménage ou une personne avec trois enfants ou personnes à charge ;
 
-4, 3 pour un ménage ou une personne avec quatre enfants ou personnes à charge.
+4,3 pour un ménage ou une personne avec quatre enfants ou personnes à charge.
 
-Ce dernier coefficient est majoré de 0, 5 par enfant ou par personne à charge
+Ce dernier coefficient est majoré de 0,5 par enfant ou par personne à charge
 supplémentaire.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 76, 32 euros.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 76,32 euros.
