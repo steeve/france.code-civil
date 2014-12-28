@@ -1,14 +1,13 @@
 Article 44 septies
 ----
-I.-Les sociétés créées pour reprendre une entreprise industrielle en difficulté
-qui fait l'objet d'une cession ordonnée par le tribunal en application de
-l'article L. 626-1, de l'article L. 631-22 ou des articles L. 642-1 et suivants
-du code de commerce bénéficient d'une exonération d'impôt sur les sociétés à
-raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de
-la réévaluation des éléments d'actif immobilisé, jusqu'au terme du
-vingt-troisième mois suivant celui de leur création et déclarés selon les
-modalités prévues à l'article 53 A. Le montant de cette exonération est
-déterminé dans les conditions prévues par les dispositions des II à IX.
+I.-Les sociétés créées entre le 1er juillet 2007 et le 31 décembre 2020 pour
+reprendre une entreprise industrielle en difficulté qui fait l'objet d'une
+cession ordonnée par le tribunal en application de l'article L. 626-1, de
+l'article L. 631-22 ou des articles L. 642-1 et suivants du code de commerce
+bénéficient d'une exonération d'impôt sur les sociétés à raison des bénéfices
+réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des
+éléments d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant
+celui de leur création et déclarés selon les modalités prévues à l'article 53 A.
 
 Cette exonération peut être également accordée lorsque les procédures de
 sauvegarde ou de redressement judiciaire ne sont pas mises en oeuvre, ou lorsque
@@ -18,10 +17,11 @@ reprise est indépendante juridiquement et économiquement de l'entreprise
 cédante.
 
 N'ouvrent pas droit au bénéfice de l'exonération les activités exercées dans
-l'un des secteurs suivants : transports, construction de véhicules automobiles,
-construction de navires civils, fabrication de fibres artificielles ou
-synthétiques, sidérurgie, industrie charbonnière, production ou transformation
-de produits agricoles, pêche, aquaculture.
+l'un des secteurs suivants : transports et infrastructures correspondantes,
+construction navale, fabrication de fibres synthétiques, sidérurgie, charbon,
+production et distribution d'énergie, infrastructures énergétiques, production
+agricole primaire, transformation et commercialisation de produits agricoles,
+pêche et aquaculture.
 
 Le capital de la société créée ne doit pas être détenu directement ou
 indirectement par les personnes qui ont été associées ou exploitantes ou qui ont
@@ -42,19 +42,37 @@ c. A une société dans laquelle cette personne exerce en droit ou en fait la
 fonction de gérant ou de président, directeur général, président du conseil de
 surveillance ou membre du directoire.
 
-II.-1. Sur agrément du ministre chargé du budget, le bénéfice exonéré en
-application du I est plafonné, pour les entreprises créées dans les zones
-éligibles à la prime d'aménagement du territoire classées pour les projets
-industriels, à 28 % du montant des coûts éligibles définis au 2. Ce plafond est
-porté à 42 % des coûts éligibles pour les entreprises créées dans les zones
-éligibles à la prime d'aménagement du territoire classées pour les projets
-industriels à taux normal, et à 56 % des coûts éligibles pour les entreprises
-créées dans les zones éligibles à la prime d'aménagement du territoire classées
-pour les projets industriels à taux majoré. Ces zones sont définies par décret.
+II.-1. Sur agrément du ministre chargé du budget, les bénéfices exonérés en
+application du I sont plafonnés, pour les entreprises créées dans les zones
+d'aide à finalité régionale, de manière que l'allègement d'impôt correspondant
+ne soit pas supérieur à 10 % du montant des coûts éligibles définis au 2 du
+présent II. Ce taux est majoré de dix points pour les moyennes entreprises et de
+vingt points pour les petites entreprises. Toutefois, les bénéfices exonérés
+sont plafonnés de telle sorte que l'allègement d'impôt ne soit pas supérieur à
+7,5 millions d'euros.
 
-Pour les entreprises créées dans les départements d'outre-mer, le bénéfice
-exonéré en application du I est plafonné à 182 % des coûts éligibles définis au
-2.
+Pour les entreprises créées dans les départements d'outre-mer, les bénéfices
+exonérés en application du I sont plafonnés de telle sorte que l'allègement
+d'impôt correspondant ne soit pas supérieur à 45 % du montant des coûts
+éligibles définis au 2 du présent II. Ce pourcentage est porté à 55 % pour la
+Guyane et à 70 % pour Mayotte. Ces taux sont majorés de dix points pour les
+moyennes entreprises et de vingt points pour les petites entreprises. Toutefois,
+les bénéfices exonérés sont plafonnés de telle sorte que l'allègement d'impôt ne
+soit pas supérieur à 33,75 millions d'euros en Guadeloupe, en Martinique et à La
+Réunion, à 41,25 millions d'euros en Guyane et à 52,50 millions d'euros à
+Mayotte.
+
+Lorsque le montant des coûts éligibles définis au 2 est supérieur à 50 millions
+d'euros, les taux plafonds d'aide à finalité régionale mentionnés aux deux
+premiers alinéas du présent 1 sont pondérés en fonction des différentes tranches
+d'investissement nécessaire à la reprise de l'entreprise en difficulté
+mentionnée au premier alinéa du I. La tranche comprise entre 50 et 100 millions
+d'euros est pondérée par un coefficient de 0,5. La fraction des coûts éligibles
+supérieure à 100 millions d'euros n'est pas retenue pour le calcul du plafond.
+
+Les petites et moyennes entreprises ne peuvent bénéficier de l'application des
+majorations de taux prévues aux deux premiers alinéas du présent 1 lorsque les
+coûts éligibles définis au 2 sont supérieurs à 50 millions d'euros.
 
 2. Les coûts éligibles s'entendent du coût salarial des emplois créés par
 l'entreprise. Ce coût correspond aux salaires bruts avant impôts majorés des
@@ -65,154 +83,95 @@ Sont considérés comme créés les emplois existant dans l'entreprise reprise e
 maintenus par la société nouvelle créée pour la reprise, ainsi que les emplois
 que celle-ci a créés dans ce cadre.
 
-3. Lorsque le montant des coûts éligibles définis au 2 est supérieur à 50
-millions d'euros, le bénéfice exonéré ne peut excéder un plafond déterminé en
-appliquant les taux suivants :
-
-a. 100 % du plafond défini aux premier et deuxième alinéas du 1 pour la fraction
-des coûts éligibles inférieure ou égale à 50 millions d'euros ;
-
-b. 50 % du plafond défini aux premier et deuxième alinéas du 1 pour la fraction
-supérieure à 50 millions d'euros et inférieure ou égale à 100 millions d'euros.
-
-La fraction des coûts éligibles supérieure à 100 millions d'euros n'est pas
-retenue pour le calcul du plafond.
+3. (abrogé)
 
 4. Lorsque l'activité reprise n'est pas implantée exclusivement dans une ou
-plusieurs zones éligibles à la prime d'aménagement du territoire classées pour
-les projets industriels, le bénéfice exonéré est déterminé dans les conditions
-prévues au 1, en retenant les coûts éligibles définis au 2 des seuls emplois
-créés dans cette zone.
+plusieurs zones d'aide à finalité régionale, le bénéfice exonéré est déterminé
+dans les conditions prévues au 1, en retenant les coûts éligibles définis au 2
+des seuls emplois créés dans cette zone.
 
 Lorsque l'activité est implantée dans des zones éligibles dont les taux
 d'intensité d'aide diffèrent, le bénéfice exonéré ne peut excéder la somme des
 limites calculées pour chacune des zones éligibles.
 
-5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier
-2007 et jusqu'au 31 décembre 2014 dans les zones d'aide à finalité régionale.
+5. L'exonération prévue au I et déterminée dans les conditions prévues au
+présent II bénéficie aux grandes entreprises sous réserve de la création d'une
+nouvelle activité économique dans la zone d'aide à finalité régionale concernée.
 
-Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n°
-1628/2006 de la Commission du 24 octobre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides nationales à l'investissement à finalité
-régionale.
+6. Pour l'application du présent II, sont considérées comme des petites et
+moyennes entreprises les entreprises définies à l'annexe I au règlement (UE) n°
+651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories
+d'aides compatibles avec le marché intérieur en application des articles 107 et
+108 du traité.
 
-III.-1. Le bénéfice de l'exonération est subordonné à l'agrément du ministre
-chargé du budget et au respect du règlement (CE) n° 70/2001 de la Commission du
-12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux
-aides d'Etat en faveur des petites et moyennes entreprises.
+III. - 1. Sur agrément du ministre chargé du budget, l'exonération prévue au I
+bénéficie aux entreprises créées pour reprendre une entreprise en difficulté
+mentionnées au même I qui ne sont pas situées dans une zone d'aide à finalité
+régionale lorsqu'elles satisfont à la définition des petites et moyennes
+entreprises, au sens de l'annexe I au règlement (UE) n° 651/2014 de la
+Commission, du 17 juin 2014, précité.
 
-2. Lorsque les entreprises visées au 1 sont situées en dehors des zones d'aide à
-finalité régionale, l'exonération est appliquée à leurs bénéfices réalisés dans
-la limite de 21 % du montant des coûts éligibles définis au 2 du II. Cette
-limite est portée à 43 % du montant des coûts éligibles pour les petites
-entreprises.
+2. Les bénéfices exonérés en application du 1 du présent III sont plafonnés de
+telle sorte que l'allègement d'impôt n'excède pas 10 % du montant des coûts
+éligibles définis au 2 du II et ne soit pas supérieur à 7,5 millions d'euros. Ce
+taux est porté à 20 % pour les petites entreprises.
 
-3. Pour les petites et moyennes entreprises créées à compter du 1er janvier 2007
-et jusqu'au 31 décembre 2013 dans les zones d'aide à finalité régionale, le
-bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
-1628/2006 de la Commission du 24 octobre 2006 précité.
+IV. - L'agrément prévu au 1 des II et III est accordé lorsque sont remplies les
+conditions suivantes :
 
-4. Le bénéfice exonéré des entreprises en application des 1,2 et 3 ne peut
-dépasser 42 000 000 €.
+a) La société créée pour la reprise remplit les conditions fixées au I ;
 
-Par ailleurs, lorsque les coûts éligibles sont égaux ou supérieurs à 25 000 000
-€, le bénéfice exonéré ne peut dépasser 50 % des limites déterminées en
-application des 2 et 3.
+b) La société créée répond aux conditions d'implantation et de taille requises
+aux II ou III ;
 
-IV.-Pour l'application du III, est considérée comme moyenne entreprise une
-société qui répond cumulativement aux conditions suivantes :
+c) La société prend l'engagement de conserver les emplois maintenus et créés
+dont le coût est retenu en application du 2 du II pendant une période minimale
+de cinq ans à compter de la date de reprise ou de création. Cette période est
+réduite à trois ans dans le cas des petites et moyennes entreprises, au sens de
+l'annexe I au règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014,
+précité ;
 
-a. Elle emploie moins de 250 salariés et, soit a réalisé un chiffre d'affaires
-annuel inférieur à 40 millions d'euros au cours de l'exercice, soit a un total
-de bilan inférieur à 27 millions d'euros. A compter du 1er janvier 2005, les
-seuils de chiffre d'affaires et de total du bilan sont respectivement portés à
-50 millions d'euros et 43 millions d'euros ;
+d) Le financement de l'opération de reprise est assuré à 25 % au moins par le
+bénéficiaire de l'aide.
 
-b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou
-plus par une entreprise ou par plusieurs entreprises ne répondant pas aux
-conditions du a, de manière continue au cours de l'exercice. Pour la
-détermination de ce pourcentage, les participations de sociétés de
-capital-risque, des fonds communs de placement à risques, des fonds
-professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
-financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
-2013 modifiant le cadre juridique de la gestion d'actifs, des fonds
-professionnels de capital investissement, des sociétés de développement
-régional, des sociétés financières d'innovation et des sociétés unipersonnelles
-d'investissement à risque ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces dernières sociétés ou ces fonds. Cette condition
-s'apprécie de manière continue au cours de l'exercice.
+Le non-respect de l'une de ces conditions ou de l'un de ces engagements entraîne
+le retrait de l'agrément et rend immédiatement exigible l'impôt sur les
+sociétés, selon les modalités prévues au IX.
 
-V.-Pour l'application du III, est considérée comme petite entreprise la société
-qui répond cumulativement aux conditions suivantes :
-
-a. Elle emploie moins de cinquante salariés et, soit a réalisé un chiffre
-d'affaires annuel inférieur à 7 millions d'euros au cours de l'exercice, soit a
-un total de bilan inférieur à 5 millions d'euros. A compter du 1er janvier 2005,
-les seuils de chiffre d'affaires et de total du bilan sont portés à 10 millions
-d'euros ;
-
-b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou
-plus par une entreprise ou par plusieurs entreprises ne répondant pas aux
-conditions du a, de manière continue au cours de l'exercice. Pour la
-détermination de ce pourcentage, les participations de sociétés de
-capital-risque, des fonds communs de placement à risques, des fonds
-professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et
-financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
-2013 modifiant le cadre juridique de la gestion d'actifs, des fonds
-professionnels de capital investissement, des sociétés de développement
-régional, des sociétés financières d'innovation et des sociétés unipersonnelles
-d'investissement à risque ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces dernières sociétés ou ces fonds. Cette condition
-s'apprécie de manière continue au cours de l'exercice.
+V. (abrogé)
 
 VI.-1. Lorsque les entreprises créées pour reprendre une entreprise en
 difficulté mentionnées au I sont situées dans des zones d'aide à finalité
-régionale, le bénéfice de l'exonération prévue au I est subordonné au respect de
-l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008
-déclarant certaines catégories d'aide compatibles avec le marché commun en
-application des articles 87 et 88 du traité (Règlement général d'exemption par
-catégorie).
+régionale, le bénéfice de l'exonération prévue au I et accordée sur agrément est
+subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la
+Commission, du 17 juin 2014, précité.(1)
 
-2. Lorsque les entreprises créées pour reprendre une entreprise en difficulté
-mentionnées au I ne sont pas situées dans une zone d'aide à finalité régionale
-mais satisfont à la définition des petites et moyennes entreprises qui figure à
-l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008
-précité, le bénéfice de l'exonération prévue au I est subordonné au respect de
-l'article 15 du même règlement.
+2. Le bénéfice de l'exonération prévue au III est subordonné au respect de
+l'article 17 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014,
+précité. (1)
 
 3. Lorsque les entreprises créées pour reprendre une entreprise en difficulté
 mentionnées au I ne sont pas situées dans une zone d'aide à finalité régionale
 et ne satisfont pas à la définition des petites et moyennes entreprises qui
-figure à l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août
-2008 précité, le bénéfice de l'exonération prévue au I est subordonné au respect
-du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides de minimis.
+figure à l'annexe I au règlement (UE) n° 651/2014 de la Commission, du 17 juin
+2014, précité, le bénéfice de l'exonération prévue au I est subordonné au
+respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
+relatif à l'application des articles 107 et 108 du traité sur le fonctionnement
+de l'Union européenne aux aides de minimis.(2)
+
+4. A défaut d'agrément, les entreprises situées dans des zones d'aide à finalité
+régionale ou satisfaisant à la définition des petites et moyennes entreprises,
+au sens de l'annexe I au règlement (UE) n° 651/2014 de la Commission, du 17 juin
+2014, précité, ne peuvent bénéficier de l'exonération prévue au I que dans les
+limites prévues par le règlement (UE) n° 1407/2013 de la Commission, du 18
+décembre 2013, précité. (2)
 
 VII. 2.-Lorsqu'elle répond aux conditions requises pour bénéficier des
 dispositions du régime prévu à l'article 44 octies A et du régime prévu au
 présent article, la société peut opter pour ce dernier régime dans les six mois
 suivant celui du début d'activité. Cette option est irrévocable.
 
-VIII.-L'agrément prévu aux II et III est accordé lorsque sont remplies les
-conditions suivantes :
-
-a. La société créée pour la reprise remplit les conditions fixées au I ;
-
-b. La société créée répond aux conditions d'implantation et de taille requises
-au II ou au III ;
-
-c. La société prend l'engagement de conserver les emplois maintenus et créés
-dont le coût est retenu en application du 2 du II pendant une période minimale
-de cinq ans à compter de la date de reprise ou création ;
-
-d. Le financement de l'opération de reprise est assuré à 25 % au moins par le
-bénéficiaire de l'aide.
-
-Le non-respect de l'une de ces conditions ou de l'un de ces engagements entraîne
-le retrait de l'agrément visé et rend immédiatement exigible l'impôt sur les
-sociétés selon les modalités prévues au IX.
+VIII.(abrogé)
 
 IX.-Lorsqu'une société créée dans les conditions prévues au I interrompt, au
 cours des trois premières années d'exploitation, l'activité reprise ou est

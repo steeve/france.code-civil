@@ -7,22 +7,19 @@ la cession d'immeubles à usage industriel et commercial pris en location par un
 contrat de crédit-bail d'une durée effective d'au moins quinze ans.
 
 Ces dispositions s'appliquent aux opérations conclues entre le 1er janvier 1996
-et le 31 décembre 2014 pour la location, par un contrat de crédit-bail,
-d'immeubles situés dans les zones d'aide à finalité régionale, dans les zones de
-revitalisation rurale définies au II de l'article 1465 A et dans les zones de
-redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 du
-4 février 1995 d'orientation pour l'aménagement et le développement du
-territoire.
+et le 31 décembre 2015 pour la location, par un contrat de crédit-bail,
+d'immeubles situés dans les zones d'aide à finalité régionale et dans les zones
+de revitalisation rurale définies au II de l'article 1465 A.
 
-Pour les immeubles neufs situés dans les zones de revitalisation rurale ou dans
-les zones de redynamisation urbaine, le bénéfice de la dispense de réintégration
-est subordonné au respect de l'article 15 du règlement (CE) n° 800/2008 de la
-Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles
-avec le marché commun en application des articles 87 et 88 du traité (Règlement
-général d'exemption par catégorie). Pour les immeubles neufs situés dans les
+Pour les immeubles neufs situés dans les zones de revitalisation rurale, le
+bénéfice de la dispense de réintégration est subordonné au respect de l'article
+17 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application
+des articles 107 et 108 du traité. Pour les immeubles neufs situés dans les
 zones d'aide à finalité régionale, le bénéfice de la dispense de réintégration
-est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la
-Commission du 6 août 2008 précité. Pour les autres immeubles situés dans ces
-zones, le bénéfice de l'exonération est subordonné au respect du règlement (CE)
-n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité aux aides de minimis.
+est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la
+Commission, du 17 juin 2014, précité (1). Pour les autres immeubles situés dans
+ces zones, le bénéfice de l'exonération est subordonné au respect du règlement
+(UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application
+des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne
+aux aides de minimis(2).

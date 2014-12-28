@@ -45,7 +45,7 @@ augmenté de ces profits ou plus-values. Pour l'application de la limite prévue
 au troisième alinéa du I de l'article 209, le bénéfice imposable s'entend du
 bénéfice de la société déterminé selon les modalités prévues au présent 4.
 
-5. Dans les situations visées aux c, d, e, f ou i du 6 de l'article 223 L, et
+5. Dans les situations visées aux c, d, e, f, i ou j du 6 de l'article 223 L, et
 sous réserve, le cas échéant, de l'obtention de l'agrément prévu au 6, la
 fraction du déficit qui n'a pu être reportée au titre d'un exercice dans les
 conditions prévues à l'article 223 S peut, dans la mesure où ce déficit
@@ -92,7 +92,8 @@ agrément délivré dans les conditions prévues à l'article 1649 nonies.
 L'agrément est délivré lorsque :
 
 a) L'opération est placée sous le régime combiné de l'article 210 B et du 2 de
-l'article 115 ;
+l'article 115 ou, en cas d'apport par une entité mère non résidente, l'opération
+répond aux conditions prévues à l'article 210 B et au 2 de l'article 115 ;
 
 b) Ces opérations sont justifiées du point de vue économique et répondent à des
 motivations principales autres que fiscales ;

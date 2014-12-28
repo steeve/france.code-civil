@@ -4,8 +4,10 @@ I.-1° Les sommes versées sur le plan d'épargne en actions reçoivent un ou
 plusieurs des emplois suivants :
 
 a) Actions, à l'exclusion de celles mentionnées à l'article L. 228-11 du code de
-commerce, ou certificats d'investissement de sociétés et certificats coopératifs
-d'investissement ;
+commerce, ou certificats d'investissement de sociétés, certificats coopératifs
+d'investissement, certificats mutualistes mentionnés aux articles L. 322-26-8 du
+code des assurances et L. 221-19 du code de la mutualité et certificats
+paritaires mentionnés à l'article L. 931-15-1 du code de la sécurité sociale ;
 
 b) Parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut
 équivalent et titres de capital de sociétés régies par la loi n° 47-1775 du 10

@@ -109,4 +109,9 @@ j. Les cessions d'actifs opérées par l'association mentionnée à l'article L.
 313-34 du code de la construction et de l'habitation ou par les sociétés civiles
 immobilières dont elle détient la majorité des parts, en faveur des régimes de
 retraites complémentaires obligatoires des salariés du secteur privé par
-répartition institués par voie d'accords collectifs interprofessionnels.
+répartition institués par voie d'accords collectifs interprofessionnels ;
+
+k. Les acquisitions d'immeubles effectuées par un établissement public foncier
+dans le cadre des opérations de requalification des copropriétés dégradées
+d'intérêt national mentionnées au titre IV du livre VII du code de la
+construction et de l'habitation.

@@ -75,11 +75,8 @@ l'article L. 32 du code des postes et des communications électroniques.
 Néanmoins, lorsque les droits de distribution des services de télévision ont été
 acquis en tout ou partie contre rémunération par le fournisseur des services, le
 taux réduit de 10 % est applicable à la part de l'abonnement correspondante.
-Cette part est égale, en fonction du choix opéré par le distributeur des
-services, soit aux sommes payées, par usager, pour l'acquisition des droits
-susmentionnés, soit au prix auquel les services correspondant aux mêmes droits
-sont distribués effectivement par ce distributeur dans une offre de services de
-télévision distincte de l'accès à un réseau de communications électroniques.
+Cette part est égale aux sommes payées, par usager, pour l'acquisition des
+droits susmentionnés.
 
 b nonies. les droits d'entrée perçus pour la visite des parcs à décors animés
 qui illustrent un thème culturel et pour la pratique des activités directement

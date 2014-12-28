@@ -1,5 +1,5 @@
 Article 900 A
 ----
-En matière judiciaire et administrative, les actes de procédure, y compris les
-actes des techniciens nommés en justice, ne sont pas soumis au droit de timbre
-de dimension.
+La demande de remboursement relative à un timbre dématérialisé non consommé doit
+être présentée au plus tard six mois après l'expiration du délai de validité
+prévu à l'article 900.

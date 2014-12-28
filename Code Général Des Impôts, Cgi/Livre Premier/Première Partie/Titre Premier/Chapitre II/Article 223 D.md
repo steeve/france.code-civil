@@ -25,14 +25,15 @@ dans d'autres sociétés du groupe est ajouté à la plus-value nette à long te
 d'ensemble ou déduit de la moins-value nette à long terme d'ensemble. Le montant
 des dotations complémentaires aux provisions constituées par une société après
 son entrée dans le groupe à raison des participations détenues dans des sociétés
-intermédiaires, à l'exception de la fraction de ces dotations pour laquelle la
+intermédiaires, dans des sociétés étrangères ou dans une entité mère non
+résidente, à l'exception de la fraction de ces dotations pour laquelle la
 société mère apporte la preuve qu'elle n'est pas liée, directement ou
 indirectement, aux déficits et moins-values nettes à long terme de sociétés du
 groupe retenus pour la détermination du résultat d'ensemble et de la plus-value
 ou moins-value nette à long terme d'ensemble, est ajouté à la plus-value nette à
-long terme d'ensemble ou déduit de la moins-value nette à long terme d'ensemble
-(2). En cas de cession entre sociétés du groupe de titres éligibles au régime
-des plus ou moins-values à long terme, les dotations aux provisions pour
+long terme d'ensemble ou déduit de la moins-value nette à long terme d'ensemble.
+En cas de cession entre sociétés du groupe de titres éligibles au régime des
+plus ou moins-values à long terme, les dotations aux provisions pour
 dépréciation de ces titres effectuées postérieurement à la cession sont
 également ajoutées à la plus-value nette à long terme d'ensemble ou retranchées
 de la moins-value nette à long terme d'ensemble, à hauteur de l'excédent des
@@ -52,8 +53,9 @@ complémentaires non retenues en application du présent alinéa est déduit de 
 plus-value nette à long terme d'ensemble ou ajouté à la moins-value nette à long
 terme d'ensemble si les sociétés citées aux première et troisième phrases de cet
 alinéa ou détenues, directement ou indirectement, par les sociétés
-intermédiaires citées à la deuxième phrase du même alinéa sont membres du groupe
-(2) ou, s'agissant des provisions mentionnées aux première et deuxième phrases,
-d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e, f, g, h
-ou i (2) du 6 de l'article 223 L au titre de l'exercice au cours duquel les
+intermédiaires, par les sociétés étrangères ou par l'entité mère non résidente
+mentionnées à la deuxième phrase du même alinéa sont membres du groupe ou,
+s'agissant des provisions mentionnées aux première et deuxième phrases, d'un
+même groupe créé ou élargi dans les conditions prévues aux c, d, e, f, g, h, i
+ou j du 6 de l'article 223 L au titre de l'exercice au cours duquel les
 provisions sont rapportées.

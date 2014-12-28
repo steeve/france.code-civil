@@ -45,8 +45,11 @@ financier, ou sur un système multilatéral de négociation, au sens des article
 L. 424-1 ou L. 424-9 du même code à l'exception des intérêts versés dans les
 conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947
 portant statut de la coopération aux titres de capital de sociétés régies par
-cette loi, ne bénéficient de cette exonération que dans la limite de 10 % du
-montant de ces placements ;
+cette loi et de la rémunération des certificats mutualistes et paritaires versée
+dans les conditions prévues au V de l'article L. 322-26-8 du code des
+assurances, au IV de l'article L. 221-19 du code de la mutualité ou au IV de
+l'article L. 931-15-1 du code de la sécurité sociale, ne bénéficient de cette
+exonération que dans la limite de 10 % du montant de ces placements ;
 
 5° ter La rente viagère, lorsque le plan d'épargne en actions défini à l'article
 163 quinquies D se dénoue après huit ans par le versement d'une telle rente ;

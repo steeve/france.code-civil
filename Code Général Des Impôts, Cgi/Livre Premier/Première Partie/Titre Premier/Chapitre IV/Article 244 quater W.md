@@ -2,17 +2,20 @@ Article 244 quater W
 ----
 I. ― 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en
 application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44
-octies A et 44 decies à 44 quindecies, exerçant une activité agricole ou une
+octies A et 44 duodecies à 44 quindecies, exerçant une activité agricole ou une
 activité industrielle, commerciale ou artisanale relevant de l'article 34,
 peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs
 neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une
 activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de
-l'article 199 undecies B. Le crédit d'impôt prévu au premier alinéa du présent 1
-s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
-résidence de tourisme et de village de vacances classés lorsque ces travaux
-constituent des éléments de l'actif immobilisé.
+l'article 199 undecies B. L'investissement doit être un investissement initial,
+au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission, du 17
+juin 2014, déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité. Le crédit d'impôt
+prévu au premier alinéa s'applique également aux travaux de rénovation et de
+réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
+classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
-Le crédit d'impôt prévu au même premier alinéa s'applique également aux
+Le crédit d'impôt prévu au premier alinéa s'applique également aux
 investissements affectés plus de cinq ans par le concessionnaire à
 l'exploitation d'une concession de service public local à caractère industriel
 et commercial et réalisés dans des secteurs éligibles.
@@ -37,7 +40,7 @@ inférieure ;
 b) Le contrat de location ou de crédit-bail revêt un caractère commercial ;
 
 c) L'entreprise locataire ou crédit-preneuse aurait pu bénéficier du crédit
-d'impôt prévu au 1 du présent I si elle avait acquis directement le bien.
+d'impôt prévu au 1 si elle avait acquis directement le bien.
 
 4. Pour les entreprises soumises à l'impôt sur les sociétés dont l'activité
 principale relève de l'un des secteurs d'activité éligibles à la réduction
@@ -100,7 +103,7 @@ coûts d'acquisition et d'installation directement liés à ces équipements.
 2. Lorsque l'investissement a pour objet de remplacer un investissement ayant
 bénéficié de l'un des dispositifs définis aux articles 199 undecies B et 217
 undecies ou du crédit d'impôt défini au présent article, l'assiette du crédit
-d'impôt telle que définie au 1 du présent II est diminuée de la valeur réelle de
+d'impôt telle que définie au 1 est diminuée de la valeur réelle de
 l'investissement remplacé.
 
 3. Pour les travaux mentionnés au deuxième alinéa du 1 du I, le crédit d'impôt
@@ -168,8 +171,8 @@ déclaration de résultat de l'exercice au cours duquel l'investissement a été
 en service ou mis à disposition et est jointe à la déclaration de résultat du
 loueur ou du crédit-bailleur de ce même exercice.
 
-2. L'exercice de l'option mentionnée au 1 du présent V emporte renonciation au
-bénéfice des dispositifs définis aux articles 199 undecies B et 217 undecies.
+2. L'exercice de l'option mentionnée au 1 emporte renonciation au bénéfice des
+dispositifs définis aux articles 199 undecies B et 217 undecies.
 
 VI. ― Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
 articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
@@ -182,9 +185,10 @@ ou, pour les investissements mentionnés au 4 du I du présent article,
 d'entreprises ou d'organismes mentionnés au premier alinéa du même 4.
 
 VII. ― Lorsque le montant total par programme d'investissements est supérieur
-aux seuils mentionnés au II quater de l'article 217 undecies, le bénéfice du
-crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par
-le ministre chargé du budget dans les conditions prévues au III du même article.
+aux seuils mentionnés au II quater et au III de l'article 217 undecies, le
+bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable
+délivré par le ministre chargé du budget dans les conditions prévues au III du
+même article.
 
 VIII. ― 1. L'investissement ayant ouvert droit au crédit d'impôt doit être
 affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un
@@ -239,10 +243,10 @@ les logements, dans les conditions prévues au même 4, pour la fraction de la
 durée minimale de location restant à courir.
 
 3. Le crédit d'impôt prévu au présent article est subordonné au respect par les
-entreprises exploitantes et par les organismes mentionnés au 4 du I du présent
-article de leurs obligations fiscales et sociales et de l'obligation de dépôt de
-leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L.
-232-23 du code de commerce à la date de réalisation de l'investissement.
+entreprises exploitantes et par les organismes mentionnés au 4 du I de leurs
+obligations fiscales et sociales et de l'obligation de dépôt de leurs comptes
+annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code
+de commerce à la date de réalisation de l'investissement.
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les
 employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des
@@ -250,8 +254,13 @@ cotisations restant dues et, d'autre part, acquittent les cotisations en cours �
 leur date normale d'exigibilité.
 
 IX. ― 1. Le présent article est applicable aux investissements mis en service à
-compter du 1er juillet 2014, et jusqu'au 31 décembre 2017.
+compter du 1er janvier 2015, et jusqu'au 31 décembre 2017.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les
 obligations déclaratives incombant aux entreprises et organismes mentionnés au 4
 du I.
+
+X. - Le bénéfice du crédit d'impôt prévu au I est subordonné au respect du
+règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité et le
+crédit d'impôt ne s'applique pas aux investissements exploités par des
+entreprises en difficulté, au sens du même règlement.

@@ -34,6 +34,13 @@ et 6 de la sous-section 2, de la sous-section 3, ou de la sous-section 4 de la
 section 2 du chapitre IV du titre Ier du livre II du code monétaire et
 financier.
 
+Les stipulations de la convention d'assistance administrative mentionnée au
+premier alinéa du présent 2 et leur mise en œuvre doivent effectivement
+permettre à l'administration des impôts d'obtenir des autorités de l'Etat dans
+lequel l'organisme de placement collectif constitué sur le fondement d'un droit
+étranger mentionné au même alinéa est situé les informations nécessaires à la
+vérification du respect par cet organisme des conditions prévues aux 1° et 2°.
+
 La retenue à la source s'applique également lorsque ces produits sont payés hors
 de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A
 du présent code.

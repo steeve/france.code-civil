@@ -113,18 +113,29 @@ redevance est le taux applicable pour une ressource de catégorie 1.
 L'assiette des prélèvements destinés à l'irrigation gravitaire est fixée
 forfaitairement à 10 000 mètres cubes d'eau par hectare irrigué.
 
-Le taux de la redevance pour l'usage " alimentation en eau potable ” figurant au
-tableau ci-dessus est multiplié par deux lorsque le descriptif ou le plan
-d'actions visés à l'article L. 2224-7-1 du code général des collectivités
-territoriales n'a pas été établi dans les délais prescrits.
+Lorsque le descriptif détaillé des ouvrages de transport et de distribution
+d'eau potable prévu à l'article L. 2224-7-1 du code général des collectivités
+territoriales n'a pas été établi au 31 décembre 2014, le taux de la redevance
+pour l'usage " alimentation en eau potable " due au titre des prélèvements sur
+la ressource en eau effectués à compter de l'année 2014 est majoré de 100 %.
 
-Cette majoration prend effet à partir de l'année suivant le constat de cette
-carence jusqu'à l'année suivant laquelle :
+De même, lorsqu'un taux de perte en eau supérieur au taux fixé par le décret
+prévu au même article L. 2224-7-1 a été constaté et que le plan d'actions prévu
+audit article n'a pas été établi dans les délais prescrits, le taux de la
+redevance pour l'usage " alimentation en eau potable " due au titre des
+prélèvements sur la ressource en eau effectués à compter de l'année au cours de
+laquelle devait être établi le plan d'actions est majoré de 100 %.
 
--soit il est remédié à la non-réalisation du plan d'actions ;
+La majoration prévue aux deux alinéas précédents cesse de s'appliquer à la
+redevance due au titre des prélèvements sur la ressource en eau effectués à
+compter de l'année au cours de laquelle est satisfaite, outre la condition
+tenant à l'établissement du descriptif détaillé, l'une au moins des deux
+conditions suivantes :
 
--soit le taux de perte en eau du réseau de la collectivité s'avère inférieur au
-taux fixé par le décret prévu par le même article L. 2224-7-1.
+1° Le plan d'actions a été établi ;
+
+2° Le taux de perte en eau du réseau de la collectivité est inférieur au taux
+fixé par le décret prévu au même article L. 2224-7-1.
 
 L'agence de l'eau peut verser aux collectivités territoriales des incitations
 financières à la réduction des pertes en eau du réseau.

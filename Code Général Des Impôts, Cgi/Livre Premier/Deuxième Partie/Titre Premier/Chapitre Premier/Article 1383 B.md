@@ -2,16 +2,16 @@ Article 1383 B
 ----
 Sauf délibération contraire de la collectivité territoriale ou du groupement de
 collectivités territoriales, à compter du 1er janvier 1997, les immeubles situés
-dans les zones franches urbaines définies au B du 3 de l'article 42 modifié de
-la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire et dont la liste figure au I de l'annexe à la loi n°
-96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour
-la ville, et affectés, au 1er janvier 1997, à une activité entrant dans le champ
-d'application de la cotisation foncière des entreprises sont exonérés de taxe
-foncière sur les propriétés bâties pour une durée de cinq ans, sous réserve que
-les conditions d'exercice de l'activité prévues aux premier et quatrième à
-septième alinéas du I quater de l'article 1466 A dans sa rédaction en vigueur au
-31 décembre 2009 soient remplies.
+dans les zones franches urbaines-territoires entrepreneurs définies au B du 3 de
+l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire et dont la liste figure au I de
+l'annexe à la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du
+pacte de relance pour la ville, et affectés, au 1er janvier 1997, à une activité
+entrant dans le champ d'application de la cotisation foncière des entreprises
+sont exonérés de taxe foncière sur les propriétés bâties pour une durée de cinq
+ans, sous réserve que les conditions d'exercice de l'activité prévues aux
+premier et quatrième à septième alinéas du I quater de l'article 1466 A dans sa
+rédaction en vigueur au 31 décembre 2009 soient remplies.
 
 Pour les immeubles affectés, après le 1er janvier 1997 et avant le 31 décembre
 2001, à une activité entrant dans le champ d'application de la cotisation
@@ -48,7 +48,7 @@ commun.
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
 l'article 1383 A et celles prévues au présent article sont remplies, le
 contribuable doit opter pour l'un ou l'autre de ces deux régimes avant le 1er
-janvier de l'année au titre de laquelle l'exonération prend effet.L'option est
+janvier de l'année au titre de laquelle l'exonération prend effet. L'option est
 irrévocable.
 
 Les obligations déclaratives des personnes et organismes concernés par les

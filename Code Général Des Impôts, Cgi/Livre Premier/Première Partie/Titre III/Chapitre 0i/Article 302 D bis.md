@@ -38,9 +38,7 @@ ou à des fins scientifiques ;
 f) A des fins de recherche ou d'analyse scientifique ;
 
 g) A des fins médicales ou pharmaceutiques dans les hôpitaux et établissements
-similaires ainsi que dans les pharmacieset, dans la limite d'un contingent
-annuel fixé par l'administration, l'alcool pur acquis par les pharmaciens
-d'officine ;
+similaires ainsi que dans les pharmacies ;
 
 h) Dans des procédés de fabrication pour autant que le produit fini ne contienne
 pas d'alcool ;

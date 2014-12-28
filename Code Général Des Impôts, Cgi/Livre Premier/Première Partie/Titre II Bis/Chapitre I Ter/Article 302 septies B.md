@@ -8,9 +8,7 @@ articles L 520-1 à L 520-9 du code de l'urbanisme ;
 
 b. Disposition devenue sans objet ;
 
-c) Conformément à l'article L. 333-12 du code de l'urbanisme, le versement
-résultant du dépassement du plafond légal de densité prévu à l'article L. 112-2
-du même code ;
+c. (Abrogé).
 
 II. Constituent du point de vue fiscal, un élément du prix de revient de
 l'ensemble immobilier :

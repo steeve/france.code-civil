@@ -1,45 +1,43 @@
 Article 575 A
 ----
-Pour les différents groupes de produits mentionnés à l'article 575, les taux de
-la part proportionnelle et de la part spécifique sont fixés conformément au
-tableau ci-après :
-
-(En pourcentage)
+Pour les différents groupes de produits mentionnés à l'article 575, le taux
+proportionnel et la part spécifique pour mille unités ou mille grammes sont
+fixés conformément au tableau ci-après :
 
 
-GROUPE DE PRODUITS
+Groupe de produits
 
-TAUX normal
+Taux proportionnel (en %)
 
-TAUX spécifique
+Part spécifique (en euros)
 
 
 Cigarettes
 
-64,7
+49,7
 
-15
+48,75
 
 
 Cigares et cigarillos
 
-28
+23
 
-5
+19
 
 
 Tabacs fine coupe destinés à rouler les cigarettes
 
-62
+32
 
-30
+67,50
 
 
 Autres tabacs à fumer
 
-55
+45
 
-10
+17
 
 
 Tabacs à priser

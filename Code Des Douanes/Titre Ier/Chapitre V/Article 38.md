@@ -82,7 +82,10 @@ les transferts de déchets, et les décisions des autorités de l'Union europée
 prises en application de ce règlement ;
 
 15° Aux objets de toute nature comportant des images ou des représentations d'un
-mineur à caractère pornographique mentionnées à l'article 227-23 du code pénal.
+mineur à caractère pornographique mentionnées à l'article 227-23 du code pénal ;
+
+16° Aux produits du tabac manufacturé ayant fait l'objet d'une opération
+mentionnée au I de l'article 568 ter du code général des impôts.
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les
 dispositions du présent article sont également applicables aux marchandises

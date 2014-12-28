@@ -5,8 +5,7 @@ coopération intercommunale soumis à l'article 1609 nonies C ou à la suite d'u
 transformation dans les conditions prévues à l'article L. 5211-41-1 du code
 général des collectivités territoriales, le taux de la cotisation foncière des
 entreprises de la commune rattachée est rapproché du taux de cotisation foncière
-des entreprises de l'établissement public dans les conditions fixées aux a et b
-ci-après :
+des entreprises de l'établissement public dans les conditions suivantes :
 
 a) L'écart constaté, l'année au cours de laquelle le rattachement est décidé,
 entre ces deux taux est réduit chaque année par parts égales, jusqu'à
@@ -16,14 +15,7 @@ b du 1° du III de l'article 1609 nonies C et dépendant du rapport entre le moi
 
 Le c du 1° du III de l'article 1609 nonies C est applicable ;
 
-b) Lorsque, en application du 1° du III de l'article 1609 nonies C, des taux
-différents du taux de l'établissement public de coopération intercommunale sont
-appliqués dans les communes déjà membres de cet établissement, l'écart de taux
-visé au a peut être réduit chaque année par parts égales, en proportion du
-nombre d'années restant à courir jusqu'à l'application d'un taux unique dans les
-communes déjà membres ; l'application de cette disposition ne peut toutefois
-avoir pour effet de supprimer cet écart dans un délai plus court que celui
-résultant des dispositions du a.
+b) (Abrogé).
 
 II. Pour l'application des dispositions du I, le taux de cotisation foncière des
 entreprises de la commune doit, lorsque celle-ci appartient également à une

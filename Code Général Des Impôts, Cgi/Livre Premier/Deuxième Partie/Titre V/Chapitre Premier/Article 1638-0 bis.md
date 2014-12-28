@@ -30,27 +30,31 @@ l'établissement à fiscalité propre additionnelle.
 
 Toutefois, des taux d'imposition de taxe d'habitation, de taxes foncières et de
 cotisation foncière des entreprises différents peuvent être appliqués sur le
-territoire des établissements publics de coopération intercommunale
-préexistants, pour l'établissement des douze premiers budgets de l'établissement
-public de coopération intercommunale issu de la fusion. Cette procédure
-d'intégration fiscale progressive doit être précédée d'une homogénéisation des
-abattements appliqués pour le calcul de la taxe d'habitation. Cette décision est
-prise soit par délibérations concordantes des établissements publics de
-coopération intercommunale préexistants avant la fusion, soit par une
+territoire des établissements publics de coopération intercommunale préexistants
+pendant une période transitoire. La délibération qui institue cette procédure
+d'intégration fiscale progressive en détermine la durée, dans la limite de douze
+ans. A défaut, la procédure est applicable aux douze premiers budgets de
+l'établissement public de coopération intercommunale issu de la fusion. Cette
+décision est prise soit par délibérations concordantes des établissements
+publics de coopération intercommunale préexistants avant la fusion, soit par une
 délibération de l'établissement public de coopération intercommunale issu de la
-fusion.
+fusion. La durée de la période d'intégration fiscale progressive ne peut être
+modifiée ultérieurement.
 
 Les différences qui affectent les taux d'imposition appliqués sur le territoire
 des établissements publics de coopération intercommunale préexistants sont
-réduites chaque année d'un treizième et supprimées à partir de la treizième
-année.
+réduites chaque année par parts égales.
+
+Cette procédure d'intégration fiscale progressive est précédée d'une
+homogénéisation des abattements appliqués pour le calcul de la taxe
+d'habitation.
 
 Le deuxième alinéa du présent 1° n'est pas applicable lorsque, pour chacune des
 taxes en cause, le taux d'imposition appliqué dans l'établissement public de
 coopération intercommunale préexistant le moins imposé était égal ou supérieur à
 80 % du taux d'imposition correspondant appliqué dans l'établissement public de
-coopération intercommunale le plus imposé pour l'année antérieure à
-l'établissement du premier des douze budgets susvisés.
+coopération intercommunale le plus imposé au titre de l'année précédant celle au
+cours de laquelle la fusion prend fiscalement effet.
 
 2° Soit dans les conditions prévues par le II de l'article 1636 B sexies. Pour
 l'application de cette disposition, le taux moyen pondéré de chacune des quatre
@@ -179,26 +183,31 @@ l'établissement public de coopération intercommunale à fiscalité propre.
 
 Par dérogation, des taux d'imposition de taxe d'habitation et de taxes foncières
 différents peuvent être appliqués selon le territoire des établissements publics
-de coopération intercommunale préexistants pour l'établissement des douze
-premiers budgets de l'établissement public de coopération intercommunale issu de
-la fusion. Toutefois, cette procédure d'intégration fiscale progressive doit
-être précédée d'une homogénéisation des abattements appliqués pour le calcul de
-la taxe d'habitation. Cette décision est prise soit par délibérations
-concordantes des établissements publics de coopération intercommunale
-préexistants avant la fusion, soit par une délibération de l'établissement
-public de coopération intercommunale issu de la fusion.
+de coopération intercommunale préexistants pendant une période transitoire. La
+délibération qui institue cette procédure d'intégration fiscale progressive en
+détermine la durée, dans la limite de douze ans. A défaut, la procédure est
+applicable aux douze premiers budgets de l'établissement public de coopération
+intercommunale issu de la fusion. Cette décision est prise soit par
+délibérations concordantes des établissements publics de coopération
+intercommunale préexistants avant la fusion, soit par une délibération de
+l'établissement public de coopération intercommunale issu de la fusion. La durée
+de la période d'intégration fiscale progressive ne peut être modifiée
+ultérieurement.
 
 Les différences qui affectent les taux d'imposition appliqués sur le territoire
 des établissements publics de coopération intercommunale préexistants sont
-réduites chaque année d'un treizième et supprimées à partir de la treizième
-année.
+réduites chaque année par parts égales.
+
+Cette procédure d'intégration fiscale progressive est précédée d'une
+homogénéisation des abattements appliqués pour le calcul de la taxe
+d'habitation.
 
 Le deuxième alinéa du présent 1° n'est pas applicable lorsque, pour chacune des
 taxes en cause, le taux d'imposition appliqué dans l'établissement public de
 coopération intercommunale préexistant le moins imposé était égal ou supérieur à
 80 % du taux d'imposition correspondant appliqué dans l'établissement public de
-coopération intercommunale le plus imposé pour l'année antérieure à
-l'établissement du premier des douze budgets susvisés ;
+coopération intercommunale le plus imposé au titre de l'année précédant celle au
+cours de laquelle la fusion prend fiscalement effet ;
 
 Dans le cas d'une fusion visée à la dernière phrase du premier alinéa du présent
 III impliquant un établissement public de coopération intercommunale qui faisait

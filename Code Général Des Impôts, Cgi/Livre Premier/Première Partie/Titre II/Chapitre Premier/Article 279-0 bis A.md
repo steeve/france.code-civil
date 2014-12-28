@@ -1,17 +1,19 @@
 Article 279-0 bis A
 ----
 La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui
-concerne les livraisons de logements neufs soit à des organismes mentionnés au
-4° du 1 de l'article 207 ou soumis au contrôle, au sens du III de l'article L.
-430-1 du code de commerce, des organismes collecteurs agréés mentionnés au
-deuxième alinéa de l'article L. 313-18 du code de la construction et de
-l'habitation, soit à des personnes morales dont le capital est détenu en
-totalité par des personnes passibles de l'impôt sur les sociétés ou des
-établissements publics administratifs, qu'elles destinent à la location à usage
-de résidence principale dans le cadre d'une opération de construction ayant fait
-l'objet d'un agrément préalable entre le propriétaire ou le gestionnaire des
-logements et le représentant de l'Etat dans le département, qui précise le cadre
-de chaque opération et porte sur le respect des conditions prévues aux a à c.
+concerne les livraisons de logements neufs et de logements, issus de la
+transformation de locaux à usage de bureaux, considérés comme neufs au sens du
+2° du 2 du I de l'article 257, soit à des organismes mentionnés au 4° du 1 de
+l'article 207 ou soumis au contrôle, au sens du III de l'article L. 430-1 du
+code de commerce, des organismes collecteurs agréés mentionnés au deuxième
+alinéa de l'article L. 313-18 du code de la construction et de l'habitation,
+soit à des personnes morales dont le capital est détenu en totalité par des
+personnes passibles de l'impôt sur les sociétés ou des établissements publics
+administratifs, qu'elles destinent à la location à usage de résidence principale
+dans le cadre d'une opération de construction ayant fait l'objet d'un agrément
+préalable entre le propriétaire ou le gestionnaire des logements et le
+représentant de l'Etat dans le département, qui précise le cadre de chaque
+opération et porte sur le respect des conditions prévues aux a à c.
 
 Pour l'application du premier alinéa, les logements doivent :
 
@@ -23,7 +25,8 @@ difficultés d'accès au logement sur le parc locatif existant, mentionnées au
 premier alinéa du IV de l'article 199 novovicies ;
 
 b) Etre intégrés dans un ensemble immobilier comprenant au minimum 25 % de
-surface de logements mentionnés aux 2 à 8 du I de l'article 278 sexies ;
+surface de logements mentionnés aux 2 à 6, 8 et 10 du I de l'article 278 sexies
+;
 
 c) Etre destinés à être loués à des personnes physiques dont les ressources à la
 date de conclusion du bail ne dépassent pas les plafonds fixés par le décret

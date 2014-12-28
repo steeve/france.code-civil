@@ -20,12 +20,13 @@ actions sont admises aux négociations sur un marché réglementé en applicatio
 l'article L. 621-18, le droit dû, fixé par décret, est supérieur à 500 euros et
 inférieur ou égal à 1 000 euros. Il est exigible le jour du dépôt du document ;
 
-4° A l'occasion d'une autorisation de commercialisation en France d'un organisme
-de placements collectifs soumis à la législation d'un Etat étranger ou d'un
-compartiment d'un tel organisme, le droit dû, fixé par décret, est supérieur à 1
-000 euros et inférieur ou égal à 4 000 euros. Il est exigible le jour du dépôt
-de la demande d'autorisation la première année et le 30 avril les années
-suivantes ;
+4° A l'occasion d'une notification ou d'une autorisation de commercialisation en
+France d'un placement collectif de droit étranger ou d'un fonds d'investissement
+de droit étranger ou d'un compartiment d'un tel placement collectif ou fonds
+d'investissement, le droit dû, fixé par décret, est supérieur à 1 000 euros et
+inférieur ou égal à 4 000 euros. Il est exigible le jour de la transmission de
+la lettre de notification ou du dépôt de la demande d'autorisation la première
+année et le 30 avril les années suivantes ;
 
 5° A l'occasion de la soumission par un émetteur d'un document d'information sur
 un programme d'émission de titres de créances à l'enregistrement préalable de
@@ -65,10 +66,12 @@ le résultat, le jour de la publication des résultats de l'opération ;
 une émission, une cession dans le public, une admission aux négociations sur un
 marché réglementé ou un rachat de titres au visa préalable de l'Autorité des
 marchés financiers en application de l'article L. 621-8, cette contribution est
-assise sur la valeur des instruments financiers lors de l'opération. Son taux,
-fixé par décret, ne peut être supérieur à 0,20 pour mille lorsque l'opération
-porte sur des titres donnant accès ou pouvant donner accès au capital et à 0,05
-pour mille lorsque l'opération est réalisée sur des titres de créance.
+assise sur la valeur des instruments financiers, des parts sociales ou des
+certificats mutualistes lors de l'opération. Son taux, fixé par décret, ne peut
+être supérieur à 0,20 pour mille lorsque l'opération porte sur des titres
+donnant accès ou pouvant donner accès au capital, des parts sociales ou des
+certificats mutualistes et à 0,05 pour mille lorsque l'opération est réalisée
+sur des titres de créance.
 
 La même contribution est due en cas de rachat de titres dans le cadre du
 programme de rachat que l'émetteur met en oeuvre.
@@ -113,12 +116,12 @@ d) Pour les prestataires de services d'investissement habilités à exercer le
 service d'investissement mentionné au 4 de l'article L. 321-1 ainsi que pour les
 personnes mentionnées aux 7° et 8° du II de l'article L. 621-9, la contribution
 est fixée à un montant égal à l'encours des parts, des actions ou des titres de
-créance émis par les organismes de placements collectifs et des entités
-d'investissement de droit étranger, et des actifs gérés sous mandat, quel que
-soit le pays où les actifs sont conservés ou inscrits en compte, multiplié par
-un taux fixé par décret qui ne peut excéder 0,015 pour mille sans pouvoir être
-inférieur à 1 500 euros. Les encours sont calculés au 31 décembre de l'année
-précédente et déclarés au plus tard le 30 avril ;
+créance émis par les placements collectifs de droit français et de droit
+étranger et les fonds d'investissement de droit étranger, et des actifs gérés
+sous mandat, quel que soit le pays où les actifs sont conservés ou inscrits en
+compte, multiplié par un taux fixé par décret qui ne peut excéder 0,015 pour
+mille sans pouvoir être inférieur à 1 500 euros. Les encours sont calculés au 31
+décembre de l'année précédente et déclarés au plus tard le 30 avril ;
 
 e) Pour les sociétés de gestion dont le siège social est établi sur le
 territoire d'un Etat partie à l'accord sur l'Espace économique européen autre
@@ -128,6 +131,14 @@ la contribution est fixée à l'encours global des parts ou des actions de ces
 OPCVM, multiplié par un taux fixé par décret, qui ne peut excéder 0,015 ‰ sans
 pouvoir être inférieur à 1 500 €. Les encours sont calculés au 31 décembre de
 l'année précédente et déclarés au plus tard le 30 avril ;
+
+f) Pour les sociétés de gestion dont le siège social est établi sur le
+territoire d'un Etat membre de l'Union européenne autre que la France qui gèrent
+des fonds d'investissements alternatifs de droit français, la contribution est
+fixée à l'encours global des parts ou des actions de ces fonds d'investissements
+alternatifs, multiplié par un taux fixé par décret, qui ne peut excéder 0,015
+pour mille, sans pouvoir être inférieure à 1 500 €. Les encours sont calculés au
+31 décembre de l'année précédente et déclarés au plus tard le 30 avril ;
 
 4° Dans le cadre du contrôle des personnes mentionnées aux 10° et 10° bis du II
 de l'article L. 621-9, cette contribution est égale à un montant fixé par décret

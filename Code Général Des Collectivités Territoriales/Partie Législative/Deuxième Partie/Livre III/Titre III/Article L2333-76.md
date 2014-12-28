@@ -32,17 +32,6 @@ intercommunale à fiscalité propre ou en cas d'adhésion d'une commune ou d'un
 établissement public de coopération intercommunale à fiscalité propre à un
 syndicat mixte.
 
-A défaut de délibération, le régime applicable en matière de redevance
-d'enlèvement des ordures ménagères sur le territoire des établissements publics
-de coopération intercommunale ou des syndicats mixtes ayant fait l'objet de la
-fusion ou sur le territoire des communes incluses dans le périmètre de
-l'établissement public issu de la fusion est maintenu pour une durée qui ne peut
-excéder les deux années suivant la fusion. Pour l'application de ces
-dispositions, l'établissement public de coopération intercommunale ou le
-syndicat mixte issu de la fusion perçoit la redevance en lieu et place des
-établissements publics de coopération intercommunale ou des syndicats mixtes
-ayant fait l'objet de la fusion.
-
 Par dérogation aux dispositions précédentes, les établissements publics de
 coopération intercommunale à fiscalité propre disposant de l'ensemble de la
 compétence prévue à l'article L. 2224-13 et qui adhèrent, pour l'ensemble de
@@ -84,3 +73,11 @@ public et procède à la répartition de la redevance globale entre les foyers.
 
 Elle est recouvrée par cette collectivité, cet établissement ou, par délégation
 de l'assemblée délibérante, par le concessionnaire du service.
+
+Par exception à l'article L. 2333-79, lorsque les communes transfèrent la
+collecte des déchets des ménages à une communauté d'agglomération issue d'un
+syndicat d'agglomération nouvelle qui assurait antérieurement le traitement des
+déchets des ménages, cette dernière peut percevoir la redevance d'enlèvement des
+ordures ménagères et prélever la taxe d'enlèvement des ordures ménagères, sur
+les différentes parties de son territoire où elles avaient été instituées
+préalablement au transfert, en lieu et place des communes.

@@ -4,9 +4,9 @@ Le taux de versement exprimé en pourcentage des salaires définis à l'article 
 2531-3 est fixé par le Syndicat des transports d'Ile-de-France dans les limites
 :
 
-1° De 2,7 % à Paris et dans le département des Hauts-de-Seine ;
+1° De 2,85 % à Paris et dans le département des Hauts-de-Seine ;
 
-2° De 1,8 % dans les communes, autres que Paris et les communes du département
+2° De 1,91 % dans les communes, autres que Paris et les communes du département
 des Hauts-de-Seine, dont la liste est arrêtée par décret en Conseil d'Etat pris
 après avis du Syndicat des transports d'Ile-de-France, en tenant compte
 notamment du périmètre de l'unité urbaine de Paris telle que définie par

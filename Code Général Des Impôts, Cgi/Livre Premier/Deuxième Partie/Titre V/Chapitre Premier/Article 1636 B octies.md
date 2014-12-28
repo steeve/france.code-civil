@@ -52,6 +52,12 @@ taxe foncière sur les propriétés bâties a procurées sur le territoire de la
 métropole de Lyon sont, pour l'application du I, minorées de la part que cette
 taxe a procurée au titre de l'année 2014 au département du Rhône.
 
+A compter des impositions établies au titre de l'année 2016, les recettes de
+taxe d'habitation sont, pour l'application du I du présent article, minorées du
+produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de
+l'année précédente à l'ensemble des communes situées dans le ressort de
+l'établissement public foncier.
+
 III.-Le produit fiscal à recouvrer dans chacune des communes membres au profit
 d'un syndicat de communes est réparti entre les taxes foncières, la taxe
 d'habitation et la cotisation foncière des entreprises proportionnellement aux
@@ -88,6 +94,11 @@ entre, d'une part, le produit qu'a procuré au titre de l'année 2011 à la comm
 la taxation de l'ensemble des locaux situés dans son ressort et, d'autre part,
 le produit qu'aurait procuré au titre de l'année 2011 à cette même commune la
 taxation de ces mêmes locaux si le taux de l'année 2010 avait été appliqué.
+
+A compter des impositions établies au titre de l'année 2016, les recettes de
+taxe d'habitation sont, pour l'application du III du présent article, minorées
+du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre
+de l'année précédente à chaque commune.
 
 Pour l'application du III, le produit fiscal à recouvrer est minoré de la part,
 reversée par la commune au syndicat, du montant perçu en 2003, en application du

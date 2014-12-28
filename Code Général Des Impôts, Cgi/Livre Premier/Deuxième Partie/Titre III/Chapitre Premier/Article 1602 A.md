@@ -22,4 +22,4 @@ Ces délibérations sont prises dans les conditions prévues au II de l'article
 Le bénéfice des exonérations mentionnées au premier alinéa est subordonné au
 respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement
-de l'Union européenne aux aides de minimis.
+de l'Union européenne aux aides de minimis (1).

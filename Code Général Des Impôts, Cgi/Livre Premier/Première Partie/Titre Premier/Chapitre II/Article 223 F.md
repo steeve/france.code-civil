@@ -14,13 +14,14 @@ l'article 219 et retenu dans le résultat imposable de la société cédante lor
 la cession de ces titres à une autre société du groupe, ainsi qu'à la fraction,
 calculée dans les mêmes conditions, du résultat ou de la plus-value ou de la
 moins-value nette à long terme d'ensemble afférent à la cession par une société
-du groupe à une société intermédiaire de titres d'une autre société du groupe
-(1). Une somme égale au montant des suppléments d'amortissements pratiqués par
-la société cessionnaire d'un bien amortissable est réintégrée au résultat
-d'ensemble au titre de chaque exercice ; il en est de même de l'amortissement
-différé en contravention aux dispositions de l'article 39 B, lors de la cession
-du bien. Le régime défini par ces dispositions n'est pas applicable aux apports
-placés sous le régime de l'article 210 A.
+du groupe à une société intermédiaire, à une société étrangère ou à l'entité
+mère non résidente de titres d'une autre société du groupe (1). Une somme égale
+au montant des suppléments d'amortissements pratiqués par la société
+cessionnaire d'un bien amortissable est réintégrée au résultat d'ensemble au
+titre de chaque exercice ; il en est de même de l'amortissement différé en
+contravention aux dispositions de l'article 39 B, lors de la cession du bien. Le
+régime défini par ces dispositions n'est pas applicable aux apports placés sous
+le régime de l'article 210 A.
 
 La quote-part de frais et charges prévue au deuxième alinéa du a quinquies du I
 de l'article 219 afférente à la plus-value non retenue pour le calcul de la
@@ -34,14 +35,16 @@ comprendre dans le résultat ou plus-value ou moins-value nette à long terme
 d'ensemble, le résultat ou la plus-value ou la moins-value qui n'a pas été
 retenu lors de sa réalisation. Il en est de même lors de la sortie du groupe
 d'une société dont les titres ont fait l'objet d'une cession à une société
-intermédiaire ou, à concurrence du résultat ou de la plus-value ou de la
-moins-value afférent aux titres cédés, lors de la cession par une société
-intermédiaire à une société autre qu'une société du groupe ou une société
-intermédiaire de titres, ayant préalablement fait l'objet d'une cession à une
-société intermédiaire, d'une société qui demeure dans le groupe (1). Cette règle
-s'applique également en cas d'apport d'une immobilisation amortissable entre
-sociétés du groupe, lorsque cet apport bénéficie des dispositions de l'article
-210 A.
+intermédiaire, à une société étrangère ou à l'entité mère non résidente ou, à
+concurrence du résultat ou de la plus-value ou de la moins-value afférent aux
+titres cédés, lors de la cession par une société intermédiaire, par une société
+étrangère ou par l'entité mère non résidente à une société autre qu'une société
+du groupe, une société intermédiaire, une société étrangère ou l'entité mère non
+résidente de titres, ayant préalablement fait l'objet d'une cession à une
+société intermédiaire, à une société étrangère ou à l'entité mère non résidente,
+d'une société qui demeure dans le groupe (1). Cette règle s'applique également
+en cas d'apport d'une immobilisation amortissable entre sociétés du groupe,
+lorsque cet apport bénéficie des dispositions de l'article 210 A.
 
 La quote-part de frais et charges prévue au deuxième alinéa du a quinquies du I
 de l'article 219 s'applique au montant brut des plus-values de cession compris

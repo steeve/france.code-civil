@@ -2,10 +2,10 @@ Article 209
 ----
 I. Sous réserve des dispositions de la présente section, les bénéfices passibles
 de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les
-articles 34 à 45,53 A à 57,237 ter A et 302 septies A bis et en tenant compte
-uniquement des bénéfices réalisés dans les entreprises exploitées en France, de
-ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B ainsi que de
-ceux dont l'imposition est attribuée à la France par une convention
+articles 34 à 45,53 A à 57, 108 à 117, 237 ter A et 302 septies A bis et en
+tenant compte uniquement des bénéfices réalisés dans les entreprises exploitées
+en France, de ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B
+ainsi que de ceux dont l'imposition est attribuée à la France par une convention
 internationale relative aux doubles impositions.
 
 Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37,
@@ -105,7 +105,12 @@ moins-values provenant de la cession de navires éligibles à ce régime et
 réalisées pendant ou après la période couverte par l'option visée au III de ce
 même article est réduit à concurrence du rapport existant entre la durée de
 détention pendant la période couverte par cette option et la durée totale de
-détention.
+détention. La durée de détention couverte par l'option est décomptée à partir de
+la date de début d'exploitation du navire dans le cadre du régime défini à
+l'article 209-0 B par l'entreprise cédante lorsque cette dernière a acquis
+l'intégralité des parts de la société propriétaire du navire, puis a acquis le
+navire dans le cadre d'une opération bénéficiant des dispositions des articles
+210 A, 210 B et 210 C (1).
 
 Les dispositions du premier alinéa ne s'appliquent pas en cas de sortie du
 régime prévu à l'article 209-0 B dans les conditions prévues aux b et d du IV
@@ -210,3 +215,17 @@ derniers alinéas du III de l'article 212.
 application de l'article 212 et des six derniers alinéas de l'article 223 B ne
 sont pas prises en compte pour le calcul des charges financières devant être
 rapportées au bénéfice de l'exercice en application du présent article.
+
+X. - Ne sont pas déductibles de l'assiette de l'impôt sur les sociétés :
+
+1° Les cotisations versées au fonds de garantie des dépôts et de résolution en
+application de la première phrase du I de l'article L. 312-7 du code monétaire
+et financier pour financer les interventions prévues aux III et IV de l'article
+L. 312-5 du même code ;
+
+2° Les contributions prévues aux articles 69, 70 et 71 du règlement (UE) n°
+806/2014 du Parlement européen et du Conseil, du 15 juillet 2014, établissant
+des règles et une procédure uniformes pour la résolution des établissements de
+crédit et de certaines entreprises d'investissement dans le cadre d'un mécanisme
+de résolution unique et d'un Fonds de résolution bancaire unique, et modifiant
+le règlement (UE) n° 1093/2010.

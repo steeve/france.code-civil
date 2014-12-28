@@ -7,7 +7,8 @@ constituant ou dans celui du bénéficiaire qui est réputé être un constituan
 application du II du même article 792-0 bis.
 
 Le premier alinéa du présent article ne s'applique pas aux trusts irrévocables
-dont les bénéficiaires exclusifs relèvent de l'article 795 et dont
-l'administrateur est soumis à la loi d'un Etat ou territoire ayant conclu avec
-la France une convention d'assistance administrative en vue de lutter contre la
-fraude et l'évasion fiscales.
+dont les bénéficiaires exclusifs relèvent de l'article 795 ou sont des
+organismes de même nature relevant de l'article 795-0 A et dont l'administrateur
+est soumis à la loi d'un Etat ou territoire ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales.

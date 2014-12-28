@@ -20,7 +20,13 @@ montant à la société réalisant l'investissement. Lorsque l'entreprise mentio
 aux deuxième et cinquième phrases du présent alinéa est liée, directement ou
 indirectement, à une ou plusieurs autres entreprises au sens du 12 de l'article
 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre
-d'affaires et de celui de l'ensemble des entreprises qui lui sont liées.
+d'affaires et de celui de l'ensemble des entreprises qui lui sont liées. Lorsque
+l'activité est exercée dans un département d'outre-mer ou à Saint-Martin,
+l'investissement doit être un investissement initial, au sens de l'article 2 du
+règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application
+des articles 107 et 108 du traité, et il ne doit pas être exploité par une
+entreprise en difficulté, au sens du même règlement.
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements
 réalisés dans les secteurs d'activité suivants :
@@ -371,3 +377,8 @@ des dépenses éligibles retenues pour l'application des I et I ter.
 IV. - Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités
 d'application des I, I bis, I ter et II et notamment les obligations
 déclaratives.
+
+V. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les
+investissements réalisés dans les départements d'outre-mer et à Saint-Martin, au
+respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014,
+précité.

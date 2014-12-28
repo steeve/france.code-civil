@@ -207,3 +207,11 @@ détermination des revenus fonciers.
 IX. - Le présent article est applicable aux acquisitions ou constructions de
 logements réalisées entre la date de promulgation de la loi n° 2009-594 du 27
 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
+
+X. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les
+investissements réalisés dans les départements d'outre-mer et à Saint-Martin, au
+respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011,
+relative à l'application de l'article 106, paragraphe 2, du traité sur le
+fonctionnement de l'Union européenne aux aides d'Etat sous forme de
+compensations de service public octroyées à certaines entreprises chargées de la
+gestion de services d'intérêt économique général.

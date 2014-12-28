@@ -22,7 +22,7 @@ déduites l'année précédente qui correspond à des charges non déductibles ;
 
 b) Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion
 des frais correspondant à des travaux de construction, de reconstruction ou
-d'agrandissement ainsi que des dépenses au titre desquelles le propriétaire
+d'agrandissement ,ainsi que des dépenses au titre desquelles le propriétaire
 bénéficie du crédit d'impôt sur le revenu prévu à l'article 200 quater ou de
 celui prévu à l'article 200 quater A ;
 
@@ -63,10 +63,10 @@ b quater) (abrogé)
 
 c) Les impositions, autres que celles incombant normalement à l'occupant,
 perçues, à raison desdites propriétés, au profit des collectivités
-territoriales, de certains établissements publics ou d'organismes divers ainsi
-que la taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux
-et les locaux de stockage perçue dans la région d'Ile-de-France prévue à
-l'article 231 ter ;
+territoriales, de certains établissements publics ou d'organismes divers , à
+l'exception de la taxe annuelle sur les locaux à usage de bureaux, les locaux
+commerciaux et les locaux de stockage perçue dans la région d'Ile-de-France
+prévue à l'article 231 ter ;
 
 d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la
 construction, la réparation ou l'amélioration des propriétés, y compris celles
@@ -179,7 +179,7 @@ attestant de sa réception en mairie.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent f,
 notamment les obligations déclaratives incombant aux contribuables et aux
-sociétés qui y sont mentionnés, ainsi que les modalités de décompte des
+sociétés qui y sont mentionnés, , à l'exception de les modalités de décompte des
 déductions pratiquées au titre des amortissements considérés ;
 
 g) Pour les logements situés en France, acquis neufs ou en l'état futur
@@ -311,10 +311,10 @@ conditions, aux logements que le contribuable fait construire et qui ont fait
 l'objet, entre le 3 avril 2003 et le 31 décembre 2009, de la déclaration
 d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Il
 en est de même des locaux affectés à un usage autre que l'habitation acquis à
-compter du 3 avril 2003 et que le contribuable transforme en logements, ainsi
-que des logements acquis à compter du 3 avril 2003 qui ne satisfont pas aux
-caractéristiques de décence prévues à l'article 6 de la loi n° 89-462 du 6
-juillet 1989 tendant à améliorer les rapports locatifs et portant modification
+compter du 3 avril 2003 et que le contribuable transforme en logements, , à
+l'exception de des logements acquis à compter du 3 avril 2003 qui ne satisfont
+pas aux caractéristiques de décence prévues à l'article 6 de la loi n° 89-462 du
+6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification
 de la loi n° 86-1290 du 23 décembre 1986 et qui font l'objet de travaux de
 réhabilitation définis par décret permettant aux logements d'acquérir des
 performances techniques voisines de celles des logements neufs lorsque les
@@ -591,8 +591,8 @@ principale, à l'exclusion du propriétaire du logement, des membres de son foye
 fiscal ou de ses descendants ou ascendants, ne fait pas obstacle au bénéfice de
 la déduction, à la condition que cet organisme ne fournisse aucune prestation
 hôtelière ou parahôtelière. Un décret précise les modalités d'appréciation des
-loyers et des ressources de l'occupant ainsi que les conditions de cette
-location.
+loyers et des ressources de l'occupant , à l'exception de les conditions de
+cette location.
 
 Pour les baux conclus à compter de l'entrée en vigueur de la loi n° 2009-323 du
 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion,
@@ -648,9 +648,9 @@ effectivement supportées par le propriétaire ;
 c quinquies) Les travaux de restauration et de gros entretien effectués sur des
 espaces naturels mentionnés aux articles L. 331-2, L. 332-2 à L. 332-2-2, L.
 341-2 et L. 414-1 du code de l'environnement et dans leurs textes d'application,
-ainsi que des espaces mentionnés à l'article L. 146-6 du code de l'urbanisme, en
-vue de leur maintien en bon état écologique et paysager qui ont reçu l'accord
-préalable de l'autorité administrative compétente.
+, à l'exception de des espaces mentionnés à l'article L. 146-6 du code de
+l'urbanisme, en vue de leur maintien en bon état écologique et paysager qui ont
+reçu l'accord préalable de l'autorité administrative compétente.
 
 d) (abrogé)
 

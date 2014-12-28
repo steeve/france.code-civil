@@ -7,25 +7,27 @@ conditions de droit commun ou selon les modalités prévues à l'article 214.
 Le résultat d'ensemble est diminué de la quote-part de frais et charges
 afférente aux produits de participation perçus par une société du groupe d'une
 société membre du groupe depuis plus d'un exercice et aux produits de
-participation perçus par une société du groupe d'une société intermédiaire pour
-lesquels la société mère apporte la preuve qu'ils proviennent de produits de
-participation versés par une société membre du groupe depuis plus d'un exercice
-et n'ayant pas déjà justifié des rectifications effectuées en application du
-présent alinéa ou du troisième alinéa.
-
-Les produits de participation perçus par une société du groupe d'une société
-membre du groupe depuis plus d'un exercice et les produits de participation
-perçus par une société du groupe d'une société intermédiaire pour lesquels la
+participation perçus par une société du groupe d'une société intermédiaire,
+d'une société étrangère ou de l'entité mère non résidente pour lesquels la
 société mère apporte la preuve qu'ils proviennent de produits de participation
 versés par une société membre du groupe depuis plus d'un exercice et n'ayant pas
 déjà justifié des rectifications effectuées en application du présent alinéa ou
-du deuxième alinéa sont retranchés du résultat d'ensemble s'ils n'ouvrent pas
-droit à l'application du régime mentionné au 1 de l'article 145. Lorsque les
-titres n'ont pas été conservés pendant un délai de deux ans, leur prix de
-revient est diminué, pour la détermination de la plus-value ou moins-value de
-cession, du montant des produits de participation y afférents dont le montant a
-été retranché du résultat d'ensemble en application du présent alinéa. Lorsque
-les titres mentionnés à la première phrase du deuxième alinéa du a ter du I de
+du troisième alinéa.
+
+Les produits de participation perçus par une société du groupe d'une société
+membre du groupe depuis plus d'un exercice et les produits de participation
+perçus par une société du groupe d'une société intermédiaire, d'une société
+étrangère ou de l'entité mère non résidente pour lesquels la société mère
+apporte la preuve qu'ils proviennent de produits de participation versés par une
+société membre du groupe depuis plus d'un exercice et n'ayant pas déjà justifié
+des rectifications effectuées en application du présent alinéa ou du deuxième
+alinéa sont retranchés du résultat d'ensemble s'ils n'ouvrent pas droit à
+l'application du régime mentionné au 1 de l'article 145. Lorsque les titres
+n'ont pas été conservés pendant un délai de deux ans, leur prix de revient est
+diminué, pour la détermination de la plus-value ou moins-value de cession, du
+montant des produits de participation y afférents dont le montant a été
+retranché du résultat d'ensemble en application du présent alinéa. Lorsque les
+titres mentionnés à la première phrase du deuxième alinéa du a ter du I de
 l'article 219 sont conservés pendant au moins deux ans, leur prix de revient est
 diminué, pour la détermination de la moins-value de cession, du montant des
 produits de participation y afférents dont le montant a été retranché du
@@ -40,14 +42,15 @@ moins-values à long terme conformément à l'article 219 ou des risques qu'elle
 encourt du fait de telles sociétés. Il est également majoré du montant des
 dotations complémentaires aux provisions constituées par une société après son
 entrée dans le groupe, à raison des créances qu'elle détient sur des sociétés
-intermédiaires, des titres détenus dans de telles sociétés et exclus du régime
-des plus-values ou moins-values à long terme conformément à l'article 219 ou des
-risques qu'elle encourt du fait de telles sociétés, à l'exception de la fraction
-de ces dotations pour laquelle la société mère apporte la preuve qu'elle n'est
-pas liée, directement ou indirectement, aux déficits et moins-values nettes à
-long terme de sociétés du groupe retenus pour la détermination du résultat
-d'ensemble et de la plus-value ou moins-value nette à long terme d'ensemble. En
-cas de cession d'un élément d'actif entre sociétés du groupe, les dotations aux
+intermédiaires, sur des sociétés étrangères ou sur l'entité mère non résidente,
+des titres détenus dans de telles sociétés et exclus du régime des plus-values
+ou moins-values à long terme conformément à l'article 219 ou des risques qu'elle
+encourt du fait de telles sociétés, à l'exception de la fraction de ces
+dotations pour laquelle la société mère apporte la preuve qu'elle n'est pas
+liée, directement ou indirectement, aux déficits et moins-values nettes à long
+terme de sociétés du groupe retenus pour la détermination du résultat d'ensemble
+et de la plus-value ou moins-value nette à long terme d'ensemble. En cas de
+cession d'un élément d'actif entre sociétés du groupe, les dotations aux
 provisions pour dépréciation de cet élément d'actif effectuées postérieurement à
 la cession sont rapportées au résultat d'ensemble, à hauteur de l'excédent des
 plus-values ou profits sur les moins-values ou pertes afférent à ce même
@@ -63,49 +66,55 @@ du 1 de l'article 39, est retranchée du résultat d'ensemble. Celui-ci est
 quinzième alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
 complémentaires non retenues en application du présent alinéa si les sociétés
 citées aux première et troisième phrases de cet alinéa ou détenues, directement
-ou indirectement, par les sociétés intermédiaires citées à la deuxième phrase du
-même alinéa sont membres du groupe (2) ou, s'agissant des provisions mentionnées
-aux première et deuxième phrases, d'un même groupe créé ou élargi dans les
-conditions prévues aux c, d, e, f, g, h ou i du 6 de l'article 223 L au titre de
-l'exercice au cours duquel ces provisions sont rapportées ;
+ou indirectement, par les sociétés intermédiaires, l'entité mère non résidente
+ou les sociétés étrangères mentionnées à la deuxième phrase du même alinéa sont
+membres du groupe (2) ou, s'agissant des provisions mentionnées aux première et
+deuxième phrases, d'un même groupe créé ou élargi dans les conditions prévues
+aux c, d, e, f, g, h, i ou j du 6 de l'article 223 L au titre de l'exercice au
+cours duquel ces provisions sont rapportées ;
 
 Le montant des jetons de présence et tantièmes déduits du résultat des sociétés
-filiales du groupe est ajouté au résultat d'ensemble.
+filiales du groupe, et de celui de la société mère mentionnée au deuxième alinéa
+du I de l'article 223 A, est ajouté au résultat d'ensemble.
 
 L'abandon de créance ou la subvention directe ou indirecte consenti entre des
 sociétés du groupe ou par une société du groupe à une société intermédiaire, à
-l'exception de la fraction de ces montants qui n'est pas reversée au cours du
-même exercice à des sociétés du groupe et pour laquelle la société mère apporte
-la preuve qu'elle n'est pas liée, directement ou indirectement, aux déficits et
-moins-values nettes à long terme de sociétés du groupe retenus pour la
-détermination du résultat d'ensemble et de la plus-value ou moins-value nette à
-long terme d'ensemble, ou par une société intermédiaire à une société du groupe,
-pour la fraction de ces montants pour laquelle la société mère apporte la preuve
-qu'elle provient d'un abandon de créance ou d'une subvention directe ou
-indirecte consenti, sans avoir été pris en compte pour la détermination du
-résultat d'ensemble, par une autre société du groupe à cette société
-intermédiaire, n'est pas pris en compte pour la détermination du résultat
-d'ensemble. Toutefois, le montant de l'abandon de créance non retenu pour la
-détermination du résultat d'ensemble ne peut excéder la valeur d'inscription de
-la créance à l'actif du bilan de la société qui consent l'abandon.
+une société étrangère ou à l'entité mère non résidente, à l'exception de la
+fraction de ces montants qui n'est pas reversée au cours du même exercice à des
+sociétés du groupe et pour laquelle la société mère apporte la preuve qu'elle
+n'est pas liée, directement ou indirectement, aux déficits et moins-values
+nettes à long terme de sociétés du groupe retenus pour la détermination du
+résultat d'ensemble et de la plus-value ou moins-value nette à long terme
+d'ensemble, ou par une société intermédiaire, par une société étrangère ou par
+l'entité mère non résidente à une société du groupe, pour la fraction de ces
+montants pour laquelle la société mère apporte la preuve qu'elle provient d'un
+abandon de créance ou d'une subvention directe ou indirecte consenti, sans avoir
+été pris en compte pour la détermination du résultat d'ensemble, par une autre
+société du groupe à cette société intermédiaire, à cette société étrangère ou à
+cette entité mère non résidente , n'est pas pris en compte pour la détermination
+du résultat d'ensemble. Toutefois, le montant de l'abandon de créance non retenu
+pour la détermination du résultat d'ensemble ne peut excéder la valeur
+d'inscription de la créance à l'actif du bilan de la société qui consent
+l'abandon.
 
 Lorsqu'une société a acheté les titres d'une autre société qui est ou qui
-devient membre du même groupe ou les titres d'une société intermédiaire aux
-personnes qui la contrôlent, directement ou indirectement, ou à des sociétés que
-ces personnes contrôlent, directement ou indirectement, au sens de l'article L.
-233-3 du code de commerce, les charges financières déduites pour la
-détermination du résultat d'ensemble sont rapportées à ce résultat pour une
-fraction égale au rapport du prix d'acquisition de ces titres, limité, le cas
-échéant, à la valeur vénale des titres des sociétés du groupe directement ou
-indirectement détenues par la société intermédiaire acquise, à la somme du
-montant moyen des dettes, de chaque exercice, des entreprises membres du groupe.
-Le prix d'acquisition à retenir est réduit du montant des fonds apportés à la
-société cessionnaire lors d'une augmentation du capital réalisée simultanément à
-l'acquisition des titres à condition que ces fonds soient apportés à la société
-cessionnaire par une personne autre qu'une société membre du groupe ou, s'ils
-sont apportés par une société du groupe, qu'ils ne proviennent pas de crédits
-consentis par une personne non membre de ce groupe. La réintégration s'applique
-pendant l'exercice d'acquisition des titres et les huit exercices suivants.
+devient membre du même groupe ou les titres d'une société intermédiaire ou d'une
+société étrangère aux personnes qui la contrôlent, directement ou indirectement,
+ou à des sociétés que ces personnes contrôlent, directement ou indirectement, au
+sens de l'article L. 233-3 du code de commerce, les charges financières déduites
+pour la détermination du résultat d'ensemble sont rapportées à ce résultat pour
+une fraction égale au rapport du prix d'acquisition de ces titres, limité, le
+cas échéant, à la valeur vénale des titres des sociétés du groupe directement ou
+indirectement détenues par la société intermédiaire ou par la société étrangère
+acquise, à la somme du montant moyen des dettes, de chaque exercice, des
+entreprises membres du groupe. Le prix d'acquisition à retenir est réduit du
+montant des fonds apportés à la société cessionnaire lors d'une augmentation du
+capital réalisée simultanément à l'acquisition des titres à condition que ces
+fonds soient apportés à la société cessionnaire par une personne autre qu'une
+société membre du groupe ou, s'ils sont apportés par une société du groupe,
+qu'ils ne proviennent pas de crédits consentis par une personne non membre de ce
+groupe. La réintégration s'applique pendant l'exercice d'acquisition des titres
+et les huit exercices suivants.
 
 Le septième alinéa s'applique même si la société directement ou indirectement
 rachetée n'est pas ou ne devient pas membre du même groupe que la société
@@ -143,11 +152,12 @@ chez les sociétés membres du groupe en application des cinq premiers alinéas 
 1° La somme des intérêts versés par les sociétés du groupe à des sociétés liées
 directement ou indirectement au sens du 12 de l'article 39 n'appartenant pas au
 groupe, à l'exclusion de la fraction des intérêts versés à une société
-intermédiaire pour laquelle la société mère apporte la preuve qu'elle a été
-reversée au cours du même exercice à une société du groupe, et des intérêts
-versés par des sociétés du groupe au titre d'exercices antérieurs à leur entrée
-dans le groupe et déduits sur l'exercice en vertu des dispositions du sixième
-alinéa du 1 du II de l'article 212 ;
+intermédiaire, à une société étrangère ou à l'entité mère non résidente pour
+laquelle la société mère apporte la preuve qu'elle a été reversée au cours du
+même exercice à une société du groupe, et des intérêts versés par des sociétés
+du groupe au titre d'exercices antérieurs à leur entrée dans le groupe et
+déduits sur l'exercice en vertu des dispositions du sixième alinéa du 1 du II de
+l'article 212 ;
 
 2° Et une limite égale à 25 % d'une somme constituée par l'ensemble des
 résultats courants avant impôts de chaque société du groupe majorés, d'une part,
@@ -156,12 +166,13 @@ quote-part de loyers de crédit-bail prise en compte pour la détermination du
 prix de cession du bien à l'issue du contrat et des intérêts versés à des
 sociétés liées directement ou indirectement au sens du 12 de l'article 39
 n'appartenant pas au groupe, à l'exclusion de la fraction des intérêts versés à
-une société intermédiaire pour laquelle la société mère apporte la preuve
-qu'elle a été reversée au cours du même exercice à une société du groupe, et
-minorés, d'autre part, des dividendes perçus d'une autre société du groupe, ou
-d'une société intermédiaire dont le montant ou le montant de la quote-part y
-afférente est retranché du résultat d'ensemble dans les conditions des deuxième
-et troisième alinéas du présent article,
+une société intermédiaire, à une société étrangère ou à une entité mère non
+résidente pour laquelle la société mère apporte la preuve qu'elle a été reversée
+au cours du même exercice à une société du groupe, et minorés, d'autre part, des
+dividendes perçus d'une autre société du groupe, d'une société intermédiaire,
+d'une société étrangère ou de l'entité mère non résidente dont le montant ou le
+montant de la quote-part y afférente est retranché du résultat d'ensemble dans
+les conditions des deuxième et troisième alinéas du présent article,
 
 l'excédent correspondant est déduit du résultat d'ensemble de cet exercice,
 cette déduction ne pouvant être supérieure à la somme des intérêts non admis en

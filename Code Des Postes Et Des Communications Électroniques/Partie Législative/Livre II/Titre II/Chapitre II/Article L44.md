@@ -78,12 +78,15 @@ l'année de l'attribution.
 
 Pour le calcul de la taxe, un arrêté signé du ministre chargé des communications
 électroniques et du ministre chargé du budget fixe la valeur d'une unité de base
-" a ", qui ne peut excéder 0,023 euros. Cette valeur est fixée après avis de
+"a", qui ne peut excéder 0,023 euros. Cette valeur est fixée après avis de
 l'Autorité de régulation des communications électroniques et des postes.
 
 Le montant de la taxe dû par l'opérateur est fixé :
 
-1° Pour chaque numéro à dix chiffres attribué, à la valeur de l'unité " a " ;
+1° A Pour chaque numéro à treize ou à quatorze chiffres attribué, à un montant
+égal à 0,1 a ;
+
+1° Pour chaque numéro à dix chiffres attribué, à la valeur de l'unité "a" ;
 
 2° Pour chaque numéro à six chiffres attribué, à un montant égal à 2 000 000 a ;
 

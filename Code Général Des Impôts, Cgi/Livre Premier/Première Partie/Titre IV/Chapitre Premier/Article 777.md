@@ -115,6 +115,6 @@ Entre parents au-delà du 4e degré et entre personnes non-parentes
 
 60
 
-Sous réserve des exceptions prévues au I de l'article 794 et à l'article 795,
-les dons et legs faits aux établissements publics ou d'utilité publique sont
-soumis aux tarifs fixés pour les successions entre frères et soeurs.
+Sous réserve des exceptions prévues au I de l'article 794 et aux articles 795 et
+795-0 A, les dons et legs faits aux établissements publics ou d'utilité publique
+sont soumis aux tarifs fixés pour les successions entre frères et soeurs.

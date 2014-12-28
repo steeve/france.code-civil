@@ -73,11 +73,13 @@ sont exonérés que si la société bénéficiaire de la distribution détient d
 titres représentant au moins 5 % du capital et des droits de vote de la société
 distributrice pendant une durée minimale de deux ans. La première phrase
 s'applique également aux produits des participations distribués par les sociétés
-définies au 2° du h du 6 de l'article 145 ou par les sociétés visées au 3°
-nonies de l'article 208, et perçus par une société visée au premier alinéa du I,
-à la condition que celle-ci détienne des titres représentant au moins 5 % du
-capital et des droits de vote de la société distributrice pendant une durée
-minimale de deux ans.
+étrangères ayant une activité identique à celles mentionnées au même I et qui
+sont exonérées, dans l'Etat où elles ont leur siège de direction effective, de
+l'impôt sur les sociétés de cet Etat ou par les sociétés visées au 3° nonies de
+l'article 208, et perçus par une société visée au premier alinéa du I, à la
+condition que celle-ci détienne des titres représentant au moins 5 % du capital
+et des droits de vote de la société distributrice pendant une durée minimale de
+deux ans.
 
 Pour l'application des présentes dispositions, les opérations visées au premier
 alinéa et réalisées par des organismes mentionnés à l'article 8 sont réputées

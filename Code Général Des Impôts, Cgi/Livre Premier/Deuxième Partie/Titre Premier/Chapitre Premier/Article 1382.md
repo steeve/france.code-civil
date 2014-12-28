@@ -147,4 +147,8 @@ des établissements industriels à l'exclusion de ceux visés aux 1° et 2° de
 l'article 1381 ;
 
 12° Les immobilisations destinées à la production d'électricité d'origine
-photovoltaïque.
+photovoltaïque ;
+
+13° Les ouvrages souterrains d'un centre de stockage réversible en couche
+géologique profonde de déchets radioactifs mentionné à l'article L. 542-10-1 du
+code de l'environnement.

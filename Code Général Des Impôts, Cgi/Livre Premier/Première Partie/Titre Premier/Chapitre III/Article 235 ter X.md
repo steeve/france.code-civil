@@ -53,3 +53,5 @@ sanctions.
 Les dispositions du présent article ne s'appliquent pas aux provisions
 constituées à raison des opérations de réassurance par les entreprises
 pratiquant la réassurance de dommages.
+
+La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.

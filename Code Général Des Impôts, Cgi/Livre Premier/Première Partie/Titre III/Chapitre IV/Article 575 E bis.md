@@ -5,41 +5,46 @@ Corse sont soumis à un droit de consommation.
 
 Ce droit de consommation, par dérogation aux taux mentionnés à l'article 575 A
 et dans la limite d'un contingent de 1 200 tonnes par an pour les cigarettes,
-est déterminé conformément aux deuxième à sixième alinéas de l'article 575. La
-classe de prix de référence est calculée sur la base des mises à la consommation
-réalisées en Corse. Pour les différents groupes de produits, le taux normal et
-le taux spécifique applicables dans les départements de Corse sont fixés
-conformément au tableau ci-après :
+est déterminé conformément aux deuxième à sixième alinéas de l'article 575.
+
+Pour les différents groupes de produits, la part spécifique pour mille unités ou
+mille grammes ainsi que le taux proportionnel applicables dans les départements
+de Corse sont fixés conformément au tableau ci-après :
 
 (En pourcentage)
 
 
 GROUPE DE PRODUITS
 
-TAUX NORMAL
+TAUX PROPORTIONNEL
+
+(en %)
 
 
-TAUX SPÉCIFIQUE
+PART SPÉCIFIQUE
+
+(en euros)
+
 
 Cigarettes
 
-50
+40
 
-10
+25
 
 
 Cigares et cigarillos
 
-15
+10
 
-5
+18,5
 
 
 Tabacs fine coupe destinés à rouler les cigarettes
 
-30
-
 15
+
+22,5
 
 
 Autres tabacs à fumer

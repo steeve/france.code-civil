@@ -17,33 +17,26 @@ assurés par les personnes désignées à l'article L. 236-2-1.
 Les modalités du contrôle du respect de ces conditions sont fixées par le
 ministre chargé de l'agriculture.
 
-Afin d'assurer le financement des opérations nécessaires à la délivrance des
-certificats et documents prévus au deuxième alinéa, une redevance pour contrôle
-vétérinaire est acquittée par l'expéditeur des marchandises.
+Afin d'assurer le financement des opérations d'établissement des certificats et
+documents prévus au deuxième alinéa, une redevance pour contrôle vétérinaire est
+acquittée par l'expéditeur des marchandises.
 
-La redevance équivaut au coût des opérations de contrôle nécessaires à la
-délivrance des certificats et autres documents émis par les vétérinaires
-mentionnés à l'article L. 236-2-1 ainsi qu'au coût d'établissement et de
-délivrance de ces certificats et documents, sur la base d'un prix fondé sur un
-forfait visite (V) et modéré en fonction du nombre de certificats émis et du
-nombre d'animaux ou de lots inspectés. Elle correspond à la formule suivante :
+La redevance équivaut aux frais de délivrance des certificats et autres
+documents par les vétérinaires officiels mentionnés à l'article L. 236-2-1 .
+Elle correspond à la formule suivante :
 
-R = V + x * nombre de certificats + y * nombre d'animaux ou de lots.
+R = X x nombre de certificats.
 
-Le montant de V ne peut excéder 60 €.
-
-Le montant de x ne peut excéder 30 euros.
-
-Le montant de y ne peut excéder 80 centimes d'euros.
-
-Le fait générateur de la redevance est constitué par la réalisation des
-contrôles nécessaires à l'établissement des certificats ou documents précités.
-
-La redevance est constatée et recouvrée suivant les mêmes règles, sous les mêmes
-garanties, privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.
+Le montant de X ne peut excéder 30 €.
 
 Le produit de la redevance est affecté à l'Etablissement national des produits
-de l'agriculture et de la mer mentionné à l'article L. 621-1.
+de l'agriculture et de la mer mentionné à l'article L. 621-1, dans la limite du
+plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de
+finances pour 2012. La délivrance des certificats et documents est subordonnée à
+la justification du paiement de la redevance correspondante à cet établissement,
+qui en assure le recouvrement selon le principe des recettes au comptant. Il
+assure également la rémunération de la personne mentionnée au b de l'article L.
+236-2-1 ayant établi le certificat.
 
 Un décret fixe les conditions d'acquittement de la redevance. Un arrêté conjoint
 des ministres chargés de l'agriculture et du budget fixe les tarifs de la

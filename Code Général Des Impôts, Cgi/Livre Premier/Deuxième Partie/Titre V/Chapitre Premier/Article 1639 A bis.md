@@ -89,6 +89,14 @@ en cas de modification de périmètre d'un établissement public de coopération
 intercommunale suivant l'intégration d'une commune ou d'un établissement de
 coopération intercommunale.
 
+Par exception au III de l'article 1520 du présent code, lorsque les communes
+transfèrent la collecte des déchets des ménages à une communauté d'agglomération
+issue d'un syndicat d'agglomération nouvelle qui assurait antérieurement le
+traitement des déchets des ménages, cette dernière peut percevoir la redevance
+d'enlèvement des ordures ménagères et prélever la taxe d'enlèvement des ordures
+ménagères, sur les différentes parties de son territoire où elles avaient été
+instituées préalablement au transfert, en lieu et place des communes.
+
 IV.-En cas de rattachement d'une commune ou d'un établissement public de
 coopération intercommunale ne faisant pas application des dispositions de
 l'article 1522 bis à un établissement public de coopération intercommunale ou à

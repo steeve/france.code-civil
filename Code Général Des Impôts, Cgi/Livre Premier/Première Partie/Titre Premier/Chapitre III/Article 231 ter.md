@@ -1,6 +1,6 @@
 Article 231 ter
 ----
-I.-Une taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux ,
+I.-Une taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux,
 les locaux de stockage et les surfaces de stationnement annexées à ces
 catégories de locaux est perçue, dans les limites territoriales de la région
 d'Ile-de-France, composée de Paris et des départements de l'Essonne, des
@@ -51,9 +51,10 @@ V.-Sont exonérés de la taxe :
 
 1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage
 et les surfaces de stationnement annexées à ces catégories de locaux, situés
-dans une zone de redynamisation urbaine ou dans une zone franche urbaine, telle
-que définie par les A et B du 3 de l'article 42 de la loi n° 95-115 du 4 février
-1995 d'orientation pour l'aménagement et le développement du territoire ;
+dans une zone de redynamisation urbaine ou dans une zone franche
+urbaine-territoire entrepreneur, telle que définie par les A et B du 3 de
+l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire ;
 
 2° Les locaux et les surfaces de stationnement appartenant aux fondations et aux
 associations, reconnues d'utilité publique, dans lesquels elles exercent leur
@@ -131,19 +132,19 @@ Tarif normal
 
 Tarif réduit
 
-17,18
+17,188
 
-8,51
+,5110
 
-10,19
+,196
 
-6,10
+,104
 
-4,88
+,884
 
-4,42
+, 42b
 
-b) Pour les locaux commerciaux :
+) Pour les locaux commerciaux :
 
 (en euros)
 
@@ -157,9 +158,9 @@ b) Pour les locaux commerciaux :
 
 3,90
 
-1,96
+1, 96c
 
-c) Pour les locaux de stockage :
+) Pour les locaux de stockage :
 
 (en euros)
 
@@ -173,9 +174,9 @@ c) Pour les locaux de stockage :
 
 1,96
 
-0,99
+0, 99d
 
-d) Pour les surfaces de stationnement annexées aux catégories de locaux
+) Pour les surfaces de stationnement annexées aux catégories de locaux
 mentionnées aux a à c :
 
 (en euros)
@@ -210,3 +211,6 @@ taxe sur les salaires jusqu'au 31 décembre 2003.
 
 Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le
 recouvrement de la taxe.
+
+IX.-La taxe n'est pas déductible de l'assiette de l'impôt sur le revenu ou de
+l'impôt sur les sociétés.

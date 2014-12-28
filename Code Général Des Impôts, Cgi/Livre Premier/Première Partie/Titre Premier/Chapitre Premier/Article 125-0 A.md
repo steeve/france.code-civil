@@ -106,9 +106,9 @@ b) Droits ou bons de souscription ou d'attribution attachés aux actions
 mentionnées au a ;
 
 c) Actions ou parts d'organismes de placement collectif en valeurs mobilières ou
-de placements collectifs relevant des paragraphes 1,2 et 6 de la sous-section 2,
-du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de
-la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+de placements collectifs relevant des paragraphes 1, 2 et 6 de la sous-section
+2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3
+de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
 financier, qui emploient plus de 60 % de leur actif en titres et droits
 mentionnés aux a et b ;
 
@@ -121,20 +121,22 @@ placement dans l'innovation, actions de sociétés de capital risque ou de
 sociétés financières d'innovation ;
 
 e) Actions émises par des sociétés qui exercent une activité autre que les
-activités mentionnées au septième alinéa du I de l'article 44 sexies et dont les
-titres ne sont pas admis aux négociations sur un marché réglementé ;
+activités mentionnées à la deuxième phrase du premier alinéa du I de l'article
+44 sexies et dont les titres ne sont pas admis aux négociations sur un marché
+réglementé ;
 
 f) Actions, admises aux négociations sur un marché d'instruments financiers,
 dont le fonctionnement est assuré par une entreprise de marché ou un prestataire
 de services d'investissement ou tout autre organisme similaire étranger, d'un
 Etat partie à l'accord sur l'Espace économique européen, émises par des sociétés
 qui exercent une activité mentionnée à l'article 34 autre que celles mentionnées
-au septième alinéa du I de l'article 44 sexies et dont la capitalisation
-boursière est inférieure à 150 millions d'euros. La capitalisation boursière est
-évaluée selon la moyenne des cours d'ouverture des soixante jours de bourse
-précédant celui de l'investissement. Un décret en Conseil d'Etat détermine les
-modalités d'application de cette évaluation, notamment en cas de première
-cotation ou d'opération de restructuration d'entreprises.
+à la deuxième phrase du premier alinéa du I de l'article 44 sexies et dont la
+capitalisation boursière est inférieure à 150 millions d'euros. La
+capitalisation boursière est évaluée selon la moyenne des cours d'ouverture des
+soixante jours de bourse précédant celui de l'investissement. Un décret en
+Conseil d'Etat détermine les modalités d'application de cette évaluation,
+notamment en cas de première cotation ou d'opération de restructuration
+d'entreprises.
 
 Les titres mentionnés aux a, b, e et f doivent être émis par des sociétés qui
 ont leur siège dans un Etat de l'Union européenne, ou dans un autre Etat partie

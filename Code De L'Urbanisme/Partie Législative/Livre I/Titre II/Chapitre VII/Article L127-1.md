@@ -8,6 +8,3 @@ gabarit, à la hauteur et à l'emprise au sol. Cette majoration, fixée pour cha
 secteur, ne peut excéder 50 %. Pour chaque opération, elle ne peut être
 supérieure au rapport entre le nombre de logements locatifs sociaux et le nombre
 total des logements de l'opération.
-
-La partie de la construction en dépassement n'est pas assujettie au versement
-résultant du dépassement du plafond légal de densité.

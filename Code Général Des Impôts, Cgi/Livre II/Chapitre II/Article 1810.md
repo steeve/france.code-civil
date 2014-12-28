@@ -57,9 +57,12 @@ poinçons volés ;
 
 9° (Abrogé) ;
 
-10° fabrication de tabacs, détention frauduleuse en vue de la vente, vente ou
-transport en fraude de tabacs fabriqués, quelles que soient l'espèce et la
-provenance de ces tabacs.
+10° Quelles que soient l'espèce et la provenance de ces tabacs : fabrication de
+tabacs ; détention frauduleuse en vue de la vente de tabacs fabriqués ; vente, y
+compris à distance, de tabacs fabriqués ; transport en fraude de tabacs
+fabriqués ; acquisition à distance, introduction en provenance d'un autre Etat
+membre de l'Union européenne ou importation en provenance de pays tiers de
+produits du tabac manufacturé acquis dans le cadre d'une vente à distance.
 
 Sont considérés et punis comme fabricants frauduleux :
 

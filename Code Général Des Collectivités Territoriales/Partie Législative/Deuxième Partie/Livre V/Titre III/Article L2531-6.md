@@ -1,6 +1,6 @@
 Article L2531-6
 ----
-I. - Les employeurs visés à l'article L. 2531-2 sont tenus de procéder au
+I. - A. - Les employeurs visés à l'article L. 2531-2 sont tenus de procéder au
 versement prévu audit article auprès des organismes ou services chargés du
 recouvrement des cotisations de sécurité sociale et des allocations familiales,
 suivant les règles de recouvrement, de contentieux et de pénalités applicables
@@ -25,6 +25,11 @@ depuis moins de cinq ans. Pour les entreprises installées à l'intérieur des
 périmètres d'urbanisation des villes nouvelles depuis plus de cinq ans et à
 compter de 1995, le remboursement est réduit chaque année d'un cinquième et est
 supprimé à partir de la cinquième année.
+
+B.-L'Etat déduit du montant du versement prévu à l'article L. 2531-2 une
+quote-part déterminée au prorata des effectifs des militaires en activité dont
+l'administration assure le logement permanent sur les lieux de travail ou
+effectue à titre gratuit le transport collectif.
 
 II. - L'Agence centrale des organismes de sécurité sociale ou l'organisme de
 recouvrement transmet annuellement au Syndicat des transports d'Ile-de-France, à

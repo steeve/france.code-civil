@@ -26,6 +26,10 @@ autorisation à la conservation sur le terrain de réserves boisées suffisammen
 importantes pour remplir les rôles utilitaires définis à l'article L. 341-5.
 
 Le demandeur peut s'acquitter d'une obligation mentionnée au 1° du présent
-article en versant au Fonds stratégique de la forêt et du bois une indemnité
-équivalente, dont le montant est déterminé par l'autorité administrative et lui
-est notifié en même temps que la nature de cette obligation.
+article en versant une indemnité équivalente, dont le montant est déterminé par
+l'autorité administrative et lui est notifié en même temps que la nature de
+cette obligation. Le produit de cette indemnité est affecté à l'établissement
+mentionné à l'article L. 313-1 du code rural et de la pêche maritime pour
+alimenter le fonds stratégique de la forêt et du bois mentionné à l'article L.
+156-4 du présent code, dans la limite du plafond prévu à l'article 46 de la loi
+n° 2011-1977 du 28 décembre 2011 de finances pour 2012.

@@ -33,4 +33,5 @@ L'autorité organisatrice de la distribution publique d'électricité maître
 d'ouvrage des infrastructures de génie civil susmentionnées bénéficie, pour la
 réalisation d'éléments nécessaires au passage de réseaux souterrains de
 communication, des dispositions prévues aux deuxième et troisième alinéas de
-l'article L. 332-11-1 du code de l'urbanisme.
+l'article L. 332-11-1 du code de l'urbanisme dans sa rédaction antérieure à la
+loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014.

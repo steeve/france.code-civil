@@ -2,8 +2,8 @@ Article 1467
 ----
 La cotisation foncière des entreprises a pour base la valeur locative des biens
 passibles d'une taxe foncière situés en France, à l'exclusion des biens exonérés
-de taxe foncière sur les propriétés bâties en vertu des 11° et 12° de l'article
-1382, dont le redevable a disposé pour les besoins de son activité
+de taxe foncière sur les propriétés bâties en vertu des 11°, 12° et 13° de
+l'article 1382, dont le redevable a disposé pour les besoins de son activité
 professionnelle pendant la période de référence définie aux articles 1467 A et
 1478, à l'exception de ceux qui ont été détruits ou cédés au cours de la même
 période.

@@ -16,7 +16,7 @@ au prix acquitté par le client.
 III.-La taxe est assise sur le nombre de passagers et la masse de fret et de
 courrier embarqués par l'entreprise sur chaque aérodrome, quelles que soient les
 conditions tarifaires accordées par le transporteur, aux mêmes exceptions et
-conditions que celles énoncées à l'article 302 bis K.
+conditions que celles énoncées aux 1 et 2 du I l'article 302 bis K.
 
 IV.-Le tarif de la taxe par passager applicable sur chaque aérodrome ou
 groupement d'aérodromes est compris entre les valeurs correspondant à la classe
@@ -68,7 +68,7 @@ De 4,3 à 11,5 €
 
 De 3,5 à 9,5 €.
 
-De 2,6 à 12 €
+De 2,6 à 13 €
 
 Le tarif de la taxe est égal à 1 € par tonne de fret et de courrier pour tous
 les aérodromes ou de groupements d'aérodromes visés au I.

@@ -2,7 +2,7 @@ Article 44 quindecies
 ----
 I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les
 entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31
-décembre 2014, soumises de plein droit ou sur option à un régime réel
+décembre 2015, soumises de plein droit ou sur option à un régime réel
 d'imposition de leurs résultats et qui exercent une activité industrielle,
 commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1
 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les
@@ -90,8 +90,9 @@ les six mois suivant le début d'activité. L'option est irrévocable et emporte
 renonciation définitive aux autres régimes.
 
 V. ― Le bénéfice de l'exonération et de l'imposition partielle est subordonné au
-respect du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006,
-concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
+relatif à l'application des articles 107 et 108 du traité sur le fonctionnement
+de l'Union européenne aux aides de minimis (1).
 
 VI. ― L'exonération reste applicable pour sa durée restant à courir lorsque la
 commune d'implantation de l'entreprise sort de la liste des communes classées en

@@ -10,19 +10,19 @@ permis d'aménager ou de l'association foncière urbaine par l'acte administrati
 approuvant le plan de remembrement ou de l'association foncière urbaine de
 projet par l'acte autorisant sa création :
 
-a) Le versement pour dépassement du plafond légal de densité dans les conditions
-prévues à l'article L. 333-9-1 ;
+a) (abrogé)
 
-b) La participation spécifique pour équipements publics exceptionnels dans les
+b) La participation spécifique pour équipements p ublics exceptionnels dans les
 conditions prévues à l'article L. 332-8 ;
 
 c) Une participation forfaitaire représentative de la participation prévue à
 l'article L. 332-9 dans sa rédaction antérieure à l'entrée en vigueur de la loi
 n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 et des
-contributions énumérées aux b et d du 2° et du 3° de l'article L. 332-6-1. Cette
-participation forfaitaire ne peut être exigée dans les secteurs de la commune ou
-de l'établissement public de coopération intercommunale où il est fait
-application de l'article L. 331-15 ;
+contributions énumérées au d du 2° et au 3° de l'article L. 332-6-1, dans leur
+rédaction antérieure à la loi n° 2014-1655 du 29 décembre 2014 de finances
+rectificative pour 2014. Cette participation forfaitaire ne peut être exigée
+dans les secteurs de la commune ou de l'établissement public de coopération
+intercommunale où il est fait application de l'article L. 331-15 ;
 
 d) Le versement pour sous-densité prévu aux articles L. 331-36 et L. 331-38 pour
 les permis d'aménager autres qu'en lotissement ;

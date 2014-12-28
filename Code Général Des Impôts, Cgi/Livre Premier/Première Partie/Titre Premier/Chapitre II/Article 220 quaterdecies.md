@@ -27,10 +27,12 @@ au patrimoine ou au territoire français. Le respect de cette condition est
 vérifié au moyen d'un barème de points dont le contenu est fixé par décret ;
 
 c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant
-supérieur ou égal à un million d'euros et, pour les œuvres appartenant au genre
-de la fiction, d'un minimum de cinq jours de tournage en France.
+supérieur ou égal à un million d'euros ou, lorsque le budget de production de
+l'œuvre est inférieur à 2 millions d'euros, d'un montant correspondant au moins
+à 50 % de ce budget et, pour les œuvres appartenant au genre de la fiction, d'un
+minimum de cinq jours de tournage en France.
 
-2.N'ouvrent pas droit au crédit d'impôt mentionné au I :
+2. N'ouvrent pas droit au crédit d'impôt mentionné au I :
 
 a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographique ou
 d'incitation à la violence ;
@@ -89,7 +91,7 @@ des bases de calcul de ce crédit, qu'elles soient définitivement acquises par
 elles ou remboursables.
 
 VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut
-excéder 10 millions d'euros.
+excéder 20 millions d'euros.
 
 VII. ― Les crédits d'impôts obtenus pour la production d'une même œuvre
 cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus

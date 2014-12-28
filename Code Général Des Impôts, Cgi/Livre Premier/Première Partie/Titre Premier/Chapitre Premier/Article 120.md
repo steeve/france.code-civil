@@ -20,9 +20,10 @@ b. Des produits des sociétés en commandite simple revenant aux associés en no
 parts de fondateur des mêmes sociétés, à un titre autre que celui de
 remboursement d'apports ou de primes d'émission. Une répartition n'est réputée
 présenter le caractère d'un remboursement d'apport ou de prime que si tous les
-bénéfices ou réserves ont été auparavant répartis. Les dispositions prévues à la
-deuxième phrase ne s'appliquent pas lorsque la répartition est effectuée au
-titre du rachat par la société émettrice de ses propres titres.
+bénéfices ou réserves ont été auparavant répartis. Toutefois, les sommes ou
+valeurs attribuées aux associés ou actionnaires au titre du rachat de leurs
+parts ou actions sont soumises au même régime fiscal que les sommes ou valeurs
+mentionnées au 6° de l'article 112.
 
 Ne sont pas considérées comme des apports pour l'application de la présente
 disposition :

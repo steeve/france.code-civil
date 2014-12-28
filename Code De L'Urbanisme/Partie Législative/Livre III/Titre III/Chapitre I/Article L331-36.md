@@ -24,10 +24,6 @@ Le versement pour sous-densité constitue un élément du prix de revient de
 l'ensemble immobilier au sens de l'article 302 septies B du code général des
 impôts.
 
-En cas d'institution du versement pour sous-densité, le versement pour
-dépassement du plafond légal de densité prévu par l'article L. 112-2 du présent
-code est supprimé de plein droit sur l'ensemble du territoire de la commune.
-
 Les délibérations sont adressées aux services de l'Etat chargés de l'urbanisme
 dans le département au plus tard le premier jour du deuxième mois qui suit la
 date à laquelle elles ont été adoptées.

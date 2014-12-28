@@ -9,9 +9,9 @@ relevant des articles L. 135-1 à L. 135-12 du code rural et de la pêche mariti
 à laquelle adhère leur propriétaire.
 
 Ce dégrèvement, accordé pour les impositions établies au titre de 1995 et des
-dix-neuf années suivantes, est subordonné à la condition que les recettes de
+vingt-deux années suivantes, est subordonné à la condition que les recettes de
 l'association foncière pastorale provenant d'activités autres qu'agricoles ou
-forestières n'excèdent ni 30% du chiffre d'affaires tiré de l'activité agricole
+forestières n'excèdent ni 30 % du chiffre d'affaires tiré de l'activité agricole
 et forestière ni 30 000 €. Ces montants s'apprécient remboursements de frais
 inclus et taxes comprises.
 

@@ -2,7 +2,9 @@ Article 72 D ter
 ----
 I.-Dans la limite du bénéfice, les déductions prévues aux articles 72 D et 72 D
 bis sont plafonnées à un montant global fixé, par exercice de douze mois, à 27
-000 €.
+000 €. Pour les exploitations agricoles à responsabilité limitée qui n'ont pas
+opté pour le régime fiscal des sociétés de capitaux, ce montant est multiplié
+par le nombre des associés exploitants, dans la limite de quatre.
 
 Lorsque le résultat de l'exercice est supérieur d'au moins 20 % à la moyenne des
 résultats des trois exercices précédents, l'exploitant peut pratiquer un
@@ -18,15 +20,21 @@ travaillées pour lesquelles une dépense a été engagée au cours de l'exercic
 1 607 heures. Cette conversion n'est pas effectuée si ce rapport est supérieur à
 un. Le total obtenu est arrondi à l'unité supérieure.
 
-Les déductions prévues aux articles 72 D et 72 D bis, majorées, le cas échéant,
-du complément de déduction pour aléas, sont plafonnées à la différence positive
-entre la somme de 150 000 € et le montant des déductions pratiquées et non
-encore rapportées au résultat, majoré, le cas échéant, des intérêts capitalisés
-en application du deuxième alinéa du 1 du I de l'article 72 D bis.
+Pour les exploitants individuels, les déductions prévues aux articles 72 D et 72
+D bis, majorées, le cas échéant, du complément de déduction pour aléas, sont
+plafonnées à la différence positive entre la somme de 150 000 € et le montant
+des déductions pratiquées et non encore rapportées au résultat, majoré, le cas
+échéant, des intérêts capitalisés en application du deuxième alinéa du 1 du I de
+l'article 72 D bis.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
-pour le régime fiscal des sociétés de capitaux, les plafonds sont multipliés par
-le nombre des associés exploitants dans la limite de trois.
+pour le régime fiscal des sociétés de capitaux, les déductions prévues aux
+articles 72 D et 72 D bis, majorées, le cas échéant, du complément de déduction
+pour aléas, sont plafonnées à la différence positive entre la somme de 150 000
+€, multipliée par le nombre des associés exploitants, dans la limite de quatre,
+et le montant des déductions pratiquées et non encore rapportées au résultat,
+majoré, le cas échéant, des intérêts capitalisés en application du deuxième
+alinéa du 1 du I du même article 72 D bis.
 
 II.-Les déductions mentionnées au premier alinéa du I sont pratiquées après
 application des abattements prévus aux articles 44 quaterdecies et 73 B.

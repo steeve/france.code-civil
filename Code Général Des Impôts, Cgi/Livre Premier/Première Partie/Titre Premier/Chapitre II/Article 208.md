@@ -70,9 +70,6 @@ exonérées en application des premier à huitième alinéas sont obligatoiremen
 distribués à hauteur de 85 p. 100 de la fraction exonérée de leur montant avant
 la fin de l'exercice qui suit celui de leur réalisation.
 
-Les dispositions du d du 6 de l'article 145 sont applicables aux dividendes
-prélevés sur ces bénéfices.
-
 Les sommes qui sont investies, soit directement, soit par l'intermédiaire de
 filiales, dans des immobilisations à l'étranger sont soumises à l'impôt sur les
 sociétés en proportion des bénéfices et réserves exonérés par rapport au montant

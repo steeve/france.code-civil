@@ -25,16 +25,18 @@ détail en France continentale correspondant à la moyenne pondérée des prix
 homologués.
 
 Les taux des droits de consommation fixés par chaque conseil général ne peuvent
-être supérieurs aux taux prévus à l'article 575 A du code général des impôts qui
-frappent les produits de même catégorie en France continentale.
+être supérieurs à la charge fiscale globale, exprimée en pourcentage du prix de
+vente au détail, qui frappe les produits de même catégorie vendus au prix moyen
+pondéré en France continentale en application des articles 575 et 575 A du code
+général des impôts.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par
 délibération, un minimum de perception spécifique fixé pour 1000 unités, tel que
 mentionné aux articles 575 et 575 A du code général des impôts, pour le droit de
 consommation sur les cigarettes dans leur circonscription administrative. Ce
 minimum de perception ne peut être supérieur au droit de consommation résultant
-de l'application du taux fixé par le conseil général au prix de vente au détail
-en France continentale des cigarettes de la classe de prix de référence.
+de l'application du taux fixé par le conseil général au prix moyen pondéré de
+vente au détail des cigarettes en France continentale.
 
 Les conseils généraux des départements d'outre-mer peuvent également établir un
 minimum de perception fixé pour 1 000 grammes pour les tabacs fine coupe

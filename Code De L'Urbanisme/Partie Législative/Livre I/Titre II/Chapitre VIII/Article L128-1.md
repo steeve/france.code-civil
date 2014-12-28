@@ -23,6 +23,3 @@ l'article L. 126-1.
 
 Un décret en Conseil d'Etat détermine les critères de performance et les
 équipements pris en compte.
-
-La partie de la construction en dépassement n'est pas assujettie au versement
-résultant du dépassement du plafond légal de densité.

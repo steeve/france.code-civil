@@ -10,9 +10,13 @@ hors de cette zone.
 Toutefois, cette procédure doit être précédée d'une homogénéisation des
 abattements pratiqués en matière de calcul de la taxe d'habitation.
 
-Par dérogation aux dispositions de l'article 1638, des taux d'imposition
+Par dérogation aux dispositions de l'article 1638 , des taux d'imposition
 différents peuvent être appliqués pour l'établissement des dix premiers budgets.
 Les différences qui affectent les taux d'imposition appliqués sont réduites
 chaque année d'un onzième et supprimées à partir de la onzième année.
+
+La durée de la procédure d'intégration fiscale progressive peut être réduite par
+délibération de la commune concernée. Cette décision ne peut être modifiée
+ultérieurement.
 
 II. Abrogé.

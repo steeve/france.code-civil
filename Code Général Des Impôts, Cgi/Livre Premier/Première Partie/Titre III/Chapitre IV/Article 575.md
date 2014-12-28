@@ -7,11 +7,9 @@ Le droit de consommation sur les tabacs comporte une part spécifique par unité
 de produit ou de poids et une part proportionnelle au prix de vente au détail.
 
 La part proportionnelle résulte de l'application du taux proportionnel au prix
-de vente au détail. La part spécifique pour mille unités ou mille grammes
-résulte de l'application du taux spécifique à la classe de prix de référence. Le
-taux proportionnel est égal à la différence entre le taux normal et le taux
-spécifique. Le taux normal et le taux spécifique sont définis, par groupe de
-produits, à l'article 575 A.
+de vente au détail. La part spécifique pour mille unités ou mille grammes ainsi
+que le taux proportionnel sont définis, par groupe de produits, à l'article 575
+A.
 
 La classe de prix de référence d'un groupe de produits correspond au prix moyen
 pondéré de vente au détail exprimé pour mille unités ou mille grammes et arrondi

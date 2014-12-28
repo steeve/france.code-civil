@@ -6,31 +6,24 @@ commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur 
 revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à
 l'exclusion des plus-values constatées lors de la réévaluation des éléments
 d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création
-et déclarés selon les modalités prévues à l'article 53 A. Dans les zones de
-revitalisation rurale mentionnées à l'article 1465 A, le bénéfice des
-dispositions du présent article est également accordé aux entreprises qui
-exercent une activité professionnelle au sens du 1 de l'article 92, ainsi qu'aux
-contribuables visés au 5° du I de l'article 35. Le contribuable exerçant une
-activité de location d'immeubles n'est exonéré qu'à raison des bénéfices
-provenant des seuls immeubles situés dans une zone de revitalisation rurale. Les
-bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés
-que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils
-sont réalisés respectivement au cours de la première, de la seconde ou de la
-troisième période de douze mois suivant cette période d'exonération.
+et déclarés selon les modalités prévues à l'article 53 A. L'exonération
+s'applique également aux sociétés soumises à l'impôt sur les sociétés qui
+exercent une activité professionnelle, au sens du 1 de l'article 92, dont
+l'effectif de salariés bénéficiant d'un contrat de travail à durée indéterminée
+ou d'une durée de six mois au moins est égal ou supérieur à trois salariés à la
+clôture du premier exercice et au cours de chaque exercice de la période
+d'application du présent article. Si l'effectif varie en cours d'exercice, il
+est calculé compte tenu de la durée de présence des salariés en cause pendant
+l'exercice. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt
+sur les sociétés que pour le quart, la moitié ou les trois quarts de leur
+montant selon qu'ils sont réalisés respectivement au cours de la première, de la
+seconde ou de la troisième période de douze mois suivant cette période
+d'exonération.
 
-Le bénéfice du présent article est réservé aux entreprises qui se créent dans
-les zones et durant les périodes suivantes, à la condition que le siège social
-ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés
-dans l'une de ces zones :
-
-1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2010, dans les zones de
-revitalisation rurale mentionnées à l'article 1465 A ou dans les zones de
-redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 du
-4 février 1995 d'orientation pour l'aménagement et le développement du
-territoire ;
-
-2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2014, dans les zones
-d'aide à finalité régionale.
+Le bénéfice du présent article est réservé aux entreprises qui se créent à
+compter du 1er janvier 2007 et jusqu'au 31 décembre 2020 dans les zones d'aide à
+finalité régionale, à la condition que le siège social ainsi que l'ensemble de
+l'activité et des moyens d'exploitation soient implantés dans ces zones.
 
 Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en
 dehors des zones précitées, la condition d'implantation est réputée satisfaite
@@ -40,38 +33,14 @@ revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en
 proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette
 condition de chiffre d'affaires s'apprécie exercice par exercice.
 
-Toutefois, les entreprises qui se sont créées à compter du 1er janvier 2004
-jusqu'au 31 décembre 2010 dans les zones de revitalisation rurale mentionnées à
-l'article 1465 A, et à la condition que le siège social ainsi que l'ensemble de
-l'activité et des moyens d'exploitation soient implantés dans ces zones, sont
-exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des
-bénéfices réalisés, à l'exclusion des plus-values constatées lors de la
-réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois
-suivant celui de leur création et déclarés selon les modalités prévues à
-l'article 53 A. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt
-sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils
-sont réalisés respectivement au cours des cinq premières, des sixième et
-septième ou des huitième et neuvième périodes de douze mois suivant cette
-période d'exonération.
-
-Ces dispositions s'appliquent également aux sociétés soumises à l'impôt sur les
-sociétés qui exercent une activité professionnelle au sens du 1 de l'article 92
-dont l'effectif de salariés bénéficiant d'un contrat de travail à durée
-indéterminée ou d'une durée de six mois au moins est égal ou supérieur à trois à
-la clôture du premier exercice et au cours de chaque exercice de la période
-d'application des dispositions du présent article ; si l'effectif varie en cours
-d'exercice, il est calculé compte tenu de la durée de présence des salariés en
-cause pendant l'exercice.
-
 Ces dispositions ne s'appliquent pas aux entreprises qui exercent une activité
-bancaire, financière, d'assurances, de gestion ou de location d'immeubles sauf
-dans les cas prévus au premier alinéa, ni aux entreprises exerçant une activité
-de pêche maritime créées à compter du 1er janvier 1997.
+bancaire, financière, d'assurances, de gestion ou de location d'immeubles, ni
+aux entreprises exerçant une activité de pêche maritime créées à compter du 1er
+janvier 1997.
 
 L'exonération reste applicable pour sa durée restant à courir lorsque la commune
-d'implantation de l'entreprise sort de la liste des communes classées en zone de
-revitalisation rurale, d'aide à finalité régionale ou de redynamisation urbaine
-après la date de sa création.
+d'implantation de l'entreprise sort de la liste des communes classées en zone
+d'aide à finalité régionale après la date de sa création.
 
 II. Le capital des sociétés nouvellement créées ne doit pas être détenu,
 directement ou indirectement, pour plus de 50 % par d'autres sociétés.
@@ -101,12 +70,12 @@ d'approvisionnement, de modalités de gestion administrative, contentieuse,
 commerciale ou technique, dans des conditions telles que cette entreprise est
 placée dans une situation de dépendance.
 
-IV. Pour les entreprises créées à compter du 1er janvier 2000, le bénéfice
-exonéré ne peut en aucun cas excéder 225 000 euros par période de trente-six
-mois. Ces dispositions s'appliquent aux exercices clos jusqu'au 31 décembre
-2006.
+IV. - Pour les exercices clos du 1er janvier 2007 au 31 décembre 2013, le
+bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des
+articles 87 et 88 du traité aux aides de minimis.
 
-Pour les exercices clos à compter du 1er janvier 2007, le bénéfice de
-l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la
-Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
-traité aux aides de minimis.
+Pour les exercices clos à compter du 1er janvier 2014, le bénéfice de
+l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la
+Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108
+du traité sur le fonctionnement de l'Union européenne aux aides de minimis (1).

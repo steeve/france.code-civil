@@ -12,9 +12,9 @@ Cette option ne peut être exercée qu'avec l'accord des membres du groupe
 intéressés.
 
 L'option peut aussi être exercée par un organe central ou une caisse
-départementale ou interdépartementale ayant opté pour le régime visé au
-troisième alinéa de l'article 223 A, pour l'ensemble des banques, caisses et
-sociétés mentionnées à ce même alinéa.
+départementale ou interdépartementale ayant opté pour le régime mentionné au
+cinquième alinéa du I de l'article 223 A, pour l'ensemble des banques, caisses
+et sociétés mentionnées à ce même alinéa.
 
 Elle ne concerne que les groupes dont les membres remplissent les conditions
 cumulatives suivantes :

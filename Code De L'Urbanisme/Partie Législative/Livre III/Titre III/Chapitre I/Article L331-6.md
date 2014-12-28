@@ -15,6 +15,7 @@ Le fait générateur de la taxe est, selon les cas, la date de délivrance de
 l'autorisation de construire ou d'aménager, celle de délivrance du permis
 modificatif, celle de la naissance d'une autorisation tacite de construire ou
 d'aménager, celle de la décision de non-opposition à une déclaration préalable
-ou, en cas de construction sans autorisation ou en infraction aux obligations
-résultant de l'autorisation de construire ou d'aménager, celle du procès-verbal
-constatant la ou les infractions.
+ou, en cas de constructions ou d'aménagements sans autorisation ou en infraction
+aux obligations résultant de l'autorisation de construire ou d'aménager, celle
+du procès-verbal constatant l'achèvement des constructions ou des aménagements
+en cause.

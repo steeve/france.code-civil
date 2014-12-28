@@ -270,7 +270,7 @@ de l'article 1636 B decies, les taux moyens relatifs à l'année 2010 s'entenden
 pour la cotisation foncière des entreprises, des moyennes des taux relais
 définis au I de l'article 1640 B et, pour la taxe d'habitation et les taxes
 foncières, des taux appliqués en 2010 ; pour l'application des II et III de
-l'article 1609 nonies C, du huitième alinéa du I de l'article 1638-0 bis, des II
+l'article 1609 nonies C, du neuvième alinéa du I de l'article 1638-0 bis, des II
 et III du même article et du I de l'article 1638 quinquies, les taux moyens de
 cotisation foncière des entreprises relatifs à l'année 2010 s'entendent des
 moyennes des taux relais définis au I de l'article 1640 B, ces moyennes étant
@@ -284,8 +284,8 @@ même 3°.
 
 B.-Pour l'application, à compter de l'année 2011, des procédures de réduction
 des écarts de taux prévues au b du 1° du III de l'article 1609 nonies C, à
-l'article 1638, au troisième alinéa du III de l'article 1638-0 bis et aux a et b
-du I de l'article 1638 quater :
+l'article 1638, au troisième alinéa du III de l'article 1638-0 bis et au I de
+l'article 1638 quater :
 
 1. Lorsque la période d'intégration des taux commence en 2010 et ne se termine
 pas en 2011, les écarts de taux résiduels 2010 sont calculés sur la base de taux

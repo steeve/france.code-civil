@@ -45,6 +45,18 @@ les parties au contrat en cause pour l'application du régime défini au présen
 article. De même, les titres mentionnés à l'article 38 bis A ne sont pas pris en
 compte pour l'application de ce régime.
 
+Les titres que le constituant a transférés dans un patrimoine fiduciaire dans
+les conditions prévues à l'article 238 quater B sont pris en compte pour
+l'appréciation du seuil de détention du capital mentionné au b du présent 1 et
+sont soumis au régime prévu au présent article à condition que le constituant
+conserve l'exercice des droits de vote attachés aux titres transférés ou que le
+fiduciaire exerce ces droits dans le sens déterminé par le constituant, sous
+réserve des éventuelles limitations convenues par les parties au contrat
+établissant la fiducie pour protéger les intérêts financiers du ou des
+créanciers bénéficiaires de la fiducie. Le délai de conservation mentionné au
+premier alinéa du c n'est pas interrompu par le transfert des titres dans le
+patrimoine fiduciaire.
+
 2. à 4. (abrogés pour la détermination des résultats des exercices ouverts à
 compter du 1er janvier 1993).
 
@@ -52,78 +64,24 @@ compter du 1er janvier 1993).
 
 6. Le régime fiscal des sociétés mères n'est pas applicable :
 
-a. aux produits des actions de sociétés d'investissement, des sociétés de
-développement régional ;
+a) [Dispositions déclarées non conformes à la Constitution par la décision du
+Conseil constitutionnel n° 2014-708 DC du 29 décembre 2014] ;
 
-b. et b bis (abrogés pour la détermination des résultats des exercices ouverts à
-compter du 1er janvier 1993) ;
+b) Aux produits des titres d'une société, dans la proportion où les bénéfices
+ainsi distribués sont déductibles du résultat imposable de cette société ;
 
-b. ter aux produits des titres auxquels ne sont pas attachés des droits de vote,
+c) Aux produits des titres auxquels ne sont pas attachés des droits de vote,
 sauf si la société détient des titres représentant au moins 5 % du capital et
 des droits de vote de la société émettrice ;
 
-c. (périmé) ;
+d) Aux produits des titres d'une société établie dans un Etat ou territoire non
+coopératif, au sens de l'article 238-0 A ;
 
-d. aux dividendes distribués aux actionnaires des sociétés immobilières pour le
-commerce et l'industrie visés au dixième alinéa du 3° quater de l'article 208 et
-prélevés sur les bénéfices exonérés visés au neuvième alinéa du 3° quater du
-même article ;
+e) Aux produits des parts de sociétés immobilières inscrites en stock à l'actif
+de sociétés qui exercent une activité de marchand de biens, au sens du 1° du I
+de l'article 35.
 
-e. aux dividendes distribués aux actionnaires des sociétés agréées pour le
-financement des télécommunications visées à l'article 1er de la loi n° 69-1160
-du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une
-société immobilière pour le commerce et l'industrie en application du huitième
-alinéa du 3° quinquies de l'article 208 ;
-
-f. (abrogé pour les exercices ouverts à compter du 1er janvier 2000) ;
-
-g. aux produits et plus-values nets distribués par les sociétés de
-capital-risque exonérés en application du 3° septies de l'article 208 ;
-
-h. aux bénéfices distribués aux actionnaires :
-
-1° des sociétés d'investissements immobiliers cotées et de leurs filiales visées
-à l'article 208 C et prélevés sur les bénéfices exonérés en application du
-premier alinéa du II de cet article et non réintégrés en application du IV de ce
-même article ;
-
-2° Des sociétés étrangères ayant une activité identique à celles mentionnées à
-l'article 208 C et qui sont exonérées, dans l'Etat où elles ont leur siège de
-direction effective, de l'impôt sur les sociétés de cet Etat ;
-
-i. aux revenus et profits distribués aux actionnaires de sociétés de placement à
-prépondérance immobilière à capital variable mentionnées au 3° nonies de
-l'article 208 et à ceux de leurs filiales ayant opté pour le régime prévu au II
-de l'article 208 C ;
-
-j) Aux produits des titres d'une société établie dans un Etat ou territoire non
-coopératif au sens de l'article 238-0 A ; (1)
-
-k) Aux produits des parts de sociétés immobilières inscrites en stock à l'actif
-de sociétés qui exercent une activité de marchand de biens au sens du 1° du I de
-l'article 35.
-
-7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des
-actions des sociétés immobilières d'investissement régies par le I de l'article
-33 de la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion
-régies par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas
-et pendant les périodes ci-après :
-
-1° pendant vingt-cinq ans à compter de leur émission, pour les actions
-souscrites en espèces et entièrement libérées par les sociétés participantes
-avant le 1er janvier 1966 ;
-
-2° (disposition périmée) ;
-
-3° jusqu'au 31 décembre 1985, pour les actions acquises ou souscrites et
-libérées par les sociétés participantes avant la promulgation de la loi n°
-63-254 du 15 mars 1963, dans le capital de sociétés immobilières conventionnées
-admises à bénéficier des dispositions de l'ordonnance n° 58-876 du 24 septembre
-1958.
-
-En ce qui concerne les actions visées au 1°, aucun pourcentage minimal de
-participation n'est exigé pour l'application du régime défini au présent
-article.
+7. Abrogé
 
 8. (Transféré sous le paragraphe 6 d ci-dessus).
 
