@@ -33,6 +33,23 @@ a) Les évacuations sanitaires d'urgence ;
 b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92
 du Conseil du 23 juillet 1992 concernant les licences des transporteurs aériens.
 
+3. Lorsque le passager est en correspondance, il bénéficie d'une exonération de
+50 %. Est considéré comme passager en correspondance celui qui remplit les trois
+conditions suivantes :
+
+a) L'arrivée a eu lieu par voie aérienne sur l'aéroport considéré ou sur l'un
+des aéroports appartenant au même système aéroportuaire desservant la même ville
+ou agglomération ;
+
+b) Le délai entre les heures programmées respectives de l'arrivée et du départ
+n'excède pas vingt-quatre heures ;
+
+c) L'aéroport de destination finale est distinct de celui de provenance initiale
+et ne fait pas partie du même système aéroportuaire tel que mentionné au a.
+
+Pour l'application du a, un décret précise les aéroports faisant partie d'un
+même système aéroportuaire.
+
 II. - 1. Le tarif de la taxe est le suivant :
 
 4,36 € par passager embarqué à destination de la France, d'un autre Etat membre
