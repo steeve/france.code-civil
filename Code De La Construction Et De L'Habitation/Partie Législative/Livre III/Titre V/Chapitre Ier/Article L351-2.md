@@ -49,3 +49,8 @@ définissant la location-accession à la propriété immobilière, lorsque ces
 logements ont été construits, améliorés ou acquis et améliorés au moyen de
 formes spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et
 les conditions d'octroi sont fixées par décret.
+
+Pour les prêts ou les contrats de location-accession signés à compter du 1er
+janvier 2016, les 1° et 6° du présent article ne sont applicables que si le
+montant total des ressources perçues par le ménage est inférieur de plus de 30 %
+au montant des ressources du ménage évaluées à la date de signature.

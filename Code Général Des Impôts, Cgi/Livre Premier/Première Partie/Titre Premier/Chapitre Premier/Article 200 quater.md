@@ -2,14 +2,9 @@ Article 200 quater
 ----
 1. Les contribuables domiciliés en France au sens de l'article 4 B peuvent
 bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses effectivement
-supportées pour l'amélioration de la qualité environnementale du logement dont
-ils sont propriétaires, locataires ou occupants à titre gratuit et qu'ils
-affectent à leur habitation principale, à condition de réaliser des dépenses
-mentionnées aux b à g du présent 1 selon les modalités prévues au 5 bis. Cette
-condition n'est pas applicable aux contribuables dont le revenu fiscal de
-référence défini au II de l'article 1417 n'excède pas, au titre de
-l'avant-dernière année précédant celle du paiement de la dépense, la limite
-prévue au même II.
+supportées pour la contribution à la transition énergétique du logement dont ils
+sont propriétaires, locataires ou occupants à titre gratuit et qu'ils affectent
+à leur habitation principale. (1)
 
 Ce crédit d'impôt s'applique :
 
@@ -22,10 +17,6 @@ entre le 1er janvier 2005 et le 31 décembre 2015, au titre de :
 
 2° L'acquisition de matériaux d'isolation thermique des parois vitrées, de
 volets isolants ou de portes d'entrée donnant sur l'extérieur ;
-
-Toutefois, lorsque l'acquisition de tels matériaux est réalisée pour une maison
-individuelle, le crédit d'impôt ne s'applique qu'à la condition que des dépenses
-mentionnées au présent 1 soient réalisées selon les modalités prévues au 5 bis ;
 
 3° L'acquisition et la pose de matériaux d'isolation thermique des parois
 opaques, dans la limite d'un plafond de dépenses par mètre carré, fixé par
@@ -61,7 +52,9 @@ travaux réalisés dans un logement achevé depuis plus de deux ans ;
 
 d) Au coût des équipements de raccordement à un réseau de chaleur, alimenté
 majoritairement par des énergies renouvelables ou par une installation de
-cogénération :
+cogénération ou, dans un département d'outre-mer, par des équipements de
+raccordement à un réseau de froid, alimenté majoritairement par du froid
+d'origine renouvelable ou de récupération : (1)
 
 1° Payés entre le 1er janvier 2006 et le 31 décembre 2012 dans le cadre de
 travaux réalisés dans un logement achevé ;
@@ -91,7 +84,29 @@ performance énergétique ouvre droit au crédit d'impôt par période de cinq a
 g) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, payées
 entre le 1er janvier 2012 et le 31 décembre 2015, au titre de chaudières à
 micro-cogénération gaz d'une puissance de production électrique inférieure ou
-égale à 3 kilovolt-ampères par logement.
+égale à 3 kilovolt-ampères par logement ;
+
+h) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, payées
+entre le 1er septembre 2014 et le 31 décembre 2015, au titre de l'acquisition
+d'appareils permettant d'individualiser les frais de chauffage ou d'eau chaude
+sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un
+réseau de chaleur ;
+
+i) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, payées
+entre le 1er septembre 2014 et le 31 décembre 2015, au titre de l'acquisition
+d'un système de charge pour véhicule électrique ;
+
+j) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans situé à
+La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées entre
+le 1er septembre 2014 et le 31 décembre 2015, au titre de l'acquisition
+d'équipements ou de matériaux de protection des parois vitrées ou opaques contre
+les rayonnements solaires ;
+
+k) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans situé à
+La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées entre
+le 1er septembre 2014 et le 31 décembre 2015, au titre de l'acquisition
+d'équipements ou de matériaux visant à l'optimisation de la ventilation
+naturelle, notamment les brasseurs d'air. (1)
 
 1 bis. (Sans objet).
 
@@ -120,45 +135,25 @@ personne à charge au sens des articles 196 à 196 B. La somme de 400 € est
 divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et
 l'autre de ses parents.
 
-5. Le crédit d'impôt est égal à 15 % du montant des matériaux, équipements,
+5. Le crédit d'impôt est égal à 30 % du montant des matériaux, équipements,
 appareils et dépenses de diagnostic de performance énergétique mentionnés au 1.
+(1)
 
-5 bis. Si, pour un même logement et sur une même année ou sur deux années
-consécutives, le contribuable réalise des dépenses relevant d'au moins deux des
-catégories suivantes, le taux de 15 % mentionné au 5 est porté à 25 % pour ces
-mêmes dépenses :
+5 bis. Abrogé.
 
-a) Dépenses d'acquisition de matériaux d'isolation thermique des parois vitrées,
-mentionnées au 2° du b du 1 ;
+5 ter. Pour les dépenses payées du 1er janvier au 31 août 2014, le crédit
+d'impôt s'applique dans les conditions prévues au présent article, dans sa
+rédaction antérieure à la loi n° 2014-1654 du 29 décembre 2014 de finances pour
+2015.
 
-b) Dépenses d'acquisition et de pose de matériaux d'isolation thermique des
-parois opaques en vue de l'isolation des murs, mentionnées au 3° du b du 1 ;
-
-c) Dépenses d'acquisition et de pose de matériaux d'isolation thermique des
-parois opaques en vue de l'isolation des toitures, mentionnées au même 3° ;
-
-d) Dépenses au titre de l'acquisition de chaudières ou d'équipements de
-chauffage ou de production d'eau chaude fonctionnant au bois ou autres
-biomasses, mentionnées au c du 1 ;
-
-e) Dépenses au titre de l'acquisition d'équipements de production d'eau chaude
-sanitaire utilisant une source d'énergie renouvelable, mentionnées au même c ;
-
-f) Dépenses d'acquisition de chaudières à condensation mentionnées au 1° du b du
-1, de chaudières à micro-cogénération gaz mentionnées au g du même 1 et
-d'équipements de production d'énergie utilisant une source d'énergie
-renouvelable ou de pompes à chaleur mentionnées au c dudit 1, à l'exception de
-celles visées aux d et e du présent 5 bis.
-
-Par dérogation au 3, lorsque les dépenses précitées sont réalisées sur une
-période de deux années consécutives, le contribuable porte l'ensemble de ces
-dépenses, payées durant cette période, sur la déclaration mentionnée à l'article
-170 souscrite au titre de la seconde année. Le crédit d'impôt s'applique alors
-pour le calcul de l'impôt dû au titre de cette même année.
-
-L'avant-dernier alinéa du présent 5 bis est exclusif du bénéfice du crédit
-d'impôt à raison de ces mêmes dépenses au titre de la première année de leur
-réalisation.
+Toutefois, au titre de ces mêmes dépenses, lorsque l'application du crédit
+d'impôt est conditionnée à la réalisation de dépenses selon les modalités
+prévues au 5 bis, dans sa rédaction antérieure à la même loi, le crédit d'impôt
+s'applique dans les conditions prévues au présent article, dans sa rédaction
+antérieure à ladite loi, sous réserve que des dépenses relevant d'au moins deux
+des catégories prévues au même 5 bis soient réalisées au cours de l'année 2014
+ou des années 2014 et 2015. Dans ce dernier cas, les deux derniers alinéas dudit
+5 bis s'appliquent dans leur rédaction antérieure à la même loi.
 
 6. a. Les équipements, matériaux, appareils et travaux de pose mentionnés au 1
 s'entendent de ceux figurant sur la facture d'une entreprise ou, le cas échéant,
@@ -211,8 +206,9 @@ justifiée.
 
 6 bis. Abrogé.
 
-6 ter. Un contribuable ne peut, pour une même dépense, bénéficier à la fois de
-l'aide prévue à l'article 199 sexdecies et des dispositions du présent article.
+6 ter. Un contribuable ne peut, pour une même dépense, bénéficier à la fois des
+dispositions du présent article et de l'aide prévue à l'article 199 sexdecies ou
+d'une déduction de charge pour la détermination de ses revenus catégoriels. (1)
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des
 réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits

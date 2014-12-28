@@ -8,7 +8,7 @@ code, sont exonérés de la taxe foncière sur les propriétés bâties pendant 
 durée de quinze ans à compter de l'année qui suit celle de leur acquisition. La
 durée de l'exonération est portée à vingt-cinq ans lorsque la décision de
 subvention ou de prêt intervient entre le 1er juillet 2004 et le 31 décembre
-2014.
+2018.
 
 Sont également exonérés de taxe foncière sur les propriétés bâties pendant une
 durée de quinze ans les logements visés au 4° de l'article L. 351-2 du code de
@@ -26,7 +26,7 @@ de l'acquisition des logements par ces organismes. L'exonération de quinze ans
 est applicable à compter de l'année qui suit celle de l'achèvement des travaux
 d'amélioration. La durée de l'exonération est portée à vingt-cinq ans lorsque la
 décision de subvention de l'Agence nationale de l'habitat intervient entre le
-1er juillet 2004 et le 31 décembre 2014.
+1er juillet 2004 et le 31 décembre 2018.
 
 La durée de l'exonération est ramenée à quinze ans pour les logements acquis
 auprès des organismes mentionnés à l'article L. 411-5 du code de la construction
@@ -50,7 +50,7 @@ décret. L'exonération de quinze ans est applicable à compter de l'année qui 
 celle de l'achèvement des travaux d'amélioration pour les logements dont lesdits
 travaux sont achevés depuis le 1er juillet 2004. La durée de l'exonération est
 portée à vingt-cinq ans lorsque la décision de subvention intervient entre le
-1er juillet 2004 et le 31 décembre 2014.
+1er juillet 2004 et le 31 décembre 2018.
 
 Pour bénéficier de l'exonération, le propriétaire doit satisfaire aux
 obligations déclaratives prévues au I pour les immeubles mentionnés au 4° de

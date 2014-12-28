@@ -1,11 +1,13 @@
 Article L3335-3
 ----
-I.-En 2014, il est créé un fonds de solidarité en faveur des départements.
+I.-A compter de 2014, il est créé un fonds de solidarité en faveur des
+départements. A compter de 2015, le présent article s'applique à la métropole de
+Lyon.
 
 II.-Ce fonds est alimenté par un prélèvement égal à 0,35 % du montant de
 l'assiette de la taxe de publicité foncière et des droits d'enregistrement
-perçus par les départements en 2013 en application des articles 682 et 683 du
-code général des impôts.
+perçus par les départements, l'année précédant celle de la répartition, en
+application des articles 682 et 683 du code général des impôts.
 
 Pour chaque département, la somme des prélèvements opérés en application du
 présent article et du IV de l'article L. 3335-2 du présent code ne peut excéder
@@ -69,7 +71,9 @@ attribution au titre du fonds. L'attribution au titre du fonds des départements
 éligibles à la première fraction ou à la seconde fraction et dont le montant par
 habitant des droits de mutation à titre onéreux est supérieur à 1,1 fois le
 montant moyen par habitant des droits perçus par l'ensemble des départements
-fait l'objet d'un abattement de 50 %.
+fait l'objet d'un abattement de 50 %. Pour le calcul du montant par habitant des
+droits de mutation à titre onéreux, la population à prendre en compte est celle
+calculée en application de l'article L. 3334-2.
 
 4. Pour l'application du présent article, le potentiel fiscal utilisé est majoré
 ou, le cas échéant, minoré d'une fraction de correction égale pour chaque

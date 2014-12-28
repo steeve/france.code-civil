@@ -1,10 +1,17 @@
 Article L154
 ----
-Les autorités administratives et organismes appelés à intervenir dans les
-procédures relatives à l'attribution, à la révision et au maintien de
-l'allocation spéciale vieillesse instituée par l'article L. 814-1 du code de la
-sécurité sociale peuvent recevoir des agents de l'administration des impôts
-communication des renseignements qu'elle détient sur les ressources et revenus
-dont dispose la personne qui présente une demande d'allocation ou qui perçoit
-cette allocation et sur les biens que celle-ci possède ou dont elle a transmis
-la propriété à d'autres personnes par voie de donation ou donation-partage.
+L'administration fiscale communique à l'Agence nationale pour la garantie des
+droits des mineurs instituée par la loi n° 2004-105 du 3 février 2004 portant
+création de l'Agence nationale pour la garantie des droits des mineurs et
+diverses dispositions relatives aux mines, les informations nominatives
+mentionnées aux 1° à 5° de l'article L. 152.
+
+Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction
+des droits aux prestations, l'organisme mentionné au premier alinéa du présent
+article peut demander à l'administration fiscale de lui communiquer une liste
+des personnes qui ont déclaré n'avoir plus leur domicile en France.
+
+Le numéro d'inscription au répertoire national d'identification des personnes
+physiques peut être utilisé pour les demandes, les échanges et les traitements
+nécessaires à la communication des informations mentionnées aux mêmes 1° à 5°,
+lorsqu'elles concernent des personnes physiques.

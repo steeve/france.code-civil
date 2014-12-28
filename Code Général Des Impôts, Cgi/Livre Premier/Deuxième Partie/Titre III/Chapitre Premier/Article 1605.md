@@ -2,8 +2,8 @@ Article 1605
 ----
 I. ― Il est institué au profit des sociétés et de l'établissement public visés
 par les articles 44 ,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative
-à la liberté de communication une taxe dénommée contribution à l'audiovisuel
-public.
+à la liberté de communication ainsi que de la société TV5 Monde une taxe
+dénommée contribution à l'audiovisuel public.
 
 II. - La contribution à l'audiovisuel public est due :
 
@@ -21,7 +21,7 @@ personnes morales, à la condition de détenir au 1er janvier de l'année au cou
 de laquelle la contribution à l'audiovisuel public est due un appareil récepteur
 de télévision ou un dispositif assimilé dans un local situé en France.
 
-III. - Le montant de la contribution à l'audiovisuel public est de 133 € pour la
+III. - Le montant de la contribution à l'audiovisuel public est de 135 € pour la
 France métropolitaine et de 85 € pour les départements d'outre-mer.
 
 Ce montant est indexé chaque année sur l'indice des prix à la consommation hors

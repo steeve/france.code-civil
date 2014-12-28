@@ -101,10 +101,10 @@ premier alinéa au titre du premier exercice clos à compter de la même date.
 4 bis. Pour l'application des dispositions du 2, pour le calcul de la différence
 entre les valeurs de l'actif net à la clôture et à l'ouverture de l'exercice,
 l'actif net d'ouverture du premier exercice non prescrit déterminé, sauf
-dispositions particulières, conformément aux premier, deuxième et troisième
-alinéas de l'article L. 169 du livre des procédures fiscales ne peut être
-corrigé des omissions ou erreurs entraînant une sous-estimation ou surestimation
-de celui-ci.
+dispositions particulières, conformément aux premier et deuxième alinéas de
+l'article L. 169 du livre des procédures fiscales ne peut être corrigé des
+omissions ou erreurs entraînant une sous-estimation ou surestimation de
+celui-ci.
 
 Les dispositions du premier alinéa ne s'appliquent pas lorsque l'entreprise
 apporte la preuve que ces omissions ou erreurs sont intervenues plus de sept ans
@@ -263,8 +263,8 @@ l'article 39 duodecies, dans la limite de la plus-value réalisée sur les actio
 détenues depuis deux ans au moins.
 
 Ces dispositions ne sont pas applicables si le total de la soulte et, le cas
-échéant, du prix des droits mentionnés au deuxième alinéa dépasse 10 p. 100 de
-la valeur nominale des actions attribuées ou si ce total excède la plus-value
+échéant, du prix des droits mentionnés au deuxième alinéa dépasse 10 % de la
+valeur nominale des actions attribuées ou si ce total excède la plus-value
 réalisée.
 
 Lorsque, à l'occasion d'une opération d'échange d'actions mentionnée au premier
@@ -355,8 +355,8 @@ bénéficier du régime des plus-values à long terme prévu à l'article 39
 duodecies, dans la limite de la plus-value réalisée sur les titres détenus
 depuis deux ans au moins.
 
-Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la
-valeur nominale des parts ou des actions attribuées ou si la soulte excède la
+Ces dispositions ne sont pas applicables si la soulte dépasse 10 % de la valeur
+nominale des parts ou des actions attribuées ou si la soulte excède la
 plus-value réalisée.
 
 8.1° La plus-value de cession séparée de valeurs mobilières et de droits de

@@ -1,10 +1,9 @@
 Article L2333-44
 ----
-La taxe de séjour forfaitaire est versée au receveur municipal par les logeurs,
-hôteliers et propriétaires aux dates fixées par délibération du conseil
-municipal.
+Le montant des taxes acquittées est contrôlé par la commune. Le maire et les
+agents commissionnés par lui peuvent procéder à la vérification des déclarations
+produites par les logeurs, les hôteliers, les propriétaires et les autres
+intermédiaires chargés de la perception de la taxe.
 
-Lorsqu'il est fait application des dispositions de l'article L. 5211-21, les
-versements libératoires sont acquittés auprès du comptable public assignataire
-de l'établissement public de coopération intercommunale à fiscalité propre ou de
-celui de la métropole de Lyon.
+A cette fin, il peut demander à toute personne responsable de la perception de
+la taxe la communication des pièces comptables s'y rapportant.

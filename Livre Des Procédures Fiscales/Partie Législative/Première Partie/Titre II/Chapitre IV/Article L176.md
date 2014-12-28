@@ -6,17 +6,6 @@ cours de laquelle la taxe est devenue exigible conformément aux dispositions du
 2 de l'article 269 du code général des impôts.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de
-l'administration s'exerce jusqu'à la fin de la deuxième année qui suit celle au
-titre de laquelle la taxe est devenue exigible conformément au 2 de l'article
-269 du code général des impôts pour les contribuables dont les revenus
-bénéficient des dispositions du deuxième alinéa de l'article L. 169 et pour les
-périodes pour lesquelles le service des impôts des entreprises a reçu une copie
-du compte rendu de mission prévu aux articles 1649 quater E et 1649 quater H du
-même code. Cette réduction de délai ne s'applique pas aux contribuables pour
-lesquels des pénalités autres que les intérêts de retard auront été appliquées
-sur les périodes d'imposition non prescrites visées au présent alinéa.
-
-Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au
 titre de laquelle la taxe est devenue exigible conformément aux dispositions du
 2 de l'article 269 du code général des impôts lorsque l'administration a dressé
@@ -46,8 +35,8 @@ d'un groupe mentionné à l'article 1693 ter du code général des impôts qui a
 concouru à la détermination du crédit dont bénéficie le redevable mentionné au 1
 du même article en application du b du 3 dudit article peut être remise en cause
 à hauteur du montant de ce crédit, nonobstant les dispositions prévues aux
-premier et troisième alinéas du présent article.
+premier et deuxième alinéas du présent article.
 
-Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent
-applicables pour le contrôle du crédit de taxe mentionné au second alinéa du
-même article 1693 ter A.
+Si le groupe a cessé d'exister, les règles définies au cinquième alinéa
+demeurent applicables pour le contrôle du crédit de taxe mentionné au second
+alinéa du même article 1693 ter A.

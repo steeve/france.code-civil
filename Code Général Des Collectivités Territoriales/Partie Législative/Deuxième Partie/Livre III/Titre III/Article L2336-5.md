@@ -8,7 +8,7 @@ métropole selon les modalités suivantes :
 
 1° Bénéficient d'une attribution au titre du fonds, sous réserve que leur effort
 fiscal calculé en application du V de l'article L. 2336-2 soit supérieur à 0,8
-en 2014 et à 0,9 en 2015 :
+en 2014, à 0,9 en 2015 et à 1 en 2016 :
 
 a) 60 % des ensembles intercommunaux classés en fonction décroissante d'un
 indice synthétique de ressources et de charges ;
@@ -77,12 +77,13 @@ sur le territoire de l'établissement public de coopération intercommunale à
 fiscalité propre ainsi que, à titre complémentaire, d'autres critères de
 ressources ou de charges qui peuvent être choisis par le conseil de
 l'établissement public de coopération intercommunale à fiscalité propre. Ces
-modalités ne peuvent avoir pour effet de minorer de plus de 20 % l'attribution
+modalités ne peuvent avoir pour effet de minorer de plus de 30 % l'attribution
 d'une commune membre par rapport à celle calculée en application du premier
 alinéa du présent II ;
 
-2° Soit par délibération du conseil de l'établissement public de coopération
-intercommunale à fiscalité propre statuant à l'unanimité, prise avant le 30 juin
-de l'année de répartition.
+2° Soit par délibérations concordantes, prises avant le 30 juin de l'année de
+répartition, de l'organe délibérant de l'établissement public de coopération
+intercommunale statuant à la majorité des deux tiers et des conseils municipaux
+des communes membres.
 
 III. ― Abrogé.

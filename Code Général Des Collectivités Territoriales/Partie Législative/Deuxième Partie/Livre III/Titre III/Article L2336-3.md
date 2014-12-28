@@ -69,12 +69,13 @@ moyen par habitant sur le territoire de l'établissement public de coopération
 intercommunale ainsi que, à titre complémentaire, d'autres critères de
 ressources ou de charges qui peuvent être choisis par le conseil de
 l'établissement public de coopération intercommunale. Ces modalités ne peuvent
-avoir pour effet de majorer de plus de 20 % la contribution d'une commune membre
+avoir pour effet de majorer de plus de 30 % la contribution d'une commune membre
 par rapport à celle calculée en application du premier alinéa du présent II ;
 
-2° Soit par délibération, prise avant le 30 juin de l'année de répartition, du
-conseil de l'établissement public de coopération intercommunale statuant à
-l'unanimité.
+2° Soit par délibérations concordantes, prises avant le 30 juin de l'année de
+répartition, de l'organe délibérant de l'établissement public de coopération
+intercommunale statuant à la majorité des deux tiers et des conseils municipaux
+des communes membres.
 
 Le prélèvement dû par les communes membres d'un établissement public de
 coopération intercommunale à fiscalité propre est minoré à due concurrence des

@@ -15,7 +15,7 @@ L. 2333-1 ;
 
 5° Le produit des taxes d'affouage, de pâturage et de tourbage ;
 
-6° Le produit des taxes de pavage et de trottoirs ;
+6° (Abrogé)
 
 7° Le produit de la contribution spéciale imposée aux entrepreneurs ou
 propriétaires en cas de dégradation de la voie publique ;

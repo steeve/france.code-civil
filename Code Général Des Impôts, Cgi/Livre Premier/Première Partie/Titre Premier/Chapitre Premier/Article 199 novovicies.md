@@ -4,12 +4,14 @@ I. ― A. ― Les contribuables domiciliés en France, au sens de l'article 4 B,
 acquièrent, entre le 1er janvier 2013 et le 31 décembre 2016, un logement neuf
 ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le
 revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation
-principale pendant une durée minimale de neuf ans.
-
-La réduction d'impôt s'applique, dans les mêmes conditions, lorsque l'immeuble
-est la propriété d'une société non soumise à l'impôt sur les sociétés, autre
-qu'une société civile de placement immobilier, à la condition que le porteur de
-parts s'engage à conserver la totalité de ses titres jusqu'à l'expiration de
+principale pendant une durée minimale fixée, sur option du contribuable, à six
+ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration
+des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle
+est postérieure, est irrévocable pour le logement considéré. La réduction
+d'impôt s'applique, dans les mêmes conditions, lorsque l'immeuble est la
+propriété d'une société non soumise à l'impôt sur les sociétés, autre qu'une
+société civile de placement immobilier, à la condition que le porteur de parts
+s'engage à conserver la totalité de ses titres jusqu'à l'expiration de
 l'engagement de location mentionné au premier alinéa.
 
 B. ― La réduction d'impôt s'applique également dans les mêmes conditions :
@@ -36,9 +38,10 @@ acquiert entre le 1er janvier 2013 et le 31 décembre 2016 et qui fait ou qui a
 fait l'objet de travaux de transformation en logement.
 
 C. ― L'achèvement du logement doit intervenir dans les trente mois qui suivent
-la date de la déclaration d'ouverture de chantier, dans le cas d'un logement
-acquis en l'état futur d'achèvement, ou la date de l'obtention du permis de
-construire, dans le cas d'un logement que le contribuable fait construire.
+la date de la signature de l'acte authentique d'acquisition, dans le cas d'un
+logement acquis en l'état futur d'achèvement, ou la date de l'obtention du
+permis de construire, dans le cas d'un logement que le contribuable fait
+construire.
 
 Pour les logements qui font l'objet des travaux mentionnés aux 2°, 3° et 4° du B
 après l'acquisition par le contribuable, l'achèvement de ces travaux doit
@@ -50,11 +53,10 @@ et 4° avant l'acquisition par le contribuable, la réduction d'impôt s'appliqu
 aux logements qui n'ont pas été utilisés ou occupés à quelque titre que ce soit
 depuis l'achèvement des travaux.
 
-D. ― La location ne peut pas être conclue avec un membre du foyer fiscal, un
-ascendant ou un descendant du contribuable ou, lorsque le logement est la
-propriété d'une société non soumise à l'impôt sur les sociétés, autre qu'une
-société civile de placement immobilier, avec l'un des associés ou un membre du
-foyer fiscal, un ascendant ou un descendant de l'un des associés.
+D. ― La location ne peut pas être conclue avec un membre du foyer fiscal du
+contribuable ou, lorsque le logement est la propriété d'une société non soumise
+à l'impôt sur les sociétés, autre qu'une société civile de placement immobilier,
+avec l'un des associés ou un membre du foyer fiscal de l'un des associés.
 
 La location du logement consentie à un organisme public ou privé qui le donne en
 sous-location nue à usage d'habitation principale à une personne autre que l'une
@@ -137,13 +139,41 @@ les sociétés, autre qu'une société civile de placement immobilier, le
 contribuable bénéficie de la réduction d'impôt dans la limite de la quote-part
 du prix de revient correspondant à ses droits sur les logements concernés.
 
-VI. ― Le taux de la réduction d'impôt est fixé à 18 %.
+VI.-Le taux de la réduction d'impôt est fixé à :
 
-VII. ― La réduction d'impôt est répartie sur neuf années. Elle est accordée au
-titre de l'année d'achèvement du logement, ou de son acquisition si elle est
-postérieure, et imputée sur l'impôt dû au titre de cette même année, puis sur
-l'impôt dû au titre de chacune des huit années suivantes à raison d'un neuvième
-de son montant total au titre de chacune de ces années.
+1° 12 % lorsque l'engagement de location mentionné au I est pris pour une durée
+de six ans ;
+
+2° 18 % lorsque l'engagement de location mentionné au même I est pris pour une
+durée de neuf ans.
+
+VII. ― La réduction d'impôt est répartie, selon la durée de l'engagement de
+location, sur six ou neuf années. Elle est accordée au titre de l'année
+d'achèvement du logement, ou de son acquisition si elle est postérieure, et
+imputée sur l'impôt dû au titre de cette même année, puis sur l'impôt dû au
+titre de chacune des cinq ou huit années suivantes à raison d'un sixième ou d'un
+neuvième de son montant total au titre de chacune de ces années.
+
+VII bis.-A.-A l'issue de la période couverte par l'engagement de location
+mentionnée au I, lorsque le logement reste loué par période triennale dans les
+conditions prévues au III, le contribuable peut continuer à bénéficier de la
+réduction d'impôt prévue au présent article, à la condition de proroger son
+engagement initial pour au plus :
+
+1° Trois années supplémentaires, renouvelables une fois, si l'engagement de
+location mentionné au I était d'une durée de six ans. Dans ce cas, la réduction
+d'impôt est égale à 6 % du prix de revient du logement, mentionné au A du V,
+pour la première période triennale et à 3 % pour la seconde période triennale ;
+
+2° Trois années supplémentaires, si l'engagement de location mentionné au I
+était d'une durée de neuf ans. Dans ce cas, la réduction d'impôt est égale à 3 %
+du prix de revient du logement, mentionné au A du V, pour cette période
+triennale.
+
+B.-Pour l'application du A du présent VII bis, la réduction d'impôt est imputée,
+par période triennale, à raison d'un tiers de son montant sur l'impôt dû au
+titre de l'année au cours de laquelle l'engagement de location a été prorogé et
+des deux années suivantes.
 
 VIII. ― A. ― La réduction d'impôt est applicable, dans les mêmes conditions, à
 l'associé d'une société civile de placement immobilier régie par le paragraphe 4
@@ -164,16 +194,23 @@ conditions prévues au présent article. L'associé doit s'engager à conserver 
 totalité de ses titres jusqu'au terme de l'engagement de location souscrit par
 la société.
 
-D. ― La réduction d'impôt est calculée sur 95 % du montant de la souscription
+D. ― La réduction d'impôt est calculée sur 100 % du montant de la souscription
 retenu dans la limite de 300 000 € par contribuable et pour une même année
 d'imposition.
 
-E. ― Le taux de la réduction d'impôt est fixé à 18 %.
+E.-Le taux de la réduction d'impôt est fixé à :
 
-F. ― La réduction d'impôt est répartie sur neuf années. Elle est accordée au
-titre de l'année de la souscription et imputée sur l'impôt dû au titre de cette
-même année, puis sur l'impôt dû au titre de chacune des huit années suivantes à
-raison d'un neuvième de son montant total au titre de chacune de ces années.
+1° 12 % pour les souscriptions qui servent à financer des logements faisant
+l'objet d'un engagement de location pris pour une durée de six ans ;
+
+2° 18 % pour les souscriptions qui servent à financer des logements faisant
+l'objet d'un engagement de location pris pour une durée de neuf ans.
+
+F. ― La réduction d'impôt est répartie, selon la durée de l'engagement de
+location, sur six ou neuf années. Elle est accordée au titre de l'année de la
+souscription et imputée sur l'impôt dû au titre de cette même année, puis sur
+l'impôt dû au titre de chacune des cinq ou huit années suivantes à raison d'un
+sixième ou d'un neuvième de son montant total au titre de chacune de ces années.
 
 IX. ― Au sein d'un même immeuble neuf comportant au moins cinq logements, un
 pourcentage des logements doit être acquis sans pouvoir ouvrir droit au bénéfice
@@ -211,16 +248,16 @@ par contribuable et pour une même année d'imposition.
 XI. ― A. ― La réduction d'impôt obtenue fait l'objet d'une reprise au titre de
 l'année au cours de laquelle intervient :
 
-1° La rupture de l'un des engagements mentionnés aux I ou VIII ;
+1° La rupture de l'un des engagements mentionnés au I, au VII bis ou au VIII ;
 
 2° Le démembrement du droit de propriété de l'immeuble concerné ou des parts.
 Toutefois, aucune remise en cause n'est effectuée lorsque le démembrement de ce
 droit ou le transfert de la propriété du bien résulte du décès de l'un des
 membres du couple soumis à imposition commune et que le conjoint survivant
 attributaire du bien ou titulaire de son usufruit s'engage à respecter les
-engagements prévus au I et, le cas échéant, au VIII, dans les mêmes conditions
-et selon les mêmes modalités, pour la période restant à courir à la date du
-décès.
+engagements prévus au I, au VII bis et, le cas échéant, au VIII, dans les mêmes
+conditions et selon les mêmes modalités, pour la période restant à courir à la
+date du décès.
 
 B. ― Aucune reprise n'est effectuée en cas d'invalidité correspondant au
 classement dans la deuxième ou la troisième des catégories prévues à l'article
@@ -245,4 +282,12 @@ décret et à compter de l'entrée en vigueur de ce décret ;
 être adaptés par décret ;
 
 3° Par dérogation au VI et au E du VIII, le taux de la réduction d'impôt est
-fixé à 29 %.
+fixé à :
+
+a) 23 % lorsque l'engagement de location mentionné au I est pris pour une durée
+de six ans et pour les souscriptions qui servent à financer des logements
+faisant l'objet d'un engagement de location pris pour une durée de six ans ;
+
+b) 29 % lorsque l'engagement de location mentionné au même I est pris pour une
+durée de neuf ans et pour les souscriptions qui servent à financer des logements
+faisant l'objet d'un engagement de location pris pour une durée de neuf ans.

@@ -142,14 +142,68 @@ au sein de la dotation forfaitaire.
 Pour les communes et établissements publics de coopération intercommunale à
 fiscalité propre, lorsque le montant de la compensation prévue au D de l'article
 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) ou de la
-dotation de compensation prévue à l'article L. 5211-28-1 du présent code est, en
-2011, inférieur au montant de la diminution à opérer en application du 1.2.4.2
-de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour
-2010, le solde est prélevé au profit du budget général de l'Etat,
-prioritairement sur le montant correspondant aux montants antérieurement perçus
-au titre du 2° bis du II de l'article 1648 B du code général des impôts dans sa
-rédaction antérieure à la loi n° 2003-1311 du 30 décembre 2003 de finances pour
-2004 et enfin sur le produit de la taxe foncière sur les propriétés bâties, de
-la taxe foncière sur les propriétés non bâties, de la taxe d'habitation et de la
+dotation de compensation prévue à l'article L. 5211-28-1 du présent code est
+inférieur au montant de la diminution à opérer en application du 1.2.4.2 de
+l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010,
+le solde est prélevé au profit du budget général de l'Etat, prioritairement sur
+le montant correspondant aux montants antérieurement perçus au titre du 2° bis
+du II de l'article 1648 B du code général des impôts dans sa rédaction
+antérieure à la loi n° 2003-1311 du 30 décembre 2003 de finances pour 2004 et
+enfin sur le produit de la taxe foncière sur les propriétés bâties, de la taxe
+foncière sur les propriétés non bâties, de la taxe d'habitation et de la
 contribution économique territoriale perçu au profit de ces communes et
 établissements.
+
+III. - En 2015, la dotation forfaitaire de chaque commune est égale au montant
+perçu l'année précédente au titre de cette dotation. Pour chaque commune, cette
+dotation est majorée ou minorée du produit de la différence entre sa population
+constatée au titre de l'année de répartition et celle constatée au titre de
+l'année précédant la répartition par un montant compris entre 64,46 € et 128,93
+€ par habitant en fonction croissante de la population de la commune, dans des
+conditions définies par décret en Conseil d'Etat.
+
+La dotation forfaitaire à prendre en compte pour l'application du premier alinéa
+du présent III est égale au montant perçu en 2014 au titre de cette dotation en
+application des I et II du présent article, diminué du montant de la minoration
+prévu à l'article L. 2334-7-3 pour 2014 calculé sans tenir compte des recettes
+exceptionnelles constatées dans les derniers comptes de gestion disponibles au
+1er janvier 2014.
+
+Pour les communes qui, en 2014, ont subi un prélèvement sur leur fiscalité en
+application soit du dernier alinéa du II du présent article, soit du III de
+l'article L. 2334-7-2, soit de l'article L. 2334-7-3, soit du 2 du III de
+l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002),
+la dotation forfaitaire à prendre en compte pour l'application des dispositions
+précédentes est égale au montant effectivement reçu en 2014 au titre de la
+dotation forfaitaire, minoré du montant prélevé en 2014 sur la fiscalité. Si le
+montant prélevé en 2014 sur la fiscalité excède le montant perçu en 2014 au
+titre de la dotation forfaitaire, la différence est prélevée sur le produit des
+impôts directs locaux de la commune.
+
+Pour les communes membres d'un établissement public de coopération
+intercommunale soumis pour la première fois aux dispositions de l'article 1609
+nonies C du code général des impôts, les crédits correspondant à la compensation
+antérieurement perçue en application du I du D de l'article 44 de la loi de
+finances pour 1999 précitée sont versés à l'établissement, en lieu et place des
+communes, et le montant de la diminution à opérer en application du 1.2.4.2 de
+l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 précitée est supporté
+par l'établissement, en lieu et place des communes, en application de l'article
+L. 5211-28-1 du présent code.
+
+A compter de 2015, les communes dont le potentiel fiscal par habitant est
+inférieur à 0,75 fois le potentiel fiscal moyen par habitant constaté pour
+l'ensemble des communes bénéficient d'une attribution au titre de la dotation
+forfaitaire égale à celle calculée en application du présent III. Pour les
+communes dont le potentiel fiscal par habitant est supérieur ou égal à 0,75 fois
+le potentiel fiscal moyen par habitant constaté pour l'ensemble des communes, le
+montant calculé en application du premier alinéa du présent III est diminué,
+dans les conditions prévues à l'article L. 2334-7-1, en proportion de leur
+population et de l'écart relatif entre le potentiel fiscal par habitant de la
+commune et 0,75 fois le potentiel fiscal moyen par habitant constaté pour
+l'ensemble des communes. Cette minoration ne peut être supérieure à 3 % de la
+dotation forfaitaire perçue l'année précédente. Le potentiel fiscal pris en
+compte pour l'application du présent alinéa est celui calculé l'année précédente
+en application de l'article L. 2334-4. La population prise en compte pour la
+détermination du potentiel fiscal par habitant est corrigée par un coefficient
+logarithmique dont la valeur varie de 1 à 2 en fonction croissante de la
+population de la commune, défini pour l'application du présent III.

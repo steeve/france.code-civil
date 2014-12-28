@@ -73,6 +73,12 @@ urbaine et de cohésion sociale et de la dotation de solidarité rurale augmente
 au moins, respectivement, de 60 millions d'euros et de 39 millions d'euros par
 rapport aux montants mis en répartition en 2013.
 
+En 2015, les montants mis en répartition au titre de la dotation de solidarité
+urbaine et de cohésion sociale et de la dotation de solidarité rurale augmentent
+au moins, respectivement, de 180 millions d'euros et de 117 millions d'euros par
+rapport aux montants mis en répartition en 2014. Cette augmentation est
+financée, pour moitié, par les minorations prévues à l'article L. 2334-7-1.
+
 A compter de 2012, le montant mis en répartition au titre de la dotation
 nationale de péréquation est au moins égal à celui mis en répartition l'année
 précédente.

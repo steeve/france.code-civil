@@ -11,7 +11,8 @@ c) De l'ensemble des ressources des personnes mentionnées au b ;
 
 d) De la localisation dans une zone géographique, définie dans des conditions
 fixées par décret en fonction du déséquilibre entre l'offre et la demande de
-logements, du caractère neuf ou ancien du logement et de son niveau de
-performance énergétique globale ;
+logements ;
 
-e) (Abrogé).
+e) Du caractère neuf du logement ou, pour un logement ancien, du respect des
+conditions de localisation et de travaux mentionnées au premier alinéa de
+l'article L. 31-10-2 et au V de l'article L. 31-10-3.

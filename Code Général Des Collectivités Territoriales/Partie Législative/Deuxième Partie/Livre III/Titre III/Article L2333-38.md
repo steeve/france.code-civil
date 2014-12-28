@@ -1,11 +1,16 @@
 Article L2333-38
 ----
-Le conseil municipal peut, par délibération, prévoir que la taxe de séjour donne
-lieu, à une date déterminée, au versement d'un acompte.
+En cas de défaut de déclaration, d'absence ou de retard de paiement de la taxe
+collectée, le maire adresse aux logeurs, aux hôteliers, aux propriétaires et aux
+intermédiaires mentionnés à l'article L. 2333-33 ainsi qu'aux professionnels
+mentionnés au II de l'article L. 2333-34 une mise en demeure par lettre
+recommandée avec demande d'avis de réception.
 
-Le montant de cet acompte est égal à 50 p. 100 du produit de la taxe versée
-l'année précédente.
+Faute de régularisation dans le délai de trente jours suivant la notification de
+cette mise en demeure, un avis de taxation d'office motivé est communiqué au
+déclarant défaillant trente jours au moins avant la mise en recouvrement de
+l'imposition. Tout retard dans le versement du produit de la taxe donne lieu à
+l'application d'un intérêt égal à 0,75 % par mois de retard.
 
-Lorsque le montant de la taxe perçue pendant la période de perception par les
-personnes visées à l'article L. 2333-37 est inférieur à l'acompte versé,
-l'excédent est restitué à l'expiration de cette période.
+Les conditions d'application du présent article sont précisées par décret en
+Conseil d'Etat.

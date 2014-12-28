@@ -13,13 +13,4 @@ marchandises saisis en contravention, ainsi que de la confiscation des biens et
 avoirs qui sont le produit direct ou indirect de l'infraction.
 
 II. L'amende prévue au I est remplacée par une amende de 15 € à 30 € pour les
-infractions aux dispositions de :
-
-1° L'article 290 quater ;
-
-2° L'article 1559 se rapportant aux spectacles de première et de troisième
-catégorie.
-
-Cette amende s'applique également pour les infractions aux textes pris pour
-l'application de l'article 290 quater et de l'article 1559 se rapportant aux
-spectacles de première et de troisième catégorie.
+infractions aux dispositions de l'article 290 quater.

@@ -92,9 +92,22 @@ d'économie mixte gérant des logements sociaux, à l'association mentionnée à
 l'article L. 313-34 du code de la construction et de l'habitation, aux sociétés
 civiles immobilières dont cette association détient la majorité des parts pour
 les logements visés au 4° de l'article L. 351-2 du code de la construction et de
-l'habitation ou à un organisme bénéficiant de l'agrément relatif à la maîtrise
-d'ouvrage prévu à l'article L. 365-2 du code de la construction et de
-l'habitation.
+l'habitation , à un organisme bénéficiant de l'agrément relatif à la maîtrise
+d'ouvrage prévu à l'article L. 365-2 du même code ou à tout autre cessionnaire
+qui s'engage, par une mention portée dans l'acte authentique d'acquisition, à
+réaliser et à achever des logements sociaux dans un délai de quatre ans et à
+proportion de la surface du bien sur laquelle il s'engage à les réaliser. Si le
+cessionnaire n'a pas obtenu, dans un délai de dix-huit mois à compter de
+l'acquisition du bien, l'agrément de construction, il est redevable d'une amende
+d'un montant égal à 10 % du prix de cession mentionné dans l'acte. En cas de
+manquement à l'engagement d'achèvement des locaux au terme du délai de quatre
+ans, le cessionnaire est redevable d'une amende d'un montant égal à 10 % du prix
+de cession mentionné dans l'acte. En cas de fusion de sociétés, l'engagement
+souscrit par le cessionnaire n'est pas rompu lorsque la société absorbante
+s'engage, dans l'acte de fusion, à se substituer à la société absorbée pour le
+respect de l'engagement d'achèvement des locaux dans le délai restant à courir.
+Le non-respect par la société absorbante de l'engagement d'achèvement des locaux
+entraîne l'application de l'amende prévue pour le cessionnaire ;
 
 8° Qui sont cédés avant le 31 décembre 2011 et du 1er janvier 2014 au 31
 décembre 2015 à une collectivité territoriale, à un établissement public de
@@ -108,7 +121,7 @@ est porté à trois ans pour les cessions réalisées par un établissement publ
 foncier au profit de l'un des organismes mentionnés au 7°.
 
 9° Au titre de la cession d'un droit de surélévation au plus tard le 31 décembre
-2014, à condition que le cessionnaire s'engage à réaliser et à achever des
+2017, à condition que le cessionnaire s'engage à réaliser et à achever des
 locaux destinés à l'habitation dans un délai de quatre ans à compter de la date
 de l'acquisition. En cas de manquement à cet engagement, le cessionnaire est
 redevable d'une amende d'un montant égal à 25 % de la valeur de cession du droit

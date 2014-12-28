@@ -9,10 +9,15 @@ communes éligibles.
 Pour la détermination de la dotation revenant aux communes éligibles,
 s'appliquent au produit défini au premier alinéa deux coefficients
 multiplicateurs supplémentaires, l'un égal à un, augmenté du rapport entre le
-double de la population des quartiers prioritaires de la politique de la ville
-et la population totale de la commune, et l'autre égal à un, augmenté du rapport
-entre la population des zones franches urbaines - territoires entrepreneurs et
-la population totale de la commune.
+double de la population des zones urbaines sensibles et, à compter de 2016, des
+quartiers prioritaires de la politique de la ville et la population totale de la
+commune, et l'autre égal à un, augmenté du rapport entre la population des zones
+franches urbaines et la population totale de la commune. En 2015, la population
+des zones urbaines sensibles et la population des zones franches urbaines -
+territoires entrepreneurs prises en compte sont authentifiées à l'issue du
+dernier recensement de population dans les zones existant au 1er janvier de
+l'année précédant celle au titre de laquelle est versée la dotation de
+solidarité urbaine et de cohésion sociale.
 
 L'accroissement de la dotation de chaque commune ne peut excéder 4 millions
 d'euros par an. A compter de 2009, les communes éligibles au titre de l'article

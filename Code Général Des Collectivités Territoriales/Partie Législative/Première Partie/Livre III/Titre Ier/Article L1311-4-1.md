@@ -1,12 +1,12 @@
 Article L1311-4-1
 ----
-Jusqu'au 31 décembre 2013, les collectivités territoriales et les établissements
+Jusqu'au 31 décembre 2017, les collectivités territoriales et les établissements
 publics de coopération intercommunale peuvent construire, y compris sur les
 dépendances de leur domaine public, acquérir ou rénover des bâtiments destinés à
 être mis à la disposition de l'Etat pour les besoins de la justice, de la police
 ou de la gendarmerie nationales.
 
-Jusqu'au 31 décembre 2013, les conseils généraux peuvent construire, y compris
+Jusqu'au 31 décembre 2017, les conseils généraux peuvent construire, y compris
 sur les dépendances de leur domaine public, acquérir ou rénover des bâtiments
 destinés à être mis à la disposition des services départementaux d'incendie et
 de secours.

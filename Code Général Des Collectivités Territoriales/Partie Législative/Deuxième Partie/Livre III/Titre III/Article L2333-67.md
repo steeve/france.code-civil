@@ -1,6 +1,6 @@
 Article L2333-67
 ----
-I. - Le taux de versement est fixé ou modifié par délibération du conseil
+I.-Le taux de versement est fixé ou modifié par délibération du conseil
 municipal ou de l'organisme compétent de l'établissement public dans la limite
 de :
 
@@ -36,18 +36,18 @@ faculté de majorer de 0,05 % les taux maxima mentionnés aux alinéas précéde
 
 Cette faculté est également ouverte :
 
-- aux communautés urbaines ;
+-aux communautés urbaines ;
 
-- aux métropoles ;
+-aux métropoles ;
 
-- à la métropole de Lyon, sous réserve des dispositions prévues à l'article L.
+-à la métropole de Lyon, sous réserve des dispositions prévues à l'article L.
 5722-7-1 ;
 
-- aux autorités organisatrices de transports urbains auxquelles ont adhéré une
+-aux autorités organisatrices de transports urbains auxquelles ont adhéré une
 communauté de communes, une communauté d'agglomération, une communauté urbaine ;
 et
 
-- à l'autorité organisatrice de transports urbains, qui s'est substituée à la
+-à l'autorité organisatrice de transports urbains, qui s'est substituée à la
 métropole de Lyon en application du deuxième alinéa de L. 5722-7-1.
 
 Dans les territoires comprenant une ou plusieurs communes classées communes
@@ -95,6 +95,4 @@ respectivement, le 1er novembre ou le 1er mai de chaque année. Les organismes d
 recouvrement communiquent le nouveau taux aux assujettis au plus tard un mois
 après ces dernières dates.
 
-II. - Hors Ile-de-France et régions d'outre-mer, le taux du versement est fixé
-ou modifié par délibération du conseil régional, dans la limite de 0,55 %, dans
-les territoires situés hors périmètre de transport urbain.
+II.-Abrogé

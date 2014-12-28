@@ -42,7 +42,7 @@ pour la vérification des années antérieures ;
 information ouverte par l'autorité judiciaire dans le cas mentionné à l'article
 L. 188 B est en cours ;
 
-7° Si le contribuable s'est livré à une activité occulte, au sens du troisième
+7° Si le contribuable s'est livré à une activité occulte, au sens du deuxième
 alinéa de l'article L. 169.
 
 III.-En cas de mise en œuvre du I de l'article L. 47 A, le délai de trois mois

@@ -13,3 +13,5 @@ En 2012, ce montant est égal à 41 389 752 000 €.
 En 2013, ce montant est égal à 41 505 415 000 €.
 
 En 2014, ce montant est égal à 40 121 044 000 €.
+
+En 2015, ce montant est égal à 36 607 053 000 €.

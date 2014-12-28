@@ -1,10 +1,9 @@
 Article L2333-36
 ----
-Des arrêtés du maire répartissent, par référence au barème mentionné à l'article
-L. 2333-30, les villas, locaux et autres installations accueillant les personnes
-visées à l'article L. 2333-29.
+Le montant des cotisations acquittées est contrôlé par la commune. Le maire et
+les agents commissionnés par lui peuvent procéder à la vérification des
+déclarations produites par les logeurs, les hôteliers, les propriétaires et les
+intermédiaires mentionnés à l'article L. 2333-33.
 
-Lorsqu'il est fait application des dispositions de l'article L. 5211-21, les
-arrêtés prévus par le présent article sont pris par le président de
-l'établissement public de coopération intercommunale à fiscalité propre ou par
-celui de la métropole de Lyon.
+A cette fin, ils peuvent demander à toute personne mentionnée au premier alinéa
+du présent article la communication des pièces comptables s'y rapportant.

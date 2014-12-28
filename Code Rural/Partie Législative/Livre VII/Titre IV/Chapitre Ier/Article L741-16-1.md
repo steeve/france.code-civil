@@ -48,8 +48,8 @@ dégressif prévus à l'article L. 741-16.
 
 Cette prise en charge donne lieu à compensation intégrale par l'Etat. Elle est
 cumulable avec le bénéfice des exonérations totales ou partielles de cotisations
-patronales ou salariales prévues aux articles L. 741-5 et L. 741-16 du présent
-code ainsi qu'avec la déduction forfaitaire prévue à l'article L. 241-18 du code
-de la sécurité sociale.
+patronales prévues aux articles L. 741-5 et L. 741-16 du présent code ainsi
+qu'avec la déduction forfaitaire prévue à l'article L. 241-18 du code de la
+sécurité sociale.
 
 IV. - Les conditions d'application du présent article sont fixées par décret.

@@ -40,10 +40,18 @@ réductions de dotation à prévoir en 2013 en application de l'article 199-1 de
 loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales
 et majoré d'un montant de dix millions d'euros.
 
-A compter de 2014, le montant de la dotation globale de fonctionnement des
-départements est égal à celui mis en répartition en 2013, minoré de 476 millions
-d'euros. En 2014, ce montant est minoré du montant correspondant aux réductions
-de dotation à prévoir en 2014 en application de l'article 199-1 de la loi n°
-2004-809 du 13 août 2004 relative aux libertés et responsabilités locales et
-majoré de 10 millions d'euros pour tenir compte de l'augmentation de la dotation
-de péréquation des départements.
+En 2014, le montant de la dotation globale de fonctionnement des départements
+est égal à celui mis en répartition en 2013, minoré de 476 millions d'euros. En
+2014, ce montant est minoré du montant correspondant aux réductions de dotation
+à prévoir en 2014 en application de l'article 199-1 de la loi n° 2004-809 du 13
+août 2004 relative aux libertés et responsabilités locales et majoré de 10
+millions d'euros pour tenir compte de l'augmentation de la dotation de
+péréquation des départements.
+
+En 2015, le montant de la dotation globale de fonctionnement des départements
+est égal à celui réparti en 2014, minoré de 1 148 millions d'euros. En 2015, ce
+montant est minoré du montant correspondant aux réductions de dotation à prévoir
+en 2015 en application de l'article 199-1 de la loi n° 2004-809 du 13 août 2004
+précitée et du II de l'article 107 de la loi n° 2014-1654 du 29 décembre 2014 de
+finances pour 2015. Il est majoré de 10 millions d'euros pour tenir compte de
+l'augmentation de la dotation de péréquation des départements.

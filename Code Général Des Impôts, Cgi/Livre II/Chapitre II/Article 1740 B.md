@@ -9,7 +9,7 @@ flagrance fiscale, le chiffre d'affaires hors taxes ou le montant des recettes
 brutes excède les limites prévues au 1 des articles 50-0 ou 102 ter ou au I de
 l'article 69, selon la nature de l'activité. Il est également porté à 10 000 €
 si, à cette même date, le revenu imposable établi dans les conditions prévues à
-l'article 1649 quater-0 B bis excède le seuil de la quatrième tranche du barème
+l'article 1649 quater-0 B bis excède le seuil de la troisième tranche du barème
 de l'impôt sur le revenu fixé au I de l'article 197.
 
 Ce même montant est porté à 20 000 € si, à la date du constat de flagrance
@@ -17,13 +17,13 @@ fiscale, le chiffre d'affaires hors taxes ou le montant des recettes brutes
 excède les limites prévues au I de l'article 302 septies A ou au b du II de
 l'article 69, selon la nature de l'activité. Il est également porté à 20 000 €
 si, à cette même date, le revenu imposable établi dans les conditions prévues à
-l'article 1649 quater-0 B bis excède le seuil de la cinquième tranche du barème
+l'article 1649 quater-0 B bis excède le seuil de la quatrième tranche du barème
 de l'impôt sur le revenu fixé au I de l'article 197.
 
 Ce même montant est porté à 30 000 € si, à la date du constat de flagrance
 fiscale, le revenu imposable établi dans les conditions prévues à l'article 1649
-quater-0 B bis excède le seuil de la sixième tranche du barème de l'impôt sur le
-revenu fixé au I de l'article 197.
+quater-0 B bis excède le seuil de la cinquième tranche du barème de l'impôt sur
+le revenu fixé au I de l'article 197.
 
 II.-Lorsque les pénalités prévues au c du 1 de l'article 1728 et aux b et c de
 l'article 1729 et l'amende prévue à l'article 1737 sont encourues pour les mêmes

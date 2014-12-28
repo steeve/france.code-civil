@@ -1,11 +1,12 @@
 Article L2333-37
 ----
-La taxe de séjour est perçue par les logeurs, hôteliers, propriétaires ou autres
-intermédiaires qui versent, aux dates fixées par délibération du conseil
-municipal, sous leur responsabilité, au receveur municipal, le montant de la
-taxe calculé conformément aux dispositions des articles L. 2333-29 à L. 2333-36.
+Les réclamations sont instruites par les services de la commune bénéficiaire de
+la taxe. Tout redevable qui conteste le montant de la taxe qui lui est notifié
+acquitte à titre provisionnel le montant de la taxe contesté, sauf à en obtenir
+le dégrèvement après qu'il a été statué sur sa réclamation par le maire. Le
+maire dispose d'un délai de trente jours à compter de la notification de la
+réclamation formée par le redevable pour lui adresser une réponse motivée, de
+manière à lui permettre de formuler ses observations.
 
-Lorsqu'il est fait application des dispositions de l'article L. 5211-21, les
-versements libératoires sont acquittés auprès du comptable public assignataire
-de l'établissement public de coopération intercommunale à fiscalité propre ou de
-la métropole de Lyon.
+Les conditions d'application du présent article sont précisées par décret en
+Conseil d'Etat.

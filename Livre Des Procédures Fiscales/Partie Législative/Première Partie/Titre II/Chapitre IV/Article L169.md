@@ -5,23 +5,6 @@ l'administration des impôts s'exerce jusqu'à la fin de la troisième année qu
 suit celle au titre de laquelle l'imposition est due.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de
-l'administration, pour les revenus imposables selon un régime réel dans les
-catégories des bénéfices industriels et commerciaux, des bénéfices non
-commerciaux et des bénéfices agricoles ainsi que pour les revenus imposables à
-l'impôt sur les sociétés des entrepreneurs individuels à responsabilité limitée,
-et des sociétés à responsabilité limitée, des exploitations agricoles à
-responsabilité limitée et des sociétés d'exercice libéral à responsabilité
-limitée, dont l'associé unique est une personne physique, s'exerce jusqu'à la
-fin de la deuxième année qui suit celle au titre de laquelle l'imposition est
-due, lorsque le contribuable est adhérent d'un centre de gestion agréé ou d'une
-association agréée, pour les périodes au titre desquelles le service des impôts
-des entreprises a reçu une copie du compte rendu de mission prévu aux articles
-1649 quater E et 1649 quater H du code général des impôts. Cette réduction de
-délai ne s'applique pas aux contribuables pour lesquels des pénalités autres que
-les intérêts de retard auront été appliquées sur les périodes d'imposition non
-prescrites visées au présent alinéa.
-
-Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au
 titre de laquelle l'imposition est due, lorsque le contribuable exerce une
 activité occulte. L'activité occulte est réputée exercée lorsque le contribuable
@@ -30,7 +13,7 @@ souscrire et soit n'a pas fait connaître son activité à un centre de formalit
 des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une
 activité illicite.
 
-Le droit de reprise mentionné au troisième alinéa ne s'applique qu'aux seules
+Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules
 catégories de revenus que le contribuable n'a pas fait figurer dans une
 quelconque des déclarations qu'il a déposées dans le délai légal. Il ne
 s'applique pas lorsque des revenus ou plus-values ont été déclarés dans une
@@ -63,6 +46,6 @@ ont concouru à la détermination de ce déficit ou de cette moins-value peuvent
 être remis en cause à hauteur du montant du déficit ou de la moins-value ainsi
 imputés, nonobstant les dispositions prévues au premier alinéa.
 
-Si le groupe a cessé d'exister, les règles définies au septième alinéa demeurent
+Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent
 applicables au déficit ou à la moins-value nette à long terme définis au
 cinquième alinéa de l'article 223 S du code général des impôts.

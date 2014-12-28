@@ -32,3 +32,7 @@ urbaine issue de la fusion est calculée en retenant la dotation par habitant la
 plus élevée parmi les établissements préexistants, dans la limite de 105 % de la
 moyenne des dotations par habitant de ces établissements, pondérées par leur
 population.
+
+Pour le calcul des garanties et des plafonnements, la dotation à prendre en
+compte au titre de l'année précédente est celle calculée avant application des
+minorations prévues à l'article L. 5211-28.

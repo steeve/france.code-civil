@@ -6,8 +6,7 @@ II.
 
 II.-Pour l'application de l'article L. 5211-21 :
 
-1° Les mots : " érigés en stations classées, dans ceux bénéficiant de l'une des
-dotations prévues à l'article L. 5211-24, dans ceux " sont supprimés ;
+1° Les 1°, 2° et 4° du I ne sont pas applicables ;
 
 2° Les mots : " à l'article L. 2333-26 " sont remplacés par les mots : " par les
 dispositions applicables localement " ;
@@ -15,4 +14,4 @@ dispositions applicables localement " ;
 3° Les mots : ", sous réserve des dispositions de l'article L. 133-7 du code du
 tourisme, " sont supprimés ;
 
-4° La dernière phrase du troisième alinéa n'est pas applicable.
+4° La dernière phrase du II n'est pas applicable.

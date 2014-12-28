@@ -11,9 +11,10 @@ Les militaires des armées françaises,
 
 Les membres des forces supplétives françaises,
 
-Les personnes civiles possédant la nationalité française à la date de la
-présentation de leur demande qui ont pris part à des actions de feu ou de combat
-au cours de ces opérations.
+Les personnes civiles qui, en vertu des décisions des autorités françaises, ont
+participé aux opérations au sein d'unités françaises,
+
+qui ont pris part à des actions de feu ou de combat au cours de ces opérations.
 
 Une commission d'experts, comportant notamment des représentants des intéressés,
 est chargée de déterminer les modalités selon lesquelles la qualité de

@@ -3,9 +3,10 @@ Article L342-21
 Pour l'accomplissement de ses missions, l'Agence nationale de contrôle du
 logement social dispose des ressources suivantes :
 
-1° Un prélèvement opéré chaque année à son bénéfice sur les ressources de la
-participation des employeurs à l'effort de construction mentionnées à l'article
-L. 313-3 ;
+1° Un prélèvement opéré chaque année, dans la limite du plafond prévu au I de
+l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, à
+son bénéfice sur les ressources de la participation des employeurs à l'effort de
+construction mentionnées à l'article L. 313-3 ;
 
 2° Une cotisation versée par les organismes d'habitations à loyer modéré, les
 organismes bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu à

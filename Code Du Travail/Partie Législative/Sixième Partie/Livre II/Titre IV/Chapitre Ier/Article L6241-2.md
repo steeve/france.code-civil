@@ -7,17 +7,16 @@ concernée, par l'intermédiaire des organismes collecteurs de la taxe
 d'apprentissage mentionnés au chapitre II du présent titre IV. Le montant de
 cette fraction est égal à 51 % du produit de la taxe due.
 
-Par dérogation au 2° du I de l'article 23 de la loi n° 2011-900 du 29 juillet
-2011 de finances rectificative pour 2011, cette fraction est reversée aux
-régions, à la collectivité territoriale de Corse et au Département de Mayotte
-pour le financement du développement de l'apprentissage, selon les modalités
-définies au présent I.
+Cette fraction est reversée aux régions, à la collectivité territoriale de Corse
+et au Département de Mayotte pour le financement du développement de
+l'apprentissage, selon les modalités définies au présent I.
 
 Elle est complétée par une part du produit de la taxe intérieure de consommation
 sur les produits énergétiques versée aux régions, à la collectivité territoriale
 de Corse et au Département de Mayotte pour le financement du développement de
 l'apprentissage, dans les conditions et selon les modalités de revalorisation
-prévues par la loi de finances pour 2015.
+prévues par l'article 29 de la loi n° 2014-1654 du 29 décembre 2014 de finances
+pour 2015.
 
 L'ensemble des recettes mentionnées aux deuxième et troisième alinéas du présent
 I constitue la ressource régionale pour l'apprentissage.

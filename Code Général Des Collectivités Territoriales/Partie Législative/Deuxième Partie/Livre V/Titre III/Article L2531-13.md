@@ -38,7 +38,9 @@ d'Ile-de-France ne peut excéder 11 % des dépenses réelles de fonctionnement d
 la commune constatées dans le compte administratif afférent au pénultième
 exercice ;
 
-b) (Abrogé)
+b) En cas de progression des ressources du fonds, le montant supplémentaire
+prélevé sur chaque commune ne peut excéder 50 % de la hausse des ressources du
+fonds ;
 
 c) Le prélèvement sur les communes qui contribuent au fonds pour la première
 fois fait l'objet d'un abattement de 50 % ;

@@ -6,29 +6,28 @@ dû par chaque condamné.
 
 Ce droit est de :
 
-1° 22 euros pour les ordonnances pénales en matière contraventionnelle ou
+1° 31 € pour les ordonnances pénales en matière contraventionnelle ou
 correctionnelle ;
 
-2° 22 euros pour les autres décisions des tribunaux de police et des
-juridictions de proximité et celles des juridictions qui ne statuent pas sur le
-fond ;
+2° 31 € pour les autres décisions des tribunaux de police et des juridictions de
+proximité et celles des juridictions qui ne statuent pas sur le fond ;
 
-3° 90 euros pour les décisions des tribunaux correctionnels. Toutefois, ce droit
-est porté à 180 euros si le condamné n'a pas comparu personnellement, dès lors
-que la citation a été délivrée à personne ou qu'il est établi que le prévenu a
-eu connaissance de la citation, sauf s'il est jugé en son absence dans les
+3° 127 € pour les décisions des tribunaux correctionnels. Toutefois, ce droit
+est porté à 254 € si le condamné n'a pas comparu personnellement, dès lors que
+la citation a été délivrée à personne ou qu'il est établi que le prévenu a eu
+connaissance de la citation, sauf s'il est jugé en son absence dans les
 conditions prévues par les premier et deuxième alinéas de l'article 411 du code
 de procédure pénale. Cette majoration ne s'applique pas si le condamné
 s'acquitte volontairement du montant du droit fixe de procédure dans un délai
 d'un mois à compter de la date où il a eu connaissance de la décision ;
 
-4° 120 euros pour les décisions des cours d'appel statuant en matière
+4° 169 € pour les décisions des cours d'appel statuant en matière
 correctionnelle et de police ;
 
-5° 375 euros pour les décisions des cours d'assises.
+5° 527 € pour les décisions des cours d'assises.
 
-Il est de 150 euros pour les décisions de la Cour de cassation statuant en
-matière criminelle, correctionnelle ou de police.
+Il est de 211 € pour les décisions de la Cour de cassation statuant en matière
+criminelle, correctionnelle ou de police.
 
 Lorsque la personne a été condamnée pour conduite sous l'influence de substances
 ou plantes classées comme stupéfiants en application de l'article L. 235-1 du
@@ -57,3 +56,8 @@ mouvement l'action publique.
 Le recouvrement du droit fixe de procédure et des amendes pénales est garanti,
 d'une part, par le privilège général sur les meubles prévu à l'article 1920,
 d'autre part, par l'hypothèque légale prévue à l'article 1929 ter.
+
+Le produit de ce droit est affecté, dans la limite de 7 millions d'euros par an,
+au Conseil national des barreaux.
+
+Le présent article est applicable sur l'ensemble du territoire national.

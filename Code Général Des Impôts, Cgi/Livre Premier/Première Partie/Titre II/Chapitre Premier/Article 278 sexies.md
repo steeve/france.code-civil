@@ -97,6 +97,24 @@ faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 
 1er août 2003 précitée ou entièrement situés à une distance de moins de 300
 mètres de la limite de ces quartiers ;
 
+11 bis. Les livraisons d'immeubles et les travaux réalisés en application d'un
+contrat unique de construction de logements dans le cadre d'une opération
+d'accession à la propriété à usage de résidence principale, destinés à des
+personnes physiques dont les ressources à la date de signature de
+l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de
+vente ou du contrat ayant pour objet la construction du logement ne dépassent
+pas les plafonds prévus à la première phrase du huitième alinéa de l'article L.
+411-2 du code de la construction et de l'habitation et situés, à la date du
+dépôt de la demande de permis de construire, dans les quartiers prioritaires de
+la politique de la ville définis à l'article 5 de la loi n° 2014-173 du 21
+février 2014 de programmation pour la ville et la cohésion urbaine qui font
+l'objet d'un contrat de ville prévu à l'article 6 de la même loi ou entièrement
+situés, à la même date, à une distance de moins de 300 mètres de la limite de
+ces quartiers.
+
+Le prix de vente ou de construction des logements ne peut excéder les plafonds
+prévus pour les opérations mentionnées au 4 du présent I ;
+
 12. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières
 d'accession progressive à la propriété effectués dans les conditions prévues aux
 articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
@@ -104,7 +122,30 @@ articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
 II. - Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié
 du taux réduit de 5,5 % en application du I ;
 
-III. - (Abrogé) ;
+III. - 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés
+aux 2, 5, 6 et 8 du I du présent article, lorsque ces travaux consistent en une
+extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de
+l'article 257, sous réserve de la prise en compte de ces opérations d'extension
+ou de remise à neuf dans les conventions mentionnées aux 2, 5, 6 et 8 du I du
+présent article ;
+
+2. Les livraisons à soi-même de travaux de rénovation, d'amélioration, de
+transformation ou d'aménagement réalisés dans le cadre de l'une des opérations
+suivantes, lorsque l'acquéreur bénéficie pour cette opération d'un prêt accordé
+pour la construction, l'acquisition ou l'amélioration de logements locatifs
+aidés ou d'une subvention de l'Agence nationale pour la rénovation urbaine et a
+conclu avec l'Etat une convention en application des 3° à 5° de l'article L.
+351-2 du code de la construction et de l'habitation :
+
+a) Acquisition de logements et d'immeubles destinés à l'habitation, suivie de
+travaux d'amélioration ;
+
+b) Acquisition de locaux ou d'immeubles non affectés à l'habitation, suivie de
+leur transformation ou aménagement en logements ;
+
+c) Travaux d'amélioration exécutés sur des immeubles ou des logements cédés à
+bail emphytéotique par l'Etat, des collectivités territoriales ou leurs
+groupements ;
 
 IV. - 1. - Les livraisons à soi-même de travaux de rénovation portant sur les
 locaux mentionnés aux 2 à 8 du I et ayant pour objet de concourir directement à

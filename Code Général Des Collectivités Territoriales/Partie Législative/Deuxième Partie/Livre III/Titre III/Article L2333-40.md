@@ -1,6 +1,6 @@
 Article L2333-40
 ----
-Un décret en Conseil d'Etat détermine les modalités suivant lesquelles sont
-exercées les poursuites auxquelles il y a lieu de procéder en cas d'infraction,
-pour le recouvrement du principal et des pénalités de la taxe, ainsi que les
-conditions dans lesquelles sont jugées les réclamations.
+La taxe de séjour forfaitaire est due par les logeurs, les hôteliers et les
+propriétaires qui hébergent les personnes mentionnées à l'article L. 2333-29 à
+titre onéreux ainsi que par les autres intermédiaires lorsque ces personnes
+reçoivent le montant des loyers qui leur sont dus.

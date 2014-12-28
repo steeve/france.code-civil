@@ -14,7 +14,7 @@ Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, 
 retient la valeur ajoutée produite et le chiffre d'affaires réalisé au cours de
 la période mentionnée à l'article 1586 quinquies, à l'exception, d'une part, de
 la valeur ajoutée afférente aux activités exonérées de cotisation foncière des
-entreprises en application des articles 1449 à 1463, à l'exception du 3° de
+entreprises en application des articles 1449 à 1463 A, à l'exception du 3° de
 l'article 1459, et, d'autre part, de la valeur ajoutée afférente aux activités
 exonérées de cotisation sur la valeur ajoutée des entreprises en application des
 I à III de l'article 1586 nonies. Cette valeur ajoutée fait, le cas échéant,

@@ -20,7 +20,11 @@ aucune information nominative ;
 -à des fins d'enquêtes et de prospections commerciales, sauf opposition des
 personnes concernées selon les modalités prévues au deuxième alinéa de l'article
 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers
-et aux libertés.
+et aux libertés ;
+
+- à des fins de sécurisation des activités économiques qui nécessitent une
+utilisation de caractéristiques techniques des véhicules fiables, sans
+communication des nom, prénom et adresse des personnes concernées.
 
 La décision d'agrément mentionnée au deuxième alinéa peut être précédée d'une
 enquête administrative, dans les conditions prévues par l'article 17-1 de la loi

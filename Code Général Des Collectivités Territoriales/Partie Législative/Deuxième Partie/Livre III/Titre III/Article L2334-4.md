@@ -38,13 +38,13 @@ préexistantes l'année précédente ;
 4° La somme des produits perçus par la commune au titre de la surtaxe sur les
 eaux minérales prévue à l'article 1582 du code général des impôts, de la
 redevance des mines prévue à l'article 1519 du même code, des prélèvements sur
-le produit brut des jeux dans les casinos prévus aux articles L. 2333-54 à L.
-2333-56 du présent code, ainsi que, pour les communes membres d'un établissement
-public de coopération intercommunale à fiscalité propre ou d'un syndicat mixte
-se substituant aux communes pour la perception de tout ou partie des produits
-des prélèvements sur le produit brut des jeux dans les casinos, une fraction de
-ces produits calculée au prorata de la population au 1er janvier de l'année de
-répartition ;
+le produit brut des jeux mentionnés aux articles L. 2333-54 et L. 2333-55 du
+présent code, ainsi que, pour les communes membres d'un établissement public de
+coopération intercommunale à fiscalité propre ou d'un syndicat mixte se
+substituant aux communes pour la perception de tout ou partie du produit du
+prélèvement sur le produit brut des jeux des casinos mentionné à l'article L.
+2334-4, une fraction de ce produit calculée au prorata de la population au 1er
+janvier de l'année de répartition ;
 
 5° Le montant perçu l'année précédente au titre de la part de la dotation
 forfaitaire définie au 3° du I de l'article L. 2334-7 du présent code, hors le
@@ -125,10 +125,11 @@ forfaitaire définie à l'article L. 2334-7 du présent code hors la part
 mentionnée au 3° du I du même article. Il est minoré, le cas échéant, des
 prélèvements sur le produit des impôts directs locaux mentionnés au dernier
 alinéa du II du même article L. 2334-7 et au III de l'article L. 2334-7-2 subis
-l'année précédente. Pour la commune de Paris, il est minoré du montant de sa
-participation obligatoire aux dépenses d'aide et de santé du département
-constaté dans le dernier compte administratif dans la limite du montant constaté
-dans le compte administratif de 2007.
+l'année précédente ainsi que de la minoration mentionnée à l'article L. 2334-7-3
+au titre de l'année précédente . Pour la commune de Paris, il est minoré du
+montant de sa participation obligatoire aux dépenses d'aide et de santé du
+département constaté dans le dernier compte administratif dans la limite du
+montant constaté dans le compte administratif de 2007.
 
 L'indicateur de ressources élargi d'une commune est égal à son potentiel
 financier majoré des montants perçus l'année précédente au titre de la dotation

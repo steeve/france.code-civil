@@ -249,6 +249,16 @@ d'équipements, aménagements ou constructions d'intérêt public, qui pourraien
 donner lieu à l'établissement d'une servitude d'utilité publique au titre de
 ladite mutation.
 
+8° Les immeubles et droits immobiliers, à concurrence de 30 % de leur valeur,
+lors de la première mutation postérieure à la reconstitution des titres de
+propriété y afférents, sous réserve que ces titres de propriété aient été
+constatés par un acte régulièrement transcrit ou publié entre le 1er octobre
+2014 et le 31 décembre 2017.
+
+Cette exonération est exclusive de l'application au même bien, au titre de la
+même mutation ou d'une mutation antérieure, de toute autre exonération de droits
+de mutation à titre gratuit.
+
 3. Les sommes, à concurrence des trois quarts de leur montant, déposées sur le
 compte d'investissement forestier et d'assurance mentionné aux articles L. 352-1
 à L. 352-5 du code forestier, à condition : a) Que l'acte constatant la donation

@@ -11,6 +11,11 @@ immeubles bâtis, et l'indemnité d'occupation mentionnée à l'article L. 615-9
 code de la construction et de l'habitation et la redevance mentionnée à
 l'article L. 615-10 du même code ;
 
+Pour les prêts d'accession à la propriété de l'habitation signés à compter du
+1er janvier 2016, l'allocation n'est due que si le montant total des ressources
+perçues par le ménage est inférieur de plus de 30 % au montant des ressources du
+ménage évaluées à la date de signature ;
+
 2° habitant un logement répondant aux caractéristiques définies en application
 des premier et deuxième alinéas de l'article 6 de la loi n° 89-462 du 6 juillet
 1989 tendant à améliorer les rapports locatifs ;

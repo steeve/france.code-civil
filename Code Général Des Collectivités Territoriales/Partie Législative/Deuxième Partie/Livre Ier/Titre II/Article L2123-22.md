@@ -5,7 +5,12 @@ votées par le conseil municipal dans les limites prévues par l'article L.
 2123-23, par le I de l'article L. 2123-24 et par le I de l'article L. 2123-24-1
 les conseils municipaux :
 
-1° Des communes chefs-lieux de département, d'arrondissement et de canton ;
+1° 1° Des communes chefs-lieux de département et d'arrondissement ainsi que des
+communes sièges du bureau centralisateur du canton ou qui avaient la qualité de
+chef-lieu de canton avant la modification des limites territoriales des cantons
+prévues en application de la loi n° 2013-403 du 17 mai 2013 relative à
+l'élection des conseillers départementaux, des conseillers municipaux et des
+conseillers communautaires, et modifiant le calendrier électoral ;
 
 2° Des communes sinistrées ;
 

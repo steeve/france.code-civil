@@ -50,3 +50,8 @@ En 2011, elles sont basées sur la somme des crédits répartis entre les
 départements en 2010, en application des articles L. 2334-34 et L. 2334-40 dans
 leur rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1657 du 29
 décembre 2010 de finances pour 2011.
+
+En 2015, le montant de l'enveloppe calculée selon les critères définis aux 1° et
+2° du présent article ne peut excéder, pour chaque département, 150 % du montant
+de l'enveloppe versée au département l'année précédente. Ce montant ne peut être
+inférieur au montant perçu l'année précédente.

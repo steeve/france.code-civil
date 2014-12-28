@@ -38,3 +38,8 @@ du 29 décembre 2013 de finances pour 2014.
 
 La métropole de Lyon est substituée de plein droit au département du Rhône pour
 l'application du présent article dans son périmètre.
+
+Au titre de 2015, les mêmes compensations, auxquelles sont appliqués les taux
+d'évolution fixés depuis 2009, sont minorées par application du taux prévu pour
+2015 au III de l'article 23 de la loi n° 2014-1654 du 29 décembre 2014 de
+finances pour 2015.

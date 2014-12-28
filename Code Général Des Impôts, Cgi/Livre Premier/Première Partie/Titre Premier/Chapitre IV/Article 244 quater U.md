@@ -9,8 +9,11 @@ convention d'assistance administrative en vue de lutter contre la fraude et
 l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre d'avances
 remboursables ne portant pas intérêt versées au cours de l'année d'imposition ou
 de l'exercice pour financer des travaux d'amélioration de la performance
-énergétique globale de logements achevés avant le 1er janvier 1990 et utilisés
-ou destinés à être utilisés en tant que résidence principale.
+énergétique globale de logements achevés avant le 1er janvier 1990 en métropole,
+et de logements dont le permis de construire a été déposé avant le 1er mai 2010
+pour les départements de Guadeloupe, de Martinique, de Guyane, de La Réunion et
+de Mayotte, et utilisés ou destinés à être utilisés en tant que résidence
+principale.
 
 2. Les travaux mentionnés au 1 sont constitués :
 

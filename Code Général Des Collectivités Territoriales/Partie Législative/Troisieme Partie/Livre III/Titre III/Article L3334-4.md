@@ -61,3 +61,9 @@ la minoration mentionnée à l'article L. 3334-3 et, d'autre part, à la même
 hauteur par l'augmentation pour 2013 de la dotation globale de fonctionnement
 des départements prévue à l'article L. 3334-1. En 2014, ce montant est majoré
 d'au moins 10 millions d'euros.
+
+En 2015, ce montant est majoré d'au moins 20 millions d'euros financés, d'une
+part, à hauteur de 10 millions d'euros par la minoration mentionnée au II de
+l'article L. 3334-3 et, d'autre part, à la même hauteur, par la majoration de la
+dotation globale de fonctionnement des départements prévue à l'article L.
+3334-1.

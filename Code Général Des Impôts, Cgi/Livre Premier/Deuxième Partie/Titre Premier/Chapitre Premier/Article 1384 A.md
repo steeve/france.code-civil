@@ -64,11 +64,11 @@ délivrance du certificat sont fixés par décret en Conseil d'Etat.
 I ter.-Pour les constructions de logements mentionnées au deuxième alinéa du I,
 la durée de l'exonération est portée à vingt-cinq ans, lorsqu'elles bénéficient
 d'une décision d'octroi de subvention ou de prêt aidé prise entre le 1er juillet
-2004 et le 31 décembre 2014.
+2004 et le 31 décembre 2018.
 
 La durée d'exonération mentionnée au I bis est portée à trente ans pour les
 constructions qui bénéficient d'une décision d'octroi de subvention ou de prêt
-aidé prise entre le 1er juillet 2004 et le 31 décembre 2014.
+aidé prise entre le 1er juillet 2004 et le 31 décembre 2018.
 
 I quater.-Sont exonérées de taxe foncière sur les propriétés bâties pendant une
 durée de quinze ans à compter de l'année qui suit celle de leur achèvement les
@@ -82,7 +82,7 @@ des dispositions du 6 du I de l'article 278 sexies ou des dispositions du II du
 même article pour les logements mentionnés au 4° de l'article L. 351-2 du code
 de la construction et de l'habitation. La durée d'exonération est portée à
 vingt-cinq ans pour les constructions qui bénéficient d'une décision d'octroi de
-subvention prise entre le 1er mars 2007 et le 31 décembre 2014.
+subvention prise entre le 1er mars 2007 et le 31 décembre 2018.
 
 II. Pour les logements en accession à la propriété situés dans un groupe
 d'immeubles ou un ensemble immobilier faisant l'objet des mesures de sauvegarde

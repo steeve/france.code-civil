@@ -14,6 +14,9 @@ d'agglomération.
 Le taux de compensation forfaitaire est fixé à 15,761 % pour les dépenses
 éligibles réalisées à compter du 1er janvier 2014.
 
+Le taux de compensation forfaitaire est fixé à 16,404 % pour les dépenses
+éligibles réalisées à compter du 1er janvier 2015.
+
 II. - Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur
 ajoutée mentionnés à l'article L. 1615-2, autres que ceux mentionnés aux
 deuxième, troisième, sixième, neuvième, dixième et onzième alinéas du présent

@@ -3,7 +3,7 @@ Article L3333-1
 Le conseil général peut instituer une taxe additionnelle de 10 % à la taxe de
 séjour ou à la taxe de séjour forfaitaire perçue dans le département par les
 communes visées à l'article L. 2333-26 ainsi que par les établissements publics
-de coopération intercommunale visés aux deux premiers alinéas de l'article L.
+de coopération intercommunale mentionnés aux 1° à 3° du I de l'article L.
 5211-21.
 
 La métropole de Lyon peut instituer une taxe additionnelle de 10 % à la taxe de

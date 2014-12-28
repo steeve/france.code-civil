@@ -98,3 +98,7 @@ inférieur d'au moins 50 % au potentiel fiscal par habitant de la catégorie à
 laquelle elles appartiennent ne peuvent percevoir, à compter de la deuxième
 année d'attribution de la dotation dans la même catégorie, une attribution par
 habitant inférieure à celle perçue l'année précédente.
+
+Pour le calcul des garanties et des plafonnements, la dotation à prendre en
+compte au titre de l'année précédente est celle calculée avant application des
+minorations prévues à l'article L. 5211-28.

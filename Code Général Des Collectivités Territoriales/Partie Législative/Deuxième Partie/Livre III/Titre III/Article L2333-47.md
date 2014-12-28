@@ -1,6 +1,6 @@
 Article L2333-47
 ----
-- Une taxe sur les entreprises spécialement intéressées à la prospérité de la
-station peut être instituée dans certaines catégories de stations.
-
-Son produit a la même affectation que celui de la taxe de séjour.
+Les contentieux relatifs à la taxe de séjour forfaitaire sont présentés et jugés
+comme en matière de droits d'enregistrement, de taxe de publicité foncière, de
+droits de timbre, de contributions indirectes et de taxes assimilées à ces
+droits ou contributions.

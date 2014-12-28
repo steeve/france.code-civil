@@ -1,34 +1,21 @@
 Article 1560
 ----
-I. Le tarif d'imposition des spectacles est fixé dans le tableau ci-après :
+Le tarif d'imposition des cercles et maisons de jeux est fixé dans le tableau
+ci-après :
 
-NATURE DES SPECTACLES, JEUX ET DIVERTISSEMENTS / TARIF.
 
-PREMIERE CATEGORIE :
+Montant des recettes annuelles
 
-A : néant
+Tarif
 
-B : Réunions sportives autres que celles classées en 3e catégorie : 8 %.
+De 0 à 30 490 €
 
-DEUXIEME CATEGORIE : ...
+10 %
 
-TROISIEME CATEGORIE :
+De 30 491 € à 228 701 €
 
-Courses d'automobiles, spectacles de tir aux pigeons : 14 %.
+40 %
 
-QUATRIEME CATEGORIE :
+Supérieur à 228 701 €
 
-Cercles et maisons de jeux :
-
-Par paliers de recettes annuelles :
-
-Jusqu'à 30 490 € : 10 %.
-
-Au-dessus de 30 490 € et jusqu'à 228 700 € : 40 %.
-
-Au-dessus de 228 700 € : 70 %.
-
-II. Les conseils municipaux peuvent décider une majoration allant jusqu'à 50 %
-des tarifs prévus pour les première et troisième catégories d'imposition. Des
-taux de majoration distincts peuvent être adoptés pour chacune des deux
-catégories considérées.
+70 %

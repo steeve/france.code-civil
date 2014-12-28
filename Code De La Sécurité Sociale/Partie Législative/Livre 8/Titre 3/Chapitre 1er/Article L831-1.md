@@ -10,7 +10,10 @@ de l'opérateur mentionnée au III de l'article 29-11 de la loi n° 65-557 du 10
 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, et
 l'indemnité d'occupation mentionnée à l'article L. 615-9 du code de la
 construction et de l'habitation et la redevance mentionnée à l'article L. 615-10
-du même code.
+du même code. Pour les prêts signés à compter du 1er janvier 2016, le présent
+alinéa n'est applicable que si le montant total des ressources perçues par le
+ménage est inférieur de plus de 30 % au montant des ressources du ménage
+évaluées à la date de signature.
 
 Cette allocation est versée aux personnes hébergées dans les unités et centres
 de long séjour relevant de la loi n° 70-1318 du 31 décembre 1970 portant réforme

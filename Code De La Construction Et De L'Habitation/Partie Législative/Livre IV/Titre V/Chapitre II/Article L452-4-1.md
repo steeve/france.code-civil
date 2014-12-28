@@ -38,11 +38,7 @@ regroupant les fédérations d'organismes d'habitations à loyer modéré, de la
 fédération des entreprises publiques locales et des représentants des organismes
 bénéficiant de l'agrément prévu à l'article L. 365-2. Le montant de la part
 variable est calculé en appliquant à la base ainsi déterminée un taux fixé, dans
-les limites de 15 %, par un arrêté pris dans les mêmes formes. Une fraction de
-la cotisation additionnelle, plafonnée à 70 millions d'euros par an, alimente le
-fonds prévu à l'article L. 452-1-1 pour les années 2012 à 2015. La fraction
-mentionnée à l'alinéa précédent est fixée par arrêté des ministres chargés du
-budget, du logement et de la ville.
+les limites de 15 %, par un arrêté pris dans les mêmes formes.
 
 Les dispositions des articles L. 452-5 et L. 452-6 sont applicables à la
 cotisation additionnelle.
