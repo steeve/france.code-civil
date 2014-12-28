@@ -5,15 +5,12 @@ des produits destinés à l'alimentation des animaux et dont l'activité est
 soumise à agrément en application de l'article L. 235-1 du code rural et de la
 pêche maritime doit :
 
-1° Déposer auprès du service des impôts dont relève le redevable pour le dépôt
-de ses déclarations de taxes sur le chiffre d'affaires, avant le 31 mars de
-l'année suivant celle lors de laquelle la délivrance de l'agrément, le
-renouvellement de cet agrément ou l'opération de contrôle du respect des
-conditions d'agrément sont intervenus, une déclaration conforme au modèle
-prescrit par la direction générale des finances publiques et comportant les
-indications nécessaires à la perception de la redevance mentionnée à l'article
-302 bis WD du code général des impôts ; la redevance est acquittée auprès du
-même service et dans les mêmes délais ;
+1° Déclarer et acquitter la redevance, selon le cas, sur l'annexe à la
+déclaration de taxe sur la valeur ajoutée relative au mois de mars ou du premier
+trimestre pour les redevables qui acquittent cette taxe selon les modalités
+prévues au 2 de l'article 287 du code général des impôts. Pour les redevables
+placés sous le régime simplifié d'imposition prévu à l'article 302 septies A du
+même code, la redevance est déclarée et acquittée lors du dépôt de la
+déclaration mentionnée au 3 de l'article 287 précité.
 
-2° Tenir à disposition des services de contrôle une copie des éléments déclarés
-en application du 1°.
+2° (Abrogé).

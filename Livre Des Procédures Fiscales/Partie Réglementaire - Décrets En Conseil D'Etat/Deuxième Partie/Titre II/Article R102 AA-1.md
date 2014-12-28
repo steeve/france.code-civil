@@ -1,29 +1,27 @@
 Article R102 AA-1
 ----
-I. - L'état récapitulatif mentionné au I et au II de l'article L. 102 AA doit
-comporter les informations suivantes :
+Les informations à communiquer à la direction générale des finances publiques en
+application de l'article L. 102 AA par les services du ministre chargé de
+l'agriculture, pour chaque établissement ayant reçu l'agrément prévu aux
+articles L. 233-2 et L. 235-1 du code rural et de la pêche maritime susvisé,
+sont les suivantes :
 
-1. Les nom, adresse, numéro SIRET et nature de l'activité du souscripteur de
-l'état ;
+1° Le nom, l'adresse et le numéro SIRET des établissements agréés ;
 
-2. Pour chaque éditeur d'un ou plusieurs services de télévision, pour le compte
-duquel des sommes ont été encaissées :
+2° Le nombre de carcasses d'animaux abattus, réparti par espèce et par tranche
+de poids pour les ovins, les caprins et les porcins, assujettis à la redevance
+prévue aux articles 302 bis N à 302 bis R du code général des impôts susvisé, et
+le taux de modulation appliqué à l'abattoir ;
 
-a) Le total des sommes encaissées par service de télévision au cours de l'année
-civile précédente ;
+3° Le nombre de tonnes de produits de la pêche ou de l'aquaculture assujettis à
+la redevance prévue à l'article 302 bis WA et à la redevance prévue à l'article
+302 bis WB du code précité ;
 
-b) Les nom, adresse et numéro SIRET de l'éditeur du ou des services de
-télévision concernés.
+4° Le nombre d'établissements assujettis à la redevance prévue aux articles 302
+bis WD à 302 bis WG du code précité.
 
-II. - (abrogé à compter du 1er janvier 2008).
-
-III. - L'état destiné à l'administration des impôts est souscrit sur papier et
-adressé au service des impôts auprès duquel le souscripteur dépose
-habituellement ses déclarations de taxe sur la valeur ajoutée.
-
-IV. - Les régisseurs de messages publicitaires mentionnés au I de l'article L.
-102 AA et les personnes désignées au II du même article doivent adresser à
-chaque éditeur d'un ou plusieurs services de télévision un extrait de l'état
-récapitulatif pour les informations les concernant. Les éditeurs de services de
-télévision qui n'ont pas reçu cet état dans les délais prévus à l'article
-précité doivent en informer l'administration des impôts.
+Les données sont transmises, chaque année, par les services du ministre chargé
+de l'agriculture à la direction générale des finances publiques sur support
+électronique dans des conditions permettant de garantir leur confidentialité. Un
+protocole détermine notamment la nature du support et le format des données
+transmises.
