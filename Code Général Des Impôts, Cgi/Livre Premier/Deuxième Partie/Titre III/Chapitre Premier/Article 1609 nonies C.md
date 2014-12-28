@@ -123,7 +123,7 @@ simple de ses membres, modifier la durée de la période de réduction des écar
 de taux résultant du b, sans que cette durée puisse excéder douze ans.
 
 La délibération doit intervenir dans les conditions prévues à l'article 1639 A,
-au cours des deux premières années d'application du I.
+au cours de la première année d'application du I.
 
 Cette délibération ne peut être modifiée ultérieurement, sauf en cas de retrait
 d'une ou plusieurs communes en application des articles L. 5211-41-1, L.
@@ -223,12 +223,13 @@ délibérant de l'établissement public de coopération intercommunale peut déc
 de réduire les attributions de compensation ;
 
 1° bis Le montant de l'attribution de compensation et les conditions de sa
-révision peuvent être fixés librement par le conseil communautaire statuant à
-l'unanimité, en tenant compte du rapport de la commission locale d'évaluation
-des transferts de charges.
+révision peuvent être fixés librement par délibérations concordantes du conseil
+communautaire, statuant à la majorité des deux tiers, et des conseils municipaux
+des communes membres, en tenant compte du rapport de la commission locale
+d'évaluation des transferts de charges.
 
-A défaut d'accord unanime, le montant de l'attribution est fixé dans les
-conditions figurant aux 2°, 4° et 5° ;
+A défaut d'accord, le montant de l'attribution est fixé dans les conditions
+figurant aux 2°, 4° et 5° ;
 
 2° L'attribution de compensation est égale à la somme des produits mentionnés au
 I et aux 1 et 2 du I bis et du produit de la taxe sur les surfaces commerciales
@@ -317,7 +318,7 @@ coopération intercommunale, en cas de révision librement décidée par
 délibérations concordantes prises à la majorité qualifiée prévue au premier
 alinéa du II de l'article L. 5211-5 du code général des collectivités
 territoriales. Cette révision ne peut pas avoir pour effet de minorer ou de
-majorer l'attribution de compensation de plus de 5 % de son montant ;
+majorer l'attribution de compensation de plus de 15 % de son montant ;
 
 b) Pour les communes qui étaient antérieurement membres d'un établissement
 public de coopération intercommunale ne faisant pas application du présent
@@ -362,7 +363,7 @@ coopération intercommunale, en cas de révision librement décidée par
 délibérations concordantes prises à la majorité qualifiée prévue au premier
 alinéa du II de l'article L. 5211-5 du code général des collectivités
 territoriales. Cette révision ne peut pas avoir pour effet de minorer ou de
-majorer l'attribution de compensation de plus de 5 % de son montant ;
+majorer l'attribution de compensation de plus de 15 % de son montant ;
 
 b) Pour les communes qui étaient antérieurement membres d'un établissement
 public de coopération intercommunale ne faisant pas application du présent
@@ -389,21 +390,38 @@ article.
 intercommunale sans fiscalité propre est calculée dans les conditions prévues au
 2° ;
 
+5. Les métropoles et la métropole de Lyon peuvent faire application de la
+révision dérogatoire prévue au a du 1 du présent 5°, uniquement la première
+année où leur création produit ses effets au plan fiscal, pour modifier
+l'attribution de compensation que versait ou percevait l'établissement public de
+coopération intercommunale préexistant l'année précédente. Cette révision ne
+peut pas avoir pour effet de minorer ou de majorer l'attribution de compensation
+de plus de 15 % de son montant.
+
+A défaut de révision dérogatoire, l'attribution de compensation versée ou perçue
+à compter de l'année où leur création a produit pour la première fois ses effets
+au plan fiscal est égale à celle que versait ou percevait l'établissement public
+de coopération intercommunale préexistant l'année précédente.
+
+Un protocole financier général définit les modalités de détermination des
+attributions de compensation entre la métropole de Lyon et les communes situées
+sur son territoire ;
+
 6° Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le
 cas échéant, au 1° bis du présent V sont recalculées dans les conditions prévues
 au IV lors de chaque nouveau transfert de charges. Elles ne peuvent être
 indexées ;
 
-7° A titre dérogatoire, les établissements publics de coopération intercommunale
-soumis au 1er janvier 2010 au présent article dans sa rédaction en vigueur à
-cette date et les conseils municipaux de leurs communes membres peuvent
-procéder, par délibérations concordantes prises à la majorité qualifiée prévue
-au premier alinéa du II de l'article L. 5211-5 du code général des collectivités
-territoriales, à la révision des attributions de compensation d'une partie des
-communes membres lorsque les communes concernées disposent d'un potentiel
-financier par habitant supérieur de plus de 20 % au potentiel financier par
-habitant moyen de l'ensemble des communes membres. Cette réduction de leurs
-attributions de compensation ne peut excéder 5 % du montant de celles-ci.
+7° Sous réserve de l'application du 5° du présent V, les établissements publics
+de coopération intercommunale soumis au présent article et les conseils
+municipaux de leurs communes membres peuvent procéder, par délibérations
+concordantes prises à la majorité qualifiée prévue au premier alinéa du II de
+l'article L. 5211-5 du code général des collectivités territoriales, à la
+diminution des attributions de compensation d'une partie des communes membres
+lorsque les communes concernées disposent d'un potentiel financier par habitant
+supérieur de plus de 20 % au potentiel financier par habitant moyen de
+l'ensemble des communes membres. Cette réduction de leurs attributions de
+compensation ne peut excéder 5 % du montant de celles-ci.
 
 V bis.-1. Pour les établissements publics de coopération intercommunale qui
 faisaient application au 31 décembre 2010 du présent article dans sa rédaction
@@ -420,22 +438,23 @@ est substitué aux produits mentionnés au premier alinéa du 2° du V pour le
 calcul de l'attribution de compensation.
 
 VI. L'établissement public de coopération intercommunale, autre qu'une
-communauté urbaine ou qu'un établissement public de coopération intercommunale
-mentionné au 5° du I de l'article 1379-0 bis, soumis aux dispositions du I peut
-instituer au bénéfice de ses communes membres et, le cas échéant,
-d'établissements publics de coopération intercommunale à fiscalité propre
-limitrophes une dotation de solidarité communautaire, dont le principe et les
-critères de répartition sont fixés par le conseil communautaire statuant à la
-majorité des deux tiers. Le montant de cette dotation est fixé librement par le
-conseil de l'établissement public de coopération intercommunale. Elle est
-répartie en tenant compte prioritairement de l'importance de la population et du
-potentiel fiscal ou financier par habitant, les autres critères étant fixés
-librement par le conseil. Lorsqu'une zone d'activités économiques d'intérêt
-départemental est située en tout ou partie sur le territoire de l'établissement
-public de coopération intercommunale, celui-ci peut étendre le versement de la
-dotation de solidarité communautaire aux établissements publics de coopération
-intercommunale à fiscalité propre constituant un ensemble sans discontinuité
-territoriale et limitrophe de son territoire.
+communauté urbaine, qu'une métropole, que la métropole de Lyon ou qu'un
+établissement public de coopération intercommunale mentionné au 5° du I de
+l'article 1379-0 bis, soumis aux dispositions du I peut instituer au bénéfice de
+ses communes membres et, le cas échéant, d'établissements publics de coopération
+intercommunale à fiscalité propre limitrophes une dotation de solidarité
+communautaire, dont le principe et les critères de répartition sont fixés par le
+conseil communautaire statuant à la majorité des deux tiers. Le montant de cette
+dotation est fixé librement par le conseil de l'établissement public de
+coopération intercommunale. Elle est répartie en tenant compte prioritairement
+de l'importance de la population et du potentiel fiscal ou financier par
+habitant, les autres critères étant fixés librement par le conseil. Lorsqu'une
+zone d'activités économiques d'intérêt départemental est située en tout ou
+partie sur le territoire de l'établissement public de coopération
+intercommunale, celui-ci peut étendre le versement de la dotation de solidarité
+communautaire aux établissements publics de coopération intercommunale à
+fiscalité propre constituant un ensemble sans discontinuité territoriale et
+limitrophe de son territoire.
 
 Lorsqu'il s'agit d'une communauté urbaine, d'une métropole ou de la métropole de
 Lyon ou lorsque l'établissement public de coopération intercommunale est
@@ -479,6 +498,12 @@ mentionnés au 5° du I de l'article 1379-0 bis, le taux à prendre en compte po
 le calcul de la compensation visée au II de l'article 21 de la loi de finances
 pour 1992 (n° 91-1322 du 30 décembre 1991) est majoré, le cas échéant, du taux
 voté en 1991 par l'établissement public de coopération intercommunale précité.
+Lorsque les communes sont membres d'un établissement public de coopération
+intercommunale faisant application du présent article et ayant connu une
+modification de périmètre, quelle qu'en soit la nature, le taux à prendre en
+compte pour ce même calcul est majoré, le cas échéant, du taux voté en 1991 par
+l'établissement public de coopération intercommunale dont elles étaient membres
+préalablement à la fusion.
 
 VIII. 1° Les sommes versées aux communes en application du IV de l'article 6 de
 la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) leur restent

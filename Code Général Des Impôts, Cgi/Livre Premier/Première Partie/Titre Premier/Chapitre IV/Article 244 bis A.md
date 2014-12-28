@@ -3,8 +3,7 @@ Article 244 bis A
 I.-1. Sous réserve des conventions internationales, les plus-values, telles que
 définies aux e bis et e ter du I de l'article 164 B, réalisées par les personnes
 et organismes mentionnés au 2 du I lors de la cession des biens ou droits
-mentionnés au 3 sont soumises à un prélèvement selon le taux fixé au deuxième
-alinéa du I de l'article 219.
+mentionnés au 3 sont soumises à un prélèvement selon les taux fixés au III bis.
 
 Cette disposition n'est pas applicable aux cessions d'immeubles réalisées par
 des personnes physiques ou morales ou des organismes mentionnés au premier
@@ -17,19 +16,6 @@ de cette entreprise ou de cette profession.
 Les organisations internationales, les Etats étrangers, les banques centrales et
 les institutions financières publiques de ces Etats sont exonérés de ce
 prélèvement dans les conditions prévues à l'article 131 sexies.
-
-Par dérogation au premier alinéa, les personnes physiques, les associés
-personnes physiques de sociétés ou groupements dont les bénéfices sont imposés
-au nom des associés et les porteurs de parts, personnes physiques, de fonds de
-placement immobilier mentionnés à l'article 239 nonies, résidents d'un Etat
-membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention d'assistance
-administrative en vue de lutter contre la fraude et l'évasion fiscales, sont
-soumis au prélèvement selon le taux fixé au premier alinéa de l'article 200 B.
-Par dérogation aux premier et présent alinéas, le taux est porté à 75 % lorsque
-les plus-values sont réalisées par ces mêmes personnes ou organismes lorsqu'ils
-sont domiciliés, établis ou constitués hors de France dans un Etat ou territoire
-non coopératif au sens de l'article 238-0 A.
 
 2. Sont soumis au prélèvement mentionné au 1 :
 
@@ -121,14 +107,28 @@ différence entre, d'une part, le prix de cession du bien et, d'autre part, son
 prix d'acquisition, diminué pour les immeubles bâtis d'une somme égale à 2 % de
 son montant par année entière de détention.
 
-Par dérogation au premier alinéa du I et au premier alinéa du présent III, le
-prélèvement dû par des personnes morales résidentes d'un Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
-ayant conclu avec la France une convention d'assistance administrative en vue de
-lutter contre la fraude et l'évasion fiscales et n'étant pas non coopératif au
-sens de l'article 238-0 A est déterminé selon les règles d'assiette et de taux
-prévues en matière d'impôt sur les sociétés dans les mêmes conditions que celles
+Par dérogation au III bis et au premier alinéa du présent III, le prélèvement dû
+par des personnes morales résidentes d'un Etat membre de l'Union européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens de
+l'article 238-0 A est déterminé selon les règles d'assiette et de taux prévues
+en matière d'impôt sur les sociétés dans les mêmes conditions que celles
 applicables à la date de la cession aux personnes morales résidentes de France.
+
+III bis. - 1. Les plus-values réalisées par les personnes et organismes
+mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3 du
+même I sont soumises au prélèvement selon le taux fixé au deuxième alinéa du I
+de l'article 219.
+
+Toutefois, les personnes physiques, les associés personnes physiques de
+sociétés, groupements ou organismes dont les bénéfices sont imposés au nom des
+associés et les porteurs de parts, personnes physiques, de fonds de placement
+immobilier mentionnés à l'article 239 nonies sont soumis au prélèvement au taux
+de 19 %.
+
+2. [Dispositions déclarées non conformes à la Constitution par la décision du
+Conseil constitutionnel n° 2014-708 DC du 29 décembre 2014].
 
 IV.-L'impôt dû en application du présent article est acquitté lors de
 l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant
@@ -148,6 +148,18 @@ distribuées aux porteurs afférentes à ces cessions ;
 fonds de placement immobilier est acquitté pour le compte de ce porteur au
 service des impôts des entreprises du lieu du siège social de l'établissement
 payeur et par celui-ci, dans un délai d'un mois à compter de la cession.
+
+L'obligation de désigner un représentant fiscal ne s'applique pas lorsque le
+cédant est domicilié, établi ou constitué dans un Etat membre de l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales ainsi qu'une convention
+d'assistance mutuelle en matière de recouvrement de l'impôt. Lorsque le cédant
+est une société ou un groupement mentionnés au c du 2 du I, ou une société ou un
+groupement dont le régime fiscal est équivalent et dont le siège social est
+situé dans un des Etats mentionnés à la première phrase du présent alinéa,
+l'obligation de désigner un représentant fiscal s'apprécie au regard de la
+situation de chacun des associés.
 
 V.-Le prélèvement mentionné au I est libératoire de l'impôt sur le revenu dû en
 raison des sommes qui ont supporté celui-ci.

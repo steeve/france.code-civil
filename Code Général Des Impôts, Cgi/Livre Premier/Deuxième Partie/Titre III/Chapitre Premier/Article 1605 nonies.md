@@ -65,4 +65,4 @@ applicables.
 
 VI. ― La taxe est versée lors du dépôt de la déclaration prévue au V. Les I et
 II de l'article 150 VF, le second alinéa du I et les II et III de l'article 150
-VH et le premier alinéa du IV de l'article 244 bis A sont applicables.
+VH et le IV de l'article 244 bis A sont applicables.

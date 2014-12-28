@@ -22,7 +22,7 @@ réputées se situer en France lorsqu'elles sont effectuées pour les besoins d'
 personne établie ou domiciliée en France.
 
 III. ― Pour les personnes morales et physiques mentionnées auX 1° et 3° du II,
-la contribution est calculée au taux de 0,5 % sur le montant hors taxe des
+la contribution est calculée au taux de 0,45 % sur le montant hors taxe des
 ventes de prestations de services d'activités privées de sécurité assurées en
 France par ces personnes.
 
@@ -33,7 +33,7 @@ ajoutée.
 IV. ― Pour les personnes mentionnées au 2° du II, la contribution est assise sur
 les sommes payées à leurs salariés qui exécutent une ou plusieurs activités
 privées de sécurité à titre de rémunération. Le taux de la contribution est dans
-ce cas fixé à 0,7 % du montant de ces rémunérations, évalué selon les règles
+ce cas fixé à 0,65 % du montant de ces rémunérations, évalué selon les règles
 prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurité
 sociale.
 

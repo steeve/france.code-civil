@@ -19,8 +19,7 @@ lorsque la moyenne des recettes du groupement est inférieure ou égale à 230 0
 
 3° (abrogé)
 
-4° Les plafonds prévus à l'article 72 D ter sont multipliés par le nombre
-d'associés dans la limite de trois ;
+4° Les premier et dernier alinéas du I de l'article 72 D ter s'appliquent ;
 
 5° (transféré) ;
 

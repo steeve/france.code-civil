@@ -21,12 +21,14 @@ qui aurait été imposable en son nom à l'impôt sur les sociétés à ces mêm
 au titre de ce même exercice si elle avait été imposée séparément.
 
 2. Pour l'application du 1, les résultats imposables correspondent aux résultats
-déterminés avant application des règles de déduction des déficits mentionnées au
-troisième alinéa du I de l'article 209 et à l'article 220 quinquies.
+, majorés des dotations aux amortissements de l'exercice, hors amortissements
+dérogatoires, déterminés avant application des règles de déduction des déficits
+mentionnées au troisième alinéa du I de l'article 209 et à l'article 220
+quinquies.
 
-III.-Le taux de la taxe, compris entre 15 % et 35 %, est fixé par arrêté
-conjoint des ministres chargés respectivement des transports, de l'économie et
-du budget. Le montant de la taxe est plafonné à 200 millions d'euros.
+III.-Le taux de la taxe, compris entre 5 % et 25 %, est fixé par arrêté conjoint
+des ministres chargés respectivement des transports, de l'économie et du budget.
+Le montant de la taxe est plafonné à 200 millions d'euros.
 
 IV.-La taxe est déclarée et liquidée :
 

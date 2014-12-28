@@ -79,8 +79,7 @@ l'intermédiaire d'une fiducie possède plus de 10 % des parts du fonds.
 5. Au gain net retiré des cessions de parts des fonds communs de créances dont
 la durée à l'émission est supérieure à cinq ans.
 
-6. Indépendamment de l'application des dispositions des articles 109,112,120 et
-161, au gain net retiré par le bénéficiaire lors d'un rachat par une société
+6. Au gain net retiré par le bénéficiaire lors d'un rachat par une société
 émettrice de ses propres titres et défini au 8 ter de l'article 150-0 D ;
 
 7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de

@@ -28,6 +28,10 @@ applicables aux droits d'enregistrement. Sont également applicables à la taxe
 les dispositions de l'article 223 quinquies A.
 
 En cas de cession de l'immeuble par une personne morale, un organisme, une
-fiducie ou une institution comparable non établi dans la Communauté européenne,
+fiducie ou une institution comparable non établi dans un autre Etat membre de
+l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales ainsi
+qu'une convention d'assistance mutuelle en matière de recouvrement de l'impôt,
 le représentant visé au IV de l'article 244 bis A est responsable du paiement de
 la taxe restant due à cette date.

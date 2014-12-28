@@ -73,25 +73,25 @@ placées sous le régime simplifié d'imposition.
 
 5. Dans la déclaration prévue au 1, doivent notamment être identifiés :
 
-a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraisons
-de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens
-installés ou montés sur le territoire d'un autre Etat membre de la Communauté
-européenne, des livraisons de gaz naturel, d'électricité, de chaleur ou de froid
-imposables sur le territoire d'un autre Etat membre de la Communauté européenne
-et des livraisons dont le lieu n'est pas situé en France en application des
-dispositions de l'article 258 A ;
+a) Le montant total, hors taxe sur la valeur ajoutée, des livraisons de bien
+exonérées en vertu du I de l'article 262 ter, des livraisons de biens installés
+ou montés sur le territoire d'un autre Etat membre de l'Union européenne, des
+livraisons de gaz naturel, d'électricité, de chaleur ou de froid imposables sur
+le territoire d'un autre Etat membre de l'Union européenne et des livraisons
+dont le lieu n'est pas situé en France en application des dispositions de
+l'article 258 A ;
 
-b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des
-acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le
-cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre
-Etat membre de la Communauté européenne et installés ou montés en France, des
-livraisons de biens dont le lieu est situé en France en application des
-dispositions de l'article 258 B, des livraisons de biens effectuées en France
-pour lesquelles le destinataire de la livraison est désigné comme redevable de
-la taxe en application des dispositions du 2 ter de l'article 283 et des
-livraisons de gaz naturel, d'électricité, de chaleur ou de froid pour lesquelles
-l'acquéreur est désigné comme redevable de la taxe conformément aux dispositions
-du 2 quinquies de ce dernier article ;
+b) Le montant total, hors taxe sur la valeur ajoutée, des acquisitions
+intracommunautaires mentionnées au I de l'article 256 bis, et, le cas échéant,
+des livraisons de biens expédiés ou transportés à partir d'un autre Etat membre
+de l'Union européenne et installés ou montés en France, des livraisons de biens
+dont le lieu est situé en France en application des dispositions de l'article
+258 B, des livraisons de biens effectuées en France pour lesquelles le
+destinataire de la livraison est désigné comme redevable de la taxe en
+application des dispositions du 2 ter de l'article 283 et des livraisons de gaz
+naturel, d'électricité, de chaleur ou de froid pour lesquelles l'acquéreur est
+désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies
+de ce dernier article ;
 
 b bis) Le montant hors taxes des opérations mentionnées au 2 sexies de l'article
 283 réalisées ou acquises par l'assujetti ;
@@ -100,5 +100,9 @@ b ter) Le montant total, hors taxe sur la valeur ajoutée, des services pour
 lesquels le preneur est redevable de la taxe en application, d'une part, du
 second alinéa du 1, d'autre part et distinctement, du 2 de l'article 283 ;
 
-c) Enfin, le montant total hors taxes des transmissions mentionnées à l'article
-257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.
+b quater) Le montant total, hors taxe sur la valeur ajoutée, des importations
+mentionnées à l'article 291 pour lesquelles le redevable a exercé l'option
+prévue au II de l'article 1695 ;
+
+c) Le montant total hors taxes des transmissions mentionnées à l'article 257
+bis, dont a bénéficié l'assujetti ou qu'il a réalisées.

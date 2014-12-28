@@ -56,8 +56,7 @@ troisième alinéas du III de l'article 150 VG sont applicables.
 
 V.-La taxe est versée lors du dépôt de la déclaration prévue au IV. Les
 dispositions des I et II de l'article 150 VF, du second alinéa du I et des II et
-III de l'article 150 VH et de l'avant-dernier alinéa du I de l'article 244 bis A
-sont applicables.
+III de l'article 150 VH et du IV de l'article 244 bis A sont applicables.
 
 VI.-La délibération prévue au I s'applique aux cessions réalisées à compter du
 premier jour du troisième mois qui suit la date à laquelle cette délibération

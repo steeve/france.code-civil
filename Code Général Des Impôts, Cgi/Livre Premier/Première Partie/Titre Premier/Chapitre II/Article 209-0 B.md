@@ -6,22 +6,29 @@ au régime défini au présent article pour la détermination des bénéfices
 imposables provenant de l'exploitation de ces navires.
 
 L'option mentionnée au premier alinéa est valable sous réserve que l'entreprise
-s'engage à maintenir ou à augmenter au cours de la période décennale mentionnée
-au III, sous pavillon d'un Etat membre de la Communauté européenne, la
-proportion de tonnage net qu'elle exploite sous ce pavillon au 17 janvier 2004
-ou à la date d'ouverture du premier exercice d'application du présent régime, si
-elle est postérieure.
+exploite sous pavillon d'un Etat membre de l'Union européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen une proportion de tonnage net
+au moins égale à 25 % et qu'elle s'engage à maintenir ou à augmenter, au cours
+de la période décennale mentionnée au III, la proportion de tonnage net qu'elle
+exploite sous ces pavillons à la date d'ouverture du premier exercice de la
+période décennale couverte par l'option.
+
+Pour les sociétés membres d'un groupe mentionné à l'article 223 A, la proportion
+mentionnée au deuxième alinéa du présent I est appréciée au regard du tonnage
+net total exploité par les sociétés membres du groupe (1).
 
 Sont éligibles à ce régime les navires armés au commerce :
 
 a. Qui ont une jauge brute égale ou supérieure à 50 unités du système de
 jaugeage universel (UMS) ;
 
-b. Qui, soit sont possédés en pleine propriété ou en copropriété à l'exception
-de ceux donnés en affrètement coque nue à des sociétés qui ne sont pas liées
-directement ou indirectement au sens du 12 de l'article 39 ou à des sociétés
-liées n'ayant pas elles-mêmes opté pour le régime, soit sont affrétés coque nue
-ou à temps ;
+b. Qui soit sont possédés en pleine propriété ou en copropriété, à l'exception
+de ceux donnés en affrètement coque nue à des sociétés qui ne leur sont pas
+liées directement ou indirectement, au sens du 12 de l'article 39, ou à des
+sociétés liées n'ayant pas elles-mêmes opté pour le régime, soit sont affrétés
+coque nue ou à temps, soit sont pris en location dans les conditions prévues au
+1 de l'article L. 313-7 du code monétaire et financier et dans le cadre
+d'opérations de location avec option d'achat ;
 
 c. Qui sont affectés au transport de personnes ou de biens, au remorquage en
 haute mer, au sauvetage ou à d'autres activités d'assistance maritime, à des
@@ -37,29 +44,26 @@ l'article 39 n'ayant pas opté elles-mêmes pour ce régime.
 
 Lorsque l'engagement mentionné au deuxième alinéa n'est pas respecté au titre
 d'un exercice, les navires qui ne battent pas pavillon d'un des Etats membres de
-la Communauté européenne dont le tonnage a conduit à minorer la proportion de
-tonnage net mentionnée au même alinéa ne peuvent pas bénéficier du présent
-régime au titre de cet exercice.
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen dont le tonnage a conduit à minorer la proportion de tonnage net
+mentionnée au même alinéa ne peuvent pas bénéficier du présent régime au titre
+de cet exercice.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas si l'une des
 conditions suivantes est remplie :
 
 a) Les navires éligibles au présent régime qui battent pavillon d'un des Etats
-membres de la Communauté européenne représentent au titre de l'exercice plus de
-60 % du tonnage net de la flotte de navires éligibles ;
+membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen représentent au titre de l'exercice plus de 60 % du tonnage
+net de la flotte de navires éligibles ;
 
-b) La proportion, sous pavillon d'un Etat membre de la Communauté européenne, de
-tonnage net des navires éligibles au présent régime n'a pas diminué en moyenne
-au cours des trois derniers exercices, ramenés le cas échéant à douze mois, par
-rapport à la proportion de tonnage net mentionnée au deuxième alinéa du I ;
+b) La proportion, sous pavillon d'un Etat membre de l'Union européenne ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen, de tonnage net
+des navires éligibles au présent régime n'a pas diminué en moyenne au cours des
+trois derniers exercices, ramenés le cas échéant à douze mois, par rapport à la
+proportion de tonnage net mentionnée au deuxième alinéa du I ;
 
-c) Pour les sociétés membres d'un groupe mentionné à l'article 223 A ou à
-l'article 223 A bis, la proportion, sous pavillon d'un Etat membre de la
-Communauté européenne, de tonnage net des navires éligibles au présent régime
-exploités par l'ensemble des sociétés membres de ce groupe ayant opté pour le
-présent régime n'a pas diminué au titre de l'exercice par rapport à la
-proportion mentionnée au deuxième alinéa déterminée pour l'ensemble de ces mêmes
-sociétés.
+c) (Abrogé).
 
 II.-Le résultat imposable provenant des opérations directement liées à
 l'exploitation des navires éligibles est déterminé par application à chacun de

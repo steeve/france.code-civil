@@ -47,11 +47,11 @@ c) Pour les locaux de stockage :
 
 3e CIRCONSCRIPTION
 
-52
+14.03
 
-32
+14.03
 
-13
+14.03
 
 Ces tarifs, fixés au 1er janvier 2011, sont actualisés par arrêté du ministre
 chargé de l'urbanisme au 1er janvier de chaque année en fonction du dernier

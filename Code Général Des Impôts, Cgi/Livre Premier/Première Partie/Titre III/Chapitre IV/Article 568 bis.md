@@ -1,7 +1,7 @@
 Article 568 bis
 ----
 Par dérogation à l'article 568, dans les départements d'outre-mer, seuls peuvent
-vendre du tabac au détail, à compter du 1er janvier 2015, les personnes ayant la
+vendre du tabac au détail, à compter du 1er janvier 2016, les personnes ayant la
 qualité de commerçants, titulaires d'une licence accordée au nom du département
 par le président du conseil général. Une licence ne vaut que pour un point de
 vente.
@@ -23,11 +23,11 @@ La délivrance de cette licence est soumise au versement, au profit du
 département d'outre-mer concerné, d'une redevance annuelle dont le montant est
 fixé par délibération du conseil général.
 
-A compter du 1er janvier 2015, seuls les distributeurs agréés peuvent vendre du
+A compter du 1er janvier 2016, seuls les distributeurs agréés peuvent vendre du
 tabac manufacturé aux personnes mentionnées au premier alinéa.
 
 A titre transitoire, les détaillants vendant habituellement du tabac manufacturé
-antérieurement au 1er janvier 2015 et n'ayant pas bénéficié de l'attribution
-d'une licence au titre de l'année 2015 sont autorisés à poursuivre la vente aux
+antérieurement au 1er janvier 2016 et n'ayant pas bénéficié de l'attribution
+d'une licence au titre de l'année 2016 sont autorisés à poursuivre la vente aux
 particuliers pendant la période strictement nécessaire à l'épuisement de leur
-stock et au plus tard jusqu'au 30 juin 2015.
+stock et au plus tard jusqu'au 30 juin 2016.

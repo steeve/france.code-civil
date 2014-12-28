@@ -14,24 +14,36 @@ délivré par la Fondation du patrimoine en application de l'article L. 143-2 du
 code du patrimoine, n'est pas ouvert aux immeubles détenus par des sociétés
 civiles non soumises à l'impôt sur les sociétés.
 
-Les dispositions du premier alinéa ne sont pas applicables aux immeubles détenus
-par des sociétés civiles non soumises à l'impôt sur les sociétés et ayant fait
-l'objet d'un agrément du ministre chargé du budget, après avis du ministre
-chargé de la culture, lorsque l'intérêt patrimonial du monument et l'importance
-des charges relatives à son entretien justifient le recours à un tel mode de
-détention ni aux immeubles détenus par des sociétés civiles non soumises à
-l'impôt sur les sociétés dont les associés sont membres d'une même famille, à la
-condition que les associés de ces sociétés prennent l'engagement de conserver la
-propriété de leurs parts pendant une période d'au moins quinze années à compter
-de leur acquisition. L'engagement de conservation des associés d'une société
-constituée entre les membres d'une même famille n'est pas rompu lorsque les
-parts sont cédées à un membre de cette famille qui reprend l'engagement
-précédemment souscrit pour sa durée restant à courir.
+Le premier alinéa du présent II n'est pas applicable aux immeubles détenus par
+des sociétés civiles non soumises à l'impôt sur les sociétés :
 
-Lorsque, dans la situation mentionnée au deuxième alinéa, les associés qui sont
-à l'origine de la constitution de la société agréée sont des personnes morales
-de droit public ou des sociétés d'économie mixte, le premier alinéa du 3° du I
-de l'article 156 peut s'appliquer aux revenus de l'année d'acquisition des parts
+1° Ayant fait l'objet d'un agrément du ministre chargé du budget, après avis du
+ministre chargé de la culture, lorsque le monument a fait l'objet d'un arrêté de
+classement, en tout ou en partie, au titre des monuments historiques au moins
+douze mois avant la demande d'agrément et est affecté à l'habitation pour au
+moins 75 % de ses surfaces habitables portées à la connaissance de
+l'administration fiscale. A cet égard, les immeubles ou fractions d'immeubles
+destinés à une exploitation à caractère commercial ou professionnel ne sont pas
+considérés comme affectés à l'habitation ;
+
+2° Ou lorsque le monument a fait l'objet d'un arrêté de classement en tout ou en
+partie au titre des monuments historiques et est affecté au minimum pendant
+quinze années à un espace culturel non commercial et ouvert au public ;
+
+3° Ou dont les associés sont membres d'une même famille.
+
+Les deuxième à quatrième alinéas du présent II s'appliquent à la condition que
+les associés de ces sociétés prennent l'engagement de conserver la propriété de
+leurs parts pendant une période d'au moins quinze années à compter de leur
+acquisition. L'engagement de conservation des associés d'une société constituée
+entre les membres d'une même famille n'est pas rompu lorsque les parts sont
+cédées à un membre de cette famille qui reprend l'engagement précédemment
+souscrit pour sa durée restant à courir.
+
+Lorsque, dans la situation mentionnée au 1°, les associés qui sont à l'origine
+de la constitution de la société agréée sont des personnes morales de droit
+public ou des sociétés d'économie mixte, le premier alinéa du 3° du I de
+l'article 156 peut s'appliquer aux revenus de l'année d'acquisition des parts
 sociales par des personnes physiques à raison des charges foncières supportées
 par la société entre la date de la déclaration d'ouverture de chantier prévue à
 l'article R. 424-16 du code de l'urbanisme et celle de l'acquisition de leurs
@@ -68,5 +80,10 @@ par la Fondation du patrimoine en application de l'article L. 143-2 du code du
 patrimoine, n'est pas ouvert aux immeubles ayant fait l'objet d'une division à
 compter du 1er janvier 2009 sauf si cette division fait l'objet d'un agrément
 délivré par le ministre du budget, après avis du ministre de la culture, lorsque
-l'intérêt patrimonial du monument et l'importance des charges relatives à son
-entretien la justifient.
+le monument a fait l'objet d'un arrêté de classement, en tout ou en partie, au
+titre des monuments historiques au moins douze mois avant la demande d'agrément
+et est affecté, dans les deux ans qui suivent cette demande, à l'habitation pour
+au moins 75 % de ses surfaces habitables portées à la connaissance de
+l'administration fiscale. A cet égard, les immeubles ou fractions d'immeubles
+destinés à une exploitation à caractère commercial ou professionnel ne sont pas
+considérés comme affectés à l'habitation.

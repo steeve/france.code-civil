@@ -66,17 +66,12 @@ l'article L. 3332-17-1 du code du travail.
 société bénéficiaire de la souscription remplit les conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 2°, à l'exception de
-celle tenant à son activité ;
+celles prévues au c bis et d ;
 
 b) La société a pour objet social exclusif de détenir des participations dans
 des sociétés exerçant les activités mentionnées au d du 2° ;
 
-c) La société ne compte pas plus de cinquante associés ou actionnaires ;
-
-La condition prévue au premier alinéa du présent c ne s'applique pas si la
-société détient exclusivement des participations dans une société exerçant une
-des activités mentionnées au d du 2° dont le capital est détenu pour 10 % au
-moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions ;
+c) (Abrogé) ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -162,12 +157,11 @@ réduction d'impôt sur le revenu. Les mêmes dispositions s'appliquent en cas d
 remboursement des apports aux souscripteurs avant le 31 décembre de la dixième
 année suivant celle de la souscription, à l'exception des parts investies dans
 des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du
-travail et agréées en vertu du même article avant le 31 décembre 2012, ainsi que
-dans des établissements de crédit ou des sociétés de financement dont 80 % de
-l'ensemble des prêts et des investissements sont effectués en faveur
-d'entreprises solidaires mentionnées audit article, pour lesquelles le
-remboursement doit intervenir après le 31 décembre de la cinquième année suivant
-celle de la souscription.
+travail et agréées en vertu du même article, ainsi que dans des établissements
+de crédit ou des sociétés de financement dont 80 % de l'ensemble des prêts et
+des investissements sont effectués en faveur d'entreprises solidaires
+mentionnées audit article, pour lesquelles le remboursement doit intervenir
+après le 31 décembre de la cinquième année suivant celle de la souscription.
 
 Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement,
 d'invalidité correspondant au classement dans la deuxième ou la troisième des
@@ -304,9 +298,9 @@ s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionn
 à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au
 titre III du livre III de la troisième partie du code du travail, ni à la
 fraction des versements effectués au titre de souscriptions ayant ouvert droit
-aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A,
-aux articles 199 undecies B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies
-ou 885-0 V bis du présent code. La fraction des versements effectués au titre de
+aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A, aux
+articles 199 undecies B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies ou
+885-0 V bis du présent code. La fraction des versements effectués au titre de
 souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies
 de l'article 83 n'ouvre pas droit à ces réductions d'impôt.
 

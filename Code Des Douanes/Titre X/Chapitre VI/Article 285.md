@@ -1,9 +1,10 @@
 Article 285
 ----
-1. L'administration des douanes est également chargée de recouvrer ou de faire
-garantir la perception des taxes sur le chiffre d'affaires, des taxes
-intérieures prévues par la législation des contributions indirectes et de tous
-autres droits et taxes exigibles à l'importation ou à l'exportation.
+1. L'administration des douanes est également chargée, sans préjudice du II de
+l'article 1695 du code général des impôts, de recouvrer ou de faire garantir la
+perception des taxes sur le chiffre d'affaires, des taxes intérieures prévues
+par la législation des contributions indirectes et de tous autres droits et
+taxes exigibles à l'importation ou à l'exportation.
 
 2. S'il s'agit d'importations dépourvues de tout caractère commercial,
 l'administration des douanes peut percevoir forfaitairement les taxes sur le

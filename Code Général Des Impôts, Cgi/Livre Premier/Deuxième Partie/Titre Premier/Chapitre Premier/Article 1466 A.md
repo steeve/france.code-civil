@@ -1,16 +1,15 @@
 Article 1466 A
 ----
 I.-Les communes sur le territoire desquelles sont situés un ou plusieurs
-quartiers classés en zones urbaines sensibles définies au 3 de l'article 42 de
-la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire ou leurs établissements publics de coopération
-intercommunale dotés d'une fiscalité propre peuvent exonérer de la cotisation
-foncière des entreprises par délibération prise dans les conditions de l'article
-1639 A bis les créations ou extensions d'établissement réalisées dans une ou
-plusieurs de ces zones urbaines sensibles, dans la limite d'un montant de base
-nette imposable fixé pour 2014 à 28 408 € et actualisé chaque année en fonction
-de la variation des prix. Seuls les établissements employant moins de 150
-salariés peuvent bénéficier de cette mesure.
+quartiers prioritaires de la politique de la ville ou leurs établissements
+publics de coopération intercommunale dotés d'une fiscalité propre peuvent
+exonérer de la cotisation foncière des entreprises par délibération prise dans
+les conditions de l'article 1639 A bis les créations ou extensions
+d'établissement réalisées dans un ou plusieurs de ces quartiers prioritaires,
+dans la limite d'un montant de base nette imposable fixé pour 2014 à 28 408 € et
+actualisé chaque année en fonction de la variation des prix. Seuls les
+établissements employant moins de 150 salariés peuvent bénéficier de cette
+mesure.
 
 L'exonération s'applique aux entreprises qui ont employé moins de 250 salariés
 au cours de la période de référence retenue pour le calcul de la base
@@ -37,8 +36,8 @@ d'investissement à risque ne sont pas prises en compte à la condition qu'il
 n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
 société en cause et ces dernières sociétés ou ces fonds.
 
-La délibération fixe le taux d'exonération, sa durée ainsi que la ou les zones
-urbaines sensibles concernées.
+La délibération fixe le taux d'exonération, sa durée ainsi que les quartiers
+prioritaires concernés.
 
 La délibération porte sur la totalité de la part revenant à chaque commune ou
 établissement public de coopération intercommunale doté d'une fiscalité propre.
@@ -52,7 +51,7 @@ public de coopération intercommunale doté d'une fiscalité propre prise dans l
 conditions prévues au I de l'article 1639 A bis, les entreprises sont exonérées
 de cotisation foncière des entreprises pour les créations et extensions
 d'établissements qu'elles réalisent entre le 1er janvier 2007 et le 31 décembre
-2014 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de
+2017 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de
 la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire.
 
@@ -71,15 +70,15 @@ de leurs établissements publics de coopération intercommunale dotés d'une
 fiscalité propre ne peuvent porter que sur l'ensemble des établissements créés
 ou étendus.
 
-Le bénéfice des exonérations est subordonné au respect du règlement (CE) n°
-1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
-articles 87 et 88 du traité des aides de minimis. Toutefois, sur option des
-entreprises qui procèdent aux opérations mentionnées au premier alinéa dans les
-zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné
-au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6
-août 2008 déclarant certaines catégories d'aides compatibles avec le marché
-commun en application des articles 87 et 88 du traité (Règlement général
-d'exemption par catégorie).
+Le bénéfice des exonérations est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne des
+aides de minimis. Toutefois, sur option des entreprises qui procèdent aux
+opérations mentionnées au premier alinéa dans les zones d'aide à finalité
+régionale, le bénéfice des exonérations est subordonné au respect de l'article
+14 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application
+des articles 107 et 108 du traité.
 
 L'option mentionnée au cinquième alinéa est irrévocable pour la durée de
 l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
@@ -135,14 +134,15 @@ foncière des entreprises visée à l'article 1477.
 I sexies.-Sauf délibération contraire de la commune ou de l'établissement public
 de coopération intercommunale doté d'une fiscalité propre, les établissements
 qui font l'objet d'une création ou d'une extension entre le 1er janvier 2006 et
-le 31 décembre 2014 dans les zones franches urbaines mentionnées à l'article
-1383 C bis ainsi que les établissements existant au 1er janvier 2006 dans les
-zones franches urbaines mentionnées au deuxième alinéa du B du 3 de l'article 42
-de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développementdu territoire sont exonérés de cotisation foncière des entreprises
-dans la limite du montant de base nette imposable fixé, pour 2014, à 76 629 € et
-actualisé chaque année en fonction de la variation de l'indice des prix. Les
-exonérations s'appliquent lorsque les conditions suivantes sont remplies :
+le 31 décembre 2014 dans les zones franches urbaines - territoires entrepreneurs
+mentionnées à l'article 1383 C bis ainsi que les établissements existant au 1er
+janvier 2006 dans les zones franches urbaines - territoires entrepreneurs
+mentionnées au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du
+4 février 1995 d'orientation pour l'aménagement et le développementdu territoire
+sont exonérés de cotisation foncière des entreprises dans la limite du montant
+de base nette imposable fixé, pour 2014, à 76 629 € et actualisé chaque année en
+fonction de la variation de l'indice des prix. Les exonérations s'appliquent
+lorsque les conditions suivantes sont remplies :
 
 1° L'entreprise doit employer au plus cinquante salariés au 1er janvier 2006 ou
 à la date de sa création ou de son implantation si elle est postérieure et, soit
@@ -171,8 +171,9 @@ porté le cas échéant à douze mois. Les seuils s'appliquent, pour les
 créations et extensions postérieures, à la date de l'implantation dans la zone.
 L'effectif de l'entreprise est apprécié par référence au nombre moyen de
 salariés employés au cours de cet exercice. Pour la société mère d'un groupe
-mentionné à l'article 223 A, le chiffre d'affaires est apprécié en faisant la
-somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
+mentionné à l'article 223 A ou à l'article 223 A bis, le chiffre d'affaires est
+apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés
+membres de ce groupe.
 
 Pour les établissements existant au 1er janvier 2006 mentionnés au premier
 alinéa, la base exonérée comprend, le cas échéant, dans la limite prévue à cet
@@ -191,25 +192,102 @@ et aux neuvième, dixième et onzième alinéas du I quater, à la dernière phr
 troisième alinéa et au sixième alinéa du I quinquies. Le bénéfice des
 exonérations prenant effet en 2006 dans les zones mentionnées au deuxième alinéa
 du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée et de
-celles prenant effet à compter de 2013 dans les zones franches urbaines définies
-au même B est subordonné au respect du règlement (UE) n° 1407/2013 de la
-Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108
-du traité sur le fonctionnement de l'Union européenne des aides de minimis.
+celles prenant effet à compter de 2013 dans les zones franches urbaines -
+territoires entrepreneurs définies au même B est subordonné au respect du
+règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à
+l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne des aides de minimis.
 
-II. Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies B
-et I sexies les contribuables déclarent, chaque année, dans les conditions
-prévues à l'article 1477, les éléments entrant dans le champ d'application de
-l'exonération.
+I septies. - Sauf délibération contraire de la collectivité territoriale ou de
+l'établissement public de coopération intercommunale doté d'une fiscalité
+propre, prise dans les conditions prévues au I de l'article 1639 A bis, les
+établissements qui font l'objet d'une création ou d'une extension entre le 1er
+janvier 2015 et le 31 décembre 2020 dans les quartiers prioritaires de la
+politique de la ville définis à l'article 5 de la loi n° 2014-173 du 21 février
+2014 de programmation pour la ville et la cohésion urbaine, ainsi que les
+établissements existant au 1er janvier 2015 situés dans ces mêmes quartiers sont
+exonérés de cotisation foncière des entreprises dans la limite du montant de
+base nette imposable fixé, pour 2015, à 77 089 € et actualisé chaque année en
+fonction de la variation de l'indice des prix.
+
+L'exonération porte, pendant cinq ans à compter de 2015 pour les établissements
+existant à cette date ou, en cas de création d'établissement, à compter de
+l'année qui suit la création ou, en cas d'extension d'établissement, à compter
+de la deuxième année qui suit celle-ci, sur la totalité de la part revenant à
+chaque collectivité territoriale ou établissement public de coopération
+intercommunale doté d'une fiscalité propre.
+
+A l'issue de la période d'exonération et au titre des trois années suivant
+l'expiration de celle-ci, la base nette imposable des établissements mentionnés
+au premier alinéa du présent I septies fait l'objet d'un abattement. Le montant
+de cet abattement est égal, la première année, à 60 % de la base exonérée de la
+dernière année d'application de l'exonération prévue au deuxième alinéa, à 40 %
+la deuxième année et à 20 % la troisième année. Cet abattement ne peut réduire
+la base d'imposition de l'année considérée de plus de 60 % de son montant la
+première année, 40 % la deuxième année et 20 % la troisième.
+
+Pour les établissements qui font l'objet d'une création à compter du 1er janvier
+2016, le bénéfice de l'exonération est subordonné à l'existence, au 1er janvier
+de l'année d'implantation, du contrat de ville prévu à l'article 6 de la loi n°
+2014-173 du 21 février 2014 précitée.
+
+En cas de changement d'exploitant au cours de la période d'exonération, celle-ci
+est maintenue pour la période restant à courir et dans les conditions prévues
+pour le prédécesseur.
+
+L'exonération s'applique lorsque les conditions suivantes sont remplies :
+
+1° L'entreprise exerce une activité commerciale ;
+
+2° Elle emploie moins de dix salariés au 1er janvier 2015 ou à la date de
+création et soit a réalisé un chiffre d'affaires annuel hors taxes inférieur à 2
+millions d'euros au cours de la période de référence, soit a un total de bilan
+inférieur à 2 millions d'euros ;
+
+3° Son capital ou ses droits de vote ne sont pas détenus, directement ou
+indirectement, à concurrence de 25 % ou plus par une entreprise ou conjointement
+par plusieurs entreprises dont l'effectif dépasse deux cent cinquante salariés
+et dont le chiffre d'affaires annuel hors taxes excède 50 millions d'euros ou le
+total du bilan annuel excède 43 millions d'euros. Pour la détermination de ce
+taux, les participations des sociétés de capital-risque, des fonds communs de
+placement à risques, des fonds professionnels spécialisés relevant de l'article
+L. 214-37 du code monétaire et financier, dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la
+gestion d'actifs, des fonds professionnels de capital investissement, des
+sociétés de développement régional, des sociétés financières d'innovation et des
+sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte
+à la condition qu'il n'existe pas de lien de dépendance, au sens du 12 de
+l'article 39 du présent code, entre la société en cause et ces dernières
+sociétés ou ces fonds.
+
+Pour l'application des 2° et 3° du présent I septies, le chiffre d'affaires est
+ramené ou porté, le cas échéant, à douze mois. Les seuils s'appliquent, pour les
+établissements existants, au 1er janvier 2015 et, pour les créations et
+extensions postérieures, à la date de l'implantation dans la zone. L'effectif de
+l'entreprise est apprécié par référence au nombre moyen de salariés employés au
+cours de cet exercice. Pour la société mère d'un groupe mentionné à l'article
+223 A, le chiffre d'affaires est apprécié en faisant la somme des chiffres
+d'affaires de chacune des sociétés membres de ce groupe.
+
+Le bénéfice des exonérations est subordonné au respect du règlement (UE) n°
+1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des
+articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis.
+
+II. Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies
+B, I sexies et I septies les contribuables déclarent, chaque année, dans les
+conditions prévues à l'article 1477, les éléments entrant dans le champ
+d'application de l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
 des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1464 L,
 1465,1465 A, 1465 B, 1466 C ou 1466 D et de celles prévues aux I, I quinquies A,
-I quinquies B ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
-régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour
-le dépôt de la déclaration afférente à la première année au titre de laquelle
-l'exonération prend effet.
+I quinquies B, I sexies ou I septies le contribuable doit opter pour l'un ou
+l'autre de ces régimes. L'option qui est irrévocable doit être exercée dans le
+délai prévu pour le dépôt de la déclaration afférente à la première année au
+titre de laquelle l'exonération prend effet.
 
-Pour l'application des I, I quinquies A, I quinquies B et I sexies :
+Pour l'application des I, I quinquies A, I quinquies B, I sexies et I septies :
 
 a) Deux périodes d'exonération ne peuvent courir simultanément ;
 

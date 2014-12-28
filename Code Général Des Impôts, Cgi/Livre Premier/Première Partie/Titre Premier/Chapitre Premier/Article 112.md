@@ -5,9 +5,7 @@ Ne sont pas considérés comme revenus distribués :
 1° Les répartitions présentant pour les associés ou actionnaires le caractère de
 remboursements d'apports ou de primes d'émission. Toutefois, une répartition
 n'est réputée présenter ce caractère que si tous les bénéfices et les réserves
-autres que la réserve légale ont été auparavant répartis. Les dispositions
-prévues à la deuxième phrase ne s'appliquent pas lorsque la répartition est
-effectuée au titre du rachat par la société émettrice de ses propres titres.
+autres que la réserve légale ont été auparavant répartis.
 
 Sous réserve des dispositions du 3°, ne sont pas considérés comme des apports
 pour l'application de la présente disposition :
@@ -48,11 +46,9 @@ sociétés.
 
 5° (Abrogé)
 
-6° Les sommes ou valeurs attribuées aux actionnaires au titre du rachat de leurs
-actions, lorsque ce rachat est effectué dans les conditions prévues aux articles
-L. 225-208 ou L. 225-209 à L. 225-212 du code de commerce. Le régime des
-plus-values prévu, selon les cas, aux articles 39 duodecies, 150-0 A ou 150 UB
-est alors applicable.
+6° Les sommes ou valeurs attribuées aux associés ou actionnaires au titre du
+rachat de leurs parts ou actions. Le régime des plus-values prévu, selon les
+cas, aux articles 39 duodecies, 150-0 A ou 150 UB est alors applicable.
 
 7° L'attribution d'actions ou de parts sociales opérée en conséquence de
 l'incorporation de réserves au capital.

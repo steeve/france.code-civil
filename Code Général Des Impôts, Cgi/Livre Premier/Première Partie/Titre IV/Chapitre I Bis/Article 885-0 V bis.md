@@ -70,17 +70,12 @@ souscriptions au capital de sociétés vérifiant les conditions prévues au 1.
 numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de
-celle prévue au b ;
+celles prévues aux b et e bis ;
 
 b) La société a pour objet exclusif de détenir des participations dans des
 sociétés exerçant une des activités mentionnées au b du 1 ;
 
-c) La société ne compte pas plus de cinquante associés ou actionnaires ;
-
-La condition prévue au premier alinéa du présent c ne s'applique pas si la
-société détient exclusivement des participations dans une société exerçant une
-des activités mentionnées au b du 1 dont le capital est détenu pour 10 % au
-moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions ;
+c) (Abrogé) ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -145,12 +140,11 @@ dixième année suivant celle de la souscription, le bénéfice de l'avantage fi
 prévu au I est remis en cause, sauf si le remboursement fait suite à la
 liquidation judiciaire de la société à l'exception des parts investies dans des
 entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail
-et agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans
-des établissements de crédit ou des sociétés de financement dont 80 % de
-l'ensemble des prêts et des investissements sont effectués en faveur
-d'entreprises solidaires mentionnées audit article, pour lesquelles le
-remboursement doit intervenir après le 31 décembre de la cinquième année suivant
-celle de la souscription.
+et agréées en vertu du même article, ainsi que dans des établissements de crédit
+ou des sociétés de financement dont 80 % de l'ensemble des prêts et des
+investissements sont effectués en faveur d'entreprises solidaires mentionnées
+audit article, pour lesquelles le remboursement doit intervenir après le 31
+décembre de la cinquième année suivant celle de la souscription.
 
 2. En cas de non-respect de la condition de conservation prévue au premier
 alinéa du 1 par suite d'une fusion ou d'une scission au sens de l'article 817 A,
@@ -247,7 +241,7 @@ figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquie
 ou dans un plan d'épargne salariale mentionné au titre III du livre III de la
 troisième partie du code du travail, ni à la fraction des versements effectués
 au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux
-f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199
+f ou g du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199
 terdecies-0 A, 199 terdecies-0 B, 199 unvicies ou 199 quatervicies du présent
 code. La fraction des versements effectués au titre de souscriptions donnant
 lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83
