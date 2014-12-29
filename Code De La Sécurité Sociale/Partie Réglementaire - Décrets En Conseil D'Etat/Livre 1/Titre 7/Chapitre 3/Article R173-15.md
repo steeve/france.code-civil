@@ -59,3 +59,7 @@ régimes mentionnés au premier alinéa, la majoration de durée d'assurance est
 accordée par le régime spécial auquel l'intéressé a été affilié en dernier lieu,
 et, en cas d'affiliations simultanées, par le régime spécial susceptible
 d'attribuer la pension la plus élevée.
+
+Les dispositions des deux premiers alinéas sont applicables à la majoration de
+durée d'assurance instituée à l'article L. 351-4-2, lorsqu'elle est prévue dans
+les régimes mentionnés aux mêmes alinéas.
