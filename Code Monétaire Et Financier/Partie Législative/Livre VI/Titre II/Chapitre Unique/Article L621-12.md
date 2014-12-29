@@ -1,12 +1,12 @@
 Article L621-12
 ----
-Pour la recherche des infractions définies aux articles L. 465-1 et L. 465-2 et
-des faits susceptibles d'être qualifiés de délit contre les biens et d'être
-sanctionnés par la commission des sanctions de l'Autorité des marchés financiers
-en application de l'article L. 621-15, le juge des libertés et de la détention
-du tribunal de grande instance dans le ressort duquel sont situés les locaux à
-visiter peut, sur demande motivée du secrétaire général de l'Autorité des
-marchés financiers, autoriser par ordonnance les enquêteurs de l'autorité à
+Pour la recherche des infractions définies aux articles L. 465-1, L. 465-2 et L.
+465-2-1 et des faits susceptibles d'être qualifiés de délit contre les biens et
+d'être sanctionnés par la commission des sanctions de l'Autorité des marchés
+financiers en application de l'article L. 621-15, le juge des libertés et de la
+détention du tribunal de grande instance dans le ressort duquel sont situés les
+locaux à visiter peut, sur demande motivée du secrétaire général de l'Autorité
+des marchés financiers, autoriser par ordonnance les enquêteurs de l'autorité à
 effectuer des visites en tous lieux ainsi qu'à procéder à la saisie de documents
 et au recueil, dans les conditions et selon les modalités mentionnées aux
 articles L. 621-10 et L. 621-11, des explications des personnes sollicitées sur

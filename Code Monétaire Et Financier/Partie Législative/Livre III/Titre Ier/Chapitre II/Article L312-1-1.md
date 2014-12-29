@@ -76,11 +76,11 @@ Avec l'accord du client, la convention de compte peut être adaptée avant
 l'expiration du délai de deux mois mentionné au II lorsqu'il bénéficie de la
 procédure de surendettement afin de faciliter l'exécution des mesures de
 traitement prévue au titre III du livre III du code de la consommation.
-L'Association française des établissements de crédit, mentionnée à l'article L.
-511-29 du présent code, adopte des normes professionnelles qui précisent les
-modalités et la durée du maintien du compte de dépôt et les adaptations, en
-particulier des moyens de paiement, de nature à en faciliter le fonctionnement
-et à éviter les incidents.
+L'Association française des établissements de crédit et des entreprises
+d'investissement, mentionnée à l'article L. 511-29 du présent code, adopte des
+normes professionnelles qui précisent les modalités et la durée du maintien du
+compte de dépôt et les adaptations, en particulier des moyens de paiement, de
+nature à en faciliter le fonctionnement et à éviter les incidents.
 
 Ces normes, homologuées par le ministre de l'économie, après avis du comité
 consultatif du secteur financier et du comité consultatif de la législation et

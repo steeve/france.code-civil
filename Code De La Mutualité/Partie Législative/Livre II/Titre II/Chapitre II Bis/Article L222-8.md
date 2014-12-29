@@ -22,6 +22,7 @@ Pour chaque contrat, la mutuelle ou union établit et révise au moins tous les
 trois ans un rapport indiquant sa politique de placement et les risques
 techniques et financiers y afférents. Ce rapport doit être mis à jour dans un
 délai de trois mois après tout changement majeur de la politique de placement.
-Il est remis, sur demande, au souscripteur. Un arrêté du ministre chargé de la
-sécurité sociale précise les autres informations qui, sur demande ou
-périodiquement, doivent être remises aux membres participants.
+Il est remis, sur demande, au souscripteur, au membre participant et au
+bénéficiaire. Un arrêté du ministre chargé de la sécurité sociale précise les
+autres informations qui, sur demande ou périodiquement, doivent être remises aux
+membres participants.

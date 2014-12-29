@@ -36,10 +36,11 @@ indique les valeurs minimales et explique le mécanisme de calcul des valeurs de
 rachat ou de transfert lorsque celles-ci ne peuvent être établies.
 
 Le défaut de remise des documents et informations prévus au présent article
-entraîne de plein droit la prorogation du délai de renonciation prévu à
-l'article L. 132-5-1 jusqu'au trentième jour calendaire révolu suivant la date
-de remise effective de ces documents, dans la limite de huit ans à compter de la
-date où le souscripteur est informé que le contrat est conclu.
+entraîne, pour les souscripteurs de bonne foi, la prorogation du délai de
+renonciation prévu à l'article L. 132-5-1 jusqu'au trentième jour calendaire
+révolu suivant la date de remise effective de ces documents, dans la limite de
+huit ans à compter de la date où le souscripteur est informé que le contrat est
+conclu.
 
 Les dispositions du présent article sont précisées, en tant que de besoin, par
 arrêté ministériel.

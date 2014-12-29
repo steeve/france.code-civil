@@ -52,18 +52,18 @@ surveillance.
 
 V. - 1. Le collège de supervision de l'Autorité de contrôle prudentiel et de
 résolution peut s'opposer à la poursuite du mandat d'une ou plusieurs personnes
-physiques membres du conseil d'administration ou du conseil de surveillance des
-personnes mentionnées au B du I de l'article L. 612-2, à l'exception de celles
-mentionnées aux 4°, 7° et des véhicules mentionnés au 8°, et qui disposent d'un
-agrément pour l'exercice de leur activité lorsqu'elles ne remplissent pas les
-conditions d'honorabilité ou les conditions de compétence et d'expérience qui
-leur sont applicables. Le collège de supervision de l'Autorité de contrôle
-prudentiel et de résolution peut également, pour les mêmes motifs ou lorsque la
-condition de connaissances n'est plus remplie, s'opposer à la poursuite du
-mandat d'un ou de plusieurs membres du conseil d'administration, du conseil de
-surveillance, du directoire ou de tout organe équivalent autres que les
-dirigeants mentionnés à l'article L. 511-13, des personnes mentionnées aux 4° et
-10° du A du I de l'article L. 612-2.
+physiques, y compris les représentants des personnes morales, membres du conseil
+d'administration ou du conseil de surveillance des personnes mentionnées au B du
+I de l'article L. 612-2, à l'exception de celles mentionnées aux 4°, 7° et des
+véhicules mentionnés au 8°, et qui disposent d'un agrément pour l'exercice de
+leur activité lorsqu'elles ne remplissent pas les conditions d'honorabilité ou
+les conditions de compétence et d'expérience qui leur sont applicables. Le
+collège de supervision de l'Autorité de contrôle prudentiel et de résolution
+peut également, pour les mêmes motifs ou lorsque la condition de connaissances
+n'est plus remplie, s'opposer à la poursuite du mandat d'un ou de plusieurs
+membres du conseil d'administration, du conseil de surveillance, du directoire
+ou de tout organe équivalent autres que les dirigeants mentionnés à l'article L.
+511-13, des personnes mentionnées aux 4° et 10° du A du I de l'article L. 612-2.
 
 Préalablement, et en ce qui concerne les conditions de compétence et
 d'expérience, l'Autorité de contrôle prudentiel et de résolution peut exiger des

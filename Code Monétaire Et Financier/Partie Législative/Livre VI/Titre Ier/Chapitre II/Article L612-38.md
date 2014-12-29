@@ -28,11 +28,11 @@ droit de se faire assister ou représenter par un conseil de son choix. La
 commission des sanctions dispose des services de l'Autorité pour la conduite de
 la procédure.
 
-Le membre du collège de supervision désigné par la formation qui a décidé de
-l'ouverture de la procédure de sanction est convoqué à l'audience. Il y assiste
-sans voix délibérative. Il peut être assisté ou représenté par les services de
-l'Autorité. Il peut présenter des observations au soutien des griefs notifiés et
-proposer une sanction.
+Le membre du collège de supervision ou du collège de résolution désigné par la
+formation qui a décidé de l'ouverture de la procédure de sanction est convoqué à
+l'audience. Il y assiste sans voix délibérative. Il peut être assisté ou
+représenté par les services de l'Autorité. Il peut présenter des observations au
+soutien des griefs notifiés et proposer une sanction.
 
 La commission des sanctions peut entendre tout agent des services de l'Autorité.
 

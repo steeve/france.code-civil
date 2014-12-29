@@ -10,8 +10,8 @@ d'un organisme mentionné aux articles L. 213-8, L. 511-1, L. 517-1, L. 517-4, L
 signer pour le compte de cet organisme ;
 
 2° Exercer l'une des professions ou activités mentionnées aux articles L. 341-1,
-L. 519-1, L. 524-1, L. 523-1, L. 525-8, L. 541-1, L. 547-1 et L. 548-1 et L.
-550-1.
+L. 519-1, L. 524-1, L. 523-1, L. 525-8, L. 541-1, L. 545-1, L. 547-1 et L. 548-1
+et L. 550-1.
 
 II.-Les condamnations mentionnées au I sont celles :
 
@@ -76,10 +76,10 @@ t) L'une des infractions à la législation ou la réglementation des assurances
 
 3° A la destitution des fonctions d'officier public ou ministériel.
 
-III.-L'incapacité prévue au premier alinéa du I s'applique à toute personne à
-l'égard de laquelle a été prononcée une mesure définitive de faillite
-personnelle ou une autre mesure définitive d'interdiction dans les conditions
-prévues par le livre VI du code de commerce.
+III.-L'incapacité prévue au I s'applique à toute personne à l'égard de laquelle
+a été prononcée une mesure définitive de faillite personnelle ou une autre
+mesure définitive d'interdiction dans les conditions prévues par le livre VI du
+code de commerce.
 
 IV.-Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du
 code pénal, la juridiction prononçant la décision qui entraîne cette incapacité

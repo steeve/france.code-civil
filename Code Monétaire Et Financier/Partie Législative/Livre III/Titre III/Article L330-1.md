@@ -50,7 +50,12 @@ financiers, les établissements de crédit et les entreprises d'investissement
 autres que ceux mentionnés au 1°, ainsi que d'autres personnes morales non
 résidentes ayant une activité comparable à celle des personnes mentionnées du 2°
 au 5°, et soumis, dans leur Etat d'origine, à des règles d'accès à cette
-activité, d'exercice et de contrôle équivalentes à celles en vigueur en France.
+activité, d'exercice et de contrôle équivalentes à celles en vigueur en France ;
+
+7° Les chambres de compensation établies ou reconnues en application des
+articles 14 ou 25 du règlement (UE) n° 648/2012 du Parlement européen et du
+Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les
+contreparties centrales et les référentiels centraux.
 
 L'accès des établissements de crédit et des entreprises d'investissement ayant
 leur siège social ou, à défaut de siège social, leur direction effective dans un
@@ -73,7 +78,7 @@ participation ou liés à cette participation audit système sont déterminés p
 loi qui régit le système, sous réserve que cette loi soit celle d'un Etat partie
 à l'accord sur l'Espace économique européen.
 
-Les institutions mentionnées du 1° au 6° peuvent avoir la qualité de participant
+Les institutions mentionnées du 1° au 7° peuvent avoir la qualité de participant
 indirect dans l'un des systèmes mentionnés au I lorsque leurs instructions de
 paiement ou de livraison d'instruments financiers sont introduites dans le
 système par l'intermédiaire d'un participant direct. Les relations entre un
@@ -117,3 +122,10 @@ règles de l'ensemble des systèmes liés par des contrats d'interopérabilité,
 règles relatives au moment de l'introduction et celles relatives au moment de
 l'irrévocabilité propres à un système ne sont affectées par aucune règle des
 autres systèmes avec lesquels il est interopérable.
+
+Lorsqu'un gestionnaire d'un système a fourni une garantie à un autre
+gestionnaire de système dans le cadre d'un accord d'interopérabilité entre les
+deux systèmes, les droits de celui qui a constitué la garantie ne sont pas
+affectés par l'ouverture d'une procédure de sauvegarde, de redressement ou de
+liquidation judiciaires à l'encontre du gestionnaire de système qui a reçu la
+garantie.

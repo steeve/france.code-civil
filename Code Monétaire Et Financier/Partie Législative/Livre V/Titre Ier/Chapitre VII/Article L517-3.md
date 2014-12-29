@@ -1,8 +1,8 @@
 Article L517-3
 ----
 I.-Pour l'application de la surveillance complémentaire prévue au chapitre III
-du titre III du livre VI, on entend par " groupe " : un groupe mentionné au III
-de l'article L. 511-20 ou un groupe d'assurance mentionné au 6° de l'article L.
+du titre III du livre VI, on entend par "groupe" : un groupe mentionné au III de
+l'article L. 511-20 ou un groupe d'assurance mentionné au 6° de l'article L.
 334-2 du code des assurances ou un groupe financier mentionné au 7° de l'article
 L. 212-7-1 du code de la mutualité ou un groupe financier mentionné au 6° de
 l'article L. 933-2 du code de la sécurité sociale ou tout sous-groupe de ces
@@ -28,8 +28,8 @@ d'investissement ;
 
 3° Les activités consolidées ou agrégées des entités du groupe dans le secteur
 de l'assurance, les activités consolidées ou agrégées des entités dans le
-secteur bancaire et les activités consolidées ou agrégées des entités dans le
-secteur des services d'investissement sont importantes ;
+secteur bancaire et dans le secteur des services d'investissement sont
+importantes ;
 
 III.-Sont fixés par arrêté des ministres chargés de l'économie, de la sécurité
 sociale et de la mutualité :
@@ -52,4 +52,5 @@ surveillance complémentaire. Néanmoins, le coordonnateur du conglomérat ou le
 coordonnateur susceptible d'être désigné conformément à l'article L. 633-2 pour
 la surveillance complémentaire du sous-groupe peut, par une décision motivée,
 soumettre le sous-groupe à la surveillance complémentaire dans des conditions
-fixées par voie réglementaire.
+fixées par arrêté conjoint des ministres chargés de l'économie, de la sécurité
+sociale et de la mutualité.

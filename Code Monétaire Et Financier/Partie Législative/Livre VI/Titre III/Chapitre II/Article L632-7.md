@@ -52,6 +52,12 @@ parties à ces accords.
 Cet échange d'informations doit être destiné à l'exécution des missions desdites
 autorités ou personnes.
 
+II bis. - Lorsqu'elles proviennent d'une autorité d'un autre Etat membre de
+l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen ou d'un pays tiers, les informations ne peuvent être divulguées sans
+l'accord exprès de l'autorité qui les a communiquées et, le cas échéant, aux
+seules fins pour lesquelles elle a donné son accord.
+
 III. - L'Autorité des marchés financiers donne son autorisation expresse
 préalablement à toute transmission, par les autorités compétentes d'un pays
 tiers aux autorités d'autres pays tiers, de données et analyses de données

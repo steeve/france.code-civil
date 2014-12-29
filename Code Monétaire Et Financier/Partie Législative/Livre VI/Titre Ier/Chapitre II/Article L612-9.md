@@ -31,7 +31,7 @@ renouvellement.
 Il ne peut être mis fin aux fonctions d'un membre de la commission des sanctions
 que dans les formes de la nomination, après avis conforme émis à la majorité des
 autres membres de la commission des sanctions constatant qu'il n'est plus à même
-de siéger au sein du collège de supervision du fait d'une incapacité ou d'un
-manquement grave à ses obligations empêchant la poursuite de son mandat.
+d'y siéger du fait d'une incapacité ou d'un manquement grave à ses obligations
+empêchant la poursuite de son mandat.
 
 Le régime indemnitaire des membres de la commission est fixé par décret.

@@ -85,7 +85,7 @@ tenues d'obtenir un agrément conformément à l'article L. 321-1-1 du code des
 assurances, à l'article L. 931-4-1 du code de la sécurité sociale ou à l'article
 L. 211-7-2 du code de la mutualité ;
 
-c) Le secteur des entreprises d'investissement, qui comprend les entreprises
+c) Le secteur des services d'investissement, qui comprend les entreprises
 d'investissement mentionnées à l'article L. 531-4, autres que celles qui sont
 agréées exclusivement pour fournir un ou plusieurs des services d'investissement
 mentionnés aux 1,2,4 et 5 de l'article L. 321-1 et qui ne sont pas autorisées à

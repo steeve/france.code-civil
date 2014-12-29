@@ -8,9 +8,8 @@ II.-1° (Abrogé)
 
 2° Pour l'application de l'article L. 451-1-2 :
 
-a) Au I, aux 1° et 3° du II, au III et au IV, les mots : " d'un Etat partie à
-l'accord sur l'Espace économique européen " sont remplacés par le mot : "
-français " ;
+a) Au I, au 1° du II et au III, les mots : " d'un Etat partie à l'accord sur
+l'Espace économique européen " sont remplacés par le mot : " français " ;
 
 b) Au 3° du II, les mots : " de l'Espace économique européen " sont remplacés
 par les mots : " de France ".

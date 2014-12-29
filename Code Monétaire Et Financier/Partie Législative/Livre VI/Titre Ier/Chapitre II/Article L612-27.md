@@ -10,9 +10,9 @@ constatations pour des faits ou agissements susceptibles de constituer des
 manquements aux dispositions applicables aux personnes contrôlées, les
 contrôleurs de l'autorité peuvent dresser des procès-verbaux.
 
-Les suites données aux contrôles sur place sont communiquées soit au conseil
-d'administration, soit au directoire et au conseil de surveillance, soit à
-l'organe délibérant en tenant lieu, de la personne contrôlée.
+Les suites données aux contrôles sur place sont communiquées au conseil
+d'administration, au conseil de surveillance ou à tout autre organe exerçant des
+fonctions de surveillance équivalentes de la personne contrôlée.
 
 Elles peuvent être communiquées à ses commissaires aux comptes et aux
 contrôleurs spécifiques des sociétés de crédit foncier et des sociétés de

@@ -16,7 +16,7 @@ décret, dont la France est l'Etat membre responsable.
 
 Au sens de la présente section :
 
--les gaz à effet de serre sont les gaz énumérés à l'annexe I de la directive
+-les gaz à effet de serre sont les gaz énumérés à l'annexe II de la directive
 2003/87/ CE du 13 octobre 2003 et les autres composants gazeux de l'atmosphère,
 tant naturels qu'anthropiques, qui absorbent et renvoient un rayonnement
 infrarouge ;

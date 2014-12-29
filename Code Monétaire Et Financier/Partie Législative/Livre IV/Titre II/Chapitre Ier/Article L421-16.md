@@ -24,3 +24,10 @@ pas trois mois à compter de la décision du président.
 
 Le collège de l'Autorité des marchés financiers peut renouveler les mesures
 d'urgence pour des périodes supplémentaires ne dépassant pas trois mois.
+
+III. - Pour la mise en œuvre des restrictions temporaires des ventes à découvert
+prévues à l'article 23 du règlement (UE) n° 236/2012 du Parlement européen et du
+Conseil du 14 mars 2012 sur la vente à découvert et certains aspects des
+contrats d'échange sur risque de crédit, le président de l'Autorité des marchés
+financiers ou la personne qu'il désigne peut prendre une décision et la
+prolonger dans les conditions fixées par ce même règlement.

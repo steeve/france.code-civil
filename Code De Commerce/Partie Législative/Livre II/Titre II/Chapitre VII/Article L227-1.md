@@ -9,12 +9,12 @@ lorsque le présent chapitre prévoit une prise de décision collective.
 
 Dans la mesure où elles sont compatibles avec les dispositions particulières
 prévues par le présent chapitre, les règles concernant les sociétés anonymes, à
-l'exception des articles L. 224-2, L. 225-17 à L. 225-126, L. 225-243 et du I de
-l'article L. 233-8, sont applicables à la société par actions simplifiée. Pour
-l'application de ces règles, les attributions du conseil d'administration ou de
-son président sont exercées par le président de la société par actions
-simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet
-effet.
+l'exception des articles L. 224-2, L. 225-17 à L. 225-102-2, L. 225-103 à L.
+225-126, L. 225-243 et du I de l'article L. 233-8, sont applicables à la société
+par actions simplifiée. Pour l'application de ces règles, les attributions du
+conseil d'administration ou de son président sont exercées par le président de
+la société par actions simplifiée ou celui ou ceux de ses dirigeants que les
+statuts désignent à cet effet.
 
 La société par actions simplifiée peut émettre des actions inaliénables
 résultant d'apports en industrie tels que définis à l'article 1843-2 du code

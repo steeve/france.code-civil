@@ -9,6 +9,12 @@ juridiction saisie peut ordonner qu'il soit sursis à l'exécution de la décisi
 contestée si celle-ci est susceptible d'entraîner des conséquences manifestement
 excessives.
 
+Lorsque les recours mentionnés au premier alinéa du présent article visent une
+décision individuelle de l'Autorité des marchés financiers relative à une offre
+publique mentionnée aux sections 1 à 3 du chapitre III du titre III du livre IV,
+la juridiction saisie se prononce dans un délai de cinq mois à compter de la
+déclaration de recours.
+
 Les décisions prononcées par la commission des sanctions peuvent faire l'objet
 d'un recours par les personnes sanctionnées et par le président de l'Autorité
 des marchés financiers, après accord du collège. En cas de recours d'une

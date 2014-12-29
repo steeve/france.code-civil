@@ -10,13 +10,13 @@ diffusion de la décision prononcée dans les conditions prévues par l'article 
 131-35 du code pénal.
 
 II. ― Lorsque l'Autorité des marchés financiers ou l'Autorité de contrôle
-prudentiel a connaissance d'une infraction commise par l'une des personnes
-mentionnées au I de l'article L. 546-1 susceptible d'entraîner la radiation du
-registre mentionné à ce même article, ou lorsque l'Autorité des marchés
-financiers ou l'Autorité de contrôle prudentiel fait usage de son pouvoir de
-sanction en application respectivement de l'article L. 621-15 ou du I de
-l'article L. 612-41, elle en informe l'organisme chargé de la tenue de ce
-registre.
+prudentiel a connaissance d'éléments susceptibles de constituer une infraction
+commise par l'une des personnes mentionnées au I de l'article L. 546-1 et
+d'entraîner la radiation du registre mentionné à ce même article, ou lorsque
+l'Autorité des marchés financiers ou l'Autorité de contrôle prudentiel fait
+usage de son pouvoir de sanction en application respectivement de l'article L.
+621-15 ou du I de l'article L. 612-41, elle en informe l'organisme chargé de la
+tenue de ce registre.
 
 III. ― L'organisme chargé de la tenue du registre mentionné au I de l'article L.
 546-1 communique toute information qui lui est demandée par l'Autorité des

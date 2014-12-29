@@ -9,10 +9,10 @@ d'un Etat partie à l'accord sur l'Espace économique européen, publient et
 déposent auprès de l'Autorité des marchés financiers un rapport financier annuel
 dans les quatre mois qui suivent la clôture de leur exercice.
 
-Ce rapport financier annuel est tenu à la disposition du public pendant cinq
-ans, selon des modalités prévues par le règlement général de l'Autorité des
-marchés financiers. Il comprend les comptes annuels, les comptes consolidés le
-cas échéant, un rapport de gestion, une déclaration des personnes physiques qui
+Ce rapport financier annuel est tenu à la disposition du public pendant dix ans,
+selon des modalités prévues par le règlement général de l'Autorité des marchés
+financiers. Il comprend les comptes annuels, les comptes consolidés le cas
+échéant, un rapport de gestion, une déclaration des personnes physiques qui
 assument la responsabilité de ces documents et le rapport des commissaires aux
 comptes ou des contrôleurs légaux ou statutaires sur les comptes précités.
 
@@ -35,51 +35,34 @@ mentionnés au 1° sont admis aux négociations sur un marché réglementé fran
 
 3° Les émetteurs dont le siège est établi hors de l'Espace économique européen
 dont des titres mentionnés au I sont admis aux négociations sur un marché
-réglementé d'un Etat partie à l'accord sur l'Espace économique européen.
+réglementé français.
 
 III.-Les émetteurs mentionnés aux I et II et soumis aux obligations définies au
 I, dont des titres de capital ou des titres de créance sont admis aux
 négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace
 économique européen, publient également et déposent auprès de l'Autorité des
-marchés financiers un rapport financier semestriel dans les deux mois qui
+marchés financiers un rapport financier semestriel dans les trois mois qui
 suivent la fin du premier semestre de leur exercice.
 
-Ce rapport financier semestriel comprend des comptes condensés pour le semestre
-écoulé, présentés sous forme consolidée le cas échéant, un rapport semestriel
-d'activité et une déclaration des personnes physiques qui assument la
-responsabilité de ces documents.
+Ce rapport financier semestriel, qui est tenu à la disposition du public pendant
+dix ans, comprend des comptes complets ou condensés pour le semestre écoulé,
+présentés sous forme consolidée le cas échéant, un rapport semestriel
+d'activité, une déclaration des personnes physiques qui assument la
+responsabilité de ces documents et le rapport des commissaires aux comptes ou
+des contrôleurs légaux ou statutaires sur l'examen limité des comptes précités.
 
-Les commissaires aux comptes vérifient la sincérité des comptes condensés
-mentionnés à l'alinéa précédent, par rapport aux informations contenues dans le
-rapport semestriel d'activité et font état de leurs observations dans un rapport
-d'examen limité annexé à celui-ci.
+Les commissaires aux comptes font état, dans leur rapport d'examen limité, de
+leurs conclusions sur le contrôle des comptes complets ou condensés et de leurs
+observations sur la sincérité et la concordance avec ces comptes des
+informations données dans le rapport semestriel d'activité.
 
-IV.-Les émetteurs mentionnés aux I et II et soumis aux obligations définies au
-I, dont des titres de capital sont admis aux négociations sur un marché
-réglementé d'un Etat partie à l'accord sur l'Espace économique européen,
-publient également et déposent auprès de l'Autorité des marchés financiers une
-information financière trimestrielle dans les quarante-cinq jours qui suivent la
-fin des premier et troisième trimestres de leur exercice.
-
-Cette information financière comprend :
-
-1° Une explication des opérations et événements importants qui ont eu lieu
-pendant la période considérée et une explication de leur incidence sur la
-situation financière de l'émetteur et des entités qu'il contrôle ;
-
-2° Une description générale de la situation financière et des résultats de
-l'émetteur et des entités qu'il contrôle pendant la période considérée ;
-
-3° Le montant net par branche d'activité du chiffre d'affaires du trimestre
-écoulé et, le cas échéant, de l'ensemble de l'exercice en cours, ainsi que
-l'indication des chiffres d'affaires correspondants de l'exercice précédent. Ce
-montant est établi individuellement ou, le cas échéant, de façon consolidée.
+IV.-(abrogé)
 
 V.-Sans préjudice des règles du code de commerce applicables aux comptes
 annuels, aux comptes consolidés, au rapport de gestion et au rapport semestriel
 d'activité ainsi qu'aux rapports des commissaires aux comptes, le règlement
 général de l'Autorité des marchés financiers précise le contenu des documents
-mentionnés aux I, III et IV.
+mentionnés aux I et III.
 
 VI.-Les émetteurs mentionnés aux I et II et soumis aux obligations définies au I
 communiquent à l'Autorité des marchés financiers, ainsi qu'aux personnes qui
