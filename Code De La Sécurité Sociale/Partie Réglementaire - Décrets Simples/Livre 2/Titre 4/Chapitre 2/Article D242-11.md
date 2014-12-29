@@ -1,20 +1,12 @@
 Article D242-11
 ----
-En vue de bénéficier pour la première fois de l'exonération des cotisations sur
-les avantages de retraite servis par les organismes du régime général de
-sécurité sociale, les personnes qui ne sont pas titulaires de l'un des avantages
-prévus au 2° du premier alinéa de l'article D. 242-9 doivent adresser un avis de
-non-imposition.
-
-En vue de bénéficier pour la première fois de l'exonération de cotisation sur
-les autres avantages de retraite mentionnés à l'article L. 241-2, les pensionnés
-font connaître aux débiteurs de ces avantages, par un avis de non-imposition,
-qu'ils remplissent les conditions prévues à l'article D. 242-9.
-
-Les bénéficiaires de l'exonération sont tenus de faire connaître aux organismes
-ou services dont ils perçoivent un avantage de retraite tous changements
-intervenus dans leurs ressources susceptibles de modifier leur situation au
-regard de l'exonération.
+En vue de bénéficier de l'exonération de cotisation mentionnée au 1° de
+l'article D. 242-9 et lorsque l'organisme débiteur mentionné au premier alinéa
+de l'article D. 242-8 n'a pas informé les pensionnés qu'il dispose des revenus
+lui permettant d'apprécier leur situation au regard de cette exonération, les
+pensionnés font connaître à l'organisme débiteur qu'ils remplissent les
+conditions prévues à l'article D. 242-9, en lui adressant un avis d'imposition
+de l'avant-dernière année civile.
 
 Le débiteur de l'avantage de retraite, soit de sa propre initiative, soit sur
 réquisition de l'organisme chargé du recouvrement, procède à toutes enquêtes ou
