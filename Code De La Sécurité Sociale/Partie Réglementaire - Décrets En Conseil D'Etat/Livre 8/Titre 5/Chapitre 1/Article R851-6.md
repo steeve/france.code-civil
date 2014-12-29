@@ -1,6 +1,6 @@
 Article R851-6
 ----
-I. - Au titre de l'aide mentionnée au I de l'article L. 851-1, avant la fin de
+I.-Au titre de l'aide mentionnée au I de l'article L. 851-1, avant la fin de
 chaque année civile, l'organisme adresse au préfet et à la caisse d'allocations
 familiales :
 
@@ -17,31 +17,44 @@ convention, qui prend effet le 1er janvier.
 L'organisme est tenu d'adresser chaque année ses comptes définitifs au préfet et
 à la Caisse d'allocations familiales.
 
-II. - Au titre de l'aide mentionnée au II de l'article L. 851-1, avant la fin de
-chaque année civile, la commune, l'établissement public ou la personne morale
-adresse au préfet et à la caisse d'allocations familiales :
+II.-Au titre de l'aide mentionnée au II de l'article L. 851-1, le gestionnaire
+de l'aire ou des aires adresse au préfet et à la caisse d'allocations familiales
+avant le 15 janvier de l'année suivante, pour chaque aire, la déclaration dont
+le modèle est fixé par arrêté conjoint des ministres chargés de la sécurité
+sociale, du budget et du logement, qui comporte notamment pour l'année
+précédente :
 
-1° Un bilan d'occupation des places de caravanes des douze derniers mois arrêté
-au 30 septembre ;
+1° Le nombre de places conformes aux articles 2 et 3 du décret n° 2001-569 du 29
+juin 2001 relatif aux normes techniques applicables aux aires d'accueil des gens
+du voyage et effectivement disponibles chaque mois ;
 
-2° Le nombre de places de caravanes effectivement disponibles, mois par mois,
-pour l'année à venir, telles que définies aux articles 2 et 3 du décret n°
-2001-569 du 29 juin 2001 relatif aux normes techniques applicables aux aires
-d'accueil des gens du voyage ;
+2° Le nombre de jours d'occupation mensuelle effective par place ;
 
-3° Un état arrêté à la date du 30 septembre indiquant pour les douze derniers
-mois l'aide versée par la caisse d'allocations familiales, le montant du droit
-d'usage perçu auprès des gens du voyage ainsi que les dépenses de fonctionnement
-et d'entretien de l'aire ;
+3° Le montant de la recette mensuelle des droits d'occupation des places
+acquittés par les gens du voyage ;
 
-4° Le rapport de visite mentionné à l'article 4 du décret n° 2001-569 du 29 juin
-2001 relatif aux normes techniques applicables aux aires d'accueil des gens du
-voyage.
+4° Les pièces justificatives des éléments déclarés.
 
-Le préfet et la commune, ou l'établissement public ou la personne morale peuvent
-signer un avenant annuel à la convention. L'avenant prend effet le 1er janvier
-de l'année suivante.
+Il est joint à la déclaration le rapport de visite mentionné à l' article 4 du
+décret n° 2001-569 du 29 juin 2001 susmentionné ainsi qu'un état arrêté à la
+date du 31 décembre indiquant pour les douze derniers mois l'aide versée par la
+caisse d'allocations familiales, le montant de la recette mentionnée au 3°
+perçue ainsi que les dépenses de fonctionnement et d'entretien de l'aire.
 
-Aucun avenant ne peut être signé si les documents énumérés aux 1° à 4° du
-présent article ne sont pas produits ou si les normes fixées par le décret n°
-2001-569 du 29 juin 2001 précité ne sont plus respectées.
+En cas de défaut de déclaration à la date prévue au premier alinéa du présent
+II, le préfet met en demeure le gestionnaire de la produire dans le délai de
+quinze jours. A défaut de régularisation dans ce délai, le préfet notifie au
+gestionnaire bénéficiaire de l'aide une décision de restitution des versements.
+Cette décision est communiquée à la caisse d'allocations familiales afin qu'elle
+mette en œuvre la restitution des versements effectués l'année précédente au
+titre du 2° du II de l'article R. 851-5.
+
+Lorsque le contrôle sur pièces des déclarations fait apparaître une discordance
+entre le nombre de jours d'occupation mensuelle effective par place et la
+recette mensuelle de l'aire, le préfet, après avoir invité le gestionnaire à
+présenter ses observations, lui notifie au plus tard le dernier jour du mois de
+février le montant qu'il retient pour le versement de l'aide au titre du 2° du
+II de l'article R. 851-5. Dans le même délai, la décision est communiquée à la
+caisse d'allocations familiales afin qu'elle engage la procédure de versement ou
+de récupération de la différence entre le montant de l'aide prévisionnelle
+versée et le montant arrêté par le préfet.
