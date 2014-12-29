@@ -1,7 +1,7 @@
 Article R31-10-2
 ----
-Les prêts mentionnés au présent chapitre sont consentis pour le financement des
-opérations suivantes :
+I.-Les prêts mentionnés au présent chapitre sont consentis pour le financement
+des opérations suivantes :
 
 1° La construction d'un logement, accompagnée, le cas échéant, de l'acquisition
 de droits de construire ou de terrains destinés à la construction de ce
@@ -11,7 +11,7 @@ assimilé à la construction d'un logement ; L'acquisition d'un logement en vue 
 sa première occupation après la réalisation de travaux concourant à la
 production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de
 l'article 257 du code général des impôts est également assimilée à la
-construction d'un logement ; (1)
+construction d'un logement ;
 
 2° L'acquisition d'un logement ayant déjà été occupé ;
 
@@ -44,10 +44,29 @@ Les opérations du présent article peuvent comprendre des travaux. Elles peuven
 dont la liste est fixée par arrêté des ministres chargés du logement, de
 l'économie et du budget.
 
-Sont qualifiés de " neufs ", au sens du présent chapitre, les logements
+II.-Sont qualifiés de " neufs ", au sens du présent chapitre, les logements
 mentionnés au 1°, ainsi que ceux mentionnés au 3° lorsque l'emprunteur est le
 premier occupant à la date de la levée d'option. Les autres logements sont
 qualifiés d'" anciens " et sont soumis à la condition de vente du parc social à
-ses occupants mentionnée aux articles L. 31-10-2 et L. 31-10-3. L'emprunteur
-justifie du respect de cette condition dans des conditions fixées par arrêté des
-ministres chargés du logement, de l'économie et du budget.
+ses occupants mentionnée au premier alinéa de l'article L. 31-10-2 et au IV de
+l'article L. 31-10-3, ou aux conditions de localisation et de travaux
+mentionnées au premier alinéa de l'article L. 31-10-2 et au V de l'article L.
+31-10-3. L'emprunteur justifie du respect de ces conditions dans des conditions
+fixées par arrêté des ministres chargés du logement, de l'économie et du budget.
+
+III.-Le niveau de vacance de logements mentionné au premier alinéa de l'article
+L. 31-10-2, apprécié au sens de l'Institut national de la statistique et des
+études économiques, est supérieur ou égal à 8 %. Le nombre minimal d'équipements
+mentionné au même alinéa correspond à un nombre d'équipements et de services
+intermédiaires et de proximité de types différents supérieur ou égal à 8, tels
+que définis dans la base permanente des équipements 2013 établie par l'Institut
+national de la statistique et des études économiques.
+
+La quotité minimale de travaux d'amélioration mentionnée au V de l'article L.
+31-10-3 est égale à 25 % du coût total de l'opération. Ces travaux
+d'amélioration s'entendent de tous travaux ayant pour objet la création de
+surfaces habitables nouvelles ou de surfaces annexes définies par arrêté, la
+modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des
+surfaces annexes ainsi que les travaux destinés à réaliser des économies
+d'énergie, à l'exception de ceux financés au moyen de l'avance prévue au
+chapitre IX.
