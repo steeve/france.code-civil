@@ -36,4 +36,10 @@ autre Etat ;
 
 7° Le cas échéant, la copie de tout avis scientifique rendu sur cette indication
 ou ces conditions d'utilisation par l'Agence européenne des médicaments ou par
-l'autorité compétente d'un autre Etat.
+l'autorité compétente d'un autre Etat ;
+
+8° Le cas échéant, l'intention du titulaire de déposer une demande de
+modification de l'autorisation de mise sur le marché en vue de l'extension des
+indications thérapeutiques ou de modification des conditions d'utilisation de la
+spécialité à la suite de la recommandation temporaire d'utilisation et le
+calendrier envisagé.

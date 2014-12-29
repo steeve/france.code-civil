@@ -1,7 +1,17 @@
 Article R5121-76-1
 ----
-La recommandation temporaire d'utilisation prévue à l'article L. 5121-12-1
-mentionne notamment, pour chaque spécialité concernée :
+La recommandation temporaire d'utilisation, établie en application du I de
+l'article L. 5121-12-1, a pour objet de sécuriser la prescription d'un
+médicament non conforme à son autorisation de mise sur le marché par un
+prescripteur qui, pour répondre aux besoins spéciaux du patient, appréciés à
+l'issue d'un examen effectif de ce dernier, et en se fondant sur les
+considérations thérapeutiques qui lui sont propres, lui prescrit ce médicament
+selon la forme galénique et la posologie qu'il estime appropriées, en l'absence
+d'une spécialité ayant le même principe actif, la même forme pharmaceutique et
+le même dosage, disposant d'une autorisation de mise sur le marché ou d'une
+autorisation temporaire d'utilisation dans l'indication ou les conditions
+d'utilisation considérées. La recommandation temporaire d'utilisation mentionne,
+notamment, pour chaque spécialité concernée :
 
 1° L'indication ;
 
@@ -15,9 +25,8 @@ marché.
 
 Elle comporte en outre la mention de sa durée de validité. Elle est assortie
 d'un argumentaire faisant apparaître les données disponibles qui permette de
-présumer qu'en l'absence d'alternative médicamenteuse appropriée, les bénéfices
-attendus de la spécialité concernée sont supérieurs aux risques encourus dans
-cette indication ou ces conditions d'utilisation.
+présumer que les bénéfices attendus de la spécialité concernée sont supérieurs
+aux risques encourus dans cette indication ou ces conditions d'utilisation.
 
 Une recommandation temporaire d'utilisation peut concerner plusieurs
 spécialités, le cas échéant appartenant à un groupe générique mentionné à
@@ -33,7 +42,4 @@ La recommandation temporaire d'utilisation prévoit notamment les modalités de
 suivi des patients et de recueil des informations relatives à l'efficacité, à la
 sécurité et aux conditions réelles d'utilisation de la spécialité, formalisées
 dans un protocole de suivi des patients, ainsi que la périodicité et les
-modalités de l'envoi à l'agence des rapports de synthèse de ces données. Lorsque
-l'utilisation de la spécialité concerne le traitement d'une maladie rare pour
-laquelle existe un centre de référence, la recommandation peut autoriser le
-laboratoire à lui confier en tout ou partie le suivi des patients.
+modalités de l'envoi à l'agence des rapports de synthèse de ces données.
