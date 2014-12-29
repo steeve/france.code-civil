@@ -1,7 +1,7 @@
 Article R732-8
 ----
-Les organismes assureurs sont tenus de statuer sur les demandes de pension
-d'invalidité dans les deux mois de la réception du dossier y afférent.
-
-Ils peuvent provoquer, à tout moment, tous contrôles utiles sur la capacité de
-travail du pensionné.
+La caisse de mutualité sociale agricole statue sur le droit à pension
+d'invalidité après avis du contrôle médical dans le délai de deux mois à compter
+soit de la date à laquelle elle a adressé à l'assuré la notification prévue au
+deuxième alinéa du IV de l'article R. 732-3, soit de la date à laquelle la
+demande lui a été adressée par l'assuré.
