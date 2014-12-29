@@ -18,26 +18,23 @@ La date de prélèvement peut être modifiée une fois par année civile, et la
 demande prend effet au plus tard le deuxième mois suivant celui de sa réception.
 
 II.-Les cotisations et contributions sociales provisionnelles sont prélevées du
-mois de janvier au mois d'octobre. Chaque prélèvement est égal à un dixième des
-cotisations définitives dues l'année précédente et calculées sur le revenu
-professionnel de l'avant-dernière année.
+mois de janvier au mois de décembre, en douze versements mensuels d'un montant
+égal.
 
 Le complément de cotisations et contributions sociales résultant de la
-régularisation de celles de l'année précédente est exigible en deux versements
-d'égal montant, effectués par prélèvement aux mois de novembre et décembre.
-Toutefois, il est exigible en un seul versement lorsque son montant est
-inférieur au montant du versement mensuel provisionnel de l'année en cours ou au
-seuil de recouvrement fixé en application du premier alinéa de l'article L.
-133-3.
+régularisation et de l'ajustement est recouvré selon les modalités prévues au
+dernier alinéa de l'article R. 131-4 ou au dernier alinéa du I de l'article R.
+131-5, en autant de versements, d'un montant égal, que de versements
+provisionnels de l'année en cours restant à échoir.
 
-Lorsque la régularisation fait apparaître un trop-versé, celui-ci est remboursé
-à l'intéressé au plus tard le 30 novembre.
+Lorsque la régularisation et l'ajustement font apparaître un trop-versé,
+celui-ci est remboursé à l'intéressé selon les modalités prévues au deuxième
+alinéa de l'article R. 131-4 ou au sixième alinéa du I de l'article R. 131-5.
 
-III.-Par exception aux dispositions du II du présent article, les cotisations et
-contributions sociales dues, à titre définitif, par les travailleurs
-indépendants exerçant leur activité dans les départements mentionnés à l'article
-L. 751-1 ou dans les collectivités de Saint-Barthélemy ou de Saint-Martin sont
-prélevées en douze fractions égales.
+III.-Les cotisations et contributions sociales dues, à titre définitif, par les
+travailleurs indépendants exerçant leur activité dans les départements
+mentionnés à l'article L. 751-1 ou dans les collectivités de Saint-Barthélemy ou
+de Saint-Martin sont prélevées en douze fractions égales.
 
 IV.-Si un prélèvement mensuel n'est pas effectué à sa date d'exigibilité, la
 somme est recouvrée avec le prélèvement mensuel suivant. Si deux prélèvements

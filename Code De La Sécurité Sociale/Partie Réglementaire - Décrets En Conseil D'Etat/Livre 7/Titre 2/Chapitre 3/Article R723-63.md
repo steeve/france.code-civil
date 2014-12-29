@@ -9,8 +9,8 @@ forfaitaire obligatoire dont est redevable l'avocat en vertu du premier alinéa
 de l'article L. 723-5 ;
 
 2° Une cotisation proportionnelle assise sur le quart ou la moitié du revenu
-défini à l'article R. 723-19 et dont le taux est celui prévu au second alinéa de
-l'article L. 723-5.
+défini à l'article R. 723-19 et dont le taux est égal à celui de la cotisation
+prévue au deuxième alinéa de l'article L. 723-5.
 
 Le choix de la fraction retenue par le conjoint collaborateur est identique pour
 le 1° et le 2°.

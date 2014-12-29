@@ -1,13 +1,11 @@
 Article R613-23
 ----
 Le choix des assurés entre les organismes avec lesquels la caisse nationale a
-passé convention, prévu au premier alinéa de l'article L. 611-21, doit être
-exprimé au moment de leur demande d'immatriculation, au vu de la liste desdits
-organismes communiquée par la caisse nationale. Il est valable pour l'année
-civile en cours et l'année suivante et se renouvelle par tacite reconduction,
-sauf dénonciation adressée par lettre recommandée, trois mois au moins avant
-l'expiration de chaque période annuelle, à la caisse nationale à laquelle se
-trouve affilié l'intéressé.
+passé convention, prévu au premier alinéa de l'article L. 611-21 est valable
+pour l'année civile en cours et l'année suivante et se renouvelle par tacite
+reconduction, sauf dénonciation adressée par lettre recommandée, trois mois au
+moins avant l'expiration de chaque période annuelle, à la caisse nationale à
+laquelle se trouve affilié l'intéressé.
 
 Pour être valable, la dénonciation doit indiquer le nouvel organisme habilité
 choisi par l'assuré.

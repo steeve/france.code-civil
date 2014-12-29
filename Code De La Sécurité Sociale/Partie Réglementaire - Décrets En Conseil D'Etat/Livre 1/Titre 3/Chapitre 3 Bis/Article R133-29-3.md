@@ -1,5 +1,27 @@
 Article R133-29-3
 ----
-Les dispositions des articles R. 243-18, R. 243-19-1, R. 243-20, R. 243-20-1 et
-R. 243-21 sont applicables au recouvrement des cotisations et contributions
+Les dispositions des articles R. 243-18, R. 243-19 à R. 243-20-2, R. 243-21 et
+R. 244-2 sont applicables au recouvrement des cotisations et contributions
 sociales, majorations et pénalités dues par les travailleurs indépendants.
+
+Lorsque les sommes sont inférieures à un seuil fixé par arrêté du ministre
+chargé de la sécurité sociale et sous réserve des dispositions de l'article R.
+133-20, le directeur de la caisse d'appartenance du débiteur peut accorder, dans
+les conditions prévues au I de l'article R. 243-20, une remise des majorations
+de retard encourues en cas de non-respect d'une échéance ou d'une date limite de
+paiement ainsi que de la majoration prévue au quatrième alinéa de l'article L.
+131-6-2.
+
+A partir de ce seuil, il est statué, conformément à l'article R. 243-20, par la
+commission de recours amiable de cette caisse, sur proposition du directeur de
+celle-ci.
+
+Aucune remise ne peut être accordée sur les majorations ou pénalités portant sur
+des cotisations et contributions sociales dues, à titre personnel, à la suite du
+constat de l'infraction relative au travail dissimulé défini à l'article L.
+8221-3 du code du travail.
+
+Si le débiteur produit des garanties suffisantes, le directeur de sa caisse
+d'affiliation a la possibilité d'accorder des sursis à poursuite pour le
+règlement des cotisations et contributions sociales, des pénalités et des
+majorations de retard.
