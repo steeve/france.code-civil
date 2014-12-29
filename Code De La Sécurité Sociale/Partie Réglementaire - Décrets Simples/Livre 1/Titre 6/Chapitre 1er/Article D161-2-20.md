@@ -15,8 +15,8 @@ afférente à la période postérieure à la date d'effet de la pension.
 civile, tels qu'ils sont définis au 2° de l'article R. 161-19.
 
 Lorsque les intéressés sont titulaires de pensions au titre de plusieurs régimes
-de base relevant de l'article L. 161-22, les informations prévues aux 1° et 2°
-sont fournies à l'organisme qui sert la pension correspondant à la plus longue
-durée d'assurance et de périodes reconnues équivalentes au sens des articles R.
-351-3 et R. 351-4, en lui précisant le nom et l'adresse des autres organismes
-concernés.
+de base mentionnés au premier alinéa de l'article D. 161-2-5, les informations
+prévues aux 1° et 2° sont fournies à l'organisme qui sert la pension
+correspondant à la plus longue durée d'assurance et de périodes reconnues
+équivalentes au sens des articles R. 351-3 et R. 351-4, en lui précisant le nom
+et l'adresse des autres organismes concernés.

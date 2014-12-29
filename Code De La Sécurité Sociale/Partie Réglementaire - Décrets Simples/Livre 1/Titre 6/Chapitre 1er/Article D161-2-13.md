@@ -1,7 +1,7 @@
 Article D161-2-13
 ----
-Le titulaire d'une pension de vieillesse d'un ou plusieurs régimes relevant du
-premier alinéa de l'article L. 161-22 prenant effet à compter de l'âge fixé à
+Le titulaire d'une pension de vieillesse d'un ou plusieurs régimes mentionnés au
+premier alinéa de l'article D. 161-2-5 prenant effet à compter de l'âge fixé à
 l'article R. 161-18 qui reprend une ou plusieurs activités donnant lieu à
 affiliation à l'un ou plusieurs de ces régimes doit, dans le mois suivant la
 date de la reprise d'activité, déclarer sa situation, par écrit, à l'organisme
@@ -17,7 +17,7 @@ et pièces justificatives suivants :
 
 a) Les noms et adresses soit du ou des employeurs auprès desquels il exerce une
 activité salariée, soit du ou des entreprises auprès desquelles il exerce une
-activité non salariée au sens du premier alinéa de l'article L. 161-22 ;
+activité non salariée donnant lieu à affiliation au régime général ;
 
 b) La date de début de cette ou ces activités ;
 

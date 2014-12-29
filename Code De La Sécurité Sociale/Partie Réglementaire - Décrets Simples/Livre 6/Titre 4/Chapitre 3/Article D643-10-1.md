@@ -6,17 +6,17 @@ La pension peut être servie sans cessation préalable de l'activité :
 jouissance de sa pension, une activité relevant du présent régime et procurant
 des revenus inférieurs au seuil prévu au premier alinéa de l'article D. 643-10 ;
 
--ou lorsqu'il remplit les conditions prévues aux quatrième, cinquième et sixième
-alinéas de l'article L. 643-6, sous réserve d'adresser à la section
+-ou lorsqu'il remplit les conditions prévues aux troisième, quatrième et
+cinquième alinéas de l'article L. 643-6, sous réserve d'adresser à la section
 professionnelle compétente, dans le mois suivant la date d'entrée en jouissance
 de la pension, une déclaration qui précise la nature de l'activité reprise ainsi
 qu'une attestation sur l'honneur énumérant les différents régimes mentionnés au
-quatrième alinéa du même article dont il a relevé et certifiant qu'il est entré
+troisième alinéa du même article dont il a relevé et certifiant qu'il est entré
 en jouissance de toutes ses pensions de vieillesse personnelles.
 
 En cas de reprise d'activité, le service de la pension est maintenu dès lors que
 l'assuré remplit les conditions prévues aux deuxième et troisième alinéas du
-présent article.L'assuré produit les documents prévus au troisième alinéa dans
+présent article. L'assuré produit les documents prévus au troisième alinéa dans
 le mois suivant la reprise d'activité.
 
 Le défaut de production, dans le délai prescrit, des documents prévus au

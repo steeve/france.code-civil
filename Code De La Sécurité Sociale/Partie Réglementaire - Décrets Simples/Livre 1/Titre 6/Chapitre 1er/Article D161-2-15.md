@@ -2,8 +2,8 @@ Article D161-2-15
 ----
 En cas de reprise, dans les six mois postérieurs à la date d'effet de la
 pension, d'une activité salariée pour le compte de l'employeur dont relevait
-l'assuré avant cette date ou de l'activité non salariée, au sens du premier
-alinéa de l'article L. 161-22, qu'exerçait l'assuré pour le compte de la même
+l'assuré avant cette date ou de l'activité non salariée, donnant lieu à
+affiliation au régime général, qu'exerçait l'assuré pour le compte de la même
 entreprise avant cette date, la pension n'est pas due :
 
 1° Lorsqu'elle est à échéance mensuelle : pour la période comprise entre le

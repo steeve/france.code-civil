@@ -4,16 +4,16 @@ I.-Les dispositions du présent article sont applicables :
 
 1° En cas de reprise, postérieurement à la date d'effet de la pension, d'une
 activité salariée pour le compte de l'employeur dont relevait l'assuré avant
-cette date ou de l'activité non salariée, au sens du premier alinéa de l'article
-L. 161-22, qu'exerçait l'assuré pour le compte de la même entreprise avant cette
+cette date ou de l'activité non salariée, donnant lieu à affiliation au régime
+général, qu'exerçait l'assuré pour le compte de la même entreprise avant cette
 date : à compter du premier jour du septième mois courant de la date d'effet de
 la pension ;
 
 2° En cas de reprise, postérieurement à la date d'effet de la pension, d'une
 activité salariée pour le compte d'un employeur autre que celui mentionné au 1°
-ou d'une activité non salariée, au sens du premier alinéa de l'article L.
-161-22, pour le compte d'une entreprise autre que celle mentionnée au 1° : à
-compter de la date d'effet de la pension.
+ou d'une activité non salariée, donnant lieu à affiliation au régime général,
+pour le compte d'une entreprise autre que celle mentionnée au 1° : à compter de
+la date d'effet de la pension.
 
 Toutefois, les dispositions du présent article ne sont pas applicables aux
 assurés remplissant les conditions prévues aux quatrième, cinquième et sixième

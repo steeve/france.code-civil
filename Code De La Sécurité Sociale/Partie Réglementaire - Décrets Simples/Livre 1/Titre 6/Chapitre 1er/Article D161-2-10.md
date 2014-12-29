@@ -6,5 +6,5 @@ l'article L. 161-22 est le revenu servant de base au calcul de la contribution
 sociale généralisée instituée à l'article L. 136-1.
 
 Lorsque l'intéressé relève simultanément de plusieurs employeurs ou exerce
-simultanément plusieurs activités non salariées au sens du premier alinéa de
-l'article L. 161-22, l'ensemble des revenus perçus est pris en considération.
+simultanément plusieurs activités non salariées donnant lieu à affiliation au
+régime général, l'ensemble des revenus perçus est pris en considération.

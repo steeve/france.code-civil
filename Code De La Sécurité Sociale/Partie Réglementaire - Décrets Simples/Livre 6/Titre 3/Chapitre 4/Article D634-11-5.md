@@ -9,5 +9,5 @@ entre le montant du dépassement constaté et le montant mensuel net de la
 pension, arrondi à l'entier inférieur, sans que ce nombre puisse être inférieur
 à un ni supérieur au nombre de mois durant lesquels, au cours de l'année pour
 laquelle le dépassement est constaté, l'assuré a poursuivi ou repris une
-activité artisanale ou commerciale dans les conditions prévues au deuxième
-alinéa de l'article L. 634-6.
+activité artisanale ou commerciale dans les conditions prévues au premier alinéa
+de l'article L. 634-6.

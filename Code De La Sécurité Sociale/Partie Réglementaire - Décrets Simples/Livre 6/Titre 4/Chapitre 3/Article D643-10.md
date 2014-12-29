@@ -1,6 +1,6 @@
 Article D643-10
 ----
-Le seuil de revenus nets issus de l'activité libérale, prévu au deuxième alinéa
+Le seuil de revenus nets issus de l'activité libérale, prévu au premier alinéa
 de l'article L. 643-6, est égal, annuellement, au plafond prévu à l'article L.
 241-3, rapporté à la durée d'affiliation au titre de l'activité libérale exercée
 postérieurement à l'entrée en jouissance de la pension lorsque cette durée est
@@ -21,7 +21,7 @@ réunies en vertu d'un texte législatif ou réglementaire.
 
 Pour la détermination de la durée d'affiliation mentionnée au premier alinéa, il
 n'est pas tenu compte des trimestres civils suivant celui au cours duquel
-l'assuré remplit les conditions prévues aux quatrième, cinquième et sixième
+l'assuré remplit les conditions prévues aux troisième, quatrième et cinquième
 alinéas de l'article L. 643-6.
 
 Le versement de ces cotisations ne peut entraîner la révision de la pension de

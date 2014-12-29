@@ -9,5 +9,5 @@ mois égal au rapport entre le montant du dépassement constaté et le montant
 mensuel net de la pension, arrondi à l'entier inférieur, sans que ce nombre
 puisse être supérieur au nombre de mois durant lesquels, au cours de l'année
 pour laquelle le dépassement est constaté, l'assuré a été affilié au titre de
-l'activité libérale poursuivie ou reprise dans les conditions prévues au
-deuxième alinéa de l'article L. 643-6.
+l'activité libérale poursuivie ou reprise dans les conditions prévues au premier
+alinéa de l'article L. 643-6.
