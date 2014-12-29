@@ -5,4 +5,4 @@ Ne sont pas applicables les références relatives à l'accord instituant l'Espa
 
 1° Le 2° de l'article R. 221-15 ;
 
-2° Le chapitre Ier du titre III du présent livre.
+2° (Abrogé).

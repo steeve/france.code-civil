@@ -43,10 +43,11 @@ h) Les articles 22 et 23 du décret n° 2007-1340 du 11 septembre 2007 relatif �
 la qualification initiale et à la formation continue des conducteurs de certains
 véhicules affectés aux transports routiers de marchandises ou de voyageurs ;
 
-i) L'article 7 (I [1° et 2°] et II [1°]) du décret n° 2010-1223 du 11 octobre
-2010 relatif au transport public de personnes avec conducteur ;
+i) Les articles R. 3124-2, R. 3124-5, R. 3124-6, R. 3124-9, R. 3124-10 et les I,
+II et III de l'article R. 3124-12 du code des transports relatifs aux transports
+publics particuliers ;
 
-j) Les articles R. 231-13 (2°) et R. 231-14 (1° et 2°) du code du tourisme ;
+j) (Abrogé) ;
 
 k) L'article 5 du décret n° 2008-1455 du 30 décembre 2008 relatif à la
 déclaration et à l'identification de certains engins motorisés non autorisés à

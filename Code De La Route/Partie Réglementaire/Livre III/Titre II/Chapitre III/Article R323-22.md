@@ -25,8 +25,6 @@ applicable aux camionnettes de collection.
 III. - Ne sont pas soumis à ces obligations les véhicules devant subir un
 contrôle technique en application d'une réglementation spécifique, notamment les
 véhicules de moins de dix places, conducteur compris, affectés au transport
-public de personnes, les véhicules utilisés pour les transports sanitaires
-terrestres, les véhicules utilisés pour l'enseignement de la conduite des
-véhicules à moteur, les véhicules utilisés dans le cadre de l'exploitation des
-entreprises de remise et de tourisme, ainsi que les taxis et les voitures de
-remise.
+public, collectif ou particulier, de personnes, les véhicules utilisés pour les
+transports sanitaires terrestres, les véhicules utilisés pour l'enseignement de
+la conduite des véhicules à moteur.

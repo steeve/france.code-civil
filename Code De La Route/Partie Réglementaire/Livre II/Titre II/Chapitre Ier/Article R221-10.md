@@ -12,8 +12,7 @@ renouvelées qu'à la suite d'un avis médical favorable.
 
 III.-La catégorie B du permis de conduire ne permet la conduite :
 
-1° Des taxis, des voitures de tourisme avec chauffeur et des voitures de remise
-;
+1° Des taxis et des voitures de transport avec chauffeur ;
 
 2° Des ambulances ;
 
