@@ -1,8 +1,8 @@
 Article D531-21
 ----
 Lorsque la personne ou un membre du couple exerce une activité au plus égale à
-50 % et bénéficie à ce titre du complément de libre choix d'activité à taux
-partiel :
+50 % et bénéficie à ce titre de la prestation partagée d'éducation de l'enfant à
+taux partiel :
 
 1° Le plafond de prise en charge des cotisations et contributions sociales,
 lorsque le ménage ou la personne emploie une personne visée à l'article L.

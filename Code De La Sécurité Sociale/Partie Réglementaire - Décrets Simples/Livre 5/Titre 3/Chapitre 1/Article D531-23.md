@@ -111,6 +111,7 @@ mois civil dans un délai maximum d'un mois à compter de la réception de cette
 justification.
 
 VIII. ― Lorsque la personne ou un membre du couple exerce une activité au plus
-égale à 50 % et bénéficie à ce titre du complément de libre choix d'activité à
-taux partiel, le complément de libre choix du mode de garde versé en application
-de l'article L. 531-6 est attribué dans les conditions définies au IV.
+égale à 50 % et bénéficie à ce titre de la prestation partagée d'éducation de
+l'enfant à taux partiel, le complément de libre choix du mode de garde versées
+en application de l'article L. 531-6 est attribué dans les conditions définies
+au IV.
