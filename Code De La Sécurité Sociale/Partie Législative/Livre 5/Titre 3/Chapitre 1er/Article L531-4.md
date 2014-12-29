@@ -1,6 +1,6 @@
 Article L531-4
 ----
-I. - 1. La prestation partagée d'éducation de l'enfant est versée à taux plein à
+I.-1. La prestation partagée d'éducation de l'enfant est versée à taux plein à
 la personne qui choisit de ne plus exercer d'activité professionnelle pour
 s'occuper d'un enfant ou qui suit une formation professionnelle non rémunérée.
 
@@ -62,15 +62,11 @@ insatisfaite et que l'un des deux membres du couple exerce une activité
 professionnelle. Cette dernière condition ne s'applique pas à la personne qui
 assume seule la charge de l'enfant.
 
-II. - Par dérogation aux dispositions de l'article L. 552-1, lorsque le
-bénéficiaire de la prestation partagée d'éducation de l'enfant a un seul enfant
-à charge, le droit à la prestation est ouvert le mois de la naissance ou de
-l'adoption de l'enfant ou le mois de l'arrêt du versement des indemnités ou
-allocations mentionnées aux l° à 3° du II de l'article L. 532-2.
+II. (abrogé)
 
-III. - L'ouverture du droit est subordonnée à l'exercice antérieur d'une
-activité professionnelle suffisante pour ouvrir des droits à pension de retraite
-dans un régime de base.
+III.-L'ouverture du droit est subordonnée à l'exercice antérieur d'une activité
+professionnelle suffisante pour ouvrir des droits à pension de retraite dans un
+régime de base.
 
 Cette activité doit avoir été exercée pendant une durée minimale au cours d'une
 période de référence précédant soit la naissance, l'adoption ou l'accueil de
@@ -91,7 +87,7 @@ que, toutefois, le montant cumulé de ces deux prestations à taux partiel puiss
 des deux prestations à taux partiel est inférieur à celui de la prestation à
 taux plein, le montant de cette dernière prestation est versé.
 
-IV. - Pour les enfants adoptés ou confiés en vue d'adoption, la prestation est
+IV.-Pour les enfants adoptés ou confiés en vue d'adoption, la prestation est
 versée pendant une durée minimale à compter de l'arrivée de l'enfant au foyer
 des adoptants.
 
@@ -101,7 +97,7 @@ des adoptants, est supérieur à l'âge limite mentionné à cet article. La dur
 versement est, dans ce cas, égale à la durée minimale mentionnée à l'alinéa
 précédent, sous réserve des dispositions du 2° de l'article L. 512-3.
 
-V. - L'âge limite de versement mentionné au premier alinéa de l'article L. 531-1
+V.-L'âge limite de versement mentionné au premier alinéa de l'article L. 531-1
 et la durée de versement prévue au IV du présent article sont augmentés en cas :
 
 1° De naissances multiples d'enfants d'un nombre déterminé ;
@@ -110,7 +106,7 @@ et la durée de versement prévue au IV du présent article sont augmentés en c
 vue d'adoption dans les conditions définies à l'article L. 512-4, au foyer des
 adoptants.
 
-VI. - Par dérogation au premier alinéa du 1 du I et dans des conditions définies
+VI.-Par dérogation au premier alinéa du 1 du I et dans des conditions définies
 par décret, la prestation partagée d'éducation de l'enfant à taux plein peut
 être cumulée, pendant une durée déterminée, avec un revenu professionnel, en cas
 de reprise d'activité du parent bénéficiaire alors qu'il a un enfant à charge
@@ -126,11 +122,6 @@ exercée au cours d'une période de référence fixée par décret. Cette option
 définitive, est ouverte au parent qui assume la charge d'un nombre déterminé
 d'enfants. La période de droit ouverte par cette option peut être partagée entre
 les deux parents.
-
-Par exception aux dispositions de l'article L. 552-1, le droit à la prestation
-partagée d'éducation de l'enfant prévu à l'alinéa précédent est ouvert le mois
-de la naissance, de l'adoption ou de l'arrivée au foyer de l'enfant adopté ou
-confié en vue d'adoption.
 
 Lorsque les deux membres du couple assument conjointement la charge de l'enfant
 au titre duquel le montant majoré de la prestation partagée d'éducation de
