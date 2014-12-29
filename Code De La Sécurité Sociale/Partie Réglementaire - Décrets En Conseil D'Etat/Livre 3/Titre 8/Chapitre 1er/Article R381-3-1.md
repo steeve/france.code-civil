@@ -10,26 +10,20 @@ familial la charge d'un adulte handicapé.
 
 Cette cotisation est assise sur une assiette forfaitaire égale :
 
-1° Pour les bénéficiaires du complément de libre choix d'activité de la
-prestation d'accueil du jeune enfant, par mois, à :
+1° Pour les bénéficiaires de la prestation partagée d'éducation de l'enfant, par
+mois, à :
 
 a) 100 % de la valeur de 169 fois le salaire minimum de croissance pour un
 complément de libre choix d'activité de la prestation d'accueil du jeune enfant
-au taux de 142,57 % de la base mensuelle de calcul des allocations familiales ou
-au taux de 96,62 % de cette base lorsque ce complément est attribué en sus de
-l'allocation de base ;
+au taux de 96,62 % de la base mensuelle de calcul des allocations familiales ;
 
 b) 50 % de la valeur de 169 fois le salaire minimum de croissance pour un
 complément de libre choix d'activité de la prestation d'accueil du jeune enfant
-au taux de 108,41 % de la base mensuelle des allocations familiales ou au taux
-de 62,46 % de cette base lorsque ce complément est attribué en sus de
-l'allocation de base ;
+au taux de 62,46 % de la base mensuelle des allocations familiales ;
 
 c) 20 % de la valeur de 169 fois le salaire minimum de croissance pour un
 complément de libre choix d'activité de la prestation d'accueil du jeune enfant
-au taux de 81,98 % de la base mensuelle des allocations familiales ou au taux de
-36,03 % de cette base lorsque ce complément est attribué en sus de l'allocation
-de base ;
+au taux de 36,03 % de la base mensuelle des allocations familiales ;
 
 2° Pour les bénéficiaires de l'allocation journalière de présence parentale, par
 jour, à un vingt-deuxième de la valeur de 169 fois le salaire minimum de
