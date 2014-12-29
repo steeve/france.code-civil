@@ -22,4 +22,4 @@ de communication.
 
 2° Les modalités et les conditions d'engagement des travaux concernant les
 infrastructures portuaires mentionnées au 1° du présent article sont fixées par
-les dispositions des articles R. 155-2 à R. 155-5 du code des ports maritimes.
+les dispositions des articles R. 5311-3 à R. 5311-9 du code des transports.

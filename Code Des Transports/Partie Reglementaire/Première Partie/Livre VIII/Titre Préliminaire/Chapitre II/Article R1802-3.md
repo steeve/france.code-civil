@@ -35,4 +35,7 @@ des références à la chambre économique multiprofessionnelle ;
 7° Les références au code de l'urbanisme, au code de l'environnement et au code
 général des impôts sont respectivement remplacées par des références à la
 réglementation applicable localement en matière d'urbanisme, d'environnement et
-de fiscalité.
+de fiscalité ;
+
+8° Les références au préfet maritime sont remplacées par celles du délégué du
+Gouvernement pour l'action de l'Etat en mer.

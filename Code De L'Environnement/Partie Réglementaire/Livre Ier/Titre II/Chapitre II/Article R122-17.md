@@ -209,7 +209,7 @@ code minier
 Préfet de département
 
 33° 4° et 5° du projet stratégique des grands ports maritimes, prévus à
-l'article R. 103-1 du code des ports maritimes
+l'article R. 5312-63 du code des transports
 
 Formation d'autorité environnementale du Conseil général de l'environnement et
 du développement durable

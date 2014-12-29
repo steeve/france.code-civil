@@ -1,0 +1,28 @@
+Article R5313-54
+----
+Sur proposition du conseil d'administration du port autonome, le ministre chargé
+des ports maritimes et le ministre chargé des finances peuvent, par décision
+conjointe, définir, dans les limites de la circonscription du port autonome, un
+périmètre à l'intérieur duquel des immeubles affectés au port autonome et
+dépendant partiellement ou totalement du domaine privé de l'Etat peuvent être
+vendus à charge de remploi. Le recours au remploi, qui consiste en acquisitions
+de nouveaux immeubles, est décidé, à l'occasion de chaque vente, sur la demande
+du conseil d'administration. En cas de remploi, l'acquisition des nouveaux
+immeubles, dont le choix est proposé par le conseil d'administration, doit
+intervenir dans un délai maximum de cinq ans. La part du produit de la vente des
+immeubles qui serait advenue à l'Etat par application des règles définies au
+second alinéa de l'article R. 5313-52 sera reversée au port autonome et
+comptabilisée par celui-ci à un compte d'attente jusqu'à la réalisation du
+remploi. Si celui-ci n'intervenait pas dans le délai précité de cinq ans, la
+somme serait définitivement acquise à l'Etat. Les actes d'acquisition en remploi
+sont passés par l'administration chargée des domaines. Les immeubles ainsi
+acquis sont réputés pour la totalité appartenir au domaine de l'Etat et soumis,
+quant à leur administration et à leur aliénation, aux règles définies au premier
+alinéa de l'article R. 5313-52. En cas de revente ultérieure, le montant de la
+plus-value résultant des aménagements réalisés est réparti entre l'Etat et le
+port autonome, conformément aux dispositions du second alinéa de l'article R.
+5313-52, le surplus du prix de vente étant partagé entre l'Etat et le port
+autonome proportionnellement à la valeur des contributions respectives qu'ils
+avaient apportées au remploi. Toutefois, il peut, dans les conditions fixées par
+le présent article, être procédé à un nouveau remploi de la part revenant à
+l'Etat.

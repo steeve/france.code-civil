@@ -34,4 +34,7 @@ et de la mer et à son directeur ;
 
 8° Les références au code de l'urbanisme et au code général des impôts sont
 respectivement remplacées par des références à la réglementation applicable
-localement en matière d'urbanisme et de fiscalité.
+localement en matière d'urbanisme et de fiscalité ;
+
+9° Les références au préfet maritime sont remplacées par celles du délégué du
+Gouvernement pour l'action de l'Etat en mer.

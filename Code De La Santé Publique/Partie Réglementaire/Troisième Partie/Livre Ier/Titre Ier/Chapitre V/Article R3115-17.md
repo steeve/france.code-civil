@@ -1,7 +1,7 @@
 Article R3115-17
 ----
-Les grands ports maritimes mentionnés à l'article R. 101-1 du code des ports
-maritimes ont la qualité de points d'entrée du territoire.
+Les grands ports maritimes mentionnés à l'article R. 5312-1 du code des
+transports ont la qualité de points d'entrée du territoire.
 
 Pour les départements d'outre-mer, Mayotte, Saint-Barthélemy, Saint-Martin et
 Saint-Pierre-et-Miquelon, les ports dont le trafic annuel est supérieur à un

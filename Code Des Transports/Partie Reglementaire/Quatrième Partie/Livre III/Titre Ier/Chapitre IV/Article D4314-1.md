@@ -22,8 +22,8 @@ réglementaires qui leur sont propres ;
 5° Du domaine public fluvial inclus dans la circonscription des grands ports
 maritimes, telle qu'elle est définie conformément à l'article L. 5312-5, ainsi
 que du domaine public fluvial dont la gestion leur est confiée au titre des
-services annexes, dans les conditions prévues à l'article R. 111-13 du code des
-ports maritimes ;
+services annexes, dans les conditions prévues à l'article R. 5313-78 du code des
+transports ;
 
 6° Des emprises des ports maritimes implantés sur le domaine public fluvial.
 

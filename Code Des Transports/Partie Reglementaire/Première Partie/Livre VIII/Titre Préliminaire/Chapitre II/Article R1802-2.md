@@ -26,4 +26,14 @@ direction de l'environnement, de l'aménagement et du logement et à son directe
 ;
 
 6° Les références au code du travail sont remplacées par des références aux
-dispositions pertinentes du code du travail applicable à Mayotte .
+dispositions pertinentes du code du travail applicable à Mayotte ;
+
+7° Les références au préfet maritime sont remplacées par celles du délégué du
+Gouvernement pour l'action de l'Etat en mer ;
+
+8° Les références aux chambres de commerce et d'industrie sont remplacées par
+celles de la chambre de commerce et d'industrie de Mayotte ;
+
+9° Les références au code de l'expropriation pour cause d'utilité publique et au
+code général de la propriété des personnes publiques sont remplacées par les
+références aux dispositions ayant le même objet applicables localement.
