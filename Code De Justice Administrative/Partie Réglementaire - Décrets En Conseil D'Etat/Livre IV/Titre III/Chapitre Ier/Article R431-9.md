@@ -2,11 +2,12 @@ Article R431-9
 ----
 Sous réserve des dispositions de l'article R. 431-10 du présent code et des
 dispositions spéciales attribuant compétence à une autre autorité, en
-particulier au directeur général du Centre national de gestion des praticiens
-hospitaliers et des personnels de direction de la fonction publique hospitalière
-ou au directeur de l'agence régionale de santé, les recours, les mémoires en
-défense et les mémoires en intervention présentés au nom de l'Etat sont signés
-par le ministre intéressé.
+particulier au président de la Commission supérieure de la carte d'identité des
+journalistes professionnels ou au directeur général du Centre national de
+gestion des praticiens hospitaliers et des personnels de direction de la
+fonction publique hospitalière ou au directeur de l'agence régionale de santé,
+les recours, les mémoires en défense et les mémoires en intervention présentés
+au nom de l'Etat sont signés par le ministre intéressé.
 
 Les ministres peuvent déléguer leur signature dans les conditions prévues par la
 réglementation en vigueur.
