@@ -6,7 +6,7 @@ capacitaire, le chef d'état-major des armées :
 I. - Conduit les travaux de prospective opérationnelle, évalue les risques, les
 menaces et les situations d'emploi potentielles. Il propose au ministre les
 orientations et priorités en matière de capacités et de posture opérationnelle.
-Il participe à la coordination des travaux prospectifs du ministère.
+Il participe à la cohérence des travaux prospectifs du ministère.
 
 II. - Est responsable du besoin opérationnel et s'assure de la cohérence
 capacitaire globale des armées : ressources humaines, équipements, organisation,
@@ -26,6 +26,11 @@ regard des finalités opérationnelles, de leur compatibilité avec les ressourc
 financières appréciées par le secrétaire général pour l'administration et des
 contraintes techniques et industrielles appréciées par le délégué général pour
 l'armement ;
+
+- de la contribution des armées aux études et propositions de la direction
+générale des relations internationales et de la stratégie, en matière de
+politique internationale de défense, de stratégie de défense et aux travaux
+relatifs au Livre blanc sur la défense et la sécurité nationale.
 
 Il veille également au respect de la cohérence capacitaire dans l'exécution de
 la programmation militaire.
@@ -51,3 +56,12 @@ délégué général pour l'armement lors de la phase de réalisation des équip
 
 Il élabore, enfin, en prenant avis du délégué général pour l'armement, les
 directives relatives au soutien dans les opérations d'armement.
+
+VI. - Il présente la position nationale dans les travaux de planification et de
+programmation des capacités conduits dans un cadre international, en liaison
+avec le directeur général des relations internationales et de la stratégie.
+
+En matière de contrôle des exportations de matériels de guerre et assimilés et
+de biens à double usage, il définit les impératifs liés à la protection des
+forces qui doivent être pris en compte dans l'élaboration de la position du
+ministère.

@@ -3,30 +3,46 @@ Article D3121-14
 En matière de relations internationales militaires, le chef d'état-major des
 armées :
 
--est chargé des relations avec les armées étrangères et les structures
-militaires de l'Union européenne et de l'Organisation du traité de l'Atlantique
-Nord ;
+1° Est chargé des relations militaires avec les armées étrangères. A ce titre,
+il élabore et conduit les plans de coopération entre armées et mène les
+dialogues bilatéraux militaires ;
 
--organise, dans le cadre de la politique de coopération militaire
-internationale, la participation des armées, en prépare les programmes et en
-dresse les bilans ;
+2° Est chargé des relations militaires avec les structures militaires
+internationales, notamment de l'Union européenne et de l'Organisation du traité
+de l'Atlantique Nord ;
 
--prépare, avec le directeur chargé des affaires stratégiques et le délégué
-général pour l'armement, les instructions du ministre aux attachés de défense et
-aux représentants militaires placés auprès des organismes internationaux ; il
-veille à leur application ;
+3° A autorité sur les officiers insérés au sein des organisations
+internationales. Il exerce cette autorité conjointement avec le directeur
+général des relations internationales et de la stratégie en ce qui concerne les
+officiers occupant au sein des organisations internationales les postes
+d'influence définis par décision ministérielle ;
 
--suit les négociations internationales qui peuvent avoir une incidence sur
-l'emploi ou la nature des forces, en liaison avec le secrétaire général de la
+4° Assure la coordination interarmées des relations internationales militaires,
+dans le cadre de la politique internationale de défense, et notamment la
+participation des armées à l'élaboration et à la mise en œuvre des plans de
+coopération ;
+
+5° Participe à la rédaction des instructions du ministre validées et adressées
+par la direction générale des relations internationales et de la stratégie aux
+missions de défense et représentations militaires et de la défense auprès des
+organisations internationales ;
+
+6° Adresse, dans le périmètre de ses attributions et après coordination entre
+l'état-major des armées et la direction générale des relations internationales
+et de la stratégie, des instructions à ses représentants au sein des
+organisations internationales ;
+
+7° Suit les négociations internationales qui peuvent avoir une incidence sur
+l'emploi opérationnel des forces, en liaison avec le secrétaire général de la
 défense et de la sécurité nationale ;
 
--siège au comité militaire de certaines organisations internationales ;
+8° Emet un avis sur les exportations de matériels de guerre afin d'assurer la
+sécurité des forces ;
 
--négocie, avec le soutien du secrétaire général pour l'administration, et signe
-les accords militaires opérationnels ;
+9° Formule un avis sur les concours demandés aux armées dans le cadre du soutien
+aux exportations de défense et en coordonne la mise en œuvre ;
 
--présente la position nationale dans les travaux de planification et de
-programmation des capacités conduits dans un cadre international ;
+10° Siège au comité militaire de certaines organisations internationales ;
 
--est responsable de la conduite des négociations relatives à la maîtrise des
-armements conventionnels.
+11° Négocie, avec le soutien du secrétaire général pour l'administration, et
+signe les accords militaires opérationnels.
