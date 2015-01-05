@@ -70,7 +70,8 @@ Furmeyer, Les Infournas, Laye, Lazer, Monêtier-Allemont, Montmaur, La
 Motte-en-Champsaur, Le Noyer, Le Poët, Poligny, Ribiers, La Rochette,
 Saint-Auban-d'Oze, Saint-Bonnet-en-Champsaur, Saint-Eusèbe-en-Champsaur,
 Saint-Julien-en-Beauchêne, Saint-Julien-en-Champsaur, Saint-Laurent-du-Cros,
-Saint-Michel-de-Chaillol, Le Saix, Upaix, Ventavon : zone de sismicité modérée ;
+Saint-Michel-de-Chaillol, Le Saix, Upaix, Ventavon, Veynes : zone de sismicité
+modérée ;
 
 ― les cantons d'Orpierre, Rosans, Serres : zone de sismicité faible ;
 
@@ -194,7 +195,9 @@ moyenne ;
 Roquevaire : zone de sismicité faible ;
 
 ― les communes de Arles, Fuveau, Marseille, Mimet, Peynier, Puyloubier, Rousset,
-Saintes-Maries-de-la-Mer, Trets : zone de sismicité faible.
+Trets : zone de sismicité faible ;
+
+-la commune des Saintes-Maries-de-la-Mer : zone de sismicité très faible.
 
 Calvados : tout le département zone de sismicité faible, sauf :
 
@@ -418,8 +421,8 @@ Laffite-Toupière, Lautignac, Lunax, Mancioux, Marliac, Marquefave, Mondilhan,
 Monès, Montastruc-Savès, Montgaillard-sur-Save, Montgazin,
 Montoulieu-Saint-Bernard, Nénigan, Péguilhan, Peyrissas, Peyrouzet, Peyssies, Le
 Pin-Murelet, Roquefort-sur-Garonne, Saint-André, Saint-Elix-Séglan,
-Saint-Ferréol, Saint-Pé-Delbosc, Saint-Sulpice-sur-Lèze, Sajas, Samouillan,
-Savères, Terrebasse : zone de sismicité faible.
+Saint-Ferréol-de-Comminges, Saint-Pé-Delbosc, Saint-Sulpice-sur-Lèze, Sajas,
+Samouillan, Savères, Terrebasse : zone de sismicité faible.
 
 Gers : tout le département zone de sismicité très faible, sauf :
 
@@ -520,8 +523,8 @@ Touvet, Vif, Villard-de-Lans : zone de sismicité moyenne ;
 
 ― les communes de L'Albenc, Beaulieu, Brié-et-Angonnes, La Buisse, Champagnier,
 Champ-sur-Drac, Chamrousse, Chantesse, Château-Bernard, Cognin-les-Gorges,
-Coublevie, Jarrie, Malleval, Merlas, Miribel-Lanchâtre, Moirans, Montaud,
-Montchaboud, Monteynard, Notre-Dame-de-Commiers, Notre-Dame-de-l'Osier,
+Coublevie, Jarrie, Malleval-en-Vercors, Merlas, Miribel-Lanchâtre, Moirans,
+Montaud, Montchaboud, Monteynard, Notre-Dame-de-Commiers, Notre-Dame-de-l'Osier,
 Notre-Dame-de-Mésage, Poliénas, Pommiers-la-Placette, Le Pont-de-Beauvoisin, La
 Rivière, Romagnieu, Rovon, Saint-Albin-de-Vaulserre, Saint-Andéol, Saint-Aupre,
 Saint-Bueil, Saint-Etienne-de-Crossey, Saint-Geoire-en-Valdaine,
@@ -726,7 +729,7 @@ Montigny-en-Ostrevent, Mortagne-du-Nord, Moustier-en-Fagne, Ohain, Pecquencourt,
 Rainsars, Rejet-de-Beaulieu, Ribécourt-la-Tour, Rieulay, Roucourt, Les
 Rues-des-Vignes, Rumegies, Sains-du-Nord, Saint-Souplet, Sars-et-Rosières,
 Thun-Saint-Amand, Tilloy-lez-Marchiennes, Trélon, Villers-au-Tertre,
-Villers-Guislain, Villers-Outréaux, Villers-Plouich, Vred, Wallers-Trélon,
+Villers-Guislain, Villers-Outréaux, Villers-Plouich, Vred, Wallers-en-Fagne,
 Wignehies : zone de sismicité faible.
 
 Oise : tout le département zone de sismicité très faible.
