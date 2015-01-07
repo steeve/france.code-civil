@@ -19,3 +19,8 @@ l'exercice d'une fonction ;
 
 e) Ni détruits sans qu'il soit procédé à leur reconstruction dans un délai de
 quatre ans à compter du sinistre.
+
+La durée de trente ans mentionnée au premier alinéa est portée à trente-cinq ans
+lorsque l'emprunteur est un organisme ou une personne morale mentionné à
+l'article 279-0 bis A du code général des impôts et que le logement financé est
+situé dans une commune mentionnée au a de ce même article.
