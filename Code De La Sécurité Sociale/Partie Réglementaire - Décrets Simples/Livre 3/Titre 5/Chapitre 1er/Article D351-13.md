@@ -10,10 +10,12 @@ justifie au cours de chacune des années civiles où se situent les périodes do
 il demande la prise en compte, le nombre de trimestres susceptibles de faire
 l'objet d'un versement au titre de ces périodes, compte tenu des limites fixées
 en application des articles D. 351-3, D. 351-5 et D. 351-6, le montant du
-versement correspondant à un trimestre en fonction de l'option prévue à
-l'article D. 351-7, le montant total du versement correspondant à ce nombre de
+versement correspondant à chaque trimestre en fonction de l'option prévue à
+l'article D. 351-7 et, le cas échéant, de l'abattement mentionné à l'article D.
+351-14-1, le montant total du versement correspondant à l'ensemble de ces
 trimestres ainsi que le montant et, le cas échéant, la date de paiement de
-chaque échéance correspondant à l'échelonnement prévu à l'article D. 351-11.
+chaque échéance correspondant à l'échelonnement prévu à l'article D. 351-11 ou
+au IV de l'article D. 351-14-1.
 
 La décision d'admission informe l'assuré de la majoration de ces versements en
 application des dispositions de l'article D. 351-12. L'assuré est informé de

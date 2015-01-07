@@ -1,7 +1,7 @@
 Article D634-3-1
 ----
 Pour l'exercice de la faculté de versement de cotisations prévue à l'article L.
-634-2-2, sont applicables les dispositions des articles D. 351-3 à D. 351-14
+634-2-2, sont applicables les dispositions des articles D. 351-3 à D. 351-14-1
 sous réserve des dispositions suivantes :
 
 1° La référence au régime d'assurance vieillesse des professions artisanales,
@@ -11,8 +11,8 @@ sécurité sociale ;
 2° La référence à l'article L. 634-2-2 est substituée à la référence à l'article
 L. 351-14-1 ;
 
-3° La référence au 1° de l'article L. 634-2-2 est substituée à la référence au
-1° de l'article L. 351-14-1 ;
+3° La référence au 1° du I de l'article L. 634-2-2 est substituée à la référence
+au 1° du I de l'article L. 351-14-1 ;
 
 4° Au dernier alinéa de l'article D. 351-4, la référence à la caisse de base du
 régime social des indépendants dont relève l'intéressé à la date de la demande
