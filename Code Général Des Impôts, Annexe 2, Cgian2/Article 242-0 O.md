@@ -22,4 +22,9 @@ destinataire ou le preneur mentionnées au second alinéa du 1 et aux 2, 2 ter, 
 quinquies, 2 sexies de l'article 283 du code général des impôts ;
 
 c. les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I
-de l'article 277 A du code général des impôts.
+de l'article 277 A du code général des impôts ;
+
+d. Les prestations de services mentionnées à l'article 259 D du code général des
+impôts lorsqu'elles sont déclarées selon le régime particulier prévu aux
+articles 369 bis à 369 duodecies de la directive 2006/112/ CE du 28 novembre
+2006.
