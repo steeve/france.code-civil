@@ -19,3 +19,6 @@ organismes de sécurité sociale.
 
 Le premier tour de l'élection des délégués du personnel a lieu à la même date
 que celle des représentants du personnel au comité d'agence.
+
+La durée du mandat des délégués du personnel peut être réduite ou prorogée dans
+les conditions prévues au second alinéa de l'article R. 1432-81.
