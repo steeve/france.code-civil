@@ -1,5 +1,14 @@
 Article L683-2
 ----
+Pour l'application de l'article L. 611-3 en Polynésie française, les mots : "
+les régions " sont remplacés par les mots : " le territoire ".
+
+Pour l'application de l'article L. 611-5 en Polynésie française, la deuxième
+phrase du premier alinéa est supprimée.
+
+Pour l'application de l'article L. 612-3 en Polynésie française, les cinquième
+et sixième alinéas sont supprimés
+
 Pour l'application de l'article L. 614-1 en Polynésie française, les mots : "
 planification nationale ou régionale " sont remplacés par les mots : "
 planification nationale ou territoriale " et les mots : " les régions " sont
@@ -12,8 +21,8 @@ française ".
 
 Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues
 par le présent livre au recteur d'académie, chancelier des universités, sous
-réserve des compétences prévues aux articles L. 612-3 et L. 613-7 qui sont
-exercées par le vice-recteur de Polynésie française.
+réserve des compétences prévues aux articles L. 612-3, L. 612-3-1, et L. 613-7
+qui sont exercées par le vice-recteur de Polynésie française.
 
 Les références à des dispositions législatives ne s'appliquant pas en Polynésie
 française sont remplacées par les références aux dispositions, ayant le même
