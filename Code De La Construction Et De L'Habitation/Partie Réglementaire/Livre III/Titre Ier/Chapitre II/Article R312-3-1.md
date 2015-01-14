@@ -5,7 +5,7 @@ La garantie de l'Etat prévue au troisième alinéa et suivants de l'article L.
 331-63 à R. 331-77-2 ainsi qu'aux avances mentionnées aux chapitres VII, VIII,
 IX et X du titre Ier du livre III du présent code, à l'exception des avances
 mentionnées au VI bis de l'article 244 quater U du code général des impôts,
-consentis par des établissements de crédit et aux sociétés de financement ayant
+consentis par des établissements de crédit et des sociétés de financement ayant
 conclu une convention avec la société de gestion mentionnée au cinquième alinéa
 de l'article L. 312-1, à des personnes physiques dont les revenus sont
 inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre
