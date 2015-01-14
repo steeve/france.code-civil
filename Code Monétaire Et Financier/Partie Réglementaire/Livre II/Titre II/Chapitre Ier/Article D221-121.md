@@ -1,29 +1,41 @@
 Article D221-121
 ----
-I. ― La justification relative aux conditions mentionnées au 2° et au 3° de
-l'article L. 352-1 du code forestier est apportée par la production d'une copie
-du titre de propriété des surfaces forestières gérées selon au moins l'une des
-garanties de gestion durable mentionnées à l'article L. 124-1 de ce même code et
-d'un exemplaire du contrat d'assurance pour tout ou partie de la surface
-forestière détenue en propre couvrant notamment le risque de tempête.
+I.-La justification relative aux conditions mentionnées au 1° de l'article L.
+352-1 du code forestier est apportée par la production d'une copie ou d'une
+attestation notariée du titre de propriété des surfaces forestières gérées selon
+au moins l'une des garanties de gestion durable mentionnées à l'article L. 124-1
+de ce même code. La justification relative aux conditions mentionnées au 2° de
+l'article L. 352-1 du code précité est apportée par la production, pour l'année
+en cours, d'un exemplaire du contrat d'assurance souscrit ou d'une attestation
+d'assurance émise par son assureur, couvrant tout ou partie de la surface
+forestière détenue notamment contre le risque de tempête.
 
-II. ― L'ouverture d'un compte épargne d'assurance pour la forêt fait l'objet
-d'un contrat écrit conclu entre le souscripteur et l'établissement distribuant
-le compte.
+II.-L'ouverture d'un compte d'investissement forestier et d'assurance fait
+l'objet d'un contrat écrit conclu entre le souscripteur et l'établissement
+distribuant le compte.
 
-III. ― Le compte épargne d'assurance pour la forêt peut rester ouvert aussi
-longtemps que le titulaire justifie, par la production annuelle des documents
-mentionnés au I, remplir les conditions fixées à l'article L. 352-1 du code
-forestier. Le compte épargne d'assurance pour la forêt est clôt dans les
-conditions prévues aux articles L. 352-2 et L. 352-5 du code forestier.
+III.-Le compte d'investissement forestier et d'assurance peut rester ouvert
+aussi longtemps que le titulaire remplit les conditions fixées à l'article L.
+352-1 du code forestier par :
 
-IV. ― Lorsque le titulaire d'un compte épargne d'assurance pour la forêt cesse
-de remplir les conditions fixées à l'article L. 352-1, il est tenu d'en demander
-la clôture au plus tard le 31 décembre de l'année qui suit celle où, pour la
-dernière fois, il a produit les pièces justificatives établissant son droit.
+-la production annuelle par le titulaire du compte auprès de son teneur de
+compte, des documents prévus au deuxième alinéa du I. En cas de changement
+d'assurance en cours d'année, le titulaire du compte en informe le teneur de
+compte et lui transmet un exemplaire du nouveau contrat souscrit ou une
+attestation d'assurance émise par son nouvel assureur ;
 
-Les établissements dépositaires sont tenus de solder d'office au 31 décembre les
-comptes pour lesquels les justifications annuelles requises n'ont pas été
+-la transmission par le titulaire du compte au teneur de compte des documents
+prévus au premier alinéa du I, lorsque ceux-ci ont subi une modification. Le
+compte d'investissement forestier et d'assurance est clos dans les conditions
+prévues à l'article L. 352-5 du code forestier.
+
+Sur la base des documents transmis par le titulaire du compte en vertu du
+troisième alinéa du présent III, le teneur de compte s'assure du respect du
+montant de dépôts autorisés mentionné au premier alinéa de l'article L. 352-2 du
+code forestier.
+
+IV.-Les établissements dépositaires sont tenus de solder d'office au 31 décembre
+les comptes pour lesquels les justifications annuelles requises n'ont pas été
 produites. Les sommes figurant au crédit du compte soldé sont transférées sur un
 autre compte ouvert dans le même établissement au nom du titulaire ou, à défaut,
-sur un compte ouvert au nom du titulaire dans un autre établissement.
+sur un compte d'attente.
