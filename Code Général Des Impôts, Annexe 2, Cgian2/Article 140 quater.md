@@ -1,7 +1,7 @@
 Article 140 quater
 ----
 Les investissements productifs réalisés dans les départements d'outre-mer, à
-Saint-Pierre-et-Miquelon, à Saint-Barthélemy, à Saint-Martin, à Mayotte, en
+Saint-Pierre-et-Miquelon, à Saint-Barthélemy, à Saint-Martin, en
 Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et
 les Terres australes et antarctiques françaises mentionnés aux I, I bis et II de
 l'article 217 undecies du code général des impôts s'entendent des acquisitions

@@ -1,8 +1,8 @@
 Article 38 sexdecies T
 ----
-I. Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de
-la Réunion, l'exonération d'impôt sur le revenu est accordée à compter du 1er
-janvier de l'année suivant celle de l'exécution des travaux.
+I. Dans les départements de la Guadeloupe, de la Guyane, de Mayotte, de la
+Martinique et de la Réunion, l'exonération d'impôt sur le revenu est accordée à
+compter du 1er janvier de l'année suivant celle de l'exécution des travaux.
 
 II. L'avantage fiscal prévu au I est supprimé de plein droit lorsque les
 parcelles précédemment exonérées cessent d'être affectées à des cultures agréées

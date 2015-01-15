@@ -13,6 +13,6 @@ au troisième alinéa du 1 de l'article 49 F.
 
 La déclaration mentionne séparément le montant des revenus, de quelque nature
 qu'ils soient, encaissés directement ou indirectement à
-Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie
-française, dans les îles Wallis et Futuna et dans les Terres australes et
-antarctiques françaises et à l'étranger.
+Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, dans
+les îles Wallis et Futuna et dans les Terres australes et antarctiques
+françaises et à l'étranger.

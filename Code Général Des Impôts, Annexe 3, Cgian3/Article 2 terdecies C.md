@@ -16,11 +16,10 @@ Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non
 comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la
 réduction d'impôt prévue à l'article 199 septvicies du code général des impôts
 sont égaux, par mètre carré de surface habitable, à 10,43 € dans les
-départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à
-13,76 € en Polynésie française, en Nouvelle-Calédonie, à
-Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont
-relevés au 1er janvier de chaque année selon les modalités définies au 1 de
-l'article 46 AG duodecies.
+départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,76 € en
+Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans
+les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque
+année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens
 du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis
@@ -37,22 +36,14 @@ COMPOSITION DU FOYER LOCATAIRE
 
 LIEU DE LOCATION
 
+Zone A (en euros)
 
-Zone A
-
-(en euros)
-
-
-Zone B1
-
-(en euros)
+Zone B1 (en euros)
 
 
 Zone B2
 
-Zone C
-
-(en euros)
+Zone C (en euros)
 
 
 Personne seule
@@ -132,23 +123,23 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 + 9 235
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes
-modalités que les plafonds de ressources prévus à l'article 2 duodecies. Pour
-les baux conclus en 2014, les ressources des locataires de logements situés
+modalités que les plafonds de ressources prévus à l'article 2 duodecies.
+
+Pour les baux conclus en 2014, les ressources des locataires de logements situés
 outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199
-septvicies du code général des impôts sont les suivants : (en euros)
+septvicies du code général des impôts sont les suivants :
+
+(en euros)
 
 
 COMPOSITION DU FOYER LOCATAIRE
 
-DÉPARTEMENTS D'OUTRE-MER,
+DÉPARTEMENTS D'OUTRE-MER, Saint-Martin,
 
-Saint-Martin,
 
-Saint-Barthélemy, Mayotte
+Saint-Barthélemy
 
-POLYNÉSIE FRANÇAISE,
-
-Nouvelle-Calédonie,
+POLYNÉSIE FRANÇAISE, Nouvelle-Calédonie,
 
 Saint-Pierre-et-Miquelon,
 

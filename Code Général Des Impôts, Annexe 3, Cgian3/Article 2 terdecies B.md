@@ -23,8 +23,8 @@ réduction d'impôt prévue à l'article 199 septvicies du code général des im
 sont égaux aux montants mentionnés au cinquième alinéa de l'article 2 terdecies
 C, majorés :
 
--d'un quart pour les départements d'outre-mer, Saint-Barthélemy, Saint-Martin et
-Mayotte ;
+-d'un quart pour les départements d'outre-mer, Saint-Barthélemy et Saint-Martin
+;
 
 -d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie,
 Saint-Pierre-et-Miquelon et les îles Wallis et Futuna.

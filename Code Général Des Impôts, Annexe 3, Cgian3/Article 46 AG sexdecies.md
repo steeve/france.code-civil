@@ -3,10 +3,10 @@ Article 46 AG sexdecies
 I.-Les plafonds annuels de ressources mentionnés au 2° du I de l'article 199
 undecies C du code général des impôts sont égaux :
 
-1° Dans les départements d'outre-mer, à Saint-Martin, à Saint-Barthélemy et à
-Mayotte, aux plafonds annuels de ressources prévus pour l'application dans les
-départements d'outre-mer de l'article R. 372-21 du code de la construction et de
-l'habitation ;
+1° Dans les départements d'outre-mer, à Saint-Martin et à Saint-Barthélemy, aux
+plafonds annuels de ressources prévus pour l'application dans les départements
+d'outre-mer de l'article R. 372-21 du code de la construction et de l'habitation
+;
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et
 à Wallis-et-Futuna, à 81, 25 % des plafonds annuels de ressources mentionnés au
@@ -22,8 +22,7 @@ l'habitation ;
 2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus
 pour l'application de ce même article dans le département de Guadeloupe ;
 
-3° A Mayotte, aux plafonds annuels de loyers prévus pour l'application de ce
-même article dans le département de La Réunion ;
+3° Abrogé ;
 
 4° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et
 à Wallis-et-Futuna, à 90 % des plafonds annuels de loyers mentionnés au 1 de
@@ -35,10 +34,10 @@ code général des impôts est fixée à 30 %.
 2. Les plafonds annuels de ressources mentionnés au 5° du I de l'article 199
 undecies C du code général des impôts sont égaux :
 
-1° Dans les départements d'outre-mer, à Saint-Martin, à Saint-Barthélemy et à
-Mayotte, aux plafonds annuels de ressources prévus pour l'application dans les
-départements d'outre-mer de l'article R. 372-7 du code de la construction et de
-l'habitation ;
+1° Dans les départements d'outre-mer, à Saint-Martin et à Saint-Barthélemy, aux
+plafonds annuels de ressources prévus pour l'application dans les départements
+d'outre-mer de l'article R. 372-7 du code de la construction et de l'habitation
+;
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et
 à Wallis-et-Futuna, à dix treizièmes des plafonds annuels de ressources
@@ -54,8 +53,7 @@ l'habitation ;
 2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus
 pour l'application de ce même article dans le département de Guadeloupe ;
 
-3° A Mayotte, aux plafonds annuels de loyers prévus pour l'application de ce
-même article dans le département de La Réunion ;
+3° Abrogé ;
 
 4° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et
 à Wallis-et-Futuna, aux deux tiers des plafonds annuels de loyers mentionnés au

@@ -6,10 +6,10 @@ impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 1. Pour les baux conclus en 2014, les plafonds annuels de loyer, charges non
 comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin
-et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même
+1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy et à
+Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même
 proportion que la variation la plus élevée de la moyenne annuelle des indices
-des prix à la consommation hors tabac de chacun des quatre départements
+des prix à la consommation hors tabac de chacun des cinq départements
 d'outre-mer ;
 
 2° 209 € en Polynésie française, dans les îles Wallis et Futuna et les Terres
@@ -21,10 +21,10 @@ Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
-1° Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à
-Mayotte, de la dernière variation annuelle publiée par l'Institut national de la
-statistique et des études économiques au 1er décembre de l'année qui précède
-celle de la conclusion du bail ;
+1° Dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin, de
+la dernière variation annuelle publiée par l'Institut national de la statistique
+et des études économiques au 1er décembre de l'année qui précède celle de la
+conclusion du bail ;
 
 2° En Polynésie française, dans les îles Wallis et Futuna et les Terres
 australes et antarctiques françaises et à Saint-Pierre-et-Miquelon, de la
@@ -51,15 +51,9 @@ COMPOSITION DU FOYER LOCATAIRE
 
 PLAFOND ANNUEL DE RESSOURCES
 
-Départements d'outre-mer,
+Départements d'outre-mer, Saint-Martin et Saint-Barthélemy
 
-Saint-Martin,
-
-Saint-Barthélemy, Mayotte
-
-Polynésie française,
-
-Nouvelle-Calédonie,
+Polynésie française, Nouvelle-Calédonie,
 
 îles Wallis et Futuna
 
