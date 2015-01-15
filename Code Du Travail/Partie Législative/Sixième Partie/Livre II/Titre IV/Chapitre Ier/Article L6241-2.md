@@ -52,7 +52,7 @@ Bretagne
 68 484 265
 
 
-Centre
+Centre-Val de Loire
 
 64 264 468
 
