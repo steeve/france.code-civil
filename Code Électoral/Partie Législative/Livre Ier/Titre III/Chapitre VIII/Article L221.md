@@ -1,20 +1,36 @@
 Article L221
 ----
-Le conseiller général dont le siège devient vacant pour cause de décès, de
-démission intervenue en application des articles L. 46-1, L. 46-2, LO 151 ouLO
-151-1 du présent code ou pour tout autre motif, de présomption d'absence au sens
-de l'article 112 du code civil ou d'acceptation de la fonction de membre du
-Conseil constitutionnel ou de Défenseur des droits, est remplacé jusqu'au
-renouvellement de la série dont il est issu par la personne élue en même temps
-que lui à cet effet.
+I.-En cas de démission d'office déclarée en application de l'article L. 118-3 ou
+en cas d'annulation de l'élection d'un candidat ou d'un binôme de candidats, il
+est procédé à une élection partielle, dans les conditions prévues au VI du
+présent article, dans le délai de trois mois à compter de cette déclaration ou
+de cette annulation.
 
-En cas de vacance pour toute autre cause ou lorsque le premier alinéa ne peut
-plus être appliqué, il est procédé à une élection partielle dans le délai de
-trois mois.
+" II.-Le conseiller départemental dont le siège devient vacant pour toute autre
+cause que celles mentionnées au I est remplacé par la personne élue en même
+temps que lui à cet effet.
 
-Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les
-trois mois de la vacance, l'élection partielle se fait à la même époque.
+" III.-Si le remplacement d'un conseiller n'est plus possible dans les
+conditions prévues au II du présent article, il est procédé à une élection
+partielle au scrutin uninominal majoritaire dans le délai de trois mois suivant
+la vacance. L'article L. 191 et le deuxième alinéa de l'article L. 210-1 ne sont
+pas applicables à cette élection.
 
-Le président du conseil général est chargé de veiller à l'exécution du présent
-article. Il adresse ses réquisitions au représentant de l'Etat dans le
-département et, s'il y a lieu, au ministre de l'Intérieur.
+" IV.-En cas de vacance simultanée des deux sièges du même canton, et si le
+remplacement n'est plus possible dans les conditions prévues au II, les deux
+sièges sont renouvelés par une élection partielle dans le délai de trois mois,
+dans les conditions prévues au VI.
+
+" V.-Si deux sièges deviennent vacants successivement dans le même canton, que
+le remplacement n'est plus possible dans les conditions prévues au II et que la
+période de dépôt des candidatures pour le premier tour du scrutin visant au
+remplacement du premier siège vacant n'est pas encore close, les deux sièges
+sont renouvelés par une élection partielle dans le délai de trois mois suivant
+la dernière vacance, dans les conditions prévues au VI.
+
+" VI.-Sont applicables aux élections partielles mentionnées aux I, IV et V du
+présent article les dispositions prévues pour un renouvellement général, à
+l'exception de l'article L. 192.
+
+" VII.-Il n'est procédé à aucune élection partielle dans les six mois précédant
+le renouvellement général des conseils départementaux. "
