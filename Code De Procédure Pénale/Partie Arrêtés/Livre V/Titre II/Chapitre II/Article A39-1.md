@@ -148,4 +148,6 @@ Centre de détention de Val-de-Reuil (Eure).
 Quartier centre de détention du centre pénitentiaire de Varennes-le-Grand
 (Saône-et-Loire).
 
+Quartier centre de détention du centre pénitentiaire de Vendin-le-Vieil.
+
 Centre de détention de Villenauxe-la-Grande (Aube).

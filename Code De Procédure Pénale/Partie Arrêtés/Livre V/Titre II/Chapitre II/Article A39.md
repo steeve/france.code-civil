@@ -5,9 +5,9 @@ centrales ou comportant un quartier maison centrale prévue à l'article D. 71 e
 fixée comme suit :
 
 Quartier maison centrale du centre pénitentiaire d'Alençon - Condé-sur-Sarthe
-(Orne) ;
+(Orne).
 
-Maison centrale d'Arles (Bouches-du-Rhône) ;
+Maison centrale d'Arles (Bouches-du-Rhône).
 
 Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne).
 
@@ -30,3 +30,5 @@ Maison centrale de Saint-Maur (Indre).
 
 Quartier maison centrale du centre pénitentiaire du Sud francilien
 (Seine-et-Marne).
+
+Quartier maison centrale du centre pénitentiaire de Vendin-le-Vieil.

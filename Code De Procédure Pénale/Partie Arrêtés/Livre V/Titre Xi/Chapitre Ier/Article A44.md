@@ -996,6 +996,8 @@ Circonscription judiciaire de Béthune.
 
 Maison d'arrêt de Béthune.
 
+Centre pénitentiaire de Vendin-le-Vieil.
+
 Antenne de Boulogne-sur-Mer.
 
 Circonscription judiciaire de Boulogne-sur-Mer.
