@@ -81,9 +81,7 @@ et aux programmes de recherche ;
 froid urbains.
 
 III.-Le président du conseil du territoire exécute les délibérations du conseil
-du territoire. Pour l'exercice de ses attributions, les services de la métropole
-sont mis à sa disposition en tant que de besoin. Il est ordonnateur de l'état
-spécial du territoire.
+du territoire.
 
 IV.-Pour l'exercice des compétences du conseil de territoire, le conseil de la
 métropole d'Aix-Marseille-Provence peut donner délégation, dans les cas et
