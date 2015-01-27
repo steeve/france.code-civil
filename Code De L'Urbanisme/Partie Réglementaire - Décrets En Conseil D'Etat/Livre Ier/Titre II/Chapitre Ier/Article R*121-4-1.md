@@ -53,4 +53,8 @@ n) A l'opération d'aménagement dite d'Alzette-Belval, dans le périmètre déf
 par décret en Conseil d'Etat (6) ;
 
 o) A l'opération d'aménagement dite " Villages Nature " sur la commune de
-Villeneuve-le-Comte dans le périmètre défini par décret en Conseil d'Etat (7).
+Villeneuve-le-Comte dans le périmètre défini par décret en Conseil d'Etat (7) ;
+
+p) A l'opération de requalification de copropriétés dégradées d'intérêt national
+du quartier dit du Bas-Clichy à Clichy-sous-Bois, dans le périmètre défini par
+décret en Conseil d'Etat (8).
