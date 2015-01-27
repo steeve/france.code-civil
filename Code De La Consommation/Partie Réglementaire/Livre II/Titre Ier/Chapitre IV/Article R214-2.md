@@ -29,3 +29,8 @@ du Parlement européen et du Conseil du 28 janvier 2002 modifié établissant le
 principes généraux et les prescriptions générales de la législation alimentaire,
 instituant l'Autorité européenne de sécurité des aliments et fixant des
 procédures relatives à la sécurité des denrées alimentaires.
+
+4° Les dispositions des articles 2 et 3 du règlement d'exécution (UE) n°
+931/2011 de la Commission du 19 septembre 2011 relatif aux exigences de
+traçabilité définies par le règlement (CE) n° 178/2002 du Parlement européen et
+du Conseil en ce qui concerne les denrées alimentaires d'origine animale.
