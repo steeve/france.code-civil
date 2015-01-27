@@ -47,7 +47,7 @@ appellations d'origine protégées et les indications géographiques protégées
 mentions traditionnelles, l'étiquetage et la présentation de certains produits
 du secteur vitivinicole ;
 
-7° Les dispositions des articles 2 et 5 et de l'article 22 du règlement
+7° Les dispositions des articles 2 à 5 et de l'article 22 du règlement
 d'exécution (UE) n° 716/2013 de la Commission du 25 juillet 2013 portant
 modalités d'application du règlement (CE) n° 110/2008 du Parlement européen et
 du Conseil concernant la définition, la désignation, la présentation,
