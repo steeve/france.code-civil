@@ -12,11 +12,10 @@ enseignants-chercheurs siégeant dans la formation de jugement. Le rapport de la
 commission d'instruction est lu par le rapporteur ou, en cas d'absence de
 celui-ci, par le secrétaire. S'il l'estime nécessaire, le président peut
 entendre des témoins à l'audience. Sur sa demande, le président ou le directeur
-d'un établissement mentionné aux articles 2 et 3 du décret n° 92-657 du 13
-juillet 1992 cité à l'article R. 232-33 ou son représentant, est entendu ainsi
-que le recteur d'académie ou son représentant, s'il est l'auteur des poursuites
-disciplinaires ou de l'appel. La personne déférée et son conseil sont entendus
-dans leurs observations. La personne déférée a la parole en dernier.
+de l'établissement ou son représentant est entendu ainsi que le recteur
+d'académie ou son représentant, s'il est l'auteur des poursuites disciplinaires
+ou de l'appel. La personne déférée et son conseil sont entendus dans leurs
+observations. La personne déférée a la parole en dernier.
 
 Après que la personne déférée et son conseil se sont retirés, le président met
 l'affaire en délibéré et la formation appelée à connaître de l'affaire statue.
