@@ -1,8 +1,9 @@
 Article D*1432-4
 ----
 Des liaisons sont établies entre, d'une part, les préfets des zones de défense
-et les commandants désignés de ces zones et, d'autre part, les autorités
-responsables de la défense maritime du territoire. Ces liaisons permettent :
+et de sécurité et les commandants désignés de ces zones et, d'autre part, les
+autorités responsables de la défense maritime du territoire. Ces liaisons
+permettent :
 
 1° D'assurer la cohérence des plans ;
 

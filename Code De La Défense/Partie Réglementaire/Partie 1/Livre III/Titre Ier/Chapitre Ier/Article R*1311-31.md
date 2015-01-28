@@ -1,10 +1,10 @@
 Article R*1311-31
 ----
-Sous l'autorité du préfet de zone, le préfet de région contribue à la
-préparation et à la mise en oeuvre des mesures intéressant la défense économique
-dans la région. A ce titre, il dispose d'une commission régionale de défense
-économique dont la composition et les missions sont définies par arrêté
-interministériel.
+Sous l'autorité du préfet de zone de défense et de sécurité, le préfet de région
+contribue à la préparation et à la mise en œuvre des mesures intéressant la
+défense économique dans la région. A ce titre, il dispose d'une commission
+régionale de défense économique dont la composition et les missions sont
+définies par arrêté interministériel.
 
 Le directeur régional des finances publiques est le conseiller permanent du
 préfet de région pour les questions économiques intéressant la défense et la

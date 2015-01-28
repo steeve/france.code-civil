@@ -2,7 +2,7 @@ Article R*1422-1
 ----
 Sur la base des décisions prises en conseil de défense et de sécurité nationale,
 le Premier ministre ou, en cas de délégation, le ministre de la défense, établit
-les directives générales relatives à la préparation et à la mise en oeuvre des
+les directives générales relatives à la préparation et à la mise en œuvre des
 mesures de défense opérationnelle du territoire à prendre en cas de menace
 extérieure, d'agression ou d'invasion.
 
@@ -12,12 +12,13 @@ défense opérationnelle du territoire.
 
 Chaque autre ministre intéressé, notamment le ministre de l'intérieur et les
 ministres chargés des finances et de l'outre-mer, définit, en fonction des
-instructions reçues, les moyens de son département à mettre en oeuvre.
+instructions reçues, les moyens de son département à mettre en œuvre.
 
 Le chef d'état-major des armées adresse aux commandants désignés de zone de
-défense les directives nécessaires à l'établissement des plans de défense
-opérationnelle du territoire. Ces plans, élaborés en accord avec les préfets de
-zone ou les hauts fonctionnaires de zone, doivent former un ensemble cohérent
-avec les plans généraux de protection mentionnés à l'article R. * 122-4 du code
-de la sécurité intérieure. Ils sont arrêtés par le Premier ministre ou, en cas
-de délégation, par le ministre de la défense.
+défense et de sécurité les directives nécessaires à l'établissement des plans de
+défense opérationnelle du territoire. Ces plans, élaborés en accord avec les
+préfets de zone de défense et de sécurité ou les hauts fonctionnaires de zone de
+défense et de sécurité, doivent former un ensemble cohérent avec les plans
+généraux de protection mentionnés à l'article R. * 122-4 du code de la sécurité
+intérieure. Ils sont arrêtés par le Premier ministre ou, en cas de délégation,
+par le ministre de la défense.

@@ -1,7 +1,7 @@
 Article R*1211-4
 ----
-La composition des zones de défense du territoire métropolitain est fixée
-conformément au tableau suivant :
+La composition des zones de défense et de sécurité du territoire métropolitain
+est fixée conformément au tableau suivant :
 
 
 ZONES DE DEFENSE

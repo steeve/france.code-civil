@@ -21,7 +21,7 @@ justice, ainsi que des ministres chargés de l'éducation nationale, de la sant�
 des transports et de l'équipement et, en tant que de besoin, auprès d'autres
 ministres.
 
-Les hauts fonctionnaires de zone de défense, ainsi que les directeurs généraux,
-directeurs ou chefs de services des ministères intéressés par les mesures de
-défense civile peuvent être appelés à prêter leur concours aux travaux de la
-commission.
+Les hauts fonctionnaires de zone de défense et de sécurité, ainsi que les
+directeurs généraux, directeurs ou chefs de services des ministères intéressés
+par les mesures de défense civile peuvent être appelés à prêter leur concours
+aux travaux de la commission.

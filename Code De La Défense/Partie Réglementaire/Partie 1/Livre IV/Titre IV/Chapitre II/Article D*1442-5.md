@@ -20,6 +20,9 @@ de l'armée de l'air et le contrôle opérationnel des autres éléments aérien
 à sa disposition ; il est, à ce titre et dans ce cadre, commandant des
 opérations aériennes.
 
+Dans le cadre des engagements internationaux de la France, il peut déléguer le
+contrôle opérationnel des moyens militaires aériens mis à sa disposition.
+
 Il est associé à l'élaboration de la doctrine d'emploi des moyens appartenant à
 l'armée de l'air susceptibles d'être mis à sa disposition, ainsi qu'à leur
 entraînement.
