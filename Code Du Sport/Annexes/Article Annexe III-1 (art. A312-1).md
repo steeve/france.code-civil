@@ -1,35 +1,33 @@
 Article Annexe III-1 (art. A312-1)
 ----
-Declaration relative aux equipements sportifs en application de l'article L.
+Déclaration relative aux équipements sportifs en application de l'article L.
 312-2 du code du sport
 
-(art. A. 312-1)
-
-q = plusieurs choix possibles m = un seul choix possible
+q = plusieurs choix possibles ; m = un seul choix possible
 
 Objet de la déclaration (un seul choix possible)
 
-m Création d'un équipement sportif
+m CRÉATION D'UN ÉQUIPEMENT SPORTIF
 
 m Modification d'un équipement sportif.
 
 Préciser la nature des modifications envisagées :
 
-q Structure principale/enveloppe
+q Structure principale/ enveloppe
 
 q Sol
 
 q Eclairage
 
-q Isolation/chauffage
+q Isolation/ chauffage
 
 q Acoustique
 
-q Annexe(s) (vestiaires, douches, tribunes)
+q Annexe (s) (vestiaires, douches, tribunes)
 
 m Cession d'un équipement sportif.
 
-Indiquer Identité du concessionnaire :
+Indiquer identité du concessionnaire :
 
 Nom :
 
@@ -51,34 +49,8 @@ Nouvelle affectation :
 
 m Je ne sais pas
 
-Identité du (des) propriétaire(s)
 
-Identité du propriétaire principal (concerne le bâti)
-
-Nom :
-
-Prénom :
-
-N° :
-
-Libellé de la voie :
-
-Code postal :
-
-Ville :
-
-Type de propriétaire (cochez la case correspondante) :
-
-m Etat m Région m Département
-
-m Commune m Groupement de communes m Etablissement d'enseignement privé
-
-m Etablissement privé commercial m Etablissement public m Association(s)
-
-m Privé non commercial (particulier)
-
-Identité de la personne ressource auprès de laquelle les informations peuvent
-être vérifiées ou complétées
+Identité du propriétaire principal
 
 Nom :
 
@@ -92,33 +64,52 @@ Code postal :
 
 Ville :
 
-Téléphone :
+Type de propriétaire :
 
-Télécopie :
+m Etat ; m Région ; m Département
 
-Mail :
+m Commune ; m Etablissement public de coopération intercommunale ; m
+Etablissement d'enseignement privé
 
-La présente déclaration est à transmettre à la direction régionale ou à la
-direction départementale de la jeunesse et des sports la plus proche de chez
-vous. Coordonnées sur le www.jeunesse-sports.gouv.fr
+m Etablissement privé commercial ; m Autre établissement public ; m Association
+(s)
 
-Le recensement des équipements sportifs en ligne :
-www.res.jeunesse-sports.gouv.fr
+m Privé non commercial, non associatif (ex : particulier)
 
-DECLARATION RELATIVE AUX EQUIPEMENTS SPORTIFS EN APPLICATION DE L'ARTICLE L.
-312-2 DU CODE DU SPORT
+Identité du propriétaire secondaire (identité du propriétaire du terrain s'il
+est différent du propriétaire du bâti)
+
+Nom :
+
+Prénom :
+
+N° :
+
+Libellé de la voie :
+
+Code postal :
+
+Ville :
+
+Type de propriétaire :
+
+m Etat ; m Région ; m Département
+
+m Commune ; m Etablissement public de coopération intercommunale ; m
+Etablissement d'enseignement privé
+
+m Etablissement privé commercial ; m Autre établissement public ; m Association
+(s)
+
+m Privé non commercial, non associatif (ex : particulier)
 
 Caractéristiques générales de l'équipement
 
-Nom usuel de l'équipement :
+NOM USUEL DE L'ÉQUIPEMENT
 
 Type d'équipement :
 
-Localisation de l'équipement (adresse complète) :
-
-Nom :
-
-Prénom :
+Localisation de l'équipement :
 
 N° :
 
@@ -128,70 +119,68 @@ Code postal :
 
 Ville :
 
-Superficie de l'aire d'évolution (4) (exprimée en m2) :
+Superficie de l'aire d'évolution (= l'aire de pratique à laquelle s'ajoute
+l'espace de sécurité qui lui est réservé exprimée en m2) :
 
-Largeur de l'aire d'évolution (1) (exprimée en m) :
+Largeur de l'aire d'évolution (exprimée en m) :
 
-Longueur de l'aire d'évolution (1) (exprimée en m) :
-
-Caractéristiques spécifiques de l'équipement
+Longueur de l'aire d'évolution (exprimée en m) :
 
 Nature de l'équipement sportif
 
-m Intérieur m Extérieur m Découvert
+m Intérieur m Extérieur couvert m Découvert
 
 m Découvrable m Site artificiel m Site naturel aménagé
 
 Date de mise en service de l'équipement (année d'ouverture au public) :
 
-Date précise ...../...../.....
 
+Date précise
 
-O
+//
+
+ou
 
 m Avant 1945 m 1945-1964 m 1965-1974 m 1975-1984 m 1985-1994 m 1995-2004
 
-Utilisateurs (classer par ordre croissant selon le nombre d'heures d'utilisation
-OU marquer la présence d'un utilisateur d'une croix si le classement est
-impossible)
+Merci de classer par ordre croissant d'utilisateurs selon le nombre d'heures
+d'utilisation (marquer la présence d'un utilisateur d'une croix si le classement
+est impossible)
 
-Individuel(s)/Famille(s)
+Individuel (s)/ Famille (s)
 
-Scolaires/Universités
+Scolaires/ Universités
 
-Clubs sportifs/Comités/Ligues/Fédérations
+Clubs sportifs/ Comités/ Ligues/ Fédérations
 
-Autre(s) association(s) et groupes divers
+Autre (s) association (s) et groupes divers
 
-Locaux d'hébergement - Nombre de lits
+Locaux d'hébergement-Nombre de lits
 
-Nombre de vestiaire(s)
+Nombre de vestiaire (s)
 
 sportifs
 
-arbitre(s)/enseignant(e)(s)
+arbitre (s)/ enseignant (e) (s)
 
-Nombre total de places assises en tribunes/gradins (fixes et télescopiques)
+Nombre total de places assises en tribunes/ gradins (fixes et télescopiques)
 
-Adresse du site Internet relatif à l'équipement (URL)
-
-www.
-
-
-Ouverture exclusivement saisonnière
+L'ouverture de l'équipement est-elle exclusivement saisonnière ? (moins de six
+mois par an d'exploitation ou d'utilisation de l'équipement)
 
 m Oui m Non
 
-Activité(s) physique(s) et/ou sportive(s) (APS) praticable(s) :
+Nom des activité (s) physique (s) et/ ou sportive (s) praticable (s) sur
+l'équipement sportif (existence d'aménagements sur l'équipement permettant la
+pratique)
 
-Nom de l'(des) APS praticable(s) sur l'équipement
-
-Niveau effectivement pratiqué (mettre le chiffre correspondant à l'activité
-pratiquée)
+Merci d'indiquer le niveau de compétition le plus élevé depuis quatre ans ou le
+niveau de pratique le plus élevé (vous pouvez mettre le chiffre correspondant à
+l'activité pratiquée)
 
 1 = Non défini
 
-2 = Loisir - Entretien - Remise en forme
+2 = Loisir-Entretien
 
 3 = Scolaire
 
@@ -220,14 +209,26 @@ Code postal :
 
 Ville :
 
-Fait à : Le : / / Signature
+Courriel : @
 
-(4) L'aire d'évolution correspond à l'aire de pratique auquel s'ajoute l'espace
-sécuritaire réservé qui lui est associé.
+Fait à :
 
-La présente déclaration est à transmettre à la direction régionale ou à la
-direction départementale de la jeunesse et des sports la plus proche de chez
-vous. Coordonnées sur le www.jeunesse-sports.gouv.fr
+Le ://
 
-Le recensement des équipements sportifs en ligne :
-www.res.jeunesse-sports.gouv.fr
+Signature (n'est pas nécessaire sur le formulaire électronique).
+
+La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés s'applique à ce formulaire.
+
+Les données ci-dessus sont obligatoires. La loi vous donne droit d'accès et de
+rectification pour les données vous concernant : pour cela, vous pouvez adresser
+au ministère chargé des sports (Déclaration du fichier à la CNIL, récépissé n°
+1039564 du 28 septembre 2004 modifié en août 2005).
+
+La présente déclaration est à transmettre à la direction départementale de la
+cohésion sociale, ou à la direction départementale de la cohésion sociale et de
+la protection de la population, ou à la direction de la jeunesse, des sports et
+de la cohésion sociale du département dans lequel se situe l'équipement
+(coordonnées sur le site www.sports.gouv.fr).
+
+Le recensement des équipements sportifs est en ligne sur www.res.sports.gouv.fr
