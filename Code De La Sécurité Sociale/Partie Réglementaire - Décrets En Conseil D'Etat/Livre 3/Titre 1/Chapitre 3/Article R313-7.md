@@ -12,7 +12,7 @@ cotisations dues pour un salaire égal à 2 030 fois la valeur du salaire minimu
 de croissance au 1er janvier qui précède immédiatement le début de cette période
 ;
 
-b) Soit qu'ils ont effectué au moins 800 heures de travail salarié ou assimilé
+b) Soit qu'ils ont effectué au moins 600 heures de travail salarié ou assimilé
 au cours de douze mois civils ou de 365 jours consécutifs.
 
 Ces dispositions s'appliquent également aux assurés occupant des emplois entrant

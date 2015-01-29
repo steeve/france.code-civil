@@ -13,7 +13,7 @@ pendant les douze mois civils précédant l'interruption de travail est au moins
 valeur du salaire minimum de croissance au 1er janvier qui précède la période de
 référence ;
 
-b) Soit qu'il a effectué au moins 800 heures de travail salarié ou assimilé au
+b) Soit qu'il a effectué au moins 600 heures de travail salarié ou assimilé au
 cours des douze mois civils ou des 365 jours précédant l'interruption de travail
 ou la constatation de l'état d'invalidité résultant de l'usure prématurée de
 l'organisme.

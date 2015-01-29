@@ -10,7 +10,7 @@ foyer est au moins égale au montant des mêmes cotisations dues pour un salaire
 égale à 1 015 fois la valeur du salaire minimum de croissance au premier jour de
 la période de référence ;
 
-b) Soit qu'il ou elle a effectué au moins 200 heures de travail salarié ou
+b) Soit qu'il ou elle a effectué au moins 150 heures de travail salarié ou
 assimilé au cours des trois mois civils ou des trois mois précédant la date
 d'arrivée de l'enfant au foyer.
 
