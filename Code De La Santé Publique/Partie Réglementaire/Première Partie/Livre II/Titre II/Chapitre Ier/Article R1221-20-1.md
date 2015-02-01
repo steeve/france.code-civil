@@ -1,6 +1,7 @@
 Article R1221-20-1
 ----
-Pour être autorisé, un dépôt de sang doit remplir les conditions suivantes :
+I. - Pour être autorisé, un dépôt de sang doit remplir les conditions suivantes
+:
 
 1° Disposer d'une organisation et de moyens lui permettant d'exercer ses
 activités selon des modalités définies par arrêté du ministre chargé de la
@@ -31,3 +32,9 @@ l'établissement et dans son contrat pluriannuel d'objectifs et de moyens.
 
 Le cinquième et le septième alinéas du présent article ne sont pas applicables
 aux hôpitaux des armées.
+
+II. - Pour être autorisé à effectuer les activités prévues au II de l'article L.
+1221-10, un dépôt de sang doit remplir les conditions fixées au I du présent
+article et être en mesure de respecter les conditions mentionnées dans
+l'autorisation du produit délivrée par l'Agence nationale de sécurité du
+médicament et des produits de santé.

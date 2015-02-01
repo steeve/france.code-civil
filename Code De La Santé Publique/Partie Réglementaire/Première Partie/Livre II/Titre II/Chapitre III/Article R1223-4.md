@@ -9,9 +9,10 @@ s'agit d'une demande d'agrément, et réputé accordé dans les termes de l'agr�
 précédent lorsqu'il s'agit d'une demande de renouvellement.
 
 La décision portant agrément précise, parmi les activités transfusionnelles
-mentionnées à l'article L. 1223-2, celles qui peuvent être exercées par
-l'établissement de transfusion sanguine ainsi que le ou les sites attachés à cet
-établissement dans lesquels ces activités peuvent être réparties.
+mentionnées à l'article L. 1223-2 et les activités mentionnées au II de
+l'article L. 1221-10, celles qui peuvent être exercées par l'établissement de
+transfusion sanguine ainsi que le ou les sites attachés à cet établissement dans
+lesquels ces activités peuvent être réparties.
 
 L'agrément est délivré pour une durée de dix ans à compter de la date de la
 décision. Il est renouvelable pour une durée identique.

@@ -126,6 +126,13 @@ de promotion de la santé, les médicaments contraceptifs indiqués dans la
 contraception d'urgence qu'ils délivrent en application du III de l'article L.
 5134-1, sur commande écrite du médecin responsable du service.
 
+Les entreprises ou organismes autorisés au titre des 1°, 2°, 3°, 4°, 5°, 13° et
+14° de l'article R. 5124-2 peuvent livrer, en effectuant un suivi individualisé
+des lots et, s'il y a lieu, leur retrait, aux établissements de transfusion
+sanguine mentionnés au II de l'article L. 1221-10 les plasmas mentionnés au 2°
+bis de l'article L. 1221-8 en vue de leur conservation pour délivrance et de
+leur délivrance aux établissements de santé.
+
 En cas d'urgence telle que définie à l'article R. 3134-1, les établissements
 pharmaceutiques de l'Etablissement de préparation et de réponse aux situations
 d'urgence sanitaires peuvent, en outre, distribuer les produits mentionnés à

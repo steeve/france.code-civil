@@ -5,12 +5,17 @@ préparation, la transformation, la distribution et la délivrance des produits
 sanguins labiles sont effectuées dans le respect des bonnes pratiques définies
 par décision du directeur général de l'Agence nationale de sécurité du
 médicament et des produits de santé, pris en application de l'article L. 1223-3.
-Pour chacune de ces activités et sur chacun des sites où elles sont exercées,
-l'établissement de transfusion sanguine doit affecter du personnel possédant les
-qualifications requises en application de l'article L. 1222-10, disposer des
-équipements prévus par les bonnes pratiques pour chacune des activités de
-transfusion sanguine et respecter les normes de fonctionnement prévues à la
-présente section.
+La conservation en vue de la délivrance et la délivrance du plasma à finalité
+transfusionnelle dans la production duquel intervient un processus industriel
+mentionné au 2° bis de l'article L. 1221-8 sont effectuées dans le respect des
+bonnes pratiques mentionnées ci-dessus et conformément aux mentions figurant
+dans l'autorisation du produit délivrée par l'Agence nationale de sécurité du
+médicament et des produits de santé. Pour chacune de ces activités et sur chacun
+des sites où elles sont exercées, l'établissement de transfusion sanguine doit
+affecter du personnel possédant les qualifications requises en application de
+l'article L. 1222-10, disposer des équipements prévus par les bonnes pratiques
+pour chacune des activités de transfusion sanguine et respecter les normes de
+fonctionnement prévues à la présente section.
 
 L'Etablissement français du sang et le centre de transfusion sanguine des armées
 adressent chaque année au directeur général de l'Agence nationale de sécurité du

@@ -8,10 +8,16 @@ pharmacie d'officine dont le titulaire a passé convention avec l'établissement
 cette fin.
 
 Les médicaments détenus en application de l'article L. 5126-6 et réservés à
-l'usage hospitalier sont fournis aux établissements mentionnés à l'article R.
+l'usage hospitalier, à l'exception des médicaments définis au b du 18° de
+l'article L. 5121-1, sont fournis aux établissements mentionnés à l'article R.
 5126-111 autres que les établissements médico-sociaux par une entreprise
 pharmaceutique en application du 8° de l'article R. 5124-45, sur commande écrite
 du médecin ou du pharmacien précités.
+
+Les médicaments définis au b du 18° de l'article L. 5121-1 sont délivrés aux
+établissements mentionnés à l'article R. 5126-111 autres que les établissements
+médico-sociaux dans les conditions définies par la section 3 du chapitre Ier du
+titre II du livre II du présent code.
 
 Les établissements mentionnés à l'article R. 5126-111 peuvent se procurer des
 spécialités pharmaceutiques reconstituées ainsi que des préparations magistrales
@@ -20,11 +26,11 @@ pharmaceutique mentionné à l'article L. 5124-9, autorisés à cet effet dans l
 conditions respectivement prévues aux articles R. 5126-20 et R. 5124-69.
 
 Les établissements de santé délivrant des soins à domicile peuvent également se
-procurer des médicaments réservés à l'usage hospitalier auprès d'une pharmacie à
-usage intérieur.
+procurer des médicaments réservés à l'usage hospitalier, auprès d'une pharmacie
+à usage intérieur.
 
 Une convention précise les modalités d'approvisionnement des médicaments
-réservés à l'usage hospitalier qui doivent permettre de garantir la continuité
+réservés à l'usage hospitalier, qui doivent permettre de garantir la continuité
 et la sécurité de cet approvisionnement.
 
 Dans les groupements de coopération sanitaire, les produits pharmaceutiques
