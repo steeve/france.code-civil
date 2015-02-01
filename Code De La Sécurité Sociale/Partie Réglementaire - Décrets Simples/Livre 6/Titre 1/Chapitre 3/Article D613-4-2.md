@@ -1,8 +1,12 @@
 Article D613-4-2
 ----
-L'indemnité journalière forfaitaire prévue à l'article L. 613-19 et au premier
-alinéa de l'article L. 613-19-2 est égale à 1/60,84 du montant mensuel du
-plafond mentionné à l'article L. 241-3. Elle est versée sous réserve de cesser
+I.-Sous réserve des dispositions de l'article D. 613-29, le montant de
+l'indemnité journalière forfaitaire mentionnée à l'article L. 613-19 et au
+premier alinéa de l'article L. 613-19-2 est égal à 1/730 de la valeur annuelle
+du plafond mentionné à l'article L. 241-3 en vigueur à la date prévue du premier
+versement.
+
+II.-L'indemnité journalière mentionnée au I est versée sous réserve de cesser
 toute activité :
 
 1° A la mère, pendant une période d'au moins quarante-quatre jours consécutifs,

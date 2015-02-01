@@ -1,8 +1,9 @@
 Article D613-4-1
 ----
-L'allocation forfaitaire de repos maternel prévue au premier alinéa de l'article
-L. 613-19 est égale au montant mensuel du plafond mentionné à l'article L.
-241-3.
+Sous réserve des dispositions de l'article D. 613-29, le montant de l'allocation
+forfaitaire de repos maternel mentionnée au premier alinéa de l'article L.
+613-19 est égal à la valeur mensuelle du plafond mentionné à l'article L. 241-3
+en vigueur à la date prévue du premier versement.
 
 L'allocation est versée pour moitié à la fin du septième mois de la grossesse et
 pour moitié après l'accouchement. La totalité du montant de l'allocation est
