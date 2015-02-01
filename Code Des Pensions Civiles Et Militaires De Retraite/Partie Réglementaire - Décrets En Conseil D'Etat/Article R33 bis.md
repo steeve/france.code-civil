@@ -8,7 +8,4 @@ et bonifications admise en liquidation. Le taux ainsi obtenu est arrondi, le cas
 échéant, au centième le plus proche.
 
 II.-La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue
-par application du pourcentage maximum mentionné à l'article L. 13. Lorsque la
-pension est également majorée en application des dispositions de l'article L.
-18, son montant ne peut excéder celui des éléments de rémunération déterminés à
-l'article L. 15.
+par application du pourcentage maximum mentionné à l'article L. 13.
