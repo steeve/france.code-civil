@@ -1,8 +1,9 @@
 Article R129-13
 ----
-La responsabilité de l'installation et de l'entretien du détecteur de fumée
-normalisé visé au R. 129-12 incombe à l'occupant du logement. Cependant, elle
-incombe :
+La responsabilité de l'installation du détecteur de fumée normalisé mentionné à
+l'article R. 129-12 incombe au propriétaire et la responsabilité de son
+entretien incombe à l'occupant du logement. Cependant, ces deux responsabilités
+incombent :
 
 ― au propriétaire pour les logements à caractère saisonnier, les
 logements-foyers visés au R. 351-55 dont la gestion est assurée par le
