@@ -1,12 +1,9 @@
 Article R*43
 ----
-La majoration spéciale pour assistance d'une tierce personne prévue au deuxième
-alinéa de l'article L. 30 est accordée sur sa demande et quelle que soit la date
-à laquelle la pension lui a été concédée, à tout titulaire d'une pension civile
-d'invalidité qui justifie remplir les conditions fixées audit article et qui n'a
-pas bénéficié ou n'était pas en droit de bénéficier d'une majoration de même
-nature en vertu des dispositions antérieures à la loi n° 62-873 du 31 juillet
-1962.
+La majoration spéciale pour assistance d'une tierce personne prévue à l'article
+L. 30 bis est accordée sur sa demande et quelle que soit la date à laquelle la
+pension lui a été concédée, à tout titulaire d'une pension civile d'invalidité
+qui justifie remplir les conditions fixées audit article.
 
 La majoration spéciale est accordée pour une période de cinq ans. A l'expiration
 de cette période, les droits des retraités font l'objet d'un nouvel examen et la

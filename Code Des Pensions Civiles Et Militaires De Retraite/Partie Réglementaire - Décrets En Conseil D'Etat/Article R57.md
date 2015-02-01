@@ -5,5 +5,6 @@ Lorsque le conjoint survivant ou divorcé demande le rétablissement de son droi
 compter de la date du nouveau veuvage, du divorce ou de la cessation du
 concubinage notoire.
 
-La pension éventuellement attribuée aux enfants âgés de moins de vingt et un ans
-est annulée à compter de la demande de rétablissement.
+La pension attribuée aux enfants âgés de moins de vingt et un ans est révisée
+conformément aux dispositions prévues au b de l'article L. 43 à compter de la
+demande de rétablissement.
