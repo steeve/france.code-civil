@@ -20,15 +20,15 @@ prestations prévues par les articles L. 815-1 et L. 815-24 ;
 7° Les services de l'Etat chargés de la liquidation des pensions.
 
 II. - Sont destinataires des données et informations mentionnées à l'article R.
-161-69-2, dans le cadre de leur mission et pour les finalités mentionnées du
-deuxième au huitième alinéa de l'article R. 161-69-1 au sein des organismes
-utilisateurs, les agents individuellement habilités en charge de l'instruction,
-du calcul et du versement des prestations mentionnées à l'article R. 161-69-1.
+161-69-2, dans le cadre de leur mission et pour les finalités mentionnées au I
+et au 1° du II de l'article R. 161-69-1 au sein des organismes utilisateurs, les
+agents individuellement habilités en charge de l'instruction, du calcul et du
+versement des prestations mentionnées à l'article R. 161-69-1.
 
 III. - Sont destinataires des données et informations mentionnées à l'article R.
 161-69-2 à l'exception des données mentionnées au b du 1°, dans le cadre de leur
-mission et pour la finalité mentionnée au dernier alinéa de l'article R.
-161-69-1, les agents exerçant des activités statistiques individuellement
-habilités au sein des organismes contributeurs et des services de l'Etat placés
-sous l'autorité respective des ministres chargés de la sécurité sociale, de
-l'agriculture, du budget et de la fonction publique.
+mission et pour la finalité mentionnée au 2° du II de l'article R. 161-69-1, les
+agents exerçant des activités statistiques individuellement habilités au sein
+des organismes contributeurs et des services de l'Etat placés sous l'autorité
+respective des ministres chargés de la sécurité sociale, de l'agriculture, du
+budget et de la fonction publique.

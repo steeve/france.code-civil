@@ -1,8 +1,9 @@
 Article R161-69-1
 ----
-Conformément à l'article L. 161-1-6, est autorisée la création, par la Caisse
-nationale d'assurance vieillesse des travailleurs salariés, d'un traitement de
-données à caractère personnel dénommé : " échanges inter-régimes de retraite ".
+I.-Conformément à l'article L. 161-17-1-1, est autorisée la création, par la
+Caisse nationale d'assurance vieillesse des travailleurs salariés, d'un
+traitement de données à caractère personnel dénommé : " échanges inter-régimes
+de retraite ".
 
 Ce traitement a pour finalité de permettre aux organismes mentionnés au I de
 l'article R. 161-69-3 d'apprécier en vue de calculer le montant des prestations
@@ -28,11 +29,17 @@ de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le minimum vieillesse ;
 6° Le droit à l'allocation spéciale d'invalidité mentionnée à l'article L.
 815-24.
 
-Ce traitement a également pour finalité de contribuer à la production, par les
-organismes contributeurs mentionnés à l'article R. 161-69-2 et les services de
-l'Etat placés sous l'autorité des ministres chargés de la sécurité sociale, de
-l'agriculture, du budget et de la fonction publique, de statistiques à des fins
-de pilotage des politiques publiques.
+II.-Ce traitement a également pour finalités :
+
+1° De permettre d'effectuer des requêtes afin de sélectionner les pensionnés
+susceptibles de faire l'objet de mesures spécifiques en fonction de leurs
+montants de pensions ;
+
+2° De contribuer à la production, par les organismes contributeurs mentionnés à
+l'article R. 161-69-2 et les services de l'Etat placés sous l'autorité des
+ministres chargés de la sécurité sociale, de l'agriculture, du budget et de la
+fonction publique, de statistiques à des fins de pilotage des politiques
+publiques.
 
 Toutefois, sont seuls autorisés les traitements statistiques qui conduisent à
 afficher ou à éditer des résultats de requêtes dont le dénombrement est
