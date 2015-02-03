@@ -15,8 +15,12 @@ Les conseillers, les premiers conseillers et les présidents de section
 constituent des collèges électoraux distincts.
 
 Les candidatures au Conseil supérieur des chambres régionales des comptes font
-l'objet de listes qui doivent comporter les noms d'au moins un candidat
-titulaire et un candidat suppléant pour chaque grade.
+l'objet de listes qui doivent comporter pour chaque grade le même nombre de
+candidats titulaires et de candidats suppléants.
+
+Les électeurs votent pour les titulaires et pour les suppléants, qu'ils
+choisissent sur les listes de candidats, dans la limite du nombre de sièges à
+pourvoir, avec possibilité de panachage entre les listes.
 
 Les sièges sont pourvus par le ou les candidats titulaires et le ou les
 candidats suppléants qui ont obtenu le plus grand nombre de suffrages exprimés.
