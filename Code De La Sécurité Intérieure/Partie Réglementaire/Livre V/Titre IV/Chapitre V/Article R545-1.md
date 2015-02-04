@@ -13,11 +13,21 @@ DANS LEUR RÉDACTION
 
 Au titre Ier
 
-R. 511-1 à R. 511-2, R. 511-11 à R. 511-12, R. 511-14 à R. 511-27 et R. 511-29 à
-R. 511-34
+R. 511-1 à R. 511-2, R. 511-11
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
-et V de la partie réglementaire du code de la sécurité intérieure (Décrets en
+et V de la partie réglementaire du code de la sécurité intérieure (décrets en
+Conseil d'Etat et décrets simples)
+
+R. 511-12
+
+Résultant du décret n° 2014-888 du 1er août 2014 relatif à l'armement
+professionnel
+
+R. 511-14 à R. 511-27 et R. 511-29 à R. 511-34
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV
+et V de la partie réglementaire du code de la sécurité intérieure (décrets en
 Conseil d'Etat et décrets simples)
 
 R. 512-1 à R. 512-3, R. 512-5 et R. 512-6

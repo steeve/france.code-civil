@@ -1,4 +1,4 @@
-Article D345-2
+Article R345-2
 ----
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à
 l'article D. 345-5, les dispositions du présent livre mentionnées dans la
