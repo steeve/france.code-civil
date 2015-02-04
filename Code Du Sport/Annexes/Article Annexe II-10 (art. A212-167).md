@@ -130,7 +130,7 @@ Plongée subaquatique Arrêté du 24 février 1967
 
 Brevet d'Etat de moniteur de plongée.
 
-Brevet d'Etat du premier degré.
+Brevet d'Etat du deuxième degré.
 
 Ski nautique Arrêté du 20 avril 1970
 
