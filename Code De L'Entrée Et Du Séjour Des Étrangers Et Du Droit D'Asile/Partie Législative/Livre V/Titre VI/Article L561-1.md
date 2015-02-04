@@ -35,12 +35,16 @@ aux articles L. 523-3 à L. 523-5 du présent code.
 
 L'étranger astreint à résider dans les lieux qui lui sont fixés par l'autorité
 administrative doit se présenter périodiquement aux services de police ou aux
-unités de gendarmerie. L'autorité administrative peut prescrire à l'étranger la
-remise de son passeport ou de tout document justificatif de son identité dans
-les conditions prévues à l'article L. 611-2. Si l'étranger présente une menace
-d'une particulière gravité pour l'ordre public, l'autorité administrative peut
-le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux
-d'assignation.
+unités de gendarmerie. L'étranger qui fait l'objet d'un arrêté d'expulsion ou
+d'une interdiction judiciaire ou administrative du territoire prononcés en tout
+point du territoire de la République peut, quel que soit l'endroit où il se
+trouve, être astreint à résider dans des lieux choisis par l'autorité
+administrative dans l'ensemble du territoire de la République. L'autorité
+administrative peut prescrire à l'étranger la remise de son passeport ou de tout
+document justificatif de son identité dans les conditions prévues à l'article L.
+611-2. Si l'étranger présente une menace d'une particulière gravité pour l'ordre
+public, l'autorité administrative peut le faire conduire par les services de
+police ou de gendarmerie jusqu'aux lieux d'assignation.
 
 Le non-respect des prescriptions liées à l'assignation à résidence est
 sanctionné dans les conditions prévues à l'article L. 624-4.
