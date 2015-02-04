@@ -23,4 +23,6 @@ oeuvre du schéma et au suivi de celle-ci.
 
 Il comprend le cas échéant les documents, notamment cartographiques, identifiant
 les zones visées par les 1°, 3° et 4° du I de l'article L. 212-5-1 ainsi que
-l'inventaire visé par le 2° des mêmes dispositions.
+l'inventaire visé par le 2° des mêmes dispositions et l'arrêté de désignation
+des zones vulnérables en vue de la protection des eaux contre la pollution par
+les nitrates prévu par l'article R. 211-77.

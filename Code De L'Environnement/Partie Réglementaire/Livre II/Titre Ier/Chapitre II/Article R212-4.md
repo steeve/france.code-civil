@@ -14,7 +14,7 @@ mentionné à l'article R. 212-3 ;
 
 3° Les zones de baignade et d'activités de loisirs et de sports nautiques ;
 
-4° Les zones vulnérables figurant à l'inventaire prévu par l'article R. 211-75 ;
+4° Les zones vulnérables désignées en application de l'article R. 211-77 ;
 
 5° Les zones sensibles aux pollutions désignées en application de l'article R.
 211-94 ;

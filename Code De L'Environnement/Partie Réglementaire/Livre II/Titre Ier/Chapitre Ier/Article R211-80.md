@@ -3,8 +3,8 @@ Article R211-80
 I.-L'utilisation des fertilisants organiques et minéraux, naturels et de
 synthèse contenant des composés azotés, ci-après dénommés fertilisants azotés,
 ainsi que les pratiques agricoles associées font l'objet de programmes d'actions
-dans les zones vulnérables délimitées conformément aux dispositions des articles
-R. 211-75 et R. 211-77.
+dans les zones vulnérables délimitées conformément aux dispositions de l'article
+R. 211-77.
 
 II.-Ces programmes comportent les mesures et actions nécessaires à une bonne
 maîtrise des fertilisants azotés et à une gestion adaptée des terres agricoles
