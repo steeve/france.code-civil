@@ -34,11 +34,8 @@ tout ou partie des actifs de la personne contrôlée ;
 612-2 de suspendre ou limiter le paiement des valeurs de rachat, la faculté
 d'arbitrages, le versement d'avances sur contrat ou la faculté de renonciation ;
 
-8° Prononcer le transfert d'office de tout ou partie du portefeuille des
-contrats d'assurance ou de règlements ou de bulletins d'adhésion à des contrats
-ou règlements des personnes mentionnées aux 1°, 3° et 5° du B du I de l'article
-L. 612-2 ainsi que tout ou partie d'un portefeuille de crédits ou de dépôts d'un
-établissement de crédit ;
+8° Prononcer le transfert d'office de tout ou partie d'un portefeuille de
+crédits ou de dépôts d'un établissement de crédit ;
 
 9° Décider d'interdire ou de limiter la distribution d'un dividende aux
 actionnaires, d'une rémunération des certificats mutualistes ou paritaires ou
