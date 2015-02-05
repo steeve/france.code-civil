@@ -2,8 +2,10 @@ Article D711-3
 ----
 Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux
 établissements publics à caractère scientifique, culturel et professionnel
-suivants : 1° Centre international d'études supérieures en sciences agronomiques
-; 2° Collège de France ; 3° Conservatoire national des arts et métiers ; 4°
+suivants :
+
+1° Institut national d'études supérieures agronomiques de Montpellier ; 2°
+Collège de France ; 3° Conservatoire national des arts et métiers ; 4°
 CentraleSupélec ; 5° Ecole des hautes études en santé publique ; 6° Ecole des
 hautes études en sciences sociales ; 7° Ecole nationale des chartes ; 8° Ecole
 nationale des ponts et chaussées ; 9° Ecole nationale supérieure d'arts et

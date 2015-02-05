@@ -14,7 +14,7 @@ a) L'Institut des sciences et industries du vivant et de l'environnement ;
 b) l'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles
 et du paysage, et
 
-c) Le Centre international d'études supérieures en sciences agronomiques, qui
+c) L'Institut national d'études supérieures agronomiques de Montpellier, qui
 relèvent du ministre de l'agriculture ;
 
 d) L'Ecole nationale supérieure d'agronomie et des industries alimentaires de

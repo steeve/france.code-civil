@@ -6,7 +6,7 @@ l'agriculture comprend :
 1° L'Institut des sciences et industries du vivant et de l'environnement (Agro
 Paris Tech) ;
 
-2° Le Centre international d'études supérieures en sciences agronomiques
+2° L'Institut national d'études supérieures agronomiques de Montpellier
 (Montpellier Sup Agro) ;
 
 3° L'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles
