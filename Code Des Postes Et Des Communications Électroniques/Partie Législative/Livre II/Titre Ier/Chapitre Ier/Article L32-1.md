@@ -90,6 +90,8 @@ accessibles au public ;
 la population, conjointement avec les ministres chargés de la santé et de
 l'environnement ;
 
+12° ter A la sobriété de l'exposition du public aux champs électromagnétiques ;
+
 13° Au respect de la plus grande neutralité possible, d'un point de vue
 technologique, des mesures qu'ils prennent ;
 

@@ -21,11 +21,13 @@ l'administration ou autorité affectataire concernée.
 Elle coordonne l'implantation sur le territoire national des stations
 radioélectriques de toute nature afin d'assurer la meilleure utilisation des
 sites disponibles et veille au respect des valeurs limites d'exposition du
-public aux champs électromagnétiques prévues à l'article L. 34-9-1. A cet effet,
-les décisions d'implantation ne peuvent être prises qu'avec son accord ou,
-lorsqu'elles relèvent de la compétence du Conseil supérieur de l'audiovisuel,
-qu'après son avis. Le conseil est tenu par cet avis lorsqu'il est fondé sur un
-motif tiré du respect des valeurs limites d'exposition.
+public aux champs électromagnétiques prévues à l'article L. 34-9-1 ainsi que le
+recensement et le suivi des points atypiques conformément à l'objectif mentionné
+au 12° ter du II de l'article L. 32-1. A cet effet, les décisions d'implantation
+ne peuvent être prises qu'avec son accord ou, lorsqu'elles relèvent de la
+compétence du Conseil supérieur de l'audiovisuel, qu'après son avis. Le conseil
+est tenu par cet avis lorsqu'il est fondé sur un motif tiré du respect des
+valeurs limites d'exposition.
 
 Elle instruit pour le compte de l'Etat les demandes d'autorisation présentées en
 application de l'article L. 97-2.
