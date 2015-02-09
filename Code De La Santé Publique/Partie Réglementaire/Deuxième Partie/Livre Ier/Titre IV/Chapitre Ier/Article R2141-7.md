@@ -13,7 +13,7 @@ couple et les données cliniques actuelles jugées nécessaires par les praticie
 ;
 
 2° Les résultats des tests de dépistages sanitaires obligatoires prévus à
-l'article R. 2141-4. Le praticien agréé mentionné à l'article R. 2141-4 est
+l'article R. 2141-4. Le praticien mentionné à l'article R. 2141-4 est
 responsable de la tenue du dossier et de l'exactitude des informations qui y
 sont consignées.
 

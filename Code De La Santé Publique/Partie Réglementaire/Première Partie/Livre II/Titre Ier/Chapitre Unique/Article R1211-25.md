@@ -1,10 +1,10 @@
 Article R1211-25
 ----
-Le praticien agréé selon les modalités prévues aux articles R. 2142-11 et R.
-2142-13 pour effectuer le recueil de sperme ou d'ovocytes provenant de dons est
-tenu :
+Le praticien répondant aux critères mentionnés aux articles R. 2142-10 et R.
+2142-11 réalisant le recueil de sperme ou le prélèvement d'ovocytes en vue de
+dons, est tenu :
 
-1° De s'assurer que les résultats des analyses de biologie médicale pratiquées
+1° De s'assurer que les résultats des examens de biologie médicale pratiquées
 chez le donneur de gamètes sont négatifs en ce qui concerne les marqueurs
 biologiques d'infection et, lorsque cela est techniquement possible,
 d'infectivité, pour les affections suivantes :

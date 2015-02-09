@@ -7,7 +7,9 @@ pluridisciplinaire du centre autorisé à conserver les embryons en vue de leur
 accueil et à mettre en oeuvre celui-ci. Doit se joindre à cette équipe un
 médecin qualifié en psychiatrie ou un psychologue.
 
-Un praticien de ce centre, agréé au titre des activités mentionnées au e du 1°
+Un praticien de ce centre, répondant aux critères mentionnés à l'article R.
+2142-10 pour l'exercice des activités cliniques de mise en œuvre de l'accueil
+d'embryon mentionnées au e du 1° de l'article R. 2142-1 mentionnées au e du 1°
 de l'article R. 2142-1, établit un document certifiant que le couple souhaitant
 accueillir un embryon :
 

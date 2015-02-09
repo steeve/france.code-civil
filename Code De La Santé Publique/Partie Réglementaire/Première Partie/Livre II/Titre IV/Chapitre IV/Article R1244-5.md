@@ -25,12 +25,13 @@ d'ovocytes donnés ;
 6° Le consentement écrit du donneur et, s'il fait partie d'un couple, celui de
 l'autre membre du couple ;
 
-Les praticiens agréés pour les activités mentionnées au premier alinéa,
-conformément à l'article L. 2142-1-1, sont responsables de la bonne tenue du
-dossier et de l'exactitude des informations qui y sont consignées.
+Les praticiens répondant aux critères mentionnés aux articles R. 2142-10 et R.
+2142-11 pour exercer les activités mentionnées au premier alinéa du présent
+article sont responsables de la bonne tenue du dossier et de l'exactitude des
+informations qui y sont consignées.
 
 Ce dossier est conservé pour une durée minimale de quarante ans et quel que soit
-son support sous forme anonyme.L'archivage est effectué dans des conditions
+son support sous forme anonyme. L'archivage est effectué dans des conditions
 garantissant la confidentialité.
 
 Le donneur doit, avant le recueil ou le prélèvement des gamètes, donner
@@ -39,5 +40,6 @@ expressément son consentement à la conservation de ce dossier.
 Les informations touchant à l'identité des donneurs, à l'identification des
 enfants nés et aux liens biologiques existant entre eux sont conservées, quel
 que soit le support, de manière à garantir strictement leur confidentialité.
-Seuls les praticiens agréés pour les activités mentionnées au premier alinéa ont
-accès à ces informations.
+Seuls les praticiens répondant aux critères mentionnés aux articles R. 2142-10
+et R. 2142-11 pour exercer les activités mentionnées au premier alinéa ont accès
+à ces informations.

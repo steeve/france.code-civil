@@ -1,9 +1,8 @@
 Article R2142-37
 ----
 La personne responsable mentionnée à l'article L. 2142-3-1 doit satisfaire à
-l'une des exigences de qualification prévues à l'article R. 2142-13 et justifier
-d'une expérience pratique d'au moins deux ans en médecine et en biologie de la
-reproduction.
+l'une des exigences prévues à l'article R. 2142-11 et justifier d'une expérience
+pratique d'au moins deux ans en médecine et en biologie de la reproduction.
 
 Elle est chargée :
 

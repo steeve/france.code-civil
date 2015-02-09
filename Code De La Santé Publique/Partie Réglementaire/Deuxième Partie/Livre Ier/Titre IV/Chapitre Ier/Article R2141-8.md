@@ -17,5 +17,9 @@ Les informations permettant d'établir un lien entre le couple à l'origine de l
 conception des embryons et les enfants à naître ou nés après accueil sont codées
 et conservées pour une durée minimale de quarante ans dans une chambre ou
 armoire forte spécifiquement affectée à cette conservation, à laquelle ont accès
-uniquement les praticiens agréés au titre des activités mentionnées au e du 1°
-et au h du 2° de l'article R. 2142-1.
+uniquement les praticiens répondant aux critères mentionnés aux articles R.
+2142-10 pour l'exercice des activités cliniques de mise en œuvre de l'accueil
+d'embryon mentionnées au e du 1° de l'article R. 2142-1 et aux critères
+mentionnés au R. 2142-11 pour les activités biologiques de conservation des
+embryons en vue de leur accueil et de la mise en œuvre de celui-ci mentionnées
+au g du 2° de l'article R. 2142-1.

@@ -1,10 +1,10 @@
 Article R2142-12
 ----
-Pour être agréé au titre des activités définies au b du 1° de l'article R.
-2142-1, le praticien doit être médecin qualifié soit en urologie, soit en
-chirurgie générale, soit en gynécologie-obstétrique.
-
-Il doit en outre justifier d'une formation et d'une expérience dans le domaine
-de l'andrologie jugées suffisantes au regard des critères d'appréciation de la
-formation et de l'expérience définis par le conseil d'orientation de l'Agence de
-la biomédecine.
+Les praticiens ayant été agréés par l'Agence de la biomédecine sur le fondement
+des dispositions antérieures à l'entrée en vigueur de la loi n° 2011-814 du 7
+juillet 2011 relative à la bioéthique pour exercer une ou plusieurs activités
+d'assistance médicale à la procréation, en exercice au jour de l'entrée en
+vigueur du décret " fixant les critères de compétence des praticiens exerçant au
+sein de structures autorisées pour pratiquer des activités d'assistance médicale
+à la procréation ", sont réputés, pour l'application de l'article L. 2142-1,
+avoir prouvé leur compétence pour l'exercice de cette ou ces activités.

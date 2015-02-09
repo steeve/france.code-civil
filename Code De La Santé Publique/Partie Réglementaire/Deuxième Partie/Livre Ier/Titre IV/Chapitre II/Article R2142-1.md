@@ -58,5 +58,6 @@ embryons ;
 -conservation : le maintien des gamètes, des tissus germinaux et des embryons
 sous conditions contrôlées et appropriées jusqu'à leur mise à disposition ;
 
--mise à disposition : la remise à un praticien agréé des gamètes, des tissus
-germinaux ou des embryons.
+-mise à disposition : la remise à un praticien répondant aux critères mentionnés
+à l'article R. 2142-10 et R. 2142-11 des gamètes, des tissus germinaux ou des
+embryons.

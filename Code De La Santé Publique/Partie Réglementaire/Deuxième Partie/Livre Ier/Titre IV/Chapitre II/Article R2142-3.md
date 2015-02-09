@@ -17,7 +17,10 @@ embryons ;
 intervenant dans la mise en œuvre d'une assistance médicale à la procréation.
 Ces conventions précisent les responsabilités de chaque partie ainsi que les
 procédures à suivre par les tiers extérieurs pour satisfaire aux exigences de
-qualité et de sécurité sanitaire.
+qualité et de sécurité sanitaire ;
+
+3° Les documents permettant de prouver la compétence des praticiens et prévus
+aux articles R. 2142-10 et R. 2142-11.
 
 Avant de prendre l'avis de la commission spécialisée de la conférence régionale
 de la santé et de l'autonomie compétente pour le secteur sanitaire, l'agence
