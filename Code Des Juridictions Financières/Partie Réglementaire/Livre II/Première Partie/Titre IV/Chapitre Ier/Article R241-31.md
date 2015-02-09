@@ -13,9 +13,10 @@ qui a fait l'objet d'un examen de la gestion, une demande en rectification
 d'erreur ou d'omission dudit rapport peut être adressée au greffe de la chambre
 par les personnes mentionnées à l'article L. 245-4 du présent code.
 
-La demande en rectification est transmise par lettre recommandée avec avis de
-réception. Elle doit comporter l'exposé des faits et les motifs invoqués et être
-accompagnée des justifications sur lesquelles elle se fonde.
+En cas de transmission sur support papier, la demande en rectification est
+transmise par lettre recommandée avec demande d'avis de réception. Elle doit
+comporter l'exposé des faits et les motifs invoqués et être accompagnée des
+justifications sur lesquelles elle se fonde.
 
 Le président de la chambre régionale des comptes transmet la demande en
 rectification à toute personne nominativement ou explicitement concernée par

@@ -17,5 +17,6 @@ requérant et les autres intéressés en sont avisés par le greffe près la cha
 régionale des comptes. Ils disposent d'un délai de quinze jours pour en prendre
 connaissance au greffe de la chambre régionale des comptes.
 
-Les notifications et transmissions prévues à l'article D. 242-29 et au présent
-article sont faites par lettre recommandée avec avis de réception.
+En cas de transmission sur support papier, les notifications et transmissions
+prévues à l'article D. 242-29 et au présent article sont faites par lettre
+recommandée avec demande d'avis de réception.

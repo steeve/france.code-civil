@@ -1,11 +1,11 @@
-Article R241-32
+Article R141-9
 ----
-Pour échanger ou notifier dans le cadre des procédures de contrôle, des
+Pour échanger ou notifier, dans le cadre des procédures de contrôle, des
 documents, des actes ou des données, à l'exception de ceux qui présentent un
 caractère de secret de la défense nationale et qui font l'objet de mesures de
-classification en application de l'article 413-9 du code pénal, la chambre
-régionale des comptes et ses interlocuteurs procèdent par voie électronique ou,
-à défaut, par courrier sur support papier.
+classification en application de l'article 413-9 du code pénal, la Cour des
+comptes et ses interlocuteurs procèdent par voie électronique ou, à défaut, par
+courrier sur support papier.
 
 Les caractéristiques techniques des applications assurant les transmissions
 électroniques garantissent la fiabilité de l'identification des intervenants,

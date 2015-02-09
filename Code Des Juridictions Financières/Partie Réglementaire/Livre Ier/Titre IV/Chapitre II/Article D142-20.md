@@ -1,11 +1,11 @@
 Article D142-20
 ----
-Si, par suite du refus du comptable, de ses représentants légaux ou de ses
-héritiers, ou pour toute autre cause, la notification par lettre recommandée ne
-peut atteindre son destinataire, le secrétaire général de la Cour des comptes
-adresse l'arrêt ou l'ordonnance au directeur départemental ou, le cas échéant,
-régional des finances publiques du département ou du territoire dans lequel se
-trouve le dernier domicile connu ou déclaré.
+Si par suite du refus du comptable, de ses représentants légaux ou de ses
+héritiers, ou pour toute autre cause, la notification par lettre recommandée ou
+par voie électronique ne peut atteindre son destinataire, le secrétaire général
+de la Cour des comptes adresse l'arrêt ou l'ordonnance au directeur
+départemental ou, le cas échéant, régional des finances publiques du département
+ou du territoire dans lequel se trouve le dernier domicile connu ou déclaré.
 
 Dès réception de l'arrêt ou de l'ordonnance, le directeur départemental ou, le
 cas échéant, régional des finances publiques fait procéder à une notification à

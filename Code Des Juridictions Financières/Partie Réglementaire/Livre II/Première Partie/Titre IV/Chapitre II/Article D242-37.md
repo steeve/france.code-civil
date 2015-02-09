@@ -2,7 +2,8 @@ Article D242-37
 ----
 Les jugements des chambres régionales des comptes concernant les personnes
 déclarées comptables de fait leur sont notifiés par le secrétaire général de la
-chambre régionale des comptes par lettre recommandée avec avis de réception.
+chambre régionale des comptes. En cas de transmission sur support papier, la
+notification est effectuée par lettre recommandée avec avis de réception.
 
 Le cas échéant, cette notification est faite suivant les procédures visées aux
 articles D. 242-35 et D. 242-36 du présent code.

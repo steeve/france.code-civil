@@ -2,8 +2,9 @@ Article D242-38
 ----
 Les jugements et ordonnances des chambres régionales des comptes sur les comptes
 produits par les comptables patents ou les comptables de fait sont notifiés par
-le secrétaire général au représentant de la collectivité ou de l'établissement
-public par lettre recommandée avec avis de réception.
+le secrétaire général au représentant de la collectivité ou de établissement
+public. En cas de transmission sur support papier, la notification est effectuée
+par lettre recommandée avec demande d'avis de réception.
 
 Ils sont transmis par le secrétaire général au procureur financier et, par son
 intermédiaire, au procureur général près la Cour des comptes. Lorsqu'ils

@@ -4,7 +4,8 @@ Les personnes visées à l'article L. 241-4 que la chambre régionale des compte
 décide d'entendre sont convoquées par le président de la chambre.
 
 Celui-ci appelle la ou les personnes intéressées à se présenter devant la
-chambre ou la section concernée par lettre recommandée avec demande d'avis de
+chambre ou la section concernée. En cas de transmission sur support papier,
+cette convocation se fait par lettre recommandée avec demande d'avis de
 réception.
 
 Il précise les points sur lesquels la chambre les entendra et leur adresse, s'il

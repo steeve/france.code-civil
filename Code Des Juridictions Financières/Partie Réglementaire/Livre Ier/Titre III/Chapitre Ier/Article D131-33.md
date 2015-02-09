@@ -1,7 +1,7 @@
 Article D131-33
 ----
-Les arrêtés sont notifiés aux comptables par lettre recommandée avec accusé de
-réception.
+En cas de transmission sur support papier, les arrêtés sont notifiés aux
+comptables par lettre recommandée avec demande d'avis de réception.
 
-Les dispositions des articles D. 144-2 à D. 144-4 sont applicables à la
+Les dispositions des articles D. 142-17 à D. 142-20 sont applicables à la
 notification des arrêtés.

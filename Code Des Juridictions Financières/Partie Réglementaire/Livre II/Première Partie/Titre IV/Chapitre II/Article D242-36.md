@@ -1,11 +1,11 @@
 Article D242-36
 ----
-Si, par suite du refus du comptable, de ses représentants légaux ou de ses
-héritiers, ou pour toute autre cause, la notification par lettre recommandée ne
-peut pas atteindre son destinataire, le secrétaire général de la chambre
-régionale des comptes adresse le jugement ou l'ordonnance au directeur
-départemental ou, le cas échéant, régional des finances publiques du département
-du dernier domicile connu ou déclaré.
+Si par suite du refus du comptable, de ses représentants légaux ou de ses
+héritiers, ou pour toute autre cause, la notification par lettre recommandée ou
+par voie électronique ne peut atteindre son destinataire, le secrétaire général
+de la chambre régionale des comptes adresse le jugement ou l'ordonnance au
+directeur départemental ou, le cas échéant, régional des finances publiques du
+département du dernier domicile connu ou déclaré.
 
 Dès réception du jugement ou de l'ordonnance, le directeur départemental ou, le
 cas échéant, régional des finances publiques fait procéder à une notification à

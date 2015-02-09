@@ -4,11 +4,12 @@ I. ― Le comptable, ou ses ayants droit, peut demander, après expiration des
 délais d'appel, la révision d'un jugement ou d'une ordonnance en produisant des
 justifications recouvrées depuis le jugement ou l'ordonnance.
 
-La requête en révision est adressée au président de la chambre par lettre
-recommandée avec avis de réception. Elle doit comporter l'exposé des faits et
-moyens invoqués par le requérant et être accompagnée d'une copie du jugement ou
-de l'ordonnance attaqué ainsi que des justifications sur lesquelles elle se
-fonde.
+La requête en révision est adressée au président de la chambre. Elle doit
+comporter l'exposé des faits et moyens invoqués par le requérant et être
+accompagnée d'une copie du jugement ou de l'ordonnance attaqué ainsi que des
+justifications sur lesquelles elle se fonde. En cas de transmission sur support
+papier, la requête est adressée par lettre recommandée avec demande d'avis de
+réception.
 
 II. ― La chambre territoriale des comptes peut procéder à la révision d'un
 jugement ou d'une ordonnance, pour cause d'erreur, omission, faux ou double
