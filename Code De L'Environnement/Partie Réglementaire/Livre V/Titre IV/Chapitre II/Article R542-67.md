@@ -3,7 +3,7 @@ Article R542-67
 Aux fins de réaliser l'inventaire national prévu au 1° de l'article L. 542-12,
 tout exploitant d'un site accueillant soit une ou plusieurs installations
 nucléaires de base, soit une ou plusieurs installations nucléaires intéressant
-la défense définies à l'article R. 1333-37 du code de la défense, soit une ou
+la défense mentionnées à l'article L. 1333-15 du code de la défense, soit une ou
 plusieurs installations classées pour la protection de l'environnement au titre
 des activités nucléaires visées à l'annexe (1) à l'article R. 511-9 du code de
 l'environnement, soit plusieurs de ces catégories d'installations est tenu de
@@ -23,5 +23,6 @@ radioactives, l'exploitant complète l'inventaire annuel par une annexe indiquan
 la répartition par producteur et par famille des déchets radioactifs présents
 sur ce site.
 
-Pour une installation nucléaire intéressant la défense, l'inventaire ne comporte
-que la description des déchets radioactifs se rapportant à cette installation.
+Pour une installation nucléaire intéressant la défense mentionnée au premier
+alinéa du présent article, l'inventaire ne comporte que la description des
+déchets radioactifs se rapportant à cette installation.

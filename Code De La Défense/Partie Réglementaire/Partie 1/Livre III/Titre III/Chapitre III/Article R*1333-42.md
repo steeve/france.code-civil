@@ -1,6 +1,6 @@
 Article R*1333-42
 ----
-I.-La demande d'autorisation de création d'une installation nucléaire de base
+La demande d'autorisation de création d'une installation nucléaire de base
 secrète est adressée par le futur exploitant ou service utilisateur au ministre
 compétent.
 

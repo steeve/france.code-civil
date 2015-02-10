@@ -34,18 +34,17 @@ délivrées conformément aux réglementations particulières qui leur sont
 applicables, tiennent lieu de l'autorisation prévue à l'article L. 1333-4
 lorsque ces activités sont réalisées dans les installations suivantes :
 
-a) Les installations nucléaires de base mentionnées au III de l'article 28 de la
-loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en
-matière nucléaire ;
+a) Les installations nucléaires de base mentionnées à l'article L. 593-2 du code
+de l'environnement ;
 
-b) Les installations et activités nucléaires mentionnées au III de l'article 2
-de la même loi ;
+b) Les installations et activités nucléaires intéressant la défense mentionnées
+à l'article L. 1333-15 du code de la défense ;
 
 c) Les installations classées pour la protection de l'environnement soumises à
 autorisation en application des articles L. 512-1 du code de l'environnement ;
 
-d) Les installations soumises à autorisation en application de l'article 83 du
-code minier.
+d) Les installations soumises à autorisation en application de l'article L.
+162-1 du code minier.
 
 Les autorisations concernant les opérations de distribution, d'importation ou
 d'exportation mentionnées au c du 1° du I, réalisées dans une installation

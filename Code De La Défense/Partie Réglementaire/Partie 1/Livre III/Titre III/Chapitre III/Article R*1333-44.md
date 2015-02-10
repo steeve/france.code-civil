@@ -11,9 +11,10 @@ l'environnement.
 
 Il détermine notamment les justifications particulières que le titulaire de
 l'autorisation doit présenter au délégué à la sûreté nucléaire et à la
-radioprotection pour les activités et installations intéressant la défense aux
-étapes successives de la construction, de la mise en service, de l'arrêt
-définitif et du démantèlement des installations individuelles.
+radioprotection pour les installations et activités intéressant la défense
+mentionné à l'article R.* 1333-67-5 aux étapes successives de la construction,
+de la mise en service, de l'arrêt définitif et du démantèlement des
+installations individuelles.
 
 Il prévoit la transmission au préfet des éléments lui permettant d'établir le
 plan particulier d'intervention relatif à l'installation nucléaire de base

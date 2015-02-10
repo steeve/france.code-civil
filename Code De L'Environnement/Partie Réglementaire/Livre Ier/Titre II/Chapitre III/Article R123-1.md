@@ -33,19 +33,22 @@ forestier et les premiers boisements soumis à autorisation en application de
 l'article L. 126-1 du code rural, lorsqu'ils portent sur une superficie
 inférieure à 10 hectares.
 
-III.-En application du III de l'article L. 123-2, ne sont pas soumises à enquête
-publique, en raison des besoins et des nécessités de la défense nationale :
+III.-En application du III bis de l'article L. 123-2, ne sont pas soumis à
+enquête publique, afin de tenir compte des impératifs de la défense nationale :
 
-1° Les installations classées constituant un élément de l'infrastructure
-militaire et réalisées dans le cadre d'opérations secrètes intéressant la
-défense nationale mentionnées à l'article R. 517-4 ;
+1° Les installations classées pour la protection de l'environnement constituant
+un élément de l'infrastructure militaire et réalisées dans le cadre d'opérations
+secrètes intéressant la défense nationale, mentionnées à l'article R. 517-4 ;
 
-2° Les demandes d'autorisation relatives aux installations et activités
-nucléaires intéressant la défense mentionnées à l'article R. * 1333-37 du code
-de la défense, sauf lorsqu'il en est prévu autrement par les textes les
-concernant ;
+2° Les projets de plans de prévention des risques technologiques mentionnés au
+III de l'article R. 515-50 ;
 
-3° Les opérations mentionnées à l'article R. 123-44.
+3° Les opérations, travaux ou activités concernant des installations ou
+enceintes relevant du ministre de la défense et entrant dans le cadre
+d'opérations secrètes intéressant la défense nationale, mentionnés à l'article
+R. 217-7 ;
+
+4° Les opérations mentionnées à l'article R. 123-44.
 
 IV.-Sauf disposition contraire, les travaux d'entretien, de maintenance et de
 grosses réparations, quels que soient les ouvrages ou aménagements auxquels ils

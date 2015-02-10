@@ -27,4 +27,26 @@ conditions prévues par le statut de la collectivité." ;
 
 4° Au premier alinéa de l'article R. * 1311-36, la référence à l'article L.
 1111-7 du code général des collectivités territoriales est remplacée par la
-référence à la loi n° 55-1052 du 6 août 1955.
+référence à la loi n° 55-1052 du 6 août 1955 ;
+
+5° A l'article R. * 1333-51, les mots : "répond à la définition d'une
+installation nucléaire de base telle que fixée par l'article L. 593-2 du code de
+l'environnement" sont remplacés par les mots : "répond à la définition d'une
+installation nucléaire de base au sens de l'article L. 593-2 du code de
+l'environnement" et les mots : "dans les formes prévues par le décret en Conseil
+d'Etat mentionné à l'article L. 593-38 du code de l'environnement" sont
+supprimés ;
+
+6° Au dernier alinéa de l'article R. * 1333-67-7, les mots : "des articles L.
+4451-1 et L. 4451-2 du code du travail ou" sont supprimés ;
+
+7° A l'article R. * 1333-67-9, les mots : "prévues par le code du travail" et
+les mots : "en application des articles du code du travail" sont remplacés
+respectivement par les mots : "prévues par les dispositions applicables
+localement en matière de travail" et les mots : "en application des dispositions
+applicables localement" ;
+
+8° En l'absence d'adaptation, les références faites, par des dispositions de la
+présente partie du code applicables aux Terres australes et antarctiques
+françaises, à des dispositions qui n'y sont pas applicables sont remplacées par
+les références aux dispositions ayant le même objet applicables localement.

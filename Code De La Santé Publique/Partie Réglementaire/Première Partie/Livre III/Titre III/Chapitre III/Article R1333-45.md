@@ -15,10 +15,8 @@ Sont exclus de l'application des dispositions de la présente section :
 au premier alinéa, lorsque le détenteur n'est pas soumis à la déclaration ou à
 l'autorisation prévue à l'article L. 1333-4 ;
 
-2° Les déchets radioactifs tels que définis par le décret n° 94-853 du 22
-septembre 1994 relatif à l'importation, à l'exportation, au transit ainsi qu'aux
-échanges de déchets radioactifs entre Etats membres de la Communauté avec
-emprunt du territoire national ;
+2° Les déchets radioactifs tels que définis par l'article L. 542-1-1 du code de
+l'environnement ;
 
 3° Les matières, équipements et produits contaminés par une substance
 radioactive provenant d'une activité nucléaire mentionnée à l'article L. 1333-1
@@ -46,18 +44,17 @@ Les autorisations mentionnées dans la présente section sont soit les
 autorisations délivrées en application de la section 3, soit les autorisations
 concernant :
 
-a) Les installations nucléaires de base mentionnées au III de l'article 28 de la
-loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en
-matière nucléaire ;
+a) Les installations nucléaires de base mentionnées à l'article L. 593-2 du code
+de l'environnement ;
 
-b) Les installations et activités nucléaires mentionnées au III de l'article 2
-de la même loi ;
+b) Les installations et activités nucléaires intéressant la défense mentionnées
+à l'article L. 1333-15 du code de la défense ;
 
 c) Les installations classées pour la protection de l'environnement soumises à
 autorisation en application des articles L. 512-1 du code de l'environnement ;
 
-d) Les installations soumises à autorisation en application de l'article 83 du
-code minier.
+d) Les installations soumises à autorisation en application de l'article L.
+162-1 du code minier.
 
 Les autorisations mentionnées dans la présente section sont soit les
 autorisations délivrées en application de la section III, soit les autorisations

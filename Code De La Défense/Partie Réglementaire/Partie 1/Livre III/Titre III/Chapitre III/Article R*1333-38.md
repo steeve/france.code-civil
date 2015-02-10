@@ -1,21 +1,34 @@
 Article R*1333-38
 ----
-Des commissions d'information sont créées respectivement par arrêté du ministre
-de la défense ou du ministre chargé de l'industrie pour les sites d'exploitation
-des installations nucléaires de base secrètes soumises à la présente section et
-pour les lieux habituels de stationnement des navires militaires à propulsion
-nucléaire.
+I.-Les commissions d'information mentionnées à l'article L. 1333-20 sont créées
+respectivement par arrêté du ministre de la défense ou du ministre chargé de
+l'industrie.
 
-Elles ont pour mission d'informer le public sur l'impact des activités
-nucléaires sur la santé et l'environnement.
+Elles sont présidées :
 
-Elles reçoivent les informations nécessaires à l'accomplissement de leurs
-missions de la part des représentants du ministre de la défense pour les
-installations nucléaires relevant de son autorité, des exploitants dans les
-autres cas, dans le respect des dispositions relatives aux secrets protégés par
-la loi.
+1° S'agissant des installations nucléaires de base secrètes, des navires
+militaires à propulsion nucléaire sur leurs lieux habituels de stationnement et,
+le cas échéant, des sites et installations d'expérimentations nucléaires
+intéressant la défense : par les préfets de département ou par des personnalités
+qualifiées nommées par eux ;
 
-Lorsqu'il existe, pour le même site, une commission locale d'information pour
-une installation nucléaire de base et une commission d'information pour une
-installation nucléaire de base secrète, ces deux commissions s'échangent toutes
-informations utiles et peuvent se réunir en formation commune.
+2° S'agissant des anciens sites d'expérimentations nucléaires du Pacifique : par
+le haut-commissaire de la République en Polynésie française ou par une
+personnalité qualifiée nommée par lui.
+
+II.-Outre les représentants des services de l'Etat intéressés, les commissions
+d'information comprennent des représentants :
+
+1° Des intérêts économiques et sociaux, des associations agréées de protection
+de l'environnement et, sur leur demande, des collectivités territoriales ;
+
+2° Du ministre de la défense pour les installations et activités relevant de son
+autorité ou des exploitants dans les autres cas.
+
+Dans le respect des exigences liées à la défense nationale, les représentants du
+ministre de la défense ou de l'exploitant, selon les cas, transmettent à ces
+commissions, ainsi qu'au délégué à la sûreté nucléaire et à la radioprotection
+pour les installations et activités intéressant la défense, un rapport annuel de
+la sûreté nucléaire du site, des risques d'origine radiologique et des rejets
+produits par l'installation, ainsi que des mesures prises pour en réduire les
+impacts.

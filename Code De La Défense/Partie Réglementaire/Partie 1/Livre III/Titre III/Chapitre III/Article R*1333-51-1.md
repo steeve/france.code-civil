@@ -45,8 +45,9 @@ secret de la défense nationale.
 8° S'agissant des ouvrages, travaux ou activités intéressant des installations
 ou enceintes relevant du ministre de la défense et entrant dans le cadre
 d'opérations couvertes par le secret de la défense nationale, les dispositions
-des 4° et 5° ne sont pas applicables. Dans ce cas, l'autorisation est donnée par
-décret pris sur le rapport du ministre de la défense et après avis du délégué.
+des 4°, 5° et 6° ne sont pas applicables. Dans ce cas, l'autorisation est donnée
+par décret pris sur le rapport du ministre de la défense et après avis du
+délégué.
 
 II.-Le contenu des dossiers de demande d'autorisation de rejets et de
 prélèvements d'eau ainsi que la procédure d'instruction de ces dossiers sont

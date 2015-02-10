@@ -7,8 +7,9 @@ soit contiennent des matières radioactives telles que définies à l'article
 dangereuses par route en date du 30 septembre 1957 et proviennent
 d'installations relevant du titre Ier du livre V du présent code, soit
 proviennent des zones à déchets nucléaires des installations nucléaires de base
-ou des installations individuelles ou des systèmes nucléaires militaires définis
-par les articles R. 1333-37 du code de la défense.
+ou des installations individuelles définies au second alinéa du I de l'article
+R. * 1333-40 du code de la défense ou des systèmes nucléaires militaires
+mentionnés à l'article L. 1333-15 du code de la défense.
 
 Les dispositions de la présente section ne s'appliquent aux déchets radioactifs
 ainsi définis que s'ils sont destinés à être traités dans des installations

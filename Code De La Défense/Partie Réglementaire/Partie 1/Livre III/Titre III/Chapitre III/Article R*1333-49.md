@@ -1,7 +1,7 @@
 Article R*1333-49
 ----
 Le ministre compétent est avisé et le délégué à la sûreté nucléaire et à la
-radioprotection pour les activités et installations intéressant la défense
+radioprotection pour les installations et activités intéressant la défense
 informé de toute modification envisagée des installations individuelles, de
 nature à entraîner une mise à jour des rapports de sûreté, des règles
 d'exploitation ou du plan d'urgence interne de l'installation nucléaire de base

@@ -1,9 +1,10 @@
-Article R*1412-2
+Article R*1333-67-6
 ----
 Le délégué est notamment chargé :
 
 1° De contrôler l'application de la réglementation de sûreté nucléaire en
-faisant procéder à l'inspection de ces installations et activités ;
+faisant procéder à l'inspection des installations et activités nucléaires
+intéressant la défense mentionnées à l'article L. 1333-15 ;
 
 2° De contrôler l'application de la réglementation prévue pour assurer la
 protection radiologique du public et du personnel, notamment la pertinence des
@@ -12,7 +13,7 @@ rayonnements ionisants ;
 
 3° De contrôler l'application de la réglementation relative aux sources
 radioactives détenues et utilisées dans les installations mentionnées à
-l'article R. * 1333-37 ;
+l'article L. 1333-15 ;
 
 4° D'instruire les demandes d'autorisation mentionnées aux articles R. * 1333-42
 et R. * 1333-63, d'établir les prescriptions de sûreté nucléaire et de

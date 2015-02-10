@@ -8,6 +8,6 @@ famille. En l'absence d'une solution de gestion définitive adaptée à ces
 déchets, le rapport précise les types d'installations d'entreposage envisagées,
 leurs capacités disponibles et leur durée prévisionnelle d'exploitation.
 
-Pour une installation nucléaire intéressant la défense, le rapport triennal ne
-comporte que la description des déchets radioactifs se rapportant à cette
-installation.
+Pour une installation nucléaire intéressant la défense mentionnée au premier
+alinéa de l'article R. 542-67, le rapport triennal ne comporte que la
+description des déchets radioactifs se rapportant à cette installation.

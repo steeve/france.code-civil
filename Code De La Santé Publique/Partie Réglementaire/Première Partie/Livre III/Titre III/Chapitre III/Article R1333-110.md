@@ -8,7 +8,7 @@ d'avoir endommagé une source doivent être immédiatement déclarés au préfet
 département du lieu de survenance par le chef d'établissement. Celui-ci indique
 également les mesures qu'il a prises pour assurer la protection des personnes.
 Le préfet informe l'Autorité de sûreté nucléaire ou le délégué à la sûreté
-nucléaire et à la radioprotection pour les activités et installations
+nucléaire et à la radioprotection pour les installations et activités
 intéressant la défense et l'Institut de radioprotection et de sûreté nucléaire.
 
 Lorsque la perte ou le vol concerne un établissement de santé ou un organisme

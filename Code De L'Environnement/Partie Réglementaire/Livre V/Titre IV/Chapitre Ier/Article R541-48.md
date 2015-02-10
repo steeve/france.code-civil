@@ -3,8 +3,9 @@ Article R541-48
 Les modalités d'application de la présente section sont fixées en tant que de
 besoin par arrêté du ministre chargé de l'environnement ou, pour les déchets
 radioactifs mentionnés à l'article R. 541-42 et provenant des installations
-nucléaires de base, des installations individuelles ou des systèmes nucléaires
-militaires définis par l'article R. 1333-37 du code de la défense, pris
+nucléaires de base, des installations individuelles définies au second alinéa du
+I de l'article R. * 1333-40 du code de la défense ou des systèmes nucléaires
+militaires mentionnés à l'article L. 1333-15 du code de la défense, pris
 conjointement avec le ministre chargé de l'industrie, après consultation du
 ministre de la défense.
 

@@ -1,17 +1,7 @@
 Article R*1333-39
 ----
-Les commissions d'information sont présidées par les préfets de département ou
-par des personnalités qualifiées nommées par eux. Outre les représentants des
-services de l'Etat intéressés, elles comprennent des représentants :
-
-1° Des intérêts économiques et sociaux, des associations agréées de protection
-de l'environnement et, sur leur demande, des collectivités territoriales ;
-
-2° Du ministre de la défense pour les installations et activités relevant de son
-autorité ou des exploitants dans les autres cas.
-
-Dans le respect des exigences liées à la défense nationale, les représentants du
-ministre de la défense ou de l'exploitant, selon les cas, transmettent à ces
-commissions, ainsi qu'au délégué, un rapport annuel de la sûreté nucléaire du
-site, des risques d'origine radiologique et des rejets produits par
-l'installation, ainsi que des mesures prises pour en réduire les impacts.
+Lorsqu'il existe, pour le même site, une commission locale d'information pour
+une installation nucléaire de base et une commission d'information pour une des
+installations nucléaires intéressant la défense mentionnées au 1° et au 3° de
+l'article L. 1333-15, ces deux commissions s'échangent toutes informations
+utiles et peuvent se réunir en formation commune.

@@ -49,4 +49,38 @@ conditions prévues par le statut de la collectivité." ;
 d) Au premier alinéa de l'article R. * 1311-36, la référence à l'article L.
 1111-7 du code général des collectivités territoriales est remplacée par les
 dispositions prévues par le statut de la collectivité ayant le même objet
-applicables localement.
+applicables localement ;
+
+e) A l'article R. * 1333-51, les mots : "répond à la définition d'une
+installation nucléaire de base telle que fixée par l'article L. 593-2 du code de
+l'environnement" sont remplacés par les mots : "répond à la définition d'une
+installation nucléaire de base au sens de l'article L. 593-2 du code de
+l'environnement" et les mots : "dans les formes prévues par le décret en Conseil
+d'Etat mentionné à l'article L. 593-38 du code de l'environnement" sont
+supprimés ;
+
+f) Au premier alinéa de l'article R. * 1333-67-7, les mots : "mentionnées à
+l'article L. 1333-4 du code de la santé publique" sont remplacés par les mots :
+"auxquelles sont soumises les activités comportant un risque d'exposition des
+personnes aux rayonnements ionisants" ;
+
+g) Le dernier alinéa de l'article R. * 1333-67-7 est ainsi rédigé :
+
+Le délégué est informé de tout projet de textes réglementaires applicables
+localement dans le domaine de la protection des travailleurs contre les risques
+d'exposition aux rayonnements ionisants ;
+
+h) A l'article R. * 1333-67-9, les mots : "prévues par le code du travail" et
+les mots : "en application des articles du code du travail" sont remplacés
+respectivement par les mots : "prévues par les dispositions applicables
+localement en matière de travail" et les mots : "en application des dispositions
+applicables localement" ;
+
+i) A l'article R. * 1333-67-10, les mots : ", en application notamment des
+dispositions de l'article L. 1333-18 du code de la santé publique," sont
+supprimés ;
+
+4° En l'absence d'adaptation, les références faites, par des dispositions de la
+présente partie du code applicables en Nouvelle-Calédonie, à des dispositions
+qui n'y sont pas applicables sont remplacées par les références aux dispositions
+ayant le même objet applicables localement.

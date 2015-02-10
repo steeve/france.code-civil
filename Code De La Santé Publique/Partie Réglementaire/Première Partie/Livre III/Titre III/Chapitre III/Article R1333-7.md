@@ -14,7 +14,7 @@ utilisés correctement.
 
 Une décision de l'Autorité de sûreté nucléaire homologuée par le ministre chargé
 de la santé ou, pour les activités et installations intéressant la défense, du
-délégué à la sûreté nucléaire et à la radioprotection mentionné à l'article R.
-1411-7 du code de la défense, précise en tant que de besoin les modalités
-d'application du présent article, compte tenu du risque auquel est soumise la
-population.
+délégué à la sûreté nucléaire et à la radioprotection pour les installations et
+activités intéressant la défense mentionné à l'article R. * 1333-67-5 du code de
+la défense, précise en tant que de besoin les modalités d'application du présent
+article, compte tenu du risque auquel est soumise la population.
