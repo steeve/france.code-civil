@@ -19,8 +19,8 @@ ne constitue pas un nouveau procédé, le directeur général l'autorise ou reje
 la demande selon que la mise en œuvre de la technique améliore ou non
 l'efficacité, la reproductibilité et la sécurité du procédé existant. Il peut
 également, s'il l'estime nécessaire pour apprécier l'amélioration qu'elle
-apporte, inviter le demandeur à solliciter l'autorisation de conduire une étude
-sur le fondement du VI de l'article L. 2151-5.
+apporte, inviter le demandeur à solliciter l'autorisation de conduire une
+recherche biomédicale dans les conditions mentionnées à l'article R. 1125-14.
 
 En cas d'autorisation, l'Agence de la biomédecine en informe sans délai les
 laboratoires et organismes autorisés à pratiquer des activités biologiques

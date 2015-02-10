@@ -25,6 +25,12 @@ biomédicales ;
 
 2° Des rapports d'essais, chez l'animal ou in vitro.
 
-III.-En cas d'inscription du procédé sur la liste mentionnée à l'article L.
+III.-Lorsqu'elle refuse l'inscription du procédé sur la liste mentionnée à
+l'article L. 2141-1, l'Agence de la biomédecine peut assortir sa décision de
+recommandations afin que soient conduites des recherches, notamment des
+recherches biomédicales dans les conditions mentionnées aux articles R. 1125-14
+à R. 1125-24.
+
+IV.-En cas d'inscription du procédé sur la liste mentionnée à l'article L.
 2141-1, les éléments mentionnés aux 1° et 2° du I sont rendus publics sur le
 site internet de l'Agence de la biomédecine.
