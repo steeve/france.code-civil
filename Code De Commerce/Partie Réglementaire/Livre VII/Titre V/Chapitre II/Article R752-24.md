@@ -1,13 +1,15 @@
 Article R752-24
 ----
-La commission se prononce par un vote à bulletins nominatifs. Sa décision
-motivée, signée par le président, indique le sens du vote émis par chacun des
-membres.
+Dès réception de la demande d'avis, le secrétariat de la commission fait
+connaître au demandeur du permis de construire la date et le numéro
+d'enregistrement de son dossier et le délai imparti à la commission pour
+statuer. Le demandeur est en outre informé que, si aucune décision ne lui a été
+notifiée dans le délai d'un mois, l'avis est réputé favorable.
 
-Lorsqu'elle concerne l'aménagement commercial, la décision décrit le projet
-autorisé et mentionne la surface de vente totale autorisée et, le cas échéant,
-la surface de vente et le secteur d'activité de chacun des magasins de plus de 1
-000 mètres carrés ainsi que la ou les enseignes désignées.
+Le secrétariat de la commission invite le pétitionnaire à transmettre sans délai
+à la commission toutes pièces susceptibles de permettre à la commission
+d'apprécier les effets du projet au regard des critères fixés à l'article L.
+752-6.
 
-Lorsqu'elle concerne l'aménagement cinématographique, la décision décrit le
-projet autorisé et mentionne le nombre de places autorisées.
+Le délai d'instruction court à compter de la réception par le secrétariat de la
+commission de la demande d'avis.

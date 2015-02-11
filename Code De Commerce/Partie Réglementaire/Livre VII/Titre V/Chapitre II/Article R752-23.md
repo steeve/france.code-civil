@@ -1,6 +1,9 @@
 Article R752-23
 ----
-Un exemplaire du procès-verbal de la réunion de la commission est adressé par
-courrier simple dans le délai d'un mois à chaque membre de la commission ainsi
-qu'aux services de l'Etat, auteurs du rapport d'instruction du projet et, pour
-les projets d'aménagement cinématographique, au médiateur du cinéma.
+La demande d'avis est adressée au secrétariat de la commission départementale
+par l'autorité compétente pour délivrer le permis de construire ou par le
+président de l'établissement public mentionné à l'article L. 122-4 du code de
+l'urbanisme soit par lettre recommandée avec demande d'avis de réception, soit
+par voie administrative contre décharge, soit par voie électronique. Elle est
+motivée et accompagnée de la délibération mentionnée au troisième alinéa de
+l'article L. 752-4.

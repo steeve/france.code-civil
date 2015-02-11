@@ -1,4 +1,5 @@
 Article R*431-33-1
 ----
-Les pièces complémentaires prévues aux articles R. 431-13 à R. 431-33 sont
-fournies sous l'entière responsabilité des demandeurs.
+Lorsque le projet relève de l'article L. 425-4, la demande est accompagnée d'un
+dossier comprenant les éléments mentionnés à l'article R. 752-6 du code de
+commerce.

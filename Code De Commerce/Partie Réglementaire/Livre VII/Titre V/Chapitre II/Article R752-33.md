@@ -1,9 +1,9 @@
 Article R752-33
 ----
-Le demandeur du permis de construire transmet à la commission d'aménagement
-commercial toutes pièces qu'il souhaite soumettre à l'examen de cette
-commission.
-
-Pour l'examen de la demande d'avis prévue à l'article L. 752-4, la commission ne
-rassemble que des élus et des personnalités qualifiées du département
-d'implantation du projet.
+Lorsqu'après l'expiration d'un délai de deux mois suivant sa réception par le
+président de la commission nationale, un requérant retire son recours contre la
+décision ou l'avis de la commission départementale, la commission nationale peut
+néanmoins, selon les règles prévues au premier alinéa de l'article R. 752-38,
+décider de se prononcer sur le projet qui lui est soumis. Elle informe les
+parties de sa décision dix jours au moins avant la réunion au cours de laquelle
+le projet sera examiné.

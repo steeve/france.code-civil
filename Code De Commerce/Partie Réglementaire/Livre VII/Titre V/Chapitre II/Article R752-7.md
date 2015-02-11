@@ -1,44 +1,39 @@
 Article R752-7
 ----
-La demande est accompagnée :
+Lorsque le projet ne nécessite pas de permis de construire, la demande précise,
+outre les éléments prévus à l'article R. 752-5, les éléments suivants :
 
-1° D'un plan indicatif faisant apparaître la surface de vente des commerces ;
+1° Pour le ou les demandeurs personnes physiques : nom, prénom, adresse, numéro
+de téléphone et adresse électronique ;
 
-2° Des renseignements suivants :
+2° Pour le ou les demandeurs personnes morales : raison sociale, forme
+juridique, adresse, numéro de téléphone et adresse électronique, ainsi que les
+nom, prénom, numéro de téléphone et adresse électronique de leur représentant ;
 
-a) Délimitation de la zone de chalandise du projet, telle que définie à
-l'article R. 752-8, et mention de la population de chaque commune comprise dans
-cette zone ainsi que de son évolution entre les deux derniers recensements
-authentifiés par décret ;
+3° Localisation, adresse et superficie du ou des terrains.
 
-b) Desserte en transports collectifs et accès pédestres et cyclistes ;
+Lorsque le projet ne nécessite pas de permis de construire, le dossier déposé
+comprend, outre les éléments prévus à l'article R. 752-6, les éléments suivants
+:
 
-c) Capacités d'accueil pour le chargement et le déchargement des marchandises.
+a) Pour le ou les demandeurs : un extrait d'immatriculation au registre du
+commerce et des sociétés ou, si la société est en cours de constitution, une
+copie des statuts enregistrés auprès des services fiscaux ;
 
-II.-La demande est également accompagnée d'une étude destinée à permettre à la
-commission d'apprécier les effets prévisibles du projet au regard des critères
-prévus par l'article L. 752-6. Celle-ci comporte les éléments permettant
-d'apprécier les effets du projet sur :
+b) L'indication des terrains concernés, leur superficie totale et un extrait de
+plan cadastral ;
 
-1° L'accessibilité de l'offre commerciale ;
+c) Une description du projet précisant son inscription dans le paysage ou un
+projet urbain ;
 
-2° Les flux de voitures particulières et de véhicules de livraison ainsi que sur
-les accès sécurisés à la voie publique ;
+d) Une carte au 1/25 000 indiquant la localisation du projet ;
 
-3° La gestion de l'espace ;
+e) Une vue aérienne ou satellite dûment légendée inscrivant le projet dans son
+quartier ;
 
-4° Les consommations énergétiques et la pollution ;
+f) Une photographie axonométrique du site actuel et une présentation visuelle du
+projet permettant d'apprécier sa future insertion par rapport aux constructions
+avoisinantes et aux paysages, son impact visuel ainsi que le traitement des
+accès et du terrain ;
 
-5° Les paysages et les écosystèmes.
-
-III.-La demande portant sur les projets d'aménagement cinématographique est
-accompagnée de renseignements et documents dont la liste est fixée par un arrêté
-du ministre chargé de la culture. Pour les projets ayant pour objet l'extension
-d'un établissement de spectacles cinématographiques, le délai de cinq ans prévu
-au 2° du I de l'article 30-2 du code de l'industrie cinématographique court à
-compter de la date d'enregistrement par le Centre national de la cinématographie
-du premier bordereau de déclarations de recettes de la dernière salle de
-l'établissement mise en exploitation.
-
-IV.-Un arrêté du ministre compétent précise en tant que de besoin les modalités
-de présentation de la demande.
+g) Un document graphique représentant l'ensemble des façades du projet.

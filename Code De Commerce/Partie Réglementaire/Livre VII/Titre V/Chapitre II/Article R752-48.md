@@ -1,21 +1,13 @@
 Article R752-48
 ----
-Le délai de recours d'un mois prévu à l'article L. 752-17 court :
+Le préfet du département de la commune d'implantation peut constater la carence
+du ou des propriétaires du site à respecter les prescriptions de la présente
+section. Celui-ci dispose d'un délai de quinze jours pour formuler ses
+observations et peut demander à être entendu.
 
-a) Pour le demandeur, à compter de la date de notification de la décision de la
-commission départementale d'aménagement commercial ;
+Le préfet informe l'autorité compétente pour délivrer le permis de construire.
 
-b) Pour le préfet et les membres de la commission, à compter de la date de la
-réunion de la commission ou de la date à laquelle l'autorisation est réputée
-accordée ;
-
-c) Pour le médiateur du cinéma, à compter de la date de notification de la
-décision de la commission départementale d'aménagement commercial statuant en
-matière cinématographique ou de la date de notification de l'attestation du
-préfet lorsque l'autorisation est réputée accordée ;
-
-d) Pour toute autre personne ayant intérêt à agir : - si le recours est exercé
-contre une décision de refus, à compter du premier jour de la période
-d'affichage en mairie ; - si le recours est exercé contre une décision
-d'autorisation, à compter de la plus tardive des mesures de publicité prévues
-aux articles R. 752-25 et R. 752-26.
+Si le ou les propriétaires des immeubles ne respectent pas les prescriptions de
+la présente section, l'autorité compétente pour délivrer le permis de construire
+peut prendre ou faire exécuter les mesures nécessaires, aux frais et risques du
+ou des propriétaires du site.

@@ -1,12 +1,23 @@
 Article R752-13
 ----
-Dès réception de la demande, si le dossier est complet, le préfet fait connaître
-au demandeur son numéro d'enregistrement et la date avant laquelle la décision
-doit lui être notifiée. Le délai d'instruction court, sous réserve des
-dispositions prévues à l'article R. 752-14, à compter du jour de la décharge ou
-de l'avis de réception ou de l'accusé de réception électronique prévus à
-l'article R. 752-12.
+Dix jours au moins avant la réunion, chacun des membres de la commission
+départementale reçoit, par tout moyen, communication du dossier de la demande
+d'autorisation d'exploitation commerciale, accompagnée :
 
-La lettre du préfet avise en outre le demandeur que, si aucune décision ne lui a
-été adressée avant la date mentionnée à l'alinéa précédent, l'autorisation est
-réputée accordée.
+1° De l'arrêté préfectoral fixant la composition de la commission ;
+
+2° De l'ordre du jour de la réunion ;
+
+3° Du récépissé prévu à l'article R. 423-3 du code de l'urbanisme ou de la
+lettre d'enregistrement de la demande prévue à l'article R. 752-12 ;
+
+4° Du formulaire prévu à l'article R. 751-4.
+
+Dans le même délai, la date et l'ordre du jour de la réunion sont publiés au
+recueil des actes administratifs de la préfecture.
+
+Cinq jours au moins avant la réunion, chacun des membres de la commission
+reçoit, par tout moyen, les rapports d'instruction.
+
+La communication de ces documents aux élus appelés à siéger dans la commission
+vaut transmission à leurs représentants.

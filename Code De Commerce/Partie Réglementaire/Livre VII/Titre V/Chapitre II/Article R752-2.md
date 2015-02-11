@@ -1,8 +1,8 @@
 Article R752-2
 ----
-Pour déterminer la surface de vente des établissements exploités par des
-pépiniéristes ou des horticulteurs, seules sont prises en compte les surfaces
-destinées à la vente de produits ne provenant pas de l'exploitation.
+Au sens de l'article L. 752-1, constituent des secteurs d'activité :
 
-Ces produits ne doivent pas être présentés sur plus de cinq espaces distincts et
-clairement délimités.
+1° Le commerce de détail à prédominance alimentaire ;
+
+2° Les autres commerces de détail et les activités de prestation de services à
+caractère artisanal.

@@ -1,32 +1,23 @@
 Article R752-25
 ----
-La décision de la commission est :
+Dix jours au moins avant la réunion, chacun des membres de la commission reçoit,
+par tout moyen, communication de la demande d'avis, accompagnée :
 
-1° Notifiée au demandeur dans le délai de dix jours à compter de la date de la
-réunion de la commission soit par la voie administrative contre décharge, soit
-par lettre recommandée avec demande d'avis de réception, soit par courrier
-électronique dans les conditions prévues au quatrième alinéa du présent article.
+1° De l'arrêté préfectoral fixant la composition de la commission ;
 
-Lorsque les courriers sont adressés au demandeur par lettre recommandée avec
-demande d'avis de réception, l'intéressé est réputé en avoir reçu notification à
-la date de présentation du courrier.
+2° De l'ordre du jour de la réunion ;
 
-Lorsque la demande précise que le demandeur accepte de recevoir à une adresse
-électronique les réponses de l'autorité compétente, les notifications peuvent
-lui être adressées par courrier électronique. Dans ce cas, le demandeur est
-réputé avoir reçu ces notifications à la date à laquelle il les consulte à
-l'aide de la procédure électronique. Un accusé de réception électronique est
-adressé à l'autorité compétente au moment de la consultation du document.A
-défaut de consultation à l'issue d'un délai de trois jours après leur envoi, le
-demandeur est réputé avoir reçu ces notifications.
+3° De la lettre d'enregistrement de la demande prévue à l'article R. 752-24 ;
 
-2° Affichée, à l'initiative du préfet, pendant un mois à la porte de la mairie
-de la commune d'implantation. En cas d'autorisation tacite, une attestation du
-préfet est affichée dans les mêmes conditions.
+4° Du formulaire prévu à l'article R. 751-4 ;
 
-L'exécution de la formalité prévue au 2° fait l'objet d'une mention au recueil
-des actes administratifs de la préfecture.
+5° Des pièces transmises, le cas échéant, par le demandeur.
 
-Lorsqu'elle concerne l'aménagement cinématographique, la décision de la
-commission, ou le cas échéant l'attestation mentionnée au 2°, est notifiée par
-le préfet au médiateur du cinéma dans le délai de dix jours.
+Dans le même délai, la date et l'ordre du jour de la réunion sont publiés au
+recueil des actes administratifs de la préfecture.
+
+Cinq jours au moins avant la réunion, chacun des membres de la commission
+reçoit, par tout moyen, les rapports d'instruction.
+
+La communication de ces documents aux élus appelés à siéger dans la commission
+vaut transmission à leurs représentants.

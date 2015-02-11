@@ -1,19 +1,23 @@
 Article R751-9
 ----
-Le mandat des membres de la Commission nationale d'aménagement commercial n'est
-pas interrompu par les règles concernant la limite d'âge éventuellement
-applicable aux intéressés.
+En cas d'absence ou d'empêchement d'un membre titulaire, le membre suppléant est
+appelé à le remplacer.
 
-En cas d'empêchement d'une durée supérieure à six mois, constaté par son
-président, de démission ou de décès de l'un des membres de la Commission
-nationale d'aménagement commercial, il est procédé, dans les mêmes conditions, à
-la désignation d'un remplaçant pour la durée du mandat restant à courir.
+En cas d'absence ou d'empêchement à six réunions successives sans motifs d'un
+membre, le président peut mettre fin au mandat de ce membre. Dans ce cas,
+l'autorité de nomination désigne un nouveau membre titulaire et un nouveau
+membre suppléant pour la durée du mandat restant à courir.
 
-Si cette nomination intervient moins d'un an avant l'expiration de ce mandat, le
-remplaçant peut accomplir un autre mandat.
+En cas de démission ou de décès d'un membre titulaire de la commission, un
+nouveau membre titulaire et un nouveau membre suppléant sont nommés pour la
+durée du mandat restant à courir. En cas de démission ou de décès d'un membre
+suppléant de la commission, un nouveau membre suppléant est nommé pour la durée
+du mandat restant à courir.
 
-Est déclaré démissionnaire d'office par le président de la commission tout
-membre qui ne remplit pas les obligations prévues à l'article L. 751-7.
+Dans ces deux cas, si ces nominations interviennent moins d'un an avant
+l'expiration de ce mandat, les nouveaux membres peuvent accomplir un autre
+mandat de six ans.
 
-Pour chacun des membres hormis le président, un suppléant est nommé dans les
-mêmes conditions que celles de désignation du membre titulaire.
+Sur demande du président ou de deux de ses membres, la commission délibère sur
+la démission d'office de l'un de ses membres, dans les conditions prévues au IV
+de l'article L. 751-7.

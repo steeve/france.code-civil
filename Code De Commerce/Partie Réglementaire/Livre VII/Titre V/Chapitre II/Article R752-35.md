@@ -1,14 +1,16 @@
 Article R752-35
 ----
-Dans le délai de quinze jours à compter de la date d'enregistrement de la
-demande de l'avis prévu à l'article L. 752-4, les membres de la commission
-départementale d'aménagement commercial reçoivent, par lettre recommandée avec
-demande d'avis de réception, communication :
+La commission nationale se réunit sur convocation de son président.
 
-1° De l'arrêté préfectoral fixant la composition de la commission ;
+Cinq jours au moins avant la réunion, chacun des membres reçoit, par tout moyen,
+l'ordre du jour ainsi que, pour chaque dossier :
 
-2° De la lettre d'enregistrement prévue à l'article R. 752-34 ;
+1° L'avis ou la décision de la commission départementale ;
 
-3° Du formulaire prévu à l'article R. 751-7 ;
+2° Le procès-verbal de la réunion de la commission départementale ;
 
-4° Des pièces transmises, le cas échéant, par le pétitionnaire.
+3° Le rapport des services instructeurs départementaux ;
+
+4° Le ou les recours à l'encontre de l'avis ou de la décision ;
+
+5° Le rapport du service instructeur de la commission nationale.

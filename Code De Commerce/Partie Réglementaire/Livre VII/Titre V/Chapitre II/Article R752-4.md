@@ -1,6 +1,15 @@
 Article R752-4
 ----
-Pour l'application des dispositions prévues aux 4° et 5° du I de l'article L.
-752-1, il n'est pas tenu compte de la surface des pharmacies, des commerces de
-véhicules automobiles et de motocycles et des installations de distribution de
-carburants.
+La demande d'autorisation d'exploitation commerciale est présentée :
+
+a) Soit par le ou les propriétaires du ou des terrains ou immeubles, par toute
+personne justifiant d'un titre du ou des propriétaires l'habilitant à exécuter
+les travaux ou par le mandataire d'une de ces personnes ;
+
+b) Soit par une personne ayant qualité pour bénéficier de l'expropriation pour
+cause d'utilité publique ;
+
+Dans le cas où un permis de construire n'est pas nécessaire, la demande
+d'autorisation d'exploitation commerciale peut également être présentée par
+toute personne justifiant d'un titre du ou des propriétaires l'habilitant à
+exploiter commercialement les immeubles ou par le mandataire de cette personne.

@@ -1,14 +1,8 @@
 Article R752-29
 ----
-La procédure de consultation prévue par l'article L. 752-4 est applicable pour
-les demandes de permis de construire portant sur des projets qui ne sont pas
-soumis à une autorisation d'exploitation commerciale et à condition :
-
--s'il s'agit de la création d'un magasin ou d'un ensemble commercial, que la
-surface de vente de ce magasin ou de cet ensemble commercial soit supérieure à
-300 mètres carrés et inférieure ou égale à 1 000 mètres carrés ;
-
--s'il s'agit de l'extension d'un magasin ou d'un ensemble commercial, que la
-surface de vente du magasin ou de l'ensemble commercial après réalisation de
-l'extension soit supérieure à 300 mètres carrés et inférieure ou égale à 1 000
-mètres carrés.
+Dans les dix jours suivant la réunion de la commission ou la date de l'avis
+tacite, l'avis de la commission est notifié par le représentant de l'Etat dans
+le département au demandeur, à l'autorité compétente pour délivrer le permis de
+construire et, s'il s'agit d'une personne distincte, à l'auteur de la demande
+d'avis soit par lettre recommandée avec demande d'avis de réception, soit par la
+voie administrative contre décharge, soit par courrier électronique.

@@ -1,10 +1,6 @@
 Article R752-26
 ----
-Lorsque la décision accorde l'autorisation demandée, le préfet fait publier, aux
-frais du bénéficiaire, un extrait de cette décision dans deux journaux régionaux
-ou locaux diffusés dans le département.
-
-Il en est de même de l'attestation préfectorale en cas d'autorisation tacite.
-
-En outre, une copie en est adressée à la Caisse nationale du régime social des
-indépendants.
+La commission entend le demandeur à sa demande. Elle peut également entendre, à
+son initiative ou sur demande écrite au secrétariat de la commission, toute
+personne dont l'avis présente un intérêt pour l'examen de l'avis dont elle est
+saisie.

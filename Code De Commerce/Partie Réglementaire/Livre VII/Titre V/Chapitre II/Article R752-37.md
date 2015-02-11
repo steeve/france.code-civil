@@ -1,7 +1,10 @@
 Article R752-37
 ----
-La commission entend le demandeur à sa requête.
+La commission nationale ne peut délibérer que si au moins six de ses membres
+sont présents.
 
-Elle peut entendre toute personne dont l'avis présente un intérêt pour la
-commission et à condition que cet avis soit formulé par écrit et notifié au
-secrétariat de la commission avant la réunion de celle-ci.
+Si ce quorum n'est pas atteint, une seconde réunion est convoquée. La commission
+nationale se réunit au minimum sept jours après la date d'envoi de la seconde
+convocation. La commission nationale ne peut valablement délibérer qu'en
+présence d'au moins quatre de ses membres. Si ce quorum n'est pas atteint, la
+commission nationale est réputée ne pas s'être réunie.

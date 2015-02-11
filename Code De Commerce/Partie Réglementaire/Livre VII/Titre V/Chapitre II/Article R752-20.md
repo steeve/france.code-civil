@@ -1,12 +1,27 @@
 Article R752-20
 ----
-La commission entend le demandeur à sa requête.
+Pour les projets nécessitant un permis de construire, l'autorisation
+d'exploitation commerciale est périmée dans un délai de trois ans à compter de
+la date à laquelle le permis de construire est devenu définitif :
 
-Elle peut entendre toute personne dont l'avis présente un intérêt pour la
-commission.
+1° Pour les surfaces de vente qui n'ont pas été ouvertes au public ;
 
-Toute autre personne souhaitant être entendue par la commission peut en faire la
-demande. Cette demande, formulée par écrit et notifiée au secrétariat de la
-commission au moins cinq jours avant la réunion de celle-ci, doit comporter les
-éléments justifiant, d'une part, de l'intérêt de la personne concernée à être
-entendue et, d'autre part, des motifs qui justifient son audition.
+2° Pour les points permanents de retrait qui n'ont pas été ouverts à la
+clientèle.
+
+Ce délai est prolongé de deux ans pour les projets qui portent sur la
+réalisation de plus de 6 000 mètres carrés de surface de vente.
+
+Pour les projets ne nécessitant pas un permis de construire, l'autorisation
+d'exploitation commerciale est périmée dans un délai de trois ans à compter de
+la notification prévue à l'article R. 752-19 ou, le cas échéant, à l'article R.
+752-39 :
+
+1° Pour les surfaces de vente qui n'ont pas été ouvertes au public ;
+
+2° Pour les points permanents de retrait qui n'ont pas été ouverts à la
+clientèle.
+
+En cas de recours devant la juridiction administrative contre l'autorisation
+d'exploitation commerciale, le délai de trois ans est suspendu jusqu'au prononcé
+d'une décision juridictionnelle définitive.

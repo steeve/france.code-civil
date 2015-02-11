@@ -1,6 +1,8 @@
 Article R752-11
 ----
-La demande de changement de secteur d'activité d'un commerce de détail prévue au
-3° du I de l'article L. 752-1 est accompagnée de tout document justifiant du
-droit du demandeur à exploiter son établissement dans le nouveau secteur
-d'activité.
+Pour les projets ne nécessitant pas de permis de construire, la demande
+accompagnée du dossier est adressée au secrétariat de la commission
+départementale en deux exemplaires, dont un sur support dématérialisé. Elle est
+soit adressée par lettre recommandée avec demande d'avis de réception, soit
+déposée contre décharge, soit envoyée par voie électronique. Dans ce dernier
+cas, l'accusé de réception électronique est adressé sans délai.

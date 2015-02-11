@@ -21,6 +21,10 @@ Un exemplaire supplémentaire du dossier doit être fourni lorsqu'une demande de
 dérogation prévue à l'article L. 111-4-1 du code de la construction et de
 l'habitation est jointe à la demande de permis.
 
+Deux exemplaires supplémentaires du dossier, dont un sur support dématérialisé,
+doivent être fournis lorsque le projet relève de l'article L. 752-1 du code de
+commerce.
+
 Les arrêtés prévus par les articles R. 434-1, R. 444-1 et R. 453-1 peuvent
 prévoir que certaines pièces doivent être en outre fournies en un nombre plus
 important d'exemplaires.

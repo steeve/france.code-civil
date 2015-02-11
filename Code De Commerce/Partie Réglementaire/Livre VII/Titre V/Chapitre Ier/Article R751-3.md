@@ -1,22 +1,17 @@
 Article R751-3
 ----
-Pour assurer la présidence de la commission départementale d'aménagement
-commercial, le préfet peut se faire représenter par un fonctionnaire du corps
-préfectoral affecté dans le département.
+Lorsque la zone de chalandise définie dans le dossier du demandeur dépasse les
+limites d'un département, le préfet du département de la commune d'implantation
+détermine le nombre d'élus et de personnalités qualifiées de chacun des autres
+départements concernés appelés à compléter la commission.
 
-Un arrêté préfectoral désigne des personnalités qualifiées en les répartissant
-au sein de trois collèges établis à raison d'un collège par domaine visé au 2°
-du II et au III de l'article L. 751-2 du présent code.
+Pour chacun des autres départements concernés, le nombre d'élus mentionnés au 1°
+du II et au 1° du III de l'article L. 751-2, qui doivent être des élus de
+communes ou, à Paris, d'arrondissements situés dans la zone de chalandise du
+projet, ne peut excéder cinq et le nombre de personnalités qualifiées
+mentionnées au 2° du II et au 2° du III de l'article L. 751-2 ne peut excéder
+deux.
 
-Ces personnalités exercent un mandat de trois ans et ne peuvent, sauf en ce qui
-concerne les membres du comité consultatif de diffusion cinématographique
-mentionnés au IV de l'article précité, effectuer plus de deux mandats
-consécutifs.
-
-Pour chaque demande d'autorisation, le préfet nomme pour siéger à la commission
-une personnalité qualifiée au sein de chacun des collèges.
-
-Si elles perdent la qualité en vertu de laquelle elles ont été désignées ou en
-cas de démission, de décès ou de déménagement hors des frontières du
-département, les personnalités qualifiées sont immédiatement remplacées pour la
-durée du mandat restant à courir.
+Sur proposition du préfet de chacun des autres départements concernés, le préfet
+du département de la commune d'implantation désigne les membres mentionnés au
+premier alinéa.

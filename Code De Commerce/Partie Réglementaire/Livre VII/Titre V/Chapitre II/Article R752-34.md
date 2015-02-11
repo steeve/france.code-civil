@@ -1,12 +1,9 @@
 Article R752-34
 ----
-Dès réception de la demande de l'avis prévu à l'article L. 752-4, le préfet fait
-connaître au demandeur du permis de construire son numéro d'enregistrement et le
-délai imparti à la commission pour statuer.
+Le délai de quatre mois prévu aux I et II de l'article L. 752-17 court à compter
+de la réception du recours par le secrétariat de la commission nationale.
 
-Le délai d'instruction court à compter du jour de la décharge ou de l'avis de
-réception prévu au deuxième alinéa de l'article R. 752-32.
-
-La lettre du préfet informe en outre le demandeur que, si aucun avis ne lui a
-été adressé avant la date visée à l'alinéa précédent, l'avis est réputé
-favorable.
+Quinze jours au moins avant la réunion de la commission nationale, les parties
+sont convoquées à la réunion et informées que la commission nationale ne tiendra
+pas compte des pièces qui seraient produites moins de dix jours avant la
+réunion, à l'exception des pièces émanant des autorités publiques.

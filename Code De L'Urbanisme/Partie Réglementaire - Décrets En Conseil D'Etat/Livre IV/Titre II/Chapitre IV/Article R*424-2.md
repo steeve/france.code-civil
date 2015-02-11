@@ -25,18 +25,18 @@ le coeur d'un futur parc national dont la création a été prise en considérat
 en application de l'article R*331-4 du code de l'environnement ou dans le coeur
 d'un parc national délimité en application de l'article L. 331-2 du même code ;
 
-g) Lorsque la délivrance du permis est subordonnée, en application des articles
-L. 752-1 à L. 752-3 du code de commerce, à une autorisation d'exploitation
-commerciale ou, en application de l'article 30-2 du code de l'industrie
-cinématographique, à une autorisation de création, d'extension ou de réouverture
-au public d'établissements de spectacles cinématographiques et que la demande a
-fait l'objet d'un refus de la commission départementale compétente ;
+g) Lorsque la délivrance du permis est subordonnée, en application de l'article
+L. 212-7 du code du cinéma et de l'image animée, à une autorisation de création,
+d'extension ou de réouverture au public d'établissements de spectacles
+cinématographiques et que la demande a fait l'objet d'un refus de la commission
+départementale compétente ;
 
-h) Lorsque le projet a été soumis pour avis à la commission départementale
-d'aménagement commercial en application de l'article L. 752-4 du code de
-commerce, en cas d'avis défavorable de la commission départementale
-d'aménagement commercial ou, le cas échéant, de la Commission nationale
-d'aménagement commercial ;
+h) Si le permis ne relève pas de la compétence de l'Etat, lorsque le projet
+relève de l'article L. 425-4 ou a été soumis pour avis à la commission
+départementale d'aménagement commercial sur le fondement de l'article L. 752-4
+du code de commerce et que la commission départementale d'aménagement commercial
+ou, le cas échéant, de la Commission nationale d'aménagement commercial a rendu
+un avis défavorable ;
 
 i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit ;
 

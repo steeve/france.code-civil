@@ -1,17 +1,10 @@
 Article R752-21
 ----
-La commission départementale d'aménagement commercial ne peut délibérer que si
-au moins cinq de ses membres sont présents. Si ce quorum n'est pas atteint, il
-est procédé, sur le même ordre du jour, à une nouvelle convocation de la
-commission. Celle-ci ne peut valablement délibérer, à l'expiration d'un délai de
-trois jours après cette convocation, que si au moins quatre de ses membres sont
-présents.
+La procédure prévue à l'article L. 752-4 est applicable à toute demande de
+permis de construire relative à un projet de création ou d'extension, dans une
+commune de moins de 20 000 habitants, d'un magasin de commerce de détail ou d'un
+ensemble commercial dont la surface de vente globale, en cas de réalisation du
+projet, serait comprise entre 300 et 1 000 mètres carrés.
 
-Lorsqu'elle statue sur un projet dont la zone de chalandise ou la zone
-d'influence cinématographique dépasse les limites du département, la commission
-ne peut délibérer que si au moins la majorité de ses membres sont présents. Si
-ce quorum n'est pas atteint, il est procédé, sur le même ordre du jour, à une
-nouvelle convocation de la commission. Celle-ci ne peut valablement délibérer, à
-l'expiration d'un délai de cinq jours après cette convocation, qu'en présence,
-au moins, de quatre membres du département d'implantation et d'un tiers des
-membres de la commission.
+L'article R. 751-3 n'est pas applicable à la procédure prévue à l'article L.
+752-4.

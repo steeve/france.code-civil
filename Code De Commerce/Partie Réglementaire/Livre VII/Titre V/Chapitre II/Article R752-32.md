@@ -1,12 +1,17 @@
 Article R752-32
 ----
-La demande de l'avis prévu à l'article L. 752-4 est présentée par l'autorité
-compétente pour délivrer le permis de construire ou par le président de
-l'établissement public de coopération intercommunale ou par le président du
-syndicat mixte visé aux articles L. 122-4 et L. 122-4-1 du code de l'urbanisme.
-Cette demande est motivée et est accompagnée de la délibération mentionnée au
-troisième alinéa de l'article L. 752-4.
+A peine d'irrecevabilité de son recours, dans les cinq jours suivant sa
+présentation à la commission nationale, le requérant, s'il est distinct du
+demandeur de l'autorisation d'exploitation commerciale, communique son recours à
+ce dernier soit par lettre recommandée avec demande d'avis de réception, soit
+par tout moyen sécurisé.
 
-La demande d'avis est soit adressée au préfet sous pli recommandé avec demande
-d'avis de réception, soit déposée contre décharge au secrétariat de la
-commission.
+S'il n'en est pas l'auteur, le préfet du département de la commune
+d'implantation est informé du dépôt du recours par le secrétariat de la
+commission nationale. Le préfet informe, par tout moyen, les membres de la
+commission départementale.
+
+Pour les projets nécessitant un permis de construire, dans les sept jours francs
+suivant la réception du recours, le secrétariat de la commission nationale
+informe, par tout moyen, l'autorité compétente en matière de permis de
+construire du dépôt du recours.

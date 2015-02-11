@@ -1,11 +1,23 @@
 Article R752-36
 ----
-Trois jours au moins avant la réunion, les membres titulaires de la commission
-départementale d'aménagement commercial reçoivent, par lettre recommandée avec
-demande d'avis de réception, communication de l'ordre du jour, accompagné des
-rapports d'instruction élaborés par les services visés au deuxième alinéa de
-l'article R. 752-16.
+La commission nationale peut recevoir des contributions écrites.
 
-En ce qui concerne les élus locaux appelés à siéger à la commission
-départementale d'aménagement commercial, la communication de ces documents à ces
-derniers vaut transmission à leurs représentants.
+La commission nationale entend toute personne qui en fait la demande écrite au
+secrétariat, en justifiant les motifs de son audition, au moins cinq jours avant
+la réunion.
+
+Sont dispensés de justifier les motifs de leur audition : l'auteur du recours
+devant la commission nationale, le demandeur, le maire de la commune
+d'implantation, le président de l'établissement public de coopération
+intercommunale à fiscalité propre dont est membre la commune d'implantation et
+le président de l'établissement public compétent en matière de schéma de
+cohérence territoriale dont est membre la commune d'implantation.
+
+La commission nationale peut entendre toute autre personne qu'elle juge utile de
+consulter. Elle peut entendre en deux groupes distincts les personnes
+défavorables et favorables au projet.
+
+Le secrétariat de la commission nationale instruit et rapporte les dossiers. Le
+commissaire du Gouvernement présente et communique à la commission nationale les
+avis des ministres chargés de l'urbanisme et du commerce. Après audition des
+parties, il donne son avis sur les demandes.

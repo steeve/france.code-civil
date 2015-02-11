@@ -4,7 +4,8 @@ La demande de permis de construire comprend :
 
 a) Les informations mentionnées aux articles R. 431-5 à R. 431-12 ;
 
-b) Les pièces complémentaires mentionnées aux articles R. 431-13 à R. 431-33 ;
+b) Les pièces complémentaires mentionnées aux articles R. 431-13 à R. * 431-33-1
+;
 
 c) Les informations prévues à l'article R. 431-34.
 

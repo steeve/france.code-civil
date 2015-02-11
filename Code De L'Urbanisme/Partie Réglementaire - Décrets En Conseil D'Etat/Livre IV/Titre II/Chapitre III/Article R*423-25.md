@@ -13,7 +13,10 @@ alinéa de l'article L. 111-3 du code rural et de la pêche maritime ;
 
 d) Lorsque le demandeur a joint à sa demande de permis de construire une demande
 de dérogation prévue à l'article L. 111-4-1 du code de la construction et de
-l'habitation.
+l'habitation ;
+
+e) Lorsque le permis porte sur un projet soumis à autorisation d'exploitation
+commerciale au sens de l'article L. 752-1 du code de commerce.
 
 Ces majorations de délai ne sont pas cumulables avec celle prévue par l'article
 R*423-24.
