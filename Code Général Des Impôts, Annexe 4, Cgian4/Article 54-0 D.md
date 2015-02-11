@@ -25,7 +25,9 @@ e) Les opérateurs peuvent substituer une capsule générique de couleur lie-de-
 (Pantone 209 C) aux capsules de couleur verte ou bleue. Cette possibilité ne
 concerne pas les vins mousseux à appellation d'origine contrôlée "Champagne",
 les vins doux naturels à appellation d'origine contrôlée, ni les boissons
-fiscalement assimilées au vin (cas prévus aux a et b).
+fiscalement assimilées au vin (cas prévus aux a et b) ;
+
+f) Jaune d'or (Pantone 1225 C) pour le cognac et l'armagnac.
 
 Les couleurs du fond et de ces indications doivent être suffisamment contrastées
 pour en permettre une lecture aisée.
