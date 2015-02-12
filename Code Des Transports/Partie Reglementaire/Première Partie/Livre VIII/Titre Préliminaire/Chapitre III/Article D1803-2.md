@@ -7,4 +7,6 @@ répondant aux conditions d'éligibilité fixées en application des articles L.
 1803-2 et L. 1803-3 peuvent obtenir une aide pour financer une partie du coût du
 déplacement aller et retour en transport aérien au départ de leur collectivité
 vers la France métropolitaine. Le montant de l'aide versée aux personnes
-éligibles varie en fonction des ressources de celles-ci.
+éligibles varie en fonction des ressources de celles-ci. La décision accordant
+une aide à la continuité territoriale vers la France métropolitaine précède la
+réservation du titre de transport.
