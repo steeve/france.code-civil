@@ -1,11 +1,15 @@
 Article L346-2
 ----
-Pour l'application des dispositions énumérées à l'article L. 346-1 : 1° La
-référence au département est remplacée par la référence aux îles Wallis et
-Futuna ; 2° La référence au représentant de l'Etat dans le département est
-remplacée par la référence à l'administrateur supérieur des îles Wallis et
-Futuna ; 3° Les montants exprimés en euros sont applicables dans les îles Wallis
-et Futuna sous réserve de leur contre-valeur en monnaie locale ;
+Pour l'application des dispositions énumérées à l'article L. 346-1 :
+
+1° La référence au département est remplacée par la référence aux îles Wallis et
+Futuna ;
+
+2° La référence au représentant de l'Etat dans le département est remplacée par
+la référence à l'administrateur supérieur des îles Wallis et Futuna ;
+
+3° Les montants exprimés en euros sont applicables dans les îles Wallis et
+Futuna sous réserve de leur contre-valeur en monnaie locale ;
 
 3° bis A l'article L. 312-1, après les mots : " par la fédération sportive ayant
 reçu, au titre de l'article L. 131-14 du code du sport, délégation du ministre
@@ -23,4 +27,7 @@ applicables localement ” ;
 762-1 et L. 762-2 du code de commerce ” sont remplacés par les mots : "
 dispositions applicables localement ” ;
 
-4° Le 2° de l'article L. 324-4est supprimé.
+4° A l'article L. 322-3, les mots : "le maire de la commune" sont remplacés par
+les mots : "l'administrateur supérieur des îles Wallis et Futuna" ;
+
+5° Le 2° de l'article L. 324-4est supprimé.

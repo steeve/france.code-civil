@@ -13,10 +13,10 @@ S'il devient nécessaire ou s'il est de l'intérêt de la personne protégée qu
 soit disposé des droits relatifs à son logement ou à son mobilier par
 l'aliénation, la résiliation ou la conclusion d'un bail, l'acte est autorisé par
 le juge ou par le conseil de famille s'il a été constitué, sans préjudice des
-formalités que peut requérir la nature des biens. L'avis préalable d'un médecin
-inscrit sur la liste prévue à l'article 431 est requis si l'acte a pour finalité
-l'accueil de l'intéressé dans un établissement. Dans tous les cas, les
-souvenirs, les objets à caractère personnel, ceux indispensables aux personnes
-handicapées ou destinés aux soins des personnes malades sont gardés à la
-disposition de l'intéressé, le cas échéant par les soins de l'établissement dans
-lequel celui-ci est hébergé.
+formalités que peut requérir la nature des biens. Si l'acte a pour finalité
+l'accueil de l'intéressé dans un établissement, l'avis préalable d'un médecin,
+n'exerçant pas une fonction ou n'occupant pas un emploi dans cet établissement,
+est requis. Dans tous les cas, les souvenirs, les objets à caractère personnel,
+ceux indispensables aux personnes handicapées ou destinés aux soins des
+personnes malades sont gardés à la disposition de l'intéressé, le cas échéant
+par les soins de l'établissement dans lequel celui-ci est hébergé.

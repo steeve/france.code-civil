@@ -5,8 +5,9 @@ mentionnées à l'article L. 121-3 du code de la route a été adressé au titul
 du certificat d'immatriculation ou aux personnes visées aux trois derniers
 alinéas de l'article L. 121-2 de ce code, la requête en exonération prévue par
 l'article 529-2 ou la réclamation prévue par l'article 530 n'est recevable que
-si elle est adressée par lettre recommandée avec demande d'avis de réception et
-si elle est accompagnée :
+si elle est adressée par lettre recommandée avec demande d'avis de réception, en
+utilisant le formulaire joint à l'avis d'amende forfaitaire, et si elle est
+accompagnée :
 
 1° Soit de l'un des documents suivants :
 
@@ -33,3 +34,7 @@ l'article L. 223-1 du code de la route.
 
 L'officier du ministère public vérifie si les conditions de recevabilité de la
 requête ou de la réclamation prévues par le présent article sont remplies.
+
+Les requêtes et les réclamations prévues au présent article peuvent également
+être adressées de façon dématérialisée, selon des modalités précisées par
+arrêté.

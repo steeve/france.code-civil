@@ -6,5 +6,5 @@ dans les conditions fixées par décret en Conseil d'Etat.
 Lorsqu'il a été déchu de la vente, il doit payer, à titre de dommages et
 intérêts, sans préjudice de la restitution des fruits, une amende égale au
 dixième de la somme exigible, sans que cette amende puisse être inférieure au
-vingtième du prix de la vente. Dans le cas de vente par adjudication, il n'est
-pas tenu à la folle enchère.
+vingtième du prix de la vente. Dans le cas de vente par adjudication, il n'y a
+pas lieu à réitération des enchères.

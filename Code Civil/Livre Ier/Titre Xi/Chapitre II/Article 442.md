@@ -5,8 +5,9 @@ Le juge peut renouveler la mesure pour une même durée.
 Toutefois, lorsque l'altération des facultés personnelles de l'intéressé décrite
 à l'article 425 n'apparaît manifestement pas susceptible de connaître une
 amélioration selon les données acquises de la science, le juge peut, par
-décision spécialement motivée et sur avis conforme du médecin mentionné à
-l'article 431, renouveler la mesure pour une durée plus longue qu'il détermine.
+décision spécialement motivée et sur avis conforme d'un médecin inscrit sur la
+liste mentionnée à l'article 431, renouveler la mesure pour une durée plus
+longue qu'il détermine, n'excédant pas vingt ans.
 
 Le juge peut, à tout moment, mettre fin à la mesure, la modifier ou lui
 substituer une autre mesure prévue au présent titre, après avoir recueilli

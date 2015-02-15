@@ -15,7 +15,7 @@ copie du récépissé signé par l'intéressé. L'intégralité du rapport peut 
 être notifiée, à leur demande, aux avocats des parties par lettre recommandée.
 Si les avocats des parties ont fait connaître au juge d'instruction qu'ils
 disposent d'une adresse électronique, l'intégralité du rapport peut leur être
-adressée par cette voie, selon les modalités prévues par l'article 803-1.
+adressée par cette voie, selon les modalités prévues au I de l'article 803-1.
 
 Dans tous les cas, le juge d'instruction fixe un délai aux parties pour
 présenter des observations ou formuler une demande, notamment aux fins de

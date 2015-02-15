@@ -23,7 +23,7 @@ entendus comme témoins.
 L'action en responsabilité exercée par la victime, ses parents ou ses ayants
 droit, intentée contre l'Etat, ainsi responsable du dommage, est portée devant
 le tribunal de l'ordre judiciaire du lieu où le dommage a été causé et dirigée
-contre le représentant de l'Etat dans le département.
+contre l'autorité académique compétente.
 
 La prescription en ce qui concerne la réparation des dommages prévus par le
 présent article est acquise par trois années à partir du jour où le fait

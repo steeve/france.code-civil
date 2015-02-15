@@ -20,7 +20,11 @@ biens périssables, à charge de justifier que les fonds ont été employés à
 éteindre les dettes visées au 1° ou ont été déposés chez un notaire ou consignés
 ;
 
-3° L'acte destiné à éviter l'aggravation du passif successoral.
+3° L'acte destiné à éviter l'aggravation du passif successoral ;
+
+4° Les actes liés à la rupture du contrat de travail du salarié du particulier
+employeur décédé, le paiement des salaires et indemnités dus au salarié ainsi
+que la remise des documents de fin de contrat.
 
 Sont réputés être des actes d'administration provisoire les opérations courantes
 nécessaires à la continuation à court terme de l'activité de l'entreprise

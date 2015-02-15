@@ -1,10 +1,11 @@
 Article 500
 ----
-Sur proposition du tuteur, le conseil de famille ou, à défaut, le juge arrête le
-budget de la tutelle en déterminant, en fonction de l'importance des biens de la
-personne protégée et des opérations qu'implique leur gestion, les sommes
-annuellement nécessaires à l'entretien de celle-ci et au remboursement des frais
-d'administration de ses biens.
+Le tuteur arrête le budget de la tutelle en déterminant, en fonction de
+l'importance des biens de la personne protégée et des opérations qu'implique
+leur gestion, les sommes annuellement nécessaires à l'entretien de celle-ci et
+au remboursement des frais d'administration de ses biens. Le tuteur en informe
+le conseil de famille ou, à défaut, le juge. En cas de difficultés, le budget
+est arrêté par le conseil de famille ou, à défaut, par le juge.
 
 Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à inclure
 dans les frais de gestion la rémunération des administrateurs particuliers dont

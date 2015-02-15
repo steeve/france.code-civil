@@ -21,8 +21,9 @@ ou, si elles n'ont pas d'avocat, les parties peuvent se faire délivrer copie de
 tout ou partie des pièces et actes du dossier. La délivrance de cette copie doit
 intervenir dans le mois qui suit la demande. Si le dossier a fait l'objet d'une
 numérisation, cette copie est remise sous forme numérisée, le cas échéant par un
-moyen de télécommunication selon les modalités prévues à l'article 803-1. La
-délivrance de la première copie de chaque pièce ou acte du dossier est gratuite.
+moyen de télécommunication selon les modalités prévues au I de l'article 803-1.
+La délivrance de la première copie de chaque pièce ou acte du dossier est
+gratuite.
 
 Lorsque la copie a été directement demandée par la partie, celle-ci doit
 attester par écrit avoir pris connaissance des dispositions du sixième alinéa du
