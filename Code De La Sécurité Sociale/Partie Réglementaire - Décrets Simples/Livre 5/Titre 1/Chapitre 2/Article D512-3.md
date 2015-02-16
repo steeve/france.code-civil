@@ -3,11 +3,12 @@ Article D512-3
 I. ― Le montant de l'allocation différentielle prévue à l'article L. 512-5 est
 égal à la différence entre le montant de l'ensemble des prestations familiales
 qui auraient été dues en application de la législation française, parmi celles
-énumérées à l'article L. 511-1 à l'exception de l'allocation de logement, et le
-montant de l'ensemble des prestations ou avantages familiaux versés en
-application d'un traité, d'une convention ou d'un accord international auquel la
-France est partie, de la législation ou de la réglementation d'un autre Etat, ou
-de la réglementation d'une organisation internationale.
+énumérées à l'article L. 511-1 à l'exception de l'allocation de logement et de
+la prime à la naissance ou à l'adoption, et le montant de l'ensemble des
+prestations ou avantages familiaux versés en application d'un traité, d'une
+convention ou d'un accord international auquel la France est partie, de la
+législation ou de la réglementation d'un autre Etat, ou de la réglementation
+d'une organisation internationale.
 
 II. ― Ce dernier montant est obtenu à partir d'une attestation délivrée par
 l'organisme étranger ou l'organisation versant les prestations ou avantages
