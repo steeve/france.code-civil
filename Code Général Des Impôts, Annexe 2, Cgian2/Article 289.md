@@ -236,4 +236,7 @@ mentionnée au I de l'article 164 AU de l'annexe IV, prévue à l'article 164 AW
 la même annexe ;
 
 55° Décisions relatives aux réclamations contentieuses, prévues à l'article R. *
-198-10 du livre des procédures fiscales.
+198-10 du livre des procédures fiscales ;
+
+56° Délivrance et retrait de l'agrément d'acheteur-revendeur de tabacs
+manufacturés prévu à l'article 568 du code général des impôts.
