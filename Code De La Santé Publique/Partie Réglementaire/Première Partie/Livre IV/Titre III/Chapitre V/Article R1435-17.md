@@ -19,4 +19,7 @@ santé et de centres de santé ;
 professionnels de santé, des maisons de santé, des pôles de santé et des centres
 de santé ;
 
-6° Les centres périnataux de proximité mentionnés à l'article R. 6123-50.
+6° Les centres périnataux de proximité mentionnés à l'article R. 6123-50 ;
+
+7° Les dotations versées aux établissements de santé en application du II de
+l'article R. 162-42-7-1 du code de la sécurité sociale.

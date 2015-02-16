@@ -6,7 +6,8 @@ de santé arrête, pour chaque établissement, d'une part le montant des forfait
 annuels mentionnés à l'article L. 162-22-12 et, d'autre part le montant annuel
 de la dotation de financement des missions d'intérêt général et d'aide à la
 contractualisation mentionnée à l'article L. 162-22-14 dans le respect de sa
-dotation régionale.
+dotation régionale ainsi que, le cas échéant, les forfaits et dotations
+attribués en application de l'article L. 162-22-8-1.
 
 Ces forfaits et dotations sont versés en douze allocations mensuelles.
 
