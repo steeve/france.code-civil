@@ -36,3 +36,7 @@ Toutefois, les associations doivent recevoir mandat de leurs membres en vue de
 la télétransmission des déclarations de résultats, de leurs annexes et des
 autres documents les accompagnant selon la procédure prévue par le système de
 transfert des données fiscales et comptables.
+
+Les associations peuvent fournir à des professionnels non adhérents des services
+de dématérialisation et de télétransmission de leurs déclarations fiscales, à
+l'occasion de leur première déclaration par cette voie.
