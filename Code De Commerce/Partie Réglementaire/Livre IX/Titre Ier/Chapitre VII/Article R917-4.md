@@ -1,4 +1,10 @@
 Article R917-4
 ----
-Au deuxième alinéa de l'article R. 711-68, les mots : "avec les délégués
-consulaires" sont supprimés.
+A l'article R. 711-13 :
+
+a) Le deuxième alinéa est ainsi rédigé :
+
+" Le président et les deux vice-présidents représentent chacun des trois
+collèges prévus à l'article L. 917-1-1. " ;
+
+b) Le troisième alinéa n'est pas applicable.

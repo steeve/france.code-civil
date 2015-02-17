@@ -1,3 +1,6 @@
 Article R917-10
 ----
-Le 2° du II de l'article R. 713-66 n'est pas applicable.
+Au premier alinéa de l'article R. 712-1, les mots : " des établissements du
+réseau des chambres de commerce et d'industrie " sont remplacés par les mots : "
+de la chambre d'agriculture, de commerce, d'industrie, de métiers et de
+l'artisanat de Saint-Pierre-et-Miquelon ".
