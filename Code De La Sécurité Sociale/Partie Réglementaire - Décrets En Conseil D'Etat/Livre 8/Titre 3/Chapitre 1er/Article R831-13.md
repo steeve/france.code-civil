@@ -11,22 +11,16 @@ alinéa ou lorsque le propriétaire n'a pas produit l'attestation mentionnée au
 de l'article R. 831-11, l'allocation de logement peut être accordée, à titre
 dérogatoire, par l'organisme payeur ;
 
-a) Aux personnes locataires, pour une durée de six mois, pour lui permettre de
-demander la mise en conformité du logement dans les conditions fixées à
-l'article 20-1 de la loi du 6 juillet 1989 susvisée ou d'engager une action en
-justice en application du c de l'article 6 de la même loi. L'organisme payeur
-doit en informer son conseil d'administration et le préfet. En cas de refus de
-dérogation, le préfet doit également être tenu informé ;
-
-b) Aux personnes logées en hôtel meublé ou en pension de famille, pour une durée
+a) Aux personnes logées en hôtel meublé ou en pension de famille, pour une durée
 d'un an. L'organisme payeur doit en informer son conseil d'administration et le
 préfet.
 
-Le préfet désigne alors, dans le cadre du plan départemental pour le logement
-des personnes défavorisées mentionné aux article 2 et suivants de la loi n°
-90-449 du 31 mai 1990, un organisme privé ou public aux fins de proposer au
-propriétaire une solution adaptée d'amélioration du logement ou à l'allocataire
-une solution de relogement correspondant à ses besoins et à ses possibilités.
+Le préfet désigne alors, dans le cadre du plan local d'action pour le logement
+et l'hébergement des personnes défavorisées mentionné aux article 2 et suivants
+de la loi n° 90-449 du 31 mai 1990, un organisme privé ou public aux fins de
+proposer au propriétaire une solution adaptée d'amélioration du logement ou à
+l'allocataire une solution de relogement correspondant à ses besoins et à ses
+possibilités.
 
 Cette dérogation peut être prorogée pour six mois par le conseil
 d'administration de l'organisme payeur si les travaux de mise aux normes, bien
@@ -36,12 +30,11 @@ pris effet dans le même délai.
 
 En cas de refus de dérogation, le préfet doit également être tenu informé.
 
-c) Aux personnes mentionnées à l'article R. 831-22. L'organisme payeur doit en
-informer son conseil d'administration et le préfet.
+b) Aux personnes mentionnées à l'article R. 831-22 pour une durée de dix-huit
+mois renouvelable une fois. L'organisme payeur doit en informer son conseil
+d'administration et le préfet.
 
-Ce dernier saisit le comité de pilotage du plan départemental pour le logement
-des personnes défavorisées mentionné ci-dessus afin qu'il examine avec
-l'allocataire une solution adaptée d'amélioration du logement. La dérogation est
-maintenue, sauf avis contraire du comité de pilotage.
-
-En cas de refus de dérogation, le préfet doit également être tenu informé.
+Il en informe également le comité responsable du plan local d'action pour le
+logement et l'hébergement des personnes défavorisées mentionné ci-dessus afin
+que ce dernier examine avec l'allocataire une solution adaptée d'amélioration du
+logement ou une solution de relogement.

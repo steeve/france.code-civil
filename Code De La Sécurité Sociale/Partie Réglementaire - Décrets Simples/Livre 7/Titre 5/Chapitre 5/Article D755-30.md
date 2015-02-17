@@ -11,9 +11,9 @@ la reçoit la déduit du montant du loyer et des dépenses accessoires de logeme
 ou de celui des charges de remboursement et informe l'allocataire de cette
 déduction.
 
-En aucun cas, toutefois, lorsqu'il est fait application de la dérogation prévue
-au premier alinéa de l'article D. 755-37, l'allocation de logement ne peut être
-versée entre les mains du bailleur ou du prêteur.
+En aucun cas, toutefois, lorsqu'il est fait application des dérogations prévues
+aux articles D. 542-2 et D. 755-37, l'allocation de logement ne peut être versée
+entre les mains du bailleur ou du prêteur.
 
 En cas de non-paiement du loyer ou des mensualités d'amortissement et d'intérêts
 des dettes contractées en vue d'accéder à la propriété pendant une durée au
