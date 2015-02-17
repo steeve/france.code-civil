@@ -18,6 +18,13 @@ remboursement d'un acte ou d'un traitement par un organisme de sécurité social
 le silence gardé pendant plus de quinze jours par cet organisme sur la demande
 de prise en charge vaut décision d'acceptation.
 
+I bis. ― Les procédures d'inscription sur la liste et de tarification prévues
+aux articles L. 162-1-7-1 et L. 162-1-8 s'appliquent aux actes innovants
+nécessaires à l'utilisation ou à la prise en charge par l'assurance maladie d'un
+dispositif médical pour lesquels la Haute Autorité de santé a prononcé en
+application du c du 2° de l'article R. 162-52-1 une amélioration du service
+attendu majeure, importante ou modérée.
+
 II. ― Avant de procéder aux consultations rendues obligatoires par le troisième
 alinéa de l'article L. 162-1-7, l'Union nationale des caisses d'assurance
 maladie informe de son intention d'inscrire un acte ou une prestation, d'en
@@ -41,7 +48,11 @@ service attendu ou rendu est majeure ou importante, au sens des articles R.
 165-11 et R. 165-11-1, l'avis de l'Union nationale des organismes d'assurance
 maladie complémentaire est rendu au plus tard vingt et un jours à compter de la
 date à laquelle elle a été saisie par l'Union nationale des caisses d'assurance
-maladie. Passé ce délai, l'avis est réputé rendu.
+maladie. Ce délai s'applique également lorsque l'acte est nécessaire à
+l'utilisation ou à la prise en charge par l'assurance maladie d'un dispositif
+médical et que sont applicables les procédures prévues au deuxième alinéa de
+l'article L. 162-1-7-1 et à l'article L. 162-1-8. Passé ce délai, l'avis est
+réputé rendu.
 
 Ces avis sont adressés aux ministres chargés de la santé et de la sécurité
 sociale, à l'Union nationale des caisses d'assurance maladie, ainsi qu'aux

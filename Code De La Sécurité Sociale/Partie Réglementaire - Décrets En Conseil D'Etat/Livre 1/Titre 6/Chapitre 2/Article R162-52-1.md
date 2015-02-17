@@ -1,6 +1,6 @@
 Article R162-52-1
 ----
-I. - Les actes ou prestations sont inscrits sur la liste prévue à l'article L.
+I.-Les actes ou prestations sont inscrits sur la liste prévue à l'article L.
 162-1-7 au vu de l'avis de la Haute Autorité mentionné à l'article au a du 1° de
 l'article R. 161-71.
 
@@ -32,7 +32,9 @@ c) L'appréciation de l'amélioration du service attendu par rapport aux
 traitements thérapeutiques alternatifs de référence selon les données actuelles
 de la science, notamment au regard de l'efficience comparée de ces traitements.
 L'amélioration du service attendu est évaluée dans chacune des indications, le
-cas échéant par groupe de population ;
+cas échéant par groupe de population. Cette évaluation conduit à considérer
+l'amélioration du service attendu comme majeure, importante, modérée, mineure ou
+à en constater l'absence ;
 
 d) L'estimation du nombre de patients relevant des indications thérapeutiques
 pour lesquelles la Haute Autorité estime fondée l'inscription, ainsi que
@@ -67,7 +69,7 @@ Cet avis préconise, le cas échéant, de soumettre la réalisation de l'acte ou
 la prestation à l'accord préalable du service médical en application des
 dispositions prévues par l'article L. 315-2.
 
-II. - Pour la première inscription sur la liste d'un acte ou d'une prestation
+II.-Pour la première inscription sur la liste d'un acte ou d'une prestation
 précédemment inscrit à la nomenclature générale des actes professionnels ou
 régulièrement assimilé à celle-ci, la Haute Autorité de santé peut, à l'occasion
 de la première attribution à chacun d'entre eux de leur numéro de code prévu par
