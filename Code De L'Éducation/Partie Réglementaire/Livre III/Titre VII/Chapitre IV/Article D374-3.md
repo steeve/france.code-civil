@@ -4,9 +4,10 @@ Les articles D. 312-48-1, D. 321-18 à D. 321-27, D. 331-23 à D. 331-43, D.
 331-46 à D. 331-61, D. 332-1 à D. 332-6, les deux premiers alinéas de l'article
 D. 332-7, les articles D. 332-8 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.
 334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D.
-337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111 et D. 337-113
-à D. 337-160 sont applicables en Nouvelle-Calédonie sous réserve des adaptations
-prévues aux 1° à 4° du présent article et aux articles D. 374-4 et D. 374-5 :
+337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111, D. 337-113 à
+D. 337-160 et D. 338-43 à D. 338-47 sont applicables en Nouvelle-Calédonie sous
+réserve des adaptations prévues aux 1° à 4° du présent article et aux articles
+D. 374-4 et D. 374-5 :
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des
 services départementaux de l'éducation nationale " sont remplacés par le mot : "
