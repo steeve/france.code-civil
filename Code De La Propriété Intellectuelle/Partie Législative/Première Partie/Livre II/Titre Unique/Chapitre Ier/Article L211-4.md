@@ -1,30 +1,42 @@
 Article L211-4
 ----
-La durée des droits patrimoniaux objets du présent titre est de cinquante années
-à compter du 1er janvier de l'année civile suivant celle :
+I.-La durée des droits patrimoniaux des artistes-interprètes est de cinquante
+années à compter du 1er janvier de l'année civile suivant celle de
+l'interprétation.
 
-1° De l'interprétation pour les artistes-interprètes. Toutefois, si une fixation
-de l'interprétation fait l'objet d'une mise à disposition du public, par des
-exemplaires matériels, ou d'une communication au public pendant la période
-définie au premier alinéa, les droits patrimoniaux de l'artiste-interprète
-n'expirent que cinquante ans après le 1er janvier de l'année civile suivant le
-premier de ces faits ;
+Toutefois, si, durant cette période, une fixation de l'interprétation dans un
+vidéogramme ou un phonogramme fait l'objet d'une mise à la disposition du
+public, par des exemplaires matériels, ou d'une communication au public, les
+droits patrimoniaux de l'artiste-interprète expirent :
 
-2° De la première fixation d'une séquence de son pour les producteurs de
-phonogrammes. Toutefois, si un phonogramme fait l'objet, par des exemplaires
-matériels, d'une mise à disposition du public pendant la période définie au
-premier alinéa, les droits patrimoniaux du producteur du phonogramme n'expirent
-que cinquante ans après le 1er janvier de l'année civile suivant ce fait. En
-l'absence de mise à disposition du public, ses droits expirent cinquante ans
-après le 1er janvier de l'année civile suivant la première communication au
-public ;
+1° Pour une interprétation fixée dans un vidéogramme, cinquante ans après le 1er
+janvier de l'année civile suivant le premier de ces faits ;
 
-3° De la première fixation d'une séquence d'images sonorisées ou non pour les
-producteurs de vidéogrammes. Toutefois, si un vidéogramme fait l'objet, par des
-exemplaires matériels, d'une mise à disposition du public ou d'une communication
-au public pendant la période définie au premier alinéa, les droits patrimoniaux
-du producteur du vidéogramme n'expirent que cinquante ans après le 1er janvier
-de l'année civile suivant le premier de ces faits ;
+2° Pour une interprétation fixée dans un phonogramme, soixante-dix ans après le
+1er janvier de l'année civile qui suit le premier de ces faits.
 
-4° De la première communication au public des programmes mentionnés à l'article
-L. 216-1 pour des entreprises de communication audiovisuelle.
+II.-La durée des droits patrimoniaux des producteurs de phonogrammes est de
+cinquante années à compter du 1er janvier de l'année civile suivant celle de la
+première fixation d'une séquence de son.
+
+Toutefois, si, durant cette période, un phonogramme fait l'objet d'une mise à la
+disposition du public par des exemplaires matériels ou d'une communication au
+public, les droits patrimoniaux du producteur de phonogrammes expirent
+soixante-dix ans après le 1er janvier de l'année civile suivant la mise à la
+disposition du public de ce phonogramme ou, à défaut, sa première communication
+au public. L'artiste-interprète peut exercer le droit de résiliation mentionné
+aux articles L. 212-3-1 et L. 212-3-2.
+
+III.-La durée des droits patrimoniaux des producteurs de vidéogrammes est de
+cinquante années à compter du 1er janvier de l'année civile suivant celle de la
+première fixation d'une séquence d'images, sonorisées ou non.
+
+Toutefois, si, durant cette période, un vidéogramme fait l'objet d'une mise à la
+disposition du public par des exemplaires matériels ou d'une communication au
+public, les droits patrimoniaux du producteur de vidéogrammes expirent cinquante
+ans après le 1er janvier de l'année civile suivant le premier de ces faits.
+
+IV.-La durée des droits patrimoniaux des entreprises de communication
+audiovisuelle est de cinquante années à compter du 1er janvier de l'année civile
+suivant celle de la première communication au public des programmes mentionnés à
+l'article L. 216-1.
