@@ -4,14 +4,16 @@ I.-Le ministre chargé de l'aviation civile peut prononcer une amende
 administrative à l'encontre d'un transporteur aérien ou de tout autre exploitant
 d'aéronef civil qui :
 
-1° Lorsque ceci préjudicie aux activités de l'aéroport ou au trafic aérien,
-procède sur un aéroport coordonné, de façon répétée et intentionnelle, en
-violation de l'article R. 132-4, à des atterrissages ou à des décollages sans
-disposer des créneaux horaires correspondants, ou à des horaires
-significativement différents des créneaux horaires qui lui ont été attribués à
-cet effet par le coordonnateur de l'aéroport, ou utilise des créneaux horaires
-d'une manière significativement différente de celle indiquée au moment de
-l'attribution.
+1° Procède sur un aéroport coordonné, en violation de l'article R. 132-4 :
+
+-à un atterrissage ou à un décollage sans disposer du créneau horaire
+correspondant ;
+
+-à des atterrissages ou à des décollages, de façon répétée et intentionnelle, à
+des horaires significativement différents des créneaux horaires qui lui ont été
+attribués à cet effet par le coordonnateur de l'aéroport ou en utilisant des
+créneaux horaires d'une manière significativement différente de celle indiquée
+au moment de l'attribution ;
 
 2° Soit exploite un aéronef en contradiction avec la réglementation relative au
 retrait d'exploitation des aéronefs bruyants ;
@@ -28,14 +30,21 @@ abusif ou, en méconnaissance de l'article 7, paragraphe 1, du règlement (UE) n
 255/2010 de la Commission du 25 mars 2010 établissant des règles communes
 relatives à la gestion des courants de trafic aérien, dépose plusieurs plans de
 vol pour un même vol ou dépose un plan de vol qui ne rend pas compte du profil
-de vol prévu.
+de vol prévu ;
+
+5° Soit ne dispose pas d'un plan d'aide aux victimes d'accidents de l'aviation
+civile et à leurs proches tel que prévu par l'article 21 du règlement (UE) n°
+996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes
+et la prévention des accidents et des incidents dans l'aviation civile.
 
 Le ministre chargé de l'aviation civile fixe le montant de l'amende en tenant
 compte du type et de la gravité des manquements constatés et, éventuellement,
 des avantages qui en sont retirés. Ce montant ne peut excéder, par manquement
 constaté, 1 500 euros pour une personne physique et 7 500 euros pour une
 personne morale. Ces plafonds sont doublés en cas de nouveau manquement commis
-dans un délai d'un an à compter du précédent manquement.
+dans un délai d'un an à compter du jour où la sanction administrative infligée
+au titre d'un précédent manquement de même nature est devenue définitive. Pour
+l'application du présent alinéa, le manquement constaté s'entend par vol.
 
 Lorsque ce manquement mentionné au 3° présente un caractère de particulière
 gravité, le ministre peut, à la place de l'amende administrative, prononcer soit
@@ -72,3 +81,22 @@ peut excéder quatre mois, s'il estime que les manquements qui ont été portés
 sa connaissance sont de nature à mettre gravement en cause la sécurité aérienne.
 Il prononce, après avis de la commission, une décision définitive de sanction
 avant la fin de la suspension.
+
+IV.-Le ministre chargé de l'aviation civile peut prononcer des amendes
+administratives à l'encontre des organismes qui ne respectent pas les exigences
+techniques de sécurité mentionnées à l'article L. 6221-1 du code des transports
+ou les exigences résultant du règlement (UE) n° 376/2014 du Parlement européen
+et du Conseil du 3 avril 2014 concernant les comptes rendus, l'analyse et le
+suivi d'événements dans l'aviation civile.
+
+Le ministre chargé de l'aviation civile fixe le montant des amendes en tenant
+compte du type et de la gravité des manquements constatés, du risque pour la
+sécurité et, éventuellement, des avantages qui en sont retirés. Ce montant ne
+peut excéder, par manquement constaté, 7 500 €. Ce plafond peut être doublé en
+cas de nouveau manquement commis dans un délai d'un an à compter du jour où est
+devenue définitive la sanction administrative infligée au titre d'un précédent
+manquement de même nature aux exigences techniques de sécurité mentionnées à
+l'article L. 6221-1 du code des transports ou aux exigences résultant du
+règlement (UE) n° 376/2014 du Parlement européen et du Conseil du 3 avril 2014
+concernant les comptes rendus, l'analyse et le suivi d'événements dans
+l'aviation civile.

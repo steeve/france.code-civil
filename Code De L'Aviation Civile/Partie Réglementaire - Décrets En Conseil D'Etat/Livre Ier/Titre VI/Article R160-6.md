@@ -43,8 +43,8 @@ La formation " Passagers " comprend :
 professionnelles, dont un représentant des compagnies non établies en France
 desservant le territoire national ;
 
-2° Un représentant des agents de voyages désigné sur proposition du ministre
-chargé du tourisme ;
+2° Un représentant des agents de voyages et autres opérateurs de la vente de
+voyages et de séjours, désigné sur proposition du ministre chargé du tourisme ;
 
 3° Un représentant des exploitants d'aéroports ;
 

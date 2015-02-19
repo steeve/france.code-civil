@@ -7,17 +7,21 @@ morale qui :
 
 1. Soit effectue un transport aérien public, sans être titulaire d'une licence
 d'exploitation de transporteur aérien en cours de validité lorsque celle-ci est
-requise en application de l'article L. 330-1 ;
+requise en application des articles L. 6412-2 ou L. 6412-6 du code des
+transports, ou bien participe à l'organisation ou à la commercialisation d'une
+telle opération de transport aérien public ;
 
 2. Soit ne respecte pas les obligations de service public imposées conformément
-aux dispositions de l'article 4 du règlement (CEE) n° 2408/92 du 23 juillet 1992
-;
+aux dispositions de l'article 16 du règlement (CE) n° 1008/2008 du Parlement
+européen et du Conseil du 24 septembre 2008 établissant des règles communes pour
+l'exploitation de services aériens dans la Communauté ;
 
 3. Soit effectue un vol ne figurant pas dans un programme d'exploitation
-autorisé, conformément aux articles L. 330-2 et L. 330-3 ;
+autorisé, conformément aux articles L. 6412-3 et L. 6412-4 du code des
+transports ;
 
 4. Soit ne respecte pas les dispositions relatives au dépôt et à l'homologation
-des tarifs prises en application de l'article L. 330-8 ;
+des tarifs prises en application de l'article L. 6412-5 du code des transports ;
 
 5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111/2005
 du 14 décembre 2005 reprises aux articles R. 322-3 à R. 322-6, applicables au
