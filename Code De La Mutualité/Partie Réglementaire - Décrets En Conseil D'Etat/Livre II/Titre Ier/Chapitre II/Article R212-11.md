@@ -83,7 +83,10 @@ l'union détient sur des établissements de crédit, des entreprises
 d'investissement ou des établissements financiers dans lesquels elle détient une
 participation, et qui sont considérés comme des fonds propres pour le calcul des
 exigences de fonds propres applicables aux entreprises et établissements
-mentionnés ci-dessus.
+mentionnés ci-dessus ;
+
+c) Les certificats mutualistes émis et détenus directement par la mutuelle ou
+l'union.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue

@@ -108,8 +108,11 @@ b) Les créances et autres instruments financiers que l'institution ou l'union
 détient sur des établissements de crédit, des entreprises d'investissement ou
 des établissements financiers dans lesquels elle détient une participation, et
 qui sont considérés comme des fonds propres pour le calcul des exigences de
-fonds propres applicables aux entreprises et établissements mentionnés
-ci-dessus.
+fonds propres applicables aux entreprises et établissements mentionnés ci-dessus
+;
+
+c) Les certificats paritaires émis et détenus directement par l'institution ou
+l'union de prévoyance.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement par

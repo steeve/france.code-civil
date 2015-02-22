@@ -70,7 +70,8 @@ estimé.
 
 IV.-La marge de solvabilité disponible est diminuée des éléments suivants :
 
-a) Les actions propres détenues directement par l'entreprise d'assurance ;
+a) Les actions ou les certificats mutualistes propres détenus directement par
+l'entreprise d'assurance ;
 
 b) Les participations que l'entreprise d'assurance détient dans un établissement
 de crédit, une société de financement ou une entreprise d'investissement ;

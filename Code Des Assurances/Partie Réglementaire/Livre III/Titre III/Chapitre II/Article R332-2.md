@@ -72,11 +72,12 @@ b) Titres de créances négociables, obligations, parts ou actions émises par u
 organisme de titrisation régi par la sous-section 5 de la section 2 du chapitre
 IV du titre Ier du livre II du code monétaire et financier ;
 
-c) Obligations, titres participatifs et titres subordonnés émis par les sociétés
-d'assurance mutuelles, les mutuelles, unions et fédérations régies par le code
-de la mutualité et les institutions de prévoyance régies par le titre III du
-livre IX du code de la sécurité sociale ayant leur siège social sur le
-territoire de l'un des Etats membres de l'OCDE ;
+c) Obligations, titres participatifs, certificats mutualistes, le cas échéant
+certificats paritaires, et titres subordonnés émis par les sociétés d'assurance
+mutuelles, les mutuelles, unions et fédérations régies par le code de la
+mutualité et les institutions de prévoyance régies par le titre III du livre IX
+du code de la sécurité sociale ayant leur siège social sur le territoire de l'un
+des Etats membres de l'OCDE ;
 
 7° Parts des fonds communs de placement à risques de l'article L. 214-28 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation
