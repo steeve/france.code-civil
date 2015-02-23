@@ -6,7 +6,8 @@ conjointement avec la caisse mentionnée à l'article R. 322-11-1, procède à u
 
 Si cette évaluation fait apparaître que l'établissement de santé n'a pas
 respecté l'objectif de réduction du taux d'évolution des dépenses faisant
-l'objet du contrat, le directeur général de l'agence régionale de santé lui
+l'objet du contrat, et s'il estime que le dépassement de dépenses qui en résulte
+justifie une pénalité, le directeur général de l'agence régionale de santé lui
 adresse, par tout moyen permettant de rapporter la preuve de sa date de
 réception, une notification mentionnant la pénalité qu'il encourt et l'informant
 qu'il dispose d'un délai d'un mois à compter de la réception pour demander à
