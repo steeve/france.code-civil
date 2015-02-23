@@ -1,4 +1,4 @@
 Article D3121-7
 ----
-Le conseil est renouvelé par moitié tous les deux ans. La désignation des
-nouveaux membres intervient dans les conditions fixées à l'article D. 3121-4.
+Le mandat de chacun des membres du conseil est de cinq ans. Il est renouvelable
+une fois.

@@ -1,3 +1,4 @@
 Article D3121-13
 ----
-Il est adjoint au conseil un secrétariat général permanent.
+Les crédits nécessaires au fonctionnement du conseil sont inscrits au budget du
+ministère de la santé.
