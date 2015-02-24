@@ -5,7 +5,7 @@ contient, lorsqu'il s'agit des groupements agricoles d'exploitation en commun,
 les indications suivantes :
 
 1° La dénomination sociale du groupement et s'il y a lieu son sigle, précédés ou
-suivis des mots et de la date de la décision de reconnaissance ;
+suivis des mots et de la date de la décision d'agrément ;
 
 2° Le montant du capital social et le montant total respectif des apports en
 numéraire et des apports en nature ; si la société est à capital variable, le

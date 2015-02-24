@@ -6,5 +6,5 @@ commerce dans un délai d'un mois. Les autres modifications statutaires sont
 déposées au greffe pour être annexées au registre du commerce et des sociétés
 et, s'il y a lieu, mentionnées à ce registre ou publiées dans un journal
 habilité à recevoir les annonces légales dans le département dans un délai d'un
-mois à compter de l'expiration du délai de trois mois prévu au deuxième alinéa
-de l'article R. 323-19.
+mois à compter de l'expiration du délai de deux mois prévu au deuxième alinéa de
+l'article R. 323-19.

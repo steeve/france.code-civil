@@ -1,15 +1,16 @@
 Article R323-10
 ----
-Les demandes de reconnaissance sont instruites dans les conditions déterminées
-par le comité. Celui-ci doit, par décision motivée, se prononcer sur les
-demandes au plus tard dans les trois mois de la réception du dossier complet de
-la demande ; il peut subordonner la reconnaissance à une modification des
-dispositions des statuts ou projets de statuts, ainsi qu'à une modification des
-conditions de fonctionnement de la société, dans la mesure où ces dispositions
-ou ces conditions sont contraires aux lois et règlements.
+Le préfet statue sur les demandes d'agrément, par décision motivée, au plus tard
+dans les trois mois suivant la réception du dossier de demande complet. Il peut
+demander préalablement l'avis de la formation spécialisée mentionnée à l'article
+R. 313-7-1.
 
-Le comité peut indiquer aux intéressés les dispositions statutaires ou les
-prévisions de fonctionnement qui, sans être en opposition avec les dispositions
-législatives et réglementaires relatives aux groupements et sans, par suite,
-être de nature à mettre obstacle à l'agrément, lui paraissent contraires au bon
-fonctionnement ultérieur du groupement.
+Dans ce cas, lorsque le préfet adopte une décision après avis contraire de la
+formation spécialisée mentionnée à l'article R. 313-7-1, il en précise les
+motifs.
+
+Pour les groupements totaux, le préfet vérifie, en particulier, la contribution
+des associés au renforcement de la structure agricole du groupement, en tenant
+compte de leur participation effective, à titre exclusif et à temps complet, au
+travail en commun, sous réserve de l'application des articles D. 323-31-1 et R.
+323-32.

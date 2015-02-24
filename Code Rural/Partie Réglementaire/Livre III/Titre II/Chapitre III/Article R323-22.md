@@ -1,19 +1,14 @@
 Article R323-22
 ----
-Les sociétés et le ministre de l'agriculture peuvent, dans les délais et
-conditions prévus à l'article R. 323-12, contester, devant le comité national,
-le retrait ou l'absence de retrait décidé par le comité départemental ou
-régional.
+Les recours contentieux contre les décisions individuelles relatives aux
+groupements agricoles d'exploitation en commun sont précédés, à peine
+d'irrecevabilité, d'un recours administratif préalable obligatoire auprès du
+ministre chargé de l'agriculture.
 
-Les appels devant le comité national contre les décisions de retrait ou de
-reconnaissance ont un effet suspensif. Les décisions du comité national
-rétroagissent au jour où les décisions du comité départemental ou régional ont
-été notifiées à la société.
+Les recours administratifs contre les décisions de retrait d'agrément ont un
+effet suspensif.
 
-Les décisions de retrait devenues définitives sont déposées au secrétariat du
-comité départemental ou régional, celui-ci avise de ces décisions le greffier du
-tribunal auprès duquel le groupement est immatriculé aux fins de mention
-d'office au registre du commerce et des sociétés ; cette mention est faite sans
-frais. Le comité départemental ou régional fait simultanément procéder, aux
-frais du groupement, à la publication prévue par l'article 24 du décret n°
-78-704 du 3 juillet 1978.
+Préalablement à la réponse au recours administratif qui lui a été adressé, le
+ministre chargé de l'agriculture recueille l'avis du préfet et de toute autre
+personne qualifiée s'il l'estime justifié. Il en informe alors les auteurs du
+recours, qui sont mis en mesure de consulter ces avis.

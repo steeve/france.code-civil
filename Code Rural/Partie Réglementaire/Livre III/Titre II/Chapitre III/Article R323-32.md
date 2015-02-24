@@ -29,3 +29,8 @@ Cette dispense ne peut excéder un an.
 sein du groupement, et d'une situation lui donnant droit à l'allocation
 parentale d'éducation prévue à l'article L. 532-1, premier alinéa, du code de la
 sécurité sociale.
+
+La décision collective mentionnée au premier alinéa est soumise à l'accord du
+préfet statuant dans les conditions prévues au premier alinéa de l'article R.
+323-10. A défaut de décision expresse dans le délai de deux mois, la demande
+d'approbation est réputée acceptée.

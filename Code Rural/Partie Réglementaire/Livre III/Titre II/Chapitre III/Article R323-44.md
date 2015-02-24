@@ -6,5 +6,4 @@ après consultation d'une personnalité désignée à l'avance, particulièremen
 qualifiée par son esprit d'équité et son expérience sociale et agricole. Ils
 peuvent également prévoir que tous les litiges survenant entre associés, ou
 certains seulement, seront soumis pour conciliation à l'avis d'une telle
-personne. Le nom de celle-ci doit être communiqué au comité départemental ou
-régional d'agrément.
+personne. Le nom de celle-ci doit être communiqué au préfet.
