@@ -25,7 +25,7 @@ de protection de l'environnement.
 
 II.-Lorsque les listes visées au 2° du III et au IV de l'article L. 414-4
 peuvent concerner des activités militaires, l'accord préalable du commandant de
-région terre ou du commandant de zone maritime, selon leurs domaines de
+zone terre ou du commandant de zone maritime, selon leurs domaines de
 compétences respectifs, est requis.
 
 III.-Les listes locales visées au présent article sont publiées au recueil des

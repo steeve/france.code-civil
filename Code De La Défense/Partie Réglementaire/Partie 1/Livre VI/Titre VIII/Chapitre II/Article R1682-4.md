@@ -12,5 +12,6 @@ Il est autorisé à passer les accords commerciaux nécessaires à la satisfacti
 des besoins pour la défense dans le domaine économique dans sa zone.
 
 En cas de rupture des communications à l'intérieur des zones de défense et de
-sécurité outre-mer, les pouvoirs dévolus au haut fonctionnaire de défense par
-les dispositions du présent article sont exercés par le représentant de l'Etat.
+sécurité outre-mer, les pouvoirs dévolus au haut fonctionnaire de zone de
+défense et de sécurité par les dispositions du présent article sont exercés par
+le représentant de l'Etat.

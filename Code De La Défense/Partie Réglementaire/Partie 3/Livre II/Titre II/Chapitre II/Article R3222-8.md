@@ -1,24 +1,17 @@
 Article R3222-8
 ----
-Les services de l'armée de terre sont :
+La structure intégrée du maintien en condition opérationnelle des matériels
+terrestres est un service de l'armée de terre.
 
-1° Le matériel de l'armée de terre ;
+Les attributions de ce service sont fixées par décret.
 
-2° La structure intégrée du maintien en condition opérationnelle des matériels
-terrestres.
+Ce service de l'armée de terre est placé sous l'autorité d'un directeur central
+dont les responsabilités et les compétences sont fixées conformément aux
+dispositions des articles R. 3231-1 à R. 3231-11.
 
-Leurs attributions sont fixées par décret.
+Outre une direction centrale, il peut comprendre des établissements et des
+formations diverses relevant du directeur central.
 
-Ils sont placés sous l'autorité d'un directeur central, dont les responsabilités
-et les compétences sont fixées conformément aux dispositions des articles R.
-3231-1 à R. 3231-11.
-
-Outre une direction centrale, ils peuvent comprendre des directions régionales,
-des établissements et des formations diverses qui relèvent du directeur central
-soit directement, soit par l'intermédiaire des directeurs régionaux. La
-compétence de ces derniers s'exerce dans les limites d'une ou plusieurs régions
-terre.
-
-Des éléments des services sont rattachés aux forces ou placés de façon
+Des éléments de ce service sont rattachés aux forces ou placés de façon
 occasionnelle auprès d'elles ainsi qu'auprès d'autres commandements
 opérationnels.

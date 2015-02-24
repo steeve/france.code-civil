@@ -7,7 +7,7 @@ espaces marins situés dans le site. Le préfet signataire du contrat est, selon
 la nature des engagements, le préfet de département, le préfet de région ou le
 préfet maritime. Lorsque le contrat porte en tout ou partie sur des terrains
 relevant du ministère de la défense, il est contresigné par le commandant de la
-région terre.
+zone terre.
 
 Le préfet est chargé de l'exécution des clauses financières du contrat.
 

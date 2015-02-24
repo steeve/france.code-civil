@@ -13,10 +13,10 @@ demandées, le préfet arrête le document d'objectifs du site Natura 2000 aprè
 avoir informé le comité de pilotage et avoir recueilli ses observations.
 
 Lorsque des terrains relevant du ministère de la défense sont inclus dans le
-périmètre d'un site Natura 2000, l'avis du commandant de la région terre doit
-être recueilli préalablement à l'approbation du document d'objectifs. Les
-mesures qui concernent les terrains relevant du ministère de la défense et les
-espaces aériens adjacents doivent obtenir son accord.
+périmètre d'un site Natura 2000, l'avis du commandant de la zone terre doit être
+recueilli préalablement à l'approbation du document d'objectifs. Les mesures qui
+concernent les terrains relevant du ministère de la défense et les espaces
+aériens adjacents doivent obtenir son accord.
 
 Lorsque le site Natura 2000 s'étend sur des espaces marins, l'accord du préfet
 maritime et celui du commandant de zone maritime sur les mesures qui concernent

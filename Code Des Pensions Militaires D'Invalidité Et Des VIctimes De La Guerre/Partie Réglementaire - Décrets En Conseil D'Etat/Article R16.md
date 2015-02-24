@@ -6,8 +6,8 @@ La composition de la commission de réforme est fixée comme suit :
 commission, nommé par le ministre de la défense ;
 
 2° Deux officiers dont un officier supérieur et un capitaine ou un officier de
-grade équivalent, désignés par le commandant de région terre, ou le commandant
-de région maritime sur le territoire desquels est situé le domicile du
+grade équivalent, désignés par le commandant de zone terre, ou le commandant
+d'arrondissement maritime sur le territoire desquels est situé le domicile du
 demandeur, ou par le directeur des ressources humaines de l'armée de l'air.
 
 Les membres de la commission sont choisis parmi les officiers de carrière ou

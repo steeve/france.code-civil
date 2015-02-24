@@ -9,9 +9,9 @@ ministre de la défense. Elle donne un avis sur :
 alinéa de l'article R. 1332-3 ;
 
 2° Les plans de sécurité des opérateurs d'importance vitale dont le périmètre ne
-dépasse pas le ressort de la zone de défense. Tout opérateur d'importance vitale
-présent dans la zone est entendu lors de l'examen de son plan par la commission,
-s'il en fait la demande ;
+dépasse pas le ressort de la zone de défense et de sécurité. Tout opérateur
+d'importance vitale présent dans la zone est entendu lors de l'examen de son
+plan par la commission, s'il en fait la demande ;
 
 3° La liste des points d'importance vitale annexée aux plans de sécurité
 mentionnés au 2°. Elle propose éventuellement des ajouts ou suppressions à cette

@@ -23,8 +23,8 @@ Les formations prévôtales sont placées sous le commandement d'officiers qui
 relèvent de l'officier chargé du commandement de la gendarmerie prévôtale.
 
 Les formations de gendarmerie mobile sont placées sous l'autorité du commandant
-de la région de gendarmerie située au siège de la zone de défense sur le
-territoire de laquelle elles sont implantées.
+de la région de gendarmerie située au siège de la zone de défense et de sécurité
+sur le territoire de laquelle elles sont implantées.
 
 Les formations spécialisées sont placées sous le commandement d'officiers de
 gendarmerie qui relèvent du directeur général de la gendarmerie nationale.

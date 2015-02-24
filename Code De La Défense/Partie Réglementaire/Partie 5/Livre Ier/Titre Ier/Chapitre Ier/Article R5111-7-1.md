@@ -7,7 +7,7 @@ ou leur domaine de compétence, par :
 
 2° L'inspecteur de l'armement pour les poudres et explosifs ;
 
-3° Les commandants de région terre ;
+3° Les commandants de zone terre ;
 
 4° Les commandants d'arrondissement maritime ;
 

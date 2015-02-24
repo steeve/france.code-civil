@@ -16,7 +16,7 @@ dans le service ainsi que dans les enceintes militaires, sans qu'une personne
 civile puisse être mise en cause, les opérations définies aux articles R.
 3354-11 à R. 3354-16 peuvent être effectuées par des biologistes et des
 médecins-experts militaires, désignés par arrêté du ministre de la défense. Il
-est nommé dans le ressort de chaque région militaire ou de chaque région
+est nommé dans le ressort de chaque zone terre ou de chaque arrondissement
 maritime un biologiste et un médecin expert ainsi qu'un suppléant pour chacun
 d'eux.
 

@@ -2,20 +2,20 @@ Article R414-3
 ----
 Le projet de désignation d'un site Natura 2000 est établi :
 
-- par le ou les préfets de département lorsque le site s'étend exclusivement sur
+-par le ou les préfets de département lorsque le site s'étend exclusivement sur
 des espaces terrestres ;
 
-- par le préfet maritime lorsque le site s'étend exclusivement sur des espaces
+-par le préfet maritime lorsque le site s'étend exclusivement sur des espaces
 marins situés au-delà de la laisse de basse mer ;
 
-- conjointement par le ou les préfets de département et le préfet maritime
+-conjointement par le ou les préfets de département et le préfet maritime
 lorsque le site s'étend à la fois sur des espaces terrestres et des espaces
 marins ou lorsque le site s'étend exclusivement sur des espaces marins qui
 incluent l'estran.
 
 II.-Lorsque le site inclut tout ou partie d'un terrain militaire, le ou les
 préfets compétents pour établir le projet de désignation d'un site Natura 2000
-recueillent l'accord du commandant de la région terre sur ce projet.
+recueillent l'accord du commandant de la zone terre sur ce projet.
 
 Lorsque le site comprend des espaces marins, ils recueillent l'accord du
 commandant de zone maritime sur la délimitation de ces espaces.

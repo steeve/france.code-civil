@@ -2,10 +2,10 @@ Article R5131-5
 ----
 Sous réserve des matières qui relèvent de la compétence du délégué général pour
 l'armement et du secrétaire général pour l'administration de la défense, le
-ministre de la défense peut par arrêté déléguer des pouvoirs aux autorités
-militaires mentionnées à l'article R. 5131-3 pour exercer des attributions et
-prendre des actes relatifs aux biens et droits immobiliers répondant aux besoins
-des formations militaires et autres organismes du ministère de la défense.
+ministre de la défense peut par arrêté déléguer des pouvoirs aux commandants de
+bases de défense pour exercer des attributions et prendre des actes relatifs aux
+biens et droits immobiliers répondant aux besoins des formations militaires et
+autres organismes du ministère de la défense.
 
 La signature de conventions d'utilisation, la saisine de l'administration
 chargée des domaines pour l'acquisition, l'aliénation ou le changement
@@ -19,5 +19,5 @@ militaire au profit d'une personne publique peuvent être délégués.
 Un arrêté fixe la liste des attributions et actes concernés et les limites dans
 lesquelles la délégation est consentie.
 
-L'autorité militaire commandant de base ayant reçu délégation de pouvoirs peut
-déléguer sa signature à son adjoint ou, le cas échéant, son suppléant.
+Le commandant de base de défense ayant reçu délégation de pouvoirs peut déléguer
+sa signature à son adjoint ou, le cas échéant, son suppléant.

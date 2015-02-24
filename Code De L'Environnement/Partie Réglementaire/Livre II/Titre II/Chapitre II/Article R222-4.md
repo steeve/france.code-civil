@@ -1,6 +1,6 @@
 Article R222-4
 ----
-I. - Le préfet de région et le président du conseil régional, après avoir validé
+I.-Le préfet de région et le président du conseil régional, après avoir validé
 le projet de schéma, déterminent, la durée de sa mise à disposition au public et
 publient conjointement, au moins sept jours avant le début de cette mise à
 disposition, dans deux journaux régionaux ou locaux diffusés dans la région
@@ -17,7 +17,7 @@ Le projet de schéma est également mis à la disposition du public par voie
 régional. Le public dispose de la possibilité de faire part de ses observations
 par voie électronique.
 
-II. - Dès le début de la mise à disposition au public, le préfet de région et le
+II.-Dès le début de la mise à disposition au public, le préfet de région et le
 président du conseil régional soumettent le projet de schéma pour avis :
 
 1° Aux conseils généraux des départements de la région ;
@@ -63,7 +63,7 @@ risques sanitaires et technologiques ;
 
 18° A l'agence régionale de santé ;
 
-19° Au commandant de région terre compétent ;
+19° Au commandant de zone terre compétent ;
 
 20° A la direction de l'aviation civile territorialement compétente ;
 

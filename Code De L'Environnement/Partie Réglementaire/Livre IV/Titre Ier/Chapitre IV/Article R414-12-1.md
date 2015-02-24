@@ -1,6 +1,6 @@
 Article R414-12-1
 ----
-I.-Le préfet, conjointement avec le commandant de la région terre pour ce qui
+I.-Le préfet, conjointement avec le commandant de la zone terre pour ce qui
 concerne les terrains relevant du ministère de la défense, s'assure du respect
 des engagements souscrits dans le cadre de la charte Natura 2000.
 
@@ -16,7 +16,7 @@ gestionnaires des aides publiques auxquelles donne droit l'adhésion à la chart
 
 II.-En cas de cession, pendant la période d'adhésion à la charte Natura 2000, de
 tout ou partie des terrains pour lesquels des engagements ont été souscrits, le
-cédant est tenu d'en informer le préfet. , le cessionnaire peut adhérer à la
+cédant est tenu d'en informer le préfet, le cessionnaire peut adhérer à la
 charte pour la période restant à courir de l'engagement initial.
 
 Lorsque le titulaire d'une concession portant autorisation d'exploitation de

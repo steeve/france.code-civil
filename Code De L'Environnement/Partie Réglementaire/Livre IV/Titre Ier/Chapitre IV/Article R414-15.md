@@ -1,6 +1,6 @@
 Article R414-15
 ----
-Le préfet, conjointement avec le commandant de la région terre pour ce qui
+Le préfet, conjointement avec le commandant de la zone terre pour ce qui
 concerne les terrains relevant du ministère de la défense, s'assure du respect
 des engagements souscrits dans le cadre des contrats Natura 2000.
 

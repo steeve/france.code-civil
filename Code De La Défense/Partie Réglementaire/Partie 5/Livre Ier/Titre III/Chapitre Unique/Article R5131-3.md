@@ -15,9 +15,8 @@ d'aménagement du territoire après avis du préfet de région.
 
 Le schéma directeur immobilier est établi :
 
-1° Par les autorités militaires commandant des bases dont la liste est fixée par
-arrêté du ministre de la défense, pour les bases qu'elles commandent, et à
-l'exception des immeubles situés en Ile-de-France ;
+1° Par les commandants de base de défense, à l'exception des immeubles situés en
+Ile-de-France ;
 
 2° Par le secrétaire général pour l'administration du ministère de la défense
 pour les immeubles situés en Ile-de-France, dans des conditions définies par

@@ -17,8 +17,8 @@ les secteurs d'activités d'importance vitale dont le ministre de la défense es
 le coordonnateur ;
 
 6° Les plans de sécurité d'opérateurs d'importance vitale dont le périmètre
-dépasse celui de la zone de défense, à l'exception des plans d'opérateurs
-d'importance vitale relevant du ministre de la défense ;
+dépasse celui de la zone de défense et de sécurité, à l'exception des plans
+d'opérateurs d'importance vitale relevant du ministre de la défense ;
 
 7° La liste des points d'importance vitale annexée aux plans de sécurité
 mentionnés au 6°. La commission propose éventuellement des ajouts ou

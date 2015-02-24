@@ -9,7 +9,7 @@ responsable de la ressource, du ministre de la défense et du ministre chargé d
 l'économie et des finances, après consultation du comité consultatif prévu à
 l'article R. 2234-96. Le président et les membres de ces commissions spéciales
 d'évaluation sont désignés par le ministre responsable, qui peut déléguer ce
-droit au préfet ou, pour les réquisitions de navires, au commandant de la région
-maritime et, pour les réquisitions d'aéronefs, au chef d'état-major de l'armée
-de l'air ou à l'officier général de l'armée de l'air ayant reçu délégation à cet
-effet.
+droit au préfet ou, pour les réquisitions de navires, au commandant de
+l'arrondissement maritime et, pour les réquisitions d'aéronefs, au chef
+d'état-major de l'armée de l'air ou à l'officier général de l'armée de l'air
+ayant reçu délégation à cet effet.
