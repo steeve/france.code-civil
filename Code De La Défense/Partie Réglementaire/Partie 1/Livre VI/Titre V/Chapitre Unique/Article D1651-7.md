@@ -9,8 +9,8 @@ la référence à la Polynésie française ;
 sont remplacées par la référence au haut commissaire de la République en
 Polynésie française ;
 
-3° La référence au préfet de zone et de sécurité est remplacée par la référence
-au haut fonctionnaire de zone de défense et de sécurité ;
+3° La référence au préfet de zone de défense et de sécurité est remplacée par la
+référence au haut fonctionnaire de zone de défense et de sécurité ;
 
 4° La référence au préfet maritime est remplacée par la référence au délégué du
 Gouvernement pour l'action de l'Etat en mer ;

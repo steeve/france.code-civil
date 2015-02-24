@@ -1,9 +1,9 @@
 Article D5131-12
 ----
 Sous réserve des compétences dévolues en la matière aux états-majors, directions
-et services, le commandant de région terre représente le ministre auprès des
+et services, le commandant de zone terre représente le ministre auprès des
 services déconcentrés de l'Etat et auprès des collectivités territoriales, dans
-les limites de la région terre, pour les questions d'urbanisme intéressant le
+les limites de la zone terre, pour les questions d'urbanisme intéressant le
 ministère de la défense. Il transmet au préfet les informations relatives aux
 installations de la défense ayant une incidence sur le territoire concerné, que
 l'Etat porte à la connaissance des communes ou de leurs groupements en
