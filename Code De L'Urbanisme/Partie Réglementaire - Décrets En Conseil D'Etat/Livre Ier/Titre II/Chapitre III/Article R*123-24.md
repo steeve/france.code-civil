@@ -22,4 +22,7 @@ de projet dans les conditions prévues à l'article L. 123-14-2 ;
 
 e) La délibération qui approuve la modification ou la révision du plan local
 d'urbanisme ainsi que l'arrêté mettant le plan en compatibilité en application
-de l'article L. 123-14-1.
+de l'article L. 123-14-1 ;
+
+f) La délibération ou l'arrêté mettant le plan en compatibilité, dans le cadre
+d'une procédure intégrée pour le logement prévue à l'article L. 300-6-1.

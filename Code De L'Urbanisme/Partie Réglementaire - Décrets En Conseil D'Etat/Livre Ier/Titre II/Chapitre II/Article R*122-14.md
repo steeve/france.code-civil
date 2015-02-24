@@ -30,4 +30,7 @@ déclaration de projet, dans les conditions prévues à l'article L. 122-16-1 ;
 
 g) La délibération qui approuve la modification ou la révision du schéma de
 cohérence territoriale ainsi que l'arrêté mettant le schéma en compatibilité, en
-application de l'article L. 122-16.
+application de l'article L. 122-16 ;
+
+h) La délibération ou l'arrêté mettant le schéma en compatibilité, dans le cadre
+d'une procédure intégrée pour le logement prévue à l'article L. 300-6-1.

@@ -48,9 +48,9 @@ d'urbanisme, aux effets de sa mise en œuvre ainsi qu'aux enjeux environnementau
 de la zone considérée.
 
 En cas de modification, de révision ou de mise en compatibilité dans les cas
-prévus aux articles R. 123-23-1, R. 123-23-2, R. 123-23-3 et R. 123-23-4, du
-plan local d'urbanisme, le rapport de présentation est complété par l'exposé des
-motifs des changements apportés.
+prévus aux articles R. 123-23-1, R. 123-23-2, R. 123-23-3, R. 123-23-4 et R.
+300-15 à R. 300-27, du plan local d'urbanisme, le rapport de présentation est
+complété par l'exposé des motifs des changements apportés.
 
 Le rapport de présentation peut se référer aux renseignements relatifs à
 l'environnement figurant dans d'autres études, plans ou documents.

@@ -41,9 +41,10 @@ si nécessaire, les mesures appropriées ;
 7° Comprend un résumé non technique des éléments précédents et une description
 de la manière dont l'évaluation a été effectuée.
 
-En cas de modification du schéma directeur de la région d'Ile-de-France, le
-rapport est complété, le cas échéant, par l'exposé des motifs des changements
-apportés.
+En cas de modification du schéma directeur de la région d'Ile-de-France ou de sa
+mise en compatibilité dans le cadre d'une procédure intégrée pour le logement en
+application de l'article L. 300-6-1, le rapport est complété, le cas échéant,
+par l'exposé des motifs des changements apportés.
 
 Le rapport de présentation peut se référer aux renseignements relatifs à
 l'environnement figurant dans d'autres études, plans ou documents.
