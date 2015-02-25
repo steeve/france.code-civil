@@ -8,8 +8,6 @@ TARIF APPLICABLE AUX AUTOMOBILES
 
 Puissance administrative
 
-du véhicule en chevaux (CV)
-
 Jusqu'à 5 000 km
 
 
@@ -19,43 +17,43 @@ Au-delà de 20 000 km
 
 3 CV et moins
 
-d × 0,408
+d x 0,41
 
-(d × 0,244) + 820
+(d x 0,245) + 824
 
-d × 0,285
+d x 0,286
 
 4 CV
 
-d × 0,491
+d x 0,493
 
-(d × 0,276) + 1 077
+(d x 0,277) + 1 082
 
-d × 0,330
+d x 0,332
 
 5 CV
 
-d × 0,540
+d x 0,543
 
-(d × 0,303) + 1 182
+(d x 0,305) + 1 188
 
-d × 0,362
+d x 0,364
 
 6 CV
 
-d × 0,565
+d x 0,568
 
-(d × 0,318) + 1 238
+(d x 0,32) + 1 244
 
-d × 0,380
+d x 0,382
 
 7 CV et plus
 
-d × 0,592
+d x 0,595
 
-(d × 0,335) + 1 282
+(d x 0,337) + 1 288
 
-d × 0,399
+d x 0,401
 
 d représente la distance parcourue en kilomètres.
 
@@ -66,8 +64,6 @@ TARIF APPLICABLE AUX MOTOCYCLETTES
 
 Puissance administrative
 
-du véhicule en chevaux (CV)
-
 Jusqu'à 3 000 km
 
 
@@ -77,27 +73,28 @@ Au-delà de 6 000 km
 
 1 ou 2 CV
 
-d × 0,336
+d x 0,338
 
-(d × 0,084) + 756
+(d x 0,084) + 760
 
-d × 0,210
+d x 0,211
 
 3, 4, 5 CV
 
-d × 0,398
+d x 0,4
 
-(d × 0,070) + 984
+(d x 0,07) + 989
 
-d × 0,234
+d x 0,235
 
-plus de 5 CV
 
-d × 0,515
+Plus de 5 CV
 
-(d × 0,067) + 1344
+d x 0,518
 
-d × 0,291
+(d x 0,067) + 1 351
+
+d x 0,292
 
 d représente la distance parcourue en kilomètres.
 
@@ -113,10 +110,10 @@ De 2 001 km à 5 000 km
 
 Au-delà de 5 000 km
 
-d × 0,268
+d x 0,269
 
-(d × 0,063) + 410
+(d x 0,063) + 412
 
-d × 0,145
+d x 0,146
 
 d représente la distance parcourue en kilomètres.
