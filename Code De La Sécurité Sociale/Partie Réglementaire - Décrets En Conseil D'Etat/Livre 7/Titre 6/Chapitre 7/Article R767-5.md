@@ -16,5 +16,4 @@ d'objectifs et de gestion ;
 
 5° L'acceptation des dons et legs.
 
-Il est informé de l'état des créances et des dettes auxquelles donne lieu
-l'application des règlements et accords mentionnés à l'article R. 767-2.
+Il est informé du rapport annuel prévu au 6° de l'article R. 767-2.

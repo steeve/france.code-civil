@@ -1,66 +1,48 @@
 Article R767-2
 ----
-I. - Le centre des liaisons européennes et internationales de sécurité sociale a
-pour missions :
+Le Centre des liaisons européennes et internationales de sécurité sociale a pour
+missions :
 
-1° De procéder, pour l'ensemble des institutions françaises de sécurité sociale
-intéressées, avec les institutions étrangères et les autres institutions
-concernées, au suivi et au règlement des créances et des dettes, à l'exception
-de celles relatives aux prestations de chômage, découlant de l'application des
-règlements de la Communauté européenne, des accords internationaux de sécurité
-sociale et des accords de coordination avec les régimes des collectivités
-territoriales et des territoires français ayant leur autonomie en matière de
-sécurité sociale.
+1° D'assurer la diffusion des règlements de l'Union européenne, des accords
+internationaux de sécurité sociale et des accords de coordination avec les
+régimes des collectivités territoriales et des territoires français ayant leur
+autonomie en matière de sécurité sociale, ainsi que d'une documentation
+actualisée sur la législation relative à la protection sociale des Etats
+étrangers ;
 
-2° De constituer, en liaison avec les institutions françaises de sécurité
-sociale concernées, les répertoires relatifs aux bénéficiaires des régimes
-français séjournant temporairement ou résidant à l'étranger ou dans les
-collectivités territoriales ou territoires précités, nécessaires pour effectuer
-les opérations de gestion mentionnées au 1° ci-dessus.
+2° De satisfaire aux demandes d'information formulées notamment par les
+particuliers et les entreprises et, le cas échéant, d'assurer des actions de
+formation dans son domaine de compétence. Cette mission comprend l'information
+sur les droits en matière de soins de santé transfrontaliers conformément à
+l'article 6 de la directive 2011/24/ UE du Parlement européen et du Conseil du 9
+mars 2011 ;
 
-3° De collecter les données statistiques et comptables sur la mise en oeuvre des
-règlements de la Communauté européenne, des accords internationaux de sécurité
-sociale et des autres accords de coordination, et d'établir un rapport annuel ;
+3° De contribuer à la mise en œuvre des règlements et accords mentionnés au 1°
+par les institutions françaises de sécurité sociale en assistant celles-ci pour
+l'instruction des dossiers individuels ;
 
-4° De fournir aux autorités ministérielles compétentes les éléments permettant
-d'apurer les comptes entre les organismes français de sécurité sociale et leurs
-homologues étrangers ainsi qu'avec les autres institutions concernées ;
+4° D'instruire, dans les conditions prévues par les règlements et accords
+mentionnés au 1° et, lorsque ces derniers le prévoient, de traiter les demandes
+individuelles relatives au maintien exceptionnel ou à la prolongation du
+maintien dans les régimes français de sécurité sociale des personnes travaillant
+hors de France ou dans les collectivités territoriales ou territoires précités,
+et les demandes individuelles relatives à l'exemption d'affiliation à ces
+régimes des personnes exerçant leur activité sur le territoire français ;
 
-5° D'instruire et de traiter, dans les conditions prévues par les règlements de
-la Communauté européenne, les accords internationaux de sécurité sociale et les
-autres accords de coordination, les demandes relatives au maintien exceptionnel
-ou à la prolongation du maintien aux régimes français de sécurité sociale des
-personnes travaillant hors de France ou dans les collectivités territoriales ou
-territoires précités, ou les demandes relatives à l'exemption d'affiliation à
-ces régimes des personnes exerçant leur activité sur le territoire français.
-
-II. - Le centre est également chargé :
-
-1° D'assister, si nécessaire, les institutions de sécurité sociale compétentes
-pour l'instruction des dossiers des personnes relevant des règlements de la
-Communauté européenne, des accords internationaux de sécurité sociale ou des
-autres accords de coordination ;
-
-2° De répondre aux demandes d'information formulées notamment par les assurés ou
-les entreprises dans son domaine de compétence ;
-
-3° D'apporter, si nécessaire, un appui technique au ministère chargé de la
-sécurité sociale dans le domaine des relations européennes et internationales et
-au ministère des affaires étrangères dans le cadre de l'action qu'il mène dans
+5° D'apporter, en tant que de besoin, un appui technique au ministre chargé de
+la sécurité sociale dans le domaine des relations européennes et internationales
+et au ministre des affaires étrangères dans le cadre de l'action qu'il mène dans
 le domaine de la protection sociale en faveur des Français installés à
 l'étranger ;
 
-4° De procéder, à la demande des organismes français, à la traduction des
-dossiers rédigés dans une langue étrangère qui leur sont adressés ;
+6° De collecter, pour toutes les branches de la sécurité sociale, les données
+statistiques et financières sur la mise en œuvre des règlements et accords
+mentionnés au 1° et d'établir un rapport annuel ;
 
-5° De tenir à jour une documentation sur la législation relative à la protection
-sociale des Etats étrangers ;
+7° De procéder à la traduction des documents rédigés dans une langue étrangère
+qui leur sont adressés par les organismes français ;
 
-6° D'établir et de communiquer aux usagers ou organismes qui en font la demande
-les textes et documents relatifs aux règlements de la Communauté européenne et
-aux accords de coordination en matière de sécurité sociale ;
-
-7° D'accomplir, dans le domaine de la sécurité sociale, toutes autres tâches qui
-lui seraient confiées concernant les personnes visées par les règlements de la
-Communauté européenne, les accords internationaux et les autres accords de
-coordination ainsi que la coopération technique avec les Etats étrangers.
+8° D'accomplir, dans le domaine de la sécurité sociale, toutes autres tâches qui
+lui seraient confiées concernant les personnes visées par les règlements et
+accords mentionnés au 1° ainsi que la coopération technique avec les Etats
+étrangers.
