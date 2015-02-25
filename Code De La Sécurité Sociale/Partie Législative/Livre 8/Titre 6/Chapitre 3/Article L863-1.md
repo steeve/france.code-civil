@@ -2,8 +2,10 @@ Article L863-1
 ----
 Ouvrent droit à un crédit d'impôt au titre de la taxe collectée en application
 de l'article L. 862-4 les contrats d'assurance complémentaire de santé
-individuels souscrits auprès d'une mutuelle, d'une entreprise régie par le code
-des assurances ou d'une institution de prévoyance par les personnes résidant en
+individuels sélectionnés dans le cadre de la procédure de mise en concurrence
+prévue à l'article L. 863-6, respectant les conditions fixées à l'article L.
+871-1 et souscrits auprès d'une mutuelle, d'une entreprise régie par le code des
+assurances ou d'une institution de prévoyance par les personnes résidant en
 France dans les conditions fixées à l'article L. 861-1 dont les ressources,
 appréciées dans les conditions prévues aux articles L. 861-2 et L. 861-2-1, sont
 comprises entre le plafond prévu à l'article L. 861-1 et ce même plafond majoré

@@ -1,32 +1,36 @@
 Article Annexe 2 (R611-21 et R611-22)
 ----
+Annexe 2 à l'article R. 611-21
+
 Circonscription et composition des conseils d'administration des caisses de base
 du régime social des travailleurs indépendants
 
 
-Élus
+I - Caisses communes aux groupes des artisans et des industriels ou commerçants
 
-Catég.
+ÉLUS
 
 
 Caisses de base
 
-Circonscription
-
-
 Artisans
-
-Industriels et commerçants
 
 
 Professions libérales
 
 Total des élus
 
+Catég.
+
 
 Circonscription
 
-N°
+Industriels et commerçants
+
+
+Circonscription
+
+No
 
 
 Départements
@@ -43,9 +47,8 @@ Retraités
 
 Actifs
 
-retraités
 
-I.- Caisses communes aux groupes des artisans et des industriels ou commerçants
+Retraités
 
 1
 
@@ -109,13 +112,11 @@ Haute-Corse, Corse-du-Sud.
 
 4
 
-1
-
 Franche-Comté.
 
 25-39-70-90.
 
-Doubs, Jura, Haute-Savoie, Territoire de Belfort.
+Doubs, Jura, Haute-Saône, Territoire-de-Belfort.
 
 8
 
@@ -128,8 +129,6 @@ Doubs, Jura, Haute-Savoie, Territoire de Belfort.
 24
 
 5
-
-1
 
 Limousin.
 
@@ -191,7 +190,7 @@ Allier, Cantal, Haute-Loire, Puy-de-Dôme.
 
 2
 
-Bourgogne.
+Bourgogne,
 
 21-58-71-89.
 
@@ -231,7 +230,7 @@ Meurthe-et-Moselle, Meuse, Moselle, Vosges.
 
 2
 
-Bassse-Normandie.
+Basse-Normandie.
 
 14-50-61.
 
@@ -253,7 +252,7 @@ Calvados, Manche, Orne.
 
 Haute-Normandie.
 
-27-76.
+27-76,
 
 Eure, Seine-Maritime.
 
@@ -331,11 +330,12 @@ Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques.
 
 3
 
-Bretagne.
+
+Bretagne
 
 22-29-35-56.
 
-Côtes-d'Armor, Finistère, Ile-et-Vilaine, Morbihan.
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.
 
 12
 
@@ -353,7 +353,7 @@ Côtes-d'Armor, Finistère, Ile-et-Vilaine, Morbihan.
 
 Centre.
 
-28-36-37-41-45.
+18-28-36-37-41-45.
 
 Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret.
 
@@ -536,7 +536,7 @@ Provence-Alpes.
 
 04-05-13-84.
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse.
+Alpes-de-Haute‑ Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse.
 
 12
 
@@ -568,34 +568,20 @@ Ain, Ardèche, Loire, Rhône.
 
 36
 
-II. - Caisses des professions libérales
+
+II - Caisse des professions libérales de France métropolitaine
 
 27
 
-2
-
-PL Ile-de-France.
-
-75-77-78-91-92-93-94-95.
-
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis,
-Val-de-Marne, Val-d'Oise.
-
-20
-
-10
-
-30
-
-28
-
 3
 
-PL province.
 
-Province.
+France métropolitaine
 
-Province.
+France métropolitaine
+
+
+France métropolitaine
 
 24
 
@@ -603,15 +589,15 @@ Province.
 
 36
 
-III. - Caisses des départements d'outre-mer
+III - Caisses des départements d'outre-mer
 
-29
+28
 
 1
 
 Antilles-Guyane.
 
-971-972-973.
+971-972-973,
 
 Guadeloupe, Guyane, Martinique.
 
@@ -629,7 +615,7 @@ Guadeloupe, Guyane, Martinique.
 
 24
 
-30
+29
 
 1
 

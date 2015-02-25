@@ -2075,7 +2075,7 @@ Roanne
 
 Roanne
 
-Cantons de Bclmont-de-la-Loire, Charlicu, La Pacaudière, Néronde, Perreux,
+Cantons de Belmont-de-la-Loire, Charlicu, La Pacaudière, Néronde, Perreux,
 Roanne-Nord, Roanne-Sud, Saint-Germain-Laval, Saint-Haon-le-Châtel,
 Saint-Just-en-Chevalet et Saint-Symphorien-de-Lay.
 
@@ -2285,28 +2285,32 @@ Cantons d'Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Mur de-Barrez,
 Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte Geneviève-sur-Argence et
 Saint-Geniez-d'Olt. (9)]
 
-[Millau (10)]
+
+Millau
 
 Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est,
 Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély,
 Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et
 Vézins-de-Lévézou.
 
-[Rodez
 
-Cantons de Baraqueville-Sauveterre, Bozouls, Cassagnes-Bégonhès, Conques, La
-Salvetat-Peyralès, Laissac, Marcillac-Vallon, Naucelle, Pont-de-Salars,
-Réquista, Rignac, Rodez-Est, Rodez-Nord et Rodez Ouest. (9)]
-
-[Rodez
+Rodez
 
 Cantons d'Aubin, Baraqueville-Sauveterre, Bozouls, Capdenac-Gare,
 Cassagnes-Bégonhès, Conques, Decazeville, Entraygues-sur-Truyère, Espalion,
 Estaing, Laguiole, Laissac, La Salvetat-Peyralès, Marcillac-Vallon, Montbazens,
 Mur-de-Barrez, Najac, Naucelle, Pont-de-Salars, Réquista, Rieupeyroux, Rignac,
-Rodez-Est, Rodez-Nord, Rodez Ouest, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac,
+Rodez-Est, Rodez-Nord, Rodez-Ouest, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac,
 Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt, Villefranche-de-Rouergue et
-Villeneuve. (10)]
+Villeneuve.
+
+
+Dont une chambre détachée à Millau
+
+Ressort de la chambre détachée à Millau : Cantons de Belmont-sur-Rance, Camarès,
+Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique,
+Saint-Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan,
+Sévérac-le-Château et Vézins-de-Lévézou.
 
 [Villefranche-de-Rouergue
 

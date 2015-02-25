@@ -36,11 +36,17 @@ infractions visées à l'article 706-107 commises hors des espaces maritimes sou
 juridiction française à bord d'un navire français, le tribunal de grande
 instance compétent est le tribunal de grande instance de Paris.
 
-Art. 706-109.-Le procureur de la République, le juge d'instruction, la formation
-correctionnelle spécialisée du tribunal de grande instance mentionné à l'article
-706-107 exercent, sur toute l'étendue du ressort fixé en application de cet
-article, une compétence concurrente à celle qui résulte de l'application des
-articles 43,52,382 et 706-42.
+Le tribunal de grande instance de Paris est également compétent pour l'enquête,
+la poursuite, l'instruction et le jugement de l'infraction visée à l'article L.
+218-22 du code de l'environnement, ainsi que des infractions qui lui sont
+connexes, lorsque ces infractions sont commises dans la zone économique
+exclusive ou dans la zone de protection écologique.
+
+Art. 706-109.-Le procureur de la République, le pôle de l'instruction, la
+formation correctionnelle spécialisée du tribunal de grande instance mentionné à
+l'article 706-107 exercent, sur toute l'étendue du ressort fixé en application
+de cet article, une compétence concurrente à celle qui résulte de l'application
+des articles 43, 52, 382 et 706-42.
 
 Ils exercent également, dans les mêmes conditions, une compétence concurrente à
 celle qui résulte des critères de compétence suivants :
@@ -52,10 +58,9 @@ en douanes ;
 
 La juridiction spécialisée saisie demeure compétente, quelles que soient les
 incriminations retenues lors du règlement ou du jugement de l'affaire.
-Toutefois, si les faits constituent une contravention, le juge d'instruction
-prononce le renvoi de l'affaire devant le tribunal de police compétent en
-application de l'article 522 ou devant la juridiction de proximité compétente en
-application de l'article 522-1.
+Toutefois, si les faits constituent une contravention, le collège de
+l'instruction prononce le renvoi de l'affaire devant le tribunal de police
+compétent en application de l'article 522.
 
 Art. 706-110.-Le procureur de la République près un tribunal de grande instance
 autre que ceux visés à l'article 706-107 peut, pour les infractions entrant dans
@@ -87,7 +92,7 @@ dessaisissement a été ordonné ou refusé se trouve dans le ressort de la cour
 d'appel dans lequel est située la juridiction initialement saisie, soit, dans le
 cas contraire, à la chambre criminelle de la Cour de cassation. La chambre de
 l'instruction ou la chambre criminelle désigne, dans les huit jours suivant la
-date de réception du dossier, la juridiction chargée de poursuivre
+date de réception du dossier, le juge d'instruction chargé de poursuivre
 l'information. Le ministère public peut également saisir directement la chambre
 de l'instruction ou la chambre criminelle de la Cour de cassation lorsque le
 juge d'instruction n'a pas rendu son ordonnance dans le délai d'un mois prévu au

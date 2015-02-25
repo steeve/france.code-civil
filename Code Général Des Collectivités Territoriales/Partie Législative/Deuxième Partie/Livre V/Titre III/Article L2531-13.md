@@ -38,10 +38,7 @@ d'Ile-de-France ne peut excéder 11 % des dépenses réelles de fonctionnement d
 la commune constatées dans le compte administratif afférent au pénultième
 exercice ;
 
-b) Il ne peut excéder 120 % en 2012, 130 % en 2013, 140 % en 2014 et, à compter
-de 2015, 150 % du montant du prélèvement opéré au titre de l'année 2009
-conformément à l'article L. 2531-13 dans sa rédaction en vigueur au 31 décembre
-2009 ;
+b) (Abrogé)
 
 c) Le prélèvement sur les communes qui contribuent au fonds pour la première
 fois fait l'objet d'un abattement de 50 % ;

@@ -4,7 +4,9 @@ Les ressources de l'agence sont constituées par :
 
 1° Une subvention de l'Etat ;
 
-2° Des contributions des régimes d'assurance maladie ;
+2° Des contributions des régimes d'assurance maladie dont le montant et la
+répartition entre les régimes sont fixés chaque année par arrêté des ministres
+chargés de la santé, de la sécurité sociale et de l'agriculture ;
 
 3° Des contributions de la Caisse nationale de solidarité pour l'autonomie pour
 des actions concernant les établissements et services médico-sociaux ou les
@@ -16,5 +18,5 @@ handicapées ;
 5° Sur une base volontaire, des versements de collectivités territoriales ou
 d'autres établissements publics.
 
-Les contributions prévues aux 2° et 3° sont déterminées par la loi de
-financement de la sécurité sociale.
+La contribution prévue au 3° est déterminée par la loi de financement de la
+sécurité sociale.

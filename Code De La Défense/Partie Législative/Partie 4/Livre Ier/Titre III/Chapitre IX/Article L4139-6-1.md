@@ -4,8 +4,8 @@ Le militaire de carrière se trouvant à moins de deux ans de la limite d'âge d
 son grade, l'officier sous contrat et le militaire engagé se trouvant à moins de
 deux ans de la limite de durée des services ainsi que le militaire en congé de
 reconversion peuvent, sur demande agréée, créer une entreprise régie par les
-articles L. 133-6-8-1 et L. 133-6-8-2 du code de la sécurité sociale et 50-0 et
-102 ter du code général des impôts.
+articles L. 133-6-8 du code de la sécurité sociale et 50-0 et 102 ter du code
+général des impôts.
 
 Le cumul de cette activité avec l'activité principale des militaires est
 autorisé dans les conditions prévues aux cinquième et sixième alinéas de

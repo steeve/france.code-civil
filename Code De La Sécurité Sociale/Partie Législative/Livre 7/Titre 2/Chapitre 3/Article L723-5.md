@@ -8,8 +8,7 @@ l'ancienneté d'exercice depuis la prestation de serment.
 
 La caisse perçoit également une cotisation assise sur les revenus définis en
 application des articles L. 131-6, L. 131-6-1 et L. 131-6-2 dans la limite d'un
-plafond fixé par décret ; le taux de cette cotisation est également fixé par
-décret.
+plafond fixé par décret.
 
 La caisse reçoit une contribution du fonds institué par l'article L. 135-1 dans
 les conditions fixées par l'article L. 135-2.

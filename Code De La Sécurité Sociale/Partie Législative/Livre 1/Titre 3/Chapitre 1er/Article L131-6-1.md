@@ -1,10 +1,11 @@
 Article L131-6-1
 ----
 Par dérogation à l'article L. 131-6-2 et au premier alinéa de l'article L.
-6331-51 du code du travail et lorsqu'il n'est pas fait application de l'article
-L. 133-6-8 du présent code, sur demande du travailleur non salarié, il n'est
-exigé aucune cotisation ou contribution, provisionnelle ou définitive, pendant
-les douze premiers mois suivant le début de l'activité non salariée.
+6331-51 du code du travail , le travailleur indépendant non agricole ne relevant
+pas du régime prévu à l'article L. 133-6-8 du présent code peut demander qu'il
+ne lui soit exigé aucune cotisation ou contribution, provisionnelle ou
+définitive, pendant les douze premiers mois suivant le début de l'activité non
+salariée.
 
 Les cotisations définitives dues au titre de cette période peuvent faire
 l'objet, à la demande du travailleur non salarié, d'un paiement par fractions
