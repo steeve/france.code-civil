@@ -1,8 +1,7 @@
 Article R767-7
 ----
 Le centre des liaisons européennes et internationales de sécurité sociale est
-dirigé par un directeur assisté d'un secrétaire général qui le supplée en tant
-que de besoin.
+dirigé par un directeur.
 
 Le directeur dirige l'établissement et exerce celles des compétences de celui-ci
 qui ne sont pas attribuées à une autre autorité par la présente section. A ce
@@ -26,5 +25,14 @@ autorité n'a reçu pouvoir de nomination ;
 7° Il représente l'établissement en justice et dans tous les actes de la vie
 civile ;
 
-8° Il signe les autorisations découlant de l'application du 5° du I de l'article
-R. 767-2.
+8° Il signe les autorisations découlant de l'application du 4° de l'article R.
+767-2 (1).
+
+Le directeur peut déléguer sa signature à ceux de ses collaborateurs qui
+exercent des fonctions de direction au sein de l'établissement pour effectuer en
+son nom soit certains actes, soit tous les actes relatifs à certaines de ses
+attributions.
+
+En cas de vacance d'emploi, d'absence momentanée ou d'empêchement du directeur,
+ses fonctions sont exercées par un agent de direction de l'établissement désigné
+préalablement à cet effet par le directeur.
