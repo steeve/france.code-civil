@@ -49,3 +49,7 @@ statuent également sur des conclusions relatives à cotisation foncière des
 entreprises, à la demande du même contribuable, et que les deux impositions
 reposent, en tout ou partie, sur la valeur des mêmes biens appréciée la même
 année.
+
+Le tribunal administratif statue également en premier et dernier ressort sur les
+recours sur renvoi de l'autorité judiciaire et sur les saisines de l'autorité
+judiciaire en application de l'article 49 du code de procédure civile.

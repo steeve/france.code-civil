@@ -1,4 +1,4 @@
-Article R771-1
+Article R111-9
 ----
 Les difficultés de compétence entre la juridiction administrative et la
 juridiction judiciaire sont réglées par le Tribunal des conflits conformément
