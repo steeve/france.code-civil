@@ -32,9 +32,8 @@ Le fabricant ou le distributeur du produit ou de la prestation doit s'acquitter
 du montant de la pénalité financière dans un délai d'un mois auprès de l'agent
 comptable de l'organisme compétent mentionné à l'article L. 213-1.
 
-En l'absence de paiement dans un délai d'un mois, la pénalité est recouvrée dans
-les conditions prévues au titre III du décret n° 2012-1246 du 7 novembre 2012
-relatif à la gestion budgétaire et comptable publique.
+Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont
+applicables au recouvrement de cette pénalité.
 
 III. ― Le produit de la pénalité est affecté à la Caisse nationale de
 l'assurance maladie des travailleurs salariés. L'agent comptable informe le

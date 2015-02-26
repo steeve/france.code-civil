@@ -30,9 +30,8 @@ Dans un délai d'un mois à compter de la notification, le fabricant, le
 mandataire ou le distributeur s'acquitte de la pénalité auprès de l'agent
 comptable de l'organisme de recouvrement compétent.
 
-En l'absence de paiement dans ce délai, la pénalité est recouvrée dans les
-conditions prévues au titre III du décret n° 2012-1246 du 7 novembre 2012
-relatif à la gestion budgétaire et comptable publique.
+Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont
+applicables au recouvrement de cette pénalité.
 
 IV.-L'agent comptable de l'organisme de recouvrement compétent informe les
 ministres chargés de la santé et de la sécurité sociale des montants perçus.

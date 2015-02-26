@@ -16,12 +16,12 @@ information, l'entreprise peut présenter des observations écrites au Comité
 entendue par le comité.
 
 Le montant de la pénalité financière est calculé, sur la base du chiffre
-d'affaires hors taxes total réalisé par l'entreprise au cours du dernier
-exercice clos et dans la limite de 5 % de ce chiffre d'affaires (1), en fonction
-de la gravité des conséquences sur la santé publique et des conséquences
-économiques pour l'assurance maladie qu'a entraînées ou pourrait entraîner,
-compte tenu de leur importance quantitative et qualitative, l'absence de
-fourniture des données ou leur fourniture tardive.
+d'affaires hors taxes total réalisé en France par l'entreprise au cours du
+dernier exercice clos et dans la limite de 5 % de ce chiffre d'affaires, en
+fonction de la gravité des conséquences sur la santé publique et des
+conséquences économiques pour l'assurance maladie qu'a entraînées ou pourrait
+entraîner, compte tenu de leur importance quantitative et qualitative, l'absence
+de fourniture des données ou leur fourniture tardive.
 
 Le Comité économique des produits de santé notifie à l'entreprise par lettre
 recommandée avec avis de réception et à l'Agence centrale des organismes de
@@ -32,7 +32,7 @@ mois et mentionne les voies et délais de recours applicables. Les entreprises
 sont tenues de déclarer au Comité économique des produits de santé les éléments
 relatifs à leur chiffre d'affaires nécessaires au calcul de la pénalité.
 
-En l'absence de paiement dans un délai d'un mois, l'agent comptable de l'agence
-centrale procède au recouvrement de la pénalité, dans les conditions prévues à
-l'article 192 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
-budgétaire et comptable publique.
+L'entreprise s'acquitte de la pénalité auprès de l'agent comptable de
+l'organisme de recouvrement compétent dans le délai d'un mois précité. Les deux
+premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont applicables au
+recouvrement de cette pénalité.

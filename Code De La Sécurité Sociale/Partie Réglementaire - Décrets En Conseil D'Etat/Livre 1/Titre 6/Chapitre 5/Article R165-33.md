@@ -39,9 +39,8 @@ d'effectuer la déclaration prévue à l'article L. 165-5. Dans le cas où il
 persiste pendant un an à manquer à cette obligation, il s'expose à la
 reconduction de la procédure de sanction.
 
-En cas de défaut de paiement dans un délai d'un mois, la pénalité est recouvrée
-dans les conditions prévues à l'article 192 du décret n° 2012-1246 du 7 novembre
-2012 relatif à la gestion budgétaire et comptable publique.
+Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont
+applicables au recouvrement de cette pénalité.
 
 Le produit de la pénalité est affecté à la Caisse nationale de l'assurance
 maladie des travailleurs salariés. L'agent comptable de cet organisme notifie à

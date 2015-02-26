@@ -33,9 +33,8 @@ l'organisme compétent mentionné à l'article L. 213-1. Les entreprises sont
 tenues de déclarer au comité économique des produits de santé les éléments de
 leur chiffre d'affaires nécessaires à la fixation de la pénalité.
 
-En l'absence de paiement dans un délai d'un mois, la pénalité est recouvrée dans
-les conditions prévues à l'article 192 du décret n° 2012-1246 du 7 novembre 2012
-relatif à la gestion budgétaire et comptable publique.
+Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont
+applicables au recouvrement de cette pénalité.
 
 Le produit de la pénalité est affecté à la Caisse nationale de l'assurance
 maladie des travailleurs salariés. L'agent comptable notifie au comité
