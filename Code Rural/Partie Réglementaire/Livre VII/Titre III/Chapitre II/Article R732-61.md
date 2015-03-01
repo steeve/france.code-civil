@@ -12,9 +12,11 @@ reconnues équivalentes mentionnée à l'article L. 732-25, le montant de sa
 pension de retraite forfaitaire est, avant application de la majoration prévue à
 l'article L. 732-25-1 :
 
-1° Egal à celui de l'allocation aux vieux travailleurs salariés à condition
-qu'il ait exercé une activité agricole non salariée d'une durée au moins égale à
-la durée minimale mentionnée au 1° de l'article L. 732-24.
+1° Egal à celui de l'allocation aux vieux travailleurs salariés au 1er janvier
+2014 revalorisé dans les conditions prévues à l'article L. 161-23-1 du code de
+la sécurité sociale à condition qu'il ait exercé une activité agricole non
+salariée d'une durée au moins égale à la durée minimale mentionnée au 1° de
+l'article L. 732-24.
 
 Cette durée est fixée :
 
