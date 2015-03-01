@@ -21,9 +21,7 @@ effectuée ;
 retard pour le recouvrement desquelles l'opposition est effectuée et la période
 à laquelle elles se rapportent ;
 
-6° L'indication que les créances en cause bénéficient du privilège et, le cas
-échéant, la désignation de la juridiction auprès de laquelle les créances en
-cause ont donné lieu à inscription de privilège ;
+6° (Abrogé) ;
 
 7° L'indication que l'opposition est effectuée sur le fondement des articles L.
 652-3 et R. 652-2 à R. 652-8 du code de la sécurité sociale ;
@@ -66,3 +64,6 @@ ainsi que tous les renseignements nécessaires à la mise en oeuvre de la mesure
 
 L'article R. 52-11 du code des postes et télécommunications et l'article L.
 221-5 du code monétaire et financier sont applicables.
+
+L'opposition peut être notifiée par voie électronique dans les conditions
+définies par le décret n° 2015-243 du 2 mars 2015.
