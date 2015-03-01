@@ -6,8 +6,8 @@ est fixée par le directeur général de l'Agence de la biomédecine.
 Cette demande est adressée par le directeur de l'établissement au directeur
 général de l'Agence de la biomédecine sous pli recommandé avec demande d'avis de
 réception ou déposée contre récépissé auprès de l'Agence dans les mêmes
-conditions. Cette demande est signée par les praticiens agréés mentionnés à
-l'article R. 2131-30.
+conditions. Cette demande est signée par les praticiens agréés pour les
+activités mentionnées à l'article R. 2131-22-2.
 
 Les demandes d'autorisation ou de renouvellement d'autorisation sont instruites
 par l'Agence de la biomédecine et font l'objet d'un avis du directeur général de

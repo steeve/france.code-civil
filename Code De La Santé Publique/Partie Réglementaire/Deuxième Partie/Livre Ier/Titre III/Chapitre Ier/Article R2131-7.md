@@ -25,3 +25,6 @@ Les pièces du dossier justificatif prévu à l'article R. 6122-32 sont complét
 ou remplacées par les pièces d'un dossier particulier dont la composition est
 fixée par arrêté du ministre chargé de la santé, pris après avis du directeur
 général de l'Agence de la biomédecine.
+
+Ce dossier contient les documents permettant de prouver la compétence des
+praticiens prévus à l'article R. 2131-3.
