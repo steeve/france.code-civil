@@ -5,7 +5,7 @@ formation professionnelle des bénéficiaires mentionnés à l'article R. 6331-5
 dans le respect des conditions fixées par les dispositions du chapitre III du
 titre Ier du présent livre et des articles L. 6353-1 et L. 6353-2. Il détermine
 les critères et les modalités de prise en charge des actions de formation
-financées par le fonds.
+financées par le fonds. Le fonds rend publiques ces informations.
 
 Il fixe les principes de gestion et les règles de procédure applicables au
 financement des actions de formation. Il contrôle leur mise en œuvre.

@@ -18,3 +18,16 @@ législatives et réglementaires en vigueur.
 
 En cas de modification de ce statut ou de ce règlement, une nouvelle
 habilitation est requise.
+
+IV. - En cas de non-respect des dispositions législatives et réglementaires
+applicables, l'habilitation peut être retirée par arrêté conjoint des autorités
+mentionnées au III. Préalablement à cette décision, le conseil d'administration
+du fonds est informé et appelé à présenter ses observations.
+
+Cet arrêté est motivé et précise la date à laquelle il prend effet ainsi que les
+modalités de dévolution des biens du fonds dans les conditions prévues à
+l'article R. 6331-63. Il fait l'objet d'une publication au Journal officiel de
+la République française.
+
+V. - L'acte constitutif du fonds détermine son champ professionnel par référence
+à la nomenclature des activités françaises de l'artisanat.
