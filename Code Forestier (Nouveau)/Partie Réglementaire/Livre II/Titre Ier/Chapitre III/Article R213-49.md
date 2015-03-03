@@ -1,6 +1,10 @@
 Article R213-49
 ----
-Les lots dans lesquels le droit de chasse n'est ni affermé ni concédé par voie
-de licences pendant une durée supérieure à un an sont obligatoirement constitués
-en réserve approuvée en application de l'article L. 422-27 du code de
-l'environnement.
+L'Office national des forêts peut se voir confier, par convention passée avec le
+propriétaire, l'exploitation du droit de chasse dans les bois et forêts autres
+que ceux appartenant à l'Etat. Lorsque ceux-ci appartiennent à des particuliers,
+la convention est conclue pour une durée d'au moins dix années.
+
+Afin d'améliorer la gestion de la faune sauvage sur les terrains dont il assure
+la gestion, l'Office national des forêts peut prendre en location le droit de
+chasse sur des propriétés voisines.
