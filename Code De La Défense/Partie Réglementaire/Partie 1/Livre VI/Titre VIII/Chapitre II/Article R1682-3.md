@@ -15,8 +15,8 @@ La commission comprend en outre :
 1° Le directeur des finances publiques, régional ou chargé d'une direction
 locale ou son représentant ;
 
-2° Le commissaire de l'armée de terre, le commissaire de la marine ou le
-commissaire de l'air territorialement compétent ;
+2° Un officier désigné par le directeur central du service du commissariat des
+armées ;
 
 3° Dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte,
 les chefs des services des ministères de l'industrie, des transports, de

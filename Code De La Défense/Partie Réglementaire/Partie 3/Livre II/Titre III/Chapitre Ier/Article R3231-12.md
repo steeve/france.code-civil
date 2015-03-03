@@ -5,6 +5,6 @@ contrôle de toutes les opérations comptables afin de s'assurer de leur réalit
 de leur exactitude et de leur conformité aux dispositions législatives et
 réglementaires.
 
-Elle est assurée par des commissaires désignés à cet effet qui, pour l'exercice
-de cette responsabilité particulière, sont responsables devant le ministre de la
-défense.
+Elle est assurée par des commissaires des armées désignés à cet effet qui, pour
+l'exercice de cette responsabilité particulière, sont responsables devant le
+ministre de la défense.

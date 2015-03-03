@@ -1,8 +1,7 @@
 Article R3232-10
 ----
 Le service du commissariat des armées est dirigé par un directeur central,
-officier général du corps des commissaires de l'armée de terre, de la marine ou
-de l'air.
+officier général du corps des commissaires des armées.
 
 La composition et le fonctionnement du conseil de gestion du service du
 commissariat des armées sont fixés par arrêté du ministre de la défense. Outre
