@@ -1,16 +1,52 @@
 Article L5211-6-1
 ----
-I. - Le nombre et la répartition des sièges de conseiller communautaire sont
+I.-Le nombre et la répartition des sièges de conseiller communautaire sont
 établis :
 
-- (Abrogé)
+1° Soit selon les modalités prévues aux II à VI du présent article ;
 
-- soit selon les modalités prévues aux II à VI du présent article.
+2° Soit, dans les communautés de communes et dans les communautés
+d'agglomération, par accord des deux tiers au moins des conseils municipaux des
+communes membres représentant plus de la moitié de la population de celles-ci ou
+de la moitié au moins des conseils municipaux des communes membres représentant
+plus des deux tiers de la population de celles-ci. Cette majorité doit
+comprendre le conseil municipal de la commune dont la population est la plus
+nombreuse, lorsque celle-ci est supérieure au quart de la population des
+communes membres.
 
-II. - Dans les métropoles et les communautés urbaines et, à défaut d'accord,
-dans les communautés de communes et les communautés d'agglomération, la
-composition de l'organe délibérant est établie par les III à VI selon les
-principes suivants :
+La répartition des sièges effectuée par l'accord prévu au présent 2° respecte
+les modalités suivantes :
+
+a) Le nombre total de sièges répartis entre les communes ne peut excéder de plus
+de 25 % celui qui serait attribué en application des III et IV du présent
+article ;
+
+b) Les sièges sont répartis en fonction de la population municipale de chaque
+commune, authentifiée par le plus récent décret publié en application de
+l'article 156 de la loi n° 2002-276 du 27 février 2002 relative à la démocratie
+de proximité ;
+
+c) Chaque commune dispose d'au moins un siège ;
+
+d) Aucune commune ne peut disposer de plus de la moitié des sièges ;
+
+e) Sans préjudice des c et d, la part de sièges attribuée à chaque commune ne
+peut s'écarter de plus de 20 % de la proportion de sa population dans la
+population globale des communes membres, sauf :
+
+-lorsque la répartition effectuée en application des III et IV du présent
+article conduirait à ce que la part de sièges attribuée à une commune s'écarte
+de plus de 20 % de la proportion de sa population dans la population globale et
+que la répartition effectuée par l'accord maintient ou réduit cet écart ;
+
+-lorsque deux sièges seraient attribués à une commune pour laquelle la
+répartition effectuée en application du 1° du IV conduirait à l'attribution d'un
+seul siège.
+
+II.-Dans les métropoles et les communautés urbaines et, à défaut d'accord, dans
+les communautés de communes et les communautés d'agglomération, la composition
+de l'organe délibérant est établie par les III à VI selon les principes suivants
+:
 
 1° L'attribution des sièges à la représentation proportionnelle à la plus forte
 moyenne aux communes membres de l'établissement public de coopération
@@ -20,8 +56,8 @@ essentiellement démographique ;
 2° L'attribution d'un siège à chaque commune membre de l'établissement public de
 coopération intercommunale assure la représentation de l'ensemble des communes.
 
-III. - Chaque organe délibérant est composé de conseillers communautaires dont
-le nombre est établi à partir du tableau ci-dessous.
+III.-Chaque organe délibérant est composé de conseillers communautaires dont le
+nombre est établi à partir du tableau ci-dessous.
 
 POPULATION MUNICIPALE DE L'ÉTABLISSEMENT public de coopération intercommunale à
 fiscalité propre
@@ -118,7 +154,7 @@ Plus de 1 000 000 habitants
 
 Ce nombre peut être modifié dans les conditions prévues aux 2°, 4° ou 5° du IV.
 
-IV. - La répartition des sièges est établie selon les modalités suivantes :
+IV.-La répartition des sièges est établie selon les modalités suivantes :
 
 1° Les sièges à pourvoir prévus au tableau du III sont répartis entre les
 communes à la représentation proportionnelle à la plus forte moyenne, sur la
@@ -133,11 +169,11 @@ tableau du III ;
 3° Si, après application des modalités prévues aux 1° et 2° du présent IV, une
 commune obtient plus de la moitié des sièges de l'organe délibérant :
 
-- seul un nombre de sièges portant le nombre total de ses conseillers
+-seul un nombre de sièges portant le nombre total de ses conseillers
 communautaires à la moitié des sièges de l'organe délibérant, arrondie à
 l'entier inférieur, lui est finalement attribué ;
 
-- les sièges qui, par application de l'alinéa précédent, se trouvent non
+-les sièges qui, par application de l'alinéa précédent, se trouvent non
 attribués sont ensuite répartis entre les autres communes suivant la règle de la
 plus forte moyenne, sur la base de leur population municipale authentifiée par
 le plus récent décret publié en application de l'article 156 de la loi n°
@@ -159,25 +195,44 @@ totalité des sièges, répartis en application des 1° et 2° du même IV.
 l'attribution du dernier siège, chacune de ces communes se voit attribuer un
 siège.
 
-V. - Dans les communautés de communes et les communautés d'agglomération, si les
+V.-Dans les communautés de communes et les communautés d'agglomération, si les
 sièges attribués sur le fondement du 2° du IV excèdent 30 % du nombre de sièges
 définis au deuxième alinéa du III, 10 % du nombre total de sièges issus de
 l'application des III et IV sont attribués aux communes selon les modalités
 prévues au IV. Dans ce cas, il ne peut être fait application du VI.
 
-VI. - A l'exception des communes de la métropole d'Aix-Marseille-Provence, les
-communes peuvent créer et répartir un nombre de sièges inférieur ou égal à 10 %
-du nombre total de sièges issu de l'application des III et IV. Cette décision
-est prise à la majorité des deux tiers des conseils municipaux des communes
-intéressées représentant plus de la moitié de la population totale de celles-ci
-ou par la moitié au moins des conseils municipaux des communes représentant les
-deux tiers de la population totale.
+VI.-Dans les métropoles et les communautés urbaines, à l'exception de la
+métropole d'Aix-Marseille-Provence, et à défaut d'accord conclu dans les
+conditions prévues au 2° du I dans les communautés de communes et les
+communautés d'agglomération, les communes peuvent créer et répartir un nombre de
+sièges supplémentaires inférieur ou égal à 10 % du nombre total de sièges issu
+de l'application des III et IV.
 
-Pour les communautés urbaines et les métropoles, cette décision peut fixer pour
-une commune un nombre de sièges supérieur à la moitié des sièges de l'organe
-délibérant.
+La part globale de sièges attribuée à chaque commune en application des III, IV
+et du présent VI ne peut s'écarter de plus de 20 % de la proportion de sa
+population dans la population globale des communes membres, sauf :
 
-VII. - Au plus tard le 31 août de l'année précédant celle du renouvellement
+1° Lorsque la répartition effectuée en application des III et IV conduirait à ce
+que la part de sièges attribuée à une commune s'écarte de plus de 20 % de la
+proportion de sa population dans la population globale et que l'attribution
+effectuée en application du présent VI maintient ou réduit cet écart ;
+
+2° Lorsqu'un second siège serait attribué à une commune ayant bénéficié d'un
+seul siège en application du 1° du IV.
+
+Dans les métropoles et les communautés urbaines, la répartition effectuée en
+application du présent VI peut porter le nombre de sièges attribué à une commune
+à plus de la moitié de l'effectif de l'organe délibérant.
+
+La décision de création et de répartition de ces sièges supplémentaires est
+prise à la majorité des deux tiers au moins des conseils municipaux des communes
+membres représentant plus de la moitié de la population de celles-ci ou de la
+moitié au moins des conseils municipaux des communes membres représentant plus
+des deux tiers de la population de celles-ci. Cette majorité doit comprendre le
+conseil municipal de la commune dont la population est la plus nombreuse,
+lorsque celle-ci est supérieure au quart de la population des communes membres.
+
+VII.-Au plus tard le 31 août de l'année précédant celle du renouvellement
 général des conseils municipaux, il est procédé aux opérations prévues aux I, IV
 et VI. Au regard des délibérations sur le nombre et la répartition des sièges
 prévues aux I et VI et de la population municipale authentifiée par le plus
