@@ -1,7 +1,14 @@
 Article R412-13
 ----
 L'agrément " vacances adaptées organisées " est délivré par le préfet pour une
-durée de trois ans. Toutefois, au cours de cette période, l'organisme agréé est
-tenu de transmettre au préfet, chaque année, le programme de ses activités pour
-l'année suivante en lui indiquant les informations mentionnées au 2° de
-l'article R. 412-11.
+durée de cinq ans. Au cours de cette période, la personne physique ou morale
+agréée est tenue de transmettre au préfet, par tous moyens, y compris par
+télécopie ou par courrier électronique, un bilan circonstancié quantitatif,
+qualitatif et financier des activités de vacances adaptées organisées mises en
+œuvre dans le courant de l'année écoulée.
+
+Le bilan précise les moyens mis en œuvre pour remédier aux dysfonctionnements
+éventuellement constatés lors des contrôles.
+
+Il est tenu compte des bilans des quatre dernières années lors de l'examen de la
+demande de renouvellement d'agrément.
