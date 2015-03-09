@@ -10,5 +10,5 @@ actionnaires communs.
 
 Hormis la zone d'attraction unique constituée par les départements de Paris, des
 Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, on entend par zone
-d'attraction la zone d'influence cinématographique définie au II de l'article R.
-752-8 du code de commerce.
+d'attraction la zone d'influence cinématographique définie à l'article R.
+212-7-1.

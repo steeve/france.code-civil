@@ -8,8 +8,8 @@ cinématographiques dont l'exploitation est autorisée en vertu de l'article R.
 212-1. Pour apprécier cette complémentarité, le président du Centre national du
 cinéma et de l'image animée se réfère aux zones de chalandise respectives de
 l'activité du demandeur et de ces salles. La définition de la zone de chalandise
-est celle de la zone d'influence cinématographique au sens du II de l'article R.
-752-8 du code de commerce. Le président du Centre national du cinéma et de
-l'image animée peut demander au directeur régional des affaires culturelles de
-procéder à une consultation préalable d'experts en matière d'exploitation et de
-distribution cinématographiques et des personnes intéressées.
+est celle de la zone d'influence cinématographique au sens de l'article R.
+212-7-1. Le président du Centre national du cinéma et de l'image animée peut
+demander au directeur régional des affaires culturelles de procéder à une
+consultation préalable d'experts en matière d'exploitation et de distribution
+cinématographiques et des personnes intéressées.

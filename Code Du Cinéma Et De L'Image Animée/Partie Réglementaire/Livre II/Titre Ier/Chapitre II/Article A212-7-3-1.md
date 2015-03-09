@@ -1,8 +1,7 @@
-Article A212-7
+Article A212-7-3-1
 ----
-La demande portant sur les projets d'aménagement cinématographique prévue au III
-de l'article R. 752-7 du code de commerce est accompagnée des renseignements et
-documents suivants :
+La demande portant sur les projets d'aménagement cinématographique est
+accompagnée des renseignements et documents suivants :
 
 1° L'identité du demandeur : nom, prénom et adresse s'il s'agit d'une personne
 physique ou, s'il s'agit d'une personne morale, dénomination ou raison sociale,
@@ -40,8 +39,7 @@ attestation notariale faisant ressortir le nom du bénéficiaire du titre,
 l'identification des immeubles concernés et la durée de validité du titre ;
 
 6° La délimitation de la zone d'influence cinématographique de l'établissement
-de spectacles cinématographiques au sens du II de l'article R. 752-8 du code de
-commerce ;
+de spectacles cinématographiques ;
 
 7° L'indication de la population totale présente dans la zone d'influence
 cinématographique et de la population de chaque commune comprise dans cette zone
@@ -53,15 +51,19 @@ nombre de places de spectateurs de chacune de ses salles et, pour les projets
 portant sur une extension, l'indication du nombre de salles et de places de
 spectateurs par salle existante et envisagée ;
 
-9° Une liste des établissements de spectacles cinématographiques implantés dans
+9° La liste des dispositifs et matériels envisagés permettant l'accessibilité de
+l'établissement aux personnes handicapées, ainsi que les éventuelles
+concertations menées avec les associations représentant ces personnes ;
+
+10° Une liste des établissements de spectacles cinématographiques implantés dans
 la zone d'influence cinématographique précisant, pour chacun, le nombre de
 salles et de places de spectateurs ainsi que leur éventuelle appartenance à une
 entente ou à un groupement de programmation ;
 
-10° Une carte géographique faisant apparaître les établissements de spectacles
+11° Une carte géographique faisant apparaître les établissements de spectacles
 cinématographiques implantés dans la zone d'influence cinématographique ;
 
-11° Une étude destinée à permettre d'apprécier les effets prévisibles du projet
+12° Une étude destinée à permettre d'apprécier les effets prévisibles du projet
 au regard des critères prévus par l'article L. 212-9 et justifiant du respect
 des principes posés par l'article L. 212-6. Cette étude comporte :
 
@@ -71,7 +73,14 @@ diversité cinématographique offerte aux spectateurs en indiquant :
 -le projet de programmation envisagé pour l'établissement de spectacles
 cinématographiques en évaluant son apport à la diversité de l'offre
 cinématographique dans la zone d'influence cinématographique au regard de la
-fréquentation cinématographique globale escomptée ;
+fréquentation cinématographique globale escomptée ; ce projet comporte une
+estimation du pourcentage de séances consacrées respectivement aux œuvres
+cinématographiques d'art et d'essai en général, aux œuvres cinématographiques
+d'art et d'essai faisant l'objet d'un plan de sortie en salles de spectacles
+cinématographiques sur plus de 150 copies, aux œuvres cinématographiques d'art
+et d'essai dites jeune public, aux œuvres cinématographiques d'art et d'essai
+dites de patrimoine et aux œuvres cinématographiques diffusées en version
+originale ;
 
 -le type de programmation observé dans les établissements de spectacles
 cinématographiques implantés dans la zone d'influence cinématographique, au
@@ -102,4 +111,7 @@ différents parcs de stationnement présents ou futurs à proximité de
 l'établissement de spectacles cinématographiques ainsi que le nombre de places
 existantes ou envisagées dans ces parcs ;
 
--les caractéristiques architecturales du projet au regard de son environnement.
+-les caractéristiques architecturales du projet au regard de son environnement ;
+
+-la pertinence de la localisation du projet au regard du schéma de cohérence
+territoriale et du plan local d'urbanisme.
