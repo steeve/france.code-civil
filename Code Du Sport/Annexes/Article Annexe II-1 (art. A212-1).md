@@ -1887,6 +1887,13 @@ Encadrement, enseignement et animation d'activités de découverte, de loisir et
 d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de
 compétition en rugby à XV.
 
+BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)".
+
+Encadrement et animation d'activités d'éveil, de découverte et d'initiation en
+volley-ball et volley-ball de plage (beach volley) pour tous les publics.
+Conduite de cycles d'apprentissage, d'enseignement et d'entraînement, jusqu'aux
+premiers niveaux de compétition.
+
 Unités capitalisables complémentaires associées à la spécialité " activités
 aquatiques "
 
@@ -2383,7 +2390,20 @@ CONDITIONS D'EXERCICE
 LIMITES DES CONDITIONS D'EXERCICE
 
 CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon),
-option "quad" ou option "moto verte".
+option "quad".
+
+Encadrement en autonomie de randonnées en véhicules terrestres motorisés à
+guidon (VTM) pour des publics titulaires d'un permis ou d'un brevet délivré par
+l'Etat permettant la conduite des VTM à guidon utilisés conformément à l'article
+R. 221-1 du code de la route.
+
+A l'exclusion de toute activité d'enseignement ou d'entraînement. Dans la limite
+de six véhicules accompagnés.
+
+Sur des parcours connus et reconnus.
+
+CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon),
+option "moto verte".
 
 Encadrement en autonomie de randonnées en véhicules terrestres motorisés à
 guidon (VTM) pour des publics titulaires d'un permis ou d'un brevet délivré par
@@ -2850,6 +2870,24 @@ steeple, 5 000 m, 10 000 m, 5 000 m marche, 20 km marche et 50 km marche.
 Pour des publics de plus de 14 ans.
 
 Dans la limite de 12 pratiquants.
+
+CQP "technicien sportif d'athlétisme", option "fond/hors stade".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités
+d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national,
+dans les spécialités de l'option : courses supérieures au 10 000 m piste et
+disciplines hors stade (courses sur route, cross-country, courses à pied en
+nature).
+
+Pour des publics de plus de 14 ans. Dans la limite de 12 pratiquants.
+
+CQP "technicien sportif d'athlétisme", option "épreuves combinées".
+
+Encadrement en autonomie de séances collectives et individuelles d'activités
+d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national,
+dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon.
+
+Pour des publics de plus de 14 ans. Dans la limite de 12 pratiquants.
 
 F.-Diplômes délivrés par le ministère chargé de la santé
 
