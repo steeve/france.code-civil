@@ -17,4 +17,10 @@ de son siège social ;
 
 3° L'objet de la demande.
 
+Sauf justification d'un motif légitime tenant à l'urgence ou à la matière
+considérée, en particulier lorsqu'elle intéresse l'ordre public, la requête ou
+la déclaration qui saisit la juridiction de première instance précise également
+les diligences entreprises en vue de parvenir à une résolution amiable du
+litige.
+
 Elle est datée et signée.

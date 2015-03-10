@@ -1,4 +1,6 @@
 Article 127
 ----
-Les parties peuvent se concilier, d'elles-mêmes ou à l'initiative du juge, tout
-au long de l'instance.
+S'il n'est pas justifié, lors de l'introduction de l'instance et conformément
+aux dispositions des articles 56 et 58, des diligences entreprises en vue de
+parvenir à une résolution amiable de leur litige, le juge peut proposer aux
+parties une mesure de conciliation ou de médiation.
