@@ -18,8 +18,8 @@ mandant ou du bénéficiaire du mandat lorsque celui-ci n'est pas le mandant ou 
 mandataire est connue, le greffe invite le requérant à procéder par voie de
 signification.
 
-Le greffe convoque également le requérant par lettre simple ou verbalement,
-contre émargement.
+Le greffe avise par tous moyens le requérant des lieu, jour et heure de
+l'audience.
 
 Les parties se défendent elles-mêmes ; elles ont la faculté de se faire assister
 ou représenter par un avocat.

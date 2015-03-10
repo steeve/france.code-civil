@@ -7,7 +7,7 @@ corps est en cours, les mesures de l'ordonnance de protection continuent de
 produire leurs effets jusqu'à ce qu'une décision statuant sur la demande en
 divorce ou en séparation de corps soit passée en force de chose jugée, à moins
 que le juge saisi de cette demande en décide autrement. Toutefois, les mesures
-prises en application des 3°, 4° et 5° de l'article 515-11 du code civil et
+prises en application des 3° et 5° de l'article 515-11 du code civil et
 prononcées antérieurement à l'ordonnance de non-conciliation cessent de produire
 leurs effets à compter de la notification de celle-ci.
 

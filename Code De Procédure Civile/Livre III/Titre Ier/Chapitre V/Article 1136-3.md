@@ -19,9 +19,6 @@ administrative, en cas de danger grave et imminent pour la sécurité d'une
 personne concernée par une ordonnance de protection ou lorsqu'il n'existe pas
 d'autre moyen de notification.
 
-Le greffier adresse, le jour où il envoie ou remet aux fins de notification la
-convocation, une copie de celle-ci par lettre simple.
-
 Le demandeur peut également être convoqué verbalement contre émargement.
 
 La convocation adressée au défendeur vaut citation. Elle comprend en annexe une
