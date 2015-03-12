@@ -7,7 +7,7 @@ administratif ou d'exercer sa profession à titre principal. Les sociétés
 soumises à l'inscription au tableau de l'ordre sont inscrites au lieu de leur
 siège social. Les associés de ces sociétés doivent être également inscrits au
 tableau de l'ordre du conseil régional dans la circonscription duquel se trouve
-le siège social de la société.
+le siège social de la société ou de l'une d'elles.
 
 La demande d'inscription doit être accompagnée des pièces suivantes :
 
@@ -51,8 +51,8 @@ liant le vétérinaire à l'entreprise ou à l'établissement, elle-même accomp
 :
 
 a) De la justification que l'intéressé satisfait aux conditions d'exercice
-prévues, selon le cas, à l'article R. 5145-13 ou à l'article R. 5145-14 du code
-de la santé publique ;
+prévues, selon le cas, aux articles R. 5142-16 à R. 5142-18 ou à l'article R.
+5145-14 du code de la santé publique ;
 
 b) De la copie de l'acte de l'organe social compétent de l'entreprise portant
 désignation de l'intéressé et fixant ses attributions ;
@@ -62,9 +62,9 @@ désignation de l'intéressé et fixant ses attributions ;
 toute pièce indiquant la nature, les conditions et les modalités d'exercice de
 cette activité ;
 
-10° Pour l'exercice en qualité de vétérinaire lié par la convention prévue à
-l'article R. 5145-46 du code de la santé publique à une entreprise dont dépend
-un établissement fabriquant, important ou distribuant des aliments
+10° Pour l'exercice en qualité de vétérinaire lié par la convention prévue aux
+articles R. 5142-54 et R. 5142-60 du code de la santé publique à une entreprise
+dont dépend un établissement fabriquant, important ou distribuant des aliments
 médicamenteux, la copie de la convention liant le vétérinaire à l'entreprise.
 
 Tous les documents produits à l'appui de la demande d'inscription doivent être
@@ -73,3 +73,7 @@ par un traducteur assermenté ou habilité à intervenir auprès des autorités
 judiciaires ou administratives d'un autre Etat membre de l'Union européenne,
 d'un Etat partie à l'accord sur l'Espace économique européen ou de la
 Confédération suisse.
+
+Il peut être exigé du vétérinaire qui sollicite son inscription de rendre
+préalablement visite à un membre du conseil régional de l'ordre spécialement
+désigné par le président ou le secrétaire général.

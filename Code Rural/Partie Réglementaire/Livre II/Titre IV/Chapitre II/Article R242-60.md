@@ -1,6 +1,6 @@
 Article R242-60
 ----
-Relations entre vétérinaires traitants et intervenants.
+Relations entre vétérinaires traitants et vétérinaires consultants.
 
 Tout vétérinaire remplissant les conditions prévues à l'article L. 241-1 est
 habilité à pratiquer tous les actes visés à l'article L. 243-1. Toutefois, un
@@ -10,10 +10,10 @@ et les moyens dont il dispose.
 
 En cas de besoin, le vétérinaire qui apporte ses soins habituellement à un
 animal peut adresser le client à un autre vétérinaire praticien, généraliste ou
-spécialiste. Le choix de cet intervenant appartient en dernier ressort au
-client. En tout état de cause, le vétérinaire traitant met à la disposition de
-l'intervenant les commémoratifs concernant l'animal.
+spécialiste. Le choix de ce vétérinaire consultant appartient en dernier ressort
+au client. En tout état de cause, le vétérinaire traitant met à la disposition
+du vétérinaire consultant les commémoratifs concernant l'animal.
 
-Le vétérinaire appelé à donner ses soins dans ces conditions doit rendre compte
-dans les meilleurs délais et par écrit de ses interventions et prescriptions au
-vétérinaire qui lui a adressé ce client.
+Le vétérinaire consultant doit rendre compte dans les meilleurs délais et par
+écrit de ses interventions et prescriptions au vétérinaire traitant qui lui a
+adressé ce client.

@@ -2,14 +2,13 @@ Article R242-61
 ----
 Service de garde.
 
-Le vétérinaire peut assurer lui-même ou par l'intermédiaire d'un vétérinaire
-dûment habilité à cet exercice la permanence des soins aux animaux. Il peut
-également créer avec d'autres confrères, et dans les mêmes conditions
-d'habilitation, un service de garde.
+Les vétérinaires doivent participer à la permanence des soins. La permanence des
+soins peut être assurée dans le cadre d'une convention établie entre
+vétérinaires et déposée auprès du conseil régional de l'ordre.
 
-Dans ces deux cas, les vétérinaires pourront faire connaître au public, sous le
-contrôle du conseil régional de l'ordre, le service qu'ils assurent et les
-espèces concernées. Cette possibilité est soumise aux conditions suivantes :
+Dans ce cadre, les vétérinaires doivent faire connaître au public les conditions
+dans lesquelles ils assurent la permanence des soins aux animaux. Dans tous les
+cas :
 
 - le vétérinaire doit répondre à toute demande qui lui est adressée soit
 directement dans son domaine de compétence, soit en adressant le client à un

@@ -10,14 +10,10 @@ Le détournement ou la tentative de détournement de clientèle est interdit. Le
 vétérinaire doit s'abstenir de tout acte de concurrence déloyale à l'égard de
 ses confrères.
 
-Il est interdit au vétérinaire d'user de ses fonctions actuelles ou antérieures
-comportant délégation de l'autorité publique ou de ses engagements contractuels
-avec un tiers, et notamment de ses responsabilités au titre des articles L.
-5142-1, L. 5143-6, L. 5143-7 et L. 5143-8 du code de la santé publique, pour
-tenter d'étendre sa clientèle ou en tirer un avantage personnel.
-
-Le vétérinaire informe sa clientèle des autres activités professionnelles qu'il
-exerce.
+Il est interdit au vétérinaire de se prévaloir de la réalisation d'interventions
+mentionnées à l'article L. 203-1 ou de missions pour le compte de l'Etat
+mentionnées à l'article L. 203-8 pour tenter d'étendre sa clientèle ou en tirer
+un avantage personnel.
 
 Le vétérinaire qui assiste ou remplace un confrère assure le service de la
 clientèle de ce confrère.

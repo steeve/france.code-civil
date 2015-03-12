@@ -9,7 +9,9 @@ Le vétérinaire établit un diagnostic vétérinaire à la suite de la consulta
 comportant notamment l'examen clinique du ou des animaux. Toutefois, il peut
 également établir un diagnostic lorsqu'il exerce une surveillance sanitaire et
 dispense régulièrement ses soins aux animaux en respectant les règles prévues en
-application de l'article L. 5143-2 du code de la santé publique.
+application de l'article L. 5143-2 du code de la santé publique ou lorsqu'il
+surveille l'exécution du programme sanitaire d'élevage mentionné à l'article L.
+5143-7 du même code.
 
 Dans tous les cas, il est interdit au vétérinaire d'établir un diagnostic
 vétérinaire sans avoir au préalable procédé au rassemblement des commémoratifs

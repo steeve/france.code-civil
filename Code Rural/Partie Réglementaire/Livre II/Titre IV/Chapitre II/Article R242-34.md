@@ -2,14 +2,10 @@ Article R242-34
 ----
 Distinctions, qualifications et titres.
 
-Il est interdit au vétérinaire d'usurper des titres ou de se parer de titres
-fallacieux. Les seules indications dont un vétérinaire peut faire état sont :
-
-1° Les distinctions honorifiques et qualifications professionnelles reconnues
-par la République française ;
-
-2° Les titres, diplômes, récompenses et autres qualifications professionnelles
-dont la liste est établie par le Conseil supérieur de l'ordre.
+Dans le cadre de son activité professionnelle, le vétérinaire peut faire état de
+distinctions honorifiques reconnues par la République française et de titres et
+diplômes listés par le conseil supérieur de l'ordre. Il lui est interdit
+d'usurper des titres ou de se parer de titres fallacieux.
 
 Peuvent seuls se prévaloir, dans l'exercice de leur profession, du titre de
 vétérinaire spécialiste les vétérinaires titulaires du diplôme d'études

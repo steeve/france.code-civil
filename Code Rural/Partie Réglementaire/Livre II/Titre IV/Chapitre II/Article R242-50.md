@@ -2,21 +2,13 @@ Article R242-50
 ----
 Applications particulières.
 
-Il est interdit de donner des consultations gratuites ou payantes dont peut
-tirer un bénéfice moral ou matériel une personne physique ou morale non
+Il est interdit d'effectuer des actes de médecine ou de chirurgie des animaux,
+définis à l'article L. 243-1 du présent code, à titre gratuit ou onéreux, dont
+peut tirer un bénéfice moral ou matériel une personne physique ou morale non
 habilitée légalement à exercer la profession vétérinaire et extérieure au
 contrat de soin.
 
-Seules font exception aux dispositions du précédent alinéa les associations dont
-l'objet est la protection des animaux et qui sont habilitées par les
-dispositions du VI de l'article L. 214-6 à gérer des établissements dans
-lesquels les actes vétérinaires sont dispensés aux animaux des personnes
-dépourvues de ressources suffisantes. Ces actes sont gratuits. Les vétérinaires
-exerçant dans ces établissements ne peuvent être rétribués que par ceux-ci ou
-par l'association qui les gère, à l'exclusion de toute autre rémunération. Ils
-doivent obtenir des engagements pour le respect des dispositions qui précédent
-sous la forme d'un contrat qui garantit en outre leur complète indépendance
-professionnelle.
-
-Ce contrat doit être communiqué au conseil régional de l'ordre qui vérifie sa
-conformité avec les prescriptions de la présente section.
+Les dispositions du précédent alinéa ne n'appliquent pas à la pratique des actes
+de médecine ou de chirurgie des animaux, par un vétérinaire salarié d'un
+établissement mentionné au VI de l'article L. 214-6 du présent code ou d'un
+groupement agréé au titre de l'article L. 5143-6 du code de la santé publique.
