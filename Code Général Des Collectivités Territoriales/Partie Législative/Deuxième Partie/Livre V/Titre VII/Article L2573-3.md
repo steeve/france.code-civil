@@ -1,8 +1,10 @@
 Article L2573-3
 ----
 I.-Les articles L. 2113-1 à L. 2113-19, les articles L. 2113-21 à L. 2113-25 et
-le second alinéa de l'article L. 2113-26 sont applicables aux communes de la
-Polynésie française sous réserve des adaptations prévues aux II, III, IV et V.
+le second alinéa de l'article L. 2113-26, dans leur rédaction antérieure à la
+loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales,
+sont applicables aux communes de la Polynésie française sous réserve des
+adaptations prévues aux II, III, IV et V.
 
 II.-Pour l'application de l'article L. 2113-3, après les mots : " est prononcée
 par arrêté du représentant de l'Etat dans le département " sont insérés les mots

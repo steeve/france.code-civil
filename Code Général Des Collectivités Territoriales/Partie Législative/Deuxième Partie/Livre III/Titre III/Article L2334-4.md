@@ -122,14 +122,16 @@ III.-(Abrogé).
 IV.-Le potentiel financier d'une commune est égal à son potentiel fiscal majoré
 du montant perçu par la commune l'année précédente au titre de la dotation
 forfaitaire définie à l'article L. 2334-7 du présent code hors la part
-mentionnée au 3° du I du même article. Il est minoré, le cas échéant, des
-prélèvements sur le produit des impôts directs locaux mentionnés au dernier
-alinéa du II du même article L. 2334-7 et au III de l'article L. 2334-7-2 subis
-l'année précédente ainsi que de la minoration mentionnée à l'article L. 2334-7-3
-au titre de l'année précédente . Pour la commune de Paris, il est minoré du
-montant de sa participation obligatoire aux dépenses d'aide et de santé du
-département constaté dans le dernier compte administratif dans la limite du
-montant constaté dans le compte administratif de 2007.
+mentionnée au 3° du I du même article et hors le montant correspondant à la
+dotation de consolidation prévue au IV de l'article L. 2113-20. Il est minoré,
+le cas échéant, des prélèvements sur le produit des impôts directs locaux
+mentionnés au dernier alinéa du II du même article L. 2334-7 et au III de
+l'article L. 2334-7-2 subis l'année précédente ainsi que de la minoration
+mentionnée à l'article L. 2334-7-3 au titre de l'année précédente . Pour la
+commune de Paris, il est minoré du montant de sa participation obligatoire aux
+dépenses d'aide et de santé du département constaté dans le dernier compte
+administratif dans la limite du montant constaté dans le compte administratif de
+2007.
 
 L'indicateur de ressources élargi d'une commune est égal à son potentiel
 financier majoré des montants perçus l'année précédente au titre de la dotation

@@ -13,3 +13,7 @@ l'établissement public de coopération intercommunale ou de la commune.
 
 Il fixe des objectifs chiffrés de modération de la consommation de l'espace et
 de lutte contre l'étalement urbain.
+
+Il peut prendre en compte les spécificités des anciennes communes, notamment
+paysagères, architecturales, patrimoniales et environnementales, lorsqu'il
+existe une ou plusieurs communes nouvelles.

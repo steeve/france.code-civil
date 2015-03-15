@@ -10,3 +10,10 @@ d'une superficie supérieure à 1 000 hectares ;
 la limite de salure des eaux et participent aux équilibres économiques et
 écologiques littoraux. La liste de ces communes est fixée par décret en Conseil
 d'Etat, après consultation des conseils municipaux intéressés.
+
+En cas de création d'une commune nouvelle en application de l'article L. 2113-2
+du code général des collectivités territoriales, les règles relatives aux
+communes littorales s'appliquent au seul territoire des anciennes communes la
+composant précédemment considérées comme communes littorales. Le conseil
+municipal peut cependant demander à ce que l'ensemble du territoire de la
+commune nouvelle soit soumis aux règles relatives aux communes littorales.

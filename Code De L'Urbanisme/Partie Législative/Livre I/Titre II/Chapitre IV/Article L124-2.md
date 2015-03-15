@@ -86,3 +86,9 @@ des cartes communales engagées avant l'intégration ou la fusion. Dans ce cas,
 l'établissement public nouvellement compétent est substitué de plein droit, à la
 date de l'intégration ou de la fusion, dans tous les actes et délibérations
 afférents à la procédure engagée avant l'intégration ou la fusion.
+
+En cas de création d'une commune nouvelle, les dispositions des cartes
+communales applicables aux anciennes communes restent applicables. Elles peuvent
+être révisées ou modifiées jusqu'à l'approbation d'une carte communale ou d'un
+plan local d'urbanisme couvrant l'intégralité du territoire de la commune
+nouvelle.

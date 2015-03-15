@@ -80,3 +80,13 @@ Si un plan approuvé, révisé, modifié ou mis en compatibilité dans les condi
 prévues aux septième et huitième alinéas ne couvre le territoire que d'une
 commune, il ne comprend ni de dispositions tenant lieu de programme local de
 l'habitat, ni de plan de déplacements urbains.
+
+En cas de création d'une commune nouvelle, les dispositions des plans locaux
+d'urbanisme applicables aux anciennes communes restent applicables. Elles
+peuvent être modifiées, selon les procédures prévues aux articles L. 123-13-1 à
+L. 123-13-3, ainsi qu'aux articles L. 123-14 et L. 123-14-2, jusqu'à
+l'approbation ou la révision d'un plan local d'urbanisme couvrant l'intégralité
+du territoire de la commune nouvelle. La procédure d'élaboration ou de révision
+de ce dernier plan est engagée au plus tard lorsqu'un des plans locaux
+d'urbanisme applicables sur le territoire de la commune nouvelle doit être
+révisé.

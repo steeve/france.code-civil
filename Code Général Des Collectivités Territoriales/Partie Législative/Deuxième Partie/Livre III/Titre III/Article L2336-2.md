@@ -51,12 +51,13 @@ dernière année dont les résultats sont connus.
 Le potentiel financier agrégé d'un ensemble intercommunal est égal à son
 potentiel fiscal agrégé, majoré de la somme des dotations forfaitaires définies
 à l'article L. 2334-7 du présent code perçues par les communes membres l'année
-précédente, hors la part mentionnée au 3° du I du même article L. 2334-7. Il est
-minoré, le cas échéant, des prélèvements sur le produit des impôts directs
-locaux mentionnés au dernier alinéa du II dudit article L. 2334-7 et au III de
-l'article L. 2334-7-2 et réalisés l'année précédente sur le groupement et ses
-communes membres ainsi que des minorations mentionnées aux articles L. 2334-7-3
-et L. 5211-28.
+précédente, hors la part mentionnée au 3° du I du même article L. 2334-7 et hors
+le montant correspondant à la dotation de consolidation prévue au IV de
+l'article L. 2113-20. Il est minoré, le cas échéant, des prélèvements sur le
+produit des impôts directs locaux mentionnés au dernier alinéa du II dudit
+article L. 2334-7 et au III de l'article L. 2334-7-2 et réalisés l'année
+précédente sur le groupement et ses communes membres ainsi que des minorations
+mentionnées aux articles L. 2334-7-3 et L. 5211-28.
 
 Le potentiel fiscal et le potentiel financier des communes n'appartenant à aucun
 établissement public de coopération intercommunale à fiscalité propre sont
