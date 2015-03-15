@@ -13,7 +13,17 @@ que communes conformes au mode d'utilisation défini au présent article pour ce
 type de classement et comportant une obligation durable de location d'au moins
 70 % des locaux d'habitation meublés qui ne saurait être inférieure à neuf ans,
 les copropriétaires ou les associés des sociétés d'attribution pouvant
-bénéficier d'une réservation prioritaire ;
+bénéficier d'une réservation prioritaire ; A titre dérogatoire, l'obligation
+durable de location d'au moins 70 % des locaux d'habitation meublés est fixée à
+55 % pour :
+
+-les résidences de tourisme exploitées depuis plus de neuf ans, dont le
+classement est arrivé à échéance à la date d'entrée en vigueur du décret n°
+2015-298 du 16 mars 2015 modifiant les conditions de classement des résidences
+de tourisme ;
+
+-les établissements non classés répondant aux caractéristiques fixées à
+l'article D. 321-1, exploités depuis plus de neuf ans.
 
 2° Une gestion assurée pour l'ensemble de la résidence de tourisme par une seule
 personne physique ou morale, liée par un contrat de louage ou mandat aux
