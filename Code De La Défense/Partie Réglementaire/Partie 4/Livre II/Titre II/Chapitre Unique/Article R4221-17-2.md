@@ -11,7 +11,8 @@ et la durée des activités qu'ils exercent ;
 
 4° Les conditions et modalités selon lesquelles la solde versée ainsi que tout
 frais exposé au titre des fonctions exercées par les réservistes intéressés sont
-remboursés au ministère de la défense ;
+remboursés au ministère de la défense, ou au ministre de l'intérieur pour les
+réservistes de la gendarmerie nationale ;
 
 5° Les modalités du contrôle et de l'évaluation desdites activités ;
 

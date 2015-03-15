@@ -16,3 +16,8 @@ grade supérieur sont fixées par un arrêté du ministre de l'intérieur.
 
 Les nominations aux grades d'officiers généraux ne peuvent intervenir qu'en
 temps de guerre.
+
+Les conditions de diplômes ainsi que de temps de commandement ou de
+responsabilité exigées par les statuts particuliers des corps de rattachement ou
+les dispositions statutaires de rattachement ne sont pas applicables aux
+réservistes opérationnels.

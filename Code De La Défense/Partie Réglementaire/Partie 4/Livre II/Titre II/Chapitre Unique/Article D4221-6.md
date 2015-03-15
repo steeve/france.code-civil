@@ -4,11 +4,10 @@ La durée des activités dans la réserve opérationnelle peut, dans les mêmes
 conditions qu'à l'article R. 4221-5, être portée à soixante jours :
 
 1° Pour l'encadrement des périodes militaires d'initiation ou de
-perfectionnement à la défense nationale, et de la journée d'appel de préparation
-à la défense ;
+perfectionnement à la défense nationale, et de la journée défense et citoyenneté
+;
 
-2° Ou lorsque le réserviste a suivi une formation initiale dans l'année en
-cours.
+2° Ou lorsque le réserviste a suivi une formation dans l'année en cours.
 
 Le contrôle général des armées, chaque armée et formation rattachée, dans la
 limite de 15 % de l'effectif de la réserve opérationnelle sous contrat
