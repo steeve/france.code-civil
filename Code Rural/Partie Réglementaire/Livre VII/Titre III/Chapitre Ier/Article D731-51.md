@@ -22,10 +22,8 @@ deuxième alinéa de l'article L. 76 de ce code ; il est également reculé d'un
 par enfant à charge pour les personnes physiques qui ont la qualité
 d'allocataire au sens de l'article R. 513-1 du code de la sécurité sociale.
 
-Toutefois, les personnes qui prennent la direction d'une exploitation dont
-l'importance est au moins égale ou équivalente au tiers mais inférieure à la
-moitié de la surface minimum d'installation dans les conditions prévues par les
-articles R. 722-7 à R. 722-9 peuvent opter pour le bénéfice de l'exonération
-partielle de cotisations soit lors de leur affiliation à titre dérogatoire, soit
-à l'issue de leur période d'affiliation à titre dérogatoire, dès lors qu'ils
-remplissent les conditions prévues aux alinéas 2 à 4.
+Toutefois, les personnes mentionnées au second alinéa de l'article L. 722-6
+peuvent opter pour le bénéfice de l'exonération partielle de cotisations soit
+lors de leur affiliation à titre dérogatoire, soit à l'issue de leur période
+d'affiliation à titre dérogatoire, dès lors qu'ils remplissent les conditions
+prévues aux alinéas 2 à 4.
