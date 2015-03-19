@@ -5,7 +5,7 @@ Les assistants généralistes et les assistants spécialistes des hôpitaux exer
 prévention ou assurent des actes pharmaceutiques ou biologiques au sein de
 l'établissement, sous l'autorité du chef de pôle ou, à défaut, du responsable du
 service, de l'unité fonctionnelle ou de toute autre structure interne dont ils
-relèvent dont ils relèvent.
+relèvent.
 
 Afin d'assurer la continuité des soins, l'organisation du temps de présence
 médicale, odontologique et pharmaceutique, établie en fonction des
@@ -34,8 +34,8 @@ moyenne sur une période de quatre mois.
 
 Les assistants peuvent accomplir, sur la base du volontariat, au-delà de leurs
 obligations de service hebdomadaires, un temps de travail additionnel donnant
-lieu soit à récupération, soit à indemnisation, dans les conditions prévues par
-l'article R. 6152-514.
+lieu soit à récupération, soit à indemnisation, dans les conditions prévues au
+2° de l'article R. 6152-514.
 
 Ils bénéficient d'un repos quotidien d'une durée minimale de onze heures
 consécutives par période de vingt-quatre heures.
