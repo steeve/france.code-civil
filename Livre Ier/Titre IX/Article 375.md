@@ -7,7 +7,7 @@ d'assistance éducative peuvent être ordonnées par justice à la requête des 
 et mère conjointement, ou de l'un d'eux, de la personne ou du service à qui
 l'enfant a été confié ou du tuteur, du mineur lui-même ou du ministère public.
 Dans les cas où le ministère public a été avisé par le président du conseil
-général, il s'assure que la situation du mineur entre dans le champ
+départemental, il s'assure que la situation du mineur entre dans le champ
 d'application de l'article L. 226-4 du code de l'action sociale et des familles.
 Le juge peut se saisir d'office à titre exceptionnel.
 
