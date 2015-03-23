@@ -11,7 +11,7 @@ actualisée d'une pension de référence liquidée trimestriellement, à terme �
 à l'âge de référence fixé au 3° de l'article D. 723-7 et égale au produit du
 montant annuel de la pension de retraite de base fixé en application de
 l'article R. 723-43, revalorisée par l'application du coefficient mentionné au
-3° de l'article D. 723-6, par un rapport égal à 166/167 et minorée de 1, 25 % ;
+3° de l'article D. 723-6, par un rapport égal à 171/172 et minorée de 1, 25 % ;
 
 2° S'il est effectué au titre du 2° de l'article D. 723-5, d'une part, la somme
 actualisée d'une pension de référence liquidée trimestriellement, à terme échu,
@@ -19,7 +19,7 @@ actualisée d'une pension de référence liquidée trimestriellement, à terme �
 de la pension de retraite de base fixé en application de l'article R. 723-43,
 revalorisée par l'application du coefficient mentionné au 3° de l'article D.
 723-6 et, d'autre part, la somme actualisée de cette même pension multipliée par
-un rapport égal à 166/167 et minorée de 1, 25 %.
+un rapport égal à 171/172 et minorée de 1, 25 %.
 
 3° Les modalités prévues au II de l'article D. 351-8 sont applicables à
 l'actualisation prévue au présent article, sous réserve :

@@ -13,7 +13,7 @@ annuel moyen déterminé selon les modalités prévues à l'article R. 351-29 et
 égal, pour chacune des années prises en compte, au salaire défini au 3° du
 présent article et liquidée au taux de 50 % et, d'autre part, la somme
 actualisée de cette même pension liquidée au taux de 50 % minoré de 0, 625
-point, cette différence étant multipliée par un rapport fixé à 166 / 167 ;
+point, cette différence étant multipliée par un rapport fixé à 171/172 ;
 
 2° Si le versement est effectué au titre du 2° de l'article D. 351-7, d'une
 part, la somme actualisée d'une pension de référence liquidée mensuellement, à
@@ -22,7 +22,7 @@ annuel moyen déterminé selon les modalités prévues à l'article R. 351-29 et
 égal, pour chacune des années prises en compte, au salaire défini au 3° du
 présent article et liquidée à un taux égal à 50 %, et, d'autre part, la somme
 actualisée de cette même pension liquidée au taux de 50 % minoré de 0, 625 point
-et multipliée par un rapport fixé à 166 / 167.
+et multipliée par un rapport fixé à 171/172 .
 
 3° Pour l'application des 1° et 2° du I du présent article, la pension de
 référence est déterminée en fonction de la moyenne annuelle du total des

@@ -18,9 +18,9 @@ des avantages de droit direct de l'assurance vieillesse du régime général de
 sécurité sociale, est fixé à 10 % ;
 
 3° Les coefficients viagers pris en compte dans la formule ci-après sont
-déterminés à partir des tables de génération pour les rentes viagères 1887 à
-1993 annexées à l'arrêté du 28 juillet 1993 portant homologation de tables de
-mortalité pour les rentes viagères ;
+déterminés à partir des tables de mortalité applicables aux institutions de
+prévoyance pour les contrats de rente viagère et homologuées par arrêté du
+ministre chargé de la sécurité sociale ;
 
 4° La valeur d'un trimestre est déterminée, selon l'option prévue à l'article D.
 351-7, par l'application de la formule suivante :
@@ -58,7 +58,7 @@ l'assuré atteint l'âge de soixante-deux ans ;
 
 C est le coefficient de minoration fixé à 1,25 % ;
 
-D est la durée maximale d'assurance fixée à 167 trimestres ;
+D est la durée maximale d'assurance fixée à 172 trimestres ;
 
 E est le terme actuariel défini comme correspondant à la rente viagère mensuelle
 à terme échu égale à une unité pour un intéressé d'âge B et un différé égal à
