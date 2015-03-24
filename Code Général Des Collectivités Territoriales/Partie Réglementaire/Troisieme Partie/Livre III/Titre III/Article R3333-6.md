@@ -10,3 +10,8 @@ Elles tiennent compte de la durée de l'occupation, des avantages qu'en tire le
 permissionnaire, de la valeur locative de l'emplacement et des montants des
 redevances fixées pour l'occupation du domaine public par les ouvrages des
 réseaux publics de transport et de distribution d'énergie électrique.
+
+Les redevances dues aux départements pour l'occupation provisoire de leur
+domaine public par les chantiers de travaux sur des ouvrages établis en vertu de
+permissions de voirie sont fixées selon les modalités mentionnées aux deux
+alinéas précédents.
