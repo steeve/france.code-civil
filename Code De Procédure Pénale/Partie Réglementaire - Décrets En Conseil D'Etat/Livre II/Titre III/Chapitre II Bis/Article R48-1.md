@@ -60,8 +60,8 @@ m) Les livres Ier et II de la quatrième partie du code des transports.
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
-a) L'article R. 632-1 du code pénal relatif à l'abandon d'ordures, déchets,
-matériaux et autres objets ;
+a) Les articles R. 632-1, R. 633-6 et R. 644-2 du code pénal relatif à l'abandon
+d'ordures, déchets, matériaux et autres objets ;
 
 b) Les articles R. 331-63 à R. 331-66 du code de l'environnement relatifs aux
 coeurs de parcs nationaux et les articles R332-69 à R332-72 du même code
@@ -136,7 +136,7 @@ h) L'article R. 215-8 du code rural et de la pêche maritime ;
 i) L'article R. 215-2 du code rural et de la pêche maritime ;
 
 5° Contraventions réprimées par le code des postes et des communications
-électroniques prévues par les articlesR. 10-2, R. 10-4 et R. 10-9.
+électroniques prévues par les articles R. 10-2, R. 10-4 et R. 10-9.
 
 6° Contraventions réprimées par le code de la santé publique prévues à l'article
 R. 3512-1, aux 1° et 2° de l'article R. 3512-2 et à l'article R. 3512-3 ;
@@ -173,4 +173,4 @@ assistance, la préparation ou la consommation.
 
 10° Contraventions en matière d'armes réprimées par le chapitre VII du titre Ier
 du livre III de la partie réglementaire du code de la sécurité intérieure et par
-le décret n° 2013-700du 30 juillet 2013.
+le décret n° 2013-700 du 30 juillet 2013.

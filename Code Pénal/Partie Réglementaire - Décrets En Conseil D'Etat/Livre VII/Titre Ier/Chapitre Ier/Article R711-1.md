@@ -4,4 +4,5 @@ Sous réserve des adaptations prévues au présent titre, les livres Ier à VI d
 deuxième partie du présent code (Décrets en Conseil d'Etat), à l'exception des
 articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, R. 635-3 à R. 635-7 et R.
 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la
-Polynésie française et des îles Wallis-et-Futuna.
+Polynésie française et des îles Wallis-et-Futuna dans leur rédaction résultant
+du décret n° 2015-337 du 25 mars 2015.

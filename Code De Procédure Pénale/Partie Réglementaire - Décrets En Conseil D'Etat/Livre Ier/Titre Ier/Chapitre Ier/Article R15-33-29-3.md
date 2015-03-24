@@ -21,7 +21,7 @@ même code ;
 code, lorsqu'elles concernent des biens appartenant à la commune ;
 
 5° Abandon d'ordures, déchets, matériaux et autres objets, prévu par les
-articles R. 632-1 et R. 635-8 du même code ;
+articles R. 632-1, R. 633-6, R. 635-8 et R. 644-2 du même code ;
 
 6° Destructions, dégradations et détériorations légères, prévues par l'article
 R. 635-1 du même code, lorsqu'elles concernent des biens appartenant à la
