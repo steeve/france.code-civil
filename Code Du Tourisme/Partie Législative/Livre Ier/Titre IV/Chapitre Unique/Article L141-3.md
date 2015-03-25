@@ -19,12 +19,19 @@ un intérêt personnel et direct ou s'il représente ou a représenté une des
 parties intéressées.
 
 L'immatriculation, renouvelable tous les trois ans, est subordonnée au paiement
-préalable, auprès de l'agence, de frais d'immatriculation fixés par arrêté du
-ministre chargé du tourisme dans la limite d'une somme fixée par décret. Ces
-frais d'immatriculation sont recouvrés par l'agence. Leur paiement intervient au
-moment du dépôt de la demande d'immatriculation ou de la demande de
-renouvellement. Le produit résultant du paiement des frais d'immatriculation est
-exclusivement affecté au financement de la tenue du registre.
+préalable, auprès de l'organisme mentionné à l'article L. 141-2, de frais
+d'immatriculation fixés par arrêté du ministre chargé du tourisme dans la limite
+de 150 €. Ces frais d'immatriculation sont recouvrés par l'organisme mentionné à
+l'article L. 141-2. Leur paiement intervient au moment du dépôt du dossier
+complet de la demande d'immatriculation ou de la demande de renouvellement.
+
+Le produit résultant du paiement des frais d'immatriculation est exclusivement
+affecté au financement de la tenue du registre. L'ensemble des opérations liées
+au recouvrement des frais d'immatriculation et à leur affectation fait l'objet
+d'une comptabilité distincte tenue par l'organisme mentionné à l'article L.
+141-2. Les contestations relatives aux frais d'immatriculation sont présentées,
+instruites et jugées selon les règles applicables en matière d'imposition
+directe.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article. Il précise notamment les conditions d'immatriculation et de radiation

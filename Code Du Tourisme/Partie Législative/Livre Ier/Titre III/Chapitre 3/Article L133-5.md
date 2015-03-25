@@ -1,4 +1,5 @@
 Article L133-5
 ----
-Les membres représentant la collectivité territoriale détiennent la majorité des
-sièges du comité de direction de l'office de tourisme.
+Les membres représentant la collectivité territoriale ou l'établissement public
+de coopération intercommunale détiennent la majorité des sièges du comité de
+direction de l'office de tourisme.

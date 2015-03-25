@@ -14,5 +14,6 @@ leur période de validité seront périmés.
 Leur contre-valeur sera affectée au bénéfice de catégories sociales défavorisées
 notamment sous la forme de bourses de vacances.
 
-Le salarié titulaire de chèques-vacances peut, sur sa demande motivée, obtenir
-le remboursement immédiat de sa contribution à l'achat de ces titres.
+Le bénéficiaire peut, sur sa demande motivée présentée avant l'émission des
+titres, obtenir le remboursement de sa contribution à l'achat de ces derniers
+auprès de l'organisme qui se propose de les lui attribuer.
