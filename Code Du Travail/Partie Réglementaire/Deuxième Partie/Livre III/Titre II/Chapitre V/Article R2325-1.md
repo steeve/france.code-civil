@@ -1,4 +1,4 @@
 Article R2325-1
 ----
-Le secrétaire désigné par le comité d'entreprise est choisi parmi ses membres
-titulaires.
+Le secrétaire et le trésorier sont désignés par le comité d'entreprise parmi ses
+membres titulaires.

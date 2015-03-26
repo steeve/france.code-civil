@@ -5,3 +5,6 @@ institutions sociales communes, les comités d'entreprise intéressés constitue
 un comité interentreprises investi des mêmes attributions que les comités dans
 la mesure nécessaire à l'organisation et au fonctionnement de ces institutions
 communes.
+
+Ces comités signent avec le comité interentreprises une convention conforme aux
+dispositions réglementaires prises pour l'application de l'article L. 2327-16.
