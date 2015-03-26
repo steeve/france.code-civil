@@ -47,6 +47,18 @@ habilités par le ministre chargé des communications électroniques pour effect
 les contrôles prévus par l'article L. 33-10 du code des postes et des
 communications électroniques ;
 
+l) Des agents de l'Agence nationale de la sécurité des systèmes d'information
+mentionnés à l'article R. 2321-2 du code de la défense ;
+
+m) Des prestataires de service de confiance mentionnés au chapitre III du décret
+n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité
+et des prestataires de service de confiance pour les besoins de la sécurité
+nationale ;
+
+n) Des centres d'évaluation mentionnés au chapitre III du décret n° 2015-350 du
+27 mars 2015 relatif à la qualification des produits de sécurité et des
+prestataires de service de confiance pour les besoins de la sécurité nationale ;
+
 2° Recrutement des membres des juridictions administratives, des magistrats de
 l'ordre judiciaire et des juges de proximité ;
 
