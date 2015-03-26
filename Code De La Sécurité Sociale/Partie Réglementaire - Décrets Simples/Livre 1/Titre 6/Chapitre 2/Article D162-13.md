@@ -14,9 +14,9 @@ Le taux de remboursement qu'il est proposé d'appliquer pour un an est communiqu
 preuve de sa date de réception. L'établissement transmet ses observations
 écrites, dans les mêmes formes, à l'agence régionale de santé dans les dix jours
 suivant cette réception. Le taux de remboursement est arrêté, chaque année, au
-plus tard le 1er juin par le directeur général de l'agence régionale de santé.
-Il est applicable pour la période du 15 juin de l'année en cours au 15 juin de
-l'année suivante.
+plus tard le 15 juin, par le directeur général de l'agence régionale de santé.
+Il est applicable pour la période du 1er juillet de l'année en cours au 30 juin
+de l'année suivante.
 
 La fixation du taux de remboursement de la part prise en charge par les régimes
 obligatoires d'assurance maladie doit être motivée.

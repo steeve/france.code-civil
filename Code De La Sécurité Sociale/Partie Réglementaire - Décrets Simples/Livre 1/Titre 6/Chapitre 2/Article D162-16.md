@@ -14,10 +14,8 @@ L. 165-1.
 La dotation régionale prévue à l'article L. 162-22-13 peut contribuer au
 financement de cet observatoire.
 
-L'observatoire établit notamment le modèle de rapport d'étape annuel mentionné à
-l'article D. 162-10 et procède au référencement des protocoles thérapeutiques se
-rapportant notamment aux médicaments et produits et prestations mentionnés au
-premier alinéa de l'article L. 162-22-7.
+L'observatoire définit notamment les critères d'évaluation, en fonction des
+indicateurs et des thèmes régionaux.
 
 Un observatoire interrégional peut être constitué auprès de plusieurs agences
 régionales de santé en lieu et place des observatoires régionaux.
