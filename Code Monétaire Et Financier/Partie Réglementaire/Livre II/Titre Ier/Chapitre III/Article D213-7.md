@@ -4,7 +4,7 @@ Les conditions d'émission des titres de créances négociables prévues aux
 articles L. 213-1 A à L. 213-4-1 et à la présente sous-section sont précisées,
 pour les entreprises d'investissement, les établissements de crédit, les
 sociétés de financement et la Caisse des dépôts et consignations et pour les
-émetteurs mentionnés aux 2 à 11 de l'article L. 213-3, par arrêtés du ministre
+émetteurs mentionnés aux 2 à 13 de l'article L. 213-3, par arrêtés du ministre
 chargé de l'économie.
 
 L'arrêté du ministre chargé de l'économie précisant les conditions d'émission
