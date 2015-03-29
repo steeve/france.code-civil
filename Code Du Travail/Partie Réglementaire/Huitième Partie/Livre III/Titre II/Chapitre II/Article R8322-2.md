@@ -1,7 +1,7 @@
 Article R8322-2
 ----
-Pour l'application des articles R. 8122-1 et R. 8122-2 dans les régions
-d'outre-mer :
+Pour l'application des articles R. 8115-1 à R. 8115-4, R. 8122-1 et R. 8122-2
+dans les régions d'outre-mer :
 
 1° Les attributions dévolues aux directeurs régionaux des entreprises, de la
 concurrence, de la consommation, du travail et de l'emploi sont exercées par les

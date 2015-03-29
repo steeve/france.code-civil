@@ -23,6 +23,9 @@ extérieure (6). Nombre de stagiaires (écoles, universités...) (7). Nombre moy
 mensuel de salariés temporaires (8). Durée moyenne des contrats de travail
 temporaire.
 
+Nombre de salariés de l'entreprise détachés Nombre de salariés détachés
+accueillis
+
 1. 3. Embauches.
 
 Nombre d'embauches par contrats de travail à durée indéterminée. Nombre
