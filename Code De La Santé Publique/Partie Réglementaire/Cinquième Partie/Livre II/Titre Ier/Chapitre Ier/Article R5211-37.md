@@ -3,8 +3,8 @@ Article R5211-37
 Le fabricant qui entend faire réaliser en France des investigations cliniques
 destinées à vérifier les performances d'un dispositif médical ou à déceler
 d'éventuels effets secondaires indésirables, ou son mandataire établi dans un
-Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
-économique européen, doit, avant d'entreprendre ses investigations :
+Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen, doit, avant d'entreprendre ses investigations :
 
 1° Certifier, selon les modalités définies à l'article R. 5211-38 que le
 dispositif en question est conforme aux exigences essentielles à la seule

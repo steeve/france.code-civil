@@ -37,24 +37,23 @@ liaison avec une substance déterminée à analyser ou un autre paramètre donn�
 6° Mise sur le marché, la première mise à disposition à titre onéreux ou gratuit
 d'un dispositif médical de diagnostic in vitro autre qu'un dispositif faisant
 l'objet d'une évaluation de ses performances, en vue de sa distribution ou de
-son utilisation dans un Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen, qu'il s'agisse d'un dispositif neuf
-ou remis à neuf ;
+son utilisation dans un Etat membre de l'Union européenne ou partie à l'accord
+sur l'Espace économique européen, qu'il s'agisse d'un dispositif neuf ou remis à
+neuf ;
 
 7° Mise en service, la mise à disposition de l'utilisateur d'un dispositif
 médical de diagnostic in vitro prêt à être utilisé pour la première fois sur le
 marché communautaire conformément à sa destination ;
 
 8° Importation, l'importation d'un dispositif médical de diagnostic in vitro en
-provenance d'un Etat non membre de la Communauté européenne ou non partie à
-l'accord sur l'Espace économique européen en vue de sa mise sur le marché ;
+provenance d'un Etat non membre de l'Union européenne ou non partie à l'accord
+sur l'Espace économique européen en vue de sa mise sur le marché ;
 
 9° Importateur, toute personne physique ou morale établie dans un Etat membre de
-la Communauté européenne ou partie à l'accord sur l'Espace économique européen
-se livrant à l'importation et au stockage de dispositifs médicaux de diagnostic
-in vitro ;
+l'Union européenne ou partie à l'accord sur l'Espace économique européen se
+livrant à l'importation et au stockage de dispositifs médicaux de diagnostic in
+vitro ;
 
 10° Exportateur, toute personne physique ou morale se livrant à l'exportation de
-dispositifs médicaux de diagnostic in vitro vers des Etats non membres de la
-Communauté européenne ou non parties à l'accord sur l'Espace économique
-européen.
+dispositifs médicaux de diagnostic in vitro vers des Etats non membres de
+l'Union européenne ou non parties à l'accord sur l'Espace économique européen.

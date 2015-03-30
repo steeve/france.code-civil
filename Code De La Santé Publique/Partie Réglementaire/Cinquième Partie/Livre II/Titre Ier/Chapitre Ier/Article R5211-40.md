@@ -42,7 +42,7 @@ membres ou parties à l'accord sur l'Espace économique européen ou de l'Agence
 européenne des médicaments avant de prendre une décision. Cet avis est inclus
 dans la documentation concernant le dispositif. L'organisme habilité informe
 l'autorité consultée de sa décision. Lorsque l'autorité nationale compétente
-consultée est l' Agence nationale de sécurité du médicament et des produits de
+consultée est l'Agence nationale de sécurité du médicament et des produits de
 santé, son avis est rendu dans le délai maximal de deux cent dix jours à compter
 de la réception d'une documentation complète.
 
@@ -76,8 +76,8 @@ informe l'organisme habilité de la libération de ce lot de dispositifs et lui
 transmet le certificat de libération du lot de la substance mentionnée à
 l'article R. 5212-24 utilisée dans ce dispositif, établi par l'Agence nationale
 de sécurité du médicament et des produits de santé, ou un laboratoire désigné à
-cet effet par un autre Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen.
+cet effet par un autre Etat membre de l'Union européenne ou partie à l'accord
+sur l'Espace économique européen.
 
 Il informe l'organisme habilité qui a approuvé ce système de tout projet de
 modification importante. L'organisme habilité vérifie que le système ainsi

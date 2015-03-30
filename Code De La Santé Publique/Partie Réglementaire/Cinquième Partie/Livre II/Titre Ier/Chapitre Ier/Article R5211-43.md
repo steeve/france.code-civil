@@ -44,8 +44,8 @@ sang, de la libération de chaque lot de dispositifs et lui transmet le
 certificat de libération du lot de la substance mentionnée à l'article R.
 5212-24 utilisée dans ce dispositif, établi par l'Agence nationale de sécurité
 du médicament et des produits de santé, ou un laboratoire désigné à cet effet
-par un autre Etat membre de la Communauté européenne ou partie à l'accord sur
-l'Espace économique européen.
+par un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
+économique européen.
 
 L'organisme habilité appose ou fait apposer son numéro d'identification sur
 chaque produit et établit une attestation de conformité relative aux essais

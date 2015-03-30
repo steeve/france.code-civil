@@ -7,7 +7,7 @@ Il doit être également dûment fourni, correctement installé, entretenu et
 utilisé conformément à sa destination.
 
 Cette conformité est évaluée et certifiée soit en France, selon les procédures
-prévues par le présent chapitre, soit dans un autre Etat membre de la Communauté
+prévues par le présent chapitre, soit dans un autre Etat membre de l'Union
 européenne ou partie à l'accord sur l'Espace économique européen par les
 dispositions transposant dans le droit interne de l'Etat où elles ont été
 accomplies les dispositions des directives relatives à ces dispositifs.

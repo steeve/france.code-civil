@@ -9,7 +9,7 @@ la santé.
 
 Le marquage CE est accompagné, le cas échéant, du numéro d'identification,
 publié au Journal officiel de l'Union européenne, de l'organisme habilité auquel
-a été confiée, en France ou dans un autre Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen, la mise en
-oeuvre des procédures d'évaluation de conformité définies aux articles R.
-5221-24 à R. 5221-28.
+a été confiée, en France ou dans un autre Etat membre de l'Union européenne ou
+partie à l'accord sur l'Espace économique européen, la mise en oeuvre des
+procédures d'évaluation de conformité définies aux articles R. 5221-24 à R.
+5221-28.

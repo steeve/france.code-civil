@@ -1,7 +1,7 @@
 Article R5221-33
 ----
 L'organisme habilité informe les autres organismes habilités en France ou dans
-les autres Etats membres de la Communauté européenne ou parties à l'accord sur
+les autres Etats membres de l'Union européenne ou parties à l'accord sur
 l'Espace économique européen et ayant fait l'objet d'une publication au Journal
 officiel de l'Union européenne :
 

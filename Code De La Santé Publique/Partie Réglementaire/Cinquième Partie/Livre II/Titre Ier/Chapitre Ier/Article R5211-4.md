@@ -8,9 +8,9 @@ d'instruction ou les matériels promotionnels ;
 
 2° Mise sur le marché, la première mise à disposition à titre onéreux ou gratuit
 d'un dispositif médical, autre que celui destiné à des investigations cliniques,
-en vue de sa distribution ou de son utilisation dans un Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen,
-qu'il s'agisse d'un dispositif neuf ou remis à neuf ;
+en vue de sa distribution ou de son utilisation dans un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen, qu'il s'agisse
+d'un dispositif neuf ou remis à neuf ;
 
 3° Fabricant, la personne physique ou morale responsable de la conception, de la
 fabrication, du conditionnement et de l'étiquetage d'un dispositif médical en
@@ -25,8 +25,8 @@ fabricant, assemble ou adapte pour un patient déterminé, conformément à leur
 destination, des dispositifs déjà mis sur le marché ;
 
 4° Mandataire, toute personne physique ou morale établie dans un Etat membre de
-la Communauté européenne ou partie à l'accord sur l'Espace économique européen
-qui, après avoir été expressément désignée par le fabricant, agit et peut être
+l'Union européenne ou partie à l'accord sur l'Espace économique européen qui,
+après avoir été expressément désignée par le fabricant, agit et peut être
 contactée par les autorités administratives compétentes en lieu et place du
 fabricant en ce qui concerne les obligations que le présent titre impose à ce
 dernier ;
@@ -43,13 +43,13 @@ conformément à sa destination ;
 être utilisé avec un dispositif médical afin de permettre l'utilisation de ce
 dispositif, conformément aux intentions de son fabricant ;
 
-8° Importation, introduction sur le territoire d'un Etat membre de la Communauté
+8° Importation, introduction sur le territoire d'un Etat membre de l'Union
 européenne ou partie à l'accord sur l'Espace économique européen d'un dispositif
 médical en provenance d'un pays tiers en vue de sa mise sur le marché ;
 
 9° Importateur, toute personne physique ou morale établie dans un Etat membre de
-la Communauté européenne ou partie à l'accord sur l'Espace économique européen
-se livrant à l'importation de dispositifs médicaux ;
+l'Union européenne ou partie à l'accord sur l'Espace économique européen se
+livrant à l'importation de dispositifs médicaux ;
 
 10° Données cliniques, les informations relatives à la sécurité et aux
 performances obtenues dans le cadre de l'utilisation clinique d'un dispositif.

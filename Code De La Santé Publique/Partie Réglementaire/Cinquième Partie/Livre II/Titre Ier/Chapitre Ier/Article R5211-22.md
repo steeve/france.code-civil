@@ -24,7 +24,7 @@ l'utilité de l'incorporation de la substance dans le dispositif médical en
 tenant compte de la destination du dispositif, l'organisme habilité demande à
 l'Agence nationale de sécurité du médicament et des produits de santé, à l'une
 des autorités compétentes en matière de médicament désignées par les autres
-Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace
+Etats membres de l'Union européenne ou parties à l'accord sur l'Espace
 économique européen ou à l'Agence européenne des médicaments un avis
 scientifique sur la qualité et la sécurité de la substance, et notamment sur le
 rapport entre les bénéfices et les risques liés à son incorporation dans le
