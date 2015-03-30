@@ -13,6 +13,17 @@ Après le renouvellement général des conseils municipaux, l'organe délibéran
 réunit au plus tard le vendredi de la quatrième semaine qui suit l'élection des
 maires.
 
+Lors de la première réunion de l'organe délibérant, immédiatement après
+l'élection du président, des vice-présidents et des autres membres du bureau, le
+président donne lecture de la charte de l'élu local prévue à l'article L.
+1111-1-1. Le président remet aux conseillers communautaires une copie de la
+charte de l'élu local et des dispositions de la sous-section 1 de la section 2
+du chapitre IV du présent titre dans les communautés de communes, de la section
+3 du chapitre VI du présent titre dans les communautés d'agglomération, de la
+sous-section 4 de la section 2 du chapitre V du présent titre dans les
+communautés urbaines et les métropoles, ainsi que des articles auxquels il est
+fait référence dans ces dispositions.
+
 Dans les communautés de communes et les communautés d'agglomération, lorsqu'une
 commune ne dispose que d'un seul conseiller communautaire, le conseiller
 municipal appelé à le remplacer en application des articles L. 273-10 ou L.

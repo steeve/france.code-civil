@@ -9,7 +9,7 @@ au salarié candidat :
 
 1° Au Parlement européen ;
 
-2° Au conseil municipal dans une commune d'au moins 3 500 habitants ;
+2° Au conseil municipal dans une commune d'au moins 1 000 habitants ;
 
 3° Au conseil départemental ou au conseil régional ;
 

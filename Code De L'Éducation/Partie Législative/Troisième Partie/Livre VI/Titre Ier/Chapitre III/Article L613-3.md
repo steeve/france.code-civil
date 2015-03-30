@@ -1,13 +1,13 @@
 Article L613-3
 ----
 Toute personne justifiant d'une activité professionnelle salariée, non salariée,
-bénévole ou de volontariat ou ayant exercé des responsabilités syndicales ou
-occupé une fonction de conseiller municipal, de conseiller général ou de
-conseiller régional en rapport direct avec le contenu du diplôme ou du titre
-visé peut demander la validation des acquis de son expérience prévue à l'article
-L. 6411-1 du code du travail pour justifier de tout ou partie des connaissances
-et des aptitudes exigées pour l'obtention d'un diplôme ou titre délivré, au nom
-de l'Etat, par un établissement d'enseignement supérieur.
+bénévole ou de volontariat ou ayant exercé des responsabilités syndicales, un
+mandat électoral local ou une fonction élective locale en rapport direct avec le
+contenu du diplôme ou du titre visé peut demander la validation des acquis de
+son expérience prévue à l'article L. 6411-1 du code du travail pour justifier de
+tout ou partie des connaissances et des aptitudes exigées pour l'obtention d'un
+diplôme ou titre délivré, au nom de l'Etat, par un établissement d'enseignement
+supérieur.
 
 La durée minimale d'activité requise pour que la demande de validation soit
 recevable est de trois ans, que l'activité ait été exercée de façon continue ou
