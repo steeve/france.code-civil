@@ -30,4 +30,4 @@ Les dates Git étant basées sur l'epoch Unix (01/01/1970), les changements avan
 
 LICENCE
 -------
-Tous les fichiers sont sous licence [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
+Tous les fichiers sont sous licence [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
