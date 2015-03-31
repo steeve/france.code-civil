@@ -1,9 +1,19 @@
 Le Code Civil français, sous Git
 ================================
 
-Introduction
-------------
-Voici un petit hack, résultat d'une après-midi de code : le code civil sous Git.
+"Nul n'est censé ignorer la loi."
+---------------------------------
+Et pourtant nous autres citoyens (moi y compris) ne connaissons pas les lois qui construisent et gouvernent notre République. Peut être parce que les outils existants sont trop opaques et complexes.
+
+Notre République c'est un *work in progress* (travail en cours). Elle n'est pas fixe, elle bouge, elle évolue, grace a nos parlementaires: ceux qu'on déteste, ceux qu'on ne connait pas, et ceux qu'on aime. Mais aussi et surtout grace a nous tous, les citoyens. Pouvoir suivre son évolution, c'est une façon de nous ré-approprier ce qui fait de nous ce que nous sommes, et ne pas se perdre dans des querelles passagères.
+
+Notre République est la représentation de nous tous, a nous d'y contribuer a la hauteur de nos compétences.
+
+Aux armes, citoyens.
+
+Git?
+----
+Ce petit hack, résultat d'une après-midi de code, transpose le code civil sous Git/Github.
 
 Si l'on considère les lois comme un ensemble de textes modifiés par les différentes assemblées de l'Etat, on peut les considérer comme un ensemble de fichiers texte créés de manière collaborative.
 
