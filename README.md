@@ -9,11 +9,11 @@ Si l'on considère les lois comme un ensemble de textes modifiés par les diffé
 
 Les membres du gouvernement, et des différentes assemblées, travaillent en collaboration sur ces fichiers, qui, une fois votés, sont inscrits dans le Code (ici Code Civil).
 
-Mais il y a une autre catégorie de gens qui, depuis plus de 50 ans, travaillent sur des fichiers texte de façon collaborative, et excelle à cela : les développeurs. Ils ont créé des outils extrêmement efficaces de collaboration et de tracking pour travailler sur du code source. Le plus populaire en date étant Git.
+Mais il y a une autre catégorie de gens qui, depuis plus de 50 ans, travaillent sur des fichiers texte de façon collaborative, et excellent à cela : les développeurs. Ils ont créé des outils extrêmement efficaces de collaboration et de tracking pour travailler sur du code source. Le plus populaire en date étant Git.
 
 Git permet non seulement de visionner les sources à un instant T (snapshot), mais surtout de visualiser facilement les changements dans ces sources (commits). Dans l'analogie du Code Civil, cela permet de tracker très rapidement les changements apportés par une loi.
 
-Combinons tout cela à la philosophie Open Source, et la 2e partie de l'analogie est faite : modification de code source de façon ouverte et publique.
+Combinons tout cela à la philosophie Open Source, et la seconde partie de l'analogie est faite : modification de code source de façon ouverte et publique.
 
 Finalement, le Code Civil, c'est une partie du code source de la France. Et le code source, ça va sur un source control. Point.
 
