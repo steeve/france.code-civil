@@ -5,9 +5,9 @@ Le Code civil français, sous Git
 -----------------------------------
 Et pourtant nous autres citoyens (moi y compris) ne connaissons pas les lois qui construisent et gouvernent notre République. Peut-être parce que les outils existants sont trop opaques et complexes.
 
-Notre République c'est un *work in progress* (travail en cours). Elle n'est pas fixe, elle bouge, elle évolue, grace a nos parlementaires: ceux qu'on déteste, ceux qu'on ne connait pas, et ceux qu'on aime. Mais aussi et surtout grace a nous tous, les citoyens. Pouvoir suivre son évolution, c'est une façon de nous ré-approprier ce qui fait de nous ce que nous sommes, et ne pas se perdre dans des querelles passagères.
+Notre République est un *work in progress* (travail en cours). Elle n'est pas fixe, elle bouge, elle évolue, grâce à nos parlementaires : ceux qu'on déteste, ceux qu'on ne connaît pas, et ceux qu'on aime. Mais aussi et surtout grâce à nous tous, les citoyens. Pouvoir suivre son évolution, c'est une façon de nous réapproprier ce qui fait de nous ce que nous sommes, et ne pas nous perdre dans des querelles passagères.
 
-Notre République est la représentation de nous tous, a nous d'y contribuer a la hauteur de nos compétences.
+Notre République est la représentation de nous tous. À nous d'y contribuer, à la hauteur de nos compétences.
 
 Aux armes, citoyens.
 
