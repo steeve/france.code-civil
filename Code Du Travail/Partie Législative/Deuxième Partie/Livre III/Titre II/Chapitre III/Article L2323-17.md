@@ -1,10 +1,11 @@
 Article L2323-17
 ----
 Lorsque le comité d'entreprise a connaissance de faits susceptibles de
-caractériser un recours abusif aux contrats de travail à durée déterminée et au
-travail temporaire, ou lorsqu'il constate un accroissement important du nombre
-de salariés titulaires de contrats de travail à durée déterminée et de contrats
-de mission, il peut saisir l'inspecteur du travail.
+caractériser un recours abusif aux contrats de travail à durée déterminée, aux
+contrats conclus avec une entreprise de portage salarial et au travail
+temporaire, ou lorsqu'il constate un accroissement important du nombre de
+salariés titulaires de contrats de travail à durée déterminée et de contrats de
+mission, il peut saisir l'inspecteur du travail.
 
 Sans préjudice des compétences qu'il détient en vertu des articles L. 8112-1 et
 suivants et de l'article L. 8113-7, l'inspecteur du travail adresse à

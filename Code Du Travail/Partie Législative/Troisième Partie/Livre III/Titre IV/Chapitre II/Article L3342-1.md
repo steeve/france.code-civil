@@ -13,6 +13,11 @@ est réputé compter trois mois d'ancienneté dans l'entreprise ou dans le group
 qui l'emploie s'il a été mis à la disposition d'entreprises utilisatrices
 pendant une durée totale d'au moins soixante jours au cours du dernier exercice.
 
+Le salarié porté mentionné aux articles L. 1254-1 et suivants est réputé compter
+trois mois d'ancienneté dans l'entreprise de portage ou dans le groupe qui
+l'emploie s'il a réalisé une prestation dans une entreprise cliente pendant une
+durée totale d'au moins soixante jours au cours du dernier exercice.
+
 La condition maximale d'ancienneté de trois mois, prévue au premier alinéa,
 remplace de plein droit, à compter de la date de publication de la loi n°
 2001-152 du 19 février 2001 sur l'épargne salariale, toute condition maximale
