@@ -48,4 +48,4 @@ audition.
 
 L'officier d'état civil qui ne se conformera pas aux prescriptions des alinéas
 précédents sera poursuivi devant le tribunal de grande instance et puni d'une
-amende de 3 à [30](/Livre Ier/Titre Ier bis/Article 30.md) euros.
+amende de 3 à 30 euros.

@@ -11,7 +11,7 @@ suite ;
 1° bis Conjointement avec le vendeur et, le cas échéant, avec le prêteur de
 deniers mentionné au 2°, le syndicat des copropriétaires, sur le lot vendu, pour
 le paiement des charges et travaux mentionnés à l'article [10](/Livre Ier/Titre Ier/Article 10.md), au c du II de
-l'article [24](/Livre Ier/Titre Ier bis/Article 24.md) et à l'article [30](/Livre Ier/Titre Ier bis/Article 30.md) de la loi n° 65-557 du [10](/Livre Ier/Titre Ier/Article 10.md) juillet [1965](/Livre III/Titre XII/Article 1965.md) fixant le
+l'article [24](/Livre Ier/Titre Ier bis/Article 24.md) et à l'article [30](/Livre Ier/Titre Ier bis/Article 30.md) de la loi n° 65-557 du 10 juillet 1965 fixant le
 statut de la copropriété des immeubles bâtis et des cotisations au fonds de
 travaux mentionné à l'article 14-2 de la même loi, relatifs à l'année courante
 et aux quatre dernières années échues ainsi que des dommages et intérêts alloués
