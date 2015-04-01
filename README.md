@@ -5,9 +5,9 @@ Le Code civil français, sous Git
 -----------------------------------
 Et pourtant nous autres citoyens (moi y compris) ne connaissons pas les lois qui construisent et gouvernent notre République. Peut-être parce que les outils existants sont trop opaques et complexes.
 
-Notre République c'est un *work in progress* (travail en cours). Elle n'est pas fixe, elle bouge, elle évolue, grace a nos parlementaires: ceux qu'on déteste, ceux qu'on ne connait pas, et ceux qu'on aime. Mais aussi et surtout grace a nous tous, les citoyens. Pouvoir suivre son évolution, c'est une façon de nous ré-approprier ce qui fait de nous ce que nous sommes, et ne pas se perdre dans des querelles passagères.
+Notre République c'est un *work in progress* (travail en cours). Elle n'est pas fixe, elle bouge, elle évolue, grâce à nos parlementaires: ceux qu'on déteste, ceux qu'on ne connait pas, et ceux qu'on aime. Mais aussi et surtout grâce à nous tous, les citoyens. Pouvoir suivre son évolution, c'est une façon de nous ré-approprier ce qui fait de nous ce que nous sommes, et ne pas se perdre dans des querelles passagères.
 
-Notre République est la représentation de nous tous, a nous d'y contribuer a la hauteur de nos compétences.
+Notre République est la représentation de nous tous, à nous d'y contribuer à la hauteur de nos compétences.
 
 Aux armes, citoyens.
 
@@ -36,7 +36,7 @@ C'est quand même plus lisible que, par exemple (cf http://www.assemblee-nationa
 
 Note technique
 --------------
-Les dates Git étant basées sur l'epoch Unix (01/01/1970), les changements avant cette date sont tous datés au 01/01/1970, avec secondes incrémentales; Le message du commit donne la vraie date.
+Les dates Git étant basées sur l'epoch Unix (01/01/1970), les changements avant cette date sont tous datés au 01/01/1970, avec secondes incrémentales. Le message du commit donne la vraie date.
 
 LICENCE
 -------
