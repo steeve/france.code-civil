@@ -1,6 +1,6 @@
 Article 757-3
 ----
-Par dérogation à l'article 757-2, en cas de prédécès des père et mère, les biens
+Par dérogation à l'article [757-2](/Livre III/Titre Ier/Article 757-2.md), en cas de prédécès des père et mère, les biens
 que le défunt avait reçus de ses ascendants par succession ou donation et qui se
 retrouvent en nature dans la succession sont, en l'absence de descendants,
 dévolus pour moitié aux frères et soeurs du défunt ou à leurs descendants, eux-

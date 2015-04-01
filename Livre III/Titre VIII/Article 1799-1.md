@@ -1,12 +1,12 @@
 Article 1799-1
 ----
 Le maître de l'ouvrage qui conclut un marché de travaux privé visé au 3° de
-l'article 1779 doit garantir à l'entrepreneur le paiement des sommes dues
+l'article [1779](/Livre III/Titre VIII/Article 1779.md) doit garantir à l'entrepreneur le paiement des sommes dues
 lorsque celles-ci dépassent un seuil fixé par décret en Conseil d'Etat.
 
 Lorsque le maître de l'ouvrage recourt à un crédit spécifique pour financer les
 travaux, l'établissement de crédit ne peut verser le montant du prêt à une
-personne autre que celles mentionnées au 3° de l'article 1779 tant que celles-ci
+personne autre que celles mentionnées au 3° de l'article [1779](/Livre III/Titre VIII/Article 1779.md) tant que celles-ci
 n'ont pas reçu le paiement de l'intégralité de la créance née du marché
 correspondant au prêt. Les versements se font sur l'ordre écrit et sous la
 responsabilité exclusive du maître de l'ouvrage entre les mains de la personne

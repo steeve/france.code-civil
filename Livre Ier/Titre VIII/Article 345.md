@@ -12,5 +12,5 @@ majorité.
 
 S'il a plus de treize ans, l'adopté doit consentir personnellement à son
 adoption plénière. Ce consentement est donné selon les formes prévues au premier
-alinéa de l'article 348-3. Il peut être rétracté à tout moment jusqu'au prononcé
+alinéa de l'article [348-3](/Livre Ier/Titre VIII/Article 348-3.md). Il peut être rétracté à tout moment jusqu'au prononcé
 de l'adoption.

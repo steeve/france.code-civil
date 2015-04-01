@@ -9,7 +9,7 @@ rémunération convenue, à tout ou partie des opérations juridiques,
 administratives et financières concourant au même objet. Ce promoteur est garant
 de l'exécution des obligations mises à la charge des personnes avec lesquelles
 il a traité au nom du maître de l'ouvrage. Il est notamment tenu des obligations
-résultant des articles 1792, 1792-1, 1792-2 et 1792-3 du présent code.
+résultant des articles [1792](/Livre III/Titre VIII/Article 1792.md), [1792-1](/Livre III/Titre VIII/Article 1792-1.md), [1792-2](/Livre III/Titre VIII/Article 1792-2.md) et [1792-3](/Livre III/Titre VIII/Article 1792-3.md) du présent code.
 
 Si le promoteur s'engage à exécuter lui-même partie des opérations du programme,
 il est tenu, quant à ces opérations, des obligations d'un locateur d'ouvrage.

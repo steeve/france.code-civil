@@ -1,6 +1,6 @@
 Article 2372-5
 ----
-La propriété cédée en application de l'article 2372-1 peut être ultérieurement
+La propriété cédée en application de l'article [2372-1](/Livre IV/Titre II/Article 2372-1.md) peut être ultérieurement
 affectée à la garantie de dettes autres que celles mentionnées par l'acte
 constitutif pourvu que celui-ci le prévoie expressément.
 
@@ -11,7 +11,7 @@ peut alors être affecté en garantie d'une nouvelle dette que dans la limite de
 sa valeur estimée au jour de la recharge.
 
 A peine de nullité, la convention de rechargement établie selon les dispositions
-de l'article 2372-2 est enregistrée sous la forme prévue à l'article 2019. La
+de l'article [2372-2](/Livre IV/Titre II/Article 2372-2.md) est enregistrée sous la forme prévue à l'article [2019](/Livre III/Titre XIV/Article 2019.md). La
 date d'enregistrement détermine, entre eux, le rang des créanciers.
 
 Les dispositions du présent article sont d'ordre public et toute clause

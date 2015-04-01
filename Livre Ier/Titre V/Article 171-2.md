@@ -6,7 +6,7 @@ l'accomplissement, auprès de l'autorité diplomatique ou consulaire compétente
 regard du lieu de célébration du mariage, des prescriptions prévues à l'article
 63.
 
-Sous réserve des dispenses prévues à l'article 169, la publication prévue à
-l'article 63 est également faite auprès de l'officier de l'état civil ou de
+Sous réserve des dispenses prévues à l'article [169](/Livre Ier/Titre V/Article 169.md), la publication prévue à
+l'article [63](/Livre Ier/Titre II/Article 63.md) est également faite auprès de l'officier de l'état civil ou de
 l'autorité diplomatique ou consulaire du lieu où le futur époux français a son
 domicile ou sa résidence.

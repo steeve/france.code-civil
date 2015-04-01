@@ -8,7 +8,7 @@ succession ou libéralité, à moins que le donateur ou testateur n'ait stipulé
 contraire.
 
 Restent propres, néanmoins, ceux de ces biens meubles qui auraient formé des
-propres par leur nature en vertu de l'article 1404, sous le régime légal, s'ils
+propres par leur nature en vertu de l'article [1404](/Livre III/Titre V/Article 1404.md), sous le régime légal, s'ils
 avaient été acquis pendant la communauté.
 
 Si l'un des époux avait acquis un immeuble depuis le contrat de mariage,

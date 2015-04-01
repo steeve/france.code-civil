@@ -1,7 +1,7 @@
 Article 2451
 ----
 Lorsque le service chargé de la publicité foncière, délivrant un certificat au
-nouveau titulaire d'un droit visé à l'article 2476, omet une inscription de
+nouveau titulaire d'un droit visé à l'article [2476](/Livre IV/Titre II/Article 2476.md), omet une inscription de
 privilège ou d'hypothèque, le droit demeure dans les mains du nouveau titulaire,
 affranchi du privilège ou de l'hypothèque non révélé, pourvu que la délivrance
 du certificat ait été requise par l'intéressé en conséquence de la publication

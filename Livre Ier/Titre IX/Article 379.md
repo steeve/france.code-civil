@@ -7,4 +7,4 @@ d'autre détermination, il s'étend à tous les enfants mineurs déjà nés au m
 du jugement.
 
 Il emporte, pour l'enfant, dispense de l'obligation alimentaire, par dérogation
-aux articles 205 à 207, sauf disposition contraire dans le jugement de retrait.
+aux articles [205](/Livre Ier/Titre V/Article 205.md) à [207](/Livre Ier/Titre V/Article 207.md), sauf disposition contraire dans le jugement de retrait.

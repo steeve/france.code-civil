@@ -3,7 +3,7 @@ Article 483
 Le mandat mis à exécution prend fin par :
 
 1° Le rétablissement des facultés personnelles de l'intéressé constaté à la
-demande du mandant ou du mandataire, dans les formes prévues à l'article 481 ;
+demande du mandant ou du mandataire, dans les formes prévues à l'article [481](/Livre Ier/Titre XI/Article 481.md) ;
 
 2° Le décès de la personne protégée ou son placement en curatelle ou en tutelle,
 sauf décision contraire du juge qui ouvre la mesure ;
@@ -12,7 +12,7 @@ sauf décision contraire du juge qui ouvre la mesure ;
 déconfiture ;
 
 4° Sa révocation prononcée par le juge des tutelles à la demande de tout
-intéressé, lorsqu'il s'avère que les conditions prévues par l'article 425 ne
+intéressé, lorsqu'il s'avère que les conditions prévues par l'article [425](/Livre Ier/Titre XI/Article 425.md) ne
 sont pas réunies, lorsque les règles du droit commun de la représentation ou
 celles relatives aux droits et devoirs respectifs des époux et aux régimes
 matrimoniaux apparaissent suffisantes pour qu'il soit pourvu aux intérêts de la

@@ -1,7 +1,7 @@
 Article 1449
 ----
 La séparation de biens prononcée en justice a pour effet de placer les époux
-sous le régime des articles 1536 et suivants.
+sous le régime des articles [1536](/Livre III/Titre V/Article 1536.md) et suivants.
 
 Le tribunal, en prononçant la séparation, peut ordonner qu'un époux versera sa
 contribution entre les mains de son conjoint, lequel assumera désormais seul à

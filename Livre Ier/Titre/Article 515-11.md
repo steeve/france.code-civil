@@ -31,7 +31,7 @@ l'auteur des violences, même s'il a bénéficié d'un hébergement d'urgence ;
 
 5° Se prononcer sur les modalités d'exercice de l'autorité parentale et, le cas
 échéant, sur la contribution aux charges du mariage pour les couples mariés, sur
-l'aide matérielle au sens de l'article 515-4 pour les partenaires d'un pacte
+l'aide matérielle au sens de l'article [515-4](/Livre Ier/Titre XIII/Article 515-4.md) pour les partenaires d'un pacte
 civil de solidarité et sur la contribution à l'entretien et à l'éducation des
 enfants ;
 
@@ -48,8 +48,8 @@ résidence et à élire domicile pour les besoins de la vie courante chez une
 personne morale qualifiée ;
 
 7° Prononcer l'admission provisoire à l'aide juridictionnelle de la partie
-demanderesse en application du premier alinéa de l'article 20 de la loi n°
-91-647 du 10 juillet 1991 relative à l'aide juridique.
+demanderesse en application du premier alinéa de l'article [20](/Livre Ier/Titre Ier bis/Article 20.md) de la loi n°
+91-647 du [10](/Livre Ier/Titre Ier/Article 10.md) juillet [1991](/Livre III/Titre XIII/Article 1991.md) relative à l'aide juridique.
 
 Le cas échéant, le juge présente à la partie demanderesse une liste des
 personnes morales qualifiées susceptibles de l'accompagner pendant toute la

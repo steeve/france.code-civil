@@ -1,6 +1,6 @@
 Article 459
 ----
-Hors les cas prévus à l'article 458, la personne protégée prend seule les
+Hors les cas prévus à l'article [458](/Livre Ier/Titre XI/Article 458.md), la personne protégée prend seule les
 décisions relatives à sa personne dans la mesure où son état le permet.
 
 Lorsque l'état de la personne protégée ne lui permet pas de prendre seule une

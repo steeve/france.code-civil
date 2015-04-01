@@ -1,6 +1,6 @@
 Article 2446
 ----
-Quand l'hypothèque légale a été inscrite par application des articles 2402 ou
+Quand l'hypothèque légale a été inscrite par application des articles [2402](/Livre IV/Titre II/Article 2402.md) ou
 2403, et sauf clause expresse du contrat de mariage l'interdisant, l'époux
 bénéficiaire de l'inscription peut en donner mainlevée totale ou partielle.
 
@@ -16,7 +16,7 @@ réduction ou cette mainlevée aux conditions qu'ils estimeront nécessaires à 
 sauvegarde des droits de l'époux intéressé. Ils ont les mêmes pouvoirs lorsque
 le contrat de mariage comporte la clause visée au premier alinéa.
 
-Quand l'hypothèque a été inscrite par application de l'article 2404,
+Quand l'hypothèque a été inscrite par application de l'article [2404](/Livre IV/Titre II/Article 2404.md),
 l'inscription ne peut être rayée ou réduite, pendant la durée du transfert
 d'administration, qu'en vertu d'un jugement du tribunal qui a ordonné le
 transfert.

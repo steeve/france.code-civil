@@ -1,6 +1,6 @@
 Article 775
 ----
-Les dispositions visées à l'article 774 s'appliquent également aux héritiers de
+Les dispositions visées à l'article [774](/Livre III/Titre Ier/Article 774.md) s'appliquent également aux héritiers de
 celui qui décède sans avoir opté. Le délai de quatre mois court à compter de
 l'ouverture de la succession de ce dernier.
 

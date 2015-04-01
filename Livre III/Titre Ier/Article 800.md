@@ -10,7 +10,7 @@ Il doit présenter le compte à tout créancier successoral qui en fait la deman
 et répondre dans un délai de deux mois à la sommation, signifiée par acte
 extrajudiciaire, de lui révéler où se trouvent les biens et droits recueillis
 dans la succession qu'il n'a pas aliénés ou conservés dans les conditions
-prévues à l'article 794. A défaut, il peut être contraint sur ses biens
+prévues à l'article [794](/Livre III/Titre Ier/Article 794.md). A défaut, il peut être contraint sur ses biens
 personnels.
 
 L'héritier qui a omis, sciemment et de mauvaise foi, de comprendre dans

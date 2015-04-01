@@ -1,6 +1,6 @@
 Article 2528
 ----
-Les droits soumis à inscription en application de l'article 2521 sont, s'ils
+Les droits soumis à inscription en application de l'article [2521](/Livre V/Titre IV/Article 2521.md) sont, s'ils
 n'ont pas été inscrits, inopposables aux tiers qui, sur le même immeuble, ont
 acquis, du même auteur, des droits concurrents soumis à inscription.
 

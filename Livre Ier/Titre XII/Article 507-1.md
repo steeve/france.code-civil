@@ -1,6 +1,6 @@
 Article 507-1
 ----
-Par dérogation à l'article 768, le tuteur ne peut accepter une succession échue
+Par dérogation à l'article [768](/Livre III/Titre Ier/Article 768.md), le tuteur ne peut accepter une succession échue
 à la personne protégée qu'à concurrence de l'actif net. Toutefois, le conseil de
 famille ou, à défaut, le juge peut, par une délibération ou une décision
 spéciale, l'autoriser à accepter purement et simplement si l'actif dépasse

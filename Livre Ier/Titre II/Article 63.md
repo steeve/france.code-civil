@@ -6,13 +6,13 @@ par voie d'affiche apposée à la porte de la maison commune. Cette publication
 époux, ainsi que le lieu où le mariage devra être célébré.
 
 La publication prévue au premier alinéa ou, en cas de dispense de publication
-accordée conformément aux dispositions de l'article 169, la célébration du
+accordée conformément aux dispositions de l'article [169](/Livre Ier/Titre V/Article 169.md), la célébration du
 mariage est subordonnée :
 
 1° A la remise, pour chacun des futurs époux, des indications ou pièces
 suivantes :
 
--les pièces exigées par les articles 70 ou 71 ;
+-les pièces exigées par les articles [70](/Livre Ier/Titre II/Article 70.md) ou [71](/Livre Ier/Titre II/Article 71.md) ;
 
 -la justification de l'identité au moyen d'une pièce délivrée par une autorité
 publique ;
@@ -23,7 +23,7 @@ domicile des témoins, sauf lorsque le mariage doit être célébré par une aut
 
 2° A l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il
 apparaît, au vu des pièces fournies, que cette audition n'est pas nécessaire au
-regard des articles 146 et 180.
+regard des articles [146](/Livre Ier/Titre V/Article 146.md) et [180](/Livre Ier/Titre V/Article 180.md).
 
 L'officier de l'état civil, s'il l'estime nécessaire, demande à s'entretenir
 séparément avec l'un ou l'autre des futurs époux.
@@ -48,4 +48,4 @@ audition.
 
 L'officier d'état civil qui ne se conformera pas aux prescriptions des alinéas
 précédents sera poursuivi devant le tribunal de grande instance et puni d'une
-amende de 3 à 30 euros.
+amende de 3 à [30](/Livre Ier/Titre Ier bis/Article 30.md) euros.

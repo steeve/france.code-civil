@@ -3,7 +3,7 @@ Article 1426
 Si l'un des époux se trouve, d'une manière durable, hors d'état de manifester sa
 volonté, ou si sa gestion de la communauté atteste l'inaptitude ou la fraude,
 l'autre conjoint peut demander en justice à lui être substitué dans l'exercice
-de ses pouvoirs. Les dispositions des articles 1445 à 1447 sont applicables à
+de ses pouvoirs. Les dispositions des articles [1445](/Livre III/Titre V/Article 1445.md) à [1447](/Livre III/Titre V/Article 1447.md) sont applicables à
 cette demande.
 
 Le conjoint, ainsi habilité par justice, a les mêmes pouvoirs qu'aurait eus

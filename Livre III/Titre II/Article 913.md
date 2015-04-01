@@ -7,4 +7,4 @@ un plus grand nombre.
 
 L'enfant qui renonce à la succession n'est compris dans le nombre d'enfants
 laissés par le défunt que s'il est représenté ou s'il est tenu au rapport d'une
-libéralité en application des dispositions de l'article 845.
+libéralité en application des dispositions de l'article [845](/Livre III/Titre Ier/Article 845.md).

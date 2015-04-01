@@ -4,7 +4,7 @@ La donation de biens à venir faite entre époux pendant le mariage est toujours
 révocable.
 
 La donation de biens présents qui prend effet au cours du mariage faite entre
-époux n'est révocable que dans les conditions prévues par les articles 953 à
+époux n'est révocable que dans les conditions prévues par les articles [953](/Livre III/Titre II/Article 953.md) à
 958.
 
 Les donations faites entre époux de biens présents ou de biens à venir ne sont

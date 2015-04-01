@@ -1,6 +1,6 @@
 Article 515-12
 ----
-Les mesures mentionnées à l'article 515-11 sont prises pour une durée maximale
+Les mesures mentionnées à l'article [515-11](/Livre Ier/Titre/Article 515-11.md) sont prises pour une durée maximale
 de six mois à compter de la notification de l'ordonnance. Elles peuvent être
 prolongées au-delà si, durant ce délai, une requête en divorce ou en séparation
 de corps a été déposée ou si le juge aux affaires familiales a été saisi d'une

@@ -1,7 +1,7 @@
 Article 259-3
 ----
 Les époux doivent se communiquer et communiquer au juge ainsi qu'aux experts et
-aux autres personnes désignées par lui en application des 9° et 10° de l'article
+aux autres personnes désignées par lui en application des 9° et [10](/Livre Ier/Titre Ier/Article 10.md)° de l'article
 255, tous renseignements et documents utiles pour fixer les prestations et
 pensions et liquider le régime matrimonial.
 

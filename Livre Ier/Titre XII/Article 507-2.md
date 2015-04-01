@@ -5,4 +5,4 @@ protégée n'a pas été acceptée par un autre héritier et tant que l'Etat n'a
 été envoyé en possession, la renonciation peut être révoquée soit par le tuteur
 autorisé à cet effet par une nouvelle délibération du conseil de famille ou, à
 défaut, une nouvelle décision du juge, soit par la personne protégée devenue
-capable. Le second alinéa de l'article 807 est applicable.
+capable. Le second alinéa de l'article [807](/Livre III/Titre Ier/Article 807.md) est applicable.

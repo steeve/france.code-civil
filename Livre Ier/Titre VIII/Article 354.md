@@ -17,6 +17,6 @@ filiation réelle de l'enfant.
 La transcription tient lieu d'acte de naissance à l'adopté.
 
 L'acte de naissance originaire conservé par un officier de l'état civil français
-et, le cas échéant, l'acte de naissance établi en application de l'article 58
+et, le cas échéant, l'acte de naissance établi en application de l'article [58](/Livre Ier/Titre II/Article 58.md)
 sont, à la diligence du procureur de la République, revêtus de la mention "
 adoption " et considérés comme nuls.

@@ -1,6 +1,6 @@
 Article 375-9
 ----
-La décision confiant le mineur, sur le fondement du 5° de l'article 375-3, à un
+La décision confiant le mineur, sur le fondement du 5° de l'article [375-3](/Livre Ier/Titre IX/Article 375-3.md), à un
 établissement recevant des personnes hospitalisées en raison de troubles
 mentaux, est ordonnée après avis médical circonstancié d'un médecin extérieur à
 l'établissement, pour une durée ne pouvant excéder quinze jours.

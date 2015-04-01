@@ -11,7 +11,7 @@ s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des perso
 dont il est responsable.
 
 Cette disposition ne s'applique pas aux rapports entre propriétaires et
-locataires, qui demeurent régis par les articles 1733 et 1734 du code civil.
+locataires, qui demeurent régis par les articles [1733](/Livre III/Titre VIII/Article 1733.md) et [1734](/Livre III/Titre VIII/Article 1734.md) du code civil.
 
 Le père et la mère, en tant qu'ils exercent l'autorité parentale, sont
 solidairement responsables du dommage causé par leurs enfants mineurs habitant

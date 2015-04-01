@@ -2,8 +2,8 @@ Article 75
 ----
 Le jour désigné par les parties, après le délai de publication, l'officier de
 l'état civil, à la mairie, en présence d'au moins deux témoins, ou de quatre au
-plus, parents ou non des parties, fera lecture aux futurs époux des articles 212
-et 213, du premier alinéa des articles 214 et 215, et de l'article 371-1 du
+plus, parents ou non des parties, fera lecture aux futurs époux des articles [212](/Livre Ier/Titre V/Article 212.md)
+et [213](/Livre Ier/Titre V/Article 213.md), du premier alinéa des articles [214](/Livre Ier/Titre V/Article 214.md) et [215](/Livre Ier/Titre V/Article 215.md), et de l'article [371-1](/Livre Ier/Titre IX/Article 371-1.md) du
 présent code.
 
 Toutefois, en cas d'empêchement grave, le procureur de la République du lieu du

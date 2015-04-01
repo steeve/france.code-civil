@@ -13,8 +13,8 @@ cocontractant qu'il entendait s'engager à son égard, ou dont il est prouvé qu
 l'engagement a tourné à son profit.
 
 Dans tous les cas, en ce qui concerne les biens réputés indivis en application
-de l'article 1872 (alinéas 2 et 3), sont applicables dans les rapports avec les
+de l'article [1872](/Livre III/Titre IX/Article 1872.md) (alinéas 2 et 3), sont applicables dans les rapports avec les
 tiers, soit les dispositions du chapitre VI du titre Ier du livre III du présent
-code, soit, si les formalités prévues à l'article 1873-2 ont été accomplies,
+code, soit, si les formalités prévues à l'article [1873-2](/Livre III/Titre IX bis/Article 1873-2.md) ont été accomplies,
 celles du titre IX bis du présent livre, tous les associés étant alors, sauf
 convention contraire, réputés gérants de l'indivision.

@@ -1,7 +1,7 @@
 Article 21-13
 ----
 Peuvent réclamer la nationalité française par déclaration souscrite conformément
-aux articles 26 et suivants, les personnes qui ont joui, d'une façon constante,
+aux articles [26](/Livre Ier/Titre Ier bis/Article 26.md) et suivants, les personnes qui ont joui, d'une façon constante,
 de la possession d'état de Français, pendant les dix années précédant leur
 déclaration.
 

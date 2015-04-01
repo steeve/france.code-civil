@@ -1,7 +1,7 @@
 Article 479
 ----
 Lorsque le mandat s'étend à la protection de la personne, les droits et
-obligations du mandataire sont définis par les articles 457-1 à 459-2. Toute
+obligations du mandataire sont définis par les articles [457-1](/Livre Ier/Titre XI/Article 457-1.md) à [459-2](/Livre Ier/Titre XI/Article 459-2.md). Toute
 stipulation contraire est réputée non écrite.
 
 Le mandat peut prévoir que le mandataire exercera les missions que le code de la

@@ -5,4 +5,4 @@ Lorsque le juge constate que le demandeur maintient sa demande, il incite les
 
 Il leur demande de présenter pour l'audience de jugement un projet de règlement
 des effets du divorce. A cet effet, il peut prendre les mesures provisoires
-prévues à l'article 255.
+prévues à l'article [255](/Livre Ier/Titre VI/Article 255.md).

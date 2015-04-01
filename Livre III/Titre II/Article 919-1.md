@@ -8,6 +8,6 @@ donation.L'excédent est sujet à réduction.
 La donation faite en avancement de part successorale à un héritier réservataire
 qui renonce à la succession est traitée comme une donation faite hors part
 successorale. Toutefois, lorsqu'il est astreint au rapport en application des
-dispositions de l'article 845, l'héritier qui renonce est traité comme un
+dispositions de l'article [845](/Livre III/Titre Ier/Article 845.md), l'héritier qui renonce est traité comme un
 héritier acceptant pour la réunion fictive l'imputation et, le cas échéant, la
 réduction de la libéralité qui lui a été consentie.

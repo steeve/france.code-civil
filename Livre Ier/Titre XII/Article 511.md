@@ -13,7 +13,7 @@ Lorsqu'un subrogé tuteur a été nommé, il vérifie le compte avant de le
 transmettre avec ses observations au greffier en chef.
 
 Pour la vérification du compte, le greffier en chef peut faire usage du droit de
-communication prévu au deuxième alinéa de l'article 510. Il peut être assisté
+communication prévu au deuxième alinéa de l'article [510](/Livre Ier/Titre XII/Article 510.md). Il peut être assisté
 dans sa mission de contrôle des comptes dans les conditions fixées par le code
 de procédure civile.
 
@@ -25,6 +25,6 @@ Le juge peut décider que la mission de vérification et d'approbation des compt
 dévolue au greffier en chef sera exercée par le subrogé tuteur s'il en a été
 nommé un.
 
-Lorsqu'il est fait application de l'article 457, le juge peut décider que le
+Lorsqu'il est fait application de l'article [457](/Livre Ier/Titre XI/Article 457.md), le juge peut décider que le
 conseil de famille vérifiera et approuvera les comptes en lieu et place du
 greffier en chef.

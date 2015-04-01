@@ -6,5 +6,5 @@ morale et n'est pas soumise à publicité. Elle peut être prouvée par tous moy
 
 Les associés conviennent librement de l'objet, du fonctionnement et des
 conditions de la société en participation, sous réserve de ne pas déroger aux
-dispositions impératives des articles 1832, 1832-1, 1833, 1836 (2 ème alinéa),
-1841, 1844 (1er alinéa) et 1844-1 (2e alinéa).
+dispositions impératives des articles [1832](/Livre III/Titre IX/Article 1832.md), [1832-1](/Livre III/Titre IX/Article 1832-1.md), [1833](/Livre III/Titre IX/Article 1833.md), [1836](/Livre III/Titre IX/Article 1836.md) (2 ème alinéa),
+1841, [1844](/Livre III/Titre IX/Article 1844.md) (1er alinéa) et [1844-1](/Livre III/Titre IX/Article 1844-1.md) (2e alinéa).

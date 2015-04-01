@@ -1,6 +1,6 @@
 Article 2405
 ----
-Quand l'hypothèque légale a été inscrite par application des articles 2402 ou
+Quand l'hypothèque légale a été inscrite par application des articles [2402](/Livre IV/Titre II/Article 2402.md) ou
 2403, et sauf clause expresse du contrat de mariage l'interdisant, l'époux
 bénéficiaire de l'inscription peut consentir, au profit des créanciers de
 l'autre époux ou de ses propres créanciers, une cession de son rang ou une

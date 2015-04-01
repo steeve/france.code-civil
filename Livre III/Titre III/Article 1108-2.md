@@ -1,6 +1,6 @@
 Article 1108-2
 ----
-Il est fait exception aux dispositions de l'article 1108-1 pour :
+Il est fait exception aux dispositions de l'article [1108-1](/Livre III/Titre III/Article 1108-1.md) pour :
 
 1° Les actes sous seing privé relatifs au droit de la famille et des successions
 ;

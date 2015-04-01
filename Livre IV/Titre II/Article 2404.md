@@ -1,8 +1,8 @@
 Article 2404
 ----
 Pareillement si, pendant le mariage, il y a lieu de transférer d'un époux à
-l'autre l'administration de certains biens, par application de l'article 1426 ou
-de l'article 1429, le tribunal, soit dans le jugement même qui ordonne le
+l'autre l'administration de certains biens, par application de l'article [1426](/Livre III/Titre V/Article 1426.md) ou
+de l'article [1429](/Livre III/Titre V/Article 1429.md), le tribunal, soit dans le jugement même qui ordonne le
 transfert, soit dans un jugement postérieur, peut décider qu'une inscription de
 l'hypothèque légale sera prise sur les immeubles du conjoint qui aura la charge
 d'administrer. Dans l'affirmative, il fixe la somme pour laquelle il sera pris

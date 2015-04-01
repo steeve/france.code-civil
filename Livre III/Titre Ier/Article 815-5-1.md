@@ -1,7 +1,7 @@
 Article 815-5-1
 ----
 Sauf en cas de démembrement de la propriété du bien ou si l'un des indivisaires
-se trouve dans l'un des cas prévus à l'article 836, l'aliénation d'un bien
+se trouve dans l'un des cas prévus à l'article [836](/Livre III/Titre Ier/Article 836.md), l'aliénation d'un bien
 indivis peut être autorisée par le tribunal de grande instance, à la demande de
 l'un ou des indivisaires titulaires d'au moins deux tiers des droits indivis,
 suivant les conditions et modalités définies aux alinéas suivants.

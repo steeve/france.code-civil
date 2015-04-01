@@ -11,4 +11,4 @@ disparus, en vue de la transcription.
 
 Les jugements déclaratifs de décès tiennent lieu d'actes de décès et sont
 opposables aux tiers, qui peuvent seulement en obtenir la rectification,
-conformément à l'article 99 du présent code.
+conformément à l'article [99](/Livre Ier/Titre II/Article 99.md) du présent code.

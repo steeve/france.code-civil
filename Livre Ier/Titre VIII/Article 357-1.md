@@ -1,6 +1,6 @@
 Article 357-1
 ----
-A l'exception de son dernier alinéa, l'article 357 est applicable à l'enfant qui
+A l'exception de son dernier alinéa, l'article [357](/Livre Ier/Titre VIII/Article 357.md) est applicable à l'enfant qui
 a fait l'objet d'une adoption régulièrement prononcée à l'étranger ayant en
 France les effets de l'adoption plénière.
 

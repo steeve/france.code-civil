@@ -7,11 +7,11 @@ fichier immobilier, dans la forme et de la manière prescrites par la loi.
 Lorsque plusieurs inscriptions sont requises le même jour relativement au même
 immeuble, celle qui est requise en vertu du titre portant la date la plus
 ancienne est réputée d'un rang antérieur, quel que soit l'ordre qui résulte du
-registre prévu à l'article 2453.
+registre prévu à l'article [2453](/Livre IV/Titre II/Article 2453.md).
 
 Toutefois, les inscriptions de séparations de patrimoine prévues par l'article
-2383, dans le cas visé au second alinéa de l'article 2386, ainsi que celles des
-hypothèques légales prévues à l'article 2400, 1°, 2° et 3°, sont réputées d'un
+2383, dans le cas visé au second alinéa de l'article [2386](/Livre IV/Titre II/Article 2386.md), ainsi que celles des
+hypothèques légales prévues à l'article [2400](/Livre IV/Titre II/Article 2400.md), 1°, 2° et 3°, sont réputées d'un
 rang antérieur à celui de toute inscription d'hypothèque judiciaire ou
 conventionnelle prise le même jour.
 

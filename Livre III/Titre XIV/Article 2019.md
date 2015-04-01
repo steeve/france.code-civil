@@ -6,7 +6,7 @@ fiduciaire ou au service des impôts des non-résidents si le fiduciaire n'est p
 domicilié en France.
 
 Lorsqu'ils portent sur des immeubles ou des droits réels immobiliers, ils sont,
-sous la même sanction, publiés dans les conditions prévues aux articles 647 et
+sous la même sanction, publiés dans les conditions prévues aux articles [647](/Livre II/Titre IV/Article 647.md) et
 657 du code général des impôts.
 
 La transmission des droits résultant du contrat de fiducie et, si le

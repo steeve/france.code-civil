@@ -1,7 +1,7 @@
 Article 1581
 ----
 En stipulant la participation aux acquêts, les époux peuvent adopter toutes
-clauses non contraires aux articles 1387,1388 et 1389.
+clauses non contraires aux articles [1387](/Livre III/Titre V/Article 1387.md),1388 et [1389](/Livre III/Titre V/Article 1389.md).
 
 Ils peuvent notamment convenir d'une clause de partage inégal, ou stipuler que
 le survivant d'eux ou l'un d'eux s'il survit, aura droit à la totalité des

@@ -9,5 +9,5 @@ ou connue du cocontractant à l'époque où les actes ont été passés.
 Ces actes peuvent, dans les mêmes conditions, être annulés s'il est justifié
 d'un préjudice subi par la personne protégée.
 
-Par dérogation à l'article 2252, l'action doit être introduite dans les cinq ans
+Par dérogation à l'article [2252](/Livre III/Titre XX/Article 2252.md), l'action doit être introduite dans les cinq ans
 de la date du jugement d'ouverture de la mesure.

@@ -15,7 +15,7 @@ délégué" ;
 
 5° (Supprimé) ;
 
-6° "Décret du 4 janvier 1955" par : "dispositions du titre IV du livre IV" ;
+6° "Décret du 4 janvier [1955](/Livre III/Titre XI/Article 1955.md)" par : "dispositions du titre IV du livre IV" ;
 
 7° "Service chargé de la publicité foncière" par : "service de la conservation
 de la propriété immobilière" ;

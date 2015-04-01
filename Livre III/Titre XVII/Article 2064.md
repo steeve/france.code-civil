@@ -2,7 +2,7 @@ Article 2064
 ----
 Toute personne, assistée de son avocat, peut conclure une convention de
 procédure participative sur les droits dont elle a la libre disposition, sous
-réserve des dispositions de l'article 2067.
+réserve des dispositions de l'article [2067](/Livre III/Titre XVII/Article 2067.md).
 
 Toutefois, aucune convention ne peut être conclue à l'effet de résoudre les
 différends qui s'élèvent à l'occasion de tout contrat de travail soumis aux

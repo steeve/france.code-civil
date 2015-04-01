@@ -8,4 +8,4 @@ en est faite en marge de l'acte de mariage des époux, ainsi qu'en marge de leur
 actes de naissance.
 
 La séparation de biens subsiste sauf si les époux adoptent un nouveau régime
-matrimonial suivant les règles de l'article 1397.
+matrimonial suivant les règles de l'article [1397](/Livre III/Titre V/Article 1397.md).

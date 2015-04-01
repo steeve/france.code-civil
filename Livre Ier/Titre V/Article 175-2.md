@@ -1,8 +1,8 @@
 Article 175-2
 ----
 Lorsqu'il existe des indices sérieux laissant présumer, le cas échéant au vu de
-l'audition prévue par l'article 63, que le mariage envisagé est susceptible
-d'être annulé au titre de l'article 146 ou de l'article 180, l'officier de
+l'audition prévue par l'article [63](/Livre Ier/Titre II/Article 63.md), que le mariage envisagé est susceptible
+d'être annulé au titre de l'article [146](/Livre Ier/Titre V/Article 146.md) ou de l'article [180](/Livre Ier/Titre V/Article 180.md), l'officier de
 l'état civil peut saisir sans délai le procureur de la République. Il en informe
 les intéressés.
 

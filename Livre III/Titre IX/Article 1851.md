@@ -11,4 +11,4 @@ Sauf clause contraire, la révocation d'un gérant, qu'il soit associé ou non,
 n'entraîne pas la dissolution de la société. Si le gérant révoqué est un
 associé, il peut, à moins qu'il n'en soit autrement convenu dans les statuts, ou
 que les autres associés ne décident la dissolution anticipée de la société, se
-retirer de celle-ci dans les conditions prévues à l'article 1869 (2ème alinéa).
+retirer de celle-ci dans les conditions prévues à l'article [1869](/Livre III/Titre IX/Article 1869.md) (2ème alinéa).

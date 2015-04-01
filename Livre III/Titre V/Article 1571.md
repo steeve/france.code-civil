@@ -7,6 +7,6 @@ Si de nouveaux biens ont été subrogés aux biens aliénés, on prend en
 considération la valeur de ces nouveaux biens.
 
 De l'actif originaire sont déduites les dettes dont il se trouvait grevé,
-réévaluées, s'il y a lieu, selon les règles de l'article 1469, troisième alinéa.
+réévaluées, s'il y a lieu, selon les règles de l'article [1469](/Livre III/Titre V/Article 1469.md), troisième alinéa.
 Si le passif excède l'actif, cet excédent est fictivement réuni au patrimoine
 final.

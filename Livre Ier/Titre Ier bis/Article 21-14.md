@@ -1,9 +1,9 @@
 Article 21-14
 ----
 Les personnes qui ont perdu la nationalité française en application de l'article
-23-6 ou à qui a été opposée la fin de non-recevoir prévue par l'article 30-3
+23-6 ou à qui a été opposée la fin de non-recevoir prévue par l'article [30-3](/Livre Ier/Titre Ier bis/Article 30-3.md)
 peuvent réclamer la nationalité française par déclaration souscrite conformément
-aux articles 26 et suivants.
+aux articles [26](/Livre Ier/Titre Ier bis/Article 26.md) et suivants.
 
 Elles doivent avoir soit conservé ou acquis avec la France des liens manifestes
 d'ordre culturel, professionnel, économique ou familial, soit effectivement

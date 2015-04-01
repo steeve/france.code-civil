@@ -8,4 +8,4 @@ préférés à tout créancier du défunt sur les biens de l'héritier non recue
 au titre de la succession.
 
 Le droit de préférence donne lieu au privilège sur les immeubles prévu au 6° de
-l'article 2374 et il est sujet à inscription conformément à l'article 2383.
+l'article [2374](/Livre IV/Titre II/Article 2374.md) et il est sujet à inscription conformément à l'article [2383](/Livre IV/Titre II/Article 2383.md).

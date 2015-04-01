@@ -8,14 +8,14 @@ parents et de l'entourage.
 L'intéressé est assisté de son tuteur lors de la signature de la convention.
 Aucune assistance ni représentation ne sont requises lors de la déclaration
 conjointe au greffe du tribunal d'instance ou devant le notaire instrumentaire
-prévue au premier alinéa de l'article 515-3.
+prévue au premier alinéa de l'article [515-3](/Livre Ier/Titre XIII/Article 515-3.md).
 
 Les dispositions des alinéas précédents sont applicables en cas de modification
 de la convention.
 
 La personne en tutelle peut rompre le pacte civil de solidarité par déclaration
 conjointe ou par décision unilatérale. La formalité de signification prévue au
-cinquième alinéa de l'article 515-7 est opérée à la diligence du tuteur. Lorsque
+cinquième alinéa de l'article [515-7](/Livre Ier/Titre XIII/Article 515-7.md) est opérée à la diligence du tuteur. Lorsque
 l'initiative de la rupture émane de l'autre partenaire, cette signification est
 faite à la personne du tuteur.
 
@@ -28,7 +28,7 @@ Aucune assistance ni représentation ne sont requises pour l'accomplissement des
 formalités relatives à la rupture par déclaration conjointe.
 
 La personne en tutelle est représentée par son tuteur dans les opérations
-prévues aux dixième et onzième alinéas de l'article 515-7.
+prévues aux dixième et onzième alinéas de l'article [515-7](/Livre Ier/Titre XIII/Article 515-7.md).
 
 Pour l'application du présent article, le tuteur est réputé en opposition
 d'intérêts avec la personne protégée lorsque la tutelle est confiée à son

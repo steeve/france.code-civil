@@ -5,7 +5,7 @@ terme fixé par l'article précédent, que par l'effet d'un congé donné par é
 par l'une des parties à l'autre, six mois au moins avant ce terme.
 
 A défaut d'un congé donné dans le délai ci-dessus spécifié, il s'opère un
-nouveau bail dont l'effet est réglé par l'article 1774.
+nouveau bail dont l'effet est réglé par l'article [1774](/Livre III/Titre VIII/Article 1774.md).
 
 Il en est de même si, à l'expiration des baux écrits, le preneur reste et est
 laissé en possession.

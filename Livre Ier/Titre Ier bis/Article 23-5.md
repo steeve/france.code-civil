@@ -1,7 +1,7 @@
 Article 23-5
 ----
 En cas de mariage avec un étranger, le conjoint français peut répudier la
-nationalité française selon les dispositions des articles 26 et suivants à la
+nationalité française selon les dispositions des articles [26](/Livre Ier/Titre Ier bis/Article 26.md) et suivants à la
 condition qu'il ait acquis la nationalité étrangère de son conjoint et que la
 résidence habituelle du ménage ait été fixée à l'étranger.
 

@@ -5,4 +5,4 @@ sur les immeubles.
 
 Le livre foncier est tenu par le service de la conservation de la propriété
 immobilière. Il peut être tenu, par ce service, sous forme électronique dans les
-conditions définies par l'article 1316-1.
+conditions définies par l'article [1316-1](/Livre III/Titre III/Article 1316-1.md).

@@ -5,7 +5,7 @@ commercial, artisanal, agricole ou libéral ou des droits sociaux d'une sociét�
 exerçant une activité à caractère industriel, commercial, artisanal, agricole ou
 libéral et dans laquelle il exerce une fonction dirigeante, le disposant peut en
 faire, sous forme de donation-partage et dans les conditions prévues aux
-articles 1075 et 1075-1, la distribution et le partage entre le ou les
+articles [1075](/Livre III/Titre II/Article 1075.md) et [1075-1](/Livre III/Titre II/Article 1075-1.md), la distribution et le partage entre le ou les
 donataires visés auxdits articles et une ou plusieurs autres personnes, sous
 réserve des conditions propres à chaque forme de société ou stipulées dans les
 statuts.

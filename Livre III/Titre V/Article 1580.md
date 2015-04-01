@@ -8,4 +8,4 @@ liquidation anticipée de sa créance de participation.
 Les règles de la séparation de biens sont applicables à cette demande.
 
 Lorsque la demande est admise, les époux sont placés sous le régime des articles
-1536 à 1541.
+1536 à [1541](/Livre III/Titre V/Article 1541.md).

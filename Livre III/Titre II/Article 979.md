@@ -7,7 +7,7 @@ témoins, et qu'en haut de l'acte de suscription il écrira, en leur présence, 
 le papier qu'il présente est son testament et signera. Il sera fait mention dans
 l'acte de suscription que le testateur a écrit et signé ces mots en présence du
 notaire et des témoins et sera, au surplus, observé tout ce qui est prescrit par
-l'article 976 et n'est pas contraire au présent article.
+l'article [976](/Livre III/Titre II/Article 976.md) et n'est pas contraire au présent article.
 
 Dans tous les cas prévus au présent article ou aux articles précédents, le
 testament mystique dans lequel n'auront point été observées les formalités

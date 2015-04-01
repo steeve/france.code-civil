@@ -1,7 +1,7 @@
 Article 837
 ----
 Si un indivisaire est défaillant, sans qu'il soit néanmoins dans l'un des cas
-prévus à l'article 836, il peut, à la diligence d'un copartageant, être mis en
+prévus à l'article [836](/Livre III/Titre Ier/Article 836.md), il peut, à la diligence d'un copartageant, être mis en
 demeure, par acte extrajudiciaire, de se faire représenter au partage amiable.
 
 Faute pour cet indivisaire d'avoir constitué mandataire dans les trois mois de

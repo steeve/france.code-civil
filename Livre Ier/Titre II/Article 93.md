@@ -21,5 +21,5 @@ suivent l'accouchement.
 
 Les actes de décès peuvent être dressés aux armées, bien que l'officier de
 l'état civil n'ait pu se transporter auprès de la personne décédée. Par
-dérogation aux dispositions de l'article 78, ils peuvent y être dressés sur
+dérogation aux dispositions de l'article [78](/Livre Ier/Titre II/Article 78.md), ils peuvent y être dressés sur
 l'attestation de deux déclarants.

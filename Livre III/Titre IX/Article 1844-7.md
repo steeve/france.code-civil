@@ -3,7 +3,7 @@ Article 1844-7
 La société prend fin :
 
 1° Par l'expiration du temps pour lequel elle a été constituée, sauf prorogation
-effectuée conformément à l'article 1844-6 ;
+effectuée conformément à l'article [1844-6](/Livre III/Titre IX/Article 1844-6.md) ;
 
 2° Par la réalisation ou l'extinction de son objet ;
 
@@ -17,7 +17,7 @@ par un associé, ou de mésentente entre associés paralysant le fonctionnement 
 la société ;
 
 6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à
-l'article 1844-5 ;
+l'article [1844-5](/Livre III/Titre IX/Article 1844-5.md) ;
 
 7° Par l'effet d'un jugement ordonnant la clôture de la liquidation judiciaire
 pour insuffisance d'actif ;

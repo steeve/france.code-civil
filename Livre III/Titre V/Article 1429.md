@@ -5,7 +5,7 @@ volonté, ou s'il met en péril les intérêts de la famille, soit en laissant
 dépérir ses propres, soit en dissipant ou détournant les revenus qu'il en
 retire, il peut, à la demande de son conjoint, être dessaisi des droits
 d'administration et de jouissance qui lui sont reconnus par l'article précédent.
-Les dispositions des articles 1445 à 1447 sont applicables à cette demande.
+Les dispositions des articles [1445](/Livre III/Titre V/Article 1445.md) à [1447](/Livre III/Titre V/Article 1447.md) sont applicables à cette demande.
 
 A moins que la nomination d'un administrateur judiciaire n'apparaisse
 nécessaire, le jugement confère au conjoint demandeur le pouvoir d'administrer

@@ -5,4 +5,4 @@ Si l'enclave résulte de la division d'un fonds par suite d'une vente, d'un
 que sur les terrains qui ont fait l'objet de ces actes.
 
 Toutefois, dans le cas où un passage suffisant ne pourrait être établi sur les
-fonds divisés, l'article 682 serait applicable.
+fonds divisés, l'article [682](/Livre II/Titre IV/Article 682.md) serait applicable.

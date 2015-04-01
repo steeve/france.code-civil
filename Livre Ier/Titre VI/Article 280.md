@@ -5,10 +5,10 @@ quelle que soit sa forme, est prélevé sur la succession. Le paiement est
 supporté par tous les héritiers, qui n'y sont pas tenus personnellement, dans la
 limite de l'actif successoral et, en cas d'insuffisance, par tous les légataires
 particuliers, proportionnellement à leur émolument, sous réserve de
-l'application de l'article 927.
+l'application de l'article [927](/Livre III/Titre II/Article 927.md).
 
 Lorsque la prestation compensatoire a été fixée sous forme d'un capital payable
-dans les conditions de l'article 275, le solde de ce capital indexé devient
+dans les conditions de l'article [275](/Livre Ier/Titre VI/Article 275.md), le solde de ce capital indexé devient
 immédiatement exigible.
 
 Lorsqu'elle a été fixée sous forme de rente, il lui est substitué un capital

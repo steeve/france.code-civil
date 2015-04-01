@@ -5,7 +5,7 @@ continuent à exercer tous les attributs de l'autorité parentale qui ne sont pa
 inconciliables avec cette mesure. Ils ne peuvent, pendant la durée de cette
 mesure, émanciper l'enfant sans autorisation du juge des enfants.
 
-Sans préjudice de l'article 373-4 et des dispositions particulières autorisant
+Sans préjudice de l'article [373-4](/Livre Ier/Titre IX/Article 373-4.md) et des dispositions particulières autorisant
 un tiers à accomplir un acte non usuel sans l'accord des détenteurs de
 l'autorité parentale, le juge des enfants peut exceptionnellement, dans tous les
 cas où l'intérêt de l'enfant le justifie, autoriser la personne, le service ou
@@ -17,7 +17,7 @@ rapporter la preuve de la nécessité de cette mesure.
 Le lieu d'accueil de l'enfant doit être recherché dans l'intérêt de celui-ci et
 afin de faciliter l'exercice du droit de visite et d'hébergement par le ou les
 parents et le maintien de ses liens avec ses frères et soeurs en application de
-l'article 371-5.
+l'article [371-5](/Livre Ier/Titre IX/Article 371-5.md).
 
 S'il a été nécessaire de confier l'enfant à une personne ou un établissement,
 ses parents conservent un droit de correspondance ainsi qu'un droit de visite et
@@ -38,7 +38,7 @@ Le juge peut décider des modalités de l'accueil de l'enfant en considération 
 l'intérêt de celui-ci. Si l'intérêt de l'enfant le nécessite ou en cas de
 danger, le juge décide de l'anonymat du lieu d'accueil.
 
-Lorsqu'il fait application des articles 375-2, 375-3 ou 375-5, le juge peut
+Lorsqu'il fait application des articles [375-2](/Livre Ier/Titre IX/Article 375-2.md), [375-3](/Livre Ier/Titre IX/Article 375-3.md) ou [375-5](/Livre Ier/Titre IX/Article 375-5.md), le juge peut
 également ordonner l'interdiction de sortie du territoire de l'enfant. La
 décision fixe la durée de cette interdiction qui ne saurait excéder deux ans.
 Cette interdiction de sortie du territoire est inscrite au fichier des personnes

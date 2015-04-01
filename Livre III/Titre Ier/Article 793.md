@@ -1,6 +1,6 @@
 Article 793
 ----
-Dans le délai prévu à l'article 792, l'héritier peut déclarer qu'il conserve en
+Dans le délai prévu à l'article [792](/Livre III/Titre Ier/Article 792.md), l'héritier peut déclarer qu'il conserve en
 nature un ou plusieurs biens de la succession. En ce cas, il doit la valeur du
 bien fixée dans l'inventaire.
 

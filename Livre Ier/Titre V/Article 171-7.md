@@ -4,7 +4,7 @@ Lorsque le mariage a été célébré en contravention aux dispositions de l'art
 171-2, la transcription est précédée de l'audition des époux, ensemble ou
 séparément, par l'autorité diplomatique ou consulaire. Toutefois, si cette
 dernière dispose d'informations établissant que la validité du mariage n'est pas
-en cause au regard des articles 146 et 180, elle peut, par décision motivée,
+en cause au regard des articles [146](/Livre Ier/Titre V/Article 146.md) et [180](/Livre Ier/Titre V/Article 180.md), elle peut, par décision motivée,
 faire procéder à la transcription sans audition préalable des époux.
 
 A la demande de l'autorité diplomatique ou consulaire compétente au regard du
@@ -17,8 +17,8 @@ le cas échéant, aux fonctionnaires dirigeant une chancellerie détachée ou au
 consuls honoraires de nationalité française compétents.
 
 Lorsque des indices sérieux laissent présumer que le mariage célébré devant une
-autorité étrangère encourt la nullité au titre des articles 144, 146, 146-1,
-147, 161, 162, 163, 180 ou 191, l'autorité diplomatique ou consulaire chargée de
+autorité étrangère encourt la nullité au titre des articles [144](/Livre Ier/Titre V/Article 144.md), [146](/Livre Ier/Titre V/Article 146.md), [146-1](/Livre Ier/Titre V/Article 146-1.md),
+147, [161](/Livre Ier/Titre V/Article 161.md), [162](/Livre Ier/Titre V/Article 162.md), [163](/Livre Ier/Titre V/Article 163.md), [180](/Livre Ier/Titre V/Article 180.md) ou [191](/Livre Ier/Titre V/Article 191.md), l'autorité diplomatique ou consulaire chargée de
 transcrire l'acte en informe immédiatement le ministère public et sursoit à la
 transcription.
 

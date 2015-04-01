@@ -6,4 +6,4 @@ de transmission ou de remise effectuée pendant le cours du voyage, sont dépos�
 sous pli clos et cacheté, pour les bâtiments de l'Etat au ministre chargé de la
 défense nationale et, pour les autres bâtiments, au ministre chargé de la mer.
 Chacune de ces pièces est adressée, séparément et par courriers différents, au
-ministre chargé de la mer, qui les transmet conformément à l'article 983.
+ministre chargé de la mer, qui les transmet conformément à l'article [983](/Livre III/Titre II/Article 983.md).

@@ -11,6 +11,6 @@ pour l'héritier.
 
 Il peut également soit désigner un indivisaire comme administrateur en
 l'obligeant s'il y a lieu à donner caution, soit nommer un séquestre. Les
-articles 1873-5 à 1873-9 du présent code s'appliquent en tant que de raison aux
+articles [1873-5](/Livre III/Titre IX bis/Article 1873-5.md) à [1873-9](/Livre III/Titre IX bis/Article 1873-9.md) du présent code s'appliquent en tant que de raison aux
 pouvoirs et aux obligations de l'administrateur, s'ils ne sont autrement définis
 par le juge.

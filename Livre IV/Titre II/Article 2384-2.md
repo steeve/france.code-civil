@@ -1,6 +1,6 @@
 Article 2384-2
 ----
-Par dérogation à l'article 2384-1, le privilège peut également être conservé par
+Par dérogation à l'article [2384-1](/Livre IV/Titre II/Article 2384-1.md), le privilège peut également être conservé par
 la seule inscription du titre de recouvrement, à concurrence de sa valeur.
 
 Dans ce cas pour les créances nées de l'application de l'article L. 521-3-2 du

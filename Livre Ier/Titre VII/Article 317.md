@@ -6,7 +6,7 @@ qui fera foi de la possession d'état jusqu'à preuve contraire.
 
 L'acte de notoriété est établi sur la foi des déclarations d'au moins trois
 témoins et, si le juge l'estime nécessaire, de tout autre document produit qui
-attestent une réunion suffisante de faits au sens de l'article 311-1.
+attestent une réunion suffisante de faits au sens de l'article [311-1](/Livre Ier/Titre VII/Article 311-1.md).
 
 La délivrance de l'acte de notoriété ne peut être demandée que dans un délai de
 cinq ans à compter de la cessation de la possession d'état alléguée ou à compter

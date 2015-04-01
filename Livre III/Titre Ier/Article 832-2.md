@@ -2,8 +2,8 @@ Article 832-2
 ----
 Si une exploitation agricole constituant une unité économique et non exploitée
 sous forme sociale n'est pas maintenue dans l'indivision et n'a pas fait l'objet
-d'une attribution préférentielle dans les conditions prévues aux articles 831,
-832 ou 832-1, le conjoint survivant ou tout héritier copropriétaire qui désire
+d'une attribution préférentielle dans les conditions prévues aux articles [831](/Livre III/Titre Ier/Article 831.md),
+832 ou [832-1](/Livre III/Titre Ier/Article 832-1.md), le conjoint survivant ou tout héritier copropriétaire qui désire
 poursuivre l'exploitation à laquelle il participe ou a participé effectivement
 peut exiger, nonobstant toute demande de licitation, que le partage soit conclu
 sous la condition que ses copartageants lui consentent un bail à long terme dans

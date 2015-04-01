@@ -6,7 +6,7 @@ requises par la loi pour l'attribution de la nationalité française n'est étab
 que postérieurement.
 
 La nationalité de l'enfant qui a fait l'objet d'une adoption plénière est
-déterminée selon les distinctions établies aux articles 18 et 18-1,19-1,19-3 et
+déterminée selon les distinctions établies aux articles [18](/Livre Ier/Titre Ier bis/Article 18.md) et [18-1](/Livre Ier/Titre Ier bis/Article 18-1.md),19-1,19-3 et
 19-4 ci-dessus.
 
 Toutefois, l'établissement de la qualité de Français postérieurement à la

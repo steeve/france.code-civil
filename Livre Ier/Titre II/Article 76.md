@@ -24,16 +24,16 @@ majeurs ;
 qu'il a été ou qu'il n'a pas été fait de contrat de mariage, et, autant que
 possible, la date du contrat, s'il existe, ainsi que les nom et lieu de
 résidence du notaire qui l'aura reçu ; le tout à peine, contre l'officier de
-l'état civil, de l'amende fixée par l'article 50.
+l'état civil, de l'amende fixée par l'article [50](/Livre Ier/Titre II/Article 50.md).
 
 Dans le cas où la déclaration aurait été omise ou serait erronée, la
 rectification de l'acte, en ce qui touche l'omission ou l'erreur, pourra être
 demandée par le procureur de la République, sans préjudice du droit des parties
-intéressées, conformément à l'article 99.
+intéressées, conformément à l'article [99](/Livre Ier/Titre II/Article 99.md).
 
 9° S'il y a lieu, la déclaration qu'il a été fait un acte de désignation de la
 loi applicable conformément à la convention sur la loi applicable aux régimes
-matrimoniaux, faite à La Haye le 14 mars 1978, ainsi que la date et le lieu de
+matrimoniaux, faite à La Haye le [14](/Livre Ier/Titre Ier/Article 14.md) mars [1978](/Livre III/Titre XII/Article 1978.md), ainsi que la date et le lieu de
 signature de cet acte et, le cas échéant, le nom et la qualité de la personne
 qui l'a établi.
 

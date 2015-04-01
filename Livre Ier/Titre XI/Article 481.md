@@ -6,6 +6,6 @@ par le code de procédure civile.
 
 A cette fin, le mandataire produit au greffe du tribunal d'instance le mandat et
 un certificat médical émanant d'un médecin choisi sur la liste mentionnée à
-l'article 431 établissant que le mandant se trouve dans l'une des situations
-prévues à l'article 425. Le greffier vise le mandat et date sa prise d'effet,
+l'article [431](/Livre Ier/Titre XI/Article 431.md) établissant que le mandant se trouve dans l'une des situations
+prévues à l'article [425](/Livre Ier/Titre XI/Article 425.md). Le greffier vise le mandat et date sa prise d'effet,
 puis le restitue au mandataire.

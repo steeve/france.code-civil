@@ -3,7 +3,7 @@ Article 2488
 Les privilèges et hypothèques s'éteignent :
 
 1° Par l'extinction de l'obligation principale sous réserve du cas prévu à
-l'article 2422 ;
+l'article [2422](/Livre IV/Titre II/Article 2422.md) ;
 
 2° Par la renonciation du créancier à l'hypothèque sous la même réserve ;
 
@@ -24,5 +24,5 @@ où ce titre a été publié au fichier immobilier.
 Les inscriptions prises par le créancier n'interrompent pas le cours de la
 prescription établie par la loi en faveur du débiteur ou du tiers détenteur.
 
-5° Par la résiliation permise au dernier alinéa de l'article 2423 et dans la
+5° Par la résiliation permise au dernier alinéa de l'article [2423](/Livre IV/Titre II/Article 2423.md) et dans la
 mesure prévue par ce texte.

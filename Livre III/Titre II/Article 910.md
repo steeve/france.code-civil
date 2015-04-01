@@ -11,7 +11,7 @@ des libéralités et, dans les départements du Bas-Rhin, du Haut-Rhin et de la
 Moselle, des établissements publics du culte et des associations inscrites de
 droit local, à l'exception des associations ou fondations dont les activités ou
 celles de leurs dirigeants sont visées à l'article 1er de la loi n° 2001-504 du
-12 juin 2001 tendant à renforcer la prévention et la répression des mouvements
+12 juin [2001](/Livre III/Titre XIII/Article 2001.md) tendant à renforcer la prévention et la répression des mouvements
 sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales,
 sont acceptées librement par celles-ci.
 

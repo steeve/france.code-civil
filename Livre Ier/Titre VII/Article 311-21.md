@@ -22,7 +22,7 @@ la demande de transcription de l'acte, au plus tard dans les trois ans de la
 naissance de l'enfant.
 
 Lorsqu'il a déjà été fait application du présent article, du deuxième alinéa de
-l'article 311-23 ou de l'article 357 à l'égard d'un enfant commun, le nom
+l'article [311-23](/Livre Ier/Titre VII/Article 311-23.md) ou de l'article [357](/Livre Ier/Titre VIII/Article 357.md) à l'égard d'un enfant commun, le nom
 précédemment dévolu ou choisi vaut pour les autres enfants communs.
 
 Lorsque les parents ou l'un d'entre eux portent un double nom de famille, ils

@@ -7,4 +7,4 @@ la demande.
 
 En cas de décès de l'intéressé, dans les conditions prévues au premier alinéa,
 la même procédure est ouverte à ses enfants mineurs qui, au jour du décès,
-remplissaient la condition de résidence prévue à l'article 22-1.
+remplissaient la condition de résidence prévue à l'article [22-1](/Livre Ier/Titre Ier bis/Article 22-1.md).

@@ -11,5 +11,5 @@ de mauvaise foi ou à contretemps.
 
 Il peut être décidé que la convention à durée déterminée se renouvellera par
 tacite reconduction pour une durée déterminée ou indéterminée. A défaut d'un
-pareil accord, l'indivision sera régie par les articles 815 et suivants à
+pareil accord, l'indivision sera régie par les articles [815](/Livre III/Titre Ier/Article 815.md) et suivants à
 l'expiration de la convention à durée déterminée.

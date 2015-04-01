@@ -1,14 +1,14 @@
 Article 373-3
 ----
 La séparation des parents ne fait pas obstacle à la dévolution prévue à
-l'article 373-1, lors même que celui des père et mère qui demeure en état
+l'article [373-1](/Livre Ier/Titre IX/Article 373-1.md), lors même que celui des père et mère qui demeure en état
 d'exercer l'autorité parentale aurait été privé de l'exercice de certains des
 attributs de cette autorité par l'effet du jugement prononcé contre lui.
 
 Le juge peut, à titre exceptionnel et si l'intérêt de l'enfant l'exige,
 notamment lorsqu'un des parents est privé de l'exercice de l'autorité parentale,
 décider de confier l'enfant à un tiers, choisi de préférence dans sa parenté. Il
-est saisi et statue conformément aux articles 373-2-8 et 373-2-11.
+est saisi et statue conformément aux articles [373-2-8](/Livre Ier/Titre IX/Article 373-2-8.md) et [373-2-11](/Livre Ier/Titre IX/Article 373-2-11.md).
 
 Dans des circonstances exceptionnelles, le juge aux affaires familiales qui
 statue sur les modalités de l'exercice de l'autorité parentale après séparation

@@ -16,4 +16,4 @@ distribution.
 
 Ne sont pas considérées comme producteurs, au sens du présent titre, les
 personnes dont la responsabilité peut être recherchée sur le fondement des
-articles 1792 à 1792-6 et 1646-1.
+articles [1792](/Livre III/Titre VIII/Article 1792.md) à [1792-6](/Livre III/Titre VIII/Article 1792-6.md) et [1646-1](/Livre III/Titre VI/Article 1646-1.md).

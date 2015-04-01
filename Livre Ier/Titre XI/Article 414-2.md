@@ -15,4 +15,4 @@ que dans les cas suivants :
 curatelle ou d'une tutelle ou si effet a été donné au mandat de protection
 future.
 
-L'action en nullité s'éteint par le délai de cinq ans prévu à l'article 1304.
+L'action en nullité s'éteint par le délai de cinq ans prévu à l'article [1304](/Livre III/Titre III/Article 1304.md).

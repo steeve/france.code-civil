@@ -2,7 +2,7 @@ Article 813-9
 ----
 Le jugement désignant le mandataire successoral fixe la durée de sa mission
 ainsi que sa rémunération. A la demande de l'une des personnes mentionnées au
-deuxième alinéa de l'article 813-1 ou à l'article 814-1, il peut la proroger
+deuxième alinéa de l'article [813-1](/Livre III/Titre Ier/Article 813-1.md) ou à l'article [814-1](/Livre III/Titre Ier/Article 814-1.md), il peut la proroger
 pour une durée qu'il détermine.
 
 La mission cesse de plein droit par l'effet d'une convention d'indivision entre

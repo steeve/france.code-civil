@@ -10,11 +10,11 @@ La nationalité française des personnes nées à Mayotte, majeures au 1er janvi
 constante de la possession d'état de Français.
 
 Pendant une période de trois ans à compter de la publication de la loi n°
-2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration, pour
+2006-911 du [24](/Livre Ier/Titre Ier bis/Article 24.md) juillet [2006](/Livre III/Titre XIII/Article 2006.md) relative à l'immigration et à l'intégration, pour
 l'application du deuxième alinéa du présent article, les personnes majeures au
-1er janvier 1994 qui établissent qu'elles sont nées à Mayotte sont réputées
+1er janvier [1994](/Livre III/Titre XIII/Article 1994.md) qui établissent qu'elles sont nées à Mayotte sont réputées
 avoir joui de façon constante de la possession d'état de Français si elles
 prouvent, en outre, qu'elles ont été inscrites sur une liste électorale à
-Mayotte au moins dix ans avant la publication de la loi n° 2006-911 du 24
-juillet 2006 précitée et qu'elles font la preuve d'une résidence habituelle à
+Mayotte au moins dix ans avant la publication de la loi n° 2006-911 du [24](/Livre Ier/Titre Ier bis/Article 24.md)
+juillet [2006](/Livre III/Titre XIII/Article 2006.md) précitée et qu'elles font la preuve d'une résidence habituelle à
 Mayotte.

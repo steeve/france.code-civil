@@ -15,5 +15,5 @@ convention portée dans l'acte.
 
 L'exigence d'une pluralité d'originaux est réputée satisfaite pour les contrats
 sous forme électronique lorsque l'acte est établi et conservé conformément aux
-articles 1316-1 et 1316-4 et que le procédé permet à chaque partie de disposer
+articles [1316-1](/Livre III/Titre III/Article 1316-1.md) et [1316-4](/Livre III/Titre III/Article 1316-4.md) et que le procédé permet à chaque partie de disposer
 d'un exemplaire ou d'y avoir accès.

@@ -8,6 +8,6 @@ Toutefois, si la partie intéressée entend se faire représenter, elle ne pourr
 le faire que par un avocat régulièrement inscrit au barreau.
 
 Le dispositif du jugement d'annulation est publié sans délai, selon les
-modalités fixées par l'article 123. Mention de cette décision est portée, dès sa
+modalités fixées par l'article [123](/Livre Ier/Titre IV/Article 123.md). Mention de cette décision est portée, dès sa
 publication, en marge du jugement déclaratif d'absence et sur tout registre qui
 y fait référence.

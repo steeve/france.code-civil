@@ -6,4 +6,4 @@ accroissements se rattachant à des valeurs mobilières propres.
 
 Forment aussi des propres, par l'effet de la subrogation réelle, les créances et
 indemnités qui remplacent des propres, ainsi que les biens acquis en emploi ou
-remploi, conformément aux articles 1434 et 1435.
+remploi, conformément aux articles [1434](/Livre III/Titre V/Article 1434.md) et [1435](/Livre III/Titre V/Article 1435.md).

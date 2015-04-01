@@ -16,7 +16,7 @@ personne se trouve en résidence ;
 2° Hors du territoire national ou dans tous les cas où le service de l'état
 civil ne serait plus assuré dans le lieu où la personne se trouve en résidence,
 l'acte de consentement est dressé par les officiers de l'état civil désignés à
-l'article 93 ;
+l'article [93](/Livre Ier/Titre II/Article 93.md) ;
 
 3° Lorsqu'il s'agit de militaires prisonniers de guerre ou internés, ce
 consentement peut être établi par les agents diplomatiques ou consulaires de

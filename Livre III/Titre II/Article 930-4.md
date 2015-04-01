@@ -7,7 +7,7 @@ l'ouverture de la succession, si elle est fondée sur l'état de besoin. Elle es
 formée dans l'année, à compter du jour du fait imputé par le renonçant ou du
 jour où le fait a pu être connu par ses héritiers, si elle est fondée sur le
 manquement aux obligations alimentaires ou sur l'un des faits visés au 3° de
-l'article 930-3.
+l'article [930-3](/Livre III/Titre II/Article 930-3.md).
 
-La révocation en application du 2° de l'article 930-3 n'est prononcée qu'à
+La révocation en application du 2° de l'article [930-3](/Livre III/Titre II/Article 930-3.md) n'est prononcée qu'à
 concurrence des besoins de celui qui avait renoncé.

@@ -16,4 +16,4 @@ modifications statutaires. Le vote de l'associé dont le rachat des droits est
 demandé est sans influence sur la décision de la société.
 
 En cas de contestation, la valeur des droits sociaux à rembourser à l'associé
-est déterminée conformément aux dispositions de l'article 1843-4.
+est déterminée conformément aux dispositions de l'article [1843-4](/Livre III/Titre IX/Article 1843-4.md).

@@ -15,8 +15,8 @@ celui-ci prend le nom de l'adoptant et de son conjoint ou de chacun des deux
 adoptants, dans la limite du premier nom de famille pour chacun d'eux, accolés
 selon l'ordre alphabétique.
 
-Lorsqu'il a été fait application de l'article 311-21, du deuxième alinéa de
-l'article 311-23 ou du présent article à l'égard d'un enfant commun, le nom
+Lorsqu'il a été fait application de l'article [311-21](/Livre Ier/Titre VII/Article 311-21.md), du deuxième alinéa de
+l'article [311-23](/Livre Ier/Titre VII/Article 311-23.md) ou du présent article à l'égard d'un enfant commun, le nom
 précédemment dévolu ou choisi vaut pour l'adopté.
 
 Lorsque les adoptants ou l'un d'entre eux portent un double nom de famille, ils

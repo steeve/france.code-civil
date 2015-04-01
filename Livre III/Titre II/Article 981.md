@@ -2,7 +2,7 @@ Article 981
 ----
 Les testaments des militaires, des marins de l'Etat et des personnes employées à
 la suite des armées pourront être reçus dans les cas et conditions prévus à
-l'article 93 soit par un officier supérieur en présence de deux témoins ; soit
+l'article [93](/Livre Ier/Titre II/Article 93.md) soit par un officier supérieur en présence de deux témoins ; soit
 par deux commissaires des armées ; soit par un commissaire des armées en
 présence de deux témoins ; soit enfin, dans un détachement isolé, par l'officier
 commandant ce détachement, assisté de deux témoins, s'il n'existe pas dans le

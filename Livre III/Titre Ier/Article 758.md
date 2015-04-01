@@ -14,4 +14,4 @@ héritiers et, en cas d'insuffisance, par tous les légataires particuliers,
 proportionnellement à leur émolument.
 
 Toutefois, si le défunt a expressément déclaré que tel legs sera acquitté de
-préférence aux autres, il sera fait application de l'article 927.
+préférence aux autres, il sera fait application de l'article [927](/Livre III/Titre II/Article 927.md).

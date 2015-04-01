@@ -8,4 +8,4 @@ père et mère qui a été susceptible de la lui transmettre n'ont pas eu la
 possession d'état de Français.
 
 Le tribunal devra dans ce cas constater la perte de la nationalité française,
-dans les termes de l'article 23-6.
+dans les termes de l'article [23-6](/Livre Ier/Titre Ier bis/Article 23-6.md).

@@ -1,6 +1,6 @@
 Article 758-5
 ----
-Le calcul du droit en toute propriété du conjoint prévu aux articles 757 et
+Le calcul du droit en toute propriété du conjoint prévu aux articles [757](/Livre III/Titre Ier/Article 757.md) et
 757-1 sera opéré sur une masse faite de tous les biens existant au décès de son
 époux auxquels seront réunis fictivement ceux dont il aurait disposé, soit par
 acte entre vifs, soit par acte testamentaire, au profit de successibles, sans

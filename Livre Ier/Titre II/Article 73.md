@@ -5,7 +5,7 @@ leur défaut, celui du conseil de famille, contiendra les prénoms, noms,
 professions et domicile des futurs époux et de tous ceux qui auront concouru à
 l'acte, ainsi que leur degré de parenté.
 
-Hors le cas prévu par l'article 159 du code civil, cet acte de consentement est
+Hors le cas prévu par l'article [159](/Livre Ier/Titre V/Article 159.md) du code civil, cet acte de consentement est
 dressé, soit par un notaire, soit par l'officier de l'état civil du domicile ou
 de la résidence de l'ascendant, et, à l'étranger, par les agents diplomatiques
 ou consulaires français. Lorsqu'il est dressé par un officier de l'état civil,

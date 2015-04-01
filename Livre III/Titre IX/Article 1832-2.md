@@ -1,6 +1,6 @@
 Article 1832-2
 ----
-Un époux ne peut, sous la sanction prévue à l'article 1427, employer des biens
+Un époux ne peut, sous la sanction prévue à l'article [1427](/Livre III/Titre V/Article 1427.md), employer des biens
 communs pour faire un apport à une société ou acquérir des parts sociales non
 négociables sans que son conjoint en ait été averti et sans qu'il en soit
 justifié dans l'acte.

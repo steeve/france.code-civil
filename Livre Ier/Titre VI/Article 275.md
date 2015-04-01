@@ -1,7 +1,7 @@
 Article 275
 ----
 Lorsque le débiteur n'est pas en mesure de verser le capital dans les conditions
-prévues par l'article 274, le juge fixe les modalités de paiement du capital,
+prévues par l'article [274](/Livre Ier/Titre VI/Article 274.md), le juge fixe les modalités de paiement du capital,
 dans la limite de huit années, sous forme de versements périodiques indexés
 selon les règles applicables aux pensions alimentaires.
 

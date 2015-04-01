@@ -6,4 +6,4 @@ du mariage, pour altération définitive du lien conjugal ou pour faute.
 
 Toutefois, lorsqu'à l'audience de conciliation les époux ont déclaré accepter le
 principe de la rupture du mariage et le prononcé du divorce sur le fondement de
-l'article 233, l'instance ne peut être engagée que sur ce même fondement.
+l'article [233](/Livre Ier/Titre VI/Article 233.md), l'instance ne peut être engagée que sur ce même fondement.

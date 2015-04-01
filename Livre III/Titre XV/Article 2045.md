@@ -4,9 +4,9 @@ Pour transiger, il faut avoir la capacité de disposer des objets compris dans l
 transaction.
 
 Le tuteur ne peut transiger pour le mineur ou le majeur en tutelle que
-conformément à l'article 467 au titre " De la minorité, de la tutelle et de
+conformément à l'article [467](/Livre Ier/Titre XI/Article 467.md) au titre " De la minorité, de la tutelle et de
 l'émancipation " ; et il ne peut transiger avec le mineur devenu majeur, sur le
-compte de tutelle, que conformément à l'article 472 au même titre.
+compte de tutelle, que conformément à l'article [472](/Livre Ier/Titre XI/Article 472.md) au même titre.
 
 Les établissements publics de l'Etat ne peuvent transiger qu'avec l'autorisation
 expresse du Premier ministre.

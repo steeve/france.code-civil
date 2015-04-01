@@ -4,7 +4,7 @@ Les dispositions du titre XIX du livre III et du titre II du livre IV sont
 applicables à Mayotte sous réserve des dispositions du titre IV du présent livre
 et des dispositions suivantes :
 
-1° Le 4° de l'article 2331 est applicable à Mayotte dans les conditions
+1° Le 4° de l'article [2331](/Livre IV/Titre II/Article 2331.md) est applicable à Mayotte dans les conditions
 suivantes :
 
 a) Au premier alinéa, les mots : " articles L. 143-10, L. 143-11, L. 742-6 et L.
@@ -23,7 +23,7 @@ recevoir de salaire ni être associé aux bénéfices et aux pertes de l'entrepr
 
 " Les droits de créance précités sont d'un montant égal à trois fois le salaire
 minimum interprofessionnel garanti annuel en vigueur au jour du décès dans la
-limite de 25 % de l'actif successoral et, le cas échéant, le montant des droits
+limite de [25](/Livre Ier/Titre Ier bis/Article 25.md) % de l'actif successoral et, le cas échéant, le montant des droits
 propres du conjoint survivant dans les opérations de partage successoral et de
 liquidation du régime matrimonial est diminué de celui de cette créance. Pour la
 liquidation des droits de succession, cette créance s'ajoute à la part du
@@ -47,7 +47,7 @@ pour la totalité de la portion inférieure ou égale au plafond visé à l'arti
 L. 143-10 du code du travail et pour le quart de la portion supérieure audit
 plafond " sont remplacés par les mots : " de l'article L. 122-22 du code du
 travail applicable dans la collectivité départementale de Mayotte ou des
-articles 80 c et 80 d de la loi du 29 mars 1935 relative au statut du
+articles [80](/Livre Ier/Titre II/Article 80.md) c et [80](/Livre Ier/Titre II/Article 80.md) d de la loi du [29](/Livre Ier/Titre Ier bis/Article 29.md) mars [1935](/Livre III/Titre XI/Article 1935.md) relative au statut du
 journaliste " ;
 
 h) Au dixième alinéa, les mots : " des articles L. 122-3-8, deuxième alinéa, L.
@@ -55,15 +55,15 @@ h) Au dixième alinéa, les mots : " des articles L. 122-3-8, deuxième alinéa,
 travail " sont remplacés par les mots : " des articles L. 122-10 et L. 122-29 du
 code du travail applicable dans la collectivité départementale de Mayotte " ;
 
-2° A l'article 2332, le 9° n'est pas applicable ;
+2° A l'article [2332](/Livre IV/Titre II/Article 2332.md), le 9° n'est pas applicable ;
 
-3° A l'article 2377, les mots : " par une inscription au fichier immobilier, de
-la manière déterminée par les articles suivants et par les articles 2426 et 2428
+3° A l'article [2377](/Livre IV/Titre II/Article 2377.md), les mots : " par une inscription au fichier immobilier, de
+la manière déterminée par les articles suivants et par les articles [2426](/Livre IV/Titre II/Article 2426.md) et [2428](/Livre IV/Titre II/Article 2428.md)
 " sont remplacés par les mots : " par inscription sur le livre foncier tenu par
 le conservateur de la propriété immobilière, de la manière déterminée par la
 loi, et à compter de la date de cette inscription, sous réserve des exceptions
 prévues par les articles suivants " ;
 
-4° Aux articles 2425 et 2431, la référence au registre prévu à l'article 2453
+4° Aux articles [2425](/Livre IV/Titre II/Article 2425.md) et [2431](/Livre IV/Titre II/Article 2431.md), la référence au registre prévu à l'article [2453](/Livre IV/Titre II/Article 2453.md)
 est remplacée par la référence au registre des dépôts des actes et documents à
 inscrire.

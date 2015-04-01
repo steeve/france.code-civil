@@ -1,6 +1,6 @@
 Article 449
 ----
-A défaut de désignation faite en application de l'article 448, le juge nomme,
+A défaut de désignation faite en application de l'article [448](/Livre Ier/Titre XI/Article 448.md), le juge nomme,
 comme curateur ou tuteur, le conjoint de la personne protégée, le partenaire
 avec qui elle a conclu un pacte civil de solidarité ou son concubin, à moins que
 la vie commune ait cessé entre eux ou qu'une autre cause empêche de lui confier

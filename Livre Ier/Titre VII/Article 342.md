@@ -10,5 +10,5 @@ encore l'exercer dans les dix années qui suivent sa majorité si elle ne l'a pa
 
 L'action est recevable même si le père ou la mère était au temps de la
 conception, engagé dans les liens du mariage avec une autre personne, ou s'il
-existait entre eux un des empêchements à mariage réglés par les articles 161 à
+existait entre eux un des empêchements à mariage réglés par les articles [161](/Livre Ier/Titre V/Article 161.md) à
 164 du présent code.

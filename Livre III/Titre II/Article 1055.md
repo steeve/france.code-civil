@@ -4,5 +4,5 @@ L'auteur d'une donation graduelle peut la révoquer à l'égard du second gratif
 tant que celui-ci n'a pas notifié, dans les formes requises en matière de
 donation, son acceptation au donateur.
 
-Par dérogation à l'article 932, la donation graduelle peut être acceptée par le
+Par dérogation à l'article [932](/Livre III/Titre II/Article 932.md), la donation graduelle peut être acceptée par le
 second gratifié après le décès du donateur.

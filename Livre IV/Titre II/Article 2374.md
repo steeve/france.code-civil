@@ -10,8 +10,8 @@ suite ;
 
 1° bis Conjointement avec le vendeur et, le cas échéant, avec le prêteur de
 deniers mentionné au 2°, le syndicat des copropriétaires, sur le lot vendu, pour
-le paiement des charges et travaux mentionnés à l'article 10, au c du II de
-l'article 24 et à l'article 30 de la loi n° 65-557 du 10 juillet 1965 fixant le
+le paiement des charges et travaux mentionnés à l'article [10](/Livre Ier/Titre Ier/Article 10.md), au c du II de
+l'article [24](/Livre Ier/Titre Ier bis/Article 24.md) et à l'article [30](/Livre Ier/Titre Ier bis/Article 30.md) de la loi n° 65-557 du [10](/Livre Ier/Titre Ier/Article 10.md) juillet [1965](/Livre III/Titre XII/Article 1965.md) fixant le
 statut de la copropriété des immeubles bâtis et des cotisations au fonds de
 travaux mentionné à l'article 14-2 de la même loi, relatifs à l'année courante
 et aux quatre dernières années échues ainsi que des dommages et intérêts alloués
@@ -37,7 +37,7 @@ vendeur, que ce paiement a été fait des deniers empruntés ;
 
 3° Les cohéritiers, sur les immeubles de la succession, pour la garantie des
 partages faits entre eux, et des soultes ou retours de lots ; pour la garantie
-des indemnités dues en application de l'article 924, les immeubles donnés ou
+des indemnités dues en application de l'article [924](/Livre III/Titre II/Article 924.md), les immeubles donnés ou
 légués sont assimilés aux immeubles de la succession ;
 
 4° Les architectes, entrepreneurs, maçons et autres ouvriers employés pour
@@ -61,10 +61,10 @@ ci-dessus pour ceux qui ont prêté les deniers pour l'acquisition d'un immeuble
 6° Les créanciers du défunt et les légataires de sommes d'argent sur les
 immeubles de la succession, ainsi que les créanciers personnels de l'héritier
 sur les immeubles de ce dernier, pour la garantie des droits qu'ils tiennent de
-l'article 878 ;
+l'article [878](/Livre III/Titre Ier/Article 878.md) ;
 
 7° Les accédants à la propriété titulaires d'un contrat de location-accession
-régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à
+régi par la loi n° 84-595 du 12 juillet [1984](/Livre III/Titre XIII/Article 1984.md) définissant la location-accession à
 la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la
 garantie des droits qu'ils tiennent de ce contrat ;
 

@@ -4,7 +4,7 @@ Les délibérations du conseil de famille sont nulles lorsqu'elles ont été
 surprises par dol ou fraude ou que des formalités substantielles ont été omises.
 
 La nullité est couverte par une nouvelle délibération valant confirmation selon
-l'article 1338.
+l'article [1338](/Livre III/Titre III/Article 1338.md).
 
 L'action en nullité peut être exercée par le tuteur, le subrogé tuteur, les
 autres membres du conseil de famille et le procureur de la République dans les

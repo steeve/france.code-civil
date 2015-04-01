@@ -8,4 +8,4 @@ du bail, et qu'il en résulte un dommage pour le bailleur, celui-ci peut, suivan
 les circonstances, faire résilier le bail.
 
 En cas de résiliation provenant du fait du preneur, celui-ci est tenu des
-dommages et intérêts, ainsi qu'il est dit en l'article 1764.
+dommages et intérêts, ainsi qu'il est dit en l'article [1764](/Livre III/Titre VIII/Article 1764.md).

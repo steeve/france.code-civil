@@ -7,7 +7,7 @@ lieu, un notaire pour y procéder. Il peut n'être que partiel.
 L'état liquidatif est soumis à l'approbation du conseil de famille ou, à défaut,
 du juge.
 
-Le partage peut également être fait en justice conformément aux articles 840 et
+Le partage peut également être fait en justice conformément aux articles [840](/Livre III/Titre Ier/Article 840.md) et
 842.
 
 Tout autre partage est considéré comme provisionnel.

@@ -6,4 +6,4 @@ les nouveaux titulaires des parts ou par la société elle-même si celle-ci les
 rachetées en vue de leur annulation.
 
 La valeur de ces droits sociaux est déterminée au jour du décès dans les
-conditions prévues à l'article 1843-4.
+conditions prévues à l'article [1843-4](/Livre III/Titre IX/Article 1843-4.md).

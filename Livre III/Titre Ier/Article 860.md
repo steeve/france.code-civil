@@ -14,5 +14,5 @@ Le tout sauf stipulation contraire dans l'acte de donation.
 
 S'il résulte d'une telle stipulation que la valeur sujette à rapport est
 inférieure à la valeur du bien déterminé selon les règles d'évaluation prévues
-par l'article 922 ci-dessous, cette différence forme un avantage indirect acquis
+par l'article [922](/Livre III/Titre II/Article 922.md) ci-dessous, cette différence forme un avantage indirect acquis
 au donataire hors part successorale.

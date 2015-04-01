@@ -11,4 +11,4 @@ que la valeur du bien est supérieure.
 
 Lorsque la demande du créancier est accueillie, l'héritier est tenu du
 complément sur ses biens personnels, sauf à restituer à la succession le bien
-conservé et sans préjudice de l'action prévue à l'article 1167.
+conservé et sans préjudice de l'action prévue à l'article [1167](/Livre III/Titre III/Article 1167.md).

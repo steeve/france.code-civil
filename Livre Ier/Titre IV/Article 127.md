@@ -1,7 +1,7 @@
 Article 127
 ----
 Lorsque le jugement déclaratif d'absence est rendu, des extraits en sont publiés
-selon les modalités prévues à l'article 123, dans le délai fixé par le tribunal.
+selon les modalités prévues à l'article [123](/Livre Ier/Titre IV/Article 123.md), dans le délai fixé par le tribunal.
 La décision est réputée non avenue si elle n'a pas été publiée dans ce délai.
 
 Quand le jugement est passé en force de chose jugée, son dispositif est
@@ -12,4 +12,4 @@ l'absence ; elle est également faite en marge de l'acte de naissance de la
 personne déclarée absente.
 
 La transcription rend le jugement opposable aux tiers qui peuvent seulement en
-obtenir la rectification conformément à l'article 99.
+obtenir la rectification conformément à l'article [99](/Livre Ier/Titre II/Article 99.md).

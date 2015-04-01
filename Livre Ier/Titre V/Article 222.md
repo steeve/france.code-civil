@@ -7,4 +7,4 @@ cet acte.
 
 Cette disposition n'est pas applicable aux meubles meublants visés à l'article
 215, alinéa 3, non plus qu'aux meubles corporels dont la nature fait présumer la
-propriété de l'autre conjoint conformément à l'article 1404.
+propriété de l'autre conjoint conformément à l'article [1404](/Livre III/Titre V/Article 1404.md).

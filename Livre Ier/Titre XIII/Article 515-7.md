@@ -42,7 +42,7 @@ statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
 réparation du dommage éventuellement subi.
 
 Sauf convention contraire, les créances dont les partenaires sont titulaires
-l'un envers l'autre sont évaluées selon les règles prévues à l'article 1469. Ces
+l'un envers l'autre sont évaluées selon les règles prévues à l'article [1469](/Livre III/Titre V/Article 1469.md). Ces
 créances peuvent être compensées avec les avantages que leur titulaire a pu
 retirer de la vie commune, notamment en ne contribuant pas à hauteur de ses
 facultés aux dettes contractées pour les besoins de la vie courante.

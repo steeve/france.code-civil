@@ -11,8 +11,8 @@ deux noms, dans l'ordre choisi par eux, dans la limite d'un nom de famille pour
 chacun d'eux. Le changement de nom est mentionné en marge de l'acte de
 naissance.
 
-Toutefois, lorsqu'il a déjà été fait application de l'article 311-21, du
-deuxième alinéa du présent article ou de l'article 357 à l'égard d'un autre
+Toutefois, lorsqu'il a déjà été fait application de l'article [311-21](/Livre Ier/Titre VII/Article 311-21.md), du
+deuxième alinéa du présent article ou de l'article [357](/Livre Ier/Titre VIII/Article 357.md) à l'égard d'un autre
 enfant commun, la déclaration de changement de nom ne peut avoir d'autre effet
 que de donner le nom précédemment dévolu ou choisi.
 

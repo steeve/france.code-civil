@@ -12,13 +12,13 @@ Il en est de même pour les dispositions par acte entre vifs ou testamentaires, 
 charge de restitution, portant sur des créances privilégiées ou hypothécaires.
 
 Sont publiées sous la même forme les conventions qui doivent l'être en
-application de l'article 2422.
+application de l'article [2422](/Livre IV/Titre II/Article 2422.md).
 
 Les actes et décisions judiciaires constatant ces différentes conventions ou
 dispositions et les copies, extraits ou expéditions déposés au service chargé de
 la publicité foncière en vue de l'exécution des mentions doivent contenir la
 désignation des parties conformément au premier alinéa des articles 5 et 6 du
-décret du 4 janvier 1955. Cette désignation n'a pas à être certifiée.
+décret du 4 janvier [1955](/Livre III/Titre XI/Article 1955.md). Cette désignation n'a pas à être certifiée.
 
 En outre, au cas où la modification mentionnée ne porte que sur parties des
 immeubles grevés, lesdits immeubles doivent, sous peine de refus du dépôt, être

@@ -5,4 +5,4 @@ dont la nationalité est en cause.
 
 Toutefois, cette charge incombe à celui qui conteste la qualité de Français à un
 individu titulaire d'un certificat de nationalité française délivré conformément
-aux articles 31 et suivants.
+aux articles [31](/Livre Ier/Titre Ier bis/Article 31.md) et suivants.

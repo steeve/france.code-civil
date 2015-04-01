@@ -7,4 +7,4 @@ actes accomplis sans fraude par un conjoint sont opposables à l'autre.
 L'époux qui exerce une profession séparée a seul le pouvoir d'accomplir les
 actes d'administration et de disposition nécessaires à celle-ci.
 
-Le tout sous réserve des articles 1422 à 1425.
+Le tout sous réserve des articles [1422](/Livre III/Titre V/Article 1422.md) à [1425](/Livre III/Titre V/Article 1425.md).

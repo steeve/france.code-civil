@@ -9,12 +9,12 @@ Les créances privilégiées sur la généralité des immeubles sont :
 
 Les rémunérations des gens de service pour l'année échue et l'année courante ;
 
-Le salaire différé résultant du contrat de travail institué par l'article 63 du
-décret du 29 juillet 1939 relatif à la famille et à la natalité françaises, pour
+Le salaire différé résultant du contrat de travail institué par l'article [63](/Livre Ier/Titre II/Article 63.md) du
+décret du [29](/Livre Ier/Titre Ier bis/Article 29.md) juillet [1939](/Livre III/Titre XI/Article 1939.md) relatif à la famille et à la natalité françaises, pour
 l'année échue et l'année courante ;
 
-La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008
-du 31 décembre 1989 relative au développement des entreprises commerciales et
+La créance du conjoint survivant instituée par l'article [14](/Livre Ier/Titre Ier/Article 14.md) de la loi n° 89-1008
+du [31](/Livre Ier/Titre Ier bis/Article 31.md) décembre [1989](/Livre III/Titre XIII/Article 1989.md) relative au développement des entreprises commerciales et
 artisanales et à l'amélioration de leur environnement économique, juridique et
 social et la créance du conjoint survivant instituée par l'article L. 321-21-1
 du code rural et de la pêche maritime.

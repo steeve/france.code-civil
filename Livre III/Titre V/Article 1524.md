@@ -7,7 +7,7 @@ obligé d'en acquitter toutes les dettes.
 
 Il peut aussi être convenu, pour le cas de survie, que l'un des époux aura,
 outre sa moitié, l'usufruit de la part du prédécédé. En ce cas, il contribuera
-aux dettes, quant à l'usufruit, suivant les règles de l'article 612.
+aux dettes, quant à l'usufruit, suivant les règles de l'article [612](/Livre II/Titre III/Article 612.md).
 
-Les dispositions de l'article 1518 sont applicables à ces clauses quand la
+Les dispositions de l'article [1518](/Livre III/Titre V/Article 1518.md) sont applicables à ces clauses quand la
 communauté se dissout du vivant des deux époux.

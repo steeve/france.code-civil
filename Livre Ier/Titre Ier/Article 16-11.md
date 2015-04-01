@@ -28,8 +28,8 @@ finalité de l'identification. Il est révocable sans forme et à tout moment.
 Lorsque la recherche d'identité mentionnée au 3° concerne soit un militaire
 décédé à l'occasion d'une opération conduite par les forces armées ou les
 formations rattachées, soit une victime de catastrophe naturelle, soit une
-personne faisant l'objet de recherches au titre de l'article 26 de la loi n°
-95-73 du 21 janvier 1995 d'orientation et de programmation relative à la
+personne faisant l'objet de recherches au titre de l'article [26](/Livre Ier/Titre Ier bis/Article 26.md) de la loi n°
+95-73 du [21](/Livre Ier/Titre Ier bis/Article 21.md) janvier [1995](/Livre III/Titre XIII/Article 1995.md) d'orientation et de programmation relative à la
 sécurité et dont la mort est supposée, des prélèvements destinés à recueillir
 les traces biologiques de cette personne peuvent être réalisés dans des lieux
 qu'elle est susceptible d'avoir habituellement fréquentés, avec l'accord du

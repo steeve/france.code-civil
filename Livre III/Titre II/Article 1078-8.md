@@ -10,8 +10,8 @@ ensemble, quel que soit le degré de parenté avec le défunt.
 Lorsque tous les enfants de l'ascendant donateur ont donné leur consentement au
 partage anticipé et qu'il n'a pas été prévu de réserve d'usufruit portant sur
 une somme d'argent, les biens dont les gratifiés ont été allotis sont évalués
-selon la règle prévue à l'article 1078.
+selon la règle prévue à l'article [1078](/Livre III/Titre II/Article 1078.md).
 
 Si les descendants d'une souche n'ont pas reçu de lot dans la donation-partage
 ou n'y ont reçu qu'un lot inférieur à leur part de réserve, ils sont remplis de
-leurs droits selon les règles prévues par les articles 1077-1 et 1077-2.
+leurs droits selon les règles prévues par les articles [1077-1](/Livre III/Titre II/Article 1077-1.md) et [1077-2](/Livre III/Titre II/Article 1077-2.md).

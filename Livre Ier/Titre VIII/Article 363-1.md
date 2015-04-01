@@ -1,6 +1,6 @@
 Article 363-1
 ----
-Les dispositions de l'article 363 sont applicables à l'enfant ayant fait l'objet
+Les dispositions de l'article [363](/Livre Ier/Titre VIII/Article 363.md) sont applicables à l'enfant ayant fait l'objet
 d'une adoption régulièrement prononcée à l'étranger ayant en France les effets
 d'une adoption simple, lorsque l'acte de naissance de l'adopté est conservé par
 une autorité française.

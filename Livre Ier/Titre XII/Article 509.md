@@ -5,7 +5,7 @@ Le tuteur ne peut, même avec une autorisation :
 1° Accomplir des actes qui emportent une aliénation gratuite des biens ou des
 droits de la personne protégée sauf ce qui est dit à propos des donations, tels
 que la remise de dette, la renonciation gratuite à un droit acquis, la
-renonciation anticipée à l'action en réduction visée aux articles 929 à 930-5,
+renonciation anticipée à l'action en réduction visée aux articles [929](/Livre III/Titre II/Article 929.md) à [930-5](/Livre III/Titre II/Article 930-5.md),
 la mainlevée d'hypothèque ou de sûreté sans paiement ou la constitution gratuite
 d'une servitude ou d'une sûreté pour garantir la dette d'un tiers ;
 
@@ -16,7 +16,7 @@ personne protégée ;
 ;
 
 4° Acheter les biens de la personne protégée ainsi que les prendre à bail ou à
-ferme, sous réserve des dispositions de l'article 508 ;
+ferme, sous réserve des dispositions de l'article [508](/Livre Ier/Titre XII/Article 508.md) ;
 
 5° Transférer dans un patrimoine fiduciaire les biens ou droits d'un majeur
 protégé.

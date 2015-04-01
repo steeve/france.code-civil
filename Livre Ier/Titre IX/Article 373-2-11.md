@@ -7,7 +7,7 @@ juge prend notamment en considération :
 avaient pu antérieurement conclure ;
 
 2° Les sentiments exprimés par l'enfant mineur dans les conditions prévues à
-l'article 388-1 ;
+l'article [388-1](/Livre Ier/Titre X/Article 388-1.md) ;
 
 3° L'aptitude de chacun des parents à assumer ses devoirs et respecter les
 droits de l'autre ;
@@ -16,7 +16,7 @@ droits de l'autre ;
 de l'âge de l'enfant ;
 
 5° Les renseignements qui ont été recueillis dans les éventuelles enquêtes et
-contre-enquêtes sociales prévues à l'article 373-2-12 ;
+contre-enquêtes sociales prévues à l'article [373-2-12](/Livre Ier/Titre IX/Article 373-2-12.md) ;
 
 6° Les pressions ou violences, à caractère physique ou psychologique, exercées
 par l'un des parents sur la personne de l'autre.

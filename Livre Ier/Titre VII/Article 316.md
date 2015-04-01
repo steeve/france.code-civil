@@ -9,6 +9,6 @@ La reconnaissance n'établit la filiation qu'à l'égard de son auteur.
 Elle est faite dans l'acte de naissance, par acte reçu par l'officier de l'état
 civil ou par tout autre acte authentique.
 
-L'acte comporte les énonciations prévues à l'article 62 et la mention que
+L'acte comporte les énonciations prévues à l'article [62](/Livre Ier/Titre II/Article 62.md) et la mention que
 l'auteur de la reconnaissance a été informé du caractère divisible du lien de
 filiation ainsi établi.

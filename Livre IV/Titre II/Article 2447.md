@@ -9,7 +9,7 @@ Il peut pareillement lui demander de réduire l'évaluation qui avait été fait
 ses obligations envers le pupille.
 
 L'administrateur légal peut, dans les mêmes cas, lorsqu'une inscription a été
-prise sur ses immeubles en vertu de l'article 2409, demander au juge des
+prise sur ses immeubles en vertu de l'article [2409](/Livre IV/Titre II/Article 2409.md), demander au juge des
 tutelles de la réduire, soit quant aux immeubles grevés, soit quant aux sommes
 garanties.
 

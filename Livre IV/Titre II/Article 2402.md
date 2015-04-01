@@ -11,7 +11,7 @@ l'époux débiteur.
 
 En cas de liquidation anticipée, l'inscription antérieure à la demande a effet
 du jour de celle-ci, l'inscription postérieure n'ayant effet que de sa date
-ainsi qu'il est dit à l'article 2425.
+ainsi qu'il est dit à l'article [2425](/Livre IV/Titre II/Article 2425.md).
 
 L'inscription pourra également être prise dans l'année qui suivra la dissolution
 du régime matrimonial ; elle aura alors effet de sa date.

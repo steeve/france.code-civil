@@ -7,4 +7,4 @@ détruite, mais de manière qu'elles ne puissent pas se séparer sans inconvéni
 la chose est commune aux deux propriétaires, en raison, quant à l'un, de la
 matière qui lui appartenait, quant à l'autre, en raison à la fois et de la
 matière qui lui appartenait et du prix de sa main-d'oeuvre. Le prix de la
-main-d'oeuvre est estimé à la date de la licitation prévue à l'article 575.
+main-d'oeuvre est estimé à la date de la licitation prévue à l'article [575](/Livre II/Titre II/Article 575.md).

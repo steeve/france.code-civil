@@ -1,6 +1,6 @@
 Article 490
 ----
-Par dérogation à l'article 1988, le mandat, même conçu en termes généraux,
+Par dérogation à l'article [1988](/Livre III/Titre XIII/Article 1988.md), le mandat, même conçu en termes généraux,
 inclut tous les actes patrimoniaux que le tuteur a le pouvoir d'accomplir seul
 ou avec une autorisation.
 

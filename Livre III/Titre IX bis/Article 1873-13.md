@@ -12,4 +12,4 @@ contraire, acquérir ensemble la part du défunt à proportion de leurs droits
 respectifs dans l'indivision ou la succession.
 
 Les dispositions du présent article ne peuvent préjudicier à l'application des
-dispositions des articles 831 à 832-2.
+dispositions des articles [831](/Livre III/Titre Ier/Article 831.md) à [832-2](/Livre III/Titre Ier/Article 832-2.md).

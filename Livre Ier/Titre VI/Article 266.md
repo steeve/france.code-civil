@@ -1,6 +1,6 @@
 Article 266
 ----
-Sans préjudice de l'application de l'article 270, des dommages et intérêts
+Sans préjudice de l'application de l'article [270](/Livre Ier/Titre VI/Article 270.md), des dommages et intérêts
 peuvent être accordés à un époux en réparation des conséquences d'une
 particulière gravité qu'il subit du fait de la dissolution du mariage soit
 lorsqu'il était défendeur à un divorce prononcé pour altération définitive du

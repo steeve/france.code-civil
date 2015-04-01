@@ -10,5 +10,5 @@ légales ne sont pas satisfaites.
 L'enregistrement peut encore être contesté par le ministère public en cas de
 mensonge ou de fraude dans le délai de deux ans à compter de leur découverte. La
 cessation de la communauté de vie entre les époux dans les douze mois suivant
-l'enregistrement de la déclaration prévue à l'article 21-2 constitue une
+l'enregistrement de la déclaration prévue à l'article [21-2](/Livre Ier/Titre Ier bis/Article 21-2.md) constitue une
 présomption de fraude.

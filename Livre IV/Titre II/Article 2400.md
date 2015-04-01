@@ -12,7 +12,7 @@ l'administrateur légal ;
 3° Ceux de l'Etat, des départements, des communes et des établissements publics,
 sur les biens des receveurs et administrateurs comptables ;
 
-4° Ceux du légataire, sur les biens de la succession, en vertu de l'article 1017
+4° Ceux du légataire, sur les biens de la succession, en vertu de l'article [1017](/Livre III/Titre II/Article 1017.md)
 ;
 
-5° Ceux énoncés en l'article 2331, 2°, 3°, 5°, 6°, 7° et 8°.
+5° Ceux énoncés en l'article [2331](/Livre IV/Titre II/Article 2331.md), 2°, 3°, 5°, 6°, 7° et 8°.

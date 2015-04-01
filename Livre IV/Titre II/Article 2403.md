@@ -22,8 +22,8 @@ forme le titre d'une inscription définitive qui se substitue à l'inscription
 provisoire, et dont le rang est fixé à la date de celle-ci. Lorsque le montant
 du capital de la créance allouée et de ses accessoires excède celui des sommes
 que conserve l'inscription provisoire, l'excédent ne peut être conservé que par
-une inscription prise conformément aux dispositions de l'article 2428 et ayant
-effet de sa date, ainsi qu'il est dit à l'article 2425.
+une inscription prise conformément aux dispositions de l'article [2428](/Livre IV/Titre II/Article 2428.md) et ayant
+effet de sa date, ainsi qu'il est dit à l'article [2425](/Livre IV/Titre II/Article 2425.md).
 
 Si la demande est entièrement rejetée, le tribunal, à la requête de l'époux
 défendeur, ordonne la radiation de l'inscription provisoire.

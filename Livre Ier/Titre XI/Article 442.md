@@ -3,10 +3,10 @@ Article 442
 Le juge peut renouveler la mesure pour une même durée.
 
 Toutefois, lorsque l'altération des facultés personnelles de l'intéressé décrite
-à l'article 425 n'apparaît manifestement pas susceptible de connaître une
+à l'article [425](/Livre Ier/Titre XI/Article 425.md) n'apparaît manifestement pas susceptible de connaître une
 amélioration selon les données acquises de la science, le juge peut, par
 décision spécialement motivée et sur avis conforme d'un médecin inscrit sur la
-liste mentionnée à l'article 431, renouveler la mesure pour une durée plus
+liste mentionnée à l'article [431](/Livre Ier/Titre XI/Article 431.md), renouveler la mesure pour une durée plus
 longue qu'il détermine, n'excédant pas vingt ans.
 
 Le juge peut, à tout moment, mettre fin à la mesure, la modifier ou lui
@@ -16,4 +16,4 @@ l'avis de la personne chargée de la mesure de protection.
 Il statue d'office ou à la requête d'une des personnes mentionnées à l'article
 430, au vu d'un certificat médical et dans les conditions prévues à l'article
 432. Il ne peut toutefois renforcer le régime de protection de l'intéressé que
-s'il est saisi d'une requête en ce sens satisfaisant aux articles 430 et 431.
+s'il est saisi d'une requête en ce sens satisfaisant aux articles [430](/Livre Ier/Titre XI/Article 430.md) et [431](/Livre Ier/Titre XI/Article 431.md).

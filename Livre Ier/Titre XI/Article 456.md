@@ -10,10 +10,10 @@ l'intérêt porté à son égard et des recommandations éventuelles de ses pare
 alliés ainsi que de son entourage.
 
 Le conseil de famille désigne le tuteur, le subrogé tuteur et, le cas échéant,
-le tuteur ad hoc conformément aux articles 446 à 455.
+le tuteur ad hoc conformément aux articles [446](/Livre Ier/Titre XI/Article 446.md) à [455](/Livre Ier/Titre XI/Article 455.md).
 
 Il est fait application des règles prescrites pour le conseil de famille des
-mineurs, à l'exclusion de celles prévues à l'article 398, au quatrième alinéa de
-l'article 399 et au premier alinéa de l'article 401. Pour l'application du
-troisième alinéa de l'article 402, le délai court, lorsque l'action est exercée
+mineurs, à l'exclusion de celles prévues à l'article [398](/Livre Ier/Titre X/Article 398.md), au quatrième alinéa de
+l'article [399](/Livre Ier/Titre X/Article 399.md) et au premier alinéa de l'article [401](/Livre Ier/Titre X/Article 401.md). Pour l'application du
+troisième alinéa de l'article [402](/Livre Ier/Titre X/Article 402.md), le délai court, lorsque l'action est exercée
 par le majeur protégé, à compter du jour où la mesure de protection prend fin.

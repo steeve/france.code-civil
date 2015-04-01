@@ -23,4 +23,4 @@ reconnaît pas l'enfant qui en est issu engage sa responsabilité envers la mèr
 et envers l'enfant.
 
 En outre, sa paternité est judiciairement déclarée. L'action obéit aux
-dispositions des articles 328 et 331.
+dispositions des articles [328](/Livre Ier/Titre VII/Article 328.md) et [331](/Livre Ier/Titre VII/Article 331.md).

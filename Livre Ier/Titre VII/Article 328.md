@@ -6,7 +6,7 @@ maternité ou de paternité.
 
 Si aucun lien de filiation n'est établi ou si ce parent est décédé ou dans
 l'impossibilité de manifester sa volonté, l'action est intentée par le tuteur
-conformément aux dispositions du deuxième alinéa de l'article 408.
+conformément aux dispositions du deuxième alinéa de l'article [408](/Livre Ier/Titre X/Article 408.md).
 
 L'action est exercée contre le parent prétendu ou ses héritiers. A défaut
 d'héritiers ou si ceux-ci ont renoncé à la succession, elle est dirigée contre

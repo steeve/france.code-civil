@@ -3,7 +3,7 @@ Article 2428
 L'inscription des privilèges et hypothèques est opérée par le service chargé de
 la publicité foncière sur le dépôt de deux bordereaux datés, signés et certifiés
 conformes entre eux par le signataire du certificat d'identité prévu aux
-articles 5 et 6 du décret du 4 janvier 1955 ; un décret en Conseil d'Etat
+articles 5 et 6 du décret du 4 janvier [1955](/Livre III/Titre XI/Article 1955.md) ; un décret en Conseil d'Etat
 détermine les conditions de forme auxquelles le bordereau destiné à être
 conservé par ce service doit satisfaire. Au cas où l'inscrivant ne se serait pas
 servi d'une formule réglementaire, le service chargé de la publicité foncière
@@ -30,7 +30,7 @@ Le dépôt est refusé :
 hypothèques et sûretés judiciaires ;
 
 2° A défaut de la mention visée de la certification de l'identité des parties
-prescrite par les articles 5 et 6 du décret du 4 janvier 1955, ou si les
+prescrite par les articles 5 et 6 du décret du 4 janvier [1955](/Livre III/Titre XI/Article 1955.md), ou si les
 immeubles ne sont pas individuellement désignés, avec indication de la commune
 où ils sont situés.
 
@@ -39,7 +39,7 @@ constate l'omission d'une des mentions prescrites, ou une discordance entre,
 d'une part, les énonciations relatives à l'identité des parties ou à la
 désignation des immeubles contenues dans le bordereau, et, d'autre part, ces
 mêmes énonciations contenues dans les bordereaux ou titres déjà publiés depuis
-le 1er janvier 1956, la formalité est rejetée, à moins que le requérant ne
+le 1er janvier [1956](/Livre III/Titre XI/Article 1956.md), la formalité est rejetée, à moins que le requérant ne
 régularise le bordereau ou qu'il ne produise les justifications établissant son
 exactitude, auxquels cas la formalité prend rang à la date de la remise du
 bordereau constatée au registre de dépôts.

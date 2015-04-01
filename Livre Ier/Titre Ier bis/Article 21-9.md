@@ -1,6 +1,6 @@
 Article 21-9
 ----
-Toute personne qui remplit les conditions prévues à l'article 21-7 pour acquérir
+Toute personne qui remplit les conditions prévues à l'article [21-7](/Livre Ier/Titre Ier bis/Article 21-7.md) pour acquérir
 la qualité de Français perd la faculté de décliner celle-ci si elle contracte un
 engagement dans les armées françaises.
 

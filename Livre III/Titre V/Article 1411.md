@@ -7,4 +7,4 @@ leur débiteur.
 Ils peuvent, néanmoins, saisir aussi les biens de la communauté quand le
 mobilier qui appartient à leur débiteur au jour du mariage ou qui lui est échu
 par succession ou libéralité a été confondu dans le patrimoine commun et ne peut
-plus être identifié selon les règles de l'article 1402.
+plus être identifié selon les règles de l'article [1402](/Livre III/Titre V/Article 1402.md).

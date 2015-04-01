@@ -6,6 +6,6 @@ indivisaires. A cette occasion, il indique par écrit les bénéfices réalisés
 les pertes encourues ou prévisibles.
 
 Chaque indivisaire est tenu de participer aux dépenses de conservation des biens
-indivis. A défaut d'accord particulier, les articles 815-9,815-10 et 815-11 du
+indivis. A défaut d'accord particulier, les articles [815-9](/Livre III/Titre Ier/Article 815-9.md),815-10 et [815-11](/Livre III/Titre Ier/Article 815-11.md) du
 présent code sont applicables à l'exercice du droit d'usage et de jouissance,
 ainsi qu'à la répartition des bénéfices et des pertes.

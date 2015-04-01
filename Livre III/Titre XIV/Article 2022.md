@@ -11,5 +11,5 @@ l'objet d'une mesure de curatelle, le fiduciaire rend compte de sa mission, dans
 les mêmes conditions, au constituant et à son curateur.
 
 Le fiduciaire rend compte de sa mission au bénéficiaire et au tiers désigné en
-application de l'article 2017, à leur demande, selon la périodicité fixée par le
+application de l'article [2017](/Livre III/Titre XIV/Article 2017.md), à leur demande, selon la périodicité fixée par le
 contrat.

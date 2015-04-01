@@ -11,7 +11,7 @@ cinquante années.
 
 Si l'échéance ou la dernière échéance est indéterminée, notamment dans le cas
 prévu à l'article L. 314-1 du code de la consommation, ou si l'hypothèque est
-assortie d'une clause de rechargement prévue à l'article 2422, la durée de
+assortie d'une clause de rechargement prévue à l'article [2422](/Livre IV/Titre II/Article 2422.md), la durée de
 l'inscription est au plus de cinquante années au jour de la formalité.
 
 Si l'échéance ou la dernière échéance est antérieure ou concomitante à

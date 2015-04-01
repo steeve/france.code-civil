@@ -9,6 +9,6 @@ Le créancier de la prestation compensatoire peut former la même demande s'il
 établit qu'une modification de la situation du débiteur permet cette
 substitution, notamment lors de la liquidation du régime matrimonial.
 
-Les modalités d'exécution prévues aux articles 274, 275 et 275-1 sont
+Les modalités d'exécution prévues aux articles [274](/Livre Ier/Titre VI/Article 274.md), [275](/Livre Ier/Titre VI/Article 275.md) et [275-1](/Livre Ier/Titre VI/Article 275-1.md) sont
 applicables. Le refus du juge de substituer un capital à tout ou partie de la
 rente doit être spécialement motivé.

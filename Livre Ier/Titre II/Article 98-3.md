@@ -1,6 +1,6 @@
 Article 98-3
 ----
-Les actes visés aux articles 98 à 98-2 indiquent en outre :
+Les actes visés aux articles [98](/Livre Ier/Titre II/Article 98.md) à [98-2](/Livre Ier/Titre II/Article 98-2.md) indiquent en outre :
 
 -la date à laquelle ils ont été dressés ;
 

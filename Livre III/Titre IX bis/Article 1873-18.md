@@ -6,7 +6,7 @@ vote afférent aux parts est divisé par moitié entre l'usufruit et la nue-
 propriété, à moins que les parties n'en soient autrement convenues.
 
 Toute dépense excédant les obligations de l'usufruitier, telles qu'elles sont
-définies par les articles 582 et suivants, ne l'engage qu'avec son consentement
+définies par les articles [582](/Livre II/Titre III/Article 582.md) et suivants, ne l'engage qu'avec son consentement
 donné dans la convention elle-même ou par un acte ultérieur.
 
 L'aliénation de la pleine propriété des biens indivis ne peut être faite sans

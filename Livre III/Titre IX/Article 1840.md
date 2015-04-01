@@ -11,4 +11,4 @@ applicables aux membres des organes de gestion, de direction ou d'administration
 alors en fonction.
 
 L'action se prescrira par dix ans à compter du jour où l'une ou l'autre, selon
-le cas, des formalités visées à l'alinéa 3 de l'article 1839 aura été accomplie.
+le cas, des formalités visées à l'alinéa 3 de l'article [1839](/Livre III/Titre IX/Article 1839.md) aura été accomplie.

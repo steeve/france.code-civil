@@ -20,5 +20,5 @@ le décret de naturalisation ne peut être accordé qu'après avis du Conseil d'
 sur rapport motivé du ministre compétent ;
 
 7° L'étranger qui a obtenu le statut de réfugié en application de la loi n°
-52-893 du 25 juillet 1952 portant création d'un Office français de protection
+52-893 du [25](/Livre Ier/Titre Ier bis/Article 25.md) juillet [1952](/Livre III/Titre XI/Article 1952.md) portant création d'un Office français de protection
 des réfugiés et apatrides.

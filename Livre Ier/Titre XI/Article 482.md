@@ -5,4 +5,4 @@ substituer un tiers pour les actes de gestion du patrimoine mais seulement à
 titre spécial.
 
 Le mandataire répond de la personne qu'il s'est substituée dans les conditions
-de l'article 1994.
+de l'article [1994](/Livre III/Titre XIII/Article 1994.md).

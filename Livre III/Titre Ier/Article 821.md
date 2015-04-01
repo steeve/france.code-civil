@@ -4,7 +4,7 @@ A défaut d'accord amiable, l'indivision de toute entreprise agricole,
 commerciale, industrielle, artisanale ou libérale, dont l'exploitation était
 assurée par le défunt ou par son conjoint, peut être maintenue dans les
 conditions fixées par le tribunal à la demande des personnes mentionnées à
-l'article 822.
+l'article [822](/Livre III/Titre Ier/Article 822.md).
 
 S'il y a lieu, la demande de maintien de l'indivision peut porter sur des droits
 sociaux.

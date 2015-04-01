@@ -1,7 +1,7 @@
 Article 1497
 ----
 Les époux peuvent, dans leur contrat de mariage, modifier la communauté légale
-par toute espèce de conventions non contraires aux articles 1387,1388 et 1389.
+par toute espèce de conventions non contraires aux articles [1387](/Livre III/Titre V/Article 1387.md),1388 et [1389](/Livre III/Titre V/Article 1389.md).
 
 Ils peuvent, notamment, convenir :
 

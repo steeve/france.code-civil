@@ -1,7 +1,7 @@
 Article 2386
 ----
 Les hypothèques inscrites sur les immeubles affectés à la garantie des créances
-privilégiées, pendant le délai accordé par les articles 2379, 2381 et 2383 pour
+privilégiées, pendant le délai accordé par les articles [2379](/Livre IV/Titre II/Article 2379.md), [2381](/Livre IV/Titre II/Article 2381.md) et [2383](/Livre IV/Titre II/Article 2383.md) pour
 requérir l'inscription du privilège, ne peuvent préjudicier aux créanciers
 privilégiés.
 

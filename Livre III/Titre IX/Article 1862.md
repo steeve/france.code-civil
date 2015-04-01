@@ -12,5 +12,5 @@ en vue de leur annulation.
 Le nom du ou des acquéreurs proposés, associés ou tiers, ou l'offre de rachat
 par la société, ainsi que le prix offert sont notifiés au cédant. En cas de
 contestation, sur le prix, celui-ci est fixé conformément aux dispositions de
-l'article 1843-4, le tout sans préjudice du droit du cédant de conserver ses
+l'article [1843-4](/Livre III/Titre IX/Article 1843-4.md), le tout sans préjudice du droit du cédant de conserver ses
 parts.

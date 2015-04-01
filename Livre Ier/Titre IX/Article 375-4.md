@@ -7,5 +7,5 @@ au service à qui l'enfant a été confié ainsi qu'à la famille et de suivre l
 développement de l'enfant.
 
 Dans tous les cas, le juge peut assortir la remise de l'enfant des mêmes
-modalités que sous l'article 375-2, troisième alinéa. Il peut aussi décider
+modalités que sous l'article [375-2](/Livre Ier/Titre IX/Article 375-2.md), troisième alinéa. Il peut aussi décider
 qu'il lui sera rendu compte périodiquement de la situation de l'enfant.

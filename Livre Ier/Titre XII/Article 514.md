@@ -3,7 +3,7 @@ Article 514
 Lorsque sa mission prend fin pour quelque cause que ce soit, le tuteur établit
 un compte de gestion des opérations intervenues depuis l'établissement du
 dernier compte annuel et le soumet à la vérification et à l'approbation prévues
-aux articles 511 et 513.
+aux articles [511](/Livre Ier/Titre XII/Article 511.md) et [513](/Livre Ier/Titre XII/Article 513.md).
 
 En outre, dans les trois mois qui suivent la fin de sa mission, le tuteur ou ses
 héritiers s'il est décédé remettent une copie des cinq derniers comptes de

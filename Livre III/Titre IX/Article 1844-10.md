@@ -1,7 +1,7 @@
 Article 1844-10
 ----
 La nullité de la société ne peut résulter que de la violation des dispositions
-des articles 1832, 1832-1, alinéa 1er, et 1833, ou de l'une des causes de
+des articles [1832](/Livre III/Titre IX/Article 1832.md), [1832-1](/Livre III/Titre IX/Article 1832-1.md), alinéa 1er, et [1833](/Livre III/Titre IX/Article 1833.md), ou de l'une des causes de
 nullité des contrats en général.
 
 Toute clause statutaire contraire à une disposition impérative du présent titre

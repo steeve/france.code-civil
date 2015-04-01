@@ -5,5 +5,5 @@ droit à la chose léguée, droit transmissible à ses héritiers ou ayants caus
 
 Néanmoins le légataire particulier ne pourra se mettre en possession de la chose
 léguée, ni en prétendre les fruits ou intérêts, qu'à compter du jour de sa
-demande en délivrance, formée suivant l'ordre établi par l'article 1011, ou du
+demande en délivrance, formée suivant l'ordre établi par l'article [1011](/Livre III/Titre II/Article 1011.md), ou du
 jour auquel cette délivrance lui aurait été volontairement consentie.

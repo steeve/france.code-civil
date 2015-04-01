@@ -10,6 +10,6 @@ Il peut aussi accorder à l'un des époux ou aux deux une avance sur sa part de
 communauté ou de biens indivis.
 
 Si le projet de liquidation du régime matrimonial établi par le notaire désigné
-sur le fondement du 10° de l'article 255 contient des informations suffisantes,
+sur le fondement du [10](/Livre Ier/Titre Ier/Article 10.md)° de l'article [255](/Livre Ier/Titre VI/Article 255.md) contient des informations suffisantes,
 le juge, à la demande de l'un ou l'autre des époux, statue sur les désaccords
 persistant entre eux.

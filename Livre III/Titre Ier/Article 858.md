@@ -1,7 +1,7 @@
 Article 858
 ----
 Le rapport se fait en moins prenant, sauf dans le cas du deuxième alinéa de
-l'article 845.
+l'article [845](/Livre III/Titre Ier/Article 845.md).
 
 Il ne peut être exigé en nature, sauf stipulation contraire de l'acte de
 donation.

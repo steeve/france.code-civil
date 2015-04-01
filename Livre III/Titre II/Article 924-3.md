@@ -6,7 +6,7 @@ faire l'objet d'une attribution préférentielle, des délais peuvent être acco
 par le tribunal, compte tenu des intérêts en présence, s'ils ne l'ont pas été
 par le disposant. L'octroi de ces délais ne peut, en aucun cas, avoir pour effet
 de différer le paiement de l'indemnité au-delà de dix années à compter de
-l'ouverture de la succession. Les dispositions de l'article 828 sont alors
+l'ouverture de la succession. Les dispositions de l'article [828](/Livre III/Titre Ier/Article 828.md) sont alors
 applicables au paiement des sommes dues.
 
 A défaut de convention ou de stipulation contraire, ces sommes sont productives

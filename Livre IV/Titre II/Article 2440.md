@@ -5,4 +5,4 @@ capacité à cet effet, ou en vertu d'un jugement en dernier ressort ou passé e
 force de chose jugée.
 
 La radiation s'impose au créancier qui n'a pas procédé à la publication, sous
-forme de mention en marge, prévue au quatrième alinéa de l'article 2422.
+forme de mention en marge, prévue au quatrième alinéa de l'article [2422](/Livre IV/Titre II/Article 2422.md).

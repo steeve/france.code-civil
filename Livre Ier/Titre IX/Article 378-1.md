@@ -10,7 +10,7 @@ danger la sécurité, la santé ou la moralité de l'enfant.
 Peuvent pareillement se voir retirer totalement l'autorité parentale, quand une
 mesure d'assistance éducative avait été prise à l'égard de l'enfant, les père et
 mère qui, pendant plus de deux ans, se sont volontairement abstenus d'exercer
-les droits et de remplir les devoirs que leur laissait l'article 375-7.
+les droits et de remplir les devoirs que leur laissait l'article [375-7](/Livre Ier/Titre IX/Article 375-7.md).
 
 L'action en retrait total de l'autorité parentale est portée devant le tribunal
 de grande instance, soit par le ministère public, soit par un membre de la

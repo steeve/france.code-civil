@@ -1,6 +1,6 @@
 Article 1792-2
 ----
-La présomption de responsabilité établie par l'article 1792 s'étend également
+La présomption de responsabilité établie par l'article [1792](/Livre III/Titre VIII/Article 1792.md) s'étend également
 aux dommages qui affectent la solidité des éléments d'équipement d'un ouvrage,
 mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de
 viabilité, de fondation, d'ossature, de clos ou de couvert.

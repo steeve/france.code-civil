@@ -20,7 +20,7 @@ l'opposition sur le registre d'état civil. Il mentionne également, en marge de
 l'inscription de ladite opposition, les éventuelles décisions de mainlevée dont
 expédition lui a été remise.
 
-En cas d'opposition, il ne peut, sous peine de l'amende prévue à l'article 68,
+En cas d'opposition, il ne peut, sous peine de l'amende prévue à l'article [68](/Livre Ier/Titre II/Article 68.md),
 enregistrer la reconnaissance ou la mentionner sur l'acte de naissance de
 l'enfant, sauf si une expédition de la mainlevée de l'opposition lui a été
 remise.

@@ -17,5 +17,5 @@ l'officier de l'état civil.
 
 En cas de difficulté, l'officier de l'état civil doit se rendre dans les
 établissements pour s'assurer, sur place, du décès et en dresser l'acte,
-conformément à l'article 79, sur la base des déclarations et renseignements qui
+conformément à l'article [79](/Livre Ier/Titre II/Article 79.md), sur la base des déclarations et renseignements qui
 lui sont communiqués.

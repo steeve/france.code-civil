@@ -6,7 +6,7 @@ alimentaire versée, selon le cas, par l'un des parents à l'autre, ou à la
 personne à laquelle l'enfant a été confié.
 
 Les modalités et les garanties de cette pension alimentaire sont fixées par la
-convention homologuée visée à l'article 373-2-7 ou, à défaut, par le juge. Cette
+convention homologuée visée à l'article [373-2-7](/Livre Ier/Titre IX/Article 373-2-7.md) ou, à défaut, par le juge. Cette
 convention ou, à défaut, le juge peut prévoir le versement de la pension
 alimentaire par virement bancaire ou par tout autre moyen de paiement.
 

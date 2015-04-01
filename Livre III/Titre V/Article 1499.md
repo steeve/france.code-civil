@@ -11,4 +11,4 @@ soit dans le patrimoine de l'époux au jour du mariage, soit dans l'ensemble des
 biens qui font l'objet de la succession ou libéralité.
 
 Pour l'établissement de cette proportion, la consistance et la valeur de l'actif
-se prouvent conformément à l'article 1402.
+se prouvent conformément à l'article [1402](/Livre III/Titre V/Article 1402.md).

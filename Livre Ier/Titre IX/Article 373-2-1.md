@@ -21,4 +21,4 @@ morale qualifiée.
 Le parent qui n'a pas l'exercice de l'autorité parentale conserve le droit et le
 devoir de surveiller l'entretien et l'éducation de l'enfant. Il doit être
 informé des choix importants relatifs à la vie de ce dernier. Il doit respecter
-l'obligation qui lui incombe en vertu de l'article 371-2.
+l'obligation qui lui incombe en vertu de l'article [371-2](/Livre Ier/Titre IX/Article 371-2.md).
