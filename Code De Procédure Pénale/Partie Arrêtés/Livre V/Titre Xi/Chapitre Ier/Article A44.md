@@ -1133,9 +1133,7 @@ Antenne de Lure.
 
 Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest,
 Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse,
-Saint-Sauveur, Saulx, Vauvillers et Villersexel
-
-Maison d'arrêt de Lure
+Saint-Sauveur, Saulx, Vauvillers et Villersexel.
 
 Service pénitentiaire d'insertion et de probation de Saône-et-Loire.
 
