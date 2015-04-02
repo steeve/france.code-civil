@@ -42,7 +42,7 @@ c) Soit des potentialités d'adaptation dans le cadre d'une situation de travail
 moins un an à compter du dépôt de la demande d'allocation aux adultes
 handicapés, même si la situation médicale du demandeur n'est pas stabilisée. La
 restriction substantielle et durable pour l'accès à l'emploi est reconnue pour
-une durée de un an à deux ans.
+une durée de un à cinq ans.
 
 4° Pour l'application du présent article, l'emploi auquel la personne handicapée
 pourrait accéder s'entend d'une activité professionnelle lui conférant les
