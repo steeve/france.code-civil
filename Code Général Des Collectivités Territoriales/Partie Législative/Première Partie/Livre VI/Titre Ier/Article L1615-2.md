@@ -2,7 +2,7 @@ Article L1615-2
 ----
 Les ressources destinées au Fonds de compensation pour la taxe sur la valeur
 ajoutée, visé à l'article L. 1615-1, sont réparties entre les régions, les
-départements, les communes la métropole de Lyon, leurs groupements, leurs
+départements, les communes, la métropole de Lyon, leurs groupements, leurs
 régies, les syndicats chargés de la gestion des agglomérations nouvelles, les
 services départementaux d'incendie et de secours, les centres communaux d'action
 sociale, les caisses des écoles, le Centre national de la fonction publique
