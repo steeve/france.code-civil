@@ -88,7 +88,11 @@ responsable une amende administrative d'un montant maximal de 7 500 euros ;
 Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation
 des documents exigibles par la réglementation. Ces plafonds peuvent être doublés
 en cas de nouveau manquement de même nature commis dans le délai d'un an à
-compter de la notification de la décision du préfet.
+compter de la notification de la décision du préfet ;
+
+j) Des mesures restrictives d'exploitation ou des mesures correctives ou de
+nature à compenser la non-conformité relevée, prévues au VI de l'article R.
+213-7 du code de l'aviation civile,
 
 III.-En cas de manquement aux obligations relatives au niveau de performance
 requis par la législation nationale et la réglementation de l'Union européenne
