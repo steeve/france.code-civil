@@ -83,7 +83,7 @@ dans les matières prévues au I du présent article, il le transmet pour
 information aux maires des communes intéressées dans les meilleurs délais.
 
 III. ― Les agents de police municipale recrutés en application des II et III de
-l'article L. 3642-3 ou de l' article L. 511-1 du code de la sécurité intérieure,
+l'article L. 3642-3 ou de l'article L. 511-2 du code de la sécurité intérieure,
 les agents de police municipale mis à disposition de la métropole de Lyon par
 les communes situées sur son territoire et les agents de la métropole de Lyon
 habilités et assermentés dans des conditions fixées par décret en Conseil d'Etat
