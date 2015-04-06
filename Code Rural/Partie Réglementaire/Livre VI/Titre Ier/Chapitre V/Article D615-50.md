@@ -1,31 +1,21 @@
 Article D615-50
 ----
-I.-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-45
-sont tenus de respecter les règles d'entretien des surfaces fixées dans les
-conditions définies ci-dessous.
+Avant le 31 mai de chaque année, les agriculteurs qui demandent les aides
+soumises aux règles de conditionnalité prévues par la politique agricole commune
+implantent un couvert sur leurs terres arables, en production ou gelées. Cette
+obligation est également satisfaite par la présence d'une culture.
 
-II.-Un arrêté préfectoral définit :
+Les dispositions du précédent alinéa ne sont pas applicables aux terres arables
+sur lesquelles l'obligation de maintien en jachère noire a été décidée par
+l'autorité administrative mentionnée à l'article R. 201-5 au titre de la lutte
+contre les organismes nuisibles des végétaux figurant sur la liste prévue à
+l'article D. 201-1.
 
--les modalités d'arrachage et d'entretien des oliveraies ;
+Au 31 mai de chaque année, les surfaces restées agricoles après arrachage de
+vignobles, de vergers ou de houblonnières présentent un couvert végétal,
+implanté ou spontané.
 
--les modalités d'entretien des terres boisées aidées au titre de l'aide au
-boisement des terres agricoles ou des paiements sylvo-environnementaux
-mentionnés aux articles 43 et 47 du règlement du Conseil n° 1698 / 2005 du 20
-septembre 2005 concernant le soutien au développement rural par le Fonds
-européen agricole pour le développement rural (FEADER).
-
-III.-Les règles d'entretien des terres portant des cultures annuelles,
-pluriannuelles ou pérennes correspondent aux règles fixées au titre IV par le
-règlement (CE) n° 73 / 2009 du Conseil du 19 janvier 2009 et ses règlements
-d'application, complétées par un arrêté du ministre chargé de l'agriculture.
-
-Lorsque aucune règle d'entretien spécifique n'est prévue par la réglementation
-communautaire, ces règles d'entretien sont fixées par arrêté du ministre chargé
-de l'agriculture. Les règles définies par cet arrêté peuvent être adaptées par
-le préfet en raison de particularités locales.
-
-L'arrêté préfectoral mentionné au II reprend, sous forme de liste, l'ensemble
-des règles communautaires et nationales applicables pour ces terres.
-
-En l'absence de règles communautaires ou nationales, les règles d'entretien
-applicables pour les terres correspondent aux bonnes pratiques locales.
+En cas de survenance de conditions climatiques exceptionnelles, le préfet peut,
+par décision motivée prise après avis du ministre chargé de l'agriculture,
+reporter au 15 juin de l'année considérée la date de réalisation des obligations
+mentionnées aux précédents alinéas.
