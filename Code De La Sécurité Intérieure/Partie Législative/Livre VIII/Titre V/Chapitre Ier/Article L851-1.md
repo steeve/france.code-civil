@@ -1,6 +1,6 @@
-Article L246-1
+Article L851-1.md
 ----
-Pour les finalités énumérées à l'article L. 241-2, peut être autorisé le
+Pour les finalités énumérées à l'article L. 811-3, peut être autorisé le
 recueil, auprès des opérateurs de communications électroniques et des personnes
 mentionnées à l'article L. 34-1 du code des postes et des communications
 électroniques ainsi que des personnes mentionnées aux 1 et 2 du I de l'article 6

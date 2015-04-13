@@ -1,10 +1,10 @@
-Article L246-2
+Article L851-2
 ----
-I. ― Les informations ou documents mentionnés à l'article L. 246-1 sont
-sollicités par les agents individuellement désignés et dûment habilités des
-services relevant des ministres chargés de la sécurité intérieure, de la
-défense, de l'économie et du budget, chargés des missions prévues à l'article L.
-241-2.
+I. ― Par dérogation à l’article L. 821-2, les informations ou documents
+mentionnés à l'article L. 851-1 sont sollicités par les agents individuellement
+désignés et dûment habilités des services relevant des ministres chargés de la
+sécurité intérieure, de la défense, de l'économie et du budget, chargés des
+missions prévues à l'article L. 811-3.
 
 II. ― Les demandes des agents sont motivées et soumises à la décision d'une
 personnalité qualifiée placée auprès du Premier ministre. Cette personnalité est
