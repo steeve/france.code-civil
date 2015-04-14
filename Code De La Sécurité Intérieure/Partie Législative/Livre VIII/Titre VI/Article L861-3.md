@@ -1,4 +1,4 @@
-Article L242-9
+Article L861-3
 ----
 Les opérations matérielles nécessaires à la mise en place des interceptions dans
 les locaux et installations des services ou organismes placés sous l'autorité ou
