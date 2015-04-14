@@ -29,15 +29,23 @@ demandées par le service mentionné à l'article L. 561-23.
 
 Cette dérogation ne s'applique pas à l'avocat agissant en qualité de fiduciaire.
 
-III.-Il est interdit, sous peine des sanctions prévues à l'article L. 574-1, aux
-dirigeants et aux personnes mentionnées à l'article L. 561-2, au président de
-l'ordre des avocats au Conseil d'Etat et à la Cour de cassation ou au bâtonnier
-de l'ordre auprès duquel l'avocat est inscrit de porter à la connaissance du
-propriétaire des sommes ou de l'auteur de l'une des opérations mentionnées à
-l'article L. 561-15 ou à des tiers, autres que les autorités de contrôle, ordres
-professionnels et instances représentatives nationales visées à l'article L.
-561-36, les informations provenant de l'exercice par le service mentionné à
-l'article L. 561-23 du droit de communication prévu à l'article L. 561-26.
+III.–Le service mentionné à l’article L. 561-23 peut demander à toute
+entreprise de transport terrestre, ferroviaire, maritime ou aérien ou opérateur
+de voyage ou de séjour les éléments d’identification des personnes ayant payé ou
+bénéficié d’une prestation ainsi que des éléments d’information relatifs à la
+nature de cette prestation et, s’il y a lieu, aux bagages et marchandises
+transportés.
+
+IV.-Il est interdit, sous peine des sanctions prévues à l'article L. 574-1, aux
+dirigeants et aux personnes mentionnées au III du présent article et à l'article
+L. 561-2, au président de l'ordre des avocats au Conseil d'Etat et à la Cour de
+cassation ou au bâtonnier de l'ordre auprès duquel l'avocat est inscrit de
+porter à la connaissance du propriétaire des sommes ou de l'auteur de l'une des
+opérations mentionnées à l'article L. 561-15 ou à des tiers, autres que les
+autorités de contrôle, ordres professionnels et instances représentatives
+nationales visées à l'article L. 561-36, les informations provenant de
+l'exercice par le service mentionné à l'article L. 561-23 du droit de
+communication prévu à l'article L. 561-26.
 
 Le fait pour les personnes mentionnées au 13° de l'article L. 561-2 de
 s'efforcer de dissuader leur client de prendre part à une activité illégale ne
