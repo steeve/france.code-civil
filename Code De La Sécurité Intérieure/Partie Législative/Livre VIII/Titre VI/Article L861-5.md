@@ -1,4 +1,4 @@
-Article L2371-1
+Article L861-5
 ----
 Pour l'exercice d'une mission intéressant la défense et la sécurité nationale,
 les agents des services spécialisés de renseignement peuvent, sous l'autorité de
