@@ -10,8 +10,7 @@ et L. 224-1 ;
 
 3° Le titre III ;
 
-4° Au titre IV : les articles L. 241-1 à L. 241-3, L. 242-1 à L. 242-9, L. 243-1
-à L. 243-11, L. 244-1, L. 244-2, L. 245-1 à L. 245-3 ;
+4° Abrogés ;
 
 5° Le titre V ;
 
