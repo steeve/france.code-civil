@@ -1,8 +1,8 @@
-Article L244-2
+Article L871-2
 ----
 Les juridictions compétentes pour ordonner des interceptions en application du
 code de procédure pénale ainsi que le Premier ministre ou, en ce qui concerne
-l'exécution des mesures prévues à l'article L. 241-3, le ministre de la défense
+l'exécution des mesures prévues à l'article L. 861-1, le ministre de la défense
 ou le ministre de l'intérieur peuvent recueillir, auprès des personnes physiques
 ou morales exploitant des réseaux de communications électroniques ou
 fournisseurs de services de communications électroniques, les informations ou
